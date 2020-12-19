@@ -118,6 +118,6 @@
 
 </div>
 
-<pre>{JSON.stringify(editorState, null, 2)}</pre>
-
-
+{#if showEditorState}
+  <pre>{JSON.stringify(toJSON(editorState), null, 2)}</pre>
+{/if}

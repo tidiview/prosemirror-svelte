@@ -14,37 +14,37 @@
 
   const examples = {
     "plaintext": {
-      name: '#1: Plain text',
+      name: '#0: Plain text',
       title: "Plain text editor",
       subtitle: "If you don't need rich text. Dead simple to use.",
       component: PlainTextEditor
     },
     "richtext_101": {
-      name: '#2: Rich text',
+      name: '#1: Rich text',
       title: 'Rich text 101',
       subtitle: "Relatively minimal editor setup, to get a hang of the basics.",
       component: RichTextEditor_101
     },
     "richtext_102": {
-      name: '#3: Transactions',
+      name: '#2: Transactions',
       title: 'Rich text 102: Transactions',
       subtitle: "Listening to the on-transaction event instead of on-change, e.g. to track changes to the current selection. Useful to track the state of menu buttons.",
       component: RichTextEditor_102
     },
     "richtext_103": {
-      name: "#4: Serialization",
+      name: "#3: Serialization",
       title: 'Rich text 103: JSON serialization',
       subtitle: "Serializing to and from JSON (and saving your state to local storage, just for fun).",
       component: RichTextEditor_103
     },
     "richtext_104": {
-      name: "#5: Plugins",
+      name: "#4: Plugins",
       title: 'Rich text 104: Plugins',
       subtitle: "Very basic example of how to add Prosemirror plugins to the editor",
       component: RichTextEditor_104
     },
     "richtext_105": {
-      name: "#6: Images",
+      name: "#5: Images",
       title: 'Rich text 105: Insert images',
       subtitle: "How to add images to the editor",
       component: RichTextEditor_105

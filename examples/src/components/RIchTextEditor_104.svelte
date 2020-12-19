@@ -8,7 +8,7 @@
   const html = "<p>Paste something</p>";
 
   let focusEditor;
-  /* let showEditorState = false; */
+  let showEditorState = false;
   let pasteData = null;
   let numberOfPastes = 0;
 
@@ -69,7 +69,15 @@
 
 <p>Total pastes: {numberOfPastes}</p>
 
+<p>
+  <label>Show serialized editor state
+    <input type="checkbox" bind:checked={showEditorState}/>
+  </label>
+</p>
+
+{#if showEditorState}
 <pre>{JSON.stringify(toJSON(editorState), null, 2)}</pre>
+{/if}
 
 <style>
   pre {

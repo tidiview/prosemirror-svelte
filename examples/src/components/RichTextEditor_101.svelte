@@ -15,6 +15,7 @@
 <p><b>Ctrl-Shift-1,2,3...</b> will set the block type to heading 1,2,3...</p>`;
 
   let focusEditor;
+  let showEditorState = true;
   let editorState = createRichTextEditor(html);
 
   function handleChange(event) {
@@ -56,5 +57,12 @@
   <button on:click={showText}>Show Text</button>
 </div>
 
+<p>
+  <label>Show serialized editor state
+    <input type="checkbox" bind:checked={showEditorState}/>
+  </label>
+</p>
 
+{#if showEditorState}
 <pre>{JSON.stringify(toJSON(editorState), null, 2)}</pre>
+{/if}

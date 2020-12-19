@@ -8,6 +8,7 @@
   const getEditorState = () => createMultiLineEditor("Go ahead. Edit me!");
 
   let editor, focusEditor;
+  let showEditorState = true;
   let editorState = getEditorState();
 
   const handleChange = event => {
@@ -52,4 +53,12 @@
 
 <div class="mirror">Current plain text content of the editor: "{textContent}"</div>
 
+<p>
+  <label>Show serialized editor state
+    <input type="checkbox" bind:checked={showEditorState}/>
+  </label>
+</p>
+
+{#if showEditorState}
 <pre>{JSON.stringify(toJSON(editorState), null, 2)}</pre>
+{/if}

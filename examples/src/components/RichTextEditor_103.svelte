@@ -69,4 +69,12 @@
   <button on:click={handleLoad}>Load from local storage</button>
 </div>
 
+<p>
+  <label>Show serialized editor state
+    <input type="checkbox" bind:checked={showEditorState}/>
+  </label>
+</p>
+
+{#if showEditorState}
 <pre>{JSON.stringify(toJSON(editorState), null, 2)}</pre>
+{/if}
