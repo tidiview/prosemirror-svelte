@@ -69,6 +69,4 @@
   <button on:click={handleLoad}>Load from local storage</button>
 </div>
 
-{#if showEditorState}
-  <pre>{JSON.stringify(toJSON(editorState), null, 2)}</pre>
-{/if}
+<pre>{JSON.stringify(toJSON(editorState), null, 2)}</pre>

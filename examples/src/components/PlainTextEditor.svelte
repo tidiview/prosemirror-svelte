@@ -2,7 +2,7 @@
   import { onMount } from "svelte";
 
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
-  import { createMultiLineEditor, toPlainText } from "../../../state";
+  import { createMultiLineEditor, toPlainText, toJSON } from "../../../state";
   import { clear, selectAll } from "../../../state/transform";
 
   const getEditorState = () => createMultiLineEditor("Go ahead. Edit me!");
@@ -51,3 +51,5 @@
 </div>
 
 <div class="mirror">Current plain text content of the editor: "{textContent}"</div>
+
+<pre>{JSON.stringify(toJSON(editorState), null, 2)}</pre>

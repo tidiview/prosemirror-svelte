@@ -56,8 +56,7 @@
 
 </div>
 
-
-  <pre>{JSON.stringify(toJSON(editorState), null, 2)}</pre>
+<pre>{JSON.stringify(toJSON(editorState), null, 2)}</pre>
 
 
 <style>

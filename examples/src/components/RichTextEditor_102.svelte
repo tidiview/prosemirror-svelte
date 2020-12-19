@@ -118,7 +118,6 @@
 
 </div>
 
-
-  <pre>{JSON.stringify(editorState, null, 2)}</pre>
+<pre>{JSON.stringify(editorState, null, 2)}</pre>
 
 

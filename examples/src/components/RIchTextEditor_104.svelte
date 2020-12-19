@@ -3,7 +3,7 @@
   import { Plugin, PluginKey } from 'prosemirror-state';
 
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
-  import { createRichTextEditor, clear } from "../../../state";
+  import { createRichTextEditor, clear, toJSON } from "../../../state";
 
   const html = "<p>Paste something</p>";
 
@@ -68,6 +68,8 @@
 </pre>
 
 <p>Total pastes: {numberOfPastes}</p>
+
+<pre>{JSON.stringify(toJSON(editorState), null, 2)}</pre>
 
 <style>
   pre {
