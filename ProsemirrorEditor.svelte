@@ -129,13 +129,13 @@
     font-variant-ligatures: none;
   }
 
-  :global(.ProseMirror) pre {
+  /* :global(.ProseMirror) pre {
     white-space: pre-wrap;
   }
 
   :global(.ProseMirror) li {
     position: relative;
-  }
+  } */
 
   :global(.ProseMirror-hideselection *::selection) {
     background: transparent;

@@ -8,7 +8,7 @@
   const html = "<p>Paste something</p>";
 
   let focusEditor;
-  let showEditorState = false;
+  /* let showEditorState = false; */
   let pasteData = null;
   let numberOfPastes = 0;
 

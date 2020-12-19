@@ -2,7 +2,7 @@
   import { onMount } from "svelte";
 
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
-  import { createRichTextEditor, clear, toHTML, toPlainText } from "../../../state";
+  import { createRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
 <h3>I am Rich</h3>
@@ -55,3 +55,6 @@
   <button on:click={showHtml}>Show HTML</button>
   <button on:click={showText}>Show Text</button>
 </div>
+
+
+<pre>{JSON.stringify(toJSON(editorState), null, 2)}</pre>

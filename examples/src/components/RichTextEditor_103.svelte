@@ -68,3 +68,7 @@
   <button on:click={handleSave}>Save to local storage</button>
   <button on:click={handleLoad}>Load from local storage</button>
 </div>
+
+{#if showEditorState}
+  <pre>{JSON.stringify(toJSON(editorState), null, 2)}</pre>
+{/if}

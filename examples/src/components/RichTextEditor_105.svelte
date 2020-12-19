@@ -2,7 +2,7 @@
   import { onMount } from "svelte";
 
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
-  import { createRichTextEditor, clear, insertImage } from "../../../state";
+  import { createRichTextEditor, clear, insertImage, toJSON } from "../../../state";
 
   const html = "<h3>Welcome to Prosemirror Svelte</h3><p>Feel free to <b>edit me</b>!</p>";
 
@@ -55,6 +55,10 @@
   <button style="margin-left: .5em" on:click={handleInsertImage} on:mousedown={preventDefault}>Insert image</button>
 
 </div>
+
+
+  <pre>{JSON.stringify(toJSON(editorState), null, 2)}</pre>
+
 
 <style>
   button, input {

@@ -2,7 +2,7 @@ import App from './App.svelte';
 
 const root = document.querySelector("#root");
 
-const app = new App({
+var app = new App({
   target: root,
   props: {}
 });
