@@ -10,7 +10,7 @@
   import ProsemirrorLogo from "./components/ProsemirrorLogo.svelte"
   import SvelteLogo from "./components/SvelteLogo.svelte"
 
-  let selectedExample = 'richtext_101';
+  let selectedExample = 'richtext_106';
 
   const examples = {
     "plaintext": {
@@ -47,6 +47,12 @@
       name: "#5: Images",
       title: 'Rich text 105: Insert images',
       subtitle: "How to add images to the editor",
+      component: RichTextEditor_105
+    },
+    "richtext_106": {
+      name: "#6: Extending schema to Html ruby tag",
+      title: 'Rich text 106: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag to the editor",
       component: RichTextEditor_105
     },
   }

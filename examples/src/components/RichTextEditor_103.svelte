@@ -30,7 +30,7 @@
   function handleSave() {
     try {
       localStorage.setItem('editor', JSON.stringify(toJSON(editorState)));
-      alert('Saved!')
+      alert('Saved!' + JSON.stringify(toJSON(editorState)) )
     } catch (err) {
       alert('Error saving your state:' + err.message);
     }
@@ -47,6 +47,7 @@
     try {
       editorState = fromJSON(JSON.parse(state), richTextSchema, richTextPlugins);
       focusEditor();
+      alert('Load!' + state )
     } catch (err) {
       alert('Error loading your state:' + err.message);
     }

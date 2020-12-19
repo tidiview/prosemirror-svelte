@@ -69,7 +69,7 @@ const createKeyMapConfiguration = (schema) => {
     addKey(config, "sinkListItem", "Mod-]", sinkListItem(schema.nodes.list_item));
   }
   if (!!schema.nodes.paragraph)
-    addKey(config, "setBlockTypeParagraph", "Shift-Ctrl-0", setBlockType(schema.nodes.paragraph));
+    addKey(config, "setBlockTypeParagraph", "Shift-Ctrl-p", setBlockType(schema.nodes.paragraph));
   
   if (!!schema.nodes.code_block)
     addKey(config, "setBlockTypeCode", "Shift-Ctrl-\\", setBlockType(schema.nodes.code_block));

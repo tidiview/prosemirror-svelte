@@ -11,7 +11,7 @@
 <p>You can change the format using the keyboard. E.g.: </p>
 <p><strong>Ctrl/Cmd-b</strong> will toggle text as <strong>bold</strong>.</p>
 <p><strong>Ctrl/Cmd-i</strong> will toggle text as <em>italic</em>.</p>
-<p><b>Ctrl-Shift-0</b> will set the block type to paragraph.</p>
+<p><b>Ctrl-Shift-o</b> will set the block type to paragraph.</p>
 <p><b>Ctrl-Shift-1,2,3...</b> will set the block type to heading 1,2,3...</p>`;
 
   let focusEditor;
