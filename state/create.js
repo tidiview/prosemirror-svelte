@@ -1,6 +1,6 @@
 import { EditorState, TextSelection } from "prosemirror-state";
 import { DOMParser, DOMSerializer } from "prosemirror-model";
-import { singleLineSchema, multiLineSchema, richTextSchema } from "./schemas";
+import { singleLineSchema, multiLineSchema, richTextSchema, ExtendedrichTextSchema } from "./schemas";
 import { corePlugins } from '../helpers/plugins';
 import { richTextPlugins } from "../helpers"
 
@@ -88,6 +88,32 @@ export const createRichTextEditor = (html = "", plugins = []) => {
   
   return EditorState.create({
     schema: richTextSchema,
+    doc,
+    selection,
+    plugins: [
+      ...corePlugins,
+      ...richTextPlugins,
+      ...plugins
+    ]
+  });
+}
+
+/**
+ * Create an empty editor state with EXTENDED rich text editing capabilities reconizing ruby patterns
+ * @param html {string}
+ * @param plugins {array<Plugin>}
+ * @return {EditorState}
+ */
+export const createExtendedRichTextEditor = (html = "", plugins = []) => {
+  let doc, selection;
+  
+  if (html) {
+    doc = createDocumentFromHtml(ExtendedrichTextSchema, html);
+    selection = TextSelection.atEnd(doc);
+  }
+  
+  return EditorState.create({
+    schema: ExtendedrichTextSchema,
     doc,
     selection,
     plugins: [

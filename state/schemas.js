@@ -40,3 +40,25 @@ export const richTextSchema = new Schema({
   nodes,
   marks
 });
+
+/**
+ * Schema to extend rich text, including HTML ruby tag
+ * @type {Schema}
+ */
+export const ExtendedrichTextSchema = new Schema({
+  nodes,
+  marks: {
+    ruby: {
+      toDOM() { return ["ruby", 0] },
+      parseDOM: [{tag: "ruby"}]
+    },
+    rp: {
+      toDOM() { return ["rp", 0] },
+      parseDOM: [{tag: "rp"}]
+    },
+    rt: {
+      toDOM() { return ["rt", 0] },
+      parseDOM: [{tag: "rt"}]
+    },
+  },
+});

@@ -6,6 +6,7 @@
   import RichTextEditor_103 from "./components/RichTextEditor_103.svelte";
   import RichTextEditor_104 from "./components/RichTextEditor_104.svelte";
   import RichTextEditor_105 from "./components/RichTextEditor_105.svelte";
+  import RichTextEditor_106 from "./components/RichTextEditor_106.svelte";
 
   import ProsemirrorLogo from "./components/ProsemirrorLogo.svelte"
   import SvelteLogo from "./components/SvelteLogo.svelte"
@@ -53,7 +54,7 @@
       name: "#6: Extending schema to Html ruby tag",
       title: 'Rich text 106: Extending schema',
       subtitle: "How to extend schema to parse Html ruby tag to the editor",
-      component: RichTextEditor_105
+      component: RichTextEditor_106
     },
   }
 
