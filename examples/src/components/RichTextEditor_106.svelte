@@ -2,10 +2,10 @@
   import { onMount } from "svelte";
 
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
-  import { createExtendedRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
+  import { createExtendedRichTextEditor, clear, toHTML, toPlainText, toJSON, ExtendedrichTextSchema } from "../../../state";
 
   const html = `
-  <p>洞窟の入ロには、たくさんの<ruby>罌<rp>（</rp><rt>け</rt><rp>）</rp>粟<rp>（</rp><rt>し</rt><rp>）</rp></ruby>が咲き、おびただしい草木が花をつけている。</p>`;
+  ある日、<a href="https://ja.wikipedia.org/wiki/アポローン" title="https://ja.wikipedia.org/wiki/アポローン"><ruby lang="ja">アポロン<rp>(</rp><rt lang="la">Apollōn</rt><rp>)</rp></ruby></a>の神託を伺うために<a href="https://ja.wikipedia.org/wiki/クラロス" title="https://ja.wikipedia.org/wiki/クラロス"><ruby lang="ja">クラロス<rp>(</rp><rt lang="la">Claros</rt><rp>)</rp></ruby></a>へ赴こうとしたケユクスは「どうか陸路で行ってほしい」という妻の言葉を聞き入れずに船で出かけ、<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp>時<rp>(</rp><rt>し</rt><rp>)</rp>化<rp>(</rp><rt>け</rt><rp>)</rp></ruby>に遭って海の<ruby>藻<rp>(</rp><rt>も</rt><rp>)</rp>屑<rp>(</rp><rt>くず</rt><rp>)</rp></ruby>となってしまいます。`;
 
   
 

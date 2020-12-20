@@ -1,5 +1,6 @@
 import { Schema } from 'prosemirror-model';
 import { nodes, marks } from 'prosemirror-schema-basic';
+import { null_to_empty } from 'svelte/internal';
 
 /**
  * Schema to represent a single line of plain text
@@ -46,19 +47,59 @@ export const richTextSchema = new Schema({
  * @type {Schema}
  */
 export const ExtendedrichTextSchema = new Schema({
-  nodes,
-  marks: {
+  nodes: {
+    doc: {content: "block+"},
+    paragraph: {
+      content: "inline*",
+      group: "block",
+      toDOM() { return ["p", 0] },
+      parseDOM: [{tag: "p"}]
+    },
+    rubylang: {
+      content: "(text* | leaf | pronunciationlang*)+",
+      group: "inline",
+      inline: true,
+      attrs: {lang: {default: {}}},
+      toDOM(node) { {return ["ruby", {lang: node.attrs.lang}, 0]} },
+      parseDOM: [{tag: "ruby[lang]", getAttrs(dom) { return {lang: dom.lang} }}],
+    },
     ruby: {
-      toDOM() { return ["ruby", 0] },
-      parseDOM: [{tag: "ruby"}]
+      content: "(text* | leaf | pronunciation*)+",
+      group: "inline",
+      inline: true,
+      toDOM() { {return ["ruby", 0]} },
+      parseDOM: [{tag: "ruby"}],
     },
-    rp: {
-      toDOM() { return ["rp", 0] },
-      parseDOM: [{tag: "rp"}]
+    pronunciationlang: {
+      content: "text*",
+      inline: true,
+      attrs: {lang: {default: ""}},
+      toDOM(node) { return ["rt", {lang: node.attrs.lang}, 0] },
+      parseDOM: [{tag: "rt[lang]", getAttrs(dom) { return {lang: dom.lang} }}]
     },
-    rt: {
+    pronunciation: {
+      content: "text*",
+      inline: true,
       toDOM() { return ["rt", 0] },
       parseDOM: [{tag: "rt"}]
     },
+    leaf: {
+      content: "text*",
+      inline: true,
+      isolating: true,
+      isLeaf: true,
+      toDOM() { return ["rp", 0] },
+      parseDOM: [{tag: "rp", ignore: true}]
+    },
+    text: {
+      inline: true,
+      group: "inline"
+    }
   },
+  marks/* : {
+    lang: {
+      toDOM(node) { {return ["ruby", {lang: node.attrs.lang}, 0]} },
+      parseDOM: [{tag: "ruby", getAttrs(dom) { return {lang: dom.lang} }}]
+    }
+  }, */
 });
