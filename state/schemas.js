@@ -77,30 +77,36 @@ export const ExtendedrichTextSchema = new Schema({
       toDOM() { return  ["blockquote", {class: "notices"}, 0]},
     },
     heading: {
-      attrs: {level: {default: 1}},
+      attrs: {
+        level: {default: 1},
+        id: {default: null}},
       content: "inline*",
       group: "block",
       defining: true,
-      parseDOM: [{tag: "h1", attrs: {level: 1}},
-                 {tag: "h2", attrs: {level: 2}},
-                 {tag: "h3", attrs: {level: 3}},
-                 {tag: "h4", attrs: {level: 4}},
-                 {tag: "h5", attrs: {level: 5}},
-                 {tag: "h6", attrs: {level: 6}}],
-      toDOM(node) { return ["h" + node.attrs.level, 0] }
+      parseDOM: [
+        {tag: "h1", attrs: {level: 1}, getAttrs(dom) { return {id: dom.id} }},
+        {tag: "h2", attrs: {level: 2}, getAttrs(dom) { return {id: dom.id} }},
+        {tag: "h3", attrs: {level: 3}, getAttrs(dom) { return {id: dom.id} }},
+        {tag: "h4", attrs: {level: 4}, getAttrs(dom) { return {id: dom.id} }},
+        {tag: "h5", attrs: {level: 5}, getAttrs(dom) { return {id: dom.id} }},
+        {tag: "h6", attrs: {level: 6}, getAttrs(dom) { return {id: dom.id} }}],
+      toDOM(node) { return ["h" + node.attrs.level, {id: node.attrs.id}, 0] }
     },
     noticesheading: {
-      attrs: {level: {default: 1}},
+      attrs: {
+        level: {default: 1},
+        id: {default: null}},
       content: "inline*",
       group: "block",
       defining: true,
-      parseDOM: [{tag: "div.notices h1", priority: 60, attrs: {level: 1}},
-                 {tag: "div.notices h2", priority: 60, attrs: {level: 2}},
-                 {tag: "div.notices h3", priority: 60, attrs: {level: 3}},
-                 {tag: "div.notices h4", priority: 60, attrs: {level: 4}},
-                 {tag: "div.notices h5", priority: 60, attrs: {level: 5}},
-                 {tag: "div.notices h6", priority: 60, attrs: {level: 6}}],
-      toDOM(node) { return ["h" + node.attrs.level, 0] }
+      parseDOM: [{
+        tag: "div.notices h1", priority: 60, attrs: {level: 1}, getAttrs(dom) { return {id: dom.id} }},
+        {tag: "div.notices h2", priority: 60, attrs: {level: 2}, getAttrs(dom) { return {id: dom.id} }},
+        {tag: "div.notices h3", priority: 60, attrs: {level: 3}, getAttrs(dom) { return {id: dom.id} }},
+        {tag: "div.notices h4", priority: 60, attrs: {level: 4}, getAttrs(dom) { return {id: dom.id} }},
+        {tag: "div.notices h5", priority: 60, attrs: {level: 5}, getAttrs(dom) { return {id: dom.id} }},
+        {tag: "div.notices h6", priority: 60, attrs: {level: 6}, getAttrs(dom) { return {id: dom.id} }}],
+      toDOM(node) { return ["h" + node.attrs.level, {class: "notices"}, 0] }
     },
     rubylang: {
       content: "(text* | leaf | pronunciationlang*)+",
@@ -175,6 +181,7 @@ export const ExtendedrichTextSchema = new Schema({
         usemap: {default: null},
         sizes: {default: null},
         srcset: {default: null},
+        id: {default: null},
       },
       parseDOM: [{tag: "img[src]", getAttrs(dom) {
         return {
@@ -184,9 +191,10 @@ export const ExtendedrichTextSchema = new Schema({
           usemap: dom.getAttribute("usemap"),
           sizes: dom.getAttribute("sizes"),
           srcset: dom.getAttribute("srcset"),
+          id: dom.getAttribute("id"),
         }
       }}],
-      toDOM(node) { let {src, title, alt, usemap, sizes, srcset} = node.attrs; return ["img", {src, title, alt, usemap, sizes, srcset}] },
+      toDOM(node) { let {src, title, alt, usemap, sizes, srcset, id} = node.attrs; return ["img", {src, title, alt, usemap, sizes, srcset, id}] },
     },
     figcaption: {
       content: "text*",
@@ -252,6 +260,18 @@ export const ExtendedrichTextSchema = new Schema({
         return {href: dom.getAttribute("href"), title: dom.getAttribute("title")}
       }}],
       toDOM(node) { let {href, title} = node.attrs; return ["a", {href, title}, 0] }
+    },
+    linkwithid: {
+      attrs: {
+        id: {},
+        href: {default: null},
+        title: {default: null}
+      },
+      inclusive: false,
+      parseDOM: [{tag: "a[id]", getAttrs(dom) {
+        return {id: dom.getAttribute("id"), href: dom.getAttribute("href"), title: dom.getAttribute("title")}
+      }, priority: 60}],
+      toDOM(node) { let {id, href, title} = node.attrs; return ["a", {id, href, title}, 0] }
     },
     strong: {
       parseDOM: [{tag: "strong"}],
