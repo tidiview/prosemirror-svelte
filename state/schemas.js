@@ -140,9 +140,6 @@ export const ExtendedrichTextSchema = new Schema({
       inline: true,
       group: "inline"
     },
-
-
-
     figure: {
       content: "(picture figcaption? map?)",
       group: "block",
@@ -217,25 +214,20 @@ export const ExtendedrichTextSchema = new Schema({
         alt: {default: null},
         id: {default: null},
         shape: {default: null},
-        poly: {default: null},
         coords: {default: null},
       },
-      parseDOM: [{tag: "map[href]", getAttrs(dom) {
+      parseDOM: [{tag: "area[href]", getAttrs(dom) {
         return {
           href: dom.getAttribute("href"),
           title: dom.getAttribute("title"),
           alt: dom.getAttribute("alt"),
           id: dom.getAttribute("id"),
           shape: dom.getAttribute("shape"),
-          poly: dom.getAttribute("poly"),
           coords: dom.getAttribute("coords"),
         }
       }}],
-      toDOM(node) { let {href, title, alt, id, shape, poly, coords} = node.attrs; return ["map", {href, title, alt, id, shape, poly, coords}] },
+      toDOM(node) { let {href, title, alt, id, shape,  coords} = node.attrs; return ["area", {href, title, alt, id, shape, coords}] },
     },
-
-
-
     horizontal_rule: {
       group: "block",
       parseDOM: [{tag: "hr"}],
