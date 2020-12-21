@@ -140,6 +140,102 @@ export const ExtendedrichTextSchema = new Schema({
       inline: true,
       group: "inline"
     },
+
+
+
+    figure: {
+      content: "(picture figcaption? map?)",
+      group: "block",
+      draggable: true,
+      parseDOM: [{tag: "figure"}],
+      toDOM() { {return ["figure", 0]} },
+    },
+    picture: {
+      content: "(source* image)",
+      parseDOM: [{tag: "picture"}],
+      toDOM() { {return ["picture", 0]} },
+    },
+    source: {
+      attrs: {
+        sizes: {default: null},
+        srcset: {default: null},
+        type: {default: null},
+      },
+      parseDOM: [{tag: "source", getAttrs(dom) {
+        return {
+          sizes: dom.getAttribute("sizes"),
+          srcset: dom.getAttribute("srcset"),
+          type: dom.getAttribute("type"),
+        }
+      }}],
+      toDOM(node) { let {sizes, srcset, type} = node.attrs; return ["source", {sizes, srcset, type}] },
+    },
+    image: {
+      attrs: {
+        src: {},
+        title: {default: null},
+        alt: {default: null},
+        usemap: {default: null},
+        sizes: {default: null},
+        srcset: {default: null},
+      },
+      parseDOM: [{tag: "img[src]", getAttrs(dom) {
+        return {
+          src: dom.getAttribute("src"),
+          title: dom.getAttribute("title"),
+          alt: dom.getAttribute("alt"),
+          usemap: dom.getAttribute("usemap"),
+          sizes: dom.getAttribute("sizes"),
+          srcset: dom.getAttribute("srcset"),
+        }
+      }}],
+      toDOM(node) { let {src, title, alt, usemap, sizes, srcset} = node.attrs; return ["img", {src, title, alt, usemap, sizes, srcset}] },
+    },
+    figcaption: {
+      content: "text*",
+      parseDOM: [{tag: "figcaption"}],
+      toDOM() { {return ["figcaption", 0]} },
+    },
+    map: {
+      attrs: {
+        name: {},
+        id: {default: null},
+      },
+      content: "area+",
+      parseDOM: [{tag: "map[name]", getAttrs(dom) {
+        return {
+          name: dom.getAttribute("name"),
+          id: dom.getAttribute("id"),
+        }
+      }}],
+      toDOM(node) { let {name, id} = node.attrs; return ["map", {name, id}] },
+    },
+    area: {
+      attrs: {
+        href: {default: null},
+        title: {default: null},
+        alt: {default: null},
+        id: {default: null},
+        shape: {default: null},
+        poly: {default: null},
+        coords: {default: null},
+      },
+      parseDOM: [{tag: "map[href]", getAttrs(dom) {
+        return {
+          href: dom.getAttribute("href"),
+          title: dom.getAttribute("title"),
+          alt: dom.getAttribute("alt"),
+          id: dom.getAttribute("id"),
+          shape: dom.getAttribute("shape"),
+          poly: dom.getAttribute("poly"),
+          coords: dom.getAttribute("coords"),
+        }
+      }}],
+      toDOM(node) { let {href, title, alt, id, shape, poly, coords} = node.attrs; return ["map", {href, title, alt, id, shape, poly, coords}] },
+    },
+
+
+
     horizontal_rule: {
       group: "block",
       parseDOM: [{tag: "hr"}],
