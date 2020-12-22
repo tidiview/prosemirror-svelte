@@ -52,15 +52,8 @@ export const ExtendedrichTextSchema = new Schema({
     paragraph: {
       content: "inline*",
       group: "block",
-      parseDOM: [{tag: "p"}],
+      parseDOM: [{tag: "p"},{tag: "dl dt", priority: 60}],
       toDOM() { return ["p", 0] },
-    },
-    notices: {
-      content: "inline*",
-      group: "block",
-      parseDOM: [{tag: "div.notices p", priority: 60},
-                 {tag: "div.notices dl dt", priority: 60}],
-      toDOM() { return ["p", {class: "notices"}, 0] },
     },
     blockquote: {
       content: "block+",
@@ -69,52 +62,30 @@ export const ExtendedrichTextSchema = new Schema({
       parseDOM: [{tag: "blockquote"}],
       toDOM() { return  ["blockquote", 0]},
     },
-    noticesblockquotes: {
-      content: "notices+",
-      group: "block",
-      defining: true,
-      parseDOM: [{tag: "div.notices dl dd", priority: 60}],
-      toDOM() { return  ["blockquote", {class: "notices"}, 0]},
-    },
     heading: {
-      attrs: {
-        level: {default: 1},
-        id: {default: null}},
       content: "inline*",
       group: "block",
       defining: true,
+      attrs: {
+        level: {default: 1},
+        id: {default: null}},
       parseDOM: [
-        {tag: "h1", attrs: {level: 1}, getAttrs(dom) { return {id: dom.id} }},
-        {tag: "h2", attrs: {level: 2}, getAttrs(dom) { return {id: dom.id} }},
-        {tag: "h3", attrs: {level: 3}, getAttrs(dom) { return {id: dom.id} }},
-        {tag: "h4", attrs: {level: 4}, getAttrs(dom) { return {id: dom.id} }},
-        {tag: "h5", attrs: {level: 5}, getAttrs(dom) { return {id: dom.id} }},
-        {tag: "h6", attrs: {level: 6}, getAttrs(dom) { return {id: dom.id} }}],
-      toDOM(node) { return ["h" + node.attrs.level, {id: node.attrs.id}, 0] }
-    },
-    noticesheading: {
-      attrs: {
-        level: {default: 1},
-        id: {default: null}},
-      content: "inline*",
-      group: "block",
-      defining: true,
-      parseDOM: [{
-        tag: "div.notices h1", priority: 60, attrs: {level: 1}, getAttrs(dom) { return {id: dom.id} }},
-        {tag: "div.notices h2", priority: 60, attrs: {level: 2}, getAttrs(dom) { return {id: dom.id} }},
-        {tag: "div.notices h3", priority: 60, attrs: {level: 3}, getAttrs(dom) { return {id: dom.id} }},
-        {tag: "div.notices h4", priority: 60, attrs: {level: 4}, getAttrs(dom) { return {id: dom.id} }},
-        {tag: "div.notices h5", priority: 60, attrs: {level: 5}, getAttrs(dom) { return {id: dom.id} }},
-        {tag: "div.notices h6", priority: 60, attrs: {level: 6}, getAttrs(dom) { return {id: dom.id} }}],
-      toDOM(node) { return ["h" + node.attrs.level, {class: "notices"}, 0] }
+        {tag: "h1", getAttrs(dom) { return {level: 1, id: dom.id} }},
+        {tag: "h2", getAttrs(dom) { return {level: 2, id: dom.id} }},
+        {tag: "h3", getAttrs(dom) { return {level: 3, id: dom.id} }},
+        {tag: "h4", getAttrs(dom) { return {level: 4, id: dom.id} }},
+        {tag: "h5", getAttrs(dom) { return {level: 5, id: dom.id} }},
+        {tag: "h6", getAttrs(dom) { return {level: 6, id: dom.id} }}
+      ],
+      toDOM(node) { let {level, id} = node.attrs; return id == "" ? ["h" + level, 0] : ["h" + level, {id}, 0] }
     },
     rubylang: {
       content: "(text* | leaf | pronunciationlang*)+",
       group: "inline",
       inline: true,
-      attrs: {lang: {default: {}}},
+      attrs: {lang: {default: null}},
       parseDOM: [{tag: "ruby[lang]", getAttrs(dom) { return {lang: dom.lang} }}],
-      toDOM(node) { {return ["ruby", {lang: node.attrs.lang}, 0]} },
+      toDOM(node) { let {lang} = node.attrs; return ["ruby", {lang}, 0] },
     },
     ruby: {
       content: "(text* | leaf | pronunciation*)+",
@@ -128,7 +99,7 @@ export const ExtendedrichTextSchema = new Schema({
       inline: true,
       attrs: {lang: {default: {}}},
       parseDOM: [{tag: "rt[lang]", getAttrs(dom) { return {lang: dom.lang} }}],
-      toDOM(node) { return ["rt", {lang: node.attrs.lang}, 0] },
+      toDOM(node) { let {lang} = node.attrs; return ["rt", {lang}, 0] },
     },
     pronunciation: {
       content: "text*",
@@ -148,7 +119,8 @@ export const ExtendedrichTextSchema = new Schema({
     },
     figure: {
       content: "(picture figcaption? map?)",
-      group: "block",
+      inline: true,
+      group: "inline",
       draggable: true,
       parseDOM: [{tag: "figure"}],
       toDOM() { {return ["figure", 0]} },
@@ -239,28 +211,17 @@ export const ExtendedrichTextSchema = new Schema({
     horizontal_rule: {
       group: "block",
       parseDOM: [{tag: "hr"}],
-      toDOM() { return ["hr"] }
+      toDOM() {return ["hr"]}
     },
     hard_break: {
       inline: true,
       group: "inline",
       selectable: false,
       parseDOM: [{tag: "br"}],
-      toDOM() { return ["br"]}
+      toDOM() {return ["br"]}
     }
   },
   marks: {
-    link: {
-      attrs: {
-        href: {},
-        title: {default: null}
-      },
-      inclusive: false,
-      parseDOM: [{tag: "a[href]", getAttrs(dom) {
-        return {href: dom.getAttribute("href"), title: dom.getAttribute("title")}
-      }}],
-      toDOM(node) { let {href, title} = node.attrs; return ["a", {href, title}, 0] }
-    },
     linkwithid: {
       attrs: {
         id: {},
@@ -273,20 +234,31 @@ export const ExtendedrichTextSchema = new Schema({
       }, priority: 60}],
       toDOM(node) { let {id, href, title} = node.attrs; return ["a", {id, href, title}, 0] }
     },
+    link: {
+      attrs: {
+        href: {},
+        title: {default: null}
+      },
+      inclusive: false,
+      parseDOM: [{tag: "a[href]", getAttrs(dom) {
+        return {href: dom.getAttribute("href"), title: dom.getAttribute("title")}
+      }}],
+      toDOM(node) { let {href, title} = node.attrs; return ["a", {href, title}, 0] }
+    },
     strong: {
       parseDOM: [{tag: "strong"}],
-      toDOM() { {return ["strong", 0]} },
+      toDOM() { return ["strong", 0] },
     },
     sup: {
       parseDOM: [{tag: "sup"}],
-      toDOM() { {return ["sup", 0]} },
+      toDOM() { return ["sup", 0] },
     },
     spancolor: {
       attrs: {color: {default: {}}},
       parseDOM: [{tag: "span[style]", getAttrs(dom) {
         return {color: dom.style["color"] ? dom.style["color"] : "none"}
       }}],
-      toDOM(node) { {return ["span", {"style": "color:" + node.attrs.color}, 0]} },
+      toDOM(node) { let {color} = node.attrs ;return ["span", {"style": "color:" + color}, 0] },
     },
   },
 });
