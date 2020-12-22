@@ -5,26 +5,19 @@
   import { createExtendedRichTextEditor, clear, toHTML, toPlainText, toJSON, ExtendedrichTextSchema } from "../../../state";
 
   const html = `
-<div id="body-inner">
-<h1>イリス</h1>
-<figure>
-  <picture>
-    <source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.webp 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.webp 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.webp 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.webp 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.webp 700w" type="image/webp" />
-    <img src="https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg" 
-      title="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《イリスの近づきに目覚めるモルフェ》絵画" 
-      alt="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《イリスの近づきに目覚めるモルフェ》絵画" 
-      class="class-diane-img" 
-      usemap="#iris" 
-      sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
-      srcset="https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.jpg 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.jpg 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.jpg 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.jpg 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg 700w" />
-  </picture>
-  <figcaption>眠りの神の洞窟に入るユノー女神の伝達者であるイリス</figcaption>
-  <map name="iris" id="iris">
-    <area title="イリス" alt="イリス" id="area_iris" href="#iris" shape="poly" coords="41,502,57,465,91,443,139,421,140,375,182,333,219,254,264,249,301,207,296,184,280,192,273,213,219,234,207,193,210,169,202,157,184,162,169,89,142,147,119,128,97,136,26,90,24,109,44,154,72,187,86,245,67,274,64,302,47,313,43,328,50,333,57,333,59,347,50,359,39,350,23,353,15,362,15,399,31,415,27,433,36,447,51,444,45,453,33,454,26,479,27,505" />
-    <area title="眠りの神" alt="眠りの神" id="area_morpheus" href="#morpheus" shape="poly" coords="163,554,232,532,271,529,290,541,306,597,314,602,352,566,363,549,436,537,454,521,478,515,503,497,528,509,572,496,570,480,550,475,521,475,512,463,488,453,485,429,494,417,486,403,430,379,403,380,396,391,399,432,326,393,223,375,228,396,276,422,316,429,339,443,364,472,324,458,287,459,252,466,217,457,212,465,233,482,248,500,198,523,166,528,155,541" />
-  </map>
-</figure>
-
+  <div id="body-inner">
+	<h1>イリス</h1>
+<figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.webp 280w,
+https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.webp 380w,
+https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.webp 480w,
+https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.webp 640w,
+https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.webp 700w" type="image/webp"><img src="/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg" title="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《イリスの近づきに目覚めるモルフェ》絵画" alt="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《イリスの近づきに目覚めるモルフェ》絵画" class="class-diane-img" usemap="#iris" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.jpg 280w,
+https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.jpg 380w,
+https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.jpg 480w,
+https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.jpg 640w,
+https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg 700w"></picture><figcaption>眠りの神の洞窟に入るユノー女神の伝達者であるイリス</figcaption><map name="iris" id="iris"><area title="イリス" alt="イリス" id="area_iris" href="#iris" shape="poly" coords="40,484,55,448,88,427,134,405,135,362,176,321,211,245,255,240,291,199,286,177,270,185,263,206,211,225,200,186,202,163,195,152,177,156,163,86,137,142,115,123,93,131,25,87,23,105,42,148,70,180,83,236,65,264,62,291,46,302,42,316,48,321,55,321,57,334,48,346,38,338,22,340,14,349,15,384,29,400,26,418,34,430,49,428,43,436,32,438,25,461,26,486"><area title="眠りの神" alt="眠りの神" id="area_morpheus" href="#morpheus" shape="poly" coords="157,534,223,512,261,510,280,521,295,575,303,580,339,545,350,529,421,518,438,502,461,496,485,479,509,490,552,478,549,463,531,458,502,458,494,446,471,436,468,414,477,401,468,388,414,365,388,366,382,376,384,416,314,379,215,361,220,382,266,406,305,414,327,427,351,455,312,441,277,443,243,449,209,440,205,448,225,464,239,482,191,504,160,509,149,521"></map></figure>
 <div class="notices green">
 <p><a href="https://ja.wikipedia.org/wiki/大トリアノン宮殿" title="https://ja.wikipedia.org/wiki/大トリアノン宮殿"><ruby lang="ja">大トリアノン宮殿<rp>(</rp><rt lang="fr">le&nbsp;Grand&nbsp;Trianon</rt><rp>)</rp></ruby></a>に展示されている<a href="https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス" title="https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス"><ruby lang="ja">ルネ<rp>(</rp><rt lang="fr">René</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>アントワーヌ<rp>(</rp><rt lang="fr">Antoine</rt><rp>)</rp>・<rp>(</rp><rt lang="fr"></rt><rp>)</rp>ウアス<rp>(</rp><rt lang="fr">Houasse</rt><rp>)</rp></ruby></a>が描いた「<ruby lang="ja">イリス<rp>(</rp><rt lang="fr">Iris</rt><rp>)</rp></ruby>の近づきに目覚める<ruby lang="ja">モルフェ<rp>(</rp><rt lang="fr">Morphée</rt><rp>)</rp></ruby>」絵画（イリスとモルフェともいう）が<ruby lang="ja">ルイ=フィリップの家族の間<rp>(</rp><rt lang="fr">le&nbsp;Salon&nbsp;de&nbsp;Famille&nbsp;de&nbsp;Louis-Philippe</rt><rp>)</rp></ruby>に見られます。<br>
 <a href="https://ja.wikipedia.org/wiki/オウィディウス" title="https://ja.wikipedia.org/wiki/オウィディウス"><ruby lang="ja">オウィディウス<rp>(</rp><rt lang="la">Ovidius</rt><rp>)</rp></ruby></a>が書いた「<a href="https://ja.wikipedia.org/wiki/変身物語" title="https://ja.wikipedia.org/wiki/変身物語"><ruby lang="ja">変身物語<rp>(</rp><rt lang="grc">Metamorphoseon</rt><rp>)</rp></ruby></a>」において、夫婦<a href="https://ja.wikipedia.org/wiki/ケーユクス" title="https://ja.wikipedia.org/wiki/ケーユクス"><ruby lang="ja">ケユクス<rp>(</rp><rt lang="la">Ceyx</rt><rp>)</rp></ruby></a>と<a href="https://ja.wikipedia.org/wiki/ヒュプノス" title="https://ja.wikipedia.org/wiki/ヒュプノス"><ruby lang="ja">アルキュオネ<rp>(</rp><rt lang="la">Alcyone</rt><rp>)</rp></ruby></a>の深い愛情が語られている。<br>

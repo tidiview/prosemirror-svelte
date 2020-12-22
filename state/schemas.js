@@ -52,14 +52,14 @@ export const ExtendedrichTextSchema = new Schema({
     paragraph: {
       content: "inline*",
       group: "block",
-      parseDOM: [{tag: "p"},{tag: "dl dt", priority: 60}],
+      parseDOM: [{tag: "p"},{tag: "dl dt"}],
       toDOM() { return ["p", 0] },
     },
     blockquote: {
       content: "block+",
       group: "block",
       defining: true,
-      parseDOM: [{tag: "blockquote"}],
+      parseDOM: [{tag: "blockquote"},{tag: "dd"}],
       toDOM() { return  ["blockquote", 0]},
     },
     heading: {
