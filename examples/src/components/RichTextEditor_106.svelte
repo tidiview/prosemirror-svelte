@@ -2,7 +2,7 @@
   import { onMount } from "svelte";
 
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
-  import { createExtendedRichTextEditor, clear, toHTML, toPlainText, toJSON, ExtendedrichTextSchema } from "../../../state";
+  import { createExtendedRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
   <div id="body-inner">
