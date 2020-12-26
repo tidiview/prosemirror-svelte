@@ -220,6 +220,18 @@ export const ExtendedrichTextSchema = new Schema({
       selectable: false,
       parseDOM: [{tag: "br"}],
       toDOM() {return ["br"]}
+    },
+    bullet_list: {
+      content: "list_item+",
+      group: "block",
+      parseDOM: [{tag: "ul"}],
+      toDOM() { return ["ul", 0] },
+    },
+    list_item: {
+      content: "inline*",
+      defining: true,
+      parseDOM: [{tag: "li"}],
+      toDOM() { return ["li", 0] },
     }
   },
   marks: {
