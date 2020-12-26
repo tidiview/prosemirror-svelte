@@ -111,7 +111,8 @@ export const ExtendedrichTextSchema = new Schema({
       content: "text*",
       inline: true,
       isolating: true,
-      parseDOM: [{tag: "rp", ignore: true}]
+      parseDOM: [{tag: "rp"}],
+      toDOM() { {return ["rp", 0]} },
     },
     text: {
       inline: true,
@@ -178,21 +179,21 @@ export const ExtendedrichTextSchema = new Schema({
         name: {},
         id: {default: null},
       },
-      content: "area+",
+      content: "area*",
       parseDOM: [{tag: "map[name]", getAttrs(dom) {
         return {
           name: dom.getAttribute("name"),
           id: dom.getAttribute("id"),
         }
       }}],
-      toDOM(node) { let {name, id} = node.attrs; return ["map", {name, id}] },
+      toDOM(node) { let {name, id} = node.attrs; return ["map", {name, id}, 0] },
     },
     area: {
       attrs: {
-        href: {default: null},
         title: {default: null},
         alt: {default: null},
         id: {default: null},
+        href: {},
         shape: {default: null},
         coords: {default: null},
       },
@@ -206,7 +207,7 @@ export const ExtendedrichTextSchema = new Schema({
           coords: dom.getAttribute("coords"),
         }
       }}],
-      toDOM(node) { let {href, title, alt, id, shape,  coords} = node.attrs; return ["area", {href, title, alt, id, shape, coords}] },
+      toDOM(node) { let {href, title, alt, id, shape, coords} = node.attrs; return ["area", {href, title, alt, id, shape, coords}] },
     },
     horizontal_rule: {
       group: "block",
@@ -224,9 +225,9 @@ export const ExtendedrichTextSchema = new Schema({
   marks: {
     linkwithid: {
       attrs: {
-        id: {},
         href: {default: null},
-        title: {default: null}
+        title: {default: null},
+        id: {}
       },
       inclusive: false,
       parseDOM: [{tag: "a[id]", getAttrs(dom) {
