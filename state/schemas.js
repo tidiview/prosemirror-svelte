@@ -133,18 +133,20 @@ export const ExtendedrichTextSchema = new Schema({
     },
     source: {
       attrs: {
+        media: {default: null},
         sizes: {default: null},
         srcset: {default: null},
         type: {default: null},
       },
       parseDOM: [{tag: "source", getAttrs(dom) {
         return {
+          media: dom.getAttribute("media"),
           sizes: dom.getAttribute("sizes"),
           srcset: dom.getAttribute("srcset"),
           type: dom.getAttribute("type"),
         }
       }}],
-      toDOM(node) { let {sizes, srcset, type} = node.attrs; return ["source", {sizes, srcset, type}] },
+      toDOM(node) { let {media, sizes, srcset, type} = node.attrs; return ["source", {media, sizes, srcset, type}] },
     },
     image: {
       attrs: {
@@ -170,7 +172,8 @@ export const ExtendedrichTextSchema = new Schema({
       toDOM(node) { let {src, title, alt, usemap, sizes, srcset, id} = node.attrs; return ["img", {src, title, alt, usemap, sizes, srcset, id}] },
     },
     figcaption: {
-      content: "text*",
+      content: "inline*",
+      group: "block",
       parseDOM: [{tag: "figcaption"}],
       toDOM() { {return ["figcaption", 0]} },
     },
@@ -232,7 +235,7 @@ export const ExtendedrichTextSchema = new Schema({
       defining: true,
       parseDOM: [{tag: "li"}],
       toDOM() { return ["li", 0] },
-    }
+    },
   },
   marks: {
     linkwithid: {
