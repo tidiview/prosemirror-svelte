@@ -79,41 +79,6 @@ export const ExtendedrichTextSchema = new Schema({
       ],
       toDOM(node) { let {level, id} = node.attrs; return id == "" ? ["h" + level, 0] : ["h" + level, {id}, 0] }
     },
-    rubylang: {
-      content: "(text* | leaf | pronunciationlang*)+",
-      group: "inline",
-      inline: true,
-      attrs: {lang: {default: null}},
-      parseDOM: [{tag: "ruby[lang]", getAttrs(dom) { return {lang: dom.lang} }}],
-      toDOM(node) { let {lang} = node.attrs; return ["ruby", {lang}, 0] },
-    },
-    ruby: {
-      content: "(text* | leaf | pronunciation*)+",
-      group: "inline",
-      inline: true,
-      parseDOM: [{tag: "ruby"}],
-      toDOM() { {return ["ruby", 0]} },
-    },
-    pronunciationlang: {
-      content: "text*",
-      inline: true,
-      attrs: {lang: {default: {}}},
-      parseDOM: [{tag: "rt[lang]", getAttrs(dom) { return {lang: dom.lang} }}],
-      toDOM(node) { let {lang} = node.attrs; return ["rt", {lang}, 0] },
-    },
-    pronunciation: {
-      content: "text*",
-      inline: true,
-      parseDOM: [{tag: "rt"}],
-      toDOM() { return ["rt", 0] },
-    },
-    leaf: {
-      content: "text*",
-      inline: true,
-      isolating: true,
-      parseDOM: [{tag: "rp"}],
-      toDOM() { {return ["rp", 0]} },
-    },
     text: {
       inline: true,
       group: "inline"
@@ -238,6 +203,35 @@ export const ExtendedrichTextSchema = new Schema({
     },
   },
   marks: {
+    rubylang: {
+      attrs: {
+        lang: {default: null},
+        rt: {default: null},
+        rtlang: {default: null},
+      },
+      parseDOM: [{tag: "ruby[lang]", getAttrs(dom) { const rt = dom.querySelector("rt[Lang]"); return {lang: dom.lang, rt: rt.innerHTML, rtlang: rt.lang} }}, {tag: "rp", ignore: true},{tag: "rt", ignore: true}],
+      /* toDOM: (node) => ["ruby", [ "rb", 0], [ "rt", node.attrs.rt ]], */
+      /* toDOM(node) { let {lang, rt, rtlang} = node.attrs; return "<ruby lang=''>" + node[0] + "<rt lang=''></rt></ruby>" }, */
+      toDOM(node) { let {lang, rt, rtlang} = node.attrs; return ["ruby", {lang}, ["rb", 0], ["rt", {rtlang}, rt]] },
+    },
+    ruby: {
+      parseDOM: [{tag: "ruby"}, {tag: "rp", ignore: true}],
+      toDOM() { {return ["ruby", 0]} },
+    },
+    /* rtlang: {
+      attrs: {lang: {default: {}}},
+      parseDOM: [{tag: "rt[lang]", getAttrs(dom) { return {lang: dom.lang} }}],
+      toDOM(node) { let {lang} = node.attrs; return ["rt", {lang}, 0] },
+    }, */
+    /* rt: {
+      parseDOM: [{tag: "rt"}],
+      toDOM() { return ["rt", 0] },
+    }, */
+    /* leaf: {
+      isolating: true,
+      parseDOM: [{tag: "rp", ignore: true}],
+      toDOM() { {return ["rp", 0]} },
+    }, */
     linkwithid: {
       attrs: {
         href: {default: null},
