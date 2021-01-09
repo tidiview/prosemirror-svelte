@@ -79,7 +79,7 @@ export const ExtendedrichTextSchema = new Schema({
       ],
       toDOM(node) { let {level, id} = node.attrs; return id == "" ? ["h" + level, 0] : ["h" + level, {id}, 0] }
     },
-    /* rubylang: {
+    rubylang: {
       content: "inline*",
       group: "inline",
       inline: true,
@@ -93,7 +93,7 @@ export const ExtendedrichTextSchema = new Schema({
       inline: true,
       parseDOM: [{tag: "ruby"}],
       toDOM() { return ["ruby", 0] },
-    }, */
+    },
     text: {
       inline: true,
       group: "inline"
@@ -218,22 +218,6 @@ export const ExtendedrichTextSchema = new Schema({
     },
   },
   marks: {
-    rubylang: {
-      attrs: {
-        ruby: {default: null},
-        lang: {default: null},
-        rt: {default: null},
-        rtlang: {default: null},
-      },
-      parseDOM: [{tag: "ruby[lang]", getAttrs(dom) { const ruby = dom.innerText; const rtsplit = [...ruby.split(')')]; const rtlast = rtsplit.pop(); console.log(rtsplit); var rtlength = rtsplit.length;let rtpos=""; let rttot=0 ; let rtstring=""; let rtslice="" ; let rtpostot=0; let rttotot=0; for (var i = 0; i < rtlength; i++) { console.log(rtsplit[i]); rtpos = rtsplit[i].indexOf('(') + 1 ; rttotot = rttotot + rttot; console.log(rttotot); rtpostot = rttotot + rtpos ; rttot = rtsplit[i].length+1; console.log(rtpostot); rtslice = rtsplit[i].slice(rtpos); console.log(rtpos); console.log(rttot); console.log(rtslice); rtstring = rtstring + "|" + rtpostot + "|" + rtslice; console.log(rtstring); }; console.log(ruby.length); const rt = dom.querySelector("rt[lang]"); return {ruby: ruby, lang: dom.lang, rt: rtstring, rtlang: rt.lang} }}, {tag: "rp", ignore: true},{tag: "rt", ignore: true}],
-      /* toDOM: (node) => ["ruby", [ "rb", 0], [ "rt", node.attrs.rt ]], */
-      /* toDOM(node) { let {lang, rt, rtlang} = node.attrs; return "<ruby lang=''>" + node[0] + "<rt lang=''></rt></ruby>" }, */
-      toDOM(node) { let {lang, rt, rtlang} = node.attrs; return ["ruby", {lang}, ["rb", 0], ["rt", {rtlang}, rt]] },
-    },
-    ruby: {
-      parseDOM: [{tag: "ruby"}, {tag: "rp", ignore: true}],
-      toDOM() { {return ["ruby", 0]} },
-    },
     rtlang: {
       attrs: {lang: {default: null}},
       inclusive: false,
@@ -244,11 +228,6 @@ export const ExtendedrichTextSchema = new Schema({
       inclusive: false,
       parseDOM: [{tag: "rt"}],
       toDOM() { return ["rt", 0] },
-    },
-    leaf: {
-      isolating: true,
-      parseDOM: [{tag: "rp", ignore: true}],
-      toDOM() { {return ["rp", 0]} },
     },
     linkwithid: {
       attrs: {
