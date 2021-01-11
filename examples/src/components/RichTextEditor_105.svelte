@@ -4,7 +4,9 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createRichTextEditor, clear, insertImage, toJSON } from "../../../state";
 
-  const html = "<h3>Welcome to Prosemirror Svelte</h3><p>Feel free to <b>edit me</b>!</p>";
+  const html = `
+  <h3>Welcome to Prosemirror Svelte</h3><p>Feel free to <b>edit me</b>!</p>
+  `;
 
   let src = 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60';
 

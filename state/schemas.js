@@ -107,7 +107,7 @@ export const ExtendedrichTextSchema = new Schema({
       toDOM() { {return ["figure", 0]} },
     },
     picture: {
-      content: "(source* image)",
+      content: "(source* image*)",
       parseDOM: [{tag: "picture"}],
       toDOM() { {return ["picture", 0]} },
     },
