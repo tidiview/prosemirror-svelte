@@ -598,15 +598,17 @@ export const ExtendedThreerichTextSchema = new Schema({
     paragraph: {
       content: "inline*",
       group: "block",
-      parseDOM: [{tag: "p"},{tag: "dl dt"}],
+      parseDOM: [{tag: "p"},{tag: "dl dt"},{tag: "dd"}],
       toDOM() { return ["p", 0] },
     },
     blockquote: {
       content: "block+",
       group: "block",
       defining: true,
-      parseDOM: [{tag: "blockquote"},{tag: "dd"}],
-      toDOM() { return  ["blockquote", 0]},
+      attrs: {
+        color: {default: null}},
+      parseDOM: [{tag: "blockquote"},{tag: "div.notices", getAttrs(dom) {return {color: dom.getAttribute("class").split(" ")[1]}} }],
+      toDOM(node) { let {color} = node.attrs; return color == "" ? ["blockquote", 0] : ["blockquote", {"class": color}, 0] },
     },
     heading: {
       content: "inline*",
