@@ -272,11 +272,53 @@ export const ExtendedrichTextSchema = new Schema({
 
 /**
  * Schema to extend rich text, including HTML ruby tag
- * @type {Schema}
+ * @type {Schema} INICLUDING TABLES
  */
 export const ExtendedTworichTextSchema = new Schema({
   nodes: {
-    doc: {content: "block+"},
+    doc: {content: "(block | table)+"},
+    table: {
+      content: "table_head table_body",
+      group: "table",
+      isolating: true,
+      parseDOM: [{tag: "table"}],
+      toDOM() { return ["table", 0] }
+    },
+    table_head: {
+      content: "table_row*",
+      group: "table",
+      isolating: true,
+      parseDOM: [{tag: "thead"}],
+      toDOM() { return ["thead", ["tr", 0]] }
+    },
+    table_body: {
+      content: "table_row*",
+      group: "table",
+      isolating: true,
+      parseDOM: [{tag: "tbody"}],
+      toDOM() { return ["tbody", ["tr", 0]] }
+    },
+    table_row: {
+      content: "(table_cell | table_header)*",
+      group: "table",
+      isolating: true,
+      parseDOM: [{tag: "tr"}],
+      toDOM() { return ["tr", 0] }
+    },
+    table_header: {
+      content: "inline*",
+      group: "table",
+      isolating: true,
+      parseDOM: [{tag: "th"}],
+      toDOM() { return ["th", 0] }
+    },
+    table_cell: {
+      content: "inline*",
+      group: "table",
+      isolating: true,
+      parseDOM: [{tag: "td"}],
+      toDOM() { return ["td", 0] }
+    },
     paragraph: {
       content: "inline*",
       group: "block",
@@ -325,6 +367,15 @@ export const ExtendedTworichTextSchema = new Schema({
     text: {
       inline: true,
       group: "inline"
+    },
+    figureText: {
+      content: "inline*",
+      inline: true,
+      attrs: {id: {default: null}},
+      group: "inline",
+      draggable: true,
+      parseDOM: [{tag: "figure[id]", getAttrs(dom) { return {id: dom.id} }}],
+      toDOM(node) { { let {id} = node.attrs; return ["p", {id}, 0]} },
     },
     figure: {
       content: "(picture figcaption? map?)",
