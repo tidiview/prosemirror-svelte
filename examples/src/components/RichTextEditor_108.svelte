@@ -2,7 +2,7 @@
   import { onMount } from "svelte";
 
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
-  import { createExtendedTwoRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
+  import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
   <div class="list-blog-header">
@@ -119,7 +119,7 @@
 
   let focusEditor;
   let showEditorState = true;
-  let editorState = createExtendedTwoRichTextEditor(html);
+  let editorState = createExtendedThreeRichTextEditor(html);
 
   function handleChange(event) {
     editorState = event.detail.editorState;
@@ -131,7 +131,7 @@
   }
 
   function resetEditor(event) {
-    editorState = createExtendedTwoRichTextEditor(html);
+    editorState = createExtendedThreeRichTextEditor(html);
     focusEditor();
   }
 
