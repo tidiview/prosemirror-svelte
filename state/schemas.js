@@ -666,7 +666,7 @@ export const ExtendedThreerichTextSchema = new Schema({
         srcset: {default: null},
         type: {default: null},
       },
-      parseDOM: [{tag: "source", getAttrs(dom) {
+      parseDOM: [{tag: "picture source", getAttrs(dom) {
         return {
           media: dom.getAttribute("media"),
           sizes: dom.getAttribute("sizes"),
@@ -739,6 +739,28 @@ export const ExtendedThreerichTextSchema = new Schema({
         }
       }}],
       toDOM(node) { let {href, title, alt, id, shape, coords} = node.attrs; return ["area", {href, title, alt, id, shape, coords}] },
+    },
+    audio: {
+      content: "audiosource*",
+      group: "inline",
+      inline: true,
+      draggable: true,
+      attrs: {title: {default: null}, alt: {default: null}, controls: {default: null}},
+      parseDOM: [{tag: "audio", getAttrs(dom) { return {title: dom.title, alt: dom.title, controls: dom.controls} }}],
+      toDOM(node) { { let {title, alt, controls} = node.attrs; return ["audio", {title, alt, controls}, 0]} },
+    },
+    audiosource: {
+      attrs: {
+        src: {default: null},
+        type: {default: null},
+      },
+      parseDOM: [{tag: "audio source", getAttrs(dom) {
+        return {
+          src: dom.getAttribute("src"),
+          type: dom.getAttribute("type"),
+        }
+      }}],
+      toDOM(node) { let {src, type} = node.attrs; return ["source", {src, type}] }
     },
     horizontal_rule: {
       group: "block",

@@ -40,11 +40,12 @@
   import RichTextEditor_137 from "./components/RichTextEditor_137.svelte";
   import RichTextEditor_138 from "./components/RichTextEditor_138.svelte";
   import RichTextEditor_139 from "./components/RichTextEditor_139.svelte";
+  import RichTextEditor_140 from "./components/RichTextEditor_140.svelte";
 
   import ProsemirrorLogo from "./components/ProsemirrorLogo.svelte"
   import SvelteLogo from "./components/SvelteLogo.svelte"
 
-  let selectedExample = 'richtext_139';
+  let selectedExample = 'richtext_140';
 
   const examples = {
     "plaintext": {
@@ -286,6 +287,12 @@
       title: 'Rich text 139: Extending schema',
       subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
       component: RichTextEditor_139
+    },
+    "richtext_140": {
+      name: "#40: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 140: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_140
     },
   }
 
