@@ -678,7 +678,7 @@ export const ExtendedThreerichTextSchema = new Schema({
     },
     image: {
       attrs: {
-        src: {},
+        src: {default: null},
         title: {default: null},
         alt: {default: null},
         usemap: {default: null},
@@ -801,7 +801,7 @@ export const ExtendedThreerichTextSchema = new Schema({
       toDOM(node) { let {href, title} = node.attrs; return ["a", {href, title}, 0] }
     },
     strong: {
-      parseDOM: [{tag: "strong"}],
+      parseDOM: [{tag: "strong"}, {tag: "b"}],
       toDOM() { return ["strong", 0] },
     },
     sup: {

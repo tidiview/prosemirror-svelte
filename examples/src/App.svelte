@@ -9,11 +9,42 @@
   import RichTextEditor_106 from "./components/RichTextEditor_106.svelte";
   import RichTextEditor_107 from "./components/RichTextEditor_107.svelte";
   import RichTextEditor_108 from "./components/RichTextEditor_108.svelte";
+  import RichTextEditor_109 from "./components/RichTextEditor_109.svelte";
+  import RichTextEditor_110 from "./components/RichTextEditor_110.svelte";
+  import RichTextEditor_111 from "./components/RichTextEditor_111.svelte";
+  import RichTextEditor_112 from "./components/RichTextEditor_112.svelte";
+  import RichTextEditor_113 from "./components/RichTextEditor_113.svelte";
+  import RichTextEditor_114 from "./components/RichTextEditor_114.svelte";
+  import RichTextEditor_115 from "./components/RichTextEditor_115.svelte";
+  import RichTextEditor_116 from "./components/RichTextEditor_116.svelte";
+  import RichTextEditor_117 from "./components/RichTextEditor_117.svelte";
+  import RichTextEditor_118 from "./components/RichTextEditor_118.svelte";
+  import RichTextEditor_119 from "./components/RichTextEditor_119.svelte";
+  import RichTextEditor_120 from "./components/RichTextEditor_120.svelte";
+  import RichTextEditor_121 from "./components/RichTextEditor_121.svelte";
+  import RichTextEditor_122 from "./components/RichTextEditor_122.svelte";
+  import RichTextEditor_123 from "./components/RichTextEditor_123.svelte";
+  import RichTextEditor_124 from "./components/RichTextEditor_124.svelte";
+  import RichTextEditor_125 from "./components/RichTextEditor_125.svelte";
+  import RichTextEditor_126 from "./components/RichTextEditor_126.svelte";
+  import RichTextEditor_127 from "./components/RichTextEditor_127.svelte";
+  import RichTextEditor_128 from "./components/RichTextEditor_128.svelte";
+  import RichTextEditor_129 from "./components/RichTextEditor_129.svelte";
+  import RichTextEditor_130 from "./components/RichTextEditor_130.svelte";
+  import RichTextEditor_131 from "./components/RichTextEditor_131.svelte";
+  import RichTextEditor_132 from "./components/RichTextEditor_132.svelte";
+  import RichTextEditor_133 from "./components/RichTextEditor_133.svelte";
+  import RichTextEditor_134 from "./components/RichTextEditor_134.svelte";
+  import RichTextEditor_135 from "./components/RichTextEditor_135.svelte";
+  import RichTextEditor_136 from "./components/RichTextEditor_136.svelte";
+  import RichTextEditor_137 from "./components/RichTextEditor_137.svelte";
+  import RichTextEditor_138 from "./components/RichTextEditor_138.svelte";
+  import RichTextEditor_139 from "./components/RichTextEditor_139.svelte";
 
   import ProsemirrorLogo from "./components/ProsemirrorLogo.svelte"
   import SvelteLogo from "./components/SvelteLogo.svelte"
 
-  let selectedExample = 'richtext_108';
+  let selectedExample = 'richtext_139';
 
   const examples = {
     "plaintext": {
@@ -67,8 +98,194 @@
     "richtext_108": {
       name: "#8: Extending schema to Html ruby tag, tables, coloured blockquotes",
       title: 'Rich text 108: Extending schema',
-      subtitle: "How to extend schema to parse Html ruby tag and tables to the editor",
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor and coloured tables",
       component: RichTextEditor_108
+    },
+    "richtext_109": {
+      name: "#9: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 109: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_109
+    },
+    "richtext_110": {
+      name: "#10: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 110: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_110
+    },
+    "richtext_111": {
+      name: "#11: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 111: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_111
+    },
+    "richtext_112": {
+      name: "#12: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 112: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_112
+    },
+    "richtext_113": {
+      name: "#13: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 113: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_113
+    },
+    "richtext_114": {
+      name: "#14: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 114: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_114
+    },
+    "richtext_115": {
+      name: "#15: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 115: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_115
+    },
+    "richtext_116": {
+      name: "#16: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 116: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_116
+    },
+    "richtext_117": {
+      name: "#17: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 117: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_117
+    },
+    "richtext_118": {
+      name: "#18: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 118: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_118
+    },
+    "richtext_119": {
+      name: "#19: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 119: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_119
+    },
+    "richtext_120": {
+      name: "#20: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 120: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_120
+    },
+    "richtext_121": {
+      name: "#21: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 121: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_121
+    },
+    "richtext_122": {
+      name: "#22: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 122: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_122
+    },
+    "richtext_123": {
+      name: "#23: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 123: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_123
+    },
+    "richtext_124": {
+      name: "#24: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 124: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_124
+    },
+    "richtext_125": {
+      name: "#25: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 125: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_125
+    },
+    "richtext_126": {
+      name: "#26: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 126: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_126
+    },
+    "richtext_127": {
+      name: "#27: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 127: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_127
+    },
+    "richtext_128": {
+      name: "#28: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 128: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_128
+    },
+    "richtext_129": {
+      name: "#29: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 129: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_129
+    },
+    "richtext_130": {
+      name: "#30: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 130: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_130
+    },
+    "richtext_131": {
+      name: "#31: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 131: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_131
+    },
+    "richtext_132": {
+      name: "#32: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 132: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_132
+    },
+    "richtext_133": {
+      name: "#33: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 133: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_133
+    },
+    "richtext_134": {
+      name: "#34: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 134: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_134
+    },
+    "richtext_135": {
+      name: "#35: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 135: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_135
+    },
+    "richtext_136": {
+      name: "#36: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 136: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_136
+    },
+    "richtext_137": {
+      name: "#37: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 137: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_137
+    },
+    "richtext_138": {
+      name: "#38: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 138: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_138
+    },
+    "richtext_139": {
+      name: "#39: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 139: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_139
     },
   }
 
