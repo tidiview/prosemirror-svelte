@@ -563,7 +563,7 @@ export const ExtendedThreerichTextSchema = new Schema({
       group: "table",
       isolating: true,
       parseDOM: [{tag: "thead"}],
-      toDOM() { return ["thead", ["tr", 0]] }
+      toDOM() { return ["thead", {style: "display:none"}, ["tr", 0]] }
     },
     table_body: {
       content: "table_row*",

@@ -73,11 +73,9 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 </ul></li>
 </ol>
 </div>
-<p>
 </div>
 
 <div id="body-inner">
-				</p>
 <h2 id="presentation-photographique" class="orange">展示空間での作品の写真的紹介</h2>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-280.webp 280w,
@@ -132,11 +130,9 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-1920.jpg 1920w"></picture><figcaption>聖ヨハネ施療院の教会の後陣から三連画前の景観</figcaption></figure>
-<p>
 </div>
 
 <div id="body-inner">
-				</p>
 <div class="notices yellow">
 <h3 id="de-vos" class="orange">ディルク・ド・ヴォスの本:</h3>
 <ul>
@@ -446,11 +442,9 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-640.jpg 640w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-840.jpg 840w"></picture><figcaption>塔の組み合わせ模様を通して、ガラス製の柱が覗けられて、その中に薄く一個の聖体が表されている</figcaption></figure>
 <p><span style="color: #e6a64d;">聖体</span>は聖人としての表像の一つでもある。パネルの他の部分との<span style="color: #e6a64d;">「聖なる会話」</span>という形を示している繋がりの一つでもある。</p>
-<p>
 </div>
 
 <div id="body-inner">
-				</p>
 <div class="footnotes">
 <hr />
 <ol>
@@ -612,11 +606,9 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <p>赤と茶色を混ぜた６本の円柱がタイル上の半円に配置され、その外側で２つ目の暗いグレー色の付け柱が２重の半円形に並んでいる。
 その底面が地面に多角形を示す舗装の境界線で結ばれている。<br>
 円柱の間の縦々の隙間は、<span style="color: #e6a64d;">視覚的に連続的な跡蹟と建物のある</span>、無限な、地平線ともなっている遠景に開放である景色と繋がっている。</p>
-<p>
 </div>
 
 <div id="body-inner">
-				</p>
 <h3>註釈</h3>
 <h4 id="note-devotion-moderne">新しき信心</h4>
 <div class="notices yellow">
@@ -733,11 +725,9 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、クレーン広場と聖ヨハネ教会の景観</figcaption></figure>
 <p><span style="color: #e6a64d;">病院の２人の兄弟たち</span>がこうしてブルージュに着く諭入された<span style="color: #e6a64d;">ボルドーワインを測定する</span>ことで表わされている。<br>
 私たちに１３００年ごろに病院が市に<span style="color: #e6a64d;">市の特権</span>、自分の収入の源でもあった<span style="color: #e6a64d;">「計量する権」</span>を任せられて来たことを思い出させてくれている。</p>
-<p>
 </div>
 
 <div id="body-inner">
-				</p>
 <div class="footnotes">
 <hr />
 <ol>
@@ -935,11 +925,9 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、《ヘロデ・アンティパスの命令による洗礼者ヨハネの逮捕》</figcaption></figure>
 <p>中央パネルでは、メムリンクがこの場面を白羊の上に、<span style="color: #e6a64d;">ヨハネ</span>が強制的に古代ギリシャの語源は「剣」という意味と、現代のヨルダン国に位置付けられているの現代<ruby lang="ja" style="color:#e6a64d;">マシェロント<rp>(</rp><rt lang="grc" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">μάχαιρα</rt><rp>)</rp></ruby> <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref">3</a></sup> の牢へ向かって左の翼パネルへ<span style="color: #e6a64d;">連れて行かれている</span>。</p>
-<p>
 </div>
 
 <div id="body-inner">
-				</p>
 <div class="footnotes">
 <hr />
 <ol>
@@ -1274,11 +1262,9 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <sup>第６章</sup><br>
 <sup>０１</sup>
 また、わたしが見ていると、小羊が七つの封印の一つを開いた。すると、四つの生き物の一つが、雷のような声で「出て来い」と言うのを、わたしは聞いた。</p>
-<p>
 </div>
 
 <div id="body-inner">
-				</p>
 <h3>註釈</h3>
 <h4 id="note-apocalypse">黙示録</h4>
 <div class="notices yellow">
@@ -2616,11 +2602,9 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <p>この三人のうち、年代記によると、マクセンティウスは、ローマでキリスト教徒を迫害し、マクシミヌスは、東方で暴虐をほしいままにしたという。</p>
 <p>だとすると、<span style="color: #df8f20;">聖カテリナ</span>を殉教に追いやったのはマクシミヌスであって、これをマクセンティウスとしたのは写本家のミスであるとする説が正しいのであろう。
 <span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"/></svg></span></p>
-<p>
 </div>
 
 <div id="body-inner">
-				</p>
 <h3 id="note_artsliberaux" class="orange">七学芸</h3>
 <div class="notices yellow">
 <p>中世の中等、高等程度の学校では、神学以外に一般教養科目として七教養学が課せられ、これは、三学（文法、修辞、弁護法）と四学（算術、幾何、天文、数学）から成っていた。<br>
@@ -3371,11 +3355,9 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 裁判官たちは彼を放裁させて、
 自由に戻った兵士が、<span style="color: #994c3d;">聖バルバラ</span>の奉仕する日々を終えた。
 弁護士となった無名の男の人が彼が誰であるか知らないままに消えた。</p>
-<p>
 </div>
 
 <div id="body-inner">
-				</p>
 <h3 id="note_nicomedie" class="orange">ニコメディア</h3>
 <div class="notices yellow">
 <p><a href="https://ja.wikipedia.org/wiki/ニコメディア" title="https://ja.wikipedia.org/wiki/ニコメディア"><ruby lang="ja">ニコメディア<rp>(</rp><rt lang="grc">Νικομήδεια</rt><rp>)</rp></ruby lang="ja"></a>は、<a href="https://ja.wikipedia.org/wiki/ビテュニア" title="https://ja.wikipedia.org/wiki/ビテュニア">ビチニア王国</a>の首都、小アジアの都市です。 今はトルコにあり、<ruby lang="ja">イズミット<rp>(</rp><rt lang="tr">İzmit</rt><rp>)</rp></ruby lang="ja">と呼ばれている。 それは、<a href="https://ja.wikipedia.org/wiki/ディオクレティアヌス" title="https://ja.wikipedia.org/wiki/ディオクレティアヌス">ディオクレティアヌス</a>と<a href="https://ja.wikipedia.org/wiki/コンスタンティヌス1世" title="https://ja.wikipedia.org/wiki/コンスタンティヌス1世">コンスタンティヌス</a>の首都だった。<br>
@@ -3856,11 +3838,9 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 </table>
 <p>アリストデムスは、言われたとおりにした。すると、死者たちは、息を吹きかえした。<br>
 こうして、アリストデムスも、代理執政官も、一家総ぐるみキリスト教を信仰するようになった。<span style="color: #994c3d;">ヨハネ</span>は、彼らにキリストの御名において洗礼をさずけた。彼らは、教会を建てて、使徒にささげた。</p>
-<p>
 </div>
 
 <div id="body-inner">
-				</p>
 <h2 id="notes" class="orange">　註釈</h2>
 <h3 id="note_nomdejean" class="orange">ヨハネの名</h3>
 <div class="notices yellow">
