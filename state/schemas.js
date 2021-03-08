@@ -774,13 +774,19 @@ export const ExtendedThreerichTextSchema = new Schema({
       parseDOM: [{tag: "br"}],
       toDOM() {return ["br"]}
     },
-    bullet_list: {
-      content: "list_item+",
+    ol: {
+      content: "li+",
+      group: "block",
+      parseDOM: [{tag: "ol"}],
+      toDOM() { return ["ol", 0] },
+    },
+    ul: {
+      content: "li+",
       group: "block",
       parseDOM: [{tag: "ul"}],
       toDOM() { return ["ul", 0] },
     },
-    list_item: {
+    li: {
       content: "inline*",
       defining: true,
       parseDOM: [{tag: "li"}],
