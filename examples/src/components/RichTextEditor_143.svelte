@@ -74,7 +74,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 </ol>
 </div>
 </div>
-
+<hr>
 <div id="body-inner">
 <h2 id="presentation-photographique" class="orange">展示空間での作品の写真的紹介</h2>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -131,6 +131,8 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-1920.jpg 1920w"></picture><figcaption>聖ヨハネ施療院の教会の後陣から三連画前の景観</figcaption></figure>
 </div>
+
+<hr>
 
 <div id="body-inner">
 <div class="notices yellow">
@@ -228,7 +230,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <a href="#renvoi-note-1" title="註釈の元へ">↑ 文書に戻る</a></p>
 </div>
 
-<!-- Page 2 -->
+<!-- Page 2 --><hr>
 
 <div id="body-inner">
 				<figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -307,7 +309,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/enfant-jesus-1920.jpg 1920w"></picture><figcaption>中央パネルの拡大、《幼子イエス》</figcaption></figure>
 </div>
 
-<!-- Page 3 -->
+<!-- Page 3 --><hr>
 
 <div id="body-inner">
 				<p>殉教の道具である<span style="color: #e6a64d;">剣</span>と<span style="color: #e6a64d;">壊れた車輪</span>があるので彼女は、<a href="https://ja.wikipedia.org/wiki/アレクサンドリアのカタリナ" title="https://ja.wikipedia.org/wiki/アレクサンドリアのカタリナ" class="orange">アレクサンドリアのカタリナ</a>です。</p>
@@ -393,7 +395,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <p>三連画の内側の全面に二人のヨハネの伝説を語る数多くの詳細な描写により、彼らが<span style="color: #e6a64d;">主人公</span>に見えるようになっています。
 二人とも<span style="color: #e6a64d;">「ヨハネ」</span>と呼ばれているのも<span style="color: #e6a64d;">出資施設</span>である「<span style="color: #e6a64d;">ブルージュの聖<span style="text-decoration: underline;">ヨハネ</span>施療院</span>」に由来しており、<span style="color: #e6a64d;">「洗礼者ヨハネと福音書記者ヨハネの三連画」</span>である現代の公の呼称をも裏付けています。</p>
 <p>「ヨハネ」という名前の語源がヘブライ語の<span style="color: #e6a64d;">「</span><ruby lang="ja" style="color:#e6a64d;">ヨ<rp>(</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">יו</rt><rp>)</rp>ハ<rp>(</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ח</rt><rp>)</rp>ナン<rp>(</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">נן</rt><rp>)</rp></ruby><span style="color: #e6a64d;">」</span>から来ています。発音は、
-<div style="text-align: center;"><audio controls="1" title="prononciation de Yokhanan en hébreu" alt="ここ"><source src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/prononciation-yokhanan.mp3">Your browser does not support the audio tag.</audio></div><br>
+<div style="text-align: center;"><audio controls="1" title="ヘブライ語での「ヨハナン」の発音" alt="ヘブライ語での「ヨハナン」の発音"><source src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/prononciation-yokhanan.mp3" type="audio/mpeg">あなたのブラウザーは <code>audio</code> 要素に対応していません。</audio></div><br>
 であって、文字通りに<span style="color: #e6a64d;">「</span><ruby lang="ja" style="color:#e6a64d;">神<rp>(</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ヨ</rt><rp>)</rp></ruby><span style="color: #e6a64d;">」</span>が<span style="color: #e6a64d;">「</span><ruby lang="ja" style="color:#e6a64d;">恵<rp>(</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ハナン</rt><rp>)</rp></ruby><span style="color: #e6a64d;">」</span>か<span style="color: #e6a64d;">「</span><ruby lang="ja" style="color:#e6a64d;">慈悲<rp>(</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ハナン</rt><rp>)</rp></ruby><span style="color: #e6a64d;">」</span>。
 同時にヘブライ語では、「神」は「存在しているもの」という意味をも持っているから、<span style="color: #e6a64d;">「恵」</span>か<span style="color: #e6a64d;">「慈悲」</span>が<span style="color: #e6a64d;">「宿るもの」</span>という意味になります。<br>
 <span style="color: #e6a64d;">この名前</span>がヘブライの民の歴史のあまり知られていない他の人物の名前として知られているとしても、とても<span style="color: #e6a64d;">人気</span>と<span style="color: #e6a64d;">なった</span>のはキリスト教が芽生えた後、<span style="color: #e6a64d;">キリスト教界</span>での二人が果したとても大切な役割からです。これらの役割をこれから細かく語ります。</p>

@@ -796,6 +796,11 @@ export const ExtendedThreerichTextSchema = new Schema({
       parseDOM: [{tag: "pre"}],
       toDOM() { return ["pre", 0] },
     },
+    code: {
+      content: "inline*",
+      parseDOM: [{tag: "code"}],
+      toDOM() { return ["code", 0] },
+    },
   },
   marks: {
     rtlang: {
