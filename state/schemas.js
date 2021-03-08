@@ -787,10 +787,14 @@ export const ExtendedThreerichTextSchema = new Schema({
       toDOM() { return ["ul", 0] },
     },
     li: {
-      content: "block*",
-      defining: true,
+      content: "(block | pre)* ",
       parseDOM: [{tag: "li"}],
       toDOM() { return ["li", 0] },
+    },
+    pre: {
+      content: "table*",
+      parseDOM: [{tag: "pre"}],
+      toDOM() { return ["pre", 0] },
     },
   },
   marks: {
