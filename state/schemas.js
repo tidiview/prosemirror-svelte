@@ -787,7 +787,7 @@ export const ExtendedThreerichTextSchema = new Schema({
       toDOM() { return ["ul", 0] },
     },
     li: {
-      content: "inline*",
+      content: "block*",
       defining: true,
       parseDOM: [{tag: "li"}],
       toDOM() { return ["li", 0] },
