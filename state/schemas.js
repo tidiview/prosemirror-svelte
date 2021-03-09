@@ -853,7 +853,7 @@ export const ExtendedThreerichTextSchema = new Schema({
       toDOM() { return ["sup", 0] },
     },
     spancolor: {
-      attrs: {color: {default: {}}},
+      attrs: {color: {default: null}},
       parseDOM: [{tag: "span[style]", getAttrs(dom) {
         return {color: dom.style["color"] ? dom.style["color"] : "none"}
       }}],
