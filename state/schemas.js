@@ -616,16 +616,17 @@ export const ExtendedThreerichTextSchema = new Schema({
       defining: true,
       attrs: {
         level: {default: 1},
-        id: {default: null}},
+        id: {default: null},
+        color: {default: null}},
       parseDOM: [
-        {tag: "h1", getAttrs(dom) { return {level: 1, id: dom.id} }},
-        {tag: "h2", getAttrs(dom) { return {level: 2, id: dom.id} }},
-        {tag: "h3", getAttrs(dom) { return {level: 3, id: dom.id} }},
-        {tag: "h4", getAttrs(dom) { return {level: 4, id: dom.id} }},
-        {tag: "h5", getAttrs(dom) { return {level: 5, id: dom.id} }},
-        {tag: "h6", getAttrs(dom) { return {level: 6, id: dom.id} }}
+        {tag: "h1", getAttrs(dom) { return {level: 1, id: dom.id, color: dom.getAttribute("class")} }},
+        {tag: "h2", getAttrs(dom) { return {level: 2, id: dom.id, color: dom.getAttribute("class")} }},
+        {tag: "h3", getAttrs(dom) { return {level: 3, id: dom.id, color: dom.getAttribute("class")} }},
+        {tag: "h4", getAttrs(dom) { return {level: 4, id: dom.id, color: dom.getAttribute("class")} }},
+        {tag: "h5", getAttrs(dom) { return {level: 5, id: dom.id, color: dom.getAttribute("class")} }},
+        {tag: "h6", getAttrs(dom) { return {level: 6, id: dom.id, color: dom.getAttribute("class")} }}
       ],
-      toDOM(node) { let {level, id} = node.attrs; return id == "" ? ["h" + level, 0] : ["h" + level, {id}, 0] }
+      toDOM(node) { let {level, id, color} = node.attrs; return id == "" ? ["h" + level, 0] : color == "" ? ["h" + level, {id}, 0] : ["h" + level, {"class": color, id}, 0] }
     },
     rubylang: {
       content: "inline*",
