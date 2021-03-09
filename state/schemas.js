@@ -628,20 +628,13 @@ export const ExtendedThreerichTextSchema = new Schema({
       ],
       toDOM(node) { let {level, id, color} = node.attrs; return id == "" ? ["h" + level, 0] : color == "" ? ["h" + level, {id}, 0] : ["h" + level, {"class": color, id}, 0] }
     },
-    rubylang: {
-      content: "inline*",
-      group: "inline",
-      inline: true,
-      attrs: {lang: {default: null}},
-      parseDOM: [{tag: "ruby[lang]", getAttrs(dom) { return {lang: dom.lang} }}, {tag: "rp", ignore: true}],
-      toDOM(node) { let {lang} = node.attrs; return ["ruby", {lang}, 0] },
-    },
     ruby: {
       content: "inline*",
       group: "inline",
       inline: true,
-      parseDOM: [{tag: "ruby"}],
-      toDOM() { return ["ruby", 0] },
+      attrs: {lang: {default: null}},
+      parseDOM: [{tag: "ruby", getAttrs(dom) { return {lang: dom.lang} }}],
+      toDOM(node) { let {lang} = node.attrs; return lang == "" ? ["ruby", 0] : ["ruby", {lang}, 0] },
     },
     text: {
       inline: true,
