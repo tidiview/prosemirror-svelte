@@ -809,6 +809,11 @@ export const ExtendedThreerichTextSchema = new Schema({
       parseDOM: [{tag: "rt[lang]", getAttrs(dom) { return {lang: dom.lang} }}],
       toDOM(node) { let {lang} = node.attrs; return ["rt", {lang}, 0] },
     },
+    rp: {
+      inclusive: false,
+      parseDOM: [{tag: "rp"}],
+      toDOM() { return ["rp", 0] },
+    },
     rt: {
       inclusive: false,
       parseDOM: [{tag: "rt"}],
