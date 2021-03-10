@@ -5,8 +5,8 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-<h1><ruby lang="ja" style="color:#555;">マルリー宮殿の<wbr>全体景観<rp>(</rp><rt lang="fr" style="color:#999;">Vue générale du Château de Marly</rt><rp>)</rp></ruby>の２枚</h1>
 <div id="body-inner">
+<h1 class="yellow"><ruby lang="ja" style="color:#555;">マルリー宮殿の<wbr>全体景観<rp>(</rp><rt lang="fr" style="color:#999;">Vue générale du Château de Marly</rt><rp>)</rp></ruby>の２枚</h1>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/04.marly/01.pierre-denis-martin/01.pierre-denis-martin_1/marly1724-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/04.marly/01.pierre-denis-martin/01.pierre-denis-martin_1/marly1724-380.webp 380w,
