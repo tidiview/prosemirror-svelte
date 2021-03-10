@@ -5,26 +5,26 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-<p><span>24</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
-<p>12月</p>
-<p><span>2017</span></p>
-<h1 lang="ja"><a href="/blog/ja/onnadaigaku" rel="bookmark">女大学</a></h1>
+<p><span>２４</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
+<p>１２月</p>
+<p><span>２０１７年</span></p>
+<h1 class="yellow"><a href="/blog/ja/onnadaigaku" rel="bookmark">女大学</a></h1>
 <div class="notices yellow">
 <p>わたしたちが今日ふつう「女大学」と呼んでいるのは、この書の本文を受けついで編まれた教順書類である。  </p>
 </div>
 
-<h2>概要</h2>
-<h3 id="renvoi_takarabako">女大学とは？</h3>
+<h2 class="yellow">概要</h2>
+<h3 class="yellow" id="renvoi_takarabako">女大学とは？</h3>
 <p>具体的に、<ruby>享<rp>(</rp><rt>きょう</rt><rp>)</rp>保<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby>元年（１７１６）八月、大阪の<ruby>柏<rp>(</rp><rt>カシ</rt><rp>)</rp>原<rp>(</rp><rt>ワラ</rt><rp>)</rp>清<rp>(</rp><rt>キヨ</rt><rp>)</rp>右<rp>(</rp><rt>ウ</rt><rp>)</rp>衛<rp>(</rp><rt>エ</rt><rp>)</rp>門<rp>(</rp><rt>モン</rt><rp>)</rp></ruby>と江戸の<ruby>小<rp>(</rp><rt>オ</rt><rp>)</rp>川<rp>(</rp><rt>ガワ</rt><rp>)</rp>彦<rp>(</rp><rt>ヒコ</rt><rp>)</rp>九<rp>(</rp><rt>ク</rt><rp>)</rp>郎<rp>(</rp><rt>ロウ</rt><rp>)</rp></ruby>とが合梓した教順書の題名に当たります。  </p>
 <p>最古の版本は、『<a href="#takarabako" title="女大学宝箱"><ruby>女<rp>(</rp><rt>オンナ</rt><rp>)</rp>大<rp>(</rp><rt>ダイ</rt><rp>)</rp>学<rp>(</rp><rt>ガク</rt><rp>)</rp>宝<rp>(</rp><rt>タカラ</rt><rp>)</rp>箱<rp>(</rp><rt>バコ</rt><rp>)</rp></ruby></a>』と言われています。   </p>
 <p>江戸中期から明治期いたるまで幅広く支持された女子教訓書。  </p>
 <p>しかし、「女大学」という一般的に言われている内容になると、女として夫と家を支え、慎みを忘れずに <strong><a href="#onnanomichi" title="女の道" id="note_onnanomichi">女の道</a></strong> を極めよという倫理観のもと、親および<ruby>舅<rp>(</rp><rt>しゆうと</rt><rp>)</rp></ruby>・<ruby>姑<rp>(</rp><rt>しゆうとめ</rt><rp>)</rp></ruby>に対する孝、洗濯、裁縫等の家事労働、結納・結婚・出産・子育て、三味線などのお稽古、身だしなみのことなど多岐に渡ることをさすことになります。</p>
-<h3>著者と歴史</h3>
+<h3 class="yellow">著者と歴史</h3>
 <p><a href="https://ja.wikipedia.org/wiki/貝原益軒" title="https://ja.wikipedia.org/wiki/貝原益軒"><ruby>貝<rp>(</rp><rt>カイ</rt><rp>)</rp>原<rp>(</rp><rt>バラ</rt><rp>)</rp>益<rp>(</rp><rt>エキ</rt><rp>)</rp>軒<rp>(</rp><rt>ケン</rt><rp>)</rp></ruby></a>の「<a href="https://ja.wikipedia.org/wiki/和俗童子訓" title="https://ja.wikipedia.org/wiki/和俗童子訓"><ruby>和<rp>(</rp><rt>わ</rt><rp>)</rp>俗<rp>(</rp><rt>ぞく</rt><rp>)</rp>童<rp>(</rp><rt>どう</rt><rp>)</rp>子<rp>(</rp><rt>じ</rt><rp>)</rp>訓<rp>(</rp><rt>くん</rt><rp>)</rp></ruby></a> 」のなかの第五巻「教女子法」に依拠するが、著者を<a href="https://ja.wikipedia.org/wiki/貝原益軒" title="https://ja.wikipedia.org/wiki/貝原益軒">益軒</a>とする確証はありません。 </p>
 <p>『女大学宝箱』だけでも明治初年までに１１版を重ねましたが、１８世紀後半以降になると、挿絵や頭書きを改めて「女大学」を冠した多様な改定本、『女大学<ruby>教<rp>(</rp><rt>おしえ</rt><rp>)</rp>文<rp>(</rp><rt>ぶん</rt><rp>)</rp>庫<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>』、『女大学<ruby>操<rp>(</rp><rt>みさお</rt><rp>)</rp>鑑<rp>(</rp><rt>かがみ</rt><rp>)</rp></ruby>』といった類が数多く刊行されました。  </p>
 <p><a href="https://ja.wikipedia.org/wiki/貝原益軒" title="https://ja.wikipedia.org/wiki/貝原益軒">貝原益軒</a>著「女子を<ruby>教<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>ゆる法」、そのなかでも第十条（<a href="https://ja.wikipedia.org/wiki/七去" title="https://ja.wikipedia.org/wiki/七去の法"><ruby>七<rp>(</rp><rt>しち</rt><rp>)</rp>去<rp>(</rp><rt>きょ</rt><rp>)</rp></ruby>の法</a>）・第十六条（嫁する娘に親が説き聞かすべき十三ヵ条）を下敷きにして、婦徳を中心に十九ヵ条の教訓文にしたてている点に特徴がみられる。  </p>
 <p>結果として、「<ruby>女<rp>(</rp><rt>にょ</rt><rp>)</rp>子<rp>(</rp><rt>し</rt><rp>)</rp></ruby>を<ruby>教<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>ゆる法」、に採られていた男女の価値平等観は捨象され、斉家と婦人自身の保全を目的とし、女性の心得を家庭生活内に限定して説き、具体的な作法や躾、技能や教養におよばず、もっぱら心がまえを力説したものとなっている。  </p>
-<h3 id="onnanomichi">女の道とは？</h3>
+<h3 class="yellow" id="onnanomichi">女の道とは？</h3>
 <dl>
 <dt>「 <a href="#renvoi_takarabako" title="女の道"><ruby>女<rp>(</rp><rt>おんな</rt><rp>)</rp></ruby>の<ruby>道<rp>(</rp><rt>みち</rt><rp>)</rp></ruby></a> 」、「夫に仕ふる道」のこと。<ruby>婦<rp>(</rp><rt>ふ</rt><rp>)</rp>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>の道ともいう。いわゆる、夫に従う道であり、  </dt>
 <dd><p>「一度嫁いりしては、其の家を出でざるを女の道とすること、<ruby>古<rp>(</rp><rt>いにしえ</rt><rp>)</rp></ruby>聖人の<ruby>訓<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>えなり、<ruby>若<rp>(</rp><rt>も</rt><rp>)</rp></ruby>し女の道にそむき、去らるる時は、一生の恥なり」</p></dd>
@@ -44,9 +44,9 @@
 <p>いずれにしても家制度保持のためのものであり、「女の道」は一方的に女性に課せられたくびきであった。  </p>
 <p>一夫一妻の枠組みのなかで、「貞操」を守らなくてはならないのは<strong>女のみ</strong>であり、男には適応されなかったのが江戸時代であった。<br />
 したがって「女の道」から外れた「不貞」は<strong>女にだけ適応する言葉</strong>である。   </p>
-<h2 id="takarabako">女大学宝箱</h2>
+<h2 class="yellow" id="takarabako">女大学宝箱</h2>
 <p><a href="#renvoi_takarabako" alt="女大学とは？">女大学とは？ ↑</a></p>
-<h3>内容目次</h3>
+<h3 class="yellow">内容目次</h3>
 <div id="translation-text-rousi">
 <table>
 <thead>
@@ -57,87 +57,87 @@
 </thead>
 <tbody>
 <tr>
-<td>１</td>
+<td><sup>１</sup></td>
 <td><a href="#1" id="renvoi_1">女児はひとえに親のおしえひとつで育つものである。⭣</a></td>
 </tr>
 <tr>
-<td>２</td>
+<td><sup>２</sup></td>
 <td><a href="#2" id="renvoi_2">女は<ruby>容<rp>(</rp><rt>かたち</rt><rp>)</rp></ruby>より心の勝っているのがよろしい。⭣</a></td>
 </tr>
 <tr>
-<td>３</td>
+<td><sup>３</sup></td>
 <td><a href="#3" id="renvoi_3">男女の別を正しくして、女子は独自の徳を身につけなければいけない。⭣</a></td>
 </tr>
 <tr>
-<td>４</td>
+<td><sup>４</sup></td>
 <td><a href="#4" id="renvoi_4">女性にとって本来の家は婚家。<br>七去の法。⭣</a></td>
 </tr>
 <tr>
-<td>５</td>
+<td><sup>５</sup></td>
 <td><a href="#5" id="renvoi_5">生家の親より、しゅうと・しゅうとめに孝養をつくすべきである。⭣</a></td>
 </tr>
 <tr>
-<td>６</td>
+<td><sup>６</sup></td>
 <td><a href="#6" id="renvoi_6">婦人は夫を主君としてつかえねばならない。⭣</a></td>
 </tr>
 <tr>
-<td>７</td>
+<td><sup>７</sup></td>
 <td><a href="#7" id="renvoi_7"><ruby>兄公<rp>(</rp><rt>こじゅうと</rt><rp>)</rp></ruby>・<ruby>女公<rp>(</rp><rt>こじゅうとめ</rt><rp>)</rp></ruby>を敬いむつかじくすべきである。⭣</a></td>
 </tr>
 <tr>
-<td>８</td>
+<td><sup>８</sup></td>
 <td><a href="#8" id="renvoi_8">嫉妬の心をおこしてはならない。<br>夫にたいするいさめかた。⭣</a></td>
 </tr>
 <tr>
-<td>９</td>
+<td><sup>９</sup></td>
 <td><a href="#9" id="renvoi_9"><ruby>言語<rp>(</rp><rt>ことば</rt><rp>)</rp></ruby>のつつしみ。⭣</a></td>
 </tr>
 <tr>
-<td>１０</td>
+<td><sup>１０</sup></td>
 <td><a href="#10" id="renvoi_10">日常の生活での行為のしかた。⭣</a></td>
 </tr>
 <tr>
-<td>１１</td>
+<td><sup>１１</sup></td>
 <td><a href="#11" id="renvoi_11"><ruby>巫<rp>(</rp><rt>みこ</rt><rp>)</rp></ruby>・ <ruby>覡<rp>(</rp><rt>かんなぎ</rt><rp>)</rp></ruby>に迷ってはならない。⭣</a></td>
 </tr>
 <tr>
-<td>１２</td>
+<td><sup>１２</sup></td>
 <td><a href="#12" id="renvoi_12">妻はその家の分限に従って経営しなければならない。⭣</a></td>
 </tr>
 <tr>
-<td>１３</td>
+<td><sup>１３</sup></td>
 <td><a href="#13" id="renvoi_13">女は、若いとき、男性に近づいてはならない。⭣</a></td>
 </tr>
 <tr>
-<td>１４</td>
+<td><sup>１４</sup></td>
 <td><a href="#14" id="renvoi_14">衣裳を清潔に保つべし。⭣</a></td>
 </tr>
 <tr>
-<td>１５</td>
+<td><sup>１５</sup></td>
 <td><a href="#15" id="renvoi_15">夫の方の親類を大切にあつかえ。⭣</a></td>
 </tr>
 <tr>
-<td>１６</td>
+<td><sup>１６</sup></td>
 <td><a href="#16" id="renvoi_16">しゅうと・しゅうとめに、生家の親よりもあつくつかえよ。⭣</a></td>
 </tr>
 <tr>
-<td>１７</td>
+<td><sup>１７</sup></td>
 <td><a href="#17" id="renvoi_17">妻が家の中で務むべき仕事。⭣</a></td>
 </tr>
 <tr>
-<td>１８</td>
+<td><sup>１８</sup></td>
 <td><a href="#18" id="renvoi_18">下女のあつかいかた。⭣</a></td>
 </tr>
 <tr>
-<td>１９</td>
+<td><sup>１９</sup></td>
 <td><a href="#19" id="renvoi_19">女の心ざま悪しき五種の病気。<br>従順の徳をかたく身につけよ。⭣</a></td>
 </tr>
 </tbody>
 </table>
 </div>
 <hr>
-<h3>女大学宝箱</h3>
-<h4>本文</h4>
+<h3 class="yellow">女大学宝箱</h3>
+<h4 class="yellow">本文</h4>
 <div id="translation-text-rousi">
 <table>
 <thead>
@@ -148,7 +148,7 @@
 </thead>
 <tbody>
 <tr>
-<td><span id="1">１</span></td>
+<td><span id="1"><sup>１</sup></span></td>
 <td><span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewbox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"></path></svg></span> 夫れ、<ruby>女<rp>(</rp><rt>にょ</rt><rp>)</rp>子<rp>(</rp><rt>し</rt><rp>)</rp></ruby>は成長して他人の家へ行き、<ruby>舅<rp>(</rp><rt>しゆうと</rt><rp>)</rp></ruby>・<ruby>姑<rp>(</rp><rt>しゆとめ</rt><rp>)</rp></ruby>、に<ruby>仕<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>ゆるものなれば、<ruby>男<rp>(</rp><rt>なん</rt><rp>)</rp>子<rp>(</rp><rt>し</rt><rp>)</rp></ruby>よりも、親の教えゆるがせにすべがらず。</td>
 </tr>
 <tr>
@@ -168,7 +168,7 @@
 <td><hr></td>
 </tr>
 <tr>
-<td><span id="2">２</span></td>
+<td><span id="2"><sup>２</sup></span></td>
 <td>女は<ruby>容<rp>(</rp><rt>かたち</rt><rp>)</rp></ruby>よりも心の<ruby>滕<rp>(</rp><rt>まさ</rt><rp>)</rp></ruby>れるを<ruby>善<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>しとすべし。</td>
 </tr>
 <tr>
@@ -184,7 +184,7 @@
 <td><hr></td>
 </tr>
 <tr>
-<td><span id="3">３</span></td>
+<td><span id="3"><sup>３</sup></span></td>
 <td><ruby>女<rp>(</rp><rt>にょ</rt><rp>)</rp>子<rp>(</rp><rt>し</rt><rp>)</rp></ruby>は、<ruby>稚<rp>(</rp><rt>いとけな</rt><rp>)</rp></ruby>き時より、<ruby>男<rp>(</rp><rt>おとこ</rt><rp>)</rp>女<rp>(</rp><rt>おんな</rt><rp>)</rp></ruby>の<ruby>別<rp>(</rp><rt>わか</rt><rp>)</rp></ruby>ちを正しくして、<ruby>仮<rp>(</rp><rt>かり</rt><rp>)</rp>初<rp>(</rp><rt>そめ</rt><rp>)</rp></ruby>にも<ruby>戯<rp>(</rp><rt>たわぶ</rt><rp>)</rp></ruby>れたることをを見聞かしむべからず。</td>
 </tr>
 <tr>
@@ -220,7 +220,7 @@
 <td><hr></td>
 </tr>
 <tr>
-<td><span id="4">４</span></td>
+<td><span id="4"><sup>４</sup></span></td>
 <td>婦人は夫の家をわが家とする故に、<ruby>唐土<rp>(</rp><rt>もろこし</rt><rp>)</rp></ruby>には、嫁いりを「帰る」という。我が家にかえるという事なり。</td>
 </tr>
 <tr>
@@ -280,7 +280,7 @@
 <td><hr></td>
 </tr>
 <tr>
-<td><span id="5">５</span></td>
+<td><span id="5"><sup>５</sup></span></td>
 <td><ruby>女<rp>(</rp><rt>にょ</rt><rp>)</rp>子<rp>(</rp><rt>し</rt><rp>)</rp></ruby>は、我が家にありては、わが父母に専ら孝を行なう<ruby>理<rp>(</rp><rt>ことわり</rt><rp>)</rp></ruby>なり。</td>
 </tr>
 <tr>
@@ -320,7 +320,7 @@
 <td><hr></td>
 </tr>
 <tr>
-<td><span id="6">６</span></td>
+<td><span id="6"><sup>６</sup></span></td>
 <td>婦人は別に主君なし。 夫を主人と思い、敬い慎みて<ruby>事<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>うべし。<ruby>軽<rp>(</rp><rt>かろ</rt><rp>)</rp></ruby>しめ<ruby>侮<rp>(</rp><rt>あなど</rt><rp>)</rp></ruby>るべからず。総じて婦人の道は、人に従うにあり。</td>
 </tr>
 <tr>
@@ -364,7 +364,7 @@
 <td><hr></td>
 </tr>
 <tr>
-<td><span id="7">７</span></td>
+<td><span id="7"><sup>７</sup></span></td>
 <td><ruby>兄公<rp>(</rp><rt>こじゆうと</rt><rp>)</rp></ruby>・<ruby>女公<rp>(</rp><rt>こじゆうとめ</rt><rp>)</rp></ruby>は、夫の兄弟なれば、敬うべし。</td>
 </tr>
 <tr>
@@ -384,7 +384,7 @@
 <td><hr></td>
 </tr>
 <tr>
-<td><span id="8">８</span></td>
+<td><span id="8"><sup>８</sup></span></td>
 <td>嫉妬の心、<ruby>努<rp>(</rp><rt>ゆめ</rt><rp>)</rp>努<rp>(</rp><rt>ゆめ</rt><rp>)</rp>発<rp>(</rp><rt>おこ</rt><rp>)</rp></ruby>すべからず。男<ruby>淫<rp>(</rp><rt>いん</rt><rp>)</rp>乱<rp>(</rp><rt>らん</rt><rp>)</rp></ruby>ならば、<ruby>諫<rp>(</rp><rt>いさ</rt><rp>)</rp></ruby>むべし。</td>
 </tr>
 <tr>
@@ -408,7 +408,7 @@
 <td><hr></td>
 </tr>
 <tr>
-<td><span id="9">９</span></td>
+<td><span id="9"><sup>９</sup></span></td>
 <td><ruby>言語<rp>(</rp><rt>ことば</rt><rp>)</rp></ruby>を慎みて多くすべからず。<ruby>仮<rp>(</rp><rt>かり</rt><rp>)</rp></ruby>にも人を<ruby>誹<rp>(</rp><rt>そし</rt><rp>)</rp></ruby>り、偽りを云うべからず。</td>
 </tr>
 <tr>
@@ -424,7 +424,7 @@
 <td><hr></td>
 </tr>
 <tr>
-<td><span id="10">１０</span></td>
+<td><span id="10"><sup>１０</sup></span></td>
 <td>女は常に心遣いして、其の身を<ruby>堅<rp>(</rp><rt>かたく</rt><rp>)</rp></ruby>倶謹み護るべし。</td>
 </tr>
 <tr>
@@ -448,7 +448,7 @@
 <td><hr></td>
 </tr>
 <tr>
-<td><span id="11">１１</span></td>
+<td><span id="11"><sup>１１</sup></span></td>
 <td><ruby>巫<rp>(</rp><rt>みこ</rt><rp>)</rp></ruby>・<ruby>覡<rp>(</rp><rt>かんなぎ</rt><rp>)</rp></ruby>などのことに迷いて、<ruby>神<rp>(</rp><rt>かみ</rt><rp>)</rp>仏<rp>(</rp><rt>ほとけ</rt><rp>)</rp></ruby>を<ruby>汚<rp>(</rp><rt>けが</rt><rp>)</rp></ruby>し近付き、猥にいのるべからず。</td>
 </tr>
 <tr>
@@ -460,7 +460,7 @@
 <td><hr></td>
 </tr>
 <tr>
-<td><span id="12">１２</span></td>
+<td><span id="12"><sup>１２</sup></span></td>
 <td>人の妻と成りては、その家をよく保つべし。妻の行ない悪しく<ruby>放<rp>(</rp><rt>ほう</rt><rp>)</rp>埓<rp>(</rp><rt>らつ</rt><rp>)</rp></ruby>なれば、家を破る。 万事<ruby>倹<rp>(</rp><rt>つづま</rt><rp>)</rp></ruby>やかにして、<ruby>費<rp>(</rp><rt>つい</rt><rp>)</rp></ruby>えを<ruby>作<rp>(</rp><rt>な</rt><rp>)</rp></ruby>すべからず。</td>
 </tr>
 <tr>
@@ -472,7 +472,7 @@
 <td><hr></td>
 </tr>
 <tr>
-<td><span id="13">１３</span></td>
+<td><span id="13"><sup>１３</sup></span></td>
 <td>若き時は、音の親類、友達、<ruby>下<rp>(</rp><rt>しも</rt><rp>)</rp>部<rp>(</rp><rt>べ</rt><rp>)</rp></ruby>等の若き男には、打ち解けたる物語し、近付くべからず。<ruby>男<rp>(</rp><rt>なん</rt><rp>)</rp>女<rp>(</rp><rt>にょ</rt><rp>)</rp></ruby>の隔てを固くすべし。</td>
 </tr>
 <tr>
@@ -484,7 +484,7 @@
 <td><hr></td>
 </tr>
 <tr>
-<td><span id="14">１４</span></td>
+<td><span id="14"><sup>１４</sup></span></td>
 <td>身の<ruby>荘<rp>(</rp><rt>かざ</rt><rp>)</rp></ruby>りも衣裳の染いろ模様なども、目にたたぬようにすべし。身と衣服との穢れずして<ruby>潔<rp>(</rp><rt>きよ</rt><rp>)</rp></ruby>げなるはよし。</td>
 </tr>
 <tr>
@@ -496,7 +496,7 @@
 <td><hr></td>
 </tr>
 <tr>
-<td><span id="15">１５</span></td>
+<td><span id="15"><sup>１５</sup></span></td>
 <td>我が郷の親の<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>に<ruby>私<rp>(</rp><rt>わたくし</rt><rp>)</rp></ruby>し、夫の方の親類を次にすべからず。正月・節句などにも、まず夫の方を勤めて、次に我親の方をつとむべし。</td>
 </tr>
 <tr>
@@ -508,7 +508,7 @@
 <td><hr></td>
 </tr>
 <tr>
-<td><span id="16">１６</span></td>
+<td><span id="16"><sup>１６</sup></span></td>
 <td>女は、我が親の家をば継がず、<ruby>舅<rp>(</rp><rt>しゅうと</rt><rp>)</rp></ruby>・<ruby>姑<rp>(</rp><rt>しゅうとめ</rt><rp>)</rp></ruby>の跡を継ぐゆえに、わが親よりも<ruby>嫜<rp>(</rp><rt>しゅうとしゅとめ</rt><rp>)</rp></ruby>を大切に思い、孝行を為すべし。</td>
 </tr>
 <tr>
@@ -528,7 +528,7 @@
 <td><hr></td>
 </tr>
 <tr>
-<td><span id="17">１７</span></td>
+<td><span id="17"><sup>１７</sup></span></td>
 <td><ruby>下<rp>(</rp><rt>しも</rt><rp>)</rp>部<rp>(</rp><rt>べ</rt><rp>)</rp></ruby><ruby>余<rp>(</rp><rt>あま</rt><rp>)</rp>多<rp>(</rp><rt>た</rt><rp>)</rp></ruby>めしかうとも、<ruby>万<rp>(</rp><rt>よろず</rt><rp>)</rp></ruby>の事自ら辛労を<ruby>忍<rp>(</rp><rt>こら</rt><rp>)</rp></ruby>えて勤むること女の作法なり。</td>
 </tr>
 <tr>
@@ -540,7 +540,7 @@
 <td><hr></td>
 </tr>
 <tr>
-<td><span id="18">１８</span></td>
+<td><span id="18"><sup>１８</sup></span></td>
 <td>下女をつかうに、心を用ゆべし。云う<ruby>甲<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>斐<rp>(</rp><rt>い</rt><rp>)</rp></ruby>なき<ruby>下<rp>(</rp><rt>げ</rt><rp>)</rp></ruby><ruby>﨟<rp>(</rp><rt>ろう</rt><rp>)</rp></ruby>は習わし悪しくて智慧なく、<ruby>心奸<rp>(</rp><rt>かたまく</rt><rp>)</rp></ruby><ruby>敷く<rp>(</rp><rt>心がねじけていて</rt><rp>)</rp></ruby>、物いうこと<ruby>祥<rp>(</rp><rt>さが</rt><rp>)</rp></ruby>なし。</td>
 </tr>
 <tr>
@@ -592,7 +592,7 @@
 <td><hr></td>
 </tr>
 <tr>
-<td><span id="19">１９</span></td>
+<td><span id="19"><sup>１９</sup></span></td>
 <td>凡そ婦人の<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp>様<rp>(</rp><rt>ざま</rt><rp>)</rp></ruby>の悪しき病は、和らぎ<ruby>順<rp>(</rp><rt>したが</rt><rp>)</rp></ruby>わざると、怒り恨むるよ、人を<ruby>謗<rp>(</rp><rt>そし</rt><rp>)</rp></ruby>ると、智慧<ruby>浅<rp>(</rp><rt>みじか</rt><rp>)</rp></ruby>きとなり。</td>
 </tr>
 <tr>
@@ -727,7 +727,7 @@
 </table>
 <p></span></p>
 </div>
-<h4>註釈</h4>
+<h4 class="yellow">註釈</h4>
 <div id="translation-text-rousi">
 <table>
 <thead>
@@ -738,7 +738,7 @@
 </thead>
 <tbody>
 <tr>
-<td>3</td>
+<td><sup>3</sup></td>
 <td></td>
 </tr>
 <tr>

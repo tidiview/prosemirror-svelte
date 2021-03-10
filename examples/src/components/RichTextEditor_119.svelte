@@ -5,10 +5,10 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-<p><span>12</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
-<p>12月</p>
-<p><span>2019</span></p>
-<h1><a href="/blog/ja/psyche/page:1" rel="bookmark">プシケ物語</a></h1>
+<p><span>１２</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
+<p>１２月</p>
+<p><span>２０１９年</span></p>
+<h1 class="blue"><a href="/blog/ja/psyche/page:1" rel="bookmark">プシケ物語</a></h1>
 <div class="notices blue">
 <p>以下の文書は、現在のアルジェリア北東のアラブ語では、「<a href="https://www.google.com/maps/place/アルジェリア メダウルッシュ/@36.0764165,7.8014141,14z/data=!3m1!4b1!4m5!3m4!1s0x12fa713a3874ef1d:0x432130819156115b!8m2!3d36.0756762!4d7.8204791" title="https://www.google.com/maps/place/アルジェリア+メダウルッシュ/@36.0764165,7.8014141,14z/data=!3m1!4b1!4m5!3m4!1s0x12fa713a3874ef1d:0x432130819156115b!8m2!3d36.0756762!4d7.8204791"><ruby lang="ja">メダウルッシュ<rp>(</rp><rt lang="ar">مداوروش</rt><rp>)</rp></ruby lang="ja"></a>」、古代のラテン語では、「<ruby lang="ja">マダウロス<rp>(</rp><rt lang="la">Madauros</rt><rp>)</rp></ruby lang="ja">」出身の<ruby lang="ja">アプレイウス<rp>(</rp><rt lang="la">Apuleius</rt><rp>)</rp></ruby lang="ja">が著わした、正式に『<ruby lang="ja">変容<rp>(</rp><rt lang="la">Metamorphoseon</rt><rp>)</rp></ruby lang="ja">の<ruby>十一冊の本<rp>(</rp><rt>libri&#160;XI</rt><rp>)</rp></ruby>』、略して、『<ruby lang="ja">変容<rp>(</rp><rt lang="la">Metamorphoses</rt><rp>)</rp></ruby lang="ja">』が、主人公<ruby lang="ja">ルキウス<rp>(</rp><rt lang="la">Lucius</rt><rp>)</rp></ruby lang="ja">が<ruby>驢馬<rp>(</rp><rt>ろば</rt><rp>)</rp></ruby>に変えられるため、親しんで、一般的に『<ruby lang="ja">黄金のろば<rp>(</rp><rt lang="la">Asinus&#160;aureus</rt><rp>)</rp></ruby lang="ja">』と呼称されてきた作品の一部であります。<br />
 紀元後１６０年から１８０年の間に書かれたと思われています。<br />
@@ -21,6 +21,7 @@
 　では、お楽しみください！</p>
 </div>
 <p><br></p>
+<h2 class="blue">巻の四</h2>
 <p><span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span>
 <sup>２８</sup>
 むかし或る国に王様とお妃とがおいでになって、あいだに三<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>の<ruby>容姿<rp>(</rp><rt>すがた</rt><rp>)</rp></ruby>もなみなみならず勝れた姫をお持ちでした。
@@ -78,7 +79,7 @@
 そして<ruby>峻<rp>(</rp><rt>けわ</rt><rp>)</rp></ruby>しい山上の定めの<ruby>巖<rp>(</rp><rt>いわお</rt><rp>)</rp></ruby>に著きますと、その<ruby>天頂<rp>(</rp><rt>てっぺん</rt><rp>)</rp></ruby>に姫を置いて一同は退散し、道を照らして来た婚礼の<ruby>炬火<rp>(</rp><rt>たいまつ</rt><rp>)</rp></ruby>も、涙のために<ruby>消<rp>(</rp><rt>けや</rt><rp>)</rp></ruby>されたままそこへ打ちすて、首を<ruby>項垂<rp>(</rp><rt>うなだ</rt><rp>)</rp></ruby>れて帰り路を辿ってゆくのでした。
 一方姫の<ruby>両<rp>(</rp><rt>ふた</rt><rp>)</rp>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>は言いようもない<ruby>不<rp>(</rp><rt>ふ</rt><rp>)</rp>幸<rp>(</rp><rt>しあわせ</rt><rp>)</rp></ruby>に気も<ruby>挫<rp>(</rp><rt>くじ</rt><rp>)</rp></ruby>けては、家を閉ざして暗闇の中に引き籠り、絶間のない悲敷に身を<ruby>委<rp>(</rp><rt>まか</rt><rp>)</rp></ruby>せていました。</p>
 <p>さてプシケは畏れおののき、<ruby>巖<rp>(</rp><rt>いわお</rt><rp>)</rp></ruby>の頂きに泣き伏しておりますところを、和やかに吹く　西の優しい<ruby>微<rp>(</rp><rt>そよ</rt><rp>)</rp>風<rp>(</rp><rt>かぜ</rt><rp>)</rp></ruby>（ゼフィルス）が、そこからここからと衣をゆすぶっては動かし、<ruby>懐<rp>(</rp><rt>ふとこ</rt><rp>)</rp></ruby>ろを膨らませてはだんだんと乙女を持ち上げ、穏やかな風の息吹きにのせて高い<ruby>巖<rp>(</rp><rt>いわお</rt><rp>)</rp></ruby>の下道をゆるゆると運んで行って、とうとう麓の谷の花盛りな草原の真中へ、そっと下ろして横たわらせました。</p>
-<p>巻の五</p>
+<h2 class="blue">巻の五</h2>
 <p><sup>１</sup>
 プシケは柔かに草が茂ってまるで露に濡れた芝の<ruby>臥床<rp>(</rp><rt>ふしど</rt><rp>)</rp></ruby>といった場処にそっと身を横たえ、動転した胸もようようにしずまって来たまま、<ruby>快<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>い気持に寝んでおりましたが、程もなく十分に眠りも足り、気分もさっばりしてまいったので、やっと人心地を取り返して起き上りました。
 見ると眼の前には高い<ruby>巨<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きな樹の<ruby>生<rp>(</rp><rt>お</rt><rp>)</rp></ruby>い<ruby>繁<rp>(</rp><rt>しげ</rt><rp>)</rp></ruby>った木立があり、その木立の<ruby>真中<rp>(</rp><rt>まんなか</rt><rp>)</rp></ruby>に透きとおって<ruby>玻<rp>(</rp><rt>は</rt><rp>)</rp>璃<rp>(</rp><rt>り</rt><rp>)</rp></ruby>のような噴水が湧いています。
@@ -566,7 +567,7 @@
 そのとき<ruby>仙酒<rp>(</rp><rt>ネクタル</rt><rp>)</rp></ruby>の<ruby>盞<rp>(</rp><rt>さかずき</rt><rp>)</rp></ruby>を、これはつまり神さま方の菊菊酒にあたるのですが、ユッピテルにはいつもの酒つぎのお<ruby>小<rp>(</rp><rt>こ</rt><rp>)</rp>姓<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby>のあの野山にいた<ruby>少年<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>が、他の神々にはまた<a href="#note_liber" title="酒神" id="liber"><ruby>酒神<rp>(</rp><rt>リーベル</rt><rp>)</rp></ruby></a>が<ruby>酌<rp>(</rp><rt>く</rt><rp>)</rp></ruby>んではさし、ヴルカーヌスがお料理の世話を致しますと<a href="#note_hora" title="季節神女ホラたち" id="hora">季節神女ホラたち</a>は薔薇や色々な花びらでそこら中を<ruby>紅<rp>(</rp><rt>くれない</rt><rp>)</rp></ruby>に照りかがやかせますし、<a href="#note_gratia" title="優美神女グラティアたち" id="gratia">優美神女グラティアたち</a>は<ruby>匂<rp>(</rp><rt>にお</rt><rp>)</rp></ruby>いのよい<ruby>薰<rp>(</rp><rt>くん</rt><rp>)</rp>香<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>をあたりに<ruby>撤<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>き<ruby>散<rp>(</rp><rt>ち</rt><rp>)</rp></ruby>らし、伎芸神女ムーサたちはまた<ruby>明<rp>(</rp><rt>めい</rt><rp>)</rp>々<rp>(</rp><rt>めい</rt><rp>)</rp></ruby>と歌を唱いあげる、アポローンが<ruby>七絃琴<rp>(</rp><rt>リーラ</rt><rp>)</rp></ruby>を奏でなすと、ヴェヌスも<ruby>妙<rp>(</rp><rt>たえ</rt><rp>)</rp></ruby>な音楽に<ruby>姿<rp>(</rp><rt>なり</rt><rp>)</rp></ruby>美しく舞いつれて踊り、その<ruby>地<rp>(</rp><rt>じ</rt><rp>)</rp>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>には手順を決めて伎芸神女ムーサたちが<ruby>団<rp>(</rp><rt>むれ</rt><rp>)</rp></ruby>を作って歌を唱ったり笛を吹いたりすれば、<ruby>羊人<rp>(</rp><rt>サテュルス</rt><rp>)</rp></ruby>や若い<ruby>牧神<rp>(</rp><rt>パーン</rt><rp>)</rp></ruby>は<ruby>笙<rp>(</rp><rt>ふえ</rt><rp>)</rp></ruby>を鳴らして合せます。</p>
 <p>こういう風にしてプシケは正式に<ruby>愛の神<rp>(</rp><rt>クビードー</rt><rp>)</rp></ruby>の処へお嫁入りをしまして、やがて二人の間には月満ちて一人の娘が生まれる、これが『<ruby>喜悦<rp>(</rp><rt>よろこび</rt><rp>)</rp></ruby>』と人の呼ぶ女神でございます。
 <span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"/></svg></span></p>
-<h2><span style="color: #28a1c5;">注釈</span></h2>
+<h2 class="blue">注釈</h2>
 <div class="notices blue">
 <p><a href="https://ja.wikipedia.org/wiki/ヌミディア" title="https://ja.wikipedia.org/wiki/ヌミディア" id="note_numidie"><ruby lang="ja">ヌミディア<rp>(</rp><rt lang="la">Numidia</rt><rp>)</rp></ruby lang="ja">州</a>は現在のアルジェリア北東部周辺に当たる。 <a href="#numidie" title="ヌミディア">戻る ↑</a></p>
 </div>

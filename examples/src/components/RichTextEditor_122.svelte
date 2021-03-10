@@ -5,10 +5,10 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-<p><span>11</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
-<p>9月</p>
-<p><span>2019</span></p>
-<h1 lang="ja"><a href="/blog/ja/fontenelle" rel="bookmark">『世界の多数性についての対話』の第一の夜</a></h1>
+<p><span>１１</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
+<p>９月</p>
+<p><span>２０１９年</span></p>
+<h1 class="red"><a href="/blog/ja/fontenelle" rel="bookmark">『世界の多数性についての対話』の第一の夜</a></h1>
 <div class="notices red">
 <p>天文学が１６８１年に<ruby>彗<rp>(</rp><rt>すい</rt><rp>)</rp>星<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>の後に流行した時に<ruby lang="ja">フォントネル<rp>(</rp><rt lang="fr">Fontenelle</rt><rp>)</rp></ruby lang="ja">に出版された
 『<ruby lang="ja">世界の多数性についての対話<rp>(</rp><rt lang="fr">Entretiens&#160;sur&#160;la&#160;pluralité&#160;des&#160;mondes</rt><rp>)</rp></ruby lang="ja">』は、世界のそれぞれの体系についての説明です。</p>
@@ -30,7 +30,7 @@
 <p>第一講演を切っ掛けに、哲学者はオペラの光景と自然とを同一視しながら、長々と繰り広げています。
 デカルトの機械的哲学の促進を行なうことである。当時にオペラが本質的に「機械」の芝居でしたから（こういう風に劇所やオペラで、、観客に驚異的性の錯視を与えるそれぞれの効果によっての機械的手段が指名しされていた。しかし、「オペラの機会」を明らかにするには、フォントネルにとって宇宙を非神聖化させたり、以前の文学を迷信から覚まさせたりあうるでもある（アリストテレス、プラトンなど））。</p>
 </div>
-<h2>第一の夜</h2>
+<h2 class="red">第一の夜</h2>
 <p>というわけで、真の哲学者たちは、見えるものを決して信じず、決して見えはしないものを見抜こうと努力して生涯を過ごすのですが、こういった状態はあまり羨むべきものとは思えません。</p>
 <p>私には自然というものが、いつもオペラにも似た大きな舞台のように思えるのですよ（１　１６６９年に創立されたパリのオペラを指す固有名詞）。</p>
 <p>あなたがオペラ座でオペラを見ている場所からは、有りのままの舞台は全く有りのままには見えないのでして、舞台装置や機械を配置して、遠くから見れば心よい効果を与えるようにしてありますが、すべてを動かしている歯車や重しは、あなたの目から見えないように隠されてしまっているのです。</p>

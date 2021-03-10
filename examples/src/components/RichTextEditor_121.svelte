@@ -5,10 +5,10 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-<p><span>23</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
-<p>2月</p>
-<p><span>2020</span></p>
-<h1 lang="ja"><a href="/blog/ja/priscus" rel="bookmark">トゥールのグレゴリウスによるキルペリック１世と<wbr>プリスクスの出会い</a></h1>
+<p><span>２３</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
+<p>２月</p>
+<p><span>２０２０年</span></p>
+<h1 class="green"><a href="/blog/ja/priscus" rel="bookmark">トゥールのグレゴリウスによるキルペリック１世と<wbr>プリスクスの出会い</a></h1>
   <div class="notices green">
 <p>主人公の社会的位置が全く異なるにもかかわらず、譲歩を伴わない一種の霊的な戦いとして描かれている。<br />
 プリスクスは自分の信仰から何も省かないので、私たちにそれで彼の信仰、特にそのキリスト教に対する既約性を理解できることにしてくれています。<br />
@@ -17,7 +17,7 @@
 魅力的ですもの！</p>
 </div>
 <p><br></p>
-<h2>キルペリック１世とプリスクスの出会い</h2>
+<h2 class="green">キルペリック１世とプリスクスの出会い</h2>
 <p><span style="color: #3d8b3d;">第５章</span></p>
 <p><ruby lang="ja">キルペリクス<rp>(</rp><rt lang="fr">Chilpéric</rt><rp>)</rp></ruby lang="ja"><span style="color: #3d778a;">王</span>がまだ上述の<a href="#note_villa" title="villa" id="villa" class="green">館</a>に滞在し、荷物を整理して搬出するよう指示し、<ruby lang="ja">パリシウス<rp>(</rp><rt lang="fr">Parisius</rt><rp>)</rp></ruby lang="ja">（パリ）へ移動する算段をしていたころ、私は別れを告げに王のもとへ赴いた。
 その時、王の商品購入を任されている<span style="color: #3d638a;">プリスクスという名のユダヤ人</span>がやって来た。</p>

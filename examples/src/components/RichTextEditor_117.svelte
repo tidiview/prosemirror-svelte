@@ -5,10 +5,10 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-<p><span>6</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
-<p>10月</p>
-<p><span>2017</span></p>
-<h1 lang="ja"><a href="/blog/ja/iohane" rel="bookmark">風は思いのままに吹く...</a></h1><div class="notices blue">
+<p><span>６</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
+<p>１０月</p>
+<p><span>２０１７年</span></p>
+<h1 class="blue"><a href="/blog/ja/iohane" rel="bookmark">風は思いのままに吹く...</a></h1><div class="notices blue">
 <p><sup>8</sup> あなたはその音を聞いても、それがどこから来て、どこへ行くかを知らない。</p>
 </div>
 
@@ -18,7 +18,7 @@
 [ヨハネ][1]の福音の３章で、イエスとニコデモの出会いが語られている。
 福音に慣れていない方には、哲学的で、難しいかも知れないが、興味深いだとはいえる。</span>    </p>
 <p><br></p>
-<h6>第３章１～３６節</h6>
+<h6 class="blue">第３章１～３６節</h6>
 <table>
 <thead>
 <tr>

@@ -5,10 +5,10 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-<p><span>15</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
-<p>1月</p>
-<p><span>2018</span></p>
-<h1 lang="ja"><a href="/blog/ja/ihoujin" rel="bookmark">異邦人</a></h1>
+<p><span>１５</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
+<p>１月</p>
+<p><span>２０１８年</span></p>
+<h1 class="green"><a href="/blog/ja/ihoujin" rel="bookmark">異邦人</a></h1>
 <div class="notices green">
 <p>通常では、異なる邦の人は「異邦人」ではありますが、ここでは、誰かに対して国が異なるのではない問答を紹介します。</p>
 </div>

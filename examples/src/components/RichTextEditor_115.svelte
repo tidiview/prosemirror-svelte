@@ -5,10 +5,10 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-<p><span>23</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
-<p>7月</p>
-<p><span>2016</span></p>
-<h1 lang="ja"><a href="/blog/ja/bokusi" rel="bookmark">すばらしい美男美女</a></h1>
+<p><span>２３</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
+<p>７月</p>
+<p><span>２０１６年</span></p>
+<h1 class="yellow"><a href="/blog/ja/bokusi" rel="bookmark">すばらしい美男美女</a></h1>
 <div class="notices yellow">
 <p>中国文学者 <a href="https://ja.wikipedia.org/wiki/貝塚茂樹" title="https://ja.wikipedia.org/wiki/貝塚茂樹"><ruby>貝<rp>(</rp><rt>かい</rt><rp>)</rp>塚<rp>(</rp><rt>づか</rt><rp>)</rp>茂<rp>(</rp><rt>しげ</rt><rp>)</rp>樹<rp>(</rp><rt>き</rt><rp>)</rp></ruby></a> が書いた「 <a href="https://www.amazon.co.jp/諸子百家――中国古代の思想家たち-岩波新書-貝塚-茂樹/dp/4004130476/378-6956610-7563751?ie=UTF8&%2AVersion%2A=1&%2Aentries%2A=0" title="https://www.amazon.co.jp/諸子百家――中国古代の思想家たち-岩波新書-貝塚-茂樹/dp/4004130476/378-6956610-7563751?ie=UTF8&*Version*=1&*entries*=0"><ruby>諸<rp>(</rp><rt>しょ</rt><rp>)</rp>子<rp>(</rp><rt>し</rt><rp>)</rp>百家<rp>(</rp><rt>ひゃっか</rt><rp>)</rp></ruby></a> 」を読んで、初めて、 <a href="https://ja.wikipedia.org/wiki/墨子" title="https://ja.wikipedia.org/wiki/墨子"><ruby>墨<rp>(</rp><rt>ぼく</rt><rp>)</rp>子<rp>(</rp><rt>し</rt><rp>)</rp></ruby></a> を知りました。面白い！</p></div><dl>
 <dt><br></dt>

@@ -5,10 +5,10 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-<p><span>12</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
-<p>2月</p>
-<p><span>2020</span></p>
-<h1 lang="ja"><a href="/blog/ja/marivaux" rel="bookmark">マリヴォー、「奴隷の島」</a></h1>
+<p><span>１２</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
+<p>２月</p>
+<p><span>２０２０年</span></p>
+<h1 class="red"><a href="/blog/ja/marivaux" rel="bookmark">マリヴォー、「奴隷の島」</a></h1>
 <div class="notices red">
 <p>幻想の古代時代で、アテネの若い貴人<ruby lang="ja">イフィクラート<rp>(</rp><rt lang="fr">Iphicrate</rt><rp>)</rp></ruby lang="ja">が召使の<ruby lang="ja">アルルカン<rp>(</rp><rt lang="fr">Arlequin</rt><rp>)</rp></ruby lang="ja">と一緒にある島の海岸に避難することになる。</p>
 </div>
@@ -18,7 +18,7 @@
 <ruby lang="ja">トリヴラン<rp>(</rp><rt lang="fr">Trivelin</rt><rp>)</rp></ruby lang="ja">が島の法律を紹介しながら彼たちを出迎えます。権力関係が徹頭徹尾逆にされている。
 新しく付いた主人たちと奴隷たちが自分の服、身分、それまで名前まで交換しなければなりません。</p>
 </div>
-<h2>第二場</h2>
+<h2 class="red">第二場</h2>
 <div id="translation-text-rousi">
 <style>.list-blog-padding #translation-text-rousi tr td:first-child {width: 170px;color: #000;font-size: 1.25rem;text-align: right;vertical-align: top;} tr td {vertical-align: top;}</style>
 <table>
