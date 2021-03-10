@@ -758,17 +758,24 @@ export const ExtendedThreerichTextSchema = new Schema({
       }}],
       toDOM(node) { let {src, type} = node.attrs; return ["source", {src, type}] }
     },
-    horizontal_rule: {
+    hr: {
       group: "block",
       parseDOM: [{tag: "hr"}],
       toDOM() {return ["hr"]}
     },
-    hard_break: {
+    br: {
       inline: true,
       group: "inline",
       selectable: false,
       parseDOM: [{tag: "br"}],
       toDOM() {return ["br"]}
+    },
+    wbr: {
+      inline: true,
+      group: "inline",
+      selectable: false,
+      parseDOM: [{tag: "wbr"}],
+      toDOM() {return ["wbr"]}
     },
     ol: {
       content: "li+",
