@@ -5,12 +5,12 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-  <div id="body-inner">
-	<h1>ヨハネの黙示録</h1>
+<div id="body-inner">
+<h1 class="yellow">ヨハネの黙示録</h1>
 <div class="notices yellow">
-<p>ここでは、巡礼としての<a href="https://ja.wikipedia.org/wiki/モン・サン＝ミシェル" title="https://ja.wikipedia.org/wiki/モン・サン＝ミシェル"><ruby>モン<rp>(</rp><rt>Mont</rt><rp>)</rp>・<rp>(</rp><rt></rt><rp>)</rp>サン<rp>(</rp><rt>Saint</rt><rp>)</rp>＝<rp>(</rp><rt>-</rt><rp>)</rp>ミシェル<rp>(</rp><rt>Michel</rt><rp>)</rp></ruby></a>の元にある、<a href="https://ja.wikipedia.org/wiki/ミカエル" title="https://ja.wikipedia.org/wiki/ミカエル">大天使ミカエル</a>信仰の史料をご紹介します。<br />
-<a href="https://ja.wikipedia.org/wiki/ミカエル" title="https://ja.wikipedia.org/wiki/ミカエル">大天使ミカエル</a>が<a href="https://ja.wikipedia.org/wiki/新約聖書" title="https://ja.wikipedia.org/wiki/新約聖書">新約聖書</a>に唯一表れるのは<a href="https://ja.wikipedia.org/wiki/ヨハネの黙示録" title="https://ja.wikipedia.org/wiki/ヨハネの黙示録">ヨハネ黙示録</a>の真ん中に位置付けられている。<br />
-この第１２章文書は、「<a href="/docs/ja/mont-saint-michel/arch-michel/apocalypse#bataille" title="天の戦い" id="renvoi_bataille">天の闘い</a>」とも呼ばれているとおり、恐ろしい戦いが起こされます。<br />
+<p>ここでは、巡礼としての<a href="https://ja.wikipedia.org/wiki/モン・サン＝ミシェル" title="https://ja.wikipedia.org/wiki/モン・サン＝ミシェル"><ruby>モン<rp>(</rp><rt>Mont</rt><rp>)</rp>・<rp>(</rp><rt></rt><rp>)</rp>サン<rp>(</rp><rt>Saint</rt><rp>)</rp>＝<rp>(</rp><rt>-</rt><rp>)</rp>ミシェル<rp>(</rp><rt>Michel</rt><rp>)</rp></ruby></a>の元にある、<a href="https://ja.wikipedia.org/wiki/ミカエル" title="https://ja.wikipedia.org/wiki/ミカエル">大天使ミカエル</a>信仰の史料をご紹介します。<br>
+<a href="https://ja.wikipedia.org/wiki/ミカエル" title="https://ja.wikipedia.org/wiki/ミカエル">大天使ミカエル</a>が<a href="https://ja.wikipedia.org/wiki/新約聖書" title="https://ja.wikipedia.org/wiki/新約聖書">新約聖書</a>に唯一表れるのは<a href="https://ja.wikipedia.org/wiki/ヨハネの黙示録" title="https://ja.wikipedia.org/wiki/ヨハネの黙示録">ヨハネ黙示録</a>の真ん中に位置付けられている。<br>
+この第１２章文書は、「<a href="/docs/ja/mont-saint-michel/arch-michel/apocalypse#bataille" title="天の戦い" id="renvoi_bataille">天の闘い</a>」とも呼ばれているとおり、恐ろしい戦いが起こされます。<br>
 間接的な語りより、<a href="https://ja.wikipedia.org/wiki/新共同訳聖書" title="https://ja.wikipedia.org/wiki/新共同訳聖書">新共同訳</a>から引用されている以下の文書を自分でお読みになることをお勧めします。</p></div>
 <table>
 <thead>
@@ -30,7 +30,7 @@
 <tr>
 <td><sup>０３</sup></td>
 <td>また、もう一つのしるしが天に現れた。見よ、火のように赤い大きな竜である。
-これには７つの頭と１０本の角があって、その頭に7つの冠をかぶっていた。</td>
+これには７つの頭と１０本の角があって、その頭に７つの冠をかぶっていた。</td>
 <tr>
 <td><sup>０４</sup></td>
 <td>竜の尾は、天の星の三分の一を<ruby>掃<rp>(</rp><rt>は</rt><rp>)</rp></ruby>き寄せて、地上に投げつけた。
@@ -61,25 +61,25 @@
 その使いたちも、もろともに投げ落とされた。</td>
 <tr>
 <td><sup>１０</sup></td>
-<td>わたしは、天で大きな声が次のように言うのを、聞いた。<br />
-「今や、我々の神の救いと力と支配が現れた。<br />
-神のメシアの権威が現れた。<br />
-我々の兄弟たちを告発する者、<br />
-昼も夜も我々の神の御前で彼らを告発する者が、<br />
+<td>わたしは、天で大きな声が次のように言うのを、聞いた。<br>
+「今や、我々の神の救いと力と支配が現れた。<br>
+神のメシアの権威が現れた。<br>
+我々の兄弟たちを告発する者、<br>
+昼も夜も我々の神の御前で彼らを告発する者が、<br>
 投げ落とされたからである。</td>
 <tr>
 <td><sup>１１</sup></td>
-<td>兄弟たちは、小羊の血と<br />
-自分たちの証しの言葉とで、<br />
-彼に打ち勝った。<br />
+<td>兄弟たちは、小羊の血と<br>
+自分たちの証しの言葉とで、<br>
+彼に打ち勝った。<br>
 彼らは、死に至るまで命を惜しまなかった。</td>
 <tr>
 <td><sup>１２</sup></td>
-<td>このゆえに、もろもろの天と、<br />
-その中に住む者たちよ、喜べ。<br />
-地と海とは不幸である。<br />
-悪魔は怒りに燃えて、<br />
-お前たちのところへ<ruby>降<rp>(</rp><rt>くだ</rt><rp>)</rp></ruby>って行った。<br />
+<td>このゆえに、もろもろの天と、<br>
+その中に住む者たちよ、喜べ。<br>
+地と海とは不幸である。<br>
+悪魔は怒りに燃えて、<br>
+お前たちのところへ<ruby>降<rp>(</rp><rt>くだ</rt><rp>)</rp></ruby>って行った。<br>
 残された時が少ないのを知ったからである。」</td>
 <br>
 <tr>
