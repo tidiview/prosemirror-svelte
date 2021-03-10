@@ -6,7 +6,7 @@
 
   const html = `
   <div id="body-inner">
-	<h1><ruby style="color:#555;">ヴァンドーム広場<rt style="color:#999;font-size:0.95rem;">place&#160;Vendôme</rt></ruby></h1>
+	<h1 class="green"><ruby style="color:#555;">ヴァンドーム広場<rt style="color:#999;font-size:0.95rem;">place&#160;Vendôme</rt></ruby></h1>
 <figure><picture><source media="(min-width: 959px)" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-380.webp 380w,
@@ -28,7 +28,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.
 https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-focus-480.jpg 480w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-focus-640.jpg 640w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-focus_700x415.jpg 700w"></picture><figcaption>１７３４年での<ruby lang="ja">テュルゴの地図<rt lang="fr" style="color:#999;">Plan de Turgot</rt></ruby>によるパリにある<ruby lang="ja">ヴァンドーム広場<rt lang="fr" style="color:#999;">place Vendôme</rt></ruby></figcaption></figure>
-<h2><span style="color: #3d8b3d;">１７世紀でのヴァンドーム広場</span></h2>
+<h2 class="green">１７世紀でのヴァンドーム広場</h2>
 <div class="notices green">
 <p><a href="https://www.google.com/maps/place/Rue de Rivoli, Paris, フランス/@48.8644156,2.3276843,17z/data=!4m5!3m4!1s0x47e66e21852883b7:0x88f8c24b3bea7b50!8m2!3d48.860463!4d2.3422219" title="https://www.google.com/maps/place/Rue+de+Rivoli,+Paris,+フランス/@48.8644156,2.3276843,17z/data=!4m5!3m4!1s0x47e66e21852883b7:0x88f8c24b3bea7b50!8m2!3d48.860463!4d2.3422219"><ruby lang="ja">リヴォリ通り<rp>(</rp><rt lang="fr">rue&#160;de&#160;Rivoli</rt><rp>)</rp></ruby lang="ja"></a>が１８０１年に開かれる前に、<a href="https://ja.wikipedia.org/wiki/ヴァンドーム広場" title="https://ja.wikipedia.org/wiki/ヴァンドーム広場">ヴァンドーム広場</a>は今とはとても違う顔でした。  </p>
 </div>

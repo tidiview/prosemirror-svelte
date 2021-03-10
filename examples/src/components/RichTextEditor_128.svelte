@@ -6,7 +6,7 @@
 
   const html = `
 <div id="body-inner">
-<h1>ラトナ</h1>
+<h1 class="red">ラトナ</h1>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/01.latone/latone-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/01.latone/latone-380.webp 380w,
@@ -19,11 +19,11 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardin
 https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/01.latone/latone-640.jpg 640w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/01.latone/latone_700x525.jpg 700w"></picture><figcaption>ラトナの怒りで池の生き物に変身されたリュキアの農夫たち</figcaption></figure>
 <div class="notices red">
-<p>「<ruby>ラトナの噴水<rp>(</rp><rt>la&#160;Fontaine&#160;de&#160;Latone</rt><rp>)</rp></ruby>の手前で一休みして、ラトナ、周りにある彫刻をみよ。
-<ruby>王の散歩道<rp>(</rp><rt>l'Allée&#160;Royale</rt><rp>)</rp></ruby>、<ruby>アポロンの噴水<rp>(</rp><rt>La&#160;Fontaine&#160;d'Apollon</rt><rp>)</rp></ruby>、その向こうの運河を見渡そう」。<br />
-「<ruby>ヴェルサイユ庭園案内法<rp>(</rp><rt>Manière&#160;de&#160;montrer&#160;les&#160;jardins&#160;de&#160;Versailles</rt><rp>)</rp></ruby>」の第２節で、<a href="https://ja.wikipedia.org/wiki/ルイ14世_(フランス王)" title="https://ja.wikipedia.org/wiki/ルイ１４世 (フランス王)"><ruby>ルイ<rp>(</rp><rt>Louis</rt><rp>)</rp>１４世<rp>(</rp><rt>XIV</rt><rp>)</rp></ruby></a> が書いた通り、宮殿の西正面から、中央軸線を沿って、<ruby>水の花壇<rp>(</rp><rt>le&#160;Parterre&#160;d'&#160;Eau</rt><rp>)</rp></ruby>を得て、少しづつ、地平線の展開を楽しみながら、<ruby>ラトナの泉水と花壇<rp>(</rp><rt>le&#160;Bassin&#160;et&#160;le&#160;Parterre&#160;de&#160;Latone</rt><rp>)</rp></ruby>が見えて来る。<br />
-<a href="https://ja.wikipedia.org/wiki/ユーノー" title="https://ja.wikipedia.org/wiki/ユーノー"><ruby>ユノー<rp>(</rp><rt>Juno</rt><rp>)</rp></ruby>女神</a>の迫害を受けながら、太陽神である<a href="https://ja.wikipedia.org/wiki/アポローン" title="https://ja.wikipedia.org/wiki/アポローン"><ruby>アポロン<rp>(</rp><rt>Apollon</rt><rp>)</rp></ruby></a>とお月様女神の<a href="https://ja.wikipedia.org/wiki/ディアナ" title="https://ja.wikipedia.org/wiki/ディアナ"><ruby>ディアナ<rp>(</rp><rt>Diane</rt><rp>)</rp></ruby></a>を生むことだった<a href="https://ja.wikipedia.org/wiki/レートー" title="https://ja.wikipedia.org/wiki/レートー"><ruby>ラトナ<rp>(</rp><rt>Latone</rt><rp>)</rp></ruby></a>と<a href="https://ja.wikipedia.org/wiki/リュキア" title="https://ja.wikipedia.org/wiki/リュキア"><ruby>リュキア<rp>(</rp><rt>Lycia</rt><rp>)</rp></ruby></a>の農夫たちで出来ている泉水である。<br />
-<a href="https://ja.wikipedia.org/wiki/オウィディウス" title="https://ja.wikipedia.org/wiki/オウィディウス"><ruby>オウィディウス<rp>(</rp><rt>Ovidius</rt><rp>)</rp></ruby></a> が著わした「<a href="https://ja.wikipedia.org/wiki/変身物語" title="https://ja.wikipedia.org/wiki/変身物語"><ruby>変身物語<rp>(</rp><rt>Metamorphoseon</rt><rp>)</rp></ruby></a>」に合わせて、その対立をより身近くすることが出来るのであろう。  </p>
+<p>「<ruby lang="ja">ラトナの噴水<rp>(</rp><rt lang="fr">la&#160;Fontaine&#160;de&#160;Latone</rt><rp>)</rp></ruby>の手前で一休みして、ラトナ、周りにある彫刻をみよ。
+<ruby lang="ja">王の散歩道<rp>(</rp><rt>l'Allée&#160;Royale</rt><rp>)</rp></ruby>、<ruby>アポロンの噴水<rp>(</rp><rt lang="fr">La&#160;Fontaine&#160;d'Apollon</rt><rp>)</rp></ruby>、その向こうの運河を見渡そう」。<br>
+「<ruby lang="ja">ヴェルサイユ庭園案内法<rp>(</rp><rt lang="fr">Manière&#160;de&#160;montrer&#160;les&#160;jardins&#160;de&#160;Versailles</rt><rp>)</rp></ruby>」の第２節で、<a href="https://ja.wikipedia.org/wiki/ルイ14世_(フランス王)" title="https://ja.wikipedia.org/wiki/ルイ１４世 (フランス王)"><ruby lang="ja">ルイ<rp>(</rp><rt lang="fr">Louis</rt><rp>)</rp>十四世<rp>(</rp><rt>XIV</rt><rp>)</rp></ruby></a> が書いた通り、宮殿の西正面から、中央軸線を沿って、<ruby lang="ja">水の花壇<rp>(</rp><rt lang="fr">le&#160;Parterre&#160;d'&#160;Eau</rt><rp>)</rp></ruby>を得て、少しづつ、地平線の展開を楽しみながら、<ruby lang="ja">ラトナの泉水と花壇<rp>(</rp><rt lang="fr">le&#160;Bassin&#160;et&#160;le&#160;Parterre&#160;de&#160;Latone</rt><rp>)</rp></ruby>が見えて来る。<br>
+<a href="https://ja.wikipedia.org/wiki/ユーノー" title="https://ja.wikipedia.org/wiki/ユーノー"><ruby lang="ja">ユノー<rp>(</rp><rt lang="la">Juno</rt><rp>)</rp></ruby>女神</a>の迫害を受けながら、太陽神である<a href="https://ja.wikipedia.org/wiki/アポローン" title="https://ja.wikipedia.org/wiki/アポローン"><ruby lang="ja">アポロン<rp>(</rp><rt lang="la">Apollon</rt><rp>)</rp></ruby></a>とお月様女神の<a href="https://ja.wikipedia.org/wiki/ディアナ" title="https://ja.wikipedia.org/wiki/ディアナ"><ruby lang="ja">ディアナ<rp>(</rp><rt lang="la">Diane</rt><rp>)</rp></ruby></a>を生むことだった<a href="https://ja.wikipedia.org/wiki/レートー" title="https://ja.wikipedia.org/wiki/レートー"><ruby lang="ja">ラトナ<rp>(</rp><rt lang="la">Latone</rt><rp>)</rp></ruby></a>と<a href="https://ja.wikipedia.org/wiki/リュキア" title="https://ja.wikipedia.org/wiki/リュキア"><ruby lang="ja">リュキア<rp>(</rp><rt lang="la">Lycia</rt><rp>)</rp></ruby></a>の農夫たちで出来ている泉水である。<br>
+<a href="https://ja.wikipedia.org/wiki/オウィディウス" title="https://ja.wikipedia.org/wiki/オウィディウス"><ruby lang="ja">オウィディウス<rp>(</rp><rt lang="la">Ovidius</rt><rp>)</rp></ruby></a> が著わした「<a href="https://ja.wikipedia.org/wiki/変身物語" title="https://ja.wikipedia.org/wiki/変身物語"><ruby lang="ja">変身物語<rp>(</rp><rt lang="la">Metamorphoseon</rt><rp>)</rp></ruby></a>」に合わせて、その対立をより身近くすることが出来るのであろう。</p>
 </div>
 <p><span style="color: #b52b27;"><strong>ラトナ</strong></span>  </p>
 <p><span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span>
@@ -56,7 +56,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardin
 水と同時に、命を授かったのだといえるのです。
 ですから、どうか水と生命とを！
 この子供たちのことも、お考えください！
-この胸に抱かれて、かわいい腕をさしのべています」<br />
+この胸に抱かれて、かわいい腕をさしのべています」<br>
 そのとき、ちょうど、みどりごたちは、腕をさし出していたのです。</p>
 <p>女神のもの柔らかな言葉に動かされないものが、ありえたでしょうか。
 けれども、この農夫たちは、頑として女神の願いをはねっけました。
@@ -64,7 +64,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardin
 そればかりではなく、足や手で池の水をかき乱し、意地悪くあちこちへ跳びはねて、水底から柔らかい泥をかきたてたりするのです。
 女神も、いまは、渇きよりも怒りが先に立ちました。
 もう、懇願する気にもなれなかったし、神にふさわしくないような言葉を口にすることにも堪えられません。
-両手を高くさしあげると、こういったのです。<br />
+両手を高くさしあげると、こういったのです。<br>
 「お前たちのその池に、いつまでも<ruby>佇<rp>(</rp><rt>ただす</rt><rp>)</rp></ruby>んでいることです！」</p>
 <p>女神の願いは実現しました。
 彼らには、水のなかに住んでいることが、喜びとなったのです。

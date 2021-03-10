@@ -6,7 +6,7 @@
 
   const html = `
 <div id="body-inner">
-<h1>アラクネ</h1>
+<h1 class="red">アラクネ</h1>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/01.arachnee/arachnee-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/01.arachnee/arachnee-380.webp 380w,
@@ -19,11 +19,11 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.triano
 https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/01.arachnee/arachnee-640.jpg 640w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/01.arachnee/arachnee_700x520.jpg 700w"></picture><figcaption>手前に見えるミネルヴァが真ん中にいるアラクネを殴りつけている</figcaption></figure>
 <div class="notices red">
-<p><a href="https://ja.wikipedia.org/wiki/大トリアノン宮殿" title="https://ja.wikipedia.org/wiki/大トリアノン宮殿"><ruby>大トリアノン宮殿<rp>(</rp><rt>le&#160;Grand&#160;Trianon</rt><rp>)</rp></ruby></a>に展示されている<a href="https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス" title="https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス"><ruby>ルネ<rp>(</rp><rt>René</rt><rp>)</rp>＝<rp>(</rp><rt>-</rt><rp>)</rp>アントワーヌ<rp>(</rp><rt>Antoine</rt><rp>)</rp>・<rp>(</rp><rt></rt><rp>)</rp>ウアス<rp>(</rp><rt>Houasse</rt><rp>)</rp></ruby></a>が描いた「<ruby>ミネルヴァ<rp>(</rp><rt>Minerve</rt><rp>)</rp>と<rp>(</rp><rt>et</rt><rp>)</rp>アラクネ<rp>(</rp><rt>Arachnée</rt><rp>)</rp></ruby>」絵画が<ruby>領主たちの控えの間<rp>(</rp><rt>le&#160;Salon&#160;des&#160;Seigneurs</rt><rp>)</rp></ruby>に見られます。<br />
-<a href="https://ja.wikipedia.org/wiki/オウィディウス" title="https://ja.wikipedia.org/wiki/オウィディウス"><ruby>オウィディウス<rp>(</rp><rt>Ovidius</rt><rp>)</rp></ruby></a>が書いた「<a href="https://ja.wikipedia.org/wiki/変身物語" title="https://ja.wikipedia.org/wiki/変身物語"><ruby>変身物語<rp>(</rp><rt>Metamorphoseon</rt><rp>)</rp></ruby></a>」で、神に負けない<a href="https://ja.wikipedia.org/wiki/リュディア" title="https://ja.wikipedia.org/wiki/リュディア">リディア</a>出身の<ruby>機<rp>(</rp><rt>はた</rt><rp>)</rp>織<rp>(</rp><rt>お</rt><rp>)</rp></ruby>りの技術で優秀な<a href="https://ja.wikipedia.org/wiki/アラクネー" title="https://ja.wikipedia.org/wiki/アラクネー"><ruby>アラクネ<rp>(</rp><rt>Arachnē</rt><rp>)</rp></ruby></a>が賢くさの女神である<a href="https://ja.wikipedia.org/wiki/ミネルウァ" title="https://ja.wikipedia.org/wiki/ミネルウァ"><ruby>ミネルヴァ<rp>(</rp><rt>Minerva</rt><rp>)</rp></ruby></a>との恐ろしい対立が語られている。  </p>
+<p><a href="https://ja.wikipedia.org/wiki/大トリアノン宮殿" title="https://ja.wikipedia.org/wiki/大トリアノン宮殿"><ruby lang="ja">大トリアノン宮殿<rp>(</rp><rt lang="fr">le&#160;Grand&#160;Trianon</rt><rp>)</rp></ruby></a>に展示されている<a href="https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス" title="https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス"><ruby lang="ja">ルネ<rp>(</rp><rt lang="fr">René</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>アントワーヌ<rp>(</rp><rt lang="fr">Antoine</rt><rp>)</rp>・<rp>(</rp><rt lang="fr"></rt><rp>)</rp>ウアス<rp>(</rp><rt lang="fr">Houasse</rt><rp>)</rp></ruby></a>が描いた「<ruby lang="ja">ミネルヴァ<rp>(</rp><rt lang="fr">Minerve</rt><rp>)</rp>と<rp>(</rp><rt lang="fr">et</rt><rp>)</rp>アラクネ<rp>(</rp><rt lang="fr">Arachnée</rt><rp>)</rp></ruby>」絵画が<ruby lang="ja">領主たちの控えの間<rp>(</rp><rt lang="fr">le&#160;Salon&#160;des&#160;Seigneurs</rt><rp>)</rp></ruby>に見られます。<br>
+<a href="https://ja.wikipedia.org/wiki/オウィディウス" title="https://ja.wikipedia.org/wiki/オウィディウス"><ruby lang="ja">オウィディウス<rp>(</rp><rt lang="la">Ovidius</rt><rp>)</rp></ruby></a>が書いた「<a href="https://ja.wikipedia.org/wiki/変身物語" title="https://ja.wikipedia.org/wiki/変身物語"><ruby lang="ja">変身物語<rp>(</rp><rt lang="la">Metamorphōseōn&#160librī</rt><rp>)</rp></ruby></a>」で、神に負けない<a href="https://ja.wikipedia.org/wiki/リュディア" title="https://ja.wikipedia.org/wiki/リュディア">リディア</a>出身の<ruby>機<rp>(</rp><rt>はた</rt><rp>)</rp>織<rp>(</rp><rt>お</rt><rp>)</rp></ruby>りの技術で優秀な<a href="https://ja.wikipedia.org/wiki/アラクネー" title="https://ja.wikipedia.org/wiki/アラクネー"><ruby lang="ja">アラクネ<rp>(</rp><rt lang="grc">Arachnē</rt><rp>)</rp></ruby></a>が賢くさの女神である<a href="https://ja.wikipedia.org/wiki/ミネルウァ" title="https://ja.wikipedia.org/wiki/ミネルウァ"><ruby lang="ja">ミネルヴァ<rp>(</rp><rt lang="la">Minerva</rt><rp>)</rp></ruby></a>との恐ろしい対立が語られている。</p>
 </div>
 <p><br></p>
-<h2><span style="color: #b52b27;"><strong>アラクネ</strong></span></h2>
+<h2 class="red">アラクネ</h2>
 <p><span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span>
 <sup>１</sup>
 ミネルウァ女神はこのような話に耳をかたむけ、詩神ムーサたちの歌と、その正当な怒りとをたたえた。
@@ -45,17 +45,17 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.triano
 毬に指をあてて、毛を整える。それから、雲のようにふんわりした毛房を、繰り返し幾度も長く引きのばして、柔らかな糸にする。
 ためらかな<ruby>紡錘<rp>(</rp><rt>つむ</rt><rp>)</rp></ruby>を軽やかな手で回す。
 こうして、柄模様を織りあげてゆく。
-――ひとは、彼女に技術を<ruby>授<rp>(</rp><rt>さず</rt><rp>)</rp></ruby>けたのはミネルウァ女神だとさとるだろう。けれども、アラクネ自身はそれを否定し、かくもリっぱな師匠の名に<ruby>憤<rp>(</rp><rt>いきどお</rt><rp>)</rp></ruby>りをおぼえて、こういう。<br />
+――ひとは、彼女に技術を<ruby>授<rp>(</rp><rt>さず</rt><rp>)</rp></ruby>けたのはミネルウァ女神だとさとるだろう。けれども、アラクネ自身はそれを否定し、かくもリっぱな師匠の名に<ruby>憤<rp>(</rp><rt>いきどお</rt><rp>)</rp></ruby>りをおぼえて、こういう。<br>
 「女神さまも、わたしのわざを<ruby>競<rp>(</rp><rt>きそ</rt><rp>)</rp></ruby>われたらよいのだ、わたしが負けたら、わたしをお好きなようになさるがいい！」</p>
 <p>おさまらぬミネルウァは、老婆に変装する。
 こめかみのあたりににせの白髪を植えつけ、衰えたからだを杖で支えたりもしている。
-それからこう口をきった。<br />
+それからこう口をきった。<br>
 「わたしの忠告を無にしてはならないよ。
 世に<ruby>機<rp>(</rp><rt>はた</rt><rp>)</rp></ruby>織りの高名を求めるのもよい。
 が、女神には一歩を譲らねば！
 これ、軽はずみな娘さん、あんたの言葉にたいしては、うやうやしく許しを乞うがよい！
 そうすれば、女神も許しを与えられようから」</p>
-<p>アラクネは、彼女をにらみすえると、手にしていた糸を放し、振りあげかけた手をとどめかねながら、怒りの色を顔にあらわして、こう女神に答えた。<br />
+<p>アラクネは、彼女をにらみすえると、手にしていた糸を放し、振りあげかけた手をとどめかねながら、怒りの色を顔にあらわして、こう女神に答えた。<br>
 「よくもいらしたのね、そんなにも、もうろくして、老いさらばえていながら！
 長生きしすぎるのも、どうかと思うわ。
 嫁か、娘さんはいないの？
@@ -67,8 +67,8 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.triano
 わたしの考えには、変わりがないのだから。
 でも、女神さまはどうしてご自分で来ないの？
 わざ比べを避けるのは、なぜなの？」</p>
-<p>そこで、女神は、<br />
-「もうおいでになっているのだよ！」<br />
+<p>そこで、女神は、<br>
+「もうおいでになっているのだよ！」<br>
 といいながら、老婆の姿をぬぎ捨てて、女神の姿を現わした。
 <ruby>妖精<rp>(</rp><rt>ニンフ</rt><rp>)</rp></ruby>たちも、リュディアの女たちも、この神をおがめている。
 が、アラクネだけは平然たるものだ。
@@ -143,13 +143,13 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.triano
 男まさりの、金髪の女神には、その出来ばえが<ruby>癪<rp>(</rp><rt>しゃく</rt><rp>)</rp></ruby>にさわった。
 神々の非行を描いたこの織物を引きちぎると、手にしていたキュトロス産の<ruby>黄楊<rp>(</rp><rt>つげ</rt><rp>)</rp></ruby>の<ruby>梭<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>で、三度、四度と、アラクネの<ruby>額<rp>(</rp><rt>ひたい</rt><rp>)</rp></ruby>を打った。
 かわいそうなアラクネは、ころえきれないで、ひと思いに首をくくったった。
-哀れを催したミネルウァは、ぶらさがっている彼女を抱き上げて、こういった。<br />
+哀れを催したミネルウァは、ぶらさがっている彼女を抱き上げて、こういった。<br>
 「腹ぐらい娘さん、生きてたけおいで！
 でも、ぶらさがったままでいるのよ！
 先のことも、安心してはならないね。
 おまえさんの一族には、末ながく、同じ懲罰を残しておくのだから」</p>
 <p>こういって、立ち去ろうとしながら、魔法の草の汁を彼女にふりかけた。</p>
-<p><sup>１４０</sup>　
+<p><sup>１４０</sup>
 と、たちまちに、不吉な毒薬に触れた髪の毛が、脱け落ちた。
 それとともに、鼻も、両耳も落ちる。
 そして、頭がたいそう小さくなる。
