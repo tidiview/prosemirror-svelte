@@ -6,11 +6,11 @@
 
   const html = `
 <div class="list-blog-date">
-<p><span>12</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
-<p>3月</p>
-<p><span>2020</span></p>
+<p><span>１２</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
+<p>３月</p>
+<p><span>２０２０年</span></p>
 </div>
-<h1 lang="ja"><a href="/blog/ja/phedre" rel="bookmark">パイドロス</a></h1>
+<h1 class="yellow"><a href="/blog/ja/phedre" rel="bookmark">パイドロス</a></h1>
 </div>
 <div class="list-blog-padding lang-font" lang="ja">
 <div class="notices yellow">

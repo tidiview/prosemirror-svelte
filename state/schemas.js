@@ -626,14 +626,14 @@ export const ExtendedThreerichTextSchema = new Schema({
         {tag: "h5", getAttrs(dom) { return {level: 5, id: dom.id, color: dom.getAttribute("class")} }},
         {tag: "h6", getAttrs(dom) { return {level: 6, id: dom.id, color: dom.getAttribute("class")} }}
       ],
-      toDOM(node) { let {level, id, color} = node.attrs; return id == "" ? ["h" + level, 0] : color == "" ? ["h" + level, {id}, 0] : ["h" + level, {"class": color, id}, 0] }
+      toDOM(node) { let {level, id, color} = node.attrs; return id == "" ? color == "" ? ["h" + level, 0] : ["h" + level, {"class": color}, 0] : color == "" ? ["h" + level, {id}, 0] : ["h" + level, {"class": color, id}, 0] }
     },
     ruby: {
       content: "inline*",
       group: "inline",
       inline: true,
       attrs: {lang: {default: null}},
-      parseDOM: [{tag: "ruby", getAttrs(dom) { return {lang: dom.lang} }}],
+      parseDOM: [{tag: "ruby", getAttrs(dom) { return {lang: dom.lang} }}, {tag: "rp", ignore: true}],
       toDOM(node) { let {lang} = node.attrs; return lang == "" ? ["ruby", 0] : ["ruby", {lang}, 0] },
     },
     text: {
@@ -805,11 +805,11 @@ export const ExtendedThreerichTextSchema = new Schema({
       parseDOM: [{tag: "rt", getAttrs(dom) { return {lang: dom.lang} }}],
       toDOM(node) { let {lang} = node.attrs; return lang == "" ? ["rt", 0] : ["rt", {lang}, 0] },
     },
-    rp: {
+    /* rp: {
       inclusive: false,
       parseDOM: [{tag: "rp"}],
       toDOM() { return ["rp", 0] },
-    },
+    }, */
     linkwithid: {
       attrs: {
         href: {default: null},

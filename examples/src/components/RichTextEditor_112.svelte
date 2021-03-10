@@ -5,10 +5,10 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-<p><span>12</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
-<p>2月</p>
-<p><span>2020</span></p>
-<h1><a href="/blog/ja/diotime/page:1" rel="bookmark">ディオティマによる愛</a></h1>
+<p><span>１２</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
+<p>２月</p>
+<p><span>２０２０年</span></p>
+<h1 class="blue"><a href="/blog/ja/diotime/page:1" rel="bookmark">ディオティマによる愛</a></h1>
 <div class="notices blue">
 <p>プラトンの『饗宴』において、宴に集まった人々は、<ruby>愛<rp>(</rp><rt>エロス</rt><rp>)</rp></ruby>の意義について議論を交わす。<br />
 そこで<a href="#note_socrate" title="ソクラテス" id="socrate">ソクラテス</a>は、自分が若かった頃に、予言者で巫女でもあった<a href="#note_diotime" title="ディオティマ" id="diotime">ディオティマ</a>から「愛の哲学」を教えられたと述べる。<br />

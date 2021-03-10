@@ -11,11 +11,11 @@
 </div>
 
 <div class="list-blog-date">
-    <p><span>30</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
-    <p>10月</p>
-    <p><span>2017</span></p>
+    <p><span>３０</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
+    <p>１０月</p>
+    <p><span>２０１７年</span></p>
 </div>
-            <h1 lang="ja"><a href="/blog/ja/rousi" rel="bookmark">自ら勝つ者は強し</a></h1>
+            <h1 class="green"><a href="/blog/ja/rousi" rel="bookmark">自ら勝つ者は強し</a></h1>
 
             </div>
  
@@ -24,7 +24,7 @@
 </div>
 
 <p><br></p>
-<p><span style="color: #3d8b3d;"><ruby>老<rp>(</rp><rt>ろう</rt><rp>)</rp>子<rp>(</rp><rt>し</rt><rp>)</rp></ruby>、第33章</span></p>
+<p><span style="color: #3d8b3d;"><ruby>老<rp>(</rp><rt>ろう</rt><rp>)</rp>子<rp>(</rp><rt>し</rt><rp>)</rp></ruby>、第３３章</span></p>
 <div id="display-text-rousi">
 <div id="display-sub-text-rousi">
 <figure id="original-text-rousi">

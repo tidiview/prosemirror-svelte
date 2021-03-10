@@ -7,11 +7,11 @@
   const html = `
 <div class="list-blog-header">
 <div class="list-blog-date">
-<p><span>4</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
-<p>6月</p>
-<p><span>2016</span></p>
+<p><span>４</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
+<p>６月</p>
+<p><span>２０１６年</span></p>
 </div>
-<h1 lang="ja"><a href="/blog/ja/iehamotomoto" rel="bookmark">自家製</a></h1>
+<h1 class="red"><a href="/blog/ja/iehamotomoto" rel="bookmark">自家製</a></h1>
 </div>
 <div class="list-blog-padding lang-font" lang="ja">
 <div class="notices red">

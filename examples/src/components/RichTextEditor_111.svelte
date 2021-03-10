@@ -6,18 +6,18 @@
 
   const html = `
   <div class="list-blog-date">
-<p><span>15</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
-<p>6月</p>
-<p><span>2016</span></p>
+<p><span>１５</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
+<p>６月</p>
+<p><span>２０１６年</span></p>
 </div>
-<h1 lang="ja"><a href="/blog/ja/syusigaku" rel="bookmark">朱子学とは何か</a></h1>
+<h1 class="yellow"><a href="/blog/ja/syusigaku" rel="bookmark">朱子学とは何か</a></h1>
 </div>
 <div class="notices yellow">
 <p>ここでは、基本の基本をまとまった形で、わかりやすく紹介されている。  </p>
 </div>
 <p>それで、私のような、何も知らない人でもある程度朱子学を理解できるのではないかと思う。  </p>
 
-<h2><span style="color: #df8a13;">朱子学</span></h2>
+<h2 class="yellow">朱子学</h2>
 <p><span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span> 朱子学とはどのような儒学思想なのか。</p>
 <p>儒教というのは、古代中国の<ruby>堯<rp>(</rp><rt>ぎょう</rt><rp>)</rp></ruby>・<ruby>舜<rp>(</rp><rt>しゅん</rt><rp>)</rp></ruby>などという聖王の政治を理想とする復古主義的な思想で、春秋時代の孔子（紀元前五百年頃）が開いた。  </p>
 <p>この儒教についての学問である儒学は、歴史的に見ると、<ruby>漢<rp>(</rp><rt>かん</rt><rp>)</rp>唐<rp>(</rp><rt>とう</rt><rp>)</rp>訓<rp>(</rp><rt>くん</rt><rp>)</rp>詁<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>の学（漢学）から宋代<ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp>理<rp>(</rp><rt>り</rt><rp>)</rp></ruby>の学（宋学）へと大きく変化したと言われる。  </p>
@@ -53,7 +53,7 @@
 <dl>
 <dt>引用:</dt>
 <dd>
-<a href="https://ja.wikipedia.org/wiki/揖斐高" title="https://ja.wikipedia.org/wiki/揖斐高"><ruby>揖<rp>(</rp><rt>い</rt><rp>)</rp>斐<rp>(</rp><rt>び</rt><rp>)</rp>・<rp>(</rp><rt></rt><rp>)</rp>高<rp>(</rp><rt>たかし</rt><rp>)</rp></ruby></a>、「<a href="https://www.amazon.co.jp/江戸幕府と儒学者-林羅山・鵞峰・鳳岡三代の闘い-中公新書-揖斐-高/dp/4121022734" title="https://www.amazon.co.jp/江戸幕府と儒学者-林羅山・鵞峰・鳳岡三代の闘い-中公新書-揖斐-高/dp/4121022734">江戸幕府と儒学者</a>」、55貢</dd>
+<a href="https://ja.wikipedia.org/wiki/揖斐高" title="https://ja.wikipedia.org/wiki/揖斐高"><ruby>揖<rp>(</rp><rt>い</rt><rp>)</rp>斐<rp>(</rp><rt>び</rt><rp>)</rp>・<rp>(</rp><rt></rt><rp>)</rp>高<rp>(</rp><rt>たかし</rt><rp>)</rp></ruby></a>、「<a href="https://www.amazon.co.jp/江戸幕府と儒学者-林羅山・鵞峰・鳳岡三代の闘い-中公新書-揖斐-高/dp/4121022734" title="https://www.amazon.co.jp/江戸幕府と儒学者-林羅山・鵞峰・鳳岡三代の闘い-中公新書-揖斐-高/dp/4121022734">江戸幕府と儒学者</a>」、５５貢</dd>
 </dl>
 </div>
 `;
