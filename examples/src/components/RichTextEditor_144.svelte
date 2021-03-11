@@ -5,8 +5,8 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-<h1><ruby lang="ja" style="color:#555;">聖ウルスラの<wbr>聖遺物箱<rt lang="nl" style="color:#999;">Het Ursulaschrijn</rt></ruby></h1>
 <div id="body-inner">
+<h1 class="notices green"><ruby lang="ja" style="color:#555;">聖ウルスラの<wbr>聖遺物箱<rt lang="nl" style="color:#999;">Het Ursulaschrijn</rt></ruby></h1>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-380.webp 380w,
@@ -35,7 +35,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 聖遺物箱では、たった６つの細密画だけで伝説が正確に見事に物語られていて、よりよく評価するよう、以下、写真と文書を対照的に提供している。</p>
 </div>
 <p><br></p>
-<h2><strong><span style="color: #3d8b3d;">１１　０００処女</span></strong></h2>
+<h2 class="green">１１　０００処女</strong></h2>
 <p><span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span>
 一万一千人の乙女たちが殉教したいきさつは、以下のとおりである。<br>
 昔<ruby lang="ja">ブリタニア<rp>(</rp><rt lang="la">Britannia</rt><rp>)</rp></ruby lang="ja">に<ruby lang="ja">ノトゥス<rp>(</rp><rt lang="la">Nothus</rt><rp>)</rp></ruby lang="ja">もしくは<ruby lang="ja">マウルス<rp>(</rp><rt lang="la">Maurus</rt><rp>)</rp></ruby lang="ja">という名の<ruby>敬<rp>(</rp><rt>けい</rt><rp>)</rp>度<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>なキリスト教徒の王がいた。王には娘がひとりあって、その名を<ruby>ウルスラ<rp>(</rp><rt>Ursula</rt><rp>)</rp></ruby>といった。
@@ -107,8 +107,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <hr>
 
 <div id="body-inner">
-				</p>
-<h2 id="commentaires" class="green">　<strong><span style="color: #3d8b3d;">註釈</span></strong></h2>
+<h2 id="commentaires" class="green">註釈</strong></h2>
 <h3 id="note_bruges" class="green">ブルージュ</h3>
 <div class="notices green">
 <p><ruby lang="ja">ブルージュ<rp>(</rp><rt lang="fr">Bruges</rt><rp>)</rp></ruby lang="ja"> は、フランス語から由来している歴史的な呼称で、現在、フラマン語での <a href="https://ja.wikipedia.org/wiki/ブルッヘ" title="https://ja.wikipedia.org/wiki/ブルッヘ"><ruby lang="ja">ブルッヘ<rp>(</rp><rt lang="nl">Brugge</rt><rp>)</rp></ruby lang="ja"></a> のほうに改める推薦もある。</p>
@@ -197,14 +196,12 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 しかし、彼は、それを自分の胸に秘めておいて、侍女たちのうちまだ受洗していなかった者に洗礼をさずけた。
 そして、いよいよそのときが来たと見るや、多くの会衆をまえにして自分の決意を告げ、聖務と教皇位をしりぞいた。
 聖<ruby lang="ja">ペトロ<rp>(</rp><rt lang="la">Petro</rt><rp>)</rp></ruby lang="ja">からかぞえて１９代目の教皇として彼が教会を統治した期間は、一年と１１週間であった。</p>
-<p>
 </div>
 
 <hr>
 
 <div id="body-inner">
-				</p>
-<h2 id="commentaires" class="green">　<strong><span style="color: #3d8b3d;">註釈</span></strong></h2>
+<h2 id="commentaires" class="green">註釈</strong></h2>
 <h3 id="note_tyella" class="green">テュエラ</h3>
 <div class="notices green">
 <p><ruby lang="ja">テュエラ<rp>(</rp><rt lang="la">Tyella</rt><rp>)</rp></ruby lang="ja"> というところは北海海岸海岸であろうが、未詳。
@@ -223,7 +220,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <!-- Page 3 --><hr>
 
 <div id="body-inner">
-				<p>これを聞いた人びとは、こぞって異議を申し立てた。
+<p>これを聞いた人びとは、こぞって異議を申し立てた。
 とくに<ruby>枢<rp>(</rp><rt>すう</rt><rp>)</rp>機<rp>(</rp><rt>き</rt><rp>)</rp>卿<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>たちは、<ruby>強<rp>(</rp><rt>きょう</rt><rp>)</rp>硬<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>に反対した。
 教皇は分別をなくし、栄誉ある教皇の座をすてて愚かな小娘のあとを追おうとしているのだ、と考えたからである。
 けれども、教皇は、彼らの反対にこころを動かされることなく、<ruby lang="ja">アメトス<rp>(</rp><rt lang="la">Ametos</rt><rp>)</rp></ruby lang="ja">という名の<ruby>聖<rp>(</rp><rt>せい</rt><rp>)</rp>徳<rp>(</rp><rt>とく</rt><rp>)</rp></ruby>の人物を自分のかわりに教皇位につけた。</p>
@@ -362,14 +359,14 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 
 <div id="body-inner">
 				</p>
-<h2 id="commentaires" class="green">　<strong><span style="color: #3d8b3d;">註釈</span></strong></h2>
+<h2 id="commentaires" class="green">註釈</strong></h2>
 <h3 id="note_antioche" class="green">アンティオケイア</h3>
 <div class="notices green">
 <p>アンテオケ、アンティオキアとも書く。
 ローマ帝国属州シリアの首都。
 <ruby>オロンテス<rp>(</rp><rt>Orontes</rt><rp>)</rp></ruby>川にのぞみ、現在はトルコ東南部、シリアとの国境に近い小都市<ruby>アンタキヤ<rp>(</rp><rt>Antakya</rt><rp>)</rp></ruby>であるが、ローマ帝国時代にはローマ、<ruby>アレクサンドリア<rp>(</rp><rt>Alexandria</rt><rp>)</rp></ruby>につぐ地中海第三の大都市であった。
 <ruby>イエルサレム<rp>(</rp><rt>Orontes</rt><rp>)</rp></ruby> につぐ初代キリスト教会の中心地、 パウロを中心とする異邦人伝道の一大拠点。
-また、3～5世紀には一連のすぐれた神学思想家をうみ、いわゆる〈アンティオケイア学派〉を形成した。</p>
+また、３～５世紀には一連のすぐれた神学思想家をうみ、いわゆる〈アンティオケイア学派〉を形成した。</p>
 <hr>
 <p>註に戻る：　<a href="#antioche" title="アンティオケイア">↑</a></p>
 </div>

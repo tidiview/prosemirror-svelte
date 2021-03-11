@@ -6,7 +6,7 @@
 
   const html = `
 <div id="body-inner">
-<h1><ruby lang="ja" style="color:#555;">マールテン・<wbr>ファン・<wbr>ニューウェンホーフェの<wbr>二連画<rt lang="nl" style="color:#999;">Diptiek van Maarten van Nieuwenhove</rt></ruby></h1>
+<h1 class="green"><ruby lang="ja" style="color:#555;">マールテン・<wbr>ファン・<wbr>ニューウェンホーフェの<wbr>二連画<rt lang="nl" style="color:#999;">Diptiek van Maarten van Nieuwenhove</rt></ruby></h1>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin0-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin0-380.webp 380w,
