@@ -848,12 +848,12 @@ export const ExtendedThreerichTextSchema = new Schema({
       parseDOM: [{tag: "sup"}],
       toDOM() { return ["sup", 0] },
     },
-    spancolor: {
-      attrs: {color: {default: null}},
-      parseDOM: [{tag: "span[style]", getAttrs(dom) {
-        return {color: dom.style["color"] ? dom.style["color"] : "none"}
+    span: {
+      attrs: {color: {default: null}, title: {default: null}},
+      parseDOM: [{tag: "span", getAttrs(dom) {
+        return {color: dom.style["color"], title: dom.title}
       }}],
-      toDOM(node) { let {color} = node.attrs ;return ["span", {"style": "color:" + color}, 0] },
+      toDOM(node) { let {color, title} = node.attrs ; return color == "" ? title == "" ? ["span", 0] : ["span", {"title": title}, 0] : title == "" ? ["span", {"style": "color:" + color}, 0] : ["span", {"style": "color:" + color,"title": title}, 0]  },
     },
   },
 });
