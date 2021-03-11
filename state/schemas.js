@@ -844,6 +844,10 @@ export const ExtendedThreerichTextSchema = new Schema({
       parseDOM: [{tag: "strong"}, {tag: "b"}],
       toDOM() { return ["strong", 0] },
     },
+    em: {
+      parseDOM: [{tag: "em"}],
+      toDOM() { return ["em", 0] },
+    },
     sup: {
       parseDOM: [{tag: "sup"}],
       toDOM() { return ["sup", 0] },
