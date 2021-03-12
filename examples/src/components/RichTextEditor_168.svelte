@@ -11,18 +11,18 @@
 <p>Le Baptème du roi des Francs, Clovis en français, ou "Clodovechus" du latin par <a href="#note_remigius" title="Remi">saint Rémi</a> en français ou sanctus Remigius en latin dans les documents historiques est raconté par Jacques de Voragine dans le chapître 16 de "La Légende dorée", principal livre chrétien au Moyen-Âge.</p>
 </div>
 <p><br></p>
-<h2 class="green" id="chapître-16-saint-remi">chapître 16 saint Remi</h2>
-<h3 class="green" id="première-interprétation-de-son-nom">première interprétation de son nom</h3>
-<p>Le nom de <a href="#note_remigius" title="Remi" id="remigius" class="green">Remi</a>, Remigius, vient de remi, <span style="color: #3d8b3d;">«paissant»</span>, et de geos, <span style="color: #3d8b3d;">«terre»</span>, et il signifie <span style="color: #3d8b3d;">«paissant : les hommes de la terre par son enseignement»</span>;
+<h2 id="chapître-16-saint-remi" class="green">chapître 16 saint Remi</h2>
+<h3 id="première-interprétation-de-son-nom" class="green">première interprétation de son nom</h3>
+<p>Le nom de <a href="#note_remigius" title="Remi" id="remigius">Remi</a>, Remigius, vient de remi, <span style="color: #3d8b3d;">«paissant»</span>, et de geos, <span style="color: #3d8b3d;">«terre»</span>, et il signifie <span style="color: #3d8b3d;">«paissant : les hommes de la terre par son enseignement»</span>;
 ou bien de gyon, <span style="color: #3d8b3d;">«lutte»</span>, et il signifie <span style="color: #3d8b3d;">«pasteur et lutteur»</span>.<br>
 Car il a nourri son troupeau de la parole de sa predication, de l'exemple de sa conduite, et du secours de sa prière.
 Il existe par ailleurs trois sortes d'armes :
 armes défensives comme le bouclier, armes offensives comme le glaive, armes de protection comme la cuirasse et le casque.<br>
 Aussi lutta-t-il contre le diable avec le bouclier de la foi, le glaive de la parole de Dieu et le casque de l'espérance.<br>
 L'archevèque de Reims Hincmar, rédigea sa Vie.</p>
-<h3 class="green" id="vie-de-saint-remi">vie de saint Remi</h3>
+<h3 id="vie-de-saint-remi" class="green">vie de saint Remi</h3>
 <p>La naissance de <span style="color: #3d8b3d;">Remi</span>, remarquable docteur et glorieux confesseur du Seigneur, fut prévue par un ermite, de la façon que voici.<br>
-Alors que la persécution des Vandales avait dévasté presque tout le <a href="#note_pays-des-francs" title="pays des Francs" id="pays-des-francs" class="green">pays des Francs</a>,
+Alors que la persécution des Vandales avait dévasté presque tout le <a href="#note_pays-des-francs" title="pays des Francs" id="pays-des-francs">pays des Francs</a>,
 un reclus, saint homme devenu aveugle, adressait au Seigneur de fréquentes prières pour la paix de l'Église de Gaule.<br>
 Or voici qu'un ange du Seigneur lui apparut et lui dit:<br>
 <span style="color: #3d8b3d;">«Sache qu'une femme du nom de Céline mettra au monde un fils
@@ -37,13 +37,13 @@ Quand tout cela se fut accompli exactement,
 <span style="color: #3d8b3d;">Remi</span> s'enfuit loin du monde, et s'enferma dans un reclusoir.
 Sa renommée grandit et, à l'âge de vingt-deux ans, il fut élu archevêque par tout le peuple de Reims.
 Il était d'une telle douceur que même les moineaux venaient à sa table et mangeaient les miettes dans sa main.</p>
-<h3 class="green" id="le-miracle-du-vin">le miracle du vin</h3>
+<h3 id="le-miracle-du-vin" class="green">le miracle du vin</h3>
 <p>Un jour qu'il avait reçu l'hospitalité dans la demeure d'une dame,
 et qu'elle n'avait qu'une petite provision de vin,
 <span style="color: #3d8b3d;">Remi</span> entra dans le cellier, fit une croix sur le tonneau, et, quand il eut prié,
 le vin déborda au point de couler à flots au milieu du cellier.</p>
-<h3 class="green" id="la-conversion-du-roi-clovis">la conversion du roi Clovis</h3>
-<p>À l'époque où Clovis, <a href="#note_roi-des-francs" title="roi des Francs" id="roi-des-francs" class="green">roi des Francs</a>, était encore païen
+<h3 id="la-conversion-du-roi-clovis" class="green">la conversion du roi Clovis</h3>
+<p>À l'époque où Clovis, <a href="#note_roi-des-francs" title="roi des Francs" id="roi-des-francs">roi des Francs</a>, était encore païen
 et n'avait pas encore pu être converti par son épouse très chrétienne,
 voyant fondre sur lui une armée innombrable d'Alamans,
 il fit au Seigneur Dieu que vénérait son épouse le vœu que, s'il lui accordait la victoire sur les Alamans, il adopterait aussitôt la foi du Christ.<br>
@@ -52,8 +52,8 @@ il s'en alla trouver saint <span style="color: #3d8b3d;">Remi</span> pour lui de
 Quand ils arrivèrent aux fonts baptismaux, où il n'y avait pas de saint chrême,
 voici qu' <span style="color: #3d8b3d;">une colombe apporta dans son bec une ampoule avec le chrême,
 dont le pontife oignit le roi</span>.<br>
-Cette ampoule est conservée dans l'église de Reims, et aujourd'hui encore on s'en sert pour donner l'onction aux rois de France (<a href="#note_onction" title="consécration des rois de France par le chrême" id="onction" class="green">note “consécration des rois de France par le chrême”</a>).</p>
-<h3 class="green" id="lévêque-entêté">l'évêque entêté</h3>
+Cette ampoule est conservée dans l'église de Reims, et aujourd'hui encore on s'en sert pour donner l'onction aux rois de France (<a href="#note_onction" title="consécration des rois de France par le chrême" id="onction">note “consécration des rois de France par le chrême”</a>).</p>
+<h3 id="lévêque-entêté" class="green">l'évêque entêté</h3>
 <p>Bien plus tard, comme Guénebaud, homme avisé, avait épousé une parente de <span style="color: #3d8b3d;">saint Remi</span>,
 et que par dévotion les deux époux s'étaient déliés mutuellement,
 saint <span style="color: #3d8b3d;">Remi</span> ordonna Guénebaud évêque de Laon.<br>
@@ -94,15 +94,15 @@ Enfin, saint <span style="color: #3d8b3d;">Remi</span>, qu'illustraient de nombr
 <br>
 <div id="body-inner">
 <p></p>
-<h2 id="notes">Notes</h2>
-<h3 id="note_remigius">remi</h3>
+<h2 id="notes" class="green">Notes</h2>
+<h3 id="note_remigius" class="green">remi</h3>
 <div class="notices green">
 <p>Étymologie apparemment créée par Voragine.</p>
 <ul>
 <li>revenir à la note: <a href="#remigius" title="Remi">Remi ⭡</a></li>
 </ul>
 </div>
-<h3 id="note_pays-des-francs">pays des Francs</h3>
+<h3 id="note_pays-des-francs" class="green">pays des Francs</h3>
 <div class="notices green">
 <p>Nous faisons le choix de traduire «pays des Francs» alors que Voragine emploie le mot «Francia».<br>
 Traduire par «France» prête à confusion car le terme de «France» n'existe ni au temps de Clovis ni au temps d'Hincmar.<br>
@@ -112,14 +112,14 @@ il nous apparaît que «Pays des Francs» est un bon moyen terme.</p>
 <li>revenir à la note: <a href="#pays-des-francs" title="pays des Francs">pays des Francs ⭡</a></li>
 </ul>
 </div>
-<h3 id="note_roi-des-francs">roi des Francs</h3>
+<h3 id="note_roi-des-francs" class="green">roi des Francs</h3>
 <div class="notices green">
 <p>Nous faisons le choix de traduire «roi des Francs» alors que Voragine emploie l'expression «roi de France», qui ne fut employée dans son sens actuel qu'à partir de Philippe Auguste.</p>
 <ul>
 <li>revenir à la note: <a href="#roi-des-francs" title="roi des Francs">roi des Francs ⭡</a></li>
 </ul>
 </div>
-<h3 id="note_pays-des-francs">consécration des rois de France par le chrême</h3>
+<h3 id="note_pays-des-francs" class="green">consécration des rois de France par le chrême</h3>
 <div class="notices green">
 <p>La consécration des rois de France par le chrême trouve son origine dans cette légende, dont la source la plus ancienne est Hincmar.</p>
 <ul>
@@ -131,13 +131,13 @@ il nous apparaît que «Pays des Francs» est un bon moyen terme.</p>
 <!-- Page 2 --><hr>
 
 <div id="body-inner">
-<h2 class="green" id="chapître-143-saint-remi">chapître 143 saint Remi</h2>
-<h3 class="green" id="seconde-interprétation-de-son-nom">seconde interprétation de son nom</h3>
+<h2 id="chapître-143-saint-remi" class="green">chapître 143 saint Remi</h2>
+<h3 id="seconde-interprétation-de-son-nom" class="green">seconde interprétation de son nom</h3>
 <p>Le nom de <span style="color: #3d8b3d;">Remi</span>, Remigius, vient de “remige”, <span style="color: #3d8b3d;">«le rameur»</span>, c'est-à-dire le pilote ou le chef de navire.
 Ou bien il vient de remis, <span style="color: #3d8b3d;">«les rames»</span>, qui sont les instruments par lesquels on mène le navire, et de gyon, qui signifie <span style="color: #3d8b3d;">«lutte»</span>.<br>
 Il pilota en effet l'Eglise en la gardant du naufrage,
 il la mena à la porte du paradis, et pour elle il lutta contre les pièges du diable.</p>
-<h3 class="green" id="clotilde-et-ses-enfants">Clotilde et ses enfants</h3>
+<h3 id="clotilde-et-ses-enfants" class="green">Clotilde et ses enfants</h3>
 <p>On dit que <span style="color: #3d8b3d;">Remi</span> convertit à la foi le roi et le peuple des Francs.<br>
 Le roi avait en effet une épouse très chrétienne, nommée Clotilde,
 qui tentait vainement de convertir son époux à la foi.<br>
@@ -159,7 +159,7 @@ Le roi dit à son épouse:<br>
 En mettras-tu au monde un millier, les feras-tu baptiser tous, qu'ils mourront tous de la même façon !»</span><br>
 Mais pourtant l'enfant guérit et retrouva la santé, et il put ensuite succéder à son père.<br>
 Cette femme, qui croyait en Dieu, essaya d'amener son époux à croire lui aussi, mais il résistait de toutes les manières.</p>
-<h3 class="green" id="le-meunier-fâché">le meunier fâché</h3>
+<h3 id="le-meunier-fâché" class="green">le meunier fâché</h3>
 <p>La façon dont il se convertit à la foi est racontée à l'occasion d'une autre fête, après l'Épiphanie.
 Devenu chrétien, le roi Clovis voulut doter l'Église de Reims,
 et il dit à <span style="color: #3d8b3d;">saint Remi</span> qu'il lui donnerait toutes les terres que l'évêque pourrait parcourir pendant que le roi ferait sa sieste.<br>
@@ -176,7 +176,7 @@ et partageons le moulin !»</span><br>
 Mais Remi lui dit:<br>
 <span style="color: #3d8b3d;">«Il ne sera ni à moi ni à toi»</span>,<br>
 et aussitôt la terre s'ouvrit et engloutit tout le moulin.</p>
-<h3 class="green" id="remi-prédit-une-famine">Remi prédit une famine</h3>
+<h3 id="remi-prédit-une-famine" class="green">Remi prédit une famine</h3>
 <p><span style="color: #3d8b3d;">Remi</span>, prévoyant qu'il y aurait une famine, avait amassé des tas de blé dans un village,
 mais des paysans ivres, pour se moquer de la prévoyance du vieillard, y mirent le feu.
 Quand il l'apprit, il se rendit sur place,
@@ -184,7 +184,7 @@ commença à se réchauffer du froid de l'âge et du soir qui tombait, et il dit
 <span style="color: #3d8b3d;">«Un feu est toujours bon;
 mais pour ceux qui ont fait cela, et pour leurs descendants, les hommes souffriront de hernies au scrotum et les femmes seront goltreuses.»</span><br>
 Il en fut ainsi dans ce village jusqu'à ce qu'ils soient dispersés par Charlemagne.</p>
-<h3 class="green" id="la-translation-de-son-corps">la translation de son corps</h3>
+<h3 id="la-translation-de-son-corps" class="green">la translation de son corps</h3>
 <p>Il faut noter que la fête de <span style="color: #3d8b3d;">saint Remi</span> qui se célèbre au mois de janvier est celle de sa bienheureuse mort, tandis que celle-ci est celle de la translation de son corps sacré.<br>
 Après sa mort, on transporta son corps sur une civière dans l'église des saints Timothée et Apollinaire ; mais quand on arriva à l'église Saint-Christophe, il se mit à peser si lourd que personne ne put le soulever.
 On en fut donc réduit à demander au Seigneur de daigner indiquer si par hasard il voulait qu'on l'enterre dans l'église Saint-Christophe, où reposaient mille reliques de saints.<br>
