@@ -10,7 +10,7 @@
 <div class="curtain-image-image">
 <div class="curtain-meta">
 
-<h1></h1>        
+<h1></h1>
 <p id="curtain-button"><a href="/en" class="curtain-button-side" rel="nofollow bookmark"><span title="英語"><ruby lang="en">english<rt lang="fr">anglais</rt></ruby></span></a> <a class="curtain-button-center" href="#topofpage" rel="nofollow"><ruby lang="fr"><span title="french">français</span><rt lang="ja">フランス語</rt></ruby></a> <a class="curtain-button-side" href="/ja" rel="nofollow bookmark"><ruby lang="ja"><span title="japanese">日本語</span><rt lang="fr">japonais</rt></ruby></a></p>
 
 <div style="text-align:center;width:42px;height:64px;margin:auto;">
