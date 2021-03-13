@@ -46,7 +46,7 @@
 そこには、この女が１２６０日の間養われるように、神の用意された場所があった。</td>
 <br>
 <tr>
-<td><sup><a href="/docs/ja/mont-saint-michel/arch-michel/apocalypse#renvoi_bataille" title="天の戦い" id="bataille"><span style="color: #df8a13;">０７</span></a></sup></td>
+<td><sup><a href="#renvoi_bataille" title="天の戦い" id="bataille"><span style="color: #df8a13;">０７</span></a></sup></td>
 <td>さて、天で戦いが起こった。
 <strong><span style="color: #df8a13;">ミカエル</span></strong>とその使いたちが、竜に戦いを<ruby>挑<rp>(</rp><rt>いと</rt><rp>)</rp></ruby>んだのである。
 竜とその使いたちも応戦したが、</td>

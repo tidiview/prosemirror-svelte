@@ -15,7 +15,7 @@
 <sup>04</sup> Sa queue, entraînant le tiers des étoiles du ciel, les précipita sur la terre. Le Dragon vint se poster devant la femme qui allait enfanter, afin de dévorer l’enfant dès sa naissance.<br>
 <sup>05</sup> Or, elle mit au monde un fils, un enfant mâle, celui qui sera le berger de toutes les nations, les conduisant avec un sceptre de fer. L’enfant fut enlevé jusqu’auprès de Dieu et de son Trône,<br>
 <sup>06</sup> et la Femme s’enfuit au désert, où Dieu lui a préparé une place, pour qu’elle y soit nourrie pendant mille deux cent soixante jours.<br>
-<sup><a href="/docs/fr/mont-saint-michel/arch-michel/apocalypse#renvoi_bataille" title="combat dans le ciel" id="bataille">07</a></sup> Il y eut alors un combat dans le ciel: Michel, avec ses anges, dut combattre le Dragon. Le Dragon, lui aussi, combattait avec ses anges,<br>
+<sup><a href="#renvoi_bataille" title="combat dans le ciel" id="bataille">07</a></sup> Il y eut alors un combat dans le ciel: Michel, avec ses anges, dut combattre le Dragon. Le Dragon, lui aussi, combattait avec ses anges,<br>
 <sup>08</sup> mais il ne fut pas le plus fort; pour eux désormais, nulle place dans le ciel.<br>
 <sup>09</sup> Oui, il fut rejeté, le grand Dragon, le Serpent des origines, celui qu’on nomme Diable et Satan, le séducteur du monde entier. Il fut jeté sur la terre, et ses anges furent jetés avec lui.<br>
 <sup>10</sup> Alors j’entendis dans le ciel une voix forte, qui proclamait: «Maintenant voici le salut, la puissance et le règne de notre Dieu, voici le pouvoir de son Christ! Car il est rejeté, l’accusateur de nos frères, lui qui les accusait, jour et nuit, devant notre Dieu.<br>
@@ -27,7 +27,6 @@
 <sup>16</sup> Mais la terre vint au secours de la Femme: la terre ouvrit la bouche et engloutit le fleuve projeté par la gueule du Dragon.<br>
 <sup>17</sup> Alors le Dragon se mit en colère contre la Femme, il partit faire la guerre au reste de sa descendance, ceux qui observent les commandements de Dieu et gardent le témoignage de Jésus.<br>
 <sup>18</sup> Et il se posta sur le sable au bord de la mer. <span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"></path></svg></span></p>
-<p><br></p>
 <p><span style="color: #df8a13;">Traduction liturgique du Nouveau Testament, Ap. 12-1～18</span></p>
 </div>
 `;
