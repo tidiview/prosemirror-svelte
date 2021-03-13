@@ -109,11 +109,14 @@
   import RichTextEditor_206 from "./components/RichTextEditor_206.svelte";
   import RichTextEditor_207 from "./components/RichTextEditor_207.svelte";
   import RichTextEditor_208 from "./components/RichTextEditor_208.svelte";
+  import RichTextEditor_209 from "./components/RichTextEditor_209.svelte";
+  import RichTextEditor_210 from "./components/RichTextEditor_210.svelte";
+  import RichTextEditor_211 from "./components/RichTextEditor_211.svelte";
 
   import ProsemirrorLogo from "./components/ProsemirrorLogo.svelte"
   import SvelteLogo from "./components/SvelteLogo.svelte"
 
-  let selectedExample = 'richtext_208';
+  let selectedExample = 'richtext_211';
 
   const examples = {
     "plaintext": {
@@ -769,6 +772,24 @@
       title: 'Rich text 208: Extending schema',
       subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
       component: RichTextEditor_208
+    },
+    "richtext_209": {
+      name: "#109: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 209: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_209
+    },
+    "richtext_210": {
+      name: "#110: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 210: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_210
+    },
+    "richtext_211": {
+      name: "#110: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 211: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_211
     },
   }
 
