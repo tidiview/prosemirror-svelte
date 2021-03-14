@@ -116,7 +116,7 @@
   import ProsemirrorLogo from "./components/ProsemirrorLogo.svelte"
   import SvelteLogo from "./components/SvelteLogo.svelte"
 
-  let selectedExample = 'richtext_211';
+  let selectedExample = 'richtext_119';
 
   const examples = {
     "plaintext": {

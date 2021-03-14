@@ -5,14 +5,13 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-<div class="list-blog-header">
 <div class="list-blog-date">
 <p><span>４</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
 <p>６月</p>
 <p><span>２０１６年</span></p>
 </div>
 <h1 class="red"><a href="/blog/ja/iehamotomoto" rel="bookmark">自家製</a></h1>
-</div>
+
 <div class="list-blog-padding lang-font" lang="ja">
 <div class="notices red">
 <p>この中国古代の文書で、「家」から「自分」を考えるのだとしているのが特徴。  </p>
@@ -30,7 +29,7 @@
 <dl>
 <dt>引用:</dt>
 <dd>
-小島毅、「<a href="https://www.amazon.co.jp/朱子学と陽明学-ちくま学芸文庫-小島-毅/dp/4480095691" title="https://www.amazon.co.jp/朱子学と陽明学-ちくま学芸文庫-小島-毅/dp/4480095691">朱子学と陽明学</a>」、122貢</dd>
+小島毅、「<a href="https://www.amazon.co.jp/朱子学と陽明学-ちくま学芸文庫-小島-毅/dp/4480095691" title="https://www.amazon.co.jp/朱子学と陽明学-ちくま学芸文庫-小島-毅/dp/4480095691">朱子学と陽明学</a>」、１２２貢</dd>
 </dl>
 </div>
 </div>

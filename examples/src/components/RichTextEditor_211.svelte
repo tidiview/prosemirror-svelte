@@ -104,7 +104,7 @@ https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francoi
 </thead>
 <tbody>
 <tr>
-<td><span style="color:#000e5f">François VIDIT is </span> <span title="Profession" style="color:#000e5f" lang="en">japanese interpreter<span style="color:#000e5f"> in </span></span><span style="color:#000e5f" lang="fr">Paris</span><span style="color:#000e5f">. For more than 15 years, he is receiving work under various forms, from touristical guiding, intercultural councelling, consecutive interpretation, to translation.</span></td>
+<td><span style="color:#000e5f">François VIDIT is </span> <span title="Profession" style="color:#000e5f" lang="en">japanese interpreter<span style="color:#000e5f"> in </span></span><span style="color:#000e5f" lang="fr">Paris</span><span style="color:#000e5f">. For more than 20 years, he is receiving work under various forms, from touristical guiding, intercultural councelling, consecutive interpretation, to translation.</span></td>
 </tr>
 </tbody>
 </table>
@@ -116,9 +116,9 @@ https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francoi
 
 <div id="about_parisien" class="block pure-u-5-6" lang="en">
 <h2>A Parisian that has connected in Tōkiō</h2>
-<p>Like my parents, I am parisian.</p>
-<p>I have discovered japanese culture with the <a href="https://en.wikipedia.org/wiki/Go_(game)" title="https://en.wikipedia.org/wiki/Go_(game)">go game</a> and I started to learn its language as an autodidact, aged of seventeen.</p>
-<p>After my degree at the <a href="https://www.google.com/maps/place/E.N.S.A.P.L.V : Ecole Nationale Supérieure d'Architecture de Paris La Villette/@48.8936163,2.378878,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66dd283e5884d:0x9d97e01a0a060349!8m2!3d48.8936128!4d2.3810667" title="https://www.google.com/maps/place/E.N.S.A.P.L.V.">National Architecture School of Paris-La Villette</a>, I left to Japan.</p>
+<p>Like his parents, He is parisian.</p>
+<p>He has discovered japanese culture with the <a href="https://en.wikipedia.org/wiki/Go_(game)" title="https://en.wikipedia.org/wiki/Go_(game)">go game</a> and He started to learn its language as an autodidact, aged of seventeen.</p>
+<p>After his degree at the <a href="https://www.google.com/maps/place/E.N.S.A.P.L.V : École Nationale Supérieure d'Architecture de Paris La Villette/@48.8936163,2.378878,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66dd283e5884d:0x9d97e01a0a060349!8m2!3d48.8936128!4d2.3810667" title="https://www.google.com/maps/place/E.N.S.A.P.L.V.">National Architecture School of Paris-La Villette</a>, He left to Japan.</p>
 <p>He joined a company of conception and realisation of commercial networks for luxury brands in the largest japanese cities in the prestigious area of <a href="http://www.garde-intl.com/" title="http://www.garde-intl.com/">Aoyama</a> in Tōkiō<sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">1</a></sup>.</p>
 <p>On return to France, He changed profession and became interpreter.</p>
 <div class="footnotes">

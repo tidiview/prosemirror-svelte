@@ -216,15 +216,12 @@
 </tr>
 </tbody>
 </table>
-<p></wbr></wbr></p>
 </div>
 <h2><span style="color: #28a1c5;">注釈</span></h2>
-<p><br></p>
 <h3><span style="color: #28a1c5;">ソクラテス</span></h3>
 <div class="notices blue">
 <p><a href="#socrate" title="ソクラテス" id="note_socrate"><ruby lang="ja">ソクラテス<rp>(</rp><rt lang="grc">Σωκράτης</rt><rp>)</rp></ruby lang="ja"></a>は古代ギリシアの哲学者ではあるが、ソクラテス自身は著述を行っていないので、ここでは弟子の哲学者プラトンの著作である「<ruby>饗<rp>(</rp><rt>きょう</rt><rp>)</rp>宴<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>」での人物である。 <a href="#socrate" title="ソクラテス">戻る ↑</a></p>
 </div>
-<p><br></p>
 <h3><span style="color: #28a1c5;">ディオティマ</span></h3>
 <div class="notices blue">
 <p>饗宴意外で<a href="#diotime" title="ディオティマ" id="note_diotime"><ruby lang="ja">ディオティマ<rp>(</rp><rt lang="grc">Διοτίμα</rt><rp>)</rp></ruby lang="ja"></a>という名前をあげる史料は他にないが、そこではマンティネイア出身の巫女と預言者として現れる。<br />
@@ -233,22 +230,18 @@
 名は、「ゼウスによって讃えられた」あるいは「ゼウスを讃えている」という意味である。<br />
 彼女の出身地とされる<ruby lang="ja">マンティネイア<rp>(</rp><rt lang="grc">Μαντίνεια</rt><rp>)</rp></ruby lang="ja">は、ペロポネソス半島にあった古代ギリシアの<ruby lang="ja">アルカディア<rp>(</rp><rt lang="grc">Ἀρκαδία</rt><rp>)</rp></ruby lang="ja">の都市国家であった。マンティネイアという固有名詞が古代ギリシャ語で「占い師」という意味の<ruby lang="ja">マンティス<rp>(</rp><rt lang="grc">mántis</rt><rp>)</rp></ruby lang="ja">に類似している。 <a href="#diotime" title="ディオティマ">戻る ↑</a></p>
 </div>
-<p><br></p>
 <h3><span style="color: #28a1c5;">ポロス</span></h3>
 <div class="notices blue">
 <p><a href="#poros" title="ポロス" id="note_poros"><ruby lang="ja">ポロス<rp>(</rp><rt lang="grc">Πόρος</rt><rp>)</rp></ruby lang="ja"></a>は古代ギリシャ語で「通過」、「道」と「便法」。 <a href="#poros" title="ポロス">戻る ↑</a></p>
 </div>
-<p><br></p>
 <h3><span style="color: #28a1c5;">ぺニア</span></h3>
 <div class="notices blue">
 <p><a href="#penia" title="ぺニア" id="note_penia"><ruby lang="ja">ぺニア<rp>(</rp><rt lang="grc">Πενία</rt><rp>)</rp></ruby lang="ja"></a>は古代ギリシャ語で「欠乏」、「貧乏」。 <a href="#penia" title="ぺニア">戻る ↑</a></p>
 </div>
-<p><br></p>
 <h3><span style="color: #28a1c5;">ネクタル</span></h3>
 <div class="notices blue">
 <p><a href="#nectar" title="ネクタル" id="note_nectar"><ruby lang="ja">ネクタル<rp>(</rp><rt lang="la">nectar</rt><rp>)</rp></ruby lang="ja"></a>はラテン語で「欠乏」、「不死」の意から、神々の飲み物、彼達の不死の元になるの飲み物。 <a href="#nectar" title="ネクタル">戻る ↑</a></p>
 </div>
-<p><br></p>
 <h3><span style="color: #28a1c5;">哲学</span></h3>
 <div class="notices blue">
 <p><a href="#philosopher" title="知恵を愛求する" id="note_philosopher">知恵を愛求する</a>は同時に「<span style="color: #28a1c5;">哲学をする</span>」意も含む。 <a href="#philosopher" title="知恵を愛求する">戻る ↑</a></p>

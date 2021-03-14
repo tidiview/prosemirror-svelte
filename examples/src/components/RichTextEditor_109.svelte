@@ -83,6 +83,11 @@
 </tr>
 </tbody>
 </table>
+<dl>
+<dt>引用:</dt>
+<dd>
+プラトン、「<a href="https://ja.wikipedia.org/wiki/パイドロス" title="https://ja.wikipedia.org/wiki/パイドロス">パイドロス</a>」、２４６Ａ～２４８Ｃより。</dd>
+</dl>
 </div>
 `;
 

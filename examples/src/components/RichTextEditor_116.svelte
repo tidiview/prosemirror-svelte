@@ -665,19 +665,7 @@
 </tr>
 <tr>
 <td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
+<td><hr></td>
 </tr>
 <tr>
 <td></td>
@@ -689,10 +677,6 @@
 </tr>
 <tr>
 <td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td><hr></td>
 </tr>
 <tr>
@@ -700,12 +684,12 @@
 <td>江戸日本橋南一丁目</td>
 </tr>
 <tr>
-<td></td>
-<td><strong>小川 彦九郎</strong></td>
-</tr>
 <tr>
 <td></td>
+<td><hr></td>
+</tr>
 <td></td>
+<td><strong>小川 彦九郎</strong></td>
 </tr>
 <tr>
 <td></td>
@@ -725,7 +709,6 @@
 </tr>
 </tbody>
 </table>
-<p></span></p>
 </div>
 <h4 class="yellow">註釈</h4>
 <div id="translation-text-rousi">
@@ -757,7 +740,7 @@
 </table>
 </div>
 <div class="notices yellow">
-<p><a href="https://ja.wikipedia.org/wiki/福沢諭吉" alt="https://ja.wikipedia.org/wiki/福沢諭吉">福沢諭吉</a>は「女大学評論」で本書を批判し、「新女大学」を著し、新時代の女子を歩む道を示したことも知られています。  </p>
+<p><a href="https://ja.wikipedia.org/wiki/福沢諭吉" alt="https://ja.wikipedia.org/wiki/福沢諭吉">福沢諭吉</a>は「女大学評論」で本書を批判し、「新女大学」を著し、新時代の女子を歩む道を示したことも知られています。</p>
 </div>
 <div class="notices yellow">
 <dl>

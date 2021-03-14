@@ -11,10 +11,8 @@
 <h1 class="green"><a href="/blog/ja/ihoujin" rel="bookmark">異邦人</a></h1>
 <div class="notices green">
 <p>通常では、異なる邦の人は「異邦人」ではありますが、ここでは、誰かに対して国が異なるのではない問答を紹介します。</p>
+<p>お楽しみに！（作者は驚きですが）</p>
 </div>
-<p>お楽しみに！（作者は驚きですが） </p>
-<p><br></p>
-<p><span style="color: lightgrey;"><i class="fa fa-quote-left fa-1x fa-pull-left fa-border"></i></span></p>
 <div id="translation-text-rousi">
 <table>
 <thead>
@@ -25,12 +23,8 @@
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td><sup>１</sup></td>
 <td>— わたしには父も母も、姉妹も兄弟もおらぬ。</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -38,15 +32,7 @@
 </tr>
 <tr>
 <td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>— あなたがお使いになっている言葉は、わたしには意味が今日に至るまで不明のままに残ったのだ。</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td><sup>５</sup></td>
@@ -54,15 +40,7 @@
 </tr>
 <tr>
 <td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>— どんな緯度に位置付けられているかも知らぬ。</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -70,23 +48,11 @@
 </tr>
 <tr>
 <td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>— 好きになっても良い、女神的死なぬもの。</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>— 黄金か。</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td><sup>１０</sup></td>
@@ -94,15 +60,7 @@
 </tr>
 <tr>
 <td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>— いったい何が好きなの」か、並外れた異邦人よ。</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td><sup>１２</sup></td>
@@ -111,16 +69,14 @@
 </tbody>
 </table>
 </div>
-<p><span style="color: lightgrey;"><i class="fa fa-quote-right fa-1x fa-pull-right fa-border"></i></span>　　</p>
-<p><br></p>
 <div class="notices green">
 <dl>
 <dt>詩：</dt>
 <dd><a href="https://ja.wikipedia.org/wiki/シャルル・ボードレール" title="https://ja.wikipedia.org/wiki/シャルル・ボードレール"><ruby>シャルル<rp>(</rp><rt>Charles</rt><rp>)</rp>・<rp>(</rp><rt></rt><rp>)</rp>ボードレール<rp>(</rp><rt>BAUDELAIRE</rt><rp>)</rp></ruby></a>、「<ruby>異邦人<rp>(</rp><rt>L&#39;étranger</rt><rp>)</rp></ruby>」。</dd>
-<dd><a href="https://francois-vidit.com/blog/fr/ihoujin" title="l'étranger">原文</a></dd>
+<dd>【<a href="https://francois-vidit.com/blog/fr/ihoujin" title="l'étranger">フランス語での原文へのリンク</a>】</dd>
 <dt>日本語訳：</dt>
 <dd>独自</dd>
-<dd>（文書の御使用は「<a href="https://francois-vidit.com/blog/ja/ihoujin" title="異邦人"><ruby>フランソワ<rp>(</rp><rt>François</rt><rp>)</rp>・<rp>(</rp><rt></rt><rp>)</rp>ヴィディ<rp>(</rp><rt>VIDIT</rt><rp>)</rp></ruby></a> 訳」（リンクを含む）追加で可能としている）</dd>
+<dd>【文書の御使用は「<a href="https://francois-vidit.com/blog/ja/ihoujin" title="異邦人"><ruby>フランソワ<rp>(</rp><rt>François</rt><rp>)</rp>・<rp>(</rp><rt></rt><rp>)</rp>ヴィディ<rp>(</rp><rt>VIDIT</rt><rp>)</rp></ruby></a> 訳」（リンクを含む）追加で可能としている】</dd>
 </dl>
 `;
 

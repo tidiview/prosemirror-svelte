@@ -16,7 +16,7 @@
 <div class="notices green">
 <p>Quelle leçon que ce chapître 33!</p>
 </div>
-<h4 class="green"><a href="https://fr.wikipedia.org/wiki/Lao_Tseu" title="https://fr.wikipedia.org/wiki/Lao_Tseu"><ruby><rb class="lang-font" lang="ja" style="font-family: Meiryo;" >老</rb><rt>Lao<rt><rb><span style="visibility:hidden;">老</span></rb><rt>-<rt><rb class="lang-font" lang="ja" style="font-family: Meiryo !important;">子</rb><rt>Tseu<rt></ruby></a>, chapître 33</h4>
+<h2 class="green"><a href="https://fr.wikipedia.org/wiki/Lao_Tseu" title="https://fr.wikipedia.org/wiki/Lao_Tseu"><ruby lang="ja">老<rt lang="fr">Lao</rt lang="fr">&#160<rt lang="fr">-</rt lang="fr">子<rt lang="fr">Tseu</rt></ruby></a>, chapître 33</h2>
 <div id="display-text-rousi">
 <div id="display-sub-text-rousi">
 <table>
@@ -102,10 +102,8 @@
 </tr>
 </tbody>
 </table>
-<p><i class="fa fa-quote-right fa-lg fa-pull-right fa-border" style="color: #737373"></i></p>
-<p><br><br></p>
 </div>
-<p><br></p>
+</div>
 <p><span style="color: #3d8b3d;">source:  traduction originale</span></p></div>
 `;
 

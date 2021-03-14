@@ -10,15 +10,15 @@
 <p><span>２０１６年</span></p>
 <h1 class="yellow"><a href="/blog/ja/bokusi" rel="bookmark">すばらしい美男美女</a></h1>
 <div class="notices yellow">
-<p>中国文学者 <a href="https://ja.wikipedia.org/wiki/貝塚茂樹" title="https://ja.wikipedia.org/wiki/貝塚茂樹"><ruby>貝<rp>(</rp><rt>かい</rt><rp>)</rp>塚<rp>(</rp><rt>づか</rt><rp>)</rp>茂<rp>(</rp><rt>しげ</rt><rp>)</rp>樹<rp>(</rp><rt>き</rt><rp>)</rp></ruby></a> が書いた「 <a href="https://www.amazon.co.jp/諸子百家――中国古代の思想家たち-岩波新書-貝塚-茂樹/dp/4004130476/378-6956610-7563751?ie=UTF8&%2AVersion%2A=1&%2Aentries%2A=0" title="https://www.amazon.co.jp/諸子百家――中国古代の思想家たち-岩波新書-貝塚-茂樹/dp/4004130476/378-6956610-7563751?ie=UTF8&*Version*=1&*entries*=0"><ruby>諸<rp>(</rp><rt>しょ</rt><rp>)</rp>子<rp>(</rp><rt>し</rt><rp>)</rp>百家<rp>(</rp><rt>ひゃっか</rt><rp>)</rp></ruby></a> 」を読んで、初めて、 <a href="https://ja.wikipedia.org/wiki/墨子" title="https://ja.wikipedia.org/wiki/墨子"><ruby>墨<rp>(</rp><rt>ぼく</rt><rp>)</rp>子<rp>(</rp><rt>し</rt><rp>)</rp></ruby></a> を知りました。面白い！</p></div><dl>
-<dt><br></dt>
-<dt><span style="color: #df8a13;"><ruby>墨<rp>(</rp><rt>ぼく</rt><rp>)</rp>子<rp>(</rp><rt>し</rt><rp>)</rp></ruby></span> </dt>
-<dd>
-「現代天下の識者諸氏は平素の言論でいつも有能の士を任用せよといわれる。<br />
-一度大衆にたいして政令を下すだんになると、有能の士を採用してその能力を発揮させようとはしない。<br />
+<p>中国文学者 <a href="https://ja.wikipedia.org/wiki/貝塚茂樹" title="https://ja.wikipedia.org/wiki/貝塚茂樹"><ruby>貝<rp>(</rp><rt>かい</rt><rp>)</rp>塚<rp>(</rp><rt>づか</rt><rp>)</rp>茂<rp>(</rp><rt>しげ</rt><rp>)</rp>樹<rp>(</rp><rt>き</rt><rp>)</rp></ruby></a> が書いた「 <a href="https://www.amazon.co.jp/諸子百家――中国古代の思想家たち-岩波新書-貝塚-茂樹/dp/4004130476/378-6956610-7563751?ie=UTF8&%2AVersion%2A=1&%2Aentries%2A=0" title="https://www.amazon.co.jp/諸子百家――中国古代の思想家たち-岩波新書-貝塚-茂樹/dp/4004130476/378-6956610-7563751?ie=UTF8&*Version*=1&*entries*=0"><ruby>諸<rp>(</rp><rt>しょ</rt><rp>)</rp>子<rp>(</rp><rt>し</rt><rp>)</rp>百家<rp>(</rp><rt>ひゃっか</rt><rp>)</rp></ruby></a> 」を読んで、初めて、 <a href="https://ja.wikipedia.org/wiki/墨子" title="https://ja.wikipedia.org/wiki/墨子"><ruby>墨<rp>(</rp><rt>ぼく</rt><rp>)</rp>子<rp>(</rp><rt>し</rt><rp>)</rp></ruby></a> を知りました。面白い！</p></div>
+
+<h2 class="yellow"><ruby>墨<rp>(</rp><rt>ぼく</rt><rp>)</rp>子<rp>(</rp><rt>し</rt><rp>)</rp></ruby></h2>
+
+<dl>
+<dt>「現代天下の識者諸氏は平素の言論でいつも有能の士を任用せよといわれる。<br>
+一度大衆にたいして政令を下すだんになると、有能の士を採用してその能力を発揮させようとはしない。<br>
 これは天下の識者が小問題にはよく気代くが、大問題を忘れている証拠である。」</dd>
 </dl>
-
 <dl>
 <dt>どうして小問題にはよく気付くが、大問題を忘れるようになったのでしょうか。</dt>
 <dd>
@@ -38,15 +38,14 @@
 「現今の天下の士君子諸君はだれも富貴を欲して貧賤を嫌うだろう。」</dd>
 <dt>その通りです。</dt>
 <dd>
-「はどうすれば富貴をえて貧賤からのがれられると思うか。もちろん賢つまり有能の士なること以外にないと考えるだろうね。<br />
+「はどうすれば富貴をえて貧賤からのがれられると思うか。もちろん賢つまり有能の士なること以外にないと考えるだろうね。<br>
 それならその有能の士になるにはどうすればよいのですか」</dd>
 </dl>
-<p><br></p>
 <div class="notices yellow">
 <dl>
 <dt>引用:</dt>
 <dd>
-<a href="https://ja.wikipedia.org/wiki/貝塚茂樹" title="https://ja.wikipedia.org/wiki/貝塚茂樹"><ruby>貝<rp>(</rp><rt>かい</rt><rp>)</rp>塚<rp>(</rp><rt>づか</rt><rp>)</rp>茂<rp>(</rp><rt>しげ</rt><rp>)</rp>樹<rp>(</rp><rt>き</rt><rp>)</rp></ruby></a>、「<a href="https://www.amazon.co.jp/諸子百家――中国古代の思想家たち-岩波新書-貝塚-茂樹/dp/4004130476/378-6956610-7563751?ie=UTF8&%2AVersion%2A=1&%2Aentries%2A=0" title="https://www.amazon.co.jp/諸子百家――中国古代の思想家たち-岩波新書-貝塚-茂樹/dp/4004130476/378-6956610-7563751?ie=UTF8&*Version*=1&*entries*=0"><ruby>諸<rp>(</rp><rt>しょ</rt><rp>)</rp>子<rp>(</rp><rt>し</rt><rp>)</rp>百家<rp>(</rp><rt>ひゃっか</rt><rp>)</rp></ruby></a>、中国古代の思想家たち」、岩波新書４３７（１９７５年１２月２０日第１９刷発行）<br />
+<a href="https://ja.wikipedia.org/wiki/貝塚茂樹" title="https://ja.wikipedia.org/wiki/貝塚茂樹"><ruby>貝<rp>(</rp><rt>かい</rt><rp>)</rp>塚<rp>(</rp><rt>づか</rt><rp>)</rp>茂<rp>(</rp><rt>しげ</rt><rp>)</rp>樹<rp>(</rp><rt>き</rt><rp>)</rp></ruby></a>、「<a href="https://www.amazon.co.jp/諸子百家――中国古代の思想家たち-岩波新書-貝塚-茂樹/dp/4004130476/378-6956610-7563751?ie=UTF8&%2AVersion%2A=1&%2Aentries%2A=0" title="https://www.amazon.co.jp/諸子百家――中国古代の思想家たち-岩波新書-貝塚-茂樹/dp/4004130476/378-6956610-7563751?ie=UTF8&*Version*=1&*entries*=0"><ruby>諸<rp>(</rp><rt>しょ</rt><rp>)</rp>子<rp>(</rp><rt>し</rt><rp>)</rp>百家<rp>(</rp><rt>ひゃっか</rt><rp>)</rp></ruby></a>、中国古代の思想家たち」、岩波新書４３７（１９７５年１２月２０日第１９刷発行）<br>
 第二章「人類愛と平和についての対話、<a href="https://ja.wikipedia.org/wiki/墨子" title="https://ja.wikipedia.org/wiki/墨子">墨子</a>の思想」、第４０ページーから</dd>
 </dl>
 `;

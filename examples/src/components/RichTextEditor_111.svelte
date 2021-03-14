@@ -5,7 +5,7 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-  <div class="list-blog-date">
+<div class="list-blog-date">
 <p><span>１５</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
 <p>６月</p>
 <p><span>２０１６年</span></p>

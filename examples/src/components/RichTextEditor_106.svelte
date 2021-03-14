@@ -2,47 +2,66 @@
   import { onMount } from "svelte";
 
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
-  import { createExtendedRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
+  import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-  <div class="list-blog-header">
-
-<div class="list-blog-svg_icon">
+/* <div class="list-blog-date">
+<p><span>３０</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
+<p>１０月</p>
+<p><span>２０１７年</span></p>
 </div>
 
-<div class="list-blog-date">
-    <p><span>３０</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
-    <p>１０月</p>
-    <p><span>２０１７年</span></p>
+<h1 class="green"><a href="/blog/ja/rousi" rel="bookmark">自ら勝つ者は強し</a></h1>
 </div>
-            <h1 class="green"><a href="/blog/ja/rousi" rel="bookmark">自ら勝つ者は強し</a></h1>
-
-            </div>
- 
-    <div class="notices green">
-<p>この第３３章、素晴らしいもの！  </p>
+<div class="notices green">
+<p>この第３３章、素晴らしいもの！</p>
 </div>
 
-<p><br></p>
-<p><span style="color: #3d8b3d;"><ruby>老<rp>(</rp><rt>ろう</rt><rp>)</rp>子<rp>(</rp><rt>し</rt><rp>)</rp></ruby>、第３３章</span></p>
+<h2 class="green"><ruby>老<rp>(</rp><rt>ろう</rt><rp>)</rp>子<rp>(</rp><rt>し</rt><rp>)</rp></ruby>、第３３章</h2>
 <div id="display-text-rousi">
 <div id="display-sub-text-rousi">
-<figure id="original-text-rousi">
-<h6>原稿文</h6>
-<p><span style="color: lightgrey;"><i class="fa fa-quote-right fa-1x fa-pull-left fa-border"></i></span><br></p>
-<p><em>１</em> 知人者智、  </p>
-<p><em>２</em> 自知者明、  </p>
-<p><em>３</em> 勝人者有力、  </p>
-<p><em>４</em> 自勝者強、  </p>
-<p><em>５</em> 知足者富強行者有志、  </p>
-<p><em>６</em> 不失其所者久、  </p>
-<p><em>７</em> 死而不亡者寿、 </p>
-<p><span style="color: lightgrey;"><i class="fa fa-quote-left fa-1x fa-pull-right fa-border"></i></span>  </p>
-</figure>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><sup>１</sup></td>
+<td>知人者智、</td>
+</tr>
+<tr>
+<td><sup>２</sup></td>
+<td>自知者明、</td>
+</tr>
+<tr>
+<td><sup>３</sup></td>
+<td>勝人者有力、</td>
+</tr>
+<tr>
+<td><sup>４</sup></td>
+<td>自勝者強、</td>
+</tr>
+<tr>
+<td><sup>５</sup></td>
+<td>知足者富強行者有志、</td>
+</tr>
+<tr>
+<td><sup>６</sup></td>
+<td>不失其所者久、</td>
+</tr>
+<tr>
+<td><sup>７</sup></td>
+<td>死而不亡者寿、</td>
+</tr>
+</tbody>
+</table>
+</div>
 </div>
 <div id="translation-text-rousi">
 <h6 class="left">翻訳</h6>
-<p><span style="color: lightgrey;"><i class="fa fa-quote-left fa-1x fa-pull-left fa-border"></i></span>  </p>
 <table>
 <thead>
 <tr>
@@ -52,72 +71,42 @@
 </thead>
 <tbody>
 <tr>
-<td>１</td>
+<td><sup>１</sup></td>
 <td>人を知る者は<ruby>知<rp>(</rp><rt>ち</rt><rp>)</rp></ruby>なり、</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>２</td>
+<td><sup>２</sup></td>
 <td>自ら知る者は<ruby>明<rp>(</rp><rt>めい</rt><rp>)</rp></ruby>なり。</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>３</td>
+<td><sup>３</sup></td>
 <td>人に<ruby>勝<rp>(</rp><rt>か</rt><rp>)</rp></ruby>つ者は力有り、自ら勝つ者は強し。</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>４</td>
+<td><sup>４</sup></td>
 <td><ruby>足<rp>(</rp><rt>た</rt><rp>)</rp></ruby>ることを知る者は富めり。</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>５</td>
+<td><sup>５</sup></td>
 <td><ruby>強<rp>(</rp><rt>つよ</rt><rp>)</rp></ruby>めて行なう者は<ruby>志<rp>(</rp><rt>こころざし</rt><rp>)</rp></ruby>有り。</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>６</td>
+<td><sup>６</sup></td>
 <td>其の所を<ruby>失<rp>(</rp><rt>たが</rt><rp>)</rp></ruby>えざる者は久し。</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>７</td>
+<td><sup>７</sup></td>
 <td>死して<ruby>而<rp>(</rp><rt>しか</rt><rp>)</rp></ruby>も<ruby>失<rp>(</rp><rt>うしな</rt><rp>)</rp></ruby>わざる者は<ruby>寿<rp>(</rp><rt>いのち</rt><rp>)</rp></ruby>ながし。</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
-<p><span style="color: lightgrey;"><i class="fa fa-quote-right fa-1x fa-pull-right fa-border"></i></span>  </p>
-<p><br></p>
 </div>
 </div>
 <hr>
-<p>他人を了解するものが智<span style="color: lightgrey;">（恵知）</span>のある人であり、自己を了解するものが明察のある人である。  </p>
+<p>他人を了解するものが智<span style="color: lightgrey;">（恵知）</span>のある人であり、自己を了解するものが明察のある人である。</p>
 <p>他人を負かすには力がいり、自己を負かすにはもっと力がいる。 </p>
-<p><span style="color: lightgrey;">（もっているだけのもので）</span>満足することを知るのが富んでいることであり、自分をはげまして行動するものがその志すところを得るのである。  </p>
-<p>自分の<span style="color: lightgrey;">（いるべき）</span>場所をまちがえないものが永続する。  </p>
+<p><span style="color: lightgrey;">（もっているだけのもので）</span>満足することを知るのが富んでいることであり、自分をはげまして行動するものがその志すところを得るのである。</p>
+<p>自分の<span style="color: lightgrey;">（いるべき）</span>場所をまちがえないものが永続する。</p>
 <p>死ぬときにも<span style="color: lightgrey;">（その肉体の一部分さえ）</span>失っていないものが長寿なのである。　　</p>
 <hr>
 <dl>
@@ -129,29 +118,20 @@
 王弼がいう「死すと<ruby>雖<rp>(</rp><rt>いえど</rt><rp>)</rp></ruby>も而も生を<ruby>為<rp>(</rp><rt>な</rt><rp>)</rp></ruby>す道の亡わざるを<ruby>以<rp>(</rp><rt>もつ</rt><rp>)</rp></ruby>てすれば、<ruby>乃<rp>(</rp><rt>すなわ</rt><rp>)</rp></ruby>ち其の寿を全うす」とは、生命持続のための努力をやめないことによってだけ、人は寿命をまっとうしうる、という意であろう。<br>
 それはさまざまな危険をおかさないことであり、危険に出あわなければ肉体も完全である。  </dd>
 </dl>
-<p><br></p>
 <div class="notices green">
 <dl>
 <dt>引用：</dt>
 <dd>
 「 <a href="https://ja.wikipedia.org/wiki/老子" title="https://ja.wikipedia.org/wiki/老子"><ruby>老<rp>(</rp><rt>ろう</rt><rp>)</rp>子<rp>(</rp><rt>し</rt><rp>)</rp></ruby></a> 、―<ruby>小<rp>(</rp><rt>お</rt><rp>)</rp>川<rp>(</rp><rt>がわ</rt><rp>)</rp>環<rp>(</rp><rt>たま</rt><rp>)</rp>樹<rp>(</rp><rt>き</rt><rp>)</rp></ruby>訳注―」、中公文庫４８５、１９９７年３月１８日改版発行、第８４ページーから。</dd>
 </dl>
-</div>
-        <div class="blog-item-footer">
-
-    <p class="prev-next">
-                    <a class="button" href="/blog/ja/rimbaud" rel="prev" lang="ja"><i class="fa fa-chevron-left"></i> 前</a>
-                                <a class="button" href="/blog/ja/la-marseillaise" rel="next" lang="ja">次 <i class="fa fa-chevron-right"></i></a>
-            </p>
-
-</div>
+</div> */
 `;
 
   
 
   let focusEditor;
   let showEditorState = true;
-  let editorState = createExtendedRichTextEditor(html);
+  let editorState = createExtendedThreeRichTextEditor(html);
 
   function handleChange(event) {
     editorState = event.detail.editorState;
@@ -163,7 +143,7 @@
   }
 
   function resetEditor(event) {
-    editorState = createExtendedRichTextEditor(html);
+    editorState = createExtendedThreeRichTextEditor(html);
     focusEditor();
   }
 
