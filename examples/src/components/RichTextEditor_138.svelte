@@ -24,7 +24,6 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire
 <a href="https://ja.wikipedia.org/wiki/アドニス" title="https://ja.wikipedia.org/wiki/アドニス"><ruby lang="ja">ウェヌス<rp>(</rp><rt lang="la">Venus</rt><rp>)</rp></ruby></a>の愛にさらされた<a href="https://ja.wikipedia.org/wiki/ウェヌス" title="https://ja.wikipedia.org/wiki/ウェヌス"><ruby lang="ja">アドニス<rp>(</rp><rt lang="la">Adonis</rt><rp>)</rp></ruby></a>の悲劇的な死が語られている。<br>
 ご参照ください！</p>
 </div>
-<p><br></p>
 <h2 class="yellow">アドニスの死</h2>
 <p><span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span>
 <sup>７０８</sup>

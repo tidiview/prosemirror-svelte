@@ -10,8 +10,7 @@
 <div class="notices green">
 <p>フランス語では、「<a href="#note_remigius" title="レミギウス"><ruby lang="ja">サン<rp>(</rp><rt lang="la">saint</rt><rp>)</rp>＝<rp>(</rp><rt lang="la">-</rt><rp>)</rp>レミ<rp>(</rp><rt lang="la">Rémi</rt><rp>)</rp></ruby lang="ja"></a>」、あるいは史料のラテン語からでは「<ruby lang="ja">聖<rp>(</rp><rt lang="la">sanctus</rt><rp>)</rp>レミギウス<rp>(</rp><rt lang="la">Remigius</rt><rp>)</rp></ruby lang="ja">」がフランク族の王であるフランス語では<ruby lang="ja">クロヴィス<rp>(</rp><rt lang="la">Clovis</rt><rp>)</rp></ruby lang="ja">、ラテン語から「<ruby lang="ja">クロドウェクス<rp>(</rp><rt lang="la">Chlodovechus</rt><rp>)</rp></ruby lang="ja">」に洗礼をしたことは中世時代でのキリスト教の主な著書といえる<a href="https://ja.wikipedia.org/wiki/ヤコブス・デ・ヴォラギネ" title="https://ja.wikipedia.org/wiki/ヤコブス・デ・ヴォラギネ"><ruby lang="ja">ヤコブス<rp>(</rp><rt lang="la">Jacobus</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>デ<rp>(</rp><rt lang="la">de</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>ヴォラギネ<rp>(</rp><rt lang="la">Voragine</rt><rp>)</rp></ruby lang="ja"></a>が著した『<a href="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" title="https://ja.wikipedia.org/wiki/レゲンダ・アウレア"><ruby>黄金伝説<rp>(</rp><rt>レゲンダ・アウレア</rt><rp>)</rp></ruby></a>』の第１６章で主に語れています。</p>
 </div>
-<p><br></p>
-<h2 class="green">１６章 聖レミギウス</h2>
+<h2 class="green">第１６章：聖レミギウス</h2>
 <h3 class="green">その名前の最初の解釈</h3>
 <p><a href="#note_remigius" title="レミギウス" id="remigius" class="green"><ruby lang="ja">レミギウス<rp>(</rp><rt lang="la">Remigius</rt><rp>)</rp></ruby lang="ja"></a>は、<span style="color: #3d8b3d;">〈牧養する者〉</span>の意の<ruby lang="ja">レミ<rp>(</rp><rt lang="la">remi</rt><rp>)</rp></ruby lang="ja">と<span style="color: #3d8b3d;">〈土地〉</span>の意の<ruby lang="ja">ギオス<rp>(</rp><rt lang="la">gios</rt><rp>)</rp></ruby lang="ja">とからきていて、<span style="color: #3d8b3d;">〈地の民をその教えで牧養する人〉</span>という意味である。<br>
 あるいは、<ruby lang="ja">レミ<rp>(</rp><rt lang="la">remi</rt><rp>)</rp></ruby lang="ja">すなわち<span style="color: #3d8b3d;">〈牧者〉</span>と<ruby lang="ja">ギオン<rp>(</rp><rt lang="la">gyon</rt><rp>)</rp></ruby lang="ja">すなわち<span style="color: #3d8b3d;">〈戦い〉</span>とに由来し、<span style="color: #3d8b3d;">〈司教にして戦士〉</span>を意味する。<br>
@@ -88,7 +87,6 @@
 彼は、それ以後死ぬまで善行のうちに暮らした。
 彼の息子<span style="color: #3d8b3d;">〈</span><ruby style="color:#3d8b3d;">偸盗<rp>(</rp><rt style="font-size: 70%;letter-spacing: 0.5px;color:#3d8b3d;">ラトロ</rt><rp>)</rp></ruby><span style="color: #3d8b3d;">〉</span>も、父のあとを継いで司教になり、聖人とまで言われるようになった。
 聖<span style="color: #3d8b3d;">レミギウス</span>は、主の紀元５００年ごろ有徳と聖性とにみたされてやすらかに世を去った。</p>
-<p>
 </div>
 <h2 class="green">注釈</h2>
 <h3 id="note_remigius" class="green">レミギウス</h3>
@@ -170,7 +168,7 @@
 </div>
 <!-- page 2 -->
 <div id="body-inner">
-<h2 class="green">１４１章 聖レミギウス</h2>
+<h2 class="green">第１４１章：聖レミギウス</h2>
 <h3 class="green">その名前の第二番目の解釈</h3>
 <p><ruby lang="ja" style="color:#3d8b3d;">レミギウス<rp>(</rp><rt lang="la" style="font-size: 70%;letter-spacing: 0.5px;color:#3d8b3d;">Remigius</rt><rp>)</rp></ruby>は、<span style="color: #3d8b3d;">〈</span><ruby lang="ja" style="color:#3d8b3d;">船<rp>(</rp><rt lang="la" style="font-size: 70%;letter-spacing: 0.5px;color:#3d8b3d;">ふな</rt><rp>)</rp>長<rp>(</rp><rt lang="la" style="font-size: 70%;letter-spacing: 0.5px;color:#3d8b3d;">おさ</rt><rp>)</rp></ruby><span style="color: #3d8b3d;">〉</span>ないし<span style="color: #3d8b3d;">〈船の操縦者〉</span>を意味する<ruby lang="ja">レメクス<rp>(</rp><rt lang="la">remex</rt><rp>)</rp></ruby lang="ja">と
 <span style="color: #3d8b3d;">〈戦い〉</span>の意の<ruby lang="ja">ギョン<rp>(</rp><rt lang="la">gyon</rt><rp>)</rp></ruby lang="ja">とから、あるいは船を<ruby>漕<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>ぎすすめる<span style="color: #3d8b3d;">〈</span><ruby style="color:#3d8b3d;">櫂<rp>(</rp><rt style="font-size: 70%;letter-spacing: 0.5px;color:#3d8b3d;">かい</rt><rp>)</rp></ruby><span style="color: #3d8b3d;">〉</span>を意味する<ruby lang="ja">レミ<rp>(</rp><rt lang="la">remi</rt><rp>)</rp></ruby lang="ja">と<ruby lang="ja">ギオン<rp>(</rp><rt lang="la">gyon</rt><rp>)</rp></ruby lang="ja">とから来ている。<br>
@@ -236,7 +234,6 @@
 １０月１日のことであった。
 この聖遺骨が銀の棺に納められ、さらに美しい地下納骨堂に移されたのは、そこから長い歳月がたった、日もおなじ１０月１日のことであった。
 <span style="color: #3d8b3d;">聖レミギウス</span>が活躍したのは、主の紀元４９０年ごろであった。</p>
-<p>
 <h2 class="green">注釈</h2>
 <h3 id="note_clovis" class="green">フランク族の王</h3>
 <div class="notices green">
