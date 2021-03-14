@@ -605,8 +605,7 @@ export const ExtendedThreerichTextSchema = new Schema({
       content: "block+",
       group: "block",
       defining: true,
-      attrs: {
-        color: {default: null}},
+      attrs: { color: {default: null}},
       parseDOM: [{tag: "blockquote"},{tag: "div.notices", getAttrs(dom) {return {color: dom.getAttribute("class").split(" ")[1]}} }],
       toDOM(node) { let {color} = node.attrs; return color == "" ? ["blockquote", 0] : ["blockquote", {"class": color}, 0] },
     },

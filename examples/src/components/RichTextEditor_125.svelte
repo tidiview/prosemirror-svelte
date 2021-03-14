@@ -5,8 +5,8 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-  <div id="body-inner">
-	<h1 class="green">テオフィル・ゴーティエにおいてのモナ・リザ</h1>
+<div id="body-inner">
+<h1 class="green">テオフィル・ゴーティエにおいてのモナ・リザ</h1>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-380.webp 380w,
@@ -23,13 +23,12 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.l
 https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-840.jpg 840w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1600.jpg 1600w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1920.jpg 1920w" id="zephyr_et_flore"></picture><figcaption>「ラ・ジョコンデュ」か「ジョコンダ婦人、モナ・リザ」と言われているフランテスコ・デル・ジョコンド妻であるジェラルディニーの肖像画</figcaption></figure>
+https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1920.jpg 1920w" id="la_joconde_selon_gautier"></picture><figcaption>「ラ・ジョコンデュ」か「ジョコンダ婦人、モナ・リザ」と言われているフランテスコ・デル・ジョコンド妻であるジェラルディニーの肖像画</figcaption></figure>
 <div class="notices green">
 <p>以下の<a href="https://ja.wikipedia.org/wiki/モナ・リザ" title="https://ja.wikipedia.org/wiki/モナ・リザ">モナ・リザ</a>の描写は、ロマン主義作家の<a href="https://ja.wikipedia.org/wiki/テオフィル・ゴーティエ" title="https://ja.wikipedia.org/wiki/テオフィル・ゴーティエ"><ruby lang="ja">テオフィル<rp>(</rp><rt lang="fr">Théophile</rt><rp>)</rp>・<rp>(</rp><rt lang="fr">&#160;</rt><rp>)</rp>ゴーティエ<rp>(</rp><rt lang="fr">GAUTIER</rt><rp>)</rp></ruby lang="ja"></a>によって書かれ、１８６７年にパリで出版された。<br />
 この絵画の歴史にとっては極めて重要な描写である。なぜなら、その描写によって<a href="https://ja.wikipedia.org/wiki/レオナルド・ダ・ヴィンチ" title="https://ja.wikipedia.org/wiki/レオナルド・ダ・ヴィンチ">レオナルド・ダ・ヴィンチ</a>の作品が体現しているかのような神秘の名によって、同時に神話化されながら、２０世紀の作品の偏った見方の多くに影響を与えていくことになる。<br />
 私たちはこの描写は女性蔑視だとしたら、この女性蔑視主義がレオナルド・ダ・ヴィンチ作品の一部でも芸術的感情の一部ほどでもなければ、モナ・リザがテオフィル・ゴーティエの空想を排除されることによくなると確信している。</p>
 </div>
-<p><br></p>
 <p><span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span>
 この神聖なるモナ・リザ・デル・ジョコンドへの私たちの感嘆と愛が昨日今日のことではないが、それで多く実在の生物への情熱がそれより長く続きません。<br />
 私たちはもしかして熱烈過ぎたしかも印象を忠実に映している以下の行を書いていたのは１２年前です。<br />

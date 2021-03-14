@@ -34,12 +34,12 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/01.palais
 https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/01.hercule_1/hercule-focus-840.jpg 840w"></picture><figcaption>フランソワ・ルモワーヌ作《ヘラクレスの神格化》</figcaption></figure>
 <div class="notices blue">
 <p>１７３６年の９月２６日、<a href="https://ja.wikipedia.org/wiki/ヴェルサイユ宮殿" title="https://ja.wikipedia.org/wiki/ヴェルサイユ宮殿">ヴェルサイユ宮殿</a>で、<a href="https://ja.wikipedia.org/wiki/ルイ15世_(フランス王)" title="https://ja.wikipedia.org/wiki/ルイ１５世 (フランス王)"><ruby lang="ja">ルイ<rp>(</rp><rt lang="fr">Louis</rt><rp>)</rp>15<rp>(</rp><rt lang="fr">XV</rt><rp>)</rp></ruby lang="ja">世</a>により、新たに改装された<ruby lang="ja">ヘラクレスの間<rp>(</rp><rt lang="fr">Salon&#160;d&#39;Hercule</rt><rp>)</rp></ruby lang="ja">のために作られた、この画家<ruby lang="ja">フランソワ<rp>(</rp><rt lang="fr">François</rt><rp>)</rp>・<rp>(</rp><rt lang="fr"></rt><rp>)</rp>ルモワーヌ<rp>(</rp><rt lang="fr">Lemoyne</rt><rp>)</rp></ruby lang="ja">の作品《<ruby lang="ja">ヘラクレスの神格化<rp>(</rp><rt lang="fr">L&#39;Apothéose&#160;d&#39;Hercule</rt><rp>)</rp></ruby lang="ja">》が除幕されました。<br>
-これを切っ掛けに、文芸誌「<a href="https://ja.wikipedia.org/wiki/メルキュール・ド・フランス" title="https://ja.wikipedia.org/wiki/メルキュール・ド・フランス"><ruby lang="ja">ル<rp>(</rp><rt lang="fr">Le</rt><rp>)</rp>・<rp>(</rp><rt lang="fr"></rt><rp>)</rp>メルキュール<rp>(</rp><rt lang="fr">Mercure</rt><rp>)</rp>・<rp>(</rp><rt lang="fr"></rt><rp>)</rp>ド<rp>(</rp><rt lang="fr">De</rt><rp>)</rp>・<rp>(</rp><rt lang="fr"></rt><rp>)</rp>フランス<rp>(</rp><rt lang="fr">France</rt><rp>)</rp></ruby lang="ja"></a>」が、この注文を受ける条件について、または構図の詳細を教えてくれる、おそらく画家自身によって書かれた特別なテキストを出版しました。  
+これを切っ掛けに、文芸誌「<a href="https://ja.wikipedia.org/wiki/メルキュール・ド・フランス" title="https://ja.wikipedia.org/wiki/メルキュール・ド・フランス"><ruby lang="ja">ル<rp>(</rp><rt lang="fr">Le</rt><rp>)</rp>・<rp>(</rp><rt lang="fr"></rt><rp>)</rp>メルキュール<rp>(</rp><rt lang="fr">Mercure</rt><rp>)</rp>・<rp>(</rp><rt lang="fr"></rt><rp>)</rp>ド<rp>(</rp><rt lang="fr">De</rt><rp>)</rp>・<rp>(</rp><rt lang="fr"></rt><rp>)</rp>フランス<rp>(</rp><rt lang="fr">France</rt><rp>)</rp></ruby lang="ja"></a>」が、この注文を受ける条件について、または構図の詳細を教えてくれる、おそらく画家自身によって書かれた特別なテキストを出版しました。
 以下の文書はこのテキストです。<br>
 この画家の作品は、文書が明らかにしてくれてる多くの理由で例外であり、特に彼の最後の中の一つの作品は特別です。<br>
 なにしろ、芸術家は１７３７年の６月４日にこの作品完成させた少し後に、自分の人生を終わりにして、パリのアパートで自分を剣で何回か刺して...<br>
-それなのに、今までまだ翻訳されてはいませんでした。  
-いろんな方々に声を掛けて、いろいろ協力して頂いたおかげで、以下の文書が出来あがりました。  
+それなのに、今までまだ翻訳されてはいませんでした。
+いろんな方々に声を掛けて、いろいろ協力して頂いたおかげで、以下の文書が出来あがりました。
 よく読むと、文書のところどころに、画家本人の言葉に疲れが溢れることも見えて来ると思われます。<br>
 また、文書のおかげで、作品の圧倒的さを乗り越えて、少しでも、《ヘラクレスの神格化》の中に入って、英雄本人の側から、画家本人の言葉の導きで案内されているかのような気分にもなれれば、より身近に自分で作品の評価を分かち合えることもできるでしょう！</p>
 </div>
@@ -51,8 +51,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/01.palais
 <dt>ブローサーでの周囲の表示について:</dt>
 <dd>テキストの中に指されている作品の一部の周囲をを表示させることが、このページを読むためにクロムに基づくブローサーを利用すれば、可能です。ただし、クロムには、ブラウジングをしての情報がグーグル社のためトラッカーに含まれているため、クロムに基づいていてしかもトラッカーが取り除かれた優れたブラウザ、<a href="https://www.srware.net/en/software_srware_iron_download.php" title="https://www.srware.net/en/software_srware_iron_download.php">エス・エル・ヴェール・アイロン</a>をお勧めします（アンドロイドの携帯の場合、エス・エル・ヴェール・アイロンのアプリ―が<a href="https://play.google.com/store/apps/details?hl=ja" title="https://play.google.com/store/apps/details?id=org.iron.srware&hl=ja" id="org.iron.srware">こちら...</a>）。</dd>
 </dl>
-</div>
-<p><br></p>
+</div><hr>
 <h2 class="blue">ヴェルサイユ宮殿にある控えの間、王の礼拝堂の前で「大理石の大広間」と呼ばれている部屋の天井画</h2>
 <p><span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span>
 私たちが２年以上前から関わっているメルクール・ド・フランスは、
@@ -64,22 +63,22 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/01.palais
 <p>パリ出身で、王立絵画彫刻アカデミー講師、同アカデミーの講師ガロシュ氏の生徒である<span style="color: #28a1c5;">フランソワ・ルモワーヌは、王の命令により４年前から</span>フランス大貴族、陛下諸騎士団所属騎士、オルレアネー公領監督、国務大臣、王室造営物総監、賢明な芸術庇護者、いつもその発展に協力することに特別な協力をしてきた<ruby lang="ja" style="color:#28a1c5;">アンタン公爵<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#28a1c5">le Duc d'Antin</rt><rp>)</rp></ruby><span style="color: #28a1c5;">の指導下で手掛けてきた</span>。</p>
 <p><span style="color: #28a1c5;">９月２６日水曜日</span>、大作をお披露目する運命の日、王がミサに行くための通路にその控えの間はあった。<br>
 陛下は殿様たち、フルーリ枢機卿とその他の家臣たちに付き添われ、とても大勢の群衆を彼方から引き連れてきた。<br>
-そこには長く立ち止まり、ミサの帰りにもさらに長く留まった。  
+そこには長く立ち止まり、ミサの帰りにもさらに長く留まった。
 <span style="color: #28a1c5;">王は</span>個々の構成を細かい部分、とりわけ、組ごとの違い、デッサン、色、全体の魅力的な効果まで鑑賞されました。</p>
 <p>陛下は、審美眼の繊細さと絵画と芸術への嗜好もよく知られているとおり、
 ルモワーヌ氏の才能と美的意識を大いに誉め称えた後に、
 <span style="color: #28a1c5;">すぐさま彼を国王付第一画家に</span>、宮廷全員と好奇心でヴェルサイユに引き寄せられた数えきれない見物人の拍手の中、<span style="color: #28a1c5;">任命しました</span>。</p>
 <p>それにより、毎日、見物人の人数は減らず、この偉大な構図の出来映えを称賛するまでに増え続けている。<br>
-名高い<ruby lang="ja">ル<rp>(</rp><rt lang="fr">Le</rt><rp>)</rp>・<rp>(</rp><rt lang="fr"></rt><rp>)</rp>ブラン<rp>(</rp><rt lang="fr">Brun</rt><rp>)</rp></ruby lang="ja">によって描かれた<a href="#note_grandegallerie" title="大回廊" id="grandegallerie">大回廊</a>の一番大きな部分でも、この作品の元の半分よりも大きくありません。  </p>
-<p><br></p>
+名高い<ruby lang="ja">ル<rp>(</rp><rt lang="fr">Le</rt><rp>)</rp>・<rp>(</rp><rt lang="fr"></rt><rp>)</rp>ブラン<rp>(</rp><rt lang="fr">Brun</rt><rp>)</rp></ruby lang="ja">によって描かれた<a href="#note_grandegallerie" title="大回廊" id="grandegallerie">大回廊</a>の一番大きな部分でも、この作品の元の半分よりも大きくありません。</p><hr>
 <div class="notices blue">
 <h4 id="note_grandegallerie" class="blue">大回廊</h4>
-<p><ruby lang="ja">大回廊<rp>(</rp><rt lang="fr">la&#160;Grande&#160;Gallerie</rt><rp>)</rp></ruby lang="ja">は正式呼称であります。いわゆる１６８４年での計画の完成の段階での呼称。しかし、１７世紀では、鏡が非常に珍しくて高額のものであったため、公開された段階から、大回廊より、一般的に「<ruby lang="ja">鏡の回廊<rp>(</rp><rt lang="fr">la&#160;Gallerie&#160;des&#160;Glaces</rt><rp>)</rp></ruby lang="ja">」と呼ばれるようになりました。  </p>
+<p><ruby lang="ja">大回廊<rp>(</rp><rt lang="fr">la&#160;Grande&#160;Gallerie</rt><rp>)</rp></ruby lang="ja">は正式呼称であります。いわゆる１６８４年での計画の完成の段階での呼称。しかし、１７世紀では、鏡が非常に珍しくて高額のものであったため、公開された段階から、大回廊より、一般的に「<ruby lang="ja">鏡の回廊<rp>(</rp><rt lang="fr">la&#160;Gallerie&#160;des&#160;Glaces</rt><rp>)</rp></ruby lang="ja">」と呼ばれるようになりました。</p>
 <ul>
-<li>註に戻る： <a href="#grandegallerie" title="大回廊">大回廊の一番大きな部分でも ↑</a>  </li>
+<li>註に戻る： <a href="#grandegallerie" title="大回廊">大回廊の一番大きな部分でも ↑</a></li>
 </ul>
 </div>
-</div>
+</div><hr>
+
 <!-- page 2 -->
 <div id="body-inner">
 				<p><span style="color: #28a1c5;">以下は描写です。</span></p>
@@ -175,24 +174,23 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/01.palais
 彼女に婿として前もって与えています。<br>
 ヘラクレスの生涯に関わりが深かった<a href="#area_junon" title="ユノ" id="junon">ユノ</a>は、
 これに賛成しているように見えます。
-この巧妙な形が、美徳がいつも嫉妬心と欲望を乗り越えることを明らかにしています。  
+この巧妙な形が、美徳がいつも嫉妬心と欲望を乗り越えることを明らかにしています。
 ユピテルの足元に、
 雷を受託する<a href="#area_laigle" title="鷲" id="laigle">鷲</a>が見えます。<br>
 <a href="#note_ganimede" title="ガニメデ"" id="ganimede2">ガニメデ</a>はヘーベのそばにいて
-女神の幸福を喜んで見ています。</p>
-<p><br></p>
+女神の幸福を喜んで見ています。</p><hr>
 <div class="notices blue">
 <h4 id="note_pieds" class="blue">ピエ</h4>
-<p><ruby lang="ja">旧体制<rp>(</rp><rt lang="fr">Ancien&#160;Régime</rt><rp>)</rp></ruby lang="ja">の長さの単位。１ピエは３２、４８㌢。それでは、天井は２０、８㍍の長さ、幅１６、６㍍と奥行き２、８㍍。  </p>
+<p><ruby lang="ja">旧体制<rp>(</rp><rt lang="fr">Ancien&#160;Régime</rt><rp>)</rp></ruby lang="ja">の長さの単位。１ピエは３２、４８㌢。それでは、天井は２０、８㍍の長さ、幅１６、６㍍と奥行き２、８㍍。</p>
 <ul>
-<li>註に戻る： <a href="#pieds" title="「ピエ」という註へ戻る">天井は長さが６４ピエ ↑</a>  </li>
+<li>註に戻る： <a href="#pieds" title="「ピエ」という註へ戻る">天井は長さが６４ピエ ↑</a></li>
 </ul>
 </div>
 <div class="notices blue">
 <h4 id="note_attique" class="blue">アティック</h4>
-<p>古代ローマ建築の正面最上部を成す帯状壁面。コーニスによって正面を構成する主たるオーダーから区別され，付け柱，銘板，浮彫などで装飾された。  </p>
+<p>古代ローマ建築の正面最上部を成す帯状壁面。コーニスによって正面を構成する主たるオーダーから区別され，付け柱，銘板，浮彫などで装飾された。</p>
 <ul>
-<li>註に戻る： <a href="#attique" title="アティック">アティックの絵の中の人物らは ↑</a>  </li>
+<li>註に戻る： <a href="#attique" title="アティック">アティックの絵の中の人物らは ↑</a></li>
 </ul>
 </div>
 <div class="notices blue">
@@ -201,14 +199,14 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/01.palais
 同時に、フランス語ではユピテルは太陽系での天体である<a href="https://ja.wikipedia.org/wiki/木星" title="https://ja.wikipedia.org/wiki/木星"><ruby>木星<rp>(</rp><rt>ユピテル</rt><rp>)</rp></ruby></a>をも指している。<br>
 《<ruby lang="ja">ヘラクレスの神格化<rp>(</rp><rt lang="fr">Apothéose&#160;d&#39;Hercule</rt><rp>)</rp></ruby lang="ja">》では、１６１０年１月７日に<a href="https://ja.wikipedia.org/wiki/ガリレオ・ガリレイ" title="https://ja.wikipedia.org/wiki/ガリレオ・ガリレイ"><ruby lang="ja">ガリレオ<rp>(</rp><rt lang="it">Galileo</rt><rp>)</rp>・<rp>(</rp><rt lang="it"></rt><rp>)</rp>ガリレイ<rp>(</rp><rt lang="it">Galilei</rt><rp>)</rp></ruby lang="ja"></a>が発見した木星の３つの<a href="https://ja.wikipedia.org/wiki/イオ_(衛星)" title="https://ja.wikipedia.org/wiki/イオ_(衛星)">イオ</a>、<a href="https://ja.wikipedia.org/wiki/エウロパ_(衛星)" title="https://ja.wikipedia.org/wiki/エウロパ_(衛星)">エウロパ</a>、<a href="https://ja.wikipedia.org/wiki/カリスト_(衛星)" title="https://ja.wikipedia.org/wiki/カリスト_(衛星)">カリスト</a>とよばれている衛星を記念する形にしている。<br>
 これらの衛星がギリシャ神話のユピテルが愛した<a href="https://ja.wikipedia.org/wiki/ニュンペー" title="https://ja.wikipedia.org/wiki/ニュンペー">ニュンペー</a>にちなむことになったため、絵では<ruby>ユピテル<rp>(</rp><rt>木星</rt><rp>)</rp></ruby>人物のそばに、<a href="#area_lessatellitesdejupiter" title="ユピテルの衛星たち" id="lessatellitesdejupiter">カーテンを持つ３人の女の人</a>の姿で、<a href="https://ja.wikipedia.org/wiki/イーオー" title="https://ja.wikipedia.org/wiki/イーオー">イオ</a>、<a href="https://ja.wikipedia.org/wiki/エウローペー" title="https://ja.wikipedia.org/wiki/エウローペー">エウロパ</a>、<a href="https://ja.wikipedia.org/wiki/カリストー" title="https://ja.wikipedia.org/wiki/カリストー">カリスト</a>が描かれて、当時代の科学的事実が正確に表されることになっている。<br>
-同時に、ユピテルの向こう側、<a href="#area_ganimede" title="ガニメデ" id="note_ganimede"><ruby lang="ja">ガニメデ<rp>(</rp><rt lang="fr">Ganymède</rt><rp>)</rp></ruby lang="ja"></a>も見えている。彼は日本語では古代ギリシャ語から呼称されている<a href="https://ja.wikipedia.org/wiki/ガニュメーデース" title="https://ja.wikipedia.org/wiki/ガニュメーデース"><ruby lang="ja">ガニュメーデース<rp>(</rp><rt lang="grc">Γανυμήδης</rt><rp>)</rp></ruby lang="ja"></a>となるが全く同じユピテルが愛した<a href="https://ja.wikipedia.org/wiki/イリオス" title="https://ja.wikipedia.org/wiki/イリオス"><ruby lang="ja">イリオス<rp>(</rp><rt lang="grc">Ἴλιος</rt><rp>)</rp></ruby lang="ja"></a>出身の美少年である。この美少年がガリレオ・ガリレイが発見したイタリア語から呼ばれた<a href="https://ja.wikipedia.org/wiki/ガニメデ_(衛星)" title="https://ja.wikipedia.org/wiki/ガニメデ_(衛星)">ガニメデ</a>４つ目の木星の衛星を表そうとしている。  </p>
+同時に、ユピテルの向こう側、<a href="#area_ganimede" title="ガニメデ" id="note_ganimede"><ruby lang="ja">ガニメデ<rp>(</rp><rt lang="fr">Ganymède</rt><rp>)</rp></ruby lang="ja"></a>も見えている。彼は日本語では古代ギリシャ語から呼称されている<a href="https://ja.wikipedia.org/wiki/ガニュメーデース" title="https://ja.wikipedia.org/wiki/ガニュメーデース"><ruby lang="ja">ガニュメーデース<rp>(</rp><rt lang="grc">Γανυμήδης</rt><rp>)</rp></ruby lang="ja"></a>となるが全く同じユピテルが愛した<a href="https://ja.wikipedia.org/wiki/イリオス" title="https://ja.wikipedia.org/wiki/イリオス"><ruby lang="ja">イリオス<rp>(</rp><rt lang="grc">Ἴλιος</rt><rp>)</rp></ruby lang="ja"></a>出身の美少年である。この美少年がガリレオ・ガリレイが発見したイタリア語から呼ばれた<a href="https://ja.wikipedia.org/wiki/ガニメデ_(衛星)" title="https://ja.wikipedia.org/wiki/ガニメデ_(衛星)">ガニメデ</a>４つ目の木星の衛星を表そうとしている。</p>
 <ul>
-<li>註に戻る： <a href="#lessatellitesdejupiter2" title="ユピテルの衛星たち">ユピテルの衛星たち ↑</a>  </li>
-<li>註に戻る： <a href="#ganimede2" title="ガニメデ">ガニメデはヘーベのそばにいて ↑</a>  </li>
-<li>ガリレオ衛星について、さらに詳しく： <a href="https://ja.wikipedia.org/wiki/ガリレオ衛星" title="https://ja.wikipedia.org/wiki/ガリレオ衛星">ガリレオ衛星 ↑</a>  </li>
+<li>註に戻る： <a href="#lessatellitesdejupiter2" title="ユピテルの衛星たち">ユピテルの衛星たち ↑</a></li>
+<li>註に戻る： <a href="#ganimede2" title="ガニメデ">ガニメデはヘーベのそばにいて ↑</a></li>
+<li>ガリレオ衛星について、さらに詳しく： <a href="https://ja.wikipedia.org/wiki/ガリレオ衛星" title="https://ja.wikipedia.org/wiki/ガリレオ衛星">ガリレオ衛星 ↑</a></li>
 </ul>
 </div>
-</div>
+</div><hr>
 <!-- page 3 -->
 <div id="body-inner">
 				<figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -264,7 +262,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/01.palais
 パンドラとディアヌの下に、
 そして、団体の前の方に、
 怪物たちと悪徳たちの墜落に熱心な<a href="#area_mars" title="マルス" id="mars">マルス</a>が見られます、
-彼は今、力の神ではなく、美徳の神にのみ打ちのめされます。  この神に自分の労働を捧げている<a href="#area_vulcain" title="ウゥルカヌス" id="vulcain">ウゥルカヌス</a>は、
+彼は今、力の神ではなく、美徳の神にのみ打ちのめされます。この神に自分の労働を捧げている<a href="#area_vulcain" title="ウゥルカヌス" id="vulcain">ウゥルカヌス</a>は、
 その隣りにいます。<br>
 <a href="#area_plusieursamours" title="複数の天使たち" id="plusieursamours">複数の天使たち</a>がこの神々の右側を飛び回り、
 貴重な武器を掴んでいます、
@@ -510,7 +508,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/01.palais
  
 これらのすべての装飾額縁は、<span style="color: #28a1c5;">美徳の精たちに支えられている柏の葉の大きな連なり</span>で戴冠されています。<br>
 この連なりは、見せかけの<ruby>結晶漆喰<rp>(</rp><rt>スタッコ</rt><rp>)</rp></ruby>で仕上げられていて、装飾額縁と美徳の精たちも同様に、ヘラクレスの出来事を特徴づけています、
-アティックの周囲にずっと見えます。  
+アティックの周囲にずっと見えます。
 この周囲は、白地に<ruby>菫<rp>(</rp><rt>すみれ</rt><rp>)</rp></ruby>色石目の通った黒い大理石パネルと合せた白い見せかけの大理石で仕上げられています。
 アティックの上部の飾りは金箔で引き立てられています、
 <span style="color: #28a1c5;">全体の効果が控えの間の実際のコーニスに支えられています</span>。<br>
@@ -519,23 +517,22 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/01.palais
 すなわち、<ruby lang="ja">ダンタン<rp>(</rp><rt lang="fr">Dantin</rt><rp>)</rp></ruby lang="ja">とよばれている大理石、<ruby lang="ja">ヴェルカンパン<rp>(</rp><rt lang="fr">Vercampan</rt><rp>)</rp></ruby lang="ja">、<ruby lang="ja">ランセ<rp>(</rp><rt lang="fr">Rancé</rt><rp>)</rp></ruby lang="ja">、または石目の入った白いものです、
 これらの柱の柱脚と柱頭、コーニスと門の縁枠なども同様に金箔で仕上げられています。<br>
 この金箔と大理石の輝きは、お互いに協力し合ったり、反応し合っていたりして、感心するほど素晴らしい効果をつくっていて、
-装飾にもなっている絵画が武器飾りにもなっているかのように見えます。</p>
-<p><br></p>
+装飾にもなっている絵画が武器飾りにもなっているかのように見えます。</p><hr>
 <div class="notices blue">
 <h4 id="note_alcide">アルシド</h4>
 <p>アルシドはヘラクレスの赤ちゃん名。<ruby lang="ja">アルシド<rp>(</rp><rt lang="fr">Alcide</rt><rp>)</rp></ruby lang="ja">。</p>
 <ul>
-<li>註に戻る： <a href="#pilastre" title="付け柱">アルシド ↑</a>  </li>
+<li>註に戻る： <a href="#pilastre" title="付け柱">アルシド ↑</a></li>
 </ul>
 </div>
 <div class="notices blue">
 <h4 id="note_pilastre" class="blue">付け柱</h4>
 <p>壁面から引出して作った装飾的な柱と見えるように作られたもの。フランス語で：<ruby lang="ja">ピ<rp>(</rp><rt lang="fr">p&#160i</rt><rp>)</rp>ラス<rp>(</rp><rt lang="fr">l&#160a&#160s</rt><rp>)</rp>トㇽ<rp>(</rp><rt lang="fr">t&#160r&#160e</rt><rp>)</rp></ruby lang="ja">。</p>
 <ul>
-<li>註に戻る： <a href="#pilastre" title="付け柱">付け柱 ↑</a>  </li>
+<li>註に戻る： <a href="#pilastre" title="付け柱">付け柱 ↑</a></li>
 </ul>
 </div>
-</div>
+</div><hr>
 <!-- page 7 -->
 <div id="body-inner">
 				<p><span style="color: #28a1c5;"><a href="https://ja.wikipedia.org/wiki/パオロ・ヴェロネーゼ" title="https://ja.wikipedia.org/wiki/パオロ・ヴェロネーゼ">パオロ・ヴェロネーゼ</a>作の有名な２枚の絵画</span>がこの控えの間の主な２つの飾りどころを占めています。<br>
@@ -570,8 +567,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/01.palais
 描かれているものは、描かれておらず白い色しか見えないものより、ずいぶん高くに見えています。</p>
 <p>我々はそこで隣接して同じ高さに建設されている２つの控えの間で、とても簡単に明らかになるこの対立と対照が、玄人たちの特別な興味を引くことに値しているのだと確信しています。
 <span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"/></svg></span></p>
-<p><span style="color: #28a1c5;">恐らくフランソワ・ルモワーヌ作、メルクール・ド・フランス誌、１７３６年９月２６日より</span>  </p>
-<p><br></p>
+<p><span style="color: #28a1c5;">恐らくフランソワ・ルモワーヌ作、メルクール・ド・フランス誌、１７３６年９月２６日より</span></p><hr>
 <div class="notices blue">
 <h4 id="note_metre1" class="blue">《ファリサイ人家での祝宴》絵画の寸法</h4>
 <p>幅５２ピエ×高さ１５ピエが現在の寸法では、幅１６，９㍍×高さ４.９㍍とします。</p>

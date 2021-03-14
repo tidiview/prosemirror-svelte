@@ -5,8 +5,8 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-  <div id="body-inner">
-	<h1 class="green">ジョルジョ・ヴァザーリにおいてのモナ・リザ</h1>
+<div id="body-inner">
+<h1 class="green">ジョルジョ・ヴァザーリにおいてのモナ・リザ</h1>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-380.webp 380w,
@@ -23,7 +23,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.l
 https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-840.jpg 840w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1600.jpg 1600w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1920.jpg 1920w" id="zephyr_et_flore"></picture><figcaption>「ラ・ジョコンデュ」か「ジョコンダ婦人、モナ・リザ」と言われているフランテスコ・デル・ジョコンド妻であるジェラルディニーの肖像画</figcaption></figure>
+https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1920.jpg 1920w" id="la_joconde_selon_vasari"></picture><figcaption>「ラ・ジョコンデュ」か「ジョコンダ婦人、モナ・リザ」と言われているフランテスコ・デル・ジョコンド妻であるジェラルディニーの肖像画</figcaption></figure>
 <div class="notices green">
 <p>下記の<a href="https://ja.wikipedia.org/wiki/モナ・リザ" title="https://ja.wikipedia.org/wiki/モナ・リザ">モナ・リザ</a>の描写は<a href="https://ja.wikipedia.org/wiki/ジョルジョ・ヴァザーリ" title="https://ja.wikipedia.org/wiki/ジョルジョ・ヴァザーリ"><ruby lang="ja">ジョルジョ<rp>(</rp><rt lang="it">Giorgio</rt><rp>)</rp>・<rp>(</rp><rt lang="it">&#160;</rt><rp>)</rp>ヴァザーリ<rp>(</rp><rt lang="it">VASARI</rt><rp>)</rp></ruby lang="ja"></a>によって書かれ、１５５０年にフィレンツェで出版された。<br>
 これは最もよく知られ、最も古く、最も信頼に値するものである。それで、その後の描写のほとんどに影響を与えた。<br>
@@ -31,7 +31,6 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.l
 描写は、その作品の評判について教えてくれる。１５０３年にフィレンツェで施されて、<a href="https://ja.wikipedia.org/wiki/レオナルド・ダ・ヴィンチ" title="https://ja.wikipedia.org/wiki/レオナルド・ダ・ヴィンチ">レオナルド・ダ・ヴィンチ</a>はそこで４年間没頭して、「リザ婦人」という「マドナ・リザ」〔省略すると、モナ・リザ〕の指名で、フランチェスコ・デル・ジョコンドの妻を表している。<br>
 この描写は何よりもヴァザーリにとっての価値を理解することも可能にしているのです。</p>
 </div>
-<p><br></p>
 <p><span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span>
 その後、<ruby>彼<rp>(</rp><rt>レオナルド</rt><rp>)</rp></ruby>は、フランチェスコ・デル・ジョコンドのために、その妻モナ・リザの肖像画の制作を引き受けたが、４年間努力した末に未完成のまま残した。<br>
 この作品は現在、<a href="https://ja.wikipedia.org/wiki/フランソワ1世_(フランス王)" title="https://ja.wikipedia.org/wiki/フランソワ1世_(フランス王)">フランス国王フランソワ</a>のもと、<a href="https://ja.wikipedia.org/wiki/フォンテーヌブロー" title="https://ja.wikipedia.org/wiki/フォンテーヌブロー">フォンテーヌブロー</a>にある。<br>
