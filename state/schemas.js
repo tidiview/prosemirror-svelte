@@ -374,7 +374,7 @@ export const ExtendedTworichTextSchema = new Schema({
     figure: {
       content: "(picture figcaption? map?)",
       inline: true,
-      group: "inline",
+      group: "inline*",
       draggable: true,
       parseDOM: [{tag: "figure"}],
       toDOM() { {return ["figure", 0]} },

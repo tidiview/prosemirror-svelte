@@ -93,23 +93,6 @@ Ci-dessous, Socrate pose plusieurs questions à Diotime à propos de l'amour.</p
 <td></td>
 <td>par ailleurs, il se trouve à mi-chemin entre le savoir et l'ignorance. <span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewbox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"></path></svg></span></td>
 </tr>
-</tbody>
-</table>
-</div>
-
-<!-- Page 2 --><hr>
-
-
-<div id="translation-text-rousi">
-<table>
-<thead>
-<tr>
-<th><span hidden>hidden</span></th>
-<th><span hidden>hidden</span></th>
-<th><span hidden>hidden</span></th>
-</tr>
-</thead>
-<tbody>
 <tr>
 <td><sup>204a</sup></td>
 <td>【DIOTIME】</td>

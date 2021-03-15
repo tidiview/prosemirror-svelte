@@ -19,7 +19,6 @@ Nous nous trouvons surpris, déstabilisés, nous qui sans nous en rendre compte,
 Priscus nous rappelle la vivacité, l'originalité, la singularité de la foi  juive dont un autre témoin pourrait par exemple être Rachi de Troyes.<br>
 Passionnant!</p>
 </div>
-<p><br></p>
 <h2 class="green">rencontre de Chilpéric et Priscus</h2>
 <p><span style="color: #3d8b3d;">chapître 5</span></p>
 <p>Alors le <span style="color: #3d778a;">roi Chilperic</span>, qui séjournait encore dans la <a href="#note_villa" title="villa" id="villa" class="green">susdite villa</a>, ordonne de mettre en mouvement ses équipages et se dispose à venir à Paris.<br>
@@ -101,48 +100,40 @@ cependant Paul a déclaré:<br>
 Et en disant ces mots, il se fait présenter de l'eau pour les mains.</span></p>
 <p>Les ablutions achevées, la prière faite, on reçut du pain, puis ayant rendu grâce à Dieu, <span style="color: #503d8a;">j</span>'en pris moi-même et en offris au <span style="color: #3d778a;">roi</span>, et après avoir bu du vin pur, nous nous séparâmes en nous disant adieu.</p>
 <p>Ensuite le <span style="color: #3d778a;">roi</span>, étant monté à cheval, rentra à Paris avec sa femme et sa fille ainsi que toute sa suite.</p>
-<p><br></p>
 <h3 class="green">Notes</h3>
-<p><br></p>
 <h4 id="note_villa" class="green">villa</h4>
 <div class="notices green">
 <p>Dans le texte en latin “Novigentum” probablement sur le site de l'actuelle ville de Nogent-sur-Marne.<br>
 Retour au texte <a href="#villa" title="villa">“séjournait encore dans la susdite villa” ↑</a></p>
 </div>
-<p><br></p>
 <h4 id="note_deuteronome" class="green">voyez, je suis le Seigneur</h4>
 <div class="notices green">
 <p>Deuteronome, XXXII, 39: “Voyez-le, maintenant, c’est moi, et moi seul; pas d’autre dieu que moi; c’est moi qui fais mourir et vivre, si j’ai frappé, c’est moi qui guéris, et personne ne délivre de ma main”.
 <a href="#deuteronome" title="Deuteronome, XXXII, 39">(1) ↑</a></p>
 </div>
-<p><br></p>
 <h4 id="note_engendre" class="green">je t'ai enfanté de mon sein avant l'aurore</h4>
 <div class="notices green">
 <p>Cette citation est un emprunt fait à la traduction par la Vulgate du Psaume CIX, 3 qui n’existe pas dans le texte original hébreu.
 <a href="#engendre" title="Je t'ai enfanté de mon sein avant l'aurore">(2) ↑</a></p>
 </div>
-<p><br></p>
 <h4 id="note_verbe" class="green">Il a envoyé son Verbe et il les a guéris</h4>
 <div class="notices green">
 <p>Livre des Psaumes, CVII, 20.<br>
 “il envoie sa parole, il les guérit, il arrache leur vie à la fosse”.
 <a href="#verbe" title="Il a envoyé son Verbe et il les a guéris">(3) ↑</a></p>
 </div>
-<p><br></p>
 <h4 id="note_enfanter" class="green">pourquoi moi, qui fais enfanter les autres, ne pourrais-je également enfanter?</h4>
 <div class="notices green">
 <p>L'interprétation du texte biblique par Grégoire de Tours est contestable.
 Isaïe, LXVI, 9: “Est-ce que moi, j’ouvrirais un passage à la vie, et je ne ferais pas enfanter? – dit le Seigneur. Moi qui fais enfanter, je fermerais le passage de la vie? – dit ton Dieu.”.
 <a href="#enfanter" title="... ne pourrais-je également enfanter?">(4) ↑</a></p>
 </div>
-<p><br></p>
 <h4 id="note_ecoute" class="green">dieu devait devenir homme</h4>
 <div class="notices green">
 <p>R. Buchner (“Zehn Bacher Geschichten”, II, p. 10, note 1, rapproche cette allusion d'un verset de Jérémie (XVII, 9) que Grégoire aurait emprunté à un texte autre que celui de la Vulgate.
 verset de Jérémie XVII, 9: “Rien n’est plus faux que le cœur de l’homme, il est incurable. Qui peut le connaître?”.
 <a href="#ecoute" title="Dieu devait devenir homme">(5) ↑</a></p>
 </div>
-<p><br></p>
 <h4 id="note_luinotredieu" class="green">c'est lui qui est notre Dieu</h4>
 <div class="notices green">
 <p>Baruch, III, 36-38:<br>
@@ -151,13 +142,11 @@ verset de Jérémie XVII, 9: “Rien n’est plus faux que le cœur de l’homme
 38 Ainsi, la Sagesse est apparue sur la terre, elle a vécu parmi les hommes”.
 <a href="#luinotredieu" title="Dieu devait devenir homme">(6) ↑</a></p>
 </div>
-<p><br></p>
 <h4 id="note_vierge" class="green">quant à sa naissance d'une vierge</h4>
 <div class="notices green">
-<p>Isaie, VII, 14. Ce verset a été reproduit par Saint Matthieu (I, 23-24), qui complète le texte du prophète par les mots: “C’est-à-dire Dieu avec nous”.<br>
+<p>Isaie, VII, 14. Ce verset a été reproduit par Saint Matthieu (I, 23-24), qui complète le texte du prophète par les mots: “C’est-à-dire Dieu avec nous”.
 <a href="#vierge" title="Quant à sa naissance d'une vierge">(7) ↑</a></p>
 </div>
-<p><br></p>
 <h4 id="note_perce" class="green">ils ont percé mes mains et mes pieds; ils ont partagé entre eux mes vêtements</h4>
 <div class="notices green">
 <p>Psaumes, XXI, 17, 19:<br>
@@ -165,62 +154,53 @@ verset de Jérémie XVII, 9: “Rien n’est plus faux que le cœur de l’homme
 19: “Ils partagent entre eux mes habits et tirent au sort mon vêtement.”.
 <a href="#perce" title="Ils ont percé mes mains et mes pieds; ils ont partagé entre eux mes vêtements">(8) ↑</a></p>
 </div>
-<p><br></p>
 <h4 id="note_fiel" class="green">ils m'ont donné pour ma nourriture du fiel et dans ma soif ils m'ont abreuvé de vinaigre</h4>
 <div class="notices green">
-<p>Psaumes, LXVIII, 22: “À mon pain, ils ont mêlé du poison; quand j'avais soif, ils m'ont donné du vinaigre”.<br>
+<p>Psaumes, LXVIII, 22: “À mon pain, ils ont mêlé du poison; quand j'avais soif, ils m'ont donné du vinaigre”.
 <a href="#fiel" title="Ils m'ont donné pour ma nourriture du fiel et dans ma soif ils m'ont abreuvé de vinaigre">(9) ↑</a></p>
 </div>
-<p><br></p>
 <h4 id="note_parlebois" class="green">le Seigneur a régné par le bois</h4>
 <div class="notices green">
 <p>Selon Buchner (“Zehn Bacher Geschichten”, II, p. 11, n. 7), ces mots seraient une interpolation chrétienne qui n'aurait pas été acceptée par les auteurs de la Vulgate.
 <a href="#parlebois" title="Le Seigneur a régné par le bois">(10) ↑</a></p>
 </div>
-<p><br></p>
 <h4 id="note_meurtrissure" class="green">nous avons été guéris par sa meurtrissure</h4>
 <div class="notices green">
-<p>Isaïe, LIII, 5: “Or, c’est à cause de nos révoltes qu’il a été transpercé, à cause de nos fautes qu’il a été broyé. Le châtiment qui nous donne la paix a pesé sur lui: par ses blessures, nous sommes guéris”.<br>
+<p>Isaïe, LIII, 5: “Or, c’est à cause de nos révoltes qu’il a été transpercé, à cause de nos fautes qu’il a été broyé. Le châtiment qui nous donne la paix a pesé sur lui: par ses blessures, nous sommes guéris”.
 <a href="#meurtrissure" title="Nous avons été guéris par sa meurtrissure">(11) ↑</a></p>
 </div>
-<p><br></p>
 <h4 id="note_commeunebrebis" class="green">comme une brebis il a été mené à la tuerie</h4>
 <div class="notices green">
-<p>Isaïe, LIII, 7: “Maltraité, il s’humilie, il n’ouvre pas la bouche: comme un agneau conduit à l’abattoir, comme une brebis muette devant les tondeurs, il n’ouvre pas la bouche”.<br>
+<p>Isaïe, LIII, 7: “Maltraité, il s’humilie, il n’ouvre pas la bouche: comme un agneau conduit à l’abattoir, comme une brebis muette devant les tondeurs, il n’ouvre pas la bouche”.
 <a href="#commeunebrebis" title="Comme une brebis il a été mené à la tuerie">(12) ↑</a></p>
 </div>
-<p><br></p>
 <h4 id="note_armees" class="green">seigneur des armées est son nom</h4>
 <div class="notices green">
-<p>Isaïe, LIV, 5: “Car ton époux, c’est Celui qui t’a faite, son nom est «Le Seigneur de l’univers». Ton rédempteur, c’est le Saint d’Israël, il s’appelle «Dieu de toute la terre»”.<br>
+<p>Isaïe, LIV, 5: “Car ton époux, c’est Celui qui t’a faite, son nom est «Le Seigneur de l’univers». Ton rédempteur, c’est le Saint d’Israël, il s’appelle «Dieu de toute la terre»”.
 <a href="#armees" title="Seigneur des armées est son nom">(13) ↑</a></p>
 </div>
-<p><br></p>
 <h4 id="note_lionceau" class="green">les fils de ton père t'adoreront, lionceau Juda</h4>
 <div class="notices green">
+<p>Grégoire de Tours s'inspire dans sa réplique de la Génèse sans reproduire littéralement le texte.</p>
 </div>
-<p>Grégoire de Tours s'inspire dans sa réplique de la Génèse sans reproduire littéralement le texte. </p>
 <div class="notices green">
 <p>Génèse XLIX, 8-12: “08 Juda, à toi, tes frères rendront hommage, ta main fera plier la nuque de tes ennemis et les fils de ton père se prosterneront devant toi.<br>
 09 Juda est un jeune lion. Tu remontes du carnage, mon fils. Il s’est accroupi, il s’est couché comme un lion ; ce fauve, qui le fera lever?<br>
-10 Le sceptre royal n’échappera pas à Juda, ni le bâton de commandement, à sa descendance, jusqu’à ce que vienne celui à qui le pouvoir appartient, à qui les peuples obéiront”.<br>
+10 Le sceptre royal n’échappera pas à Juda, ni le bâton de commandement, à sa descendance, jusqu’à ce que vienne celui à qui le pouvoir appartient, à qui les peuples obéiront”.
 <a href="#lionceau" title="Les fils de ton père t'adoreront, lionceau Juda">(14) ↑</a></p>
 </div>
-<p><br></p>
 <h4 id="note_reprendre" class="green">j'ai le pouvoir de quitter la vie et j'ai le pouvoir de la reprendre</h4>
 <div class="notices green">
 <p>Cette version diffère quelque peu du texte actuel de ce passage de l'évangile de Jean.<br>
-Jean, X, 18: “Nul ne peut me l’enlever: je la donne de moi-même. J’ai le pouvoir de la donner, j’ai aussi le pouvoir de la recevoir de nouveau: voilà le commandement que j’ai reçu de mon Père”.<br>
+Jean, X, 18: “Nul ne peut me l’enlever: je la donne de moi-même. J’ai le pouvoir de la donner, j’ai aussi le pouvoir de la recevoir de nouveau: voilà le commandement que j’ai reçu de mon Père”.
 <a href="#reprendre" title="J'ai le pouvoir de quitter la vie...">(15) ↑</a></p>
 </div>
-<p><br></p>
 <h4 id="note_ressuciter" class="green">celui qui ne croira pas que Dieu l'a ressuscité des morts ne pourra être sauvé</h4>
 <div class="notices green">
 <p>Épître aux Romains, X, 9. Le texte de la Vulgate est un peu différent:<br>
-“En effet, si de ta bouche, tu affirmes que Jésus est Seigneur, si, dans ton cœur, tu crois que Dieu l’a ressuscité d’entre les morts, alors tu seras sauvé”.<br>
+“En effet, si de ta bouche, tu affirmes que Jésus est Seigneur, si, dans ton cœur, tu crois que Dieu l’a ressuscité d’entre les morts, alors tu seras sauvé”.
 <a href="#ressuciter" title="... que Dieu l'a ressuscité des morts ne pourra être sauvé">(16) ↑</a></p>
 </div>
-<p><br></p>
 <h4 id="note_benir" class="green">je ne te laisserai pas partir si tu ne me bénis pas</h4>
 <div class="notices green">
 <p>Génèse, XXXII, 25-27: “25 Jacob resta seul. Or, quelqu’un lutta avec lui jusqu’au lever de l’aurore.<br>

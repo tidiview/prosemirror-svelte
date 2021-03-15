@@ -96,10 +96,6 @@
 <td>7</td>
 <td>Même lorsqu'il meurt sa mémoire demeure</td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 </div>

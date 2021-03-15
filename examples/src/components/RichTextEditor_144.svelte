@@ -31,13 +31,11 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 初期フランドル派の巨匠のひとりである<a href="https://ja.wikipedia.org/wiki/ハンス・メムリンク" title="https://ja.wikipedia.org/wiki/ハンス・メムリンク"><ruby lang="ja">ハンス<rp>(</rp><rt lang="en">Hans</rt><rp>)</rp>・<rp>(</rp><rt lang="en"></rt><rp>)</rp>メムリンク<rp>(</rp><rt lang="en">MEMLING</rt><rp>)</rp></ruby lang="ja"></a>の作品で、１４８９年に祝福儀式を証明する史料が残っているため、ちょっと前に製作されたと断言できる。<br>
 昔は、一年にたった一回、聖ウルスラの祝日、１０月の２１日の日にのみしか公に施療院に展示されていなかったのです！<br>
 １４７５年に完成した、聖ヨハネ施療院の前の<ruby lang="ja">マリア<rp>(</rp><rt lang="nl">Maria</rt><rp>)</rp>・<rp>(</rp><rt lang="nl"></rt><rp>)</rp>ストラアート<rp>(</rp><rt lang="nl">straat</rt><rp>)</rp></ruby lang="ja">（マリア通り）の向こうにある<ruby lang="ja">聖母教会<rp>(</rp><rt lang="nl">Onze-Lieve-Vrouwekerk</rt><rp>)</rp></ruby lang="ja">に見える、土台を除いた <ruby lang="ja">天国の門<rp>(</rp><rt lang="nl">Paradijsportaal</rt><rp>)</rp></ruby lang="ja"> と聖遺物箱が以上に似っているため、メムリンクがそこから形を決めたのではないかとつよく思われる。<br>
-１５世紀だと、聖ウルスラ伝説はキリスト教の主な著書といえる<a href="https://ja.wikipedia.org/wiki/ヤコブス・デ・ヴォラギネ" title="https://ja.wikipedia.org/wiki/ヤコブス・デ・ヴォラギネ"><ruby lang="ja">ヤコブス<rp>(</rp><rt lang="la">Jacobus</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>デ<rp>(</rp><rt lang="la">de</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>ヴォラギネ<rp>(</rp><rt lang="la">Voragine</rt><rp>)</rp></ruby lang="ja"></a>が著した『<a href="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" title="https://ja.wikipedia.org/wiki/レゲンダ・アウレア"><ruby>黄金伝説<rp>(</rp><rt>レゲンダ・アウレア</rt><rp>)</rp></ruby></a>』の「１１　０００処女」章で知られているため、メムリンクがこの作品のため、この文書に基づいたとも断言するのは可笑しくありません。<br>
-聖遺物箱では、たった６つの細密画だけで伝説が正確に見事に物語られていて、よりよく評価するよう、以下、写真と文書を対照的に提供している。</p>
+１５世紀だと、聖ウルスラ伝説はキリスト教の主な著書といえる<a href="https://ja.wikipedia.org/wiki/ヤコブス・デ・ヴォラギネ" title="https://ja.wikipedia.org/wiki/ヤコブス・デ・ヴォラギネ"><ruby lang="ja">ヤコブス<rp>(</rp><rt lang="la">Jacobus</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>デ<rp>(</rp><rt lang="la">de</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>ヴォラギネ<rp>(</rp><rt lang="la">Voragine</rt><rp>)</rp></ruby lang="ja"></a>が著した『<a href="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" title="https://ja.wikipedia.org/wiki/レゲンダ・アウレア"><ruby>黄金伝説<rp>(</rp><rt>レゲンダ・アウレア</rt><rp>)</rp></ruby></a>』の「一万一千処女」章で知られているため、メムリンクがこの作品のため、この文書に基づいたとも断言するのは可笑しくありません。<br>
+聖遺物箱では、たった六つの細密画だけで伝説が正確に見事に物語られていて、よりよく評価するよう、以下、写真と文書を対照的に提供している。</p>
 </div>
-<p><br></p>
-<h2 class="green">１１　０００処女</strong></h2>
-<p><span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span>
-一万一千人の乙女たちが殉教したいきさつは、以下のとおりである。<br>
+<h2 class="green">一万一千処女</strong></h2>
+<p>一万一千人の乙女たちが殉教したいきさつは、以下のとおりである。<br>
 昔<ruby lang="ja">ブリタニア<rp>(</rp><rt lang="la">Britannia</rt><rp>)</rp></ruby lang="ja">に<ruby lang="ja">ノトゥス<rp>(</rp><rt lang="la">Nothus</rt><rp>)</rp></ruby lang="ja">もしくは<ruby lang="ja">マウルス<rp>(</rp><rt lang="la">Maurus</rt><rp>)</rp></ruby lang="ja">という名の<ruby>敬<rp>(</rp><rt>けい</rt><rp>)</rp>度<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>なキリスト教徒の王がいた。王には娘がひとりあって、その名を<ruby>ウルスラ<rp>(</rp><rt>Ursula</rt><rp>)</rp></ruby>といった。
 品行ただしく、聡明で、みめかたちも美しかったので、その評判は、津々浦々にまで聞こえていた。<br>
 さて、当時の<ruby lang="ja">イングランド<rp>(</rp><rt lang="la">Anglia</rt><rp>)</rp></ruby lang="ja">王は、たいへん強力で、多くの部族を支配下に置いていた。
@@ -68,7 +66,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-1920.jpg 1920w"></picture><figcaption>《<ruby lang="ja">ケルン<rt lang="la">Colonia</rt></ruby>での到着》、《<ruby lang="ja">バーゼル<rt lang="la">Basilea</rt></ruby>での到着》、《<ruby lang="ja">ローマ<rt lang="la">Roma</rt></ruby>での到着》</figcaption></figure>
 <p>他方では、イングランド王の<ruby>兇<rp>(</rp><rt>きょう</rt><rp>)</rp>死<rp>(</rp><rt>し</rt><rp>)</rp>暴<rp>(</rp><rt>ぼう</rt><rp>)</rp></ruby>さがおそろしかった。
 けれども、ウルスラは、天主のおさとしがあったのであろうか、イングランド王の申し出をお受けなさいと父王にすすめた。
-ただし、イングランド王とお父さまで１０人の乙女を<ruby>選<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>りすぐって、わたしの道づれにつけ、わたしと乙女たちにそれぞれ侍女を１０００人ずつあたえてください、そして、わたしたちが乗る船を何<ruby>艘<rp>(</rp><rt>そう</rt><rp>)</rp></ruby>か用意してください、それから、わたしが純潔をささげるまでに３年間の<ruby>猶<rp>(</rp><rt>ゆ</rt><rp>)</rp>予<rp>(</rp><rt>うよ</rt><rp>)</rp></ruby>をみとめてください、そのあいだにイングランドの王子は洗礼を受け、キリスト教の教義を３年間勉強してくださらなくてはなりません、これがわたしの条件です――ウルスラは、父親にそう言った。</p>
+ただし、イングランド王とお父さまで十人の乙女を<ruby>選<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>りすぐって、わたしの道づれにつけ、わたしと乙女たちにそれぞれ侍女を千人ずつあたえてください、そして、わたしたちが乗る船を何<ruby>艘<rp>(</rp><rt>そう</rt><rp>)</rp></ruby>か用意してください、それから、わたしが純潔をささげるまでに三年間の<ruby>猶<rp>(</rp><rt>ゆ</rt><rp>)</rp>予<rp>(</rp><rt>うよ</rt><rp>)</rp></ruby>をみとめてください、そのあいだにイングランドの王子は洗礼を受け、キリスト教の教義を三年間勉強してくださらなくてはなりません、これがわたしの条件です――ウルスラは、父親にそう言った。</p>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-380.webp 380w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-480.webp 480w,
@@ -121,7 +119,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <div id="body-inner">
 				<p>国の政治は、あとに残った王子のひとりが引き受けることになっていた。
 乙女たちがさまざまな国から集められたのも、このゲラシナの助言によることであった。
-彼女は、終始乙女たちの指導者であり、最後は乙女たちと殉教をともにしたのだった。  </p>
+彼女は、終始乙女たちの指導者であり、最後は乙女たちと殉教をともにしたのだった。</p>
 <p>さて、決められた条件どおり侍女たちも集まり、船の用意から食料の準備までととのうと、ウルスラは、仲間になってくれる乙女たちに自分の秘密の計画を打ち明けた。
 乙女たちはみな、騎士として忠節をつくして従軍いたしますと誓った。
 そして、実戦さながらの戦闘訓練をはじめた。
@@ -195,7 +193,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 その夜、教皇は、これらの乙女たちといっしょに殉教の冠を受けるであろうという天主のお告げを聞いた。
 しかし、彼は、それを自分の胸に秘めておいて、侍女たちのうちまだ受洗していなかった者に洗礼をさずけた。
 そして、いよいよそのときが来たと見るや、多くの会衆をまえにして自分の決意を告げ、聖務と教皇位をしりぞいた。
-聖<ruby lang="ja">ペトロ<rp>(</rp><rt lang="la">Petro</rt><rp>)</rp></ruby lang="ja">からかぞえて１９代目の教皇として彼が教会を統治した期間は、一年と１１週間であった。</p>
+聖<ruby lang="ja">ペトロ<rp>(</rp><rt lang="la">Petro</rt><rp>)</rp></ruby lang="ja">からかぞえて十九代目の教皇として彼が教会を統治した期間は、一年と十一週間であった。</p>
 </div>
 
 <hr>
@@ -233,7 +231,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-840.webp 840w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-1280.webp 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-1600.webp 1600w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6_700x379.jpg" title="《バーゼルでの帰り》、《１１　０００処女の殉教》、《聖ウルスラの殉教》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="《バーゼルでの帰り》、《１１　０００処女の殉教》、《聖ウルスラの殉教》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6_700x379.jpg" title="《バーゼルでの帰り》、《一万一千処女の殉教》、《聖ウルスラの殉教》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="《バーゼルでの帰り》、《一万一千処女の殉教》、《聖ウルスラの殉教》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-280.jpg 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-380.jpg 380w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-480.jpg 480w,
@@ -242,7 +240,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-840.jpg 840w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-1600.jpg 1600w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-1920.jpg 1920w"></picture><figcaption>《<ruby><rb>バーゼル</rb><rt>Basilea</rt></ruby>での帰り》、《１１　０００処女の殉教》、《聖ウルスラの殉教》</figcaption></figure>
+https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-1920.jpg 1920w"></picture><figcaption>《<ruby><rb>バーゼル</rb><rt>Basilea</rt></ruby>での帰り》、《一万一千処女の殉教》、《聖ウルスラの殉教》</figcaption></figure>
 <p>しかし、聖職者たちの意向を無視して教皇の座を棄てたからというので、彼の名前は、歴代教皇表から抹殺され、清らかな乙女たちも、それまでローマ教会で受けていた好意をすっかり失ってしまった。
 そのころ、ローマ帝国の軍隊の指揮官に<ruby lang="ja">マクシムス<rp>(</rp><rt lang="la">Maximus</rt><rp>)</rp></ruby lang="ja">と<ruby lang="ja">アフリカヌス<rp>(</rp><rt lang="la">Africanus</rt><rp>)</rp></ruby lang="ja">というふたりの悪将軍がいた。
 彼らは、大勢の乙女たちを見、さらに多くの男たちや女たちがそれに参加するのを見るにつけても、この調子ではキリスト教の勢力が大きくなりすぎるのではないかと心配になった。
@@ -293,7 +291,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule8-840.webp 840w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule8-1280.webp 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule8-1600.webp 1600w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule8-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule8_700x540.jpg" title="《１１　０００処女の殉教》、《聖ウルスラの殉教》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="《１１　０００処女の殉教》、《聖ウルスラの殉教》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-75-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule8-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule8_700x540.jpg" title="《一万一千処女の殉教》、《聖ウルスラの殉教》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="《一万一千処女の殉教》、《聖ウルスラの殉教》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-75-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule8-280.jpg 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule8-380.jpg 380w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule8-480.jpg 480w,
@@ -302,20 +300,20 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule8-840.jpg 840w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule8-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule8-1600.jpg 1600w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule8-1920.jpg 1920w"></picture><figcaption>《１１　０００処女の殉教》、《聖ウルスラの殉教》</figcaption></figure>
+https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule8-1920.jpg 1920w"></picture><figcaption>《一万一千処女の殉教》、《聖ウルスラの殉教》</figcaption></figure>
 <p>フン族の王は、ウルスラの美しさにおどろき、うっとりとなって見とれた。
 そして、仲間の乙女たちの死を悲しんでいる彼女に慰めの言葉をかけ、そなたを妻にむかえたいと申し出た。
 ウルスラは、それをことわった。
 王は、 <ruby>侮<rp>(</rp><rt>ぶ</rt><rp>)</rp>辱<rp>(</rp><rt>じょく</rt><rp>)</rp></ruby> されたとおもい、矢を一本とって狙いを定め、ウルスラのからだを射抜いた。
-こうしてウルスラに殉教の栄冠がさずけられたのである。  </p>
+こうしてウルスラに殉教の栄冠がさずけられたのである。</p>
 <p><a href="#note_cordula" title="コルドゥラ" id="cordula"><ruby lang="ja">コルドゥラ<rp>(</rp><rt lang="la">Cordula</rt><rp>)</rp></ruby lang="ja"></a>という名前の乙女は、恐怖心にとりつかれて一晩じゅう船のなかに隠れていたがあくる朝、みずからすすんで死地におもむき、殉教者の冠を受けた。
-しかし、仲間の乙女たちといっしょに受難しなかったからというので、この乙女のための祝日はおこなわれていなかったのであるが、その後ずっと年月がたってから、彼女は、ある隠修女の夢枕にあらわれ、１１　０００処女の祝日の翌日を自分の祝日にしてほしいと打ち明けた。
+しかし、仲間の乙女たちといっしょに受難しなかったからというので、この乙女のための祝日はおこなわれていなかったのであるが、その後ずっと年月がたってから、彼女は、ある隠修女の夢枕にあらわれ、一万一千処女の祝日の翌日を自分の祝日にしてほしいと打ち明けた。
 ところで、これらの乙女たちが殉教したのは、<ruby>主<rp>(</rp><rt>しゅ</rt><rp>)</rp></ruby>の紀元２３８年であったということになっている。
 しかし、ある人たちの説によると、年代の計算から言って、この年にそんな出来ことがあったとは考えられないという。
 シチリアは、当時はまだ王国でなかったし、コンスタンティノポリスも、そうであった。
 ところが、この物語では、これらの国の王妃が乙女たちと行をともにしたことになっている。
 だから、殉教があったのは、皇帝<a href="#note_constantinus" title="ブルージュ" id="constantinus"><ruby lang="ja">コンスタンティヌス<rp>(</rp><rt lang="la">Constantinus</rt><rp>)</rp></ruby lang="ja"></a>のときよりもあと、フン族や<ruby>ゴート<rp>(</rp><rt>Gothi</rt><rp>)</rp></ruby>人が諸国を荒らしまわっていたころ、すなわち、ある年代記にもあるように、<a href="#note_marcianus" title="マルキアヌス" id="marcianus"><ruby lang="ja">マルキアヌス<rp>(</rp><rt lang="la">Marcianus</rt><rp>)</rp></ruby lang="ja">帝</a>が帝位にあった452年のことだとしたほうがよさそうである。</p>
-<p>ある修道院長があって、ケルンのさる女子修道院長から１１　０００処女のひとりの聖遺骨をもらい受け、銀の <ruby>聖<rp>(</rp><rt>せい</rt><rp>)</rp>遺<rp>(</rp><rt>い</rt><rp>)</rp>物匣<rp>(</rp><rt>ぶっこう</rt><rp>)</rp></ruby>におさめてわたしの修院聖堂に安置しますと約束した。
+<p>ある修道院長があって、ケルンのさる女子修道院長から一万一千処女のひとりの聖遺骨をもらい受け、銀の <ruby>聖<rp>(</rp><rt>せい</rt><rp>)</rp>遺<rp>(</rp><rt>い</rt><rp>)</rp>物匣<rp>(</rp><rt>ぶっこう</rt><rp>)</rp></ruby>におさめてわたしの修院聖堂に安置しますと約束した。
 しかし、まる一年のあいだ木の <ruby>匣<rp>(</rp><rt>はこ</rt><rp>)</rp></ruby>に入れて祭壇のうえに置いたままにしていた。
 すると、ある夜のこと、院長が修道士たちと早朝のミサをつとめていると、くだんの童貞聖が生前の姿のまま祭壇のうえから降りてきて、祭壇のまえで深々とお辞儀をすると、怖れおののいている修道士たちを<ruby>尻<rp>(</rp><rt>しり</rt><rp>)</rp>目<rp>(</rp><rt>め</rt><rp>)</rp></ruby>に内陣の中央をとおって出ていった。
 院長があわてて聖遺物匣のところに行ってみると、匣のなかは、<ruby>空<rp>(</rp><rt>から</rt><rp>)</rp></ruby>っぽであった。そこで、院長は、いそいでケルンに行き、女子修院長に一部始終を話した。ふたりの院長がその聖遺骨を取りだした場所に行ってみると、遺骨はここにもどっていた。
@@ -344,14 +342,14 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 修道士は、この<ruby>幻<rp>(</rp><rt>げん</rt><rp>)</rp>影<rp>(</rp><rt>えい</rt><rp>)</rp></ruby>におどろいて、いいえ、まったく存じあげません、と答えた。
 乙女は、<br>
 「わたしは、あなたがひたすらに愛をささげてくださっている処女のひとりで、その愛のお返しに来たのです。
-わたしたちに愛と崇敬をささげながら〈<a href="#note_notrepere" title="主の祈り" id="notrepere"><ruby>主<rp>(</rp><rt>しゅ</rt><rp>)</rp></ruby>の祈り</a>〉を１１　０００回となえなさい。
+わたしたちに愛と崇敬をささげながら〈<a href="#note_notrepere" title="主の祈り" id="notrepere"><ruby>主<rp>(</rp><rt>しゅ</rt><rp>)</rp></ruby>の祈り</a>〉を一万一千回となえなさい。
 そうすれば、臨終のときにわたしたちの加護と慰めが得られましょう」<br>
 そう言うとともに、乙女の姿は、かき消すように見えなくなった。
 修道士は、彼女に言われたことをすぐさま実行し、修道院長をよんでもらって、<a href="#note_sacrement" title="終油の秘蹟" id="sacrement">終油の<ruby>秘<rp>(</rp><rt>ひ</rt><rp>)</rp>蹟<rp>(</rp><rt>せき</rt><rp>)</rp></ruby></a>をさずけてくださいと言った。
 終油を受けていたとき、彼は、突然、まわりに立っている修道士たちにむかって、聖のみなさんが通れるようにそこをどいてください、と大声で言った。
 どうしたのですか、と院長がたずねると、彼は、夢に見た乙女が約束してくれたことを話して聞かせた。</p>
-<p>そこで、一同は席をはずした。しばらくして部屋にもどってみると、修道士は、すでに主のみもとに旅だったあとであった。 <span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"/></svg></span></p>
-<p><span style="color: #3d8b3d;"><strong>ヤコブス・デ・ヴォラギネ、黄金伝説、第１５１・１１　０００処女章より</strong></span> </p>
+<p>そこで、一同は席をはずした。しばらくして部屋にもどってみると、修道士は、すでに主のみもとに旅だったあとであった。</p>
+<p><span style="color: #3d8b3d;">ヤコブス・デ・ヴォラギネ、黄金伝説、第１５１・一万一千処女章より</span> </p>
 <p>
 </div>
 
@@ -379,7 +377,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <h3 id="note_cordula" class="green">コルドゥラ</h3>
 <div class="notices green">
 <p><ruby lang="ja">コルドゥラ<rp>(</rp><rt lang="la">Cordula</rt><rp>)</rp></ruby lang="ja">は聖女。
-祝日は、１１　０００処女の祝日の翌日にあたる１０・２２。<br>
+祝日は、一万一千処女の祝日の翌日にあたる１０・２２。<br>
 この聖女の名前と聖伝は、ノイエンへーアゼ（ドイツ中部、ケルンとカッセルの両市の中間に位置する山村）の聖へルムトルディス（またはへルムトルーデ、没９５０年ごろ、祝５・３１）という隠修女が見たという幻視にもとづいている。</p>
 <hr>
 <p>註に戻る：　<a href="#cordula" title="コルドゥラ">↑</a></p>
@@ -387,7 +385,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <h3 id="note_constantinus" class="green">コンスタンティヌス</h3>
 <div class="notices green">
 <p>ローマ皇帝コンスタンティヌス一世（位３０６～３３７）、大帝とよばれる。
-キリスト教の最初の公認者、その保護・育成につとめ、みずから〈１３人目の使徒〉をもって任じ、第一回ニカイア公会議によってアリウス派を異端とした。
+キリスト教の最初の公認者、その保護・育成につとめ、みずから〈十三人目の使徒〉をもって任じ、第一回ニカイア公会議によってアリウス派を異端とした。
 ３３０年都をローマからビザンティウムに移し、これをコンスタンティノポリスと改名。</p>
 <p>自身はずっと<ruby>常勝太陽神<rp>(</rp><rt>ソル・インウイクトウス</rt><rp>)</rp></ruby>の信者であったが、臨終の床で受洗した。</p>
 <hr>
@@ -404,19 +402,41 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <h3 id="note_notrepere" class="green">主の祈り</h3>
 <div class="notices green">
 <p><ruby>主<rp>(</rp><rt>しゅ</rt><rp>)</rp>禱<rp>(</rp><rt>とう</rt><rp>)</rp>文<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>とも言うキリスト教のおもな祈りである。<br>
-イエスが弟子たちに教え、みずから祈られた祈りで、『マタ』６・９～１３に基づいている。以下のとおりです。<br>
-<sup>０９</sup>こう祈りなさい。<br>
-<sup style="color:#3d8b3d;">　『</sup>天におられる私たちの父よ<br>
-<sup>　　</sup>御名が聖とされますように。<br>
-<sup>１０</sup>御国が来ますように。<br>
-<sup>　　</sup>御心が行われますように<br>
-<sup>　　</sup>天におけるように地の上にも。<br>
-<sup>１１</sup>私たちに日ごとの糧を今日お与えください。<br>
-<sup>１２</sup>私たちの負い目をお赦しください<br>
-<sup>　　</sup>私たちも自分に負い目のある人を<br>
-<sup>　　</sup>赦しましたように。<br>
-<sup>１３</sup>私たちを試みに遭わせず<br>
-<sup>　　</sup>悪からお救いください。<sub>』</sub>  </p>
+イエスが弟子たちに教え、みずから祈られた祈りで、『マタ』６・９～１３に基づいている。以下のとおりです。</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>０９</sup></td>
+<td>こう祈りなさい。</td></tr>
+<tr><td></td>
+<td>『天におられる私たちの父よ</td></tr>
+<tr><td></td>
+<td>御名が聖とされますように。</td></tr>
+<tr><td><sup>１０</sup></td>
+<td>御国が来ますように。</td></tr>
+<tr><td></td>
+<td>御心が行われますように</td></tr>
+<tr><td></td>
+<td>天におけるように地の上にも。</td></tr>
+<tr><td><sup>１１</sup></td>
+<td>私たちに日ごとの糧を今日お与えください。</td></tr>
+<tr><td><sup>１２</sup></td>
+<td>私たちの負い目をお赦しください</td></tr>
+<tr><td></td>
+<td>私たちも自分に負い目のある人を</td></tr>
+<tr><td></td>
+<td>赦しましたように。</td></tr>
+<tr><td><sup>１３</sup></td>
+<td>私たちを試みに遭わせず</td></tr>
+<tr><td></td>
+<td>悪からお救いください。』</td></tr>
+</tbody>
+</table>
 <hr>
 <p>註に戻る：　<a href="#notrepere" title="主の祈り">↑</a></p>
 </div>

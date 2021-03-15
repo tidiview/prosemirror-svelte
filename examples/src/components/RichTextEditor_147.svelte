@@ -5,10 +5,11 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-<div id="aboutmainblock">
 <div class="pure-g about-div">
+
 <div id="about_photo" class="block pure-u-4-7 size-4-7 responsive-container" lang="ja">
-<figure><picture><source media="(min-width: 959px)" sizes="43vw" srcset="https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-280.webp 280w,
+<figure><picture>
+<source media="(min-width: 959px)" sizes="43vw" srcset="https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-280.webp 280w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-380.webp 380w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-480.webp 480w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-640.webp 640w,
@@ -16,7 +17,8 @@ https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francoi
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-1280.webp 1280w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-1600.webp 1600w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-1920.webp 1920w,
-https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-2240.webp 2240w" type="image/webp"></source><source media="(min-width: 767px)" sizes="80vw" srcset="https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-280.webp 280w,
+https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-2240.webp 2240w" type="image/webp"></source>
+<source media="(min-width: 767px)" sizes="80vw" srcset="https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-280.webp 280w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-380.webp 380w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-480.webp 480w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-640.webp 640w,
@@ -24,7 +26,8 @@ https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francoi
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-1280.webp 1280w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-1600.webp 1600w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-1920.webp 1920w,
-https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-2240.webp 2240w" type="image/webp"></source><source sizes="100vw" srcset="https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel_focus-280.webp 280w,
+https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-2240.webp 2240w" type="image/webp"></source>
+<source sizes="100vw" srcset="https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel_focus-280.webp 280w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel_focus-380.webp 380w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel_focus-480.webp 480w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel_focus-640.webp 640w,
@@ -32,7 +35,8 @@ https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francoi
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel_focus-1280.webp 1280w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel_focus-1600.webp 1600w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel_focus-1920.webp 1920w,
-https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel_focus-2240.webp 2240w" type="image/webp"></source><source media="(min-width: 959px)" sizes="43vw" srcset="https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-280.jpg 280w,
+https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel_focus-2240.webp 2240w" type="image/webp"></source>
+<source media="(min-width: 959px)" sizes="43vw" srcset="https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-280.jpg 280w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-380.jpg 380w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-480.jpg 480w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-640.jpg 640w,
@@ -40,7 +44,8 @@ https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francoi
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-1920.jpg 1920w,
-https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-2240.jpg 2240w"></source><source media="(min-width: 767px)" sizes="80vw" srcset="https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-280.jpg 280w,
+https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-2240.jpg 2240w"></source>
+<source media="(min-width: 767px)" sizes="80vw" srcset="https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-280.jpg 280w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-380.jpg 380w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-480.jpg 480w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-640.jpg 640w,
@@ -48,7 +53,8 @@ https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francoi
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-1920.jpg 1920w,
-https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-2240.jpg 2240w"></source><img src="https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-840.jpg" alt="２０１３年、モン＝サン＝ミシェル前" title="２０１３年の時、モン＝サン＝ミシェル前のフランソワ・ヴィディ" class="verticalcenter" sizes="100vw" srcset="https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel_focus-280.jpg 280w,
+https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-2240.jpg 2240w"></source>
+<img src="https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel-840.jpg" alt="２０１３年、モン＝サン＝ミシェル前" title="２０１３年の時、モン＝サン＝ミシェル前のフランソワ・ヴィディ" class="verticalcenter" sizes="100vw" srcset="https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel_focus-280.jpg 280w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel_focus-380.jpg 380w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel_focus-480.jpg 480w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel_focus-640.jpg 640w,
@@ -56,8 +62,10 @@ https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francoi
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel_focus-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel_focus-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel_focus-1920.jpg 1920w,
-https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel_focus-2240.jpg 2240w"></picture><figcaption>８年前。</figcaption></figure>
+https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francois_mtstmichel_focus-2240.jpg 2240w"></picture>
+<figcaption>８年前。</figcaption></figure>
 </div>
+
 <div id="about_name" class="block pure-u-3-7" lang="ja">
 <h1><ruby lang="fr"><span lang="fr" title="名前" style="color:#000e5f;letter-spacing: 0px;">François</span><rt lang="ja"><span style="color:#000e5f;" title="名前" lang="ja">フランソワ</span></rt></ruby><wbr> <wbr><ruby lang="fr"><span lang="fr" style="color:#000e5f;letter-spacing: 0px;" title="名字">VIDIT</span><rt lang="ja"><span lang="ja" style="color:#000e5f" title="名字">ヴィディ</span></rt></ruby><wbr></h1>
 <table>
@@ -71,72 +79,25 @@ https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francoi
 <td><span title="名前" lang="ja">フランソワ</span>は、名前で、 <span title="名前である François 発音">[fʁɑ̃.swɑ]</span> と<span>発音<wbr>されます。</span></td>
 </tr>
 <tr>
-<td><audio controls="1" title="名前である François の発音" alt="" id="audio0"><source src="https://francois-vidit.com/user/sites/profile/pages/01.home/02.nom/Francois.mp3">Your browser does not support the audio tag.</audio></td>
+<td><audio controls="1" title="名前である François の発音" id="audio0"><source src="https://francois-vidit.com/user/sites/profile/pages/01.home/02.nom/Francois.mp3" type="audio/mpeg">Your browser does not support the audio tag.</audio></td>
 </tr>
-</tbody>
-</table>
-<table>
-<thead>
-<tr>
-<th><span hidden>hidden</span></th>
-</tr>
-</thead>
-<tbody>
 <tr>
 <td>そして、名字は、<span lang="ja" title="名字">ヴィディ</span>で、 <span title="名字である VIDIT 発音">[vidi]</span> となります。</td>
 </tr>
 <tr>
-<td><audio controls="1" title="名字である VIDIT の発音" alt="" id="audio1"><source src="https://francois-vidit.com/user/sites/profile/pages/01.home/02.nom/VIDIT.mp3">Your browser does not support the audio tag.</audio></td>
+<td><audio controls="1" title="名字である VIDIT の発音" id="audio1"><source src="https://francois-vidit.com/user/sites/profile/pages/01.home/02.nom/VIDIT.mp3" type="audio/mpeg">Your browser does not support the audio tag.</audio></td>
 </tr>
-</tbody>
-</table>
-<table>
-<thead>
 <tr>
-<th><span hidden>hidden</span></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><span lang="ja" style="color:#000e5f">パリ</span><span style="color:#000e5f">在住<wbr>で、<wbr>日仏通訳士<wbr>として、１５年以上、<wbr>通訳案内から、<wbr>逐次通訳各種、<wbr>翻訳まで、<wbr>様々な形でのお仕事も<wbr>させて<wbr>頂いています。</span></td>
-</tr>
+<td><span lang="ja" style="color:#000e5f">パリ</span><span style="color:#000e5f">在住<wbr>で、<wbr>日仏通訳士<wbr>として、１５年以上、<wbr>通訳案内から、<wbr>逐次通訳各種、<wbr>翻訳まで、<wbr>様々な形でのお仕事も<wbr>させて<wbr>頂いています。</span></td></tr>
 </tbody>
 </table>
 </div>
 </div>
+
 <div class="pure-g about-div">
 <div id="about_age" class="block pure-u-1-6 size-1-6" style="border-style: none;padding-top: 0px;margin-bottom: 0px;" lang="ja">
-<p>
-<figure title="François Vidit は、現在、47歳（と102日）です">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 130 130">
-<defs>
-<linearGradient id="a">
-<stop offset="0" stop-color="#ccd4ff"/>
-<stop offset="1" stop-color="#e6e9ff" stop-opacity=".95"/>
-</linearGradient>
-<radialGradient id="b" cx="64.935875" cy="65.064125" r="62.228611" xlink:href="#a" fx="64.935875" fy="65.064125" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.99026808,0.1391731,-0.1391731,0.99026808,25.615935,17.077102)"/>
-</defs>
-<path fill="url(#b)" stroke="#fff" stroke-width="3" stroke-miterlimit="10" stroke-opacity="0.61" fill-rule="evenodd" d="M80.305602 126.85333c-3.089403.8278-17.24407-13.42925-20.430284-13.70801-3.186214-.27876-19.601545 11.30377-22.500266 9.95207-2.898722-1.35169-4.57757-21.37167-6.83917-23.633273-2.2616-2.2616-22.281576-3.940443-23.63327-6.839164-1.351698-2.898722 10.230824-19.314058 9.952066-22.500272-.278757-3.186213-14.53581-17.340875-13.708006-20.430277.827803-3.089404 20.252104-8.21918 22.086623-10.839143 1.834518-2.619963.01142-22.62732 2.631387-24.461837 2.619965-1.83452 20.797198 6.721545 23.8866 5.893742 3.089404-.827803 14.553313-17.32619 17.739527-17.04743 3.186214.278757 11.61105 18.517183 14.509773 19.86888 2.89872 1.351694 22.285547-3.917944 24.547147-1.656344 2.2616 2.2616-3.00804 21.648427-1.65634 24.547148 1.35169 2.898722 19.59012 11.323554 19.86888 14.509768.27875 3.186214-16.21963 14.650128-17.04744 17.739532-.8278 3.089402 7.72827 21.266632 5.89375 23.886592-1.83452 2.61997-21.841877.79688-24.46184 2.6314-2.619965 1.83451-7.749735 21.25881-10.839138 22.08662z"/>
-<path id="c" fill="none" opacity="0.61" d="M29.52569 47.204688c4.081738-5.24343 32.038736-16.875017 35.85452-4.704585 3.81578 12.170433.4101 1.221052.4101 1.221052"/>
-<text fill="#4c0000" stroke-width=".35" stroke-dashoffset="3.2" font-size="10" style="line-height:125%;text-align:justify" font-family="Meiryo" stroke-linecap="square">
-<textPath xlink:href="#c">　現在、</textPath>
-</text>
-<path fill="#e6e9ff" stroke="#ccd4ff" stroke-width="3" stroke-miterlimit="10" d="M67.662002 83.953c22.531.451 40.302998 5.642 40.302998 11.983 0 6.636-19.461998 12.011-43.469998 12.011-24.011 0-43.47-5.375-43.47-12.011 0-6.354 17.859-11.559 40.469-11.983"/>
-<path fill="#fff" stroke="#ccd4ff" stroke-width="3" stroke-miterlimit="10" d="M67.025002 89.642c8.167.333 14.434 2.285 14.434 4.637 0 2.586-7.596 4.688003-16.964 4.688003-9.372 0-16.967-2.103003-16.967-4.688003 0-2.364 6.335-4.323 14.57-4.643"/>
-<path fill="none" stroke="#fff" stroke-width="3" stroke-miterlimit="10" d="M61.494002 94.271V64.767s-.32-13.598-10.753-13.598c-10.43 0-13.281 8.854-13.594 15.493m30.518 27.609V64.767s.314-13.598 10.747-13.598c10.434 0 13.281 8.854 13.595 15.493m-52.043-22.056s8.814-6.675 16.775-2.56c7.22 3.723 7.844 12.226 7.844 12.226m3.805-7.452s7.227-11.534 19.69-3.148m-23.495-2.211V30.74"/>
-<path id="d" fill="none" stroke-width="1.230188" d="M21.96498 92.912096c0 15.914834 84.08339 16.534894 83.68299 1.033432"/>
-<text fill="#fff" stroke-width=".35" stroke-dashoffset="3.2" style="line-height:125%;text-align:justify" font-size="10" transform="rotate(-.83 263.395 -76.682)" font-family="Meiryo" stroke-linecap="square">
-<textPath xlink:href="#d"><tspan>&#160;&#160;&#160;&#160;（ 102 日 ）</tspan></textPath>
-</text>
-<path id="e" fill="none" d="M72.244654 40.364097c6.075494-7.02057 20.116635 1.080088 30.242456 9.58578"/>
-<text fill="#4c0000" stroke-width=".35" stroke-dashoffset="3.2" style="line-height:125%;text-align:justify" font-size="11.25" font-weight="bold" transform="rotate(-8 85.222 40.255)" font-family="Meiryo" stroke-linecap="square">
-<textPath xlink:href="#e">47歳</textPath></text>
-</svg>
-<figcaption><p style="text-align: center">現在、47 歳です。</p></figcaption>
-</figure>
-</p>
 </div>
-                        
+
 <div id="about_parisien" class="block pure-u-5-6" lang="ja">
 <h2>東京経由の<wbr>パリジャン</h2>
 <p>フランソワ・ヴィディ は、両親と同じく、 <a href="https://ja.wikipedia.org/wiki/パリジャン" title="https://ja.wikipedia.org/wiki/パリジャン_の第一項目">パリジャン</a> です。</p>
@@ -146,6 +107,7 @@ https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francoi
 <p>その後、フランスに<wbr>戻って、通訳に<wbr>転職<wbr>します。</p>
 </div>
 </div>
+
 <div class="pure-g about-div">
 <div id="about_guider" class="block pure-u-3-4" lang="ja">
 <h2>案内することは、<wbr>分かち合うこと！</h2>
@@ -153,6 +115,7 @@ https://francois-vidit.com/user/sites/profile/pages/01.home/01.photo_nom/francoi
 <p>いつの間にか、<wbr>密かに、<wbr>それは新しい世界、<wbr>新しい人間性、<wbr>新しい自分と<wbr>なります。</p>
 <p>ガイドの<wbr>仕事を越えて、<wbr>様々な偏見が<wbr>省かれることで、<wbr>自分自身が<wbr>一新され、<wbr>自分に対しても<wbr>世界に対しても、<wbr>より普遍的に<wbr>いられる様に<wbr>なります。</p>
 </div>
+
 <div id="about_autoportrait" class="block pure-u-1-4 size-1-4 responsive-container" style="margin-left: 0px" lang="ja">
 <figure><picture><source media="(min-width: 959px)" sizes="19vw" srcset="https://francois-vidit.com/user/sites/profile/pages/01.home/06.autoportrait_philosophy/autoportrait1930-280.webp 280w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/06.autoportrait_philosophy/autoportrait1930-380.webp 380w,
@@ -181,6 +144,7 @@ https://francois-vidit.com/user/sites/profile/pages/01.home/06.autoportrait_phil
 https://francois-vidit.com/user/sites/profile/pages/01.home/06.autoportrait_philosophy/autoportrait1930-840.jpg 840w"></picture><figcaption>２５年前の自画像で。</figcaption></figure>
 </div>
 </div>
+
 <div class="pure-g about-div">
 <div id="about_aquarelle" class="block pure-u-1-3 size-1-3 responsive-container" lang="ja">
 <figure><picture><source media="(min-width: 959px)" sizes="25vw" srcset="https://francois-vidit.com/user/sites/profile/pages/01.home/07.aquarel_rireki/aquarel_rireki-280.webp 280w,
@@ -209,6 +173,7 @@ https://francois-vidit.com/user/sites/profile/pages/01.home/07.aquarel_rireki/aq
 https://francois-vidit.com/user/sites/profile/pages/01.home/07.aquarel_rireki/aquarel_rireki-640.jpg 640w,
 https://francois-vidit.com/user/sites/profile/pages/01.home/07.aquarel_rireki/aquarel_rireki-840.jpg 840w"></source></source></source></source></source></picture><figcaption>１７年前の抽象水彩画で。</figcaption></figure>
 </div>
+
 <div id="about_rireki" class="block pure-u-2-3" style="margin-left: 0px" lang="ja">
 <h2>履歴</h2>
 <table>
@@ -235,6 +200,7 @@ https://francois-vidit.com/user/sites/profile/pages/01.home/07.aquarel_rireki/aq
 </table>
 </div>
 </div>
+
 <div class="pure-g about-div">
 <div id="about_hyoshiki" class="block pure-u-2-3" lang="ja">
 <h2>資格</h2>
@@ -273,11 +239,9 @@ https://francois-vidit.com/user/sites/profile/pages/01.home/07.aquarel_rireki/aq
 </tbody>
 </table>
 </div>
+
 <div id="about_map" class="block pure-u-1-3 size-1-3 responsive-container" style="margin-left: 0px;" lang="ja">
-<figure>
-<div id="map"></div>
-<figcaption>パリ在住で。</figcaption>
-</figure></div></div></div>
+</div></div>
 `;
 
   let focusEditor;

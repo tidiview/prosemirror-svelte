@@ -24,7 +24,6 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin0-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin0-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin0-1920.jpg 1920w"></picture><figcaption>《マールテン・ファン・ニューウェンホーフェの二連画》、展示会所の全体景観、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）</figcaption></figure>
-<p><br></p>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin1-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin1-380.webp 380w,
@@ -42,7 +41,6 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin1-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin1-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin1-1920.jpg 1920w"></picture><figcaption>《マールテン・ファン・ニューウェンホーフェの二連画》、展示装置の全体景観</figcaption></figure>
-<p><br></p>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin2-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin2-380.webp 380w,
@@ -82,7 +80,6 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin3-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin3-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin3-1920.jpg 1920w"></picture><figcaption>《マールテン・ファン・ニューウェンホーフェの二連画》</figcaption></figure>
-<p><br></p>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin4-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin4-380.webp 380w,
@@ -100,7 +97,6 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin4-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin4-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin4-1920.jpg 1920w"></picture><figcaption>《聖母子》の左パネル</figcaption></figure>
-<p><br></p>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin5-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin5-380.webp 380w,
@@ -140,7 +136,6 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/03.martin_3/martin7-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/03.martin_3/martin7-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/03.martin_3/martin7-1920.jpg 1920w"></picture><figcaption>《ファン・ニューウェンホーフェ家の紋章》、《聖母の後ろにあり鏡》、《聖母子》の左パネルの詳細</figcaption></figure>
-<p><br></p>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/03.martin_3/martin6-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/03.martin_3/martin6-380.webp 380w,
@@ -158,7 +153,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/03.martin_3/martin6-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/03.martin_3/martin6-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/03.martin_3/martin6-1920.jpg 1920w"></picture><figcaption>《物乞いにマントを割いて与える聖マルティヌス》、《ミネワテル風景》、《マールテン・ファン・ニューウェンホーフェ肖像》の右パネルの詳細、</figcaption></figure>
-<p><strong>ハンス・メムリンク、《マールテン・ファン・ニューウェンホーフェの二連画》</strong>  </p>
+<p>ハンス・メムリンク、《マールテン・ファン・ニューウェンホーフェの二連画》</p>
 </div>
 `;
 
