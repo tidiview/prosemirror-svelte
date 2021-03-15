@@ -27,7 +27,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <div class="notices yellow">
 <p>この三連画は、１４７３~７４年にかけて建てられた<ruby lang="ja">ブルージュ<rp>(</rp><rt lang="fr">Bruges</rt><rp>)</rp></ruby lang="ja">（フラマン語では、<ruby lang="ja">ブルッヘ<rp>(</rp><rt lang="nl">Brugge</rt><rp>)</rp></ruby lang="ja">）の<ruby lang="ja">聖ヨハネ施療院<rp>(</rp><rt lang="nl">Sint-Janshospitaal</rt><rp>)</rp></ruby lang="ja">の教会の新後陣の主祭壇のために考案され、設置された。<br>
 枠は《<ruby lang="ja">ハンス・メムリンク作<rp>(</rp><rt lang="la">OPVs&#160;IOHANNIS&#160;MEMLING</rt><rp>)</rp></ruby lang="ja">》との記載文を示しています。それはブルージュに１５世紀の後半に活躍した初期フランドル画家である、<ruby lang="ja">ハンス<rp>(</rp><rt lang="nl">Hans</rt><rp>)</rp>・<rp>(</rp><rt lang="nl"></rt><rp>)</rp>メムリンク<rp>(</rp><rt lang="nl">MEMLING</rt><rp>)</rp></ruby lang="ja">の最初の知られている署名である。また、日付も表示されている：《１４７９年》。<br>
-作品が中央パネルと、それに金具によって付けられている右と左にある２翼パネルがそれを取り囲んでいます。<br>
+作品が中央パネルと、それに金具によって付けられている右と左にあるニ翼パネルがそれを取り囲んでいます。<br>
 表わされている人物が等身大よりやや小さ目に表わされています。<br>
 以下のページでは、より深い理解を助けになるようにさまざまな面を紹介しています。  </p>
 <ol>
@@ -36,12 +36,10 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <li>最後に、画像の様々な要素に合わせて画家本人が表している宗教的な題材を表すために思われる様々な文書との関係によってです。</li>
 </ol>
 </div>
-<p><br></p>
 <h2 id="a-propos-de-cet-article" class="yellow">この記事について</h2>
 <p>この記事を作文するには、特に<ruby lang="ja">ディルク<rp>(</rp><rt lang="nl">Dirk</rt><rp>)</rp>・<rp>(</rp><rt lang="nl">&#160;</rt><rp>)</rp>ド<rp>(</rp><rt lang="nl">DE</rt><rp>)</rp>・<rp>(</rp><rt lang="nl">&#160;</rt><rp>)</rp>ヴォス<rp>(</rp><rt lang="nl">VOS</rt><rp>)</rp></ruby lang="ja">、<a href="#de-vos-1" id="renvoi-de-vos-1" class="yellow">「ハンス・メムリンク」</a>、<a href="#de-vos-2" id="renvoi-de-vos-2" class="yellow">「ハンス・メリンク＝作品全集」</a>などの既存の文献に対して、私たちは本当に感謝しています。<br>
 しかし、ここでは私たちの目的は作品の解説を生み出すのではなく、しかも<span style="color: #e6a64d;">描写</span>を。その描写によってその作品をよりよく把握出来る要素を提供するのです。それは<span style="color: #e6a64d;">質の良い複写</span> <a href="#note-1" title="note-1" id="renvoi-note-1"><sup style="color:#555;" id="renvoi-note-1">1</sup></a> 、<span style="color: #e6a64d;">作品の主な根源</span>、文献的であれ、画学的であれです。それは、現在では、例えば図書館でも借りれる紙で印刷されている専門的な本ででもよくほのめかしや参照させることによってからしかされていません。<br>
 私たちの目的が達成されたといえるのは、読者本人が<span style="color: #e6a64d;">こんなに存在感の大いなる輝きのある関心を引くことに値すると思われる作品をご自分で測ってそれによってその感覚を深めること</span>ができればです。</p>
-<p><br></p>
 <div class="notices yellow">
 <h3 id="table-des-matieres" class="yellow">目次</h3>
 <ol>
@@ -95,7 +93,6 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-1920.jpg 1920w"></picture><figcaption>聖ヨハネ施療院の教会の入り口から展示会所の全体景観</figcaption></figure>
-<p><br></p>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-380.webp 380w,
@@ -113,7 +110,6 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-1920.jpg 1920w"></picture><figcaption>聖ヨハネ施療院の教会の中から展示会所の全体景観</figcaption></figure>
-<p><br></p>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-380.webp 380w,
@@ -224,7 +220,6 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 </pre>
 <p><a href="#renvoi-lorentz-1" title="renvoi-de-vos-1">↑ このページー</a>　<a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#renvoi-lorentz-2" title="renvoi-lorentz-2">↑ ページー３</a></p>
 </div>
-<p><br></p>
 <hr>
 <p><a href="#renvoi-note-1" title="renvoi note-1" id="note-1">註釈：</a><br>
 一般の人々に向けて私たちは公開にしている作品の複製写真は、現在では、私たちが知っている限り、専門家のを除いて、最高のものです。それらの写真が、現在の照明が低強度と黄色のために、私たちから大変な努力を必要としてきました。<br>
@@ -272,7 +267,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/vierge-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/vierge-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/vierge-1920.jpg 1920w"></picture><figcaption>中央パネルの拡大、《聖母と幼子イエス》</figcaption></figure>
-<p>彼女は上空を飛んでいる<span style="color: #e6a64d;">２人の小さな暗い青の天使</span>によって「天国の女王」の冠を戴こうとしています。</p>
+<p>彼女は上空を飛んでいる<span style="color: #e6a64d;">ニ人の小さな暗い青の天使</span>によって「天国の女王」の冠を戴こうとしています。</p>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/deux-anges-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/deux-anges-380.webp 380w,
@@ -484,7 +479,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 
 <div id="body-inner">
 <h3 id="conversation" class="yellow">聖なる会話</h3>
-<p><a href="https://ja.wikipedia.org/wiki/聖母マリア" title="https://ja.wikipedia.org/wiki/聖母マリア" id="marie-mere-de-jesus" class="yellow">マリア</a>の戴冠式には、<a href="#catherine-d-alexandrie" title="アレクサンドリアのカタリナ" class="yellow">カタリナ</a>と<a href="#barbe" class="yellow">バルバラ</a>、<a href="#jean-le-baptiste-2" title="洗礼者ヨハネ" id="jean-le-baptiste-3" class="yellow">洗礼者ヨハネ</a>と<a href="#jean-l-evangeliste-3" title="福音書記者ヨハネ" id="jean-l-evangeliste-4" class="yellow">福音書記者ヨハネ</a>のいわゆる<span style="color: #e6a64d;">「</span><ruby style="color:#e6a64d;">聖なる会話<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;">サクラ・コンヴェルサツィオーネ</rt><rp>)</rp></ruby><span style="color: #e6a64d;">」</span> <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">1</a></sup> 聖母の周りの<span style="color: #e6a64d;">聖人の集会</span>に２人ずつ参加しています。</p>
+<p><a href="https://ja.wikipedia.org/wiki/聖母マリア" title="https://ja.wikipedia.org/wiki/聖母マリア" id="marie-mere-de-jesus" class="yellow">マリア</a>の戴冠式には、<a href="#catherine-d-alexandrie" title="アレクサンドリアのカタリナ" class="yellow">カタリナ</a>と<a href="#barbe" class="yellow">バルバラ</a>、<a href="#jean-le-baptiste-2" title="洗礼者ヨハネ" id="jean-le-baptiste-3" class="yellow">洗礼者ヨハネ</a>と<a href="#jean-l-evangeliste-3" title="福音書記者ヨハネ" id="jean-l-evangeliste-4" class="yellow">福音書記者ヨハネ</a>のいわゆる<span style="color: #e6a64d;">「</span><ruby style="color:#e6a64d;">聖なる会話<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;">サクラ・コンヴェルサツィオーネ</rt><rp>)</rp></ruby><span style="color: #e6a64d;">」</span> <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">1</a></sup> 聖母の周りの<span style="color: #e6a64d;">聖人の集会</span>にニ人ずつ参加しています。</p>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-380.webp 380w,
@@ -511,7 +506,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-840.webp 840w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1280.webp 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1600.webp 1600w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの拡大、《２人の侍者たち》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの拡大、《２人の侍者たち》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの拡大、《ニ人の侍者たち》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの拡大、《ニ人の侍者たち》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-280.jpg 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-380.jpg 380w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-480.jpg 480w,
@@ -519,9 +514,9 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-840.jpg 840w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1600.jpg 1600w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1920.jpg 1920w"></picture><figcaption>中央パネルの拡大、２人の侍者たち</figcaption></figure>
+https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1920.jpg 1920w"></picture><figcaption>中央パネルの拡大、ニ人の侍者たち</figcaption></figure>
 <p>幅での位置関係の左右対称と単純さが三連画の形とよく合います。<br>
-高さと奥行きが<span style="color: #e6a64d;">男女の別</span>により配置されています。<span style="color: #e6a64d;">前</span>と下の方では、<span style="color: #e6a64d;">女の人２人</span>で、<span style="color: #e6a64d;">後ろ</span>と上の方では、<span style="color: #e6a64d;">男の人２人</span>です。<br>
+高さと奥行きが<span style="color: #e6a64d;">男女の別</span>により配置されています。<span style="color: #e6a64d;">前</span>と下の方では、<span style="color: #e6a64d;">女の人ニ人</span>で、<span style="color: #e6a64d;">後ろ</span>と上の方では、<span style="color: #e6a64d;">男の人ニ人</span>です。<br>
 奥行きと高さでの<span style="color: #e6a64d;">計り知れなさ</span>と<span style="color: #e6a64d;">神秘</span>に、横での位置の<span style="color: #e6a64d;">左右対称</span>と<span style="color: #e6a64d;">単純さ</span>が対応しています。<br>
 表わされている人物が<span style="color: #e6a64d;">あらゆる年齢</span>で<span style="color: #e6a64d;">同じ家族</span>のように見えます。
 生まれたばかりの赤ちゃん、小さな子供、子供、少年、若い男の人、女の人、お母さま、男の人、年のある男と女の人。</p>
@@ -606,7 +601,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1920.jpg 1920w"></picture><figcaption>三連画の中央パネルの描写</figcaption></figure>
-<p>赤と茶色を混ぜた６本の円柱がタイル上の半円に配置され、その外側で２つ目の暗いグレー色の付け柱が２重の半円形に並んでいる。
+<p>赤と茶色を混ぜた六本の円柱がタイル上の半円に配置され、その外側でニつ目の暗いグレー色の付け柱がニ重の半円形に並んでいる。
 その底面が地面に多角形を示す舗装の境界線で結ばれている。<br>
 円柱の間の縦々の隙間は、<span style="color: #e6a64d;">視覚的に連続的な跡蹟と建物のある</span>、無限な、地平線ともなっている遠景に開放である景色と繋がっている。</p>
 </div>
@@ -625,7 +620,6 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <li><a href="#renvoi-devotion-moderne" title="「新しき信心」運動の送り返し">「歴史的細かい紹介を註釈に見付かることが出来ますに」 ↑ 戻る ↑</a>」</li>
 </ul>
 </div>
-<p><br></p>
 <div class="footnotes">
 <hr />
 <ol>
@@ -637,7 +631,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 </li>
 <li id="fn:4">
 <p>ラテン語では「Imitatio&#160;Christi」。『キリストに<ruby>倣<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>いて』は、修道士であった<a href="https://ja.wikipedia.org/wiki/トマス・ア・ケンピス" title="https://ja.wikipedia.org/wiki/トマス・ア・ケンピス">トマス・ア・ケンピス</a>によって書かれた本であって、１４１８年ごろにラテン語で出版された。<br>
-「第２の福音書」「中世の最高の信心書」とも言われ、聖書に次いでカトリックのキリスト教徒の霊的修練の書として識字階級に広く読まれ、親しまれている。 日本でも１６世紀後半にキリシタン版の『<ruby>世のはかなさ<rp>(</rp><rt>コンテムツス・ムンヂ</rt><rp>)</rp></ruby>』として翻訳され、刊行された以来、「キリストのまねび」「イミタティオ-クリスティ」など多種の訳がある。&#160;<a href="#fnref1:4" rev="footnote" class="footnote-backref">&#8617;</a></p>
+「第ニの福音書」「中世の最高の信心書」とも言われ、聖書に次いでカトリックのキリスト教徒の霊的修練の書として識字階級に広く読まれ、親しまれている。 日本でも１６世紀後半にキリシタン版の『<ruby>世のはかなさ<rp>(</rp><rt>コンテムツス・ムンヂ</rt><rp>)</rp></ruby>』として翻訳され、刊行された以来、「キリストのまねび」「イミタティオ-クリスティ」など多種の訳がある。&#160;<a href="#fnref1:4" rev="footnote" class="footnote-backref">&#8617;</a></p>
 </li>
 </ol>
 </div>
@@ -647,8 +641,8 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 
 <div id="body-inner">
 <h3 id="organisation-du-recit" class="yellow">語りの仕組み</h3>
-<p>語りが洗礼者ヨハネと福音書記者ヨハネの<span style="color: #e6a64d;">２つの伝説</span>と聖ヨハネ施療院に属するブルージュの<span style="color: #e6a64d;">クレーン広場</span>を表しているいくつかの<span style="color: #e6a64d;">小さな場面</span>を中心に仕組みられている。<br>
-２つの伝説が空間的に<span style="color: #e6a64d;">円柱の柱頭</span>ぐらいにある各聖人に上に位置づけられている<span style="color: #e6a64d;">いくつかの刻まれた場面</span>で始まっている。  </p>
+<p>語りが洗礼者ヨハネと福音書記者ヨハネの<span style="color: #e6a64d;">ニつの伝説</span>と聖ヨハネ施療院に属するブルージュの<span style="color: #e6a64d;">クレーン広場</span>を表しているいくつかの<span style="color: #e6a64d;">小さな場面</span>を中心に仕組みられている。<br>
+ニつの伝説が空間的に<span style="color: #e6a64d;">円柱の柱頭</span>ぐらいにある各聖人に上に位置づけられている<span style="color: #e6a64d;">いくつかの刻まれた場面</span>で始まっている。  </p>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-380.webp 380w,
@@ -685,7 +679,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、遠景への開口部<br>左に、洗礼者ヨハネの、右に、福音書記者ヨハネの伝説の諸場面</figcaption></figure>
-<p>２伝説の語りがそこから各々の２枚の翼パネルの内面にと続きます。</p>
+<p>ニ伝説の語りがそこから各々のニ枚の翼パネルの内面にと続きます。</p>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-380.webp 380w,
@@ -694,7 +688,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-840.webp 840w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1280.webp 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1600.webp 1600w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、２枚の翼パネルの内面の景観、《左に、前景の左にヘロデ王の命令で斬首された洗礼者ヨハネ、右に、パトモス島での福音書記者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、２枚の翼パネルの内面の景観、《左に、前景の左にヘロデ王の命令で斬首された洗礼者ヨハネ、右に、パトモス島での福音書記者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、ニ枚の翼パネルの内面の景観、《左に、前景の左にヘロデ王の命令で斬首された洗礼者ヨハネ、右に、パトモス島での福音書記者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、ニ枚の翼パネルの内面の景観、《左に、前景の左にヘロデ王の命令で斬首された洗礼者ヨハネ、右に、パトモス島での福音書記者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-280.jpg 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-380.jpg 380w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-480.jpg 480w,
@@ -702,7 +696,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-840.jpg 840w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1600.jpg 1600w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1920.jpg 1920w"></picture><figcaption>２枚の翼パネルの内面の景観：左に、前景の左にヘロデ王の命令で斬首された洗礼者ヨハネ、右に、パトモス島での福音書記者ヨハネ</figcaption></figure>
+https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1920.jpg 1920w"></picture><figcaption>ニ枚の翼パネルの内面の景観：左に、前景の左にヘロデ王の命令で斬首された洗礼者ヨハネ、右に、パトモス島での福音書記者ヨハネ</figcaption></figure>
 <p>各の翼パネルに、ある一話しが<span style="color: #e6a64d;">前景に主な場面</span>が語りで遠景にいくつかの<span style="color: #e6a64d;">小さな場面</span>に補われていることで形づくられている。</p>
 <ul>
 <li>左に、<span style="color: #e6a64d;">ヘロデ王</span>の命令で<span style="color: #e6a64d;">洗礼者ヨハネ</span>が斬首される、</li>
@@ -726,7 +720,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、クレーン広場と聖ヨハネ教会の景観</figcaption></figure>
-<p><span style="color: #e6a64d;">病院の２人の兄弟たち</span>がこうしてブルージュに着く諭入された<span style="color: #e6a64d;">ボルドーワインを測定する</span>ことで表わされている。<br>
+<p><span style="color: #e6a64d;">病院のニ人の兄弟たち</span>がこうしてブルージュに着く諭入された<span style="color: #e6a64d;">ボルドーワインを測定する</span>ことで表わされている。<br>
 私たちに１３００年ごろに病院が市に<span style="color: #e6a64d;">市の特権</span>、自分の収入の源でもあった<span style="color: #e6a64d;">「計量する権」</span>を任せられて来たことを思い出させてくれている。</p>
 </div>
 
@@ -739,8 +733,8 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 メムリンクは、自分のブルージュでの顔見知り関係の中で細密画かを数えていた。名前は<ruby lang="ja">ウィレム<rp>(</rp><rt lang="de">Willem</rt><rp>)</rp>・<rp>(</rp><rt lang="de">&#160;</rt><rp>)</rp>ヴレラント<rp>(</rp><rt lang="de">Vrelant</rt><rp>)</rp></ruby lang="ja">。
 この町で最も出産豊かな工房の頭として、ヴレラントはメムリンクと同様に、移民であった。
 ユトレヒト市出身の彼は１４５４年からブルージュ書物製作<ruby>組合<rp>(</rp><rt>ギルド</rt><rp>)</rp></ruby>の会員として、１４８１年の亡くなるまでに登録されている。
-２人とも<ruby lang="ja">シント<rp>(</rp><rt lang="nl">Sint</rt><rp>)</rp>＝<rp>(</rp><rt lang="nl">-</rt><rp>)</rp>ジョリスストラット<rp>(</rp><rt lang="nl">Jorisstraat</rt><rp>)</rp></ruby lang="ja">に住んでいたので、ヴレラントとメムリンクがほとんど隣人でした。 (...)<br>
-視覚的に説得力のある空間的表現の観点から考えれば、前景の２つの図形と絵画の残りの図との関係は、中間空間の林と主な図形と関係に脈絡が取れていません。 (...)
+ニ人とも<ruby lang="ja">シント<rp>(</rp><rt lang="nl">Sint</rt><rp>)</rp>＝<rp>(</rp><rt lang="nl">-</rt><rp>)</rp>ジョリスストラット<rp>(</rp><rt lang="nl">Jorisstraat</rt><rp>)</rp></ruby lang="ja">に住んでいたので、ヴレラントとメムリンクがほとんど隣人でした。 (...)<br>
+視覚的に説得力のある空間的表現の観点から考えれば、前景のニつの図形と絵画の残りの図との関係は、中間空間の林と主な図形と関係に脈絡が取れていません。 (...)
 ある作品から別の作品へでも、各作品には、ヴレラントと同様に、位置の高い地平線にまでいくつかの景色が重なるのを見当たることがあります」。<br>
 （<a href="/docs/ja/bruges/hopital-saint-jean/saint-jean#lorentz" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean#lorentz" id="renvoi-lorentz-2" class="yellow">著述目録</a>に出典されている<ruby lang="ja">フィリップ<rp>(</rp><rt lang="de">Philippe</rt><rp>)</rp>・<rp>(</rp><rt lang="de">&#160;</rt><rp>)</rp>ローレンッツ<rp>(</rp><rt lang="de">LORENTZ</rt><rp>)</rp></ruby lang="ja">の著作からの引用）。&#160;<a href="#fnref1:6" rev="footnote" class="footnote-backref">&#8617;</a></p>
 </li>
@@ -759,7 +753,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-840.webp 840w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1280.webp 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1600.webp 1600w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、２翼の内面の景観、《左に、前景の左にヘロデ王の命令で斬首された洗礼者ヨハネ、右に、パトモス島での福音書記者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、２翼の内面の景観、《左に、前景の左にヘロデ王の命令で斬首された洗礼者ヨハネ、右に、パトモス島での福音書記者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、ニ翼の内面の景観、《左に、前景の左にヘロデ王の命令で斬首された洗礼者ヨハネ、右に、パトモス島での福音書記者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、ニ翼の内面の景観、《左に、前景の左にヘロデ王の命令で斬首された洗礼者ヨハネ、右に、パトモス島での福音書記者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-280.jpg 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-380.jpg 380w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-480.jpg 480w,
@@ -767,9 +761,9 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-840.jpg 840w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1600.jpg 1600w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1920.jpg 1920w"></picture><figcaption>２翼の内面の景観：左に、前景の左にヘロデ王の命令で斬首された洗礼者ヨハネ、右に、パトモス島での福音書記者ヨハネ</figcaption></figure>
+https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1920.jpg 1920w"></picture><figcaption>ニ翼の内面の景観：左に、前景の左にヘロデ王の命令で斬首された洗礼者ヨハネ、右に、パトモス島での福音書記者ヨハネ</figcaption></figure>
 <h3 id="legendes" class="yellow">洗礼者ヨハネと福音書記者ヨハネの諸伝説</h3>
-<p>私たちはここでメムリンクが迷いなく基づいた<a href="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" title="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" id="legende-doree" class="yellow">黄金伝説</a>で<a href="https://ja.wikipedia.org/wiki/ヤコブス・デ・ウォラギネ" title="https://ja.wikipedia.org/wiki/ヤコブス・デ・ウォラギネ" id="jacques-de-voragine" class="yellow">ヤコブス・デ・ウォラギネ</a>が報じる通りの各々の<span style="color: #e6a64d;">２つの語り</span>に従っています。<br>
+<p>私たちはここでメムリンクが迷いなく基づいた<a href="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" title="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" id="legende-doree" class="yellow">黄金伝説</a>で<a href="https://ja.wikipedia.org/wiki/ヤコブス・デ・ウォラギネ" title="https://ja.wikipedia.org/wiki/ヤコブス・デ・ウォラギネ" id="jacques-de-voragine" class="yellow">ヤコブス・デ・ウォラギネ</a>が報じる通りの各々の<span style="color: #e6a64d;">ニつの語り</span>に従っています。<br>
 参考できるように、これらの文書が描写の続きに<a href="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18" title="https://francois-vidit.com/docs/ja/saint-jean/page:18" class="yellow">ここ</a>と<a href="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:19" title="https://francois-vidit.com/docs/ja/saint-jean/page:19" class="yellow">ここ</a>に記載された。ご覧ください。</p>
 <h4 id="legende-de-jean-le-baptiste" class="yellow">洗礼者ヨハネの伝説</h4>
 <p>私たちは年代順で福音書記者ヨハネより先とされている洗礼者ヨハネから始まっている。<br>
@@ -902,7 +896,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1920.jpg 1920w"></picture><figcaption>左翼パネルの内面の上部の詳細、《ヨルダン川のほとりでイエスを洗礼する洗礼者ヨハネ》</figcaption></figure>
-<p>向こうの岸に、<span style="color: #e6a64d;">洗礼者ヨハネ</span>が自分の最初の弟子の２人である<a href="https://ja.wikipedia.org/wiki/アンデレ" title="https://ja.wikipedia.org/wiki/アンデレ" id="andre" class="yellow">アンデレ</a>と<a href="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" title="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" id="jean-l-apotre" class="yellow">使徒ヨハネ</a>も彼に加わるよう、<span style="color: #e6a64d;">「</span><ruby lang="ja" style="color:#e6a64d;">これは&#12289;神の小羊<rp>(</rp><rt lang="la" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">エッチェ・アニュス・ディ</rt><rp>)</rp></ruby><span style="color: #e6a64d;">」</span>という言葉でイエスに紹介している。彼たちは彼と合流する。</p>
+<p>向こうの岸に、<span style="color: #e6a64d;">洗礼者ヨハネ</span>が自分の最初の弟子のニ人である<a href="https://ja.wikipedia.org/wiki/アンデレ" title="https://ja.wikipedia.org/wiki/アンデレ" id="andre" class="yellow">アンデレ</a>と<a href="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" title="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" id="jean-l-apotre" class="yellow">使徒ヨハネ</a>も彼に加わるよう、<span style="color: #e6a64d;">「</span><ruby lang="ja" style="color:#e6a64d;">これは&#12289;神の小羊<rp>(</rp><rt lang="la" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">エッチェ・アニュス・ディ</rt><rp>)</rp></ruby><span style="color: #e6a64d;">」</span>という言葉でイエスに紹介している。彼たちは彼と合流する。</p>
 <p>そこから、彼の運命が悲劇的になる。
 ガリラヤとペレアの四分封領主である<a href="https://ja.wikipedia.org/wiki/ヘロデ・アンティパス" title="https://ja.wikipedia.org/wiki/ヘロデ・アンティパス" id="herode-antipas" class="yellow">ヘロデ・アンティパス</a>が「自分の兄弟フィリポ <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">1</a></sup> の妻」（<a href="https://ja.wikipedia.org/wiki/ヘロデヤ" title="https://ja.wikipedia.org/wiki/ヘロディア" id="herodiade">ヘロディア</a>）と結婚する<span style="color: #999;">（マルコ、６・１７）</span>。<br>
 ユダヤ教の信仰はどんな兄の妻との結婚とも<span style="color: #e6a64d;">「汚れ」</span>と見なしていて、ゆえに形式的にそれを<span style="color: #e6a64d;">禁じている</span><span style="color: #999;">（レビ記、１８・１６、２０・２１）</span>から、ヨハネはそれを糾弾する。<br>
@@ -989,7 +983,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-1920.jpg 1920w"></picture><figcaption>左翼パネル内面の詳細、《サロメの踊り》</figcaption></figure>
 <p><span style="color: #e6a64d;">《サロメの踊り》</span>は左翼パネルの左上部にある宮殿の塔で行われている。
-その上、<ruby>壁<rp>(</rp><rt>へき</rt><rp>)</rp>龕<rp>(</rp><rt>がん</rt><rp>)</rp></ruby>での像が、ヘロデの不倫行為をおのめかすいくつかの不信心な人物、裸の女性の２人の間の一人裸の男性が表わされている。</p>
+その上、<ruby>壁<rp>(</rp><rt>へき</rt><rp>)</rp>龕<rp>(</rp><rt>がん</rt><rp>)</rp></ruby>での像が、ヘロデの不倫行為をおのめかすいくつかの不信心な人物、裸の女性のニ人の間の一人裸の男性が表わされている。</p>
 <p>ヘロデがその踊りを気に入ったことを見せかけて、<span style="color: #e6a64d;">ヨハネの死の責任を免除するには</span>言う：<br>
 「<span style="color: #e6a64d;">"欲しいものがあれば何でも言いなさい"</span>、更に、"お前が願うなら、この国の半分でもやろう"と固く誓ったのである」。<br>
 サロメが「座を外して、母親に、<span style="color: #e6a64d;">"何を願いましょうか"</span>と言うと」、ヘロディアは、「<span style="color: #e6a64d;">"洗礼者ヨハネの首を"</span>と言った。早速、少女は大急ぎで王のところに行き、<span style="color: #e6a64d;">"今すぐに洗礼者ヨハネの首を盆に載せて、いただきとうございます"</span>と」願う<span style="color: #999;">（マルコ、６・２４-２９）</span>。<br>
@@ -1026,7 +1020,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 
 <div id="body-inner">
 				<p>メムリンクは左翼パネルの前景に《洗礼者ヨハネの斬首》を宮殿から出る<span style="color: #e6a64d;">階段</span>を通って牢の執行所として<span style="color: #e6a64d;">内庭</span>で位置づけて拡大することを選んだ。 </p>
-<p>右には、最初の弟子の２人である<a href="https://ja.wikipedia.org/wiki/アンデレ" title="https://ja.wikipedia.org/wiki/アンデレ" id="andre-2" class="yellow">アンデレ</a>と<a href="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" title="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" id="jean-l-apotre-2" class="yellow">使徒ヨハネ</a>をも位置づけてやった。</p>
+<p>右には、最初の弟子のニ人である<a href="https://ja.wikipedia.org/wiki/アンデレ" title="https://ja.wikipedia.org/wiki/アンデレ" id="andre-2" class="yellow">アンデレ</a>と<a href="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" title="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" id="jean-l-apotre-2" class="yellow">使徒ヨハネ</a>をも位置づけてやった。</p>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-380.webp 380w,
@@ -1143,10 +1137,10 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <li><a href="https://fr.wikipedia.org/wiki/Jean_de_Patmos" title="https://fr.wikipedia.org/wiki/Jean_de_Patmos" id="jean-de-patmos" class="yellow">「パトモス島の」ヨハネ</a>。黙示録の書記者。  </li>
 </ol>
 <h5 id="jean-l-apotre-2" class="yellow">「使徒」ヨハネ</h5>
-<p><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" id="jean-l-apotre-3" class="yellow">「使徒」ヨハネ</a>は<span style="color: #e6a64d;">「<a href="https://ja.wikipedia.org/wiki/ゼベダイの子" title="https://ja.wikipedia.org/wiki/ゼベダイの子" id="zebedee" class="yellow">ゼベダイ</a>の２人の子の内の一人」</span><span style="color: #999;">（マルコ、３・１６~１９、マタイ、１０・２~５とルカ、６・１３~１６）</span>。
+<p><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" id="jean-l-apotre-3" class="yellow">「使徒」ヨハネ</a>は<span style="color: #e6a64d;">「<a href="https://ja.wikipedia.org/wiki/ゼベダイの子" title="https://ja.wikipedia.org/wiki/ゼベダイの子" id="zebedee" class="yellow">ゼベダイ</a>のニ人の子の内の一人」</span><span style="color: #999;">（マルコ、３・１６~１９、マタイ、１０・２~５とルカ、６・１３~１６）</span>。
 彼の兄弟は<a href="https://ja.wikipedia.org/wiki/ヤコブ_(ゼベダイの子)" title="https://ja.wikipedia.org/wiki/https://fr.wikipedia.org/wiki/ヤコブ_(ゼベダイの子)" id="jacques-le-majeur" class="yellow">「大」というヤコブ</a>です。
 イエスが彼たちを<span style="color: #e6a64d;">「雷の子ら」</span>と呼んでいる<span style="color: #999;">（マルコ、３・１７）</span>。
-兄弟と他の弟子の２人だった<a href="https://ja.wikipedia.org/wiki/ペトロ" title="https://ja.wikipedia.org/wiki/ペトロ" id="simon-pierre" class="yellow">シモン・ペトロ</a>と<a href="https://ja.wikipedia.org/wiki/アンデレ" title="https://ja.wikipedia.org/wiki/アンデレ" id="simon-pierre" class="yellow">アンデレ</a>と同様に、彼はイエスに従うために自分の網を捨てる<a href="https://ja.wikipedia.org/wiki/ガリラヤ湖" title="https://ja.wikipedia.org/wiki/ガリラヤ湖" id="tiberiade" class="yellow">ティベリアス湖</a><span style="color: #e6a64d;">の漁師の一人</span>です。<br>
+兄弟と他の弟子のニ人だった<a href="https://ja.wikipedia.org/wiki/ペトロ" title="https://ja.wikipedia.org/wiki/ペトロ" id="simon-pierre" class="yellow">シモン・ペトロ</a>と<a href="https://ja.wikipedia.org/wiki/アンデレ" title="https://ja.wikipedia.org/wiki/アンデレ" id="simon-pierre" class="yellow">アンデレ</a>と同様に、彼はイエスに従うために自分の網を捨てる<a href="https://ja.wikipedia.org/wiki/ガリラヤ湖" title="https://ja.wikipedia.org/wiki/ガリラヤ湖" id="tiberiade" class="yellow">ティベリアス湖</a><span style="color: #e6a64d;">の漁師の一人</span>です。<br>
 そこから、<a href="https://ja.wikipedia.org/wiki/主イエスの変容" title="https://ja.wikipedia.org/wiki/主イエスの変容" id="transfiguration" class="yellow">イエスの変容</a><span style="color: #999;">（マルコ、９・２、マタイ、１７・１とルカ、９・２８）</span>、<a href="https://fr.wikipedia.org/wiki/Guérison_de_la_belle-mère_de_Pierre" title="https://fr.wikipedia.org/wiki/Guérison_de_la_belle-mère_de_Pierre" id="guerison-de-la-belle-mere-de-pierre" class="yellow">シモン・ペトロの<ruby>姑<rp>(</rp><rt>しゅうとめ</rt><rp>)</rp></ruby>の癒し</a> <span style="color: #999;">（マルコ、１・２９）</span>、シナゴーグの頭だった<a href="https://ja.wikipedia.org/wiki/Fille_de_Jaïre" title="https://ja.wikipedia.org/wiki/Fille_de_Jaïre" id="fille-de-jaire" class="yellow">ヤイロの娘の癒し</a><span style="color: #999;">（マルコ、５・３７とルカ、８・５１）</span>を証し、兄弟と一緒にイエスが<a href="https://ja.wikipedia.org/wiki/ゲツセマネの祈り" title="https://ja.wikipedia.org/wiki/ゲツセマネの祈り" id="agonie-dans-le-jardin-des-oliviers" class="yellow">ゲッセマネの園</a>であきらめることに誘惑される時に<span style="color: #999;">（マルコ、１３・３）</span>いますが、彼は睡眠に落ちいる<span style="color: #999;">（マルコ、１４・３３）</span>。</p>
 <h5 id="disciple-que-jesus-aimait-2" class="yellow">イエスの愛しておられた弟子</h5>
 <p><a href="https://ja.wikipedia.org/wiki/イエスの愛しておられた弟子" title="https://ja.wikipedia.org/wiki/イエスの愛しておられた弟子" id="disciple-que-jesus-aimait-3" class="yellow">イエスの愛しておられた弟子</a> が「ヨハネの」という福音の終わりに現れる<span style="color: #999;">（ヨハネ、２１・２０;２４~２５）</span>:<br>
@@ -1169,7 +1163,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <p><a href="https://fr.wikipedia.org/wiki/Jean_de_Patmos" title="https://fr.wikipedia.org/wiki/Jean_de_Patmos" id="jean-de-patmos-3" class="yellow">「パトモス島の」ヨハネ</a>が黙示録の文書の始まる所に現れる<span style="color: #999;">（黙、１・１~９）</span>。その文書では彼は神が<span style="color: #e6a64d;">「すぐにも起こるはずのことを」</span><span style="color: #999;">（…）</span>「アジア州にある七つの教会」に<span style="color: #999;">（…）</span>ご自分の「天使を送って」知らせた<span style="color: #999;">（…）</span><span style="color: #e6a64d;">「僕」</span>として紹介されている。</p>
 <h5 id="jean-de-patmos-2" class="yellow">黄金伝説に対しての福音書記者ヨハネ</h5>
 <p>福音書記者ヨハネの表しが黄金伝説の<span style="color: #e6a64d;">第９章</span>と<span style="color: #e6a64d;">第６５章</span>でのヤコブス・ダ・ヴォラギネに編纂された語り筋を全体として守っています。これらの文書を念のために<a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" class="yellow">ここ</a>と<a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:19#aristodeme#jean-selon-legende-2" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:19#aristodeme#jean-selon-legende-2" class="yellow">ここ</a>で記載している。<br>
-しかし、３人のヨハネ<span style="color: #999;">（「使徒」ヨハネ、イエスの愛しておられた弟子、「パトモス島の」ヨハネ）</span>を一人の人物としてしか扱わないヤコブス・ダ・ヴォラギネと違って、メムリンクが福音書記者ヨハネに対して、使徒ヨハネ<span style="color: #999;">（左翼パネルの内面）</span>に別の外観を与える。</p>
+しかし、三人のヨハネ<span style="color: #999;">（「使徒」ヨハネ、イエスの愛しておられた弟子、「パトモス島の」ヨハネ）</span>を一人の人物としてしか扱わないヤコブス・ダ・ヴォラギネと違って、メムリンクが福音書記者ヨハネに対して、使徒ヨハネ<span style="color: #999;">（左翼パネルの内面）</span>に別の外観を与える。</p>
 <h5 id="jean-a-la-porte-latine" class="yellow">ローマにあるラティナ門前にドミティアヌス大帝の命令によって熱湯に浸せられる福音書記者ヨハネ</h5>
 <p>語りが中央パネルから始まります。<br>
 「<span style="color: #e6a64d;">ヨハネ</span>は、<a href="https://ja.wikipedia.org/wiki/エフェソス" title="https://ja.wikipedia.org/wiki/エフェソス" class="yellow">エフェソス</a>で伝道活動に従事していたとき、同地の総督に捕えられ、いつわりの神々に供物をささげようと命じられた。<br>
@@ -1219,19 +1213,34 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 彼は手に駕ペンと小型ナイフを掴んでいて、彼の膝に帳面が見られる。
 ヨハネがまだ何もまだ書いていないで、<span style="color: #e6a64d;">生き生き</span>している古代ギリシャ語で<span style="color: #e6a64d;">「覆いをはずす」</span>を意味する<span style="color: #e6a64d;">「黙示」</span>を捕らえられているままに表わされている。これらの幻影がかれの上、空で、水ととても近くにある陸の上、またそれ以外、翼パネルのすべてで表されている。  </p>
 <p>文書としての『黙示録』の紹介を<a href="#note-apocalypse" title="文書としての『黙示録』の紹介をここに見当たることが出来ます" id="renvoi-note-apocalypse" class="yellow">ここ</a>に見当たることが出来ます。私たちはヨハネご自身が覆いはずしを語る文書での翼パネルの左上に始まる順に従うのを選択しています<span style="color: #999;">（黙示録、４・２~６）</span>。そうすると、文書をメムリンクの表しを照合するのが可能となっている。</p>
-<p><sup>０２</sup>
-「わたしは、たちまち<span style="color: #e6a64d;">「霊」</span>に満たされた。
-すると、見よ、<span style="color: #e6a64d;">天</span>に<span style="color: #e6a64d;">玉座</span>が設けられていて、その玉座の上に座っている<span style="color: #e6a64d;">方</span>がおられた。<br>
-<sup>０３</sup>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>０２</sup></td>
+<td>「わたしは、たちまち<span style="color: #e6a64d;">「霊」</span>に満たされた。
+すると、見よ、<span style="color: #e6a64d;">天</span>に<span style="color: #e6a64d;">玉座</span>が設けられていて、その玉座の上に座っている<span style="color: #e6a64d;">方</span>がおられた。</td></tr>
+<tr>
+<td><sup>０３</sup></td>
+<td>
 その方は、碧玉や赤めのうのようであり、
-玉座の周りにはエメラルドのような<span style="color: #e6a64d;">虹</span>が輝いていた。<br>
-<sup>０４</sup>
-また、玉座の周りに二十四の座があって、それらの座の上には白い衣を着て、頭に金の冠をかぶった<span style="color: #e6a64d;">二十四人の長老</span>が座っていた。<br>
-<sup>０５</sup>
-玉座からは、稲妻、さまざまな音、雷が起こった。また、玉座の前には、七つのともし火が燃えていた。
-これは神の七つの霊である。<br>
-<sup>０６</sup>
-また、玉座の前は、水晶に似たガラスの海のようであった。」</p>
+玉座の周りにはエメラルドのような<span style="color: #e6a64d;">虹</span>が輝いていた。</td>
+<tr>
+<td><sup>０４</sup></td>
+<td>また、玉座の周りに二十四の座があって、それらの座の上には白い衣を着て、頭に金の冠をかぶった<span style="color: #e6a64d;">二十四人の長老</span>が座っていた。</td></tr>
+<tr>
+<td><sup>０５</sup></td>
+<td>玉座からは、稲妻、さまざまな音、雷が起こった。また、玉座の前には、七つのともし火が燃えていた。
+これは神の七つの霊である。</td></tr>
+<tr>
+<td><sup>０６</sup></td>
+<td>また、玉座の前は、水晶に似たガラスの海のようであった。」</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-380.webp 380w,
@@ -1249,22 +1258,33 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《神の王座、天と子羊の宮廷の幻影》</figcaption></figure>
-<p><sup>０７</sup>
-第一の生き物は<span style="color: #e6a64d;">獅子</span>のようであり、第二の生き物は<span style="color: #e6a64d;">若い雄牛</span>のようで、第三の生き物は<span style="color: #e6a64d;">人間のような顔</span>を持ち、第四の生き物は空を飛ぶ<span style="color: #e6a64d;">鷲</span>のようであった。<br>
-<sup>０８</sup>
-この四つの生き物には、それぞれ<span style="color: #e6a64d;">六つの翼</span>があり、その周りにも内側にも、一面に目があった。
-彼らは、昼も夜も絶え間なく言い続けた。「聖なるかな、聖なるかな、聖なるかな、全能者である神、主、かつておられ、今おられ、やがて来られる方。」 <span style="color: #999;">(…)</span><br>
-<sup>第５章</sup><br>
-<sup>０１</sup>
-「またわたしは、玉座に座っておられる方の右の手に<span style="color: #e6a64d;">巻物</span>があるのを見た。表にも裏にも字が書いてあり、<span style="color: #e6a64d;">七つの封印</span>で封じられていた。」 <span style="color: #999;">(…)</span><br>
-<sup>０６</sup>
-「わたしはまた、玉座と四つの生き物の間、長老たちの間に、屠られたような<span style="color: #e6a64d;">小羊が立っている</span>のを見た。小羊には七つの角と七つの目があった。この七つの目は、全地に遣わされている神の七つの霊である。」<br>
-<sup>０７</sup>
-小羊は進み出て、玉座に座っておられる方の右の手から、巻物を受け取った。 <span style="color: #999;">(…)</span>
-語りが虹とヨハネの間に続く。<br>
-<sup>第６章</sup><br>
-<sup>０１</sup>
-また、わたしが見ていると、小羊が七つの封印の一つを開いた。すると、四つの生き物の一つが、雷のような声で「出て来い」と言うのを、わたしは聞いた。</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>０７</sup></td>
+<td>第一の生き物は<span style="color: #e6a64d;">獅子</span>のようであり、第二の生き物は<span style="color: #e6a64d;">若い雄牛</span>のようで、第三の生き物は<span style="color: #e6a64d;">人間のような顔</span>を持ち、第四の生き物は空を飛ぶ<span style="color: #e6a64d;">鷲</span>のようであった。</td></tr>
+<tr><td><sup>０８</sup></td>
+<td>この四つの生き物には、それぞれ<span style="color: #e6a64d;">六つの翼</span>があり、その周りにも内側にも、一面に目があった。
+彼らは、昼も夜も絶え間なく言い続けた。「聖なるかな、聖なるかな、聖なるかな、全能者である神、主、かつておられ、今おられ、やがて来られる方。」 <span style="color: #999;">(…)</span></td></tr>
+<tr><td></td>
+<td><sup>第５章</sup></td></tr>
+<tr><td><sup>０１</sup></td>
+<td>「またわたしは、玉座に座っておられる方の右の手に<span style="color: #e6a64d;">巻物</span>があるのを見た。表にも裏にも字が書いてあり、<span style="color: #e6a64d;">七つの封印</span>で封じられていた。」 <span style="color: #999;">(…)</span></td></tr>
+<tr><td><sup>０６</sup></td>
+<td>「わたしはまた、玉座と四つの生き物の間、長老たちの間に、屠られたような<span style="color: #e6a64d;">小羊が立っている</span>のを見た。小羊には七つの角と七つの目があった。この七つの目は、全地に遣わされている神の七つの霊である。」</td></tr>
+<tr><td><sup>０７</sup></td>
+<td>小羊は進み出て、玉座に座っておられる方の右の手から、巻物を受け取った。 <span style="color: #999;">(…)</span>
+語りが虹とヨハネの間に続く。</td></tr>
+<tr><td></td><td><sup>第６章</sup></td></tr>
+<tr><td><sup>０１</sup></td>
+<td>また、わたしが見ていると、小羊が七つの封印の一つを開いた。すると、四つの生き物の一つが、雷のような声で「出て来い」と言うのを、わたしは聞いた。</td></tr>
+</tbody>
+</table>
 </div>
 
 <div id="body-inner">
@@ -1278,7 +1298,6 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <li><a href="#renvoi-note-apocalypse" title="文書としての『黙示録』の紹介をここに見当たることが出来ます">「文書としての『黙示録』の紹介をここに見当たることが出来ます」 ↑ 戻る ↑</a></li>
 </ul>
 </div>
-<p><br></p>
 <div class="footnotes">
 <hr />
 <ol>
@@ -1295,9 +1314,19 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <!-- Page 11 -->
 
 <div id="body-inner">
-				<p><sup>第６章</sup><br>
-<sup>０２</sup>
-そして見ていると、見よ、<span style="color: #e6a64d;">白い馬</span>が現れ、乗っている者は、<span style="color: #e6a64d;">弓</span>を持っていた。彼は<span style="color: #e6a64d;">冠</span>を与えられ、勝利の上に更に勝利を得ようと出て行った。</p>
+  <table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td></td><td><sup>第６章</sup></td></tr>
+<tr><td><sup>０２</sup></td>
+<td>そして見ていると、見よ、<span style="color: #e6a64d;">白い馬</span>が現れ、乗っている者は、<span style="color: #e6a64d;">弓</span>を持っていた。彼は<span style="color: #e6a64d;">冠</span>を与えられ、勝利の上に更に勝利を得ようと出て行った。</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-380.webp 380w,
@@ -1316,10 +1345,20 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《白い馬》<br>
 「乗っている者は、弓を持っていた。彼は冠を与えられ、勝利の上に更に勝利を得ようと出て行った」（黙示録、４・２）</figcaption></figure>
-<p><sup>０３</sup>
-小羊が第二の封印を開いたとき、第二の生き物が「出て来い」と言うのを、わたしは聞いた。
-<sup>０４</sup>
-すると、<span style="color: #e6a64d;">火のように赤い</span>別の<span style="color: #e6a64d;">馬</span>が現れた。その馬に乗っている者には、地上から平和を奪い取って、殺し合いをさせる力が与えられた。また、この者には大きな<span style="color: #e6a64d;">剣</span>が与えられた。</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>０３</sup></td>
+<td>小羊が第二の封印を開いたとき、第二の生き物が「出て来い」と言うのを、わたしは聞いた。</td></tr>
+<tr><td><sup>０４</sup></td>
+<td>すると、<span style="color: #e6a64d;">火のように赤い</span>別の<span style="color: #e6a64d;">馬</span>が現れた。その馬に乗っている者には、地上から平和を奪い取って、殺し合いをさせる力が与えられた。また、この者には大きな<span style="color: #e6a64d;">剣</span>が与えられた。</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-380.webp 380w,
@@ -1338,12 +1377,22 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《火のように赤い馬》<br>
 「その馬に乗っている者には、地上から平和を奪い取って、殺し合いをさせる力が与えられた。また、この者には大きな剣が与えられた」（黙示録、４・４）</figcaption></figure>
-<p><sup>０５</sup>
-小羊が第三の封印を開いたとき、第三の生き物が「出て来い」と言うのを、わたしは聞いた。
-そして見ていると、見よ、<span style="color: #e6a64d;">黒い馬</span>が現れ、乗っている者は、手に<span style="color: #e6a64d;">秤</span>を持っていた。
-<sup>０６</sup>
-わたしは、四つの生き物の間から出る声のようなものが、こう言うのを聞いた。「小麦は一コイニクスで一デナリオン。
-大麦は三コイニクスで一デナリオン。オリーブ油とぶどう酒とを損なうな。」</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>０５</sup></td>
+<td>小羊が第三の封印を開いたとき、第三の生き物が「出て来い」と言うのを、わたしは聞いた。
+そして見ていると、見よ、<span style="color: #e6a64d;">黒い馬</span>が現れ、乗っている者は、手に<span style="color: #e6a64d;">秤</span>を持っていた。</td></tr>
+<tr><td><sup>０６</sup></td>
+<td>わたしは、四つの生き物の間から出る声のようなものが、こう言うのを聞いた。「小麦は一コイニクスで一デナリオン。
+大麦は三コイニクスで一デナリオン。オリーブ油とぶどう酒とを損なうな。」</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-380.webp 380w,
@@ -1361,11 +1410,21 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《黒い馬》<br>「乗っている者は、手に秤を持っていた」（黙示録、４・５）</figcaption></figure>
-<p><sup>０７</sup>
-小羊が第四の封印を開いたとき、「出て来い」と言う第四の生き物の声を、わたしは聞いた。
-<sup>０８</sup>
-そして見ていると、見よ、<span style="color: #e6a64d;">青白い馬</span>が現れ、乗っている者の名は<span style="color: #e6a64d;">「死」</span>といい、これに<span style="color: #e6a64d;">陰府</span>が従っていた。
-彼らには、地上の四分の一を支配し、剣と飢饉と死をもって、更に地上の野獣で人を滅ぼす権威が与えられた。 <span style="color: #999;">(…)</span></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>０７</sup></td>
+<td>小羊が第四の封印を開いたとき、「出て来い」と言う第四の生き物の声を、わたしは聞いた。</td></tr>
+<tr><td><sup>０８</sup></td>
+<td>こそして見ていると、見よ、<span style="color: #e6a64d;">青白い馬</span>が現れ、乗っている者の名は<span style="color: #e6a64d;">「死」</span>といい、これに<span style="color: #e6a64d;">陰府</span>が従っていた。
+彼らには、地上の四分の一を支配し、剣と飢饉と死をもって、更に地上の野獣で人を滅ぼす権威が与えられた。 <span style="color: #999;">(…)</span></td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-380.webp 380w,
@@ -1383,14 +1442,24 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《青白い馬、「死」、陰府》<br>「乗っている者の名は「死」といい、これに陰府が従っていた。」（黙示録、４・５）</figcaption></figure>
-<p><sup>１４</sup>
-天は巻物が巻き取られるように消え去り、山も島も、みなその場所から移された。<br>
-<sup>１５</sup>
-<span style="color: #e6a64d;">地上の王、高官、千人隊長、富める者、力ある者、また、奴隷も自由な身分の者もことごとく、洞穴や山の岩間に隠れ</span><br>
-<sup>１６</sup>
-山と岩に向かって、「わたしたちの上に覆いかぶさって、玉座に座っておられる方の顔と小羊の怒りから、わたしたちをかくまってくれ」と言った。<br>
-<sup>１７</sup>
-神と小羊の怒りの大いなる日が来たからである。だれがそれに耐えられるであろうか」。</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>１４</sup></td>
+<td>天は巻物が巻き取られるように消え去り、山も島も、みなその場所から移された。</td></tr>
+<tr><td><sup>１５</sup></td>
+<td><span style="color: #e6a64d;">地上の王、高官、千人隊長、富める者、力ある者、また、奴隷も自由な身分の者もことごとく、洞穴や山の岩間に隠れ</span></td></tr>
+<tr><td><sup>１６</sup></td>
+<td>山と岩に向かって、「わたしたちの上に覆いかぶさって、玉座に座っておられる方の顔と小羊の怒りから、わたしたちをかくまってくれ」と言った。</td></tr>
+<tr><td><sup>１７</sup></td>
+<td>神と小羊の怒りの大いなる日が来たからである。だれがそれに耐えられるであろうか」。</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-380.webp 380w,
@@ -1413,11 +1482,21 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <!-- Page 12 -->
 
 <div id="body-inner">
-				<p><sup>第８章</sup><br>
-<sup>０１</sup>
-小羊が第七の封印を開いたとき、天は半時間ほど沈黙に包まれた。<br>
-<sup>０２</sup>
-そして、わたしは<span style="color: #e6a64d;">七人の天使</span>が神の御前に立っているのを見た。彼らには<span style="color: #e6a64d;">七つのラッパ</span>が与えられた。</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td></td><td><sup>第８章</sup></td></tr>
+<tr><td><sup>０１</sup></td>
+<td>小羊が第七の封印を開いたとき、天は半時間ほど沈黙に包まれた。</td></tr>
+<tr><td><sup>０２</sup></td>
+<td>そして、わたしは<span style="color: #e6a64d;">七人の天使</span>が神の御前に立っているのを見た。彼らには<span style="color: #e6a64d;">七つのラッパ</span>が与えられた。</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-380.webp 380w,
@@ -1435,8 +1514,18 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《第七の封印の天使》</figcaption></figure>
-<p><sup>０３</sup>
-また、別の天使が来て、手に<span style="color: #e6a64d;">金の香炉</span>を持って祭壇のそばに立つと、この天使に多くの香が渡された。すべての聖なる者たちの祈りに添えて、玉座の前にある<span style="color: #e6a64d;">金の祭壇</span>に献げるためである。</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>０３</sup></td>
+<td>また、別の天使が来て、手に<span style="color: #e6a64d;">金の香炉</span>を持って祭壇のそばに立つと、この天使に多くの香が渡された。すべての聖なる者たちの祈りに添えて、玉座の前にある<span style="color: #e6a64d;">金の祭壇</span>に献げるためである。</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-380.webp 380w,
@@ -1454,18 +1543,28 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《祭壇の天使》</figcaption></figure>
-<p><sup>０４</sup>
-香の煙は、天使の手から、聖なる者たちの祈りと共に神の御前へ立ち上った。<br>
-<sup>０５</sup>
-それから、天使が香炉を取り、それに祭壇の火を満たして地上へ投げつけると、雷、さまざまな音、稲妻、地震が起こった。</p>
-<p><sup>０６</sup>
-さて、七つのラッパを持っている七人の天使たちが、ラッパを吹く用意をした。<br>
-<sup>０７</sup>
-第一の天使がラッパを吹いた。すると、血の混じった<ruby>雹<rp>(</rp><rt>ひょう</rt><rp>)</rp></ruby>と火とが生じ、地上に投げ入れられた。地上の三分の一が焼け、木々の三分の一が焼け、すべての青草も焼けてしまった。<br>
-<sup>０８</sup>
-第二の天使がラッパを吹いた。すると、<span style="color: #e6a64d;">火で燃えている大きな山</span>のようなものが、海に投げ入れられた。海の三分の一が血に変わり、
-<sup>０９</sup>
-また、被造物で海に住む生き物の三分の一は死に、<span style="color: #e6a64d;">船という船の三分の一が壊された</span>。</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>０４</sup></td>
+<td>香の煙は、天使の手から、聖なる者たちの祈りと共に神の御前へ立ち上った。</td></tr>
+<tr><td><sup>０５</sup></td>
+<td>それから、天使が香炉を取り、それに祭壇の火を満たして地上へ投げつけると、雷、さまざまな音、稲妻、地震が起こった。</td></tr>
+<tr><td><sup>０６</sup></td>
+<td>さて、七つのラッパを持っている七人の天使たちが、ラッパを吹く用意をした。</td></tr>
+<tr><td><sup>０７</sup></td>
+<td>第一の天使がラッパを吹いた。すると、血の混じった<ruby>雹<rp>(</rp><rt>ひょう</rt><rp>)</rp></ruby>と火とが生じ、地上に投げ入れられた。地上の三分の一が焼け、木々の三分の一が焼け、すべての青草も焼けてしまった。</td></tr>
+<tr><td><sup>０８</sup></td>
+<td>第二の天使がラッパを吹いた。すると、<span style="color: #e6a64d;">火で燃えている大きな山</span>のようなものが、海に投げ入れられた。海の三分の一が血に変わり、</td></tr>
+<tr><td><sup>０９</sup></td>
+<td>また、被造物で海に住む生き物の三分の一は死に、<span style="color: #e6a64d;">船という船の三分の一が壊された</span>。</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-380.webp 380w,
@@ -1483,12 +1582,22 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《火で燃えている大きな山の墜落、船の三分の一が壊された》</figcaption></figure>
-<p><sup>１０</sup>
-第三の天使がラッパを吹いた。すると、<span style="color: #e6a64d;">松明のように燃えている大きな星</span>が、天から落ちて来て、川という川の三分の一と、その水源の上に落ちた。<br>
-<sup>１１</sup>
-この星の名は<span style="color: #e6a64d;">「苦よもぎ」</span>といい、水の三分の一が苦よもぎのように苦くなって、そのために多くの人が死んだ。<br>
-<sup>１２</sup>
-第四の天使がラッパを吹いた。すると、太陽の三分の一、月の三分の一、星という星の三分の一が損なわれたので、それぞれ三分の一が暗くなって、昼はその光の三分の一を失い、夜も同じようになった。</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>１０</sup></td>
+<td>第三の天使がラッパを吹いた。すると、<span style="color: #e6a64d;">松明のように燃えている大きな星</span>が、天から落ちて来て、川という川の三分の一と、その水源の上に落ちた。</td></tr>
+<tr><td><sup>１１</sup></td>
+<td>この星の名は<span style="color: #e6a64d;">「苦よもぎ」</span>といい、水の三分の一が苦よもぎのように苦くなって、そのために多くの人が死んだ。</td></tr>
+<tr><td><sup>１２</sup></td>
+<td>第四の天使がラッパを吹いた。すると、太陽の三分の一、月の三分の一、星という星の三分の一が損なわれたので、それぞれ三分の一が暗くなって、昼はその光の三分の一を失い、夜も同じようになった。</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-380.webp 380w,
@@ -1506,8 +1615,18 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《「苦よもぎ」という星の墜落》<br>「松明のように燃えている大きな星が、天から落ちて」（…） 「水の三分の一が苦よもぎのように苦くなって、そのために多くの人が死んだ」</figcaption></figure>
-<p><sup>１３</sup>
-また、見ていると、一羽の<span style="color: #e6a64d;">鷲</span>が空高く飛びながら、大声でこう言うのが聞こえた。「不幸だ、不幸だ、不幸だ、地上に住む者たち。なお三人の天使が吹こうとしているラッパの響きのゆえに」。</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>１３</sup></td>
+<td>また、見ていると、一羽の<span style="color: #e6a64d;">鷲</span>が空高く飛びながら、大声でこう言うのが聞こえた。「不幸だ、不幸だ、不幸だ、地上に住む者たち。なお三人の天使が吹こうとしているラッパの響きのゆえに」。</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-380.webp 380w,
@@ -1530,19 +1649,29 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <!-- Page 13 -->
 
 <div id="body-inner">
-				<p><sup>最９章</sup><br>
-<sup>０１</sup>
-第五の天使がラッパを吹いた。すると、一つの星が天から地上へ落ちて来るのが見えた。この星に、<span style="color: #e6a64d;">底なしの淵に通じる穴を開く鍵</span>が与えられ、<br>
-<sup>０２</sup>
-それが底なしの淵の穴を開くと、<span style="color: #e6a64d;">大きなかまどから出るような煙</span>が穴から立ち上り、太陽も空も穴からの煙のために暗くなった。<br>
-<sup>０３</sup>
-そして、煙の中から、<span style="color: #e6a64d;">いなご</span>の群れが地上へ出て来た。このいなごには、地に住むさそりが持っているような力が与えられた。<br>
-<sup>０４</sup>
-いなごは、地の草やどんな青物も、またどんな木も損なってはならないが、ただ、額に神の刻印を押されていない人には害を加えてもよい、と言い渡された。<br>
-<sup>０５</sup>
-殺してはいけないが、五か月の間、苦しめることは許されたのである。いなごが与える苦痛は、さそりが人を刺したときの苦痛のようであった。<br>
-<sup>０６</sup>
-この人々は、その期間、死にたいと思っても死ぬことができず、切に死を望んでも、死の方が逃げて行く。  </p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td></td><td><sup>最９章</sup></td></tr>
+<tr><td><sup>０１</sup></td>
+<td>第五の天使がラッパを吹いた。すると、一つの星が天から地上へ落ちて来るのが見えた。この星に、<span style="color: #e6a64d;">底なしの淵に通じる穴を開く鍵</span>が与えられ、</td></tr>
+<tr><td><sup>０２</sup></td>
+<td>それが底なしの淵の穴を開くと、<span style="color: #e6a64d;">大きなかまどから出るような煙</span>が穴から立ち上り、太陽も空も穴からの煙のために暗くなった。</td></tr>
+<tr><td><sup>０３</sup></td>
+<td>そして、煙の中から、<span style="color: #e6a64d;">いなご</span>の群れが地上へ出て来た。このいなごには、地に住むさそりが持っているような力が与えられた。</td></tr>
+<tr><td><sup>０４</sup></td>
+<td>いなごは、地の草やどんな青物も、またどんな木も損なってはならないが、ただ、額に神の刻印を押されていない人には害を加えてもよい、と言い渡された。</td></tr>
+<tr><td><sup>０５</sup></td>
+<td>殺してはいけないが、五か月の間、苦しめることは許されたのである。いなごが与える苦痛は、さそりが人を刺したときの苦痛のようであった。</td></tr>
+<tr><td><sup>０６</sup></td>
+<td>この人々は、その期間、死にたいと思っても死ぬことができず、切に死を望んでも、死の方が逃げて行く。</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-380.webp 380w,
@@ -1560,21 +1689,31 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《いなごの群れの地上への出》</figcaption></figure>
-<p><sup>０７</sup>
-さて、<span style="color: #e6a64d;">いなご</span>の姿は、出陣の用意を整えた馬に似て、頭には金の冠に似たものを着け、顔は人間の顔のようであった。<br>
-<sup>０８</sup>
-また、髪は女の髪のようで、歯は獅子の歯のようであった。<br>
-<sup>０９</sup>
-また、胸には鉄の胸当てのようなものを着け、その羽の音は、多くの馬に引かれて戦場に急ぐ戦車の響きのようであった。<br>
-<sup>１０</sup>
-更に、さそりのように、尾と針があって、この尾には、五か月の間、人に害を加える力があった。<br>
-<sup>１１</sup>
-いなごは、底なしの淵の使いを王としていただいている。その名は、ヘブライ語でアバドンといい、ギリシア語の名はアポリオンという。<span style="color: #999;">（…）</span><br>
-<sup>第１０章</sup><br>
-<sup>０１</sup>
-わたしはまた、もう一人の力強い<span style="color: #e6a64d;">天使</span>が、<span style="color: #e6a64d;">雲を身</span>にまとい、天から降って来るのを見た。頭には<span style="color: #e6a64d;">虹</span>をいただき、顔は<span style="color: #e6a64d;">太陽</span>のようで、足は<span style="color: #e6a64d;">火の柱</span>のようであり、<br>
-<sup>０２</sup>
-手には<span style="color: #e6a64d;">開いた小さな巻物</span>を持っていた。そして、右足で海を、左足で地を踏まえて、</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>０７</sup></td>
+<td>さて、<span style="color: #e6a64d;">いなご</span>の姿は、出陣の用意を整えた馬に似て、頭には金の冠に似たものを着け、顔は人間の顔のようであった。</td></tr>
+<tr><td><sup>０８</sup></td>
+<td>また、髪は女の髪のようで、歯は獅子の歯のようであった。</td></tr>
+<tr><td><sup>０９</sup></td>
+<td>また、胸には鉄の胸当てのようなものを着け、その羽の音は、多くの馬に引かれて戦場に急ぐ戦車の響きのようであった。</td></tr>
+<tr><td><sup>１０</sup></td>
+<td>更に、さそりのように、尾と針があって、この尾には、五か月の間、人に害を加える力があった。</td></tr>
+<tr><td><sup>１１</sup></td>
+<td>いなごは、底なしの淵の使いを王としていただいている。その名は、ヘブライ語でアバドンといい、ギリシア語の名はアポリオンという。<span style="color: #999;">（…）</span></td></tr>
+<tr><td></td><td><sup>第１０章</sup></td></tr>
+<tr><td><sup>０１</sup></td>
+<td>わたしはまた、もう一人の力強い<span style="color: #e6a64d;">天使</span>が、<span style="color: #e6a64d;">雲を身</span>にまとい、天から降って来るのを見た。頭には<span style="color: #e6a64d;">虹</span>をいただき、顔は<span style="color: #e6a64d;">太陽</span>のようで、足は<span style="color: #e6a64d;">火の柱</span>のようであり、</td></tr>
+<tr><td><sup>０２</sup></td>
+<td>手には<span style="color: #e6a64d;">開いた小さな巻物</span>を持っていた。そして、右足で海を、左足で地を踏まえて、</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-380.webp 380w,
@@ -1593,14 +1732,24 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《天から降って来る天使》<br>「わたしはまた、もう一人の力強い天使が、雲を身にまとい、天から降って来るのを見た。頭には虹をいただき、顔は太陽のようで、足は火の柱のようであり、
 手には開いた小さな巻物を持っていた。そして、右足で海を、左足で地を踏まえて」（黙示録、１０・１~２）</figcaption></figure>
-<p><sup>０３</sup>
-獅子がほえるような大声で叫んだ。天使が叫んだとき、七つの雷がそれぞれの声で語った。<br>
-<sup>０４</sup>
-七つの雷が語ったとき、わたしは書き留めようとした。すると、天から声があって、「七つの雷が語ったことは秘めておけ。それを書き留めてはいけない」と言うのが聞こえた。<br>
-<sup>０５</sup>
-すると、海と地の上に立つのをわたしが見たあの天使が、右手を天に上げ、
-<sup>０６</sup>
-世々限りなく生きておられる方にかけて誓った。すなわち、天とその中にあるもの、地とその中にあるもの、海とその中にあるものを創造された方にかけてこう誓った。「もはや時がない」。</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>０３</sup></td>
+<td>獅子がほえるような大声で叫んだ。天使が叫んだとき、七つの雷がそれぞれの声で語った。</td></tr>
+<tr><td><sup>０４</sup></td>
+<td>七つの雷が語ったとき、わたしは書き留めようとした。すると、天から声があって、「七つの雷が語ったことは秘めておけ。それを書き留めてはいけない」と言うのが聞こえた。</td></tr>
+<tr><td><sup>０５</sup></td>
+<td>すると、海と地の上に立つのをわたしが見たあの天使が、右手を天に上げ、</td></tr>
+<tr><td><sup>０６</sup></td>
+<td>世々限りなく生きておられる方にかけて誓った。すなわち、天とその中にあるもの、地とその中にあるもの、海とその中にあるものを創造された方にかけてこう誓った。「もはや時がない」。</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-380.webp 380w,
@@ -1618,15 +1767,25 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《黙示録の空》（黙示録、１２）</figcaption></figure>
-<p><sup>第１２章</sup><br>
-<sup>０１</sup>
-また、天に大きなしるしが現れた。<span style="color: #e6a64d;">一人の女</span>が身に太陽をまとい、月を足の下にし、頭には十二の星の冠をかぶっていた。<br>
-<sup>０２</sup>
-女は身ごもっていたが、子を産む痛みと苦しみのため叫んでいた。<br>
-<sup>０３</sup>
-また、もう一つのしるしが天に現れた。見よ、火のように<span style="color: #e6a64d;">赤い大きな竜</span>である。これには七つの頭と十本の角があって、その頭に七つの冠をかぶっていた。<br>
-<sup>０４</sup>
-竜の尾は、天の星の三分の一を掃き寄せて、地上に投げつけた。そして、竜は子を産もうとしている女の前に立ちはだかり、産んだら、その子を食べてしまおうとしていた。</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td></td><td><sup>第１２章</sup></td></tr>
+<tr><td><sup>０１</sup></td>
+<td>また、天に大きなしるしが現れた。<span style="color: #e6a64d;">一人の女</span>が身に太陽をまとい、月を足の下にし、頭には十二の星の冠をかぶっていた。</td></tr>
+<tr><td><sup>０２</sup></td>
+<td>女は身ごもっていたが、子を産む痛みと苦しみのため叫んでいた。</td></tr>
+<tr><td><sup>０３</sup></td>
+<td>また、もう一つのしるしが天に現れた。見よ、火のように<span style="color: #e6a64d;">赤い大きな竜</span>である。これには七つの頭と十本の角があって、その頭に七つの冠をかぶっていた。</td></tr>
+<tr><td><sup>０４</sup></td>
+<td>竜の尾は、天の星の三分の一を掃き寄せて、地上に投げつけた。そして、竜は子を産もうとしている女の前に立ちはだかり、産んだら、その子を食べてしまおうとしていた。</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-380.webp 380w,
@@ -1644,16 +1803,26 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《女の人と竜》（黙示録、１２・１~５）</figcaption></figure>
-<p><sup>０５</sup>
-女は男の子を産んだ。この子は、鉄の杖ですべての国民を治めることになっていた。子は神のもとへ、その玉座へ引き上げられた。
-<sup>０６</sup>
-女は荒れ野へ逃げ込んだ。そこには、この女が１２６０日の間養われるように、神の用意された場所があった。<br>
-<sup>０７</sup>
-さて、天で戦いが起こった。ミカエルとその使いたちが、竜に戦いを挑んだのである。竜とその使いたちも応戦したが、
-<sup>０８</sup>
-勝てなかった。そして、もはや天には彼らの居場所がなくなった。<br>
-<sup>０９</sup>
-この巨大な竜、年を経た蛇、悪魔とかサタンとか呼ばれるもの、全人類を惑わす者は、投げ落とされた。地上に投げ落とされたのである。その使いたちも、もろともに投げ落とされた。</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>０５</sup></td>
+<td>女は男の子を産んだ。この子は、鉄の杖ですべての国民を治めることになっていた。子は神のもとへ、その玉座へ引き上げられた。</td></tr>
+<tr><td><sup>０６</sup></td>
+<td>女は荒れ野へ逃げ込んだ。そこには、この女が１２６０日の間養われるように、神の用意された場所があった。</td></tr>
+<tr><td><sup>０７</sup></td>
+<td>さて、天で戦いが起こった。ミカエルとその使いたちが、竜に戦いを挑んだのである。竜とその使いたちも応戦したが、</td></tr>
+<tr><td><sup>０８</sup></td>
+<td>勝てなかった。そして、もはや天には彼らの居場所がなくなった。</td></tr>
+<tr><td><sup>０９</sup></td>
+<td>この巨大な竜、年を経た蛇、悪魔とかサタンとか呼ばれるもの、全人類を惑わす者は、投げ落とされた。地上に投げ落とされたのである。その使いたちも、もろともに投げ落とされた。</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-380.webp 380w,
@@ -1676,18 +1845,28 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <!-- Page 14 -->
 
 <div id="body-inner">
-				<p><sup>１０</sup>
-わたしは、天で大きな声が次のように言うのを、聞いた。「今や、我々の神の救いと力と支配が現れた。神のメシアの権威が現れた。
-我々の兄弟たちを告発する者、昼も夜も我々の神の御前で彼らを告発する者が、投げ落とされたからである。<br>
-<sup>１１</sup>
-兄弟たちは、小羊の血と自分たちの証しの言葉とで、彼に打ち勝った。彼らは、死に至るまで命を惜しまなかった。<br>
-<sup>１２</sup>
-このゆえに、もろもろの天と、その中に住む者たちよ、喜べ。
-地と海とは不幸である。悪魔は怒りに燃えて、お前たちのところへ降って行った。残された時が少ないのを知ったからである」。<br>
-<sup>１３</sup>
-<span style="color: #e6a64d;">竜</span>は、自分が地上へ投げ落とされたと分かると、男の子を産んだ<span style="color: #e6a64d;">女</span>の後を追った。<br>
-<sup>１４</sup>
-しかし、女には<span style="color: #e6a64d;">大きな鷲の翼</span>が二つ与えられた。荒れ野にある自分の場所へ飛んで行くためである。女はここで、蛇から逃れて、一年、その後二年、またその後半年の間、養われることになっていた。</p>
+  <table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>１０</sup></td>
+<td>わたしは、天で大きな声が次のように言うのを、聞いた。「今や、我々の神の救いと力と支配が現れた。神のメシアの権威が現れた。
+我々の兄弟たちを告発する者、昼も夜も我々の神の御前で彼らを告発する者が、投げ落とされたからである。</td></tr>
+<tr><td><sup>１１</sup></td>
+<td>兄弟たちは、小羊の血と自分たちの証しの言葉とで、彼に打ち勝った。彼らは、死に至るまで命を惜しまなかった。</td></tr>
+<tr><td><sup>１２</sup></td>
+<td>このゆえに、もろもろの天と、その中に住む者たちよ、喜べ。
+地と海とは不幸である。悪魔は怒りに燃えて、お前たちのところへ降って行った。残された時が少ないのを知ったからである」。</td></tr>
+<tr><td><sup>１３</sup></td>
+<td><span style="color: #e6a64d;">竜</span>は、自分が地上へ投げ落とされたと分かると、男の子を産んだ<span style="color: #e6a64d;">女</span>の後を追った。</td></tr>
+<tr><td><sup>１４</sup></td>
+<td>しかし、女には<span style="color: #e6a64d;">大きな鷲の翼</span>が二つ与えられた。荒れ野にある自分の場所へ飛んで行くためである。女はここで、蛇から逃れて、一年、その後二年、またその後半年の間、養われることになっていた。</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-380.webp 380w,
@@ -2485,7 +2664,6 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 彼女の聖遺骨からは、病めるすべての人たちを癒やす霊験あらたかな香油がたえずながれでている。</p>
 <p><span style="color: #df8f20;">聖カテリナ</span>が殉教したのは、主の紀元３１０年ごろ帝位についた<a href="#note_maximinus" title="マクシミヌス帝" id="maximinus" class="yellow">暴君マクセンティウス帝またはマクシミヌス帝</a>のときであった。<br>
 マクセンティウスがこの犯罪や、彼がおかしたその他の罪業のために罰をくだされた話は、<a href="#note_croix" title="〈聖十字架の発見〉" id="croix" class="yellow">〈聖十字架の発見〉の章</a>に述べられている。</p>
-<p><br></p>
 <p>話によると、<a href="#note_rouen" title="ロトマグス" id="rouen" class="yellow">ロトマグス</a>のある修道士は、シナイの山に行き、７年のあいだ<span style="color: #df8f20;">聖女カテリナ</span>に仕えた。<br>
 あるとき、ご遺体のかけらでもいただきとうございます、と聖女に熱心に祈願していると、突然聖女の指の一部がぼきりと手から落ちた。<br>
 彼は、この神の<ruby>賜<rp>(</rp><rt>たま</rt><rp>)</rp>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>をよろこんで押しいただき、故郷の修道院へもって帰った。</p>
@@ -2497,7 +2675,6 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 彼は、彼女のかがやく容姿にこころをうばわれて、あのかたはだれですかとたずねた。<br>
 すると、乙女たちのひとりが答えた。<br>
 <span style="color: #577575;">「あれは、あなたがむかしよくご存じのカテリナ聖女さまです。しかし、あなたは、いまではあのかたのことなんか忘れておいでなので、あのように顔をかくして、あかの他人のように通りすぎていかれたようです」</span></p>
-<p><br></p>
 <p>ここでわれわれは、<span style="color: #df8f20;">聖カテリナ</span>が<span style="color: #936c93;">五つの点</span>で衆にぬきんでた乙女であることに留意しなくてはならない。<br>
 その五つの点とは、まず<span style="color: #936c93;">学識</span>、つぎに<span style="color: #936c93;">雄弁</span>、第三に<span style="color: #936c93;">毅然たる態度</span>、第四に<span style="color: #936c93;">純潔</span>、最後に<span style="color: #936c93;">聖品の高さ</span>である。</p>
 <p><span style="color: #936c93;">まず</span>、<span style="color: #df8f20;">聖カテリナ</span>は、<span style="color: #936c93;">知恵</span>の点でずばぬけていた。<br>
@@ -2593,10 +2770,9 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <li>聖女マルガレタが彼女を記念する日を祝う人たちのために祈ったときのように、その願いが神に聞きとどけられることなどがそれである<span style="color: #ccc;">（黄金伝説・第８８章）</span>。</li>
 </ul>
 <p>その聖伝に見られたように、<span style="color: #df8f20;">聖カテリナ</span>は、一身でこれらすべての聖寵にあずかったから、その聖品の高さがわかろうと言うものである。</p>
-<p><br></p>
 <p>ところで、最後にひとつの問題がある。<br>
 というのは、<span style="color: #df8f20;">聖カテリナ</span>を殉教させたのは皇帝マクセンティウスであったか、それともマクシミヌス帝であったかという点で説がわかれているのである。<br>
-<span style="color: #df8f20;">聖カテリナ</span>が受難したころの皇帝と言うと、つぎの３人である。  </p>
+<span style="color: #df8f20;">聖カテリナ</span>が受難したころの皇帝と言うと、つぎの三人である。  </p>
 <ul>
 <li>父のあとを継いで帝位についた<a href="#note_constantin" title="コンスタンティヌス" id="constantin" class="yellow">コンスタンティヌス</a>。</li>
 <li>マクシミアヌス帝の子で、ローマで近衛兵たちによって<ruby>正帝<rp>(</rp><rt>アウグストウス</rt><rp>)</rp></ruby>に祭りあげられたマクセンティウス。</li>
@@ -2656,7 +2832,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <h3 id="note_rouen" class="yellow">ボエティウス</h3>
 <div class="notices yellow">
 <p><ruby lang="ja">ボエティウス<rp>(</rp><rt lang="la">Boethius</rt><rp>)</rp></ruby lang="ja">は、古代ローマ末期のイタリアの哲学者、政治家。<br>
-ローマ貴族の家系に生まれ、幼くして孤児となり貴族シンマクスに養われる。アテナイに留学し、帰国後は「水晶と象牙で飾られた書斎」で研究生活を送る。この前後に恩人シンマクスの娘と結婚している。時のイタリア支配者、東ゴート王国のテオドリック王に仕官し、貨幣制度の改革などに関わる。次第に高位に昇り、５１０年には西ローマ帝国の執政官となる。５２２年には彼の息子２人も執政官となるほど王の信任を得ていたが、かつての執政官アルビヌスの反逆に与したという嫌疑でパヴィアに投獄され、処刑された。獄中で韻文混じりの散文で『<ruby lang="ja">哲学の慰め<rp>(</rp><rt lang="la">De&#160;consolatione&#160;philosophiae</rt><rp>)</rp></ruby lang="ja">』を書き、慰めを古代哲学に求めている。<br>
+ローマ貴族の家系に生まれ、幼くして孤児となり貴族シンマクスに養われる。アテナイに留学し、帰国後は「水晶と象牙で飾られた書斎」で研究生活を送る。この前後に恩人シンマクスの娘と結婚している。時のイタリア支配者、東ゴート王国のテオドリック王に仕官し、貨幣制度の改革などに関わる。次第に高位に昇り、５１０年には西ローマ帝国の執政官となる。５２２年には彼の息子ニ人も執政官となるほど王の信任を得ていたが、かつての執政官アルビヌスの反逆に与したという嫌疑でパヴィアに投獄され、処刑された。獄中で韻文混じりの散文で『<ruby lang="ja">哲学の慰め<rp>(</rp><rt lang="la">De&#160;consolatione&#160;philosophiae</rt><rp>)</rp></ruby lang="ja">』を書き、慰めを古代哲学に求めている。<br>
 ボエティウスの思想の根幹はプラトンとストア派にあり、理性により感情と外界の障害を克服しようとする。彼はアリストテレスの論理学をラテン語に翻訳し、これが中世のアリストテレス研究の端緒となった。また、ニコマコス、エウクレイデス、アルキメデス、プトレマイオスなどの著作も訳出しギリシア哲学・科学の紹介者として中世思想に大きな影響を与えている。<br>
 註に戻る：　<a href="#boece" title="ボエティウス">ボエティウス↑</a></p>
 </div>
@@ -2667,7 +2843,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 </div>
 <h3 id="note_constantin" class="yellow">コンスタンティヌス</h3>
 <div class="notices yellow">
-<p>ローマ皇帝コンスタンティヌス１世（位３０６年ー３３７年）大帝とよばれる。キリスト教の最初の公認者、その保護・育成につとめ、みずから〈１３人目の使徒〉おもって任じ、第一回ニカイヤ公会議によってアリウス派を保護とした。３３０年都をローマからビザンティウムに移し、これをコンスタンティノポリスと改名。自身はずっと<ruby>常勝太陽神<rp>(</rp><rt>ソル・インヴィクトゥス</rt><rp>)</rp></ruby>の信者であったが、臨終の床で受洗した（黄金伝説の第１２章に参照）。<br>
+<p>ローマ皇帝コンスタンティヌス一世（位３０６年ー３３７年）大帝とよばれる。キリスト教の最初の公認者、その保護・育成につとめ、みずから〈１３人目の使徒〉おもって任じ、第一回ニカイヤ公会議によってアリウス派を保護とした。３３０年都をローマからビザンティウムに移し、これをコンスタンティノポリスと改名。自身はずっと<ruby>常勝太陽神<rp>(</rp><rt>ソル・インヴィクトゥス</rt><rp>)</rp></ruby>の信者であったが、臨終の床で受洗した（黄金伝説の第１２章に参照）。<br>
 註に戻る：　<a href="#constantin" title="コンスタンティヌス">コンスタンティヌス↑</a></p>
 </div>
 <h3 id="note_incarnation" class="yellow">託身</h3>
@@ -2843,7 +3019,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 </tr>
 <tr>
 <td></td>
-<td><span style="color: #165493;">物質的に一つで、人格的に３人であることを知りたまえ。父と息子と聖霊。この教義を信じる者は、神に到達するために必要なものを持っている。</span></td>
+<td><span style="color: #165493;">物質的に一つで、人格的に三人であることを知りたまえ。父と息子と聖霊。この教義を信じる者は、神に到達するために必要なものを持っている。</span></td>
 </tr>
 <tr>
 <td></td>
@@ -2927,7 +3103,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 彼女から離れながら、たくさんの労働者を来させて、
 お風呂の館を建てさせ、遠く離れた国へ行った。<br>
 <span style="color: #994c3d;">バルバラ</span>は塔から何が作られたかを見に降りて、
-北側には２つの窓しかいと見て、
+北側にはニつの窓しかいと見て、
 労働者たちに向かって言った。</p>
 <table>
 <thead>
@@ -2939,7 +3115,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <tbody>
 <tr>
 <td><span style="color: #df8f20;">—&#160;</span></td>
-<td><span style="color: #df8f20;">「なぜこの２つの窓を作ったのか」</span></td>
+<td><span style="color: #df8f20;">「なぜこのニつの窓を作ったのか」</span></td>
 </tr>
 </tbody>
 </table>
@@ -3021,7 +3197,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 </tr>
 </tbody>
 </table>
-<p>建物が完成する後、父親は旅から戻り、３つの窓を見て、労働者たちに向いて言った。</p>
+<p>建物が完成する後、父親は旅から戻り、三つの窓を見て、労働者たちに向いて言った。</p>
 <table>
 <thead>
 <tr>
@@ -3032,7 +3208,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <tbody>
 <tr>
 <td><span style="color: #b3884d;">—&#160;</span></td>
-<td><span style="color: #b3884d;">「なぜ３つの窓を作ったのか」</span></td>
+<td><span style="color: #b3884d;">「なぜ三つの窓を作ったのか」</span></td>
 </tr>
 </tbody>
 </table>
@@ -3062,7 +3238,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <tbody>
 <tr>
 <td><span style="color: #df8f20;">—&#160;</span></td>
-<td><span style="color: #df8f20;">「３つの窓を作る指示をしたのはのあなたか」</span></td>
+<td><span style="color: #df8f20;">「三つの窓を作る指示をしたのはのあなたか」</span></td>
 </tr>
 </tbody>
 </table>
@@ -3077,7 +3253,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <tbody>
 <tr>
 <td><span style="color: #df8f20;">—&#160;</span></td>
-<td><span style="color: #df8f20;">「そうするのことに十分な理由があったの。３つの窓が二元全体を照明するから」。</span></td>
+<td><span style="color: #df8f20;">「そうするのことに十分な理由があったの。三つの窓が二元全体を照明するから」。</span></td>
 </tr>
 </tbody>
 </table>
@@ -3092,7 +3268,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <tbody>
 <tr>
 <td><span style="color: #b3884d;">—&#160;</span></td>
-<td><span style="color: #b3884d;">「なぜ３つの窓が２つよりも明るくなっているのか」</span></td>
+<td><span style="color: #b3884d;">「なぜ三つの窓がニつよりも明るくなっているのか」</span></td>
 </tr>
 </tbody>
 </table>
@@ -3107,7 +3283,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <tbody>
 <tr>
 <td><span style="color: #df8f20;">—&#160;</span></td>
-<td><span style="color: #df8f20;">「世界を照明して星の進路を定めるのは３つである。父と子と聖霊。そして、実在として唯一である。」</span></td>
+<td><span style="color: #df8f20;">「世界を照明して星の進路を定めるのは三つである。父と子と聖霊。そして、実在として唯一である。」</span></td>
 </tr>
 </tbody>
 </table>
@@ -3895,30 +4071,77 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 </div>
 <h3 id="note_mathieu" class="yellow">もし完全になりたいのなら</h3>
 <div class="notices yellow">
-<p>この引用文は、マタイによる福音の第１９章第２１節一節を指す。<br>
-<sup>２１</sup> 「イエスは言われた。〈もし完全になりたいのなら、行って持ち物を売り払い、貧しい人々に施しなさい。そうすれば、天に富を積むことになる。それから、わたしに従いなさい〉。」</p>
-<p>補充として、完全文：<br>
-<sup>１６</sup> 「さて、一人の男がイエスに近寄って来て言った。〈先生、永遠の命を得るには、どんな善いことをすればよいのでしょうか〉。<br>
-<sup>１７</sup> イエスは言われた。〈なぜ、善いことについて、わたしに尋ねるのか。善い方はおひとりである。もし命を得たいのなら、掟を守りなさい〉。<br>
-<sup>１８</sup> 男が〈どの掟ですか〉と尋ねると、イエスは言われた。〈『殺すな、姦淫するな、盗むな、偽証するな、<br>
-<sup>１９</sup> 父母を敬え、また、隣人を自分のように愛しなさい』〉。<br>
-<sup>２０</sup> そこで、この青年は言った。〈そういうことはみな守ってきました。まだ何か欠けているでしょうか〉。<br>
-<sup>２１</sup> イエスは言われた。〈もし完全になりたいのなら、行って持ち物を売り払い、貧しい人々に施しなさい。そうすれば、天に富を積むことになる。それから、わたしに従いなさい〉。<br>
-<sup>２２</sup> 青年はこの言葉を聞き、悲しみながら立ち去った。たくさんの財産を持っていたからである。<br>
-<sup>２３</sup> イエスは弟子たちに言われた。〈はっきり言っておく。金持ちが天の国に入るのは難しい。<br>
-<sup>２４</sup> 重ねて言うが、金持ちが神の国に入るよりも、らくだが針の穴を通る方がまだ易しい。」<br>
-註に戻る：　<a href="#mathieu" title="もし完全になりたいのなら">もし完全になりたいのなら ↑</a></p>
+<p>この引用文は、マタイによる福音の第１９章第２１節一節を指す。</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>２１</sup></td>
+<td>「イエスは言われた。〈もし完全になりたいのなら、行って持ち物を売り払い、貧しい人々に施しなさい。そうすれば、天に富を積むことになる。それから、わたしに従いなさい〉。」</td></tr>
+</tbody>
+</table>
+<p>補充として、完全文：</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>１６</sup></td>
+<td>「さて、一人の男がイエスに近寄って来て言った。〈先生、永遠の命を得るには、どんな善いことをすればよいのでしょうか〉。</td></tr>
+<tr><td><sup>１７</sup></td>
+<td>イエスは言われた。〈なぜ、善いことについて、わたしに尋ねるのか。善い方はおひとりである。もし命を得たいのなら、掟を守りなさい〉。</td></tr>
+<tr><td><sup>１８</sup></td>
+<td>男が〈どの掟ですか〉と尋ねると、イエスは言われた。〈『殺すな、姦淫するな、盗むな、偽証するな、</td></tr>
+<tr><td><sup>１９</sup></td>
+<td>父母を敬え、また、隣人を自分のように愛しなさい』〉。</td></tr>
+<tr><td><sup>２０</sup></td>
+<td>そこで、この青年は言った。〈そういうことはみな守ってきました。まだ何か欠けているでしょうか〉。</td></tr>
+<tr><td><sup>２１</sup></td>
+<td>イエスは言われた。〈もし完全になりたいのなら、行って持ち物を売り払い、貧しい人々に施しなさい。そうすれば、天に富を積むことになる。それから、わたしに従いなさい〉。</td></tr>
+<tr><td><sup>２２</sup></td>
+<td>青年はこの言葉を聞き、悲しみながら立ち去った。たくさんの財産を持っていたからである。</td></tr>
+<tr><td><sup>２３</sup></td>
+<td>イエスは弟子たちに言われた。〈はっきり言っておく。金持ちが天の国に入るのは難しい。</td></tr>
+<tr><td><sup>２４</sup></td>
+<td>重ねて言うが、金持ちが神の国に入るよりも、らくだが針の穴を通る方がまだ易しい。」</td></tr>
+</tbody>
+</table>
+<p>註に戻る：　<a href="#mathieu" title="もし完全になりたいのなら">もし完全になりたいのなら ↑</a></p>
 </div>
 <h3 id="note_hoteriche" class="yellow">神に永劫に罰せられた富裕な貪欲者と神に選ばれた貧しいラザロ</h3>
 <div class="notices yellow">
-<p>この引用文は、マタイによる福音の第１９章第２１節一節を指す。<br>
-<sup>１９</sup> 「ある金持ちがいた。いつも紫の衣や柔らかい麻布を着て、毎日ぜいたくに遊び暮らしていた。<br>
-<sup>２０</sup> この金持ちの門前に、ラザロというできものだらけの貧しい人が横たわり、<br>
-<sup>２１</sup> その食卓から落ちる物で腹を満たしたいものだと思っていた。犬もやって来ては、そのできものをなめた。<br>
-<sup>２２</sup> やがて、この貧しい人は死んで、天使たちによって宴席にいるアブラハムのすぐそばに連れて行かれた。金持ちも死んで葬られた。<br>
-<sup>２３</sup> そして、金持ちは陰府でさいなまれながら目を上げると、宴席でアブラハムとそのすぐそばにいるラザロとが、はるかかなたに見えた。<br>
-<sup>２４</sup> そこで、大声で言った。『父アブラハムよ、わたしを憐れんでください。ラザロをよこして、指先を水に浸し、わたしの舌を冷やさせてください。わたしはこの炎の中でもだえ苦しんでいます』。<br>
-<sup>２５</sup> しかし、アブラハムは言った。『子よ、思い出してみるがよい。お前は生きている間に良いものをもらっていたが、ラザロは反対に悪いものをもらっていた。今は、ここで彼は慰められ、お前はもだえ苦しむのだ』。」<br>
+<p>この引用文は、マタイによる福音の第１９章第２１節一節を指す。</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>１９</sup></td>
+<td>「ある金持ちがいた。いつも紫の衣や柔らかい麻布を着て、毎日ぜいたくに遊び暮らしていた。</td></tr>
+<tr><td><sup>２０</sup></td>
+<td>この金持ちの門前に、ラザロというできものだらけの貧しい人が横たわり、</td></tr>
+<tr><td><sup>２１</sup></td>
+<td>その食卓から落ちる物で腹を満たしたいものだと思っていた。犬もやって来ては、そのできものをなめた。</td></tr>
+<tr><td><sup>２２</sup></td>
+<td>やがて、この貧しい人は死んで、天使たちによって宴席にいるアブラハムのすぐそばに連れて行かれた。金持ちも死んで葬られた。</td></tr>
+<tr><td><sup>２３</sup></td>
+<td>そして、金持ちは陰府でさいなまれながら目を上げると、宴席でアブラハムとそのすぐそばにいるラザロとが、はるかかなたに見えた。</td></tr>
+<tr><td><sup>２４</sup></td>
+<td>そこで、大声で言った。『父アブラハムよ、わたしを憐れんでください。ラザロをよこして、指先を水に浸し、わたしの舌を冷やさせてください。わたしはこの炎の中でもだえ苦しんでいます』。</td></tr>
+<tr><td><sup>２５</sup></td>
+<td>しかし、アブラハムは言った。『子よ、思い出してみるがよい。お前は生きている間に良いものをもらっていたが、ラザロは反対に悪いものをもらっていた。今は、ここで彼は慰められ、お前はもだえ苦しむのだ』。」</td></tr>
+</tbody>
+</table>
 この話はヨハネにもう少し詳しく語られている。<a href="https://www.bible.or.jp/read/vers_search.html" title="https://www.bible.or.jp/read/vers_search.html">ヨハネによる福音の第１１章を参照</a><br>
 註に戻る：　<a href="#mathieu" title="もし完全になりたいのなら">神に永劫に罰せられた富裕な貪欲者と神に選ばれた貧しいラザロ ↑</a></p>
 </div>

@@ -602,7 +602,7 @@ export const ExtendedThreerichTextSchema = new Schema({
       toDOM() { return ["p", 0] },
     },
     blockquote: {
-      content: "block+",
+      content: "(block|table)+",
       group: "block",
       defining: true,
       attrs: { color: {default: null}},
