@@ -22,79 +22,87 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.triano
 <p>Dans le Salon de Famille de Louis-Philippe du <a href="https://fr.wikipedia.org/wiki/Grand_Trianon" title="https://fr.wikipedia.org/wiki/Grand Trianon">Grand Trianon</a> à Versailles, se peut voir une peinture de <a href="https://fr.wikipedia.org/wiki/René-Antoine_Houasse" title="https://fr.wikipedia.org/wiki/René-Antoine Houasse">René-Antoine Houasse</a>, “Morphée s'éveillant à l'approche d'Iris” (aussi appelée “Iris et Morphée”).<br>
 À partir d'une partie du Livre XI des <a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses (Ovide)">Métamorphoses</a> d'<a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a> se trouve représenté le moment où <a href="#area_iris" title="Iris" id="iris">Iris</a>, messagère de <a href="https://fr.wikipedia.org/wiki/Junon" title="https://fr.wikipedia.org/wiki/Junon">Junon</a>, entre dans la grotte de <a href="https://fr.wikipedia.org/wiki/Hypnos" title="https://fr.wikipedia.org/wiki/Hypnos">Sommeil</a> pour lui ordonner de faire rêver <a href="https://fr.wikipedia.org/wiki/Alcyone" title="https://fr.wikipedia.org/wiki/Alcyone">Alcyone</a>.</p>
 </div>
-<p><br></p>
-<h2 id="iris-1" class="green">Iris selon “Les Métamorphoses”</h2>
-<p><span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"></path></svg></span>
-<sup>583</sup>
-Or la déesse ne supporte pas davantage qu'on l'implore pour quelqu'un<br>
-Qui est mort et, afin de détourner de ses autels ces mains funestes,<br>
-<sup>585</sup>
-Elle dit: “<span style="color: #3d8b3d;">Iris</span>, fidèle messagère de mes volontés,<br>
+<h2 id="iris-1" class="green">Iris dans la grotte de Sommeil selon “Les Métamorphoses”</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>583</sup></td>
+<td>Or la déesse ne supporte pas davantage qu'on l'implore pour quelqu'un<br>
+Qui est mort et, afin de détourner de ses autels ces mains funestes,</td></tr>
+<tr><td><sup>585</sup></td>
+<td>Elle dit: <br>
+«<cite><span style="color: #3d8b3d;">Iris</span>, fidèle messagère de mes volontés,<br>
 Cours vite chez le Sommeil, dans son palais des songes,<br>
 Et demande-lui d'envoyer à <span style="color: #3d8b3d;">Alcyone</span> un rêve qui, sous les traits<br>
-De son défunt <span style="color: #3d8b3d;">Céyx</span>, lui dise toute la vérité sur son malheur.”  </p>
-<p>Elle a parlé: <span style="color: #3d8b3d;">Iris</span> revêt sa robe aux mille couleurs<br>
-<sup>590</sup>
-Et, arc-en-ciel décrivant une courbe dans l’espace,<br>
+De son défunt <span style="color: #3d8b3d;">Céyx</span>, lui dise toute la vérité sur son malheur.</cite>»</td></tr>
+<tr><td></td>
+<td>Elle a parlé: <span style="color: #3d8b3d;">Iris</span> revêt sa robe aux mille couleurs</td></tr>
+<tr><td><sup>590</sup></td>
+<td>Et, arc-en-ciel décrivant une courbe dans l’espace,<br>
 Elle gagne, pour exécuter l’ordre, le palais royal caché sous la nue.<br>
 Il est, près du pays des Cimmériens, une cavernes très secrête,<br>
 Creusée dans la roche, demeure et sanctuaire du <span style="color: #3d8b3d;">Sommeil Indolent</span><br>
-Où jamais Phœbus ne peut, au lever, au zénith, au coucher,<br>
-<sup>595</sup>
-Faire pénétrer ses rayons. Des vapeurs mêlées de brumes<br>
+Où jamais Phœbus ne peut, au lever, au zénith, au coucher,</td></tr>
+<tr><td><sup>595</sup></td>
+<td>Faire pénétrer ses rayons. Des vapeurs mêlées de brumes<br>
 S’exhalent du sol, ce qui donne une vague lueur crépusculaire.<br>
 Là, l’oiseau vigilant couronné d’une crête ne chante point<br>
 Pour appeler l’Aurore, et le silence n’est rompu ni par la voix<br>
-Des chiens de gardes, ni par celle de l’oie, plus sagace que les chiens.<br>
-<sup>600</sup>
-Aucun animal sauvage ni domestique, aucune branche agitée par la brise<br>
+Des chiens de gardes, ni par celle de l’oie, plus sagace que les chiens.</td></tr>
+<tr><td><sup>600</sup></td>
+<td>Aucun animal sauvage ni domestique, aucune branche agitée par la brise<br>
 N’émet le moindre son, ni les humains conversant dans leur langue&nbsp;:<br>
 C’est un lieu de silence et de calme. Toutefois, des profondeurs de la roche<br>
 Sort une résurgence du Léthé dont l’eau glisse dans un murmure<br>
-Sur les cailloux crissants et invite au sommeil.<br>
-<sup>605</sup>
-Devant l’entrée de la grotte fleurissent d’abondants pavots,<br>
+Sur les cailloux crissants et invite au sommeil.</td></tr>
+<tr><td><sup>605</sup></td>
+<td>Devant l’entrée de la grotte fleurissent d’abondants pavots,<br>
 D’innombrables plantes dont la Nuit humide recueille le lait<br>
 Afin de le répandre sur les terres ombreuses.<br>
 Aucune porte ne grince en tournant sur ses gonds&nbsp;:<br>
-Il n’y en a pas une seule dans toute la demeure&nbsp;; nul gardien sur le seuil.<br>
-<sup>610</sup>
-Mais au milieu de la grotte s’élève un lit d’ébène<br>
+Il n’y en a pas une seule dans toute la demeure&nbsp;; nul gardien sur le seuil.</td></tr>
+<tr><td><sup>610</sup></td>
+<td>Mais au milieu de la grotte s’élève un lit d’ébène<br>
 Au matelas de plumes, de couleur uniforme, tendu de noir,<br>
 Où repose le dieu aux membres alanguis par l’inactivité.<br>
 Autour de lui sont couchés çà et là, sous des apparences diverses,<br>
-Les <span style="color: #3d8b3d;">Songes trompeurs</span>, aussi nombreux que les blés d’une moisson,<br>
-<sup>615</sup>
-Les feuillages dans une forêt, les grains de sable jetés sur un rivage.<br>
+Les <span style="color: #3d8b3d;">Songes trompeurs</span>, aussi nombreux que les blés d’une moisson,</td></tr>
+<tr><td><sup>615</sup></td>
+<td>Les feuillages dans une forêt, les grains de sable jetés sur un rivage.<br>
 Sitôt que la vierge est entrée, écartant de la mains les Songes<br>
 Qui lui faisaient obstacle, l’éclat de sa robe a illuminé<br>
 La demeure sacrée et le dieu, soulevant avec peine<br>
-Ses paupières lourdes tombant et retombant sans cesse<br>
-<sup>620</sup>
-Tandis que son menton tremblotant frappe le haut de sa poitrine,<br>
+Ses paupières lourdes tombant et retombant sans cesse</td></tr>
+<tr><td><sup>620</sup></td>
+<td>Tandis que son menton tremblotant frappe le haut de sa poitrine,<br>
 Finit par se secouer et, appuyé sur un coude, lui demande<br>
 (Car il l’a reconnue) la raison de sa visite.<br>
 Alors elle lui dit&nbsp;:<br>
-«<span style="color: #3d8b3d;">Sommeil</span>, repos de l’univers, Sommeil, le plus paisible des dieux,<br>
-Paix de l’âme, toi qui fais fuir l’inquiétude, toi qui dissipes<br>
-<sup>625</sup>
-La fatigue du corps après de lourdes tâche et qui aides à l’effort,<br>
+«<cite><span style="color: #3d8b3d;">Sommeil</span>, repos de l’univers, Sommeil, le plus paisible des dieux,<br>
+Paix de l’âme, toi qui fais fuir l’inquiétude, toi qui dissipes</cite></td></tr>
+<tr><td><sup>625</sup></td>
+<td><cite>La fatigue du corps après de lourdes tâche et qui aides à l’effort,<br>
 Ordonne à l’un des Songes qui savent prendre l’apparence du vrai<br>
 De partir pour Trachine, ville d’Hercule, sous les traits de son roi<br>
 Et, prenant la forme d’un naufragé, d’appraître à Alcyone.<br>
-C’est la volonté de Junon.»<br>
-Après avoir accompli sa mission,<br>
-<sup>630</sup>
-Iris s’en va -car elle ne pouvait résister plus longtemps à ce pouvoir<br>
+C’est la volonté de Junon.</cite>»<br>
+Après avoir accompli sa mission,</td></tr>
+<tr><td><sup>630</sup></td>
+<td>Iris s’en va -car elle ne pouvait résister plus longtemps à ce pouvoir<br>
 Soporifique – et sentant le sommeil se glisser dans ses membres,<br>
-Elle s’enfuit, s’en retourne par arc-en-ciel, comme elle était venue.
-<span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"></path></svg></span>  </p>
-<p><span style="color: #3d8b3d;">Ovide, “Les Métamorphoses”, Livre XI</span>  </p>
+Elle s’enfuit, s’en retourne par arc-en-ciel, comme elle était venue.</td></tr>
+</tbody>
+</table>
 <div class="notices green">
 <h4 id="note class="green">Note:</h4>
 <p>L'œuvre de <a href="https://fr.wikipedia.org/wiki/René-Antoine_Houasse" title="https://fr.wikipedia.org/wiki/René-Antoine Houasse">René-Antoine Houasse</a> a été nommé au XVII<sup style="color:#3d8b3d;">ème</sup> siècle «Morphée s'éveillant à l'approche d'Iris» ou «Iris et Morphée».<br>
-Nous conservons cette appellation pour permettre son identification, bien que la scène représentée montre bien plutôt <a href="https://fr.wikipedia.org/wiki/Iris_(mythologie)" title="https://fr.wikipedia.org/wiki/Iris_(mythologie)">Iris</a> et <a href="#area_morpheus" title="Morphée" id="morpheus">le Sommeil</a>, aussi appelé Somnus. Morphée est son fils.<br>
-Après avoir reçu l'ordre d'Iris, son père le désigne pour aller accomplir la mission d'Iris ainsi que le montre la suite du récit.</p>
+Nous conservons cette appellation pour permettre l'identification de l'œuvre, bien que la scène représentée montre bien plutôt <a href="https://fr.wikipedia.org/wiki/Iris_(mythologie)" title="https://fr.wikipedia.org/wiki/Iris_(mythologie)">Iris</a> et <a href="#area_morpheus" title="Morphée" id="morpheus">le Sommeil</a>, aussi appelé «Somnus» dont Morphée est le fils.<br>
+Ainsi que le montre la suite du récit d'Ovide dans le livre XI des Métamorphoses, après avoir reçu l'ordre d'Iris, Somnus désigne Morphée pour aller accomplir la mission d'Iris de faire rêver Alcyone.</p>
 </div>
 </div>
 `;

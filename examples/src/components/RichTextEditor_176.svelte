@@ -38,12 +38,10 @@ Dans les pages qui suivent, nous présentons les différents aspects cette œuvr
 <li>enfin par la <a href="/docs/fr/bruges/hopital-saint-jean/sint-jean/page:16#mise-en-relation" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" id="renvoi-mise-en-relation" class="yellow">mise en relation des différents éléments de l'image avec les différents textes</a> sur lesquels il est raisonnable de penser que le peintre lui-ême s'est fondé afin de concevoir sa représentation des sujets religieux. </li>
 </ol>
 </div>
-<p><br></p>
 <h2 id="a-propos-de-cet-article" class="yellow">à propos de cet article</h2>
 <p>Pour réaliser cet article, nous sommes redevables de travaux de référence, particulièrement ceux de <a href="#de-vos-1" id="renvoi-de-vos-1" class="yellow">Dirk DE VOS, “Hans Memling - L'œuvre complet”</a> et <a href="#de-vos-2" id="renvoi-de-vos-2" class="yellow">“Hans Memling”</a>.<br>
 Notre but n'st toutefois pas de produire ici une  interprétation de l'œuvre mais plutôt <span style="color: #e6a64d;">une desciption</span> et à travers elle de mettre à disposition les éléments qui permettent de s'en saisir: <span style="color: #e6a64d;">des reproductions de qualité</span> <a href="#note-1" title="note-1" id="renvoi-note-1"><sup style="color:#555;">1</sup></a> , <span style="color: #e6a64d;">les principales sources de l'œuvre</span>, quelles soient textuelles ou picturales, ce qui aujourd'hui, même dans le cas d'ouvrages papier spécialisés disponibles par exemple dans des bibliothèques, ne se fait trop souvent que par renvoi ou sous-entendu.<br>
 Notre but aura été atteint si le lecteur se trouve en position de <span style="color: #e6a64d;">mesurer et ainsi d'approfondir lui-même sa perception</span> d'une œuvre dont nous pensons qu'elle mérite de retenir l'attention <span style="color: #e6a64d;">tant est grand l'éclat de sa présence</span>.</p>
-<p><br></p>
 <div class="notices yellow">
 <h3 id="table-des-matieres" class="yellow">table des matières</h3>
 <ol>
@@ -76,13 +74,9 @@ Notre but aura été atteint si le lecteur se trouve en position de <span style=
 </ul></li
 </ol>
 </div>
-<p>
-			</p></div>
+</div>
 			
-
-			<br>
-						<div id="body-inner">
-				<p></p>
+<div id="body-inner">
 <h2 id="presentation-photographique" class="yellow">présentation photographique de l'œuvre dans son espace d'exposition</h2>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-280.webp 280w,
@@ -101,7 +95,6 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-1920.jpg 1920w"></picture><figcaption>Vue de l'espace d'exposition depuis l'entrée de l'église de l'hôpital Saint-Jean</figcaption></figure>
-<p><br></p>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-380.webp 380w,
@@ -119,7 +112,6 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-1920.jpg 1920w"></picture><figcaption>Vue de l'espace d'exposition depuis l'intérieur de l'église de l'hôpital Saint-Jean</figcaption></figure>
-<p><br></p>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-380.webp 380w,
@@ -137,12 +129,9 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-1920.jpg 1920w"></picture><figcaption>Vue de l'espace du triptyque depuis l'abside de l'église de l'hôpital Saint-Jean</figcaption></figure>
-<p>
-			</p></div>
+</div>
 
-			<br>
-						<div id="body-inner">
-				<p></p>
+<div id="body-inner">
 <div class="notices yellow">
 <h3 id="de-vos" class="yellow">références des livres cités de Dirk DE VOS:</h3>
 <ul>
@@ -228,7 +217,6 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 </pre>
 <p><a href="#renvoi-lorentz-1" title="renvoi-de-vos-1">↑ retour cette page</a> <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#renvoi-lorentz-2" title="renvoi-lorentz-2">↑ retour page 3</a></p>
 </div>
-<p><br></p>
 <hr>
 <p><a href="#renvoi-note-1" title="renvoi note-1" id="note-1">note:</a><br>
 les reproductions de l'œuvre que nous mettons à disposition du public sont à notre connaissance les meilleures actuellement existantes en dehors d'ouvrages professionnels: elles nous ont demandé un énorme travail du fait de la faiblesse de l'intensité et du jaune de l'éclairage actuel.<br>
@@ -451,7 +439,6 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <p>L'<span style="color: #e6a64d;">hostie</span> est un des attribut de la sainte; c'est aussi un lien avec le reste du panneau qui en fait apparaître d'autres aspects sous forme d'une <span style="color: #e6a64d;">«conversation sacrée»</span>.</p>
 </div>
 
-<br>
 <div id="body-inner">
 <div class="footnotes">
 <hr>
@@ -626,7 +613,6 @@ Le croyant peut alors exercer une action conforme à la vertu à laquelle la foi
 <li>retour au texte <a href="#renvoi-devotion-moderne" title="renvoi mouvement «dévotion moderne»">«Une présentation détaillée de ce mouvement se trouve en note» ↑</a></li>
 </ul>
 </div>
-<p><br></p>
 <div class="footnotes">
 <hr>
 <ol>
@@ -928,7 +914,6 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <p>Sur le panneau central au-dessus de l'agneau blanc, <span style="color: #e6a64d;">Jean est emmené</span> de force en direction de la prison sur le volet de gauche de l'actuelle ville de <a href="https://fr.wikipedia.org/wiki/Macheronte" title="https://fr.wikipedia.org/wiki/Macheronte" id="macheronte" class="yellow"><ruby style="color:#e6a64d;" lang="fr">Machéronte<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">μάχαιρα</rt><rp>)</rp</ruby></a>, dont l'éthymologie en grec ancien signifie «épée» et qui se situe dans l'actuelle Jordanie.</p>
 </div>
 
-<br>
 <div id="body-inner">
 <div class="footnotes">
 <hr>
@@ -939,7 +924,6 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 </ol>
 </div>
 </div>
-<br>
 
 <!-- Page 8 --><hr>
 
@@ -1206,19 +1190,30 @@ Voici qu’un trône était là dans le ciel (…) Devant le trône, il y a comm
 Il tient dans sa main une plume et un canif, sur ses genoux on voit un cahier.
 Jean est représenté alors qu'il n'a encore même commencé d'écrire, <span style="color: #e6a64d;">sur le vif</span>, dans le moment même où il est saisi par l'<span style="color: #e6a64d;">«Apocalypse»</span>, qui signifie en grec ancien <span style="color: #e6a64d;">«dévoilement»</span>: ces visions apparaissent au-dessus de lui dans le ciel, sur l'eau et sur la terre toute proche sur tout le reste du volet.  </p>
 <p>Nous faisons le choix de suivre le récit <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref">3</a></sup> que Jean lui-même fait du dévoilement dans le texte <span style="color: #999;">(Apocalypse 4.2-6)</span> et qui débute sur le haut à gauche du volet: ainsi il est possible de confronter le texte à la représentation qu'en fait Memling.</p>
-<p><sup>02</sup>
-«je fus saisi en <span style="color: #e6a64d;">esprit</span>.
-Voici qu’un <span style="color: #e6a64d;">trône</span> était là dans le <span style="color: #e6a64d;">ciel</span>, et sur le trône siégeait <span style="color: #e6a64d;">quelqu’un</span>.<br>
-<sup>03</sup>
-Celui qui siège a l’aspect d’une pierre de jaspe ou de cornaline;
-il y a, tout autour du trône, <span style="color: #e6a64d;">un arc-en-ciel</span>, avec des reflets d’émeraude <sup id="fnref1:4"><a href="#fn:4" class="footnote-ref">4</a></sup>.<br>
-<sup>04</sup>
-Tout autour de ce trône, vingt-quatre trônes, où siègent <span style="color: #e6a64d;">vingt-quatre anciens</span> portant des vêtements blancs et, sur leurs têtes, des couronnes d’or.<br>
-<sup>05</sup>
-Et du trône sortent des éclairs, des fracas, des coups de tonnerre, et sept torches enflammées brûlent devant le trône:
-ce sont les sept esprits de dieu.<br>
-<sup>06</sup>
-Devant le trône, il y a comme une mer, aussi transparente que du cristal.» </p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>02</sup></td>
+<td>«je fus saisi en <span style="color: #e6a64d;">esprit</span>.
+Voici qu’un <span style="color: #e6a64d;">trône</span> était là dans le <span style="color: #e6a64d;">ciel</span>, et sur le trône siégeait <span style="color: #e6a64d;">quelqu’un</span>.</td></tr>
+<tr><td><sup>03</sup></td>
+<td>Celui qui siège a l’aspect d’une pierre de jaspe ou de cornaline;
+il y a, tout autour du trône, <span style="color: #e6a64d;">un arc-en-ciel</span>, avec des reflets d’émeraude <sup id="fnref1:4"><a href="#fn:4" class="footnote-ref">4</a></sup>.</td></tr>
+<tr><td><sup>04</sup></td>
+<td>Tout autour de ce trône, vingt-quatre trônes, où siègent <span style="color: #e6a64d;">vingt-quatre anciens</span> portant des vêtements blancs et, sur leurs têtes, des couronnes d’or.</td></tr>
+<tr><td><sup>05</sup></td>
+<td>Et du trône sortent des éclairs, des fracas, des coups de tonnerre, et sept torches enflammées brûlent devant le trône:
+ce sont les sept esprits de dieu.</td></tr>
+<tr><td><sup>06</sup></td>
+<td>Devant le trône, il y a comme une mer, aussi transparente que du cristal.» </td></tr>
+</tbody>
+</table>
+
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-380.webp 380w,
@@ -1236,24 +1231,33 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-1920.jpg 1920w"></picture><figcaption>le volet intérieur droit, “vision du trône de dieu, de la cour céleste et de l'agneau”</figcaption></figure>
-<p><sup>07</sup>
-Le premier vivant ressemble à un <span style="color: #e6a64d;">lion</span>, le deuxième vivant ressemble à un <span style="color: #e6a64d;">jeune taureau</span>, le troisième vivant a comme un <span style="color: #e6a64d;">visage d’homme</span>, le quatrième vivant ressemble à un <span style="color: #e6a64d;">aigle</span> en plein vol.<br>
-<sup>08</sup>
-Les quatre vivants ont chacun <span style="color: #e6a64d;">six ailes</span>, avec des yeux innombrables tout autour et au-dedans.
-Jour et nuit, ils ne cessent de dire: «Saint! saint! saint, le seigneur dieu, le souverain de l’univers, celui qui était, qui est et qui vient.» <span style="color: #999;">(…)</span><br>
-<sup>chap.5</sup><br>
-<sup>01</sup>
-«J’ai vu, dans la main droite de celui qui siège sur le trône, un <span style="color: #e6a64d;">livre</span> en forme de rouleau, écrit au-dedans et à l’extérieur, scellé de <span style="color: #e6a64d;">sept sceaux</span>.» <span style="color: #999;">(…)</span><br>
-<sup>06</sup>
-«Et j’ai vu, entre le trône, les quatre vivants et les anciens, un <span style="color: #e6a64d;">agneau debout</span>, comme égorgé; ses cornes étaient au nombre de sept, ainsi que ses yeux, qui sont les sept esprits de dieu envoyés sur toute la terre.<br>
-<sup>07</sup>
-Il s’avança et prit le livre dans la main droite de celui qui siégeait sur le trône.» <span style="color: #999;">(…)</span><br>
-Le récit se poursuit entre l'arc-en-ciel et Jean.<br>
-<sup>chap.6</sup><br>
-<sup>01</sup>
-Alors j’ai vu: quand l’agneau ouvrit l’un des sept sceaux, j’entendis l’un des quatre vivants dire d’une voix de tonnerre: «Viens!»</p>
-<p>
-</p></div>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>07</sup></td>
+<td>Le premier vivant ressemble à un <span style="color: #e6a64d;">lion</span>, le deuxième vivant ressemble à un <span style="color: #e6a64d;">jeune taureau</span>, le troisième vivant a comme un <span style="color: #e6a64d;">visage d’homme</span>, le quatrième vivant ressemble à un <span style="color: #e6a64d;">aigle</span> en plein vol.</td></tr>
+<tr><td><sup>08</sup></td>
+<td>Les quatre vivants ont chacun <span style="color: #e6a64d;">six ailes</span>, avec des yeux innombrables tout autour et au-dedans.
+Jour et nuit, ils ne cessent de dire: «Saint! saint! saint, le seigneur dieu, le souverain de l’univers, celui qui était, qui est et qui vient.» <span style="color: #999;">(…)</span></td></tr>
+<tr><td></td><td><sup>chap.5</sup></td></tr>
+<tr><td><sup>01</sup></td>
+<td>«J’ai vu, dans la main droite de celui qui siège sur le trône, un <span style="color: #e6a64d;">livre</span> en forme de rouleau, écrit au-dedans et à l’extérieur, scellé de <span style="color: #e6a64d;">sept sceaux</span>.» <span style="color: #999;">(…)</span></td></tr>
+<tr><td><sup>06</sup></td>
+<td>«Et j’ai vu, entre le trône, les quatre vivants et les anciens, un <span style="color: #e6a64d;">agneau debout</span>, comme égorgé; ses cornes étaient au nombre de sept, ainsi que ses yeux, qui sont les sept esprits de dieu envoyés sur toute la terre.</td></tr>
+<tr><td><sup>07</sup></td>
+<td>Il s’avança et prit le livre dans la main droite de celui qui siégeait sur le trône.» <span style="color: #999;">(…)</span><br>
+Le récit se poursuit entre l'arc-en-ciel et Jean.</td></tr>
+<tr><td></td><td><sup>chap.6</sup></td></tr>
+<tr><td><sup>01</sup></td>
+<td>Alors j’ai vu: quand l’agneau ouvrit l’un des sept sceaux, j’entendis l’un des quatre vivants dire d’une voix de tonnerre: «Viens!»</td></tr>
+</tbody>
+</table>
+</div>
 
 <div class="footnotes">
 <hr>
@@ -1277,9 +1281,19 @@ Il exhorte à une réalité transcendante devant leurs permettre de surmonter no
 <!-- Page 11 --><hr>
 
 <div id="body-inner">
-<p><sup>chap.6</sup><br>
-<sup>02</sup>
-Alors j’ai vu: et voici un <span style="color: #e6a64d;">cheval blanc</span>; celui qui le montait tenait un <span style="color: #e6a64d;">arc</span>, une <span style="color: #e6a64d;">couronne</span> lui fut donnée, et il sortit vainqueur, pour vaincre à nouveau.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td></td><td><sup>chap.6</sup></td></tr>
+<tr><td><sup>02</sup></td>
+<td>Alors j’ai vu: et voici un <span style="color: #e6a64d;">cheval blanc</span>; celui qui le montait tenait un <span style="color: #e6a64d;">arc</span>, une <span style="color: #e6a64d;">couronne</span> lui fut donnée, et il sortit vainqueur, pour vaincre à nouveau.</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-380.webp 380w,
@@ -1298,10 +1312,20 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1920.jpg 1920w"></picture><figcaption>détail du volet intérieur droit, “le cheval blanc”.<br>
 «celui qui le montait tenait un arc, une couronne lui fut donnée, et il sortit vainqueur, pour vaincre à nouveau» (Apocalypse 4.2)</figcaption></figure>
-<p><sup>03</sup>
-Et quand il ouvrit le deuxième sceau, j’entendis le deuxième vivant qui disait: «Viens!»
-<sup>04</sup>
-Alors sortit un autre <span style="color: #e6a64d;">cheval</span>, <span style="color: #e6a64d;">rouge feu</span>; à celui qui le montait il fut donné d’enlever la paix à la terre, pour que les gens s’entretuent, et une grande <span style="color: #e6a64d;">épée</span> lui fut donnée.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>03</sup></td>
+<td>Et quand il ouvrit le deuxième sceau, j’entendis le deuxième vivant qui disait: «Viens!»</td></tr>
+<tr><td><sup>04</sup></td>
+<td>Alors sortit un autre <span style="color: #e6a64d;">cheval</span>, <span style="color: #e6a64d;">rouge feu</span>; à celui qui le montait il fut donné d’enlever la paix à la terre, pour que les gens s’entretuent, et une grande <span style="color: #e6a64d;">épée</span> lui fut donnée.</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-380.webp 380w,
@@ -1320,12 +1344,22 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1920.jpg 1920w"></picture><figcaption>détail du volet intérieur droit, “le cheval rouge feu”.<br>
 «celui qui le montait il fut donné d’enlever la paix à la terre, pour que les gens s’entretuent, et une grande épée lui fut donnée» (Apocalypse 4.4)</figcaption></figure>
-<p><sup>05</sup>
-Et quand il ouvrit le troisième sceau, j’entendis le troisième vivant qui disait: «Viens!»
-Alors j’ai vu: et voici un <span style="color: #e6a64d;">cheval noir</span>; celui qui le montait tenait à la main une <span style="color: #e6a64d;">balance</span>.
-<sup>06</sup>
-Et j’entendis comme une voix au milieu des quatre vivants; elle disait: «Un denier, la mesure de blé!
-Un denier, les trois mesures d’orge! Ne fraude pas sur l’huile et sur le vin!»</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>05</sup></td>
+<td>Et quand il ouvrit le troisième sceau, j’entendis le troisième vivant qui disait: «<cite>Viens!</cite>»
+Alors j’ai vu: et voici un <span style="color: #e6a64d;">cheval noir</span>; celui qui le montait tenait à la main une <span style="color: #e6a64d;">balance</span>.</td></tr>
+<tr><td><sup>06</td>
+<td>Et j’entendis comme une voix au milieu des quatre vivants; elle disait: «<cite>Un denier, la mesure de blé!
+Un denier, les trois mesures d’orge! Ne fraude pas sur l’huile et sur le vin!</cite>»</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-380.webp 380w,
@@ -1343,11 +1377,21 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1920.jpg 1920w"></picture><figcaption>détail du volet intérieur droit, “le cheval noir”.<br>«celui qui le montait tenait à la main une balance» (Apocalypse 4.5)</figcaption></figure>
-<p><sup>07</sup>
-Et quand il ouvrit le quatrième sceau, j’entendis la voix du quatrième vivant qui disait: «Viens!»
-<sup>08</sup>
-Alors j’ai vu: et voici un <span style="color: #e6a64d;">cheval verdâtre</span>; celui qui le montait se nomme <span style="color: #e6a64d;">la mort</span>, et le <span style="color: #e6a64d;">séjour des morts</span> l’accompagnait.
-Et il leur fut donné pouvoir sur un quart de la terre pour tuer par le glaive, par la famine et par la peste, et par les fauves de la terre. <span style="color: #999;">(…)</span></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>07</sup></td>
+<td>Et quand il ouvrit le quatrième sceau, j’entendis la voix du quatrième vivant qui disait: «Viens!»</td></tr>
+<tr><td><sup>08</sup></td>
+<td>Alors j’ai vu: et voici un <span style="color: #e6a64d;">cheval verdâtre</span>; celui qui le montait se nomme <span style="color: #e6a64d;">la mort</span>, et le <span style="color: #e6a64d;">séjour des morts</span> l’accompagnait.
+Et il leur fut donné pouvoir sur un quart de la terre pour tuer par le glaive, par la famine et par la peste, et par les fauves de la terre. <span style="color: #999;">(…)</span></td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-380.webp 380w,
@@ -1365,14 +1409,24 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-1920.jpg 1920w"></picture><figcaption>détail du volet intérieur droit, “le cheval verdâtre, la mort, le séjour des morts”.<br>«celui qui le montait se nomme la mort, et le séjour des morts l’accompagnait» (Apocalypse 4.5)</figcaption></figure>
-<p><sup>14</sup>
-Le ciel se retira comme un livre qu’on referme; toutes les montagnes et les îles furent déplacées.<br>
-<sup>15</sup>
-<span style="color: #e6a64d;">Les rois de la terre et les grands, les chefs d’armée, les riches et les puissants, tous les esclaves et les hommes libres allèrent se cacher dans les cavernes et les rochers des montagnes</span>.<br>
-<sup>16</sup>
-Et ils disaient aux montagnes et aux rochers: «Tombez sur nous, et cachez-nous du regard de celui qui siège sur le trône et aussi de la colère de l’agneau.<br>
-<sup>17</sup>
-Car il est venu, le grand jour de leur colère, et qui pourrait tenir?»</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>14</sup></td>
+<td>Le ciel se retira comme un livre qu’on referme; toutes les montagnes et les îles furent déplacées.</td></tr>
+<tr><td><sup>15</sup></td>
+<td><span style="color: #e6a64d;">Les rois de la terre et les grands, les chefs d’armée, les riches et les puissants, tous les esclaves et les hommes libres allèrent se cacher dans les cavernes et les rochers des montagnes</span>.<br></td></tr>
+<tr><td><sup>16</sup></td>
+<td>Et ils disaient aux montagnes et aux rochers: «Tombez sur nous, et cachez-nous du regard de celui qui siège sur le trône et aussi de la colère de l’agneau.<br></td></tr>
+<tr><td><sup>17</sup></td>
+<td>Car il est venu, le grand jour de leur colère, et qui pourrait tenir?»</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-380.webp 380w,
@@ -1395,11 +1449,21 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <!-- Page 12 --><hr>
 
 <div id="body-inner">
-				<p><sup>chap.8</sup><br>
-<sup>01</sup>
-Quand il ouvrit le septième sceau, il y eut dans le ciel un silence d’environ une demi-heure.<br>
-<sup>02</sup>
-Et j’ai vu les <span style="color: #e6a64d;">sept anges</span> qui se tiennent devant dieu: il leur fut donné <span style="color: #e6a64d;">sept trompettes</span>.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>chap.8</sup></td></tr>
+<tr><td><sup>01</sup></td>
+<td>Quand il ouvrit le septième sceau, il y eut dans le ciel un silence d’environ une demi-heure.<br></td></tr>
+<tr><td><sup>02</sup></td>
+<td>Et j’ai vu les <span style="color: #e6a64d;">sept anges</span> qui se tiennent devant dieu: il leur fut donné <span style="color: #e6a64d;">sept trompettes</span>.</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-380.webp 380w,
@@ -1417,8 +1481,18 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-1920.jpg 1920w"></picture><figcaption>détail du volet intérieur droit, “les anges du septième sceau”</figcaption></figure>
-<p><sup>03</sup>
-Un autre ange vint se placer près de l’autel; il portait un <span style="color: #e6a64d;">encensoir d’or</span>; il lui fut donné quantité de parfums pour les offrir, avec les prières de tous les saints, sur <span style="color: #e6a64d;">l’autel d’or</span> qui est devant le trône.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>03</sup></td>
+<td>Un autre ange vint se placer près de l’autel; il portait un <span style="color: #e6a64d;">encensoir d’or</span>; il lui fut donné quantité de parfums pour les offrir, avec les prières de tous les saints, sur <span style="color: #e6a64d;">l’autel d’or</span> qui est devant le trône.</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-380.webp 380w,
@@ -1436,18 +1510,28 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1920.jpg 1920w"></picture><figcaption>détail du volet intérieur droit, “l'ange de l'autel”</figcaption></figure>
-<p><sup>04</sup>
-Et par la main de l’ange monta devant dieu la fumée des parfums, avec les prières des saints.<br>
-<sup>05</sup>
-Puis l’ange prit l’encensoir et le remplit du feu de l’autel; il le jeta sur la terre: il y eut des coups de tonnerre, des fracas, des éclairs et un tremblement de terre.</p>
-<p><sup>06</sup>
-Puis les sept anges qui avaient les sept trompettes se préparèrent à en sonner.<br>
-<sup>07</sup>
-Le premier sonna de la trompette: il y eut de la grêle et du feu mêlés de sang, qui furent jetés sur la terre, et le tiers de la terre brûla, le tiers des arbres brûlèrent, toute l’herbe verte brûla.<br>
-<sup>08</sup>
-Le deuxième ange sonna de la trompette: dans la mer fut jetée comme <span style="color: #e6a64d;">une grande montagne embrasée</span>, et le tiers de la mer fut changé en sang;
-<sup>09</sup>
-dans la mer, le tiers des créatures vivantes mourut, et <span style="color: #e6a64d;">le tiers des bateaux fut détruit</span>.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>04</sup></td>
+<td>Et par la main de l’ange monta devant dieu la fumée des parfums, avec les prières des saints.<br></td></tr>
+<tr><td><sup>05</sup></td>
+<td>Puis l’ange prit l’encensoir et le remplit du feu de l’autel; il le jeta sur la terre: il y eut des coups de tonnerre, des fracas, des éclairs et un tremblement de terre.</td></tr>
+<tr><td><sup>06</sup></td>
+<td>Puis les sept anges qui avaient les sept trompettes se préparèrent à en sonner.<br></td></tr>
+<tr><td><sup>07</sup></td>
+<td>Le premier sonna de la trompette: il y eut de la grêle et du feu mêlés de sang, qui furent jetés sur la terre, et le tiers de la terre brûla, le tiers des arbres brûlèrent, toute l’herbe verte brûla.<br></td></tr>
+<tr><td><sup>08</sup></td>
+<td>Le deuxième ange sonna de la trompette: dans la mer fut jetée comme <span style="color: #e6a64d;">une grande montagne embrasée</span>, et le tiers de la mer fut changé en sang;</td></tr>
+<tr><td><sup>09</sup></td>
+<td>dans la mer, le tiers des créatures vivantes mourut, et <span style="color: #e6a64d;">le tiers des bateaux fut détruit</span>.</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-380.webp 380w,
@@ -1465,12 +1549,22 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1920.jpg 1920w"></picture><figcaption>détail du volet intérieur droit, “chute de la grande montagne embrasée, le tiers des bateaux détruits”</figcaption></figure>
-<p><sup>10</sup>
-Le troisième ange sonna de la trompette: du ciel tomba <span style="color: #e6a64d;">une grande étoile qui flambait comme une torche</span>; elle tomba sur le tiers des fleuves et sur les sources des eaux.<br>
-<sup>11</sup>
-L’étoile se nomme «<span style="color: #e6a64d;">absinthe</span>», et le tiers des eaux devint de l’absinthe: beaucoup de gens moururent à cause des eaux devenues amères.<br>
-<sup>12</sup>
-Le quatrième ange sonna de la trompette: le tiers du soleil fut frappé, et le tiers de la lune et le tiers des étoiles; ainsi chacun d’entre eux fut obscurci d’un tiers, le jour perdit le tiers de sa clarté et, de même, la nuit.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>10</sup></td>
+<td>Le troisième ange sonna de la trompette: du ciel tomba <span style="color: #e6a64d;">une grande étoile qui flambait comme une torche</span>; elle tomba sur le tiers des fleuves et sur les sources des eaux.<br></td></tr>
+<tr><td><sup>11</sup></td>
+<td>L’étoile se nomme «<span style="color: #e6a64d;">absinthe</span>», et le tiers des eaux devint de l’absinthe: beaucoup de gens moururent à cause des eaux devenues amères.</td></tr>
+<tr><td><sup>12</sup></td>
+<td>Le quatrième ange sonna de la trompette: le tiers du soleil fut frappé, et le tiers de la lune et le tiers des étoiles; ainsi chacun d’entre eux fut obscurci d’un tiers, le jour perdit le tiers de sa clarté et, de même, la nuit.</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-380.webp 380w,
@@ -1488,8 +1582,18 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1920.jpg 1920w"></picture><figcaption>détail du volet intérieur droit, “la chute de l'étoile «absinthe»”.<br>«du ciel tomba une grande étoile qui flambait comme une torche» (…) «le tiers des eaux devint de l’absinthe: beaucoup de gens moururent à cause des eaux devenues amères»</figcaption></figure>
-<p><sup>13</sup>
-Alors j’ai vu: et j’entendis <span style="color: #e6a64d;">un aigle</span> qui volait en plein ciel, disant d’une voix forte: «Malheur! Malheur! Malheur pour ceux qui habitent la terre, car la trompette, encore, doit retentir quand les trois anges sonneront!».</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>13</sup></td>
+<td>Alors j’ai vu: et j’entendis <span style="color: #e6a64d;">un aigle</span> qui volait en plein ciel, disant d’une voix forte: «Malheur! Malheur! Malheur pour ceux qui habitent la terre, car la trompette, encore, doit retentir quand les trois anges sonneront!».</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-380.webp 380w,
@@ -1512,19 +1616,29 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <!-- Page 13 --><hr>
 
 <div id="body-inner">
-<p><sup>chap.9</sup><br>
-<sup>01</sup>
-Le cinquième ange sonna de la trompette, et j’ai vu une étoile qui était tombée du ciel sur la terre: c’est à elle que fut donnée la clé du <span style="color: #e6a64d;">puits de l’abîme</span>.<br>
-<sup>02</sup>
-Elle ouvrit le puits de l’abîme, et du puits monta <span style="color: #e6a64d;">une fumée comme celle d’une grande fournaise</span>; le soleil et l’air furent obscurcis par la fumée du puits,<br>
-<sup>03</sup>
-Et de la fumée sortirent vers la terre des <span style="color: #e6a64d;">sauterelles</span>; un pouvoir leur fut donné, pareil au pouvoir des scorpions de la terre.<br>
-<sup>04</sup>
-Il leur fut dit de ne pas faire de mal à l’herbe de la terre, ni à la verdure, ni à aucun arbre, mais seulement aux hommes, ceux qui n’ont pas sur le front la marque du sceau de dieu.<br>
-<sup>05</sup>
-Il leur fut donné, non pas de les tuer, mais de les tourmenter pendant cinq mois d’un tourment comme celui qu’inflige le scorpion quand il pique un homme.<br>
-<sup>06</sup>
-En ces jours-là, les hommes chercheront la mort et ne la trouveront pas; ils désireront mourir et la mort les fuira.  </p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td></td><td><sup>chap.9</sup></td></tr>
+<tr><td><sup>01</sup></td>
+<td>Le cinquième ange sonna de la trompette, et j’ai vu une étoile qui était tombée du ciel sur la terre: c’est à elle que fut donnée la clé du <span style="color: #e6a64d;">puits de l’abîme</span>.<br></td></tr>
+<tr><td><sup>02</sup></td>
+<td>Elle ouvrit le puits de l’abîme, et du puits monta <span style="color: #e6a64d;">une fumée comme celle d’une grande fournaise</span>; le soleil et l’air furent obscurcis par la fumée du puits,<br></td></tr>
+<tr><td><sup>03</sup></td>
+<td>Et de la fumée sortirent vers la terre des <span style="color: #e6a64d;">sauterelles</span>; un pouvoir leur fut donné, pareil au pouvoir des scorpions de la terre.<br></td></tr>
+<tr><td><sup>04</sup></td>
+<td>Il leur fut dit de ne pas faire de mal à l’herbe de la terre, ni à la verdure, ni à aucun arbre, mais seulement aux hommes, ceux qui n’ont pas sur le front la marque du sceau de dieu.<br></td></tr>
+<tr><td><sup>05</sup></td>
+<td>Il leur fut donné, non pas de les tuer, mais de les tourmenter pendant cinq mois d’un tourment comme celui qu’inflige le scorpion quand il pique un homme.<br></td></tr>
+<tr><td><sup>06</sup></td>
+<td>En ces jours-là, les hommes chercheront la mort et ne la trouveront pas; ils désireront mourir et la mort les fuira.</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-380.webp 380w,
@@ -1542,23 +1656,33 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1920.jpg 1920w"></picture><figcaption>détail du volet intérieur droit, “la sortie vers la terre des sauterelles”</figcaption></figure>
-<p><sup>07</sup>
-Ces sortes de <span style="color: #e6a64d;">sauterelles</span> ressemblent à des chevaux équipés pour la guerre; elles ont comme des couronnes d’or sur la tête, et un visage comme un visage humain,<br>
-<sup>08</sup>
-Elles ont des cheveux comme des cheveux de femmes, leurs dents sont comme celles des lions.<br>
-<sup>09</sup>
-Elles ont des poitrails comme des cuirasses de fer, et le bruit de leurs ailes est comme celui de chars à plusieurs chevaux courant au combat.<br>
-<sup>10</sup>
-Elles ont des queues comme des scorpions, et des dards venimeux.
-Dans leur queue se trouve le pouvoir de faire du mal aux hommes pendant cinq mois.<br>
-<sup>11</sup>
-Elles ont comme roi l’ange de l’abîme; il se nomme en hébreu Abaddôn et en grec Apollyôn (c’est-à-dire: Destructeur). <span style="color: #999;">(…)</span><br>
-<sup>chap.10</sup><br>
-<sup>01</sup>
-Et j’ai vu un autre <span style="color: #e6a64d;">ange</span>, plein de force, descendre du ciel, ayant <span style="color: #e6a64d;">une nuée pour manteau</span>, et sur la tête <span style="color: #e6a64d;">un arc-en-ciel</span>; son visage était comme <span style="color: #e6a64d;">le soleil</span>, et ses jambes comme <span style="color: #e6a64d;">des colonnes de feu</span>.<br>
-<sup>02</sup>
-Il tenait à la main <span style="color: #e6a64d;">un petit livre ouvert</span>.
-Il posa le pied droit sur la mer, et le gauche sur la terre;</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>07</sup></td>
+<td>Ces sortes de <span style="color: #e6a64d;">sauterelles</span> ressemblent à des chevaux équipés pour la guerre; elles ont comme des couronnes d’or sur la tête, et un visage comme un visage humain,<br></td></tr>
+<tr><td><sup>08</sup></td>
+<td>Elles ont des cheveux comme des cheveux de femmes, leurs dents sont comme celles des lions.<br></td></tr>
+<tr><td><sup>09</sup></td>
+<td>Elles ont des poitrails comme des cuirasses de fer, et le bruit de leurs ailes est comme celui de chars à plusieurs chevaux courant au combat.<br></td></tr>
+<tr><td><sup>10</sup></td>
+<td>Elles ont des queues comme des scorpions, et des dards venimeux.
+Dans leur queue se trouve le pouvoir de faire du mal aux hommes pendant cinq mois.<br></td></tr>
+<tr><td><sup>11</sup></td>
+<td>Elles ont comme roi l’ange de l’abîme; il se nomme en hébreu Abaddôn et en grec Apollyôn (c’est-à-dire: Destructeur). <span style="color: #999;">(…)</span><br></td></tr>
+<tr><td></td><td><sup>chap.10</sup></td></tr>
+<tr><td><sup>01</sup></td>
+<td>Et j’ai vu un autre <span style="color: #e6a64d;">ange</span>, plein de force, descendre du ciel, ayant <span style="color: #e6a64d;">une nuée pour manteau</span>, et sur la tête <span style="color: #e6a64d;">un arc-en-ciel</span>; son visage était comme <span style="color: #e6a64d;">le soleil</span>, et ses jambes comme <span style="color: #e6a64d;">des colonnes de feu</span>.<br></td></tr>
+<tr><td><sup>02</sup></td>
+<td>Il tenait à la main <span style="color: #e6a64d;">un petit livre ouvert</span>.
+Il posa le pied droit sur la mer, et le gauche sur la terre;</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-380.webp 380w,
@@ -1576,15 +1700,25 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1920.jpg 1920w"></picture><figcaption>détail du volet intérieur droit, “l'ange descendu du ciel”<br>«une nuée pour manteau, et sur la tête un arc-en-ciel; son visage était comme le soleil, et ses jambes comme des colonnes de feu. Il tenait à la main un petit livre ouvert. Il posa le pied droit sur la mer, et le gauche sur la terre» (Apocalypse 10.1-2)</figcaption></figure>
-<p><sup>03</sup>
-il cria d’une voix forte, comme un lion qui rugit.
-Et quand il cria, les sept tonnerres parlèrent, faisant résonner leur voix.<br>
-<sup>04</sup>
-Et quand les sept tonnerres eurent parlé, j’allais me mettre à écrire; mais j’entendis une voix venant du ciel qui disait: «Ce que viennent de dire les sept tonnerres, garde-le scellé, ne l’écris pas!»<br>
-<sup>05</sup>
-Et l’ange que j’avais vu debout sur la mer et sur la terre leva la main droite vers le ciel;
-<sup>06</sup>
-il fit un serment par celui qui est vivant pour les siècles des siècles, celui qui a créé le ciel et tout ce qu’il contient, la terre et tout ce qu’elle contient, la mer et tout ce qu’elle contient. Il déclara: «Du temps, il n’y en aura plus!»</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>03</sup></td>
+<td>il cria d’une voix forte, comme un lion qui rugit.
+Et quand il cria, les sept tonnerres parlèrent, faisant résonner leur voix.<br></td></tr>
+<tr><td><sup>04</sup></td>
+<td>Et quand les sept tonnerres eurent parlé, j’allais me mettre à écrire; mais j’entendis une voix venant du ciel qui disait: «Ce que viennent de dire les sept tonnerres, garde-le scellé, ne l’écris pas!»<br></td></tr>
+<tr><td><sup>05</sup></td>
+<td>Et l’ange que j’avais vu debout sur la mer et sur la terre leva la main droite vers le ciel;</td></tr>
+<tr><td><sup>06</sup></td>
+<td>il fit un serment par celui qui est vivant pour les siècles des siècles, celui qui a créé le ciel et tout ce qu’il contient, la terre et tout ce qu’elle contient, la mer et tout ce qu’elle contient. Il déclara: «Du temps, il n’y en aura plus!»</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-380.webp 380w,
@@ -1602,15 +1736,25 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1920.jpg 1920w"></picture><figcaption>détail du volet intérieur droit, “le ciel de l'Apocalypse” (Apocalypse 12)</figcaption></figure>
-<p><sup>chap.12</sup><br>
-<sup>01</sup>
-Un grand signe apparut dans le ciel: <span style="color: #e6a64d;">une femme</span>, ayant le soleil pour manteau, la lune sous les pieds, et sur la tête une couronne de douze étoiles.<br>
-<sup>02</sup>
-Elle est enceinte, elle crie, dans les douleurs et la torture d’un enfantement.<br>
-<sup>03</sup>
-Un autre signe apparut dans le ciel: <span style="color: #e6a64d;">un grand dragon</span>, rouge feu, avec sept têtes et dix cornes, et, sur chacune des sept têtes, un diadème.<br>
-<sup>04</sup>
-Sa queue, entraînant le tiers des étoiles du ciel, les précipita sur la terre. Le dragon vint se poster devant la femme qui allait enfanter, afin de dévorer l’enfant dès sa naissance.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td></td><td><sup>chap.12</sup></td></tr>
+<tr><td><sup>01</sup></td>
+<td>Un grand signe apparut dans le ciel: <span style="color: #e6a64d;">une femme</span>, ayant le soleil pour manteau, la lune sous les pieds, et sur la tête une couronne de douze étoiles.<br></td></tr>
+<tr><td><sup>02</sup></td>
+<td>Elle est enceinte, elle crie, dans les douleurs et la torture d’un enfantement.<br></td></tr>
+<tr><td><sup>03</sup></td>
+<td>Un autre signe apparut dans le ciel: <span style="color: #e6a64d;">un grand dragon</span>, rouge feu, avec sept têtes et dix cornes, et, sur chacune des sept têtes, un diadème.<br></td></tr>
+<tr><td><sup>04</sup></td>
+<td>Sa queue, entraînant le tiers des étoiles du ciel, les précipita sur la terre. Le dragon vint se poster devant la femme qui allait enfanter, afin de dévorer l’enfant dès sa naissance.</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-380.webp 380w,
@@ -1628,18 +1772,28 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1920.jpg 1920w"></picture><figcaption>détail du volet intérieur droit, “la femme et le dragon” (Apocalypse 12.1-5)</figcaption></figure>
-<p><sup>05</sup>
-Or, elle mit au monde un fils, un enfant mâle, celui qui sera le berger de toutes les nations, les conduisant avec un sceptre de fer. L’enfant fut enlevé jusqu’auprès de dieu et de son trône,
-<sup>06</sup>
-et la femme s’enfuit au désert, où dieu lui a préparé une place, pour qu’elle y soit nourrie pendant mille deux cent soixante jours.<br>
-<sup>07</sup>
-Il y eut alors un combat dans le ciel: Michel, avec ses anges, dut combattre le dragon.
-Le dragon, lui aussi, combattait avec ses anges,
-<sup>08</sup>
-mais il ne fut pas le plus fort; pour eux désormais, nulle place dans le ciel.<br>
-<sup>09</sup>
-Oui, il fut rejeté, le grand dragon, le serpent des origines, celui qu’on nomme diable et Satan, le séducteur du monde entier.
-Il fut jeté sur la terre, et ses anges furent jetés avec lui.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>05</sup></td>
+<td>Or, elle mit au monde un fils, un enfant mâle, celui qui sera le berger de toutes les nations, les conduisant avec un sceptre de fer. L’enfant fut enlevé jusqu’auprès de dieu et de son trône,</td></tr>
+<tr><td><sup>06</sup></td>
+<td>et la femme s’enfuit au désert, où dieu lui a préparé une place, pour qu’elle y soit nourrie pendant mille deux cent soixante jours.<br></td></tr>
+<tr><td><sup>07</sup></td>
+<td>Il y eut alors un combat dans le ciel: Michel, avec ses anges, dut combattre le dragon.
+Le dragon, lui aussi, combattait avec ses anges,</td></tr>
+<tr><td><sup>08</sup></td>
+<td>mais il ne fut pas le plus fort; pour eux désormais, nulle place dans le ciel.<br></td></tr>
+<tr><td><sup>09</sup></td>
+<td>Oui, il fut rejeté, le grand dragon, le serpent des origines, celui qu’on nomme diable et Satan, le séducteur du monde entier.
+Il fut jeté sur la terre, et ses anges furent jetés avec lui.</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-380.webp 380w,
@@ -1662,18 +1816,28 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <!-- Page 14 --><hr>
 
 <div id="body-inner">
-<p><sup>10</sup>
-Alors j’entendis dans le ciel une voix forte, qui proclamait: «Maintenant voici le salut, la puissance et le règne de notre dieu, voici le pouvoir de son christ!
-Car il est rejeté, l’accusateur de nos frères, lui qui les accusait, jour et nuit, devant notre dieu.<br>
-<sup>11</sup>
-Eux-mêmes l’ont vaincu par le sang de l’agneau, par la parole dont ils furent les témoins; détachés de leur propre vie, ils sont allés jusqu’à mourir.<br>
-<sup>12</sup>
-Cieux, soyez donc dans la joie, et vous qui avez aux cieux votre demeure!
-Malheur à la terre et à la mer: le diable est descendu vers vous, plein d’une grande fureur; il sait qu’il lui reste peu de temps.»<br>
-<sup>13</sup>
-Et quand le <span style="color: #e6a64d;">dragon</span> vit qu’il était jeté sur la terre, il se mit à poursuivre la <span style="color: #e6a64d;">femme</span> qui avait mis au monde l’enfant mâle.<br>
-<sup>14</sup>
-Alors furent données à la femme les <span style="color: #e6a64d;">deux ailes du grand aigle</span> pour qu’elle s’envole au désert, à la place où elle doit être nourrie pour un temps, deux temps et la moitié d’un temps, loin de la présence du Serpent.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>10</sup></td>
+<td>Alors j’entendis dans le ciel une voix forte, qui proclamait: «Maintenant voici le salut, la puissance et le règne de notre dieu, voici le pouvoir de son christ!
+Car il est rejeté, l’accusateur de nos frères, lui qui les accusait, jour et nuit, devant notre dieu.<br></td></tr>
+<tr><td><sup>11</sup></td>
+<td>Eux-mêmes l’ont vaincu par le sang de l’agneau, par la parole dont ils furent les témoins; détachés de leur propre vie, ils sont allés jusqu’à mourir.<br></td></tr>
+<tr><td><sup>12</sup></td>
+<td>Cieux, soyez donc dans la joie, et vous qui avez aux cieux votre demeure!
+Malheur à la terre et à la mer: le diable est descendu vers vous, plein d’une grande fureur; il sait qu’il lui reste peu de temps.»<br></td></tr>
+<tr><td><sup>13</sup></td>
+<td>Et quand le <span style="color: #e6a64d;">dragon</span> vit qu’il était jeté sur la terre, il se mit à poursuivre la <span style="color: #e6a64d;">femme</span> qui avait mis au monde l’enfant mâle.<br></td></tr>
+<tr><td><sup>14</sup></td>
+<td>Alors furent données à la femme les <span style="color: #e6a64d;">deux ailes du grand aigle</span> pour qu’elle s’envole au désert, à la place où elle doit être nourrie pour un temps, deux temps et la moitié d’un temps, loin de la présence du Serpent.</td></tr>
+</tbody>
+</table>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-380.webp 380w,
@@ -2471,7 +2635,6 @@ Alors des anges prirent son corps, <a href="#note_sinai" title="l'emportèrent j
 De ses ossements s'écoule sans cesse de l'huile qui guérit les corps de tous les malades.</p
 <p>Elle souffrit sous le tyran Maxence ou <a href="#note_maximinus" title="Maximin" id="maximinus" class="yellow">Maximin</a>, qui commença à régner vers l'an du Seigneur 310.<br>
 On peut trouver dans le récit sur l'Inventin de la Croix la façon dont Maxence fut puni pour ce crime et pour les autres qu'il avait commis.</p>
-<p><br></p>
 <p>On rapporte qu'un moine de <a href="#note_rouen" title="Rothomagus" id="rouen" class="yellow">Rothomagus</a> se rendit au mont Sinaï et qu'il demeura là pendant sept ans en se vouant au service de <span style="color: #df8f20;">sainte Catherne</span>.<br>
 Comme il lui demandait avec beaucoup d'ardeur de mériter de posséder quelque fragment de son corps, aussitôt une phalange se détacha d'un de ses doigts.<br>
 Tout heureux, il reçut ce don de Dieu et l'emporta vers son monastère.</p>
@@ -2483,7 +2646,6 @@ Comme il admirait fort son éclat
 et demandait qui elle était, l'une des vierges lui répondit:<br>
 <span style="color: #577575;">«C'est Catherine, que tu connaissais bien jadis;
 elle est passée devant toi avec la face voilée, parce qu'elle t'était désormais inconnue.»</span></p>
-<p><br></p>
 <p>Il faut relever que <span style="color: #df8f20;">sainte Catherine</span> manifeste son caractère admirable par cinq qualités:
 <span style="color: #936c93;">la sagesse</span>, <span style="color: #936c93;">l'éloquence</span>, <span style="color: #936c93;">la constance</span>, <span style="color: #936c93;">la pureté de sa chasteté</span>, <span style="color: #936c93;">le privilège de sa dignité</span>.</p>
 <p>En <span style="color: #936c93;">premier lieu</span>, elle manifeste son caractère admirable par sa <span style="color: #936c93;">sagesse</span>.<br>
@@ -2578,7 +2740,6 @@ certains privilèges particuliers se manifestent chez quelques saints au moment 
 <li>l'efficacité des demandes d'intercession pour sainte Marguerite <span style="color: #ccc;">(chapître 88 de la Légende Dorée)</span>, quand elle pria pour ceux qui entretiendraient sa mémoire.</li>
 </ul>
 <p>Or tous ces privilèges se trouvèrent réunis en <span style="color: #df8f20;">sainte Catherine</span>, comme le montre sa légende.</p>
-<p><br></p>
 <p>On remarque une hésitation chez certains auteurs:
 fut-elle martyrisée sous Maxence ou sous Maximin?<br>
 À cette époque trois hommes gouvernaient l'Empire: </p>
@@ -2589,9 +2750,7 @@ fut-elle martyrisée sous Maxence ou sous Maximin?<br>
 </ul>
 <p>D'après les chroniques, Maxence exerçait sa tyrannie contre les chrétiens à Rome et Maximin en Orient.</p>
 <p>Il semble donc à certains auteurs que c'est par l'erreur d'un copiste que Maxence a été mis à la place de Maximin.
-<span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"></path></svg></span></p>
-<p>
-</p></div>
+<span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"></path></svg></span></p></div>
 
 <div id="body-inner">
 <h3 id="note_rouen" class="yellow">Rothomagus</h3>
@@ -3110,7 +3269,7 @@ et la chargea de chaînes.<br>
 Il l'enferma dans un cachot
 et y mit des gardes,
 et il s'en alla prévenir de tout ce qui s'était passé le proconsul <a href="#note_marcien" title="Marcien" id="marcien" class="yellow">Marcien</a>.<br>
-Le proconsul voulut que <span style="color: #994c3d;">Barbe</span> fût amenée devant lui.<br
+Le proconsul voulut que <span style="color: #994c3d;">Barbe</span> fût amenée devant lui.<br>
 Quand il la vit, il fut frappé de sa grande beauté, et il lui dit:</p>
 <table>
 <thead>
@@ -3341,12 +3500,9 @@ La femme réclamait à grands cris un jugement, et les juges s'étant réunis et
 alors il se présenta quelqu'un que personne ne connaissait, et qui, ayant demandé la parole, prouva, par des raisons pertinentes et irrécusables, que le soldat n'était point coupable et que la sentence était injuste.<br>
 Et les juges le révoquèrent;
 et le soldat, rendu à la liberté , finit ses jours au service de <span style="color: #994c3d;">sainte Barbe</span>,
-et l'inconnu qui lui avait servi d'avocat disparut sans qu'on sût qui il était.</p>
-<p>
-</p></div>
+et l'inconnu qui lui avait servi d'avocat disparut sans qu'on sût qui il était.</p></div>
 
 <div id="body-inner">
-				<p></p>
 <h3 id="note_nicomedie" class="yellow">Nicomédie</h3>
 <div class="notices yellow">
 <p><a href="https://fr.wikipedia.org/wiki/Nicomédie" title="https://fr.wikipedia.org/wiki/Nicomédie"><ruby lang="fr">Nicomédie<rp>(</rp><rt lang="grc">Νικομήδεια</rt><rp>)</rp></ruby></a> est une ville d'Asie Mineure, capitale du royaume de <a href="https://fr.wikipedia.org/wiki/Bithynie" title="https://fr.wikipedia.org/wiki/Bithynie">Bithynie</a>. Elle se trouve aujourd’hui en Turquie et est appelée Izmit. Elle fut la capitale des empereurs <a href="https://fr.wikipedia.org/wiki/Dioclétien" title="https://fr.wikipedia.org/wiki/Dioclétien">Dioclétien</a> et <a href="https://fr.wikipedia.org/wiki/Constantin_Ier_(empereur_romain)" title="https://fr.wikipedia.org/wiki/Constantin_Ier_(empereur_romain)">Constantin</a>.<br>
@@ -3816,13 +3972,10 @@ Mais Aristodème ajouta:</p>
 </tbody>
 </table>
 <p>Le prêtre s'exécuta et les morts ressuscitèrent aussitôt.<br>
-Alors l'apôtre baptisa au nom du Christ le prêtre et le proconsul, qui se convertirent avec toute leur famille et firent ensuite construire une église en l'honneur de <span style="color: #994c3d;">saint Jean</span>.</p>
-<p>
-</p></div>
+Alors l'apôtre baptisa au nom du Christ le prêtre et le proconsul, qui se convertirent avec toute leur famille et firent ensuite construire une église en l'honneur de <span style="color: #994c3d;">saint Jean</span>.</p></div>
 
 <div id="body-inner">
-				<p></p>
-<h2 id="notes" class="yellow">　notes</h2>
+<h2 id="notes" class="yellow">notes</h2>
 <h3 id="note_nomdejean" class="yellow">nom de Jean</h3>
 <div class="notices yellow">
 <p>À propos du sens du nom de Jean en hébreu, voir aussi <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean">«le nom “jean”, son lien avec l'institution, son étymologie»</a>.<br>

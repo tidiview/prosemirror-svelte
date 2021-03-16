@@ -29,139 +29,172 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire
 https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-640.jpg 640w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x798.jpg 700w"></picture><figcaption>Diane de Poitiers représentée en Diane, déesse de la Chasse</figcaption></figure>
 <div class="notices green">
-<p>Ce portrait est une œuvre que <a href="https://fr.wikipedia.org/wiki/Le_Primatice" title="https://fr.wikipedia.org/wiki/Le_Primatice">Le Primatice</a>, peintre originaire de Bologne en Italie, invité par le roi <a href="https://fr.wikipedia.org/wiki/François_Ier_(roi_de_France)" title="https://fr.wikipedia.org/wiki/François_Ier_(roi_de_France)）">François I<sup>er</sup></a> puis devenu quasi ministre de la Culture de l'époque, a peint, en 1556, au <a href="https://fr.wikipedia.org/wiki/Château_de_Chenonceau" title="https://fr.wikipedia.org/wiki/Château_de_Chenonceau">Château de Chenonceau</a>.<br>
-En italien, la même personne est désignée par l'appellation 'Il Primaticcio'.<br>
+<p>Ce portrait est une œuvre que <a href="https://fr.wikipedia.org/wiki/Le_Primatice" title="https://fr.wikipedia.org/wiki/Le_Primatice">Le Primatice</a>, peintre originaire de Bologne en Italie, invité par le roi <a href="https://fr.wikipedia.org/wiki/François_Ier_(roi_de_France)" title="https://fr.wikipedia.org/wiki/François_Ier_(roi_de_France)">François I<sup>er</sup></a> puis devenu quasi ministre de la Culture de l'époque, a peint, en 1556, au <a href="https://fr.wikipedia.org/wiki/Château_de_Chenonceau" title="https://fr.wikipedia.org/wiki/Château_de_Chenonceau">Château de Chenonceau</a>.<br>
+En italien, la même personne est désignée par l'appellation “Il Primaticcio”.<br>
 L'image représente la favorite du roi <a href="https://fr.wikipedia.org/wiki/Henri_II_(roi_de_France)" title="https://fr.wikipedia.org/wiki/Henri_II_(roi_de_France)">Henri II</a>, fils ayant succédé à François Ier, <a href="https://fr.wikipedia.org/wiki/Diane_de_Poitiers" title="https://fr.wikipedia.org/wiki/Diane_de_Poitiers">Diane de Poitiers</a>.<br>
 Alors, à la cour du roi de France, elle est connue pour être d'une beauté exceptionnelle.<br>
-À l'époque, comme il y avait une mode pour le 'portrait paralèlle', ici, on ne représente pas directement la personne mais la déesse de la chasse connue pour avoir le même nom <a href="https://fr.wikipedia.org/wiki/Diane_(mythologie)" title="https://fr.wikipedia.org/wiki/Diane_(mythologie)">Diane</a>.<br>
+À l'époque, comme il y avait une mode pour le “portrait paralèlle”, ici, on ne représente pas directement la personne mais la déesse de la chasse connue pour avoir le même nom <a href="https://fr.wikipedia.org/wiki/Diane_(mythologie)" title="https://fr.wikipedia.org/wiki/Diane_(mythologie)">Diane</a>.<br>
 À l'origine de ce portrait parallèle, ci-dessous, un récit, qui fait apparaître Diane déesse de la Chasse, écrit par un écrivain qui a vécu à l'époque de l'Empire Romain, <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a>. Ce récit est extrait de ses œuvres: “<a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)">Les Métamorphoses</a>”.<br>
 Puisse ce récit des aventures de la déesse de la Chasse et d'Actéon vous plaire!</p>
 </div>
 <h2 class="green">Actéon selon “Les Métamorphoses”</h2>
-<p><span><svg id="quotesleft" xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"></path></svg></span>
-Ils étaient donc à Thèbes; ton exil pouvait donc, Cadmus<br>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>136</sup></td><td>Ils étaient donc à Thèbes; ton exil pouvait donc, Cadmus<br>
 Paraître heureux; Mars et Vénus étaient tes beaux-parents;<br>
 De là une lignée issue d'une si noble épouse: tant de fils,<br>
-Tant de filles et, gage de tendresse, tant de petits-enfants,<br>
-<sup>135</sup> Déjà adolescents du reste; mais, comme chacun sait, il faut<br>
+Tant de filles et, gage de tendresse, tant de petits-enfants,</td></tr>
+<tr><td><sup>135</sup></td>
+<td>Déjà adolescents du reste; mais, comme chacun sait, il faut<br>
 Toujours attendre à son heure dernière et nul ne doit,<br>
 Avant la mort et la mise au tombeau, se dire heureux.<br>
 Au milieu de tout ce bonheur, Cadmus, l'un de tes descendants<br>
-Provoqua ta première souffrance, et ces cornes étranges<br>
-<sup>140</sup> À son front, et vous aussi, les chiens repus du sang de votre maître.<br>
+Provoqua ta première souffrance, et ces cornes étranges</td></tr>
+<tr><td><sup>140</sup></td>
+<td>À son front, et vous aussi, les chiens repus du sang de votre maître.<br>
 Mais si tu cherches bien, tu trouveras ici un coup du sort,<br>
 Non un crime: y avait-il, en effet, du crime dans l'erreur?<br>
 Il était une montagne pleine du sang des animaux tués;<br>
-Le jour avait réduit l'ombre des choses de moitié,<br>
-<sup>145</sup> Le soleil était à mi-course lorsque, d'une voix douce,<br>
+Le jour avait réduit l'ombre des choses de moitié,</td></tr>
+<tr><td><sup>145</sup></td>
+<td>Le soleil était à mi-course lorsque, d'une voix douce,<br>
 Le jeune Béotien appela ses compagnons<br>
 De travail, en différents lieux dispersés:<br>
-« Mes amis, nos filets et nos armes ruissellent du sang des fauves<br>
-Et la journée a été fructueuse; lorsque l'Aurore<br>
-<sup>150</sup> Portée par son char safrané, ramènera le jour,<br>
+«<cite>Mes amis, nos filets et nos armes ruissellent du sang des fauves<br>
+Et la journée a été fructueuse; lorsque l'Aurore</cite></td></tr>
+<tr><td><sup>150</sup></td>
+<td><cite>Portée par son char safrané, ramènera le jour,<br>
 Nous nous remettrons au travail: Phœbus, pour l'heure,<br>
 Est au zénith, et ses exhalaisons craquellent les champs.<br>
-Cessez votre travail, relevez les filets noueux. »<br>
-<sup>155</sup> Les hommes obéissent et suspendent leurs activités.<br>
+Cessez votre travail, relevez les filets noueux.</cite>»</td></tr>
+<tr><td><sup>155</sup></td>
+<td>Les hommes obéissent et suspendent leurs activités.<br>
 Il y avait là une vallée, du nom de Gargaphié,<br>
 Consacrée à Diane la court vêtue, où pins et cyprès poussaient drus;<br>
 Tout au fond de cette retraite, une grotte sacrée<br>
 Qu'aucune main d'artiste jamais n'avait touchée:<br>
-C'est la nature ingénieuse qui avait imité l'art,<br>
-<sup>160</sup> Creusant à même la roche et le tuf lisse d'une voûte naturelle.<br>
+C'est la nature ingénieuse qui avait imité l'art,</td></tr>
+<tr><td><sup>160</sup></td>
+<td>Creusant à même la roche et le tuf lisse d'une voûte naturelle.<br>
 À droite chante une fontaine d'eau claire et transparente,<br>
 Et l'herbe borde son entrée évasée.<br>
 C'est ici que la déesse des forêts, fatiguée de la chasse,<br>
-Venait plonger son corp virginal dans l'eau pure.<br>
-<sup>165</sup> Après qu'elle fut entrée là, elle donna à sa nymphe écuyère<br>
+Venait plonger son corp virginal dans l'eau pure.</td></tr>
+<tr><td><sup>165</sup></td>
+<td>Après qu'elle fut entrée là, elle donna à sa nymphe écuyère<br>
 Son javelot, son carquois et son arc débandé;<br>
 Elle fit glisser sa tunique qu'une deuxième ramassa;<br>
 Deux autres la déchaussèrent et la plus experte d'entre elles,<br>
 Crocalé la Thébaine, noua en chignon ses cheveux épars<br>
-Autour de son cou; les siens, en revanche, étaient tous dénoués.<br>
-<sup>170</sup> Néphélé, Hyalé, Rhanis, Psécas, Phialé allèrent<br>
+Autour de son cou; les siens, en revanche, étaient tous dénoués.</td></tr>
+<tr><td><sup>170</sup></td>
+<td>Néphélé, Hyalé, Rhanis, Psécas, Phialé allèrent<br>
 Puiser de l'eau qu'elles versèrent dans leurs grands vases.<br>
 Pendant que la Titanide se douchait là comme à l'accoutumée,<br>
-Voilà que le petit-fils de Cadmus, qui s'offrait une pause<br>
-<sup>175</sup> Et avançait sans but précis à travers ce bois inconnu,<br>
+Voilà que le petit-fils de Cadmus, qui s'offrait une pause</td></tr>
+<tr><td><sup>175</sup></td>
+<td>Et avançait sans but précis à travers ce bois inconnu,<br>
 Parvint au lieu sacré: le destin en avait ainsi décidé.<br>
 À peine fut-il entré dans la grotte aux eaux ruisselantes<br>
 Qu'à la vue de cet homme les nymphes, qui étaient nues,<br>
-Se frappèrent la poitrine et emplirent le bois entier<br>
-<sup>180</sup> De hurlements soudains; en cercle autour de Diane,<br>
+Se frappèrent la poitrine et emplirent le bois entier</td></tr>
+<tr><td><sup>180</sup></td>
+<td>De hurlements soudains; en cercle autour de Diane,<br>
 Elles la protégèrent de leurs corps. Or, la déesse,<br>
 Plus grandes qu'elles toutes, les dépasse d'une bonne tête.<br>
 Comme se colorent les nuages frappées de plein fouet<br>
-Par le soleil, comme l'aurore vêtue de pourpre,<br>
-<sup>185</sup> Ainsi se colora le visage de Diane surprise sans vêtements.<br>
+Par le soleil, comme l'aurore vêtue de pourpre,</td></tr>
+<tr><td><sup>185</sup></td>
+<td>Ainsi se colora le visage de Diane surprise sans vêtements.<br>
 Bien que le groupe de ses suivantes se serrât autour d'elle,<br>
 Elle se pencha de côté, détourna la tête et, n'ayant pas<br>
 À portée de mains les flèches qu'elle eût voulu,<br>
-Elle puisa de l'eau et la jeta au visage du jeune homme.<br>
-<sup>190</sup> Pendant qu'elle inondait ses cheveux de cette eau vengeresse,<br>
+Elle puisa de l'eau et la jeta au visage du jeune homme.</td></tr>
+<tr><td><sup>190</sup></td>
+<td>Pendant qu'elle inondait ses cheveux de cette eau vengeresse,<br>
 Elle ajouta ces mots, présage du malheur qui l'attendait:<br>
-« Va donc maintenant raconter que tu m'as vu sans voiles,<br>
-Si tu le peux. » Et sans autre menace, elle pose<br>
-Sur la tête inondée les ramures d'un cerf fougueux,<br>
-<sup>195</sup> Allonge son cou et taille en pointe ses oreilles;<br>
+«<cite>Va donc maintenant raconter que tu m'as vu sans voiles,<br>
+Si tu le peux.</cite>» Et sans autre menace, elle pose<br>
+Sur la tête inondée les ramures d'un cerf fougueux,</td></tr>
+<tr><td><sup>195</sup></td>
+<td><cite>Allonge son cou et taille en pointe ses oreilles;<br>
 Change ses mains en pieds, ses bras en longues pattes,<br>
 Et couvre son corps d'une peau tachetée.<br>
 Elle y ajoute la panique: le héros, fils d'Autonoé, prend la fuite,<br>
-Et tout en courant s'étonne de sa célérité.<br>
-<sup>200</sup> Sitôt qu'il aperçoit ses cornes dans les eaux familières,<br>
-Il va pour s'écrier: « Pauvre de moi! », mais il reste sans voix.<br>
+Et tout en courant s'étonne de sa célérité.</td></tr>
+<tr><td><sup>200</sup></td>
+<td>Sitôt qu'il aperçoit ses cornes dans les eaux familières,<br>
+Il va pour s'écrier: «<cite>Pauvre de moi!</cite>», mais il reste sans voix.<br>
 Il gémit: voilà tout son langage, et ses larmes coulent<br>
 Sur une face inconnue; de naguère, seule lui reste la pensée.<br>
-Que faire? Rentrer chez soi, dans le palais royal,<br>
-<sup>205</sup> Où se cacher dans les forêts? De ceci il a peur, de cela il a honte?<br>
+Que faire? Rentrer chez soi, dans le palais royal,</td></tr>
+<tr><td><sup>205</sup></td>
+<td>Où se cacher dans les forêts? De ceci il a peur, de cela il a honte?<br>
 Pendant qu'il hésite, ses chiens l'ont aperçu, et d'abord Mélampus<br>
 Et le sagace Ichnobatès l'ont signalé en aboyant<br>
 (Ichnobatès de Gnosse, Mélampus d'origine spartiate).<br>
-D'autres accourent plus vite qu'un vent impétueux:<br>
-<sup>210</sup> Pamphagus, Dorcéus, Oribasus, tous Arcadiens;<br>
+D'autres accourent plus vite qu'un vent impétueux:</td></tr>
+<tr><td><sup>210</sup></td>
+<td>Pamphagus, Dorcéus, Oribasus, tous Arcadiens;<br>
 Le robuste Nébrophonus, le farouche Théron avec Lælaps,<br>
 Ptérélas utile pour sa rapidité, Agré pour son flair,<br>
 Hylæus récemment blessé par un sanglier sauvage,<br>
-Napé engendrée par un loup, Pœmenis gardienne des troupeaux,<br>
-<sup>215</sup> Harpyia accompagnée de ses deux petits,<br>
+Napé engendrée par un loup, Pœmenis gardienne des troupeaux,</td></tr>
+<tr><td><sup>215</sup></td>
+<td>Harpyia accompagnée de ses deux petits,<br>
 Ladon de Sicyone aux flancs étroits,<br>
 Et Dromas, Canacé, Sticté, Tigris, Alcé,<br>
 Leucon et Absolus, poil de neige et poil noir,<br>
-Le redoutable Lacon, Aello champion à la course,<br>
-<sup>220</sup> Et Thoüs, et Lyciscé la véloce avec son frère de Chypre,<br>
+Le redoutable Lacon, Aello champion à la course,</td></tr>
+<tr><td><sup>220</sup></td>
+<td>Et Thoüs, et Lyciscé la véloce avec son frère de Chypre,<br>
 Harpalos qui se distingue par du blanc au milieu de son front noir,<br>
 Et Mélenéus, et Lachné au corps hirsute,<br>
 Labros et Agriodus, dont le père était du Mont Dicté<br>
-Et la mère de Laconie, et Hylactor à la voix perçante;<br>
-<sup>225</sup> Et d'autres qu'il serait trop long d'énumérer: la meute<br>
+Et la mère de Laconie, et Hylactor à la voix perçante;</td></tr>
+<tr><td><sup>225</sup></td>
+<td>Et d'autres qu'il serait trop long d'énumérer: la meute<br>
 Que cette proie excite dévale à travers rochers, éboulis, rocailles<br>
 Impraticcables, là où le chemin est difficile et où il n'y a plus de chemin.<br>
 Lui, il fuit, sur les lieux mêmes où il avait été tant de fois<br>
-Poursuivant; hélas,! Il fuit ses propres serviteurs, voulant crier:<br>
-<sup>230</sup> « C'est moi, Actéon! Reconaissez votre maître! »<br>
+Poursuivant; hélas,! Il fuit ses propres serviteurs, voulant crier:</td></tr>
+<tr><td><sup>230</sup></td>
+<td>«<cite>C'est moi, Actéon! Reconaissez votre maître!</cite>»<br>
 Sa volonté n'a plus les mots; les aboiements résonnent dans l'air.<br>
 Mélanchætès est la première à déchirer son dos,<br>
 Suivie par Théridamas; Orésitrophos reste accroché<br>
 À son épaule.<br>
-Partis plus tard, ils ont pris un raccourci<br>
-<sup>235</sup> À travers les montagnes: tandis qu'ils retiennent leur maître,<br>
+Partis plus tard, ils ont pris un raccourci</td></tr>
+<tr><td><sup>235</sup></td>
+<td>À travers les montagnes: tandis qu'ils retiennent leur maître,<br>
 Toute la meute fait masse et leurs crocs se plantent dans son corps.<br>
 Il n'y a déjà plus d'endroit où le mordre; il gémit, et le son<br>
 Qu'il émet, s'il n'est pas humain, n'est pas non plus<br>
-Celui d'un cerf. Il remplit ces hauteurs connues de cris funèbres<br>
-<sup>240</sup> Et, les genous fléchis, suppliant comme un homme prie,<br>
+Celui d'un cerf. Il remplit ces hauteurs connues de cris funèbres</td></tr>
+<tr><td><sup>240</sup></td>
+<td>Et, les genous fléchis, suppliant comme un homme prie,<br>
 Il tourne en tous sens, de même que ses pattes, son visage muet.<br>
 Or, ignorant tout, ses compagnon encouragent et excitent<br>
 Comme d'habitude la troupe déchaînée; ils cherchent des yeux<br>
-Actéon et appellent sans relâche le faux absent: « Actéon! »<br>
-<sup>245</sup> (Celui-ci tourne la tête à son nom) et ils déplorent son absence<br>
+Actéon et appellent sans relâche le faux absent: «<cite>Actéon!</cite>»</td></tr>
+<tr><td><sup>245</sup></td>
+<td>(Celui-ci tourne la tête à son nom) et ils déplorent son absence<br>
 Et sa paresse à venir voir le spectacle d'une proie capturée.<br>
 Comme il voudrait être ailleurs! Mais il est là. Comme il voudrait<br>
 Voir, plutôt qu'éprouver, la sauvagerie de ses chiens!<br>
-Ils l'encerclent et, enfouissant leurs gueules dans son corps,<br>
-<sup>250</sup> Déchiquettent, sous l'apparence d'un cerf, leur propre maître.<br>
+Ils l'encerclent et, enfouissant leurs gueules dans son corps,</td></tr>
+<tr><td><sup>250</sup></td>
+<td>Déchiquettent, sous l'apparence d'un cerf, leur propre maître.<br>
 Ce fut seulement lorsque tant de blessures eurent mis<br>
-Fin à sa vie que fut rassasiée, dit-on, la colère de Diane au carquois. <span><svg id="quotesright" xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"></path></svg></span></p>
+Fin à sa vie que fut rassasiée, dit-on, la colère de Diane au carquois.</td></tr>
+</tbody>
+</table>
 <p><span style="color: #3d8b3d;">Ovide, “Les Métamorphoses”, Livre III</span></p>
 </div>
 `;

@@ -17,10 +17,8 @@ Y apparaissent l'archange Michel, le taureau, et bien d'autres choses... On peut
 Entre l'existence qu'on ne peut mesurer et celle qu'on perçoit, ce texte devrait susciter diverses pensées, indépendemment de questions relatives au fait de croire ou de ne pas croire, et donc j'incite à le lire si possible jusqu'à la fin sans s'effrayer de la forte coloration religieuse propre à l'époque.<br>
 Des liens ont été établis à partir des citations pour rendre possible et facile pour ceux qui le souhaiterait, vérification des propos avancés en temps que citation.</p>
 </div>
-<p><br></p>
-<h2 id="chap141" class="red">chapître 141</h2>
-<p><span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"></path></svg></span>
-Michel se comprend comme «Qui, comme Dieu?» et, à ce que dit Grégoire, chaque fois qu'il s'accomplit une grande merveille, c'est Michel qui est envoyé, pour signifier, par son action et par son nom, que personne ne peut faire ce qui revient à Dieu seul: aussi attribue-t-on à Michel lui-même nombre de faits qui manifestent une puissance admirable.
+<h2 id="chap141" class="red">saint Michel selon le chapître 141 de “La Légende Dorée”</h2>
+<p>Michel se comprend comme «Qui, comme Dieu?» et, à ce que dit Grégoire, chaque fois qu'il s'accomplit une grande merveille, c'est Michel qui est envoyé, pour signifier, par son action et par son nom, que personne ne peut faire ce qui revient à Dieu seul: aussi attribue-t-on à Michel lui-même nombre de faits qui manifestent une puissance admirable.
 Au témoignage de Daniel <a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs">(Daniel 12, 1.)</a>, il surgira au temps de l’Antéchrist et se tiendra à côté des élus comme leur défenseur et protecteur.
 Il a combattu le dragon et ses anges <a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille">(Apocalypse 12,7-9.)</a>, les a précipités du haut du ciel, et a remporté sur eux une grande victoire.
 Il a disputé le <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_moise" title="ascension de Moïse" id="moise">corps de Moïse</a> au diable qui voulait le produire afin que le peuple juif l'adore à la place de Dieu <a href="https://www.aelf.org/bible/Jude/1" title="https://www.aelf.org/bible/Jude/1">(Jude 1, 9.)</a>.
@@ -101,11 +99,12 @@ Michel lui apparut, et lui dit de se préparer un mélange de miel, de vin et de
 Il le fit, et se trouva totalement guéri, bien que la médecine semble déconseiller de donner aux colériques des potions qui échauffent.
 Voilà ce que dit l'Histoire tripartite.</p>
 </div>
-<br>
+
 <div id="body-inner">
 <div class="notices red">
 <h2 id="notes" class="red">Notes</h2>
 </div>
+
 <h3 id="note_moise" class="red">ascension de Moïse</h3>
 <div class="notices red">
 <p>Le récit intitulé «Ascension de Moïse» est un texte apocryphe du 1er siècle ap. J.-C.; la lettre de Jude a parfois elle aussi été considérée comme apocryphe.</p>

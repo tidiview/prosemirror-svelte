@@ -8,10 +8,9 @@
 <div id="body-inner">
 <h1 class="green">Saint Remi</h1>
 <div class="notices green">
-<p>Le Baptème du roi des Francs, Clovis en français, ou "Clodovechus" du latin par <a href="#note_remigius" title="Remi">saint Rémi</a> en français ou sanctus Remigius en latin dans les documents historiques est raconté par Jacques de Voragine dans le chapître 16 de "La Légende dorée", principal livre chrétien au Moyen-Âge.</p>
+<p>Le Baptème du roi des Francs, Clovis en français, ou “Clodovechus” du latin par <a href="#note_remigius" title="Remi">saint Rémi</a> en français ou sanctus Remigius en latin dans les documents historiques est raconté par Jacques de Voragine dans le chapître 16 de “La Légende dorée”, principal livre chrétien au Moyen-Âge.</p>
 </div>
-<p><br></p>
-<h2 id="chapître-16-saint-remi" class="green">chapître 16 saint Remi</h2>
+<h2 id="chapître-16-saint-remi" class="green">saint Remi selon le chapître 16 de “La légende Dorée”</h2>
 <h3 id="première-interprétation-de-son-nom" class="green">première interprétation de son nom</h3>
 <p>Le nom de <a href="#note_remigius" title="Remi" id="remigius">Remi</a>, Remigius, vient de remi, <span style="color: #3d8b3d;">«paissant»</span>, et de geos, <span style="color: #3d8b3d;">«terre»</span>, et il signifie <span style="color: #3d8b3d;">«paissant : les hommes de la terre par son enseignement»</span>;
 ou bien de gyon, <span style="color: #3d8b3d;">«lutte»</span>, et il signifie <span style="color: #3d8b3d;">«pasteur et lutteur»</span>.<br>
@@ -88,12 +87,9 @@ Alors, sur un avertissement de l'ange, saint <span style="color: #3d8b3d;">Remi<
 jusqu'à sa mort, il persévéra dans ses saintes œuvres,
 et son fils Larron, qui lui succéda à l'épiscopat, fut saint également.
 Enfin, saint <span style="color: #3d8b3d;">Remi</span>, qu'illustraient de nombreuses vertus, reposa en paix en l'an du seigneur 500 environ.</p>
-<p>
-</p></div>
+</div>
 
-<br>
 <div id="body-inner">
-<p></p>
 <h2 id="notes" class="green">Notes</h2>
 <h3 id="note_remigius" class="green">remi</h3>
 <div class="notices green">
@@ -131,7 +127,7 @@ il nous apparaît que «Pays des Francs» est un bon moyen terme.</p>
 <!-- Page 2 --><hr>
 
 <div id="body-inner">
-<h2 id="chapître-143-saint-remi" class="green">chapître 143 saint Remi</h2>
+<h2 id="chapître-143-saint-remi" class="green">saint Remi selon le chapître 143 “La légende Dorée”</h2>
 <h3 id="seconde-interprétation-de-son-nom" class="green">seconde interprétation de son nom</h3>
 <p>Le nom de <span style="color: #3d8b3d;">Remi</span>, Remigius, vient de “remige”, <span style="color: #3d8b3d;">«le rameur»</span>, c'est-à-dire le pilote ou le chef de navire.
 Ou bien il vient de remis, <span style="color: #3d8b3d;">«les rames»</span>, qui sont les instruments par lesquels on mène le navire, et de gyon, qui signifie <span style="color: #3d8b3d;">«lutte»</span>.<br>
