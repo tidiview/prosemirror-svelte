@@ -27,7 +27,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.
 https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-focus-480.jpg 480w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-focus-640.jpg 640w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-focus_700x415.jpg 700w"></picture><figcaption>La place Vendôme à Paris d'après le Plan de Turgot en 1734</figcaption></figure>
-<p><span style="color: #3d8b3d;"><strong>la place Vendôme au XVII<sup style="color:#3d8b3d;">ème</sup> siècle</strong></span>  </p>
+<h2 class="green">la place Vendôme au XVII<sup style="color:#3d8b3d;">ème</sup> siècle</h2>
 <div class="notices green">
 <p>La <a href="https://fr.wikipedia.org/wiki/Place_Vendôme" title="https://fr.wikipedia.org/wiki/Place_Vendôme">place Vendôme</a> a connu un visage très différent avant l'ouverture de la <a href="https://fr.wikipedia.org/wiki/Rue_de_Rivoli" title="https://fr.wikipedia.org/wiki/Rue_de_Rivoli">rue de Rivoli</a> (1801). </p>
 </div>
@@ -156,7 +156,6 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.
 https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-statue-focus-480.jpg 480w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-statue-focus-640.jpg 640w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-statue-focus_700x875.jpg 700w"></picture><figcaption>fig. 5: au centre de la place, la statue de Louis Le Grand (1699)</figcaption></figure>
-<p><br></p>
 <div class="notices green">
 <p>Pour plus d'information sur l'œuvre de <a href="https://fr.wikipedia.org/wiki/François_Girardon" title="https://fr.wikipedia.org/wiki/François_Girardon">François GIRARDON</a>, consultez la <a href="http://www.louvre.fr/oeuvre-notices/louis-xiv-cheval" title="http://www.louvre.fr/oeuvre-notices/louis-xiv-cheval">notice de l'œuvre</a> sur le site du <a href="http://www.louvre.fr/oeuvre-notices/louis-xiv-cheval" title="http://www.louvre.fr/oeuvre-notices/louis-xiv-cheval">Musée du Louvre</a>.  </p>
 </div>

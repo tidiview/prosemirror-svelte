@@ -48,7 +48,6 @@ En effet, l'artiste décidait de mettre fin à ses jours peu après l'avoir ache
 <dd>il est possible de faire apparaître le périmètre de la partie de l'image désignée dans le texte en utilisant pour lire cette page un navigateur basé sur Chrome. Toutefois, comme Chrome contient un mouchard qui piste votre navigation pour l'entreprise Google, nous vous conseillons l'excellent navigateur <a href="http://www.srware.net/en/software_srware_iron_download.php" title="http://www.srware.net/en/software_srware_iron_download.php">SRWare Iron</a> basé sur Chrome mais qui ne contient aucun mouchard. Pour les portables android, l'application SRWare Iron peut être téléchargée <a href="https://play.google.com/store/apps/details?hl=fr" title="https://play.google.com/store/apps/details?id=org.iron.srware&amp;hl=fr" id="org.iron.srware">ici...</a>.</dd>
 </dl>
 </div>
-<p><br></p>
 <h2 id="plafond-dun-salon-du-château-de-versailles-qui-précède-celui-de" class="blue">Plafond d'un Salon du Château de Versailles, qui précède celui de la Chapelle du Roy, appelé le Grand Salon de Marbre<a class="anchorjs-link " href="#plafond-dun-salon-du-château-de-versailles-qui-précède-celui-de" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
 <p><span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"></path></svg></span>
 Depuis plus de deux ans que nous travaillons au Mercure de France,
@@ -168,7 +167,6 @@ Aux pieds de Jupiter,
 on voit <a href="#area_laigle" title="l'Aigle" id="laigle">l'Aigle</a> dépositaire de la foudre;<br>
 <a href="#area_ganimede" title="Ganimède" id="ganimede">Ganimède</a> est à côté d'Hébé,
 regarde avec plaisir le bonheur de cette Déesse.</p>
-<p><br></p>
 
 <div class="notices blue">
 <h3 id="note_pieds" class="blue">pied:<a class="anchorjs-link " href="#note_pieds" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>
@@ -497,7 +495,6 @@ sçavoir, du marbre appelé Dantin, du Vercampan, du Rancé et du blanc veiné,
 dont les bases et les chapiteaux sont dorés, aussi bien que la corniche et les Chambranles des Portes, etc.<br>
 L'éclat de cette dorure et du marbre, qui s'allient et se prêtent, pour ainsi-dire, un mutuel secours, font un effet aussi magnifique qu'admirable,
 et semblent servir de trophée à la Peinture, à laquelle ils servent d'ornement.</p>
-<p><br></p>
 <div class="notices blue">
 <h4 id="note_breche" class="blue">Brèche<a class="anchorjs-link " href="#note_breche" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 <p>Terme de géologie. Marbre noir, mêlé de taches blanches et jaunes, qu'on tire des Pyrénées et d'autres lieux.  </p>

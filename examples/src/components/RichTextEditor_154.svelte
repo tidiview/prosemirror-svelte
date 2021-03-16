@@ -15,7 +15,7 @@
 Trivelin les accueille en leur expliquant les lois de l'île: les rapports de pouvoir y sont systématiquement inversés.<br>
 Les maîtres et les esclaves nouvellement arrivés doivent échanger leurs habits, leurs conditions et jusqu'à leurs noms.</p>
 </div>
-<h2>>Marivaux, “L'île des esclaves”, scène 2</h2>
+<h2>Marivaux, “L'île des esclaves”, scène 2</h2>
 <div id="translation-text-rousi">
 <style>.list-blog-padding #translation-text-rousi tr td:first-child {color: #000;font-size: 1.25rem;text-align: right;vertical-align: top;} tr td {vertical-align: top;}</style>
 <table>
