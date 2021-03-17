@@ -706,6 +706,8 @@ export const ExtendedThreerichTextSchema = new Schema({
         id: {default: null},
       },
       content: "area*",
+      slectable: false,
+      isolating: true,
       parseDOM: [{tag: "map[name]", getAttrs(dom) {
         return {
           name: dom.getAttribute("name"),
@@ -723,6 +725,8 @@ export const ExtendedThreerichTextSchema = new Schema({
         shape: {default: null},
         coords: {default: null},
       },
+      slectable: false,
+      isolating: true,
       parseDOM: [{tag: "area[href]", getAttrs(dom) {
         return {
           href: dom.getAttribute("href"),

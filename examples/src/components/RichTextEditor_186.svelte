@@ -79,15 +79,12 @@ In the question-answers that follows, all is taking place as if the one that is 
 </tbody>
 </table>
 </div>
-<p><span style="color: lightgrey;"><i class="fa fa-quote-right fa-1x fa-pull-right fa-border"></i></span></p>
 <div class="notices green">
 <dl>
-<dt>Text：</dt>
-<dd><a href="https://en.wikipedia.org/wiki/Charles_Baudelaire" title="https://en.wikipedia.org/wiki/Charles Baudelaire">Charles Baudelaire</a>, "the stranger".</dd>
-<dd><a href="https://francois-vidit.com/blog/fr/ikokujin" title="l'étranger">original text in french language</a></dd>
-<dt>English translation:</dt>
-<dd>original translation</dd>
-<dd>(can be reproduced with mention « original translation to english by <a href="https://francois-vidit.com/blog/en/ikokujin" title="the stranger">François Vidit</a> », link included)</dd>
+<dt>Text: <a href="https://en.wikipedia.org/wiki/Charles_Baudelaire" title="https://en.wikipedia.org/wiki/Charles Baudelaire">Charles Baudelaire</a>, "the stranger".</dt>
+<dd><a href="https://francois-vidit.com/blog/fr/ikokujin" title="l'étranger">original text in french</a></dd>
+<dt>English translation: original translation</dt>
+<dd>[can be reproduced with the following mention « original translation to english by <a href="https://francois-vidit.com/blog/en/ikokujin" title="the stranger">François VIDIT</a> », link included]</dd>
 </dl>
 </div>
 `;
