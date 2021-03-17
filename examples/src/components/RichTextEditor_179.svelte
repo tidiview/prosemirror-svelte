@@ -68,94 +68,43 @@ method="POST"
 id="contact2"
 class=" "
 >
-<div class="form-field   ">
-<div class="form-label ">
-<label class="inline" for="name"  >
-Nom
-<span class="required">*</span>
-</label>
+<div class="form-field">
+<div class="form-label">
+<label class="inline" for="name">Nom<span class="required">*</span></label>
 </div>
-<div class="form-data "
-data-grav-field="text"
-data-grav-disabled="true"
-data-grav-default="null"
->
+<div class="form-data" data-grav-field="text" data-grav-disabled="true" data-grav-default="null">
 <div class="form-input-wrapper  ">
-<input
-name="data[name]"
-value=""
-type="text"
-class="curtain-contact-form"                                     id="name"                                                                         placeholder="Faîtes figurer votre nom"                                                                              autocomplete="on"                                                                 required="required"                                                               
-/>
+<input name="data[name]" value="" type="text" class="curtain-contact-form" id="name" placeholder="Faîtes figurer votre" nom" "autocomplete="on"   required="required" />
 </div>
 </div>
 </div>
-<div class="form-field   ">
-<div class="form-label ">
-<label class="inline" for="email"  >
-Adresse électronique
-<span class="required">*</span>
-</label>
+<div class="form-field">
+<div class="form-label">
+<label class="inline" for="email">Adresse électronique<span class="required">*</span></label>
 </div>
-<div class="form-data "
-data-grav-field="email"
-data-grav-disabled="true"
-data-grav-default="null"
->
-<div class="form-input-wrapper  ">
-<input
-name="data[email]"
-value=""
-type="email"
-class="curtain-contact-form"                                     id="email"                                                                        placeholder="Faîtes figurer votre adresse électronique"                                                                                                                                                                                                                        required="required"                                                                                                        
-/>
-            </div>
-
+<div class="form-data" data-grav-field="email" data-grav-disabled="true" data-grav-default="null">
+<div class="form-input-wrapper">
+<input name="data[email]" value="" type="email" class="curtain-contact-form" id="email" placeholder="Faîtes figurer votre adresse électronique"               required="required" />
+</div>
 </div>
 </div>
 
-<div class="form-field   ">
-<div class="form-label ">
-<label class="inline" for="message"  >
-Message
-<span class="required">*</span>
-</label>
+<div class="form-field">
+<div class="form-label">
+<label class="inline" for="message">Message<span class="required">*</span></label>
 </div>
-<div class="form-data "
-data-grav-field="textarea"
-data-grav-disabled="true"
-data-grav-default="null"
->
-<div class="form-textarea-wrapper ">
-<textarea
-name="data[message]"
-class="curtain-contact-form"                 id="message"                                                 placeholder="Rédigez votre message"                                                                                required="required"                                                                                        ></textarea>
+<div class="form-data" data-grav-field="textarea" data-grav-disabled="true" data-grav-default="null">
+<div class="form-textarea-wrapper">
+<textarea name="data[message]" class="curtain-contact-form" id="message" placeholder="Rédigez votre Message" required="required"></textarea>
 </div>
-
 </div>
 </div>
 
 <input type="hidden" name="__form-name__" value="contact2" />
 
 <div class="buttons">
-
-<button
-class="button "
-
-type="submit"
-
->
-Valider
-</button>
-<button
-class="button "
-
-type="reset"
-
->
-Annuler
-</button>
-
+<button class="button" type="submit">Valider</button>
+<button class="button" type="reset">Annuler</button>
 </div>
 
 <input type="hidden" name="__unique_form_id__" value="p3eAJMRskhq0aVgTmHjS" />  <input type="hidden" name="form-nonce" value="28f4251f5fb4adaf6be4513e20fabb93" />

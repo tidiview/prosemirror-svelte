@@ -6,12 +6,12 @@
 
   const html = `
 <div class="list-blog-date">
-<p><span>12</span><sup>th </sup><i class="fa fa-calendar-o fa-2x"></i></p>
+<p><span>12</span><sup>th</sup> <i class="fa fa-calendar-o fa-2x"></i></p>
 <p>Feb.</p>
 <p><span>2020</span></p>
 </div>
 <h1 lang="en"><a href="/blog/en/marivaux" rel="bookmark">Marivaux, Slave island</a></h1>
-   
+
 <div class="notices red">
 <p>In a fantasy antiquity, Iphicrate, a young Athenian nobleman, finds himself thrown on the shore of an island with his servant Harlequin.
 The master and the valet were joined by another duo formed by a mistress, Euphrosine, and her next, Cleanthis.
@@ -208,6 +208,7 @@ The newly arrived masters and slaves had to exchange their clothes, conditions a
 </tr>
 </tbody>
 </table>
+<p><span style="color: #b52b27;">Marivaux, “Slave island”, Scene 2</span></p>
 </div>
 `;
 

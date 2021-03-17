@@ -214,7 +214,7 @@ Elle n'a plus qu'un ventre: mais elle continue à produire du fil</td></tr>
 <td>Et c'est une araignée qui poursuit comme autrefois sa toile.</td></tr>
 </tbody>
 </table>
-<p><span style="color: #b52b27;">Ovide, “les Métamorphoses”, Livre 6, vers 1 à 149.</span>  </p>
+<p><span style="color: #b52b27;">Ovide, “les Métamorphoses”, Livre 6, vers 1 à 149.</span></p>
 </div>
 `;
 

@@ -29,8 +29,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1920.jpg 1920w"></picture><figcaption>Châsse de Sainte Ursule</figcaption></figure>
 <h2 id="les-onze-milles-vierges" class="green">Les Onze Milles Vierges</h2>
-<p><span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"></path></svg></span>
-Voici le récit de la Passion des onze mille vierges tel qu'il a été transmis.<br>
+<p>Voici le récit de la Passion des onze mille vierges tel qu'il a été transmis.<br>
 Il y avait en Bretagne un roi très chrétien qui s'appelait Notus ou Maur, qui engendra une fille qu'il appela Ursule.
 La dignité de ses mœurs était admirable, sa sagesse et sa beauté remarquables, si bien que sa renommée se répandait partout.<br>
 Or comme le roi d'Angleterre était très puissant et qu'il avait de nombreux peuples sous son pouvoir, ayant entendu parler de la réputation de cette jeune fille, il affirma qu'il serait parfaitement heureux de la voir épouser son fils unique.<br>
@@ -266,9 +265,8 @@ Comme il s'étonnait de cette vision et գu'il avouait ne pas du tout la reconna
 «Je suis l’une de ces vierges à qui tu voues un si grand sentiment d'affection; pour que tu en sois recompensé, si, par amour et honneur pour nous, tu prononces onze mille fois l'oraison dominicale, à l'heure de ta mort tu nous trouveras pour ta protection et ta consolation...»<br>
 Quand elle eut disparu, l'homme accomplit aussi vite que possible ce qu'on lui avait demandé et, aussitôt après, ayant fait appeler l'abbé, il demanda l'extrême-onction.
 Et alors qu'il recevait l'onction, soudain il cria aux gens qui se trouvaient là de se retirer et de laisser la place aux vierges sacrées qui arrivaient.
-Et comme l'abbé lui demandait ce qui se passait et que celui-ci racontait en détailla la promesse de la vierge à son égard, tous se retirèrent; ils revinrent peu après et constatèrent qu'il était parti vers le Seigneur.
-<span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"></path></svg></span></p>
-<p><strong><span style="color: #3d8b3d;">Jacques de Voragine, “La Légende Dorée”, Chapître 154, “Les Onze Milles Vierges”</span></strong></p>
+Et comme l'abbé lui demandait ce qui se passait et que celui-ci racontait en détailla la promesse de la vierge à son égard, tous se retirèrent; ils revinrent peu après et constatèrent qu'il était parti vers le Seigneur.</p>
+<p><span style="color: #3d8b3d;">Jacques de Voragine, “La Légende Dorée”, Chapître 154, “Les Onze Milles Vierges”</span></p>
 </div>
 `;
 

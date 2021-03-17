@@ -32,7 +32,9 @@ For Fontenelle, it is impossible to choose an absolute point of view in the univ
 <p>To deliver his first lesson, the philosopher uses a long spun metaphor, assimilating nature to the spectacle of the Opera.<br>
 The aim was to promote Descartes' mechanistic philosophy, since the Opera was essentially a "machine" show (this is how the mechanical means by which the theatre or opera was produced were described, the effects that gave spectators the illusion of the wonderful. But revealing the "Opera machines" is also to desacralize the universe and demystify an earlier textuality (Aristotle, Plato...).</p>
 </div>
-<h2>first evening, page 8</h2>
+
+<h2>first evening</h2>
+
 <p>Thus true philosophers spend their lives not believing what they see, and trying to guess what they do not see, and this condition is not, it seems to me, too much to envy.</p>
 <p>On this I always figure that nature is a great show that resembles that of the Opera (1 proper name designating the Paris Opera, founded in 1669.).</p>
 <p>From where you are at the Opera House, you do not see the theatre quite as it is; the decorations and machines have been arranged to make a pleasant effect from a distance, and these wheels and counterweights that make all the movements are hidden from your view.</p>
@@ -55,7 +57,9 @@ The aim was to promote Descartes' mechanistic philosophy, since the Opera was es
 <p>And she replied, "I think much more of her, since I know it looks like a watch.</p>
 <p>It is surprising that the order of nature, however admirable it may be, only runs on such simple things".</p>
 <div class="blog-item-footer">
-<p></p><span>4</span> min. <span>30</span> ''</p></div></div></div>            
+<p><span style="color: #b52b27;">Fontenelle, “Conversations on the Plurality of Worlds”, Extract of the first evening.</span></p>
+<p><span>4</span> min. <span>30</span>''</p>
+</div></div></div>
 `;
 
   let focusEditor;
