@@ -23,9 +23,16 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.triano
 Based on a part of Book XI of <a href="https://en.wikipedia.org/wiki/Metamorphoses" title="https://en.wikipedia.org/wiki/Metamorphoses">The Metamorphoses</a> written by <a href="https://en.wikipedia.org/wiki/Ovid" title="https://en.wikipedia.org/wiki/Ovid">Ovid</a>, it represents the particular moment when <a href="https://en.wikipedia.org/wiki/Iris_(mythology)" title="https://en.wikipedia.org/wiki/Iris_(mythology)">Iris</a>, messager of <a href="https://en.wikipedia.org/wiki/Juno_(mythology)" title="https://en.wikipedia.org/wiki/Juno_(mythology)">Juno</a> enters the cave of <a href="https://en.wikipedia.org/wiki/Hypnos" title="https://en.wikipedia.org/wiki/Hypnos">the Sleep</a> to order to him to make <a href="https://en.wikipedia.org/wiki/Alcyone" title="https://en.wikipedia.org/wiki/Alcyone">Alcynoe</a> dream. </p>
 </div>
 <h2 id="iris-1" class="green">Iris according to “The Metamorphoses”</h2>
-<p><span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"></path></svg></span>
-<sup>583</sup>
-but Juno could not long accept as hers<br>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>583</sup></td>
+<td>but Juno could not long accept as hers<br>
 these supplications on behalf of one<br>
 then dead; and that she might persuade Halcyone<br>
 to turn her death-polluted hands away<br>
@@ -34,25 +41,28 @@ from hallowed altars, Juno said in haste,<br>
 go quickly to the dreadful court of Sleep,<br>
 and in my name command him to despatch<br>
 a dream in the shape of Ceyx, who is dead,<br>
-and tell Halcyone the woeful truth.”</p>
-<p>So she commanded.—Iris instantly<br>
+and tell Halcyone the woeful truth.”</td></tr>
+<tr><td></td>
+<td>So she commanded.—Iris instantly<br>
 assumed a garment of a thousand tints;<br>
 and as she marked the high skies with her arch,<br>
 went swiftly thence as ordered, to the place<br>
-where Sleep was then concealed beneath a rock.</p>
-<p>Near the Cimmerian Land there is a cave,<br>
+where Sleep was then concealed beneath a rock.</td></tr>
+<tr><td></td>
+<td>Near the Cimmerian Land there is a cave,<br>
 with a long entrance, in a hallowed mountain,<br>
 the home of slothful Sleep. To that dark cave<br>
 the Sun, when rising or in middle skies,<br>
-or setting, never can approach with light.</p>
-<p>There dense fogs, mingled with the dark, exhale<br>
+or setting, never can approach with light.</td></tr>
+<tr><td></td>
+<td>There dense fogs, mingled with the dark, exhale<br>
 darkness from the black soil—and all that place<br>
 is shadowed in a deep mysterious gloom.<br>
 No wakeful bird with visage crested high<br>
 calls forth the morning's beauty in clear notes;<br>
-nor do the watchful dogs, more watchful geese,<br>
-<sup>600</sup>
-nor wild beasts, cattle, nor the waving trees,<br>
+nor do the watchful dogs, more watchful geese,</td></tr>
+<tr><td><sup>600</sup></td>
+<td>nor wild beasts, cattle, nor the waving trees,<br>
 make sound or whisper; and the human voice<br>
 is never heard there—silent Rest is there.<br>
 But, from the bottom of a rock beneath,<br>
@@ -65,8 +75,9 @@ bloom in abundance, from the juice of which<br>
 the humid night-hours gather sleep and spread<br>
 it over darkened Earth. No door is in<br>
 that cavern-home and not a hinge's noise<br>
-nor guarding porter's voice disturbs the calm.</p>
-<p>But in the middle is a resting-couch,<br>
+nor guarding porter's voice disturbs the calm.</td></tr>
+<tr><td></td>
+<td>But in the middle is a resting-couch,<br>
 raised high on night-black ebony and soft<br>
 with feathered cushions, all jet black, concealed<br>
 by a rich coverlet as dark as night,<br>
@@ -100,15 +111,17 @@ when wearied with the toils of day, command<br>
 a vision that shall seem the actual form<br>
 of royal Ceyx to visit Trachin famed<br>
 for Hercules and tell Halcyone<br>
-his death by shipwreck. It is Juno's wish.”<br>
-<sup>630</sup>
-Iris departed after this was said.<br>
+his death by shipwreck. It is Juno's wish.”</tr></td>
+<tr><td><<sup>630</sup></td>
+<td>Iris departed after this was said.<br>
 For she no longer could endure the effect<br>
 of slumber-vapor; and as soon as she<br>
 knew sleep was creeping over her tired limbs<br>
 she flew from there—and she departed by<br>
-the rainbow, over which she came before. <span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"></path></svg></span></p>
-<p><span style="color: #3d8b3d;">Ovid, “The Metamorphoses”, Book XI</span></p>
+the rainbow, over which she came before.</td></tr>
+</tbody>
+</table>
+<p><span style="color: #3d8b3d;">Ovid, “The Metamorphoses”, Book XI, verses 583 and followings.</span></p>
 <div class="notices green">
 <h4 id="note" class="blue">Note:</h4>
 <p>The work of <a href="https://en.wikipedia.org/wiki/René-Antoine_Houasse" title="https://en.wikipedia.org/wiki/René-Antoine Houasse">René-Antoine Houasse</a> has been named in the XVII<sup style="color:#3d8b3d;">th</sup> century «Iris et Morphée».<br>

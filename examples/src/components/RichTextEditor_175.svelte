@@ -5,8 +5,8 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-<h1>Saint-Michel dans la Légende Dorée</h1>
-<div id="body-inner" class="red">
+<h1 class="red">Saint-Michel dans la Légende Dorée</h1>
+<div id="body-inner">
 <div class="notices red">
 <p>Dans l'Europe chrétienne du Moyen-Âge, la Légende Dorée est l'ouvrage le plus lu après la Bible.<br>
 Elle a été écrite en latin de 1261 à 1266 par un moine dominicain de l'Italie du Nord, compilateur de chroniques et également connu comme le 8<sup>ème</sup> Archevêque de Gênes, Jacques De Voragine (en latin, Jacobus de Voragine).<br>
@@ -98,6 +98,7 @@ Se sentant près de mourir, il se fit conduire dans l'église Saint-Michel, dans
 Michel lui apparut, et lui dit de se préparer un mélange de miel, de vin et de poivre, et d'y tremper tous ses aliments: il recouvrerait ainsi sa pleine santé.
 Il le fit, et se trouva totalement guéri, bien que la médecine semble déconseiller de donner aux colériques des potions qui échauffent.
 Voilà ce que dit l'Histoire tripartite.</p>
+<p><span style="color: #b52b27;">Jacques De Voragine, “La Légende Dorée”, chapître 141.</span></p>
 </div>
 
 <div id="body-inner">

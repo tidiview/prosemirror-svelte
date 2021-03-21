@@ -25,29 +25,36 @@ Here is a fountain inspired by the opposition between <a href="https://en.wikipe
 With the text written by <a href="https://en.wikipedia.org/wiki/Ovid" title="https://en.wikipedia.org/wiki/Ovid">Ovid</a> in “<a href="https://en.wikipedia.org/wiki/Metamorphoses" title="https://en.wikipedia.org/wiki/Metamorphoses">The Metamorphoses</a>”, this opposition should probably comes closer to us.</p>
 </div>
 <h2 class="red">Latona according to “The Metamorphoses”</h2>
-<p><span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"></path></svg></span>
-<sup>333</sup>
-There Latona, as she leaned<br>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><span hidden>hidden</span></th>
+</tr>
+</thead>
+<tbody>
+<tr><td><sup>333</sup></td>
+<td>There Latona, as she leaned<br>
 against a palm-tree—and against the tree<br>
 most sacred to Minerva, brought forth twins,<br>
 although their harsh step-mother, Juno, strove<br>
 to interfere.—And from the island forced<br>
 to fly by jealous Juno, on her breast<br>
-she bore her children, twin Divinities.</p>
-<p>At last, outwearied with the toil, and parched<br>
+she bore her children, twin Divinities.</td></tr>
+<tr><td></td><td>At last, outwearied with the toil, and parched<br>
 with thirst—long-wandering in those heated days<br>
 over the arid land of Lycia, where<br>
 was bred the dire Chimaera— at the time<br>
 her parching breasts were drained, she saw this pool<br>
-of crystal water, shimmering in the vale.</p>
-<p>Some countrymen were there to gather reeds,<br>
+of crystal water, shimmering in the vale.</td></tr>
+<tr><td></td><td>Some countrymen were there to gather reeds,<br>
 and useful osiers, and the bulrush, found<br>
 with sedge in fenny pools. To them approached<br>
 Latona, and she knelt upon the merge<br>
 to cool her thirst, with some refreshing water.<br>
 But those clowns forbade her and the goddess cried,<br>
-as they so wickedly opposed her need:</p>
-<p>“Why do you so resist my bitter thirst?<br>
+as they so wickedly opposed her need:</td></tr>
+<tr><td></td><td>“Why do you so resist my bitter thirst?<br>
 The use of water is the sacred right<br>
 of all mankind, for Nature has not made<br>
 the sun and air and water, for the sole<br>
@@ -66,8 +73,8 @@ implore you from my bosom, but incline<br>
 your hearts to pity!” And just as she spoke,<br>
 it chanced the children did stretch out their arms<br>
 and who would not be touched to hear such words,<br>
-as spoken by this goddess, and refuse?</p>
-<p>But still those clowns persisted in their wrong<br>
+as spoken by this goddess, and refuse?</td></tr>
+<tr><td></td><td>But still those clowns persisted in their wrong<br>
 against the goddess; for they hindered her,<br>
 and threatened with their foul, abusive tongues<br>
 to frighten her away—and, worse than all,<br>
@@ -79,8 +86,8 @@ she felt no further thirst, nor would she deign<br>
 to supplicate again; but, feeling all<br>
 the outraged majesty of her high state,<br>
 she raised her hands to Heaven, and exclaimed,<br>
-“Forever may you live in that mud-pool!”</p>
-<p>The curse as soon as uttered took effect,<br>
+“Forever may you live in that mud-pool!”</td></tr>
+<tr><td></td><td>The curse as soon as uttered took effect,<br>
 and every one of them began to swim<br>
 beneath the water, and to leap and plunge<br>
 deep in the pool.—Now, up they raise their heads,<br>
@@ -89,18 +96,18 @@ themselves around the marshy margent, now<br>
 they plump again down to the chilly deeps.<br>
 And, ever and again, with croaking throats,<br>
 indulge offensive strife upon the banks,<br>
-or even under water, boom abuse.</p>
-<p>Their ugly voices cause their bloated necks<br>
+or even under water, boom abuse.</td></tr>
+<tr><td></td><td>Their ugly voices cause their bloated necks<br>
 to puff out; and their widened jaws are made<br>
-still wider in the venting of their spleen.</p>
-<p>Their backs, so closely fastened to their heads,<br>
+still wider in the venting of their spleen.</td></tr>
+<tr><td></td><td>Their backs, so closely fastened to their heads,<br>
 make them appear as if their shrunken necks<br>
 have been cut off. Their backbones are dark green;<br>
-white are their bellies, now their largest part.—</p>
-<p>Forever since that time, the foolish frogs<br>
-muddy their own pools, where they leap and dive.
-<span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"></path></svg></span></p>
-<p><span style="color: #b52b27;">Ovid, “The Metamorphoses”, Book VI</span></p>
+white are their bellies, now their largest part.—</td></tr>
+<tr><td></td><td>Forever since that time, the foolish frogs<br>
+muddy their own pools, where they leap and dive.</td></tr>
+</tbody>
+</table><p><span style="color: #b52b27;">Ovid, “The Metamorphoses”, Book VI, verses 333 and followings.</span></p>
 </div>
 `;
 
