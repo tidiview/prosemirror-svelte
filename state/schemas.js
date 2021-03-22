@@ -651,7 +651,7 @@ export const ExtendedThreerichTextSchema = new Schema({
     },
     figcaption: {
       content: "inline*",
-      group: "block",
+      group: "figure",
       parseDOM: [{tag: "figcaption"}],
       toDOM() { {return ["figcaption", 0]} },
     },
@@ -728,6 +728,25 @@ export const ExtendedThreerichTextSchema = new Schema({
       ],
       toDOM(node) { let {level, id, color} = node.attrs; return id == "" ? color == "" ? ["h" + level, 0] : ["h" + level, {"class": color}, 0] : color == "" ? ["h" + level, {id}, 0] : ["h" + level, {"class": color, id}, 0] }
     },
+    ol: {
+      content: "li+",
+      group: "block",
+      parseDOM: [{tag: "ol"}],
+      toDOM() { return ["ol", 0] },
+    },
+    ul: {
+      content: "li+",
+      group: "block",
+      parseDOM: [{tag: "ul"}],
+      toDOM() { return ["ul", 0] },
+    },
+    li: {
+      content: "inline*",
+      group: "block",
+      attrs: {value: {default: null}},
+      parseDOM: [{tag: "li", getAttrs(dom) { return {value: dom.value} }}],
+      toDOM(node) { let {value} = node.attrs ; return value ===0 ? ["li", {"style": "list-style-type:none"}, 0] : ["li", {value}, 0] },
+    },
     ruby: {
       content: "inline*",
       group: "inline",
@@ -780,23 +799,6 @@ export const ExtendedThreerichTextSchema = new Schema({
       selectable: false,
       parseDOM: [{tag: "wbr"}],
       toDOM() {return ["wbr"]}
-    },
-    ol: {
-      content: "li+",
-      group: "block",
-      parseDOM: [{tag: "ol"}],
-      toDOM() { return ["ol", 0] },
-    },
-    ul: {
-      content: "li+",
-      group: "block",
-      parseDOM: [{tag: "ul"}],
-      toDOM() { return ["ul", 0] },
-    },
-    li: {
-      content: "(block | pre)* ",
-      parseDOM: [{tag: "li"}],
-      toDOM() { return ["li", 0] },
     },
     pre: {
       content: "table*",
