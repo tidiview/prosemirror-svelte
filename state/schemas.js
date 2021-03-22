@@ -549,7 +549,7 @@ export const ExtendedTworichTextSchema = new Schema({
  */
 export const ExtendedThreerichTextSchema = new Schema({
   nodes: {
-    doc: {content: "(block | table)+"},
+    doc: {content: "(block | table | figure)+"},
     table: {
       content: "table_head table_body",
       group: "table",
@@ -595,54 +595,9 @@ export const ExtendedThreerichTextSchema = new Schema({
       parseDOM: [{tag: "td"}],
       toDOM() { return ["td", 0] }
     },
-    paragraph: {
-      content: "inline*",
-      group: "block",
-      parseDOM: [{tag: "p"},{tag: "dl dt"},{tag: "dd"}],
-      toDOM() { return ["p", 0] },
-    },
-    blockquote: {
-      content: "(block|table)+",
-      group: "block",
-      defining: true,
-      attrs: { color: {default: null}},
-      parseDOM: [{tag: "blockquote"},{tag: "div.notices", getAttrs(dom) {return {color: dom.getAttribute("class").split(" ")[1]}} }],
-      toDOM(node) { let {color} = node.attrs; return color == "" ? ["blockquote", 0] : ["blockquote", {"class": color}, 0] },
-    },
-    heading: {
-      content: "inline*",
-      group: "block",
-      defining: true,
-      attrs: {
-        level: {default: 1},
-        id: {default: null},
-        color: {default: null}},
-      parseDOM: [
-        {tag: "h1", getAttrs(dom) { return {level: 1, id: dom.id, color: dom.getAttribute("class")} }},
-        {tag: "h2", getAttrs(dom) { return {level: 2, id: dom.id, color: dom.getAttribute("class")} }},
-        {tag: "h3", getAttrs(dom) { return {level: 3, id: dom.id, color: dom.getAttribute("class")} }},
-        {tag: "h4", getAttrs(dom) { return {level: 4, id: dom.id, color: dom.getAttribute("class")} }},
-        {tag: "h5", getAttrs(dom) { return {level: 5, id: dom.id, color: dom.getAttribute("class")} }},
-        {tag: "h6", getAttrs(dom) { return {level: 6, id: dom.id, color: dom.getAttribute("class")} }}
-      ],
-      toDOM(node) { let {level, id, color} = node.attrs; return id == "" ? color == "" ? ["h" + level, 0] : ["h" + level, {"class": color}, 0] : color == "" ? ["h" + level, {id}, 0] : ["h" + level, {"class": color, id}, 0] }
-    },
-    ruby: {
-      content: "inline*",
-      group: "inline",
-      inline: true,
-      attrs: {lang: {default: null}},
-      parseDOM: [{tag: "ruby", getAttrs(dom) { return {lang: dom.lang} }}, {tag: "rp", ignore: true}],
-      toDOM(node) { let {lang} = node.attrs; return lang == "" ? ["ruby", 0] : ["ruby", {lang}, 0] },
-    },
-    text: {
-      inline: true,
-      group: "inline"
-    },
     figure: {
       content: "(picture figcaption? map?)",
-      inline: true,
-      group: "inline",
+      group: "figure",
       draggable: true,
       parseDOM: [{tag: "figure"}],
       toDOM() { {return ["figure", 0]} },
@@ -738,6 +693,50 @@ export const ExtendedThreerichTextSchema = new Schema({
         }
       }}],
       toDOM(node) { let {href, title, alt, id, shape, coords} = node.attrs; return ["area", {href, title, alt, id, shape, coords}] },
+    },
+    paragraph: {
+      content: "inline*",
+      group: "block",
+      parseDOM: [{tag: "p"},{tag: "dl dt"},{tag: "dd"}],
+      toDOM() { return ["p", 0] },
+    },
+    blockquote: {
+      content: "(block|table)+",
+      group: "block",
+      defining: true,
+      attrs: { color: {default: null}},
+      parseDOM: [{tag: "blockquote"},{tag: "div.notices", getAttrs(dom) {return {color: dom.getAttribute("class").split(" ")[1]}} }],
+      toDOM(node) { let {color} = node.attrs; return color == "" ? ["blockquote", 0] : ["blockquote", {"class": color}, 0] },
+    },
+    heading: {
+      content: "inline*",
+      group: "block",
+      defining: true,
+      attrs: {
+        level: {default: 1},
+        id: {default: null},
+        color: {default: null}},
+      parseDOM: [
+        {tag: "h1", getAttrs(dom) { return {level: 1, id: dom.id, color: dom.getAttribute("class")} }},
+        {tag: "h2", getAttrs(dom) { return {level: 2, id: dom.id, color: dom.getAttribute("class")} }},
+        {tag: "h3", getAttrs(dom) { return {level: 3, id: dom.id, color: dom.getAttribute("class")} }},
+        {tag: "h4", getAttrs(dom) { return {level: 4, id: dom.id, color: dom.getAttribute("class")} }},
+        {tag: "h5", getAttrs(dom) { return {level: 5, id: dom.id, color: dom.getAttribute("class")} }},
+        {tag: "h6", getAttrs(dom) { return {level: 6, id: dom.id, color: dom.getAttribute("class")} }}
+      ],
+      toDOM(node) { let {level, id, color} = node.attrs; return id == "" ? color == "" ? ["h" + level, 0] : ["h" + level, {"class": color}, 0] : color == "" ? ["h" + level, {id}, 0] : ["h" + level, {"class": color, id}, 0] }
+    },
+    ruby: {
+      content: "inline*",
+      group: "inline",
+      inline: true,
+      attrs: {lang: {default: null}},
+      parseDOM: [{tag: "ruby", getAttrs(dom) { return {lang: dom.lang} }}, {tag: "rp", ignore: true}],
+      toDOM(node) { let {lang} = node.attrs; return lang == "" ? ["ruby", 0] : ["ruby", {lang}, 0] },
+    },
+    text: {
+      inline: true,
+      group: "inline"
     },
     audio: {
       content: "audiosource*",
