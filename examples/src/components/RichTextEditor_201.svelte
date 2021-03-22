@@ -6,6 +6,7 @@
 
   const html = `
 <h1 class="yellow">Adonis</h1>
+
 <section>
   <figure><picture><source sizes="(max-width: 767px) 98vw, 52vw" srcset="
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-280.webp 280w,
@@ -19,6 +20,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-640.jpg 640w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/01.adonis/adonis_700x676.jpg 700w"></picture><figcaption>Venus looks at Adonis dying killed by a wild boar</figcaption></figure>
 </section>
+
 <section>
   <article>
     <div class="notices yellow">
@@ -29,10 +31,11 @@
     </div>
   </article>
 </section>
+
 <section>
   <article>
-    <h2 class="yellow">Adonis according to <cite>The Metamorphoses</cite></h2>
     <section>
+    <h2 class="yellow">Adonis according to <cite>The Metamorphoses</cite></h2>
       <ol>
       <li value="708">
       She warned him, and made her way through the air, drawn by harnessed swans, but his courage defied the warning.</li>
