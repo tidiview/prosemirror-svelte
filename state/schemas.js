@@ -697,8 +697,10 @@ export const ExtendedThreerichTextSchema = new Schema({
     paragraph: {
       content: "inline*",
       group: "block",
-      parseDOM: [{tag: "p"},{tag: "dl dt"},{tag: "dd"}],
-      toDOM() { return ["p", 0] },
+      attrs: {color: {default: null}},
+      parseDOM: [{tag: "p", getAttrs(dom) {
+        return {color: dom.style["color"]} }},{tag: "dl dt"},{tag: "dd"}],
+      toDOM(node) { let {color} = node.attrs ; return color == "" ? ["p", 0] : ["p", {"style": "color:" + color}, 0] },
     },
     blockquote: {
       content: "(block|table)+",
@@ -850,7 +852,7 @@ export const ExtendedThreerichTextSchema = new Schema({
     q: {
       attrs: {color: {default: null}},
       parseDOM: [{tag: "q", getAttrs(dom) {
-        return {color: dom.style["color"]} }}],
+        return {color: dom.style["color"]} } }],
       toDOM(node) { let {color} = node.attrs ; return color == "" ? ["q", 0] : ["q", {"style": "color:" + color}, 0] },
     },
     span: {
