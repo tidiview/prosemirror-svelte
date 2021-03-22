@@ -282,6 +282,7 @@ The Remi were to be rewarded notabily by the recognition of Reims as capital cit
 <td>The vineae having been quickly brought up against the town, a mound thrown up, and towers built, the Gauls, amazed by the greatness of the works, such as they had neither seen nor heard of before, and struck also by the dispatch of the Romans, send embassadors to <span style="color: #3d8b3d;">Caesar</span> respecting a surrender, and succeed in consequence of <span style="color: #3d8b3d;">the Remi</span> requesting that they [the Suessiones] might be spared. </td></tr>
 </tbody>
 </table>
+<p><span style="color: #3d8b3d;">Julius Caesar, “Commentaries on the Gallic War”, Book II, chapters 1 and followings</span></p>
 </div>
 `;
 
