@@ -82,8 +82,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardin
 女神も、いまは、渇きよりも怒りが先に立ちました。
 もう、懇願する気にもなれなかったし、神にふさわしくないような言葉を口にすることにも堪えられません。
 両手を高くさしあげると、こういったのです。</td></tr>
-<tr><td></td>
-<td>
+<tr><td></td><td>
 「お前たちのその池に、いつまでも<ruby>佇<rp>(</rp><rt>ただす</rt><rp>)</rp></ruby>んでいることです！」</td></tr>
 <tr><td></td>
 <td>
