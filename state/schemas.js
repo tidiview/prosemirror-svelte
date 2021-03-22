@@ -549,7 +549,22 @@ export const ExtendedTworichTextSchema = new Schema({
  */
 export const ExtendedThreerichTextSchema = new Schema({
   nodes: {
-    doc: {content: "(block | table | figure)+"},
+    doc: {content: "(section | block)+"},
+    section: {
+      content: "(figure | article | aside | block)+", /* (block | table | figure)+ */
+      parseDOM: [{tag: "section"}],
+      toDOM() { return ["section", 0] },
+    },
+    article: {
+      content: "(block | section)*",
+      parseDOM: [{tag: "article"}],
+      toDOM() { return ["article", 0] },
+    },
+    aside: {
+      content: "block*",
+      parseDOM: [{tag: "aside"}],
+      toDOM() { return ["aside", 0] },
+    },
     table: {
       content: "table_head table_body",
       group: "table",
@@ -703,7 +718,7 @@ export const ExtendedThreerichTextSchema = new Schema({
       toDOM(node) { let {color} = node.attrs ; return color == "" ? ["p", 0] : ["p", {"style": "color:" + color}, 0] },
     },
     blockquote: {
-      content: "(block|table)+",
+      content: "(block | table)+",
       group: "block",
       defining: true,
       attrs: { color: {default: null}},
@@ -863,6 +878,11 @@ export const ExtendedThreerichTextSchema = new Schema({
         return {color: dom.style["color"], title: dom.title}
       }}],
       toDOM(node) { let {color, title} = node.attrs ; return color == "" ? title == "" ? ["span", 0] : ["span", {"title": title}, 0] : title == "" ? ["span", {"style": "color:" + color}, 0] : ["span", {"style": "color:" + color,"title": title}, 0]  },
+    },
+    time: {
+      attrs: {datetime: {default: null}},
+      parseDOM: [{tag: "time", getAttrs(dom) { return {datetime: dom.getAttribute("datetime")}} }],
+      toDOM(node) { let {datetime} = node.attrs ; return ["time", {datetime}, 0] },
     },
   },
 });
