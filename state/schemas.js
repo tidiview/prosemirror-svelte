@@ -848,6 +848,12 @@ export const ExtendedThreerichTextSchema = new Schema({
       parseDOM: [{tag: "cite"}],
       toDOM() { return ["cite", 0] },
     },
+    q: {
+      attrs: {color: {default: null}},
+      parseDOM: [{tag: "q", getAttrs(dom) {
+        return {color: dom.style["color"]} }}],
+      toDOM(node) { let {color} = node.attrs ; return color == "" ? ["q", 0] : ["q", {"style": "color:" + color}, 0] },
+    },
     span: {
       attrs: {color: {default: null}, title: {default: null}},
       parseDOM: [{tag: "span", getAttrs(dom) {
