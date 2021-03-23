@@ -36,12 +36,10 @@ these fews pages aim at presenting its different aspects to allow a deeper under
 <li>finally by relating the different elements of the image with the different texts at the origin of the represented scenes.</li>
 </ol>
 </div>
-<p><br></p>
 <h2 id="a-propos-de-cet-article" class="yellow">about this article<a class="anchorjs-link " href="#a-propos-de-cet-article" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
 <p>To produce this article, we are indebted to reference works, particularly those of <a href="#de-vos-1" id="renvoi-de-vos-1" class="yellow">Dirk DE VOS, “Hans Memling - The Complete Work”</a> and <a href="#de-vos-2" id="renvoi-de-vos-2" class="yellow">“Hans Memling”</a>.<br>
 However, our aim is not to produce an interpretation of the work here, but rather <span style="color: #e6a64d;">a description</span> and through it to make available the elements that make it possible to grasp it: <span style="color: #e6a64d;">quality reproductions</span> <a href="#note-1" title="note-1" id="renvoi-note-1"><sup style="color:#555;">1</sup></a> , <span style="color: #e6a64d;">the main sources of the work</span>, whether textual or pictorial, which today, even in the case of specialised paper works available, for example, in libraries, is too often done only by reference or implied.<br>
 Our goal will have been achieved if the reader is in a position to <span style="color: #e6a64d;">measure and thus deepen his or her own perception</span> of a work that we think deserves attention <span style="color: #e6a64d;">as much as is great the radiance of its presence</span>.</p>
-<p><br></p>
 <div class="notices yellow">
 <h3 id="table-des-matieres" class="yellow">table of contents</h3>
 <ol>
@@ -95,7 +93,6 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-1920.jpg 1920w"></picture><figcaption>View of the exhibition space from the entrance of the church of the Old St. John Hospital</figcaption></figure>
-<p><br></p>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-380.webp 380w,
@@ -113,7 +110,6 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-1280.jpg 1280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-1600.jpg 1600w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-1920.jpg 1920w"></picture><figcaption>View of the exhibition space from the entrance of the church of the Old St. John Hospital</figcaption></figure>
-<p><br></p>
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-380.webp 380w,
@@ -219,7 +215,6 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 </pre>
 <p><a href="#renvoi-lorentz-1" title="renvoi-de-vos-1">↑ back to this page</a> <a href="#renvoi-lorentz-2" title="renvoi-lorentz-2">↑ back to page 3</a></p>
 </div>
-<p><br></p>
 <hr>
 <p><a href="#renvoi-note-1" title="renvoi note-1" id="note-1">note:</a><br>
 the reproductions of the work that we make available to the public are, to our knowledge, the best currently available outside professional works: they have required a great deal of efforts from us because of the low intensity and yellow of the current lighting.<br>
@@ -586,7 +581,6 @@ The believer can then exercise an action in conformity with the virtue to which 
 <li>back to the text «<a href="#renvoi-devotion-moderne" title="renvoi mouvement «dévotion moderne»">A detailed presentation of this movement can be found in note ↑</a>»</li>
 </ul>
 </div>
-<p><br></p>
 <div class="footnotes">
 <hr>
 <ol>

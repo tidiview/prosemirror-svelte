@@ -45,7 +45,7 @@
   <article>
   <section>
   <h2 class="yellow"><cite>Perseus and Andromeda</cite> according to <cite>The Metamorphoses</cite></h2>
-    <ol>
+    <ol class="doc">
       <li>Aeolus, son of Hippotas, had confined the winds in their prison under Mount Etna, and Lucifer, who exhorts us to work, shone brightest of all</li>
       <li value="665">
       in the depths of the eastern sky.</li>

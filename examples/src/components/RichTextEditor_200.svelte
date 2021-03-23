@@ -38,7 +38,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire
 <p>May this tale of the adventures of the goddess of hunting and actæon bepleasant to you!</p>
 </div>
 <h2 class="green">Actæon according to <cite>The Metamorphoses</cite></h2>
-<ol>
+<ol class="doc">
 <li>Now Thebes stands, and now you might be seen as happy, in your exile, Cadmus.</li>
 <li value="135">You have Mars and Venus as your bride’s parents, and added to this the children of so noble a wife, so many sons and daughters, and dearly loved descendants, your grandchildren, who now are young men.</li>
 <li>But in truth we should always wait for a man’s last day, for that time when he has paid his last debt, and we should call no man’s life happy until he is dead.</li>

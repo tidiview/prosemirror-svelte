@@ -36,7 +36,7 @@
   <article>
     <section>
     <h2 class="yellow">Adonis according to <cite>The Metamorphoses</cite></h2>
-      <ol>
+      <ol class="doc">
       <li value="708">
       She warned him, and made her way through the air, drawn by harnessed swans, but his courage defied the warning.</li>
       <li value="710">

@@ -7,8 +7,8 @@
   const html = `
 <section>
   <h1 class="yellow">Archangel Michael in the Apocalypse</h1>
-  <h2 id="renvoi_bataille" class="yellow">Archangel Michael according to chapter 12 of the Apocalypse [Ap. 12-7]</h2>
-  <ol>
+  <h2 id="renvoi_bataille" class="yellow">Archangel Michael according to chapter 12 of the Apocalypse</h2>
+  <ol class="doc">
     <li value="01">Now a great sign appeared in heaven: a woman, robed with the sun, standing on the moon, and on her head a crown of twelve stars.</li>
     <li value="02">She was pregnant, and in labour, crying aloud in the pangs of childbirth.</li>
     <li value="03">Then a second sign appeared in the sky: there was a huge red dragon with seven heads and ten horns, and each of the seven heads crowned with a coronet.</li>
