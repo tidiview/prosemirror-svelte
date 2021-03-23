@@ -550,7 +550,7 @@ export const ExtendedTworichTextSchema = new Schema({
 export const ExtendedThreerichTextSchema = new Schema({
   nodes: {
     doc: {
-      content: "(section | nav | hr)*"
+      content: "(article | aside | section | nav | hr)*"
     }, /* (block | table | figure)+ */
     section: {
       content: "(figure | article | aside | block)+",
