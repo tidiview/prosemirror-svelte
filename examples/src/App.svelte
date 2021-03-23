@@ -116,7 +116,7 @@
   import ProsemirrorLogo from "./components/ProsemirrorLogo.svelte"
   import SvelteLogo from "./components/SvelteLogo.svelte"
 
-  let selectedExample = 'richtext_198';
+  let selectedExample = 'richtext_176';
 
   const examples = {
     "plaintext": {
@@ -786,7 +786,7 @@
       component: RichTextEditor_210
     },
     "richtext_211": {
-      name: "#110: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      name: "#111: Extending schema to Html ruby tag, tables, coloured blockquotes",
       title: 'Rich text 211: Extending schema',
       subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
       component: RichTextEditor_211
