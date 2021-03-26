@@ -765,14 +765,15 @@ export const ExtendedThreerichTextSchema = new Schema({
     ol: {
       content: "li+",
       group: "block",
-      parseDOM: [{tag: "ol"}],
-      toDOM() { return ["ol", 0] },
+      attrs: {start: {default: null}},
+      parseDOM: [{tag: "ol", getAttrs(dom) { return {start: dom.start} }}],
+      toDOM(node) { let {start} = node.attrs; return start == "" ?  ["ol", 0] : ["ol", {start}, 0] },
     },
     ul: {
       content: "li+",
       group: "block",
       parseDOM: [{tag: "ul"}],
-      toDOM() { return ["ul", 0] },
+      toDOM() { return["ul", 0] },
     },
     li: {
       content: "block*", /* has to be block - can be (block | inline also */
