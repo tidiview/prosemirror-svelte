@@ -29,32 +29,62 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/saint-jean_0-1920.jpg 1920w"></picture><figcaption>le triptyque ouvert</figcaption>
   </figure>
   
-  <article>
+  <section><article>
     <h2 class="yellow">une œuvre majeure d'Hans Memling</h2>
     <section><article>
       <h3 class="yellow">le triptyque de l'hôpital Saint-Jean de Bruges depuis le XV<sup>ème</sup> siècle</h3>
-      <div class="notices yellow">
-      <p>Ce triptyque a été conçu et réalisé pour le maître-autel de la nouvelle abside de l'église de l'ancien hôpital Saint-Jean de Bruges construite en <time datetime="1473">1473</time>-74, où il se trouve toujours.</p>
-      <p>Le cadre porte en latin l'inscription «<ruby lang="fr">ŒUVRE<rp>(</rp><rt lang="la">OPVs</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>D'HANS<rp>(</rp><rt lang="la">IOHANNIS</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>MEMLING<rp>(</rp><rt lang="la">MEMLING</rt><rp>)</rp></ruby>», première signature connue du peintre, et une date: «<time datetime="1479">1479</time>».</p>
-      <p>Il comporte un panneau central, qu'encadrent deux volets à droite et à gauche fixés par des charnières.</p>
-      <p>Les personnages représentés sont un tout petit peu moins grands que grandeur nature.</p>
-      </div>
+      <section><article>
+        <div class="notices yellow">
+          <p>Ce triptyque a été conçu et réalisé pour le maître-autel de la nouvelle abside de l'église de l'ancien hôpital Saint-Jean de Bruges construite en <time datetime="1473">1473</time>-<time datetime="1474">74</time>, où il se trouve toujours.</p>
+          <p>Le cadre porte en latin l'inscription «<ruby lang="fr">ŒUVRE<rp>(</rp><rt lang="la">OPVs</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>D'HANS<rp>(</rp><rt lang="la">IOHANNIS</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>MEMLING<rp>(</rp><rt lang="la">MEMLING</rt><rp>)</rp></ruby>», première signature connue du peintre, et une date: «<time datetime="1479">1479</time>».</p>
+          <p>Il comporte un panneau central, qu'encadrent deux volets à droite et à gauche fixés par des charnières.</p>
+          <p>Les personnages représentés sont un tout petit peu moins grands que grandeur nature.</p>
+          <p>L'œuvre est de premier abord, de part sa taille, très impressionnante.</p>
+        </div>
+      </article></section>
     </article></section>
-
+    
     <section><article>
-      <h3 id="presentation-de-l-œuvre" class="yellow">présentation de l'œuvre</h3>
-      <p>Dans les pages qui suivent, nous présentons les différents aspects cette œuvre afin d'en permettre une compréhension approfondie:</p>
-      <ol>
-        <li>d'abord par une <a href="#presentation-photographique" title="presentation-photographique" id="renvoi-presentation-photographique" class="yellow">présentation photographique de l'œuvre dans son espace d'exposition</a>, la nouvelle abside de l'église de l'hôpital,</li>
-        <li>puis par une <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:2#description" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:2#description" class="yellow">description détaillée de ce qu'elle représente</a>,</li>
-        <li>enfin par la <a href="/docs/fr/bruges/hopital-saint-jean/sint-jean/page:16#mise-en-relation" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" id="renvoi-mise-en-relation" class="yellow">mise en relation des différents éléments de l'image avec les différents textes</a> sur lesquels il est raisonnable de penser que le peintre lui-même s'est fondé afin de concevoir sa représentation des sujets religieux. </li>
-      </ol>
+      <h3 class="yellow">à propos de cet article</h3>
+      <section><article>
+        <h4 class="yellow">objectifs de cet article</h4>
+        <section><article>
+          <div class="notices yellow">
+            <p>L'article que nous rédigeons se donne pour objectif de dépasser ce premier regard:</p>
+            <ol>
+              <li>nous décrivons en détails les quantités de petites scènes que Memling a disposés dans le paysage au moyen de <span style="color: #e6a64d;">reproductions de qualité</span> <a href="#note-1" title="note-1" id="renvoi-note-1"><sup style="color:#555;">note 1</sup></a>,</li>
+              <li>les relions aux sources, quelles soient textuelles ou picturales, dont il est raisonnable de penser qu'elles ont directement inspiré Memling,</li>
+              <li>reconstituons un récit qui rende compte de sa cohérence autant que de son unité,</li>
+              <li>mettons à disposition les textes dont nous faisons état afin de permettre de juger de nos choix.</li>
+            </ol>
+            <p>Par là, nous devrions permettre au lecteur de se rendre plus familier de la société de Bruges à la fin du XV<sup>ème</sup> siècle, notamment:
+            <ul>
+              <li>du merveilleux chrétien de l'ouvrage de Jacques de Voragine, <cite>La Légende Dorée</cite>,</li>
+              <li>de la sensibilité de ce courant de réforme religieuse, la “dévotion moderne”,</li>
+              <li>de l'opulence économique, de la magnificience sociale urbaines du Duché de Bourgogne.</li>
+            </ul>
+            <p>Notre but aura été atteint si le lecteur se trouve en position de <span style="color: #e6a64d;">mesurer et ainsi d'approfondir lui-même sa perception</span> d'une œuvre dont nous pensons qu'elle mérite de retenir l'attention <span style="color: #e6a64d;">tant est grand l'éclat de sa présence</span>.</p>
+          </div>
+        </article></section>
+      </article></section>
+
+      <section><article>
+        <h4 class="yellow">plan de cet article</h4>
+        <section><article>
+          <p>Dans les pages qui suivent, nous présentons les différents aspects cette œuvre:</p>
+          <ol>
+            <li>d'abord par une <a href="#presentation-photographique" title="presentation-photographique" id="renvoi-presentation-photographique" class="yellow">présentation photographique de l'œuvre dans son espace d'exposition</a>, la nouvelle abside de l'église de l'hôpital,</li>
+            <li>puis par une <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:2#description" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:2#description" class="yellow">description détaillée de ce qu'elle représente</a>,</li>
+            <li>enfin par la <a href="/docs/fr/bruges/hopital-saint-jean/sint-jean/page:16#mise-en-relation" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" id="renvoi-mise-en-relation" class="yellow">mise en relation des différents éléments de l'image avec les différents textes</a> sur lesquels il est raisonnable de penser que le peintre lui-même s'est fondé afin de concevoir sa représentation des sujets religieux.</li>
+          </ol>
+        </article></section>
+      </article></section>
     </article></section>
-  </article>
+  </article></section>
 
   <hr>
 
-  <article>
+  <section><article>
     <h2 id="presentation-photographique" class="yellow">présentation photographique de l'œuvre dans son espace d'exposition</h2>
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -109,125 +139,8 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-1600.jpg 1600w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-1920.jpg 1920w"></picture><figcaption>Vue de l'espace du triptyque depuis l'abside de l'église de l'hôpital Saint-Jean</figcaption>
     </figure>
-  </article>
-</article>
-  
-<aside>
-  <section><article>
-    <h3 id="a-propos-de-cet-article" class="yellow">à propos de cet article</h3>
-    <p>Pour réaliser cet article, nous sommes redevables de travaux de référence, particulièrement ceux de <a href="#de-vos-1" id="renvoi-de-vos-1" class="yellow">Dirk DE VOS, “Hans Memling - L'œuvre complet”</a> et <a href="#de-vos-2" id="renvoi-de-vos-2" class="yellow">“Hans Memling”</a>.</p>
-    <p>Notre but n'est toutefois pas de produire ici une  interprétation de l'œuvre mais plutôt <span style="color: #e6a64d;">une desciption</span> et à travers elle de mettre à disposition les éléments qui permettent de s'en saisir: <span style="color: #e6a64d;">des reproductions de qualité</span> <a href="#note-1" title="note-1" id="renvoi-note-1"><sup style="color:#555;">note 1</sup></a> , <span style="color: #e6a64d;">les principales sources de l'œuvre</span>, quelles soient textuelles ou picturales, ce qui aujourd'hui, même dans le cas d'ouvrages papier spécialisés disponibles par exemple dans des bibliothèques, ne se fait trop souvent que par renvoi ou sous-entendu.</p>
-    <p>Notre but aura été atteint si le lecteur se trouve en position de <span style="color: #e6a64d;">mesurer et ainsi d'approfondir lui-même sa perception</span> d'une œuvre dont nous pensons qu'elle mérite de retenir l'attention <span style="color: #e6a64d;">tant est grand l'éclat de sa présence</span>.</p>
   </article></section>
-
-  <hr>
-
-  <section><article>
-    <h3 id="de-vos" class="yellow">références des livres cités de Dirk DE VOS:</h3>
-      <ul>
-        <li>en français:
-          <pre id="de-vos-1">
-            <table>
-              <thead>
-              <tr>
-              <th><span hidden="">hidden</span></th>
-              <th><span hidden="">hidden</span></th>
-              </tr>
-              </thead>
-              <tbody>
-              <tr>
-              <td>Titre</td>
-              <td>Paru en</td>
-              <td>ISBN-10</td>
-              </tr>
-              <tr>
-              <td>Hans Memling: l'œuvre complet</td>
-              <td>1994</td>
-              <td>2-226-06992-5</td>
-              </tr>
-              <tr>
-              <td>Hans Memling: catalogue</td>
-              <td>1994</td>
-              <td>90-5544-028-0</td>
-              </tr>
-              </tbody>
-              </table>
-              </pre></li>
-              <li>en anglais:
-              <pre id="de-vos-2"><table>
-              <thead>
-              <tr>
-              <th><span hidden="">hidden</span></th>
-              <th><span hidden="">hidden</span></th>
-              </tr>
-              </thead>
-              <tbody>
-              <tr>
-              <td>Titre</td>
-              <td>Paru en</td>
-              <td>ISBN-10</td>
-              </tr>
-              <tr>
-              <td>Hans Memling: The Complete Works</td>
-              <td>1994</td>
-              <td>0810936496</td>
-              </tr>
-              <tr>
-              <td>Hans Memling: Catalogue</td>
-              <td>1994</td>
-              <td>9055440299</td>
-              </tr>
-              </tbody>
-            </table>
-          </pre>
-        <p><a href="#renvoi-de-vos-1" title="renvoi-de-vos-1">↑ retour cette page</a> <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:2#renvoi-de-vos-2" title="renvoi-de-vos-2">↑ retour page 2</a></p></li>
-      </ul>
-    </article>
-
-    <article>
-      <header>
-        <h3 id="lorentz" class="yellow">références du livre cité de Philippe LORENTZ:</h3>
-      </header>
-
-      <ul>
-        <li>en français:
-        <pre id="lorents-1">
-        <table>
-          <thead>
-          <tr>
-          <th><span hidden="">hidden</span></th>
-          <th><span hidden="">hidden</span></th>
-          </tr>
-          </thead>
-          <tbody>
-          <tr>
-          <td>Titre</td>
-          <td>Paru en</td>
-          <td>ISBN-10</td>
-          </tr>
-          <tr>
-          <td>Hans Memling au Louvre (exposition, Musée du Louvre, Salle de la Chapelle, aile Sully, 18 Mai-14 Août 1995)</td>
-          <td>1995</td>
-          <td>2-7118-3275-9</td>
-          </tr>
-          </tbody>
-        </table>
-        </pre>
-        </li>
-      </ul>
-
-      <footer>
-        <p><a href="#renvoi-lorentz-1" title="renvoi-de-vos-1">↑ retour cette page</a> <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#renvoi-lorentz-2" title="renvoi-lorentz-2">↑ retour page 3</a></p>
-      </footer>
-    </article>
-    <hr>
-    <article>
-      <p><a href="#renvoi-note-1" title="renvoi note-1" id="note-1">note 1:</a></p>
-      <p>les reproductions de l'œuvre que nous mettons à disposition du public sont à notre connaissance les meilleures actuellement existantes en dehors d'ouvrages professionnels: elles nous ont demandé un énorme travail du fait de la faiblesse de l'intensité et du jaune de l'éclairage actuel.</p>
-      <p><a href="#renvoi-note-1" title="renvoi note-1">↑ retour au texte</a></p>
-    </article>
-  </section>
-</aside>
+</article>
 
 <hr>
 
@@ -271,11 +184,138 @@
   </ol>
 </nav>
 
+<hr>
+
+<aside>
+  <section><article>
+    <h3 id="a-propos-de-cet-article" class="yellow">références de cet article</h3>
+    <section><article>
+      <p>Pour réaliser cet article, nous sommes redevables de travaux de référence, particulièrement ceux de <a href="#de-vos-1" id="renvoi-de-vos-1" class="yellow">Dirk DE VOS, “Hans Memling - L'œuvre complet”</a> et <a href="#de-vos-2" id="renvoi-de-vos-2" class="yellow">“Hans Memling”</a>.</p>
+    </article></section>
+
+    <section><article>
+      <h4 id="de-vos" class="yellow">références des livres cités de Dirk DE VOS:</h4>
+      <section><article>
+        <ul>
+          <li>en français:
+            <pre id="de-vos-1">
+              <table>
+                <thead>
+                <tr>
+                <th><span hidden="">hidden</span></th>
+                <th><span hidden="">hidden</span></th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                <td>Titre</td>
+                <td>Paru en</td>
+                <td>ISBN-10</td>
+                </tr>
+                <tr>
+                <td>Hans Memling: l'œuvre complet</td>
+                <td>1994</td>
+                <td>2-226-06992-5</td>
+                </tr>
+                <tr>
+                <td>Hans Memling: catalogue</td>
+                <td>1994</td>
+                <td>90-5544-028-0</td>
+                </tr>
+                </tbody>
+                </table>
+                </pre></li>
+                <li>en anglais:
+                <pre id="de-vos-2"><table>
+                <thead>
+                <tr>
+                <th><span hidden="">hidden</span></th>
+                <th><span hidden="">hidden</span></th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                <td>Titre</td>
+                <td>Paru en</td>
+                <td>ISBN-10</td>
+                </tr>
+                <tr>
+                <td>Hans Memling: The Complete Works</td>
+                <td>1994</td>
+                <td>0810936496</td>
+                </tr>
+                <tr>
+                <td>Hans Memling: Catalogue</td>
+                <td>1994</td>
+                <td>9055440299</td>
+                </tr>
+                </tbody>
+              </table>
+            </pre>
+          </li>
+        </ul>
+      </article></section>
+      <footer>
+        <p><a href="#renvoi-de-vos-1" title="renvoi-de-vos-1">↑ retour cette page</a> <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:2#renvoi-de-vos-2" title="renvoi-de-vos-2">↑ retour page 2</a></p></li>
+      </footer>
+    </article></section>
+
+    <section><article>
+      <h4 id="lorentz" class="yellow">références du livre cité de Philippe LORENTZ:</h4>
+      <section><article>
+        <div class="notices yellow">
+          <ul>
+            <li>en français:
+              <pre id="lorents-1">
+                <table>
+                  <thead>
+                  <tr>
+                  <th><span hidden="">hidden</span></th>
+                  <th><span hidden="">hidden</span></th>
+                  </tr>
+                  </thead>
+                  <tbody>
+                  <tr>
+                  <td>Titre</td>
+                  <td>Paru en</td>
+                  <td>ISBN-10</td>
+                  </tr>
+                  <tr>
+                  <td>Hans Memling au Louvre (exposition, Musée du Louvre, Salle de la Chapelle, aile Sully, 18 Mai-14 Août 1995)</td>
+                  <td>1995</td>
+                  <td>2-7118-3275-9</td>
+                  </tr>
+                  </tbody>
+                </table>
+              </pre>
+            </li>
+          </ul>
+        </div>
+      </article></section>
+      <footer>
+        <p><a href="#renvoi-lorentz-1" title="renvoi-de-vos-1">↑ retour cette page</a> <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#renvoi-lorentz-2" title="renvoi-lorentz-2">↑ retour page 3</a></p>
+      </footer>
+    </article></section>
+
+    <hr>
+
+    <section><article>
+      <header>
+        <p><a href="#renvoi-note-1" title="renvoi note-1" id="note-1">note 1:</a></p>
+      </header>
+      <p>les reproductions de l'œuvre que nous mettons à disposition du public sont à notre connaissance les meilleures actuellement existantes en dehors d'ouvrages professionnels: elles nous ont demandé un énorme travail du fait de la faiblesse de l'intensité et du jaune de l'éclairage de l'espace d'exposition du Musée Memling de Bruges à l'heure où cet article a été rédigé (<time datetime="2018">2018</time>).</p>
+      <footer>
+        <p><a href="#renvoi-note-1" title="renvoi note-1">↑ retour au texte</a></p>
+      </footer>
+    </article></section>
+  </article></section>
+</aside>
+
 <!-- Page 2 --><hr>
 
 <article>
-  <header>
-    <h2 id="description" class="yellow">description de l'œuvre</h2>
+  <h2 id="description" class="yellow">description de l'œuvre</h2>
+  <section><article>
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/saint-jean_4-280.webp 280w,
@@ -295,12 +335,14 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/saint-jean_4-1600.jpg 1600w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/saint-jean_4-1920.jpg 1920w"></picture><figcaption>vue du triptyque ouvert</figcaption>
     </figure>
-    <p>Nous décrivons d'abord ce que <span style="color: #e6a64d;">l'œuvre représente</span> et pour cela suivons <span style="color: #e6a64d;">le chemin du regard</span>, commençant par la <span style="color: #e6a64d;">scène principale</span>.</p>
-  </header>
-
-  <section><article><section>
+    <article><section>
+      <p>Nous décrivons d'abord ce que <span style="color: #e6a64d;">l'œuvre représente</span> et pour cela suivons <span style="color: #e6a64d;">le chemin du regard</span>, commençant par la <span style="color: #e6a64d;">scène principale</span>, au centre du panneau central.</p>
+    </article></section>
+  
     <h3 id="couronnement" class="yellow">le couronnement de la vierge</h3>
-    <p>Au centre, <span style="color:#e6a64d;">la Vierge</span> trône sur un siège d'or devant un tissu broché sous un baldaquin de velours rouge.</p>
+    <section><article>
+      <p>Au centre, <span style="color:#e6a64d;">la Vierge</span> trône sur un siège d'or devant un tissu broché sous un baldaquin de velours rouge.</p>
+    </article></section>
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/vierge-280.webp 280w,
@@ -320,9 +362,10 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/vierge-1600.jpg 1600w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/vierge-1920.jpg 1920w"></picture><figcaption>détail du panneau central, “la Vierge et l'enfant Jésus”</figcaption>
     </figure>
-  </section>
-  <section>
-    <p>Elle <span style="color: #e6a64d;">est couronnée “Reine du ciel” par deux petits anges bleus foncés</span> qui voltigent au-dessus d'elle.</p>
+
+    <section><article>
+      <p>Elle <span style="color: #e6a64d;">est couronnée “Reine du ciel” par deux petits anges bleus foncés</span> qui voltigent au-dessus d'elle.</p>
+    </article></section>
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/deux-anges-280.webp 280w,
@@ -342,12 +385,13 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/deux-anges-1600.jpg 1600w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/deux-anges-1920.jpg 1920w"></picture><figcaption>détail du panneau central, deux anges portent la Couronne de la Vierge</figcaption>
     </figure>
-  </section>
   </article></section>
 
   <section><article>
     <h3 class="yellow">l'enfant Jésus</h3>
-    <p>Sur ses genoux, <span style="color: #e6a64d;">l'enfant Jésus</span>, assis, tient une pomme de sa main gauche, et passe de sa main droite <span style="color: #e6a64d;">un anneau</span> d'or au doigt d'<span style="color: #e6a64d;">une femme</span>, en bas à gauche de la vierge, sur le devant.</p>
+    <section><article>
+      <p>Sur ses genoux, <span style="color: #e6a64d;">l'enfant Jésus</span>, assis, tient une pomme de sa main gauche, et passe de sa main droite <span style="color: #e6a64d;">un anneau</span> d'or au doigt d'<span style="color: #e6a64d;">une femme</span>, en bas à gauche de la vierge, sur le devant.</p>
+    </article></section>
 
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -501,7 +545,7 @@
       <section><article>
         <p>Nous reconnaissons <a href="https://fr.wikipedia.org/wiki/Jean_(apôtre)" title="https://fr.wikipedia.org/wiki/Jean_(apôtre)" id="jean-l-evangeliste" class="yellow">Jean l'Évangéliste</a> à un épisode du <span style="color: #999;">chapître 9</span> de la <a href="https://fr.wikipedia.org/wiki/La_Légende_drée" title="https://fr.wikipedia.org/wiki/La_Légende_dorée" id="legende-doree-2" class="yellow">“Légende Dorée”</a>.
         <ul>
-          <li>lire le <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" title="https://francois-vidit.comdocs/fr/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" id="renvoi-aristodeme" class="yellow">texte de la Légende de Jean l'Évangéliste selon le chapître 9 de <cite>La Légende Dorée</cite></a>.</li>
+          <li>lire le <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" title="https://francois-vidit.comdocs/fr/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" id="renvoi-aristodeme" class="yellow">texte de la <cite href="https://francois-vidit.comdocs/fr/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme">Légende de Jean l'Évangéliste</cite> selon le chapître 9 de <cite>La Légende Dorée</cite></a>.</li>
         </ul>
         <p>Jean l'Évangéliste y affronte <span style="color: #e6a64d;">Aristodème</span>, prêtre du temple de Diane en Asie <span style="color: #999;">(sans doute Éphèse)</span>, qui le défie publiquement de <span style="color: #e6a64d;">boire</span> une <span style="color: #e6a64d;">coupe empoisonnée</span>.</p>
         <p>Celui-ci fait, comme Memling le représente, le <span style="color: #e6a64d;">signe de croix</span>, boit la coupe mais le poison ne lui fait aucun mal.</p>
@@ -556,7 +600,7 @@
       <h4 class="yellow">barbe la grande martyre, sa réalité historique</h4>
       <p>Comme pour <a href="#catherine-d-alexandrie" class="yellow">Catherine d'Alexandrie</a>, les historiens modernes doutent de la réalité de son existence et son nom a également été retiré du calendrier général <sup id="fnref2:2"><a href="#fn:2" class="footnote-ref">note 2</a></sup>; le texte sur lequel Memling s'est fondé pour la représenter ne fait pas non plus partie de la <a href="https://fr.wikipedia.org/wiki/La_Légende_dorée" title="https://fr.wikipedia.org/wiki/La_Légende_dorée" id="legende-doree-2" class="yellow">Légende Dorée</a> mais, comme d'autres textes, y a été ajouté ensuite.</p>
       <ul>
-        <li>Lire le <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:7" title="https://francois-vidit.com/docs/fr/saint-jean/page:7" class="yellow">texte <cite>Légende de Barbe la grande martyre</cite> ajouté à <cite>La Légende Dorée</cite></a>.</li>
+        <li>Lire le <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:7" title="https://francois-vidit.com/docs/fr/saint-jean/page:7" class="yellow">texte <cite href="https://francois-vidit.com/docs/fr/saint-jean/page:7">Légende de Barbe la grande martyre</cite> ajouté à <cite>La Légende Dorée</cite></a>.</li>
       </ul>
     </article></section>
     <section><article>
@@ -708,7 +752,7 @@
     </article></section>
   </article></section>
   <section><article>
-    <h3 id="devotion-moderne" class="yellow">une expression remarquable de la “dévotion moderne”</h3>
+    <h3 id="devotion-moderne" class="yellow">La conversation sacrée, expression remarquable de la “dévotion moderne”</h3>
     <section><article>
       <h4 class="yellow">symétrie, simplicité, distinction de la disposition des protagonistes</h4>
       <h5 class="yellow">symétrie, simplicité</h5>
@@ -755,7 +799,7 @@
       </figure>
     </article></section>
     <section><article>
-      <h4 class="yellow">le mouvement de réforme de la foi chrétienne de la société flamande du XV<sup>ème</sup> siècle</h4>
+      <h4 class="yellow">la dévotion moderne, mouvement de réforme de la foi chrétienne de la société flamande du XV<sup>ème</sup> siècle</h4>
       <p>Nous pensons que cet <span style="color: #e6a64d;">équilibre</span> est une caractéristique remarquable de la société flamande du XV<sup>ème</sup> siècle dans laquelle a vécu Memling.</p>
       <p>Le très important mouvement de réforme de la foi chrétienne de cette époque, que les historiens appellent <q><a href="https://fr.wikipedia.org/wiki/Devotio_moderna" title="https://fr.wikipedia.org/wiki/Devotio_moderna" id="devotio-moderna" class="yellow"><ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby></a></q>, éclaire cette transparence simple familière de l'espace représenté.</p>
       <footer>
@@ -765,11 +809,13 @@
       </footer>
     </article></section>
     <section><article>
+      <h4 class="yellow">la dévotion moderne, conversion essentielle universelle, simple, pure, transparente</sup> siècle</h4>
       <p>En Flandres, à l'époque de Memling, un livre de piété chrétienne, <span style="color: #e6a64d;"><cite><a href="https://fr.wikipedia.org/wiki/Gérard_Groote" title="https://fr.wikipedia.org/wiki/Gérard_Groote" id="imitation-de-jesus-christ" class="yellow"><ruby lang="fr">L'Imitation&#160;de<rp>(</rp><rt lang="la">De&#160;imitatione</rt><rp>)</rp>&#160;Jésus-Christ<rp>(</rp><rt lang="la">Christi</rt><rp>)</rp><ruby></a></cite></span>, qui est un énorme succès d'édition <sup id="fnref1:4"><a href="#fn:4" class="footnote-ref">note 1</a></sup>, nous permet aujourd'hui de nous représenter ce qu'a pu être “dévotion moderne”.</p>
     </article></section>
     <section><article>
+      <h5 class="yellow">texte extrait de <cite>L'Imitation de Jésus-Christ</cite></h5>
       <header>
-        <p>On peut y lire par exemple:</p>
+        <p>On peut y lire par exemple <sup id="fnref1:5"><a href="#fn:4" class="footnote-ref">note 2</a></sup>:</p>
       </header>
       <article>
         <ol class="doc">
@@ -788,30 +834,35 @@
           <li value="13">Comme le fer mis au feu perd sa rouille et devient tout étincelant, ainsi celui qui se donne sans réserve à dieu se dépouille de sa langueur et se change en un être nouveau.</li>
         </ol>
       </article>
-      <footer>
-        <p>source: <cite href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis#cite_ref-5">L'imitation de notre Seigneur Jésus Christ</cite>, trad. de F. de Lamennais, Éd. Arts et Métiers graphiques, Paris, 1946, p. 59-60, II, 4, 1-2 (partie II, chapitre 4, paragraphes 1 et 2).</p></footer>
     </article></section>
     <section><article>
-      <p>Dans l'œuvre de Memling, <strong>la conversation sacrée fonctionne selon cette simplicité et cette pureté dans l'espace représenté  autant par rapport aux spectateurs</strong> comme <span style="color: #e6a64d;"><strong>miroir de vie</span> entre l'espace du triptyque et l'espace des spectateurs</strong>:</p>
-      <ul>
-        <li>d'un côté les malades <span style="color: #e6a64d;">«<em>conversent</em>»</span> avec les figures représentées,</li>
-        <li>de l'autre celles-ci <span style="color: #e6a64d;">«<em>apparaissent</em>»</span> ici et maintenant, comme Brugeoises et Brugeois de <time datetime="1479">1479</time>.</li>
-      </ul>
-      <p>La scène fonctionne comme aussi comme <span style="color: #e6a64d;">«livre rempli de saintes instructions»</span>:</p>
-      <ul>
-        <li><span style="color: #e6a64d;">simplicité et évidence spirituelles produisent</span> de manière merveilleuse et continue <span style="color: #e6a64d;">sophistication et opulence matérielles</span>.</li>
-      </ul>
-      <p><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" id="renvoi-de-vos-2" class="yellow">Dirk DE VOS</a> évoque:</p>
-      <ul>
-        <li><span style="color: #e6a64d;">«un monde de vierges vêtues de brocart d'or, de soie et d'hermine, couronnes dorées et de pierres précieses rares»</span> où <span style="color: #e6a64d;">«l'enfant Jésus fait signe»</span> aux malades dans une <span style="color: #e6a64d;">«atmosphère empreinte de profonde sérénité»</span>.</li>
-      </ul>
-      <p>De fait, simplicité et l'évidence ne connaissent pas de limites et mènent au divin.</p>
+      <p>Dans la scène représentée par Memling, la conversation sacrée fonctionne selon les termes du texte cité plus haut comme <q><span style="color: #e6a64d;">livre rempli de saintes instructions</span></q> simples, pures, en accord avec le dispositif architural.</p>
     </article></section>
   </article></section>
   <section><article>
     <h3 id="dispositif-architectural" class="yellow">le dispositif architectural représenté dans le panneau central</h3>
     <section><article>
-      <p>Memling se laisse guider de manière incontestable par cette œuvre de <a href="https://fr.wikipedia.org/wiki/Jan_van_Eyk" title="https://fr.wikipedia.org/wiki/Jan_van_Eyck" id="jan-van-eyck" class="yellow">Jan VAN EYCK</a> peinte en 1436 qu'il connaît et va admirer dans la <a href="https://fr.wikipedia.org/wiki/Cathédrale_Saint-Donatien_de_Bruges" title="http://fr.wikipedia.org/wiki/Cathédrale_Saint-Donatien_de_Bruges" id="cathedrale-saint-donatien" class="yellow">cathédrale Saint-Donatien</a>: <a href="https://fr.wikipedia.org/wiki/La_Vierge_au_chanoine_Van_der_Paele" title="https://fr.wikipedia.org/wiki/La_Vierge_auchanoine_Van_der_Paele" id="van-der-paele" class="yellow">“<ruby lang="fr">la&#160;Vierge&#160;au&#160;chanoine&#160;Van&#160;der&#160;Paele<rp>(</rp><rt lang="nl">Madonna&#160;met&#160;kanunnik&#160;Joris&#160;vn&#160;der&#160;Paele</rt><rp>)</rp></ruby>”</a>.</p>
+      <h4 class="yellow">la dévotion moderne, mode de relation entre les protagonistes de la scène représentée et spectateurs</h4>
+      <p>La disposition des lieux représentés, l'abside d'une église, permet au dispositif architectural de fonctionner aussi par rapport aux spectateurs du triptyque.</p>
+      <p>Nous qui regardons le tableau nous trouvons de fait dans l'espace du tableau, partie de la conversation sacrée, en présence des protagonistes de la scène représentée, dans ce rapport d'altérité simple, transparente, familière.</p>
+      <p>De ce point de vue, l'œuvre de Memling fonctionne comme <span style="color: #e6a64d;">miroir de vie</span>:</p>
+      <ul>
+        <li>d'un côté les spectateurs du triptyques, que ce soient malades de l'Hôpital Saint-Jean à l'époque de Memling ou nous aujourd'hui <span style="color: #e6a64d;">«<em>conversent</em>»</span> avec les figures représentées,</li>
+        <li>de l'autre celles-ci <span style="color: #e6a64d;">«<em>s'actualisent</em>»</span> ici et maintenant, comme Brugeoises et Brugeois de <time datetime="1479">1479</time> ou visiteurs du Musée Memling du XXI<sup>ème</sup> siècle.</li>
+      </ul>
+    </article></section>
+    <section><article>
+      <h4 class="yellow">la dévotion moderne, cristallisation du merveilleux de Bruges au XV<sup>ème</sup> siècle</h4>
+      <p>Enfin, la disposition exemplaire d'une représentation où les personnages sont parés des plus belles réalisations vestimentaires de la Bruges du XV<sup>ème</sup> siècle, cristallise le sentiment de <em>merveilleux</em>.</p>
+      <p><span style="color: #e6a64d;">simplicité, évidence, idéalité spirituelles produisent</span> aussi de <em>manière continue</em> <span style="color: #e6a64d;">sophistication et opulence matérielles</span>.</p>
+      <p><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" id="renvoi-de-vos-2" class="yellow">Dirk DE VOS</a> évoque:</p>
+      <blockquote>
+        <p><span style="color: #e6a64d;">«un monde de vierges vêtues de brocart d'or, de soie et d'hermine, couronnes dorées et de pierres précieses rares»</span> où <span style="color: #e6a64d;">«l'enfant Jésus fait signe»</span> aux malades dans une <span style="color: #e6a64d;">«atmosphère empreinte de profonde sérénité»</span>.</p>
+      </blockquote>
+      <p>De fait, à Bruges au XV<sup>ème</sup> siècle, simplicité et l'évidence ne connaissant pas de limites, mènent <em>merveilleusement</em> au divin.</p>
+    </article></section>
+    <section><article>
+      <p>Memling se laisse guider de manière incontestable par cette œuvre de <a href="https://fr.wikipedia.org/wiki/Jan_van_Eyk" title="https://fr.wikipedia.org/wiki/Jan_van_Eyck" id="jan-van-eyck" class="yellow">Jan VAN EYCK</a> peinte en <time datetime="1436">1436</time> qu'il connaît et va admirer dans la <a href="https://fr.wikipedia.org/wiki/Cathédrale_Saint-Donatien_de_Bruges" title="http://fr.wikipedia.org/wiki/Cathédrale_Saint-Donatien_de_Bruges" id="cathedrale-saint-donatien" class="yellow">cathédrale Saint-Donatien</a>: <a href="https://fr.wikipedia.org/wiki/La_Vierge_au_chanoine_Van_der_Paele" title="https://fr.wikipedia.org/wiki/La_Vierge_auchanoine_Van_der_Paele" id="van-der-paele" class="yellow">“<ruby lang="fr">la&#160;Vierge&#160;au&#160;chanoine&#160;Van&#160;der&#160;Paele<rp>(</rp><rt lang="nl">Madonna&#160;met&#160;kanunnik&#160;Joris&#160;vn&#160;der&#160;Paele</rt><rp>)</rp></ruby>”</a>.</p>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-280.webp 280w,
@@ -864,46 +915,65 @@
   <h3 id="note">Note</h3>
   <h4 id="note-devotion-moderne">la dévotion moderne</h4>
 
-  <div class="notices yellow">
   <article>
+    <div class="notices yellow">
     <p>Né un peu plus au nord dans les Pays-Bas actuels, dans la région d'Utrecht à la fin du XIV<sup style="color:#e6a64d;">ème</sup> et au début du XV<sup style="color:#e6a64d;">ème</sup> siècle, la dévotion moderne est initié par un homme, <a href="https://fr.wikipedia.org/wiki/Gérard_Groote" title="https://fr.wikipedia.org/wiki/Gérard_Groote" id="gerard-groote" class="yellow">Gérard Groote</a>, qui critique la piété de son temps, la juge trop austère et trop éloignée du monde
     En réaction, il exhorte le croyant à laisser le christ habiter au plus profond de lui-même.
     Cette présence du christ a vocation selon lui à produire de la simplicité.
     Le croyant peut alors exercer une action conforme à la vertu à laquelle la foi l'appelle, de manière naturelle, là où il se trouve.</p>
+    </div>
     <footer>
       <ul>
         <li>retour au texte <a href="#renvoi-devotion-moderne" title="renvoi mouvement «dévotion moderne»">...une présentation détaillée de ce mouvement se trouve en note ↑</a></li>
       </ul>
     </footer>
   </article>
-  </div>
 
   <hr>
 
-  <div class="footnotes">
-    <article>
+  <article>
+    <div class="footnotes">
       <ol>
         <li id="fn:4">
           <p>Nous suivons les références données dans l'article «l'Imitation de Jésus-Christ» de Wikipedia (date de consultation: 21 août 2018), à savoir:</p>
           <ul>
-            <li>Yann Sordet, Un succès de librairie européen: l'Imitatio Christi (1470-1850), Paris, Bibliothèque Mazarine; Editions des cendres, 2012, 195 p. (ISBN 979-10-90853-01-0), p. 11.</li>
+            <li>Yann Sordet, Un succès de librairie européen: l'Imitatio Christi (1470-1850), Paris, Bibliothèque Mazarine; Editions des cendres, 2012, 195 p. (ISBN 979-10-90853-01-0), p. 11.</p></li>
           </ul>
           <p>D'après les spécialistes, son auteur est un moine: <a href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis" title="https://fr.wikipedia.org/wiki/Thomas_a_Kempis">Thomas A KEMPIS</a>.</p>
         </li>
       </ol>
-      <footer>
-        <ul>
-          <li><a href="#fnref1:4" rev="footnote" class="footnote-backref">retour au texte ↩</a></li>
-        </ul>
-      </footer>
-    </article>
-  </div>
+    </div>
+    <footer>
+      <ul>
+        <li><a href="#fnref1:4" rev="footnote" class="footnote-backref">retour au texte ↩</a></li>
+      </ul>
+    </footer>
+  </article>
+
+  <hr>
+
+  <article>
+    <div class="footnotes">
+      <ol>
+        <li id="fn:5">
+          <p>source: <cite href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis#cite_ref-5">L'imitation de notre Seigneur Jésus Christ</cite>, trad. de F. de Lamennais, Éd. Arts et Métiers graphiques, Paris, 1946, p. 59-60, II, 4, 1-2 (partie II, chapitre 4, paragraphes 1 et 2).</p></li>
+          </ul>
+          <p>D'après les spécialistes, son auteur est un moine: <a href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis" title="https://fr.wikipedia.org/wiki/Thomas_a_Kempis">Thomas A KEMPIS</a>.</p>
+        </li>
+      </ol>
+    </div>
+    <footer>
+      <ul>
+        <li><a href="#fnref1:5" rev="footnote" class="footnote-backref">retour au texte ↩</a></li>
+      </ul>
+    </footer>
+  </article>
 </aside>
 
 <!-- Page 5 --><hr>
 
 <article>
-  <h3 id="organisation-du-recit" class="yellow">organisation du récit pictural des légendes de Jean le Baptiste, Jean l'Évangéliste, de l'institution commanditaire</h3>
+  <h3 id="organisation-du-recit" class="yellow">organisation du récit pictural des légendes de Jean le Baptiste, Jean l'Évangéliste, de l'Hôpital Saint-Jean</h3>
   <section><article>
     <h4 class="yellow">quantité de petites scènes</h4>
     <p>Le récit s'organise autour de quantité de <span style="color: #e6a64d;">petites scènes</span></p>
@@ -1178,7 +1248,8 @@
           <p>«Le huitième jour, ils vinrent pour la circoncision de l’enfant, et ils voulaient l’appeler Zaccharie, du nom de son père. Mais sa mère prit la parole, et dit:</p>
           <p><span style="color: #e6a64d;"><q>Non, il s'appelera Jean</q></span>.</p>
           <p>On lui dit:</p>
-          <p><span style="color: #e6a64d;"><q>Personne dans ta famille ne porte ce nom-là!</q></span> <span style="color: #999;">(…)</span>.</p>
+          <p><span style="color: #e6a64d;"><q>Personne dans ta famille ne porte ce nom-là!</q></span></p>
+          <p><span style="color: #999;">(…)</span>.</p>
           <p>Zacharie se fit donner une tablette sur laquelle il écrivit:</p>
           <p><span style="color: #e6a64d;"><q>Jean est son nom</q></span>».</p>
         </blockquote>
@@ -1674,9 +1745,11 @@
     <section><article>
       <h5 id="jean-a-la-porte-latine" class="yellow">Jean l'Évangéliste ébouillanté sur ordre de l'empereur Domitien devant la Porte Latine à Rome</h5>
       <p>Le récit débute sur le panneau central:</p>
-      <p>«<span style="color: #e6a64d;">Jean</span> préchait à Éphèse lorsqu'il est arrêté par le proconsul et invité à sacrifier aux dieux.
-      Comme il refuse, il est jeté en prison; on envoie alors à <span style="color: #e6a64d;">l'empereur Domitien</span> une lettre le désignant comme magicien sacrilège, contempteur des dieux et adorateur du crucifié.
-      Sur ordre de Domitien, Jean est ensuite conduit à Rome où, après lui avoir coupé les cheveux par dérision, devant la <span style="color: #e6a64d;">porte</span> de la ville qu'on appelle «<span style="color: #e6a64d;">latine</span>», on le flagelle et on le jette dans un chaudron d'huile bouillante sous lequel brûlait un feu ardent» <span style="color: #999;">(chap. 65)</span> <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">note 1</a></sup>.</p>
+      <ol class="doc">
+        <li>«<span style="color: #e6a64d;">Jean</span> préchait à Éphèse lorsqu'il est arrêté par le proconsul et invité à sacrifier aux dieux.</li>
+        <li>Comme il refuse, il est jeté en prison; on envoie alors à <span style="color: #e6a64d;">l'empereur Domitien</span> une lettre le désignant comme magicien sacrilège, contempteur des dieux et adorateur du crucifié.</li>
+        <li>Sur ordre de Domitien, Jean est ensuite conduit à Rome où, après lui avoir coupé les cheveux par dérision, devant la <span style="color: #e6a64d;">porte</span> de la ville qu'on appelle «<span style="color: #e6a64d;">latine</span>», on le flagelle et on le jette dans un chaudron d'huile bouillante sous lequel brûlait un feu ardent» <span style="color: #999;">(chap. 65)</span> <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">note 1</a></sup>.</li>
+      </ol>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/rome-280.webp 280w,
@@ -1696,11 +1769,13 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/rome-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/rome-1920.jpg 1920w"></picture><figcaption>détails du panneau central, “Ébouillantement de Jean l'Évangéliste sur ordre de l'empereur Domitien devant la Porte Latine à Rome et départ en l'exil sur l'île de Patmos”</figcaption>
       </figure>
-      <p>«Mais Jean ne ressentit aucune douleur et en sortit tout à fait indemne, non pas brûlé mais oint.
-      À cette vue, Domitien fut stupéfié et craignit de le mettre à mort.
-      Aussi, à cet endroit, les chrétiens ont-ils construit une église, et ce jour est-il fêté solennellement comme celui du martyre de Jean».</p>
-      <p>La représentation de Memling fait apparaître à l'horizon à gauche, cette <span style="color: #e6a64d;">église</span>, à droite, le <span style="color: #e6a64d;">Colisée de Rome</span> et la <span style="color: #e6a64d;">Porte Latine</span>.</p>
-      <p>«L'empereur, constatant qu'il ne renonçait pas à la prédication, l'exila dans <span style="color: #e6a64d;">l'île de Patmos</span>», <span style="color: #999;">(le départ pour Patmos apparaît au milieu: quelques hommes montent dans un bateau)</span> «où, dans la solitude, il écrivit <span style="color: #e6a64d;">l'Apocalypse</span>» <span style="color: #999;">(chap. 9)</span>.</p>
+      <ol class="doc">
+        <li>«Mais Jean ne ressentit aucune douleur et en sortit tout à fait indemne, non pas brûlé mais oint.
+        À cette vue, Domitien fut stupéfié et craignit de le mettre à mort.
+        Aussi, à cet endroit, les chrétiens ont-ils construit une église, et ce jour est-il fêté solennellement comme celui du martyre de Jean».</li>
+        <li>La représentation de Memling fait apparaître à l'horizon à gauche, cette <span style="color: #e6a64d;">église</span>, à droite, le <span style="color: #e6a64d;">Colisée de Rome</span> et la <span style="color: #e6a64d;">Porte Latine</span>.</li>
+        <li>«L'empereur, constatant qu'il ne renonçait pas à la prédication, l'exila dans <span style="color: #e6a64d;">l'île de Patmos</span>», <span style="color: #999;">(le départ pour Patmos apparaît au milieu: quelques hommes montent dans un bateau)</span> «où, dans la solitude, il écrivit <span style="color: #e6a64d;">l'Apocalypse</span>» <span style="color: #999;">(chap. 9)</span>.</li>
+      </ol>
     </article></section>
 
     <section><article>
@@ -2976,277 +3051,301 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1600.jpg 1600w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1920.jpg 1920w"></picture><figcaption>Barbe la grande martyre</figcaption>
   </figure>
-  <h3 id="barbe-selon-legende" class="yellow">Légende de Barbe la grande martyre selon le texte apocryphe ajouté à <cite>La Légende dorée</cite></h3>
-  <h4>Texte  apocryphe ajouté à <cite>La Légende dorée</cite>: légende de Barbe la grande martyre</h4>
-  <p>Il y avait à <a href="#note_nicomedie" title="Nicomédie" id="nicomedie" class="yellow">Nicomédie</a>, du temps de l'empereur <a href="#note_maximien" title="Maximien" id="maximien" class="yellow">Maximien</a>, un païen du nom de <span style=color: #99713d;">Dioscore</span>, qui était d'une famille très distinguée et qui possédait de grandes richsses.</p>
-  <p>Il avait une fille d'une grande beauté, qui se nommait <span style="color: #994c3d;">Barbe</span>.</p>
-  <p>Son père l'aimait beaucoup;
-  et afin que nul homme ne pût la voir, il la renferma dans une tour très-haute qu'il fit élever.</p>
-  <p>Dès son plus jeune âge, <span style="color: #994c3d;">Barbe</span>, sentant le néant des choses terrestres, commença à s'appliquer à la méditation des choses du ciel.</p>
-  <p>Étant une fois entrée dans un temple, et voyant le long des murailles les statues des idoles, elle demanda à ses parents:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Qu'est-ce que signifient ces images de personnes humaines?</span></p>
-  </blockquote>
-  <p>Ses parents lui répondirent:</p>
-  <blockquote>
-    <p><span style="color: #b3884d;">— Tais-toi; ce ne sont pas des hommes, mais des dieux, et ils veulent être adorés.</span></p>
-  </blockquote>
-  <p><span style="color: #994c3d;">Barbe</span> dit:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Autrefois furent-ils des hommes?</span></p>
-  </blockquote>
-  <p>Et on lui répondit qu'oui.</p>
-  <p>Et elle réfléchissait là-dessus le jour et la nuit, se disant en elle-même:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Si nos dieux ont été des hommes, ils sont donc nés comme des hommes, ils sont morts comme des hommes; s'ils étaient dieux, ils ne seraient point nés et ils ne seraient point morts; car la Divinité, à ce qu'il me semble, ne commence point et ne peut cesser.</span></p>
-  </blockquote>
-  <p>Elle en vint donc à mépriser ces prétendus dieux de bois ou de pierre;
-  mais il lui manquait encore la connaissance du vrai Dieu.</p>
-  <p>Sur ces entrefaites, la renommée se répandit à Nicomédie qu'il y avait à Alexandrie un homme d'une sagesse prodigieuse, nommé <a href="#note_origene" title="Origène" id="origene" class="yellow">Origène</a>, qui démontrait l'existence du vrai Dieu et la vanité des idoles.</p>
-  <p>En apprenant cela, <span style="color: #94c3d;">Barbe</span> fut remplie de joie, et elle songeait comment elle pourrait faire pour aller l'entendre;
-  mais elle n'osa pas en parler à son père, et elle adopta l'idée d'écrire à Origène;
-  ce qu'elle fit en ces termes:</p>
-  <blockquote>
-    <p>— À Origène d'Alexandrie, dont la gloire est universellement répandue, moi, Barbe, de Nicomédie.</span></p>
-    <p><span style="color: #df8f20;">Dès la première lueur de ma raison, j'ai éprouvé dans tout mon cœur le plus vif désir d'arriver à cette connaissance, et j'ai toujours pensé que la Divinité ne pouvait être dans des images, œuvre de nos mains, incapables de parler et d'entendre.</span></p>
-    <p><span style="color: #df8f20;">J'ai pensé aussi que ceux qui avaient été des hommes, et qu'on représentait comme des dieux, ne pouvaient pas l'être; car l'homme commence et finit, mais Dieu est avant tous les temps et après tous les temps.</span></p>
-    <p><span style="color: #df8f20;">Et j'ai mis ma confiance en ce Dieu qui m'est inconnu, mais qui a créé toutes choses; je lui ai voué mon amour, et je n'épargnerai rien pour arriver à le connaître.</span></p>
-    <p><span style="color: #df8f20;">La renommée de tes talents est venue jusqu'à moi, et j'ai pensé, père vénérable, que tu m'amènerais à la science de ce Dieu que tu prêches.</span></p>
-    <p><span style="color: #df8f20;">Et j'espère que tu dissiperas les ténèbres de mon ignorance et que tu me conduiras à la lumière de la vraie foi.</span></p>
-  </blockquote>
-  <p>Ayant envoyé sa lettre à Origène, elle pria le Seigneur en versant des larmes et en disant:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Seigneur, affermissez le pied de celui que j'ai envoyé à votre serviteur, afin que la lumière que j'ai réclamée m'arrive.</span></p>
-  </blockquote>
-  <p>Le messager arriva à Alexandrie,
-  et il trouva Origène dans le palais de la mère de l'empereur Alexandre, Mamée,
-  et il était occupé à prêcher la doctrine de Jésus-Christ.</p>
-  <p>Il reçut avec grande joie la lettre de <span style="color: #994c3d;">Barbe</span>,
-  et il loua Dieu de ce qu'il suscitait une pareille ferveur,
-  et il s'empressa de lui répondre ainsi:</p>
-  <blockquote>
-    <p>— Origène, indigne prêtre de Jésus-Christ, et peut-être son prédicateur, demeurant encore à Alexandrie, à Barbe, de la race des gentils, mais par adoption de la race des enfants de Dieu et de Jésus-Christ.</span></p>
-    <p><span style="color: #165493;">Je vais t'enseigner, ainsi que tu me le demandes, quel est le vrai Dieu.</span></p>
-    <p><span style="color: #165493;">Sache qu'il est un en substance et trois en personnes: le Père, le Fils et le Saint-Esprit.</span></p>
-    <p><span style="color: #165493;">Celui qui croit en cette doctrine a ce qu'il faut pour parvenir à Dieu.</span></p>
-    <p><span style="color: #165493;">Ajoutes-y donc créance pour compléter ce qui manque à la plénitude de ton désir; consulte mon envoyé, il t'informera de la loi de Dieu et il te lira les livres saints qu'il porte avec lui.</span></p>
-    <p><span style="color: #165493;">Ne redoute pas d'être exposée à de grands tourments pour le nom de Jésus-Christ.</span></p>
-    <p><span style="color: #165493;">Il a dit: “Celui qui perd pour moi son âme en ce monde, la gardera dans la vie éternelle”.</span></p>
-  </blockquote>
-  <p>Origène envoya un de ses disciples pour conférer avec <span style="color: #994c3d;">Barbe</span>,</p>
-  <p>et quand on lui dit qu'il était arrivé,
-  elle dit aussitôt de le faire entrer.</p>
-  <p>Le serviteur de Dieu la salua au nom de Jésus-Christ.</p>
-  <p>Et voilà que son père survint,
-  et, voyant un inconnu,
-  il s'effraya et il dit:</p>
-  <blockquote>
-    <p><span style="color: #b3884d;">— Quel est cet homme et que vient-il faire?</span></p>
-  </blockquote>
-  <p>L'Alexandrin répondit qu'il était instruit de la science de la médecine, et 'il avait un maître qui, contre l'usage des médecins, guérissait aussi les âmes.</p>
-  <p>Le père de <span style="color: #994c3d;">Barbe</span>, entendant cela, se retira et les laissa converser.</p>
-  <p>Et le chrétien, qui se nommait Valentin, expliqua à <span style="color: #994c3d;">Barbe</span> les mystères sacrés de la religion,
-  et il la baptisa dans cette même tour où son père l'avait mise,
-  et il lui remit les livres envoyés par Origène.</p>
-  <p>Elle s'appliqua beaucoup à les lire,
-  et elle fit, quoique sans maître, de très grands progrès dans la science des choses divines.</p>
-  <p>On dit qu'à cause de sa beauté des nobles du pays s'éprirent d'amour pour elle,
-  et ils parlèrent à son père afin qu'elle prit un époux.</p>
-  <p>Et son père, allant la trouver dans la tour, cherchait à l'y décider, en disant:</p>
-  <blockquote>
-    <p><span style="color: #b3884d;">— Ma fille, des personnages puissants se sont souvenus de toi, et m'ont dit qu'ils te prendraient en mariage; qu'est-ce que tu veux faire?</span></p>
-  </blockote>
-  <p>Elle répondit à son père en le regardant avec courroux:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Ne me force pas à agir ainsi, mon père.</span></p>
-  </blockquote>
-  <p>II la quitta,
-  et, se séparant d'elle, il fit venir un grand nombre d'ouvriers,
-  et il leur ordonna de construire une maison de bains, et il s'en alla dans un pays éloigné.</p>
-  <p><span style="color: #994c3d;">Barbe</span> descendit de la tour pour voir ce que l'on avait fait,
-  et elle vit que du côté du nord il n'y avait que deux fenêtres,
-  et elle dit aux ouvriers:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Pourquoi avez-vous fait ces deux fenêtres?</span></p>
-  </blockquote>
-  <p>Et ils répondirent:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Votre père l'a ainsi commandé.</span></p>
-  </blockquote>
-  <p>Elle répondit:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Faites-moi une autre fenêtre.</span></p>
-  </blockquote>
-  <p>Et ils répliquèrent:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Nous craignons que votre père ne s'irrite contre nous.</span></p>
-  </blockquote>
-  <p>Elle leur dit:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Faites ce que je vous dis, et j'amènerai mon père à donner son approbation.</span></p>
-  </blockquote>
-  <p>Ils firent donc une autre fenêtre.</p>
-  <p><span style="color: #994c3d;">Barbe</span> plaça de sa propre main, du côté de l'orient, dans cet édifice, une croix précieuse;
-  et, remontant dans la tour, elle vit les idoles qu'adorait son père.</p>
-  <p>Obéissant à l'inspiration de l'Esprit saint, elle leur cracha à la figure et elle dit:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Qu'ils deviennent semblables à vous, ceux qui vous font et ceux qui mettent en vous leur confiance.</span></p>
-  </blockquote>
-  <p>Quand la bâtisse fut finie, son père revint de son voyage, et lorsqu'il vit les trois fenêtres, il dit aux ouvriers:</p>
-  <blockquote>
-    <p><span style="color: #b3884d;">— Pourquoi avez-vous fait trois fenêtres?</span></p>
-  </blockquote>
-  <p>Ils répondiren</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Votre fille nous l'a ordonné.</span></p>
-  </blockquote>
-  <p>Il dit alors à sa fille:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Est-ce toi qui as commandé de faire trois fenêtres?</span></p>
-  </blockquote>
-  <p>Elle répondit:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— J'ai eu de bonnes raisons pour agir ainsi; car trois fenêtres illuminent l'homme entier.</span></p>
-  </blockquote>
-  <p>Et son père la mena avec lui dans la salle des bains, et lui dit:</p>
-  <blockquote>
-    <p><span style="color: #b3884d;">— Pourquoi trois fenêtres éclairent-elles plus que deux?</span></p>
-  </blockquote>
-  <p>Elle répondi</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Il y en a trois qui illuminent le monde et qui règlent le cours des étoiles: le Père, le Fils et le Saint-Esprit, et ils sont un en essence.</span></p>
-  </blockquote>
-  <p>Alors son père, rempli de fureur, tira son épée pour la tuer.</p>
-  <p>Mais la sainte fit sa prière à Dieu,
-  et les murailles s'entr'ouvrirent,
-  et elle fut transportée sur une montagne où étaient deux bergers qui faisaient paître leurs brebis.</p>
-  <p>Son père se mit à sa recherche, et il alla vers ces bergers et il leur demanda s'ils avaient vu sa fille.</p>
-  <p>L'un d'eux, voyant combien le père était irrité parce qu'il ne savait point où elle était, se tut; l'autre l'indiqua du doigt.</p>
-  <p><span style="color: #994c3d;">Sainte Barbe</span> maudit celui qui l'avait trahie,
-  et sur-le-champ il fut changé en statue de marbre,
-  et ses brebis furent métamorphosées en sauterelles;
-  mais ce récit est apocryphe.</p>
-  <p>Son père, la trouvant, la battit, la traina par les cheveux
-  et la chargea de chaînes.</p>
-  <p>Il l'enferma dans un cachot
-  et y mit des gardes,
-  et il s'en alla prévenir de tout ce qui s'était passé le proconsul <a href="#note_marcien" title="Marcien" id="marcien" class="yellow">Marcien</a>.</p>
-  <p>Le proconsul voulut que <span style="color: #994c3d;">Barbe</span> fût amenée devant lui.</p>
-  <p>Quand il la vit, il fut frappé de sa grande beauté, et il lui dit:</p>
-  <blockquote>
-    <p><span style="color: #165493;">— Si tu veux te sauver, sacrifie aux dieux immortels, ou tu mourras dans les plus grands tourments.</span></p>
-  </blockquote>
-  <p>Elle répondit:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Je veux m'offrir en sacrifice à mon Dieu Jésus-Christ, qui a fait le ciel et la terre et tout ce qui y est contenu.</span></p>
-    <p><span style="color: #df8f20;">Quant aux démons que tu adores, le prophète a dit:</span></p>
-    <p><span style="color: #df8f20;">Ils ont une bouche et ne parlent point; ils ont des yeux et ne voient point; ceux qui leur rendent hommage leur ressembleront.</span></p>
-  </blockquote>
-  <p>Le proconsul, furieux, ordonna de la dépouiller et de la frapper sans ménagement à coups de nerf de boeuf;
-  et quand tout son corps fut en sang, il prescrivit de la ramener en prison, jusqu'à ce qu'il eût décidé quel tourment il lui infligerait.</p>
-  <p>Au milieu de la nuit, une grande clarté entoura la martyre, et Jésus-Christ lui apparut et lui dit:</p>
-  <blockquote>
-    <p><span style="color: #6c936c;">— Prends courage, ma fille; il y aura grande joie dans le ciel et sur la terre lors de ta passion; ne redoute point les menaces du tyran; je suis avec toi pour te préserver de tous maux.</span></p>
-  </blockquote>
-  <p><span style="color: #994c3d;">Sainte Barbe</span> ressentit une joie extrême des paroles du Seigneur,
-  et le matin elle reparut devant le proconsul, qui, voyant qu'il ne restait sur elle nulle trace des coups qu'elle avait reçus la veille, lui dit:</p>
-  <blockquote>
-    <p><span style="color: #165493;">— Vois combien les dieux te sont favorables et combíen ils t'aiment, puisqu'ils ont guéri tes plaies.</span></p>
-  </blockquote>
-  <p><span style="color: #994c3d;">Barbe</span> lui répliqua:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Tes dieux sont comme toi, sourds, aveugles et muets; comment auraient-ils pu me guérir?</span></p>
-    <p><span style="color: #df8f20;">Celui qui m'a guérie, c'est Jésus-Christ, le Fils du Dieu vivant; mais tu ne le vois pas, parce que ton cœur est endurci par le diable.</span></p>
-  </blockquote>
-  <p>Le proconsul, frémissant comme un lion irrité, ordonna qu'on lui brûlat les côtes avec des torches allumées et qu'on lui frappât la tête à coups de marteau.</p>
-  <p>La sainte, regardant le ciel, dit:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Vous savez, Seigneur, que je souffre pour l'amour de vous; ne m'abandonnez pas.</span></p>
-  </blockquote>
-  <p>L'impie proconsul commanda qu'on lui coupat les mamelles;
-  et elle dit:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Ne me rejetez pas hors de votre présence, Seigneur, et ne m'otez pas l'Esprit saint.</span></p>
-  </blockquote>
-  <p>Il prescrivit ensuite qu'on la menât nue dans la ville, en la frappant;
-  et elle dit:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Seigneur, vous qui êtes mon soutien et qui couvrez le ciel de nuages, couvrez mon corps, afin qu'il ne soit pas exposé aux regards des impies.</span></p>
-  </blockquote>
-  <p>Et il descendit du ciel un ange qui lui apporta une tunique blanche.</p>
-  <p>Le proconsul ordonna alors qu'on lui coupât la tête;
-  mais son père se saisit d'elle et la mena dans la montagne,
-  et elle fit cette prière:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Seigneur Jésus, à qui toutes choses obéissent, accordez que ceux qui invoqueront votre saint nom en se souvenant de mon martyre, trouvent leurs péchés mis en oubli au jour du jugement.</span></p>
-  </blockquote>
-  <p>Et elle entendit une voix qui venait du ciel et qui répondit:</p>
-  <blockquote>
-    <p><span style="color: #6c936c;">— Viens, ma bien-aimée; repose-toi dans la demeure de mon père qui est dans le ciel; ce que tu demandes t'est accordé.</span></p>
-  </blockquote>
-  <p>Et la martyre eut la tête tranchée des mains de son propre père.
-  Et lorsqu'il redescendit de la montagne, le feu du ciel tomba sur lui et le consuma,
-  et il ne resta pas même vestige de lui.</p>
-  <p>Il y eut un homme puissant, un comte de <a href="#note_saxe" title="Saxe" id="saxe" class="yellow">Saxe</a>,
-  qui fit prisonnier son ennemi et qui l'enferma dans une tour, en défendant, sous les peines les plus grndes, que personne lui donnat à boire ni à manger.</p>
-  <p>Après qu'il y fut resté quelques jours,
-  il pria, en gémissant, le gardien de la tour, de lui donner, pour l'amour de <span style="color: #994c3d;">sainte Barbe</span>, un peu de pain, afin qu'il ne mourat pas;
-  le gardien ne fit pas attention à ses plaintes,
-  et il gisait par terre défaillant;
-  le gardien le crut mort,
-  et demanda au comte la permission d'enlever le cadavre avant qu'il répandit une mauvaise odeur;
-  on attacha donc une corde au cou de celui que l'on croyait mort,
-  et on le précipita du haut du rocher;
-  aussitôt qu'il eût touché le sol il se releva,
-  et tous ceux qui étaient présents s'enfuirent, saisis de crainte.</p>
-  <p>Il les rappela et leur dit de ne point avoir peur;
-  et ils s'approchèrent de lui, et ils demandèrent comment il avait pu soutenir son existence,
-  et il leur répondit:</p>
-  <blockquote>
-    <p><span style="color: #165493;">— Sainte Barbe m'a assisté dans toutes mes peines;</span></p>
-    <p><span style="color: #165493;">c'est elle qui m'a soutenu dans ma chute, et je ne peux mourir avant de m'être confessé et d'être muni de la sainte communion,</span></p>
-  </blockquote>
-  <p>Interrogé pourquoi il avait obtenu cette grâce, il répondit:</p>
-  <blockquote>
-    <p><span style="color: #165493;">— Je n'ai manqué aucune année de jeûner et de prier le jour de la fête de sainte Barbe pour lui faire bonheur, et c'est pourquoi elle a demandé à Dieu que je ne mourusse pas sans avoir reçu les sacrements.</span></p>
-  </blockquote>
-  <p>Et dès qu'il les eut reçus, il expira.</p>
-  <p>Nous lisons aussi que du temps du roi des Romains, Adolphe, un comte fut mis à la tête du gouvernement des provinces de l'Orient, et un soldat fut accusé d'avoir fait violence à une jeune fille.</p>
-  <p>Tandis qu'il était en prison, attendant son jugement, il demanda à se confesser,
-  et son confesseur ayant reconnu qu'il était innocent, l'engagea à se vouer au service de <span style="color: #994c3d;">sainte Barbe</span>, et à promettre de ne pas revenir chez lui avant d'avoir fait un pèlerinage en son honneur.</p>
-  <p>La femme réclamait à grands cris un jugement, et les juges s'étant réunis et ayant fait comparaître devant eux l'accusé, le condamnèrent à mort;
-  alors il se présenta quelqu'un que personne ne connaissait, et qui, ayant demandé la parole, prouva, par des raisons pertinentes et irrécusables, que le soldat n'était point coupable et que la sentence était injuste.</p>
-  <p>Et les juges le révoquèrent;
-  et le soldat, rendu à la liberté , finit ses jours au service de <span style="color: #994c3d;">sainte Barbe</span>,
-  et l'inconnu qui lui avait servi d'avocat disparut sans qu'on sût qui il était.</p>
+  <section><article>
+    <h3 id="barbe-selon-legende" class="yellow">Légende de Barbe la grande martyre selon le texte apocryphe ajouté à <cite>La Légende dorée</cite></h3>
+    <section><article>
+      <h4>Texte  apocryphe ajouté à <cite>La Légende dorée</cite>: légende de Barbe la grande martyre</h4>
+      <p>Il y avait à <a href="#note_nicomedie" title="Nicomédie" id="nicomedie" class="yellow">Nicomédie</a>, du temps de l'empereur <a href="#note_maximien" title="Maximien" id="maximien" class="yellow">Maximien</a>, un païen du nom de <span style=color: #99713d;">Dioscore</span>, qui était d'une famille très distinguée et qui possédait de grandes richsses.</p>
+      <p>Il avait une fille d'une grande beauté, qui se nommait <span style="color: #994c3d;">Barbe</span>.</p>
+      <p>Son père l'aimait beaucoup;
+      et afin que nul homme ne pût la voir, il la renferma dans une tour très-haute qu'il fit élever.</p>
+      <p>Dès son plus jeune âge, <span style="color: #994c3d;">Barbe</span>, sentant le néant des choses terrestres, commença à s'appliquer à la méditation des choses du ciel.</p>
+      <p>Étant une fois entrée dans un temple, et voyant le long des murailles les statues des idoles, elle demanda à ses parents:</p>
+      <blockquote>
+        <p><span style="color: #df8f20;">— Qu'est-ce que signifient ces images de personnes humaines?</span></p>
+      </blockquote>
+      <p>Ses parents lui répondirent:</p>
+      <blockquote>
+        <p><span style="color: #b3884d;">— Tais-toi; ce ne sont pas des hommes, mais des dieux, et ils veulent être adorés.</span></p>
+      </blockquote>
+      <p><span style="color: #994c3d;">Barbe</span> dit:</p>
+      <blockquote>
+        <p><span style="color: #df8f20;">— Autrefois furent-ils des hommes?</span></p>
+      </blockquote>
+      <p>Et on lui répondit qu'oui.</p>
+      <p>Et elle réfléchissait là-dessus le jour et la nuit, se disant en elle-même:</p>
+      <blockquote>
+        <p><span style="color: #df8f20;">— Si nos dieux ont été des hommes, ils sont donc nés comme des hommes, ils sont morts comme des hommes; s'ils étaient dieux, ils ne seraient point nés et ils ne seraient point morts; car la Divinité, à ce qu'il me semble, ne commence point et ne peut cesser.</span></p>
+      </blockquote>
+      <p>Elle en vint donc à mépriser ces prétendus dieux de bois ou de pierre;
+      mais il lui manquait encore la connaissance du vrai Dieu.</p>
+      <p>Sur ces entrefaites, la renommée se répandit à Nicomédie qu'il y avait à Alexandrie un homme d'une sagesse prodigieuse, nommé <a href="#note_origene" title="Origène" id="origene" class="yellow">Origène</a>, qui démontrait l'existence du vrai Dieu et la vanité des idoles.</p>
+      <p>En apprenant cela, <span style="color: #94c3d;">Barbe</span> fut remplie de joie, et elle songeait comment elle pourrait faire pour aller l'entendre;
+      mais elle n'osa pas en parler à son père, et elle adopta l'idée d'écrire à Origène;
+      ce qu'elle fit en ces termes:</p>
+      <blockquote>
+        <p>— À Origène d'Alexandrie, dont la gloire est universellement répandue, moi, Barbe, de Nicomédie.</span></p>
+        <p><span style="color: #df8f20;">Dès la première lueur de ma raison, j'ai éprouvé dans tout mon cœur le plus vif désir d'arriver à cette connaissance, et j'ai toujours pensé que la Divinité ne pouvait être dans des images, œuvre de nos mains, incapables de parler et d'entendre.</span></p>
+        <p><span style="color: #df8f20;">J'ai pensé aussi que ceux qui avaient été des hommes, et qu'on représentait comme des dieux, ne pouvaient pas l'être; car l'homme commence et finit, mais Dieu est avant tous les temps et après tous les temps.</span></p>
+        <p><span style="color: #df8f20;">Et j'ai mis ma confiance en ce Dieu qui m'est inconnu, mais qui a créé toutes choses; je lui ai voué mon amour, et je n'épargnerai rien pour arriver à le connaître.</span></p>
+        <p><span style="color: #df8f20;">La renommée de tes talents est venue jusqu'à moi, et j'ai pensé, père vénérable, que tu m'amènerais à la science de ce Dieu que tu prêches.</span></p>
+        <p><span style="color: #df8f20;">Et j'espère que tu dissiperas les ténèbres de mon ignorance et que tu me conduiras à la lumière de la vraie foi.</span></p>
+      </blockquote>
+      <p>Ayant envoyé sa lettre à Origène, elle pria le Seigneur en versant des larmes et en disant:</p>
+      <blockquote>
+        <p><span style="color: #df8f20;">— Seigneur, affermissez le pied de celui que j'ai envoyé à votre serviteur, afin que la lumière que j'ai réclamée m'arrive.</span></p>
+      </blockquote>
+      <p>Le messager arriva à Alexandrie,
+      et il trouva Origène dans le palais de la mère de l'empereur Alexandre, Mamée,
+      et il était occupé à prêcher la doctrine de Jésus-Christ.</p>
+      <p>Il reçut avec grande joie la lettre de <span style="color: #994c3d;">Barbe</span>,
+      et il loua Dieu de ce qu'il suscitait une pareille ferveur,
+      et il s'empressa de lui répondre ainsi:</p>
+      <blockquote>
+        <p>— Origène, indigne prêtre de Jésus-Christ, et peut-être son prédicateur, demeurant encore à Alexandrie, à Barbe, de la race des gentils, mais par adoption de la race des enfants de Dieu et de Jésus-Christ.</span></p>
+        <p><span style="color: #165493;">Je vais t'enseigner, ainsi que tu me le demandes, quel est le vrai Dieu.</span></p>
+        <p><span style="color: #165493;">Sache qu'il est un en substance et trois en personnes: le Père, le Fils et le Saint-Esprit.</span></p>
+        <p><span style="color: #165493;">Celui qui croit en cette doctrine a ce qu'il faut pour parvenir à Dieu.</span></p>
+        <p><span style="color: #165493;">Ajoutes-y donc créance pour compléter ce qui manque à la plénitude de ton désir; consulte mon envoyé, il t'informera de la loi de Dieu et il te lira les livres saints qu'il porte avec lui.</span></p>
+        <p><span style="color: #165493;">Ne redoute pas d'être exposée à de grands tourments pour le nom de Jésus-Christ.</span></p>
+        <p><span style="color: #165493;">Il a dit: “Celui qui perd pour moi son âme en ce monde, la gardera dans la vie éternelle”.</span></p>
+      </blockquote>
+      <p>Origène envoya un de ses disciples pour conférer avec <span style="color: #994c3d;">Barbe</span>,</p>
+      <p>et quand on lui dit qu'il était arrivé,
+      elle dit aussitôt de le faire entrer.</p>
+      <p>Le serviteur de Dieu la salua au nom de Jésus-Christ.</p>
+      <p>Et voilà que son père survint,
+      et, voyant un inconnu,
+      il s'effraya et il dit:</p>
+      <blockquote>
+        <p><span style="color: #b3884d;">— Quel est cet homme et que vient-il faire?</span></p>
+      </blockquote>
+      <p>L'Alexandrin répondit qu'il était instruit de la science de la médecine, et 'il avait un maître qui, contre l'usage des médecins, guérissait aussi les âmes.</p>
+      <p>Le père de <span style="color: #994c3d;">Barbe</span>, entendant cela, se retira et les laissa converser.</p>
+      <p>Et le chrétien, qui se nommait Valentin, expliqua à <span style="color: #994c3d;">Barbe</span> les mystères sacrés de la religion,
+      et il la baptisa dans cette même tour où son père l'avait mise,
+      et il lui remit les livres envoyés par Origène.</p>
+      <p>Elle s'appliqua beaucoup à les lire,
+      et elle fit, quoique sans maître, de très grands progrès dans la science des choses divines.</p>
+      <p>On dit qu'à cause de sa beauté des nobles du pays s'éprirent d'amour pour elle,
+      et ils parlèrent à son père afin qu'elle prit un époux.</p>
+      <p>Et son père, allant la trouver dans la tour, cherchait à l'y décider, en disant:</p>
+      <blockquote>
+        <p><span style="color: #b3884d;">— Ma fille, des personnages puissants se sont souvenus de toi, et m'ont dit qu'ils te prendraient en mariage; qu'est-ce que tu veux faire?</span></p>
+      </blockquote>
+      <p>Elle répondit à son père en le regardant avec courroux:</p>
+      <blockquote>
+        <p><span style="color: #df8f20;">— Ne me force pas à agir ainsi, mon père.</span></p>
+      </blockquote>
+      <p>II la quitta,
+      et, se séparant d'elle, il fit venir un grand nombre d'ouvriers,
+      et il leur ordonna de construire une maison de bains, et il s'en alla dans un pays éloigné.</p>
+      <p><span style="color: #994c3d;">Barbe</span> descendit de la tour pour voir ce que l'on avait fait,
+      et elle vit que du côté du nord il n'y avait que deux fenêtres,
+      et elle dit aux ouvriers:</p>
+      <blockquote>
+        <p><span style="color: #df8f20;">— Pourquoi avez-vous fait ces deux fenêtres?</span></p>
+      </blockquote>
+      <p>Et ils répondirent:</p>
+      <blockquote>
+        <p><span style="color: #df8f20;">— Votre père l'a ainsi commandé.</span></p>
+      </blockquote>
+      <p>Elle répondit:</p>
+      <blockquote>
+        <p><span style="color: #df8f20;">— Faites-moi une autre fenêtre.</span></p>
+      </blockquote>
+      <p>Et ils répliquèrent:</p>
+      <blockquote>
+        <p><span style="color: #df8f20;">— Nous craignons que votre père ne s'irrite contre nous.</span></p>
+      </blockquote>
+      <p>Elle leur dit:</p>
+      <blockquote>
+        <p><span style="color: #df8f20;">— Faites ce que je vous dis, et j'amènerai mon père à donner son approbation.</span></p>
+      </blockquote>
+      <p>Ils firent donc une autre fenêtre.</p>
+      <p><span style="color: #994c3d;">Barbe</span> plaça de sa propre main, du côté de l'orient, dans cet édifice, une croix précieuse;
+      et, remontant dans la tour, elle vit les idoles qu'adorait son père.</p>
+      <p>Obéissant à l'inspiration de l'Esprit saint, elle leur cracha à la figure et elle dit:</p>
+      <blockquote>
+        <p><span style="color: #df8f20;">— Qu'ils deviennent semblables à vous, ceux qui vous font et ceux qui mettent en vous leur confiance.</span></p>
+      </blockquote>
+      <p>Quand la bâtisse fut finie, son père revint de son voyage, et lorsqu'il vit les trois fenêtres, il dit aux ouvriers:</p>
+      <blockquote>
+        <p><span style="color: #b3884d;">— Pourquoi avez-vous fait trois fenêtres?</span></p>
+      </blockquote>
+      <p>Ils répondiren</p>
+      <blockquote>
+        <p><span style="color: #df8f20;">— Votre fille nous l'a ordonné.</span></p>
+      </blockquote>
+      <p>Il dit alors à sa fille:</p>
+      <blockquote>
+        <p><span style="color: #df8f20;">— Est-ce toi qui as commandé de faire trois fenêtres?</span></p>
+      </blockquote>
+      <p>Elle répondit:</p>
+      <blockquote>
+        <p><span style="color: #df8f20;">— J'ai eu de bonnes raisons pour agir ainsi; car trois fenêtres illuminent l'homme entier.</span></p>
+      </blockquote>
+      <p>Et son père la mena avec lui dans la salle des bains, et lui dit:</p>
+      <blockquote>
+        <p><span style="color: #b3884d;">— Pourquoi trois fenêtres éclairent-elles plus que deux?</span></p>
+      </blockquote>
+      <p>Elle répondi</p>
+      <blockquote>
+        <p><span style="color: #df8f20;">— Il y en a trois qui illuminent le monde et qui règlent le cours des étoiles: le Père, le Fils et le Saint-Esprit, et ils sont un en essence.</span></p>
+      </blockquote>
+      <p>Alors son père, rempli de fureur, tira son épée pour la tuer.</p>
+      <p>Mais la sainte fit sa prière à Dieu,
+      et les murailles s'entr'ouvrirent,
+      et elle fut transportée sur une montagne où étaient deux bergers qui faisaient paître leurs brebis.</p>
+      <p>Son père se mit à sa recherche, et il alla vers ces bergers et il leur demanda s'ils avaient vu sa fille.</p>
+      <p>L'un d'eux, voyant combien le père était irrité parce qu'il ne savait point où elle était, se tut; l'autre l'indiqua du doigt.</p>
+      <p><span style="color: #994c3d;">Sainte Barbe</span> maudit celui qui l'avait trahie,
+      et sur-le-champ il fut changé en statue de marbre,
+      et ses brebis furent métamorphosées en sauterelles;
+      mais ce récit est apocryphe.</p>
+      <p>Son père, la trouvant, la battit, la traina par les cheveux
+      et la chargea de chaînes.</p>
+      <p>Il l'enferma dans un cachot
+      et y mit des gardes,
+      et il s'en alla prévenir de tout ce qui s'était passé le proconsul <a href="#note_marcien" title="Marcien" id="marcien" class="yellow">Marcien</a>.</p>
+      <p>Le proconsul voulut que <span style="color: #994c3d;">Barbe</span> fût amenée devant lui.</p>
+      <p>Quand il la vit, il fut frappé de sa grande beauté, et il lui dit:</p>
+      <blockquote>
+        <p><span style="color: #165493;">— Si tu veux te sauver, sacrifie aux dieux immortels, ou tu mourras dans les plus grands tourments.</span></p>
+      </blockquote>
+      <p>Elle répondit:</p>
+      <blockquote>
+        <p><span style="color: #df8f20;">— Je veux m'offrir en sacrifice à mon Dieu Jésus-Christ, qui a fait le ciel et la terre et tout ce qui y est contenu.</span></p>
+        <p><span style="color: #df8f20;">Quant aux démons que tu adores, le prophète a dit:</span></p>
+        <p><span style="color: #df8f20;">Ils ont une bouche et ne parlent point; ils ont des yeux et ne voient point; ceux qui leur rendent hommage leur ressembleront.</span></p>
+      </blockquote>
+      <p>Le proconsul, furieux, ordonna de la dépouiller et de la frapper sans ménagement à coups de nerf de boeuf;
+      et quand tout son corps fut en sang, il prescrivit de la ramener en prison, jusqu'à ce qu'il eût décidé quel tourment il lui infligerait.</p>
+      <p>Au milieu de la nuit, une grande clarté entoura la martyre, et Jésus-Christ lui apparut et lui dit:</p>
+      <blockquote>
+        <p><span style="color: #6c936c;">— Prends courage, ma fille; il y aura grande joie dans le ciel et sur la terre lors de ta passion; ne redoute point les menaces du tyran; je suis avec toi pour te préserver de tous maux.</span></p>
+      </blockquote>
+      <p><span style="color: #994c3d;">Sainte Barbe</span> ressentit une joie extrême des paroles du Seigneur,
+      et le matin elle reparut devant le proconsul, qui, voyant qu'il ne restait sur elle nulle trace des coups qu'elle avait reçus la veille, lui dit:</p>
+      <blockquote>
+        <p><span style="color: #165493;">— Vois combien les dieux te sont favorables et combíen ils t'aiment, puisqu'ils ont guéri tes plaies.</span></p>
+      </blockquote>
+      <p><span style="color: #994c3d;">Barbe</span> lui répliqua:</p>
+      <blockquote>
+        <p><span style="color: #df8f20;">— Tes dieux sont comme toi, sourds, aveugles et muets; comment auraient-ils pu me guérir?</span></p>
+        <p><span style="color: #df8f20;">Celui qui m'a guérie, c'est Jésus-Christ, le Fils du Dieu vivant; mais tu ne le vois pas, parce que ton cœur est endurci par le diable.</span></p>
+      </blockquote>
+      <p>Le proconsul, frémissant comme un lion irrité, ordonna qu'on lui brûlat les côtes avec des torches allumées et qu'on lui frappât la tête à coups de marteau.</p>
+      <p>La sainte, regardant le ciel, dit:</p>
+      <blockquote>
+        <p><span style="color: #df8f20;">— Vous savez, Seigneur, que je souffre pour l'amour de vous; ne m'abandonnez pas.</span></p>
+      </blockquote>
+      <p>L'impie proconsul commanda qu'on lui coupat les mamelles;
+      et elle dit:</p>
+      <blockquote>
+        <p><span style="color: #df8f20;">— Ne me rejetez pas hors de votre présence, Seigneur, et ne m'otez pas l'Esprit saint.</span></p>
+      </blockquote>
+      <p>Il prescrivit ensuite qu'on la menât nue dans la ville, en la frappant;
+      et elle dit:</p>
+      <blockquote>
+        <p><span style="color: #df8f20;">— Seigneur, vous qui êtes mon soutien et qui couvrez le ciel de nuages, couvrez mon corps, afin qu'il ne soit pas exposé aux regards des impies.</span></p>
+      </blockquote>
+      <p>Et il descendit du ciel un ange qui lui apporta une tunique blanche.</p>
+      <p>Le proconsul ordonna alors qu'on lui coupât la tête;
+      mais son père se saisit d'elle et la mena dans la montagne,
+      et elle fit cette prière:</p>
+      <blockquote>
+        <p><span style="color: #df8f20;">— Seigneur Jésus, à qui toutes choses obéissent, accordez que ceux qui invoqueront votre saint nom en se souvenant de mon martyre, trouvent leurs péchés mis en oubli au jour du jugement.</span></p>
+      </blockquote>
+      <p>Et elle entendit une voix qui venait du ciel et qui répondit:</p>
+      <blockquote>
+        <p><span style="color: #6c936c;">— Viens, ma bien-aimée; repose-toi dans la demeure de mon père qui est dans le ciel; ce que tu demandes t'est accordé.</span></p>
+      </blockquote>
+      <p>Et la martyre eut la tête tranchée des mains de son propre père.
+      Et lorsqu'il redescendit de la montagne, le feu du ciel tomba sur lui et le consuma,
+      et il ne resta pas même vestige de lui.</p>
+      <p>Il y eut un homme puissant, un comte de <a href="#note_saxe" title="Saxe" id="saxe" class="yellow">Saxe</a>,
+      qui fit prisonnier son ennemi et qui l'enferma dans une tour, en défendant, sous les peines les plus grndes, que personne lui donnat à boire ni à manger.</p>
+      <p>Après qu'il y fut resté quelques jours,
+      il pria, en gémissant, le gardien de la tour, de lui donner, pour l'amour de <span style="color: #994c3d;">sainte Barbe</span>, un peu de pain, afin qu'il ne mourat pas;
+      le gardien ne fit pas attention à ses plaintes,
+      et il gisait par terre défaillant;
+      le gardien le crut mort,
+      et demanda au comte la permission d'enlever le cadavre avant qu'il répandit une mauvaise odeur;
+      on attacha donc une corde au cou de celui que l'on croyait mort,
+      et on le précipita du haut du rocher;
+      aussitôt qu'il eût touché le sol il se releva,
+      et tous ceux qui étaient présents s'enfuirent, saisis de crainte.</p>
+      <p>Il les rappela et leur dit de ne point avoir peur;
+      et ils s'approchèrent de lui, et ils demandèrent comment il avait pu soutenir son existence,
+      et il leur répondit:</p>
+      <blockquote>
+        <p><span style="color: #165493;">— Sainte Barbe m'a assisté dans toutes mes peines;</span></p>
+        <p><span style="color: #165493;">c'est elle qui m'a soutenu dans ma chute, et je ne peux mourir avant de m'être confessé et d'être muni de la sainte communion,</span></p>
+      </blockquote>
+      <p>Interrogé pourquoi il avait obtenu cette grâce, il répondit:</p>
+      <blockquote>
+        <p><span style="color: #165493;">— Je n'ai manqué aucune année de jeûner et de prier le jour de la fête de sainte Barbe pour lui faire bonheur, et c'est pourquoi elle a demandé à Dieu que je ne mourusse pas sans avoir reçu les sacrements.</span></p>
+      </blockquote>
+      <p>Et dès qu'il les eut reçus, il expira.</p>
+      <p>Nous lisons aussi que du temps du roi des Romains, Adolphe, un comte fut mis à la tête du gouvernement des provinces de l'Orient, et un soldat fut accusé d'avoir fait violence à une jeune fille.</p>
+      <p>Tandis qu'il était en prison, attendant son jugement, il demanda à se confesser,
+      et son confesseur ayant reconnu qu'il était innocent, l'engagea à se vouer au service de <span style="color: #994c3d;">sainte Barbe</span>, et à promettre de ne pas revenir chez lui avant d'avoir fait un pèlerinage en son honneur.</p>
+      <p>La femme réclamait à grands cris un jugement, et les juges s'étant réunis et ayant fait comparaître devant eux l'accusé, le condamnèrent à mort;
+      alors il se présenta quelqu'un que personne ne connaissait, et qui, ayant demandé la parole, prouva, par des raisons pertinentes et irrécusables, que le soldat n'était point coupable et que la sentence était injuste.</p>
+      <p>Et les juges le révoquèrent;
+      et le soldat, rendu à la liberté , finit ses jours au service de <span style="color: #994c3d;">sainte Barbe</span>,
+      et l'inconnu qui lui avait servi d'avocat disparut sans qu'on sût qui il était.</p>
+    </article></section>
+  </article></section>
 </article>
 
 <aside>
-  <h3 id="note_nicomedie" class="yellow">Nicomédie</h3>
-  <div class="notices yellow">
-  <p><a href="https://fr.wikipedia.org/wiki/Nicomédie" title="https://fr.wikipedia.org/wiki/Nicomédie"><ruby lang="fr">Nicomédie<rp>(</rp><rt lang="grc">Νικομήδεια</rt><rp>)</rp></ruby></a> est une ville d'Asie Mineure, capitale du royaume de <a href="https://fr.wikipedia.org/wiki/Bithynie" title="https://fr.wikipedia.org/wiki/Bithynie">Bithynie</a>. Elle se trouve aujourd’hui en Turquie et est appelée Izmit. Elle fut la capitale des empereurs <a href="https://fr.wikipedia.org/wiki/Dioclétien" title="https://fr.wikipedia.org/wiki/Dioclétien">Dioclétien</a> et <a href="https://fr.wikipedia.org/wiki/Constantin_Ier_(empereur_romain)" title="https://fr.wikipedia.org/wiki/Constantin_Ier_(empereur_romain)">Constantin</a>.</p>
-  <p>retour au texte: <a href="#maximien" title="Maximien">Nicomédie↑</a></p>
-  </div>
-  <h3 id="note_maximien" class="yellow">Maximien</h3>
-  <div class="notices yellow">
-  <p><a href="https://fr.wikipedia.org/wiki/Maximien_Hercule" title="https://fr.wikipedia.org/wiki/Maximien_Hercule">Maximien Hercule</a>. Coempereur de l'empire romain de 286 à 305 avec <a href="https://fr.wikipedia.org/wiki/Dioclétien" title="https://fr.wikipedia.org/wiki/Dioclétien">Dioclétien</a> pour l'orient. Père de <a href="https://fr.wikipedia.org/wiki/Maxence_(empereur_romain)" title="https://fr.wikipedia.org/wiki/Maxence_(empereur_romain)">Maxence</a>.</p>
-  <p>retour au texte: <a href="#nicomedie" title="Nicomédie">Maximien↑</a></p>
-  </div>
-  <h3 id="note_origene" class="yellow">Origène</h3>
-  <div class="notices yellow">
-  <p><a href="https://fr.wikipedia.org/wiki/Origène" title="https://fr.wikipedia.org/wiki/Origène"><ruby lang="fr">Origène<rp>(</rp><rt lang="grc">Ὠριγένης</rt><rp>)</rp></ruby></a> est un théologien chrétien, reconnu Père de l'Église mais non saint, né à Alexandrie vers 185 et mort à Tyr vers 253.</p>
-  <p>retour au texte: <a href="#origene" title="Origène">Origène↑</a></p>
-  </div>
-  <h3 id="note_marcien" class="yellow">Marcien</h3>
-  <div class="notices yellow">
-  <p>Aucune trace de ce proconsul hors la Légende Dorée.</p>
-  <p>retour au texte: <a href="#marcien" title="Marcien">Marcien↑</a></p>
-  </div>
-  <h3 id="note_saxe" class="yellow">Saxe</h3>
-  <div class="notices yellow">
-  <p>Région d'Allemagne dont la délimitation a varié au cours de l'histoire; le Comté palatin de Saxe était une principauté du Saint-Empire romain germanique. Fondée par l'empereur Otton Ier au xe siècle, elle s'étendait sur l'actuelle région de Saale-Unstrut dans le sud-est du duché de Saxe.</p>
-  <p>retour au texte: <a href="#saxe" title="Saxe">Saxe↑</a></p>
-  </div>
+  <section><article>
+    <h3 id="note_nicomedie" class="yellow">Nicomédie</h3>
+    <div class="notices yellow">
+      <p><a href="https://fr.wikipedia.org/wiki/Nicomédie" title="https://fr.wikipedia.org/wiki/Nicomédie"><ruby lang="fr">Nicomédie<rp>(</rp><rt lang="grc">Νικομήδεια</rt><rp>)</rp></ruby></a> est une ville d'Asie Mineure, capitale du royaume de <a href="https://fr.wikipedia.org/wiki/Bithynie" title="https://fr.wikipedia.org/wiki/Bithynie">Bithynie</a>. Elle se trouve aujourd’hui en Turquie et est appelée Izmit. Elle fut la capitale des empereurs <a href="https://fr.wikipedia.org/wiki/Dioclétien" title="https://fr.wikipedia.org/wiki/Dioclétien">Dioclétien</a> et <a href="https://fr.wikipedia.org/wiki/Constantin_Ier_(empereur_romain)" title="https://fr.wikipedia.org/wiki/Constantin_Ier_(empereur_romain)">Constantin</a>.</p>
+    </div>
+    <footer>
+      <p>retour au texte: <a href="#maximien" title="Maximien">Nicomédie↑</a></p>
+    </footer>
+  </article></section>
+  <section><article>
+    <h3 id="note_maximien" class="yellow">Maximien</h3>
+    <div class="notices yellow">
+      <p><a href="https://fr.wikipedia.org/wiki/Maximien_Hercule" title="https://fr.wikipedia.org/wiki/Maximien_Hercule">Maximien Hercule</a>. Coempereur de l'empire romain de 286 à 305 avec <a href="https://fr.wikipedia.org/wiki/Dioclétien" title="https://fr.wikipedia.org/wiki/Dioclétien">Dioclétien</a> pour l'orient. Père de <a href="https://fr.wikipedia.org/wiki/Maxence_(empereur_romain)" title="https://fr.wikipedia.org/wiki/Maxence_(empereur_romain)">Maxence</a>.</p>
+    </div>
+    <footer>
+      <p>retour au texte: <a href="#nicomedie" title="Nicomédie">Maximien↑</a></p>
+    </footer>
+  </article></section>
+  <section><article>
+    <h3 id="note_origene" class="yellow">Origène</h3>
+    <div class="notices yellow">
+      <p><a href="https://fr.wikipedia.org/wiki/Origène" title="https://fr.wikipedia.org/wiki/Origène"><ruby lang="fr">Origène<rp>(</rp><rt lang="grc">Ὠριγένης</rt><rp>)</rp></ruby></a> est un théologien chrétien, reconnu Père de l'Église mais non saint, né à Alexandrie vers 185 et mort à Tyr vers 253.</p>
+    </div>
+    <footer>
+      <p>retour au texte: <a href="#origene" title="Origène">Origène↑</a></p>
+    </footer>
+  </article></section>
+  <section><article>
+    <h3 id="note_marcien" class="yellow">Marcien</h3>
+    <div class="notices yellow">
+      <p>Aucune trace de ce proconsul hors la Légende Dorée.</p>
+    </div>
+    <footer>
+      <p>retour au texte: <a href="#marcien" title="Marcien">Marcien↑</a></p>
+    </footer>
+  </article></section>
+  <section><article>
+    <h3 id="note_saxe" class="yellow">Saxe</h3>
+    <div class="notices yellow">
+      <p>Région d'Allemagne dont la délimitation a varié au cours de l'histoire; le Comté palatin de Saxe était une principauté du Saint-Empire romain germanique. Fondée par l'empereur Otton Ier au xe siècle, elle s'étendait sur l'actuelle région de Saale-Unstrut dans le sud-est du duché de Saxe.</p>
+    </div>
+    <footer>
+      <p>retour au texte: <a href="#saxe" title="Saxe">Saxe↑</a></p>
+    </footer>
+  </article></section>
 </aside>
 
 <!-- Page 18 --><hr>
@@ -3271,253 +3370,284 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1600.jpg 1600w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1920.jpg 1920w"></picture><figcaption>Jean l'Évangéliste</figcaption>
   </figure>
+  <section><article>
+    <h3 id="jean-selon-legende" class="yellow">Légende de Jean l'Évangéliste selon le chapître 9 selon <cite>La Légende dorée</cite></h3>
+    <section><article>
+      <h4>Texte du chapître 9 de <cite>La Légende dorée</cite>: légende de Jean l'Évangéliste</h4>
+      <section><article>
+        <p>Le <a href="#note_nomdejean" title="nom de Jean" id="nomdejean" class="yellow">nom de Jean</a>, <span style="color: #994c3d;">Johannes</span>, se comprend comme <span style="color: #994c3d;">«grâce du Seigneur»</span>, ou comme <span tyle="color: #994c3d;">«celui en qui se trouve la grâce»</span>, ou <span style="color: #994c3d;">«celui à qui on a fait un don»</span>, ou encore <span style="color: #994c3d;">«celui qui a reçu une donation de Dieu»</span>.</p>
+        <p>Ces quatre significations expriment les quatre privilèges dont a joui <span style="color: #994c3d;">saint Jean</span>.</p>
+        <p>Le <span style="color: #994c3d;">premier</span> privilège a consisté dans l'<span style="color: #994c3d;">amour particulier que lui a porté le Christ</span>.</p>
+        <p>En effet, le Christ l'a aimé plus que les autres apôtres et lui a montré de plus grands signes d'amour et d'intimité.</p>
+        <p>C'est pour cela qu'il est nommé «grâce du Seigneur»: il a plu au Seigneur.</p>
+        <p>Dieu semble même l'avoir plus aimé que Pierre.</p>
+        <p>Mais on distingue l'amour de cœur et l'amour exprimé.</p>
+        <p>Cet amour exprimé se déclare soit dans la manifestation d'une intimité, soit dans la distribution de bienfaits.</p>
+        <p>Or, pour ce qui est de l'amour de cœur, Dieu aima également Pierre et <span style="color: #994c3d;">Jean</span>; pour ce qui est de la manifestation de l'intimité, il aima plus <span style="color: #994c3d;">Jean</span> que Pierre, et, pour la distribution des bienfaits, il préféra Pierre.</p>
+        <p>Le <span style="color: #994c3d;">deuxième</span> privilège tient à la <span style="color: #994c3d;">pureté de la chair</span>:
+        c'est un homme vierge qui fut choisi par le Seigneur;
+        voilà pourquoi il est nommé «celui en qui se trouve la grâce».
+        Car en lui se trouva la grâce de la pudeur virginale.</p>
+        <p>Il fut appelé par le Seigneur au moment où il voulait se marier.</p>
+        <p>Le <span style="color: #994c3d;">troisième</span> privilège réside dans la <span style="color: #994c3d;">révélation des secrets</span>.</p>
+        <p>C'est ce qui le fait nommer «celui à qui l'on a fait un don».</p>
+        <p>Car il lui a été donné de connaître de profonds et nombreux secrets, comme ceux qui concernent la divinité du Verbe et la fin des temps.</p>
+        <p>Le <span style="color: #994c3d;">quatrième</span> privilège, c'est d'<span style="color: #994c3d;">avoir reçu la charge de la mère de Dieu</span>.</p>
+        <p>C'est ce qui le fait nommer «celui qui a reçu une donation de Dieu».</p>
+        <p>Et le Seigneur lui a bien fait une donation considérable en lui confiant la garde de la mère de Dieu <span style="color: #ccc;">(Jean 19, 26-27)</span>.</p>
+        <p>L'évêque Milet de Laodicée a rédigé sa Vie, qu'Isidore a abrégée dans son livre «Sur la naissance, la vie et la mort des saints Pères».</p>
+    </article></section>
+    </article></section>
 
-  <h3 id="jean-selon-legende" class="yellow">Légende de Jean l'Évangéliste selon le chapître 9 selon <cite>La Légende dorée</cite></h3>
+    <section><article>
+      <h4 class="yellow" id="persécutés-pour-sa-foi-par-domitien">persécutés pour sa foi par Domitien</h4>
+      <figure>
+        <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-280.webp 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-380.webp 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-480.webp 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-640.webp 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-840.webp 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1280.webp 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1600.webp 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-640.jpg" title="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détails du panneau central, “Ébouillantement de Jean l'Évangéliste sur ordre de l'empereur Domitien devant la Porte Latine à Rome et départ en l'exil sur l'île de Patmos”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détails du panneau central, “Ébouillantement de Jean l'Évangéliste sur ordre de l'empereur Domitien devant la Porte Latine à Rome et départ en l'exil sur l'île de Patmos”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-280.jpg 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-380.jpg 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-480.jpg 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-640.jpg 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-840.jpg 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1280.jpg 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1600.jpg 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1920.jpg 1920w"></picture><figcaption>détails du panneau central, “Ébouillantement de Jean l'Évangéliste sur ordre de l'empereur Domitien devant la Porte Latine à Rome et départ en l'exil sur l'île de Patmos”</figcaption>
+      </figure>
+      <section><article>
+        <p><span style="color: #994c3d;">Jean</span>, apôtre et évangéliste, le bien-aimé du Seigneur l'homme vierge élu, partit pour l’Asie quand les apôtres séparèrent après la Pentecôte. Il y fonda de nombreuses églises.</p>
+        <p>L'empereur Domitien entendit parler de lui, le convoqua et le fit jeter dans une cuve d'huile bouillante, devant la porte Latine.</p>
+        <p>Il en sortit aussi indemne qu'il avait été étranger à la corruption de la chair.</p>
+        <p>L'empereur, constatant qu'il ne renonçait pas à la prédication, l'exila dans l'île de Patmos où, dans la solitude, il écrivit l’Apocalypse.</p>
+    </article></section>
+    </article></section>
 
-  <h4>Texte du chapître 9 de <cite>La Légende dorée</cite>: légende de Jean l'Évangéliste</h4>
+    <section><article>
+      <h4 class="yellow" id="la-résurrection-de-drusiane">la résurrection de Drusiane</h4>
+      <figure>
+        <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-280.webp 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-380.webp 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-480.webp 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-640.webp 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-840.webp 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1280.webp 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1600.webp 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-640.jpg" title="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, chapiteau de colonne, “résurrection de Drusiane”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, chapiteau de colonne, “résurrection de Drusiane”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-280.jpg 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-380.jpg 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-480.jpg 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-640.jpg 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-840.jpg 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1280.jpg 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1600.jpg 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1920.jpg 1920w"></picture><figcaption>détail du panneau central, chapiteau de colonne, “résurrection de Drusiane”</figcaption>
+      </figure>
+      <section><article>
+        <p>La même année, l'empereur fut tué en châtiment de son extrême cruauté, et le Sénat annula tout ce qu'il avait fait;
+        et c'est ainsi qu'il arriva que <span style="color: #994c3d;">saint Jean</span>, qui avait été injustement déporté dans cette île, put revenir à Éphèse avec tous les honneurs.</p>
+        <p>Toute une foule vint à sa rencontre en criant:</p>
+        <blockquote>
+        <p><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«Béni soit celui qui vient au nom du Seigneur!</span></p>
+        </blockquote>
+        <p>Au moment où il entrait dans la ville, on portait en terre Drusiane, qui l'avait beaucoup aimé et qui avait tant souhaité sa venue.</p>
+        <p>Les parents de Drusiane, les veuves et les orphelins dirent à <span style="color: #994c3d;">Jean</span>:</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—&#160;</span><span style="color: #165493;">«Vénérable Jean, c'est Drusiane que nous portons en terre, elle qui a toujours suivi tes instructions, qui nous nourrissait et qui, aussi, désirait tant ta venue en répétant:</span></p>
+          <blockquote>
+            <p><span style="color: #165493;">“Ah, si je pouvais voir l'apôtre de Dieu avant de mourir!”</span></p>
+          </blockquote>
+        </blockquote>
+        <p>Alors <span style="color: #994c3d;">Jean</span> fit déposer le cercueil et découvrir le corps en disant:</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—&#160;</span></td>Drusiane, que mon Seigneur Jésus-Christ te ressuscite!</span></p>
+          <p><span style="color: #df8f20;">Lève-toi, va à la maison et prépare-moi à manger!</span></p>
+        </blockquote>
+        <p>Elle se leva aussitôt et entreprit d'aller accomplir ce que l'apôtre avait ordonné, comme si elle avait été tirée non pas de la mort mais d'un sommeil.</p>
+      </article></section>
+    </article></section>
 
-  <p>Le <a href="#note_nomdejean" title="nom de Jean" id="nomdejean" class="yellow">nom de Jean</a>, <span style="color: #994c3d;">Johannes</span>, se comprend comme <span style="color: #994c3d;">«grâce du Seigneur»</span>, ou comme <span tyle="color: #994c3d;">«celui en qui se trouve la grâce»</span>, ou <span style="color: #994c3d;">«celui à qui on a fait un don»</span>, ou encore <span style="color: #994c3d;">«celui qui a reçu une donation de Dieu»</span>.</p>
-  <p>Ces quatre significations expriment les quatre privilèges dont a joui <span style="color: #994c3d;">saint Jean</span>.</p>
-  <p>Le <span style="color: #994c3d;">premier</span> privilège a consisté dans l'<span style="color: #994c3d;">amour particulier que lui a porté le Christ</span>.</p>
-  <p>En effet, le Christ l'a aimé plus que les autres apôtres et lui a montré de plus grands signes d'amour et d'intimité.</p>
-  <p>C'est pour cela qu'il est nommé «grâce du Seigneur»: il a plu au Seigneur.</p>
-  <p>Dieu semble même l'avoir plus aimé que Pierre.</p>
-  <p>Mais on distingue l'amour de cœur et l'amour exprimé.</p>
-  <p>Cet amour exprimé se déclare soit dans la manifestation d'une intimité, soit dans la distribution de bienfaits.</p>
-  <p>Or, pour ce qui est de l'amour de cœur, Dieu aima également Pierre et <span style="color: #994c3d;">Jean</span>; pour ce qui est de la manifestation de l'intimité, il aima plus <span style="color: #994c3d;">Jean</span> que Pierre, et, pour la distribution des bienfaits, il préféra Pierre.</p>
-  <p>Le <span style="color: #994c3d;">deuxième</span> privilège tient à la <span style="color: #994c3d;">pureté de la chair</span>:
-  c'est un homme vierge qui fut choisi par le Seigneur;
-  voilà pourquoi il est nommé «celui en qui se trouve la grâce».
-  Car en lui se trouva la grâce de la pudeur virginale.</p>
-  <p>Il fut appelé par le Seigneur au moment où il voulait se marier.</p>
-  <p>Le <span style="color: #994c3d;">troisième</span> privilège réside dans la <span style="color: #994c3d;">révélation des secrets</span>.</p>
-  <p>C'est ce qui le fait nommer «celui à qui l'on a fait un don».</p>
-  <p>Car il lui a été donné de connaître de profonds et nombreux secrets, comme ceux qui concernent la divinité du Verbe et la fin des temps.</p>
-  <p>Le <span style="color: #994c3d;">quatrième</span> privilège, c'est d'<span style="color: #994c3d;">avoir reçu la charge de la mère de Dieu</span>.</p>
-  <p>C'est ce qui le fait nommer «celui qui a reçu une donation de Dieu».</p>
-  <p>Et le Seigneur lui a bien fait une donation considérable en lui confiant la garde de la mère de Dieu <span style="color: #ccc;">(Jean 19, 26-27)</span>.</p>
-  <p>L'évêque Milet de Laodicée a rédigé sa Vie, qu'Isidore a abrégée dans son livre «Sur la naissance, la vie et la mort des saints Pères».</p>
+    <section><article>
+      <h4 class="yellow" id="le-baptème-de-craton">le baptème de Craton</h4>
+      <figure>
+        <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-280.webp 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-380.webp 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-480.webp 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-640.webp 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-840.webp 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1280.webp 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1600.webp 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-640.jpg" title="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, “baptème de Craton”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, “baptème de Craton”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-280.jpg 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-380.jpg 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-480.jpg 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-640.jpg 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-840.jpg 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1280.jpg 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1600.jpg 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1920.jpg 1920w"></picture><figcaption>détail du panneau central, “baptème de Craton”</figcaption>
+      </figure>
+      <section><article>
+        <p>Le lendemain, le philosophe Craton convoqua le peuple sur la place du marché, afin de lui montrer comment il fallait mépriser le monde.</p>
+        <p>Il avait fait acheter des pierres très précieuses par deux frères très riches qui avaient liquidé leur patrimoine à cette fin;
+        et, à la vue de tous, il fit briser ces pierres.</p>
+        <p>L'apôtre se trouvait passer par là; il appela le philosophe près de lui et lui reprocha ce genre de mépris du monde pour <span style="color: #994c3d;">trois raisons</span>:</p>
+        <p><span style="color: #994c3d;">d'abord</span>, <span style="color: #994c3d;">ce refus du monde était loué par les hommes, mais rejeté par le jugement divin</span>;</p>
+        <p><span style="color: #994c3d;">ensuite</span>, <span style="color: #994c3d;">ce geste, qui ne soigne pas le vice, est vain, comme est vain tout remède qui ne soigne pas une maladie</span>.</p>
+        <p><span style="color: #994c3d;">Enfin</span>, <span style="color: #994c3d;">le mépris du monde est méritoire chez celui qui distribue ses biens aux pauvres</span>, en suivant ce que disait le Seigneur à un jeune homme: <q><a href="#note_mathieu" title="Si tu veux être parfait" id="mathieu" class="yellow">Si tu veux être parfait, va, etc.</a></q></p>
+        <p>Craton répondit:</p>
+        <blockquote>
+          <p>— Si ton maître est véritablement Dieu et s'il veut que le prix de ces pierres soit donné aux pauvres, fais qu'elles soient reconstituées: tu pourras ainsi tourner à sa gloire ce que j'ai fait pour obtenir l'éloge des hommes.</span></p>
+        </blockquote>
+        <p>Alors <span style="color: #994c3d;">saint Jean</span> rassembla en sa main les fragments des pierres et se mit en prière;
+        les pierres furent restituées à leur état premier.</p>
+        <p>Aussitôt le philosophe et les deux jeunes gens se mirent à croire, vendirent les pierres et en distribuèrent le prix aux pauvres.</p>
+    </article></section>
+    </article></section>
 
-  <h4 class="yellow" id="persécutés-pour-sa-foi-par-domitien">persécutés pour sa foi par Domitien</h4>
-  <figure>
-    <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-280.webp 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-380.webp 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-480.webp 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-640.webp 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-840.webp 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1280.webp 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1600.webp 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-640.jpg" title="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détails du panneau central, “Ébouillantement de Jean l'Évangéliste sur ordre de l'empereur Domitien devant la Porte Latine à Rome et départ en l'exil sur l'île de Patmos”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détails du panneau central, “Ébouillantement de Jean l'Évangéliste sur ordre de l'empereur Domitien devant la Porte Latine à Rome et départ en l'exil sur l'île de Patmos”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-280.jpg 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-380.jpg 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-480.jpg 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-640.jpg 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-840.jpg 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1280.jpg 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1600.jpg 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1920.jpg 1920w"></picture><figcaption>détails du panneau central, “Ébouillantement de Jean l'Évangéliste sur ordre de l'empereur Domitien devant la Porte Latine à Rome et départ en l'exil sur l'île de Patmos”</figcaption>
-  </figure>
-  <p><span style="color: #994c3d;">Jean</span>, apôtre et évangéliste, le bien-aimé du Seigneur l'homme vierge élu, partit pour l’Asie quand les apôtres séparèrent après la Pentecôte. Il y fonda de nombreuses églises.</p>
-  <p>L'empereur Domitien entendit parler de lui, le convoqua et le fit jeter dans une cuve d'huile bouillante, devant la porte Latine.</p>
-  <p>Il en sortit aussi indemne qu'il avait été étranger à la corruption de la chair.</p>
-  <p>L'empereur, constatant qu'il ne renonçait pas à la prédication, l'exila dans l'île de Patmos où, dans la solitude, il écrivit l’Apocalypse. </p>
-  
-  <h4 class="yellow" id="la-résurrection-de-drusiane">la résurrection de Drusiane</h4>
-  <figure>
-    <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-280.webp 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-380.webp 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-480.webp 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-640.webp 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-840.webp 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1280.webp 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1600.webp 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-640.jpg" title="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, chapiteau de colonne, “résurrection de Drusiane”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, chapiteau de colonne, “résurrection de Drusiane”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-280.jpg 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-380.jpg 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-480.jpg 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-640.jpg 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-840.jpg 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1280.jpg 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1600.jpg 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1920.jpg 1920w"></picture><figcaption>détail du panneau central, chapiteau de colonne, “résurrection de Drusiane”</figcaption>
-  </figure>
-  <p>La même année, l'empereur fut tué en châtiment de son extrême cruauté, et le Sénat annula tout ce qu'il avait fait;
-  et c'est ainsi qu'il arriva que <span style="color: #994c3d;">saint Jean</span>, qui avait été injustement déporté dans cette île, put revenir à Éphèse avec tous les honneurs.</p>
-  <p>Toute une foule vint à sa rencontre en criant:</p>
-  <blockquote>
-  <p><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«Béni soit celui qui vient au nom du Seigneur!</span></p>
-  </blockquote>
-  <p>Au moment où il entrait dans la ville, on portait en terre Drusiane, qui l'avait beaucoup aimé et qui avait tant souhaité sa venue.</p>
-  <p>Les parents de Drusiane, les veuves et les orphelins dirent à <span style="color: #994c3d;">Jean</span>:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">—&#160;</span><span style="color: #165493;">«Vénérable Jean, c'est Drusiane que nous portons en terre, elle qui a toujours suivi tes instructions, qui nous nourrissait et qui, aussi, désirait tant ta venue en répétant:</span></p>
-    <blockquote>
-      <p><span style="color: #165493;">“Ah, si je pouvais voir l'apôtre de Dieu avant de mourir!”</span></p>
-    </blockquote>
-  </blockquote>
-  <p>Alors <span style="color: #994c3d;">Jean</span> fit déposer le cercueil et découvrir le corps en disant:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">—&#160;</span></td>Drusiane, que mon Seigneur Jésus-Christ te ressuscite!</span></p>
-    <p><span style="color: #df8f20;">Lève-toi, va à la maison et prépare-moi à manger!</span></p>
-  </blockquote>
-  <p>Elle se leva aussitôt et entreprit d'aller accomplir ce que l'apôtre avait ordonné, comme si elle avait été tirée non pas de la mort mais d'un sommeil.</p>
+    <section><article>
+      <h4 id="sermons-de-saint-jean-contre-la-richesse-matérielle" class="yellow">sermons de saint Jean contre la richese matérielle</h4>
+      <section><article>
+        <p>Là-dessus, à leur exemple, deux autres jeunes gens de bonne famille vendirent tous leurs biens, en donnèrent le produit aux pauvres et suivirent <span style="color: #994c3d;">Jean</span>.</p>
+        <p>Mais un jour, ils virent leurs serviteurs resplendissants d'atours précieux, alors qu'eux-mêmes ne disposaient que d'un seul manteau et ils s'en attristèrent.</p>
+        <p><span style="color: #994c3d;">Saint Jean</span> remarqua leur triste mine; il fit alors apporter, depuis le rivage de la mer, des branches et des petits cailloux et les transforma en or et en pierres précieuses.</p>
+        <p>Sur ordre de l'apôtre, les jeunes gens se mirent en quête, durant sept jours, de tous les experts en or et pierres précieuses et revinrent en disant que ceux-ci avaient témoigné n'avoir jamais vu or si pur, ni pierres si précieuses.</p>
+        <p><span style="color: #994c3d;">Jean</span> leur dit alors:</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">— Allez et rachetez les terres que vous avez vendues, puisque vous avez perdu le bénéfice céleste; fleurissez afin de pourrir, jouissez des richesses temporelles, afin de mendier dans l'éternité.</span></p>
+        </blockquote>
+        <p>Et alors l'apôtre se mit à disserter fort longuement contre les richesses en montrant que six causes doivent nous détourner de les désirer immodérément.</p>
+        <p>La <span style="color: #994c3d;">première</span> est l'<span style="color: #994c3d;">Écriture</span>:</p>
+        <p>il raconta l'<a href="#note_hoteriche" title="histoire de l'hôte riche" id="hoteriche" class="yellow">histoire de l'hôte riche que le Seigneur réprouva et du pauvre Lazare qu'il choisit</a>.</p>
+        <p>La <span style="color: #94c3d;">seconde</span> cause est la nature, car l'homme naît sans richesses ni vêtements et meurt sans richesses.</p>
+        <p>La <span style="color: #994c3d;">troisième</span> est la <span style="color: #994c3d;">création</span>, car le soleil, la lune, les étoiles, la pluie, l'air sont communs à tous et distribuent leurs bienfaits en commun: de la même façon, toutes choses devraient être communes à tous.</p>
+        <p>La <span style="color: #994c3d;">quatrième cause</span> est la <span style="color: #994c3d;">fortune</span>, parce que le riche se fait l'esclave de l'argent et du diable: esclave de l'argent, il ne possède pas les richesses, mais il est plutôt possédé par les richesses; esclave du diable, l'amoureux de l'argent, selon l'Évangile, sert Mammon (Matthieu 6, 24; Luc 16, 13).</p>
+        <p>La <span style="color: #994c3d;">cinquième</span> est le <span style="color: #994c3d;">souci</span>, car les riches éprouvent, de jour comme de nuit, le souci et l'obsession d'acquérir et la crainte de perdre. En effet, ils éprouvent de la peine à acquérir, et de la crainte à conserver.</p>
+        <p>La <span style="color: #994c3d;">sixième cause</span> est la <span style="color: #994c3d;">perte</span>:</p>
+        <p>il montra que les richesses causent une perte qui réside dans l'acquisition de deux maux: un mal dans la vie présente, la vanité, et un mal dans la vie future, la damnation éternelle.</p>
+        <p>Elles causent, dans la perdition éternelle, une autre perte, celle de deux biens, la grâce dans la vie présente et la gloire éternelle dans la vie future.</p>
+      </article></section>
+    </article></section>
 
-  <h4 class="yellow" id="le-baptème-de-craton">le baptème de Craton</h4>
-  <figure>
-    <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-280.webp 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-380.webp 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-480.webp 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-640.webp 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-840.webp 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1280.webp 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1600.webp 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-640.jpg" title="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, “baptème de Craton”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, “baptème de Craton”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-280.jpg 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-380.jpg 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-480.jpg 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-640.jpg 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-840.jpg 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1280.jpg 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1600.jpg 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1920.jpg 1920w"></picture><figcaption>détail du panneau central, “baptème de Craton”</figcaption>
-  </figure>
-  <p>Le lendemain, le philosophe Craton convoqua le peuple sur la place du marché, afin de lui montrer comment il fallait mépriser le monde.</p>
-  <p>Il avait fait acheter des pierres très précieuses par deux frères très riches qui avaient liquidé leur patrimoine à cette fin;
-  et, à la vue de tous, il fit briser ces pierres.</p>
-  <p>L'apôtre se trouvait passer par là; il appela le philosophe près de lui et lui reprocha ce genre de mépris du monde pour <span style="color: #994c3d;">trois raisons</span>:</p>
-  <p><span style="color: #994c3d;">d'abord</span>, <span style="color: #994c3d;">ce refus du monde était loué par les hommes, mais rejeté par le jugement divin</span>;</p>
-  <p><span style="color: #994c3d;">ensuite</span>, <span style="color: #994c3d;">ce geste, qui ne soigne pas le vice, est vain, comme est vain tout remède qui ne soigne pas une maladie</span>.</p>
-  <p><span style="color: #994c3d;">Enfin</span>, <span style="color: #994c3d;">le mépris du monde est méritoire chez celui qui distribue ses biens aux pauvres</span>, en suivant ce que disait le Seigneur à un jeune homme: <q><a href="#note_mathieu" title="Si tu veux être parfait" id="mathieu" class="yellow">Si tu veux être parfait, va, etc.</a></q></p>
-  <p>Craton répondit:</p>
-  <blockquote>
-    <p>— Si ton maître est véritablement Dieu et s'il veut que le prix de ces pierres soit donné aux pauvres, fais qu'elles soient reconstituées: tu pourras ainsi tourner à sa gloire ce que j'ai fait pour obtenir l'éloge des hommes.</span></p>
-  </blockquote>
-  <p>Alors <span style="color: #994c3d;">saint Jean</span> rassembla en sa main les fragments des pierres et se mit en prière;
-  les pierres furent restituées à leur état premier.</p>
-  <p>Aussitôt le philosophe et les deux jeunes gens se mirent à croire, vendirent les pierres et en distribuèrent le prix aux pauvres.</p>
+    <section><article>
+      <h4 class="yellow" id="la-résurrection-du-jeune-marié">la résurrection du jeune marié</h4>
+      <section><article>
+        <p>Or, pendant que <span style="color: #994c3d;">Jean</span> était en train d'ainsi disserter contre les richesses, voici qu'on apporta le corps d'un jeune homme qui était marié depuis trente jours.</p>
+        <p>Arrivèrent sa mère, sa veuve et tous ceux qui le pleuraient; ils se jetèrent à ses pieds en l'implorant de ressusciter le jeune homme au nom du Seigneur, comme il l'avait fait pour Drusiane.</p>
+        <p>Alors, aussitôt après s'être longuement abîmé dans les pleurs et les prières, il le ressuscita et lui commanda de raconter aux deux disciples quelle peine ils pouvaient encourir et quelle gloire ils pouvaient perdre.</p>
+        <p>Le jeune homme raconta bien des choses sur la gloire du paradis et sur les peines de l'enfer, qu'il avait vues, et il dit:</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">— Ô malheureux, j'ai vu vos anges pleurer et les démons se réjouir.</span></p>
+        </blockquote>
+        <p>Il leur raconta qu'ils pouvaient perdre des palais éternels, construits d'étincelantes pierres précieuses, illuminés d'une clarté prodigieuse, abondants en riches banquets, pleins de délices, glorifiés par les joies et destinés à durer toujours.</p>
+        <p>De l'enfer, il présenta huit supplices ainsi versifiés:</p>
+        <p>«Vers et ténèbres, supplice, froid et brûlure Regard du démon, remords, douleur».</p>
+        <p>Alors, le jeune homme ressuscité et les deux disciples se jetèrent aux pieds de l'apôtre en lui demandant miséricorde.</p>
+        <p>L'apôtre leur dit:</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">— Faites pénitence pendant trente jours en priant pour obtenir que les branches et les pierres retournent à leur nature première.</span></p>
+        </blockquote>
+        <p>Quand cela fut fait, il leur dit:</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">— Allez porter ces branches et ces pierres là où vous les avez prises.</span></p>
+        </blockquote>
+        <p>Quand ils se furent exécutés et que les branches et les pierres se furent retrouvées dans leur nature première, ils reçurent toute la grâce des vertus qu'ils avaient possédée auparavant.</p>
+      </article></section>
+    </article></section>
 
-  <h4 id="sermons-de-saint-jean-contre-la-richesse-matérielle" class="yellow">sermons de saint Jean contre la richese matérielle</h4>
-  <p>Là-dessus, à leur exemple, deux autres jeunes gens de bonne famille vendirent tous leurs biens, en donnèrent le produit aux pauvres et suivirent <span style="color: #994c3d;">Jean</span>.</p>
-  <p>Mais un jour, ils virent leurs serviteurs resplendissants d'atours précieux, alors qu'eux-mêmes ne disposaient que d'un seul manteau et ils s'en attristèrent.</p>
-  <p><span style="color: #994c3d;">Saint Jean</span> remarqua leur triste mine; il fit alors apporter, depuis le rivage de la mer, des branches et des petits cailloux et les transforma en or et en pierres précieuses.</p>
-  <p>Sur ordre de l'apôtre, les jeunes gens se mirent en quête, durant sept jours, de tous les experts en or et pierres précieuses et revinrent en disant que ceux-ci avaient témoigné n'avoir jamais vu or si pur, ni pierres si précieuses.</p>
-  <p><span style="color: #994c3d;">Jean</span> leur dit alors:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Allez et rachetez les terres que vous avez vendues, puisque vous avez perdu le bénéfice céleste; fleurissez afin de pourrir, jouissez des richesses temporelles, afin de mendier dans l'éternité.</span></p>
-  </blockquote>
-  <p>Et alors l'apôtre se mit à disserter fort longuement contre les richesses en montrant que six causes doivent nous détourner de les désirer immodérément.</p>
-  <p>La <span style="color: #994c3d;">première</span> est l'<span style="color: #994c3d;">Écriture</span>:</p>
-  <p>il raconta l'<a href="#note_hoteriche" title="histoire de l'hôte riche" id="hoteriche" class="yellow">histoire de l'hôte riche que le Seigneur réprouva et du pauvre Lazare qu'il choisit</a>.</p>
-  <p>La <span style="color: #94c3d;">seconde</span> cause est la nature, car l'homme naît sans richesses ni vêtements et meurt sans richesses.</p>
-  <p>La <span style="color: #994c3d;">troisième</span> est la <span style="color: #994c3d;">création</span>, car le soleil, la lune, les étoiles, la pluie, l'air sont communs à tous et distribuent leurs bienfaits en commun: de la même façon, toutes choses devraient être communes à tous.</p>
-  <p>La <span style="color: #994c3d;">quatrième cause</span> est la <span style="color: #994c3d;">fortune</span>, parce que le riche se fait l'esclave de l'argent et du diable: esclave de l'argent, il ne possède pas les richesses, mais il est plutôt possédé par les richesses; esclave du diable, l'amoureux de l'argent, selon l'Évangile, sert Mammon (Matthieu 6, 24; Luc 16, 13).</p>
-  <p>La <span style="color: #994c3d;">cinquième</span> est le <span style="color: #994c3d;">souci</span>, car les riches éprouvent, de jour comme de nuit, le souci et l'obsession d'acquérir et la crainte de perdre. En effet, ils éprouvent de la peine à acquérir, et de la crainte à conserver.</p>
-  <p>La <span style="color: #994c3d;">sixième cause</span> est la <span style="color: #994c3d;">perte</span>:</p>
-  <p>il montra que les richesses causent une perte qui réside dans l'acquisition de deux maux: un mal dans la vie présente, la vanité, et un mal dans la vie future, la damnation éternelle.</p>
-  <p>Elles causent, dans la perdition éternelle, une autre perte, celle de deux biens, la grâce dans la vie présente et la gloire éternelle dans la vie future.</p>
-  
-  <h4 class="yellow" id="la-résurrection-du-jeune-marié">la résurrection du jeune marié</h4>
-  <p>Or, pendant que <span style="color: #994c3d;">Jean</span> était en train d'ainsi disserter contre les richesses, voici qu'on apporta le corps d'un jeune homme qui était marié depuis trente jours.</p>
-  <p>Arrivèrent sa mère, sa veuve et tous ceux qui le pleuraient; ils se jetèrent à ses pieds en l'implorant de ressusciter le jeune homme au nom du Seigneur, comme il l'avait fait pour Drusiane.</p>
-  <p>Alors, aussitôt après s'être longuement abîmé dans les pleurs et les prières, il le ressuscita et lui commanda de raconter aux deux disciples quelle peine ils pouvaient encourir et quelle gloire ils pouvaient perdre.</p>
-  <p>Le jeune homme raconta bien des choses sur la gloire du paradis et sur les peines de l'enfer, qu'il avait vues, et il dit:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Ô malheureux, j'ai vu vos anges pleurer et les démons se réjouir.</span></p>
-  </blockquote>
-  <p>Il leur raconta qu'ils pouvaient perdre des palais éternels, construits d'étincelantes pierres précieuses, illuminés d'une clarté prodigieuse, abondants en riches banquets, pleins de délices, glorifiés par les joies et destinés à durer toujours.</p>
-  <p>De l'enfer, il présenta huit supplices ainsi versifiés:</p>
-  <p>«Vers et ténèbres, supplice, froid et brûlure Regard du démon, remords, douleur».</p>
-  <p>Alors, le jeune homme ressuscité et les deux disciples se jetèrent aux pieds de l'apôtre en lui demandant miséricorde.</p>
-  <p>L'apôtre leur dit:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Faites pénitence pendant trente jours en priant pour obtenir que les branches et les pierres retournent à leur nature première.</span></p>
-  </blockquote>
-  <p>Quand cela fut fait, il leur dit:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Allez porter ces branches et ces pierres là où vous les avez prises.</span></p>
-  </blockquote>
-  <p>Quand ils se furent exécutés et que les branches et les pierres se furent retrouvées dans leur nature première, ils reçurent toute la grâce des vertus qu'ils avaient possédée auparavant.</p>
+    <section><article>
+      <h4 class="yellow" id="la-destruction-du-temple-de-diane">la destruction du temple de Diane</h4>
+      <section><article>
+        <p>Saint <span style="color: #994c3d;">Jean</span> avait prêché à toute l'Asie.</p>
+        <p>Un jour, les adorateurs des idoles fomentèrent une sédition populaire
+        et l'emmenèrent au temple de Diane pour l'obliger à offrir un sacrifice.</p>
+        <p><span style="color: #994c3d;">Jean</span> leur proposa cette alternative: </p>
+        <ul>
+        <li>ou bien ils réussiraient à convaincre l'Église du Christ d’invoquer Diane
+        et alors il offrirait lui-même un sacrifice aux idoles;</li>
+        <li>ou bien il réussirait lui-même à faire invoquer le Christ au temple de Diane
+        et alors ils devraient croire au Christ.</li>
+        </ul>
+        <p>La majorité du peuple en fut d'accord; tout le monde sortit du temple, l'apôtre se mit en prière et le temple s'écroula;
+        la statue de Diane se brisa en mille morceaux.</p>
+      </article></section>
+    </article></section>
 
-  <h4 class="yellow" id="la-destruction-du-temple-de-diane">la destruction du temple de Diane</h4>
-  <p>Saint <span style="color: #994c3d;">Jean</span> avait prêché à toute l'Asie.</p>
-  <p>Un jour, les adorateurs des idoles fomentèrent une sédition populaire
-  et l'emmenèrent au temple de Diane pour l'obliger à offrir un sacrifice.</p>
-  <p><span style="color: #994c3d;">Jean</span> leur proposa cette alternative: </p>
-  <ul>
-  <li>ou bien ils réussiraient à convaincre l'Église du Christ d’invoquer Diane
-  et alors il offrirait lui-même un sacrifice aux idoles;</li>
-  <li>ou bien il réussirait lui-même à faire invoquer le Christ au temple de Diane
-  et alors ils devraient croire au Christ.</li>
-  </ul>
-  <p>La majorité du peuple en fut d'accord; tout le monde sortit du temple, l'apôtre se mit en prière et le temple s'écroula;
-  la statue de Diane se brisa en mille morceaux.</p>
-
-  <h4 class="yellow" id="la-coupe-de-poison">la coupe de poison</h4>
-  <figure>
-    <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-280.webp 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-380.webp 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-480.webp 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-640.webp 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-840.webp 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1280.webp 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1600.webp 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-640.jpg" title="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, Jean l'Évangéliste, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, Jean l'Évangéliste, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-60-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-280.jpg 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-380.jpg 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-480.jpg 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-640.jpg 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-840.jpg 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1280.jpg 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1600.jpg 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1920.jpg 1920w"></picture><figcaption>Jean l'Évangéliste tenant une coupe de poison</figcaption>
-  </figure>
-  <p>Alors <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#renvoi-aristodeme" title="https://francois-vidit.com/docs/fr/saint-jean/page:3#renvoi-aristodeme" id="aristodeme" class="yellow">Aristodème</a>, prêtre des idoles, fit naître une forte dispute parmi le peuple, si bien qu'une partie de ce peuple se préparait à affronter l'autre. L'apôtr dit alors:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Que veux-tu faire? Dis-le et je ferai ce qui te plaira.</span></p>
-  </blockquote>
-  <p>L'autre répondit:</p>
-  <blockquote>
-    <p><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«Si tu veux que je croie en ton Dieu, je te donnerai à boire du poison et s'il ne te fait aucun mal, ton seigneur apparaîtra comme le vrai Dieu.</span></p>
-  </blockquote>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Fais comme tu le dis</span>, dit l'apôtre.</p>
-  </blockquote>
-  <blockquote>
-    <p><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«Je veux d'abord</span>, dit le prêtre, <span style="color: #165493;">que tu voies des gens mourir, pour ta plus grande crainte.</span></p>
-  </blockquote>
-  <p>Aristodème alla donc trouver le proconsul pour se faire confier deux hommes destinés à la décapitation et,
-  devant la foule, leur donna du poison.</p>
-  <p>Dès qu'ils l'eurent bu,
-  ils rendirent l'âme.</p>
-  <p>Alors l'apôtre prit le calice et,
-  en se protégeant par un signe de croix,
-  but tout le poison, qui fut sans aucun effet.</p>
-  <p>Tous se mirent alors à louer Dieu.</p>
-  <p>Mais Aristodème ajouta:</p>
-  <blockquote>
-    <p><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«J'ai encore un doute; mais si tu ressuscites ces deux morts, je croirai véritablement et sans le moindre doute.</span></p>
-  </blockquote>
-  <p>L'apôtre lui donna alors sa tunique. L'autre demanda:</p>
-  <blockquote>
-    <p><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«Pourquoi m’as-tu donné ta tunique?</span></p>
-  </blockquote>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Pour qu'ainsi tu sois confondu et que tu abandonnes tes fausses croyances</span>, rétorqua l'apôtre.</p>
-  </blockquote>
-  <blockquote>
-    <p><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«Penses-tu vraiment que ta tunique me fera croire?» dit l'autre.</span></p>
-  </blockquote>
-  <p>L'apôtre dit:</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">— Va et jette-la sur le corps des défunts en disant:</span></p>
-    <p><span style="color: #df8f20;">“L'apôtre du Christ m'a envoyé vers vous pour que vous ressuscitiez au nom du Christ”.</span></p>
-  </blockquote>
-  <p>Le prêtre s'exécuta et les morts ressuscitèrent aussitôt.</p>
-  <p>Alors l'apôtre baptisa au nom du Christ le prêtre et le proconsul, qui se convertirent avec toute leur famille et firent ensuite construire une église en l'honneur de <span style="color: #994c3d;">saint Jean</span>.</p>
+    <section><article>
+      <h4 class="yellow" id="la-coupe-de-poison">la coupe de poison</h4>
+      <figure>
+        <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-280.webp 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-380.webp 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-480.webp 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-640.webp 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-840.webp 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1280.webp 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1600.webp 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-640.jpg" title="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, Jean l'Évangéliste, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, Jean l'Évangéliste, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-60-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-280.jpg 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-380.jpg 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-480.jpg 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-640.jpg 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-840.jpg 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1280.jpg 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1600.jpg 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1920.jpg 1920w"></picture><figcaption>Jean l'Évangéliste tenant une coupe de poison</figcaption>
+      </figure>
+      <section><article>
+        <p>Alors <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#renvoi-aristodeme" title="https://francois-vidit.com/docs/fr/saint-jean/page:3#renvoi-aristodeme" id="aristodeme" class="yellow">Aristodème</a>, prêtre des idoles, fit naître une forte dispute parmi le peuple, si bien qu'une partie de ce peuple se préparait à affronter l'autre. L'apôtr dit alors:</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">— Que veux-tu faire? Dis-le et je ferai ce qui te plaira.</span></p>
+        </blockquote>
+        <p>L'autre répondit:</p>
+        <blockquote>
+          <p><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«Si tu veux que je croie en ton Dieu, je te donnerai à boire du poison et s'il ne te fait aucun mal, ton seigneur apparaîtra comme le vrai Dieu.</span></p>
+        </blockquote>
+        <blockquote>
+          <p><span style="color: #df8f20;">— Fais comme tu le dis</span>, dit l'apôtre.</p>
+        </blockquote>
+        <blockquote>
+          <p><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«Je veux d'abord</span>, dit le prêtre, <span style="color: #165493;">que tu voies des gens mourir, pour ta plus grande crainte.</span></p>
+        </blockquote>
+        <p>Aristodème alla donc trouver le proconsul pour se faire confier deux hommes destinés à la décapitation et,
+        devant la foule, leur donna du poison.</p>
+        <p>Dès qu'ils l'eurent bu,
+        ils rendirent l'âme.</p>
+        <p>Alors l'apôtre prit le calice et,
+        en se protégeant par un signe de croix,
+        but tout le poison, qui fut sans aucun effet.</p>
+        <p>Tous se mirent alors à louer Dieu.</p>
+        <p>Mais Aristodème ajouta:</p>
+        <blockquote>
+          <p><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«J'ai encore un doute; mais si tu ressuscites ces deux morts, je croirai véritablement et sans le moindre doute.</span></p>
+        </blockquote>
+        <p>L'apôtre lui donna alors sa tunique. L'autre demanda:</p>
+        <blockquote>
+          <p><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«Pourquoi m’as-tu donné ta tunique?</span></p>
+        </blockquote>
+        <blockquote>
+          <p><span style="color: #df8f20;">— Pour qu'ainsi tu sois confondu et que tu abandonnes tes fausses croyances</span>, rétorqua l'apôtre.</p>
+        </blockquote>
+        <blockquote>
+          <p><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«Penses-tu vraiment que ta tunique me fera croire?» dit l'autre.</span></p>
+        </blockquote>
+        <p>L'apôtre dit:</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">— Va et jette-la sur le corps des défunts en disant:</span></p>
+          <p><span style="color: #df8f20;">“L'apôtre du Christ m'a envoyé vers vous pour que vous ressuscitiez au nom du Christ”.</span></p>
+        </blockquote>
+        <p>Le prêtre s'exécuta et les morts ressuscitèrent aussitôt.</p>
+        <p>Alors l'apôtre baptisa au nom du Christ le prêtre et le proconsul, qui se convertirent avec toute leur famille et firent ensuite construire une église en l'honneur de <span style="color: #994c3d;">saint Jean</span>.</p>
+      </article></section>
+    </article></section>
+  </article></section>
 </article>
 
 <aside>
@@ -3525,87 +3655,113 @@
     <h2 id="notes" class="yellow">notes</h2>
     <section><article>
       <h3 id="note_nomdejean" class="yellow">nom de Jean</h3>
-      <div class="notices yellow">
-      <p>À propos du sens du nom de Jean en hébreu, voir aussi <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean">«le nom “jean”, son lien avec l'institution, son étymologie»</a>.</p>
-      </div>
+      <section><article>
+        <div class="notices yellow">
+        <p>À propos du sens du nom de Jean en hébreu, voir aussi <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean">«le nom “jean”, son lien avec l'institution, son étymologie»</a>.</p>
+        </div>
+      </article></section>
       <footer><p>retour au texte: <a href="#nomdejean" title="nom de Jean">nom de Jean ↑</a></p></footer>
     </article></section>
     
     <section><article>
       <h3 id="note_mathieu" class="yellow">Si tu veux être parfait</h3>
-      <div class="notices yellow">
-      <p>Cette citation se rapporte à un passage de l'<cite>Évangile selon Mathieu</cite>, chapître 19, verset 21:</p>
-      <ol class="doc">
-        <li value="21"><q>Si tu veux être parfait, va, vends ce que tu possèdes, donne-le aux pauvres, et tu auras un trésor dans les cieux. Puis viens, suis-moi.</q></li>
-      </ol>
-      <p>En complément, le texte complet:</p>
-      <ol class="doc">
-        <li value="16"><p>Et voici que quelqu’un s’approcha de Jésus et lui dit:</p>
-          <blockquote>
-            <p><q>Maître, que dois-je faire de bon pour avoir la vie éternelle ?</q></p>
-          </blockquote></li>
-        <li value="17"><p>Jésus lui dit:</p>
-          <blockquote>
-            <p><q>Pourquoi m’interroges-tu sur ce qui est bon? Celui qui est bon, c’est Dieu, et lui seul! Si tu veux entrer dans la vie, observe les commandements.</q></p>
-          </blockquote></li>
-        <li value="18"><p>Il lui dit:</p>
-          <blockquote>
-            <p><q>Lesquels?</q></p>
-          </blockquote>
-          <p>Jésus reprit:</p>
-          <blockquote>
-            <p>“Tu ne commettras pas de meurtre. Tu ne commettras pas d’adultère. Tu ne commettras pas de vol. Tu ne porteras pas de faux témoignage.</p>
-          </blockquote></li>
-        <li value="19">
-          <blockquote>
-            <p><q>Honore ton père et ta mère. Et aussi: Tu aimeras ton prochain comme toi-même.</q></p>
-          </blockquote></li>
-        <li value="20"><p>Le jeune homme lui dit:</p>
-        <blockquote>
-          <p><q>Tout cela, je l’ai observé: que me manque-t-il encore?</q></p>
-        </blockquote>
-        <li value="21"><p>Jésus lui répondit:</p>
-        <blockquote>
-          <p><q>Si tu veux être parfait, va, vends ce que tu possèdes, donne-le aux pauvres, et tu auras un trésor dans les cieux. Puis viens, suis-moi.</q></p></li>
-        <li value="22">À ces mots, le jeune homme s’en alla tout triste, car il avait de grands biens.</li>
-        <li value="23"><p>Et Jésus dit à ses disciples:</p>
-        <blockquote>
-          <p><q>Amen, je vous le dis: un riche entrera difficilement dans le royaume des Cieux.</q></p></li>
-        <li value="24"><p>Je vous le répète:</p>
-        <blockquote>
-          <p><q>il est plus facile à un chameau de passer par un trou d’aiguille qu’à un riche d’entrer dans le royaume des Cieux</q>.</p>
-        </blockquote></li>
-      </ol>
-      </div>
+      <section><article>
+        <section><article>
+            <p>Cette citation se rapporte à un passage de l'<cite>Évangile selon Mathieu</cite>, chapître 19, verset 21:</p>
+        </article></section>
+        <section><article>
+          <div class="notices yellow">
+            <ol class="doc">
+              <li value="21"><q>Si tu veux être parfait, va, vends ce que tu possèdes, donne-le aux pauvres, et tu auras un trésor dans les cieux. Puis viens, suis-moi.</q></li>
+            </ol>
+          </div>
+        </article></section>
+      </article></section>
+      <section><article>
+        <section><article>
+          <p>En complément, le texte complet:</p>
+        </article></section>
+        <section><article>
+          <div class="notices yellow">
+          <ol class="doc">
+            <li value="16"><p>Et voici que quelqu’un s’approcha de Jésus et lui dit:</p>
+              <blockquote>
+                <p><q>Maître, que dois-je faire de bon pour avoir la vie éternelle ?</q></p>
+              </blockquote></li>
+            <li value="17"><p>Jésus lui dit:</p>
+              <blockquote>
+                <p><q>Pourquoi m’interroges-tu sur ce qui est bon? Celui qui est bon, c’est Dieu, et lui seul! Si tu veux entrer dans la vie, observe les commandements.</q></p>
+              </blockquote></li>
+            <li value="18"><p>Il lui dit:</p>
+              <blockquote>
+                <p><q>Lesquels?</q></p>
+              </blockquote>
+              <p>Jésus reprit:</p>
+              <blockquote>
+                <p>“Tu ne commettras pas de meurtre. Tu ne commettras pas d’adultère. Tu ne commettras pas de vol. Tu ne porteras pas de faux témoignage.</p>
+              </blockquote></li>
+            <li value="19">
+              <blockquote>
+                <p><q>Honore ton père et ta mère. Et aussi: Tu aimeras ton prochain comme toi-même.</q></p>
+              </blockquote></li>
+            <li value="20"><p>Le jeune homme lui dit:</p>
+            <blockquote>
+              <p><q>Tout cela, je l’ai observé: que me manque-t-il encore?</q></p>
+            </blockquote>
+            <li value="21"><p>Jésus lui répondit:</p>
+            <blockquote>
+              <p><q>Si tu veux être parfait, va, vends ce que tu possèdes, donne-le aux pauvres, et tu auras un trésor dans les cieux. Puis viens, suis-moi.</q></p></li>
+            <li value="22">À ces mots, le jeune homme s’en alla tout triste, car il avait de grands biens.</li>
+            <li value="23"><p>Et Jésus dit à ses disciples:</p>
+            <blockquote>
+              <p><q>Amen, je vous le dis: un riche entrera difficilement dans le royaume des Cieux.</q></p></li>
+            <li value="24"><p>Je vous le répète:</p>
+            <blockquote>
+              <p><q>il est plus facile à un chameau de passer par un trou d’aiguille qu’à un riche d’entrer dans le royaume des Cieux</q>.</p>
+            </blockquote></li>
+          </ol>
+          </div>
+        </article></section>
+        <section><article>
+          <p>Cette histoire apparaît également dans l'<cite>Évangile selon Jean</cite>, plus en détails:</p>
+          <p><a href="https://www.aelf.org/bible/Jn/11" title="https://www.aelf.org/bible/Jn/11"><cite>Évangile selon Jean</cite> chapitre 11, verset 1-46</a></p>
+        </article></section>
+      </article></section>
       <footer>
-        <p>Cette histoire apparaît également dans <cite>Évangile selon Jean</cite>, plus en détail:</p>
-        <p><a href="https://www.aelf.org/bible/Jn/11" title="https://www.aelf.org/bible/Jn/11"><cite>Évangile selon Jean</cite> chapitre 11, verset 1-46</a></p>
         <p>retour au texte: <a href="#mathieu" title="Si tu veux être parfait">Si tu veux être parfait↑</a></p>
       </footer>
     </article></section>
 
     <section><article>
       <h3 id="note_hoteriche" class="yellow">histoire de l'hôte riche</h3>
-      <div class="notices yellow">
-      <p>Ce passage se rapporte à l'<cite>Évangile selon Luc</cite>, chapître 16, verset 19 et suivants:</p>
-      <ol clas="doc">
-        <li value="19">«Il y avait un homme riche, vêtu de pourpre et de lin fin, qui faisait chaque jour des festins somptueux.</li>
-        <li value="20">Devant son portail gisait un pauvre nommé Lazare, qui était couvert d’ulcères.</li>
-        <li value="21">Il aurait bien voulu se rassasier de ce qui tombait de la table du riche; mais les chiens, eux, venaient lécher ses ulcères.</li>
-        <li value="22">Or le pauvre mourut, et les anges l’emportèrent auprès d’Abraham. Le riche mourut aussi, et on l’enterra.</li>
-        <li value="23">Au séjour des morts, il était en proie à la torture; levant les yeux, il vit Abraham de loin et Lazare tout près de lui.</li>
-        <li value="24"><p>Alors il cria:</p>
-        <blockquote>
-          <p><q>Père Abraham, prends pitié de moi et envoie Lazare tremper le bout de son doigt dans l’eau pour me rafraîchir la langue, car je souffre terriblement dans cette fournaise.</q></p>
-        </blockquote></li>
-        <li value="25">
-          <blockquote>
-            <p>– <q>Mon enfant, répondit Abraham, rappelle-toi: tu as reçu le bonheur pendant ta vie, et Lazare, le malheur pendant la sienne. Maintenant, lui, il trouve ici la consolation, et toi, la souffrance</q>.</p>
-          </blockquote>
-        </li>
-      </ol>
-      <p>Cette histoire est également racontée par Jean, plus en détail: voir <a href="https://www.aelf.org/bible/Jn/11" title="https://www.aelf.org/bible/Jn/11">Jean chapitre 11, verset 1-46</a>.
-      </div>
+      <section><article>
+        <section><article>
+            <p>Ce passage se rapporte à l'<cite>Évangile selon Luc</cite>, chapître 16, verset 19 et suivants:</p>
+        </article></section>
+        <section><article>
+          <div class="notices yellow">
+            <ol clas="doc">
+              <li value="19">«Il y avait un homme riche, vêtu de pourpre et de lin fin, qui faisait chaque jour des festins somptueux.</li>
+              <li value="20">Devant son portail gisait un pauvre nommé Lazare, qui était couvert d’ulcères.</li>
+              <li value="21">Il aurait bien voulu se rassasier de ce qui tombait de la table du riche; mais les chiens, eux, venaient lécher ses ulcères.</li>
+              <li value="22">Or le pauvre mourut, et les anges l’emportèrent auprès d’Abraham. Le riche mourut aussi, et on l’enterra.</li>
+              <li value="23">Au séjour des morts, il était en proie à la torture; levant les yeux, il vit Abraham de loin et Lazare tout près de lui.</li>
+              <li value="24"><p>Alors il cria:</p>
+              <blockquote>
+                <p><q>Père Abraham, prends pitié de moi et envoie Lazare tremper le bout de son doigt dans l’eau pour me rafraîchir la langue, car je souffre terriblement dans cette fournaise.</q></p>
+              </blockquote></li>
+              <li value="25">
+                <blockquote>
+                  <p>– <q>Mon enfant, répondit Abraham, rappelle-toi: tu as reçu le bonheur pendant ta vie, et Lazare, le malheur pendant la sienne. Maintenant, lui, il trouve ici la consolation, et toi, la souffrance</q>.</p>
+                </blockquote>
+              </li>
+            </ol>
+          </div>
+        </article></section>
+        <section><article>
+          <p>Cette histoire est également racontée par Jean, plus en détail: voir <a href="https://www.aelf.org/bible/Jn/11" title="https://www.aelf.org/bible/Jn/11">Jean chapitre 11, verset 1-46</a>.
+        </article></section>
+      </article></section>
       <footer><p>retour au texte: <a href="#mathieu" title="Si tu veux être parfait">histoire de l'hôte riche ↑</a></p></footer>
     </article></section>
   </article>
@@ -3615,15 +3771,17 @@
 
 <article>
   <h3 id="jean-selon-legende-2" class="yellow">Légende de Jean l'Évangéliste selon le chapître 65 selon <cite>La Légende dorée</cite></h3>
-  
-  <h4>Texte du chapître 65 de <cite>La Légende dorée</cite>: légende de Jean l'Évangéliste - Jean devant la POrte Latine</h4> 
-
-  <p>Jean, apộtre et évangéliste, prêchait à Ephèse, lorsqu'il fut arrêté par le proconsul et invité à sacrifier aux dieux.</p>
-  <p>Comme il refusait, il est jeté en prison; on envoie alors à l'empereur Domitien une lettre le désignant comme un magicien sacrilège, contempteur des dieux et adorateur du Crucifié.</p>
-  <p>
-  Sur ordre de Domitien, Jean est ensuite conduit à Rome où, après lui avoir coupé tous les cheveux par dérision, devant la porte de la ville qu'on appelle Latine, on le flagelle et on le jette dans un chaudron d'huile bouillante sous lequel brûlait un feu ardent.</p>
-  <p>Mais Jean ne ressentit aucune douleur et en sortit tout à fait indemne, non pas brûlé mais oint.</p>
-  <p>À cette vue, Domitien fut stupéfié et craignit de le mettre à mort. Aussi, à cet endroit, les chrétiens ont-ils construit une église, et ce jour est-il fêté solennellement comme celui du martyre de Jean. Or, comme il n'avait pas renoncé à prêcher le Christ, Domitien ordonna de le reléguer dans l'île de Patmos.</p>
+  <section><article>
+    <h4>Texte du chapître 65 de <cite>La Légende dorée</cite>: légende de Jean l'Évangéliste - Jean devant la Porte Latine</h4> 
+    <section><article>
+      <p>Jean, apộtre et évangéliste, prêchait à Ephèse, lorsqu'il fut arrêté par le proconsul et invité à sacrifier aux dieux.</p>
+      <p>Comme il refusait, il est jeté en prison; on envoie alors à l'empereur Domitien une lettre le désignant comme un magicien sacrilège, contempteur des dieux et adorateur du Crucifié.</p>
+      <p>
+      Sur ordre de Domitien, Jean est ensuite conduit à Rome où, après lui avoir coupé tous les cheveux par dérision, devant la porte de la ville qu'on appelle Latine, on le flagelle et on le jette dans un chaudron d'huile bouillante sous lequel brûlait un feu ardent.</p>
+      <p>Mais Jean ne ressentit aucune douleur et en sortit tout à fait indemne, non pas brûlé mais oint.</p>
+      <p>À cette vue, Domitien fut stupéfié et craignit de le mettre à mort. Aussi, à cet endroit, les chrétiens ont-ils construit une église, et ce jour est-il fêté solennellement comme celui du martyre de Jean. Or, comme il n'avait pas renoncé à prêcher le Christ, Domitien ordonna de le reléguer dans l'île de Patmos.</p>
+    </article></section>
+  </article></section>
 </article>
 
 <!-- Page 20 --><hr>
