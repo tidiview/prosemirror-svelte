@@ -893,10 +893,10 @@ export const ExtendedThreerichTextSchema = new Schema({
       toDOM(node) { let {href} = node.attrs ;  return href == "" ? ["cite", 0] : ["cite", {href}, 0] },
     },
     q: {
-      attrs: {color: {default: null}},
+      attrs: {color: {default: null}, quotes: {default: null}},
       parseDOM: [{tag: "q", getAttrs(dom) {
-        return {color: dom.style["color"]} } }],
-      toDOM(node) { let {color} = node.attrs ; return color == "" ? ["q", 0] : ["q", {"style": "color:" + color}, 0] },
+        return {color: dom.style["color"], quotes: dom.style["quotes"]} } }],
+      toDOM(node) { let {color, quotes} = node.attrs ; return color == "" ? quotes == "" ? ["q", 0] : ["q", {"style": "quotes:" + quotes}, 0] : quotes == "" ? ["q", {"style": "color:" + color}, 0] : ["q", {"style": "color:" + color + ";quotes:" + quotes }, 0] },
     },
     span: {
       attrs: {color: {default: null}, title: {default: null}},
