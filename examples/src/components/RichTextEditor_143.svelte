@@ -48,8 +48,6 @@
         <h4 class="yellow">この記事の目的</h4>
         <section><article>
           <div class="notices yellow">
-            </p>
-            <p>
             <p>L'article que nous rédigeons se donne pour objectif de dépasser ce premier regard:</p>
             <ol>
               <li>ここでは私たちの目的は作品の解説を生み出すのではなく、しかも<span style="color: #e6a64d;">描写</span>を。その描写によってその作品をよりよく把握出来る要素を提供するのです。それは<span style="color: #e6a64d;">質の良い複写</span> <a href="#note-1" title="note-1" id="renvoi-note-1"><sup style="color:#555;" id="renvoi-note-1">1</sup></a> 、<span style="color: #e6a64d;">作品の主な根源</span>、文献的であれ、画学的であれです。それは、現在では、例えば図書館でも借りれる紙で印刷されている専門的な本ででもよくほのめかしや参照させることによってからしかされていません。</li>
@@ -72,11 +70,11 @@
         <h4 class="yellow">この記事の目次</h4>
         <section><article>
           <p>以下のページでは、より深い理解を提供するようにさまざまな面を紹介しています。</p>
-            <ol>
-              <li>まず、施療院の教会の新しい後陣である<a href="#presentation-photographique" title="presentation-photographique" id="renvoi-presentation-photographique" class="yellow">展示空間での三連画の写真紹介</a>によって、</li>
-              <li>それから、<a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:2#description" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:2#description" class="yellow">象徴され用としている内容を描写する文書</a>によって、</li>
-              <li>最後に、画像の様々な要素に合わせて画家本人が宗教的な題材を表すために基づいたと思われる<a href="/docs/fr/bruges/hopital-saint-jean/sint-jean/page:16#mise-en-relation" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" id="renvoi-mise-en-relation" class="yellow">様々な文書</a>との関係によってです。</li>
-            </ol>
+          <ol>
+            <li>まず、施療院の教会の新しい後陣である<a href="#presentation-photographique" title="presentation-photographique" id="renvoi-presentation-photographique" class="yellow">展示空間での三連画の写真紹介</a>によって、</li>
+            <li>それから、<a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:2#description" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:2#description" class="yellow">象徴され用としている内容を描写する文書</a>によって、</li>
+            <li>最後に、画像の様々な要素に合わせて画家本人が宗教的な題材を表すために基づいたと思われる<a href="/docs/fr/bruges/hopital-saint-jean/sint-jean/page:16#mise-en-relation" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" id="renvoi-mise-en-relation" class="yellow">様々な文書</a>との関係によってです。</li>
+          </ol>
         </article></section>
       </article></section>
     </article></section>
@@ -316,9 +314,7 @@
   </article></section>
 </aside>
 
-<hr>
-
-<!-- Page 2 -->
+<!-- Page 2 --><hr>
 
 <article>
   <h2 id="description" class="yellow">作品の描写</h2>
@@ -373,6 +369,7 @@
     <section><article>
       <p>彼女は上空を飛んでいる<span style="color: #e6a64d;">ニ人の小さな暗い青の天使</span>によって「天国の女王」の冠を戴こうとしています。</p>
     </article></section>
+
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/deux-anges-280.webp 280w,
@@ -454,146 +451,194 @@
     </article></section>
 
     <section><article>
-    <h4 class="yellow">アレクサンドリアのカタリナ、その歴史的事実</h4>
-    <p><a href="https://ja.wikipedia.org/wiki/アレクサンドリアのカタリナ" title="https://ja.wikipedia.org/wiki/アレクサンドリアのカタリナ" id="catherine-d-alexandrie-2" class="yellow">アレクサンドリアのカタリナ</a>は十三世紀末期からとても人気のある聖人でありました。</p>
-    <p>彼女の伝説は<a href="https://ja.wikipedia.org/wiki/ヤコブス・デ・ウォラギネ" title="https://ja.wikipedia.org/wiki/ヤコブス・デ・ウォラギネ" class="yellow">ヤコブス・デ・ウォラギネ</a>が<a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" title="https://francois-vidit.com/docs/ja/saint-jean/page:6#cath-selon-legende" class="yellow">『聖カタリナ』</a>という<a href="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" title="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" class="yellow">『黄金伝説』</a>の１６８章に記述さられていて、とても面白いです。</p>
-    <ul>
-      <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" title="https://francois-vidit.com/docs/ja/saint-jean/page:6#cath-selon-legende" class="yellow"><cite>黄金伝説</cite>によるアレクサンドリアのカタリナの伝説の文書を</a>を読む。</li>
-    </ul>
-    <p>メムリンクがこの文書に基づいて描いたことは非常に確実らしいです。</p>
-    <p>現代の歴史家たちはアレクサンドリアのカタリナが確実に存在したか <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">ノート１</a></sup> 疑っています。</p>
-    <p>カトリック教会もそれを認めている。その崇拝が<time datetime="1970">１９７０年</time>に一般ローマ暦 <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">ノート２</a></sup> から取り除かれた。</p>
-  </article></section>
+      <h4 class="yellow">アレクサンドリアのカタリナ、その歴史的事実</h4>
+      <p><a href="https://ja.wikipedia.org/wiki/アレクサンドリアのカタリナ" title="https://ja.wikipedia.org/wiki/アレクサンドリアのカタリナ" id="catherine-d-alexandrie-2" class="yellow">アレクサンドリアのカタリナ</a>は十三世紀末期からとても人気のある聖人でありました。</p>
+      <p>彼女の伝説は<a href="https://ja.wikipedia.org/wiki/ヤコブス・デ・ウォラギネ" title="https://ja.wikipedia.org/wiki/ヤコブス・デ・ウォラギネ" class="yellow">ヤコブス・デ・ウォラギネ</a>が<a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" title="https://francois-vidit.com/docs/ja/saint-jean/page:6#cath-selon-legende" class="yellow">『聖カタリナ』</a>という<a href="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" title="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" class="yellow">『黄金伝説』</a>の１６８章に記述さられていて、とても面白いです。</p>
+      <ul>
+        <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" title="https://francois-vidit.com/docs/ja/saint-jean/page:6#cath-selon-legende" class="yellow"><cite>黄金伝説</cite>によるアレクサンドリアのカタリナの伝説の文書を</a>を読む。</li>
+      </ul>
+      <p>メムリンクがこの文書に基づいて描いたことは非常に確実らしいです。</p>
+      <p>現代の歴史家たちはアレクサンドリアのカタリナが確実に存在したか <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">ノート１</a></sup> 疑っています。</p>
+      <p>カトリック教会もそれを認めている。その崇拝が<time datetime="1970">１９７０年</time>に一般ローマ暦 <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">ノート２</a></sup> から取り除かれた。</p>
+    </article></section>
 
-  <section><article>
-    <h4 class="yellow">アレクサンドリアのカタリナ、その十五世紀での伝説</h4>
-    <p>伝説において、カタリナはアレクサンドリアに三世紀又は四世紀に生きた、<span style="color: #e6a64d;">並外れた教育</span>と<span style="color: #e6a64d;">とても素晴らしい美しさ</span>を持った、の<span style="color: #e6a64d;">上流階級貴族の一人</span>とされています。</p>
-    <p>彼女はキリスト教徒たちを強要して公に信仰を棄教させる当時のローマ帝国大帝<a href="https://ja.wikipedia.org/wiki/マクセンティウス" title="https://ja.wikipedia.org/wiki/マクセンティウス" class="yellow">マクセンティウス</a>に挑戦させます。</p>
-    <p>マクセンティウスがこの優秀な女の人に面していることに驚くが、挑戦に応じて、たくさんの新たな展開のある長い精神的な対立を経て破られ、結婚することを彼女に勧めます。</p>
-    <p>カタリナは、信仰の名によって拒否し、殉教する方を選びます。</p>
-    <p>処刑の際では、天からイエス自身の声が聞こえてきたのであろう、彼女にいうために：</p>
-    <blockquote>
-      <p><span style="color: #e6a64d;">「親愛なる人よ、私の美女、来てください！</span></p>
-    </blockquote>
-    <p>中央パネルでの聖母と幼子イエスのそばでの聖カタリナの存在から、この三連画は時には<span style="color: #e6a64d;">《聖カタリナの神秘的結婚》</span>とも称されたことがあります。</p>
+    <section><article>
+      <h4 class="yellow">アレクサンドリアのカタリナ、その十五世紀での伝説</h4>
+      <p>伝説において、<span style="color: #e6a64d;">並外れた教育</span>と<span style="color: #e6a64d;">とても素晴らしい美しさ</span>を持った、の<span style="color: #e6a64d;">上流階級貴族の一人</span>とされています。</p>
+      <p>カタリナはアレクサンドリアに三世紀又は四世紀に生きたであろう。</p>
+      <p>彼女はキリスト教徒たちを強要して公に信仰を棄教させる当時のローマ帝国大帝<a href="https://ja.wikipedia.org/wiki/マクセンティウス" title="https://ja.wikipedia.org/wiki/マクセンティウス" class="yellow">マクセンティウス</a>に挑戦させます。</p>
+      <p>マクセンティウスがこの優秀な女の人に面することに驚きます。彼女は勝れている会話によって彼を侮辱させ、悔しくさせています。</p>
+      <p>彼は、自分の尊厳を維持することに苦労して、たくさんの新たな展開のある長い精神的な対立を経て破られ、結婚することを彼女に勧めます。</p>
+      <p>カタリナは、信仰の名によって拒否し、殉教する方を選びます。</p>
+      <p>処刑の際では、天からイエス自身の声が聞こえてきたのであろう、彼女にいうために：</p>
+      <blockquote>
+        <p><q style="quotes: '「' '」';color: #e6a64d;"><span style="color: #e6a64d;">親愛なる人よ、私の美女、来てください！</span></q></p>
+      </blockquote>
+      <p>中央パネルでの聖母と幼子イエスのそばでの聖カタリナの存在から、この三連画は時には<span style="color: #e6a64d;">《聖カタリナの神秘的結婚》</span>とも称されたことがあります。</p>
+    </article></section>
   </article></section>
-</article></section>
   
   <section><article>
     <h3 id="les-deux-jean" class="yellow">二人のヨハネ</h3>
     <section><article>
+        <p>二人とも「ヨハネ」と呼ばれているのも出資施設である「ブルージュの聖ヨハネ施療院」に由来しており、「洗礼者ヨハネと福音書記者ヨハネの三連画」である現代の公の呼称をも。</p>
+      <h4 class="yellow">二人の双子：洗礼者ヨハネ、福音書記者ヨハネ</h4>
+      <ol>
+        <li>彼たちの伝説が数多くのいくつかの場面で三連画の内側の範囲全面<span style="color: #999;">（中央パネル、右翼と左翼パネル）</span>に語られていることから、</li>
+        <li>二人とも<span style="color: #e6a64d;">「ヨハネ」</span>と呼ばれていて、それで密かに<span style="color: #e6a64d;">ブルジュの聖ヨハネ施療院</span>である注文施設を作品に具体化しながら、現在の公け呼称、<span style="color: #e6a64d;">《<cite>洗礼者ヨハネと福音書記者ヨハネの三連画</cite>》</span>をも裏付けていることから。</li>
+      </ol>
+      <p>彼たちは<span style="color: #e6a64d;">双子</span>のように聖母の右と左の両方の奥の方に立っています。</p>
+    </article></section>
+
+    <section><article>
       <h4 id="jean-le-baptiste-2" class="yellow">洗礼者ヨハネ</h4>
-      <p>実は、<span style="color: #e6a64d;">主人公</span>は<span style="color: #e6a64d;">二人の男の人</span>であります。彼たちの伝説が数多くのいくつかの場面で語られていることから。彼たちは<span style="color: #e6a64d;">双子</span>のように聖母の右と左の両方の奥の方に立っています。</p>
-      <p>奥の方では、左に、<span style="color: #e6a64d;">白い色の子羊</span>がいるので、素晴らしい<span style="color: #e6a64d;">紫色のチュニック</span>を着る<span style="color: #e6a64d;">男の人</span>を<a href="https://ja.wikipedia.org/wiki/洗礼者ヨハネ" title="https://ja.wikipedia.org/wiki/洗礼者ヨハネ" id="jean-le-baptiste" class="yellow">洗礼者ヨハネ</a>として見なすことができます。
-      それは彼が弟子たちにかけた<span style="color: #e6a64d;">現世でのイエスの到来</span>を<span style="color: #e6a64d;">告げる</span>言葉、<span style="color: #e6a64d;">「<ruby style="color:#e6a64d;">これは神の子羊<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">エッチェ・アニウス・デイ</rt><rp>)</rp></ruby>」</span><span style="color: #999;">（ヨハネ、１・２９）</span> <sup id="fnref1:4"><a href="#fn:4" class="footnote-ref">3</a></sup> を思い出させてくれる。
-      そして、ヨハネが右腕で<span style="color: #e6a64d;">幼子イエス</span>を指し示しています。</p>
-  
-    <figure>
-      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-280.webp 280w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-380.webp 380w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-480.webp 480w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-640.webp 640w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-840.webp 840w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-1280.webp 1280w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-1600.webp 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの詳細、《洗礼者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの詳細、《洗礼者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-60-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-280.jpg 280w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-380.jpg 380w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-480.jpg 480w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-640.jpg 640w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-840.jpg 840w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-1280.jpg 1280w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-1920.jpg 1920w"></picture><figcaption>洗礼者ヨハネ</figcaption>
-    </figure>
-    <p>ここでは、子羊が新しい、キリスト教の独特なシンボルです。</p>
-    <p>旧ヘブライ信仰では神を喜ばすには動物の<ruby>生<rp>(</rp><rt>い</rt><rp>)</rp>け<rp>(</rp><rt>&#160;</rt><rp>)</rp>贄<rp>(</rp><rt>にえ</rt><rp>)</rp></ruby>をささげなければならなかったこととは逆に、キリスト教は神に気の入る唯一の本当の生け贄が信者がイエスを模範にしてイザヤ預言者のこの言葉<span style="color: #e6a64d;">
-    「屠り場に引かれる<span style="text-decoration: underline;">小羊</span>のように毛を刈る者の前に物を言わない羊のように彼は口を開かなかった。」</span><span style="color: #999;">（イザヤ、５３・７）</span>に基づきながら、自分から神に自分自身を生け贄とささげるのであることを断言しています。</p>
-    <p>その紫色のチュニックの下に、<span style="color: #e6a64d;">もう一つのチュニック</span>、薄い栗色のが、文書<span style="color: #999;">（マルコ、１・６）</span>が<a href="https://ja.wikipedia.org/wiki/エリア" title="https://ja.wikipedia.org/wiki/エリア" id="elie" class="yellow">エリア</a>預言者の毛皮衣を真似て<span style="color: #999;">（王２、１・８）</span>、ラクダの毛であることは明らかです。</p>
-    <p>この同じ毛皮衣がまた<a href="https://ja.wikipedia.org/wiki/ヤコブ_(旧約聖書)" title="https://ja.wikipedia.org/wiki/ヤコブ_(旧約聖書)" id="jacob" class="yellow">ヤコブ</a>が、<a href="https://ja.wikipedia.org/wiki/リベカ" title="https://ja.wikipedia.org/wiki/リベカ" id="rebecca" class="yellow">母リベカ</a>の指示で、とても毛深いの兄<a href="https://ja.wikipedia.org/wiki/エサウ" title="https://ja.wikipedia.org/wiki/エサウ" id="esau" class="yellow">エサウ</a>に、眼の見えない父である<a href="https://ja.wikipedia.org/wiki/イサク" title="https://ja.wikipedia.org/wiki/イサク" id="isaac" class="yellow">イサク</a>を毛皮の衣を着ながら思わせるようにした創世記の一つの話し<span style="color: #999;">（創世記　２７・１~４０）</span>にも基づきます。彼の術策が不正に祝福されるとそれでエサウ代わりに唯一の相続人となることを可能にします。このチュニックがまた動物を制御の<ruby>印<rp>(</rp><rt>しるし</rt><rp>)</rp></ruby>となっていて、洗礼者ヨハネの場合、ラクダが砂漠を横断することは、修行により動物を制御することで可能になるという意味になります。</p>
-    <p>他方右では、<span style="color: #e6a64d;">もう一人</span>が立っていて、神父のように<span style="color: #e6a64d;">赤い色</span>の服を着ている<span style="color: #e6a64d;">男の人</span>が右手から十字架の描き、中に<span style="color: #e6a64d;">蛇</span>のいる<span style="color: #e6a64d;">杯</span>を上にしています。これは<a href="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" title="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" id="jean-l-evangeliste-4" class="yellow">福音書記者ヨハネ</a>である。</p>
-    <figure>
-      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-280.webp 280w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-380.webp 380w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-480.webp 480w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-640.webp 640w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-840.webp 840w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1280.webp 1280w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1600.webp 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの詳細、《福音書記者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの詳細、《福音書記者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-60-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-280.jpg 280w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-380.jpg 380w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-480.jpg 480w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-640.jpg 640w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-840.jpg 840w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1280.jpg 1280w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1920.jpg 1920w"></picture><figcaption>福音書記者ヨハネ</figcaption>
-    </figure>
-    <h4 id="jean-l-evangeliste-3" class="yellow">福音書記者ヨハネ</h4>
-    <p><a href="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" title="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" id="jean-l-evangeliste" class="yellow">福音書記者ヨハネ</a>であることが<a href="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" title="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" id="legende-doree-2" class="yellow">「黄金伝説」</a>の<span style="color: #999;">第９章</span>の巻から分かります。その文書を<a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" id="renvoi-aristodeme" class="yellow">ここ</a>に記載しています。</p>
-    <p>そこでヨハネが<span style="color: #e6a64d;">毒の入った盃</span>を正式に<span style="color: #e6a64d;">飲む</span>ことで、公に<ruby>挑<rp>(</rp><rt>いど</rt><rp>)</rp></ruby>むアジア<span style="color: #999;">（おそらくエフェソス）</span>にあるディアナ社大祭官の<span style="color: #e6a64d;">アリストデムス</span>と対立します。</p>
-    <p>彼をメムリンクが表しているように、<span style="color: #e6a64d;">十字の描いて</span>、盃を飲みますが毒が彼に何の悪をさせません。</p>
-    <p>この<span style="color: #e6a64d;">蛇</span>が同時にイエスが<a href="https://ja.wikipedia.org/wiki/ニコデモ" title="https://ja.wikipedia.org/wiki/ニコデモ" id="nicodeme" class="yellow">ニコデモ</a>を思い起こすこともしている。<span style="color: #e6a64d;">「モーセが荒れ野で蛇を上げたように、人の子も上げられねばならない。それは、信じる者が皆、人の子によって永遠の命を得るためである」</span><span style="color: #999;">（ヨハネ３・１４）</span>。</p>
-    <h4 id="le-nom-de-jean" class="yellow">「ヨハネ」という名、施設との繋がり、その語源</h4>
-    <p>三連画の内側の全面に二人のヨハネの伝説を語る数多くの詳細な描写により、彼らが<span style="color: #e6a64d;">主人公</span>に見えるようになっています。
-    二人とも<span style="color: #e6a64d;">「ヨハネ」</span>と呼ばれているのも<span style="color: #e6a64d;">出資施設</span>である「<span style="color: #e6a64d;">ブルージュの聖<span style="text-decoration: underline;">ヨハネ</span>施療院</span>」に由来しており、<span style="color: #e6a64d;">「洗礼者ヨハネと福音書記者ヨハネの三連画」</span>である現代の公の呼称をも裏付けています。</p>
-    <p>「ヨハネ」という名前の語源がヘブライ語の<span style="color: #e6a64d;">「</span><ruby lang="ja" style="color:#e6a64d;">ヨ<rp>(</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">יו</rt><rp>)</rp>ハ<rp>(</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ח</rt><rp>)</rp>ナン<rp>(</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">נן</rt><rp>)</rp></ruby><span style="color: #e6a64d;">」</span>から来ています。発音は、
-    <div style="text-align: center;"><audio controls="1" title="ヘブライ語での「ヨハナン」の発音" alt="ヘブライ語での「ヨハナン」の発音"><source src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/prononciation-yokhanan.mp3" type="audio/mpeg">あなたのブラウザーは <code>audio</code> 要素に対応していません。</audio></div></p>
-    <p>であって、文字通りに<span style="color: #e6a64d;">「</span><ruby lang="ja" style="color:#e6a64d;">神<rp>(</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ヨ</rt><rp>)</rp></ruby><span style="color: #e6a64d;">」</span>が<span style="color: #e6a64d;">「</span><ruby lang="ja" style="color:#e6a64d;">恵<rp>(</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ハナン</rt><rp>)</rp></ruby><span style="color: #e6a64d;">」</span>か<span style="color: #e6a64d;">「</span><ruby lang="ja" style="color:#e6a64d;">慈悲<rp>(</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ハナン</rt><rp>)</rp></ruby><span style="color: #e6a64d;">」</span>。
-    同時にヘブライ語では、「神」は「存在しているもの」という意味をも持っているから、<span style="color: #e6a64d;">「恵」</span>か<span style="color: #e6a64d;">「慈悲」</span>が<span style="color: #e6a64d;">「宿るもの」</span>という意味になります。</p>
-    <p><span style="color: #e6a64d;">この名前</span>がヘブライの民の歴史のあまり知られていない他の人物の名前として知られているとしても、とても<span style="color: #e6a64d;">人気</span>と<span style="color: #e6a64d;">なった</span>のはキリスト教が芽生えた後、<span style="color: #e6a64d;">キリスト教界</span>での二人が果したとても大切な役割からです。これらの役割をこれから細かく語ります。</p>
-    <p>聖母の右手前方には、１５世紀ではブルージュしか制作していなかった<span style="color: #e6a64d;">緑色の羊毛の素晴らしいチュニック</span>を着る<span style="color: #e6a64d;">もう一人</span>の女の人が書物を<span style="color: #e6a64d;">読んでいる</span>。
-    彼女の存在が、反対側に、前にある<a href="#catherine-d-alexandrie" class="yellow">アレクサンドリアのカタリナ</a>のに対応しています。
-    彼女の後ろにある<span style="color: #e6a64d;">白い色の石での<ruby style="color:#e6a64d;">聖<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">せい</rt><rp>)</rp>櫃<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ひつ</rt><rp>)</rp></ruby>塔</span>が、彼女が<a href="https://ja.wikipedia.org/wiki/聖バルバラ" title="https://ja.wikipedia.org/wiki/聖バルバラ" id="barbe-la-grande-martyre" class="yellow">大殉教者バルバラ</a>であることを示しています <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref">4</a></sup> 。</p>
-    <figure>
-      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-280.webp 280w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-380.webp 380w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-480.webp 480w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-640.webp 640w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-840.webp 840w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1280.webp 1280w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1600.webp 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの詳細、《大殉教者バルバラ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの詳細、《大殉教者バルバラ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-280.jpg 280w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-380.jpg 380w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-480.jpg 480w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-640.jpg 640w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-840.jpg 840w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1280.jpg 1280w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1920.jpg 1920w"></picture><figcaption>大殉教者バルバラ</figcaption>
-    </figure>
+      <p>奥の方では、左に、<span style="color: #e6a64d;">白い色の子羊</span>の存在が、素晴らしい<span style="color: #e6a64d;">紫色のチュニック</span>を着る<span style="color: #e6a64d;">男の人</span>を<a href="https://ja.wikipedia.org/wiki/洗礼者ヨハネ" title="https://ja.wikipedia.org/wiki/洗礼者ヨハネ" id="jean-le-baptiste" class="yellow">洗礼者ヨハネ</a>として見分けることを可能にしてくれています。</p>
+      <p>羊は彼が弟子たちにかけた<span style="color: #e6a64d;">現世でのイエスの到来</span>を<span style="color: #e6a64d;">告げる</span>言葉<span style="color: #e6a64d;"></span><span style="color: #999;">（ヨハネ、１・２９）</span> <sup id="fnref1:4"><a href="#fn:4" class="footnote-ref">ノート３</a></sup> を思い出させてくれる：</p>
+      <blockquote>
+        <p><q style="quotes: '「' '」';"><ruby style="color:#e6a64d;">これは神の子羊<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">エッチェ・アニウス・デイ</rt><rp>)</rp></ruby></q></p>
+      </blockquote>
+      <p>そして、ヨハネが右腕で<span style="color: #e6a64d;">幼子イエス</span>を指し示しています。</p>
+      <figure>
+        <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-280.webp 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-380.webp 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-480.webp 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-640.webp 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-840.webp 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-1280.webp 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-1600.webp 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの詳細、《洗礼者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの詳細、《洗礼者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-60-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-280.jpg 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-380.jpg 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-480.jpg 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-640.jpg 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-840.jpg 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-1280.jpg 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-1600.jpg 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-1920.jpg 1920w"></picture><figcaption>洗礼者ヨハネ</figcaption>
+      </figure>
+      <p>ここでは、子羊が新しい、キリスト教の独特なシンボルです。</p>
+      <p>旧ヘブライ信仰では神を喜ばすには動物の<ruby>生<rp>(</rp><rt>い</rt><rp>)</rp>け<rp>(</rp><rt>&#160;</rt><rp>)</rp>贄<rp>(</rp><rt>にえ</rt><rp>)</rp></ruby>をささげなければならなかったこととは逆に、キリスト教は神に気の入る唯一の本当の生け贄が信者がイエスを模範にしてイザヤ預言者のこの言葉に基づきながら、<span style="color: #e6a64d;">自分から神に自分自身を生け贄</span>とささげるのであることを断言しています<span style="color: #999;">（イザヤ、５３・７）</span>：</p>
+      <blockquote>
+        <p><q style="quotes: '「' '」';">屠り場に引かれる小羊のように毛を刈る者の前に物を言わない羊のように彼は口を開かなかった。</span></q></p>
+      </blockquote>
+      <p>その紫色のチュニックの下に、<span style="color: #e6a64d;">もう一つのチュニック</span>、薄い栗色のが、文書<span style="color: #999;">（マルコ、１・６）</span>が<a href="https://ja.wikipedia.org/wiki/エリア" title="https://ja.wikipedia.org/wiki/エリア" id="elie" class="yellow">エリア</a>預言者の毛皮衣を真似て<span style="color: #999;">（王２、１・８）</span>、ラクダの毛であることは明らかです。</p>
+      <p>この同じ毛皮衣がまた<a href="https://ja.wikipedia.org/wiki/ヤコブ_(旧約聖書)" title="https://ja.wikipedia.org/wiki/ヤコブ_(旧約聖書)" id="jacob" class="yellow">ヤコブ</a>が、<a href="https://ja.wikipedia.org/wiki/リベカ" title="https://ja.wikipedia.org/wiki/リベカ" id="rebecca" class="yellow">母リベカ</a>の指示で、とても毛深いの兄<a href="https://ja.wikipedia.org/wiki/エサウ" title="https://ja.wikipedia.org/wiki/エサウ" id="esau" class="yellow">エサウ</a>に、眼の見えない父である<a href="https://ja.wikipedia.org/wiki/イサク" title="https://ja.wikipedia.org/wiki/イサク" id="isaac" class="yellow">イサク</a>を毛皮の衣を着ながら思わせるようにした創世記の一つの話し<span style="color: #999;">（創世記　２７・１~４０）</span>にも基づきます。</p>
+      <p>彼の術策が不正に祝福されるとそれでエサウ代わりに唯一の相続人となることを可能にします。</p>
+      <p>このチュニックがまた動物を制御の<ruby>印<rp>(</rp><rt>しるし</rt><rp>)</rp></ruby>となっていて、洗礼者ヨハネの場合、ラクダが砂漠を横断することは、修行により動物を制御することで可能になるという意味になります。</p>
+    </article></section>
+
+    <section><article>
+      <h4 id="jean-l-evangeliste-3" class="yellow">福音書記者ヨハネ</h4>
+      <section><article>
+        <p>他方、右では、<span style="color: #e6a64d;">もう一人</span>が立っていて、神父のように<span style="color: #e6a64d;">赤い色</span>の服を着ている<span style="color: #e6a64d;">男の人</span>が右手から十字架の描き、中に<span style="color: #e6a64d;">蛇</span>のいる<span style="color: #e6a64d;">杯</span>を上にしています。これは<a href="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" title="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" id="jean-l-evangeliste-4" class="yellow">福音書記者ヨハネ</a>である。</p>
+      </article></section>
+      <figure>
+        <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-280.webp 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-380.webp 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-480.webp 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-640.webp 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-840.webp 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1280.webp 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1600.webp 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの詳細、《福音書記者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの詳細、《福音書記者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-60-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-280.jpg 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-380.jpg 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-480.jpg 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-640.jpg 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-840.jpg 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1280.jpg 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1600.jpg 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1920.jpg 1920w"></picture><figcaption>福音書記者ヨハネ</figcaption>
+      </figure>
+      <section><article>
+        <p>私たちは<a href="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" title="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" id="jean-l-evangeliste" class="yellow">福音書記者ヨハネ</a>であることが<a href="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" title="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" id="legende-doree-2" class="yellow"><cite>黄金伝説</cite></a>の<span style="color: #999;">第９章</span>の巻から明らかにしています。</p>
+        <ul>
+          <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" id="renvoi-aristodeme" class="yellow"><cite>黄金伝説</cite>の第九章による<cite>福音書記者の伝説</cite>の文書</a>を読む。</li>
+        </ul>
+        <p>そこでヨハネは<span style="color: #e6a64d;">毒の入った盃</span>を<span style="color: #e6a64d;">飲む</span>ことで、公に<ruby>挑<rp>(</rp><rt>いど</rt><rp>)</rp></ruby>むアジア<span style="color: #999;">（おそらくエフェソス）</span>にあるディアナ社大祭官の<span style="color: #e6a64d;">アリストデムス</span>と対立します。</p>
+        <p>彼は、メムリンクが表している通り、<span style="color: #e6a64d;">十字の印を描いて</span>、盃を飲みますが毒が彼に何の悪をさせません。</p>
+        <p><span style="color: #e6a64d;">蛇</span>が同時にイエスが<a href="https://ja.wikipedia.org/wiki/ニコデモ" title="https://ja.wikipedia.org/wiki/ニコデモ" id="nicodeme" class="yellow">ニコデモ</a>を思い起こすこともしている。<span style="color: #999;">（ヨハネ３・１４）</span>：</p>
+        <blockquote>
+          <p><q style="quotes: '「' '」';color: #e6a64d;"><span style="color: #e6a64d;">モーセが荒れ野で蛇を上げたように、人の子も上げられねばならない。それは、信じる者が皆、人の子によって永遠の命を得るためである。</span></q></p>
+        </blockquote>
+      </article></section>
+    </article></section>
+    
+    <section><article>
+      <h4 id="le-nom-de-jean" class="yellow">「ヨハネ」の名、その語源</h4>
+      <section><article>
+        <h5 class="yellow">ヘブライ語での「ヨハネ」の名の語源</h5>
+        <p>「ヨハネ」という名前の語源がヘブライ語の<span style="color: #e6a64d;">「</span><ruby lang="ja" style="color:#e6a64d;">ヨ<rp>(</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">יו</rt><rp>)</rp>ハ<rp>(</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ח</rt><rp>)</rp>ナン<rp>(</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">נן</rt><rp>)</rp></ruby><span style="color: #e6a64d;">」</span>から来ています。発音は：</p>
+        <p><audio controls="1" title="ヘブライ語での「ヨハナン」の発音" alt="ヘブライ語での「ヨハナン」の発音"><source src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/prononciation-yokhanan.mp3" type="audio/mpeg">あなたのブラウザーは <code>audio</code> 要素に対応していません。</audio></p>
+        <p>文字通りに<span style="color: #e6a64d;">「</span><ruby lang="ja" style="color:#e6a64d;">神<rp>(</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ヨ</rt><rp>)</rp></ruby><span style="color: #e6a64d;">」</span>が<span style="color: #e6a64d;">「</span><ruby lang="ja" style="color:#e6a64d;">恵<rp>(</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ハナン</rt><rp>)</rp></ruby><span style="color: #e6a64d;">」</span>か<span style="color: #e6a64d;">「</span><ruby lang="ja" style="color:#e6a64d;">慈悲<rp>(</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ハナン</rt><rp>)</rp></ruby><span style="color: #e6a64d;">」</span>。</p>
+        <p>同時にヘブライ語では、「神」は「存在しているもの」という意味をも持っているから、<span style="color: #e6a64d;">「恵」</span>か<span style="color: #e6a64d;">「慈悲」</span>が<span style="color: #e6a64d;">「宿るもの」</span>という意味になります。</p>
+        <p><span style="color: #e6a64d;">この名前</span>がヘブライの民の歴史のあまり知られていない他の人物の名前として知られているとしても、とても<span style="color: #e6a64d;">人気</span>と<span style="color: #e6a64d;">なった</span>のはキリスト教が芽生えた後、<span style="color: #e6a64d;">キリスト教界</span>での二人が果したとても大切な役割からです。これらの役割をこれから細かく語ります。</p>
+      </article></section>
+    </article></section>
+  </article></section>
+
+  <section><article>
     <h3 id="barbe" class="yellow">大殉教者バルバラ</h3>
-    <p><a href="#catherine-d-alexandrie" class="yellow">アレクサンドリアのカタリナ</a>と同じように、現代の歴史家たちが実在したことを疑うと、彼女の名前もカトリック教会の一般ローマ暦 <sup id="fnref2:2"><a href="#fn:2" class="footnote-ref">2</a></sup> から取り除かれました。メムリンクが彼女を描くために基にした文書も<a href="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" title="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" id="legende-doree-2" class="yellow">黄金伝説</a>に含まれていませんが、他の文書と同様に、後で追加されることなりました。</p>
-    <p>私たちは全文を<a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:17#prout" title="https://francois-vidit.com/docs/ja/saint-jean/page:7#barb-selon-legende" class="yellow">ここで</a>記載します。</p>
-    <p>その伝説によりますと、バルバラは旧<a href="https://ja.wikipedia.org/wiki/ビテュニア" title="https://ja.wikipedia.org/wiki/ビテュニア" id="bithynie" class="yellow">ビテュニア</a>の首都<a href="https://ja.wikipedia.org/wiki/イズミット" title="https://ja.wikipedia.org/wiki/イズミット" id="nicomedie" class="yellow">二コメディア</a> <sup id="fnref1:5"><a href="#fn:5" class="footnote-ref">5</a></sup> に住んでいました。
-    欠点としてバルバラは美しいこと。。、こんなに美しいことから、とても若いころに、<span style="color: #e6a64d;">彼女のお父さんが彼女を塔に閉じ込めさせましたの</span>！</p>
-    <p>文書だとバルバラがそこから<span style="color: #e6a64d;">「地上的現世の拙さ」</span>を感じて、<span style="color: #e6a64d;">「天上的<ruby style="color:#e6a64d;">妙<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">たえ</rt><rp>)</rp></ruby>なるものごと」</span>に気にし始めるとなっています。
-    当時には禁じられているのに、彼女が少しづつローマの神々から離れて、密かに<a href="https://ja.wikipedia.org/wiki/アレクサンドリア" title="https://ja.wikipedia.org/wiki/アレクサンドリア" id="alexandrie" class="yellow">アレクサンドリア</a>の一有名のキリスト教徒<a href="https://ja.wikipedia.org/wiki/オリゲネス" title="https://ja.wikipedia.org/wiki/オリゲネス" class="yellow">オリゲネス</a>に手紙を書きます。
-    彼は彼女に返答し、芽生えている信仰を強めて、彼女を訪れて、こっそりと<span style="color: #e6a64d;">洗礼</span>を授けます。</p>
-    <p>その後、神々を信じることを公に拒否したことにより、<span style="color: #e6a64d;">密告された</span>ことで、彼女は殉教します。
-    その時、イエスの声が天から聞こえて来たのであろう：
-    <span style="color: #e6a64d;">「親愛なる人よ、天にある私の父の家に休みたまえ」</span>。</p>
-    <p>自分の父が頭を刎ねたのです。</p>
-    <p>塔の組み合わせ隙間を通して、<span style="color: #e6a64d;">ガラス製の柱</span>が見れます。その中に薄く一個の<span style="color: #e6a64d;">聖体</span>があります。</p>
-    <figure>
-      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-280.webp 280w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-380.webp 380w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-480.webp 480w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-640.webp 640w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-840.webp 840w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの詳細、《塔の組み合わせ模様を通して、ガラス製の柱が覗けられて、その中に薄く一個の聖体が表されている》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの詳細、《塔の組み合わせ模様を通して、ガラス製の柱が覗けられて、その中に薄く一個の聖体が表されている》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-280.jpg 280w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-380.jpg 380w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-480.jpg 480w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-640.jpg 640w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-840.jpg 840w"></picture><figcaption>塔の組み合わせ模様を通して、ガラス製の柱が覗けられて、その中に薄く一個の聖体が表されている</figcaption>
-    </figure>
-    <p><span style="color: #e6a64d;">聖体</span>は聖人としての表像の一つでもある。パネルの他の部分との<span style="color: #e6a64d;">「聖なる会話」</span>という形を示している繋がりの一つでもある。</p>
+    <section><article>
+      <h4 class="yellow">中央パネルの場面での大殉教者バルバラ</h4>
+      <p>聖母の右手前方には、十五世紀ではブルージュしか制作していなかった<span style="color: #e6a64d;">緑色の羊毛の素晴らしいチュニック</span>を着る<span style="color: #e6a64d;">もう一人</span>の女の人が書物を<span style="color: #e6a64d;">読んでいる</span>。</p>
+      <p>彼女の存在が、反対側に、前にある<a href="#catherine-d-alexandrie" class="yellow">アレクサンドリアのカタリナ</a>のに対応しています。</p>
+      <p>彼女の後ろにある<span style="color: #e6a64d;">白い色の石での<ruby style="color:#e6a64d;">聖<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">せい</rt><rp>)</rp>櫃<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ひつ</rt><rp>)</rp></ruby>塔</span>が、彼女が<a href="https://ja.wikipedia.org/wiki/聖バルバラ" title="https://ja.wikipedia.org/wiki/聖バルバラ" id="barbe-la-grande-martyre" class="yellow">大殉教者バルバラ</a>であることを示しています <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref">ノート４</a></sup> 。</p>
+      <figure>
+        <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-280.webp 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-380.webp 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-480.webp 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-640.webp 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-840.webp 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1280.webp 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1600.webp 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの詳細、《大殉教者バルバラ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの詳細、《大殉教者バルバラ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-280.jpg 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-380.jpg 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-480.jpg 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-640.jpg 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-840.jpg 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1280.jpg 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1600.jpg 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1920.jpg 1920w"></picture><figcaption>大殉教者バルバラ</figcaption>
+      </figure>
+    </article></section>
+    <section><article>
+      <h4 class="yellow">大殉教者バルバラ、その歴史的存在</h4>
+      <p><a href="#catherine-d-alexandrie" class="yellow">アレクサンドリアのカタリナ</a>と同じように、現代の歴史家たちが実在したことを疑うと、彼女の名前もカトリック教会の一般ローマ暦 <sup id="fnref2:2"><a href="#fn:2" class="footnote-ref">2</a></sup> から取り除かれました。メムリンクが彼女を描くために基にした文書も<a href="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" title="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" id="legende-doree-2" class="yellow"><cite>黄金伝説</cite></a>に含まれていませんが、他の文書と同様に、後で追加されることなりました。</p>
+      <ul>
+        <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:17#prout" title="https://francois-vidit.com/docs/ja/saint-jean/page:7#barb-selon-legende" class="yellow"><cite>黄金伝説</cite>に追加された《大殉教者バルバラの伝説》の文書</a>を読む。</li>
+      </ul>
+    </article></section>
+    <section><article>
+      <h4 class="yellow">大殉教者バルバラ、十五世紀での伝説</h4>
+      <p>その伝説によりますと、バルバラは旧<a href="https://ja.wikipedia.org/wiki/ビテュニア" title="https://ja.wikipedia.org/wiki/ビテュニア" id="bithynie" class="yellow">ビテュニア</a>の首都<a href="https://ja.wikipedia.org/wiki/イズミット" title="https://ja.wikipedia.org/wiki/イズミット" id="nicomedie" class="yellow">二コメディア</a> <sup id="fnref1:5"><a href="#fn:5" class="footnote-ref">5</a></sup> に住んでいました。
+      欠点としてバルバラは美しいこと。。、こんなに美しいことから、とても若いころに、<span style="color: #e6a64d;">彼女のお父さんが彼女を塔に閉じ込めさせましたの</span>！</p>
+      <p>文書だとバルバラがそこから<span style="color: #e6a64d;">「地上的現世の拙さ」</span>を感じて、<span style="color: #e6a64d;">「天上的<ruby style="color:#e6a64d;">妙<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">たえ</rt><rp>)</rp></ruby>なるものごと」</span>に気にし始めるとなっています。
+      当時には禁じられているのに、彼女が少しづつローマの神々から離れて、密かに<a href="https://ja.wikipedia.org/wiki/アレクサンドリア" title="https://ja.wikipedia.org/wiki/アレクサンドリア" id="alexandrie" class="yellow">アレクサンドリア</a>の一有名のキリスト教徒<a href="https://ja.wikipedia.org/wiki/オリゲネス" title="https://ja.wikipedia.org/wiki/オリゲネス" class="yellow">オリゲネス</a>に手紙を書きます。
+      彼は彼女に返答し、芽生えている信仰を強めて、彼女を訪れて、こっそりと<span style="color: #e6a64d;">洗礼</span>を授けます。</p>
+      <p>その後、神々を信じることを公に拒否したことにより、<span style="color: #e6a64d;">密告された</span>ことで、彼女は殉教します。
+      その時、イエスの声が天から聞こえて来たのであろう：
+      <span style="color: #e6a64d;">「親愛なる人よ、天にある私の父の家に休みたまえ」</span>。</p>
+      <p>自分の父が頭を刎ねたのです。</p>
+      <p>塔の組み合わせ隙間を通して、<span style="color: #e6a64d;">ガラス製の柱</span>が見れます。その中に薄く一個の<span style="color: #e6a64d;">聖体</span>があります。</p>
+      <figure>
+        <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-280.webp 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-380.webp 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-480.webp 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-640.webp 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-840.webp 840w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの詳細、《塔の組み合わせ模様を通して、ガラス製の柱が覗けられて、その中に薄く一個の聖体が表されている》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの詳細、《塔の組み合わせ模様を通して、ガラス製の柱が覗けられて、その中に薄く一個の聖体が表されている》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-280.jpg 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-380.jpg 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-480.jpg 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-640.jpg 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-840.jpg 840w"></picture><figcaption>塔の組み合わせ模様を通して、ガラス製の柱が覗けられて、その中に薄く一個の聖体が表されている</figcaption>
+      </figure>
+      <p><span style="color: #e6a64d;">聖体</span>は聖人としての表像の一つでもある。パネルの他の部分との<span style="color: #e6a64d;">「聖なる会話」</span>という形を示している繋がりの一つでもある。</p>
 </article>
 
 <article>

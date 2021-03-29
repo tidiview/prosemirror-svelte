@@ -366,6 +366,7 @@
     <section><article>
       <p>Elle <span style="color: #e6a64d;">est couronnée “Reine du ciel” par deux petits anges bleus foncés</span> qui voltigent au-dessus d'elle.</p>
     </article></section>
+    
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/deux-anges-280.webp 280w,
