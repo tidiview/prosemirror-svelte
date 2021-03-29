@@ -902,7 +902,9 @@
       </blockquote>
       <p>De fait, à Bruges au XV<sup>ème</sup> siècle, simplicité et l'évidence ne connaissant pas de limites, mènent <em>merveilleusement</em> au divin.</p>
     </article></section>
+
     <section><article>
+      <h4 class="yellow">xxxx</h4>
       <p>Memling se laisse guider de manière incontestable par cette œuvre de <a href="https://fr.wikipedia.org/wiki/Jan_van_Eyk" title="https://fr.wikipedia.org/wiki/Jan_van_Eyck" id="jan-van-eyck" class="yellow">Jan VAN EYCK</a> peinte en <time datetime="1436">1436</time> qu'il connaît et va admirer dans la <a href="https://fr.wikipedia.org/wiki/Cathédrale_Saint-Donatien_de_Bruges" title="http://fr.wikipedia.org/wiki/Cathédrale_Saint-Donatien_de_Bruges" id="cathedrale-saint-donatien" class="yellow">cathédrale Saint-Donatien</a>: <a href="https://fr.wikipedia.org/wiki/La_Vierge_au_chanoine_Van_der_Paele" title="https://fr.wikipedia.org/wiki/La_Vierge_auchanoine_Van_der_Paele" id="van-der-paele" class="yellow">“<ruby lang="fr">la&#160;Vierge&#160;au&#160;chanoine&#160;Van&#160;der&#160;Paele<rp>(</rp><rt lang="nl">Madonna&#160;met&#160;kanunnik&#160;Joris&#160;vn&#160;der&#160;Paele</rt><rp>)</rp></ruby>”</a>.</p>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -924,7 +926,9 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1920.jpg 1920w"></picture><figcaption>Jan VAN EYCK, <ruby lang="fr">la&#160;Vierge&#160;au&#160;chanoine&#160;van&#160;der&#160;Paele<rp>(</rp><rt style="color:#999;font-size: 70%;letter-spacing: 2px;" lang="nl">Madonna&#160;met&#160;kanunnik&#160;Joris&#160;van&#160;der&#160;Paele</rt><rp>)</rp></ruby>, Musée Groeninge, Bruges</figcaption>
       </figure>
     </article></section>
+
     <section><article>
+      <h4 class="yellow">xxxx</h4>
       <p>Comme dans de nombreuses autres de ses œuvres, Memling enlève à l'abside <span style="color: #e6a64d;">murs</span>, <span style="color: #e6a64d;">fenêtres</span> et rend <span style="color: #e6a64d;">continu le regard vers l'extérieur</span>.</p>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -949,7 +953,7 @@
       Leurs bases sont reliées par la ligne du bord du dallage qui fait figurer au sol un polygone.</p>
       <p>Les minces ouvertures verticales entre les colonnes donnent sur un <span style="color: #e6a64d;">paysage visuellement continu avec des ruines et des bâtiments</span>, ouvert sur le lointain, horizon et infini.</p>
     </article></section>
-  </article>
+  </article></section>
 </article>
 
 <aside>
