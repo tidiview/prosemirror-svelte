@@ -583,9 +583,9 @@
     <h3 id="barbe" class="yellow">大殉教者バルバラ</h3>
     <section><article>
       <h4 class="yellow">中央パネルの場面での大殉教者バルバラ</h4>
-      <p>聖母の右手前方には、十五世紀ではブルージュしか制作していなかった<span style="color: #e6a64d;">緑色の羊毛の素晴らしいチュニック</span>を着る<span style="color: #e6a64d;">もう一人</span>の女の人が書物を<span style="color: #e6a64d;">読んでいる</span>。</p>
-      <p>彼女の存在が、反対側に、前にある<a href="#catherine-d-alexandrie" class="yellow">アレクサンドリアのカタリナ</a>のに対応しています。</p>
-      <p>彼女の後ろにある<span style="color: #e6a64d;">白い色の石での<ruby style="color:#e6a64d;">聖<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">せい</rt><rp>)</rp>櫃<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ひつ</rt><rp>)</rp></ruby>塔</span>が、彼女が<a href="https://ja.wikipedia.org/wiki/聖バルバラ" title="https://ja.wikipedia.org/wiki/聖バルバラ" id="barbe-la-grande-martyre" class="yellow">大殉教者バルバラ</a>であることを示しています <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref">ノート４</a></sup> 。</p>
+      <p>聖母の右手前方には、十五世紀ではブルージュにしか制作されていなかった<span style="color: #e6a64d;">緑色の羊毛の素晴らしいチュニック</span>を着る<span style="color: #e6a64d;">もう一人</span>の女の人が本を<span style="color: #e6a64d;">読んでいます</span>。</p>
+      <p>彼女の存在が、反対側に、前にある<a href="#catherine-d-alexandrie" class="yellow">アレクサンドリアのカタリナ</a>のを対象しています。</p>
+      <p>彼女の後ろにある<span style="color: #e6a64d;">白い色の石での<ruby style="color:#e6a64d;">聖<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">せい</rt><rp>)</rp>櫃<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ひつ</rt><rp>)</rp></ruby>塔</span>が、彼女は<a href="https://ja.wikipedia.org/wiki/聖バルバラ" title="https://ja.wikipedia.org/wiki/聖バルバラ" id="barbe-la-grande-martyre" class="yellow">大殉教者バルバラ</a>であることが示されています <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref">ノート４</a></sup> 。</p>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-280.webp 280w,
@@ -608,23 +608,29 @@
     </article></section>
     <section><article>
       <h4 class="yellow">大殉教者バルバラ、その歴史的存在</h4>
-      <p><a href="#catherine-d-alexandrie" class="yellow">アレクサンドリアのカタリナ</a>と同じように、現代の歴史家たちが実在したことを疑うと、彼女の名前もカトリック教会の一般ローマ暦 <sup id="fnref2:2"><a href="#fn:2" class="footnote-ref">2</a></sup> から取り除かれました。メムリンクが彼女を描くために基にした文書も<a href="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" title="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" id="legende-doree-2" class="yellow"><cite>黄金伝説</cite></a>に含まれていませんが、他の文書と同様に、後で追加されることなりました。</p>
+      <p><a href="#catherine-d-alexandrie" class="yellow">アレクサンドリアのカタリナ</a>と同じように、現代の歴史家たちが実在したことを疑うと、彼女の名前もカトリック教会の一般ローマ暦 <sup id="fnref2:2"><a href="#fn:2" class="footnote-ref">ノート２</a></sup> から取り除かれました。メムリンクが彼女を描くために基にした文書も元々<a href="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" title="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" id="legende-doree-2" class="yellow"><cite>黄金伝説</cite></a>に含まれていませんが、他の文書と同様に、後で追加されることなりました。</p>
       <ul>
         <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:17#prout" title="https://francois-vidit.com/docs/ja/saint-jean/page:7#barb-selon-legende" class="yellow"><cite>黄金伝説</cite>に追加された《大殉教者バルバラの伝説》の文書</a>を読む。</li>
       </ul>
     </article></section>
     <section><article>
       <h4 class="yellow">大殉教者バルバラ、十五世紀での伝説</h4>
-      <p>その伝説によりますと、バルバラは旧<a href="https://ja.wikipedia.org/wiki/ビテュニア" title="https://ja.wikipedia.org/wiki/ビテュニア" id="bithynie" class="yellow">ビテュニア</a>の首都<a href="https://ja.wikipedia.org/wiki/イズミット" title="https://ja.wikipedia.org/wiki/イズミット" id="nicomedie" class="yellow">二コメディア</a> <sup id="fnref1:5"><a href="#fn:5" class="footnote-ref">5</a></sup> に住んでいました。
+      <p>その伝説によりますと、バルバラは旧<a href="https://ja.wikipedia.org/wiki/ビテュニア" title="https://ja.wikipedia.org/wiki/ビテュニア" id="bithynie" class="yellow">ビテュニア</a>の首都<a href="https://ja.wikipedia.org/wiki/イズミット" title="https://ja.wikipedia.org/wiki/イズミット" id="nicomedie" class="yellow">二コメディア</a> <sup id="fnref1:5"><a href="#fn:5" class="footnote-ref">ノート５</a></sup> に住んでいました。
       欠点としてバルバラは美しいこと。。、こんなに美しいことから、とても若いころに、<span style="color: #e6a64d;">彼女のお父さんが彼女を塔に閉じ込めさせましたの</span>！</p>
-      <p>文書だとバルバラがそこから<span style="color: #e6a64d;">「地上的現世の拙さ」</span>を感じて、<span style="color: #e6a64d;">「天上的<ruby style="color:#e6a64d;">妙<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">たえ</rt><rp>)</rp></ruby>なるものごと」</span>に気にし始めるとなっています。
+      <p>文書だとバルバラがそこから<q style="quotes: '「' '」';color: #e6a64d;"><span style="color: #e6a64d;">地上的現世の拙さ</span></q>を感じて、<q style="quotes: '「' '」';color: #e6a64d;"><span style="color: #e6a64d;">天上的<ruby style="color:#e6a64d;">妙<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">たえ</rt><rp>)</rp></ruby>なるものごと</span></q>に気にし始めるとなっています。
       当時には禁じられているのに、彼女が少しづつローマの神々から離れて、密かに<a href="https://ja.wikipedia.org/wiki/アレクサンドリア" title="https://ja.wikipedia.org/wiki/アレクサンドリア" id="alexandrie" class="yellow">アレクサンドリア</a>の一有名のキリスト教徒<a href="https://ja.wikipedia.org/wiki/オリゲネス" title="https://ja.wikipedia.org/wiki/オリゲネス" class="yellow">オリゲネス</a>に手紙を書きます。
       彼は彼女に返答し、芽生えている信仰を強めて、彼女を訪れて、こっそりと<span style="color: #e6a64d;">洗礼</span>を授けます。</p>
       <p>その後、神々を信じることを公に拒否したことにより、<span style="color: #e6a64d;">密告された</span>ことで、彼女は殉教します。
-      その時、イエスの声が天から聞こえて来たのであろう：
-      <span style="color: #e6a64d;">「親愛なる人よ、天にある私の父の家に休みたまえ」</span>。</p>
+      その時、イエスの声が天から聞こえて来たのであろう：</p>
+      <blockquote>
+        <p><q style="quotes: '「' '」';color: #e6a64d;"><span style="color: #e6a64d;">親愛なる人よ、天にある私の父の家に休みたまえ。</span></q></p>
+      </blockquote>
       <p>自分の父が頭を刎ねたのです。</p>
-      <p>塔の組み合わせ隙間を通して、<span style="color: #e6a64d;">ガラス製の柱</span>が見れます。その中に薄く一個の<span style="color: #e6a64d;">聖体</span>があります。</p>
+    </article></section>
+
+    <section><article>
+      <h4 class="yellow">大殉教者バルバラの塔を透けての一個の聖体</h4>
+      <p>塔の組み合わせ隙間を通して、<span style="color: #e6a64d;">ガラス製の円柱</span>が見えています。その中に薄く一個の<span style="color: #e6a64d;">聖体</span>があります。</p>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-280.webp 280w,
@@ -639,210 +645,371 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-840.jpg 840w"></picture><figcaption>塔の組み合わせ模様を通して、ガラス製の柱が覗けられて、その中に薄く一個の聖体が表されている</figcaption>
       </figure>
       <p><span style="color: #e6a64d;">聖体</span>は聖人としての表像の一つでもある。パネルの他の部分との<span style="color: #e6a64d;">「聖なる会話」</span>という形を示している繋がりの一つでもある。</p>
+    </article></section>
+  </article></section>
 </article>
 
-<article>
-<div class="footnotes">
 <hr>
-<ol>
-<li id="fn:1">
-<p>ここでは私たちはウィキペディアのフランス語版（日付：<time datetime="2018-08-15">２０１８年８月１５日<time>）の「アレクサンドリアのカタリナ」を参照にしています。それは：</p>
-<ul>
-<li>Gustave Bardy: Catherine d’Alexandrie. In: Dictionnaire d’histoire et de géographie ecclésiastiques, vol 11, Paris 1949, pp 1503–1505, ici: 1504.</li>
-<li>Christine Walsh: The Cult of St Katherine of Alexandria in Early Medieval Europe, Aldershot 2007, p. 3–26; </li>
-<li>Michael Deakin: Hypatia of Alexandria, Mathematician and Martyr, Amherst (New York) 2007, p. 135, 202; </li>
-<li>Maria Dzielska: Hypatia of Alexandria, Cambridge (Massachusetts) 1995, p. 21; </li>
-<li>Christian Lacombrade: Hypatia. In: Reallexikon für Antike und Christentum, vol 16, Stuttgart 1994, pp 956–967, ici: 966;</li>
-</ul>
-<p><a href="#fnref1:1" rev="footnote" class="footnote-backref">&#8617;</a></p>
-</li>
-<li id="fn:2">
-<p>ここでは私たちはウィキペディアのフランス語版（日付：<time datetime="2018-08-15">２０１８年８月１５日<time>）の「アレクサンドリアのカタリナ」を参照にしています。それは：
-「何人かの聖人が人気を博しているかもしれません。彼らの名前の周りに発生した伝説のために、例えば聖キリストフォルス、聖バルバラ、アレクサンドリアの聖カタリナ、聖フィロメナなどのように、彼らが存在したことをでも保証できない。一般ローマ暦から削除されました。キリスト教徒たちは、真実にしか祈りに招かれない」
-<time datetime="1969-05-09">１９６９年５月９日<time>、ローマで行われた暦の改革を準備した研究グループのパリカトリック学院の典礼学課教授のピエール・ジョネル修道長の新しいローマ暦を紹介する会議による。 &#160;<a href="#fnref1:2" rev="footnote" class="footnote-backref">&#8617;</a> <a href="#fnref2:2" rev="footnote" class="footnote-backref">&#8617;</a></p>
-</li>
-<li id="fn:4">
-<p>ラテン語では「Ecce&#160;Agnus&#160;Dei」。&#160;<a href="#fnref1:4" rev="footnote" class="footnote-backref">&#8617;</a></p>
-</li>
-<li id="fn:3">
-<p>大殉教者バルバラはまた「聖バルバラ」として知られている。&#160;<a href="#fnref1:3" rev="footnote" class="footnote-backref">&#8617;</a></p>
-</li>
-<li id="fn:5">
-<p>現在のトルコの北西部に位置づけられていて黒海の岸にある古代都市。現代の<a href="https://ja.wikipedia.org/wiki/イズミット" title="https://ja.wikipedia.org/wiki/イズミット">イズミット</a>。&#160;<a href="#fnref1:5" rev="footnote" class="footnote-backref">&#8617;</a></p>
-</li>
-</ol>
-</div>
-</div>
+
+<aside>
+  <article>
+    <section><article>
+      <div class="footnotes">
+        <ol>
+          <li id="fn:1">
+          <p>ここでは私たちはウィキペディアのフランス語版（日付：<time datetime="2018-08-15">２０１８年８月１５日<time>）の「アレクサンドリアのカタリナ」を参照にしています。それは：</p>
+          <ul>
+            <li>Gustave Bardy: Catherine d’Alexandrie. In: Dictionnaire d’histoire et de géographie ecclésiastiques, vol 11, Paris 1949, pp 1503–1505, ici: 1504.</li>
+            <li>Christine Walsh: The Cult of St Katherine of Alexandria in Early Medieval Europe, Aldershot 2007, p. 3–26; </li>
+            <li>Michael Deakin: Hypatia of Alexandria, Mathematician and Martyr, Amherst (New York) 2007, p. 135, 202; </li>
+            <li>Maria Dzielska: Hypatia of Alexandria, Cambridge (Massachusetts) 1995, p. 21; </li>
+            <li>Christian Lacombrade: Hypatia. In: Reallexikon für Antike und Christentum, vol 16, Stuttgart 1994, pp 956–967, ici: 966;</li>
+          </ul>
+          </li>
+        </ol>
+      </div>
+      <footer>
+        <p><a href="#fnref1:1" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
+      </footer>
+    </article></section>
+
+    <section><article>
+      <div class="footnotes">
+        <ol start="2">
+          <li id="fn:2">
+            <p>ここでは私たちはウィキペディアのフランス語版（日付：<time datetime="2018-08-15">２０１８年８月１５日<time>）の「アレクサンドリアのカタリナ」を参照にしています。それは：</p>
+            <blockquote>
+              <p>「何人かの聖人が人気を博しているかもしれません。彼らの名前の周りに発生した伝説のために、例えば聖キリストフォルス、聖バルバラ、アレクサンドリアの聖カタリナ、聖フィロメナなどのように、彼らが存在したことをでも保証できない。一般ローマ暦から削除されました。キリスト教徒たちは、真実にしか祈りに招かれない」</p>
+            </blockquote>
+            <p><time datetime="1969-05-09">１９６９年５月９日<time>、ローマで行われた暦の改革を準備した研究グループのパリカトリック学院の典礼学課教授のピエール・ジョネル修道長の新しいローマ暦を紹介する会議による。</p>
+          </li>
+        </ol>
+      </div>
+      <footer>
+        <p>&#160;<a href="#fnref1:2" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
+        <p><a href="#fnref2:2" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
+      </footer>
+    </article></section>
+
+    <section><article>
+      <div class="footnotes">
+        <ol start="3">
+          <li id="fn:4">
+            <p>ラテン語では「Ecce&#160;Agnus&#160;Dei」。</p>
+          </li>
+        </ol>
+      </div>
+      <footer><p>&#160;<a href="#fnref1:4" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p></footer>
+    </article></section>
+
+    <section><article>
+      <div class="footnotes">
+        <ol start="4">
+          <li id="fn:3">
+            <p>大殉教者バルバラはまた「聖バルバラ」として知られている。</p>
+          </li>
+        </ol>
+      </div>
+      <footer>
+        <p>&#160;<a href="#fnref1:3" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
+      </footer>
+    </article></section>
+
+    <section><article>
+      <div class="footnotes">
+      <ol start="5">
+        <li id="fn:5">
+          <p>現在のトルコの北西部に位置づけられていて黒海の岸にある古代都市。現代の<a href="https://ja.wikipedia.org/wiki/イズミット" title="https://ja.wikipedia.org/wiki/イズミット">イズミット</a>。</p>
+        </li>
+      </ol>
+      <footer>
+        <p>&#160;<a href="#fnref1:5" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
+      </footer>
+    </article></section>
+  </article>
+</aside>
 
 <!-- Page 4 -->
 
 <article>
-<h3 id="conversation" class="yellow">聖なる会話</h3>
-<p><a href="https://ja.wikipedia.org/wiki/聖母マリア" title="https://ja.wikipedia.org/wiki/聖母マリア" id="marie-mere-de-jesus" class="yellow">マリア</a>の戴冠式には、<a href="#catherine-d-alexandrie" title="アレクサンドリアのカタリナ" class="yellow">カタリナ</a>と<a href="#barbe" class="yellow">バルバラ</a>、<a href="#jean-le-baptiste-2" title="洗礼者ヨハネ" id="jean-le-baptiste-3" class="yellow">洗礼者ヨハネ</a>と<a href="#jean-l-evangeliste-3" title="福音書記者ヨハネ" id="jean-l-evangeliste-4" class="yellow">福音書記者ヨハネ</a>のいわゆる<span style="color: #e6a64d;">「</span><ruby style="color:#e6a64d;">聖なる会話<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;">サクラ・コンヴェルサツィオーネ</rt><rp>)</rp></ruby><span style="color: #e6a64d;">」</span> <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">1</a></sup> 聖母の周りの<span style="color: #e6a64d;">聖人の集会</span>にニ人ずつ参加しています。</p>
-<figure>
-  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-280.webp 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-380.webp 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-480.webp 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-840.webp 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1280.webp 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの描写、聖母の戴冠式、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの描写、聖母の戴冠式、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-280.jpg 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-380.jpg 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-480.jpg 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-840.jpg 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1280.jpg 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1920.jpg 1920w"></picture><figcaption>中央パネルの描写、聖なる会話</figcaption>
-</figure>
-<p>この<span style="color: #e6a64d;"><ruby style="color:#e6a64d;">交<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">まじ</rt><rp>)</rp></ruby>わり</span>の<ruby>趣<rp>(</rp><rt>おもむき</rt><rp>)</rp></ruby>が聖母の左手の小さな<span style="color: #e6a64d;">オルガン</span>を弾く座った<span style="color: #e6a64d;">侍者</span>と左手の彼女に<span style="color: #e6a64d;">本</span>を差し出す<ruby>跪<rp>(</rp><rt>ひざまず</rt><rp>)</rp></ruby>いた<span style="color: #e6a64d;">もう一人</span>の存在によってさらに強くなっている。</p>
-<figure>
-  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-280.webp 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-380.webp 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-480.webp 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-840.webp 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1280.webp 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの拡大、《ニ人の侍者たち》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの拡大、《ニ人の侍者たち》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-280.jpg 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-380.jpg 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-480.jpg 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-840.jpg 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1280.jpg 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1920.jpg 1920w"></picture><figcaption>中央パネルの拡大、ニ人の侍者たち</figcaption>
-</figure>
-<p>幅での位置関係の左右対称と単純さが三連画の形とよく合います。</p>
-<p>高さと奥行きが<span style="color: #e6a64d;">男女の別</span>により配置されています。<span style="color: #e6a64d;">前</span>と下の方では、<span style="color: #e6a64d;">女の人ニ人</span>で、<span style="color: #e6a64d;">後ろ</span>と上の方では、<span style="color: #e6a64d;">男の人ニ人</span>です。</p>
-<p>奥行きと高さでの<span style="color: #e6a64d;">計り知れなさ</span>と<span style="color: #e6a64d;">神秘</span>に、横での位置の<span style="color: #e6a64d;">左右対称</span>と<span style="color: #e6a64d;">単純さ</span>が対応しています。</p>
-<p>表わされている人物が<span style="color: #e6a64d;">あらゆる年齢</span>で<span style="color: #e6a64d;">同じ家族</span>のように見えます。
-生まれたばかりの赤ちゃん、小さな子供、子供、少年、若い男の人、女の人、お母さま、男の人、年のある男と女の人。</p>
-<figure>
-  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-280.webp 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-380.webp 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-480.webp 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-840.webp 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-1280.webp 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの詳細、《左から右へ、顔立ちの類似性、表されている年齢の多様性》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの詳細、《左から右へ、顔立ちの類似性、表されている年齢の多様性》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-280.jpg 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-380.jpg 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-480.jpg 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-840.jpg 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-1280.jpg 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、左から右へ、顔立ちの類似性、表されている年齢の多様性</figcaption>
-</figure>
-<p>顔立ちの<span style="color: #e6a64d;">類似性</span>と年齢の<span style="color: #e6a64d;">多様性</span>が全体を<span style="color: #e6a64d;">統一</span>させています。</p>
-<p>私たちはこの<span style="color: #e6a64d;">均衡</span>がメムリンクが生きた社会の注目すべき特性であると当時の、歴史家たちが<span style="color: #e6a64d;">「</span><a href="https://fr.wikipedia.org/wiki/Devotio_moderna" title="https://fr.wikipedia.org/wiki/Devotio_moderna" id="devotio-moderna" class="yellow"><ruby>新しき信心<rp>(</rp><rt>デヴォティオ・モデルナ</rt><rp>)</rp></ruby></a><span style="color: #e6a64d;">」</span> <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">2</a></sup> と呼ぶキリスト教信仰のとても大事な改革運動をよりよく把握するために無視することはできないと考えています。</p>
-<p><span style="color: #999;">（「新しき信心」の歴史的細かい紹介は<a href="#note-devotion-moderne" title="「新しき信心」運動を紹介する註釈" id="renvoi-devotion-moderne" class="yellow">ここ</a>で見付かることが出来ます）</span></p>
-<h3 id="devotion-moderne" class="yellow">新しき信心</h3>
-<p>フランドルで、メムリンクの時代では、信仰修練書として、<span style="color: #e6a64d;">「</span><a href="https://fr.wikipedia.org/wiki/Gérard_Groote" title="https://fr.wikipedia.org/wiki/Gérard_Groote" id="imitation-de-jesus-christ" class="yellow"><ruby>キリストに倣いて<rp>(</rp><rt>イミタティオ・クリスティ</rt><rp>)</rp></ruby></a><span style="color: #e6a64d;">」</span> <sup id="fnref1:4"><a href="#fn:4" class="footnote-ref">3</a></sup> は大変なベストセラーとなります。</p>
-<p>これはその抜粋です：</p>
-<div class="notices yellow">
-<p>人はこの世の事柄から自分を引き上げているのは、<span style="color: #9c6416;">単純さ</span>と<span style="color: #9c6416;">清さ</span>という二つの羽によってです。</p>
-<p>単純さは人の<span style="color: #9c6416;">意図</span>に、<span style="color: #9c6416;">清さ</span>は人に対する情にあるべきです。</p>
-<p>単純さは神を<span style="color: #9c6416;">求め</span>、清さがそれを<span style="color: #9c6416;">見出し</span>て<span style="color: #9c6416;">味わう</span>のです。</p>
-<p>どんな良い行為でもあなたたちには成し難くなりません。内面ではあらゆる乱された感情から自由があったらば、</p>
-<p>あなたたちが神が望むことと、隣人に役立つことのみを求めるなら、あなたたちは<span style="color: #9c6416;">内面の自由</span>を楽しむことでしょう。</p>
-<p>従って、あなたたちの心が正しいのであれば、どんな被造物でもあなたたちにとっての<span style="color: #9c6416;">命の鏡</span>と<span style="color: #9c6416;">聖なる教えの満ちた書物</span>となるでしょう。</p>
-<p>こんなに小さくて、こんなに卑劣な、<span style="color: #9c6416;">神の善良さの現象</span>を少しでも現さないほどの被造物は存在しないからです。</p>
-<p>もしあなたたちが内面に十分な<span style="color: #9c6416;">清純さ</span>と<span style="color: #9c6416;">純粋さ</span>を持っていれば、あなたたちは全てを<span style="color: #9c6416;">さえぎるものなしに</span>見ることが出来るでしょう。</p>
-<p>清い心は天国と地獄にまで入り込む。</p>
-<p>人は外にあるものごとを自分自身の内側での存在において判断するのです。</p>
-<p>もしこの世に喜びが存在するなら、それを持つのは心の清いの持ち主にある。</p>
-<p>従って、どこかに苦悩や苦痛があるのなら、気がとがめるそのことに知られているのです。</p>
-<p>火のなかに投げ込まれた鉄がその錆を失ってとても白く輝くように、こうして 遠慮せず自分を神に捧げる人は、悩ましげをはぎとられ新しい人へと変えられます。</p>
-</div>
-<p>メムリンクの作品では、聖なる会話をこの参考にしている。観賞者たちに対して、<span style="color: #e6a64d;">「命の鏡」</span>として。片方では、病人たちが表わされている人物と<span style="color: #e6a64d;">「会話」</span>していて、もう一つの方では、<time datetime="1479">１４７９年</time>のブルージュ市民として、今ここに<span style="color: #e6a64d;">「現れる」</span>。</p>
-<p>作品自体がまた<span style="color: #e6a64d;">「聖なる教えの満ちた書物」</span>として働いている。<span style="color: #e6a64d;">霊的単純さと明白さ</span>が驚異的に絶え間なく<span style="color: #e6a64d;">物質的な精巧さと豪奢さ</span>を<span style="color: #e6a64d;">作り出している</span>。</p>
-<p><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" id="renvoi-de-vos-2" class="yellow"><ruby lang="ja">ディルク<rp>(</rp><rt lang="nl">Dirk</rt><rp>)</rp>・<rp>(</rp><rt lang="nl">&#160;</rt><rp>)</rp>ド<rp>(</rp><rt lang="nl">DE</rt><rp>)</rp>・<rp>(</rp><rt lang="nl">&#160;</rt><rp>)</rp>ヴォス<rp>(</rp><rt lang="nl">VOS</rt><rp>)</rp></ruby lang="ja"></a>が言及すると、<span style="color: #e6a64d;">「黄金の<ruby style="color:#e6a64d;">錦<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;">にしき</rt><rp>)</rp></ruby>、絹とアーミンを着ている処女たち、金箔の冠と珍しい宝石各種の世界」</span>、そこに、<span style="color: #e6a64d;">「深い落ち着きの沁みった雰囲気」</span>で<span style="color: #e6a64d;">「幼子イエスが病人たちに合図をする」</span>。
-実際、単純さと明白さが制限を知らないで、神聖性へと導くのです。</p>
-<h3 id="dispositif-architectural" class="yellow">建築的装置</h3>
-<p>メムリンクが自分を導かさせているのは異論の余地のなく彼が聖ドナティウス大聖堂に行って魅了されたことが知られている、<time datetime="1436">１４３６年<time>に描かれた<a href="https://ja.wikipedia.org/wiki/ヤン・ファン・エイク" title="https://ja.wikipedia.org/wiki/ヤン・ファン・エイク" id="jan-van-eyck" class="yellow">ヤン・ファン・エイク</a>筆の<a href="https://ja.wikipedia.org/wiki/ファン・デル・パーレの聖母子" title="https://ja.wikipedia.org/wiki/ファン・デル・パーレの聖母子" id="van-der-paele" class="yellow">「<ruby lang="ja">ファン・デル・パーレの聖母子<rp>(</rp><rt lang="nl">Madonna&#160;met&#160;kanunnik&#160;Joris&#160;van&#160;der&#160;Paele</rt><rp>)</rp></ruby lang="ja">」</a>です。</p>
-<figure>
-  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-280.webp 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-380.webp 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-480.webp 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-840.webp 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1280.webp 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-640.jpg" title="ヤン・ファン・エイク、《ファン・デル・パーレの聖母子》、グルーニング美術館、ブルージュ（ブルッヘ）" alt="ヤン・ファン・エイク、《ファン・デル・パーレの聖母子》、グルーニング美術館、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-280.jpg 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-380.jpg 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-480.jpg 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-840.jpg 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1280.jpg 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1920.jpg 1920w"></picture><figcaption>ヤン・ファン・エイク、<ruby lang="ja">ファン・デル・パーレの聖母子<rp>(</rp><rt lang="nl" style="color:#999;font-size: 70%;letter-spacing: 2px;">Madonna met kanunnik Joris van der Paele</rt><rp>)</rp></ruby>、グルーニング美術館、ブルージュ</figcaption>
-</figure>
-<p>他の数の多くの作品と同じように、メムリンクが背景から<span style="color: #e6a64d;">壁</span>、<span style="color: #e6a64d;">窓</span>を取り除いて<span style="color: #e6a64d;">外への視覚を連続的に</span>させている。</p>
-<figure>
-  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-280.webp 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-380.webp 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-480.webp 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-840.webp 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1280.webp 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの描写、聖母の戴冠式、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの描写、聖母の戴冠式、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-280.jpg 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-380.jpg 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-480.jpg 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-840.jpg 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1280.jpg 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1920.jpg 1920w"></picture><figcaption>三連画の中央パネルの描写</figcaption>
-</figure>
-<p>赤と茶色を混ぜた六本の円柱がタイル上の半円に配置され、その外側でニつ目の暗いグレー色の付け柱がニ重の半円形に並んでいる。
-その底面が地面に多角形を示す舗装の境界線で結ばれている。</p>
-<p>円柱の間の縦々の隙間は、<span style="color: #e6a64d;">視覚的に連続的な跡蹟と建物のある</span>、無限な、地平線ともなっている遠景に開放である景色と繋がっている。</p>
-</div>
+  <section><article>
+    <h3 id="conversation" class="yellow">聖母マリアと幼子イエスの周囲の聖なる会話</h3>
+    <section><article>
+      <h4 class="yellow">中央パネルの場面での聖なる会話</h4>
+      <section><article>
+        <p><a href="https://ja.wikipedia.org/wiki/聖母マリア" title="https://ja.wikipedia.org/wiki/聖母マリア" id="marie-mere-de-jesus" class="yellow">マリア</a>の戴冠式には、<a href="#catherine-d-alexandrie" title="アレクサンドリアのカタリナ" class="yellow">カタリナ</a>と<a href="#barbe" class="yellow">バルバラ</a>、<a href="#jean-le-baptiste-2" title="洗礼者ヨハネ" id="jean-le-baptiste-3" class="yellow">洗礼者ヨハネ</a>と<a href="#jean-l-evangeliste-3" title="福音書記者ヨハネ" id="jean-l-evangeliste-4" class="yellow">福音書記者ヨハネ</a>のいわゆる<span style="color: #e6a64d;">「</span><ruby style="color:#e6a64d;">聖なる会話<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;">サクラ・コンヴェルサツィオーネ</rt><rp>)</rp></ruby><span style="color: #e6a64d;">」</span> <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">ノート１</a></sup> 聖母の周りの<span style="color: #e6a64d;">聖人の集会</span>にニ人ずつ参加しています。</p>
+      </article></section>
+      <figure>
+        <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-280.webp 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-380.webp 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-480.webp 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-640.webp 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-840.webp 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1280.webp 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1600.webp 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの描写、聖母の戴冠式、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの描写、聖母の戴冠式、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-280.jpg 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-380.jpg 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-480.jpg 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-640.jpg 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-840.jpg 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1280.jpg 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1600.jpg 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1920.jpg 1920w"></picture><figcaption>中央パネルの描写、聖なる会話</figcaption>
+      </figure>
+    </article></section>
 
-<article>
-<h3 class="yellow">註釈</h3>
-<h4 id="note-devotion-moderne" class="yellow">新しき信心</h4>
-<div class="notices yellow">
-<p>現在のネーデルラントの北部で誕生して、１４世紀初頭から１５世紀初頭にかけてユトレヒト周辺で新しき信心は、<a href="https://fr.wikipedia.org/wiki/Gérard_Groote" title="https://fr.wikipedia.org/wiki/Gérard_Groote" id="gerard-groote" class="yellow"><ruby lang="ja">ヘルート<rp>(</rp><rt lang="nl">Geert</rt><rp>)</rp>・<rp>(</rp><rt lang="nl">&#160;</rt><rp>)</rp>フローテ<rp>(</rp><rt lang="nl">Groote</rt><rp>)</rp></ruby lang="ja"></a>という男性により始められました。</p>
-<p>彼は当時の敬虔信仰を厳し過ぎると現世から遠くなると批判します。
-それに対して、彼は、信者にキリストを自分の心の一奥底に居るようにと導きます。
-彼によると、このキリストの存在は単純さを生み出すことと使命している。
-従って信者は純粋に、信仰が自分の心の中で奨励する美徳に値する行動を為すことができる。</p>
+    <section><article>
+      <h4 class="yellow">中央パネルの場面でのニ人の侍者たち</h4>
+      <section><article>
+        <p>この<span style="color: #e6a64d;"><ruby style="color:#e6a64d;">交<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">まじ</rt><rp>)</rp></ruby>わり</span>の<ruby>趣<rp>(</rp><rt>おもむき</rt><rp>)</rp></ruby>は以下の存在によってさらに強くなっている。</p>
+        <ul>
+          <li>聖母の左手の小さな<span style="color: #e6a64d;">オルガン</span>を弾く座った<span style="color: #e6a64d;">侍者</span>と、</li>
+          <li>左手の彼女に<span style="color: #e6a64d;">本</span>を差し出す<ruby>跪<rp>(</rp><rt>ひざまず</rt><rp>)</rp></ruby>いた<span style="color: #e6a64d;">もう一人</span></li>
+        </ul>
+      </article></section>
+      <figure>
+        <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-280.webp 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-380.webp 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-480.webp 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-640.webp 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-840.webp 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1280.webp 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1600.webp 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの拡大、《ニ人の侍者たち》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの拡大、《ニ人の侍者たち》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-280.jpg 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-380.jpg 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-480.jpg 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-640.jpg 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-840.jpg 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1280.jpg 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1600.jpg 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1920.jpg 1920w"></picture><figcaption>中央パネルの拡大、ニ人の侍者たち</figcaption>
+      </figure>
+    </article></section>
+  </article></section>
+
+  <section><article>
+    <h3 id="devotion-moderne" class="yellow">聖なる会話L、「新しき信心」注目に値する表現</h3>
+    <section><article>
+      <h4 class="yellow">左右対称、単純さ、中心人物の配置の識別</h4>
+      <section><article>
+        <h5 class="yellow">左右対称、単純さ</h5>
+        <section><article>
+          <p>幅での位置関係の左右対称と単純さが三連画の形とよく合います。</p>
+        </article></section>
+        
+        <h5 class="yellow">識別</h5>
+        <section><article>
+          <p>高さと奥行きが<span style="color: #e6a64d;">男女の識別</span>により配置されています：</p>
+          <ul>
+            <li><span style="color: #e6a64d;">前</span>と下の方では、<span style="color: #e6a64d;">女の人ニ人</span>で、</li>
+            <li><span style="color: #e6a64d;">後ろ</span>と上の方では、<span style="color: #e6a64d;">男の人ニ人</span>です。</li>
+          </ul>
+          <p>奥行きと高さでの<span style="color: #e6a64d;">計り知れなさ</span>と<span style="color: #e6a64d;">神秘</span>に、横での位置の<span style="color: #e6a64d;">左右対称</span>と<span style="color: #e6a64d;">単純さ</span>が対応しています。</p>
+        </article></section>
+      </article></section>
+    </article></section>
+    
+    <section><article>
+      <h4 class="yellow">顔立ちの類似性、表わされている年齢の多様性</h4>
+        <section><article>
+          <p>表わされている人物は<span style="color: #e6a64d;">同じ家族</span>に属しているようと、<span style="color: #e6a64d;">あらゆる年齢</span>であることに見えます：</p>
+          <ul>
+            <li>生まれたばかりの赤ちゃん、</li>
+            <li>小さな子供、</li>
+            <li>子供、</li>
+            <li>少年、</li>
+            <li>若い男の人、</li>
+            <li>女の人、</li>
+            <li>お母さま、</li>
+            <li>男の人、</li>
+            <li>年のある男と女の人。</li>
+          </ul>
+          <p>この顔立ちの<span style="color: #e6a64d;">類似性</span>と年齢の<span style="color: #e6a64d;">多様性</span>が場面全体を統一させています。</p>
+        </article></section>
+      <figure>
+        <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-280.webp 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-380.webp 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-480.webp 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-640.webp 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-840.webp 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-1280.webp 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-1600.webp 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの詳細、《左から右へ、顔立ちの類似性、表されている年齢の多様性》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの詳細、《左から右へ、顔立ちの類似性、表されている年齢の多様性》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-280.jpg 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-380.jpg 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-480.jpg 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-640.jpg 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-840.jpg 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-1280.jpg 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-1600.jpg 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、左から右へ、顔立ちの類似性、表されている年齢の多様性</figcaption>
+      </figure>
+    </article></section>
+
+    <section><article>
+      <h4 class="yellow">新しき信心、十五世紀のフランドル社会のキリスト的改革運動</h4>
+      <section><article>
+        <p>顔立ちの<span style="color: #e6a64d;">類似性</span>と年齢の<span style="color: #e6a64d;">多様性</span>が全体を<span style="color: #e6a64d;">統一</span>させています。</p>
+        <p>私たちはこの<span style="color: #e6a64d;">均衡</span>がメムリンクが生きた社会の注目すべき特性であると当時の、歴史家たちが<span style="color: #e6a64d;">「</span><a href="https://fr.wikipedia.org/wiki/Devotio_moderna" title="https://fr.wikipedia.org/wiki/Devotio_moderna" id="devotio-moderna" class="yellow"><ruby>新しき信心<rp>(</rp><rt>デヴォティオ・モデルナ</rt><rp>)</rp></ruby></a><span style="color: #e6a64d;">」</span> <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">ノート２</a></sup> と呼ぶキリスト教信仰のとても大事な改革運動をよりよく把握するために無視することはできないと考えています。</p>
+      </article></section>
+      <footer>
+        <ul>
+          <li>もっと知るには：<a href="#note-devotion-moderne" title="「新しき信心」運動を紹介する註釈" id="renvoi-devotion-moderne" class="yellow">十五世紀の歴史的宗教的運動としての「<cite>新しき信心</cite>」</a>。</li>
+        </ul>
+      </footer>
+    </article></section>
+    
+    <section><article>
+      <h4 id="devotion-moderne" class="yellow">新しき信心、普遍的、単純な、純粋な、透明な改心</h4>
+      <section><article>
+        <section><article>
+          <p>フランドルで、メムリンクの時代では、あるキリスト教信仰修練書は、「<a href="https://ja.wikipedia.org/wiki/キリストに倣いて" title="https://ja.wikipedia.org/wiki/キリストに倣いて" id="imitation-de-jesus-christ" class="yellow"><cite><ruby>キリストに倣いて<rp>(</rp><rt>イミタティオ・クリスティ</rt><rp>)</rp></ruby></cite></a>」、大変なベストセラーであって、「新しき信心」が何であったかを表わすことを我々に今日可能にしてくれています。</p>
+        </article></section>
+
+        <section><article>
+          <h5 class="yellow"><cite><ruby>キリストに倣いて<rp>(</rp><rt>イミタティオ・クリスティ</rt><rp>)</rp></ruby></cite>から抜粋された文書</h5>
+          <header>
+            <p>これはその抜粋文書です <sup id="fnref1:4"><a href="#fn:4" class="footnote-ref">ノート３</a></sup>：</p>
+          </header>
+          <article>
+            <ol class="doc">
+              <li value="1">人はこの世の事柄から自分を引き上げているのは、<span style="color: #9c6416;">単純さ</span>と<span style="color: #9c6416;">清さ</span>という二つの羽によってです。</li>
+              <li>単純さは人の<span style="color: #9c6416;">意図</span>に、<span style="color: #9c6416;">清さ</span>は人に対する情にあるべきです。</li>
+              <li>単純さは神を<span style="color: #9c6416;">求め</span>、清さがそれを<span style="color: #9c6416;">見出し</span>て<span style="color: #9c6416;">味わう</span>のです。</li>
+              <li>どんな良い行為でもあなたたちには成し難くなりません。内面ではあらゆる乱された感情から自由があったらば、</li>
+              <li value="5">あなたたちが神が望むことと、隣人に役立つことのみを求めるなら、あなたたちは<span style="color: #9c6416;">内面の自由</span>を楽しむことでしょう。</li>
+              <li>従って、あなたたちの心が正しいのであれば、どんな被造物でもあなたたちにとっての<span style="color: #9c6416;">命の鏡</span>と<span style="color: #9c6416;">聖なる教えの満ちた書物</span>となるでしょう。</li>
+              <li>こんなに小さくて、こんなに卑劣な、<span style="color: #9c6416;">神の善良さの現象</span>を少しでも現さないほどの被造物は存在しないからです。</li>
+              <li>もしあなたたちが内面に十分な<span style="color: #9c6416;">清純さ</span>と<span style="color: #9c6416;">純粋さ</span>を持っていれば、あなたたちは全てを<span style="color: #9c6416;">さえぎるものなしに</span>見ることが出来るでしょう。</li>
+              <li>清い心は天国と地獄にまで入り込む。</li>
+              <li value="10">人は外にあるものごとを自分自身の内側での存在において判断するのです。</li>
+              <li>もしこの世に喜びが存在するなら、それを持つのは心の清いの持ち主にある。</li>
+              <li>従って、どこかに苦悩や苦痛があるのなら、気がとがめるそのことに知られているのです。</li>
+              <li value="13">火のなかに投げ込まれた鉄がその錆を失ってとても白く輝くように、こうして 遠慮せず自分を神に捧げる人は、悩ましげをはぎとられ新しい人へと変えられます。</li>
+            </ol>
+          </article>
+        </article></section>
+
+        <section><article>
+          <p>メムリンクが表わして場面では、聖なる会話自体が以上の文書の言葉によると<span style="color: #e6a64d;">単純な、純粋な、建築的装置と調和している<q style="quotes: '「' '」';color: #e6a64d;">聖なる教えの満ちた書物</q></span>として働いている。</p>
+        </article></section>
+      </article></section>
+    </article></section>
+  </article></section>
+
+  <section><article>
+    <h3 id="dispositif-architectural" class="yellow">建築的装置</h3>
+    <section><article>
+      <h4 class="yellow">新しき信心、表わされている中心人物と観賞者との関係方法</h4>
+      <section><article>
+        <p></p>
+        <p>この視点から、メムリンクの作品が<span style="color: #e6a64d;">「命の鏡」</span>として：</p>
+        <ul>
+          <li>片方では、病人たちが表わされている人物と<span style="color: #e6a64d;">「会話」</span>していて、</li>
+          <li>もう一つの方では、<time datetime="1479">１４７９年</time>のブルージュ市民として、あるいは二十一世紀のメムリンク美術館の来館者たちが今ここに<span style="color: #e6a64d;">「現れる」</span>。</li>
+        </ul>
+      </article></section>
+    </article></section>
+
+    <section><article>
+      <h4 class="yellow">新しき信心、十五世紀でのブルジュの驚異の水晶化</h4>
+        <p><span style="color: #e6a64d;">霊的単純さと明白さ</span>が驚異的に絶え間なく<span style="color: #e6a64d;">物質的な精巧さと豪奢さ</span>を<span style="color: #e6a64d;">作り出している</span>。</p>
+        <p><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" id="renvoi-de-vos-2" class="yellow"><ruby lang="ja">ディルク<rp>(</rp><rt lang="nl">Dirk</rt><rp>)</rp>・<rp>(</rp><rt lang="nl">&#160;</rt><rp>)</rp>ド<rp>(</rp><rt lang="nl">DE</rt><rp>)</rp>・<rp>(</rp><rt lang="nl">&#160;</rt><rp>)</rp>ヴォス<rp>(</rp><rt lang="nl">VOS</rt><rp>)</rp></ruby lang="ja"></a>が言及すると、<span style="color: #e6a64d;">「黄金の<ruby style="color:#e6a64d;">錦<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;">にしき</rt><rp>)</rp></ruby>、絹とアーミンを着ている処女たち、金箔の冠と珍しい宝石各種の世界」</span>、そこに、<span style="color: #e6a64d;">「深い落ち着きの沁みった雰囲気」</span>で<span style="color: #e6a64d;">「幼子イエスが病人たちに合図をする」</span>。</p>
+        <p>観賞者たちに対して、実際、単純さと明白さが制限を知らないで、神聖性へと導くのです。</p>
+        
+      <p>メムリンクが自分を導かさせているのは異論の余地のなく彼が聖ドナティウス大聖堂に行って魅了されたことが知られている、<time datetime="1436">１４３６年<time>に描かれた<a href="https://ja.wikipedia.org/wiki/ヤン・ファン・エイク" title="https://ja.wikipedia.org/wiki/ヤン・ファン・エイク" id="jan-van-eyck" class="yellow">ヤン・ファン・エイク</a>筆の<a href="https://ja.wikipedia.org/wiki/ファン・デル・パーレの聖母子" title="https://ja.wikipedia.org/wiki/ファン・デル・パーレの聖母子" id="van-der-paele" class="yellow">「<ruby lang="ja">ファン・デル・パーレの聖母子<rp>(</rp><rt lang="nl">Madonna&#160;met&#160;kanunnik&#160;Joris&#160;van&#160;der&#160;Paele</rt><rp>)</rp></ruby lang="ja">」</a>です。</p>
+      <figure>
+        <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-280.webp 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-380.webp 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-480.webp 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-640.webp 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-840.webp 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1280.webp 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1600.webp 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-640.jpg" title="ヤン・ファン・エイク、《ファン・デル・パーレの聖母子》、グルーニング美術館、ブルージュ（ブルッヘ）" alt="ヤン・ファン・エイク、《ファン・デル・パーレの聖母子》、グルーニング美術館、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-280.jpg 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-380.jpg 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-480.jpg 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-640.jpg 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-840.jpg 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1280.jpg 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1600.jpg 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1920.jpg 1920w"></picture><figcaption>ヤン・ファン・エイク、<ruby lang="ja">ファン・デル・パーレの聖母子<rp>(</rp><rt lang="nl" style="color:#999;font-size: 70%;letter-spacing: 2px;">Madonna met kanunnik Joris van der Paele</rt><rp>)</rp></ruby>、グルーニング美術館、ブルージュ</figcaption>
+      </figure>
+      <p>他の数の多くの作品と同じように、メムリンクが背景から<span style="color: #e6a64d;">壁</span>、<span style="color: #e6a64d;">窓</span>を取り除いて<span style="color: #e6a64d;">外への視覚を連続的に</span>させている。</p>
+      <figure>
+        <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-280.webp 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-380.webp 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-480.webp 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-640.webp 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-840.webp 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1280.webp 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1600.webp 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの描写、聖母の戴冠式、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの描写、聖母の戴冠式、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-280.jpg 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-380.jpg 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-480.jpg 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-640.jpg 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-840.jpg 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1280.jpg 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1600.jpg 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1920.jpg 1920w"></picture><figcaption>三連画の中央パネルの描写</figcaption>
+      </figure>
+      <p>赤と茶色を混ぜた六本の円柱がタイル上の半円に配置され、その外側でニつ目の暗いグレー色の付け柱がニ重の半円形に並んでいる。
+      その底面が地面に多角形を示す舗装の境界線で結ばれている。</p>
+      <p>円柱の間の縦々の隙間は、<span style="color: #e6a64d;">視覚的に連続的な跡蹟と建物のある</span>、無限な、地平線ともなっている遠景に開放である景色と繋がっている。</p>
+      </div>
+    </article></section>
+  </article></section>
+</article>
+
 <hr>
-<ul>
-<li><a href="#renvoi-devotion-moderne" title="「新しき信心」運動の送り返し">「歴史的細かい紹介を註釈に見付かることが出来ますに」 ↑ 戻る ↑</a>」</li>
-</ul>
-</div>
-<div class="footnotes">
-<hr>
-<ol>
-<li id="fn:1">
-<p>イタリア語では「Sacra&#160;conversazione」。&#160;<a href="#fnref1:1" rev="footnote" class="footnote-backref">&#8617;</a></p>
-</li>
-<li id="fn:2">
-<p>ラテン語では「Devotio&#160;moderna」。&#160;<a href="#fnref1:2" rev="footnote" class="footnote-backref">&#8617;</a></p>
-</li>
-<li id="fn:4">
-<p>ラテン語では「Imitatio&#160;Christi」。『キリストに<ruby>倣<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>いて』は、修道士であった<a href="https://ja.wikipedia.org/wiki/トマス・ア・ケンピス" title="https://ja.wikipedia.org/wiki/トマス・ア・ケンピス">トマス・ア・ケンピス</a>によって書かれた本であって、<time datetime="1418">１４１８年<time>ごろにラテン語で出版された。</p>
-<p>「第ニの福音書」「中世の最高の信心書」とも言われ、聖書に次いでカトリックのキリスト教徒の霊的修練の書として識字階級に広く読まれ、親しまれている。 日本でも１６世紀後半にキリシタン版の『<ruby>世のはかなさ<rp>(</rp><rt>コンテムツス・ムンヂ</rt><rp>)</rp></ruby>』として翻訳され、刊行された以来、「キリストのまねび」「イミタティオ-クリスティ」など多種の訳がある。&#160;<a href="#fnref1:4" rev="footnote" class="footnote-backref">&#8617;</a></p>
-</li>
-</ol>
-</div>
-</div>
+
+<aside>
+  <article>
+    <h3 class="yellow">註釈</h3>
+    <h4 id="note-devotion-moderne" class="yellow">新しき信心</h4>
+    <div class="notices yellow">
+      <p>現在のネーデルラントの北部で誕生して、１４世紀初頭から１５世紀初頭にかけてユトレヒト周辺で新しき信心は、<a href="https://fr.wikipedia.org/wiki/Gérard_Groote" title="https://fr.wikipedia.org/wiki/Gérard_Groote" id="gerard-groote" class="yellow"><ruby lang="ja">ヘルート<rp>(</rp><rt lang="nl">Geert</rt><rp>)</rp>・<rp>(</rp><rt lang="nl">&#160;</rt><rp>)</rp>フローテ<rp>(</rp><rt lang="nl">Groote</rt><rp>)</rp></ruby lang="ja"></a>という男性により始められました。</p>
+      <p>彼は当時の敬虔信仰を厳し過ぎると現世から遠くなると批判します。
+      それに対して、彼は、信者にキリストを自分の心の一奥底に居るようにと導きます。
+      彼によると、このキリストの存在は単純さを生み出すことと使命している。
+      従って信者は純粋に、信仰が自分の心の中で奨励する美徳に値する行動を為すことができる。</p>
+      <hr>
+      <ul>
+        <li><a href="#renvoi-devotion-moderne" title="「新しき信心」運動の送り返し">「歴史的細かい紹介を註釈に見付かることが出来ますに」 ↑ 戻る ↑</a>」</li>
+      </ul>
+    </div>
+
+    <div class="footnotes">
+
+    <hr>
+
+    <ol>
+      <li id="fn:1">
+        <p>イタリア語では「Sacra&#160;conversazione」。&#160;<a href="#fnref1:1" rev="footnote" class="footnote-backref">&#8617;</a></p>
+      </li>
+
+      <li id="fn:2">
+        <p>ラテン語では「Devotio&#160;moderna」。&#160;<a href="#fnref1:2" rev="footnote" class="footnote-backref">&#8617;</a></p>
+      </li>
+
+      <li id="fn:4">
+        <p>ラテン語では「Imitatio&#160;Christi」。『キリストに<ruby>倣<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>いて』は、修道士であった<a href="https://ja.wikipedia.org/wiki/トマス・ア・ケンピス" title="https://ja.wikipedia.org/wiki/トマス・ア・ケンピス">トマス・ア・ケンピス</a>によって書かれた本であって、<time datetime="1418">１４１８年<time>ごろにラテン語で出版された。</p>
+        <p>「第ニの福音書」「中世の最高の信心書」とも言われ、聖書に次いでカトリックのキリスト教徒の霊的修練の書として識字階級に広く読まれ、親しまれている。 日本でも１６世紀後半にキリシタン版の『<ruby>世のはかなさ<rp>(</rp><rt>コンテムツス・ムンヂ</rt><rp>)</rp></ruby>』として翻訳され、刊行された以来、「キリストのまねび」「イミタティオ-クリスティ」など多種の訳がある。&#160;<a href="#fnref1:4" rev="footnote" class="footnote-backref">&#8617;</a></p>
+      </li>
+    </ol>
+    </div>
+    </div>
+  </article>
+</aside>
 
 <!-- Page 5 -->
 

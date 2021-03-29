@@ -366,7 +366,7 @@
     <section><article>
       <p>Elle <span style="color: #e6a64d;">est couronnée “Reine du ciel” par deux petits anges bleus foncés</span> qui voltigent au-dessus d'elle.</p>
     </article></section>
-    
+
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/deux-anges-280.webp 280w,
@@ -525,6 +525,7 @@
       <h4 id="jean-l-evangeliste-3" class="yellow">jean l'évangéliste</h4>
       <section><article>
         <p>De l'autre côté, à droite, <span style="color: #e6a64d;">un autre homme</span> debout, habillé comme un prêtre, de <span style="color: #e6a64d;">rouge</span>, fait de sa main droite le signe de croix sur <span style="color: #e6a64d;">une coupe</span>, dans laquelle il y a un <span style="color: #e6a64d;">serpent</span>: c'est <a href="https://fr.wikipedia.org/wiki/Jean_(apôtre)" title="https://fr.wikipedia.org/wiki/Jean_(apôtre)" id="jean-l-evangeliste-4" class="yellow">Jean l'Évangéliste</a>.</p>
+      </article></section>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" rcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-280.webp 280w,
@@ -544,9 +545,8 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1920.jpg 1920w"></picture><figcaption>Jean l'Évangéliste</figcaption>
       </figure>
-      </article></section>
       <section><article>
-        <p>Nous reconnaissons <a href="https://fr.wikipedia.org/wiki/Jean_(apôtre)" title="https://fr.wikipedia.org/wiki/Jean_(apôtre)" id="jean-l-evangeliste" class="yellow">Jean l'Évangéliste</a> à un épisode du <span style="color: #999;">chapître 9</span> de la <a href="https://fr.wikipedia.org/wiki/La_Légende_drée" title="https://fr.wikipedia.org/wiki/La_Légende_dorée" id="legende-doree-2" class="yellow">“Légende Dorée”</a>.
+        <p>Nous reconnaissons <a href="https://fr.wikipedia.org/wiki/Jean_(apôtre)" title="https://fr.wikipedia.org/wiki/Jean_(apôtre)" id="jean-l-evangeliste" class="yellow">Jean l'Évangéliste</a> à un épisode du <span style="color: #999;">chapître 9</span> de <a href="https://fr.wikipedia.org/wiki/La_Légende_drée" title="https://fr.wikipedia.org/wiki/La_Légende_dorée" id="legende-doree-2" class="yellow"><cite>La Légende Dorée</cite></a>.</p>
         <ul>
           <li>lire le <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" title="https://francois-vidit.comdocs/fr/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" id="renvoi-aristodeme" class="yellow">texte de la <cite href="https://francois-vidit.comdocs/fr/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme">Légende de Jean l'Évangéliste</cite> selon le chapître 9 de <cite>La Légende Dorée</cite></a>.</li>
         </ul>
@@ -608,8 +608,8 @@
     </article></section>
     <section><article>
       <h4 class="yellow">barbe la grande martyre, sa légende au XV<sup>ème</sup></h4>
-      <p>Selon sa légende, Barbe habite <a href="https://fr.wikipedia.org/wiki/Nicomédie" title="https://fr.wikipedia.org/wiki/Nicomédie" id="nicomeie" class="yellow">Nicomédie</a>, capitale de l'ancienne province de <a href="https://fr.wikipedia.org/wiki/Bithynie" title="https://fr.wikipedia.org/wiki/Bithynie" id="bithynie class="yellow">Bithynie</a> et qui se trouve située dans le nord de la Turquie actuelle et donne sur la Mer Noire.
-      Barbe a le défaut d'être blle .., tellement belle, que très jeune, <span style="color: #e6a64d;">son père l'enferme dans une tour</span>!</p>
+      <p>Selon sa légende, Barbe habite <a href="https://fr.wikipedia.org/wiki/Nicomédie" title="https://fr.wikipedia.org/wiki/Nicomédie" id="nicomedie" class="yellow">Nicomédie</a>, capitale de l'ancienne province de <a href="https://fr.wikipedia.org/wiki/Bithynie" title="https://fr.wikipedia.org/wiki/Bithynie" id="bithynie class="yellow">Bithynie</a> et qui se trouve située dans le nord de la Turquie actuelle et donne sur la Mer Noire.
+      Barbe a le défaut d'être belle .., tellement belle, que très jeune, <span style="color: #e6a64d;">son père l'enferme dans une tour</span>!</p>
       <p>Le texte nous apprend que Barbe sent alors <span style="color: #e6a64d;">«le néant des choses terrestres»</span> et commence à se préoccuper <span style="color: #e6a64d;"><q>des choses célestes</q></span>.
       Bien que cela soit interdit à son époque, elle se détourne peu à peu des dieux romains et écrit secrètement au plus célèbre chrétien d'<a href="https://fr.wikipedia.org/wiki/Alexandrie" title="https://fr.wikipedia.org/wiki/Alexandrie" id="alexandrie" class="yellow">Alexandrie</a> en Égypte, <a href="https://fr.wikipedia.org/wiki/Origène" title="https://fr.wikipedia.org/wiki/Origène" class="yellow">Origène</a>
       Celui-ci lui répond, la fortifie dans sa foi naissante, la visite et lui donne clandestinemnt le <span style="color: #e6a64d;">baptème</span>.</p>
@@ -620,6 +620,7 @@
       </blockquote>
       <p>Son propre père lui tranche la tête.</p>
     </article></section>
+
     <section><article>
       <h4 class="yellow">l'hostie au travers de la tour de barbe la grande martyre</h4>
       <p>À travers les entrelacs de la tour placée derrière elle, <span style="color: #e6a64d;">une hostie</span> apparaît dans <span style="color: #e6a64d;">un cylindre de verre</span> monté sur un croissant de lune doré.</p>
@@ -659,8 +660,11 @@
           </li>
         </ol>
       </div>
-      <footer><p><a href="#fnref1:1" rev="footnote" class="footnote-backref">retour au texte ↩</a></p></footer>
+      <footer>
+        <p><a href="#fnref1:1" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+      </footer>
     </article></section>
+
     <section><article>
       <div class="footnotes">
         <ol start="2">
@@ -675,6 +679,7 @@
       </div>
       <footer><p><a href="#fnref2:2" rev="footnote" class="footnote-backref">retour au texte ↩</a></p></footer>
     </article></section>
+
     <section><article>
       <div class="footnotes">
         <ol start="3">
@@ -685,6 +690,7 @@
       </div>
       <footer><p><a href="#fnref1:5" rev="footnote" class="footnote-backref">retour au texte ↩</a></p></footer>
     </article></section>
+
     <section><article>
       <div class="footnotes">
       <ol start="4">
@@ -705,7 +711,9 @@
     <h3 id="conversation" class="yellow">une conversation sacrée autour de la Vierge Marie et l'enfant Jésus</h3>
     <section><article>
       <h4 class="yellow">la conversation sacrée dans la scène du panneau central</h4>
-      <p>Au couronnement de <a href="https://fr.wikipedia.org/wiki/Marie_(mère_de_Jésus)" title="https://frwikipedia.org/wiki/Marie_(mère_de_Jésus)" id="marie-mere-de-jesus" class="yellow">Marie</a>, la présence <span style="color: #e6a64d;">deux</span> à <span style="color: #e6a64d;">deux</span> de <a href="#catherine-d-alexandrie" itle="Catherine d'Alexandrie" class="yellow">Catherine</a> et <a href="#barbe" class="yellow">Barbe</a>, de <a href="#jean-le-baptiste-2" title="Jean le Baptiste" id="jean-le-baptiste-3" class="yello">Jean le Baptiste</a> et <a href="#jean-l-evangliste-3" title="Jean l'Évangéliste" id="jean-l-evangeliste-4" class="yellow">Jean l'Évangéliste</a> ajoute une <q><ruby style="color:#e6a64d;" lang="fr">conversation&#160;sacrée<rp>(</rp><rt style="font-size:70%;letter-spacing: 1px;color:#e6a64d;" lang="it">sacra&#160;conversazione</rt><rp>)</rp></ruby></q>, c'est-à-dire une <span style="color: #e6a64d;">réunion de saints</span> autour de la vierge.</p>
+      <section><article>
+        <p>Au couronnement de <a href="https://fr.wikipedia.org/wiki/Marie_(mère_de_Jésus)" title="https://frwikipedia.org/wiki/Marie_(mère_de_Jésus)" id="marie-mere-de-jesus" class="yellow">Marie</a>, la présence <span style="color: #e6a64d;">deux</span> à <span style="color: #e6a64d;">deux</span> de <a href="#catherine-d-alexandrie" itle="Catherine d'Alexandrie" class="yellow">Catherine</a> et <a href="#barbe" class="yellow">Barbe</a>, de <a href="#jean-le-baptiste-2" title="Jean le Baptiste" id="jean-le-baptiste-3" class="yello">Jean le Baptiste</a> et <a href="#jean-l-evangliste-3" title="Jean l'Évangéliste" id="jean-l-evangeliste-4" class="yellow">Jean l'Évangéliste</a> ajoute une <q><ruby style="color:#e6a64d;" lang="fr">conversation&#160;sacrée<rp>(</rp><rt style="font-size:70%;letter-spacing: 1px;color:#e6a64d;" lang="it">sacra&#160;conversazione</rt><rp>)</rp></ruby></q>, c'est-à-dire une <span style="color: #e6a64d;">réunion de saints</span> autour de la vierge.</p>
+      </article></section>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-280.webp 280w,
@@ -726,13 +734,16 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1920.jpg 1920w"></picture><figcaption>vue du panneau central, une conversation sacrée autour de la Vierge Marie et l'enfant Jésus</figcaption>
       </figure>
     </article></section>
+
     <section><article>
       <h4 class="yellow">les deux servants d'autels dans la scène du panneau central</h4>
-      <p>Cet esprit de <span style="color: #e6a64d;">communion</span> se trouve renforcé par la présence:</p>
-      <ul>
-        <li>à gauche de la vierge d'<span style="color: #e6a64d;">un servant d'autel</span> qui joue d'un petit <span style="color: #e6a64d;">orgue</span> assis,</li>
-        <li>à droite d'<span style="color: #e6a64d;">un autre</span> agenouillé qui lui présente <span style="color: #e6a64d;">un livre</span>.</li>
-      </ul>
+      <section><article>
+        <p>Cet esprit de <span style="color: #e6a64d;">communion</span> se trouve renforcé par la présence:</p>
+        <ul>
+          <li>à gauche de la vierge d'<span style="color: #e6a64d;">un servant d'autel</span> qui joue d'un petit <span style="color: #e6a64d;">orgue</span> assis,</li>
+          <li>à droite d'<span style="color: #e6a64d;">un autre</span> agenouillé qui lui présente <span style="color: #e6a64d;">un livre</span>.</li>
+        </ul>
+      </article></section>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-280.webp 280w,
@@ -754,33 +765,46 @@
       </figure>
     </article></section>
   </article></section>
+
   <section><article>
     <h3 id="devotion-moderne" class="yellow">La conversation sacrée, expression remarquable de la “dévotion moderne”</h3>
     <section><article>
       <h4 class="yellow">symétrie, simplicité, distinction de la disposition des protagonistes</h4>
-      <h5 class="yellow">symétrie, simplicité</h5>
-      <p>À la symétrie et à la simplicité des positions les unes par rapport aux autres dans la largeur s'accorde à la forme du tryptique.</p>
-      <h5 class="yellow">distinction</h5>
-      <p>La hauteur et la profondeur s'organisent autour de la <span style="color: #e6a64d;">distinction hommes femmes</span>:</p>
-      <ul>
-        <li>sur le <span style="color: #e6a64d;">devant</span> en bas, <span style="color: #e6a64d;">deux femmes</span>,</li>
-        <li>sur le <span style="color: #e6a64d;">derrière</span> en haut, <span style="color: #e6a64d;">deux hommes</span>.</li>
-      </ul>
-      <p>L'<span style="color: #e6a64d;">insondabilité</span> et le <span style="color: #e6a64d;">mystère</span> en profondeur et hauteur répond à la <span style="color: #e6a64d;">symétrie</span> et la <span style="color: #e6a64d;">simplicité</span> des positions en largeur.</p>
+      <section><article>
+        <h5 class="yellow">symétrie, simplicité</h5>
+          <section><article>
+            <p>À la symétrie et à la simplicité des positions les unes par rapport aux autres dans la largeur s'accorde à la forme du tryptique.</p>
+          </article></section>
+
+        <h5 class="yellow">distinction</h5>
+        <section><article>
+          <p>La hauteur et la profondeur s'organisent autour de la <span style="color: #e6a64d;">distinction hommes femmes</span>:</p>
+          <ul>
+            <li>sur le <span style="color: #e6a64d;">devant</span> en bas, <span style="color: #e6a64d;">deux femmes</span>,</li>
+            <li>sur le <span style="color: #e6a64d;">derrière</span> en haut, <span style="color: #e6a64d;">deux hommes</span>.</li>
+          </ul>
+          <p>L'<span style="color: #e6a64d;">insondabilité</span> et le <span style="color: #e6a64d;">mystère</span> en profondeur et hauteur répond à la <span style="color: #e6a64d;">symétrie</span> et la <span style="color: #e6a64d;">simplicité</span> des positions en largeur.</p>
+        </article></section>
+      </article></section>
+    </article></section>
+
+    <section><article>
       <h4 class="yellow">ressemblances des physionomies, variétés des âges représentés</h4>
-      <p>Les personnages représentés semblent de <span style="color: #e6a64d;">la même famille</span> et sont <span style="color: #e6a64d;">de tous âges</span>:</p>
-      <ul>
-        <li>nouveau né,</li>
-        <li>petit enfant,</li>
-        <li>enfant,</li>
-        <li>adolescent,</li>
-        <li>jeune homme,</li>
-        <li>femme,</li>
-        <li>mère,</li>
-        <li>homme,</li>
-        <li>homme et femme âgés.</li>
-      </ul>
-      <p>La <span style="color: #e6a64d;">ressemblance</span> des physionomies et la <span style="color: #e6a64d;">variété</span> des âges <span style="color: #e6a64d;">unifie</span> l'ensemble.</p>
+      <section><article>
+        <p>Les personnages représentés semblent de <span style="color: #e6a64d;">la même famille</span> et sont <span style="color: #e6a64d;">de tous âges</span>:</p>
+        <ul>
+          <li>nouveau né,</li>
+          <li>petit enfant,</li>
+          <li>enfant,</li>
+          <li>adolescent,</li>
+          <li>jeune homme,</li>
+          <li>femme,</li>
+          <li>mère,</li>
+          <li>homme,</li>
+          <li>homme et femme âgés.</li>
+        </ul>
+        <p>La <span style="color: #e6a64d;">ressemblance</span> des physionomies et la <span style="color: #e6a64d;">variété</span> des âges <span style="color: #e6a64d;">unifie</span> l'ensemble.</p>
+      </article></section>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-280.webp 280w,
@@ -801,59 +825,73 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-1920.jpg 1920w"></picture><figcaption>détails du panneau central, de gauche à droite: ressemblances des physionomies, variétés des âges représentés</figcaption>
       </figure>
     </article></section>
+
     <section><article>
       <h4 class="yellow">la dévotion moderne, mouvement de réforme de la foi chrétienne de la société flamande du XV<sup>ème</sup> siècle</h4>
-      <p>Nous pensons que cet <span style="color: #e6a64d;">équilibre</span> est une caractéristique remarquable de la société flamande du XV<sup>ème</sup> siècle dans laquelle a vécu Memling.</p>
-      <p>Le très important mouvement de réforme de la foi chrétienne de cette époque, que les historiens appellent <q><a href="https://fr.wikipedia.org/wiki/Devotio_moderna" title="https://fr.wikipedia.org/wiki/Devotio_moderna" id="devotio-moderna" class="yellow"><ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby></a></q>, éclaire cette transparence simple familière de l'espace représenté.</p>
+      <section><article>
+        <p>Nous pensons que cet <span style="color: #e6a64d;">équilibre</span> est une caractéristique remarquable de la société flamande du XV<sup>ème</sup> siècle dans laquelle a vécu Memling.</p>
+        <p>Le très important mouvement de réforme de la foi chrétienne de cette époque, que les historiens appellent <q><a href="https://fr.wikipedia.org/wiki/Devotio_moderna" title="https://fr.wikipedia.org/wiki/Devotio_moderna" id="devotio-moderna" class="yellow"><ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby></a></q>, éclaire cette transparence simple familière de l'espace représenté.</p>
+      </article></section>
       <footer>
         <ul>
           <li>pour en savoir plus: <a href="#note-devotion-moderne" title="note présentation du mouvement “dévotion moderne”" id="renvoi-devotion-moderne" class="yellow">la “dévotion moderne” comme mouvement religieux historique du XV<sup>ème</sup> siècle</a></li>
         </ul>
       </footer>
     </article></section>
+
     <section><article>
-      <h4 class="yellow">la dévotion moderne, conversion essentielle universelle, simple, pure, transparente</sup> siècle</h4>
-      <p>En Flandres, à l'époque de Memling, un livre de piété chrétienne, <span style="color: #e6a64d;"><cite><a href="https://fr.wikipedia.org/wiki/Gérard_Groote" title="https://fr.wikipedia.org/wiki/Gérard_Groote" id="imitation-de-jesus-christ" class="yellow"><ruby lang="fr">L'Imitation&#160;de<rp>(</rp><rt lang="la">De&#160;imitatione</rt><rp>)</rp>&#160;Jésus-Christ<rp>(</rp><rt lang="la">Christi</rt><rp>)</rp><ruby></a></cite></span>, qui est un énorme succès d'édition <sup id="fnref1:4"><a href="#fn:4" class="footnote-ref">note 1</a></sup>, nous permet aujourd'hui de nous représenter ce qu'a pu être “dévotion moderne”.</p>
-    </article></section>
-    <section><article>
-      <h5 class="yellow">texte extrait de <cite>L'Imitation de Jésus-Christ</cite></h5>
-      <header>
-        <p>On peut y lire par exemple <sup id="fnref1:5"><a href="#fn:4" class="footnote-ref">note 2</a></sup>:</p>
-      </header>
-      <article>
-        <ol class="doc">
-          <li value="1">L'être humain s'élève au-dessus de la terre sur deux ailes, la <span style="color: #b37319;">simplicité</span> et la <span style="color: #b37319;">pureté</span>.</li>
-          <li>La simplicité doit être dans l'<span style="color: #b37319;">intention</span>, et la pureté dans l'<span style="color: #b37319;">affection</span>.</li>
-          <li>La simplicité <span style="color: #9c6416;">cherche</span> dieu, la pureté le <span style="color: #9c6416;">trouve</span> et le <span style="color: #9c6416;">goûte</span>.</li>
-          <li>Nulle bonne œuvre ne vous sera difficile, si vous êtes libre au-dedans de toute affection déréglée.</li>
-          <li value="15">Si vous ne voulez que ce que dieu veut et ce qui est utile au prochain, vous jouirez de la <span style="color: #9c6416;">liberté intérieure</span>.</li>
-          <li>Si votre cœur était droit, alors toute créature vous serait un <span style="color: #9c6416;">miroir de vie</span> et un <span style="color: #9c6416;">livre rempli de saintes instructions</span>.</li>
-          <li>Il n'est point de créature si petite et si vile qui ne présente quelque <span style="color: #9c6416;">image de la bonté de dieu</span>.</li>
-          <li>Si vous aviez en vous assez d'<span style="color: #9c6416;">innocence</span> et de <span style="color: #9c6416;">pureté</span>, vous verriez tout <span style="color: #9c6416;">sans obstacle</span>.</li>
-          <li>Un cœur pur pénètre le ciel et l'enfer.</li>
-          <li value="10">Chacun juge des choses du dehors selon ce qu'il est au-dedans de lui-même.</li>
-          <li>S'il est quelque joie dans le monde, le cœur pur la possède.</li>
-          <li>Et s'il y a des angoisses et des tribulations, avant tout elles sont connues de la mauvaise conscience.</li>
-          <li value="13">Comme le fer mis au feu perd sa rouille et devient tout étincelant, ainsi celui qui se donne sans réserve à dieu se dépouille de sa langueur et se change en un être nouveau.</li>
-        </ol>
-      </article>
-    </article></section>
-    <section><article>
-      <p>Dans la scène représentée par Memling, la conversation sacrée fonctionne selon les termes du texte cité plus haut comme <q><span style="color: #e6a64d;">livre rempli de saintes instructions</span></q> simples, pures, en accord avec le dispositif architural.</p>
+      <h4 class="yellow">la dévotion moderne, conversion essentielle universelle, simple, pure, transparente</h4>
+      <section><article>
+        <section><article>
+          <p>En Flandres, à l'époque de Memling, un livre de piété chrétienne, <span style="color: #e6a64d;"><cite><a href="https://fr.wikipedia.org/wiki/L'Imitation_de_Jésus-Christ" title="https://fr.wikipedia.org/wiki/L'Imitation_de_Jésus-Christ" id="imitation-de-jesus-christ" class="yellow"><ruby lang="fr">L'Imitation&#160;de<rp>(</rp><rt lang="la">De&#160;imitatione</rt><rp>)</rp>&#160;Jésus-Christ<rp>(</rp><rt lang="la">Christi</rt><rp>)</rp><ruby></a></cite></span>, qui est un énorme succès d'édition <sup id="fnref1:4"><a href="#fn:4" class="footnote-ref">note 1</a></sup>, nous permet aujourd'hui de nous représenter ce qu'a pu être “dévotion moderne”.</p>
+        </article></section>
+
+        <section><article>
+          <h5 class="yellow">texte extrait de <cite>L'Imitation de Jésus-Christ</cite></h5>
+          <header>
+            <p>On peut y lire par exemple <sup id="fnref1:5"><a href="#fn:4" class="footnote-ref">note 2</a></sup>:</p>
+          </header>
+          <article>
+            <ol class="doc">
+              <li value="1">L'être humain s'élève au-dessus de la terre sur deux ailes, la <span style="color: #b37319;">simplicité</span> et la <span style="color: #b37319;">pureté</span>.</li>
+              <li>La simplicité doit être dans l'<span style="color: #b37319;">intention</span>, et la pureté dans l'<span style="color: #b37319;">affection</span>.</li>
+              <li>La simplicité <span style="color: #9c6416;">cherche</span> dieu, la pureté le <span style="color: #9c6416;">trouve</span> et le <span style="color: #9c6416;">goûte</span>.</li>
+              <li>Nulle bonne œuvre ne vous sera difficile, si vous êtes libre au-dedans de toute affection déréglée.</li>
+              <li value="15">Si vous ne voulez que ce que dieu veut et ce qui est utile au prochain, vous jouirez de la <span style="color: #9c6416;">liberté intérieure</span>.</li>
+              <li>Si votre cœur était droit, alors toute créature vous serait un <span style="color: #9c6416;">miroir de vie</span> et un <span style="color: #9c6416;">livre rempli de saintes instructions</span>.</li>
+              <li>Il n'est point de créature si petite et si vile qui ne présente quelque <span style="color: #9c6416;">image de la bonté de dieu</span>.</li>
+              <li>Si vous aviez en vous assez d'<span style="color: #9c6416;">innocence</span> et de <span style="color: #9c6416;">pureté</span>, vous verriez tout <span style="color: #9c6416;">sans obstacle</span>.</li>
+              <li>Un cœur pur pénètre le ciel et l'enfer.</li>
+              <li value="10">Chacun juge des choses du dehors selon ce qu'il est au-dedans de lui-même.</li>
+              <li>S'il est quelque joie dans le monde, le cœur pur la possède.</li>
+              <li>Et s'il y a des angoisses et des tribulations, avant tout elles sont connues de la mauvaise conscience.</li>
+              <li value="13">Comme le fer mis au feu perd sa rouille et devient tout étincelant, ainsi celui qui se donne sans réserve à dieu se dépouille de sa langueur et se change en un être nouveau.</li>
+            </ol>
+          </article>
+        </article></section>
+
+        <section><article>
+          <p>Dans la scène représentée par Memling, la conversation sacrée fonctionne selon les termes du texte cité plus haut comme <q><span style="color: #e6a64d;">livre rempli de saintes instructions</span></q> simples, pures, en accord avec le dispositif architural.</p>
+        </article></section>
+      </article></section>
     </article></section>
   </article></section>
+  
   <section><article>
     <h3 id="dispositif-architectural" class="yellow">le dispositif architectural représenté dans le panneau central</h3>
     <section><article>
       <h4 class="yellow">la dévotion moderne, mode de relation entre les protagonistes de la scène représentée et spectateurs</h4>
-      <p>La disposition des lieux représentés, l'abside d'une église, permet au dispositif architectural de fonctionner aussi par rapport aux spectateurs du triptyque.</p>
-      <p>Nous qui regardons le tableau nous trouvons de fait dans l'espace du tableau, partie de la conversation sacrée, en présence des protagonistes de la scène représentée, dans ce rapport d'altérité simple, transparente, familière.</p>
-      <p>De ce point de vue, l'œuvre de Memling fonctionne comme <span style="color: #e6a64d;">miroir de vie</span>:</p>
-      <ul>
-        <li>d'un côté les spectateurs du triptyques, que ce soient malades de l'Hôpital Saint-Jean à l'époque de Memling ou nous aujourd'hui <span style="color: #e6a64d;">«<em>conversent</em>»</span> avec les figures représentées,</li>
-        <li>de l'autre celles-ci <span style="color: #e6a64d;">«<em>s'actualisent</em>»</span> ici et maintenant, comme Brugeoises et Brugeois de <time datetime="1479">1479</time> ou visiteurs du Musée Memling du XXI<sup>ème</sup> siècle.</li>
-      </ul>
+      <section><article>
+        <p>La disposition des lieux représentés, l'abside d'une église, permet au dispositif architectural de fonctionner aussi par rapport aux spectateurs du triptyque.</p>
+        <p>Nous qui regardons le tableau nous trouvons de fait dans l'espace du tableau, partie de la conversation sacrée, en présence des protagonistes de la scène représentée, dans ce rapport d'altérité simple, transparente, familière.</p>
+        <p>De ce point de vue, l'œuvre de Memling fonctionne comme <span style="color: #e6a64d;">miroir de vie</span>:</p>
+        <ul>
+          <li>d'un côté les spectateurs du triptyques, que ce soient malades de l'Hôpital Saint-Jean à l'époque de Memling ou nous aujourd'hui <span style="color: #e6a64d;">«<em>conversent</em>»</span> avec les figures représentées,</li>
+          <li>de l'autre celles-ci <span style="color: #e6a64d;">«<em>s'actualisent</em>»</span> ici et maintenant, comme Brugeoises et Brugeois de <time datetime="1479">1479</time> ou visiteurs du Musée Memling du XXI<sup>ème</sup> siècle.</li>
+        </ul>
+      </article></section>
     </article></section>
+
     <section><article>
       <h4 class="yellow">la dévotion moderne, cristallisation du merveilleux de Bruges au XV<sup>ème</sup> siècle</h4>
       <p>Enfin, la disposition exemplaire d'une représentation où les personnages sont parés des plus belles réalisations vestimentaires de la Bruges du XV<sup>ème</sup> siècle, cristallise le sentiment de <em>merveilleux</em>.</p>
