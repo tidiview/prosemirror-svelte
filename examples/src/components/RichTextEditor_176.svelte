@@ -894,18 +894,22 @@
 
     <section><article>
       <h4 class="yellow">la dévotion moderne, cristallisation du merveilleux de Bruges au XV<sup>ème</sup> siècle</h4>
-      <p>Enfin, la disposition exemplaire d'une représentation où les personnages sont parés des plus belles réalisations vestimentaires de la Bruges du XV<sup>ème</sup> siècle, cristallise le sentiment de <em>merveilleux</em>.</p>
-      <p><span style="color: #e6a64d;">simplicité, évidence, idéalité spirituelles produisent</span> aussi de <em>manière continue</em> <span style="color: #e6a64d;">sophistication et opulence matérielles</span>.</p>
-      <p><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" id="renvoi-de-vos-2" class="yellow">Dirk DE VOS</a> évoque:</p>
-      <blockquote>
-        <p><span style="color: #e6a64d;">«un monde de vierges vêtues de brocart d'or, de soie et d'hermine, couronnes dorées et de pierres précieses rares»</span> où <span style="color: #e6a64d;">«l'enfant Jésus fait signe»</span> aux malades dans une <span style="color: #e6a64d;">«atmosphère empreinte de profonde sérénité»</span>.</p>
-      </blockquote>
-      <p>De fait, à Bruges au XV<sup>ème</sup> siècle, simplicité et l'évidence ne connaissant pas de limites, mènent <em>merveilleusement</em> au divin.</p>
+      <section><article>
+        <p>Enfin, la disposition exemplaire d'une représentation où les personnages sont parés des plus belles réalisations vestimentaires de la Bruges du XV<sup>ème</sup> siècle, cristallise le sentiment de <em>merveilleux</em>.</p>
+        <p><span style="color: #e6a64d;">simplicité, évidence, idéalité spirituelles produisent</span> aussi de <em>manière continue</em> <span style="color: #e6a64d;">sophistication et opulence matérielles</span>.</p>
+        <p><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" id="renvoi-de-vos-2" class="yellow">Dirk DE VOS</a> évoque:</p>
+        <blockquote>
+          <p><span style="color: #e6a64d;">«un monde de vierges vêtues de brocart d'or, de soie et d'hermine, couronnes dorées et de pierres précieses rares»</span> où <span style="color: #e6a64d;">«l'enfant Jésus fait signe»</span> aux malades dans une <span style="color: #e6a64d;">«atmosphère empreinte de profonde sérénité»</span>.</p>
+        </blockquote>
+        <p>De fait, à Bruges au XV<sup>ème</sup> siècle, simplicité et l'évidence ne connaissant pas de limites, mènent <em>merveilleusement</em> au divin.</p>
+      </article></section>
     </article></section>
 
     <section><article>
-      <h4 class="yellow">xxxx</h4>
-      <p>Memling se laisse guider de manière incontestable par cette œuvre de <a href="https://fr.wikipedia.org/wiki/Jan_van_Eyk" title="https://fr.wikipedia.org/wiki/Jan_van_Eyck" id="jan-van-eyck" class="yellow">Jan VAN EYCK</a> peinte en <time datetime="1436">1436</time> qu'il connaît et va admirer dans la <a href="https://fr.wikipedia.org/wiki/Cathédrale_Saint-Donatien_de_Bruges" title="http://fr.wikipedia.org/wiki/Cathédrale_Saint-Donatien_de_Bruges" id="cathedrale-saint-donatien" class="yellow">cathédrale Saint-Donatien</a>: <a href="https://fr.wikipedia.org/wiki/La_Vierge_au_chanoine_Van_der_Paele" title="https://fr.wikipedia.org/wiki/La_Vierge_auchanoine_Van_der_Paele" id="van-der-paele" class="yellow">“<ruby lang="fr">la&#160;Vierge&#160;au&#160;chanoine&#160;Van&#160;der&#160;Paele<rp>(</rp><rt lang="nl">Madonna&#160;met&#160;kanunnik&#160;Joris&#160;vn&#160;der&#160;Paele</rt><rp>)</rp></ruby>”</a>.</p>
+      <h4 class="yellow">l'influence de Van Eyck sur le dispositif architural</h4>
+      <section><article>
+        <p>Memling se laisse guider de manière incontestable par cette œuvre de <a href="https://fr.wikipedia.org/wiki/Jan_van_Eyk" title="https://fr.wikipedia.org/wiki/Jan_van_Eyck" id="jan-van-eyck" class="yellow">Jan VAN EYCK</a> peinte en <time datetime="1436">1436</time> qu'il connaît et va admirer dans la <a href="https://fr.wikipedia.org/wiki/Cathédrale_Saint-Donatien_de_Bruges" title="http://fr.wikipedia.org/wiki/Cathédrale_Saint-Donatien_de_Bruges" id="cathedrale-saint-donatien" class="yellow">cathédrale Saint-Donatien</a>: <a href="https://fr.wikipedia.org/wiki/La_Vierge_au_chanoine_Van_der_Paele" title="https://fr.wikipedia.org/wiki/La_Vierge_auchanoine_Van_der_Paele" id="van-der-paele" class="yellow">“<ruby lang="fr">la&#160;Vierge&#160;au&#160;chanoine&#160;Van&#160;der&#160;Paele<rp>(</rp><rt lang="nl">Madonna&#160;met&#160;kanunnik&#160;Joris&#160;vn&#160;der&#160;Paele</rt><rp>)</rp></ruby>”</a>.</p>
+      </article></section>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-280.webp 280w,
@@ -928,8 +932,10 @@
     </article></section>
 
     <section><article>
-      <h4 class="yellow">xxxx</h4>
-      <p>Comme dans de nombreuses autres de ses œuvres, Memling enlève à l'abside <span style="color: #e6a64d;">murs</span>, <span style="color: #e6a64d;">fenêtres</span> et rend <span style="color: #e6a64d;">continu le regard vers l'extérieur</span>.</p>
+      <h4 class="yellow">l'innovation de Memling sur le dispositif architural par rapport à Van Eyck</h4>
+      <section><article>
+        <p>Comme dans de nombreuses autres de ses œuvres, Memling enlève à l'abside <span style="color: #e6a64d;">murs</span>, <span style="color: #e6a64d;">fenêtres</span> et rend <span style="color: #e6a64d;">continu le regard vers l'extérieur</span>.</p>
+      </article></section>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-280.webp 280w,
@@ -949,70 +955,73 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1920.jpg 1920w"></picture><figcaption>vue d'ensemble du panneau central</figcaption>
       </figure>
-      <p>Six colonnes marbrées de rouge et de brun sont disposées en demi-cercle sur un carrelage et doublées à l'extérieur par un deuxième demi-cercle de pilastres fasciculés gris foncé.
-      Leurs bases sont reliées par la ligne du bord du dallage qui fait figurer au sol un polygone.</p>
-      <p>Les minces ouvertures verticales entre les colonnes donnent sur un <span style="color: #e6a64d;">paysage visuellement continu avec des ruines et des bâtiments</span>, ouvert sur le lointain, horizon et infini.</p>
+      <section><article>
+        <p>Six colonnes marbrées de rouge et de brun sont disposées en demi-cercle sur un carrelage et doublées à l'extérieur par un deuxième demi-cercle de pilastres fasciculés gris foncé.
+        Leurs bases sont reliées par la ligne du bord du dallage qui fait figurer au sol un polygone.</p>
+        <p>Les minces ouvertures verticales entre les colonnes donnent sur un <span style="color: #e6a64d;">paysage visuellement continu avec des ruines et des bâtiments</span>, ouvert sur le lointain, horizon et infini.</p>
+      </article></section>
     </article></section>
   </article></section>
 </article>
 
 <aside>
-  <h3 id="note">Note</h3>
-  <h4 id="note-devotion-moderne">la dévotion moderne</h4>
+  <h3 id="note">Notes</h3>
+  <section><article>
+    <h4 id="note-devotion-moderne">la dévotion moderne</h4>
+    <section><article>
+      <div class="notices yellow">
+      <p>Né un peu plus au nord dans les Pays-Bas actuels, dans la région d'Utrecht à la fin du XIV<sup style="color:#e6a64d;">ème</sup> et au début du XV<sup style="color:#e6a64d;">ème</sup> siècle, la dévotion moderne est initié par un homme, <a href="https://fr.wikipedia.org/wiki/Gérard_Groote" title="https://fr.wikipedia.org/wiki/Gérard_Groote" id="gerard-groote" class="yellow">Gérard Groote</a>, qui critique la piété de son temps, la juge trop austère et trop éloignée du monde
+      En réaction, il exhorte le croyant à laisser le christ habiter au plus profond de lui-même.
+      Cette présence du christ a vocation selon lui à produire de la simplicité.
+      Le croyant peut alors exercer une action conforme à la vertu à laquelle la foi l'appelle, de manière naturelle, là où il se trouve.</p>
+      </div>
+      <footer>
+        <ul>
+          <li>retour au texte <a href="#renvoi-devotion-moderne" title="renvoi mouvement «dévotion moderne»">...une présentation détaillée de ce mouvement se trouve en note ↑</a></li>
+        </ul>
+      </footer>
+    </article></section>
 
-  <article>
-    <div class="notices yellow">
-    <p>Né un peu plus au nord dans les Pays-Bas actuels, dans la région d'Utrecht à la fin du XIV<sup style="color:#e6a64d;">ème</sup> et au début du XV<sup style="color:#e6a64d;">ème</sup> siècle, la dévotion moderne est initié par un homme, <a href="https://fr.wikipedia.org/wiki/Gérard_Groote" title="https://fr.wikipedia.org/wiki/Gérard_Groote" id="gerard-groote" class="yellow">Gérard Groote</a>, qui critique la piété de son temps, la juge trop austère et trop éloignée du monde
-    En réaction, il exhorte le croyant à laisser le christ habiter au plus profond de lui-même.
-    Cette présence du christ a vocation selon lui à produire de la simplicité.
-    Le croyant peut alors exercer une action conforme à la vertu à laquelle la foi l'appelle, de manière naturelle, là où il se trouve.</p>
-    </div>
-    <footer>
-      <ul>
-        <li>retour au texte <a href="#renvoi-devotion-moderne" title="renvoi mouvement «dévotion moderne»">...une présentation détaillée de ce mouvement se trouve en note ↑</a></li>
-      </ul>
-    </footer>
-  </article>
+    <hr>
 
-  <hr>
+    <section><article>
+      <div class="footnotes">
+        <ol>
+          <li id="fn:4">
+            <p>Nous suivons les références données dans l'article «l'Imitation de Jésus-Christ» de Wikipedia (date de consultation: 21 août 2018), à savoir:</p>
+            <ul>
+              <li>Yann Sordet, Un succès de librairie européen: l'Imitatio Christi (1470-1850), Paris, Bibliothèque Mazarine; Editions des cendres, 2012, 195 p. (ISBN 979-10-90853-01-0), p. 11.</p></li>
+            </ul>
+            <p>D'après les spécialistes, son auteur est un moine: <a href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis" title="https://fr.wikipedia.org/wiki/Thomas_a_Kempis">Thomas A KEMPIS</a>.</p>
+          </li>
+        </ol>
+      </div>
+      <footer>
+        <ul>
+          <li><a href="#fnref1:4" rev="footnote" class="footnote-backref">retour au texte ↩</a></li>
+        </ul>
+      </footer>
+    </article></section>
 
-  <article>
-    <div class="footnotes">
-      <ol>
-        <li id="fn:4">
-          <p>Nous suivons les références données dans l'article «l'Imitation de Jésus-Christ» de Wikipedia (date de consultation: 21 août 2018), à savoir:</p>
-          <ul>
-            <li>Yann Sordet, Un succès de librairie européen: l'Imitatio Christi (1470-1850), Paris, Bibliothèque Mazarine; Editions des cendres, 2012, 195 p. (ISBN 979-10-90853-01-0), p. 11.</p></li>
-          </ul>
-          <p>D'après les spécialistes, son auteur est un moine: <a href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis" title="https://fr.wikipedia.org/wiki/Thomas_a_Kempis">Thomas A KEMPIS</a>.</p>
-        </li>
-      </ol>
-    </div>
-    <footer>
-      <ul>
-        <li><a href="#fnref1:4" rev="footnote" class="footnote-backref">retour au texte ↩</a></li>
-      </ul>
-    </footer>
-  </article>
+    <hr>
 
-  <hr>
-
-  <article>
-    <div class="footnotes">
-      <ol>
-        <li id="fn:5">
-          <p>source: <cite href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis#cite_ref-5">L'imitation de notre Seigneur Jésus Christ</cite>, trad. de F. de Lamennais, Éd. Arts et Métiers graphiques, Paris, 1946, p. 59-60, II, 4, 1-2 (partie II, chapitre 4, paragraphes 1 et 2).</p></li>
-          </ul>
-          <p>D'après les spécialistes, son auteur est un moine: <a href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis" title="https://fr.wikipedia.org/wiki/Thomas_a_Kempis">Thomas A KEMPIS</a>.</p>
-        </li>
-      </ol>
-    </div>
-    <footer>
-      <ul>
-        <li><a href="#fnref1:5" rev="footnote" class="footnote-backref">retour au texte ↩</a></li>
-      </ul>
-    </footer>
-  </article>
+    <section><article>
+      <div class="footnotes">
+        <ol>
+          <li id="fn:5">
+            <p>source: <cite href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis#cite_ref-5">L'imitation de notre Seigneur Jésus Christ</cite>, trad. de F. de Lamennais, Éd. Arts et Métiers graphiques, Paris, 1946, p. 59-60, II, 4, 1-2 (partie II, chapitre 4, paragraphes 1 et 2).</p></li>
+            </ul>
+            <p>D'après les spécialistes, son auteur est un moine: <a href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis" title="https://fr.wikipedia.org/wiki/Thomas_a_Kempis">Thomas A KEMPIS</a>.</p>
+          </li>
+        </ol>
+      </div>
+      <footer>
+        <ul>
+          <li><a href="#fnref1:5" rev="footnote" class="footnote-backref">retour au texte ↩</a></li>
+        </ul>
+      </footer>
+    </article></section>
+  </article></section>
 </aside>
 
 <!-- Page 5 --><hr>
@@ -1023,9 +1032,9 @@
     <h4 class="yellow">quantité de petites scènes</h4>
     <p>Le récit s'organise autour de quantité de <span style="color: #e6a64d;">petites scènes</span></p>
     <ul>
-      <li>contant <span style="color: #e6a64d;">les deux légendes,
+      <li>contant <span style="color: #e6a64d;">les deux légendes</span>,
         <ul>
-          <li></span> de Jean le Baptiste,</li>
+          <li>de Jean le Baptiste,</li>
           <li>et Jean l'Évangéliste,</li>
         </ul>
       </li>
@@ -1035,7 +1044,9 @@
 
   <section><article>
     <h4 class="yellow">le récit débute par les chapiteaux de colonnes</h4>
-    <p>Les deux légendes débute spatialement avec les <span style="color: #e6a64d;">scènes sculptées</span> situés au-dessus de chaque saint au niveau des <span style="color: #e6a64d;">chapiteaux de colonnes</span>.</p>
+    <section><article>
+      <p>Les deux légendes débute spatialement avec les <span style="color: #e6a64d;">scènes sculptées</span> situés au-dessus de chaque saint au niveau des <span style="color: #e6a64d;">chapiteaux de colonnes</span>.</p>
+    </article></section>
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-280.webp 280w,
@@ -1059,8 +1070,10 @@
 
   <section><article>
     <h4 class="yellow">le récit se poursuit de petites scènes dans le lointain</h4>
-    <p>Cette manière d'ordonner la composition qui se retrouve dans de nombreuses autres œuvres de Memling reprend les techniques de mise en page de l'enluminure <sup id="fnref1:6"><a href="#fn:6" class="footnote-ref">note 1</a></sup>: les différentes scènes sont étagées jusqu'à un horizon placé très haut.</p>
-    <p>De <span style="color: #e6a64d;">petites scènes</span> prennent place dans le lointain <span style="color: #e6a64d;">à l'intérieur des différents cadrages</span> opérés par les colonnes.</p>
+    <section><article>
+      <p>Cette manière d'ordonner la composition qui se retrouve dans de nombreuses autres œuvres de Memling reprend les techniques de mise en page de l'enluminure <sup id="fnref1:6"><a href="#fn:6" class="footnote-ref">note 1</a></sup>: les différentes scènes sont étagées jusqu'à un horizon placé très haut.</p>
+      <p>De <span style="color: #e6a64d;">petites scènes</span> prennent place dans le lointain <span style="color: #e6a64d;">à l'intérieur des différents cadrages</span> opérés par les colonnes.</p>
+    </article></section>
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-280.webp 280w,
@@ -1084,7 +1097,9 @@
 
   <section><article>
     <h4 class="yellow">le récit se conclut sur chacun des deux volets intérieurs</h4>
-    <p>Le récit des deux légendes se poursuit ensuite sur chacun des deux volets intérieurs.</p>
+    <section><article>
+      <p>Le récit des deux légendes se poursuit ensuite sur chacun des deux volets intérieurs.</p>
+    </article></section>
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-280.webp 280w,
@@ -1104,16 +1119,20 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1600.jpg 1600w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1920.jpg 1920w"></picture><figcaption>les 2 volets intérieurs: au premier plan à gauche, Jean le Baptiste décapité sur ordre d'Hérode, à droite, Jean l'Évangéliste à Patmos</figcaption>
     </figure>
-    <p>Sur chaque volet, un épisode forme <span style="color: #e6a64d;">une scène principale au premier plan</span>, complétée dans le récit par de <span style="color: #e6a64d;">petites scènes dans le lointain</span>.</p>
-    <ul>
-    <li>à gauche, <span style="color: #e6a64d;">Jean le Baptiste</span> vient d'être décapité sur ordre d'<span style="color: #e6a64d;">Hérode</span>,</li>
-    <li>à droite, <span style="color: #e6a64d;">Jean l'Évangéliste</span> reçoit « dévoilement » du texte de l'Apocalypse à <span style="color: #e6a64d;">Patmos</span>.</li>
-    </ul>
+    <section><article>
+      <p>Sur chaque volet, un épisode forme <span style="color: #e6a64d;">une scène principale au premier plan</span>, complétée dans le récit par de <span style="color: #e6a64d;">petites scènes dans le lointain</span>.</p>
+      <ul>
+        <li>à gauche, <span style="color: #e6a64d;">Jean le Baptiste</span> vient d'être décapité sur ordre d'<span style="color: #e6a64d;">Hérode</span>,</li>
+        <li>à droite, <span style="color: #e6a64d;">Jean l'Évangéliste</span> reçoit « dévoilement » du texte de l'Apocalypse à <span style="color: #e6a64d;">Patmos</span>.</li>
+      </ul>
+    </article></section>
   </article></section>
 
   <section><article>
     <h4 class="yellow">la place de la Grue, symbolise l'hôpital Saint-Jean</h4>
-    <p>La vue de la <ruby style="color:#e6a64d;" lang="fr">place&#160;de&#160;la&#160;Grue<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 1px;" lang="nl">Kraanplaats</rt><rp>)</rp></ruby> et de <span style="color: #e6a64d;">l'église Saint-Jean</span>, à l'arrière-plan à droite de la draperie d'honneur derrière la vierge, derrière Jean l'Évangéliste se rapporte directement aux <span style="color: #e6a64d;">religieux</span> dirigeant l'hôpital <span style="color: #e6a64d;">commanditaires de l'œuvre</span> et à <span style="color: #e6a64d;">l'histoire</span> de l'institution commanditaire.</p>
+    <section><article>
+      <p>La vue de la <ruby style="color:#e6a64d;" lang="fr">place&#160;de&#160;la&#160;Grue<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 1px;" lang="nl">Kraanplaats</rt><rp>)</rp></ruby> et de <span style="color: #e6a64d;">l'église Saint-Jean</span>, à l'arrière-plan à droite de la draperie d'honneur derrière la vierge, derrière Jean l'Évangéliste se rapporte directement aux <span style="color: #e6a64d;">religieux</span> dirigeant l'hôpital <span style="color: #e6a64d;">commanditaires de l'œuvre</span> et à <span style="color: #e6a64d;">l'histoire</span> de l'institution commanditaire.</p>
+    </article></section>
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-280.webp 280w,
@@ -1133,74 +1152,87 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1600.jpg 1600w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1920.jpg 1920w"></picture><figcaption>détail du panneau central, vue de la place de la Grue et l'église Saint-Jean</figcaption>
     </figure>
-    <p><span style="color: #e6a64d;">Deux frères de l'hôpital</span> sont ainsi représentés en train de <span style="color: #e6a64d;">mesurer le vin de bordeaux</span> importé arrivant à Bruges.</p>
-    <p>Cela nous rappelle que l'hôpital s'était vu confié vers <time datetime="1300">1300</time> par la ville une <span style="color: #e6a64d;">charge communale</span>, le <span style="color: #e6a64d;">«droit de jauger»</span> dont il tenait ses revenus.</p>
+    <section><article>
+      <p><span style="color: #e6a64d;">Deux frères de l'hôpital</span> sont ainsi représentés en train de <span style="color: #e6a64d;">mesurer le vin de bordeaux</span> importé arrivant à Bruges.</p>
+      <p>Cela nous rappelle que l'hôpital s'était vu confié vers <time datetime="1300">1300</time> par la ville une <span style="color: #e6a64d;">charge communale</span>, le <span style="color: #e6a64d;">«droit de jauger»</span> dont il tenait ses revenus.</p>
+    </article></section>
   </article></section>
 </article>
 
 <hr>
 
 <aside>
-  <div class="footnotes">
-    <article>
-      <ol>
-        <li id="fn:6">
-          <p>note:</p>
-          <p>«à l'époque où l'artiste s'établit à Bruges, la ville est l'un des principaux centres de production de livres enluminés des Pays-Bas bourguignons (...)</p>
-          <p>Memling comptait parmi ses relations brugeoises un miniaturiste: <a href="https://fr.wikipedia.org/wiki/Willem_Vrelant" title="https://fr.wikipedia.org/wiki/Willem_Vrelant">Willem Vrelant</a>.
-          À la tête de la plus prolifique officine de la ville, Vrelant était, comme Memling, un immigrant.
-          Originaire d'Utrecht, il est mentionné au sein de la guilde des libraires de Bruges de <time datetime="1454">1454</time> à sa mort en <time datetime="1481">1481</time>.
-          Habitant tous deux dans la Sint-Jorisstraat, Vrelant et Memling étaient presque des voisins. (...)</p>
-          <p>Si l'on se place du point de vue d'une représentation spatiale visuellement convaincante, le rapport entre les deux figures du premier plan et le reste du tableau (... une) incohérence régit le rapport entre la figure principale et le bois du plan intermédiaire (...)</p>
-          <p>On retrouve d'une œuvre à l'autre le même étagement cumulatif des différentes zones du paysage jusqu'à un horizon placé très haut (...) chez Vrelant»</p>
-          <footer>
-            <p>source: ouvrage de Philippe LORENTZ référencé en <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean#lorentz" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean#lorentz" id="renvoi-lorentz-2" class="yellow">bibliographie</a>.&#160;<a href="#fnref1:6" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
-          </footer>
-        </li>
-      </ol>
-    </article>
-  </div>
+  <article>
+    <div class="footnotes">
+    <ol>
+      <li id="fn:6">
+        <p>note:</p>
+        <p>«à l'époque où l'artiste s'établit à Bruges, la ville est l'un des principaux centres de production de livres enluminés des Pays-Bas bourguignons </p>
+        <p>(...)</p>
+        <p>Memling comptait parmi ses relations brugeoises un miniaturiste: <a href="https://fr.wikipedia.org/wiki/Willem_Vrelant" title="https://fr.wikipedia.org/wiki/Willem_Vrelant">Willem Vrelant</a>.
+        À la tête de la plus prolifique officine de la ville, Vrelant était, comme Memling, un immigrant.
+        Originaire d'Utrecht, il est mentionné au sein de la guilde des libraires de Bruges de <time datetime="1454">1454</time> à sa mort en <time datetime="1481">1481</time>.
+        Habitant tous deux dans la Sint-Jorisstraat, Vrelant et Memling étaient presque des voisins.</p>
+        <p>(...)</p>
+        <p>Si l'on se place du point de vue d'une représentation spatiale visuellement convaincante, le rapport entre les deux figures du premier plan et le reste du tableau (... une) incohérence régit le rapport entre la figure principale et le bois du plan intermédiaire.</p>
+        <p>(...)</p>
+        <p>On retrouve d'une œuvre à l'autre le même étagement cumulatif des différentes zones du paysage jusqu'à un horizon placé très haut (...) chez Vrelant»</p>
+      </li>
+    </ol>
+    </div>
+    <footer>
+      <p>source: ouvrage de Philippe LORENTZ référencé en <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean#lorentz" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean#lorentz" id="renvoi-lorentz-2" class="yellow">bibliographie</a>.</p>
+      <p>&#160;<a href="#fnref1:6" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+    </footer>
+  </article>
 </aside>
 
 <!-- Page 6 --><hr>
 
 <article>
+<h3 id="legendes" class="yellow">scènes des légendes de Jean le Baptiste et Jean l'Évangéliste selon <cite>La Légende Dorée</cite></h3>
+<section><article>
+  <h4 id="legende-de-jean-le-baptiste" class="yellow">scènes de <cite>la légende de Jean le Baptiste</cite> selon <cite>La Légende Dorée</cite></h4>
+  <figure>
+    <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-280.webp 280w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-380.webp 380w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-480.webp 480w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-640.webp 640w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-840.webp 840w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1280.webp 1280w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1600.webp 1600w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-640.jpg" title="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, les 2 volets intérieurs: à gauche, Jean le Baptiste décapité sur ordre d'Hérode, à droite, Jean l'Évangéliste à Patmos, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, les 2 volets intérieurs: à gauche, Jean le Baptiste décapité sur ordre d'Hérode, à droite, Jean l'Évangéliste à Patmos, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-280.jpg 280w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-380.jpg 380w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-480.jpg 480w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-640.jpg 640w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-840.jpg 840w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1280.jpg 1280w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1600.jpg 1600w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1920.jpg 1920w"></picture><figcaption>les 2 volets intérieurs: au premier plan à gauche, Jean le Baptiste décapité sur ordre d'Hérode, à droite, Jean l'Évangéliste à Patmos</figcaption>
+  </figure>
   <section><article>
-    <figure>
-      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-280.webp 280w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-380.webp 380w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-480.webp 480w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-640.webp 640w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-840.webp 840w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1280.webp 1280w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1600.webp 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-640.jpg" title="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, les 2 volets intérieurs: à gauche, Jean le Baptiste décapité sur ordre d'Hérode, à droite, Jean l'Évangéliste à Patmos, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, les 2 volets intérieurs: à gauche, Jean le Baptiste décapité sur ordre d'Hérode, à droite, Jean l'Évangéliste à Patmos, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-280.jpg 280w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-380.jpg 380w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-480.jpg 480w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-640.jpg 640w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-840.jpg 840w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1280.jpg 1280w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1920.jpg 1920w"></picture><figcaption>les 2 volets intérieurs: au premier plan à gauche, Jean le Baptiste décapité sur ordre d'Hérode, à droite, Jean l'Évangéliste à Patmos</figcaption>
-    </figure>
-    <h3 id="legendes" class="yellow">scènes des légendes de Jean le Baptiste et Jean l'Évangéliste selon <cite>La Légende Dorée</cite></h3>
-    <p>Nous suivons ici chacun des <span style="color: #e6a64d;">deux récits</span> sur lesquels Memling s'est sans doute fondé, suivant ce que rapporte <a href="https://fr.wikipedia.org/wiki/Jacques_de_Voragine" title="https://fr.wikipedia.org/wiki/Jacques_de_Voragine" id="jacques-de-voragine" class="yellow">Jacques de Voragine</a> dans <a href="https://fr.wikipedia.org/wiki/La_Légende_dorée" title="https://fr.wikipedia.org/wiki/La_égende_dorée" id="legende-doree" class="yellow"><cite>la Légende Dorée</cite></a>.</p>
-    <footer>
-      <p>Nous reproduisons ces textes plus loin afin qu'ils soient possible d'apprécier directement la très grande fidélité de Memling au récit de Jacques de Voragine:</p>
+    <section><article>
+      <p>Nous suivons ici chacun des <span style="color: #e6a64d;">deux récits</span> sur lesquels Memling s'est sans doute fondé, suivant ce que rapporte <a href="https://fr.wikipedia.org/wiki/Jacques_de_Voragine" title="https://fr.wikipedia.org/wiki/Jacques_de_Voragine" id="jacques-de-voragine" class="yellow">Jacques de Voragine</a> dans <a href="https://fr.wikipedia.org/wiki/La_Légende_dorée" title="https://fr.wikipedia.org/wiki/La_égende_dorée" id="legende-doree" class="yellow"><cite>la Légende Dorée</cite></a>.</p>
+    </article></section>
+
+    <section><article>
+      <p>>Comme, dans les scène qu'a peinte Memling, ces textes sont fidèlement représentés, nous invitons les personnes qui qui souhaiteraient ressentir plus profondément la relation du triptyque aux différents texte à les lire directement:</p>
       <ul>
-        <li><a href="https:/francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18" title="https://francois-vidit.com/docs/fr/saint-jean/page:18" class="yellow">texte original de la <cite href="https:/francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18">Légende de Jean le Baptiste</cite>, extrait <cite>La Légende Dorée</cite></a>,</li>
-        <li><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:19" title="https://francois-vidit.com/docs/fr/saintjean/page:19" class="yellow">texte original de la <cite href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:19">Légende de Jean l'Évangéliste</cite>, extrait <cite>La Légende Dorée</cite></a>.</li>
+        <li>lire le <a href="https:/francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18" title="https://francois-vidit.com/docs/fr/saint-jean/page:18" class="yellow">texte original de la <cite href="https:/francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18">Légende de Jean le Baptiste selon le chapître 9 de <cite>La Légende Dorée</cite></a>,</li>
+        <li>lire le <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:19" title="https://francois-vidit.com/docs/fr/saintjean/page:19" class="yellow">texte original de la <cite href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:19">Jean l'Évangéliste devant la Porte Latine selon le chapître 65 de <cite>La Légende Dorée</cite></a>.</li>
       </ul>
-    </footer>
+    </article></section>
   </article></section>
 
   <section><article>
     <h4 id="legende-de-jean-le-baptiste" class="yellow">scènes de <cite>la légende de Jean le Baptiste</cite> selon <cite>La Légende Dorée</cite></h4>
     <section><article>
-      <p>Nous commençons par Jean le Baptiste qui, au niveau de la chronologie, précède Jean l'Évangéliste.</p>
-      <p>En haut et à gauche de l'arrière-plan du panneau central et sur le volet intérieur gauche apparaissent des scènes de <span style="color: #e6a64d;">sa vie</span> et de <span style="color: #e6a64d;">son martyre</span>.</p>
+      <section><article>
+        <p>Nous commençons par Jean le Baptiste qui, au niveau de la chronologie, précède Jean l'Évangéliste.</p>
+        <p>En haut et à gauche de l'arrière-plan du panneau central et sur le volet intérieur gauche apparaissent des scènes de <span style="color: #e6a64d;">sa vie</span> et de <span style="color: #e6a64d;">son martyre</span>.</p>
+      </article></section>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-280.webp 280w,
@@ -1231,15 +1263,17 @@
     </article></section>
 
     <section><article>
+      <h5 class="yellow">Jean le Baptiste selon les textes de la foi chrétienne</h5>
       <section><article>
-        <h5 class="yellow">Jean le Baptiste selon les textes de la foi chrétienne</h5>
         <p>Sur le plan de la foi chrétienne, <span style="color: #e6a64d;">Jean</span> est, selon <cite>l'évangile de Luc</cite> <span style="color: #999;">(chap.1,5-25)</span>, <span style="color: #e6a64d;">le fils de</span> <a href="https://fr.wikipedia.org/wiki/Zacharie_(père_de_Jean_le_Baptiste)" title="https://fr.wikipedia.org/wiki/Zacharie_(père_de_Jean_le_Baptiste)" id="zaccharie" class="yellow">Zaccharie</a>, un vieux prêtre juif de la campagne galiléenne.</p>
         <p>Dieu annonce à Zacharie par <a href="https://fr.wikipedia.org/wiki/Gabriel_(archange)" title="https://fr.wikipedia.org/wiki/Gabriel_(archange)" id="archange-gabriel" class="yellow">l'archange Gabriel</a> la naissance de Jean, alors que Zaccharie a été choisi par hasard pour se rendre à Jérusalem et qu'il prie dans le temple.</p>
       </article></section>
 
       <section><article>
         <h6 class="yellow">Scène de l'apparition de Gabriel à Zaccharie sur le chapiteau de gauche</h6>
-        <p>C'est ce que Memling le représente sur le chapiteau de gauche.</p>
+        <section><article>
+          <p>C'est ce que Memling le représente sur le chapiteau de gauche.</p>
+        </article></section>
         <figure>
           <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-280.webp 280w,
@@ -1259,12 +1293,18 @@
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-1600.jpg 1600w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-1920.jpg 1920w"></picture><figcaption>détail du panneau central, chapiteau de colonne, “l'apparition de l'archange Gabriel à Zaccharie”. L'archange lui annonce la naissance prochaine d'un fils, il en perd la parole.</figcaption>
         </figure>
-        <p>Le texte indique que Zaccharie en perd la parole.</p>
+        <section><article>
+          <p>Le texte indique que Zaccharie en perd la parole.</p>
+        </article></section>
       </article></section>
 
       <section><article>
         <h6 class="yellow">Scène de la naissance de Jean sur le chapiteau de droite</h6>
-        <p>Sa naissance est représentée sur le chapiteau placé à droite.</p>
+
+        <section><article>
+          <p>Sa naissance est représentée sur le chapiteau placé à droite.</p>
+        </article></section>
+
         <figure>
           <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-280.webp 280w,
@@ -1288,20 +1328,25 @@
 
       <section><article>
         <h6 class="yellow">Choix du nom de Jean par Zaccharie</h6>
-        <p>Le nom de ce fils, «Jean», est lui aussi un des enjeux du récit <span style="color: #999;">(Luc 1,59-63)</span>:</p>
-        <blockquote>
-          <p>«Le huitième jour, ils vinrent pour la circoncision de l’enfant, et ils voulaient l’appeler Zaccharie, du nom de son père. Mais sa mère prit la parole, et dit:</p>
-          <p><span style="color: #e6a64d;"><q>Non, il s'appelera Jean</q></span>.</p>
-          <p>On lui dit:</p>
-          <p><span style="color: #e6a64d;"><q>Personne dans ta famille ne porte ce nom-là!</q></span></p>
-          <p><span style="color: #999;">(…)</span>.</p>
-          <p>Zacharie se fit donner une tablette sur laquelle il écrivit:</p>
-          <p><span style="color: #e6a64d;"><q>Jean est son nom</q></span>».</p>
-        </blockquote>
-        <p>Du point de vue de la foi, <span style="color: #e6a64d;">Jean le Baptiste vient</span> donc <span style="color: #e6a64d;">au monde selon de la volonté de dieu</span>.</p>
+
+        <section><article>
+          <p>Le nom de ce fils, «Jean», est lui aussi un des enjeux du récit <span style="color: #999;">(Luc 1,59-63)</span>:</p>
+          <blockquote>
+            <p>«Le huitième jour, ils vinrent pour la circoncision de l’enfant, et ils voulaient l’appeler Zaccharie, du nom de son père. Mais sa mère prit la parole, et dit:</p>
+            <p><span style="color: #e6a64d;"><q>Non, il s'appelera Jean</q></span>.</p>
+            <p>On lui dit:</p>
+            <p><span style="color: #e6a64d;"><q>Personne dans ta famille ne porte ce nom-là!</q></span></p>
+            <p><span style="color: #999;">(…)</span>.</p>
+            <p>Zacharie se fit donner une tablette sur laquelle il écrivit:</p>
+            <p><span style="color: #e6a64d;"><q>Jean est son nom</q></span>».</p>
+          </blockquote>
+          <p>Du point de vue de la foi, <span style="color: #e6a64d;">Jean le Baptiste vient</span> donc <span style="color: #e6a64d;">au monde selon de la volonté de dieu</span>.</p>
+        </article></section>
+      
       </article></section>
     </article></section>
   </article></section>
+</article></section>
 </article>
 
 <!-- Page 7 --><hr>
@@ -1309,8 +1354,12 @@
 <article>
   <section><article>
     <h6 class="yellow">Scène de l'ascèse de Jean dans le lointain du panneau central</h6>
-    <p>Il mène ensuite une vie exemplaire d'ascète <q>dans le désert</q> <span style="color: #999;">(Luc 1,80)</span>.
-    Memling transpose cette scène dans la forêt.</p>
+
+    <section><article>
+      <p>Il mène ensuite une vie exemplaire d'ascète <q>dans le désert</q> <span style="color: #999;">(Luc 1,80)</span>.</p>
+      <p>Memling transpose cette scène dans la forêt.</p>
+    </article></section>
+
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-280.webp 280w,
@@ -1334,7 +1383,11 @@
 
   <section><article>
     <h6 class="yellow">Scène de l'apostolat de Jean dans le lointain du panneau central</h6>
-    <p>On le voit également <q>proclamer un baptême de conversion pour le pardon des péchés</q> <span style="color: #999;">(Luc 3,03)</span>.</p>
+
+    <article><section>
+      <p>On le voit également <q>proclamer un baptême de conversion pour le pardon des péchés</q> <span style="color: #999;">(Luc 3,03)</span>.</p>
+    </article></section>
+
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-280.webp 280w,
@@ -1354,43 +1407,57 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1600.jpg 1600w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1920.jpg 1920w"></picture><figcaption>détail du panneau central, “Jean le Baptiste proclamant un baptême de conversion pour le pardon des péchés”</figcaption>
     </figure>
-    <p>Jean innove dans le judaïsme de son époque:</p>
-    <p>il préconise le pardon des péchés non plus par le sacrifice d'animaux au temple par crémation, mais par <span style="color: #e6a64d;"><q>baptême</q></span>, c'est-à-dire, selon l'étymologie de ce mot, <span style="color: #e6a64d;"><q>immersion</q></span> dans l'eau.</p>
+
+    <section><article>
+      <p>Jean innove dans le judaïsme de son époque:</p>
+      <p>il préconise le pardon des péchés non plus par le sacrifice d'animaux au temple par crémation, mais par <span style="color: #e6a64d;"><q>baptême</q></span>, c'est-à-dire, selon l'étymologie de ce mot, <span style="color: #e6a64d;"><q>immersion</q></span> dans l'eau.</p>
+    </article></section>
   </article></section>
 
   <section><article>
-    <h6 class="yellow">Scène du baptème de Jean dans le lointain du volet intérieur gauche</h6>
-    <p>Selon les écrits bibliques, il <span style="color: #e6a64d;">annonce la venue de l'envoyé de dieu</span> en la personne de <a href="https://fr.wikipedia.org/wiki/Jésus_de_Nazareth" title="https://fr.wikipedia.org/wiki/Jésus_de_Nazareth" class="yellow">Jésus de Nazareth</a>, un de ses contemporains.</p>
-    <p>Il la reconnaît par un baptème dans les eaux du <a href="https://fr.wikipedia.org/wiki/Joudain" title="https://fr.wikipedia.org/wiki/Jourdain" id="jourdain" class="yellow">Jourdain</a>: cette scène apparaît en haut du volet intérieur gauche.</p>
-    <figure><picure><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-280.webp 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-380.webp 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-480.webp 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-640.webp 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-840.webp 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1280.webp 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1600.webp 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/bapt%C3%A8me-640.jpg" title="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du volet intérieur gauche, “Jean le Baptiste baptisant Jésus sur les bords du Jourdain”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du volet intérieur gauche, “Jean le Baptiste baptisant Jésus sur les bords du Jourdain”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-280.jpg 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-380.jpg 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-480.jpg 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-640.jpg 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-840.jpg 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1280.jpg 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1600.jpg 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1920.jpg 1920w"></picture><figcaption>détail du volet intérieur gauche, “Jean le Baptiste baptisant Jésus sur les bords du Jourdain”</figcaption></figure>
-    <p>Sur l'autre rive, <span style="color: #e6a64d;">Jean le Baptiste</span> présente Jésus des mots <q><ruby style="color:#e6a64d;" lang="fr">Voici&#160;l'agneau&#160;de&#160;dieu<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce&#160;agnus&#160;dei</rt><rp>)</rp></ruby></q> à ses deux premiers disciples <a href="https://fr.wikipedia.org/wiki/André_(apôtre)" title="https://fr.wikipedia.org/wiki/André_(apôtre)" id="andre" class="yellow">André</a> et <a href="https://fr.wikipedia.org/wiki/Jean_(apôtre)" title="https://fr.wikipedia.org/wiki/Jean_(apôtre)" id="jean-l-apotre" class="yello">Jean l'Apôtre</a>; ceux-ci se joignent à lui.</p>
+    <h6 class="yellow">Scène de Jean le Baptiste baptisant Jésus sur les rives du Jourdain dans le lointain du volet intérieur gauche</h6>
+    
+    <section><article>
+      <p>Selon les écrits bibliques, il <span style="color: #e6a64d;">annonce la venue de l'envoyé de dieu</span> en la personne de <a href="https://fr.wikipedia.org/wiki/Jésus_de_Nazareth" title="https://fr.wikipedia.org/wiki/Jésus_de_Nazareth" class="yellow">Jésus de Nazareth</a>, un de ses contemporains.</p>
+      <p>Il la reconnaît par un baptème dans les eaux du <a href="https://fr.wikipedia.org/wiki/Joudain" title="https://fr.wikipedia.org/wiki/Jourdain" id="jourdain" class="yellow">Jourdain</a>: cette scène apparaît en haut du volet intérieur gauche.</p>
+    </article></section>
+
+    <figure>
+      <picure><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-280.webp 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-380.webp 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-480.webp 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-640.webp 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-840.webp 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1280.webp 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1600.webp 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/bapt%C3%A8me-640.jpg" title="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du volet intérieur gauche, “Jean le Baptiste baptisant Jésus sur les bords du Jourdain”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du volet intérieur gauche, “Jean le Baptiste baptisant Jésus sur les bords du Jourdain”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-280.jpg 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-380.jpg 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-480.jpg 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-640.jpg 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-840.jpg 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1280.jpg 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1600.jpg 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1920.jpg 1920w"></picture><figcaption>détail du volet intérieur gauche, “Jean le Baptiste baptisant Jésus sur les bords du Jourdain”</figcaption>
+    </figure>
+
+    <article><section>
+      <p>Sur l'autre rive, <span style="color: #e6a64d;">Jean le Baptiste</span> présente Jésus des mots <q><ruby style="color:#e6a64d;" lang="fr">Voici&#160;l'agneau&#160;de&#160;dieu<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce&#160;agnus&#160;dei</rt><rp>)</rp></ruby></q> à ses deux premiers disciples <a href="https://fr.wikipedia.org/wiki/André_(apôtre)" title="https://fr.wikipedia.org/wiki/André_(apôtre)" id="andre" class="yellow">André</a> et <a href="https://fr.wikipedia.org/wiki/Jean_(apôtre)" title="https://fr.wikipedia.org/wiki/Jean_(apôtre)" id="jean-l-apotre" class="yello">Jean l'Apôtre</a>; ceux-ci se joignent à lui.</p>
+    </article></section>
   </article></section>
 
   <article><section>
     <h6 class="yellow">Scène de l'arrestation de Jean dans le lointain du panneau central</h6>
-    <p>À partir de là, son histoire est tragique.</p>
-    <p>En effet, <a href="https://fr.wikipedia.org/wiki/Hérode_Antipas" title="https://fr.wikipedia.org/wiki/Hérode_Antipas" id="herode-antipas" class="yellow">Hérode Antipas</a>, le tétrarque, c'est-à-dire gouverneur militaire romain, de Galilée et de Pérée, se marie à “la femme de <a href="https://fr.wikipedia.org/wiki/Hérode_Boëthos" title="https://fr.wikipedia.org/wiki/Hérode_Boëthos" id="herde-boethos" class="yellow">son frère Philippe</a>”, <a href="https://fr.wikipedia.org/wiki/Hérodiade" title="https://fr.wikipedia.org/wiki/Hérodiade" id="herodiade">Hérodiade</a> <span style="color: #999;">(Marc chap.6,17)</span>;</p>
-    <p>comme la foi judaïque regarde tout mariage avec la femme de son frère comme une <span style="color: #e6a64d;"><q>souillure</q></span> et <span style="color: #e6a64d;">l'interdit</span> <span style="color: #999;">(Lévitique chap.18,16; chap.20,21)</span>, Jean, en tant que figure du mouvement religieux indépendantiste judaïque, prend position: il condamne Hérode publiquement.</p>
-    <p><span style="color: #e6a64d;">Hérode craint</span> que cela ne suscite <q><span style="color: #e6a64d;">une révolte</span>, la foule semblant prête à suivre en tout les conseils de cet homme</q>.</p>
-    <p>il aime donc mieux s'emparer de lui avant que quelque trouble se produise à cause de lui, que d'avoir à se repentir plus tard si un mouvement avait lieu</q> <span style="color: #999;">(<cite>Antiquités judaïques</cite>, livre XVIII, chap.5,118)</span> <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">note 1</a></sup>.</p>
-    <p>En cas de troubles causés par les partisans de Jean, Hérode devait répondre de la situation aux autorités romaines, qui pouvait le destituer:</p>
-    <p>il donne donc <span style="color: #e6a64d;"><q>l’ordre d’arrêter Jean</q></span> <span style="color: #999;">(Marc chap.6,17)</span>.</p>
+    <section><article>
+      <p>À partir de là, son histoire est tragique.</p>
+      <p>En effet, <a href="https://fr.wikipedia.org/wiki/Hérode_Antipas" title="https://fr.wikipedia.org/wiki/Hérode_Antipas" id="herode-antipas" class="yellow">Hérode Antipas</a>, le tétrarque, c'est-à-dire gouverneur militaire romain, de Galilée et de Pérée, se marie à “la femme de <a href="https://fr.wikipedia.org/wiki/Hérode_Boëthos" title="https://fr.wikipedia.org/wiki/Hérode_Boëthos" id="herde-boethos" class="yellow">son frère Philippe</a>”, <a href="https://fr.wikipedia.org/wiki/Hérodiade" title="https://fr.wikipedia.org/wiki/Hérodiade" id="herodiade">Hérodiade</a> <span style="color: #999;">(Marc chap.6,17)</span>;</p>
+      <p>comme la foi judaïque regarde tout mariage avec la femme de son frère comme une <span style="color: #e6a64d;"><q>souillure</q></span> et <span style="color: #e6a64d;">l'interdit</span> <span style="color: #999;">(Lévitique chap.18,16; chap.20,21)</span>, Jean, en tant que figure du mouvement religieux indépendantiste judaïque, prend position: il condamne Hérode publiquement.</p>
+      <p><span style="color: #e6a64d;">Hérode craint</span> que cela ne suscite <q><span style="color: #e6a64d;">une révolte</span>, la foule semblant prête à suivre en tout les conseils de cet homme</q>.</p>
+      <p>il aime donc mieux s'emparer de lui avant que quelque trouble se produise à cause de lui, que d'avoir à se repentir plus tard si un mouvement avait lieu</q> <span style="color: #999;">(<cite>Antiquités judaïques</cite>, livre XVIII, chap.5,118)</span> <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">note 1</a></sup>.</p>
+      <p>En cas de troubles causés par les partisans de Jean, Hérode devait répondre de la situation aux autorités romaines, qui pouvait le destituer:</p>
+      <p>il donne donc <span style="color: #e6a64d;"><q>l’ordre d’arrêter Jean</q></span> <span style="color: #999;">(Marc chap.6,17)</span>.</p>
+    </article></section>
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-280.webp 280w,
@@ -1410,26 +1477,28 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1600.jpg 1600w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1920.jpg 1920w"></picture><figcaption>détail du panneau central, “Arrestation de Jean le Baptiste par ordre d'Hérode Antipas”</figcaption>
     </figure>
-    <p>Sur le panneau central au-dessus de l'agneau blanc, <span style="color: #e6a64d;">Jean est emmené</span> de force en direction de la prison sur le volet de gauche de l'actuelle ville de <a href="https://fr.wikipedia.org/wiki/Macheronte" title="https://fr.wikipedia.org/wiki/Macheronte" id="macheronte" class="yellow"><ruby style="color:#e6a64d;" lang="fr">Machéronte<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">μάχαιρα</rt><rp>)</rp</ruby></a>, dont l'éthymologie en grec ancien signifie “épée” et qui se situe dans l'actuelle Jordanie.</p>
+    <section><article>
+      <p>Sur le panneau central au-dessus de l'agneau blanc, <span style="color: #e6a64d;">Jean est emmené</span> de force en direction de la prison sur le volet de gauche de l'actuelle ville de <a href="https://fr.wikipedia.org/wiki/Macheronte" title="https://fr.wikipedia.org/wiki/Macheronte" id="macheronte" class="yellow"><ruby style="color:#e6a64d;" lang="fr">Machéronte<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">μάχαιρα</rt><rp>)</rp</ruby></a>, dont l'éthymologie en grec ancien signifie “épée” et qui se situe dans l'actuelle Jordanie.</p>
+    </article></section>
   </article></section>
 </article>
 
 <hr>
 
 <aside>
-  <div class="footnotes">
-    <article>
-      <ol>
+  <article>
+    <div class="footnotes">
+    <ol>
       <li id="fn:2">
         <p>note:</p>
         <p>pour information, cette citation est au passé, je la transpose au présent.</p>
-        <footer>
-          <p><a href="#fnref1:2" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
-        </footer>
       </li>
-      </ol>
-    </article
-  </div>
+    </ol>
+    </div>
+    <footer>
+      <p><a href="#fnref1:2" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+    </footer>
+  </article>
 </aside>
 
 <!-- Page 8 --><hr>
@@ -1437,7 +1506,11 @@
 <article>
   <section><article>
     <h6 class="yellow">Vue d'ensemble du volet intérieur gauche</h6>
-    <p>L'action se poursuit sur le volet intérieur gauche.</p>
+
+    <section><article>
+      <p>L'action se poursuit sur le volet intérieur gauche.</p>
+    </article></section>
+
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-280.webp 280w,
@@ -1461,11 +1534,15 @@
 
   <section><article>
     <h6 class="yellow">Scène de la danse de Salomé représentée dans le palais d'Hérode, volet intérieur gauche</h6>
-    <p>Pour réussir à faire mourir Jean sans provoquer de mouvement de troubles de ses partisans, <span style="color: #e6a64d;">Hérode imagine une mise en scène</span>.</p>
-    <p><q>Le jour de son anniversaire</q>, il organise <q>un dîner pour ses dignitaires</q>, chefs de l’armée et notables de la Galilée.</p>
-    <p>La fille d’Hérodiade, <a href="https://fr.wikipedia.org/wiki/Salomé_(fille_d'Hérodiade)" title="https://fr.wikipedia.org/wiki/Salomé_(fille_d'Hérodiade)" id="salome" class="yellow">Salomé</a> fait <q>son entrée</q> et danse.</p>
-    <p>La <span style="color: #e6a64d;">“Danse de Salomé”</span> prend place dans une salle de la tour du palais d'Hérode en haut à gauche du volet gauche, dont Memling a éventré le mur afin de montrer la scène.</p>
-    <p>Au-dessus, des statues installées dans des niches représentent un homme nu entre deux femmes nues, figures païennes: elles qualifient la nature adultère du lieu et du comportement d’Hérode.</p>
+
+    <section><article>
+      <p>Pour réussir à faire mourir Jean sans provoquer de mouvement de troubles de ses partisans, <span style="color: #e6a64d;">Hérode imagine une mise en scène</span>.</p>
+      <p><q>Le jour de son anniversaire</q>, il organise <q>un dîner pour ses dignitaires</q>, chefs de l’armée et notables de la Galilée.</p>
+      <p>La fille d’Hérodiade, <a href="https://fr.wikipedia.org/wiki/Salomé_(fille_d'Hérodiade)" title="https://fr.wikipedia.org/wiki/Salomé_(fille_d'Hérodiade)" id="salome" class="yellow">Salomé</a> fait <q>son entrée</q> et danse.</p>
+      <p>La <span style="color: #e6a64d;">“Danse de Salomé”</span> prend place dans une salle de la tour du palais d'Hérode en haut à gauche du volet gauche, dont Memling a éventré le mur afin de montrer la scène.</p>
+      <p>Au-dessus, des statues installées dans des niches représentent un homme nu entre deux femmes nues, figures païennes: elles qualifient la nature adultère du lieu et du comportement d’Hérode.</p>
+    </article></section>
+
     <figure>
       <picture><source sizes="(max-width: 77px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-280.webp 280w,
@@ -1485,6 +1562,9 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-1600.jpg 1600w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-1920.jpg 1920w"></picture><figcaption>détail du volet intérieur gauche, la “Danse de Salomé”</figcaption>
     </figure>
+  </article></section>
+
+  <section><article>
     <p>La mise en scène se poursuit</p>
     <p>Hérode fait mine que sa danse lui a plu. <span style="color: #e6a64d;">Pour se dégager de la responsabilité de la mort de Jean</span>, dit:</p>
     <blockquote>
@@ -1500,8 +1580,9 @@
     </blockquote>
     <p>Aussitôt la jeune fille s’empresse <q>de retourner auprès du roi</q>, et lui fait cette demande incroyable:</p>
     <blockquote>
-      <p><span style="color: #e6a64d;"><q>Je veux que, tout de suite, tu me donnes sur un plat la tête de Jean le Baptiste</q></span>. <span style="color: #999;">(Marc, chap.6,24-29)</span></p>
+      <p><span style="color: #e6a64d;"><q>Je veux que, tout de suite, tu me donnes sur un plat la tête de Jean le Baptiste</q></span>.</p>
     </blockquote>
+    <p><span style="color: #999;">(Marc, chap.6,24-29)</span></p>
     <p>Ainsi, Hérode peut apparaître mettre à mort Jean contre son gré.</p>
     <p>La preuve que tout ce récit est bien une mise en scène destinée à permettre de mettre à mort Jean sans provoquer une révolte des partisans de Jean, c'est, comme l'explique Jacques de Voragine, que si Salomé demande à Hérode <span style="color: #e6a64d;">“la mort de son père <a href="https://fr.wikipedia.org/wiki/Hérode_Boëthos" title="https://fr.wikipedia.org/wiki/Hérode_Boëthos" id="herode-boethos-2" class="yellow">Philippe</a> ou de sa mère <a href="https://fr.wikipedia.org/wiki/Hérodiade" title="https://fr.wikipedia.org/wiki/Hérodiade" id="herodiade-2" class="yello">Hérodiade</a>”</span>, Hérode ne peut y consentir <span style="color: #999;">(Légende dorée chap.121,I. <sup id="fnref1:1"><a href="#fn:1" class="footnote-rf">note 1</a></sup>)</span>.</p>
     <p>La mise en scène a bien pour seul but de ne pas faire porter la responsabilité de la mise à mort de Jean à Hérode en le présentant faussement aux yeux de l'histoire comme accédant à cette demande contre sa volonté.</p>
@@ -1555,9 +1636,12 @@
 <article>
   <section><article>
     <h6 class="yellow">Détail de la décollation de Jean le Baptiste, volet intérieur gauche</h6>
-    <p>Memling a agrandit la scène au premier plan du volet gauche: nous nous trouvons dans <span style="color: #e6a64d;">la cour intérieure du palais d'Hérode</span>.</p>
-    <p>Le lieu d'exécution de la forteresse est relié au palais par <span style="color: #e6a64d;">un escalier</span> dans le fond.</p>
-    <p><span style="color: #e6a64d;">Le bourreau</span> est représenté de dos déposant <span style="color: #e6a64d;">la tête dans le plat</span> que lui présente une <a href="https://fr.wikipedia.org/wiki/Salomé_(fille_d'Hérodiade)" title="https://fr.wikipedia.org/wiki/Salomé_(fille_d'Hérodiade)" id="salome-3" class="yellow">Salomé</a> à peine émue.</p>
+
+    <section><article>
+      <p>Memling a agrandit la scène au premier plan du volet gauche: nous nous trouvons dans <span style="color: #e6a64d;">la cour intérieure du palais d'Hérode</span>.</p>
+      <p>Le lieu d'exécution de la forteresse est relié au palais par <span style="color: #e6a64d;">un escalier</span> dans le fond.</p>
+      <p><span style="color: #e6a64d;">Le bourreau</span> est représenté de dos déposant <span style="color: #e6a64d;">la tête dans le plat</span> que lui présente une <a href="https://fr.wikipedia.org/wiki/Salomé_(fille_d'Hérodiade)" title="https://fr.wikipedia.org/wiki/Salomé_(fille_d'Hérodiade)" id="salome-3" class="yellow">Salomé</a> à peine émue.</p>
+  </article></section>
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" rcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-280.webp 280w,
@@ -1567,7 +1651,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-840.webp 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-1280.webp 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-1600.webp 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-640.jpg" title="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du volet intérieur gauche, “la tête de Jean le Baptiste”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du volet intérieur gauche, “la tête de Jean le Baptiste”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-640.jpg" title="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du volet intérieur gauche, “la tête de Jean le Baptiste”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, ��Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du volet intérieur gauche, “la tête de Jean le Baptiste”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-280.jpg 280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-380.jpg 380w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-480.jpg 480w,
@@ -1577,13 +1661,20 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-1600.jpg 1600w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-1920.jpg 1920w"></picture><figcaption>détail du volet intérieur gauche, “la tête de Jean le Baptiste”</figcaption>
     </figure>
-    <p>À la gauche du bourreau représenté de dos, sont les deux disciples <a href="https://fr.wikipedia.org/wiki/André_(apôtre)" title="https://fr.wikipedia.org/wiki/André_(apôtre)" id="andre-2" class="yellow">André</a> et <a href="https://fr.wikipedia.org/wiki/Jean_(apôtre)" title="https://fr.wikipedia.org/wiki/Jean_(apôtre)" id="jean-l-apotre-2" class="yello">Jean l'Apôtre</a>.</p>
+
+    <article><section>
+      <p>À la gauche du bourreau représenté de dos, sont les deux disciples <a href="https://fr.wikipedia.org/wiki/André_(apôtre)" title="https://fr.wikipedia.org/wiki/André_(apôtre)" id="andre-2" class="yellow">André</a> et <a href="https://fr.wikipedia.org/wiki/Jean_(apôtre)" title="https://fr.wikipedia.org/wiki/Jean_(apôtre)" id="jean-l-apotre-2" class="yello">Jean l'Apôtre</a>.</p>
+    </article></section>
   </article></section>
 
   <article><section>
     <h6 class="yellow">Inspiration de Memling sur Van Der Weyden pour la scène de la décollation de Jean le Baptiste, volet intérieur gauche</h6>
-    <p>Les historiens de l'art ont identifié dans les positions du bourreau et de Salomé <spanstyle="color: #e6a64d;">une reprise par Memling d'une scène</span> de son maître, <a href="https://fr.wikipedia.org/wiki/Rogier_van_der_Weyden" title="https://fr.wikipedia.org/wiki/Rogier_van_der_Weyden" id="rogier-van-der-weyden" class="yellow">Rogier VAN DER WEYDEN</a>, alors qu'il était son assistant à Bruxelles.</p>
-    <p>Il s'agit du <span style="color: #e6a64d;"><cite>Tryptique de saint Jean</cite></span> peint vers <time datetime="1450">1450</time>-<time datetime="1455">55<time> qui se trouve aujourd'hui à la <a href="https://fr.wikipedia.org/wiki/Gemäldegalerie_(Berlin)" title="https://fr.wikipedia.org/wiki/Gemäldegalerie_(Berlin)" id="gemaldegalerie" class="yellow"><ruby lang="fr">Galerie&#160;de&#160;peintures<rp>(</rp><rt lang="de">Gemäldegalerie</rt><rp>)</rp></ruby></a> des <a href="https://fr.wikipedia.org/wikiMusées_d'État_de_Berlin" title="https://fr.wikipedia.org/wiki/Musées_d'État_de_Berlin" id="musees-d-etat-de-berlin" class="yellow"><ruby lang="fr">Musées&#160;d'état&#160;de&#160;Berlin<rp>(</rp><rt lang="de">Staatliche&#160;Museen&#160;zu&#160;Berlin</rt><rp>)</rp></ruby></a> <span style="color: #999;">(inv. n°534B)</span>, ci-dessous.</p>
+
+    <article><section>
+      <p>Les historiens de l'art ont identifié dans les positions du bourreau et de Salomé <spanstyle="color: #e6a64d;">une reprise par Memling d'une scène</span> de son maître, <a href="https://fr.wikipedia.org/wiki/Rogier_van_der_Weyden" title="https://fr.wikipedia.org/wiki/Rogier_van_der_Weyden" id="rogier-van-der-weyden" class="yellow">Rogier VAN DER WEYDEN</a>, alors qu'il était son assistant à Bruxelles.</p>
+      <p>Il s'agit du <span style="color: #e6a64d;"><cite>Tryptique de saint Jean</cite></span> peint vers <time datetime="1450">1450</time>-<time datetime="1455">55<time> qui se trouve aujourd'hui à la <a href="https://fr.wikipedia.org/wiki/Gemäldegalerie_(Berlin)" title="https://fr.wikipedia.org/wiki/Gemäldegalerie_(Berlin)" id="gemaldegalerie" class="yellow"><ruby lang="fr">Galerie&#160;de&#160;peintures<rp>(</rp><rt lang="de">Gemäldegalerie</rt><rp>)</rp></ruby></a> des <a href="https://fr.wikipedia.org/wikiMusées_d'État_de_Berlin" title="https://fr.wikipedia.org/wiki/Musées_d'État_de_Berlin" id="musees-d-etat-de-berlin" class="yellow"><ruby lang="fr">Musées&#160;d'état&#160;de&#160;Berlin<rp>(</rp><rt lang="de">Staatliche&#160;Museen&#160;zu&#160;Berlin</rt><rp>)</rp></ruby></a> <span style="color: #999;">(inv. n°534B)</span>, ci-dessous.</p>
+    </article></section>
+
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-280.webp 280w,
@@ -1607,10 +1698,13 @@
 
   <article><section>
     <h6 class="yellow">Scène du déterrement et de la crémation du corps de Jean le Baptiste dans le lointain, panneau central intérieur</h6>
-    <p>Le récit de Marc se poursuit: <span style="color: #e6a64d;"><q>Ayant appris cela, les disciples de Jean vinrent prendre son corps et le déposèrent dans un tombeau</q></span> <span style="color: #999;">(Marc,chap.6-29)</span>.</p>
-    <p>D'après la tradition, celui-ci aurait été emmené loin des territoires contrôlés par Hérode Antipas, en Cisjordanie à <ruby style="color:#e6a64d;" lang="fr">Sébastée<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="grc">Σεβαστή</rt><rp>)</rp></ruby>, l'actuel village de <a href="https://fr.wikipedia.org/wiki/Sebastia" title="https://fr.wikipedia.org/wiki/Sebastia" id="sebastia" class="yellow"><ruby lang="fr">Sebastia<rp>(</rp><rt lang="ar">سبسطية</rt><rp>)</rp></ruby></a> et enterré auprès des prophètes <a href="https://fr.wikipedia.org/wiki/Élisée"title="https://fr.wikipedia.org/wiki/Élisée" id="elisee" class="yellow">Élisée</a> et <a href="https://fr.wikipedia.org/wiki/Abdias" title="https://fr.wikipedia.org/wiki/Abdias" id="abdias" class="yellow">Abdias</a>.</p>
-    <p>Sur la gauche du panneau central, à droite, derrière Jean le Baptite, Memling a fait apparaître cette dernière scène de sa légende.</p>
-    <p>Comme ses miracles ne cessaient de se produire sur le lieu de sépulture de Jean, pour combattre la foi chrétienne naissante, <a href="https://fr.wikipedia.org/wiki/Julien_(empereur_romain)" title=" https://fr.wikipedia.org/wiki/Julien_(empereur_romain)" id="julien-l-apostat" class="yellow">l'empereur romain Julien l'Apostat</a> ordonne de déterrer le corps, de le brûler et disperser ses cendres à travers champs.</p>
+    <article><section>
+      <p>Le récit de Marc se poursuit: <span style="color: #e6a64d;"><q>Ayant appris cela, les disciples de Jean vinrent prendre son corps et le déposèrent dans un tombeau</q></span> <span style="color: #999;">(Marc,chap.6-29)</span>.</p>
+      <p>D'après la tradition, celui-ci aurait été emmené loin des territoires contrôlés par Hérode Antipas, en Cisjordanie à <ruby style="color:#e6a64d;" lang="fr">Sébastée<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="grc">Σεβαστή</rt><rp>)</rp></ruby>, l'actuel village de <a href="https://fr.wikipedia.org/wiki/Sebastia" title="https://fr.wikipedia.org/wiki/Sebastia" id="sebastia" class="yellow"><ruby lang="fr">Sebastia<rp>(</rp><rt lang="ar">سبسطية</rt><rp>)</rp></ruby></a> et enterré auprès des prophètes <a href="https://fr.wikipedia.org/wiki/Élisée"title="https://fr.wikipedia.org/wiki/Élisée" id="elisee" class="yellow">Élisée</a> et <a href="https://fr.wikipedia.org/wiki/Abdias" title="https://fr.wikipedia.org/wiki/Abdias" id="abdias" class="yellow">Abdias</a>.</p>
+      <p>Sur la gauche du panneau central, à droite, derrière Jean le Baptite, Memling a fait apparaître cette dernière scène de sa légende.</p>
+      <p>Comme ses miracles ne cessaient de se produire sur le lieu de sépulture de Jean, pour combattre la foi chrétienne naissante, <a href="https://fr.wikipedia.org/wiki/Julien_(empereur_romain)" title=" https://fr.wikipedia.org/wiki/Julien_(empereur_romain)" id="julien-l-apostat" class="yellow">l'empereur romain Julien l'Apostat</a> ordonne de déterrer le corps, de le brûler et disperser ses cendres à travers champs.</p>
+    </article></section>
+
     <figure>
       <picture><source sizes="(maxwidth: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-280.webp 280w,
@@ -1634,9 +1728,12 @@
 
   <article><section>
     <h6 class="yellow">Détail du mur dans lequel est caché la tête de Jean le Baptiste, panneau central intérieur</h6>
-    <p>Mais les choses ne se passent pas comme prévu.</p>
-    <p>Selon la légende, la tête aurait été ensevelie séparément par <span style="color: #e6a64d;">un potier de la ville d'Émesse</span>, l'actuelle <a href="https://fr.wikipedia.org/wiki/Homs" title="https://fr.wikipedia.org/wiki/Homs" id="homs" class="yellow"><ruby lang="fr">Homs<rp>(</rp><rt lang="ar">حمص</rt><rp>)</rp></ruby></a> en Syrie, puis serait apparue à <a href="https://fr.wikipedia.org/wiki/Marcel_d'pamée" title="https://fr.wikipedia.org/wiki/Marcel_d'Apamée" id="saint-marcel" class="yellow">saint Marcel</a> qui la découvre en suivant une étoile <span style="color: #999;">(Légende dorée chap.121,III.)</span>.</p>
-    <p>Sa tête apparaît donc plus bas dans <span style="color: #e6a64d;">l'ouverture du mur</span>, derrière <span style="color: #e6a64d;">une pierre</span>.</p>
+    <article><section>
+      <p>Mais les choses ne se passent pas comme prévu.</p>
+      <p>Selon la légende, la tête aurait été ensevelie séparément par <span style="color: #e6a64d;">un potier de la ville d'Émesse</span>, l'actuelle <a href="https://fr.wikipedia.org/wiki/Homs" title="https://fr.wikipedia.org/wiki/Homs" id="homs" class="yellow"><ruby lang="fr">Homs<rp>(</rp><rt lang="ar">حمص</rt><rp>)</rp></ruby></a> en Syrie, puis serait apparue à <a href="https://fr.wikipedia.org/wiki/Marcel_d'pamée" title="https://fr.wikipedia.org/wiki/Marcel_d'Apamée" id="saint-marcel" class="yellow">saint Marcel</a> qui la découvre en suivant une étoile <span style="color: #999;">(Légende dorée chap.121, III.)</span>.</p>
+      <p>Sa tête apparaît donc plus bas dans <span style="color: #e6a64d;">l'ouverture du mur</span>, derrière <span style="color: #e6a64d;">une pierre</span>.</p>
+    </article></section>
+
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-280.webp 280w,
@@ -1656,7 +1753,10 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-1600.jpg 1600w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-1920.jpg 1920w"></picture><figcaption>détail du panneau central, “la tête de Jean le Baptiste dans l'ouverture d'un mur”</figcaption>
     </figure>
-    <p>Ainsi se termine le récit de la légende de Jean le Baptiste selon <cite>La Légende Dorée</cite>.</p>
+    
+    <article><section>
+      <p>Ainsi se termine le récit de la légende de Jean le Baptiste selon <cite>La Légende Dorée</cite>.</p>
+    </article></section>
   </article></section>
 </article>
 

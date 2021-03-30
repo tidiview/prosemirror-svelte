@@ -815,21 +815,21 @@
     
     <section><article>
       <h4 class="yellow">顔立ちの類似性、表わされている年齢の多様性</h4>
-        <section><article>
-          <p>表わされている人物は<span style="color: #e6a64d;">同じ家族</span>に属しているようと、<span style="color: #e6a64d;">あらゆる年齢</span>であることに見えます：</p>
-          <ul>
-            <li>生まれたばかりの赤ちゃん、</li>
-            <li>小さな子供、</li>
-            <li>子供、</li>
-            <li>少年、</li>
-            <li>若い男の人、</li>
-            <li>女の人、</li>
-            <li>お母さま、</li>
-            <li>男の人、</li>
-            <li>年のある男と女の人。</li>
-          </ul>
-          <p>この顔立ちの<span style="color: #e6a64d;">類似性</span>と年齢の<span style="color: #e6a64d;">多様性</span>が場面全体を統一させています。</p>
-        </article></section>
+      <section><article>
+        <p>表わされている人物は<span style="color: #e6a64d;">同じ家族</span>に属しているようと、<span style="color: #e6a64d;">あらゆる年齢</span>であることに見えます：</p>
+        <ul>
+          <li>生まれたばかりの赤ちゃん、</li>
+          <li>小さな子供、</li>
+          <li>子供、</li>
+          <li>少年、</li>
+          <li>若い男の人、</li>
+          <li>女の人、</li>
+          <li>お母さま、</li>
+          <li>男の人、</li>
+          <li>年のある男と女の人。</li>
+        </ul>
+        <p>この顔立ちの<span style="color: #e6a64d;">類似性</span>と年齢の<span style="color: #e6a64d;">多様性</span>が場面全体を統一させています。</p>
+      </article></section>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-280.webp 280w,
@@ -919,6 +919,7 @@
 
     <section><article>
       <h4 class="yellow">新しき信心、十五世紀でのブルジュの驚異の水晶化</h4>
+      <section><article>
         <p>ついに、<span style="color: #e6a64d;">霊的単純さと明白さ</span>が驚異的に絶え間なく<span style="color: #e6a64d;">物質的な精巧さと豪奢さ</span>を<span style="color: #e6a64d;">作り出している</span>。</p>
         <p><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" id="renvoi-de-vos-2" class="yellow"><ruby lang="ja">ディルク<rp>(</rp><rt lang="nl">Dirk</rt><rp>)</rp>・<rp>(</rp><rt lang="nl">&#160;</rt><rp>)</rp>ド<rp>(</rp><rt lang="nl">DE</rt><rp>)</rp>・<rp>(</rp><rt lang="nl">&#160;</rt><rp>)</rp>ヴォス<rp>(</rp><rt lang="nl">VOS</rt><rp>)</rp></ruby lang="ja"></a>が言及すると：</p>
         <blockquote>
@@ -926,58 +927,270 @@
         </blockquote>
         <p>観賞者たちに対して、実際、単純さと明白さが制限を知らないで、神聖性へと導くのです。</p>
       </article></section>
+    </article></section>
 
+    <section><article>
+      <h4 class="yellow">建築的装置に、ファン・エイクの影響</h4>
       <section><article>
-        <h4 class="yellow">建築的装置に、ファン・エイクの影響</h4>
         <p>メムリンクが自分を導かさせているのは異論の余地のなく彼が聖ドナティウス大聖堂に行って魅了されたことが知られている、<time datetime="1436">１４３６年<time>に描かれた<a href="https://ja.wikipedia.org/wiki/ヤン・ファン・エイク" title="https://ja.wikipedia.org/wiki/ヤン・ファン・エイク" id="jan-van-eyck" class="yellow">ヤン・ファン・エイク</a>筆の<a href="https://ja.wikipedia.org/wiki/ファン・デル・パーレの聖母子" title="https://ja.wikipedia.org/wiki/ファン・デル・パーレの聖母子" id="van-der-paele" class="yellow">「<ruby lang="ja">ファン・デル・パーレの聖母子<rp>(</rp><rt lang="nl">Madonna&#160;met&#160;kanunnik&#160;Joris&#160;van&#160;der&#160;Paele</rt><rp>)</rp></ruby lang="ja">」</a>です。</p>
-        <figure>
-          <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-280.webp 280w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-380.webp 380w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-480.webp 480w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-640.webp 640w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-840.webp 840w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1280.webp 1280w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1600.webp 1600w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-640.jpg" title="ヤン・ファン・エイク、《ファン・デル・パーレの聖母子》、グルーニング美術館、ブルージュ（ブルッヘ）" alt="ヤン・ファン・エイク、《ファン・デル・パーレの聖母子》、グルーニング美術館、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-280.jpg 280w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-380.jpg 380w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-480.jpg 480w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-640.jpg 640w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-840.jpg 840w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1280.jpg 1280w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1600.jpg 1600w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1920.jpg 1920w"></picture><figcaption>ヤン・ファン・エイク、<ruby lang="ja">ファン・デル・パーレの聖母子<rp>(</rp><rt lang="nl" style="color:#999;font-size: 70%;letter-spacing: 2px;">Madonna met kanunnik Joris van der Paele</rt><rp>)</rp></ruby>、グルーニング美術館、ブルージュ</figcaption>
-        </figure>
       </article></section>
+      <figure>
+        <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-280.webp 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-380.webp 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-480.webp 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-640.webp 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-840.webp 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1280.webp 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1600.webp 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-640.jpg" title="ヤン・ファン・エイク、《ファン・デル・パーレの聖母子》、グルーニング美術館、ブルージュ（ブルッヘ）" alt="ヤン・ファン・エイク、《ファン・デル・パーレの聖母子》、グルーニング美術館、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-280.jpg 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-380.jpg 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-480.jpg 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-640.jpg 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-840.jpg 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1280.jpg 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1600.jpg 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1920.jpg 1920w"></picture><figcaption>ヤン・ファン・エイク、<ruby lang="ja">ファン・デル・パーレの聖母子<rp>(</rp><rt lang="nl" style="color:#999;font-size: 70%;letter-spacing: 2px;">Madonna met kanunnik Joris van der Paele</rt><rp>)</rp></ruby>、グルーニング美術館、ブルージュ</figcaption>
+      </figure>
+    </article></section>
 
+    <section><article>
+      <h4 class="yellow">ファン・エイクに比べて建築的装置に対してのメムリンクの革新</h4>
       <section><article>
-        <h4 class="yellow">ファン・エイクに対して建築的装置のメムリンクの革新</h4>
         <p>他の数の多くの作品と同じように、メムリンクが背景から<span style="color: #e6a64d;">壁</span>、<span style="color: #e6a64d;">窓</span>を取り除いて<span style="color: #e6a64d;">外への視覚を連続的に</span>させている。</p>
-        <figure>
-          <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-280.webp 280w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-380.webp 380w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-480.webp 480w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-640.webp 640w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-840.webp 840w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1280.webp 1280w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1600.webp 1600w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの描写、聖母の戴冠式、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの描写、聖母の戴冠式、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-280.jpg 280w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-380.jpg 380w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-480.jpg 480w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-640.jpg 640w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-840.jpg 840w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1280.jpg 1280w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1600.jpg 1600w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1920.jpg 1920w"></picture><figcaption>三連画の中央パネルの描写</figcaption>
-        </figure>
+      </article></section>
+      <figure>
+        <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-280.webp 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-380.webp 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-480.webp 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-640.webp 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-840.webp 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1280.webp 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1600.webp 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの描写、聖母の戴冠式、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの描写、聖母の戴冠式、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-280.jpg 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-380.jpg 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-480.jpg 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-640.jpg 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-840.jpg 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1280.jpg 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1600.jpg 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1920.jpg 1920w"></picture><figcaption>三連画の中央パネルの描写</figcaption>
+      </figure>
+      <section><article>
         <p>赤と茶色を混ぜた六本の円柱がタイル上の半円に配置され、その外側でニつ目の暗いグレー色の付け柱がニ重の半円形に並んでいる。
         その底面が地面に多角形を示す舗装の境界線で結ばれている。</p>
         <p>円柱の間の縦々の隙間は、<span style="color: #e6a64d;">視覚的に連続的な跡蹟と建物のある</span>、無限な、地平線ともなっている遠景に開放である景色と繋がっている。</p>
-        </div>
       </article></section>
+    </article></section>
+  </article></section>
+</article>
+
+<hr>
+
+<aside>
+  <h3 class="yellow">註釈</h3>
+  <section><article>
+    <h4 id="note-devotion-moderne" class="yellow">新しき信心</h4>
+    <section><article>
+      <div class="notices yellow">
+        <ol>
+          <li><p>現在のネーデルラントの北部で誕生して、１４世紀初頭から１５世紀初頭にかけてユトレヒト周辺で新しき信心は、<a href="https://fr.wikipedia.org/wiki/Gérard_Groote" title="https://fr.wikipedia.org/wiki/Gérard_Groote" id="gerard-groote" class="yellow"><ruby lang="ja">ヘルート<rp>(</rp><rt lang="nl">Geert</rt><rp>)</rp>・<rp>(</rp><rt lang="nl">&#160;</rt><rp>)</rp>フローテ<rp>(</rp><rt lang="nl">Groote</rt><rp>)</rp></ruby lang="ja"></a>という男性により始められました。</p>
+          <p>彼は当時の敬虔信仰を厳し過ぎると現世から遠くなると批判します。
+          それに対して、彼は、信者にキリストを自分の心の一奥底に居るようにと導きます。
+          彼によると、このキリストの存在は単純さを生み出すことと使命している。
+          従って信者は純粋に、信仰が自分の心の中で奨励する美徳に値する行動を為すことができる。</p></li>
+        </ol>
+      </div>
+      <footer>
+        <ul>
+          <li>&#160;<a href="#renvoi-devotion-moderne" title="「新しき信心」運動の送り返し">「歴史的細かい紹介を註釈に見付かることが出来ますに」文書へ戻る　&#8617;</a>」</li>
+        </ul>
+      </footer>
+
+      <section><article>
+        <div class="footnotes">
+          <ol start="2">
+            <li id="fn:1">
+              <p>イタリア語では「Sacra&#160;conversazione」。</p>
+            </li>
+          </ol>
+        </div>
+        <footer>
+          <ul>
+            <li>&#160;<a href="#fnref1:1" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></li>
+          </ul>
+        </footer>
+      </article></section>
+
+      <section><article>
+        <div class="footnotes">
+          <ol start="3">
+            <li id="fn:2">
+              <p>ラテン語では「Devotio&#160;moderna」。</p>
+            </li>
+          </ol>
+        </div>
+        <footer>
+          <ul>
+            <li>&#160;<a href="#fnref1:2" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></li>
+          </ul>
+        </footer>
+      </article></section>
+
+      <section><article>
+        <div class="footnotes">
+          <ol start="4">
+            <li id="fn:4">
+              <p>ラテン語では「Imitatio&#160;Christi」。『キリストに<ruby>倣<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>いて』は、修道士であった<a href="https://ja.wikipedia.org/wiki/トマス・ア・ケンピス" title="https://ja.wikipedia.org/wiki/トマス・ア・ケンピス">トマス・ア・ケンピス</a>によって書かれた本であって、<time datetime="1418">１４１８年<time>ごろにラテン語で出版された。</p>
+              <p>「第ニの福音書」「中世の最高の信心書」とも言われ、聖書に次いでカトリックのキリスト教徒の霊的修練の書として識字階級に広く読まれ、親しまれている。 日本でも１６世紀後半にキリシタン版の『<ruby>世のはかなさ<rp>(</rp><rt>コンテムツス・ムンヂ</rt><rp>)</rp></ruby>』として翻訳され、刊行された以来、「キリストのまねび」「イミタティオ-クリスティ」など多種の訳がある。</p>
+            </li>
+          </ol>
+        </div>
+      <footer>
+        <ul>
+          <li>&#160;<a href="#fnref1:4" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></li>
+        </ul>
+      </footer>
+    </article></section>
+  </article></section>
+</aside>
+
+<!-- Page 5 -->
+
+<article>
+  <h3 id="organisation-du-recit" class="yellow">語りの仕組み</h3>
+  <section><article>
+    <h4 class="yellow">いくつかの小さな場面</h4>
+    <section><article>
+      <p>語りがいくつかの<span style="color: #e6a64d;">小さな場面</span>を中心に仕組みられている。</p>
+      <ul>
+        <li><span style="color: #e6a64d;">ニつの伝説</span>：
+          <ul>
+            <li>洗礼者ヨハネのと</li>
+            <li>福音書記者ヨハネの、</li>
+          </ul></li>
+        <li>聖ヨハネ施療院、いわゆる三連画を依頼する施設に属するブルージュの<span style="color: #e6a64d;">クレーン広場</span>を表している場面のとです。</li>
+      </ul>
+    </article></section>
+  </article></section>
+
+  <section><article>
+    <h4 class="yellow">語りは円柱の柱頭から始まる</h4>
+    <section><article>
+      <p>ニつの伝説が空間的に<span style="color: #e6a64d;">円柱の柱頭</span>ぐらいにある各聖人に上に位置づけられている<span style="color: #e6a64d;">いくつかの刻まれた場面</span>で始まる。</p>
+    </article></section>
+    <figure>
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-280.webp 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-380.webp 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-480.webp 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-640.webp 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-840.webp 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-1280.webp 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-1600.webp 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《左から右へ、四つの柱頭》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《左から右へ、四つの柱頭》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-280.jpg 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-380.jpg 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-480.jpg 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-640.jpg 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-840.jpg 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-1280.jpg 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-1600.jpg 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、左から右へ：四つの柱頭</figcaption>
+    </figure>
+  </article></section>
+
+  <section><article>
+    <h4 class="yellow">語りはいくつかの小さな場面で遠景へと続く</h4>
+    <section><article>
+      <p>数多くの他のメムリンクの作品に見出されるこの構成の組み方が写本の細密画のレイアウト技術を継承している <sup id="fnref1:6"><a href="#fn:6" class="footnote-ref">ノート１</a></sup> 。いくつかの場面がとても高く位置づけられている地平線まで段状に積み重ねるように配置されている。</p>
+      <p>それぞれの<span style="color: #e6a64d;">小さな場面</span>が遠景でそれぞれの円柱によって<span style="color: #e6a64d;">いくつかのフレーミングの枠内に</span>位置付けられている。</p>
+    </article></section>
+    <figure>
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-280.webp 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-380.webp 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-480.webp 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-640.webp 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-840.webp 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-1280.webp 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-1600.webp 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《遠景への開口部》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《遠景への開口部》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-280.jpg 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-380.jpg 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-480.jpg 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-640.jpg 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-840.jpg 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-1280.jpg 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-1600.jpg 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、遠景への開口部<br>左に、洗礼者ヨハネの、右に、福音書記者ヨハネの伝説の諸場面</figcaption>
+    </figure>
+  </article></section>
+
+  <section><article>
+    <h4 class="yellow">語りが各々のニ枚の翼パネルの内面で締結される</h4>
+    <section><article>
+      <p>ニ伝説の語りがそこから各々のニ枚の翼パネルの内面にと続きます。</p>
+    </article></section>
+    <figure>
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-280.webp 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-380.webp 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-480.webp 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-640.webp 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-840.webp 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1280.webp 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1600.webp 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、ニ枚の翼パネルの内面の景観、《左に、前景の左にヘロデ王の命令で斬首された洗礼者ヨハネ、右に、パトモス島での福音書記者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、ニ枚の翼パネルの内面の景観、《左に、前景の左にヘロデ王の命令で斬首された洗礼者ヨハネ、右に、パトモス島での福音書記者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-280.jpg 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-380.jpg 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-480.jpg 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-640.jpg 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-840.jpg 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1280.jpg 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1600.jpg 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1920.jpg 1920w"></picture><figcaption>ニ枚の翼パネルの内面の景観：左に、前景の左にヘロデ王の命令で斬首された洗礼者ヨハネ、右に、パトモス島での福音書記者ヨハネ</figcaption>
+    </figure>
+    <section><article>
+      <p>各の翼パネルに、ある一話しが<span style="color: #e6a64d;">前景に主な場面</span>が語りで遠景にいくつかの<span style="color: #e6a64d;">小さな場面</span>に補われていることで形づくられている。</p>
+      <ul>
+        <li>左に、<span style="color: #e6a64d;">ヘロデ王</span>の命令で<span style="color: #e6a64d;">洗礼者ヨハネ</span>が斬首される、</li>
+        <li>右に、, <span style="color: #e6a64d;">福音書記者ヨハネ</span><span style="color: #e6a64d;">パトモス島</span>で黙示録の文書の「ベールの取り除き」を受けている。</li>
+      </ul>
+    </article></section>
+  </article></section>
+
+  <section><article>
+    <h4 class="yellow">クレーン広場は聖ヨハネ施療院を像徴している</h4>
+    <section><article>
+      <p>聖母の後ろの上級繊維の右に後景で、福音書記者ヨハネの後ろでの<ruby lang="ja" style="color:#e6a64d;">クレーン広場<rp>(</rp><rt lang="nl" style="color:#e6a64d;font-size: 70%;letter-spacing: 1px;">Kraanplaats</rt><rp>)</rp></ruby>と<span style="color: #e6a64d;">聖ヨハネ教会</span>の景観は、直接と<span style="color: #e6a64d;">作品を依頼した</span>病院を経営する<span style="color: #e6a64d;">宗教士たち</span>と施設の<span style="color: #e6a64d;">歴史</span>に関係している。</p>
+    </article></section>
+    <figure>
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-280.webp 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-380.webp 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-480.webp 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-640.webp 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-840.webp 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1280.webp 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1600.webp 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《クレーン広場と聖ヨハネ教会の景観》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《クレーン広場と聖ヨハネ教会の景観》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-280.jpg 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-380.jpg 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-480.jpg 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-640.jpg 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-840.jpg 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1280.jpg 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1600.jpg 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、クレーン広場と聖ヨハネ教会の景観</figcaption>
+    </figure>
+    <section><article>
+      <p><span style="color: #e6a64d;">病院のニ人の兄弟たち</span>がこうしてブルージュに着く諭入された<span style="color: #e6a64d;">ボルドーワインを測定する</span>ことで表わされている。</p>
+      <p>私たちに<time datetime="1300">１３００</time>年ごろに病院が市に<span style="color: #e6a64d;">市の特権</span>、自分の収入の源でもあった<span style="color: #e6a64d;">「計量する権」</span>を任せられて来たことを思い出させてくれている。</p>
+    </article></section>
   </article></section>
 </article>
 
@@ -985,160 +1198,39 @@
 
 <aside>
   <article>
-    <h3 class="yellow">註釈</h3>
-    <h4 id="note-devotion-moderne" class="yellow">新しき信心</h4>
-    <div class="notices yellow">
-      <p>現在のネーデルラントの北部で誕生して、１４世紀初頭から１５世紀初頭にかけてユトレヒト周辺で新しき信心は、<a href="https://fr.wikipedia.org/wiki/Gérard_Groote" title="https://fr.wikipedia.org/wiki/Gérard_Groote" id="gerard-groote" class="yellow"><ruby lang="ja">ヘルート<rp>(</rp><rt lang="nl">Geert</rt><rp>)</rp>・<rp>(</rp><rt lang="nl">&#160;</rt><rp>)</rp>フローテ<rp>(</rp><rt lang="nl">Groote</rt><rp>)</rp></ruby lang="ja"></a>という男性により始められました。</p>
-      <p>彼は当時の敬虔信仰を厳し過ぎると現世から遠くなると批判します。
-      それに対して、彼は、信者にキリストを自分の心の一奥底に居るようにと導きます。
-      彼によると、このキリストの存在は単純さを生み出すことと使命している。
-      従って信者は純粋に、信仰が自分の心の中で奨励する美徳に値する行動を為すことができる。</p>
-      <hr>
-      <ul>
-        <li><a href="#renvoi-devotion-moderne" title="「新しき信心」運動の送り返し">「歴史的細かい紹介を註釈に見付かることが出来ますに」 ↑ 戻る ↑</a>」</li>
-      </ul>
-    </div>
-
+    <header>
+      <p>注釈：</p>
+    </header>
     <div class="footnotes">
-
-    <hr>
-
     <ol>
-      <li id="fn:1">
-        <p>イタリア語では「Sacra&#160;conversazione」。&#160;<a href="#fnref1:1" rev="footnote" class="footnote-backref">&#8617;</a></p>
-      </li>
-
-      <li id="fn:2">
-        <p>ラテン語では「Devotio&#160;moderna」。&#160;<a href="#fnref1:2" rev="footnote" class="footnote-backref">&#8617;</a></p>
-      </li>
-
-      <li id="fn:4">
-        <p>ラテン語では「Imitatio&#160;Christi」。『キリストに<ruby>倣<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>いて』は、修道士であった<a href="https://ja.wikipedia.org/wiki/トマス・ア・ケンピス" title="https://ja.wikipedia.org/wiki/トマス・ア・ケンピス">トマス・ア・ケンピス</a>によって書かれた本であって、<time datetime="1418">１４１８年<time>ごろにラテン語で出版された。</p>
-        <p>「第ニの福音書」「中世の最高の信心書」とも言われ、聖書に次いでカトリックのキリスト教徒の霊的修練の書として識字階級に広く読まれ、親しまれている。 日本でも１６世紀後半にキリシタン版の『<ruby>世のはかなさ<rp>(</rp><rt>コンテムツス・ムンヂ</rt><rp>)</rp></ruby>』として翻訳され、刊行された以来、「キリストのまねび」「イミタティオ-クリスティ」など多種の訳がある。&#160;<a href="#fnref1:4" rev="footnote" class="footnote-backref">&#8617;</a></p>
+      <li id="fn:6">
+      <p>「その芸術家がブルージュに定住した当時、この街は、ブルゴーニュ公爵領ネーデルラントの主な装飾写本制作拠点の一つであった。</p>
+      <p> (...)</p>
+      <p>メムリンクは、自分のブルージュでの顔見知り関係の中で細密画かを数えていた。名前は<ruby lang="ja">ウィレム<rp>(</rp><rt lang="de">Willem</rt><rp>)</rp>・<rp>(</rp><rt lang="de">&#160;</rt><rp>)</rp>ヴレラント<rp>(</rp><rt lang="de">Vrelant</rt><rp>)</rp></ruby lang="ja">。
+      この町で最も出産豊かな工房の頭として、ヴレラントはメムリンクと同様に、移民であった。
+      ユトレヒト市出身の彼は<time datetime="1454">１４５４年<time>からブルージュ書物製作<ruby>組合<rp>(</rp><rt>ギルド</rt><rp>)</rp></ruby>の会員として、<time datetime="1481">１４８１年<time>の亡くなるまでに登録されている。
+      ニ人とも<ruby lang="ja">シント<rp>(</rp><rt lang="nl">Sint</rt><rp>)</rp>＝<rp>(</rp><rt lang="nl">-</rt><rp>)</rp>ジョリスストラット<rp>(</rp><rt lang="nl">Jorisstraat</rt><rp>)</rp></ruby lang="ja">に住んでいたので、ヴレラントとメムリンクがほとんど隣人でした。</p>
+      <p> (...)</p>
+      <p>視覚的に説得力のある空間的表現の観点から考えれば、前景のニつの図形と絵画の残りの図との関係は、中間空間の林と主な図形と関係に脈絡が取れていません。</p>
+      <p> (...)</p>
+      <p>ある作品から別の作品へでも、各作品には、ヴレラントと同様に、位置の高い地平線にまでいくつかの景色が重なるのを見当たることがあります」。</p>
       </li>
     </ol>
     </div>
-    </div>
+    <footer>
+      <p><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean#lorentz" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean#lorentz" id="renvoi-lorentz-2" class="yellow">この記事に関連書籍</a>に出典されている<ruby lang="ja">フィリップ<rp>(</rp><rt lang="de">Philippe</rt><rp>)</rp>・<rp>(</rp><rt lang="de">&#160;</rt><rp>)</rp>ローレンッツ<rp>(</rp><rt lang="de">LORENTZ</rt><rp>)</rp></ruby lang="ja">の著作からの引用。</p>
+      <p>&#160;<a href="#fnref1:6" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p></p>
+    </footer>
   </article>
 </aside>
 
-<!-- Page 5 -->
+<!-- Page 6 --><hr>
 
 <article>
-<h3 id="organisation-du-recit" class="yellow">語りの仕組み</h3>
-<p>語りが洗礼者ヨハネと福音書記者ヨハネの<span style="color: #e6a64d;">ニつの伝説</span>と聖ヨハネ施療院に属するブルージュの<span style="color: #e6a64d;">クレーン広場</span>を表しているいくつかの<span style="color: #e6a64d;">小さな場面</span>を中心に仕組みられている。</p>
-<p>ニつの伝説が空間的に<span style="color: #e6a64d;">円柱の柱頭</span>ぐらいにある各聖人に上に位置づけられている<span style="color: #e6a64d;">いくつかの刻まれた場面</span>で始まっている。</p>
-<figure>
-  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-280.webp 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-380.webp 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-480.webp 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-840.webp 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-1280.webp 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《左から右へ、４つの柱頭》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《左から右へ、４つの柱頭》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-280.jpg 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-380.jpg 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-480.jpg 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-840.jpg 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-1280.jpg 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、左から右へ：４つの柱頭</figcaption>
-</figure>
-<p>数多くの他のメムリンクの作品に見出されるこの構成の組み方が彩画付き写本の細密画のレイアウト技術を継承する <sup id="fnref1:6"><a href="#fn:6" class="footnote-ref">1</a></sup> 。いくつかの場面がとても高く位置づけられている地平線まで段状に積み重ねるように配置されている。</p>
-<p>それぞれの<span style="color: #e6a64d;">小さな場面</span>が遠景でそれぞれの円柱によって<span style="color: #e6a64d;">いくつかのフレーミングの枠内に</span>位置付けられている。</p>
-<figure>
-  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-280.webp 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-380.webp 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-480.webp 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-840.webp 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-1280.webp 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《遠景への開口部》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《遠景への開口部》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-280.jpg 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-380.jpg 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-480.jpg 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-840.jpg 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-1280.jpg 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、遠景への開口部<br>左に、洗礼者ヨハネの、右に、福音書記者ヨハネの伝説の諸場面</figcaption>
-</figure>
-<p>ニ伝説の語りがそこから各々のニ枚の翼パネルの内面にと続きます。</p>
-<figure>
-  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-280.webp 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-380.webp 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-480.webp 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-840.webp 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1280.webp 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、ニ枚の翼パネルの内面の景観、《左に、前景の左にヘロデ王の命令で斬首された洗礼者ヨハネ、右に、パトモス島での福音書記者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、ニ枚の翼パネルの内面の景観、《左に、前景の左にヘロデ王の命令で斬首された洗礼者ヨハネ、右に、パトモス島での福音書記者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-280.jpg 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-380.jpg 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-480.jpg 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-840.jpg 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1280.jpg 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1920.jpg 1920w"></picture><figcaption>ニ枚の翼パネルの内面の景観：左に、前景の左にヘロデ王の命令で斬首された洗礼者ヨハネ、右に、パトモス島での福音書記者ヨハネ</figcaption>
-</figure>
-<p>各の翼パネルに、ある一話しが<span style="color: #e6a64d;">前景に主な場面</span>が語りで遠景にいくつかの<span style="color: #e6a64d;">小さな場面</span>に補われていることで形づくられている。</p>
-<ul>
-<li>左に、<span style="color: #e6a64d;">ヘロデ王</span>の命令で<span style="color: #e6a64d;">洗礼者ヨハネ</span>が斬首される、</li>
-<li>右に、, <span style="color: #e6a64d;">福音書記者ヨハネ</span><span style="color: #e6a64d;">パトモス島</span>で黙示録の文書の「ベールの取り除き」を受けている。</li>
-</ul>
-<p>聖母の後ろの上級繊維の右に後景で、福音書記者ヨハネの後ろでの<ruby lang="ja" style="color:#e6a64d;">クレーン広場<rp>(</rp><rt lang="nl" style="color:#e6a64d;font-size: 70%;letter-spacing: 1px;">Kraanplaats</rt><rp>)</rp></ruby>と<span style="color: #e6a64d;">聖ヨハネ教会</span>の景観は、直接と<span style="color: #e6a64d;">作品を依頼した</span>病院を経営する<span style="color: #e6a64d;">宗教士たち</span>と施設の<span style="color: #e6a64d;">歴史</span>に関係している。</p>
-<figure>
-  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-280.webp 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-380.webp 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-480.webp 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-840.webp 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1280.webp 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《クレーン広場と聖ヨハネ教会の景観》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《クレーン広場と聖ヨハネ教会の景観》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-280.jpg 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-380.jpg 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-480.jpg 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-840.jpg 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1280.jpg 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、クレーン広場と聖ヨハネ教会の景観</figcaption>
-</figure>
-<p><span style="color: #e6a64d;">病院のニ人の兄弟たち</span>がこうしてブルージュに着く諭入された<span style="color: #e6a64d;">ボルドーワインを測定する</span>ことで表わされている。</p>
-<p>私たちに<time datetime="1300">１３００</time>年ごろに病院が市に<span style="color: #e6a64d;">市の特権</span>、自分の収入の源でもあった<span style="color: #e6a64d;">「計量する権」</span>を任せられて来たことを思い出させてくれている。</p>
-</div>
-
-<article>
-<div class="footnotes">
-<hr>
-<ol>
-<li id="fn:6">
-<p>「その芸術家がブルージュに定住した当時、この街は、ブルゴーニュ公爵領ネーデルラントの主な装飾写本制作拠点の一つであった。 (...)</p>
-<p>メムリンクは、自分のブルージュでの顔見知り関係の中で細密画かを数えていた。名前は<ruby lang="ja">ウィレム<rp>(</rp><rt lang="de">Willem</rt><rp>)</rp>・<rp>(</rp><rt lang="de">&#160;</rt><rp>)</rp>ヴレラント<rp>(</rp><rt lang="de">Vrelant</rt><rp>)</rp></ruby lang="ja">。
-この町で最も出産豊かな工房の頭として、ヴレラントはメムリンクと同様に、移民であった。
-ユトレヒト市出身の彼は<time datetime="1454">１４５４年<time>からブルージュ書物製作<ruby>組合<rp>(</rp><rt>ギルド</rt><rp>)</rp></ruby>の会員として、<time datetime="1481">１４８１年<time>の亡くなるまでに登録されている。
-ニ人とも<ruby lang="ja">シント<rp>(</rp><rt lang="nl">Sint</rt><rp>)</rp>＝<rp>(</rp><rt lang="nl">-</rt><rp>)</rp>ジョリスストラット<rp>(</rp><rt lang="nl">Jorisstraat</rt><rp>)</rp></ruby lang="ja">に住んでいたので、ヴレラントとメムリンクがほとんど隣人でした。 (...)</p>
-<p>視覚的に説得力のある空間的表現の観点から考えれば、前景のニつの図形と絵画の残りの図との関係は、中間空間の林と主な図形と関係に脈絡が取れていません。 (...)
-ある作品から別の作品へでも、各作品には、ヴレラントと同様に、位置の高い地平線にまでいくつかの景色が重なるのを見当たることがあります」。</p>
-<p>（<a href="/docs/ja/bruges/hopital-saint-jean/saint-jean#lorentz" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean#lorentz" id="renvoi-lorentz-2" class="yellow">著述目録</a>に出典されている<ruby lang="ja">フィリップ<rp>(</rp><rt lang="de">Philippe</rt><rp>)</rp>・<rp>(</rp><rt lang="de">&#160;</rt><rp>)</rp>ローレンッツ<rp>(</rp><rt lang="de">LORENTZ</rt><rp>)</rp></ruby lang="ja">の著作からの引用）。&#160;<a href="#fnref1:6" rev="footnote" class="footnote-backref">&#8617;</a></p>
-</li>
-</ol>
-</div>
-</div>
-
-<!-- Page 6 -->
-
-<article>
-	<figure>
+<h3 id="legendes" class="yellow">洗礼者ヨハネと福音書記者ヨハネの諸伝説</h3>
+<section><article>
+  <h4 id="legende-de-jean-le-baptiste" class="yellow">三連画での洗礼者ヨハネと福音書記者ヨハネの諸伝説の語り</h4>
+  <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-280.webp 280w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-380.webp 380w,
@@ -1157,380 +1249,589 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1600.jpg 1600w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1920.jpg 1920w"></picture><figcaption>ニ翼の内面の景観：左に、前景の左にヘロデ王の命令で斬首された洗礼者ヨハネ、右に、パトモス島での福音書記者ヨハネ</figcaption>
   </figure>
-<h3 id="legendes" class="yellow">洗礼者ヨハネと福音書記者ヨハネの諸伝説</h3>
-<p>私たちはここでメムリンクが迷いなく基づいた<a href="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" title="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" id="legende-doree" class="yellow">黄金伝説</a>で<a href="https://ja.wikipedia.org/wiki/ヤコブス・デ・ウォラギネ" title="https://ja.wikipedia.org/wiki/ヤコブス・デ・ウォラギネ" id="jacques-de-voragine" class="yellow">ヤコブス・デ・ウォラギネ</a>が報じる通りの各々の<span style="color: #e6a64d;">ニつの語り</span>に従っています。</p>
-<p>参考できるように、これらの文書が描写の続きに<a href="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18" title="https://francois-vidit.com/docs/ja/saint-jean/page:18" class="yellow">ここ</a>と<a href="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:19" title="https://francois-vidit.com/docs/ja/saint-jean/page:19" class="yellow">ここ</a>に記載された。ご覧ください。</p>
-<h4 id="legende-de-jean-le-baptiste" class="yellow">洗礼者ヨハネの伝説</h4>
-<p>私たちは年代順で福音書記者ヨハネより先とされている洗礼者ヨハネから始まっている。</p>
-<p>中央パネルの上部と奥景の左と左翼の内側パネルに<span style="color: #e6a64d;">彼の生拝</span>と<span style="color: #e6a64d;">殉教</span>を表す場面が表わされている。</p>
-<figure>
-  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-280.webp 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-380.webp 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-480.webp 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-840.webp 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-1280.webp 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《遠景への開口部、洗礼者ヨハネの伝説の諸場面》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《遠景への開口部、洗礼者ヨハネの伝説の諸場面》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-280.jpg 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-380.jpg 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-480.jpg 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-840.jpg 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-1280.jpg 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、《遠景への開口部、洗礼者ヨハネの伝説の諸場面》</figcaption>
-</figure>
-<p>歴史的な面では、１世紀にユダヤ信仰のローマ史家である<a href="https://ja.wikipedia.org/wiki/フラウィウス・ヨセフス" title="https://ja.wikipedia.org/wiki/フラウィウス・ヨセフス" id="flavius-josephe" class="yellow">フラウィウス・ヨセフス</a>の証言<span style="color: #999;">（<a href="https://ja.wikipedia.org/wiki/ユダヤ古代誌" title="https://ja.wikipedia.org/wiki/ユダヤ古代誌" id="antiquites-judaiques" class="yellow">「ユダヤ古代誌」</a>、第１８書、第５章、１１８）</span>によれば、ヨハネは<a href="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18" title="https://francois-vidit.com/docs/ja/saint-jean/page:18" id="galilee" class="yellow">ガリラヤ</a>での<a href="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:19" title="https://francois-vidit.com/docs/ja/saint-jean/page:19" id="jesus-de-nazareth" class="yellow">ナザレのイエス</a>の時代のユダヤ教<span style="color: #e6a64d;">伝道師</span>として描写されている。</p>
-<p>当時のガリラヤは多くの反乱で知られているローマ帝国の属州である。</p>
-<p>その人口が、多数的にユダヤ教であって、とても信心深いです。
-聖書のそれぞれの書物が神のお使いの到来を予告していて、その活動によってユダヤの民が自分の独立、その宗教的組織、特にエルサレムでの<a href="https://ja.wikipedia.org/wiki/ソロモン神殿" title="https://en.wikipedia.org/wiki/Solomon'%27's_Temple" id="temple-de-salomon" class="yellow">ソロモン神殿</a>の再建を可能にすることを回復してくれる。</p>
-<p>キリスト教の教義の面では、 <span style="color: #e6a64d;">ヨハネ</span>は、ルカの福音<span style="color: #999;">（１章、５-２５）</span>によると、エルサレムへ行くために偶然選ばれて、神殿で祈りをささげたころ、神自身が<a href="https://ja.wikipedia.org/wiki/ガブリエル" title="https://ja.wikipedia.org/wiki/ガブリエル" id="archange-gabriel" class="yellow">大天使ガブリエル</a>によってヨハネの誕生を告げるガリラヤの田舎のユダヤ教の年とった司祭<a href="https://ja.wikipedia.org/wiki/ザカリア" title="https://ja.wikipedia.org/wiki/ザカリア" id="zaccharie" class="yellow">ザカリア</a><span style="color: #e6a64d;">の息子</span>である。</p>
-<p>その通り、メリングが彼を最左の柱頭に表わしている。</p>
-<figure>
-  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-280.webp 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-380.webp 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-480.webp 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-840.webp 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-1280.webp 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、最左の柱頭、《ザカリアに顕現される大天使ガブリエル》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、最左の柱頭、《ザカリアに顕現される大天使ガブリエル》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-280.jpg 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-380.jpg 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-480.jpg 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-840.jpg 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-1280.jpg 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、最左の柱頭、《ザカリアに顕現される大天使ガブリエル》、大天使が彼に間もなくの息子の誕生を告げて、それで彼は言葉を失う。</figcaption>
-</figure>
-<p>文書がザカリアがそれで言葉を失うことを示している。</p>
-<p>その誕生がその右に位置付けられている柱頭に表わされている。</p>
-<figure>
-  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-280.webp 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-380.webp 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-480.webp 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-840.webp 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-1280.webp 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、最左から二番目の柱頭、《洗礼者ヨハネの誕生》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、最左から二番目の柱頭、《洗礼者ヨハネの誕生》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-280.jpg 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-380.jpg 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-480.jpg 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-840.jpg 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-1280.jpg 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、最左から二番目の柱頭、《洗礼者ヨハネの誕生》</figcaption>
-</figure>
-<p>この息子の名前、「ヨハネ」も語り筋の争点の一つとなる <span style="color: #999;">（ルカ１、５９-６３）</span>：</p>
-<p>「８日目に、その子に割礼を施すために来た人々は、父の名を取ってザカリアと名付けようとした。ところが、母は、
-<span style="color: #e6a64d;">"いいえ、名はヨハネとしなければなりません"</span>と言った。
-しかし人々は、
-<span style="color: #e6a64d;">"あなたの親類には、そういう名の付いた人はだれもいない"</span>と言い <span style="color: #999;">（…）</span>ザカリアは字を書く板を出させて、<span style="color: #e6a64d;">"この子の名はヨハネ"</span>と書いた」。</p>
-</div>
+  <section><article>
+    <section><article>
+      <p>私たちはここでメムリンクが迷いなく基づいた<span style="color: #e6a64d;">ニつの語り</span>に従って進んで行きます。それは<a href="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" title="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" id="legende-doree" class="yellow">黄金伝説</a>で<a href="https://ja.wikipedia.org/wiki/ヤコブス・デ・ウォラギネ" title="https://ja.wikipedia.org/wiki/ヤコブス・デ・ウォラギネ" id="jacques-de-voragine" class="yellow">ヤコブス・デ・ウォラギネ</a>が報じる通りの各々伝説です。</p>
+    </article></section>
 
-<!-- Page 7 -->
+    <section><article>
+      <p>メムリンクが描いた場面はこれらの文書を正確に表わしているので、より深く各々の文書と三連画の繋がりを実感したい方々に直接文書を読むことをお薦めします：</p>
+      <ul>
+        <li><a href="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18" title="https://francois-vidit.com/docs/ja/saint-jean/page:18" class="yellow"><cite>黄金伝説</cite>の第９章での福音書記者ヨハネの伝説の文書</a>を読む。</li>
+        <li><a href="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:19" title="https://francois-vidit.com/docs/ja/saint-jean/page:19" class="yellow"><cite>黄金伝説</cite>の第６５章でのラティナ門外の福音書記者ヨハネの文書</a>を読む。</li>
+      </ul>
+    </article></section>
+  </article></section>
 
-<article>
-				<p>信仰の観点から、<span style="color: #e6a64d;">洗礼者ヨハネ</span>は<span style="color: #e6a64d;">神の意志によって</span>世にゆえにやって来る。</p>
-<p>その後、彼は砂漠で修行者の模範的な生活を送っている<span style="color: #999;">（ルカ１、８０）</span>。
-メムリンクがこの場面を森に移動させている。</p>
-<figure>
-  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-280.webp 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-380.webp 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-480.webp 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-840.webp 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-1280.webp 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《森で祈る洗礼者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《森で祈る洗礼者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-280.jpg 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-380.jpg 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-480.jpg 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-840.jpg 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-1280.jpg 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、《森で祈る洗礼者ヨハネ》</figcaption>
-</figure>
-<p>「罪の赦しを得させるために悔い改めの洗礼を宣べ伝える」ことも見られる<span style="color: #999;">（ルカ３、０３）</span>。</p>
-<figure>
-  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-280.webp 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-380.webp 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-480.webp 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-840.webp 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1280.webp 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《罪の赦しを得させるために悔い改めの洗礼を宣べ伝える洗礼者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《罪の赦しを得させるために悔い改めの洗礼を宣べ伝える洗礼者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-280.jpg 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-380.jpg 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-480.jpg 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-840.jpg 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1280.jpg 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、《罪の赦しを得させるために悔い改めの洗礼を宣べ伝える洗礼者ヨハネ》</figcaption>
-</figure>
-<p>ヨハネは当時のユダヤ教では新風を吹きこんでいる。
-彼は特に火葬によって神殿で動物を犠牲にしてではなく、しかも<span style="color: #e6a64d;">「洗礼」</span>によって、いわゆるこの言葉の語源どおりだと水の中に<span style="color: #e6a64d;">「没入」</span>することで罪の赦しを得ることを勧めるように仕向ける。
-聖書のそれぞれの書物に従って、彼は<span style="color: #e6a64d;">神の遣わされたお使いの到来を</span>同時代人の一人である<a href="https://ja.wikipedia.org/wiki/ナザレのイエス" title="https://ja.wikipedia.org/wiki/ナザレのイエス" class="yellow">ナザレのイエス</a>本人に<span style="color: #e6a64d;">預言する</span>。</p>
-<p>彼はその到来を<a href="https://ja.wikipedia.org/wiki/ヨルダン川" title="https://ja.wikipedia.org/wiki/ヨルダン川" id="jourdain" class="yellow">ヨルダン川</a>の水での洗礼で承認する。この場面が左翼パネルの内面の上部に表わされている。</p>
-<figure>
-  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-280.webp 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-380.webp 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-480.webp 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-840.webp 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1280.webp 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/bapt%C3%A8me-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、左翼パネルの内面の上部の詳細、《ヨルダン川のほとりでイエスを洗礼する洗礼者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、左翼パネルの内面の上部の詳細、《ヨルダン川のほとりでイエスを洗礼する洗礼者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-280.jpg 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-380.jpg 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-480.jpg 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-840.jpg 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1280.jpg 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1920.jpg 1920w"></picture><figcaption>左翼パネルの内面の上部の詳細、《ヨルダン川のほとりでイエスを洗礼する洗礼者ヨハネ》</figcaption>
-</figure>
-<p>向こうの岸に、<span style="color: #e6a64d;">洗礼者ヨハネ</span>が自分の最初の弟子のニ人である<a href="https://ja.wikipedia.org/wiki/アンデレ" title="https://ja.wikipedia.org/wiki/アンデレ" id="andre" class="yellow">アンデレ</a>と<a href="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" title="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" id="jean-l-apotre" class="yellow">使徒ヨハネ</a>も彼に加わるよう、<span style="color: #e6a64d;">「</span><ruby lang="ja" style="color:#e6a64d;">これは&#12289;神の小羊<rp>(</rp><rt lang="la" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">エッチェ・アニュス・ディ</rt><rp>)</rp></ruby><span style="color: #e6a64d;">」</span>という言葉でイエスに紹介している。彼たちは彼と合流する。</p>
-<p>そこから、彼の運命が悲劇的になる。</p>
-<p>ガリラヤとペレアの四分封領主である<a href="https://ja.wikipedia.org/wiki/ヘロデ・アンティパス" title="https://ja.wikipedia.org/wiki/ヘロデ・アンティパス" id="herode-antipas" class="yellow">ヘロデ・アンティパス</a>が「自分の兄弟フィリポ <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">1</a></sup> の妻」（<a href="https://ja.wikipedia.org/wiki/ヘロデヤ" title="https://ja.wikipedia.org/wiki/ヘロディア" id="herodiade">ヘロディア</a>）と結婚する<span style="color: #999;">（マルコ、６・１７）</span>。</p>
-<p>ユダヤ教の信仰はどんな兄の妻との結婚とも<span style="color: #e6a64d;">「汚れ」</span>と見なしていて、ゆえに形式的にそれを<span style="color: #e6a64d;">禁じている</span><span style="color: #999;">（レビ記、１８・１６、２０・２１）</span>から、ヨハネはそれを糾弾する。</p>
-<p><span style="color: #e6a64d;">ヘロデは</span><span style="color: #999;">［ヨハネの］</span>「説得させる能力が<span style="color: #e6a64d;">反乱</span>」を誘発することを恐れられていた。</p>
-<p>「群衆はこの人の忠告に完全に従いそうであったから。だからヘロデは、彼のせいで何かトラブルが起こる前に、彼を捕まえる方を後に騒動が起きた場合に悔むより好んだわけだ。ヘロデの嫌疑のせいで、ヨハネはマシャエロに送られ（…）そこで殺された」<span style="color: #999;">（ユダヤ古代誌、第１８書、第５章、１１８）</span> <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">2</a></sup> 。</p>
-<p>実際、ヨハネの信奉者たちによってトラブルが起こされた場合、ヘロデが自分を取り上げることのできるローマ当局に事情について責任を取らなければならなかったのだった。</p>
-<p>彼は<span style="color: #e6a64d;">「洗礼者ヨハネを逮捕する命令」</span>を出す<span style="color: #999;">（マルコ、６・１７）</span>。</p>
-<figure>
-  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-280.webp 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-380.webp 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-480.webp 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-840.webp 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1280.webp 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《ヘロデ・アンティパスの命令による洗礼者ヨハネの逮捕》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《ヘロデ・アンティパスの命令による洗礼者ヨハネの逮捕》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-280.jpg 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-380.jpg 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-480.jpg 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-840.jpg 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1280.jpg 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、《ヘロデ・アンティパスの命令による洗礼者ヨハネの逮捕》</figcaption>
-</figure>
-<p>中央パネルでは、メムリンクがこの場面を白羊の上に、<span style="color: #e6a64d;">ヨハネ</span>が強制的に古代ギリシャの語源は「剣」という意味と、現代のヨルダン国に位置付けられているの現代<ruby lang="ja" style="color:#e6a64d;">マシェロント<rp>(</rp><rt lang="grc" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">μάχαιρα</rt><rp>)</rp></ruby> <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref">3</a></sup> の牢へ向かって左の翼パネルへ<span style="color: #e6a64d;">連れて行かれている</span>。</p>
-</div>
+  <section><article>
+    <h4 id="legende-de-jean-le-baptiste" class="yellow"><cite>黄金伝説</cite>において<cite>洗礼者ヨハネの伝説の諸場面</cite></h4>
+    <section><article>
+      <p>私たちは年代順で福音書記者ヨハネより先とされている洗礼者ヨハネから始まっている。</p>
+      <p>中央パネルの上部と奥景の左と左翼の内側パネルに<span style="color: #e6a64d;">彼の生拝</span>と<span style="color: #e6a64d;">殉教</span>を表すいくつかの場面が表わされている。</p>
+    </article></section>
+    <figure>
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-280.webp 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-380.webp 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-480.webp 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-640.webp 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-840.webp 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-1280.webp 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-1600.webp 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《遠景への開口部、洗礼者ヨハネの伝説の諸場面》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《遠景への開口部、洗礼者ヨハネの伝説の諸場面》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-280.jpg 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-380.jpg 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-480.jpg 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-640.jpg 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-840.jpg 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-1280.jpg 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-1600.jpg 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、《遠景への開口部、洗礼者ヨハネの伝説の諸場面》</figcaption>
+    </figure>
+    </article></section>
+
+    <section><article>
+      <h5 class="yellow">歴史資料においての洗礼者ヨハネ</h5>
+      <p>歴史的な面では、１世紀にユダヤ信仰のローマ史家である<a href="https://ja.wikipedia.org/wiki/フラウィウス・ヨセフス" title="https://ja.wikipedia.org/wiki/フラウィウス・ヨセフス" id="flavius-josephe" class="yellow">フラウィウス・ヨセフス</a>の証言<span style="color: #999;">（<a href="https://ja.wikipedia.org/wiki/ユダヤ古代誌" title="https://ja.wikipedia.org/wiki/ユダヤ古代誌" id="antiquites-judaiques" class="yellow">「<cite>ユダヤ古代誌</cite>」</a>、第１８書、第５章、１１８）</span>によれば、ヨハネは<a href="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18" title="https://francois-vidit.com/docs/ja/saint-jean/page:18" id="galilee" class="yellow">ガリラヤ</a>での<a href="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:19" title="https://francois-vidit.com/docs/ja/saint-jean/page:19" id="jesus-de-nazareth" class="yellow">ナザレのイエス</a>の時代のユダヤ教<span style="color: #e6a64d;">伝道師</span>として表わされている。</p>
+      <p>当時のガリラヤは多くの反乱で知られているローマ帝国の属州である。</p>
+      <p>その人口が、多数的にユダヤ教であって、とても信心深いです。
+      聖書のそれぞれの書物が神のお使いの到来を予告していて、その活動によってユダヤの民が自分の独立、その宗教的組織、特にエルサレムでの<a href="https://ja.wikipedia.org/wiki/ソロモン神殿" title="https://en.wikipedia.org/wiki/Solomon'%27's_Temple" id="temple-de-salomon" class="yellow">ソロモン神殿</a>の再建を可能にすることを回復してくれる。</p>
+    </article></section>
+
+    <section><article>
+      <h5 class="yellow">キリスト的信仰の諸文書においての洗礼者ヨハネ</h5>
+      <section><article>
+        <p>キリスト教の教義の面では、 <span style="color: #e6a64d;">ヨハネ</span>は、ルカの福音<span style="color: #999;">（１章、５-２５）</span>によると、エルサレムへ行くために偶然選ばれて、神殿で祈りをささげたころ、神自身が<a href="https://ja.wikipedia.org/wiki/ガブリエル" title="https://ja.wikipedia.org/wiki/ガブリエル" id="archange-gabriel" class="yellow">大天使ガブリエル</a>によってヨハネの誕生を告げるガリラヤの田舎のユダヤ教の年とった司祭<a href="https://ja.wikipedia.org/wiki/ザカリア" title="https://ja.wikipedia.org/wiki/ザカリア" id="zaccharie" class="yellow">ザカリア</a><span style="color: #e6a64d;">の息子</span>である。</p>
+      </article></section>
+
+      <section><article>
+        <h6 class="yellow">最左の柱頭に大天使ガブリエルがザカリアに顕現される場面</h6>
+        <section><article>
+          <p>その通り、メリングが彼を最左の柱頭に表わしている。</p>
+        </article></section>
+        <figure>
+          <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-280.webp 280w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-380.webp 380w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-480.webp 480w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-640.webp 640w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-840.webp 840w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-1280.webp 1280w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-1600.webp 1600w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、最左の柱頭、《ザカリアに顕現される大天使ガブリエル》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、最左の柱頭、《ザカリアに顕現される大天使ガブリエル》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-280.jpg 280w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-380.jpg 380w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-480.jpg 480w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-640.jpg 640w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-840.jpg 840w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-1280.jpg 1280w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-1600.jpg 1600w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、最左の柱頭、《ザカリアに顕現される大天使ガブリエル》、大天使が彼に間もなくの息子の誕生を告げて、それで彼は言葉を失う。</figcaption>
+        </figure>
+        <section><article>
+          <p>文書がザカリアがそれで言葉を失うことを示している。</p>
+        </article></section>
+      </article></section>
+
+      <section><article>
+        <h6 class="yellow">最左から二番目の柱頭に洗礼者ヨハネの誕生の場面</h6>
+        <p>その誕生がその右に位置付けられている柱頭に表わされている。</p>
+        </article></section>
+        <figure>
+          <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-280.webp 280w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-380.webp 380w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-480.webp 480w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-640.webp 640w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-840.webp 840w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-1280.webp 1280w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-1600.webp 1600w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、最左から二番目の柱頭、《洗礼者ヨハネの誕生》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、最左から二番目の柱頭、《洗礼者ヨハネの誕生》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-280.jpg 280w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-380.jpg 380w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-480.jpg 480w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-640.jpg 640w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-840.jpg 840w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-1280.jpg 1280w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-1600.jpg 1600w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、最左から二番目の柱頭、《洗礼者ヨハネの誕生》</figcaption>
+        </figure>
+      </article></section>
+
+      <section><article>
+        <h6 class="yellow">ザカリアによって「ヨハネ」の名の選択の場面</h6>
+        <section><article>
+          <p>この息子の名前、「ヨハネ」も語り筋の争点の一つとなる <span style="color: #999;">（ルカ１、５９-６３）</span>：</p>
+          <blockquote>
+            <p>「８日目に、その子に割礼を施すために来た人々は、父の名を取ってザカリアと名付けようとした。ところが、母は、</p>
+            <p><span style="color: #e6a64d;"><q style="color: #e6a64d;">いいえ、名はヨハネとしなければなりません</span></q>と言った。</p>
+            <p>しかし人々は、</p>
+            <p><span style="color: #e6a64d;"><q style="color: #e6a64d;">あなたの親類には、そういう名の付いた人はだれもいない</q></span>と言い</p>
+            <p><span style="color: #999;">（…）</span></p>
+            <p>ザカリアは字を書く板を出させて、</p>
+            <p><span style="color: #e6a64d;"><q style="color: #e6a64d;">この子の名はヨハネ</span></q>と書いた」。</p>
+          </blockquote>
+          <p>信仰の観点から、<span style="color: #e6a64d;">洗礼者ヨハネ</span>は<span style="color: #e6a64d;">神の意志によって</span>世にゆえにやって来る。</p>
+        </article></section>
+      </article></section>
+    </article></section>
+  </article></section>
+</article></section>
+</article></div>
+
+<!-- Page 7 --><hr>
 
 <article>
-<div class="footnotes">
+  <section><article>
+    <h6 class="yellow">中央パネルの遠景での洗礼者の修徳の場面</h6>
+
+    <section><article>
+      <p>その後、彼は砂漠で修行者の模範的な生活を送っている<span style="color: #999;">（ルカ１、８０）</span>。</p>
+      <p>メムリンクがこの場面を森に移動させている。</p>
+    </article></section>
+
+    <figure>
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-280.webp 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-380.webp 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-480.webp 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-640.webp 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-840.webp 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-1280.webp 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-1600.webp 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《森で祈る洗礼者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《森で祈る洗礼者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-280.jpg 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-380.jpg 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-480.jpg 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-640.jpg 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-840.jpg 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-1280.jpg 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-1600.jpg 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、《森で祈る洗礼者ヨハネ》</figcaption>
+    </figure>
+  </article></section>
+
+  <section><article>
+    <h6 class="yellow">中央パネルの遠景での洗礼者の伝導活躍の場面</h6>
+
+    </article></section>
+      <p><q style="quotes: '「' '」';">罪の赦しを得させるために悔い改めの洗礼を宣べ伝える</q>ことも見られる<span style="color: #999;">（ルカ３、０３）</span>。</p>
+    </article></section>
+
+    <figure>
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-280.webp 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-380.webp 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-480.webp 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-640.webp 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-840.webp 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1280.webp 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1600.webp 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《罪の赦しを得させるために悔い改めの洗礼を宣べ伝える洗礼者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《罪の赦しを得させるために悔い改めの洗礼を宣べ伝える洗礼者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-280.jpg 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-380.jpg 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-480.jpg 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-640.jpg 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-840.jpg 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1280.jpg 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1600.jpg 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、《罪の赦しを得させるために悔い改めの洗礼を宣べ伝える洗礼者ヨハネ》</figcaption>
+    </figure>
+
+    <section><article>
+      <p>ヨハネは当時のユダヤ教では新風を吹きこんでいる。
+      彼は特に火葬によって神殿で動物を犠牲にしてではなく、しかも<span style="color: #e6a64d;">「洗礼」</span>によって、いわゆるこの言葉の語源どおりだと水の中に<span style="color: #e6a64d;">「没入」</span>することで罪の赦しを得ることを勧めるように仕向ける。</p>
+    </article></section>
+  </article></section>
+
+  <section><article>
+    <h6 class="yellow">左翼パネルの遠景でのヨルダン川のほとりでイエスを洗礼する洗礼者ヨハネ</h6>
+
+    <section><article>
+      <p>聖書のそれぞれの書物に従って、彼は<span style="color: #e6a64d;">神の遣わされたお使いの到来を</span>同時代人の一人である<a href="https://ja.wikipedia.org/wiki/ナザレのイエス" title="https://ja.wikipedia.org/wiki/ナザレのイエス" class="yellow">ナザレのイエス</a>本人に<span style="color: #e6a64d;">預言する</span>。</p>
+      <p>彼はその到来を<a href="https://ja.wikipedia.org/wiki/ヨルダン川" title="https://ja.wikipedia.org/wiki/ヨルダン川" id="jourdain" class="yellow">ヨルダン川</a>の水での洗礼で承認する。この場面が左翼パネルの内面の上部に表わされている。</p>
+    </article></section>
+
+    <figure>
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-280.webp 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-380.webp 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-480.webp 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-640.webp 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-840.webp 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1280.webp 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1600.webp 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/bapt%C3%A8me-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、左翼パネルの内面の上部の詳細、《ヨルダン川のほとりでイエスを洗礼する洗礼者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、左翼パネルの内面の上部の詳細、《ヨルダン川のほとりでイエスを洗礼する洗礼者ヨハネ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-280.jpg 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-380.jpg 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-480.jpg 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-640.jpg 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-840.jpg 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1280.jpg 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1600.jpg 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1920.jpg 1920w"></picture><figcaption>左翼パネルの内面の上部の詳細、《ヨルダン川のほとりでイエスを洗礼する洗礼者ヨハネ》</figcaption>
+    </figure>
+
+    <article><section>
+      <p>向こうの岸に、<span style="color: #e6a64d;">洗礼者ヨハネ</span>が自分の最初の弟子のニ人である<a href="https://ja.wikipedia.org/wiki/アンデレ" title="https://ja.wikipedia.org/wiki/アンデレ" id="andre" class="yellow">アンデレ</a>と<a href="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" title="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" id="jean-l-apotre" class="yellow">使徒ヨハネ</a>も彼に加わるよう、<q style="quotes: '「' '」';color: #e6a64d;"><ruby lang="ja" style="color:#e6a64d;">これは&#12289;神の小羊<rp>(</rp><rt lang="la" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">エッチェ・アニュス・ディ</rt><rp>)</rp></ruby></q>という言葉でイエスに紹介している。彼たちは彼と合流する。</p>
+    </article></section>
+  </article></section>
+
+  <article><section>
+    <h6 class="yellow">中央パネルの遠景での洗礼者ヨハネの逮捕の場面</h6>
+    <section><article>
+      <p>そこから、彼の運命が悲劇的になる。</p>
+      <p>ガリラヤとペレアの四分封領主である<a href="https://ja.wikipedia.org/wiki/ヘロデ・アンティパス" title="https://ja.wikipedia.org/wiki/ヘロデ・アンティパス" id="herode-antipas" class="yellow">ヘロデ・アンティパス</a>が<q style="quotes: '「' '」';color: #e6a64d;">自分の兄弟フィリポの妻</q> <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">ノート１</a></sup> （<a href="https://ja.wikipedia.org/wiki/ヘロデヤ" title="https://ja.wikipedia.org/wiki/ヘロディア" id="herodiade">ヘロディア</a>）と結婚する<span style="color: #999;">（マルコ、６・１７）</span>。</p>
+      <p>ユダヤ教の信仰はどんな兄の妻との結婚とも<span style="color: #e6a64d;">「汚れ」</span>と見なしていて、ゆえに形式的にそれを<span style="color: #e6a64d;">禁じている</span><span style="color: #999;">（レビ記、１８・１６、２０・２１）</span>から、ヨハネはそれを糾弾する。</p>
+      <p><span style="color: #e6a64d;">ヘロデは</span><span style="color: #999;">［ヨハネの］</span><q style="quotes: '「' '」';">説得させる能力が<span style="color: #e6a64d;">反乱</span></q>を誘発することを恐れられていた<span style="color: #999;">（ユダヤ古代誌、第１８書、第５章、１１８）</span> <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">ノート２</a></sup>。</p>
+      <blockquote>
+        <p>「群衆はこの人の忠告に完全に従いそうであったから。だからヘロデは、彼のせいで何かトラブルが起こる前に、彼を捕まえる方を後に騒動が起きた場合に悔むより好んだわけだ。ヘロデの嫌疑のせいで、ヨハネはマシャエロに送られ、</p>
+        <p>（…）</p>
+        <p>そこで殺された。」</p>
+      </blockquote>
+      <p>実際、ヨハネの信奉者たちによってトラブルが起こされた場合、ヘロデが自分を取り上げることのできるローマ当局に事情について責任を取らなければならなかったのだった。</p>
+      <p>彼は<span style="color: #e6a64d;">「洗礼者ヨハネを逮捕する命令」</span>を出す<span style="color: #999;">（マルコ、６・１７）</span>。</p>
+    </article></section>
+
+    <figure>
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-280.webp 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-380.webp 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-480.webp 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-640.webp 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-840.webp 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1280.webp 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1600.webp 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《ヘロデ・アンティパスの命令による洗礼者ヨハネの逮捕》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《ヘロデ・アンティパスの命令による洗礼者ヨハネの逮捕》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-280.jpg 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-380.jpg 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-480.jpg 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-640.jpg 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-840.jpg 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1280.jpg 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1600.jpg 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、《ヘロデ・アンティパスの命令による洗礼者ヨハネの逮捕》</figcaption>
+    </figure>
+    <section><article>
+      <p>中央パネルでは、メムリンクがこの場面を白羊の上に、<span style="color: #e6a64d;">ヨハネ</span>が強制的に古代ギリシャの語源は「剣」という意味と、現代のヨルダン国に位置付けられているの現代<ruby lang="ja" style="color:#e6a64d;">マシェロント<rp>(</rp><rt lang="grc" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">μάχαιρα</rt><rp>)</rp></ruby> <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref">ノート３</a></sup> の牢へ向かって左の翼パネルへ<span style="color: #e6a64d;">連れて行かれている</span>。</p>
+    </article></section>
+  </article></section>
+</article>
+
 <hr>
-<ol>
-<li id="fn:2">
-<p>ヘロデ・フィリッポス１世とも呼称されている。&#160;<a href="#fnref1:2" rev="footnote" class="footnote-backref">&#8617;</a></p>
-</li>
-<li id="fn:1">
-<p>念のため、この引用文が過去形であって、ここでは私が現代形に移動させようとしている。&#160;<a href="#fnref1:1" rev="footnote" class="footnote-backref">&#8617;</a></p>
-</li>
-<li id="fn:3">
-<p>マシェロントは、要塞化された宮殿の遺跡があるヨルダンの遺跡です。それは死海の東海岸のヨルダン川河口の約２４キロの丘に位置している。ヘブライ語では「מכוור」、アラブ語では、「قلة المشناقى」を呼称されている。&#160;<a href="#fnref1:3" rev="footnote" class="footnote-backref">&#8617;</a></p>
-</li>
-</ol>
-</div>
-</div>
 
-<!-- Page 8 -->
+<aside>
+  <article>
+    <div class="footnotes">
+    <ol start="1">
+      <li id="fn:2">
+        <p>ヘロデ・フィリッポス１世とも呼称されている。</p>
+      </li>
+    </ol>
+    </div>
+    <footer>
+      <p>&#160;<a href="#fnref1:2" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
+    </footer>
+  </article>
 
-<article>
-				<p>左翼パネル内面に語りが続く。</p>
-<figure>
-  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-280.webp 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-380.webp 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-480.webp 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-840.webp 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-1280.webp 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、《左翼パネル内面》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、《左翼パネル内面》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-280.jpg 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-380.jpg 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-480.jpg 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-840.jpg 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-1280.jpg 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-1920.jpg 1920w"></picture><figcaption>左翼パネル内面</figcaption>
-</figure>
-<p>ヨハネを、信奉者達のトラブルの騒ぎを起こさずに死なせるのを成功させるために、<span style="color: #e6a64d;">ヘロデ</span>が彼らを欺くよう、ごまかしを考える<span style="color: #999;">（マルコ、６・２１-２２）</span>。
-「自分の誕生日の祝いに」ガリラヤの「高官や将校、ガリラヤの有力者などを招いて宴会」を催す。</p>
-<p>「ヘロディアの娘<a href="https://ja.wikipedia.org/wiki/サロメ_(ヘロディアの娘))" title="https://ja.wikipedia.org/wiki/サロメ_(ヘロディアの娘)" id="salome" class="yellow">サロメ</a>」が姿を現して踊る。</p>
-<figure>
-  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-280.webp 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-380.webp 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-480.webp 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-840.webp 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-1280.webp 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、左翼パネル内面の詳細、《サロメの踊り》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、左翼パネル内面の詳細、《サロメの踊り》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-80-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-280.jpg 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-380.jpg 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-480.jpg 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-840.jpg 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-1280.jpg 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-1920.jpg 1920w"></picture><figcaption>左翼パネル内面の詳細、《サロメの踊り》</figcaption>
-</figure>
-<p><span style="color: #e6a64d;">《サロメの踊り》</span>は左翼パネルの左上部にある宮殿の塔で行われている。</p>
-<p>その上、<ruby>壁<rp>(</rp><rt>へき</rt><rp>)</rp>龕<rp>(</rp><rt>がん</rt><rp>)</rp></ruby>での像が、ヘロデの不倫行為をおのめかすいくつかの不信心な人物、裸の女性のニ人の間の一人裸の男性が表わされている。</p>
-<p>ヘロデがその踊りを気に入ったことを見せかけて、<span style="color: #e6a64d;">ヨハネの死の責任を免除するには</span>言う：</p>
-<p>「<span style="color: #e6a64d;">"欲しいものがあれば何でも言いなさい"</span>、更に、"お前が願うなら、この国の半分でもやろう"と固く誓ったのである」。</p>
-<p>サロメが「座を外して、母親に、<span style="color: #e6a64d;">"何を願いましょうか"</span>と言うと」、ヘロディアは、「<span style="color: #e6a64d;">"洗礼者ヨハネの首を"</span>と言った。早速、少女は大急ぎで王のところに行き、<span style="color: #e6a64d;">"今すぐに洗礼者ヨハネの首を盆に載せて、いただきとうございます"</span>と」願う<span style="color: #999;">（マルコ、６・２４-２９）</span>。</p>
-<p>この語り筋のすべてが本当にごまかしである証拠が、もしサロメがヘロデに<span style="color: #e6a64d;">「自分の父のフィリポか自分の母の<a href="https://ja.wikipedia.org/wiki/ヘロデヤ" title="https://ja.wikipedia.org/wiki/ヘロディア" id="herodiade-2" class="yellow">ヘロディア</a>」</span>を頼んだなら、ヘロデがそれに同意出来ません<span style="color: #999;">（黄金伝説１２１章、第１段 <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">1</a></sup> ）</span>。</p>
-<p>ある衛兵は出て行き、「牢の中でヨハネの首をはね」に行く<span style="color: #999;">（マルコ、６・２２-２３）</span>。</p>
-<figure>
-  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-280.webp 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-380.webp 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-480.webp 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-840.webp 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-1280.webp 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、左翼パネル内面の詳細、《洗礼者ヨハネの斬首》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、左翼パネル内面の詳細、《洗礼者ヨハネの斬首》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-280.jpg 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-380.jpg 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-480.jpg 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-840.jpg 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-1280.jpg 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-1920.jpg 1920w"></picture><figcaption>左翼パネル内面の詳細、《洗礼者ヨハネの斬首》</figcaption>
-</figure>
-<div class="footnotes">
-<hr>
-<ol>
-<li id="fn:1">
-<p>ヤコブス・デ・ウォラギネによって書き留められた<a href="https://ja.wikipedia.org/wiki/ヒエロニムス" title="https://ja.wikipedia.org/wiki/ヒエロニムス" id="saint-jerome" class="yellow">ヒエロニムス</a>の言葉。&#160;<a href="#fnref1:1" rev="footnote" class="footnote-backref">&#8617;</a></p>
-</li>
-</ol>
-</div>
-</div>
+  <article>
+    <div class="footnotes">
+    <ol start="2">
+      <li id="fn:1">
+        <p>念のため、この引用文が過去形であって、ここでは私が現代形に移動させようとしている。</p>
+      </li>
+    </ol>
+    </div>
+    <footer>
+      <p>&#160;<a href="#fnref1:1" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
+    </footer>
+  </article>
 
-<!-- Page 9 -->
+  <article>
+    <div class="footnotes">
+    <ol start="3">
+      <li id="fn:3">
+        <p>マシェロントは、要塞化された宮殿の遺跡があるヨルダンの遺跡です。それは死海の東海岸のヨルダン川河口の約２４キロの丘に位置している。ヘブライ語では「מכוור」、アラブ語では、「قلة المشناقى」を呼称されている。</p>
+      </li>
+    </ol>
+    </div>
+    <footer>
+      <p>&#160;<a href="#fnref1:3" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
+    </footer>
+  </article>
+</aside>
+
+<!-- Page 8 --><hr>
 
 <article>
-	<p>メムリンクは左翼パネルの前景に《洗礼者ヨハネの斬首》を宮殿から出る<span style="color: #e6a64d;">階段</span>を通って牢の執行所として<span style="color: #e6a64d;">内庭</span>で位置づけて拡大することを選んだ。</p>
-  <p>右には、最初の弟子のニ人である<a href="https://ja.wikipedia.org/wiki/アンデレ" title="https://ja.wikipedia.org/wiki/アンデレ" id="andre-2" class="yellow">アンデレ</a>と<a href="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" title="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" id="jean-l-apotre-2" class="yellow">使徒ヨハネ</a>をも位置づけてやった。</p>
-<figure>
-  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-280.webp 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-380.webp 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-480.webp 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-840.webp 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-1280.webp 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、左翼パネル内面の詳細、《洗礼者ヨハネの頭》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、《左翼パネル内面》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-280.jpg 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-380.jpg 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-480.jpg 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-840.jpg 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-1280.jpg 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-1920.jpg 1920w"></picture><figcaption>左翼パネル内面の詳細、《洗礼者ヨハネの頭》</figcaption>
-</figure>
-<p><span style="color: #e6a64d;">死刑執行人</span>は、ほとんど感動していない<a href="https://ja.wikipedia.org/wiki/サロメ_(ヘロディアの娘))" title="https://ja.wikipedia.org/wiki/サロメ_(ヘロディアの娘)" id="salome-3" class="yellow">サロメ</a>が彼に差し出す<span style="color: #e6a64d;">大皿に頭を</span>もたせかけながら、背後から描かれている。</p>
-<p>美術史家たちは、死刑執行者とサロメの姿勢において、彼がブリュッセルで<a href="https://ja.wikipedia.org/wiki/ロヒール・ファン・デル・ウェイデン" title="https://ja.wikipedia.org/wiki/ロヒール・ファン・デル・ウェイデン" id="rogier-van-der-weyden" class="yellow">ロヒール・ファン・デル・ウェイデン</a>という画家のアシスタントだったころの先生の作品で見当たる<span style="color: #e6a64d;">似たような場面をメムリンクによるの再利用</span>だと見っ分けている。
-これは<a href="https://ja.wikipedia.org/wiki/絵画館_(ベルリン)" title="https://ja.wikipedia.org/wiki/絵画館_(ベルリン)" id="gemaldegalerie" class="yellow"><ruby lang="ja">ベルリン国立美術館<rp>(</rp><rt lang="de">Staatliche&#160;Museen&#160;zu&#160;Berlin</rt><rp>)</rp></ruby lang="ja"></a>の<a href="https://ja.wikipedia.org/wiki/ベルリン美術館" title="https://ja.wikipedia.org/wiki/Musées_d'État_de_Berlin" id="musees-d-etat-de-berlin" class="yellow"><ruby lang="ja">絵画館<rp>(</rp><rt lang="de">Gemäldegalerie</rt><rp>)</rp></ruby lang="ja"></a>にある<time datetime="1450">１４５０<time>〜<time datetime="1455">５５年頃<time>に描かれた<span style="color: #e6a64d;">《聖ヨハネの三連画》</span>の左翼パネル内面にある<span style="color: #999;">（目録番号５３４B）</span>。</p>
-<figure>
-  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-280.webp 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-380.webp 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-480.webp 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-840.webp 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1280.webp 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-640.jpg" title="ロヒール・ファン・デル・ウェイデン、左翼パネル内面の詳細、《聖ヨハネの三連画》、ベルリン国立美術館、絵画館、ベルリン" alt="ロヒール・ファン・デル・ウェイデン、左翼パネル内面の詳細、《聖ヨハネの三連画》、ベルリン国立美術館、絵画館、ベルリン" class="class-40-img" ean le baptistesizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-280.jpg 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-380.jpg 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-480.jpg 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-840.jpg 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1280.jpg 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1920.jpg 1920w"></picture><figcaption>左翼パネル内面の詳細、ロヒール・ファン・デル・ウェイデン筆《聖ヨハネの三連画》</figcaption>
-</figure>
-<p>マルコの語りは続く<span style="color: #999;">（マルコ、２９）</span>：<span style="color: #e6a64d;">「ヨハネの弟子たちはこのことを聞き、やって来て、遺体を引き取り、墓に納めた」</span>。
-後者はヘロデ・アンティパスに支配されている領地から遠くある、ヨルダン川西岸地区での<ruby lang="ja" style="color:#e6a64d;">セバステ<rp>(</rp><rt lang="grc" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">Σεβαστή</rt><rp>)</rp></ruby>、現代の<a href="https://ja.wikipedia.org/wiki/サバスティーヤ" title="https://ja.wikipedia.org/wiki/サバスティーヤ" id="sebastia" class="yellow"><ruby lang="ja">セバスティア<rp>(</rp><rt lang="ar">سبسطية</rt><rp>)</rp></ruby lang="ja"></a>という<a href="https://ja.wikipedia.org/wiki/エリシャ" title="https://ja.wikipedia.org/wiki/エリシャ" id="elisee" class="yellow">エリシャ</a>と<a href="https://ja.wikipedia.org/wiki/オバデヤ" title="https://ja.wikipedia.org/wiki/オバデヤ" id="abdias" class="yellow">オバデヤ</a>預言者たちのお墓の近くに持って行かれた。</p>
-<p>中央パネルの左側では、右に、洗礼者ヨハネの後ろに、メムリンクが彼の伝説の最後の場面を表した。それは、キリスト教の信仰と戦ってヨハネが葬られたところに行われた奇跡を止めさせるために、<a href="https://ja.wikipedia.org/wiki/フラウィウス・クラウディウス・ユリアヌス" title=" https://ja.wikipedia.org/wiki/フラウィウス・クラウディウス・ユリアヌス" id="julien-l-apostat" class="yellow">背教者ユリアヌス</a>が遺体を掘り起こし、焼いて、畑を散々に散らすよう命じたということだ。</p>
-<figure>
-  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-280.webp 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-380.webp 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-480.webp 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-840.webp 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-1280.webp 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《背教者ユリアヌス大帝の命令により掘り起こされて焼け焦されげた洗礼者ヨハネの遺体》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《背教者ユリアヌス大帝の命令により掘り起こされて焼け焦されげた洗礼者ヨハネの遺体》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-280.jpg 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-380.jpg 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-480.jpg 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-840.jpg 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-1280.jpg 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、《背教者ユリアヌス大帝の命令により掘り起こされて焼け焦されげた洗礼者ヨハネの遺体》</figcaption>
-</figure>
-<p>彼の頭は、伝説によると、現代の<ruby lang="ja">ホムス<rp>(</rp><rt lang="ar">حمص</rt><rp>)</rp></ruby lang="ja">、当時エメサ市の陶工屋によって別に葬られたのであろうから、それは、遠ざけた石の後ろにある<span style="color: #e6a64d;">壁の開口部</span>の中に<span style="color: #999;">（黄金伝説、第１２１章、III.）</span>。</p>
-<figure>
-  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-280.webp 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-380.webp 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-480.webp 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-840.webp 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-1280.webp 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《壁の開口部の中の洗礼者ヨハネの頭》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《壁の開口部の中の洗礼者ヨハネの頭》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-280.jpg 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-380.jpg 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-480.jpg 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-840.jpg 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-1280.jpg 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、《壁の開口部の中の洗礼者ヨハネの頭》、</figcaption>
-</figure>
-<p>伝説によると、頭が別にシリアにある現代の<a href="https://ja.wikipedia.org/wiki/ホムス" title="https://ja.wikipedia.org/wiki/ホムス" id="homs" class="yellow"><ruby lang="ja">ホムス<rp>(</rp><rt lang="ar">حمص</rt><rp>)</rp></ruby lang="ja"></a>のエメサ市のある製陶屋さんに埋められたのであろう。その後、星に追いかけながら発見した聖マルケッルス <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">1</a></sup> に顕現されたであろう<span style="color: #999;">（黄金伝説、第１２１章、第３段）</span>。</p>
-<div class="footnotes">
-<hr>
-<ol>
-  <li id="fn:1">
-  <p>行政官、シリア属州・<a href="https://ja.wikipedia.org/wiki/アパメア" title="https://ja.wikipedia.org/wiki/アパメア" class="yellow"><ruby lang="ja">アパメア<rp>(</rp><rt lang="grc">Απάμεια</rt><rp>)</rp></ruby lang="ja"></a>市の司教に選ばれた人。彼はセオドシウス大帝の命令に従って偶像の社の破壊を監督していたところに、異教徒たちに暗殺されて亡くなりました&#160;<a href="#fnref1:1" rev="footnote" class="footnote-backref">&#8617;</a></p>
-  </li>
-</ol>
-</div>
-</div>
+  <section><article>
+    <h6 class="yellow">左翼パネル内面全景</h6>
 
-<!-- Page 10 -->
+    <section><article>
+      <p>左翼パネル内面に語りが続く。</p>
+    </article></section>
+
+    <figure>
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-280.webp 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-380.webp 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-480.webp 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-640.webp 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-840.webp 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-1280.webp 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-1600.webp 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、《左翼パネル内面》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、《左翼パネル内面》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-280.jpg 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-380.jpg 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-480.jpg 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-640.jpg 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-840.jpg 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-1280.jpg 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-1600.jpg 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/saint-jean_sans-cadre-1920.jpg 1920w"></picture><figcaption>左翼パネル内面全景</figcaption>
+    </figure>
+  </article></section>
+
+  <section><article>
+    <h6 class="yellow">ヘロデの宮殿で表わされているサロメの踊りの場面、左翼パネル内面</h6>
+    
+    <section><article>
+      <p>ヨハネを、信奉者達のトラブルの騒ぎを起こさずに死なせるのを成功させるために、<span style="color: #e6a64d;">ヘロデ</span>が彼らを欺くよう、ごまかしを考える<span style="color: #999;">（マルコ、６・２１-２２）</span>。
+      「自分の誕生日の祝いに」ガリラヤの「高官や将校、ガリラヤの有力者などを招いて宴会」を催す。</p>
+      <p>「ヘロディアの娘<a href="https://ja.wikipedia.org/wiki/サロメ_(ヘロディアの娘))" title="https://ja.wikipedia.org/wiki/サロメ_(ヘロディアの娘)" id="salome" class="yellow">サロメ</a>」が姿を現して踊る。</p>
+      <p><span style="color: #e6a64d;">《サロメの踊り》</span>は左翼パネルの左上部にある宮殿の塔で行われている。</p>
+      <p>その上、<ruby>壁<rp>(</rp><rt>へき</rt><rp>)</rp>龕<rp>(</rp><rt>がん</rt><rp>)</rp></ruby>での像が、ヘロデの不倫行為をおのめかすいくつかの不信心な人物、裸の女性のニ人の間の一人裸の男性が表わされている。</p>
+    </article></section>
+
+    <figure>
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-280.webp 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-380.webp 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-480.webp 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-640.webp 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-840.webp 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-1280.webp 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-1600.webp 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、左翼パネル内面の詳細、《サロメの踊り》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、左翼パネル内面の詳細、《サロメの踊り》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-80-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-280.jpg 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-380.jpg 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-480.jpg 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-640.jpg 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-840.jpg 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-1280.jpg 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-1600.jpg 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-1920.jpg 1920w"></picture><figcaption>左翼パネル内面の詳細、《サロメの踊り》</figcaption>
+    </figure>
+
+    </article></section>
+      <p></p>
+      <p>ヘロデがその踊りを気に入ったことを見せかけて、<span style="color: #e6a64d;">ヨハネの死の責任を免除するには</span>言う：</p>
+      <blockquote>
+        <p><span style="color: #e6a64d;"><q style="color: #e6a64d;">欲しいものがあれば何でも言いなさい</q></span>、</p>
+      </blockquote>
+      <p>更に、</p>
+      <blockquote>
+        <p><q style="color: #e6a64d;">お前が願うなら、この国の半分でもやろう"と固く誓ったのである</q>。</p>
+      </blockquote>
+      <p>サロメが座を外して、母親に、</p>
+      <blockquote>
+        <p><span style="color: #e6a64d;"><q style="color: #e6a64d;">何を願いましょうか</q></span>と言うと、</p>
+      </blockquote>
+      <p>ヘロディアは、</p>
+      <blockquote>
+        <p><span style="color: #e6a64d;"><q style="color: #e6a64d;">洗礼者ヨハネの首を</q></span>と言った。</p>
+      </blockquote>
+      <p>早速、少女は大急ぎで王のところに行き、</p>
+      <blockquote>
+        <p><span style="color: #e6a64d;"><q style="color: #e6a64d;">今すぐに洗礼者ヨハネの首を盆に載せて、いただきとうございます</q></span>と願う。</p>
+      </blockquote>
+      <p><span style="color: #999;">（マルコ、６・２４-２９）</span></p>
+      <p>この語り筋のすべてが本当にごまかしである証拠が、もしサロメがヘロデに<span style="color: #e6a64d;">「自分の父のフィリポか自分の母の<a href="https://ja.wikipedia.org/wiki/ヘロデヤ" title="https://ja.wikipedia.org/wiki/ヘロディア" id="herodiade-2" class="yellow">ヘロディア</a>」</span>を頼んだなら、ヘロデがそれに同意出来ません<span style="color: #999;">（黄金伝説１２１章、第１段 <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">ノート１</a></sup> ）</span>。</p>
+      <p>ある衛兵は出て行き、「牢の中でヨハネの首をはね」に行く<span style="color: #999;">（マルコ、６・２２-２３）</span>。</p>
+    </article></section>
+
+    <figure>
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-280.webp 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-380.webp 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-480.webp 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-640.webp 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-840.webp 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-1280.webp 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-1600.webp 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、左翼パネル内面の詳細、《洗礼者ヨハネの斬首》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、左翼パネル内面の詳細、《洗礼者ヨハネの斬首》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-280.jpg 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-380.jpg 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-480.jpg 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-640.jpg 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-840.jpg 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-1280.jpg 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-1600.jpg 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-1920.jpg 1920w"></picture><figcaption>左翼パネル内面の詳細、《洗礼者ヨハネの斬首》</figcaption>
+    </figure>
+  </article></section>
+</article>
+
+  <hr>
+
+  <aside>
+    <article>
+    <div class="footnotes">
+    <ol>
+      <li id="fn:1">
+      <p>ヤコブス・デ・ウォラギネによって書き留められた<a href="https://ja.wikipedia.org/wiki/ヒエロニムス" title="https://ja.wikipedia.org/wiki/ヒエロニムス" id="saint-jerome" class="yellow">ヒエロニムス</a>の言葉。</p>
+      </li>
+    </ol>
+    </div>
+    <footer>
+      <p>&#160;<a href="#fnref1:1" rev="footnote" class="footnote-backref">文書に戻る　&#8617;</a></p>
+    </footer>
+  </article>
+</aside>
+
+<!-- Page 9 --><hr>
+
+<article>
+  <section><article>
+    <h6 class="yellow">Détail de la décollation de Jean le Baptiste, volet intérieur gauche</h6>
+
+    <section><article>
+      <p>メムリンクは左翼パネルの前景に《洗礼者ヨハネの斬首》を宮殿から出る<span style="color: #e6a64d;">階段</span>を通って牢の執行所として<span style="color: #e6a64d;">内庭</span>で位置づけて拡大することを選んだ。</p>
+      <p>右には、最初の弟子のニ人である<a href="https://ja.wikipedia.org/wiki/アンデレ" title="https://ja.wikipedia.org/wiki/アンデレ" id="andre-2" class="yellow">アンデレ</a>と<a href="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" title="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" id="jean-l-apotre-2" class="yellow">使徒ヨハネ</a>をも位置づけてやった。</p>
+    </article></section>
+
+    <figure>
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-280.webp 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-380.webp 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-480.webp 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-640.webp 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-840.webp 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-1280.webp 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-1600.webp 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、左翼パネル内面の詳細、《洗礼者ヨハネの頭》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、《左翼パネル内面》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-280.jpg 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-380.jpg 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-480.jpg 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-640.jpg 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-840.jpg 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-1280.jpg 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-1600.jpg 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-1920.jpg 1920w"></picture><figcaption>左翼パネル内面の詳細、《洗礼者ヨハネの頭》</figcaption>
+    </figure>
+
+    <article><section>
+      <p><span style="color: #e6a64d;">死刑執行人</span>は、ほとんど感動していない<a href="https://ja.wikipedia.org/wiki/サロメ_(ヘロディアの娘))" title="https://ja.wikipedia.org/wiki/サロメ_(ヘロディアの娘)" id="salome-3" class="yellow">サロメ</a>が彼に差し出す<span style="color: #e6a64d;">大皿に頭を</span>もたせかけながら、背後から描かれている。</p>
+    </article></section>
+  </article></section>
+
+  <article><section>
+    <h6 class="yellow">Inspiration de Memling sur Van Der Weyden pour la scène de la décollation de Jean le Baptiste, volet intérieur gauche</h6>
+
+    <article><section>
+      <p>美術史家たちは、死刑執行者とサロメの姿勢において、彼がブリュッセルで<a href="https://ja.wikipedia.org/wiki/ロヒール・ファン・デル・ウェイデン" title="https://ja.wikipedia.org/wiki/ロヒール・ファン・デル・ウェイデン" id="rogier-van-der-weyden" class="yellow">ロヒール・ファン・デル・ウェイデン</a>という画家のアシスタントだったころの先生の作品で見当たる<span style="color: #e6a64d;">似たような場面をメムリンクによるの再利用</span>だと見っ分けている。
+      これは<a href="https://ja.wikipedia.org/wiki/絵画館_(ベルリン)" title="https://ja.wikipedia.org/wiki/絵画館_(ベルリン)" id="gemaldegalerie" class="yellow"><ruby lang="ja">ベルリン国立美術館<rp>(</rp><rt lang="de">Staatliche&#160;Museen&#160;zu&#160;Berlin</rt><rp>)</rp></ruby lang="ja"></a>の<a href="https://ja.wikipedia.org/wiki/ベルリン美術館" title="https://ja.wikipedia.org/wiki/Musées_d'État_de_Berlin" id="musees-d-etat-de-berlin" class="yellow"><ruby lang="ja">絵画館<rp>(</rp><rt lang="de">Gemäldegalerie</rt><rp>)</rp></ruby lang="ja"></a>にある<time datetime="1450">１４５０<time>〜<time datetime="1455">５５年頃<time>に描かれた<span style="color: #e6a64d;">《聖ヨハネの三連画》</span>の左翼パネル内面にある<span style="color: #999;">（目録番号５３４B）</span>。</p>
+    </article></section>
+
+    <figure>
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-280.webp 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-380.webp 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-480.webp 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-640.webp 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-840.webp 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1280.webp 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1600.webp 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-640.jpg" title="ロヒール・ファン・デル・ウェイデン、左翼パネル内面の詳細、《聖ヨハネの三連画》、ベルリン国立美術館、絵画館、ベルリン" alt="ロヒール・ファン・デル・ウェイデン、左翼パネル内面の詳細、《聖ヨハネの三連画》、ベルリン国立美術館、絵画館、ベルリン" class="class-40-img" ean le baptistesizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-280.jpg 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-380.jpg 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-480.jpg 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-640.jpg 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-840.jpg 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1280.jpg 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1600.jpg 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1920.jpg 1920w"></picture><figcaption>左翼パネル内面の詳細、ロヒール・ファン・デル・ウェイデン筆《聖ヨハネの三連画》</figcaption>
+    </figure>
+
+    <article><section>
+      <p>マルコの語りは続く<span style="color: #999;">（マルコ、２９）</span>：<span style="color: #e6a64d;">「ヨハネの弟子たちはこのことを聞き、やって来て、遺体を引き取り、墓に納めた」</span>。
+      後者はヘロデ・アンティパスに支配されている領地から遠くある、ヨルダン川西岸地区での<ruby lang="ja" style="color:#e6a64d;">セバステ<rp>(</rp><rt lang="grc" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">Σεβαστή</rt><rp>)</rp></ruby>、現代の<a href="https://ja.wikipedia.org/wiki/サバスティーヤ" title="https://ja.wikipedia.org/wiki/サバスティーヤ" id="sebastia" class="yellow"><ruby lang="ja">セバスティア<rp>(</rp><rt lang="ar">سبسطية</rt><rp>)</rp></ruby lang="ja"></a>という<a href="https://ja.wikipedia.org/wiki/エリシャ" title="https://ja.wikipedia.org/wiki/エリシャ" id="elisee" class="yellow">エリシャ</a>と<a href="https://ja.wikipedia.org/wiki/オバデヤ" title="https://ja.wikipedia.org/wiki/オバデヤ" id="abdias" class="yellow">オバデヤ</a>預言者たちのお墓の近くに持って行かれた。</p>
+      <p>中央パネルの左側では、右に、洗礼者ヨハネの後ろに、メムリンクが彼の伝説の最後の場面を表した。それは、キリスト教の信仰と戦ってヨハネが葬られたところに行われた奇跡を止めさせるために、<a href="https://ja.wikipedia.org/wiki/フラウィウス・クラウディウス・ユリアヌス" title=" https://ja.wikipedia.org/wiki/フラウィウス・クラウディウス・ユリアヌス" id="julien-l-apostat" class="yellow">背教者ユリアヌス</a>が遺体を掘り起こし、焼いて、畑を散々に散らすよう命じたということだ。</p>
+    </article></section>
+
+    <figure>
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-280.webp 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-380.webp 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-480.webp 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-640.webp 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-840.webp 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-1280.webp 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-1600.webp 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《背教者ユリアヌス大帝の命令により掘り起こされて焼け焦されげた洗礼者ヨハネの遺体》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《背教者ユリアヌス大帝の命令により掘り起こされて焼け焦されげた洗礼者ヨハネの遺体》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-280.jpg 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-380.jpg 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-480.jpg 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-640.jpg 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-840.jpg 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-1280.jpg 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-1600.jpg 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/incendie-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、《背教者ユリアヌス大帝の命令により掘り起こされて焼け焦されげた洗礼者ヨハネの遺体》</figcaption>
+    </figure>
+  </article></section>
+  
+  <article><section>
+    <h6 class="yellow">壁の開口部の中の洗礼者ヨハネの頭、中央パネル</h6>
+    <article><section>
+      <p>しかし、思い通りになりませんでした。</p>
+      <p>彼の頭は、伝説によると、現代のシリアでの<ruby lang="ja">ホムス<rp>(</rp><rt lang="ar">حمص</rt><rp>)</rp></ruby lang="ja">、当時エメサ市の陶工屋によって別に葬られたのであろうから、それは、遠ざけた石の後ろにある<span style="color: #e6a64d;">壁の開口部</span>の中に<span style="color: #999;">（黄金伝説、第１２１章、III.）</span>。</p>
+      <p>伝説によると、頭が別にシリアにある現代の<a href="https://ja.wikipedia.org/wiki/ホムス" title="https://ja.wikipedia.org/wiki/ホムス" id="homs" class="yellow"><ruby lang="ja">ホムス<rp>(</rp><rt lang="ar">حمص</rt><rp>)</rp></ruby lang="ja"></a>のエメサ市のある製陶屋さんに埋められたのであろう。その後、星に追いかけながら発見した聖マルケッルス <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">ノート１</a></sup> に顕現されたであろう<span style="color: #999;">（黄金伝説、第１２１章、第３段）</span>。</p>
+    </article></section>
+
+    <figure>
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-280.webp 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-380.webp 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-480.webp 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-640.webp 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-840.webp 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-1280.webp 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-1600.webp 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《壁の開口部の中の洗礼者ヨハネの頭》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、中央パネルの詳細、《壁の開口部の中の洗礼者ヨハネの頭》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-280.jpg 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-380.jpg 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-480.jpg 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-640.jpg 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-840.jpg 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-1280.jpg 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-1600.jpg 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、《壁の開口部の中の洗礼者ヨハネの頭》、</figcaption>
+    </figure>
+
+    <article><section>
+      <p>これで<cite>黄金伝説</cite>においての洗礼者ヨハネの伝説の語りが終ります。</p>
+    </article></section>
+  </article></section>
+</article>
+
+<hr>
+
+<aside>
+  <article>
+  <div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>行政官、シリア属州・<a href="https://ja.wikipedia.org/wiki/アパメア" title="https://ja.wikipedia.org/wiki/アパメア" class="yellow"><ruby lang="ja">アパメア<rp>(</rp><rt lang="grc">Απάμεια</rt><rp>)</rp></ruby lang="ja"></a>市の司教に選ばれた人。彼はセオドシウス大帝の命令に従って偶像の社の破壊を監督していたところに、異教徒たちに暗殺されて亡くなりました</p>
+    </li>
+  </ol>
+  </div>
+  <footer>
+    <p>&#160;<a href="#fnref1:1" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
+  </footer>
+  </article>
+</aside>
+
+<!-- Page 10 --><hr>
 
 <article>
 <h4 id="legende-de-jean-l-evangeliste" class="yellow">福音書記者ヨハネの伝説</h4>
