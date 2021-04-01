@@ -1330,7 +1330,7 @@
         <h6 class="yellow">Choix du nom de Jean par Zaccharie</h6>
 
         <section><article>
-          <p>Le nom de ce fils, «Jean», est lui aussi un des enjeux du récit <span style="color: #999;">(Luc 1,59-63)</span>:</p>
+          <p>Le nom de ce fils, «Jean», est lui aussi un des enjeux du récit <span style="color: #999;">(Luc chapître 1, versets 59 à 63)</span>:</p>
           <blockquote>
             <p>«Le huitième jour, ils vinrent pour la circoncision de l’enfant, et ils voulaient l’appeler Zaccharie, du nom de son père. Mais sa mère prit la parole, et dit:</p>
             <p><span style="color: #e6a64d;"><q>Non, il s'appelera Jean</q></span>.</p>
@@ -1763,9 +1763,9 @@
 <!-- Page 10 --><hr>
 
 <article>
-  <h4 class="yellow" id="légende-de-jean-l’évangéliste">scènes de la légende de Jean l’Évangéliste selon <cite>La Légende Dorée</cite></h4>
+  <h4 class="yellow" id="légende-de-jean-l’évangéliste">scènes de la légende de Jean l’Évangéliste selon <cite>La Légende Dorée</cite> et <cite>L'Apocalypse</cite></h4>
   <article><section>
-    <h5 class="yellow">précisions sur Jean l’Évangéliste selon <cite>La Légende Dorée</cite></h5>
+    <h5 class="yellow">précisions sur Jean l’Évangéliste selon <cite>La Légende Dorée</cite> et <cite>L'Apocalypse</cite></h5>
     <section><article>
 
       <section><article>
@@ -3372,7 +3372,7 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1600.jpg 1600w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1920.jpg 1920w"></picture><figcaption>Barbe la grande martyre</figcaption>
   </figure>
-  
+
   <section><article>
     <h3 id="barbe-selon-legende" class="yellow">Légende de Barbe la grande martyre selon le texte apocryphe ajouté à <cite>La Légende dorée</cite></h3>
     <section><article>
@@ -4133,7 +4133,345 @@
 <!-- Page 20 --><hr>
 
 <article>
-  <h3 id="apocalypse" class="yellow">Vision du trône du dieu et de la cour céleste: le vivant sur le trône et l'Agneau</h3>
+  <h2 id="apocalypse" class="yellow">Vision du trône du dieu et de la cour céleste: le vivant sur le trône et l'Agneau</h2>
+  <section><article>
+    <h3 id="apocalypse" class="yellow">Texte de la vision du trône du dieu et de la cour céleste: le vivant sur le trône et l'Agneau</h3>
+    <section><article>
+      <hr>
+      <section><article><p>out</p>
+        <ol class="doc">
+          <li>Chapître 4</li>
+          <li value="01">Après cela, j’ai vu : et voici qu’il y avait une porte ouverte dans le ciel. Et la voix que j’avais entendue, pareille au son d’une trompette, me parlait en disant : « Monte jusqu’ici, et je te ferai voir ce qui doit ensuite advenir. »</li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article>
+        <ol class="doc">
+          <li>Chapître 4</li>
+          <li value="02">わたしは、たちまち<span style="color: #e6a64d;">「霊」</span>に満たされた。
+          すると、見よ、<span style="color: #e6a64d;">天</span>に<span style="color: #e6a64d;">玉座</span>が設けられていて、その玉座の上に座っている<span style="color: #e6a64d;">方</span>がおられた。</li>
+          <li value="03">その方は、碧玉や赤めのうのようであり、
+          玉座の周りにはエメラルドのような<span style="color: #e6a64d;">虹</span>が輝いていた。</li>
+          <li value="04">また、玉座の周りに二十四の座があって、それらの座の上には白い衣を着て、頭に金の冠をかぶった<span style="color: #e6a64d;">二十四人の長老</span>が座っていた。</li>
+          <li value="05">玉座からは、稲妻、さまざまな音、雷が起こった。また、玉座の前には、七つのともし火が燃えていた。
+          これは神の七つの霊である。</li>
+          <li value="06">また、玉座の前は、水晶に似たガラスの海のようであった。</li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article>
+        <ol class="doc">
+          <li value="07">第一の生き物は<span style="color: #e6a64d;">獅子</span>のようであり、第二の生き物は<span style="color: #e6a64d;">若い雄牛</span>のようで、第三の生き物は<span style="color: #e6a64d;">人間のような顔</span>を持ち、第四の生き物は空を飛ぶ<span style="color: #e6a64d;">鷲</span>のようであった。</li>
+          <li value="08">
+            <p>この四つの生き物には、それぞれ<span style="color: #e6a64d;">六つの翼</span>があり、その周りにも内側にも、一面に目があった。
+          彼らは、昼も夜も絶え間なく言い続けた。</p>
+            <blockquote>
+              <p><q style="quotes: '「' '」';">聖なるかな、聖なるかな、聖なるかな、全能者である神、主、かつておられ、今おられ、やがて来られる方。</q></p>
+            </blockquote>
+          </li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article><p>out</p>
+          <ol class="doc">
+            <li value="9">Lorsque les Vivants rendent gloire, honneur et action de grâce à celui qui siège sur le Trône, lui qui vit pour les siècles des siècles,</li>
+            <li value="10">les vingt-quatre Anciens se jettent devant Celui qui siège sur le Trône, ils se prosternent face à celui qui vit pour les siècles des siècles ; ils lancent leur couronne devant le Trône en disant:</li>
+            <li value="11">« Tu es digne, Seigneur notre Dieu, de recevoir la gloire, l’honneur et la puissance. C’est toi qui créas l’univers ; tu as voulu qu’il soit : il fut créé. »</li>
+          </ol>
+      </article></section>
+      <hr>
+      <section><article><p>out</p>
+        <ol class="doc">
+          <li>Chapître 5</li>
+          <li value="01">J’ai vu, dans la main droite de celui qui siège sur le Trône, un livre en forme de rouleau, écrit au-dedans et à l’extérieur, scellé de sept sceaux.</li><li value="2">Puis j’ai vu un ange plein de force, qui proclamait d’une voix puissante : « Qui donc est digne d’ouvrir le Livre et d’en briser les sceaux ? »</li>
+          <li value="3">Mais personne, au ciel, sur terre ou sous la terre, ne pouvait ouvrir le Livre et regarder.</li>
+          <li value="4">Je pleurais beaucoup, parce que personne n’avait été trouvé digne d’ouvrir le Livre et de regarder.</li>
+          <li value="5">Mais l’un des Anciens me dit : « Ne pleure pas. Voilà qu’il a remporté la victoire, le lion de la tribu de Juda, le rejeton de David : il ouvrira le Livre aux sept sceaux. »</li>
+          </ol>
+      </article></section>
+      <hr>
+      <section><article>
+        <ol class="doc">
+          <li value="06">「わたしはまた、玉座と四つの生き物の間、長老たちの間に、屠られたような<span style="color: #e6a64d;">小羊が立っている</span>のを見た。小羊には七つの角と七つの目があった。この七つの目は、全地に遣わされている神の七つの霊である。」</li>
+          <li value="07">小羊は進み出て、玉座に座っておられる方の右の手から、巻物を受け取った。</li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article><p>out</p>
+          <ol class="doc">
+            <li value="8">Quand l’Agneau eut pris le Livre, les quatre Vivants et les vingt-quatre Anciens se jetèrent à ses pieds. Ils tenaient chacun une cithare et des coupes d’or pleines de parfums qui sont les prières des saints.</li>
+            <li value="9">Ils chantaient ce cantique nouveau : « Tu es digne, de prendre le Livre et d’en ouvrir les sceaux, car tu fus immolé, rachetant pour Dieu, par ton sang, des gens de toute tribu, langue, peuple et nation.</li>
+            <li value="10">Pour notre Dieu, tu en as fait un royaume et des prêtres : ils régneront sur la terre. »</li>
+            <li value="11">Alors j’ai vu : et j’entendis la voix d’une multitude d’anges qui entouraient le Trône, les Vivants et les Anciens ; ils étaient des myriades de myriades, par milliers de milliers.</li>
+            <li value="12">Ils disaient d’une voix forte : « Il est digne, l’Agneau immolé, de recevoir puissance et richesse, sagesse et force, honneur, gloire et louange. »</li>
+            <li value="13">Toute créature dans le ciel et sur la terre, sous la terre et sur la mer, et tous les êtres qui s’y trouvent, je les entendis proclamer : « À celui qui siège sur le Trône, et à l’Agneau, la louange et l’honneur, la gloire et la souveraineté pour les siècles des siècles. »</li>
+            <li value="14">Et les quatre Vivants disaient : « Amen ! » ; et les Anciens, se jetant devant le Trône, se prosternèrent.</li>
+          </ol>
+      </article></section>
+      <hr>
+      <section><article>
+        <ol class="doc">
+          <li>第６章</li>
+          <li value="01">また、わたしが見ていると、小羊が七つの封印の一つを開いた。すると、四つの生き物の一つが、雷のような声で「出て来い」と言うのを、わたしは聞いた。</li>
+          <li value="02">そして見ていると、見よ、<span style="color: #e6a64d;">白い馬</span>が現れ、乗っている者は、<span style="color: #e6a64d;">弓</span>を持っていた。彼は<span style="color: #e6a64d;">冠</span>を与えられ、勝利の上に更に勝利を得ようと出て行った。</li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article>
+        <ol class="doc">
+          <li value="03">小羊が第二の封印を開いたとき、第二の生き物が「出て来い」と言うのを、わたしは聞いた。</li>
+          <li value="04">すると、<span style="color: #e6a64d;">火のように赤い</span>別の<span style="color: #e6a64d;">馬</span>が現れた。その馬に乗っている者には、地上から平和を奪い取って、殺し合いをさせる力が与えられた。また、この者には大きな<span style="color: #e6a64d;">剣</span>が与えられた。</li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article>
+        <ol class="doc">
+          <li value="05">小羊が第三の封印を開いたとき、第三の生き物が「出て来い」と言うのを、わたしは聞いた。
+          そして見ていると、見よ、<span style="color: #e6a64d;">黒い馬</span>が現れ、乗っている者は、手に<span style="color: #e6a64d;">秤</span>を持っていた。</li>
+          <li value="06">わたしは、四つの生き物の間から出る声のようなものが、こう言うのを聞いた。「小麦は一コイニクスで一デナリオン。
+          大麦は三コイニクスで一デナリオン。オリーブ油とぶどう酒とを損なうな。」</li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article>
+        <ol class="doc">
+          <li value="07">
+            <p>小羊が第四の封印を開いたとき、</p>
+            <blockquote>
+              <p>「出て来い」と言う</p>
+            </blockquote>
+            <p>第四の生き物の声を、わたしは聞いた。</p>
+          </li>
+          <li value="08">そして見ていると、見よ、<span style="color: #e6a64d;">青白い馬</span>が現れ、乗っている者の名は<span style="color: #e6a64d;">「死」</span>といい、これに<span style="color: #e6a64d;">陰府</span>が従っていた。</li>
+          <li>彼らには、地上の四分の一を支配し、剣と飢饉と死をもって、更に地上の野獣で人を滅ぼす権威が与えられた。 </li>
+          <li><span style="color: #999;">（...）</span></li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article><p>out</p>
+        <ol class="doc">
+          <li value="9">Et quand il ouvrit le cinquième sceau, je vis sous l’autel les âmes de ceux qui furent égorgés à cause de la parole de Dieu et du témoignage qu’ils avaient porté.</li>
+          <li value="10">Ils crièrent d’une voix forte : « Jusques à quand, Maître saint et vrai,resteras-tu sans juger, sans venger notre sang sur les habitants de la terre ? »</li>
+          <li value="11">Et il fut donné à chacun une robe blanche, et il leur fut dit de patienter encore quelque temps, jusqu’à ce que soient au complet leurs compagnons de service, leurs frères, qui allaient être tués comme eux.</li>
+          <li value="12">Alors j’ai vu : quand il ouvrit le sixième sceau, il y eut un grand tremblement de terre, le soleil devint noir comme une étoffe de crin, et la lune entière, comme du sang,</li>
+          <li value="13">et les étoiles du ciel tombèrent sur la terre comme lorsqu’un figuier secoué par grand vent jette ses fruits.</li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article>
+        <ol class="doc">
+          <li value="14">天は巻物が巻き取られるように消え去り、山も島も、みなその場所から移された。</li>
+          <li value="15"><span style="color: #e6a64d;">地上の王、高官、千人隊長、富める者、力ある者、また、奴隷も自由な身分の者もことごとく、洞穴や山の岩間に隠れ</span></li>
+          <li value="16"><p>山と岩に向かって、</p>
+          <blockquote>
+            <p><q style="quotes: '「' '」';">わたしたちの上に覆いかぶさって、玉座に座っておられる方の顔と小羊の怒りから、わたしたちをかくまってくれ</q>と言った。</p>
+          </blockquote>
+          </li>
+          <li value="17">
+          <blockquote>
+            <p><q style="quotes: '「' '」';">神と小羊の怒りの大いなる日が来たからである。だれがそれに耐えられるであろうか。</q></p>
+          </blockquote>
+          </li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article><p>out</p>
+        <ol class="doc">
+          <li>第７章</li>
+          <li value="1"> Après cela, j’ai vu quatre anges debout aux quatre coins de la terre, maîtrisant les quatre vents de la terre, pour empêcher le vent de souffler sur la terre, sur la mer et sur tous les arbres.</li>
+          <li value="2">Puis j’ai vu un autre ange qui montait du côté où le soleil se lève, avec le sceau qui imprime la marque du Dieu vivant ; d’une voix forte, il cria aux quatre anges qui avaient reçu le pouvoir de faire du mal à la terre et à la mer :</li>
+          <li value="3">« Ne faites pas de mal à la terre, ni à la mer, ni aux arbres, avant que nous ayons marqué du sceau le front des serviteurs de notre Dieu. »</li>
+          <li value="4">Et j’entendis le nombre de ceux qui étaient marqués du sceau : ils étaient cent quarante-quatre mille, de toutes les tribus des fils d’Israël.</li>
+          <li value="5">De la tribu de Juda, douze mille marqués du sceau ; de la tribu de Roubène, douze mille ; de la tribu de Gad, douze mille ;</li>
+          <li value="6">de la tribu d’Aser, douze mille ; de la tribu de Nephtali, douze mille ; de la tribu de Manassé, douze mille ;</li>
+          <li value="7">de la tribu de Siméon, douze mille ; de la tribu de Lévi, douze mille ; de la tribu d’Issakar, douze mille ;</li>
+          <li value="8">de la tribu de Zabulon, douze mille ; de la tribu de Joseph, douze mille ; de la tribu de Benjamin, douze mille marqués du sceau.</li>
+          <li value="9">Après cela, j’ai vu : et voici une foule immense, que nul ne pouvait dénombrer, une foule de toutes nations, tribus, peuples et langues. Ils se tenaient debout devant le Trône et devant l’Agneau, vêtus de robes blanches, avec des palmes à la main.</li>
+          <li value="10">Et ils s’écriaient d’une voix forte : « Le salut appartient à notre Dieu qui siège sur le Trône et à l’Agneau ! »</li>
+          <li value="11">Tous les anges se tenaient debout autour du Trône, autour des Anciens et des quatre Vivants ; se jetant devant le Trône, face contre terre, ils se prosternèrent devant Dieu.</li>
+          <li value="12">Et ils disaient : « Amen ! Louange, gloire, sagesse et action de grâce, honneur, puissance et force à notre Dieu, pour les siècles des siècles ! Amen ! »</li>
+          <li value="13">L’un des Anciens prit alors la parole et me dit : « Ces gens vêtus de robes blanches, qui sont-ils, et d’où viennent-ils ? »</li>
+          <li value="14">Je lui répondis : « Mon seigneur, toi, tu le sais. » Il me dit : « Ceux-là viennent de la grande épreuve ; ils ont lavé leurs robes, ils les ont blanchies par le sang de l’Agneau.</li>
+          <li value="15">C’est pourquoi ils sont devant le trône de Dieu, et le servent, jour et nuit, dans son sanctuaire. Celui qui siège sur le Trône établira sa demeure chez eux.</li>
+          <li value="16">Ils n’auront plus faim, ils n’auront plus soif, ni le soleil ni la chaleur ne les accablera,</li>
+          <li value="17">puisque l’Agneau qui se tient au milieu du Trône sera leur pasteur pour les conduire aux sources des eaux de la vie. Et Dieu essuiera toute larme de leurs yeux. »</li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article>
+        <ol class="doc">
+          <li>第８章</li>
+          <li value="01">小羊が第七の封印を開いたとき、天は半時間ほど沈黙に包まれた。</li>
+          <li value="02">そして、わたしは<span style="color: #e6a64d;">七人の天使</span>が神の御前に立っているのを見た。彼らには<span style="color: #e6a64d;">七つのラッパ</span>が与えられた。</li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article>
+        <ol class="doc">
+          <li value="03">また、別の天使が来て、手に<span style="color: #e6a64d;">金の香炉</span>を持って祭壇のそばに立つと、この天使に多くの香が渡された。すべての聖なる者たちの祈りに添えて、玉座の前にある<span style="color: #e6a64d;">金の祭壇</span>に献げるためである。</li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article>
+        <ol class="doc">
+          <li value="04">香の煙は、天使の手から、聖なる者たちの祈りと共に神の御前へ立ち上った。</li>
+          <li value="05">それから、天使が香炉を取り、それに祭壇の火を満たして地上へ投げつけると、雷、さまざまな音、稲妻、地震が起こった。</li>
+          <li value="06">さて、七つのラッパを持っている七人の天使たちが、ラッパを吹く用意をした。</li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article>
+        <ol class="doc">
+          <li value="10">第三の天使がラッパを吹いた。すると、<span style="color: #e6a64d;">松明のように燃えている大きな星</span>が、天から落ちて来て、川という川の三分の一と、その水源の上に落ちた。</li>
+          <li value="11">この星の名は<span style="color: #e6a64d;">「苦よもぎ」</span>といい、水の三分の一が苦よもぎのように苦くなって、そのために多くの人が死んだ。</li>
+          <li value="12">第四の天使がラッパを吹いた。すると、太陽の三分の一、月の三分の一、星という星の三分の一が損なわれたので、それぞれ三分の一が暗くなって、昼はその光の三分の一を失い、夜も同じようになった。</li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article>
+        <ol class="doc">
+          <li value="13"><p>また、見ていると、一羽の<span style="color: #e6a64d;">鷲</span>が空高く飛びながら、大声でこう言うのが聞こえた。</p>
+          <blockquote>
+            <p><q style="quotes: '「' '」';">不幸だ、不幸だ、不幸だ、地上に住む者たち。なお三人の天使が吹こうとしているラッパの響きのゆえに。</q></p>
+          </blockquote>
+          </li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article>
+        <ol class="doc">
+          <li>第９章</li>
+          <li value="01">第五の天使がラッパを吹いた。すると、一つの星が天から地上へ落ちて来るのが見えた。この星に、<span style="color: #e6a64d;">底なしの淵に通じる穴を開く鍵</span>が与えられ、</li>
+          <li value="02">それが底なしの淵の穴を開くと、<span style="color: #e6a64d;">大きなかまどから出るような煙</span>が穴から立ち上り、太陽も空も穴からの煙のために暗くなった。</li>
+          <li value="03">そして、煙の中から、<span style="color: #e6a64d;">いなご</span>の群れが地上へ出て来た。このいなごには、地に住むさそりが持っているような力が与えられた。</li>
+          <li value="04">いなごは、地の草やどんな青物も、またどんな木も損なってはならないが、ただ、額に神の刻印を押されていない人には害を加えてもよい、と言い渡された。</li>
+          <li value="05">殺してはいけないが、五か月の間、苦しめることは許されたのである。いなごが与える苦痛は、さそりが人を刺したときの苦痛のようであった。</li>
+          <li value="06">この人々は、その期間、死にたいと思っても死ぬことができず、切に死を望んでも、死の方が逃げて行く。</li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article>
+        <ol class="doc">
+          <li value="07">さて、<span style="color: #e6a64d;">いなご</span>の姿は、出陣の用意を整えた馬に似て、頭には金の冠に似たものを着け、顔は人間の顔のようであった。</li>
+          <li value="08">また、髪は女の髪のようで、歯は獅子の歯のようであった。</li>
+          <li value="09">また、胸には鉄の胸当てのようなものを着け、その羽の音は、多くの馬に引かれて戦場に急ぐ戦車の響きのようであった。</li>
+          <li value="10">更に、さそりのように、尾と針があって、この尾には、五か月の間、人に害を加える力があった。</li>
+          <li value="11">いなごは、底なしの淵の使いを王としていただいている。その名は、ヘブライ語でアバドンといい、ギリシア語の名はアポリオンという。</li>
+          <li><span style="color: #999;">（…）</span></li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article><p>out</p>
+        <ol class="doc">
+          <li value="12">Le premier « Malheur ! » est passé ; voici que deux « Malheur ! » vont encore arriver.</li>
+          <li value="13">Le sixième ange sonna de la trompette, et j’entendis une voix venant des quatre cornes de l’autel d’or qui est devant Dieu ;</li>
+          <li value="14">elle disait au sixième ange qui avait la trompette : « Libère les quatre anges qui sont enchaînés au bord de l’Euphrate, le grand fleuve. »</li>
+          <li value="15">Alors furent libérés les quatre anges qui étaient prêts pour cette heure, ce jour, ce mois, cette année, afin de tuer le tiers de l’humanité.</li>
+          <li value="16">Les troupes de cavalerie comptaient deux myriades de myriades : j’ai entendu ce nombre.</li>
+          <li value="17">Ainsi, dans ma vision, j’ai vu les chevaux et ceux qui les montaient : ils ont des cuirasses couleur de feu, d’hyacinthe et de soufre ; les têtes des chevaux sont comme des têtes de lion ; de leurs bouches sortent du feu, de la fumée et du soufre.</li>
+          <li value="18">Le tiers de l’humanité fut tué par ces trois fléaux, le feu, la fumée et le soufre qui sortaient de leurs bouches.</li>
+          <li value="19">Car le pouvoir des chevaux se trouve dans leurs bouches, et aussi dans leurs queues. En effet, celles-ci sont semblables à des serpents, et elles ont des têtes qui font du mal.</li>
+          <li value="20">Et le reste des hommes, ceux qui n’avaient pas été tués par ces fléaux, ne se sont pas convertis, ne renonçant pas aux œuvres de leurs mains ; ils n’ont pas cessé de se prosterner devant les démons, les idoles d’or, d’argent, de bronze, de pierre et de bois, qui ne peuvent pas voir, ni entendre, ni marcher.</li>
+          <li value="21">Ils ne se sont pas convertis, ne renonçant ni à leurs meurtres, ni à leurs sortilèges, ni à leur débauche, ni à leurs vols.</li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article>
+        <ol class="doc">
+          <li>第１０章</li>
+          <li value="01">わたしはまた、もう一人の力強い<span style="color: #e6a64d;">天使</span>が、<span style="color: #e6a64d;">雲を身</span>にまとい、天から降って来るのを見た。頭には<span style="color: #e6a64d;">虹</span>をいただき、顔は<span style="color: #e6a64d;">太陽</span>のようで、足は<span style="color: #e6a64d;">火の柱</span>のようであり、</li>
+          <li value="02">手には<span style="color: #e6a64d;">開いた小さな巻物</span>を持っていた。そして、右足で海を、左足で地を踏まえて、</li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article>
+        <ol class="doc">
+          <li value="03">獅子がほえるような大声で叫んだ。天使が叫んだとき、七つの雷がそれぞれの声で語った。</li>
+          <li value="04">七つの雷が語ったとき、わたしは書き留めようとした。すると、天から声があって、「七つの雷が語ったことは秘めておけ。それを書き留めてはいけない」と言うのが聞こえた。</li>
+          <li value="05">すると、海と地の上に立つのをわたしが見たあの天使が、右手を天に上げ、</li>
+          <li value="06">世々限りなく生きておられる方にかけて誓った。すなわち、天とその中にあるもの、地とその中にあるもの、海とその中にあるものを創造された方にかけてこう誓った。「もはや時がない」。</li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article><p>out</p>
+        <ol class="doc">
+          <li>第１０章</li>
+          <li value="07">Dans les jours où retentira la voix du septième ange, quand il sonnera de la trompette, alors se trouvera accompli le mystère de Dieu, selon la bonne nouvelle qu’il a annoncée à ses serviteurs les prophètes. »</li>
+          <li value="08">Et la voix que j’avais entendue, venant du ciel, me parla de nouveau et me dit : « Va prendre le livre ouvert dans la main de l’ange qui se tient debout sur la mer et sur la terre. »</li>
+          <li value="09">Je m’avançai vers l’ange pour lui demander de me donner le petit livre. Il me dit : « Prends, et dévore-le ; il remplira tes entrailles d’amertume, mais dans ta bouche il sera doux comme le miel. »</li>
+          <li value="10">Je pris le petit livre de la main de l’ange, et je le dévorai. Dans ma bouche il était doux comme le miel, mais, quand je l’eus mangé, il remplit mes entrailles d’amertume.</li>
+          <li value="11">Alors on me dit : « Il te faut de nouveau prophétiser sur un grand nombre de peuples, de nations, de langues et de rois. »</li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article>
+        <ol class="doc">
+          <li>第１１章</li>
+          <li value="01">それから、私に杖のような物差しが与えられた。そして、こう告げられた。「立って神の神殿と祭壇とを測り、また礼拝している者たちを数えなさい。</li>
+          <li value="02">しかし、神殿の外の庭はそのままにしておきなさい。測ってはならない。そこは異邦人に与えられたからである。彼らは、四十二か月の間、この聖なる都を踏みにじるであろう。</li>
+          <li value="03">私は、私の二人の証人に粗布をまとわせ、千二百六十日の間、預言させよう。」 </li>
+          <li value="04">この二人の証人とは、大地の主の前に立っている二本のオリーブの木、また二つの燭台である。</li>
+          <li value="05">この二人に害を加えようとする者があれば、彼らの口から火が出て、その敵を滅ぼすであろう。彼らに害を加えようとする者があれば、必ずこのように殺される。</li>
+          <li value="06">この二人には、預言をしている間、雨が降らないように天を閉じる力がある。また、水を血に変える力があって、望むままに何度でも、あらゆる災いを地にもたらすことができる。</li>
+          <li value="07">二人がその証しを終えると、一頭の獣が底なしの淵から上って来て二人と戦って勝ち、彼らを殺す。</li>
+          <li value="08">彼らのなきがらは、ソドムやエジプトにたとえられている大きな都の大通りにさらされる。彼らの主も、その都で十字架につけられたのである。</li>
+          <li value="09">さまざまな民族、部族、言葉の違う民、国民から成る人々は、三日半の間、二人のなきがらを眺め、それを墓に納めることを許さないであろう。</li>
+          <li value="10">地上に住む人々は、彼らのことで喜び祝い、贈り物を交わすであろう。この二人の預言者が、地上に住む人々を苦しめたからである。</li>
+          <li value="11">三日半の後、命の息が神から出て、この二人に入った。彼らが足で立ち上がると、これを見た人々は大いに恐れた。</li>
+          <li value="12">天から大きな声がして、「ここに上って来なさい」と言うのを、二人は聞いた。そして、雲に包まれて天に上った。彼らの敵もそれを見た。</li>
+          <li value="13">その時、大きな地震が起こり、都の十分の一が倒れ、この地震のために七千人が死に、生き残った人々は恐れを抱いて天の神に栄光を帰した。</li>
+          <li value="14">第二の災いは過ぎ去った。見よ、第三の災いがすぐにやって来る。</li>
+          <li value="15">さて、第七の天使がラッパを吹いた。すると、さまざまな大きな声が天に起こって、こう言った。／「この世の国は、私たちの主と／そのメシアのものとなった。／主は世々限りなく支配される。」</li>
+          <li value="16">神の前で座に着いていた二十四人の長老は、ひれ伏して神を礼拝し</li>
+          <li value="17">こう言った。／「今おられ、かつておられた方／全能者である神、主よ、あなたに感謝いたします。／あなたは大いなる力を振るい、支配されたからです。</li>
+          <li value="18">諸国の民は怒り狂い／あなたも怒りを現されました。／死者の裁かれる時が来ました。／あなたの僕である預言者、聖なる者／あなたの名を畏れる者には／小さな者にも大きな者にも／報いが与えられ／地を滅ぼす者たちが／滅ぼされる時が来ました。」</li>
+          <li value="19">そして、天にある神の神殿が開かれ、その神殿の中に契約の箱が見えた。すると稲妻、轟音、雷鳴、地震が起こり、大粒の雹が降った。</li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article>
+        <ol class="doc">
+          <li>第１２章</li>
+          <li value="01">また、天に大きなしるしが現れた。<span style="color: #e6a64d;">一人の女</span>が身に太陽をまとい、月を足の下にし、頭には十二の星の冠をかぶっていた。</li>
+          <li value="02">女は身ごもっていたが、子を産む痛みと苦しみのため叫んでいた。</li>
+          <li value="03">また、もう一つのしるしが天に現れた。見よ、火のように<span style="color: #e6a64d;">赤い大きな竜</span>である。これには七つの頭と十本の角があって、その頭に七つの冠をかぶっていた。</li>
+          <li value="04">竜の尾は、天の星の三分の一を掃き寄せて、地上に投げつけた。そして、竜は子を産もうとしている女の前に立ちはだかり、産んだら、その子を食べてしまおうとしていた。</li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article>
+        <ol class="doc">
+          <li value="05">女は男の子を産んだ。この子は、鉄の杖ですべての国民を治めることになっていた。子は神のもとへ、その玉座へ引き上げられた。</li>
+          <li value="06">女は荒れ野へ逃げ込んだ。そこには、この女が１２６０日の間養われるように、神の用意された場所があった。</li>
+          <li value="07">さて、天で戦いが起こった。ミカエルとその使いたちが、竜に戦いを挑んだのである。竜とその使いたちも応戦したが、</li>
+          <li value="08">勝てなかった。そして、もはや天には彼らの居場所がなくなった。</li>
+          <li value="09">この巨大な竜、年を経た蛇、悪魔とかサタンとか呼ばれるもの、全人類を惑わす者は、投げ落とされた。地上に投げ落とされたのである。その使いたちも、もろともに投げ落とされた。</li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article>
+        <ol class="doc">
+          <li value="10">わたしは、天で大きな声が次のように言うのを、聞いた。「今や、我々の神の救いと力と支配が現れた。神のメシアの権威が現れた。</li>
+          <li>我々の兄弟たちを告発する者、昼も夜も我々の神の御前で彼らを告発する者が、投げ落とされたからである。</li>
+          <li value="11">兄弟たちは、小羊の血と自分たちの証しの言葉とで、彼に打ち勝った。彼らは、死に至るまで命を惜しまなかった。</li>
+          <li value="12">このゆえに、もろもろの天と、その中に住む者たちよ、喜べ。</li>
+          <li>地と海とは不幸である。悪魔は怒りに燃えて、お前たちのところへ降って行った。残された時が少ないのを知ったからである」。</li>
+          <li value="13"><span style="color: #e6a64d;">竜</span>は、自分が地上へ投げ落とされたと分かると、男の子を産んだ<span style="color: #e6a64d;">女</span>の後を追った。</li>
+          <li value="14">しかし、女には<span style="color: #e6a64d;">大きな鷲の翼</span>が二つ与えられた。荒れ野にある自分の場所へ飛んで行くためである。女はここで、蛇から逃れて、一年、その後二年、またその後半年の間、養われることになっていた。</li>
+        </ol>
+      </article></section>
+      <hr>
+      <section><article><p>out</p>
+        <ol class="doc">
+          <li value="15">Puis, de sa gueule, le Serpent projeta derrière la Femme de l’eau comme un fleuve, pour qu’elle soit emportée par ce fleuve.</li>
+          <li value="16">Mais la terre vint au secours de la Femme : la terre ouvrit la bouche et engloutit le fleuve projeté par la gueule du Dragon.</li>
+          <li value="17">Alors le Dragon se mit en colère contre la Femme, il partit faire la guerre au reste de sa descendance, ceux qui observent les commandements de Dieu et gardent le témoignage de Jésus.</li>
+          <li value="18">Et il se posta sur le sable au bord de la mer.</li>
+        </ol>
+      </article></section>
+      <hr>
+    </article></section>
+  </article></section>
 </article>
 `;
 
