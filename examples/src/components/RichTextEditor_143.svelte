@@ -495,7 +495,7 @@
       <p>奥の方では、左に、<span style="color: #e6a64d;">白い色の子羊</span>の存在が、素晴らしい<span style="color: #e6a64d;">紫色のチュニック</span>を着る<span style="color: #e6a64d;">男の人</span>を<a href="https://ja.wikipedia.org/wiki/洗礼者ヨハネ" title="https://ja.wikipedia.org/wiki/洗礼者ヨハネ" id="jean-le-baptiste" class="yellow">洗礼者ヨハネ</a>として見分けることを可能にしてくれています。</p>
       <p>羊は彼が弟子たちにかけた<span style="color: #e6a64d;">現世でのイエスの到来</span>を<span style="color: #e6a64d;">告げる</span>言葉<span style="color: #e6a64d;"></span><span style="color: #999;">（ヨハネ、１・２９）</span> <sup id="fnref1:4"><a href="#fn:4" class="footnote-ref">ノート３</a></sup> を思い出させてくれる：</p>
       <blockquote>
-        <p><q style="quotes: '「' '」';"><ruby style="color:#e6a64d;">これは神の子羊<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">エッチェ・アニウス・デイ</rt><rp>)</rp></ruby></q></p>
+        <p><q style="quotes: '「' '」';color:#e6a64d;"><ruby style="color:#e6a64d;">これは神の子羊<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">エッチェ・アニウス・デイ</rt><rp>)</rp></ruby></q></p>
       </blockquote>
       <p>そして、ヨハネが右腕で<span style="color: #e6a64d;">幼子イエス</span>を指し示しています。</p>
       <figure>
@@ -1308,7 +1308,7 @@
     <section><article>
       <h5 class="yellow">キリスト的信仰の諸文書においての洗礼者ヨハネ</h5>
       <section><article>
-        <p>キリスト教の教義の面では、 <span style="color: #e6a64d;">ヨハネ</span>は、ルカの福音<span style="color: #999;">（１章、５-２５）</span>によると、エルサレムへ行くために偶然選ばれて、神殿で祈りをささげたころ、神自身が<a href="https://ja.wikipedia.org/wiki/ガブリエル" title="https://ja.wikipedia.org/wiki/ガブリエル" id="archange-gabriel" class="yellow">大天使ガブリエル</a>によってヨハネの誕生を告げるガリラヤの田舎のユダヤ教の年とった司祭<a href="https://ja.wikipedia.org/wiki/ザカリア" title="https://ja.wikipedia.org/wiki/ザカリア" id="zaccharie" class="yellow">ザカリア</a><span style="color: #e6a64d;">の息子</span>である。</p>
+        <p>キリスト教の教義の面では、 <span style="color: #e6a64d;">ヨハネ</span>は、ルカの福音<span style="color: #999;">（第１章、５～２５節）</span>によると、エルサレムへ行くために偶然選ばれて、神殿で祈りをささげたころ、神自身が<a href="https://ja.wikipedia.org/wiki/ガブリエル" title="https://ja.wikipedia.org/wiki/ガブリエル" id="archange-gabriel" class="yellow">大天使ガブリエル</a>によってヨハネの誕生を告げるガリラヤの田舎のユダヤ教の年とった司祭<a href="https://ja.wikipedia.org/wiki/ザカリア" title="https://ja.wikipedia.org/wiki/ザカリア" id="zaccharie" class="yellow">ザカリア</a><span style="color: #e6a64d;">の息子</span>である。</p>
       </article></section>
 
       <section><article>
@@ -1368,7 +1368,7 @@
       <section><article>
         <h6 class="yellow">ザカリアによって「ヨハネ」の名の選択の場面</h6>
         <section><article>
-          <p>この息子の名前、「ヨハネ」も語り筋の争点の一つとなる <span style="color: #999;">（ルカ１、５９-６３）</span>：</p>
+          <p>この息子の名前、「ヨハネ」も語り筋の争点の一つとなる <span style="color: #999;">（ルカ第１章、５９～６３節）</span>：</p>
           <blockquote>
             <p>「八日目に、その子に割礼を施すために来た人々は、父の名を取ってザカリアと名付けようとした。ところが、母は、</p>
             <p><span style="color: #e6a64d;"><q style="color: #e6a64d;">いいえ、名はヨハネとしなければなりません</span></q>と言った。</p>
@@ -1393,7 +1393,7 @@
     <h6 class="yellow">中央パネルの遠景での洗礼者の修徳の場面</h6>
 
     <section><article>
-      <p>その後、彼は砂漠で修行者の模範的な生活を送っている<span style="color: #999;">（ルカ１、８０）</span>。</p>
+      <p>その後、彼は砂漠で修行者の模範的な生活を送っている<span style="color: #999;">（ルカ第１章、８０節）</span>。</p>
       <p>メムリンクがこの場面を森に移動させている。</p>
     </article></section>
 
@@ -1422,7 +1422,7 @@
     <h6 class="yellow">中央パネルの遠景での洗礼者の伝導活躍の場面</h6>
 
     </article></section>
-      <p><q style="quotes: '「' '」';">罪の赦しを得させるために悔い改めの洗礼を宣べ伝える</q>ことも見られる<span style="color: #999;">（ルカ３、０３）</span>。</p>
+      <p><q style="quotes: '「' '」';">罪の赦しを得させるために悔い改めの洗礼を宣べ伝える</q>ことも見られる<span style="color: #999;">（ルカ第３章、３節）</span>。</p>
     </article></section>
 
     <figure>
@@ -1488,16 +1488,16 @@
     <h6 class="yellow">中央パネルの遠景での洗礼者ヨハネの逮捕の場面</h6>
     <section><article>
       <p>そこから、彼の運命が悲劇的になる。</p>
-      <p>ガリラヤとペレアの四分封領主である<a href="https://ja.wikipedia.org/wiki/ヘロデ・アンティパス" title="https://ja.wikipedia.org/wiki/ヘロデ・アンティパス" id="herode-antipas" class="yellow">ヘロデ・アンティパス</a>が<q style="quotes: '「' '」';color: #e6a64d;">自分の兄弟フィリポの妻</q> <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">ノート１</a></sup> （<a href="https://ja.wikipedia.org/wiki/ヘロデヤ" title="https://ja.wikipedia.org/wiki/ヘロディア" id="herodiade">ヘロディア</a>）と結婚する<span style="color: #999;">（マルコ、６・１７）</span>。</p>
-      <p>ユダヤ教の信仰はどんな兄の妻との結婚とも<span style="color: #e6a64d;">「汚れ」</span>と見なしていて、ゆえに形式的にそれを<span style="color: #e6a64d;">禁じている</span><span style="color: #999;">（レビ記、１８・１６、２０・２１）</span>から、ヨハネはそれを糾弾する。</p>
-      <p><span style="color: #e6a64d;">ヘロデは</span><span style="color: #999;">［ヨハネの］</span><q style="quotes: '「' '」';">説得させる能力が<span style="color: #e6a64d;">反乱</span></q>を誘発することを恐れられていた<span style="color: #999;">（ユダヤ古代誌、第１８書、第５章、１１８）</span> <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">ノート２</a></sup>。</p>
+      <p>ガリラヤとペレアの四分封領主である<a href="https://ja.wikipedia.org/wiki/ヘロデ・アンティパス" title="https://ja.wikipedia.org/wiki/ヘロデ・アンティパス" id="herode-antipas" class="yellow">ヘロデ・アンティパス</a>が<q style="quotes: '「' '」';color: #e6a64d;">自分の兄弟フィリポの妻</q> <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">ノート１</a></sup> （<a href="https://ja.wikipedia.org/wiki/ヘロデヤ" title="https://ja.wikipedia.org/wiki/ヘロディア" id="herodiade">ヘロディア</a>）と結婚する<span style="color: #999;">（マルコ、第６章・１７節）</span>。</p>
+      <p>ユダヤ教の信仰はどんな兄の妻との結婚とも<span style="color: #e6a64d;">「汚れ」</span>と見なしていて、ゆえに形式的にそれを<span style="color: #e6a64d;">禁じている</span><span style="color: #999;">（レビ記、第１８章・１６節、第２０章・２１節）</span>から、ヨハネはそれを糾弾する。</p>
+      <p><span style="color: #e6a64d;">ヘロデは</span><span style="color: #999;">［ヨハネの］</span><q style="quotes: '「' '」';">説得させる能力が<span style="color: #e6a64d;">反乱</span></q>を誘発することを恐れられていた<span style="color: #999;">（ユダヤ古代誌、第１８書、第５章、１１８節）</span> <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">ノート２</a></sup>。</p>
       <blockquote>
         <p>「群衆はこの人の忠告に完全に従いそうであったから。だからヘロデは、彼のせいで何かトラブルが起こる前に、彼を捕まえる方を後に騒動が起きた場合に悔むより好んだわけだ。ヘロデの嫌疑のせいで、ヨハネはマシャエロに送られ、</p>
         <p>（…）</p>
         <p>そこで殺された。」</p>
       </blockquote>
       <p>実際、ヨハネの信奉者たちによってトラブルが起こされた場合、ヘロデが自分を取り上げることのできるローマ当局に事情について責任を取らなければならなかったのだった。</p>
-      <p>彼は<span style="color: #e6a64d;">「洗礼者ヨハネを逮捕する命令」</span>を出す<span style="color: #999;">（マルコ、６・１７）</span>。</p>
+      <p>彼は<span style="color: #e6a64d;">「洗礼者ヨハネを逮捕する命令」</span>を出す<span style="color: #999;">（マルコ、第６章・１７節）</span>。</p>
     </article></section>
 
     <figure>
@@ -1603,7 +1603,7 @@
     <h6 class="yellow">ヘロデの宮殿で表わされているサロメの踊りの場面、左翼パネル内面</h6>
     
     <section><article>
-      <p>ヨハネを、信奉者達のトラブルの騒ぎを起こさずに死なせるのを成功させるために、<span style="color: #e6a64d;">ヘロデ</span>が彼らを欺くよう、ごまかしを考える<span style="color: #999;">（マルコ、６・２１-２２）</span>。
+      <p>ヨハネを、信奉者達のトラブルの騒ぎを起こさずに死なせるのを成功させるために、<span style="color: #e6a64d;">ヘロデ</span>が彼らを欺くよう、ごまかしを考える<span style="color: #999;">（マルコ、第６章・２１～２２節）</span>。
       「自分の誕生日の祝いに」ガリラヤの「高官や将校、ガリラヤの有力者などを招いて宴会」を催す。</p>
       <p>「ヘロディアの娘<a href="https://ja.wikipedia.org/wiki/サロメ_(ヘロディアの娘))" title="https://ja.wikipedia.org/wiki/サロメ_(ヘロディアの娘)" id="salome" class="yellow">サロメ</a>」が姿を現して踊る。</p>
       <p><span style="color: #e6a64d;">《サロメの踊り》</span>は左翼パネルの左上部にある宮殿の塔で行われている。</p>
@@ -1652,9 +1652,9 @@
       <blockquote>
         <p><span style="color: #e6a64d;"><q style="color: #e6a64d;">今すぐに洗礼者ヨハネの首を盆に載せて、いただきとうございます</q></span>と願う。</p>
       </blockquote>
-      <p><span style="color: #999;">（マルコ、６・２４-２９）</span></p>
+      <p><span style="color: #999;">（マルコ、第６章・２４～２９節）</span></p>
       <p>この語り筋のすべてが本当にごまかしである証拠が、もしサロメがヘロデに<span style="color: #e6a64d;">「自分の父のフィリポか自分の母の<a href="https://ja.wikipedia.org/wiki/ヘロデヤ" title="https://ja.wikipedia.org/wiki/ヘロディア" id="herodiade-2" class="yellow">ヘロディア</a>」</span>を頼んだなら、ヘロデがそれに同意出来ません<span style="color: #999;">（黄金伝説１２１章、第１段 <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">ノート１</a></sup> ）</span>。</p>
-      <p>ある衛兵は出て行き、「牢の中でヨハネの首をはね」に行く<span style="color: #999;">（マルコ、６・２２-２３）</span>。</p>
+      <p>ある衛兵は出て行き、「牢の中でヨハネの首をはね」に行く<span style="color: #999;">（マルコ、第６章・２２～２３節）</span>。</p>
     </article></section>
 
     <figure>
@@ -1761,7 +1761,7 @@
     </figure>
 
     <article><section>
-      <p>マルコの語りは続く<span style="color: #999;">（マルコ、２９）</span>：<span style="color: #e6a64d;">「ヨハネの弟子たちはこのことを聞き、やって来て、遺体を引き取り、墓に納めた」</span>。
+      <p>マルコの語りは続く<span style="color: #999;">（マルコ、第６章・２９節）</span>：<span style="color: #e6a64d;">「ヨハネの弟子たちはこのことを聞き、やって来て、遺体を引き取り、墓に納めた」</span>。
       後者はヘロデ・アンティパスに支配されている領地から遠くある、ヨルダン川西岸地区での<ruby lang="ja" style="color:#e6a64d;">セバステ<rp>(</rp><rt lang="grc" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">Σεβαστή</rt><rp>)</rp></ruby>、現代の<a href="https://ja.wikipedia.org/wiki/サバスティーヤ" title="https://ja.wikipedia.org/wiki/サバスティーヤ" id="sebastia" class="yellow"><ruby lang="ja">セバスティア<rp>(</rp><rt lang="ar">سبسطية</rt><rp>)</rp></ruby lang="ja"></a>という<a href="https://ja.wikipedia.org/wiki/エリシャ" title="https://ja.wikipedia.org/wiki/エリシャ" id="elisee" class="yellow">エリシャ</a>と<a href="https://ja.wikipedia.org/wiki/オバデヤ" title="https://ja.wikipedia.org/wiki/オバデヤ" id="abdias" class="yellow">オバデヤ</a>預言者たちのお墓の近くに持って行かれた。</p>
       <p>中央パネルの左側では、右に、洗礼者ヨハネの後ろに、メムリンクが彼の伝説の最後の場面を表した。それは、キリスト教の信仰と戦ってヨハネが葬られたところに行われた奇跡を止めさせるために、<a href="https://ja.wikipedia.org/wiki/フラウィウス・クラウディウス・ユリアヌス" title=" https://ja.wikipedia.org/wiki/フラウィウス・クラウディウス・ユリアヌス" id="julien-l-apostat" class="yellow">背教者ユリアヌス</a>が遺体を掘り起こし、焼いて、畑を散々に散らすよう命じたということだ。</p>
     </article></section>
@@ -1791,7 +1791,7 @@
     <h6 class="yellow">壁の開口部の中の洗礼者ヨハネの頭、中央パネル</h6>
     <article><section>
       <p>しかし、思い通りになりませんでした。</p>
-      <p>彼の頭は、伝説によると、現代のシリアでの<ruby lang="ja">ホムス<rp>(</rp><rt lang="ar">حمص</rt><rp>)</rp></ruby lang="ja">、当時エメサ市の陶工屋によって別に葬られたのであろうから、それは、遠ざけた石の後ろにある<span style="color: #e6a64d;">壁の開口部</span>の中に<span style="color: #999;">（黄金伝説、第１２１章、III.）</span>。</p>
+      <p>彼の頭は、伝説によると、現代のシリアでの<ruby lang="ja">ホムス<rp>(</rp><rt lang="ar">حمص</rt><rp>)</rp></ruby lang="ja">、当時エメサ市の陶工屋によって別に葬られたのであろうから、それは、遠ざけた石の後ろにある<span style="color: #e6a64d;">壁の開口部</span>の中に。</p>
       <p>伝説によると、頭が別にシリアにある現代の<a href="https://ja.wikipedia.org/wiki/ホムス" title="https://ja.wikipedia.org/wiki/ホムス" id="homs" class="yellow"><ruby lang="ja">ホムス<rp>(</rp><rt lang="ar">حمص</rt><rp>)</rp></ruby lang="ja"></a>のエメサ市のある製陶屋さんに埋められたのであろう。その後、星に追いかけながら発見した聖マルケッルス <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">ノート１</a></sup> に顕現されたであろう<span style="color: #999;">（黄金伝説、第１２１章、第３段）</span>。</p>
     </article></section>
 
@@ -1886,15 +1886,15 @@
 
       <section><article>
         <ul>
-          <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" id="jean-l-apotre-3" class="yellow">「使徒」ヨハネ</a>は<span style="color: #e6a64d;">「<a href="https://ja.wikipedia.org/wiki/ゼベダイの子" title="https://ja.wikipedia.org/wiki/ゼベダイの子" id="zebedee" class="yellow">ゼベダイ</a>のニ人の子の内の一人」</span><span style="color: #999;">（マルコ、３・１６~１９、マタイ、１０・２~５とルカ、６・１３~１６）</span>。
+          <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" id="jean-l-apotre-3" class="yellow">「使徒」ヨハネ</a>は<span style="color: #e6a64d;">「<a href="https://ja.wikipedia.org/wiki/ゼベダイの子" title="https://ja.wikipedia.org/wiki/ゼベダイの子" id="zebedee" class="yellow">ゼベダイ</a>のニ人の子の内の一人」</span><span style="color: #999;">（マルコ、第３章・１６～１９節、マタイ、第１０章・２～５節とルカ、第６章・１３～１６節）</span>。
         彼の兄弟は<a href="https://ja.wikipedia.org/wiki/ヤコブ_(ゼベダイの子)" title="https://ja.wikipedia.org/wiki/https://fr.wikipedia.org/wiki/ヤコブ_(ゼベダイの子)" id="jacques-le-majeur" class="yellow">「大」というヤコブ</a>です。</li>
-        <li>イエスが彼たちを<span style="color: #e6a64d;">「雷の子ら」</span>と呼んでいる<span style="color: #999;">（マルコ、３・１７）</span>。</li>
+        <li>イエスが彼たちを<span style="color: #e6a64d;">「雷の子ら」</span>と呼んでいる<span style="color: #999;">（マルコ、第３章・１７節）</span>。</li>
         <li>兄弟と他の弟子のニ人だった<a href="https://ja.wikipedia.org/wiki/ペトロ" title="https://ja.wikipedia.org/wiki/ペトロ" id="simon-pierre" class="yellow">シモン・ペトロ</a>と<a href="https://ja.wikipedia.org/wiki/アンデレ" title="https://ja.wikipedia.org/wiki/アンデレ" id="simon-pierre" class="yellow">アンデレ</a>と同様に、彼はイエスに従うために自分の網を捨てる<a href="https://ja.wikipedia.org/wiki/ガリラヤ湖" title="https://ja.wikipedia.org/wiki/ガリラヤ湖" id="tiberiade" class="yellow">ティベリアス湖</a><span style="color: #e6a64d;">の漁師の一人</span>です。</li>
         <li>そこから、
           <ul>
-            <li><a href="https://ja.wikipedia.org/wiki/主イエスの変容" title="https://ja.wikipedia.org/wiki/主イエスの変容" id="transfiguration" class="yellow">イエスの変容</a><span style="color: #999;">（マルコ、９・２、マタイ、１７・１とルカ、９・２８）</span>、</li>
-            <li><a href="https://fr.wikipedia.org/wiki/Guérison_de_la_belle-mère_de_Pierre" title="https://fr.wikipedia.org/wiki/Guérison_de_la_belle-mère_de_Pierre" id="guerison-de-la-belle-mere-de-pierre" class="yellow">シモン・ペトロの<ruby>姑<rp>(</rp><rt>しゅうとめ</rt><rp>)</rp></ruby>の癒し</a> <span style="color: #999;">（マルコ、１・２９）</span>、</li>
-            <li>シナゴーグの頭だった<a href="https://ja.wikipedia.org/wiki/Fille_de_Jaïre" title="https://ja.wikipedia.org/wiki/Fille_de_Jaïre" id="fille-de-jaire" class="yellow">ヤイロの娘の癒し</a><span style="color: #999;">（マルコ、５・３７とルカ、８・５１）</span>を証し、兄弟と一緒にイエスが<a href="https://ja.wikipedia.org/wiki/ゲツセマネの祈り" title="https://ja.wikipedia.org/wiki/ゲツセマネの祈り" id="agonie-dans-le-jardin-des-oliviers" class="yellow">ゲッセマネの園</a>であきらめることに誘惑される時に<span style="color: #999;">（マルコ、１３・３）</span>いますが、彼は睡眠に落ちいる<span style="color: #999;">（マルコ、１４・３３）</span>。</li>
+            <li><a href="https://ja.wikipedia.org/wiki/主イエスの変容" title="https://ja.wikipedia.org/wiki/主イエスの変容" id="transfiguration" class="yellow">イエスの変容</a><span style="color: #999;">（マルコ、第９章・２節、マタイ、第１７章・１節とルカ、第９章・２８節）</span>、</li>
+            <li><a href="https://fr.wikipedia.org/wiki/Guérison_de_la_belle-mère_de_Pierre" title="https://fr.wikipedia.org/wiki/Guérison_de_la_belle-mère_de_Pierre" id="guerison-de-la-belle-mere-de-pierre" class="yellow">シモン・ペトロの<ruby>姑<rp>(</rp><rt>しゅうとめ</rt><rp>)</rp></ruby>の癒し</a> <span style="color: #999;">（マルコ、第１章・２９節）</span>、</li>
+            <li>シナゴーグの頭だった<a href="https://ja.wikipedia.org/wiki/Fille_de_Jaïre" title="https://ja.wikipedia.org/wiki/Fille_de_Jaïre" id="fille-de-jaire" class="yellow">ヤイロの娘の癒し</a><span style="color: #999;">（マルコ、第５章・３７節とルカ、第８章・５１節）</span>を証し、兄弟と一緒にイエスが<a href="https://ja.wikipedia.org/wiki/ゲツセマネの祈り" title="https://ja.wikipedia.org/wiki/ゲツセマネの祈り" id="agonie-dans-le-jardin-des-oliviers" class="yellow">ゲッセマネの園</a>であきらめることに誘惑される時に<span style="color: #999;">（マルコ、第１３章・３節）</span>いますが、彼は睡眠に落ちいる<span style="color: #999;">（マルコ、第１４章・３３節）</span>。</li>
             </ul>
           </li>
         </ul>
@@ -1906,7 +1906,7 @@
 
       <section><article>
         <ul>
-          <li><p><a href="https://ja.wikipedia.org/wiki/イエスの愛しておられた弟子" title="https://ja.wikipedia.org/wiki/イエスの愛しておられた弟子" id="disciple-que-jesus-aimait-3" class="yellow">イエスの愛しておられた弟子</a> が「ヨハネの」という福音の終わりに見えて来る<span style="color: #999;">（ヨハネ、２１・２０;２４~２５）</span>:</p>
+          <li><p><a href="https://ja.wikipedia.org/wiki/イエスの愛しておられた弟子" title="https://ja.wikipedia.org/wiki/イエスの愛しておられた弟子" id="disciple-que-jesus-aimait-3" class="yellow">イエスの愛しておられた弟子</a> が「ヨハネの」という福音の終わりに見えて来る<span style="color: #999;">（ヨハネ、第２１章・２０と２４～２５節）</span>:</p>
           <blockquote>
             <p><q style="quotes: '「' '」';">ペトロが振り向くと、<span style="color: #e6a64d;">イエスの愛しておられた弟子</span>がついて来るのが見えた。<span style="color: #999;">（…）</span>
             これらのことについて<span style="color: #e6a64d;">証しをし、それを書いたのは、この弟子</span>である</q>。</p>
@@ -1915,11 +1915,11 @@
           <p>とても異常な人物です。どんな読者でもが自分と同一視できる他のイエスの弟子の内の一人であって、イエス自信から愛されて、従って他の誰よりも彼に親しくなっています。</p>
           <p>彼は、以上の抜粋文書のすぐ後に、意見を述べることも迷いません：</p>
           <blockquote>
-            <p><q style="quotes: '「' '」';">イエスのなさったことは、このほかにも、まだたくさんある。<span style="color: #e6a64d;"><span style="text-decoration: underline;">わたしは</span>思う。</span>その一つ一つを書くならば、世界もその書かれた書物を収めきれないであろう</q>。<span style="color: #999;">（ヨハネ、２１・２５）</span>.</p>
+            <p><q style="quotes: '「' '」';">イエスのなさったことは、このほかにも、まだたくさんある。<span style="color: #e6a64d;"><span style="text-decoration: underline;">わたしは</span>思う。</span>その一つ一つを書くならば、世界もその書かれた書物を収めきれないであろう</q>。<span style="color: #999;">（ヨハネ、第２１章・２５節）</span>.</p>
           </blockquote>
           </li>
           <li>
-            <p>イエス自身が、ペトロからの質問をきっかけに、最後の晩餐中にヨハネの運命について望みがある<span style="color: #999;">（ヨハネ、２１・２１~２３）</span>：</p>
+            <p>イエス自身が、ペトロからの質問をきっかけに、最後の晩餐中にヨハネの運命について望みがある<span style="color: #999;">（ヨハネ、第２１章・２１～２３節）</span>：</p>
             <blockquote>
               <p>「ペトロは彼を見て、</p>
               <blockquote>
@@ -1932,7 +1932,7 @@
             </blockquote>
           </li>
           <li>
-            <p><q style="quotes: '「' '」';">イエスの胸もとに寄りかかったまま</q>のも彼であって、また彼を誰が裏切って行くかを聞くともなっています<span style="color: #999;">（ヨハネ、１３・２５）</span>。</p>
+            <p><q style="quotes: '「' '」';">イエスの胸もとに寄りかかったまま</q>のも彼であって、また彼を誰が裏切って行くかを聞くともなっています<span style="color: #999;">（ヨハネ、第１３章・２５節）</span>。</p>
           </li>
           <li>
             <p>磔刑の時、イエスが自分のお母さまに彼に任せて、言われた：</p>
@@ -1941,14 +1941,14 @@
             </blockquote>
             <p>それから彼に：</p>
             <blockquote>
-              <p><q style="quotes: '「' '」';">見なさい。あなたの母です。</q><span style="color: #999;">（ヨハネ、１９・２６~２７）</span></p>
+              <p><q style="quotes: '「' '」';">見なさい。あなたの母です。</q><span style="color: #999;">（ヨハネ、第１９章・２６～２７節）</span></p>
             </blockquote>
           </li>
           <li>
-            <p>マグダラのマリアが空いているお墓を見て、<q style="quotes: '「' '」';">愛しておられた弟子</q>とペトロに言いに走る。彼がお墓に一速く着く<span style="color: #999;">（ヨハネ、２０・２~８）</span>。</p>
+            <p>マグダラのマリアが空いているお墓を見て、<q style="quotes: '「' '」';">愛しておられた弟子</q>とペトロに言いに走る。彼がお墓に一速く着く<span style="color: #999;">（ヨハネ、第２０章・２～８節）</span>。</p>
           </li>
           <li>
-            <p>復活後にティベリアス湖でのイエスをいち早く認めるのもまた彼です。<span style="color: #999;">（ヨハネ、２１・７）</span>。</p>
+            <p>復活後にティベリアス湖でのイエスをいち早く認めるのもまた彼です。<span style="color: #999;">（ヨハネ、第２１章・７節）</span>。</p>
           </li>
         </ul>
       </article></section>
@@ -1960,7 +1960,7 @@
       <section><article>
         <ul>
           <li>
-            <p><a href="https://fr.wikipedia.org/wiki/Jean_de_Patmos" title="https://fr.wikipedia.org/wiki/Jean_de_Patmos" id="jean-de-patmos-3" class="yellow">「パトモス島の」ヨハネ</a>が黙示録の文書の始まる所に見えて来る<span style="color: #999;">（黙、１・１~９）</span>。</p>
+            <p><a href="https://fr.wikipedia.org/wiki/Jean_de_Patmos" title="https://fr.wikipedia.org/wiki/Jean_de_Patmos" id="jean-de-patmos-3" class="yellow">「パトモス島の」ヨハネ</a>が黙示録の文書の始まる所に見えて来る<span style="color: #999;">（黙、第１章・１～９節）</span>。</p>
             <blockquote>
               <p>その文書では彼は神が<span style="color: #e6a64d;">「すぐにも起こるはずのことを」</span><span style="color: #999;">（…）</span>「アジア州にある七つの教会」に<span style="color: #999;">（…）</span>ご自分の「天使を送って」知らせた<span style="color: #999;">（…）</span><span style="color: #e6a64d;">「<ruby>僕<rp>（</rp><rt>しもべ</rt><rp>）</rp></ruby>」</span>として紹介されている。</p>
             </blockquote>
@@ -2063,7 +2063,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《パトモス島での福音書記者ヨハネ》<br>「わたしは、たちまち“霊”に満たされた。すると、見よ、天に玉座が設けられていて（…）玉座の前は、水晶に似たガラスの海のようであった。」、<cite>黙示録</cite>第４・章２~６）節/figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《パトモス島での福音書記者ヨハネ》<br>「わたしは、たちまち“霊”に満たされた。すると、見よ、天に玉座が設けられていて（…）玉座の前は、水晶に似たガラスの海のようであった。」、<cite>黙示録</cite>第４章・２~６節</figcaption>
       </figure>
 
       <section><article>
@@ -2197,7 +2197,7 @@
   <section><article>
 
     <section><article>
-      <h6 class="yellow">第一の封印：白い馬　＝　<cite>黙示録</cite>第６章１節～２節</h6>
+      <h6 class="yellow">第一の封印：白い馬　＝　<cite>黙示録</cite>第６章１～２節</h6>
       <section><article>
         <section><article>
           <p>語りが虹とヨハネの間に続く。</p>
@@ -2230,12 +2230,12 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《白い馬》<br>
-        「乗っている者は、弓を持っていた。彼は冠を与えられ、勝利の上に更に勝利を得ようと出て行った」、<cite>黙示録</cite>第４・章２）</節igcaption>
+        「乗っている者は、弓を持っていた。彼は冠を与えられ、勝利の上に更に勝利を得ようと出て行った」、<cite>黙示録</cite>第４章・２節</figcaption>
       </figure>
     </article></section>
 
     <section><article>
-      <h6 class="yellow">第二封印：火のように赤い馬　＝　<cite>黙示録</cite>第６章３節～４節</h6>
+      <h6 class="yellow">第二封印：火のように赤い馬　＝　<cite>黙示録</cite>第６章３～４節</h6>
 
       <section><article>
         <ol class="doc">
@@ -2262,12 +2262,12 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《火のように赤い馬》<br>
-        「その馬に乗っている者には、地上から平和を奪い取って、殺し合いをさせる力が与えられた。また、この者には大きな剣が与えられた」、<cite>黙示録</cite>第４・章４）</節igcaption>
+        「その馬に乗っている者には、地上から平和を奪い取って、殺し合いをさせる力が与えられた。また、この者には大きな剣が与えられた」、<cite>黙示録</cite>第４章・４節</figcaption>
       </figure>
     </article></section>
     
     <section><article>
-      <h6 class="yellow">第三封印：黒い馬　＝　<cite>黙示録</cite>第６章５節～６節</h6>
+      <h6 class="yellow">第三封印：黒い馬　＝　<cite>黙示録</cite>第６章５～６節</h6>
 
       <section><article>
         <ol class="doc">
@@ -2295,12 +2295,12 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《黒い馬》<br>「乗っている者は、手に秤を持っていた」、<cite>黙示録</cite>第４・章５）</節igcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《黒い馬》<br>「乗っている者は、手に秤を持っていた」、<cite>黙示録</cite>第４章・５節</figcaption>
       </figure>
     </article></section>
     
     <section><article>
-      <h6 class="yellow">>第四封印：青白い馬　＝　<cite>黙示録</cite>第６章７節～８節</h6>
+      <h6 class="yellow">>第四封印：青白い馬　＝　<cite>黙示録</cite>第６章７～８節</h6>
       
       <section><article>
         <ol class="doc">
@@ -2334,12 +2334,12 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《青白い馬、「死」、陰府》<br>「乗っている者の名は「死」といい、これに陰府が従っていた。」、<cite>黙示録</cite>第４・章５）</節igcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《青白い馬、「死」、陰府》<br>「乗っている者の名は「死」といい、これに陰府が従っていた。」、<cite>黙示録</cite>第４章・５節</figcaption>
       </figure>
     </article></section>
     
     <section><article>
-      <h6 class="yellow">四人騎士の周りの風景　＝　<cite>黙示録</cite>第６章１４節～１７節</h6>
+      <h6 class="yellow">四人騎士の周りの風景　＝　<cite>黙示録</cite>第６章１４～１７節</h6>
 
       <section><article>
         <ol class="doc">
@@ -2375,7 +2375,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《四騎士の周りの風景》</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《四騎士の周りの風景》、<cite>黙示録</cite>第６章１４～１７節</figcaption>
       </figure>
     </article></section>
   </article></section>
@@ -2442,7 +2442,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《祭壇の天使》、<cite>黙示録</cite>第８章３～５節</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《祭壇の天使》、<cite>黙示録</cite>、第８章３～５節</figcaption>
     </figure>
 
     <section><article>
@@ -2455,7 +2455,7 @@
   </article></section>
 
   <section><article>
-    <h5 class="yellow">火で燃えている大きな山の墜落　＝　<cite>黙示録</cite>第８章６から９節</h5>
+    <h5 class="yellow">火で燃えている大きな山の墜落　＝　<cite>黙示録</cite>第８章６～９節</h5>
 
     <section><article>
       <ol class="doc">
@@ -2482,12 +2482,12 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《火で燃えている大きな山の墜落、船の三分の一が壊された》、<cite>黙示録</cite>第８章６から９節</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《火で燃えている大きな山の墜落、船の三分の一が壊された》、<cite>黙示録</cite>、第８章６～９節</figcaption>
     </figure>
   </article></section>
 
   <section><article>
-    <h5 class="yellow">「苦よもぎ」という星の墜落 　＝　<cite>黙示録</cite>第８章１０から１２節</h5>
+    <h5 class="yellow">「苦よもぎ」という星の墜落 　＝　<cite>黙示録</cite>第８章１０～１２節</h5>
 
     <section><article>
       <ol class="doc">
@@ -2514,7 +2514,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《「苦よもぎ」という星の墜落》<br>「松明のように燃えている大きな星が、天から落ちて」（…）「水の三分の一が苦よもぎのように苦くなって、そのために多くの人が死んだ」、<cite>黙示録</cite>第８章１０から１２節</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《「苦よもぎ」という星の墜落》<br>「松明のように燃えている大きな星が、天から落ちて」（…）「水の三分の一が苦よもぎのように苦くなって、そのために多くの人が死んだ」、<cite>黙示録</cite>、第８章１０～１２節</figcaption>
     </figure>
   </article></section>
 
@@ -2548,7 +2548,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《鷲の<ruby>飛<rp>(</rp><rt style="font-size: 70%;color:#999">ひ</rt><rp>)</rp>翔<rp>(</rp><rt style="font-size: 70%;color:#999">しょう</rt><rp>)</rp></ruby>》、<cite>黙示録</cite>第８章１３節</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《鷲の<ruby>飛<rp>(</rp><rt style="font-size: 70%;color:#999">ひ</rt><rp>)</rp>翔<rp>(</rp><rt style="font-size: 70%;color:#999">しょう</rt><rp>)</rp></ruby>》、<cite>黙示録</cite>、第８章１３節</figcaption>
     </figure>
   </article></section>
 </article>
@@ -2589,7 +2589,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《いなごの群れの地上への出》、<cite>黙示録</cite>第１０章・１~２節</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《いなごの群れの地上への出》、<cite>黙示録</cite>、第１０章１～２節</figcaption>
       </figure>
 
       <section><article>
@@ -2605,7 +2605,7 @@
     </article></section>
 
     <section><article>
-      <h5 class="yellow">l'ange descendu du ciel - <cite>黙示録</cite>第１０章１～３節</h5>
+      <h5 class="yellow">l'ange descendu du ciel - <cite>黙示録</cite>第１０章１～２節</h5>
 
       <section><article>
         <ol class="doc">
@@ -2633,12 +2633,12 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《天から降って来る天使》<br>「わたしはまた、もう一人の力強い天使が、雲を身にまとい、天から降って来るのを見た。頭には虹をいただき、顔は太陽のようで、足は火の柱のようであり、
-        手には開いた小さな巻物を持っていた。そして、右足で海を、左足で地を踏まえて」、<cite>黙示録</cite>第１０章・１~２節</figcaption>
+        手には開いた小さな巻物を持っていた。そして、右足で海を、左足で地を踏まえて」、<cite>黙示録</cite>、第１０章１～２節</figcaption>
       </figure>
     </article></section>
 
     <section><article>
-      <h5 class="yellow">le ciel de l'Apocalypse - <cite>黙示録</cite> 10.3 à 10.6</h5>
+      <h5 class="yellow">le ciel de l'Apocalypse - <cite>黙示録</cite>第１０章３～６節</h5>
 
       <section><article>
         <ol class="doc">
@@ -2651,7 +2651,7 @@
     </article></section>
 
     <section><article>
-      <h5 class="yellow">la femme et le dragon - <cite>黙示録</cite> 12.1 à 4</h5>
+      <h5 class="yellow">la femme et le dragon - <cite>黙示録</cite>第１２章１～４節</h5>
 
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -2670,7 +2670,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《黙示録の空》、<cite>黙示録</cite>第１２章</f節gcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《黙示録の空》、<cite>黙示録</cite>、第１２章１～４節</f節gcaption>
       </figure>
 
       <section><article>
@@ -2700,12 +2700,12 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《女の人と竜》、<cite>黙示録</cite>第１２章・１~５節</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《女の人と竜》、<cite>黙示録</cite>、第１２章１～４節</figcaption>
       </figure>
     </article></section>
 
     <section><article>
-      <h5 class="yellow">combat de saint michel, du dragon et de leurs anges: chute du dragon et de ses anges - <cite>黙示録</cite> 12.5 à 9</h5>
+      <h5 class="yellow">combat de saint michel, du dragon et de leurs anges: chute du dragon et de ses anges - <cite>黙示録</cite>第１２章５～９節</h5>
 
       <section><article>
         <ol class="doc">
@@ -2734,7 +2734,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《聖ミカエルと、竜とその使いたちの戦い。竜とその使いたちの墜落》、<cite>黙示録</cite>第１２章・７~９節</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《聖ミカエルと、竜とその使いたちの戦い。竜とその使いたちの墜落》、<cite>黙示録</cite>、第１２章５～９節</figcaption>
       </figure>
     </article></section>
   </article></section>
@@ -2774,7 +2774,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《女蛇から逃れるために女には大きな鷲の翼が二つ与えられる》、<cite>黙示録</cite>第１２章・１４）節/figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《女蛇から逃れるために女には大きな鷲の翼が二つ与えられる》、<cite>黙示録</cite>、第１２章１０～１３節</figcaption>
     </figure>
 
     <section><article>
@@ -2837,7 +2837,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1920.jpg 1920w"></picture><figcaption>中央パネル内面の詳細、《クラトンの洗礼》、<cite>黄金伝説</cite>第９章</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1920.jpg 1920w"></picture><figcaption>中央パネル内面の詳細、《クラトンの洗礼》、<cite>黄金伝説</cite>、第９章</figcaption>
     </figure>
     </article></section>
 
@@ -2865,7 +2865,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/chapiteau-4-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/chapiteau-4-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/chapiteau-4-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/chapiteau-4-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、右側の最右の柱頭、《毒の杯の奇跡》</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/chapiteau-4-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、右側の最右の柱頭、《毒の杯の奇跡》、第９章</figcaption>
       </figure>
     </article></section>
   </article></section>
