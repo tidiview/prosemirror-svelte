@@ -2887,454 +2887,539 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-840.webp 840w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-1280.webp 1280w"></picture><figcaption><ruby>閉<rt style="font-size: 70%;color:#999;">へい</rt>翼<rt style="font-size: 70%;color:#999;">よく</rt>時<rt style="font-size: 70%;color:#999;">じ</rt></ruby>の三連画</figcaption>
   </figure>
-<h3 id="position-fermee" class="yellow">寄贈者たちの紹介、<ruby style="color:#e6a64d;">閉<rp>(</rp><rt style="font-size: 70%;color:#e6a64d;">へい</rt><rp>)</rp>翼<rp>(</rp><rt style="font-size: 70%;color:#e6a64d;">よく</rt><rp>)</rp>時<rp>(</rp><rt style="font-size: 70%;color:#e6a64d;">じ</rt><rp>)</rp></ruby>の三連画</h3>
-<p>翼パネルの裏側は、跪いている寄贈者たちと彼らを見守っている守護聖人の肖像で飾られている。</p>
-<p>彼らは奥行きのあんまり深くない<ruby>壁<rp>(</rp><rt>へき</rt><rp>)</rp>龕<rp>(</rp><rt>がん</rt><rp>)</rp></ruby>で表されている。</p>
-<p>各の人物の身分が確認された。</p>
-<p>左から右へ、私たちは見分けることが出来るのは:</p>
-<ul>
-  <li><ruby style="color:#e6a64d;" lang="ja">アグネス<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">Agnès</rt><rp>)</rp>・<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">&#160;</rt><rp>)</rp>カゼムブロード<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">CASEMBROOD</rt><rp>)</rp></ruby>はひざまずいている。子羊によって認識されているのは<span style="color: #e6a64d;">聖アグネス</span>である。</li>
-  <li>つり香炉を運ぶ<span style="color: #e6a64d;">聖クレア</span>は<ruby style="color:#e6a64d;" lang="ja">クレア<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">Claire</rt><rp>)</rp>・<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">&#160;</rt><rp>)</rp>ヴァン<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">VAN</rt><rp>)</rp>・<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">&#160;</rt><rp>)</rp>ヒュルせン<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">HULSEN</rt><rp>)</rp></ruby>修道女を守っている。</li>
-  <li><ruby style="color:#e6a64d;" lang="ja">ヤコブ<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">Jacob</rt><rp>)</rp>・<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">&#160;</rt><rp>)</rp>ド<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">DE</rt><rp>)</rp>・<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">&#160;</rt><rp>)</rp>クーニンク<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">KEUNINC</rt><rp>)</rp></ruby>とサンティアゴ・デ・コンポステーラの巡礼者の服を着た<span style="color: #e6a64d;">聖ヤコブ</span>、</li>
-  <li>司教杖と子豚で見分ける<span style="color: #e6a64d;">聖大アントニオ</span>は、病院長である<ruby style="color:#e6a64d;" lang="ja">アントワーヌ
-  <rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">Antoine</rt><rp>)</rp>・<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">&#160;</rt><rp>)</rp>セガーズ<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">SEGHERS</rt><rp>)</rp></ruby>の守護聖人である。</li>
-</ul>
-<p>その三連画は恐らく、アントワーヌ・セガースが死んだ年以来、<time datetime="1475">１４７５年</time>以前に注文された。</p>
-<p><time datetime="1479">１４７９年</time>には祭壇の上に置かれた。</p>
-</div>
+  <h3 id="position-fermee" class="yellow">寄贈者たちの紹介、<ruby style="color:#e6a64d;">閉<rp>(</rp><rt style="font-size: 70%;color:#e6a64d;">へい</rt><rp>)</rp>翼<rp>(</rp><rt style="font-size: 70%;color:#e6a64d;">よく</rt><rp>)</rp>時<rp>(</rp><rt style="font-size: 70%;color:#e6a64d;">じ</rt><rp>)</rp></ruby>の三連画</h3>
+
+  <section><article>
+    <section><article>
+      <p>翼パネルの裏側は、跪いている寄贈者たちと彼らを見守っている守護聖人の肖像で飾られている。</p>
+      <p>彼らは奥行きのあんまり深くない<ruby>壁<rp>(</rp><rt>へき</rt><rp>)</rp>龕<rp>(</rp><rt>がん</rt><rp>)</rp></ruby>で表されている。</p>
+      <p>各の人物の身分が確認された。</p>
+    </article></section>
+
+    <section><article>
+      <section><article>
+        <p>左翼パネルでは、左から：</p>
+        <ul>
+          <li>立ったままでいる人は、<span style="color: #e6a64d;">聖アグネス</span>である。下と左側での子羊から認識されている。</li>
+          <li>前方でひざまずいている<ruby style="color:#e6a64d;" lang="ja">アグネス<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">Agnès</rt><rp>)</rp>・<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">&#160;</rt><rp>)</rp>カゼムブロード<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">CASEMBROOD</rt><rp>)</rp></ruby>である。</li>
+        </ul>
+      </article></section>
+      <section><article>
+        <p>左翼パネルの右側に：</p>
+        <ul>
+          <li>つり香炉を運ぶ<span style="color: #e6a64d;">聖クレア</span>は、</li>
+          <li><ruby style="color:#e6a64d;" lang="ja">クレア<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">Claire</rt><rp>)</rp>・<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">&#160;</rt><rp>)</rp>ヴァン<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">VAN</rt><rp>)</rp>・<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">&#160;</rt><rp>)</rp>ヒュルせン<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">HULSEN</rt><rp>)</rp></ruby>修道女を守っている。</li>
+        </ul>
+      </article></section>
+      <section><article>
+        <p>右翼パネル、左から：</p>
+        <ul>
+          <li>立っているままでいる人は、サンティアゴ・デ・コンポステーラの巡礼者の服を着た<span style="color: #e6a64d;">聖ヤコブ</span>と、</li>
+          <li><ruby style="color:#e6a64d;" lang="ja">ヤコブ<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">Jacob</rt><rp>)</rp>・<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">&#160;</rt><rp>)</rp>ド<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">DE</rt><rp>)</rp>・<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">&#160;</rt><rp>)</rp>クーニンク<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">KEUNINC</rt><rp>)</rp></ruby>である。</li>
+        </ul>
+      </article></section>
+      <section><article>
+        <p>右翼パネルの右に：</p>
+        <ul>
+          <li>司教杖と子豚で見分ける<span style="color: #e6a64d;">聖大アントニオ</span>は、</li>
+          <li>ひざまずいているままでいるひとは、施療院長である、<ruby style="color:#e6a64d;" lang="ja">アントワーヌ<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">Antoine</rt><rp>)</rp>・<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">&#160;</rt><rp>)</rp>セガーズ<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">SEGHERS</rt><rp>)</rp></ruby>の守護聖人である。</li>
+        </ul>
+      <p>その三連画は恐らく、アントワーヌ・セガースが死んだ年以来、<time datetime="1475">１４７５年</time>以前に注文された。</p>
+      <p><time datetime="1479">１４７９年</time>には祭壇の上に置かれた。</p>
+    </article></section>
+  </article></section>
+</article>
 
 <!-- Page 16 --><hr>
 
 <article>
-<h1 id="mise-en-relation" class="yellow">表わされている場面の元にある様々な文書</h1>
-<figure>
-  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-280.webp 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-380.webp 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-480.webp 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-840.webp 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1280.webp 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの詳細、《アレクサンドリアのカタリナ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの詳細、《アレクサンドリアのカタリナ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-60-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-280.jpg 280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-380.jpg 380w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-480.jpg 480w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-840.jpg 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1280.jpg 1280w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1920.jpg 1920w"></picture><figcaption>アレクサンドリアのカタリナ</figcaption>
-</figure>
-<h2 id="cath-selon-legende" class="yellow"><ruby style="color:#e6a64d;">黄金伝説<rt style="color:#e6a64d;">レゲンダ・アウレア</rt></ruby><span style="color: #e6a64d;">においての聖カテリナ</span></h2>
-<p>第１６６章　聖女カテリナ</p>
-<p>カテリナは、コストスという王の娘で、<a href="#note_artsliberaux" title="七学芸" id="artsliberaux" class="yellow">七学芸</a>の教育を熱心に受けた。</p>
-<p>そのころ、<a href="#note_maxentius" title="皇帝マクセンティウス" id="maxentius" class="yellow">皇帝マクセンティウス</a>は、富める者も貧しい者もアレクサンドリアに呼び集めて、偽神たちに香をささげさせた。これには、供香に応じようとしないキリスト教徒を断罪してやろうという狙いもあったのである。</p>
-<p>このとき十八歳であったカテリナは、大勢の召使いとありあまるほどの富にかこまれて、宮殿でひとりで暮らしていた。</p>
-<p>ある日、動物たちの<ruby>咆え<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby>声と人びとの歌声が聞こえたので、すぐ使いの者をやって、なにごとが起こったのかをたずねさせた。</p>
-<p>彼女は、ことの次第を知ると、数人の者をつれて宮殿を出て、十字のしるしで武装し、現場におもむいた。</p>
-<p>見ると、多くのキリスト教徒が死の恐怖におののきながら供香に引きたてられていくところであった。</p>
-<p>これに大きな心痛をおぼえたカテリナは、大胆にも皇帝のまえにすすみ出ると、こう言った。</p>
-<blockquote>
-  <p><span style="color: #df8f20;">—　陛下、もしあなたが天にまします造り<ruby style="color:#df8f20;display: inline-flex;flex-direction: column-reverse;text-align: center;">主<rp>(</rp><rt style="color:#df8f20;font-size: 70%;letter-spacing: 2px;display: inline;line-height: 0;">ぬし</rt><rp>)</rp></ruby>をおみとめになって、偽神たちを<ruby style="color:#df8f20;display: inline-flex;flex-direction: column-reverse;text-align: center;">拝<rp>(</rp><rt style="color:#df8f20;font-size: 70%;letter-spacing: 2px;display: inline;line-height: 0;">おが</rt><rp>)</rp></ruby>むことをおやめくださいますならば、これは、陛下の高いご身分にふさわしいことでありますし、理性も、そうした陛下にこころからご挨拶申しあげることをわたくしに命じるでありましょう</span></p>
-</blockquote>
-<p>そして、神殿の入口に立ったまま、三段論法のさまざまな結論を駆使してあるときは寓意的、比喩的に、またあるときは弁証法的、神秘論的に皇帝と多くのテーマについて議論をたたかわせた。</p>
-<p>それが終わると、ふつうの言葉にもどって、</p>
-<blockquote>
-  <p><span style="color: #df8f20;">—　わたくしは、以上のことをまるで哲学者にむかって言うように陛下にご説明申しあげました。</span></p>
-  <p><span style="color: #df8f20;">さて、おたずねいたしますが、陛下はどうしてなんの益もないのに多くの人びとを呼び集めて、石の像に供香させるというような愚かな真似をなさるのでございますか。</span></p>
-  <p><span style="color: #df8f20;">たかが職人の手で建てられたにすぎないこの神殿を立派だとおもい、風のまえの<ruby style="color:#df8f20;display: inline-flex;flex-direction: column-reverse;text-align: center">塵<rp>(</rp><rt style="color:#df8f20;font-size: 70%;letter-spacing: 2px;;display: inline;line-height: 0;">ちり</rt><rp>)</rp></ruby>にも似た神殿のきらびやかな装飾を美しいとお考えになるのでしたら、天を仰ぎ、地と海とそこにある<ruby style="color:#df8f20;">森<rp>(</rp><rt style="color:#df8f20;font-size: 70%;letter-spacing: 2px;">しん</rt><rp>)</rp>羅<rp>(</rp><rt style="color:#df8f20;font-size: 70%;letter-spacing: 2px;">ら</rt><rp>)</rp>万<rp>(</rp><rt style="color:#df8f20;font-size: 70%;letter-spacing: 2px;">ばん</rt><rp>)</rp>象<rp>(</rp><rt style="color:#df8f20;font-size: 70%;letter-spacing: 2px;">しょう</rt><rp>)</rp></ruby>をごらんなさい。</span></p>
-  <p><span style="color: #df8f20;">太陽と月と星のような天の装飾におどろきなさい。</span></p>
-  <p><span style="color: #df8f20;">そして、創世の日から世の終わりのときまで昼も夜も西にむかって走り、また東にもどって、けっして倦むことのない彼らの奉仕ぶりにお気づきなさい。</span></p>
-  <p><span style="color: #df8f20;">これをとくとごらんになりましたら、このような奉仕を受けておられる力あるおん者がどなたであるかを問い、よく理解しようとつとめなさい。</span></p>
-  <p><span style="color: #df8f20;">けれども、主があなたのこころに認識の光をあたえてくださって、あなたが主をみとめ、主に比肩できるような者はだれもいないということがおわかりになりましたら、主をあがめ、主をたたえなくてはなりません。</span></p>
-  <p><span style="color: #df8f20;">と申しますのは、主は、あらゆる神々のなかの神であり、すべての主のなかの主であられるのですから</span></p>
-</blockquote>
-<p>さらにカテリナが神のおん子のご<a href="#note_incarnation" title="託身" id="incarnation" class="yellow"><ruby>託<rp>(</rp><rt>たく</rt><rp>)</rp>身<rp>(</rp><rt>しん</rt><rp>)</rp></ruby></a>についてたくみに説明すると、皇帝は、すっかり面くらって、言葉をかえすこともできなかった。</p>
-<p>しかし、やっとのことで落ち着きをとりもどすと、こう言った。</p>
-<blockquote>
-  <p><span style="color: #b3884d;">—　婦人よ、しばらく待ってもらいたい。まずはこの供香を終わりまでやらせて、それがすんだら、そなたの問いに答えることにしよう</span></p>
-</blockquote>
-<p>皇帝は、カテリナを自分の宮殿に案内して、だいじにもてなすようにと命じた。
-というのは、彼女の聡明さと容姿の美しさにすっかり参ってしまったのである。</p>
-<p>やがて宮殿にもどってくると、皇帝は、カテリナに言った。</p>
-<blockquote>
-  <p><span style="color: #b3884d;">—　われわれは、そなたの雄弁な言葉を聞き、そなたの聡明さに感嘆いたした。</span></p>
-  <p><span style="color: #b3884d;">けれども、神々に供香させることにかまけていたので、すべてを理解することはできなかった。</span></p>
-  <p><span style="color: #b3884d;">そこで、まず手はじめにそなたの家柄を聞かせてもらおう</span></p>
-</blockquote>
-<p>乙女は答えた。</p>
-<blockquote>
-  <p><span style="color: #df8f20;">—　〈みずからをほめても、けなしてもならない〉と書かれています。</span></p>
-  <p><span style="color: #df8f20;">そんなことをするのは、むなしい名声にうごかされる愚かな人びとだけです。</span></p>
-  <p><span style="color: #df8f20;">ですから、わたくしが自分の<ruby style="color:#df8f20;">出<rp>(</rp><rt style="color:#df8f20;font-size: 70%;letter-spacing: 2px;">しゅつ</rt><rp>)</rp>自<rp>(</rp><rt style="color:#df8f20;font-size: 70%;letter-spacing: 2px;">じ</rt><rp>)</rp></ruby>を申しあげますのは、<ruby style="color:#df8f20;">自<rp>(</rp><rt style="color:#df8f20;font-size: 70%;letter-spacing: 2px;">うぬ</rt><rp>)</rp>惚<rp>(</rp><rt style="color:#df8f20;font-size: 70%;letter-spacing: 2px;">ぼれ</rt><rp>)</rp></ruby>や虚栄からではなく、謙虚でありたいとおもうからでございます。</span></p>
-  <p><span style="color: #df8f20;">わたくしは、コストス王のひとり娘でございます。けれども、王家に生まれ、七学芸もしっかり学びはしましたが、これらの学問もそれほどありがたいものとはおもわず、もっぱら主イエス・キリストに帰依してまいりました。</span></p>
-  <p><span style="color: #df8f20;">あなたがあがめておいでの神々は、あなたをもほかの人びとをも助けることができません。</span></p>
-  <p><span style="color: #df8f20;">ただの石の像を拝んでいらっしゃるあなたがたは、ほんとうにお気の毒です。あなたがたの神々は、あなたがたが困ったときに助けをもとめても、そばにはいらっしゃいませんし、悲しいときにも助けに来てはくださいません。危険なときにも守ってはくださいません！</span></p>
-</blockquote>
-<p>王は言った。</p>
-<blockquote>
-  <p><span style="color: #b3884d;">—　そなたの言うことが正しいとすれば、世の人びとは、みんな間違っていて、そなただけが真実を語っていることになるのかな。</span></p>
-  <p><span style="color: #b3884d;">しかし、どんな発言も、ふたりか三人の証人によって裏書きされることが必要だから、よしんばそなたが天使か天の諸力のひとつだとしても、このままでは、だれもそなたの言うことを信じるわけにはいくまい。</span></p>
-  <p><span style="color: #b3884d;">なにしろ、そなたひとりでは、かよわい一女人にすぎぬからな</span></p>
-</blockquote>
-<p>カテリナは答えた。</p>
-<blockquote>
-  <p><span style="color: #df8f20;">—　陛下、どうか怒りのとりこになられませぬように。</span></p>
-  <p><span style="color: #df8f20;">賢者のこころは、怒りの感情にうごかされるようなことがあってはなりませぬ。</span></p>
-  <p><span style="color: #df8f20;">それゆえ、〈精神で支配する者こそ、王者であって、肉体で支配する者は、奴隷にすぎぬ〉と詩人も言っております</span></p>
-</blockquote>
-<p>皇帝は言った。</p>
-<blockquote>
-  <p><span style="color: #b3884d;">—　どうやら、才女ぶりをひけらかしてわれわれのこころをとらえ、哲学者の言葉など引用して長広舌をふるうのが、そなたの手くだのようだな</span></p>
-</blockquote>
-<p>皇帝は、カテリナの聡明さにはとうてい太刀打ちできぬと知ると、ひそかに国じゅうの文法学と雄弁術の大家に書面を送り、すぐさまアレクサンドリアの市庁に参集せよと命じ、首尾よくこの口達者な乙女をうち負かした者には莫大な褒賞をとらせようと約束した。</p>
-<p>こうして各地から、世俗の学識にかけては万人にすぐれた５０人の大家たちが集まってきた。</p>
-<p>彼らは、津々浦々からわれわれを招集されたのはどのような理由からでありましょうかとたずねた。</p>
-<p>皇帝は答えた。</p>
-<blockquote>
-  <p><span style="color: #b3884d;">—　無類の判断力と聡明さをほこるひとりの乙女が、われわれのもとにおるのだが、この女は、なみいる賢者たちに論争でうち勝って、われわれの神々はすべて悪霊であると主張しているのだ。</span></p>
-  <p><span style="color: #b3884d;">あなたがたが彼女をうち負かしてくれたら、故郷に<ruby style="color:#b3884d;">錦<rp>(</rp><rt style="color:#b3884d;font-size: 70%;letter-spacing: 2px;">にしき</rt><rp>)</rp></ruby>をかざることができよう</span></p>
-</blockquote>
-<p>すると、学者たちのひとりは、声をあらげてこう言った。</p>
-<blockquote>
-  <p><span style="color: #165493;">—　おお、このようなくだらぬ論戦のために世界じゅうの学者を遠くはなれたところからお呼び寄せになるとは、陛下のご決断も、いささか大袈裟すぎはしませぬか。</span></p>
-  <p><span style="color: #165493;">たかが乙女のひとりぐらい、わたしどもの学生のなかのごく下っぱの学生でもわけなくやりこめることができますものを</span></p>
-</blockquote>
-<p>王は言った。</p>
-<blockquote>
-  <p><span style="color: #b3884d;">—　拷問にかけて力ずくで神々に供香させることはできよう。</span></p>
-  <p><span style="color: #b3884d;">しかし、あなたがたと論争をさせて、<ruby style="color:#b3884d;">完<rp>(</rp><rt style="color:#b3884d;font-size: 70%;letter-spacing: 2px;">かん</rt><rp>)</rp>膚<rp>(</rp><rt style="color:#b3884d;font-size: 70%;letter-spacing: 2px;">ぷ</rt><rp>)</rp></ruby>になさまでにあの女の鼻をへし折ってやったほうがおもしろい、とわたしはおもったのだ</span></p>
-</blockquote>
-<p>学者たちは言った。</p>
-<blockquote>
-  <p><span style="color: #165493;">—　その娘をわれわれのまえにつれてこさせてください。神々を冒瀆したことをみとめさせ、大学者というものにはじめて会ったと言わせてやりますよ</span></p>
-</blockquote>
-<p>カテリナは、どんな論争が待ちうけているかを聞くと、身もこころも主にゆだねた。</p>
-<p>すると、主の<ruby>御<rp>(</rp><rt>み</rt><rp>)</rp>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>いがあらわれて、びくびくしていてはなりませんと忠告し、けっして学者たちにうち負かされることはありません、逆に学者たちを回心させ、ともに殉教の棕櫚を受けることになるでしょう、と告げた。</p>
-<p>さて、彼女は、学者たちのまえにつれていかれると、皇帝にむかってこう言った。</p>
-<blockquote>
-  <p><span style="color: #df8f20;">—　陛下は、五十人の学者たちをひとりの乙女と論争させ、この人たちが勝ったら莫大な褒賞をあたえると約束なさっていますが、わたくしにはなんのご褒美も約束しないで戦えとおっしゃいます。これは、不公平というものではありませんか。</span></p>
-  <p><span style="color: #df8f20;">けれども、主イエス・キリストがわたくしの褒賞でございます。イエス・キリストこそは、主のために戦うすべての人間の希望であり、栄冠なのです</span></p>
-</blockquote>
-<p>すると、学者たちは神ともあろう者が人間になったり、苦しみを受けたりするのはありえないことだと言った。カテリナは、そのようなことは異教徒の人たちでさえ予言しています、と指摘した。</p>
-<blockquote>
-  <p><span style="color: #df8f20;">—　プラトンは、神は満月のように完全な円をなしていることもあれば、三日月のように弧になっていることもあると述べておりますし、<a href="#note_sybille" title="シビュラ" id="sybille" class="yellow">シビュラ</a>は、〈高い木につるされた神は、さいわいである〉と言っているではありませんか</span></p>
-</blockquote>
-<p>カテリナは、このような調子で堂々と学者たちと渡りあい、明確な論拠をあげて彼らをやりこめたので、さすがの学者たちも、舌を巻いてだまりこみ、だれひとりとして返す言葉を知らなかった。</p>
-<p>皇帝は、烈火のように怒って、たかが女ひとりにだらしなくもうち負かされてしまった学者たちにはげしい難詰の言葉をあびせた。</p>
-<p>すると、みんなの師匠格にあたる<ruby>碩<rp>(</rp><rt>せき</rt><rp>)</rp>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>が言った。</p>
-<blockquote>
-  <p><span style="color: #165493;">—　陛下もご存じでいらっしゃいますように、かってわたしたちと論争をして、たちどころにうち負かされなかったような相手は、ひとりもございませんでした。けれども、この乙女の口から語っているのは、神の<ruby style="color:#165493;">御<rp>(</rp><rt style="color:#165493;font-size: 70%;letter-spacing: 2px;">み</rt><rp>)</rp>霊<rp>(</rp><rt style="color:#165493;font-size: 70%;letter-spacing: 2px;">たま</rt><rp>)</rp></ruby>です。</span></p>
-  <p><span style="color: #165493;">わたしたちは、こころから感服し、これ以上キリストを否定するようなことは言えなくなってしまいました。</span></p>
-  <p><span style="color: #165493;">ですから、わたしたちがこれまであがめてきた神々のほうがすぐれていることを陛下がおしめしくださいませんでしたら、ここにきっぱりと申しあげますが、わたしたちは、ひとり残らずキリスト教に改宗いたそうと存じます</span></p>
-</blockquote>
-<p>僭主は、この言葉を聞くや、かんかんに怒って、このへぼ学者どもを<ruby>町<rp>(</rp><rt>まち</rt><rp>)</rp>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>で焼き殺してしまえと<ruby>下<rp>(</rp><rt>げ</rt><rp>)</rp>知<rp>(</rp><rt>ち</rt><rp>)</rp></ruby>した。</p>
-<p>しかし、カテリナは、彼らを力づけ、毅然として殉教にむかうのですとさとし、信仰の道を熱心に説いた。</p>
-<p>彼らは、洗礼を受けずに死んでいくことを悲しんだ。それで、カテリナはこう言った。</p>
-<blockquote>
-  <p><span style="color: #df8f20;">—　怖れることはありません。あなたがたは、みずからの血でもって洗礼と栄冠を受けるのですから</span></p>
-</blockquote>
-<p>こうして学者たちは、十字のしるしでみずからを祝福したのち、火に投げこまれ、たましいを神にゆだねた。</p>
-<p>けれども、彼らの頭髪も衣服も、すこしも炎に焼けなかった…</p>
-<p>キリスト信者たちは、彼らの遺体をねんごろに埋葬した。一方、僭主は、カテリナにむかって言った。</p>
-<blockquote>
-  <p><span style="color: #b3884d;">—　けだかい乙女よ、そなたの若さをだいじにするがよい。わたしの宮殿で王妃につぐ地位をあたえよう。そして、そなたの像を作らせて、町のまん中に立て、みんなに女神として拝ませよう</span></p>
-</blockquote>
-<p>乙女は答えた。</p>
-<blockquote>
-  <p><span style="color: #df8f20;">—　考えるだけでも罪ぶかいようなことをおっしゃらないでくださいませ。</span></p>
-  <p><span style="color: #df8f20;">申しあげておきますが、<a href="#note_fiancee" title="申しあげておきますが、わたくしは、わが身をキリストに花嫁としてささげた女でございます" id="fiancee" class="yellow">わたくしは、わが身をキリストに花嫁としてささげた女でございます</a>。</span></p>
-  <p><span style="color: #df8f20;">キリストこそ、わたくしの栄誉、わたくしの愛であり、またわたくしの甘味な喜びなのです。</span></p>
-  <p><span style="color: #df8f20;">どんな甘言や責苦も、この愛からわたくしを引きはなすことはできません</span></p>
-</blockquote>
-<p>激怒した皇帝は、彼女を身ぐるみはだかにし、<a href="#note_scorpion" title="さそり鞭" id="scorpion" class="yellow">さそり鞭</a>で打たせたのち、暗い牢獄にとじこめた。</p>
-<p>彼女は、ここで食事もなしに１２日間うち棄てておかれた。</p>
-<p>さて、王がよんどころない要件で国外に出かけたすきに、
-カテリナに並々ならぬ好意を寄せていた王妃は、ポルピュリウスという親衛隊長といっしょに彼女がとじこめられている牢獄にやってきた。</p>
-<p>王妃が入っていくと、獄房は、<ruby>皓<rp>(</rp><rt>こう</rt><rp>)</rp>々<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>たる輝きに照らされ、天使たちがカテリナの傷の手当てをしていた。</p>
-<p>カテリナは、皇后を見ると、天の喜びを説きはじめ、彼女をキリスト教に改宗させ、いずれは殉教の栄冠を手に入れられるでしょうと預言した。</p>
-<p>こうしてふたりは、夜ふけまで延々と語りあった。</p>
-<p>この話をずっと聞いていたポルピュリウスは、いきなりカテリナの足もとに身を投げると、二百名の騎士たちともども信仰の道に入った。</p>
-<p>ところで、僭主は、十二日間食事をあたえてはならぬと厳命しておいたので、キリストは、天から一羽の白い鳩をカテリナのもとにつかわされ、鳩は、天上の食べもので彼女をやしなった。</p>
-<p>その後、主おんみずから大勢の天使たちと乙女たちをつれて、カテリナのもとにあらわれてこう言われた。</p>
-<blockquote>
-  <p><span style="color: #7070c2;">—&#160;</span></td>
-<td><span style="color: #7070c2;">「娘よ、わたしは、その名のためにあなたが苦しい戦いをひき受けてくれたあなたの造り主である。ひるんではならない。</span></p>
-  <p><span style="color: #7070c2;">わたしは、あなたとともにいるのだから</span></p>
-</blockquote>
-<p>主が去られたあと、旅から帰った皇帝は、彼女を引いてくるようにと命じた。
-しかし、長い絶食で<ruby>憔<rp>(</rp><rt>しよう</rt><rp>)</rp>悴<rp>(</rp><rt>すい</rt><rp>)</rp></ruby>しきっているものとおもったのに、カテリナは、以前よりもずっと美しくなっていた。</p>
-<p>皇帝は、牢獄のなかで彼女に食事をあたえた者がいるにちがいないとにらみ、牢の番人どもを拷問にかけよと命じた。</p>
-<p>そこでカテリナは言った。</p>
-<blockquote>
-  <p><span style="color: #df8f20;">—　わたくしは、どんな人間からも食事をもらっていません。主キリストが、御使いによってわたくしをやしなってくださったのです</span></p>
-</blockquote>
-<p>皇帝は言った。</p>
-<blockquote>
-  <p><span style="color: #b3884d;">—　いいかな、わたしの言うことをよくこころに留めて、いいかげんな返事をしないようにしてもらいたい。</span></p>
-  <p><span style="color: #b3884d;">わたしは、そなたを召使い女にほしいと言っておるのではない。権勢ならぶ者のない、あでやかな<ruby style="color:#b3884d;">妃<rp>(</rp><rt style="color:#b3884d;font-size: 70%;letter-spacing: 2px;">きさき</rt><rp>)</rp></ruby>としてわたしの帝国に君臨してもらおうと申しておるのだ</span></p>
-</blockquote>
-<p>カテリナは答えた。</p>
-<blockquote>
-  <p><span style="color: #df8f20;">—　陛下もわたくしの言葉をしかとお聞きくださるようお願い申しあげます。そして、よくご勘考のうえ正しい判断をくだしてお決めくださいませ。力づよく、不滅で、栄光にみち、あでやかなおん者か、それとも無力で、死すべき、いやしい、みにくい人間か、わたくしは、このどちらを選ぶのがよいでしょうか</span></p>
-</blockquote>
-<p>皇帝は、憤然として言った。</p>
-<blockquote>
-  <p><span style="color: #b3884d;">—　神々に供香をして生きながらえるか、特別にむごい責苦を受けて死ぬか、このふたつにひとつを選ぶがよい</span></p>
-</blockquote>
-<p>カテリナは言った。</p>
-<blockquote>
-  <p><span style="color: #df8f20;">—　考えつくどんな責苦でもいますぐ考えだしてくださいませわたくしは、かつて主おんみずからがわたくしのためにご自身を犠牲になさいましたように、一刻もはやくわたくしの肉と血を主にささげたいと切願しているのでございます。主こそ、わたくしの神、わたくしのいとしい人、わたくしの牧者にして花婿なのですから</span></p>
-</blockquote>
-<p>そのとき、ある裁判官が怒り狂っている皇帝に、鉄の<ruby>鋸<rp>(</rp><rt>のこぎり</rt><rp>)</rp></ruby>をつけ、するどくとがった釘を打ちならべた車輪を四つ三日のあいだにこしらえさせなさい、このすごい責め道具に彼女の肉体を切りきざませるのです、ほかのキリスト教徒もこういうむごたらしい死にざまを見たら震えあがりましょう、と献策した。</p>
-<p>そこで皇帝は、刑車を作らせた。</p>
-<p>その車のふたつの車輪は、他のふたつの車輪と反対の方向にまわるようにし、最初のふたつが下のほうに動き、残りのふたつはこれとは逆に上にむかって動く。</p>
-<p>四つの車輪をこういうふうに配置して同時にうごかすと、乙女のからだは八つ裂きにされる仕掛けになっていた。</p>
-<p>聖カテリナは、主の<ruby>御<rp>(</rp><rt>み</rt><rp>)</rp>名<rp>(</rp><rt>な</rt><rp>)</rp></ruby>の栄光のために、また見物に集まった人びとを回心させるためにどうかこの刑車を破壊してください、と主にお願いした。</p>
-<p>すると、主の御使いがあらわれて、刑車をこっぱみじんに破砕したので、飛びちった破片に当たって四千人もの異教徒が死んだ。</p>
-<p>王妃は、それまではそっと身をかくして高いところからこれを眺めていたが、すぐさま下に駆けおりてきて、皇帝にむかってこの眼をおおう残忍さをなじった。</p>
-<p>王は、これを聞いて激怒し、皇后が神々に供香することをこばんだので、まず皇后の乳房を<ruby>挟<rp>(</rp><rt>えぐ</rt><rp>)</rp></ruby>りとってから首を<ruby>刎<rp>(</rp><rt>は</rt><rp>)</rp></ruby>ねよと命じた。</p>
-<p>殉教の場所につれていかれるとき、皇后はカテリナにむかって、どうかわたしのために神さまに祈ってくださいとたのんだ。</p>
-<p>カテリナは、答えて言った。</p>
-<blockquote>
-  <p><span style="color: #df8f20;">—　神のいつくしみを受けられた王妃さま、怖れることはございません。あなたは、今日はかない王国のかわりに永遠の王国を手に入れ、うつしみの良人と別れて、天の花婿とひとつになられるのですから</span></p>
-</blockquote>
-<p>王妃は、カテリナの言葉になぐさめられた。</p>
-<p>そこで刑吏たちは、彼女を町のそとにつれていって、槍の穂先で乳房を挟りだしたのち、首を刎ねた。</p>
-<p>ポルピュリウスは、王妃の遺体を盗みだしてきて、てあつく葬った。</p>
-<p>翌日、王妃の遺体の捜索がはじまった。</p>
-<p>僭主は、このことにかんして嫌疑のかかっている多くの人びとを拷問にかけよという命令を出した。
-すると、ポルピュリウスがすすみでて、大きな声で臆せずに言った。</p>
-<blockquote>
-  <p><span style="color: #93836c;">—　キリストの<ruby style="color:#93836c;">仕<rp>(</rp><rt style="color:#93836c;font-size: 70%;letter-spacing: 2px;">つか</rt><rp>)</rp></ruby>え<ruby style="color:#93836c;">仕女<rp>(</rp><rt style="color:#93836c;font-size: 70%;letter-spacing: 2px;">め</rt><rp>)</rp></ruby>であった皇后さまを葬りましたのは、このわたしです。かく言うわたしも、キリスト教に入信いたしました</span></p>
-</blockquote>
-<p>マクセンティウスは、これを聞くと、われを忘れて猛獣のような声で唸った。</p>
-<blockquote>
-  <p><span style="color: #b3884d;">—　なんということになってしまったのか。わたしは、頼る者もなく、みんなから憐れまれる身の上になってしまった。</span></p>
-  <p><span style="color: #b3884d;">ポルピュリウスよ、わたしのたましいの番人であり、わたしの心労のただひとりのなぐさめ手であったおまえまで、キリストにたらしこまれたのか！</span></p>
-</blockquote>
-<p>皇帝は、この泣きごとをまわりにいる親衛兵たちにむかって言ったのだが、彼らはこう言った。</p>
-<blockquote>
-  <p><span style="color: #936c93;">—　わたしたちも、キリストの信者でございます</span></p>
-</blockquote>
-<p>皇帝は、すっかり逆上して、ポルピュリウスといっしょにこいつらも斬首し、死体を犬どもに投げあたえよと下知した。</p>
-<p>そのあと、こんどはカテリナを呼ばせて、</p>
-<blockquote>
-  <p><span style="color: #b3884d;">—　そなたは、魔術を使って王妃を死に追いやってしまった。それでも、正気にもどるというのであれば、わたしの宮廷の第一人者にしてやろう。</span></p>
-  <p><span style="color: #b3884d;">今日のうちに神々に香を供えるがよい。応じなければ、首を刎ねられるであろう</span></p>
-</blockquote>
-<p>カテリナは答えた。</p>
-<blockquote>
-  <p><span style="color: #df8f20;">—　どうなりと、お決めになったことを実行なさってくださいませ。どんな拷苦にも耐える覚悟ができております</span></p>
-</blockquote>
-<p>こうして、打ち首にするという宣告がくだされた。</p>
-<p>彼女は、仕置き場へ連行されると、眼を天に凝らして祈りはじめた。</p>
-<blockquote>
-  <p><span style="color: #df8f20;">—　おお、すべての信じる者の期待にして救いであるおん者、すべての乙女らのほまれであり誇りであるおん者、めでたき王、主イエスさま、お願いでございます。わたくしの受難の日をこころから祝い、臨終のさいや危急のときにわたくしの名を呼ぶ人たちの願いが、どうか聖寵によってかなえられますように</span></p>
-</blockquote>
-<p>すると、ひとつの声がとどいた。</p>
-<blockquote>
-  <p><span style="color: #6c936c;">—　わたしのいとし子、わたしの花嫁、来るがよい。</span></p>
-  <p><span style="color: #6c936c;">天国の門は、あなたに開かれている。</span></p>
-  <p><span style="color: #6c936c;">あなたの祝日をこころをこめて祝うすべての人たちに、あなたが願った聖寵をあたえると約束しよう</span></p>
-</blockquote>
-<p>それから刑吏たちは、彼女の首を打ち落とした。
-すると、彼女のからだから、血のかわりに乳がながれだした。</p>
-<p>天使たちは、遺体を抱きあげ、そこから歩いて二十日以上もかかる<a href="#note_sinai" title="シナイの山にはこび、うやうやしく葬った" id="sinai" class="yellow">シナイの山にはこび、うやうやしく葬った</a>。</p>
-<p>彼女の聖遺骨からは、病めるすべての人たちを癒やす霊験あらたかな香油がたえずながれでている。</p>
-<p><span style="color: #df8f20;">聖カテリナ</span>が殉教したのは、主の紀元<time datetime="310">３１０年</time>ごろ帝位についた<a href="#note_maximinus" title="マクシミヌス帝" id="maximinus" class="yellow">暴君マクセンティウス帝またはマクシミヌス帝</a>のときであった。</p>
-<p>マクセンティウスがこの犯罪や、彼がおかしたその他の罪業のために罰をくだされた話は、<a href="#note_croix" title="〈聖十字架の発見〉" id="croix" class="yellow">〈聖十字架の発見〉の章</a>に述べられている。</p>
-<p>話によると、<a href="#note_rouen" title="ロトマグス" id="rouen" class="yellow">ロトマグス</a>のある修道士は、シナイの山に行き、７年のあいだ<span style="color: #df8f20;">聖女カテリナ</span>に仕えた。</p>
-<p>あるとき、ご遺体のかけらでもいただきとうございます、と聖女に熱心に祈願していると、突然聖女の指の一部がぼきりと手から落ちた。</p>
-<p>彼は、この神の<ruby>賜<rp>(</rp><rt>たま</rt><rp>)</rp>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>をよろこんで押しいただき、故郷の修道院へもって帰った。</p>
-<p>また、べつの話によると、ある男がいて、<span style="color: #df8f20;">聖カテリナ</span>にこころから帰依し、なんども聖女の名を呼んで加護をもとめたことがあった。
-ところが、年月がたつうちに最初の熱意がさめ、帰依の気持もうすらいで、もう聖女に代願をもとめなくなった。</p>
-<p>あるとき、身を投げて祈っていると、たくさんの乙女たちがそばを通りすぎていくのが見えた。</p>
-<p>なかにひときわ明るくかがやくひとりの乙女がいた。
-その乙女は、彼のそばまで来ると、頭からヴェールをおろし、顔が見えないようにして通りすぎていった。</p>
-<p>彼は、彼女のかがやく容姿にこころをうばわれて、あのかたはだれですかとたずねた。</p>
-<p>すると、乙女たちのひとりが答えた。</p>
-<p><span style="color: #577575;">「あれは、あなたがむかしよくご存じのカテリナ聖女さまです。しかし、あなたは、いまではあのかたのことなんか忘れておいでなので、あのように顔をかくして、あかの他人のように通りすぎていかれたようです</span></p>
-<p>ここでわれわれは、<span style="color: #df8f20;">聖カテリナ</span>が<span style="color: #936c93;">五つの点</span>で衆にぬきんでた乙女であることに留意しなくてはならない。</p>
-<p>その五つの点とは、まず<span style="color: #936c93;">学識</span>、つぎに<span style="color: #936c93;">雄弁</span>、第三に<span style="color: #936c93;">毅然たる態度</span>、第四に<span style="color: #936c93;">純潔</span>、最後に<span style="color: #936c93;">聖品の高さ</span>である。</p>
-<p><span style="color: #936c93;">まず</span>、<span style="color: #df8f20;">聖カテリナ</span>は、<span style="color: #936c93;">知恵</span>の点でずばぬけていた。</p>
-<p>というのは、あらゆる種類の哲学に精通していたからである。</p>
-<p>ところで、哲学ないし世界知というものは、<span style="color: #6c8993;">理論学</span>と<span style="color: #6c8993;">実践学</span>と<span style="color: #6c8993;">論理学</span>とにわかれる。</p>
-<p><span style="color: #6c8993;">理論学</span>は、さらに<span style="color: #93896c;">認識論</span>と<span style="color: #93896c;">自然学</span>と<span style="color: #93896c;">数学</span>の<span style="color: #93896c;">三つ</span>にわかれるとされる。</p>
-<p><span style="color: #df8f20;">聖カテリナ</span>は、<span style="color: #936c93;">神にかんする事柄の認識</span>においてすぐれた知見をもっていた。</p>
-<p>このことは、とりわけあの五十人の学者たちとの論戦において実証された。</p>
-<p>彼女は、ただひとりの神だけが真実の神であり、それ以外の神々はすべて偽神にすぎぬことを学者たちに論証してみせたのである。</p>
-<p>また、それより<span style="color: #936c93;">低い次元の事柄の認識においては自然学的知見</span>ももっていた。</p>
-<p>さきにも見たように、とりわけ皇帝との問答にそれがしめされた。</p>
-<p>さらに、あらゆる地上のものをさげすむことにおいて数学的英知をもそなえていた。</p>
-<p>というのは、数学は、<a href="#note_boece" title="ボエティウス" id="boece" class="yellow">ボエティウス</a>によれば、形あるすべてのものを物質をぬきにして抽象的に考察する学問だからである。</p>
-<p><span style="color: #df8f20;">聖カテリナ</span>が自分のこころを地上の物質にたいするあらゆる執着から引きはなしたのは、数学的英知をもっていたことのあらわれであった。</p>
-<p><span style="color: #577575;">「わたくしは、コストス王のひとり娘でございます。けれども、王家に生まれ......」</span>
-と皇帝の下問に答えるくだりが、それである。</p>
-<p>彼女は、とりわけ王妃にむかってこの数学的英知をしめした。</p>
-<p>というのは、この物質の世界をさげすみ、地上の王国を棄てて永遠の王国をもとめることを皇后にすすめたからである。</p>
-<p>つぎに、<span style="color: #93896c;">実践学</span>も、三つにわかれる。</p>
-<p><span style="color: #93896c;">倫理学</span>と<span style="color: #93896c;">経済学</span>と<span style="color: #93896c;">公民学もしくは政治学</span>との三つである。</p>
-<p>倫理学は、いかにして道義をまなび、徳を身につけるかを教え、人間形成に役だつ学問である。</p>
-<p>経済学は、いかにして一家の暮らしを立てるかを教え、家長のために役だつ。</p>
-<p>政治学は、都市と市民と国家をいかに統治するかを教え、都市の支配者たちに役だつ。</p>
-<p><span style="color: #df8f20;">聖カテリナ</span>は、これら三つの学問を身につけていた。</p>
-<p>彼女にはあらゆる良風美俗がそなわっていたから、倫理学を身につけていた。</p>
-<p>父王から受けついだ大きな所帯をたくみにとりしきったから、経済学にも<ruby>造<rp>(</rp><rt>ぞう</rt><rp>)</rp>詣<rp>(</rp><rt>けい</rt><rp>)</rp></ruby>があった。
-さらに、皇帝に賢明な教えを垂れたから、政治学にも通じていた。</p>
-<p>論理学も、三つにわけられる。</p>
-<p>推論と弁証と<ruby>詭<rp>(</rp><rt>き</rt><rp>)</rp>弁<rp>(</rp><rt>べん</rt><rp>)</rp></ruby>である。</p>
-<p>推論は、哲学者のためのもの、弁証は、雄弁家と弁証家のためのもの、詭弁は、ソフィストのためのものである。</p>
-<p><span style="color: #df8f20;">聖カテリナ</span>は、これら三つのものもそなえていた。</p>
-<p>というのは、さきにも書かれているように、
-<span style="color: #577575;">「三段論法のさまざまな結論を駆使してあるときは寓意的、比喩的に、またあるときは弁証法的、神秘論的に皇帝と多くのテーマについて議論をたたかわせた」</span>からである。</p>
-<p><span style="color: #936c93;">第二</span>に、<span style="color: #df8f20;">聖女カテリナ</span>の<span style="color: #936c93;">雄弁</span>は、賛嘆すべきものがあった。</p>
-<p>彼女の話からもうかがえるように、教えを説くときはじつに雄弁であったからである。</p>
-<p>その話しぶりは、弁明するのにもたいへんたくみであった。</p>
-<p>皇帝にむかって、
-<span style="color: #577575;">「陛下は、たかが職人の手で建てられたにすぎないこの神殿を立派だとおもっていらっしゃいます」</span>
-と言ったとき、それを実証してみせた。</p>
-<p>また、彼女の話しぶりは、魅力にもあふれていて、人びとのこころを引きつけた。</p>
-<p>ポルピュリウスと王妃がそうであった。</p>
-<p>ふたりは、彼女の話の甘味さによって信仰にみちびかれたのである。</p>
-<p>彼女はまた、人を説得する力をももっていた。</p>
-<p>彼女の弁舌によって説得された五十人の学者たちの例が、その証左である。</p>
-<p>第三<span style="color: #936c93;">
-</span>は、彼女の<span style="color: #936c93;">毅然たる態度</span>である。</p>
-<p>というのは、彼女は、どんな<ruby>脅<rp>(</rp><rt>おど</rt><rp>)</rp></ruby>しにもめげず、平然としていたからである。
-だから、皇帝が脅しをかけたときも、
-<span style="color: #577575;">「考えつくどんな責苦でもいますぐ考えだしてくださいませ。
-わたくしは、一刻もはやくわたくしの肉と血を主にささげたいと切願しているのでございます」</span>
-とも、「どうなりと、お決めになったことを実行なさってくださいませ。
-<span style="color: #577575;">どんな拷苦にも耐える覚悟ができております」</span>
-とも言ってのけたのである。</p>
-<p>さらに、彼女は、どんな贈りものも受けとらず、毅然としていた。  というのは、皇帝が
-<span style="color: #577575;">「わたしの宮廷で皇后につぐ地位をあたえよう」</span>
-と約束したとき、
-<span style="color: #577575;">「考えるだけでも罪ぶかいようなことをおっしゃらないでくださいませ」</span>
-とはねつけたからである。</p>
-<p>彼女はまた、どんな責苦にたいしても毅然としていて、それにうち勝った。</p>
-<p>彼女が牢獄に入れられたときや、刑車に乗せられようとしたときの態度が、それを雄弁に語っている。</p>
-<p><span style="color: #936c93;">四番目</span>は、彼女の<span style="color: #936c93;">乙女としての純潔</span>である。</p>
-<p>というのは、彼女は、純潔を汚されかねないような状況にあっても、純潔を守りつづけたからである。</p>
-<p>およそ純潔を失いかねない状況は、五つある。</p>
-<ul>
-  <li><span style="color: #936c93;">心身をなまくらにする莫大な資産</span>、</li>
-  <li><span style="color: #936c93;">われわれを誘惑する機会</span>、</li>
-  <li><span style="color: #936c93;">遊び好きにさせる若さ</span>、</li>
-  <li><span style="color: #936c93;">人を放縦にする自由</span>、</li>
-  <li><span style="color: #936c93;">心をそそる美しさ</span>
-  の五つがそれである。</li>
-</ul>
-<p>この五つの条件がみなそろっていたにもかかわらず、<span style="color: #df8f20;">カテリナ</span>は、純潔を守った。</p>
-<ul>
-  <li>彼女は、富裕な両親が残してくれたありあまるほどの富のなかで暮らしていた。</li>
-  <li>みずから女主人として<ruby>四<rp>(</rp><rt>し</rt><rp>)</rp>六<rp>(</rp><rt>ろく</rt><rp>)</rp>時<rp>(</rp><rt>じ</rt><rp>)</rp>中<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby>召使いたちといっしょにいたのだから、機会はいくらでもあった。</li>
-  <li>彼女は、若かったし、おまけに自由な身そらでもあった。</li>
-  <li>というのは、宮殿から出ることもなく、ひとりきりで、自由な生活をしていたからである。</li>
-</ul>
-<p>この四つのことについては、上述のように、</p>
-<p><span style="color: #577575;">「このとき十八歳であったカテリナは、大勢の召使いとありあまるほどの富にかこまれて、宮殿でひとりで暮らしていた」</span>
-とあることからもわかる。</p>
-<p>彼女はまた、美しかった。
-聖伝にも、<span style="color: #577575;">「彼女は、やさしく、美しかった。
-そのすばらしい、たおやかな美しさのためにだれの眼にも愛くるしく見えた」</span>と書かれている。</p>
-<p><span style="color: #936c93;">第五</span>は、彼女の<span style="color: #936c93;">聖品の高さ</span>である。</p>
-<p>というのは、ある種の聖人たちは、死にあたって特別な聖寵にあずかった。</p>
-<p>たとえば、</p>
-<ul>
-  <li><a href="#note_jean" title="福音書記者ヨハネ" id="jean" class="yellow">福音書記者ヨハネ</a>にあったような主のご出現、</li>
-  <li>聖ニコラウスのばあいのような香油の流出<span style="color: #ccc;">（黄金伝説・第３章）</span>、</li>
-  <li>聖パウロにみられた乳の流出<span style="color: #ccc;">（黄金伝説・第８５章）</span>、</li>
-  <li>聖クレメンスのばあいにあったように、主が墓を用意してくださること<span style="color: #ccc;">（黄金伝説・第１６４章）</span>、</li>
-  <li>聖女マルガレタが彼女を記念する日を祝う人たちのために祈ったときのように、その願いが神に聞きとどけられることなどがそれである<span style="color: #ccc;">（黄金伝説・第８８章）</span>。</li>
-</ul>
-<p>その聖伝に見られたように、<span style="color: #df8f20;">聖カテリナ</span>は、一身でこれらすべての聖寵にあずかったから、その聖品の高さがわかろうと言うものである。</p>
-<p>ところで、最後にひとつの問題がある。</p>
-<p>というのは、<span style="color: #df8f20;">聖カテリナ</span>を殉教させたのは皇帝マクセンティウスであったか、それともマクシミヌス帝であったかという点で説がわかれているのである。</p>
-<p><span style="color: #df8f20;">聖カテリナ</span>が受難したころの皇帝と言うと、つぎの三人である。</p>
-<ul>
-  <li>父のあとを継いで帝位についた<a href="#note_constantin" title="コンスタンティヌス" id="constantin" class="yellow">コンスタンティヌス</a>。</li>
-  <li>マクシミアヌス帝の子で、ローマで近衛兵たちによって<ruby>正帝<rp>(</rp><rt>アウグストウス</rt><rp>)</rp></ruby>に祭りあげられたマクセンティウス。</li>
-  <li>東の<ruby>副帝<rp>(</rp><rt>カエサル</rt><rp>)</rp></ruby>であったマクシミヌス。</li>
-</ul>
-<p>この三人のうち、年代記によると、マクセンティウスは、ローマでキリスト教徒を迫害し、マクシミヌスは、東方で暴虐をほしいままにしたという。</p>
-<p>だとすると、<span style="color: #df8f20;">聖カテリナ</span>を殉教に追いやったのはマクシミヌスであって、これをマクセンティウスとしたのは写本家のミスであるとする説が正しいのであろう。</p>
-</div>
+  <h2 id="mise-en-relation" class="yellow">表わされている場面の元にある様々な文書</h2>
+  <figure>
+    <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-280.webp 280w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-380.webp 380w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-480.webp 480w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-640.webp 640w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-840.webp 840w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1280.webp 1280w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1600.webp 1600w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-640.jpg" title="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの詳細、《アレクサンドリアのカタリナ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="ハンス・メムリンク筆《洗礼者ヨハネと福音書記者ヨハネの三連画》、三連画の中央パネルの詳細、《アレクサンドリアのカタリナ》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-60-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-280.jpg 280w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-380.jpg 380w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-480.jpg 480w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-640.jpg 640w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-840.jpg 840w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1280.jpg 1280w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1600.jpg 1600w,
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1920.jpg 1920w"></picture><figcaption>アレクサンドリアのカタリナ</figcaption>
+  </figure>
+
+  <section><article>
+    <h3 id="cath-selon-legende" class="yellow"><ruby style="color:#e6a64d;">黄金伝説<rt style="color:#e6a64d;">レゲンダ・アウレア</rt></ruby><span style="color: #e6a64d;">においてのアレクサンドリアのカテリナ</span></h3>
+    <section><article>
+      <h4 id="cath-selon-legende" class="yellow"><ruby style="color:#e6a64d;">黄金伝説<rt style="color:#e6a64d;">レゲンダ・アウレア</rt></ruby><span style="color: #e6a64d;">の第１６６章においてのアレクサンドリアのカテリナ</span>の文書</h4>
+      <section><article>
+        <p>カテリナは、コストスという王の娘で、<a href="#note_artsliberaux" title="七学芸" id="artsliberaux" class="yellow">七学芸</a>の教育を熱心に受けた。</p>
+        <p>そのころ、<a href="#note_maxentius" title="皇帝マクセンティウス" id="maxentius" class="yellow">皇帝マクセンティウス</a>は、富める者も貧しい者もアレクサンドリアに呼び集めて、偽神たちに香をささげさせた。これには、供香に応じようとしないキリスト教徒を断罪してやろうという狙いもあったのである。</p>
+        <p>このとき十八歳であったカテリナは、大勢の召使いとありあまるほどの富にかこまれて、宮殿でひとりで暮らしていた。</p>
+        <p>ある日、動物たちの<ruby>咆え<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby>声と人びとの歌声が聞こえたので、すぐ使いの者をやって、なにごとが起こったのかをたずねさせた。</p>
+        <p>彼女は、ことの次第を知ると、数人の者をつれて宮殿を出て、十字のしるしで武装し、現場におもむいた。</p>
+        <p>見ると、多くのキリスト教徒が死の恐怖におののきながら供香に引きたてられていくところであった。</p>
+        <p>これに大きな心痛をおぼえたカテリナは、大胆にも皇帝のまえにすすみ出ると、こう言った。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　陛下、もしあなたが天にまします造り<ruby style="color:#df8f20;display: inline-flex;flex-direction: column-reverse;text-align: center;">主<rp>(</rp><rt style="color:#df8f20;font-size: 70%;letter-spacing: 2px;display: inline;line-height: 0;">ぬし</rt><rp>)</rp></ruby>をおみとめになって、偽神たちを<ruby style="color:#df8f20;display: inline-flex;flex-direction: column-reverse;text-align: center;">拝<rp>(</rp><rt style="color:#df8f20;font-size: 70%;letter-spacing: 2px;display: inline;line-height: 0;">おが</rt><rp>)</rp></ruby>むことをおやめくださいますならば、これは、陛下の高いご身分にふさわしいことでありますし、理性も、そうした陛下にこころからご挨拶申しあげることをわたくしに命じるでありましょう</span></p>
+        </blockquote>
+        <p>そして、神殿の入口に立ったまま、三段論法のさまざまな結論を駆使してあるときは寓意的、比喩的に、またあるときは弁証法的、神秘論的に皇帝と多くのテーマについて議論をたたかわせた。</p>
+        <p>それが終わると、ふつうの言葉にもどって、</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　わたくしは、以上のことをまるで哲学者にむかって言うように陛下にご説明申しあげました。</span></p>
+          <p><span style="color: #df8f20;">さて、おたずねいたしますが、陛下はどうしてなんの益もないのに多くの人びとを呼び集めて、石の像に供香させるというような愚かな真似をなさるのでございますか。</span></p>
+          <p><span style="color: #df8f20;">たかが職人の手で建てられたにすぎないこの神殿を立派だとおもい、風のまえの<ruby style="color:#df8f20;display: inline-flex;flex-direction: column-reverse;text-align: center">塵<rp>(</rp><rt style="color:#df8f20;font-size: 70%;letter-spacing: 2px;;display: inline;line-height: 0;">ちり</rt><rp>)</rp></ruby>にも似た神殿のきらびやかな装飾を美しいとお考えになるのでしたら、天を仰ぎ、地と海とそこにある<ruby style="color:#df8f20;">森<rp>(</rp><rt style="color:#df8f20;font-size: 70%;letter-spacing: 2px;">しん</rt><rp>)</rp>羅<rp>(</rp><rt style="color:#df8f20;font-size: 70%;letter-spacing: 2px;">ら</rt><rp>)</rp>万<rp>(</rp><rt style="color:#df8f20;font-size: 70%;letter-spacing: 2px;">ばん</rt><rp>)</rp>象<rp>(</rp><rt style="color:#df8f20;font-size: 70%;letter-spacing: 2px;">しょう</rt><rp>)</rp></ruby>をごらんなさい。</span></p>
+          <p><span style="color: #df8f20;">太陽と月と星のような天の装飾におどろきなさい。</span></p>
+          <p><span style="color: #df8f20;">そして、創世の日から世の終わりのときまで昼も夜も西にむかって走り、また東にもどって、けっして倦むことのない彼らの奉仕ぶりにお気づきなさい。</span></p>
+          <p><span style="color: #df8f20;">これをとくとごらんになりましたら、このような奉仕を受けておられる力あるおん者がどなたであるかを問い、よく理解しようとつとめなさい。</span></p>
+          <p><span style="color: #df8f20;">けれども、主があなたのこころに認識の光をあたえてくださって、あなたが主をみとめ、主に比肩できるような者はだれもいないということがおわかりになりましたら、主をあがめ、主をたたえなくてはなりません。</span></p>
+          <p><span style="color: #df8f20;">と申しますのは、主は、あらゆる神々のなかの神であり、すべての主のなかの主であられるのですから</span></p>
+        </blockquote>
+        <p>さらにカテリナが神のおん子のご<a href="#note_incarnation" title="託身" id="incarnation" class="yellow"><ruby>託<rp>(</rp><rt>たく</rt><rp>)</rp>身<rp>(</rp><rt>しん</rt><rp>)</rp></ruby></a>についてたくみに説明すると、皇帝は、すっかり面くらって、言葉をかえすこともできなかった。</p>
+        <p>しかし、やっとのことで落ち着きをとりもどすと、こう言った。</p>
+        <blockquote>
+          <p><span style="color: #b3884d;">—　婦人よ、しばらく待ってもらいたい。まずはこの供香を終わりまでやらせて、それがすんだら、そなたの問いに答えることにしよう</span></p>
+        </blockquote>
+        <p>皇帝は、カテリナを自分の宮殿に案内して、だいじにもてなすようにと命じた。
+        というのは、彼女の聡明さと容姿の美しさにすっかり参ってしまったのである。</p>
+        <p>やがて宮殿にもどってくると、皇帝は、カテリナに言った。</p>
+        <blockquote>
+          <p><span style="color: #b3884d;">—　われわれは、そなたの雄弁な言葉を聞き、そなたの聡明さに感嘆いたした。</span></p>
+          <p><span style="color: #b3884d;">けれども、神々に供香させることにかまけていたので、すべてを理解することはできなかった。</span></p>
+          <p><span style="color: #b3884d;">そこで、まず手はじめにそなたの家柄を聞かせてもらおう</span></p>
+        </blockquote>
+        <p>乙女は答えた。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　〈みずからをほめても、けなしてもならない〉と書かれています。</span></p>
+          <p><span style="color: #df8f20;">そんなことをするのは、むなしい名声にうごかされる愚かな人びとだけです。</span></p>
+          <p><span style="color: #df8f20;">ですから、わたくしが自分の<ruby style="color:#df8f20;">出<rp>(</rp><rt style="color:#df8f20;font-size: 70%;letter-spacing: 2px;">しゅつ</rt><rp>)</rp>自<rp>(</rp><rt style="color:#df8f20;font-size: 70%;letter-spacing: 2px;">じ</rt><rp>)</rp></ruby>を申しあげますのは、<ruby style="color:#df8f20;">自<rp>(</rp><rt style="color:#df8f20;font-size: 70%;letter-spacing: 2px;">うぬ</rt><rp>)</rp>惚<rp>(</rp><rt style="color:#df8f20;font-size: 70%;letter-spacing: 2px;">ぼれ</rt><rp>)</rp></ruby>や虚栄からではなく、謙虚でありたいとおもうからでございます。</span></p>
+          <p><span style="color: #df8f20;">わたくしは、コストス王のひとり娘でございます。けれども、王家に生まれ、七学芸もしっかり学びはしましたが、これらの学問もそれほどありがたいものとはおもわず、もっぱら主イエス・キリストに帰依してまいりました。</span></p>
+          <p><span style="color: #df8f20;">あなたがあがめておいでの神々は、あなたをもほかの人びとをも助けることができません。</span></p>
+          <p><span style="color: #df8f20;">ただの石の像を拝んでいらっしゃるあなたがたは、ほんとうにお気の毒です。あなたがたの神々は、あなたがたが困ったときに助けをもとめても、そばにはいらっしゃいませんし、悲しいときにも助けに来てはくださいません。危険なときにも守ってはくださいません！</span></p>
+        </blockquote>
+        <p>王は言った。</p>
+        <blockquote>
+          <p><span style="color: #b3884d;">—　そなたの言うことが正しいとすれば、世の人びとは、みんな間違っていて、そなただけが真実を語っていることになるのかな。</span></p>
+          <p><span style="color: #b3884d;">しかし、どんな発言も、ふたりか三人の証人によって裏書きされることが必要だから、よしんばそなたが天使か天の諸力のひとつだとしても、このままでは、だれもそなたの言うことを信じるわけにはいくまい。</span></p>
+          <p><span style="color: #b3884d;">なにしろ、そなたひとりでは、かよわい一女人にすぎぬからな</span></p>
+        </blockquote>
+        <p>カテリナは答えた。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　陛下、どうか怒りのとりこになられませぬように。</span></p>
+          <p><span style="color: #df8f20;">賢者のこころは、怒りの感情にうごかされるようなことがあってはなりませぬ。</span></p>
+          <p><span style="color: #df8f20;">それゆえ、〈精神で支配する者こそ、王者であって、肉体で支配する者は、奴隷にすぎぬ〉と詩人も言っております</span></p>
+        </blockquote>
+        <p>皇帝は言った。</p>
+        <blockquote>
+          <p><span style="color: #b3884d;">—　どうやら、才女ぶりをひけらかしてわれわれのこころをとらえ、哲学者の言葉など引用して長広舌をふるうのが、そなたの手くだのようだな</span></p>
+        </blockquote>
+        <p>皇帝は、カテリナの聡明さにはとうてい太刀打ちできぬと知ると、ひそかに国じゅうの文法学と雄弁術の大家に書面を送り、すぐさまアレクサンドリアの市庁に参集せよと命じ、首尾よくこの口達者な乙女をうち負かした者には莫大な褒賞をとらせようと約束した。</p>
+        <p>こうして各地から、世俗の学識にかけては万人にすぐれた５０人の大家たちが集まってきた。</p>
+        <p>彼らは、津々浦々からわれわれを招集されたのはどのような理由からでありましょうかとたずねた。</p>
+        <p>皇帝は答えた。</p>
+        <blockquote>
+          <p><span style="color: #b3884d;">—　無類の判断力と聡明さをほこるひとりの乙女が、われわれのもとにおるのだが、この女は、なみいる賢者たちに論争でうち勝って、われわれの神々はすべて悪霊であると主張しているのだ。</span></p>
+          <p><span style="color: #b3884d;">あなたがたが彼女をうち負かしてくれたら、故郷に<ruby style="color:#b3884d;">錦<rp>(</rp><rt style="color:#b3884d;font-size: 70%;letter-spacing: 2px;">にしき</rt><rp>)</rp></ruby>をかざることができよう</span></p>
+        </blockquote>
+        <p>すると、学者たちのひとりは、声をあらげてこう言った。</p>
+        <blockquote>
+          <p><span style="color: #165493;">—　おお、このようなくだらぬ論戦のために世界じゅうの学者を遠くはなれたところからお呼び寄せになるとは、陛下のご決断も、いささか大袈裟すぎはしませぬか。</span></p>
+          <p><span style="color: #165493;">たかが乙女のひとりぐらい、わたしどもの学生のなかのごく下っぱの学生でもわけなくやりこめることができますものを</span></p>
+        </blockquote>
+        <p>王は言った。</p>
+        <blockquote>
+          <p><span style="color: #b3884d;">—　拷問にかけて力ずくで神々に供香させることはできよう。</span></p>
+          <p><span style="color: #b3884d;">しかし、あなたがたと論争をさせて、<ruby style="color:#b3884d;">完<rp>(</rp><rt style="color:#b3884d;font-size: 70%;letter-spacing: 2px;">かん</rt><rp>)</rp>膚<rp>(</rp><rt style="color:#b3884d;font-size: 70%;letter-spacing: 2px;">ぷ</rt><rp>)</rp></ruby>になさまでにあの女の鼻をへし折ってやったほうがおもしろい、とわたしはおもったのだ</span></p>
+        </blockquote>
+        <p>学者たちは言った。</p>
+        <blockquote>
+          <p><span style="color: #165493;">—　その娘をわれわれのまえにつれてこさせてください。神々を冒瀆したことをみとめさせ、大学者というものにはじめて会ったと言わせてやりますよ</span></p>
+        </blockquote>
+        <p>カテリナは、どんな論争が待ちうけているかを聞くと、身もこころも主にゆだねた。</p>
+        <p>すると、主の<ruby>御<rp>(</rp><rt>み</rt><rp>)</rp>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>いがあらわれて、びくびくしていてはなりませんと忠告し、けっして学者たちにうち負かされることはありません、逆に学者たちを回心させ、ともに殉教の棕櫚を受けることになるでしょう、と告げた。</p>
+        <p>さて、彼女は、学者たちのまえにつれていかれると、皇帝にむかってこう言った。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　陛下は、五十人の学者たちをひとりの乙女と論争させ、この人たちが勝ったら莫大な褒賞をあたえると約束なさっていますが、わたくしにはなんのご褒美も約束しないで戦えとおっしゃいます。これは、不公平というものではありませんか。</span></p>
+          <p><span style="color: #df8f20;">けれども、主イエス・キリストがわたくしの褒賞でございます。イエス・キリストこそは、主のために戦うすべての人間の希望であり、栄冠なのです</span></p>
+        </blockquote>
+        <p>すると、学者たちは神ともあろう者が人間になったり、苦しみを受けたりするのはありえないことだと言った。カテリナは、そのようなことは異教徒の人たちでさえ予言しています、と指摘した。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　プラトンは、神は満月のように完全な円をなしていることもあれば、三日月のように弧になっていることもあると述べておりますし、<a href="#note_sybille" title="シビュラ" id="sybille" class="yellow">シビュラ</a>は、〈高い木につるされた神は、さいわいである〉と言っているではありませんか</span></p>
+        </blockquote>
+        <p>カテリナは、このような調子で堂々と学者たちと渡りあい、明確な論拠をあげて彼らをやりこめたので、さすがの学者たちも、舌を巻いてだまりこみ、だれひとりとして返す言葉を知らなかった。</p>
+        <p>皇帝は、烈火のように怒って、たかが女ひとりにだらしなくもうち負かされてしまった学者たちにはげしい難詰の言葉をあびせた。</p>
+        <p>すると、みんなの師匠格にあたる<ruby>碩<rp>(</rp><rt>せき</rt><rp>)</rp>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>が言った。</p>
+        <blockquote>
+          <p><span style="color: #165493;">—　陛下もご存じでいらっしゃいますように、かってわたしたちと論争をして、たちどころにうち負かされなかったような相手は、ひとりもございませんでした。けれども、この乙女の口から語っているのは、神の<ruby style="color:#165493;">御<rp>(</rp><rt style="color:#165493;font-size: 70%;letter-spacing: 2px;">み</rt><rp>)</rp>霊<rp>(</rp><rt style="color:#165493;font-size: 70%;letter-spacing: 2px;">たま</rt><rp>)</rp></ruby>です。</span></p>
+          <p><span style="color: #165493;">わたしたちは、こころから感服し、これ以上キリストを否定するようなことは言えなくなってしまいました。</span></p>
+          <p><span style="color: #165493;">ですから、わたしたちがこれまであがめてきた神々のほうがすぐれていることを陛下がおしめしくださいませんでしたら、ここにきっぱりと申しあげますが、わたしたちは、ひとり残らずキリスト教に改宗いたそうと存じます</span></p>
+        </blockquote>
+        <p>僭主は、この言葉を聞くや、かんかんに怒って、このへぼ学者どもを<ruby>町<rp>(</rp><rt>まち</rt><rp>)</rp>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>で焼き殺してしまえと<ruby>下<rp>(</rp><rt>げ</rt><rp>)</rp>知<rp>(</rp><rt>ち</rt><rp>)</rp></ruby>した。</p>
+        <p>しかし、カテリナは、彼らを力づけ、毅然として殉教にむかうのですとさとし、信仰の道を熱心に説いた。</p>
+        <p>彼らは、洗礼を受けずに死んでいくことを悲しんだ。それで、カテリナはこう言った。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　怖れることはありません。あなたがたは、みずからの血でもって洗礼と栄冠を受けるのですから</span></p>
+        </blockquote>
+        <p>こうして学者たちは、十字のしるしでみずからを祝福したのち、火に投げこまれ、たましいを神にゆだねた。</p>
+        <p>けれども、彼らの頭髪も衣服も、すこしも炎に焼けなかった…</p>
+        <p>キリスト信者たちは、彼らの遺体をねんごろに埋葬した。一方、僭主は、カテリナにむかって言った。</p>
+        <blockquote>
+          <p><span style="color: #b3884d;">—　けだかい乙女よ、そなたの若さをだいじにするがよい。わたしの宮殿で王妃につぐ地位をあたえよう。そして、そなたの像を作らせて、町のまん中に立て、みんなに女神として拝ませよう</span></p>
+        </blockquote>
+        <p>乙女は答えた。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　考えるだけでも罪ぶかいようなことをおっしゃらないでくださいませ。</span></p>
+          <p><span style="color: #df8f20;">申しあげておきますが、<a href="#note_fiancee" title="申しあげておきますが、わたくしは、わが身をキリストに花嫁としてささげた女でございます" id="fiancee" class="yellow">わたくしは、わが身をキリストに花嫁としてささげた女でございます</a>。</span></p>
+          <p><span style="color: #df8f20;">キリストこそ、わたくしの栄誉、わたくしの愛であり、またわたくしの甘味な喜びなのです。</span></p>
+          <p><span style="color: #df8f20;">どんな甘言や責苦も、この愛からわたくしを引きはなすことはできません</span></p>
+        </blockquote>
+        <p>激怒した皇帝は、彼女を身ぐるみはだかにし、<a href="#note_scorpion" title="さそり鞭" id="scorpion" class="yellow">さそり鞭</a>で打たせたのち、暗い牢獄にとじこめた。</p>
+        <p>彼女は、ここで食事もなしに１２日間うち棄てておかれた。</p>
+        <p>さて、王がよんどころない要件で国外に出かけたすきに、
+        カテリナに並々ならぬ好意を寄せていた王妃は、ポルピュリウスという親衛隊長といっしょに彼女がとじこめられている牢獄にやってきた。</p>
+        <p>王妃が入っていくと、獄房は、<ruby>皓<rp>(</rp><rt>こう</rt><rp>)</rp>々<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>たる輝きに照らされ、天使たちがカテリナの傷の手当てをしていた。</p>
+        <p>カテリナは、皇后を見ると、天の喜びを説きはじめ、彼女をキリスト教に改宗させ、いずれは殉教の栄冠を手に入れられるでしょうと預言した。</p>
+        <p>こうしてふたりは、夜ふけまで延々と語りあった。</p>
+        <p>この話をずっと聞いていたポルピュリウスは、いきなりカテリナの足もとに身を投げると、二百名の騎士たちともども信仰の道に入った。</p>
+        <p>ところで、僭主は、十二日間食事をあたえてはならぬと厳命しておいたので、キリストは、天から一羽の白い鳩をカテリナのもとにつかわされ、鳩は、天上の食べもので彼女をやしなった。</p>
+        <p>その後、主おんみずから大勢の天使たちと乙女たちをつれて、カテリナのもとにあらわれてこう言われた。</p>
+        <blockquote>
+          <p><span style="color: #7070c2;">—&#160;</span></td>
+        <td><span style="color: #7070c2;">「娘よ、わたしは、その名のためにあなたが苦しい戦いをひき受けてくれたあなたの造り主である。ひるんではならない。</span></p>
+          <p><span style="color: #7070c2;">わたしは、あなたとともにいるのだから</span></p>
+        </blockquote>
+        <p>主が去られたあと、旅から帰った皇帝は、彼女を引いてくるようにと命じた。
+        しかし、長い絶食で<ruby>憔<rp>(</rp><rt>しよう</rt><rp>)</rp>悴<rp>(</rp><rt>すい</rt><rp>)</rp></ruby>しきっているものとおもったのに、カテリナは、以前よりもずっと美しくなっていた。</p>
+        <p>皇帝は、牢獄のなかで彼女に食事をあたえた者がいるにちがいないとにらみ、牢の番人どもを拷問にかけよと命じた。</p>
+        <p>そこでカテリナは言った。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　わたくしは、どんな人間からも食事をもらっていません。主キリストが、御使いによってわたくしをやしなってくださったのです</span></p>
+        </blockquote>
+        <p>皇帝は言った。</p>
+        <blockquote>
+          <p><span style="color: #b3884d;">—　いいかな、わたしの言うことをよくこころに留めて、いいかげんな返事をしないようにしてもらいたい。</span></p>
+          <p><span style="color: #b3884d;">わたしは、そなたを召使い女にほしいと言っておるのではない。権勢ならぶ者のない、あでやかな<ruby style="color:#b3884d;">妃<rp>(</rp><rt style="color:#b3884d;font-size: 70%;letter-spacing: 2px;">きさき</rt><rp>)</rp></ruby>としてわたしの帝国に君臨してもらおうと申しておるのだ</span></p>
+        </blockquote>
+        <p>カテリナは答えた。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　陛下もわたくしの言葉をしかとお聞きくださるようお願い申しあげます。そして、よくご勘考のうえ正しい判断をくだしてお決めくださいませ。力づよく、不滅で、栄光にみち、あでやかなおん者か、それとも無力で、死すべき、いやしい、みにくい人間か、わたくしは、このどちらを選ぶのがよいでしょうか</span></p>
+        </blockquote>
+        <p>皇帝は、憤然として言った。</p>
+        <blockquote>
+          <p><span style="color: #b3884d;">—　神々に供香をして生きながらえるか、特別にむごい責苦を受けて死ぬか、このふたつにひとつを選ぶがよい</span></p>
+        </blockquote>
+        <p>カテリナは言った。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　考えつくどんな責苦でもいますぐ考えだしてくださいませわたくしは、かつて主おんみずからがわたくしのためにご自身を犠牲になさいましたように、一刻もはやくわたくしの肉と血を主にささげたいと切願しているのでございます。主こそ、わたくしの神、わたくしのいとしい人、わたくしの牧者にして花婿なのですから</span></p>
+        </blockquote>
+        <p>そのとき、ある裁判官が怒り狂っている皇帝に、鉄の<ruby>鋸<rp>(</rp><rt>のこぎり</rt><rp>)</rp></ruby>をつけ、するどくとがった釘を打ちならべた車輪を四つ三日のあいだにこしらえさせなさい、このすごい責め道具に彼女の肉体を切りきざませるのです、ほかのキリスト教徒もこういうむごたらしい死にざまを見たら震えあがりましょう、と献策した。</p>
+        <p>そこで皇帝は、刑車を作らせた。</p>
+        <p>その車のふたつの車輪は、他のふたつの車輪と反対の方向にまわるようにし、最初のふたつが下のほうに動き、残りのふたつはこれとは逆に上にむかって動く。</p>
+        <p>四つの車輪をこういうふうに配置して同時にうごかすと、乙女のからだは八つ裂きにされる仕掛けになっていた。</p>
+        <p>聖カテリナは、主の<ruby>御<rp>(</rp><rt>み</rt><rp>)</rp>名<rp>(</rp><rt>な</rt><rp>)</rp></ruby>の栄光のために、また見物に集まった人びとを回心させるためにどうかこの刑車を破壊してください、と主にお願いした。</p>
+        <p>すると、主の御使いがあらわれて、刑車をこっぱみじんに破砕したので、飛びちった破片に当たって四千人もの異教徒が死んだ。</p>
+        <p>王妃は、それまではそっと身をかくして高いところからこれを眺めていたが、すぐさま下に駆けおりてきて、皇帝にむかってこの眼をおおう残忍さをなじった。</p>
+        <p>王は、これを聞いて激怒し、皇后が神々に供香することをこばんだので、まず皇后の乳房を<ruby>挟<rp>(</rp><rt>えぐ</rt><rp>)</rp></ruby>りとってから首を<ruby>刎<rp>(</rp><rt>は</rt><rp>)</rp></ruby>ねよと命じた。</p>
+        <p>殉教の場所につれていかれるとき、皇后はカテリナにむかって、どうかわたしのために神さまに祈ってくださいとたのんだ。</p>
+        <p>カテリナは、答えて言った。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　神のいつくしみを受けられた王妃さま、怖れることはございません。あなたは、今日はかない王国のかわりに永遠の王国を手に入れ、うつしみの良人と別れて、天の花婿とひとつになられるのですから</span></p>
+        </blockquote>
+        <p>王妃は、カテリナの言葉になぐさめられた。</p>
+        <p>そこで刑吏たちは、彼女を町のそとにつれていって、槍の穂先で乳房を挟りだしたのち、首を刎ねた。</p>
+        <p>ポルピュリウスは、王妃の遺体を盗みだしてきて、てあつく葬った。</p>
+        <p>翌日、王妃の遺体の捜索がはじまった。</p>
+        <p>僭主は、このことにかんして嫌疑のかかっている多くの人びとを拷問にかけよという命令を出した。
+        すると、ポルピュリウスがすすみでて、大きな声で臆せずに言った。</p>
+        <blockquote>
+          <p><span style="color: #93836c;">—　キリストの<ruby style="color:#93836c;">仕<rp>(</rp><rt style="color:#93836c;font-size: 70%;letter-spacing: 2px;">つか</rt><rp>)</rp></ruby>え<ruby style="color:#93836c;">仕女<rp>(</rp><rt style="color:#93836c;font-size: 70%;letter-spacing: 2px;">め</rt><rp>)</rp></ruby>であった皇后さまを葬りましたのは、このわたしです。かく言うわたしも、キリスト教に入信いたしました</span></p>
+        </blockquote>
+        <p>マクセンティウスは、これを聞くと、われを忘れて猛獣のような声で唸った。</p>
+        <blockquote>
+          <p><span style="color: #b3884d;">—　なんということになってしまったのか。わたしは、頼る者もなく、みんなから憐れまれる身の上になってしまった。</span></p>
+          <p><span style="color: #b3884d;">ポルピュリウスよ、わたしのたましいの番人であり、わたしの心労のただひとりのなぐさめ手であったおまえまで、キリストにたらしこまれたのか！</span></p>
+        </blockquote>
+        <p>皇帝は、この泣きごとをまわりにいる親衛兵たちにむかって言ったのだが、彼らはこう言った。</p>
+        <blockquote>
+          <p><span style="color: #936c93;">—　わたしたちも、キリストの信者でございます</span></p>
+        </blockquote>
+        <p>皇帝は、すっかり逆上して、ポルピュリウスといっしょにこいつらも斬首し、死体を犬どもに投げあたえよと下知した。</p>
+        <p>そのあと、こんどはカテリナを呼ばせて、</p>
+        <blockquote>
+          <p><span style="color: #b3884d;">—　そなたは、魔術を使って王妃を死に追いやってしまった。それでも、正気にもどるというのであれば、わたしの宮廷の第一人者にしてやろう。</span></p>
+          <p><span style="color: #b3884d;">今日のうちに神々に香を供えるがよい。応じなければ、首を刎ねられるであろう</span></p>
+        </blockquote>
+        <p>カテリナは答えた。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　どうなりと、お決めになったことを実行なさってくださいませ。どんな拷苦にも耐える覚悟ができております</span></p>
+        </blockquote>
+        <p>こうして、打ち首にするという宣告がくだされた。</p>
+        <p>彼女は、仕置き場へ連行されると、眼を天に凝らして祈りはじめた。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　おお、すべての信じる者の期待にして救いであるおん者、すべての乙女らのほまれであり誇りであるおん者、めでたき王、主イエスさま、お願いでございます。わたくしの受難の日をこころから祝い、臨終のさいや危急のときにわたくしの名を呼ぶ人たちの願いが、どうか聖寵によってかなえられますように</span></p>
+        </blockquote>
+        <p>すると、ひとつの声がとどいた。</p>
+        <blockquote>
+          <p><span style="color: #6c936c;">—　わたしのいとし子、わたしの花嫁、来るがよい。</span></p>
+          <p><span style="color: #6c936c;">天国の門は、あなたに開かれている。</span></p>
+          <p><span style="color: #6c936c;">あなたの祝日をこころをこめて祝うすべての人たちに、あなたが願った聖寵をあたえると約束しよう</span></p>
+        </blockquote>
+        <p>それから刑吏たちは、彼女の首を打ち落とした。
+        すると、彼女のからだから、血のかわりに乳がながれだした。</p>
+        <p>天使たちは、遺体を抱きあげ、そこから歩いて二十日以上もかかる<a href="#note_sinai" title="シナイの山にはこび、うやうやしく葬った" id="sinai" class="yellow">シナイの山にはこび、うやうやしく葬った</a>。</p>
+        <p>彼女の聖遺骨からは、病めるすべての人たちを癒やす霊験あらたかな香油がたえずながれでている。</p>
+        <p><span style="color: #df8f20;">聖カテリナ</span>が殉教したのは、主の紀元<time datetime="310">３１０年</time>ごろ帝位についた<a href="#note_maximinus" title="マクシミヌス帝" id="maximinus" class="yellow">暴君マクセンティウス帝またはマクシミヌス帝</a>のときであった。</p>
+        <p>マクセンティウスがこの犯罪や、彼がおかしたその他の罪業のために罰をくだされた話は、<a href="#note_croix" title="〈聖十字架の発見〉" id="croix" class="yellow">〈聖十字架の発見〉の章</a>に述べられている。</p>
+        <p>話によると、<a href="#note_rouen" title="ロトマグス" id="rouen" class="yellow">ロトマグス</a>のある修道士は、シナイの山に行き、７年のあいだ<span style="color: #df8f20;">聖女カテリナ</span>に仕えた。</p>
+        <p>あるとき、ご遺体のかけらでもいただきとうございます、と聖女に熱心に祈願していると、突然聖女の指の一部がぼきりと手から落ちた。</p>
+        <p>彼は、この神の<ruby>賜<rp>(</rp><rt>たま</rt><rp>)</rp>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>をよろこんで押しいただき、故郷の修道院へもって帰った。</p>
+        <p>また、べつの話によると、ある男がいて、<span style="color: #df8f20;">聖カテリナ</span>にこころから帰依し、なんども聖女の名を呼んで加護をもとめたことがあった。
+        ところが、年月がたつうちに最初の熱意がさめ、帰依の気持もうすらいで、もう聖女に代願をもとめなくなった。</p>
+        <p>あるとき、身を投げて祈っていると、たくさんの乙女たちがそばを通りすぎていくのが見えた。</p>
+        <p>なかにひときわ明るくかがやくひとりの乙女がいた。
+        その乙女は、彼のそばまで来ると、頭からヴェールをおろし、顔が見えないようにして通りすぎていった。</p>
+        <p>彼は、彼女のかがやく容姿にこころをうばわれて、あのかたはだれですかとたずねた。</p>
+        <p>すると、乙女たちのひとりが答えた。</p>
+        <p><span style="color: #577575;">「あれは、あなたがむかしよくご存じのカテリナ聖女さまです。しかし、あなたは、いまではあのかたのことなんか忘れておいでなので、あのように顔をかくして、あかの他人のように通りすぎていかれたようです</span></p>
+        <p>ここでわれわれは、<span style="color: #df8f20;">聖カテリナ</span>が<span style="color: #936c93;">五つの点</span>で衆にぬきんでた乙女であることに留意しなくてはならない。</p>
+        <p>その五つの点とは、まず<span style="color: #936c93;">学識</span>、つぎに<span style="color: #936c93;">雄弁</span>、第三に<span style="color: #936c93;">毅然たる態度</span>、第四に<span style="color: #936c93;">純潔</span>、最後に<span style="color: #936c93;">聖品の高さ</span>である。</p>
+        <p><span style="color: #936c93;">まず</span>、<span style="color: #df8f20;">聖カテリナ</span>は、<span style="color: #936c93;">知恵</span>の点でずばぬけていた。</p>
+        <p>というのは、あらゆる種類の哲学に精通していたからである。</p>
+        <p>ところで、哲学ないし世界知というものは、<span style="color: #6c8993;">理論学</span>と<span style="color: #6c8993;">実践学</span>と<span style="color: #6c8993;">論理学</span>とにわかれる。</p>
+        <p><span style="color: #6c8993;">理論学</span>は、さらに<span style="color: #93896c;">認識論</span>と<span style="color: #93896c;">自然学</span>と<span style="color: #93896c;">数学</span>の<span style="color: #93896c;">三つ</span>にわかれるとされる。</p>
+        <p><span style="color: #df8f20;">聖カテリナ</span>は、<span style="color: #936c93;">神にかんする事柄の認識</span>においてすぐれた知見をもっていた。</p>
+        <p>このことは、とりわけあの五十人の学者たちとの論戦において実証された。</p>
+        <p>彼女は、ただひとりの神だけが真実の神であり、それ以外の神々はすべて偽神にすぎぬことを学者たちに論証してみせたのである。</p>
+        <p>また、それより<span style="color: #936c93;">低い次元の事柄の認識においては自然学的知見</span>ももっていた。</p>
+        <p>さきにも見たように、とりわけ皇帝との問答にそれがしめされた。</p>
+        <p>さらに、あらゆる地上のものをさげすむことにおいて数学的英知をもそなえていた。</p>
+        <p>というのは、数学は、<a href="#note_boece" title="ボエティウス" id="boece" class="yellow">ボエティウス</a>によれば、形あるすべてのものを物質をぬきにして抽象的に考察する学問だからである。</p>
+        <p><span style="color: #df8f20;">聖カテリナ</span>が自分のこころを地上の物質にたいするあらゆる執着から引きはなしたのは、数学的英知をもっていたことのあらわれであった。</p>
+        <p><span style="color: #577575;">「わたくしは、コストス王のひとり娘でございます。けれども、王家に生まれ......」</span>
+        と皇帝の下問に答えるくだりが、それである。</p>
+        <p>彼女は、とりわけ王妃にむかってこの数学的英知をしめした。</p>
+        <p>というのは、この物質の世界をさげすみ、地上の王国を棄てて永遠の王国をもとめることを皇后にすすめたからである。</p>
+        <p>つぎに、<span style="color: #93896c;">実践学</span>も、三つにわかれる。</p>
+        <p><span style="color: #93896c;">倫理学</span>と<span style="color: #93896c;">経済学</span>と<span style="color: #93896c;">公民学もしくは政治学</span>との三つである。</p>
+        <p>倫理学は、いかにして道義をまなび、徳を身につけるかを教え、人間形成に役だつ学問である。</p>
+        <p>経済学は、いかにして一家の暮らしを立てるかを教え、家長のために役だつ。</p>
+        <p>政治学は、都市と市民と国家をいかに統治するかを教え、都市の支配者たちに役だつ。</p>
+        <p><span style="color: #df8f20;">聖カテリナ</span>は、これら三つの学問を身につけていた。</p>
+        <p>彼女にはあらゆる良風美俗がそなわっていたから、倫理学を身につけていた。</p>
+        <p>父王から受けついだ大きな所帯をたくみにとりしきったから、経済学にも<ruby>造<rp>(</rp><rt>ぞう</rt><rp>)</rp>詣<rp>(</rp><rt>けい</rt><rp>)</rp></ruby>があった。
+        さらに、皇帝に賢明な教えを垂れたから、政治学にも通じていた。</p>
+        <p>論理学も、三つにわけられる。</p>
+        <p>推論と弁証と<ruby>詭<rp>(</rp><rt>き</rt><rp>)</rp>弁<rp>(</rp><rt>べん</rt><rp>)</rp></ruby>である。</p>
+        <p>推論は、哲学者のためのもの、弁証は、雄弁家と弁証家のためのもの、詭弁は、ソフィストのためのものである。</p>
+        <p><span style="color: #df8f20;">聖カテリナ</span>は、これら三つのものもそなえていた。</p>
+        <p>というのは、さきにも書かれているように、
+        <span style="color: #577575;">「三段論法のさまざまな結論を駆使してあるときは寓意的、比喩的に、またあるときは弁証法的、神秘論的に皇帝と多くのテーマについて議論をたたかわせた」</span>からである。</p>
+        <p><span style="color: #936c93;">第二</span>に、<span style="color: #df8f20;">聖女カテリナ</span>の<span style="color: #936c93;">雄弁</span>は、賛嘆すべきものがあった。</p>
+        <p>彼女の話からもうかがえるように、教えを説くときはじつに雄弁であったからである。</p>
+        <p>その話しぶりは、弁明するのにもたいへんたくみであった。</p>
+        <p>皇帝にむかって、
+        <span style="color: #577575;">「陛下は、たかが職人の手で建てられたにすぎないこの神殿を立派だとおもっていらっしゃいます」</span>
+        と言ったとき、それを実証してみせた。</p>
+        <p>また、彼女の話しぶりは、魅力にもあふれていて、人びとのこころを引きつけた。</p>
+        <p>ポルピュリウスと王妃がそうであった。</p>
+        <p>ふたりは、彼女の話の甘味さによって信仰にみちびかれたのである。</p>
+        <p>彼女はまた、人を説得する力をももっていた。</p>
+        <p>彼女の弁舌によって説得された五十人の学者たちの例が、その証左である。</p>
+        <p>第三<span style="color: #936c93;">
+        </span>は、彼女の<span style="color: #936c93;">毅然たる態度</span>である。</p>
+        <p>というのは、彼女は、どんな<ruby>脅<rp>(</rp><rt>おど</rt><rp>)</rp></ruby>しにもめげず、平然としていたからである。
+        だから、皇帝が脅しをかけたときも、
+        <span style="color: #577575;">「考えつくどんな責苦でもいますぐ考えだしてくださいませ。
+        わたくしは、一刻もはやくわたくしの肉と血を主にささげたいと切願しているのでございます」</span>
+        とも、「どうなりと、お決めになったことを実行なさってくださいませ。
+        <span style="color: #577575;">どんな拷苦にも耐える覚悟ができております」</span>
+        とも言ってのけたのである。</p>
+        <p>さらに、彼女は、どんな贈りものも受けとらず、毅然としていた。  というのは、皇帝が
+        <span style="color: #577575;">「わたしの宮廷で皇后につぐ地位をあたえよう」</span>
+        と約束したとき、
+        <span style="color: #577575;">「考えるだけでも罪ぶかいようなことをおっしゃらないでくださいませ」</span>
+        とはねつけたからである。</p>
+        <p>彼女はまた、どんな責苦にたいしても毅然としていて、それにうち勝った。</p>
+        <p>彼女が牢獄に入れられたときや、刑車に乗せられようとしたときの態度が、それを雄弁に語っている。</p>
+        <p><span style="color: #936c93;">四番目</span>は、彼女の<span style="color: #936c93;">乙女としての純潔</span>である。</p>
+        <p>というのは、彼女は、純潔を汚されかねないような状況にあっても、純潔を守りつづけたからである。</p>
+        <p>およそ純潔を失いかねない状況は、五つある。</p>
+        <ul>
+          <li><span style="color: #936c93;">心身をなまくらにする莫大な資産</span>、</li>
+          <li><span style="color: #936c93;">われわれを誘惑する機会</span>、</li>
+          <li><span style="color: #936c93;">遊び好きにさせる若さ</span>、</li>
+          <li><span style="color: #936c93;">人を放縦にする自由</span>、</li>
+          <li><span style="color: #936c93;">心をそそる美しさ</span>
+          の五つがそれである。</li>
+        </ul>
+        <p>この五つの条件がみなそろっていたにもかかわらず、<span style="color: #df8f20;">カテリナ</span>は、純潔を守った。</p>
+        <ul>
+          <li>彼女は、富裕な両親が残してくれたありあまるほどの富のなかで暮らしていた。</li>
+          <li>みずから女主人として<ruby>四<rp>(</rp><rt>し</rt><rp>)</rp>六<rp>(</rp><rt>ろく</rt><rp>)</rp>時<rp>(</rp><rt>じ</rt><rp>)</rp>中<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby>召使いたちといっしょにいたのだから、機会はいくらでもあった。</li>
+          <li>彼女は、若かったし、おまけに自由な身そらでもあった。</li>
+          <li>というのは、宮殿から出ることもなく、ひとりきりで、自由な生活をしていたからである。</li>
+        </ul>
+        <p>この四つのことについては、上述のように、</p>
+        <p><span style="color: #577575;">「このとき十八歳であったカテリナは、大勢の召使いとありあまるほどの富にかこまれて、宮殿でひとりで暮らしていた」</span>
+        とあることからもわかる。</p>
+        <p>彼女はまた、美しかった。
+        聖伝にも、<span style="color: #577575;">「彼女は、やさしく、美しかった。
+        そのすばらしい、たおやかな美しさのためにだれの眼にも愛くるしく見えた」</span>と書かれている。</p>
+        <p><span style="color: #936c93;">第五</span>は、彼女の<span style="color: #936c93;">聖品の高さ</span>である。</p>
+        <p>というのは、ある種の聖人たちは、死にあたって特別な聖寵にあずかった。</p>
+        <p>たとえば、</p>
+        <ul>
+          <li><a href="#note_jean" title="福音書記者ヨハネ" id="jean" class="yellow">福音書記者ヨハネ</a>にあったような主のご出現、</li>
+          <li>聖ニコラウスのばあいのような香油の流出<span style="color: #ccc;">（黄金伝説・第３章）</span>、</li>
+          <li>聖パウロにみられた乳の流出<span style="color: #ccc;">（黄金伝説・第８５章）</span>、</li>
+          <li>聖クレメンスのばあいにあったように、主が墓を用意してくださること<span style="color: #ccc;">（黄金伝説・第１６４章）</span>、</li>
+          <li>聖女マルガレタが彼女を記念する日を祝う人たちのために祈ったときのように、その願いが神に聞きとどけられることなどがそれである<span style="color: #ccc;">（黄金伝説・第８８章）</span>。</li>
+        </ul>
+        <p>その聖伝に見られたように、<span style="color: #df8f20;">聖カテリナ</span>は、一身でこれらすべての聖寵にあずかったから、その聖品の高さがわかろうと言うものである。</p>
+        <p>ところで、最後にひとつの問題がある。</p>
+        <p>というのは、<span style="color: #df8f20;">聖カテリナ</span>を殉教させたのは皇帝マクセンティウスであったか、それともマクシミヌス帝であったかという点で説がわかれているのである。</p>
+        <p><span style="color: #df8f20;">聖カテリナ</span>が受難したころの皇帝と言うと、つぎの三人である。</p>
+        <ul>
+          <li>父のあとを継いで帝位についた<a href="#note_constantin" title="コンスタンティヌス" id="constantin" class="yellow">コンスタンティヌス</a>。</li>
+          <li>マクシミアヌス帝の子で、ローマで近衛兵たちによって<ruby>正帝<rp>(</rp><rt>アウグストウス</rt><rp>)</rp></ruby>に祭りあげられたマクセンティウス。</li>
+          <li>東の<ruby>副帝<rp>(</rp><rt>カエサル</rt><rp>)</rp></ruby>であったマクシミヌス。</li>
+        </ul>
+        <p>この三人のうち、年代記によると、マクセンティウスは、ローマでキリスト教徒を迫害し、マクシミヌスは、東方で暴虐をほしいままにしたという。</p>
+        <p>だとすると、<span style="color: #df8f20;">聖カテリナ</span>を殉教に追いやったのはマクシミヌスであって、これをマクセンティウスとしたのは写本家のミスであるとする説が正しいのであろう。</p>
+      </article></section>
+    </article></section>
+  </article></section>
+</article>
 
 <hr>
 
 <aside>
-  <article>
+  <section><article>
     <h3 id="note_artsliberaux" class="yellow">七学芸</h3>
     <div class="notices yellow">
     <p>中世の中等、高等程度の学校では、神学以外に一般教養科目として七教養学が課せられ、これは、三学（文法、修辞、弁護法）と四学（算術、幾何、天文、数学）から成っていた。</p>
-    <p>註に戻る：　<a href="#artsliberaux" title="七学芸">七学芸↑</a></p>
     </div>
+    <footer>
+      <p>文書へ戻る：　<a href="#artsliberaux" title="七学芸">七学芸↑</a></p>
+    </footer>
+  </article></section>
+  <section><article>
     <h3 id="note_maxentius" class="yellow">皇帝マクセンティウス</h3>
     <div class="notices yellow">
     <p>ローマ皇帝（位<time datetime="285">２８５年</time>ー<time datetime="305">３０５年</time>、<time datetime="305">３０５年</time>ー<time datetime="308">３０８年</time>）。ディオクレティアヌスによって副帝（カエサル）、ついで西の正帝（アウグストゥス）に任じられる、ともにキリスト教徒を迫害（<time datetime="303">３０３年</time>）、ともに退位。その子マクセンティウスの挙兵を助けふたたび活動、のち不和になってガリア（フランス）に逃げ、女婿コンスタンティウスと争って自殺した。</p>
-    <p>註に戻る：　<a href="#maxentius" title="皇帝マクセンティウス">皇帝マクセンティウス↑</a></p>
     </div>
+    <footer>
+      <p>文書へ戻る：　<a href="#maxentius" title="皇帝マクセンティウス">皇帝マクセンティウス↑</a></p>
+    </footer>
+  </article></section>
+  <section><article>
     <h3 id="note_sybille" class="yellow">シビュラ</h3>
     <div class="notices yellow">
     <p>異教的古代の女託宣者。その数はひとりとも十人とも言われる。最も古いのは、小アジアのエリュトライにいたシビュラであるが、ここに言われるのは、クマエ（ナポリの西にあった古い町）のシビュラである。彼女は、その託宣を９巻の本に書いてローマの王に売りつけ、この「シビュラの書」は、前一世紀のかピトール丘の火災で焼失するまでそこのユピテル神殿に秘蔵されていた。旧約偽典および新訳外典に入れられる『シビュラの託宣』は、前２世紀ごろエジプトで成立したユダヤ教的偽作文書で、それに後代にキリスト教的改変ないし挿入をくわえたもの。</p>
-    <p>註に戻る：　<a href="#sybille" title="シビュラ">シビュラ↑</a></p>
     </div>
+    <footer>
+      <p>文書へ戻る：　<a href="#sybille" title="シビュラ">シビュラ↑</a></p>
+    </footer>
+  </article></section>
+  <section><article>
     <h3 id="note_scorpion" class="yellow">さそり鞭</h3>
     <div class="notices yellow">
     <p>逆鉤または鎖のついた<ruby>鞭<rp>(</rp><rt>むち</rt><rp>)</rp></ruby>、拷問具のひとつ。</p>
-    <p>註に戻る：　<a href="#scorpion" title="さそり鞭">さそり鞭↑</a></p>
     </div>
+    <footer>
+      <p>文書へ戻る：　<a href="#scorpion" title="さそり鞭">さそり鞭↑</a></p>
+    </footer>
+  </article></section>
+  <section><article>
     <h3 id="note_maximinus" class="yellow">マクシミヌス帝</h3>
     <div class="notices yellow">
     <p>この前後でマクシミヌスという名の皇帝は存在しない。あるいは、がレリウス帝の甥で３０５年その副帝となり、のち正帝となったマクシミヌス帝（在<time datetime="308">３０８年</time>ー<time datetime="314">３１４年</time>）との混同かもしれない。</p>
-    <p>註に戻る：　<a href="#maximinus" title="マクシミヌス帝">マクシミヌス帝↑</a></p>
     </div>
+    <footer>
+      <p>文書へ戻る：　<a href="#maximinus" title="マクシミヌス帝">マクシミヌス帝↑</a></p>
+    </footer>
+  </article></section>
+  <section><article>
     <h3 id="note_croix" class="yellow">〈聖十字架の発見〉</h3>
     <div class="notices yellow">
     <p>黄金伝説の第６４章、〈聖十字架の発見〉とのことです。</p>
-    <p>註に戻る：　<a href="#croix" title="〈聖十字架の発見〉">〈聖十字架の発見〉↑</a></p>
     </div>
+    <footer>
+      <p>文書へ戻る：　<a href="#croix" title="〈聖十字架の発見〉">〈聖十字架の発見〉↑</a></p>
+    </footer>
+  </article></section>
+  <section><article>
     <h3 id="note_rouen" class="yellow">ロトマグス</h3>
     <div class="notices yellow">
     <p><ruby lang="ja">ロトマグス<rp>(</rp><rt lang="la">Rothomagus</rt><rp>)</rp></ruby lang="ja">。現<ruby lang="ja">ルアン<rp>(</rp><rt lang="fr">Rouen</rt><rp>)</rp></ruby lang="ja">市（フランス中北部、セーヌ川下流の港町）の古名。ここに語られているのはルアン近傍の<ruby lang="ja">サント<rp>(</rp><rt lang="fr">Sainte</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>トリニテ<rp>(</rp><rt lang="fr">Trinité</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>デュ<rp>(</rp><rt lang="fr">du</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>モン<rp>(</rp><rt lang="fr">Mont</rt><rp>)</rp></ruby lang="ja">修道院（現在、<ruby lang="ja">サント<rp>(</rp><rt lang="fr">Sainte</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>カテリヌ<rp>(</rp><rt lang="fr">Catherine</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>デュ<rp>(</rp><rt lang="fr">du</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>モン<rp>(</rp><rt lang="fr">Mont</rt><rp>)</rp></ruby lang="ja">修道院）にいた修道士の話で、彼が１０世紀前半にシナイの聖カテリナ修道院からもち帰ったとされる聖女の聖遺物は、たびたび奇跡をこなったので、トリニテ＝オ＝モンは、たちまち西欧における聖カテリナ崇敬の中心地のひとつとなった。</p>
-    <p>註に戻る：　<a href="#rouen" title="ロトマグス">ロトマグス↑</a></p>
     </div>
+    <footer>
+      <p>文書へ戻る：　<a href="#rouen" title="ロトマグス">ロトマグス↑</a></p>
+    </footer>
+  </article></section>
+  <section><article>
     <h3 id="note_fiancee" class="yellow">わが身をキリストに花嫁としてささげた女でございます</h3>
     <div class="notices yellow">
     <p>伝承によると、カテリナは、皇帝の息子から求婚されたが、鏡にうつった姿から求婚者が家柄、美しさ、富、学識の点で自分にふさわしいくないことを見てとった。ある隠修士からキリストこそいちばんすばらしい花婿であることを教えられ、聖母にキリストの花嫁にしてくださいとたのむと、聖母は、二度彼女にあらわれて洗礼を受けないかぎり、キリストの花嫁になることはできないと教えた。彼女が洗礼を受けると、夢に幼児キリストがあらわれ、彼女の指に婚約指輪をはめたという。</p>
-    <p>註に戻る：　<a href="#fiancee" title="申しあげておきますが、わたくしは、わが身をキリストに花嫁としてささげた女でございます">申しあげておきますが、わたくしは、わが身をキリストに花嫁としてささげた女でございます↑</a></p>
+    <p>文書へ戻る：　<a href="#fiancee" title="申しあげておきますが、わたくしは、わが身をキリストに花嫁としてささげた女でございます">申しあげておきますが、わたくしは、わが身をキリストに花嫁としてささげた女でございます↑</a></p>
     </div>
+    <footer>
+      <p>文書へ戻る：　<a href="#fiancee" title="わが身をキリストに花嫁としてささげた女でございます">わが身をキリストに花嫁としてささげた女でございます↑</a></p>
+    </footer>
+  </article></section>
+  <section><article>
     <h3 id="note_sinai" class="yellow">シナイの山にはこび、うやうやしく葬った</h3>
     <div class="notices yellow">
     <p>しかし、シナイ山では聖カテリナのこともその墓のことも、まったく知られていなかったと言われる。山麓の有名な聖カテリナ修道院が建てられたのは、６世紀中葉のことである。聖遺物をもっているはずのこの修道院も、聖カテリナ崇敬の発祥地にも中心地にもならなかった。</p>
-    <p>註に戻る：　<a href="#sinai" title="シナイの山にはこび、うやうやしく葬った">シナイの山にはこび、うやうやしく葬った↑</a></p>
     </div>
+    <footer>
+      <p>文書へ戻る：　<a href="#sinai" title="シナイの山にはこび、うやうやしく葬った">シナイの山にはこび、うやうやしく葬った↑</a></p>
+    </footer>
+  </article></section>
+  <section><article>
     <h3 id="note_rouen" class="yellow">ボエティウス</h3>
     <div class="notices yellow">
     <p><ruby lang="ja">ボエティウス<rp>(</rp><rt lang="la">Boethius</rt><rp>)</rp></ruby lang="ja">は、古代ローマ末期のイタリアの哲学者、政治家。</p>
     <p>ローマ貴族の家系に生まれ、幼くして孤児となり貴族シンマクスに養われる。アテナイに留学し、帰国後は「水晶と象牙で飾られた書斎」で研究生活を送る。この前後に恩人シンマクスの娘と結婚している。時のイタリア支配者、東ゴート王国のテオドリック王に仕官し、貨幣制度の改革などに関わる。次第に高位に昇り、<time datetime="510">５１０年<time>には西ローマ帝国の執政官となる。<time datetime="522">５２２年<time>には彼の息子ニ人も執政官となるほど王の信任を得ていたが、かつての執政官アルビヌスの反逆に与したという嫌疑でパヴィアに投獄され、処刑された。獄中で韻文混じりの散文で『<ruby lang="ja">哲学の慰め<rp>(</rp><rt lang="la">De&#160;consolatione&#160;philosophiae</rt><rp>)</rp></ruby lang="ja">』を書き、慰めを古代哲学に求めている。</p>
     <p>ボエティウスの思想の根幹はプラトンとストア派にあり、理性により感情と外界の障害を克服しようとする。彼はアリストテレスの論理学をラテン語に翻訳し、これが中世のアリストテレス研究の端緒となった。また、ニコマコス、エウクレイデス、アルキメデス、プトレマイオスなどの著作も訳出しギリシア哲学・科学の紹介者として中世思想に大きな影響を与えている。</p>
-    <p>註に戻る：　<a href="#boece" title="ボエティウス">ボエティウス↑</a></p>
     </div>
+    <footer>
+      <p>文書へ戻る：　<a href="#boece" title="ボエティウス">ボエティウス↑</a></p>
+    </footer>
+  </article></section>
+  <section><article>
     <h3 id="note_jean" class="yellow">福音書記者ヨハネ</h3>
     <div class="notices yellow">
     <p>福音書記者ヨハネの伝説は黄金伝説の<a href="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#jean9-selon-legende" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#jean9-selon-legende">第９章</a> に語られています。</p>
-    <p>註に戻る：　<a href="#jean" title="福音書記者ヨハネ">福音書記者ヨハネ↑</a></p>
     </div>
+    <footer>
+      <p>文書へ戻る：　<a href="#jean" title="福音書記者ヨハネ">福音書記者ヨハネ↑</a></p>
+    </footer>
+  </article></section>
+  <section><article>
     <h3 id="note_constantin" class="yellow">コンスタンティヌス</h3>
     <div class="notices yellow">
     <p>ローマ皇帝コンスタンティヌス一世（位<time datetime="306">３０６年<time>ー<time datetime="337">３３７年<time>）大帝とよばれる。キリスト教の最初の公認者、その保護・育成につとめ、みずから〈十三人目の使徒〉おもって任じ、第一回ニカイヤ公会議によってアリウス派を保護とした。<time datetime="330">３３０年<time>都をローマからビザンティウムに移し、これをコンスタンティノポリスと改名。自身はずっと<ruby>常勝太陽神<rp>(</rp><rt>ソル・インヴィクトゥス</rt><rp>)</rp></ruby>の信者であったが、臨終の床で受洗した（黄金伝説の第１２章に参照）。</p>
-    <p>註に戻る：　<a href="#constantin" title="コンスタンティヌス">コンスタンティヌス↑</a></p>
     </div>
+    <footer>
+      <p>文書へ戻る：　<a href="#constantin" title="コンスタンティヌス">コンスタンティヌス↑</a></p>
+    </footer>
+  </article></section>
+  <section><article>
     <h3 id="note_incarnation" class="yellow">託身</h3>
     <div class="notices yellow">
     <p>神のひとり子が人類救済のため聖霊のはたらきによりマリアの胎内で受肉として隆世したことを<ruby lang="ja">託身<rp>(</rp><rt lang="la">incarnatio</rt><rp>)</rp></ruby lang="ja">と言う。</p>
-    <p>註に戻る：　<a href="#incarnation" title="託身">託身↑</a></p>
     </div>
-  </article>
+    <footer>
+      <p>文書へ戻る：　<a href="#incarnation" title="託身">託身↑</a></p>
+    </footer>
+  </article></section>
 </aside>
 
 <!-- Page 17 --><hr>
@@ -3359,280 +3444,308 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1600.jpg 1600w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1920.jpg 1920w"></picture><figcaption>大殉教者バルバラ</figcaption>
   </figure>
-  <h2 id="barb-selon-legende" class="yellow"><ruby style="color:#e6a64d;">黄金伝説<rt style="color:#e6a64d;">レゲンダ・アウレア</rt></ruby>においての聖バルバラ</h2>
-  <p><a href="#note_nicomedie" title="ニコメディア" id="nicomedie" class="yellow">ニコメディア</a>では、<a href="#note_maximien" title="マクシミアヌス大帝" id="maximien" class="yellow">マクシミアヌス大帝</a>時代に、富裕な、とても礼儀正しい家族の出の<span style="color: #99713d;">ディアスコロス</span>という名の異教徒がいた。</p>
-  <p>彼には<span style="color: #994c3d;">バルバラ</span>と呼ばれるとても美しい娘がいた。</p>
-  <p>父は彼女をとても愛していた。
-  そのため、男の人一人も彼女を見られないように、彼は彼の作らせたとても高い塔に彼女を閉じ込めさせた。
-  最も若かい頃から、<span style="color: #994c3d;">バルバラ</span>は地上のことの虚しさを感じることにあたって、天のことの瞑想に力を入れるようになり始めた。</p>
-  <p>ある日、<ruby>社<rp>(</rp><rt>やしろ</rt><rp>)</rp></ruby>に入って、壁を沿う偶像を見ると、彼女は両親に尋ねた。</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">—　これらの人間を表す偶像は何を意味するか</span></p>
-  </blockquote>
-  <p>両親は彼女に答えた。</p>
-  <blockquote>
-    <p><span style="color: #b3884d;">—　黙れ。彼らは人間ではなく、しかも神々。彼らは崇拝されたいのだ。</span></p>
-  </blockquote>
-  <p><span style="color: #994c3d;">バルバラ</span>は言う。</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">—　昔、彼らはかつて人間だったか</span></p>
-  </blockquote>
-  <p>それで彼女にそうだと答えられた。</p>
-  <p>そしたら、彼女はそれについて昼も夜も自分の中で言っていた。</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">—　もし我々の神々が人間だったならば、人間と同じようにして生まれ、人間と同じように死んだ。もし彼らが神だったならば、彼らは生まれないだろうし、死ぬこともないのだろう。なぜなら神が、私にして見える限り、始まったりはしないもの、止んだりもすることの出来るものではないから。</span></p>
-  </blockquote>
-  <p>そこで、彼女はこの木や石でのいわれ神々を軽蔑するようになった。
-  しかし彼女にはまだ真の神の知識がまだ欠いていた。</p>
-  <p>そうしているうちに、アレクサンドリアには、真の神の存在と偶像の空虚さを証明した<a href="#note_origene" title="オリゲネス" id="origene" class="yellow">オリゲネス</a>という名の計り知れない知恵の持ち主がいた噂がニコメディアに広がった。</p>
-  <p>これを知った<span style="color: #994c3d;">バルバラ</span>は喜びで満たされ、どうやって彼を聞きに行けるかを考えた。
-  だが、彼女は自分の父親に話す勇気がなかったので、彼女は自分の考えを、オリゲネスに書く考えを採択した。
-  彼女がこういう言葉でそうした。</p>
-  <blockquote>
-    <p><span style="visibility:hidden;">— その栄光が普遍的に広まっているアレクサンドリアのオリゲネスへ、ニコメディアのバルバラは私。あなた方の召使いが，あなた方が彼女を真実の神の知識へ導くように切望している。</span></p>
-    <p><span style="color: #df8f20;">自分の理性の最初の夜明けから、私はこの知識に到達したいと心の底では最強の希望を感じ、神が、話すことも聞こえることのできない、手の業である画像にはいられないと常に考えていた。又、人間になったことがあって，神として描かれている者たちが，そうにはいられないとも考えた。</span></p>
-    <p><span style="color: #df8f20;">なぜなら、人間が始まって終わるのですが、神はすべての時代の前とすべての時代の後に存在します。</span></p>
-    <p><span style="color: #df8f20;">そして私は，私には未知であるしかもすべてのことを創造したこの神に自分の信頼を置いた。私は彼に愛を捧げ、彼を知ることが出来るように何も惜しまない。</span></p>
-    <p><span style="color: #df8f20;">あなたの才能の名声が私まで届いた。</span></p>
-    <p><span style="color: #df8f20;">それで、尊ぶべき父よ、あなた方が説く神の学識までに私を連れて行ってくれることを私は考えた。ついにあなた方が私の無知の闇を分散させて真の信仰の光までに私を導いてくれることを私は願っている。</span></p>
-  </blockquote>
-  <p>オリゲネスへ自分の手紙を送った彼女は、涙を零しながら、主に祈って言った。</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">—　主よ、私があなたのしもべに送った人の足を強めたまえ、私が求めた光が来るように。</span></p>
-  </blockquote>
-  <p>使者はアレクサンドリアに到着し，
-  アレクサンデル大帝の母マメアの宮殿にオリゲネスを見付け、
-  彼がイエス・キリストの教義を説くことに精一杯だった。</p>
-  <p>彼は<span style="color: #994c3d;">バルバラ</span>からの手紙を非常に喜んで受け取り、
-  こんな熱心を呼び起こす神を称賛し、
-  彼女にこう返信して急いだ。</p>
-  <blockquote>
-    <p><span style="color: #165493;">「イエス・キリストの名に値しない司祭、又彼の説教師かも知れない、まだアレクサンドリアに在住しているオリゲネから異教徒の種族の、しかも帰化して神の子らとイエス・キリストの種族のバルバラへ。</span></p>
-    <p><span style="color: #165493;">私はあなたに教えてやる，あなたが私に聞いているとおり，本当の神とは何かを。</span></p>
-    <p><span style="color: #165493;">物質的に一つで、人格的に三人であることを知りたまえ。父と息子と聖霊。この教義を信じる者は、神に到達するために必要なものを持っている。</span></p>
-    <p><span style="color: #165493;">あなたの欲望の充実に欠けているものを完成させるためには、信頼性を加えたまえ。</span></p>
-    <p><span style="color: #165493;">私の使者に聞いたまえ。彼が神の律法を知らせて、彼が共に持っている聖なる本をあなたに読んで上げることにもする。</span></p>
-    <p><span style="color: #165493;">イエス・キリストの名のために偉大な苦しみにさらされることを恐れないでください。</span></p>
-    <p><span style="color: #165493;">彼は言っている。〈私のためにこの世で自分の魂を失う者は永遠の命ではその魂を保つだろう〉</span></p>
-  </blockquote>
-  <p>オリゲネスが<span style="color: #994c3d;">バルバラ</span>と協議するために弟子のいずれかを遣わして、
-  その人が到着したと言われた際、
-  彼女は直ちに入るように言った。</p>
-  <p>神のしもべはイエス・キリストの名で彼女を迎えた。</p>
-  <p>それで、父親がやって来て、
-  見知らぬ人を見て、
-  おびえて言った。</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">—　この男はどなたで、何をしに来ているのか</span></p>
-  </blockquote>
-  <p>アレクサンドリア人は、自分が医学科学の教養を持って、しかも一般の医者たちと違って魂をも癒す教師だと答えた。</p>
-  <p><span style="color: #994c3d;">バルバラ</span>の父はそれを聞いて、引き下げて、言葉を交わせることにした。</p>
-  <p>そして、ヴァレンティヌスと号したキリスト教徒が<span style="color: #994c3d;">バルバラ</span>に宗教の神聖な神秘を説明し、
-  父親が彼女を置いた同じ塔で洗礼させて、
-  オリゲネスに送られた本を手渡した。</p>
-  <p>彼女はこれらを読むことに努力し、
-  教師がいなかったのに、神秘的な学識ではとても大きいな進歩を遂げた。</p>
-  <p>彼女の美しさで、その国のいくつかの貴族の方々が彼女に恋慕したと言われている。
-  彼らは彼女にお婿を取るよう父親と話をした。</p>
-  <p>それで、父親が塔に行き、そういうふうに納得させようとしていった。</p>
-  <blockquote>
-    <p><span style="color: #b3884d;">—　娘よ、力のある方が君を思い出して、お嫁にすると言ってくれた。君はどうしたいのか</span></p>
-  </blockquote>
-  <p>彼女は父親に怒りの満ちた見つめ方で答えた。</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">—　父親よ、こんな無理にさせないでくれる</span></p>
-  </blockquote>
-  <p>彼は彼女から去り、
-  彼女から離れながら、たくさんの労働者を来させて、
-  お風呂の館を建てさせ、遠く離れた国へ行った。</p>
-  <p><span style="color: #994c3d;">バルバラ</span>は塔から何が作られたかを見に降りて、
-  北側にはニつの窓しかいと見て、
-  労働者たちに向かって言った。</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">—　なぜこのニつの窓を作ったのか</span></p>
-  </blockquote>
-  <p>彼らは答えた。</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">—　お父さまがそう命じた」。</span></p>
-  </blockquote>
-  <p>彼女は答えた。</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">—　もう一つの窓を作ってくれ</span></p>
-  </blockquote>
-  <p>彼らは答えた。</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">—　お父さまが怒られるのを恐れている</span></p>
-  </blockquote>
-  <p>彼女は言った。</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">—　私が言ったとおりにしてくれれば、私は父に承認することにする。</span></p>
-  </blockquote>
-  <p>そこで彼らはもう一つの窓を作った。</p>
-  <p><span style="color: #994c3d;">バルバラ</span>は自分の手で、太陽の昇る側に、この建物の中で貴重な十字架を置いた。
-  そうすると、塔に戻りながら、父親があがめる偶像を見にした。</p>
-  <p>聖霊の感応に従い、彼女は顔につばを吐いて言った。</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">—　君たちに同じくなりたまえ、君たちを作って、自分の信頼を君たちに置く人たちよ</span></p>
-  </blockquote>
-  <p>建物が完成する後、父親は旅から戻り、三つの窓を見て、労働者たちに向いて言った。</p>
-  <blockquote>
-    <p><span style="color: #b3884d;">—　なぜ三つの窓を作ったのか</span></p>
-  </blockquote>
-  <p>彼らは答えた。</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">—　お娘さまが私たちに命令した。</span></p>
-  </blockquote>
-  <p>そこで彼は娘に言った。</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">—　三つの窓を作る指示をしたのはのあなたか</span></p>
-  </blockquote>
-  <p>彼女は答えた。</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">—　そうするのことに十分な理由があったの。三つの窓が二元全体を照明するから」。</span></p>
-  </blockquote>
-  <p>そして父親は彼と一緒にお風呂の間まで連れて言った。</p>
-  <blockquote>
-    <p><span style="color: #b3884d;">—　なぜ三つの窓がニつよりも明るくなっているのか</span></p>
-  </blockquote>
-  <p>彼女は答えた。</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">—　世界を照明して星の進路を定めるのは三つである。父と子と聖霊。そして、実在として唯一である。</span></p>
-  </blockquote>
-  <p>そこで、激怒に満たされた父は彼女を殺しに刀を抜いた。</p>
-  <p>しかし聖人は神に祈りをささげて、
-  城壁が少し開いて、
-  二人の羊飼いが羊を牧草させている山に運ばれた。</p>
-  <p>父親が彼女の捜索し始めて、この羊飼いへ行き、彼らに娘を見たかと尋ねた。</p>
-  <p>その内の一人は、父親が彼女がどこにいたのか分からずにいるから怒っているかを見たら、黙った。もう一人が指で彼女を指した。</p>
-  <p><span style="color: #994c3d;">聖バルバラ</span>は彼女を裏切った者を呪って、
-  その場で彼が大理石の立像に変えさせられて、
-  その羊数匹が<ruby>飛蝗<rp>(</rp><rt>バッタ</rt><rp>)</rp></ruby>に変えさせられた。</p>
-  <p>が、この話は偽書である。</p>
-  <p>父親は、彼女を見つけると、彼女を殴りつけ、髪で彼女を引き寄せて、
-  鎖で彼女を重くしかかった。</p>
-  <p>彼は彼女を牢獄に閉じ込めて
-  番人たちをたたせ、
-  行われたすべてを<a href="#note_marcien" title="マルキアヌス" id="marcien" class="yellow">マルキアヌス</a>代理執政官に知らせて行った。</p>
-  <p>代理執政官は<span style="color: #994c3d;">バルバラ</span>を彼の前に連れて来させてほしいと願った。</p>
-  <p>彼女を見ると，彼は彼女の偉大な美しさに感銘を受けて言った。</p>
-  <blockquote>
-    <p><span style="color: #165493;">—　もしあなたが自分を救おうとしたければ永遠の神々に犠牲をしたまえ、さもないと最高の苦しみで死ぬことになる。</span></p>
-  </blockquote>
-  <p>彼女は答えた。</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">—　私は天と地球とそれが入っているすべてを成し遂げた私の主イエス・キリストに自分を犠牲として捧げたいのだ。</span></p>
-    <p><span style="color: #df8f20;">あなたが崇める鬼たちについては、預言者が言われた。</span></p>
-    <p><span style="color: #df8f20;">彼らは口があるが話せない。目があっても見えない。彼らに敬意を表する人々が彼らに似ている。</span></p>
-  </blockquote>
-  <p>激怒した代理執政官は、彼女の服を脱がせて遠慮なく牛の頸筋の鞭で打つのを命じた。
-  それで彼女の全身が血に塗れてから、彼女にどんな苦痛を与えるかを決めるまでに牢獄に連れ戻すようにと命じた。</p>
-  <p>真夜中に、大きな明快な光が殉教者の彼女を囲むことになった。イエス・キリストは彼女に現れて言った。</p>
-  <blockquote>
-    <p><span style="color: #6c936c;">—&#160;</span></td>
-  <td><span style="color: #6c936c;">「勇気を出してください 、娘よ。あなたの受難中では、天国と地上では大いなる喜びがあるようとなる。僭主者のおどしを恐れないでくれたまえ。私はすべての悪から守るためにあなたと一緒にいる。</span></p>
-  </blockquote>
-  <p><span style="color: #994c3d;">聖バルバラ</span>は主の言葉に極端な喜びを感じ、
-  朝、再び代理執政官の前に再び来させられ、彼女が前日に殴られたのに一撃の跡が一切残っていないのを見て、言われた。</p>
-  <blockquote>
-    <p><span style="color: #165493;">—　神々がどれだけ貴女に好意的なのか、どれだけ貴女を愛しているかのを見てくれたまえ。彼らが貴女の傷を癒したからだ。</span></p>
-  </blockquote>
-  <p><span style="color: #994c3d;">バルバラ</span>は彼に答えた。</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">—　あなたの神様はあなたと同様で耳が聞こえない、目も見えていない 、口も聞けないのであって、どうやって私を癒される出来たのであろうか。</span></p>
-    <p><span style="color: #df8f20;">私を癒したのは，生きている神の子イエス・キリストなのだ。が、あなたは彼を見ない。なぜなら、あなたの心は悪魔によって鍛えられているからだ。</span></p>
-  </blockquote>
-  <p>代理執政官がいらいらした獅子のようにふるえて、火のつけた松明で肋骨を焼いて頭をハンマーで撃ってやるのを命じた。</p>
-  <p>聖人が空を仰ぎて言った。</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">—　主よ、私はあなたの愛のために苦しんでいるのだとご存知だ。私を見捨てないでくれたまえ。</span></p>
-  </blockquote>
-  <p>不信心なる代理執政官が彼女に乳を切られるのを命じた。</p>
-  <p>それで、彼女は言う。</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">—　ご自分の存在の枠外にこの私を追い出せて、主よ、聖霊を取り除かないでくれたまえ。</span></p>
-  </blockquote>
-  <p>そこから、彼は町中に彼女を裸で殴られながらも無理矢理に運ばせれるのを命じた。</p>
-  <p>そうしたら、彼女は言われた。</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">—　私の支えであって、雲で空を覆っている主よ、不信心なる目にさらされないようにこの私の体を覆いでくれたまえ。</span></p>
-  </blockquote>
-  <p>そこから天から天使が降りて、彼女に白い寛衣を持って来ることになった。</p>
-  <p>そしたら、代理執政官が彼女に頭を切るように命じられた。
-  しかし、彼女の父親が彼女を掴めて山へ連れて行った。
-  彼女はこの祈りをした。</p>
-  <blockquote>
-    <p><span style="color: #df8f20;">—　すべてのことがあなたに従う主イエスよ、私の殉教を思い起こしてあなたの聖なる名を祈る人たちに裁きの日に罪が許されるよう叶え上げたまえ。</span></p>
-  </blockquote>
-  <p>そしたら彼女には天からやって来る声が聞こえてきて答えた。</p>
-  <blockquote>
-    <p><span style="color: #6c936c;">—&#160;</span></td>
-  <td><span style="color: #6c936c;">「私の愛する人よ、来たまえ。天国にある私の父の家に癒したまえ。君が求めているのが君には叶えられている。</span></p>
-  </blockquote>
-  <p>すると殉教者が自分の父親本人の手で首が切られた。</p>
-  <p>彼が山から降りると、天の火の塊が彼に襲い掛かって、彼を喰わせた。
-  彼から一影も残らなかった。</p>
-  <p>強力な<a href="#note_saxe" title="ザクセン" id="saxe" class="yellow">ザクセン</a>伯爵の男がいた。
-  彼は自分の敵を捕虜してある塔に誰もが違反者には最も厳しい<ruby>刑<rp>(</rp><rt>けい</rt><rp>)</rp></ruby>を科して、その方に食べさせたり、飲みさせたりと禁じながらも閉じ込めさせた。</p>
-  <p>その人がそこに数日間いた後、
-  塔の番人に、うめき声をあげながら、<span style="color: #994c3d;">聖バルバラ</span>のことを考えて、死なないようにパンを少しあたえるように願った。
-  が、番人はその願いを気にしなかったから、
-  彼はぐったりと横たわっていたままだった。
-  番人が彼が死んだと見込んで、
-  彼が伯爵に悪い匂いが広がる前に死体を取り除く許可を求めた。
-  そういうわけで死んだと思われているものの首に紐を縛って、
-  岩のてっぺんから飛ばし降ろした。
-  地面に当たるとすぐに立ち上がって、
-  そこにいたみんなが恐怖し、逃げようとした。</p>
-  <p>彼は彼らを呼び戻して恐れないようにと言った。
-  そしたら、彼らが彼に近づいてきて，どうやって命を維持できたかと尋ねた。
-  彼は彼らに答えた。</p>
-  <blockquote>
-    <p><span style="color: #165493;">—　聖バルバラが全ての困難を凝らすように僕を助けてくれた。</span></p>
-    <p><span style="color: #165493;">墜落中で助けてくれたのは彼女だったし、僕は告白せずに聖体を受けずに死ぬことはできないのだ。</span></p>
-  </blockquote>
-  <p>なぜこの恵みを得ることが出来たかと尋ねられて、こう答えた。</p>
-  <blockquote>
-    <p><span style="color: #165493;">—　僕は聖バルバラに気に入って貰うよう一年も彼女の祝日に断食や祈りを惜しまなかった。だから彼女が神様に僕が秘跡を受けずに死ぬがないようにと願い出てくれた。</span></p>
-  </blockquote>
-  <p>そしたら、これらの秘跡を受けてからすぐに、息を返した。</p>
-  <p>また、我々は、ローマ人の王の時代、アタウルフという伯爵がオリエントのそれぞれの州に頭として任命され、ある兵士が若い少女に暴力を振るった疑いされたことがあったと読む。</p>
-  <p>彼は牢獄で判決を待っていた間、告白を願い出た。
-  告白担当者が彼が無罪だと見抜いて、<span style="color: #994c3d;">聖バルバラ</span>に自分を奉仕することと彼女の名誉のため巡礼しない限り自分の家に戻らないことを誓うようと励んだ。</p>
-  <p>女の人が声を大にして判決が言い渡されることを訴えている一方、裁判官たちが出席して被告人を出頭してから、死刑の宣告を下すことにした。
-  そうすると、誰も知らない方が出て来て、その方が、発言する許可を願い出てから、正当な、反論の余地のない理屈で兵士が無罪で、判決も不公平だと明らかにした。</p>
-  <p>裁判官たちは彼を放裁させて、
-  自由に戻った兵士が、<span style="color: #994c3d;">聖バルバラ</span>の奉仕する日々を終えた。
-  弁護士となった無名の男の人が彼が誰であるか知らないままに消えた。</p>
+  
+  <section><article>
+    <h3 id="barb-selon-legende" class="yellow"><ruby style="color:#e6a64d;">黄金伝説<rt style="color:#e6a64d;">レゲンダ・アウレア</rt></ruby>においての聖バルバラ</h3>
+      <section><article>
+      <h4 id="barb-selon-legende" class="yellow"><ruby style="color:#e6a64d;">黄金伝説<rt style="color:#e6a64d;">レゲンダ・アウレア</rt></ruby>においての聖バルバラ</h4>
+      <section><article>
+        <p><a href="#note_nicomedie" title="ニコメディア" id="nicomedie" class="yellow">ニコメディア</a>では、<a href="#note_maximien" title="マクシミアヌス大帝" id="maximien" class="yellow">マクシミアヌス大帝</a>時代に、富裕な、とても礼儀正しい家族の出の<span style="color: #99713d;">ディアスコロス</span>という名の異教徒がいた。</p>
+        <p>彼には<span style="color: #994c3d;">バルバラ</span>と呼ばれるとても美しい娘がいた。</p>
+        <p>父は彼女をとても愛していた。
+        そのため、男の人一人も彼女を見られないように、彼は彼の作らせたとても高い塔に彼女を閉じ込めさせた。
+        最も若かい頃から、<span style="color: #994c3d;">バルバラ</span>は地上のことの虚しさを感じることにあたって、天のことの瞑想に力を入れるようになり始めた。</p>
+        <p>ある日、<ruby>社<rp>(</rp><rt>やしろ</rt><rp>)</rp></ruby>に入って、壁を沿う偶像を見ると、彼女は両親に尋ねた。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　これらの人間を表す偶像は何を意味するか</span></p>
+        </blockquote>
+        <p>両親は彼女に答えた。</p>
+        <blockquote>
+          <p><span style="color: #b3884d;">—　黙れ。彼らは人間ではなく、しかも神々。彼らは崇拝されたいのだ。</span></p>
+        </blockquote>
+        <p><span style="color: #994c3d;">バルバラ</span>は言う。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　昔、彼らはかつて人間だったか</span></p>
+        </blockquote>
+        <p>それで彼女にそうだと答えられた。</p>
+        <p>そしたら、彼女はそれについて昼も夜も自分の中で言っていた。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　もし我々の神々が人間だったならば、人間と同じようにして生まれ、人間と同じように死んだ。もし彼らが神だったならば、彼らは生まれないだろうし、死ぬこともないのだろう。なぜなら神が、私にして見える限り、始まったりはしないもの、止んだりもすることの出来るものではないから。</span></p>
+        </blockquote>
+        <p>そこで、彼女はこの木や石でのいわれ神々を軽蔑するようになった。
+        しかし彼女にはまだ真の神の知識がまだ欠いていた。</p>
+        <p>そうしているうちに、アレクサンドリアには、真の神の存在と偶像の空虚さを証明した<a href="#note_origene" title="オリゲネス" id="origene" class="yellow">オリゲネス</a>という名の計り知れない知恵の持ち主がいた噂がニコメディアに広がった。</p>
+        <p>これを知った<span style="color: #994c3d;">バルバラ</span>は喜びで満たされ、どうやって彼を聞きに行けるかを考えた。
+        だが、彼女は自分の父親に話す勇気がなかったので、彼女は自分の考えを、オリゲネスに書く考えを採択した。
+        彼女がこういう言葉でそうした。</p>
+        <blockquote>
+          <p><span style="visibility:hidden;">— その栄光が普遍的に広まっているアレクサンドリアのオリゲネスへ、ニコメディアのバルバラは私。あなた方の召使いが，あなた方が彼女を真実の神の知識へ導くように切望している。</span></p>
+          <p><span style="color: #df8f20;">自分の理性の最初の夜明けから、私はこの知識に到達したいと心の底では最強の希望を感じ、神が、話すことも聞こえることのできない、手の業である画像にはいられないと常に考えていた。又、人間になったことがあって，神として描かれている者たちが，そうにはいられないとも考えた。</span></p>
+          <p><span style="color: #df8f20;">なぜなら、人間が始まって終わるのですが、神はすべての時代の前とすべての時代の後に存在します。</span></p>
+          <p><span style="color: #df8f20;">そして私は，私には未知であるしかもすべてのことを創造したこの神に自分の信頼を置いた。私は彼に愛を捧げ、彼を知ることが出来るように何も惜しまない。</span></p>
+          <p><span style="color: #df8f20;">あなたの才能の名声が私まで届いた。</span></p>
+          <p><span style="color: #df8f20;">それで、尊ぶべき父よ、あなた方が説く神の学識までに私を連れて行ってくれることを私は考えた。ついにあなた方が私の無知の闇を分散させて真の信仰の光までに私を導いてくれることを私は願っている。</span></p>
+        </blockquote>
+        <p>オリゲネスへ自分の手紙を送った彼女は、涙を零しながら、主に祈って言った。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　主よ、私があなたのしもべに送った人の足を強めたまえ、私が求めた光が来るように。</span></p>
+        </blockquote>
+        <p>使者はアレクサンドリアに到着し，
+        アレクサンデル大帝の母マメアの宮殿にオリゲネスを見付け、
+        彼がイエス・キリストの教義を説くことに精一杯だった。</p>
+        <p>彼は<span style="color: #994c3d;">バルバラ</span>からの手紙を非常に喜んで受け取り、
+        こんな熱心を呼び起こす神を称賛し、
+        彼女にこう返信して急いだ。</p>
+        <blockquote>
+          <p><span style="color: #165493;">「イエス・キリストの名に値しない司祭、又彼の説教師かも知れない、まだアレクサンドリアに在住しているオリゲネから異教徒の種族の、しかも帰化して神の子らとイエス・キリストの種族のバルバラへ。</span></p>
+          <p><span style="color: #165493;">私はあなたに教えてやる，あなたが私に聞いているとおり，本当の神とは何かを。</span></p>
+          <p><span style="color: #165493;">物質的に一つで、人格的に三人であることを知りたまえ。父と息子と聖霊。この教義を信じる者は、神に到達するために必要なものを持っている。</span></p>
+          <p><span style="color: #165493;">あなたの欲望の充実に欠けているものを完成させるためには、信頼性を加えたまえ。</span></p>
+          <p><span style="color: #165493;">私の使者に聞いたまえ。彼が神の律法を知らせて、彼が共に持っている聖なる本をあなたに読んで上げることにもする。</span></p>
+          <p><span style="color: #165493;">イエス・キリストの名のために偉大な苦しみにさらされることを恐れないでください。</span></p>
+          <p><span style="color: #165493;">彼は言っている。〈私のためにこの世で自分の魂を失う者は永遠の命ではその魂を保つだろう〉</span></p>
+        </blockquote>
+        <p>オリゲネスが<span style="color: #994c3d;">バルバラ</span>と協議するために弟子のいずれかを遣わして、
+        その人が到着したと言われた際、
+        彼女は直ちに入るように言った。</p>
+        <p>神のしもべはイエス・キリストの名で彼女を迎えた。</p>
+        <p>それで、父親がやって来て、
+        見知らぬ人を見て、
+        おびえて言った。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　この男はどなたで、何をしに来ているのか</span></p>
+        </blockquote>
+        <p>アレクサンドリア人は、自分が医学科学の教養を持って、しかも一般の医者たちと違って魂をも癒す教師だと答えた。</p>
+        <p><span style="color: #994c3d;">バルバラ</span>の父はそれを聞いて、引き下げて、言葉を交わせることにした。</p>
+        <p>そして、ヴァレンティヌスと号したキリスト教徒が<span style="color: #994c3d;">バルバラ</span>に宗教の神聖な神秘を説明し、
+        父親が彼女を置いた同じ塔で洗礼させて、
+        オリゲネスに送られた本を手渡した。</p>
+        <p>彼女はこれらを読むことに努力し、
+        教師がいなかったのに、神秘的な学識ではとても大きいな進歩を遂げた。</p>
+        <p>彼女の美しさで、その国のいくつかの貴族の方々が彼女に恋慕したと言われている。
+        彼らは彼女にお婿を取るよう父親と話をした。</p>
+        <p>それで、父親が塔に行き、そういうふうに納得させようとしていった。</p>
+        <blockquote>
+          <p><span style="color: #b3884d;">—　娘よ、力のある方が君を思い出して、お嫁にすると言ってくれた。君はどうしたいのか</span></p>
+        </blockquote>
+        <p>彼女は父親に怒りの満ちた見つめ方で答えた。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　父親よ、こんな無理にさせないでくれる</span></p>
+        </blockquote>
+        <p>彼は彼女から去り、
+        彼女から離れながら、たくさんの労働者を来させて、
+        お風呂の館を建てさせ、遠く離れた国へ行った。</p>
+        <p><span style="color: #994c3d;">バルバラ</span>は塔から何が作られたかを見に降りて、
+        北側にはニつの窓しかいと見て、
+        労働者たちに向かって言った。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　なぜこのニつの窓を作ったのか</span></p>
+        </blockquote>
+        <p>彼らは答えた。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　お父さまがそう命じた」。</span></p>
+        </blockquote>
+        <p>彼女は答えた。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　もう一つの窓を作ってくれ</span></p>
+        </blockquote>
+        <p>彼らは答えた。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　お父さまが怒られるのを恐れている</span></p>
+        </blockquote>
+        <p>彼女は言った。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　私が言ったとおりにしてくれれば、私は父に承認することにする。</span></p>
+        </blockquote>
+        <p>そこで彼らはもう一つの窓を作った。</p>
+        <p><span style="color: #994c3d;">バルバラ</span>は自分の手で、太陽の昇る側に、この建物の中で貴重な十字架を置いた。
+        そうすると、塔に戻りながら、父親があがめる偶像を見にした。</p>
+        <p>聖霊の感応に従い、彼女は顔につばを吐いて言った。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　君たちに同じくなりたまえ、君たちを作って、自分の信頼を君たちに置く人たちよ</span></p>
+        </blockquote>
+        <p>建物が完成する後、父親は旅から戻り、三つの窓を見て、労働者たちに向いて言った。</p>
+        <blockquote>
+          <p><span style="color: #b3884d;">—　なぜ三つの窓を作ったのか</span></p>
+        </blockquote>
+        <p>彼らは答えた。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　お娘さまが私たちに命令した。</span></p>
+        </blockquote>
+        <p>そこで彼は娘に言った。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　三つの窓を作る指示をしたのはのあなたか</span></p>
+        </blockquote>
+        <p>彼女は答えた。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　そうするのことに十分な理由があったの。三つの窓が二元全体を照明するから」。</span></p>
+        </blockquote>
+        <p>そして父親は彼と一緒にお風呂の間まで連れて言った。</p>
+        <blockquote>
+          <p><span style="color: #b3884d;">—　なぜ三つの窓がニつよりも明るくなっているのか</span></p>
+        </blockquote>
+        <p>彼女は答えた。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　世界を照明して星の進路を定めるのは三つである。父と子と聖霊。そして、実在として唯一である。</span></p>
+        </blockquote>
+        <p>そこで、激怒に満たされた父は彼女を殺しに刀を抜いた。</p>
+        <p>しかし聖人は神に祈りをささげて、
+        城壁が少し開いて、
+        二人の羊飼いが羊を牧草させている山に運ばれた。</p>
+        <p>父親が彼女の捜索し始めて、この羊飼いへ行き、彼らに娘を見たかと尋ねた。</p>
+        <p>その内の一人は、父親が彼女がどこにいたのか分からずにいるから怒っているかを見たら、黙った。もう一人が指で彼女を指した。</p>
+        <p><span style="color: #994c3d;">聖バルバラ</span>は彼女を裏切った者を呪って、
+        その場で彼が大理石の立像に変えさせられて、
+        その羊数匹が<ruby>飛蝗<rp>(</rp><rt>バッタ</rt><rp>)</rp></ruby>に変えさせられた。</p>
+        <p>が、この話は偽書である。</p>
+        <p>父親は、彼女を見つけると、彼女を殴りつけ、髪で彼女を引き寄せて、
+        鎖で彼女を重くしかかった。</p>
+        <p>彼は彼女を牢獄に閉じ込めて
+        番人たちをたたせ、
+        行われたすべてを<a href="#note_marcien" title="マルキアヌス" id="marcien" class="yellow">マルキアヌス</a>代理執政官に知らせて行った。</p>
+        <p>代理執政官は<span style="color: #994c3d;">バルバラ</span>を彼の前に連れて来させてほしいと願った。</p>
+        <p>彼女を見ると，彼は彼女の偉大な美しさに感銘を受けて言った。</p>
+        <blockquote>
+          <p><span style="color: #165493;">—　もしあなたが自分を救おうとしたければ永遠の神々に犠牲をしたまえ、さもないと最高の苦しみで死ぬことになる。</span></p>
+        </blockquote>
+        <p>彼女は答えた。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　私は天と地球とそれが入っているすべてを成し遂げた私の主イエス・キリストに自分を犠牲として捧げたいのだ。</span></p>
+          <p><span style="color: #df8f20;">あなたが崇める鬼たちについては、預言者が言われた。</span></p>
+          <p><span style="color: #df8f20;">彼らは口があるが話せない。目があっても見えない。彼らに敬意を表する人々が彼らに似ている。</span></p>
+        </blockquote>
+        <p>激怒した代理執政官は、彼女の服を脱がせて遠慮なく牛の頸筋の鞭で打つのを命じた。
+        それで彼女の全身が血に塗れてから、彼女にどんな苦痛を与えるかを決めるまでに牢獄に連れ戻すようにと命じた。</p>
+        <p>真夜中に、大きな明快な光が殉教者の彼女を囲むことになった。イエス・キリストは彼女に現れて言った。</p>
+        <blockquote>
+          <p><span style="color: #6c936c;">—&#160;</span></td>
+        <td><span style="color: #6c936c;">「勇気を出してください 、娘よ。あなたの受難中では、天国と地上では大いなる喜びがあるようとなる。僭主者のおどしを恐れないでくれたまえ。私はすべての悪から守るためにあなたと一緒にいる。</span></p>
+        </blockquote>
+        <p><span style="color: #994c3d;">聖バルバラ</span>は主の言葉に極端な喜びを感じ、
+        朝、再び代理執政官の前に再び来させられ、彼女が前日に殴られたのに一撃の跡が一切残っていないのを見て、言われた。</p>
+        <blockquote>
+          <p><span style="color: #165493;">—　神々がどれだけ貴女に好意的なのか、どれだけ貴女を愛しているかのを見てくれたまえ。彼らが貴女の傷を癒したからだ。</span></p>
+        </blockquote>
+        <p><span style="color: #994c3d;">バルバラ</span>は彼に答えた。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　あなたの神様はあなたと同様で耳が聞こえない、目も見えていない 、口も聞けないのであって、どうやって私を癒される出来たのであろうか。</span></p>
+          <p><span style="color: #df8f20;">私を癒したのは，生きている神の子イエス・キリストなのだ。が、あなたは彼を見ない。なぜなら、あなたの心は悪魔によって鍛えられているからだ。</span></p>
+        </blockquote>
+        <p>代理執政官がいらいらした獅子のようにふるえて、火のつけた松明で肋骨を焼いて頭をハンマーで撃ってやるのを命じた。</p>
+        <p>聖人が空を仰ぎて言った。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　主よ、私はあなたの愛のために苦しんでいるのだとご存知だ。私を見捨てないでくれたまえ。</span></p>
+        </blockquote>
+        <p>不信心なる代理執政官が彼女に乳を切られるのを命じた。</p>
+        <p>それで、彼女は言う。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　ご自分の存在の枠外にこの私を追い出せて、主よ、聖霊を取り除かないでくれたまえ。</span></p>
+        </blockquote>
+        <p>そこから、彼は町中に彼女を裸で殴られながらも無理矢理に運ばせれるのを命じた。</p>
+        <p>そうしたら、彼女は言われた。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　私の支えであって、雲で空を覆っている主よ、不信心なる目にさらされないようにこの私の体を覆いでくれたまえ。</span></p>
+        </blockquote>
+        <p>そこから天から天使が降りて、彼女に白い寛衣を持って来ることになった。</p>
+        <p>そしたら、代理執政官が彼女に頭を切るように命じられた。
+        しかし、彼女の父親が彼女を掴めて山へ連れて行った。
+        彼女はこの祈りをした。</p>
+        <blockquote>
+          <p><span style="color: #df8f20;">—　すべてのことがあなたに従う主イエスよ、私の殉教を思い起こしてあなたの聖なる名を祈る人たちに裁きの日に罪が許されるよう叶え上げたまえ。</span></p>
+        </blockquote>
+        <p>そしたら彼女には天からやって来る声が聞こえてきて答えた。</p>
+        <blockquote>
+          <p><span style="color: #6c936c;">—&#160;</span></td>
+        <td><span style="color: #6c936c;">「私の愛する人よ、来たまえ。天国にある私の父の家に癒したまえ。君が求めているのが君には叶えられている。</span></p>
+        </blockquote>
+        <p>すると殉教者が自分の父親本人の手で首が切られた。</p>
+        <p>彼が山から降りると、天の火の塊が彼に襲い掛かって、彼を喰わせた。
+        彼から一影も残らなかった。</p>
+        <p>強力な<a href="#note_saxe" title="ザクセン" id="saxe" class="yellow">ザクセン</a>伯爵の男がいた。
+        彼は自分の敵を捕虜してある塔に誰もが違反者には最も厳しい<ruby>刑<rp>(</rp><rt>けい</rt><rp>)</rp></ruby>を科して、その方に食べさせたり、飲みさせたりと禁じながらも閉じ込めさせた。</p>
+        <p>その人がそこに数日間いた後、
+        塔の番人に、うめき声をあげながら、<span style="color: #994c3d;">聖バルバラ</span>のことを考えて、死なないようにパンを少しあたえるように願った。
+        が、番人はその願いを気にしなかったから、
+        彼はぐったりと横たわっていたままだった。
+        番人が彼が死んだと見込んで、
+        彼が伯爵に悪い匂いが広がる前に死体を取り除く許可を求めた。
+        そういうわけで死んだと思われているものの首に紐を縛って、
+        岩のてっぺんから飛ばし降ろした。
+        地面に当たるとすぐに立ち上がって、
+        そこにいたみんなが恐怖し、逃げようとした。</p>
+        <p>彼は彼らを呼び戻して恐れないようにと言った。
+        そしたら、彼らが彼に近づいてきて，どうやって命を維持できたかと尋ねた。
+        彼は彼らに答えた。</p>
+        <blockquote>
+          <p><span style="color: #165493;">—　聖バルバラが全ての困難を凝らすように僕を助けてくれた。</span></p>
+          <p><span style="color: #165493;">墜落中で助けてくれたのは彼女だったし、僕は告白せずに聖体を受けずに死ぬことはできないのだ。</span></p>
+        </blockquote>
+        <p>なぜこの恵みを得ることが出来たかと尋ねられて、こう答えた。</p>
+        <blockquote>
+          <p><span style="color: #165493;">—　僕は聖バルバラに気に入って貰うよう一年も彼女の祝日に断食や祈りを惜しまなかった。だから彼女が神様に僕が秘跡を受けずに死ぬがないようにと願い出てくれた。</span></p>
+        </blockquote>
+        <p>そしたら、これらの秘跡を受けてからすぐに、息を返した。</p>
+        <p>また、我々は、ローマ人の王の時代、アタウルフという伯爵がオリエントのそれぞれの州に頭として任命され、ある兵士が若い少女に暴力を振るった疑いされたことがあったと読む。</p>
+        <p>彼は牢獄で判決を待っていた間、告白を願い出た。
+        告白担当者が彼が無罪だと見抜いて、<span style="color: #994c3d;">聖バルバラ</span>に自分を奉仕することと彼女の名誉のため巡礼しない限り自分の家に戻らないことを誓うようと励んだ。</p>
+        <p>女の人が声を大にして判決が言い渡されることを訴えている一方、裁判官たちが出席して被告人を出頭してから、死刑の宣告を下すことにした。
+        そうすると、誰も知らない方が出て来て、その方が、発言する許可を願い出てから、正当な、反論の余地のない理屈で兵士が無罪で、判決も不公平だと明らかにした。</p>
+        <p>裁判官たちは彼を放裁させて、
+        自由に戻った兵士が、<span style="color: #994c3d;">聖バルバラ</span>の奉仕する日々を終えた。
+        弁護士となった無名の男の人が彼が誰であるか知らないままに消えた。</p>
+      </article></section>
+    </article></section>
+  </article></section>
 </article>
 
 <hr>
 
 <aside>
-  <h3 id="note_nicomedie" class="yellow">ニコメディア</h3>
-  <div class="notices yellow">
-  <p><a href="https://ja.wikipedia.org/wiki/ニコメディア" title="https://ja.wikipedia.org/wiki/ニコメディア"><ruby lang="ja">ニコメディア<rp>(</rp><rt lang="grc">Νικομήδεια</rt><rp>)</rp></ruby lang="ja"></a>は、<a href="https://ja.wikipedia.org/wiki/ビテュニア" title="https://ja.wikipedia.org/wiki/ビテュニア">ビチニア王国</a>の首都、小アジアの都市です。 今はトルコにあり、<ruby lang="ja">イズミット<rp>(</rp><rt lang="tr">İzmit</rt><rp>)</rp></ruby lang="ja">と呼ばれている。 それは、<a href="https://ja.wikipedia.org/wiki/ディオクレティアヌス" title="https://ja.wikipedia.org/wiki/ディオクレティアヌス">ディオクレティアヌス</a>と<a href="https://ja.wikipedia.org/wiki/コンスタンティヌス1世" title="https://ja.wikipedia.org/wiki/コンスタンティヌス1世">コンスタンティヌス</a>の首都だった。</p>
-  <p>註に戻る：　<a href="#maximien" title="マクシミアヌス大帝">ニコメディア↑</a></p>
+  <section><article>
+    <h3 id="note_nicomedie" class="yellow">ニコメディア</h3>
+    <div class="notices yellow">
+    <p><a href="https://ja.wikipedia.org/wiki/ニコメディア" title="https://ja.wikipedia.org/wiki/ニコメディア"><ruby lang="ja">ニコメディア<rp>(</rp><rt lang="grc">Νικομήδεια</rt><rp>)</rp></ruby lang="ja"></a>は、<a href="https://ja.wikipedia.org/wiki/ビテュニア" title="https://ja.wikipedia.org/wiki/ビテュニア">ビチニア王国</a>の首都、小アジアの都市です。 今はトルコにあり、<ruby lang="ja">イズミット<rp>(</rp><rt lang="tr">İzmit</rt><rp>)</rp></ruby lang="ja">と呼ばれている。 それは、<a href="https://ja.wikipedia.org/wiki/ディオクレティアヌス" title="https://ja.wikipedia.org/wiki/ディオクレティアヌス">ディオクレティアヌス</a>と<a href="https://ja.wikipedia.org/wiki/コンスタンティヌス1世" title="https://ja.wikipedia.org/wiki/コンスタンティヌス1世">コンスタンティヌス</a>の首都だった。</p>
+    </div>
+    <footer>
+      <p>文書へ戻る：　<a href="#maximien" title="マクシミアヌス大帝">ニコメディア↑</a></p>
+    </footer>
+  </article></section>
+  <section><article>
+    <h3 id="note_maximien" class="yellow">マクシミアヌス大帝</h3>
+    <div class="notices yellow">
+    <p><a href="https://ja.wikipedia.org/wiki/マクシミアヌス" title="https://ja.wikipedia.org/wiki/マクシミアヌス">マクシミアヌス</a>。ローマ東帝国皇帝だった<a href="https://ja.wikipedia.org/wiki/ディオクレティアヌス" title="https://ja.wikipedia.org/wiki/ディオクレティアヌス">ディオクレティアヌス</a>と<time datetime="286">２８６年<time>から<time datetime="305">３０５年<time>まで共同皇帝。<a href="https://ja.wikipedia.org/wiki/マクセンティウス" title="https://ja.wikipedia.org/wiki/マクセンティウス">マクセンティウス</a>の父上。</p>
+    </div>
+    <footer>
+      <p>文書へ戻る：　<a href="#nicomedie" title="ニコメディア">マクシミアヌス大帝↑</a></p>
+    </footer>
+  </article></section>
+  <section><article>
+    <h3 id="note_origene" class="yellow">オリゲネス</h3>
+    <div class="notices yellow">
+    <p><a href="https://ja.wikipedia.org/wiki/オリゲネス" title="https://ja.wikipedia.org/wiki/オリゲネス"><ruby lang="ja">オリゲン<rp>(</rp><rt lang="grc">Ὠριγένης</rt><rp>)</rp></ruby lang="ja"></a>は古代キリスト教の神学者で、<time datetime="185">１８５年<time>頃アレクサンドリアで生まれ、<time datetime="253">２５３年<time>頃にティルスで亡くなり、聖人ではなく教父として認められている。</p>
   </div>
-  <h3 id="note_maximien" class="yellow">マクシミアヌス大帝</h3>
-  <div class="notices yellow">
-  <p><a href="https://ja.wikipedia.org/wiki/マクシミアヌス" title="https://ja.wikipedia.org/wiki/マクシミアヌス">マクシミアヌス</a>。ローマ東帝国皇帝だった<a href="https://ja.wikipedia.org/wiki/ディオクレティアヌス" title="https://ja.wikipedia.org/wiki/ディオクレティアヌス">ディオクレティアヌス</a>と<time datetime="286">２８６年<time>から<time datetime="305">３０５年<time>まで共同皇帝。<a href="https://ja.wikipedia.org/wiki/マクセンティウス" title="https://ja.wikipedia.org/wiki/マクセンティウス">マクセンティウス</a>の父上。</p>
-  <p>註に戻る：　<a href="#nicomedie" title="ニコメディア">マクシミアヌス大帝↑</a></p>
-  </div>
-  <h3 id="note_origene" class="yellow">オリゲネス</h3>
-  <div class="notices yellow">
-  <p><a href="https://ja.wikipedia.org/wiki/オリゲネス" title="https://ja.wikipedia.org/wiki/オリゲネス"><ruby lang="ja">オリゲン<rp>(</rp><rt lang="grc">Ὠριγένης</rt><rp>)</rp></ruby lang="ja"></a>は古代キリスト教の神学者で、<time datetime="185">１８５年<time>頃アレクサンドリアで生まれ、<time datetime="253">２５３年<time>頃にティルスで亡くなり、聖人ではなく教父として認められている。</p>
-  <p>註に戻る：　<a href="#origene" title="オリゲネス">オリゲネス↑</a></p>
-  </div>
-  <h3 id="note_marcien" class="yellow">マルキアヌス</h3>
+    <footer>
+      <p>文書へ戻る：　<a href="#origene" title="オリゲネス">オリゲネス↑</a></p>
+    </footer>
+  </article></section>
+  <section><article>
+    <h3 id="note_marcien" class="yellow">マルキアヌス</h3>
   <div class="notices yellow">
   <p>黄金伝説意外に、この代理執政官の跡は一つもありません。</p>
-  <p>註に戻る：　<a href="#marcien" title="マルキアヌス">マルキアヌス↑</a></p>
   </div>
-  <h3 id="note_saxe" class="yellow">ザクセン</h3>
-  <div class="notices yellow">
-  <p>ドイツの一地域で、その境界は歴史を通じて様々であり、ザクセンのパラティネート郡は、神聖ローマ皇帝の公国でした。１０世紀にオットー１世が創始し、現在のザクセン公国の南東のザーレ・ウンシュトルート地方に広がった。</p>
-  <p>註に戻る：　<a href="#saxe" title="ザクセン">ザクセン↑</a></p>
-  </div>
+    <footer>
+      <p>文書へ戻る：　<a href="#marcien" title="マルキアヌス">マルキアヌス↑</a></p>
+    </footer>
+  </article></section>
+  <section><article>
+    <h3 id="note_saxe" class="yellow">ザクセン</h3>
+    <div class="notices yellow">
+    <p>ドイツの一地域で、その境界は歴史を通じて様々であり、ザクセンのパラティネート郡は、神聖ローマ皇帝の公国でした。１０世紀にオットー１世が創始し、現在のザクセン公国の南東のザーレ・ウンシュトルート地方に広がった。</p>
+    </div>
+    <footer>
+      <p>文書へ戻る：　<a href="#saxe" title="ザクセン">ザクセン↑</a></p>
+    </footer>
+  </article></section>
 </aside>
 
 <!-- Page 18 --><hr>
@@ -3708,7 +3821,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、《ローマにあるラティナ門前にドミティアヌス大帝の命令によっての熱湯に浸せられる福音書記者ヨハネとパトモス島島への流しへの出発》</figcaption>
       </figure>
       <section><article>
-        <p>使徒であり福音書記者であった<span style="color: #994c3d;">ヨハネ</span>は、主の<ruby>愛<rp>(</rp><rt>まな</rt><rp>)</rp></ruby>弟子であり、選ばれて童貞の肉体をもっていた。１２使徒が聖霊降臨のあと世界じゅうに散らばっていったとき、<span style="color: #994c3d;">ヨハネ</span>は、<a href="#note_asie" title="アジア" id="asie" class="yellow">アジア</a>に行き、その地に多くの教会を建てた。</p>
+        <p>使徒であり福音書記者であった<span style="color: #994c3d;">ヨハネ</span>は、主の<ruby>愛<rp>(</rp><rt>まな</rt><rp>)</rp></ruby>弟子であり、選ばれて童貞の肉体をもっていた。十二使徒が聖霊降臨のあと世界じゅうに散らばっていったとき、<span style="color: #994c3d;">ヨハネ</span>は、<a href="#note_asie" title="アジア" id="asie" class="yellow">アジア</a>に行き、その地に多くの教会を建てた。</p>
         <p><a href="#note_domitien" title="皇帝ドミティアヌス" id="domitien" class="yellow">皇帝ドミティアヌス</a>は、それを聞くと、彼を捕えさせ、<a href="#note_porte-latine" title="ラティナ門" id="porte-latine" class="yellow">ラティナ門</a>とよばれているローマの門外で煮えたぎった油をみたした桶に投げこむように命じた。</p>
         <p>しかし、<span style="color: #994c3d;">聖ヨハネ</span>は、肉の汚れを知らずにこの世の道を歩いてきたとおなじように、火傷ひとつしないで桶から出てきた。</p>
         <p>皇帝は、<span style="color: #994c3d;">ヨハネ</span>がなおも説教をやめようとしないのを見て、こんどは<a href="#note_patmos" title="パトモス島" id="patmos" class="yellow">パトモス島</a>という遠海の島へ流刑にした。彼は、その島にまったくひとりで住み、ここで『ヨハネの黙示録』を書いた。</p>
@@ -3959,7 +4072,7 @@
       <h3 id="note_isidore" class="yellow">イシドルス</h3>
       <section><article>
         <div class="notices yellow">
-          <p>〈セビリヤの〉イシドルス（<time datetime="560">５６０<time>頃~<time datetime="636">６３６年<time>）。聖人（祝４・４）、教会博士、セビリヤ大司教。</p>
+          <p>〈セビリヤの〉イシドルス（<time datetime="560">５６０<time>頃~<time datetime="636">６３６年<time>）。聖人（祝、４月４日）、教会博士、セビリヤ大司教。</p>
           <p>大教皇グレゴリウス一世に協力して西ゴート族の改宗に努力、また該博な百科全書知識（主著『語源考』二十巻がその集約）によって創成期のヨーロッパ中世文化に指導的な影響をあたえた。</p>
         </div>
       </article></section>
@@ -3984,7 +4097,7 @@
       <h3 id="note_domitien" class="yellow">皇帝ドミティアヌス</h3>
       <section><article>
         <div class="notices yellow">
-          <p><a href="https://ja.wikipedia.org/wiki/ドミティアヌス" title="https://ja.wikipedia.org/wiki/ドミティアヌス">皇帝<ruby lang="ja">ドミティアヌス<rp>(</rp><rt lang="la">Domitianus</rt><rp>)</rp></ruby lang="ja"></a>はローマ帝国の第１１代皇帝である。在位<time datetime="81">８１年<time>から<time datetime="96">９６年<time>。フラウィウス朝最後の皇帝であり、キリスト教はの大迫害者となったと記憶されており。</p>
+          <p><a href="https://ja.wikipedia.org/wiki/ドミティアヌス" title="https://ja.wikipedia.org/wiki/ドミティアヌス">皇帝<ruby lang="ja">ドミティアヌス<rp>(</rp><rt lang="la">Domitianus</rt><rp>)</rp></ruby lang="ja"></a>はローマ帝国の第十一代皇帝である。在位<time datetime="81">８１年<time>から<time datetime="96">９６年<time>。フラウィウス朝最後の皇帝であり、キリスト教はの大迫害者となったと記憶されており。</p>
         </div>
       </article></section>
       <footer>
@@ -4044,7 +4157,7 @@
       <h3 id="note_mathieu" class="yellow">もし完全になりたいのなら</h3>
       <section><article>
         <section><article>
-          <p>この引用文は、マタイによる福音の第１９章第２１節一節を指す。</p>
+          <p>この引用文は、マタイによる福音の第１９章第２１節１節を指す。</p>
         </article></section>
         <section><article>
           <div class="notices yellow">
