@@ -2744,7 +2744,7 @@
 
 <article>
   <section><article>
-    <h5 class="yellow">la femme reçoit deux aîles de grand aigle pour échapper au dragon - <cite>黙示録</cite> 12.10 à 13</h5>
+    <h5 class="yellow">la femme reçoit deux aîles de grand aigle pour échapper au dragon - <cite>黙示録</cite>第１２章１０～１３節</h5>
     <section><article>
       <ol class="doc">
         <li value="10">わたしは、天で大きな声が次のように言うのを、聞いた。「今や、我々の神の救いと力と支配が現れた。神のメシアの権威が現れた。</li>
