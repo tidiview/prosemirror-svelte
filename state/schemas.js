@@ -837,8 +837,9 @@ export const ExtendedThreerichTextSchema = new Schema({
     pre: {
       content: "table*",
       group: "block",
-      parseDOM: [{tag: "pre"}],
-      toDOM() { return ["pre", 0] },
+      attrs: {id: {default: null}},
+      parseDOM: [{tag: "pre", getAttrs(dom) { return {id: dom.id} }}],
+      toDOM(node) { let {id} = node.attrs; return id == "" ? ["pre", 0] : ["pre", {id}, 0] },
     },
     code: {
       content: "inline*",
