@@ -231,72 +231,76 @@
 
 <aside>
   <section><article>
-    <h3 id="table-des-matieres" class="yellow">table des matières</h3>
+    <h3 id="table-des-matieres" class="yellow">renferences of this article</h3>
     <div id="body-inner">
-    <div class="notices yellow">
-    <h4 id="de-vos" class="yellow">references of the books cited by Dirk DE VOS:</h4>
     <section><article>
-      <ul>
-        <li>in french:
-          <pre id="de-vos-1">
-            <table>
-              <thead>
-              <tr>
-              <th><span hidden="">hidden</span></th>
-              <th><span hidden="">hidden</span></th>
-              </tr>
-              </thead>
-              <tbody>
-              <tr>
-              <td>Title</td>
-              <td>Published in</td>
-              <td>ISBN-10</td>
-              </tr>
-              <tr>
-              <td>Hans Memling : l'œuvre complet</td>
-              <td>1994</td>
-              <td>2-226-06992-5</td>
-              </tr>
-              <tr>
-              <td>Hans Memling : catalogue</td>
-              <td>1994</td>
-              <td>90-5544-028-0</td>
-              </tr>
-              </tbody>
-            </table>
-          </pre>
-        </li>
-        <li>in english:
-          <pre id="de-vos-2">
-            <table>
-              <thead>
-              <tr>
-              <th><span hidden="">hidden</span></th>
-              <th><span hidden="">hidden</span></th>
-              </tr>
-              </thead>
-              <tbody>
-              <tr>
-              <td>Title</td>
-              <td>Published in</td>
-              <td>ISBN-10</td>
-              </tr>
-              <tr>
-              <td>Hans Memling: The Complete Works</td>
-              <td>1994</td>
-              <td>0810936496</td>
-              </tr>
-              <tr>
-              <td>Hans Memling: Catalogue</td>
-              <td>1994</td>
-              <td>9055440299</td>
-              </tr>
-              </tbody>
-            </table>
-          </pre>
-        </li>
-      </ul>
+      <p>For this article we are indebted to reference works, especially those of <a href="#de-vos-1" id="renvoi-de-vos-1" class="yellow">Dirk DE VOS, "Hans Memling - The Complete Works"</a> and <a href="#de-vos-2" id="renvoi-de-vos-2" class="yellow">"Hans Memling"</a>.</p>
     </article></section>
+
+    <section><article>
+    <h4 id="de-vos" class="yellow">references of the books cited by Dirk DE VOS:</h4>
+      <section><article>
+        <ul>
+          <li>in french:
+            <pre id="de-vos-1">
+              <table>
+                <thead>
+                <tr>
+                <th><span hidden="">hidden</span></th>
+                <th><span hidden="">hidden</span></th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                <td>Title</td>
+                <td>Published in</td>
+                <td>ISBN-10</td>
+                </tr>
+                <tr>
+                <td>Hans Memling : l'œuvre complète</td>
+                <td>1994</td>
+                <td>2-226-06992-5</td>
+                </tr>
+                <tr>
+                <td>Hans Memling : catalogue</td>
+                <td>1994</td>
+                <td>90-5544-028-0</td>
+                </tr>
+                </tbody>
+              </table>
+            </pre>
+          </li>
+          <li>in english:
+            <pre id="de-vos-2">
+              <table>
+                <thead>
+                <tr>
+                <th><span hidden="">hidden</span></th>
+                <th><span hidden="">hidden</span></th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                <td>Title</td>
+                <td>Published in</td>
+                <td>ISBN-10</td>
+                </tr>
+                <tr>
+                <td>Hans Memling: The Complete Works</td>
+                <td>1994</td>
+                <td>0810936496</td>
+                </tr>
+                <tr>
+                <td>Hans Memling: Catalogue</td>
+                <td>1994</td>
+                <td>9055440299</td>
+                </tr>
+                </tbody>
+              </table>
+            </pre>
+          </li>
+        </ul>
+      </article></section>
       <footer>
         <p><a href="#renvoi-de-vos-1" title="renvoi-de-vos-1">↑ back to this page</a> <a href="#renvoi-de-vos-2" title="renvoi-de-vos-2">↑ back to page 2</a></p>
       </footer>
@@ -504,19 +508,51 @@
           <li>Read the <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:6" title="https://francois-vidit.com/docs/fr/saint-jean/page:6" class="yellow">text of the Legend of Catherine of Alexandria according to chapter 168 of <cite>the Golden Legend</cite></a>.</li>
         </ul>
         <p>It is quite likely that Memling relied on this text.</p>
-        <p>Although modern historians believe that Catherine of Alexandria has not really existed <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">1</a></sup> and her cult was removed from the general calendar of the catholic church in 1970 <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">2</a></sup> , according to her legend, <span style="color: #e6a64d;">Catherine</span> is a <span style="color: #e6a64d;">patrician</span> known for her <span style="color: #e6a64d;">exceptional education</span> and her <span style="color: #e6a64d;">great beauty</span>, who lived in Alexandria in the 3<sup style="color:#555;">rd</sup> or 4<sup style="color:#555;">th</sup> centuries.</p>
-        <p>She <span style="color: #e6a64d;">defies</span> the roman emperor of the time, <a href="https://en.wikipedia.org/wiki/Maxentius" title="https://en.wikipedia.org/wiki/Maxentius" class="yellow">Maxentius</a>, who then threatened christians with public abjuration.
-        Maxentius is surprised to find this exceptional woman in front of him but he takes up the challenge and, defeated at the end of a long spiritual battle full of twists and turns, offers her to marry him.
-        Catherine, in the name of her faith, refused and chose to undergo martyrdom.
-        At the time of his execution, Jesus' own voice would then have been heard from heaven to tell him:
-        <span style="color: #e6a64d;">«Come, my beloved, my beautiful one!»</span></p>
-        <p>Due to the presence of Saint Catherine, the triptych has sometimes been called <span style="color: #e6a64d;">“the mystical marriage of Saint Catherine”</span> <sup id="fnref1:5"><a href="#fn:5" class="footnote-ref">3</a></sup> .
-        In fact, they are <span style="color: #e6a64d;">two men</span>, who <span style="color: #e6a64d;">are the main characters</span> by the quantity of scenes that tell their story: they stand like <span style="color: #e6a64d;">two twins</span>, standing on either side of the Virgin on their buttocks.</p>
-        <h3 id="les-deux-jean" class="yellow">the two john</h3>
-        <h4 id="jean-le-baptiste-2" class="yellow">john the baptist</h4>
-        <p>On the backside, on the left, the presence of <span style="color: #e6a64d;">the white lamb</span> allows us to identify <span style="color: #e6a64d;">the man wearing the</span> magnificent <span style="color: #e6a64d;">purple tunic</span> as <a href="https://en.wikipedia.org/wiki/John_the_Baptist" title="https://en.wikipedia.org/wiki/John_the_Baptist" id="jean-le-baptiste" class="yellow">John the Baptist</a>.
-        This recalls the word he spoke to his disciples to <span style="color: #e6a64d;">announce</span> <span style="color: #e6a64d;">Jesus' coming into the world</span> <span style="color: #999;">(John 1:29)</span>: <span style="color: #e6a64d;">«<ruby style="color:#e6a64d;" lang="en">This is&nbsp;the&nbsp;lamb&nbsp;of&nbsp;god<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce&nbsp;agnus&nbsp;dei</rt><rp>)</rp></ruby>»</span>.
-        In fact, John also refers with his right arm to the child Jesus.</p>
+        <p>Although modern historians believe that Catherine of Alexandria has not really existed <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">note 1</a></sup> and her cult was removed from the general calendar of the catholic church in <time datetime="1970">1970</time> <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">note 2</a></sup>.</p>
+      </article></section>
+    </article></section>
+
+    <section><article>
+      <h4 class="yellow">catherine d'alexandrie, sa légende au XVème siècle</h4>
+      <section><article>
+        <p>According to her legend, <span style="color: #e6a64d;">Catherine</span> is a <span style="color: #e6a64d;">patrician</span> known for her <span style="color: #e6a64d;">exceptional education</span> and her <span style="color: #e6a64d;">great beauty</span></p>
+        <p>She may have lived in Alexandria in the 3<sup style="color:#555;">rd</sup> or 4<sup style="color:#555;">th</sup> centuries.</p>
+        <p>She <span style="color: #e6a64d;">defies</span> the roman emperor of the time, <a href="https://en.wikipedia.org/wiki/Maxentius" title="https://en.wikipedia.org/wiki/Maxentius" class="yellow">Maxentius</a>, who then threatened christians with public abjuration.</p>
+        <p>Maxence is surprised by this extraordinary woman, who offends and humiliates him by the relevance of her conversation.</p>
+        <p>He struggles to maintain his dignity and, defeated at the end of a long spiritual battle full of twists and turns, proposes to her to marry him.</p>
+        <p>Catherine, in the name of her faith, refused and chose to undergo martyrdom.</p>
+        <p>At the time of his execution, Jesus' own voice would then have been heard from heaven to tell him:</p>
+        <blockquote>
+          <p><span style="color: #e6a64d;">«Come, my beloved, my beautiful one!»</span></p>
+        </blockquote>
+        <p>Due to the presence of Saint Catherine, the triptych has sometimes been called <span style="color: #e6a64d;">“the mystical marriage of Saint Catherine”</span> <sup id="fnref1:5"><a href="#fn:5" class="footnote-ref">note 3</a></sup>.</p>
+      </article></section>
+    </article></section>
+  </article></section>
+    
+  <section><article>
+    <h3 id="les-deux-jean" class="yellow">the two john</h3>
+    <section><article>
+      <h4 id="jean-le-baptiste-2" class="yellow">two twins: john the baptist, john the evangelist</h4>
+      <section><article>
+        <p>But more than Catherine of Alexandria, <span style="color: #e6a64d;">two men</span> are the main characters of the work:</p>
+        <ol>
+          <li>the many details that tell their two legends throughout the interior of the triptych <span style="color: #999;">(central panelm, right and left flaps)</span>,</li>
+          <li>both are called <span style="color: #e6a64d;">"John"</span>, which, in a hollow way, materializes in the work <span style="color: #e6a64d;">the commissioning institution</span>, <span style="color: #e6a64d;">Saint John's Hospital in Bruges</span> and justifies the current official name, <span style="color: #e6a64d;"><cite>Triptych of John the Baptist and John the Evangelist</cite></span>.</li>
+        </ol>
+        <p>they stand as <span style="color: #e6a64d;">twins</span>, standing, right and left, on either side of the virgin, framed, on the back.</p>
+      </article></section>
+    </article></section>
+
+    <section><article>
+      <h4 id="jean-le-baptiste-2" class="yellow">john the baptist</h4>
+      <section><article>
+        <p>On the back, on the left, the presence of a <span style="color: #e6a64d;">white lamb</span> allows us to identify <span style="color: #e6a64d;">the man wearing the</span> magnificent <span style="color: #e6a64d;">purple tunic</span> as <a href="https://en.wikipedia.org/wiki/John_the_Baptist" title="https://en.wikipedia.org/wiki/John_the_Baptist" id="jean-le-baptiste" class="yellow">John the Baptist</a>.</p>
+        <p>The lamb recalls the word that John the Baptist spoke to his disciples to <span style="color #e6a64d;">announce</span> the coming of <span style="color: #e6a64d;">Jesus into the world</span> <span style="color: #999;">(John chapter 1 verse 29)</span>:
+        <blockquote>
+          <p><span style="color: #e6a64d;">«<ruby style="color:#e6a64d;" lang="en">This is&nbsp;the&nbsp;lamb&nbsp;of&nbsp;god<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce&nbsp;agnus&nbsp;dei</rt><rp>)</rp></ruby>»</span>.</p>
+        </blockquote>
+        <p>In fact, John also refers with his right arm to the child Jesus.</p>
       </article></section>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -537,12 +573,23 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-1920.jpg 1920w"></picture><figcaption>John the Baptist</figcaption>
       </figure>
-      <p>The lamb is a new symbol of the christian faith.
-      In contrast to the ancient hebraic faith, where, in order to please god, animals had to be sacrificed to him, christianity affirms that <span style="color: #e6a64d;">the only true sacrifice that pleases god</span> is that which <span style="color: #e6a64d;">the believer makes of himself</span>, in imitation of Jesus and in reference to this word of the prophet <a href="https://en.wikipedia.org/wiki/Isaiah" title="https://en.wikipedia.org/wiki/Isaiah" id="isaie" class="yellow">Isaiah</a> <span style="color: #999;">(Isaiah, 53-7)</span>:
-      <span style="color: #e6a64d;">«Abused, he humbles himself, he does not open his mouth: like <span style="text-decoration: underline;">a lamb</span> leads to the slaughterhouse»</span>.</p>
-      <p>Under his purple tunic is <span style="color: #e6a64d;">another tunic</span>, light brown, which the text tells us is <span style="color: #e6a64d;">camel hair</span> <span style="color: #999;">(Mark 1:6)</span>, imitating the hair garment of the prophet <a href="https://en.wikipedia.org/wiki/Elijah" title="https://en.wikipedia.org/wiki/Elijah" id="elie" class="yellow">Elijah</a> <span style="color: #999;">(2 Kings 1:8)</span>.</p>
-        <p>This same hair garment also refers to an episode of Genesis <span style="color: #999;">(Genesis 27:1-40)</span> during which <a href="https://en.wikipedia.org/wiki/Jacob" title="https://en.wikipedia.org/wiki/Jacob" id="jacob" class="yellow">Jacob</a>, on the advice of his mother <a href="https://en.wikipedia.org/wiki/Rebecca" title="https://en.wikipedia.org/wiki/Rebecca" id="rebecca" class="yellow">Rebecca</a>, poses as his brother <a href="https://en.wikipedia.org/wiki/Esau" title="https://en.wikipedia.org/wiki/Esau" id="esau" class="yellow">Esau</a> who is very <span style="color: #e6a64d;">hairy</span>, with his blind father, <a href="https://en.wikipedia.org/wiki/Isaac" title="https://en.wikipedia.org/wiki/Isaac" id="isaac" class="yellow">Isaac</a>, by wearing <span style="color: #e6a64d;">a hair garment</span>. His cunning allows him to be unduly blessed and thus become the sole heir in Esau's place. This tunic is also a sign of domination of animality, and in the case of John the Baptist, the camel being an animal that allows to cross the desert, of domination of animality by asceticism.</p>
-      <p>On the other side, on the right, <span style="color: #e6a64d;">another man</span> standing, dressed like a priest, in <span style="color: #e6a64d;">red</span>, makes with his right hand the sign of the cross on <span style="color: #e6a64d;">a cup</span>, in which there is <span style="color: #e6a64d;">a serpent</span>: it is <a href="https://en.wikipedia.org/wiki/John_the_Apostle" title="https://en.wikipedia.org/wiki/John_the_Apostle" id="jean-l-evangeliste-4" class="yellow">John the Evangelist</a>.</p>
+      <section><article>
+        <p>The lamb is a new symbol of the christian faith.</p>
+        <p>In contrast to the ancient hebraic faith, where, in order to please god, animals had to be sacrificed to him, christianity affirms that <span style="color: #e6a64d;">the only true sacrifice that pleases god</span> is that which <span style="color: #e6a64d;">the believer makes of himself</span>, in imitation of Jesus and in reference to this word of the prophet <a href="https://en.wikipedia.org/wiki/Isaiah" title="https://en.wikipedia.org/wiki/Isaiah" id="isaie" class="yellow">Isaiah</a> <span style="color: #999;">(Isaiah, chapter 53 verset 7)</span>:</p>
+        <blockquote>
+          <p><span style="color: #e6a64d;">«Abused, he humbles himself, he does not open his mouth: like <span style="text-decoration: underline;">a lamb</span> leads to the slaughterhouse»</span>.</p>
+        </blockquote>
+        <p>Under his purple tunic is <span style="color: #e6a64d;">another tunic</span>, light brown, which the text tells us is <span style="color: #e6a64d;">camel hair</span> <span style="color: #999;">(Mark chapter 1 verse 6)</span>, imitating the hair garment of the prophet <a href="https://en.wikipedia.org/wiki/Elijah" title="https://en.wikipedia.org/wiki/Elijah" id="elie" class="yellow">Elijah</a> <span style="color: #999;">(2 Kings chapter 1 verse 8)</span>.</p>
+        <p>This same hair garment also refers to an episode of Genesis <span style="color: #999;">(Genesis 27:1-40)</span> during which <a href="https://en.wikipedia.org/wiki/Jacob" title="https://en.wikipedia.org/wiki/Jacob" id="jacob" class="yellow">Jacob</a>, on the advice of his mother <a href="https://en.wikipedia.org/wiki/Rebecca" title="https://en.wikipedia.org/wiki/Rebecca" id="rebecca" class="yellow">Rebecca</a>, poses as his brother <a href="https://en.wikipedia.org/wiki/Esau" title="https://en.wikipedia.org/wiki/Esau" id="esau" class="yellow">Esau</a> who is very <span style="color: #e6a64d;">hairy</span>, with his blind father, <a href="https://en.wikipedia.org/wiki/Isaac" title="https://en.wikipedia.org/wiki/Isaac" id="isaac" class="yellow">Isaac</a>, by wearing <span style="color: #e6a64d;">a hair garment</span>.</p>
+        <p>His cunning allows him to be unduly blessed and thus become the sole heir in Esau's place. This tunic is also a sign of domination of animality, and in the case of John the Baptist, the camel being an animal that allows to cross the desert, of domination of animality by asceticism.</p>
+      </article></section>
+    </article></section>
+
+    <section><article>
+      <h4 id="jean-l-evangeliste-3" class="yellow">john the evangelist</h4>
+      <section><article>
+        <p>On the other side, on the right, <span style="color: #e6a64d;">another man</span> standing, dressed like a priest, in <span style="color: #e6a64d;">red</span>, makes with his right hand the sign of the cross on <span style="color: #e6a64d;">a cup</span>, in which there is <span style="color: #e6a64d;">a serpent</span>: it is <a href="https://en.wikipedia.org/wiki/John_the_Apostle" title="https://en.wikipedia.org/wiki/John_the_Apostle" id="jean-l-evangeliste-4" class="yellow">John the Evangelist</a>.</p>
+      </article></section>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-280.webp 280w,
@@ -562,22 +609,30 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1920.jpg 1920w"></picture><figcaption>John the Evangelist</figcaption>
       </figure>
-      <h4 id="jean-l-evangeliste-3" class="yellow">john the evangelist</h4>
-      <p>We recognize <a href="https://en.wikipedia.org/wiki/John_the_Apostle" title="https://en.wikipedia.org/wiki/John_the_Apostle" id="jean-l-evangeliste" class="yellow">John the Evangelist</a> as an episode of the <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" id="legende-doree-2" class="yellow">“Golden Legend”</a> <span style="color: #999;">(chapter 9)</span>, which we report <a href="#aristodeme" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" id="renvoi-aristodeme" class="yellow">here</a>.</p>
-      <p>John faces <span style="color: #e6a64d;">Aristodemus</span>, priest of the temple of Diana in Asia <span style="color: #999;">(probably Ephesus)</span>, who publicly challenges him to <span style="color: #e6a64d;">drink</span> a <span style="color: #e6a64d;">poisoned cup</span>.</p>
-      <p>The later makes, as Memling represents him, the <span style="color: #e6a64d;">sign of the cross</span>, drinks the cup but the poison does him no harm.</p>
-      <p>The <span style="color: #e6a64d;">serpent</span> also refers to a word that Jesus addressed to <a href="https://fr.wikipedia.org/wiki/Nicodème" title="https://fr.wikipedia.org/wiki/Nicodème" id="nicodeme" class="yellow">Nicodemus</a> <span style="color: #999;">(John 3:14)</span> <span style="color: #e6a64d;">«As Moses raised the serpent in the wilderness, so must the son of man be raised up, so that whoever believes may have eternal life in him»</span>.</p>
+        <section><article>      
+        <p>We recognize <a href="https://en.wikipedia.org/wiki/John_the_Apostle" title="https://en.wikipedia.org/wiki/John_the_Apostle" id="jean-l-evangeliste" class="yellow">John the Evangelist</a> as an episode of the <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" id="legende-doree-2" class="yellow">“Golden Legend”</a> <span style="color: #999;">(chapter 9)</span>, which we report <a href="#aristodeme" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" id="renvoi-aristodeme" class="yellow">here</a>.</p>
+        <p>John faces <span style="color: #e6a64d;">Aristodemus</span>, priest of the temple of Diana in Asia <span style="color: #999;">(probably Ephesus)</span>, who publicly challenges him to <span style="color: #e6a64d;">drink</span> a <span style="color: #e6a64d;">poisoned cup</span>.</p>
+        <p>The later makes, as Memling represents him, the <span style="color: #e6a64d;">sign of the cross</span>, drinks the cup but the poison does him no harm.</p>
+        <p>The <span style="color: #e6a64d;">serpent</span> also refers to a word that Jesus addressed to <a href="https://fr.wikipedia.org/wiki/Nicodème" title="https://fr.wikipedia.org/wiki/Nicodème" id="nicodeme" class="yellow">Nicodemus</a> <span style="color: #999;">(John 3:14)</span>:</p>
+        <blockquote>
+          <p><span style="color: #e6a64d;"><q>As Moses raised the serpent in the wilderness, so must the son of man be raised up, so that whoever believes may have eternal life in him</q></span>.</p>
+        </blockquote>
+      </article></section>
+    </article></section>
+    
+    <section><article>
       <h4 id="le-nom-de-jean" class="yellow">the name «john», its link with the institution, its etymology</h4>
-      <p>The many details that tell their two legends throughout the inner expanse of the triptych make them the <span style="color: #e6a64d;">main characters</span>.
-      Both are called <span style="color: #e6a64d;">«John»</span>, which, in the hollow, materializes in the work the <span style="color: #e6a64d;">sponsoring institution</span>, <span style="color: #e6a64d;">the <span style="text-decoration: underline;">St. John</span> Hospital of Bruges</span> and justifies the current official name, <span style="color: #e6a64d;">“Triptych of John the Baptist and John the Evangelist”</span>.</p>
-      <p>The etymology of the first name "John" comes from the hebrew <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="fr">Yo<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">יו</rt><rp>)</rp>kha<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">ח</rt><rp>)</rp>nan<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">נן</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span>, whose pronunciation is:</p>
-      <p></p><div style="text-align: center;"><audio controls="1" title="prononciation de Yokhanan en hébreu" alt="here"><source src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/prononciation-yokhanan.mp3">Your browser does not support the audio tag.</audio></div></p>
-      <p>which literally means <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="fr">god<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">Yo</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span> is <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="fr">grace<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">khanan</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span> or <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="fr">mercy<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">khanan</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span>.
-      As «god» also means in hebrew «what is», it also means <span style="color: #e6a64d;">«the one who is»</span> <span style="color: #e6a64d;">«grace»</span> or <span style="color: #e6a64d;">«mercy»</span>.  <p></p>
-      <p>Although <span style="color: #e6a64d;">this first name</span> was used by several minor figures in the history of the hebrew people, it <span style="color: #e6a64d;">only became</span> very <span style="color: #e6a64d;">popular</span> after the appearance of christianity <span style="color: #e6a64d;">in the christian world</span>, following the very important role each of them played, roles that we will soon detail.</p>
-      <p>On the other side of virgin Mary, on the front right, <span style="color: #e6a64d;">another woman</span>, dressed in <span style="color: #e6a64d;">a magnificent green wool tunic</span> as only Bruges produced in the 15<sup style="color:#555;">th</sup> century, <span style="color: #e6a64d;">reads</span>.
-      Her presence corresponds to that of <a href="#catherine-d-alexandrie" class="yellow">Catherine of Alexandria</a> on the front of the other side.
-      Behind her, <span style="color: #e6a64d;">a white stone tabernacle tower</span> tells us that it is <a href="https://en.wikipedia.org/wiki/Saint_Barbara" title="https://en.wikipedia.org/wiki/Saint_Barbara" id="barbe-la-grande-martyre" class="yellow">Barbara the great martyr</a> <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref">4</a></sup> .</p>
+      <section><article>
+        <h5 class="yellow">the etymology of the name «John» in Hebrew</h5>
+        <section><article>
+          <p>The etymology of the first name "John" comes from the hebrew <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="fr">Yo<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">יו</rt><rp>)</rp>kha<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">ח</rt><rp>)</rp>nan<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">נן</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span>, whose pronunciation is:</p>
+          <p><audio controls="1" title="prononciation de Yokhanan en hébreu"><source src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/prononciation-yokhanan.mp3" type="audio/mpeg">Your browser does not support the audio tag.</audio></p>
+          <p>which literally means <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="fr">god<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">Yo</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span> is <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="fr">grace<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">khanan</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span> or <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="fr">mercy<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">khanan</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span>.
+          As «god» also means in hebrew «what is», it also means <span style="color: #e6a64d;">«the one who is»</span> <span style="color: #e6a64d;">«grace»</span> or <span style="color: #e6a64d;">«mercy»</span>.  <p></p>
+          <p>Although <span style="color: #e6a64d;">this first name</span> was used by several minor figures in the history of the hebrew people, it <span style="color: #e6a64d;">only became</span> very <span style="color: #e6a64d;">popular</span> after the appearance of christianity <span style="color: #e6a64d;">in the christian world</span>, following the very important role each of them played, roles that we will soon detail.</p>
+          <p>On the other side of virgin Mary, on the front right, <span style="color: #e6a64d;">another woman</span>, dressed in <span style="color: #e6a64d;">a magnificent green wool tunic</span> as only Bruges produced in the 15<sup style="color:#555;">th</sup> century, <span style="color: #e6a64d;">reads</span>.
+          Her presence corresponds to that of <a href="#catherine-d-alexandrie" class="yellow">Catherine of Alexandria</a> on the front of the other side.
+          Behind her, <span style="color: #e6a64d;">a white stone tabernacle tower</span> tells us that it is <a href="https://en.wikipedia.org/wiki/Saint_Barbara" title="https://en.wikipedia.org/wiki/Saint_Barbara" id="barbe-la-grande-martyre" class="yellow">Barbara the great martyr</a> <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref">note 4</a></sup>.</p>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-280.webp 280w,
@@ -598,7 +653,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1920.jpg 1920w"></picture><figcaption>Barbara the great martyr</figcaption>
       </figure>
       <h3 id="barbe" class="yellow">barbara the great martyr</h3>
-      <p>As with <a href="#catherine-d-alexandrie" class="yellow">Catherine of Alexandria</a>, modern historians doubt the reality of her existence and her name has also been removed from the general calendar <sup id="fnref2:2"><a href="#fn:2" class="footnote-ref">2</a></sup> ; the text on which Memling based his representation is not part of the <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" id="legende-doree-2" class="yellow">Golden Legend</a> either but, like other texts, was added later.
+      <p>As with <a href="#catherine-d-alexandrie" class="yellow">Catherine of Alexandria</a>, modern historians doubt the reality of her existence and her name has also been removed from the general calendar <sup id="fnref2:2"><a href="#fn:2" class="footnote-ref">note 2</a></sup> ; the text on which Memling based his representation is not part of the <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" id="legende-doree-2" class="yellow">Golden Legend</a> either but, like other texts, was added later.
       We reproduce it in its entirety <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:17" title="https://francois-vidit.com/docs/fr/saint-jean/page:17" class="yellow">here</a>.</p>
       <p>According to his legend, Barbara lives in <a href="https://en.wikipedia.org/wiki/Nicomedia" title="https://en.wikipedia.org/wiki/Nicomedia" id="nicomedie" class="yellow">Nicomedia</a>, capital of the former province of <a href="https://en.wikipedia.org/wiki/Bithynia" title="https://en.wikipedia.org/wiki/Bithynia" id="bithynie" class="yellow">Bithynia</a>, which is located in the north of present-day Turkey and overlooks the Black Sea.
       Barbara has the defect of being beautiful..., so beautiful, that when he was very young, <span style="color: #e6a64d;">his father emprisoned her in a tower</span>!   </p>
@@ -698,7 +753,7 @@
   <p>We believe that this <span style="color: #e6a64d;">balance</span> is a remarkable feature of the society in which Memling lived and that the very important reform movement of the christian faith of that time, which historians call «<a href="https://en.wikipedia.org/wiki/Devotio_Moderna" title="https://en.wikipedia.org/wiki/Devotio_Moderna" id="devotio-moderna" class="yellow"><ruby lang="fr">modern&nbsp;devotion<rp>(</rp><rt lang="la">devotio&nbsp;moderna</rt><rp>)</rp></ruby></a>», cannot be ignored in order to better understand this point.</p>
   <p><span style="color: #999;">(a detailed historical presentation of "modern devotion" can be found <a href="#note-devotion-moderne" title="note présentation du mouvement «dévotion moderne»" id="renvoi-devotion-moderne" class="yellow">here</a>)</span></p>
   <h3 id="devotion-moderne" class="yellow">modern devotion</h3>
-  <p>In Flanders, at the time of Memling, for a book of Christian piety, <span style="color: #e6a64d;"><a href="https://en.wikipedia.org/wiki/Geert_Groote" title="https://en.wikipedia.org/wiki/Geert_Groote" id="imitation-de-jesus-christ" class="yellow">“<ruby>The&nbsp;imitation<rp>(</rp><rt>De&nbsp;imitatione</rt><rp>)</rp>&nbsp;<rp>(</rp><rt>&nbsp;</rt><rp>)</rp>of<rp>(</rp><rt>&nbsp;</rt><rp>)</rp>&nbsp;<rp>(</rp><rt>&nbsp;</rt><rp>)</rp>Jesus&nbsp;Christ<rp>(</rp><rt>Christi</rt><rp>)</rp></ruby>”</a></span>, is a huge publishing success <sup id="fnref1:4"><a href="#fn:4" class="footnote-ref">1</a></sup> .</p>
+  <p>In Flanders, at the time of Memling, for a book of Christian piety, <span style="color: #e6a64d;"><a href="https://en.wikipedia.org/wiki/Geert_Groote" title="https://en.wikipedia.org/wiki/Geert_Groote" id="imitation-de-jesus-christ" class="yellow">“<ruby>The&nbsp;imitation<rp>(</rp><rt>De&nbsp;imitatione</rt><rp>)</rp>&nbsp;<rp>(</rp><rt>&nbsp;</rt><rp>)</rp>of<rp>(</rp><rt>&nbsp;</rt><rp>)</rp>&nbsp;<rp>(</rp><rt>&nbsp;</rt><rp>)</rp>Jesus&nbsp;Christ<rp>(</rp><rt>Christi</rt><rp>)</rp></ruby>”</a></span>, is a huge publishing success <sup id="fnref1:4"><a href="#fn:4" class="footnote-ref">note 1</a></sup> .</p>
   <p>One can read:</p>
   <div class="notices yellow">
   <p><span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="#e6a64d" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"></path></svg></span>
@@ -786,7 +841,7 @@
   <li id="fn:4">
   <p>We follow the references given in Wikipedia's article (french edition) «l'Imitation de Jésus-Christ» (date: 2018 August 21st), namely:</p>
   <p>・ Yann Sordet, Un succès de librairie européen: l'Imitatio Christi (1470-1850), Paris, Bibliothèque Mazarine; Editions des cendres, 2012, 195 p. (ISBN 979-10-90853-01-0), p. 11.</p>
-  <p>According to specialists, its author is a monk: <a href="https://en.wikipedia.org/wiki/Thomas_à_Kempis" title="https://en.wikipedia.org/wiki/Thomas_%C3%A0_Kempis">Thomas A KEMPIS</a>. &nbsp;<a href="#fnref1:4" rev="footnote" class="footnote-backref">↩</a></p>
+  <p>According to specialists, its author is a monk: <a href="https://en.wikipedia.org/wiki/Thomas_à_Kempis" title="https://en.wikipedia.org/wiki/Thomas_%C3%A0_Kempis">Thomas A KEMPIS</a>. &nbsp;<a href="#fnref1:4" rev="footnote" class="footnote-backref">return to text ↩</a></p>
   </li>
   </ol>
   </div>
@@ -817,7 +872,7 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-1600.jpg 1600w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-1920.jpg 1920w"></picture><figcaption>details of the central panel, from left to right: the 4 capitals</figcaption>
   </figure>
-  <p>This way of ordering the composition, which is found in many of Memling's other works, takes up the techniques of page layout of illumination <sup id="fnref1:6"><a href="#fn:6" class="footnote-ref">1</a></sup> : the different scenes are staggered up to a very high placed horizon.</p>
+  <p>This way of ordering the composition, which is found in many of Memling's other works, takes up the techniques of page layout of illumination <sup id="fnref1:6"><a href="#fn:6" class="footnote-ref">note 1</a></sup> : the different scenes are staggered up to a very high placed horizon.</p>
   <p><span style="color: #e6a64d;">Small scenes</span> take place in the distance <span style="color: #e6a64d;">within the different frames</span> operated by the columns.</p>
   <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -899,7 +954,7 @@
   Both living in Sint-Jorisstraat, Vrelant and Memling were almost neighbours (...)</p>
   <p>From the point of view of a visually convincing spatial representation, the relationship between the two figures in the foreground and the rest of the table (... an) inconsistency governs the relationship between the main figure and the wood in the intermediate plane (...)</p>
   <p>From one work to another, we find the same cumulative layering of the different zones of the landscape up to a horizon placed very high (...) in Vrelant's work»</p>
-  <p>(quoted from Philippe LORENTZ's book referenced in the <a href="/docs/en/bruges/hopital-saint-jean/saint-jean#lorentz" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean#lorentz" id="renvoi-lorentz-2" class="yellow">bibliography</a>).&nbsp;<a href="#fnref1:6" rev="footnote" class="footnote-backref">↩</a></p>
+  <p>(quoted from Philippe LORENTZ's book referenced in the <a href="/docs/en/bruges/hopital-saint-jean/saint-jean#lorentz" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean#lorentz" id="renvoi-lorentz-2" class="yellow">bibliography</a>).&nbsp;<a href="#fnref1:6" rev="footnote" class="footnote-backref">return to text ↩</a></p>
   </li>
   </ol>
   </div>
@@ -1081,7 +1136,7 @@
   the tetrarch of Galilee and Perea, <a href="https://en.wikipedia.org/wiki/Herod_Antipas" title="https://en.wikipedia.org/wiki/Herod_Antipas" id="herode-antipas" class="yellow">Herod Antipas</a> married «<a href="https://en.wikipedia.org/wiki/Herod_II" title="https://en.wikipedia.org/wiki/Herod_II" id="herode-boethos" class="yellow">his brother Philip's wife</a> (<a href="https://en.wikipedia.org/wiki/Herodias" title="https://en.wikipedia.org/wiki/Herodias" id="herodiade">Herodias</a>)» <span style="color: #999;">(Mark chapter 6,17)</span>;
   As the jewish faith regards any marriage with his brother's wife as <span style="color: #e6a64d;">«defiling»</span> and <span style="color: #e6a64d;">forbids</span> it <span style="color: #999;">(Leviticus chap. 18:16; chap. 20:21)</span>, John publicly condemns it.</p>
   <p><span style="color: #e6a64d;">Herod feared</span> that this would provoke «<span style="color: #e6a64d;">a revolt</span>, the crowd seeming ready to follow all the advice of this man.
-  He therefore prefers to take him before any trouble occurs because of him, rather than to have to repent later if a movement takes place» <span style="color: #999;">(“Jewish Antiquities”, Book XVIII, chap. 5,118)</span> <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">1</a></sup>.</p>
+  He therefore prefers to take him before any trouble occurs because of him, rather than to have to repent later if a movement takes place» <span style="color: #999;">(“Jewish Antiquities”, Book XVIII, chap. 5,118)</span> <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">note 1</a></sup>.</p>
   <p>In the event of unrest caused by John's supporters, Herod had to answer to the roman authorities, who could dismiss him:</p>
   <p>he gives <span style="color: #e6a64d;">«the order to arrest John»</span> <span style="color: #999;">(Mark chapter 6,17)</span>.</p>
   <figure>
@@ -1111,7 +1166,7 @@
   <hr>
   <ol>
   <li id="fn:2">
-  <p>for information, this quote is in the past, I'm transposing it to the present.&nbsp;<a href="#fnref1:2" rev="footnote" class="footnote-backref">↩</a></p>
+  <p>for information, this quote is in the past, I'm transposing it to the present.&nbsp;<a href="#fnref1:2" rev="footnote" class="footnote-backref">return to text ↩</a></p>
   </li>
   </ol>
   </div>
@@ -1167,7 +1222,7 @@
   <p>Herod looks as if he liked his dance and, <span style="color: #e6a64d;">to avoid responsibility for John's death, says</span>:</p>
   <p>«"<span style="color: #e6a64d;">Ask me what you want</span>, and I'll give it to you, even if it's half my kingdom" <span style="color: #999;">(Mark, chap. 6:21-22)</span>.</p>
   <p>Salome goes out «to tell her mother, <span style="color: #e6a64d;">"What am I going to ask for?"</span>» Herodias replied: «<span style="color: #e6a64d;">"The head of John, the one who baptises"</span>. Immediately the girl» hastened «to return to the king, and» made him «this request: <span style="color: #e6a64d;">"I want you to give me immediately on a plate the head of John the Baptist"</span>. <span style="color: #999;">(Mark, chap. 6, 24-29)</span></p>
-  <p>The proof that this whole story is indeed a smokescreen is that if Salome asks Herod <span style="color: #e6a64d;">«the death of his father <a href="https://en.wikipedia.org/wiki/Herod_II" title="https://en.wikipedia.org/wiki/Herod_II" id="herode-boethos-2" class="yellow">Philip</a> or her mother <a href="https://en.wikipedia.org/wiki/Herodias" title="https://en.wikipedia.org/wiki/Herodias" id="herodiade-2" class="yellow">Herodias</a>»</span>, Herod cannot consent to it <span style="color: #999;">(Golden Legend chap. 121,I. <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">1</a></sup> )</span>.  </p>
+  <p>The proof that this whole story is indeed a smokescreen is that if Salome asks Herod <span style="color: #e6a64d;">«the death of his father <a href="https://en.wikipedia.org/wiki/Herod_II" title="https://en.wikipedia.org/wiki/Herod_II" id="herode-boethos-2" class="yellow">Philip</a> or her mother <a href="https://en.wikipedia.org/wiki/Herodias" title="https://en.wikipedia.org/wiki/Herodias" id="herodiade-2" class="yellow">Herodias</a>»</span>, Herod cannot consent to it <span style="color: #999;">(Golden Legend chap. 121,I. <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">note 1</a></sup> )</span>.  </p>
   <p>A guard is going to «behead John in the prison» <span style="color: #999;">(Mark, chap. 6,22-23)</span>.</p>
   <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -1192,7 +1247,7 @@
   <hr>
   <ol>
   <li id="fn:1">
-  <p>words of <a href="https://en.wikipedia.org/wiki/Jerome" title="https://en.wikipedia.org/wiki/Jerome" id="saint-jerome" class="yellow">St. Jerome</a> reported by Jacobus da Varagine.&nbsp;<a href="#fnref1:1" rev="footnote" class="footnote-backref">↩</a></p>
+  <p>words of <a href="https://en.wikipedia.org/wiki/Jerome" title="https://en.wikipedia.org/wiki/Jerome" id="saint-jerome" class="yellow">St. Jerome</a> reported by Jacobus da Varagine.&nbsp;<a href="#fnref1:1" rev="footnote" class="footnote-backref">return to text ↩</a></p>
   </li>
   </ol>
   </div>
@@ -1286,12 +1341,12 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-1600.jpg 1600w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-1920.jpg 1920w"></picture><figcaption>detail of the central panel, “the head of John the Baptist in the opening of a wall”</figcaption>
   </figure>
-  <p>According to legend, the head was buried separately by <span style="color: #e6a64d;">a potter from the city of Emesse</span>, the current <a href="https://en.wikipedia.org/wiki/Homs" title="https://en.wikipedia.org/wiki/Homs" id="homs" class="yellow"><ruby lang="en">Homs<rp>(</rp><rt lang="ar">حمص</rt><rp>)</rp></ruby></a> in Syria, and appeared to Saint Marcellus <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">1</a></sup> who discovered it by following a star <span style="color: #999;">(Golden Legend chap. 121,III.)</span>.</p>
+  <p>According to legend, the head was buried separately by <span style="color: #e6a64d;">a potter from the city of Emesse</span>, the current <a href="https://en.wikipedia.org/wiki/Homs" title="https://en.wikipedia.org/wiki/Homs" id="homs" class="yellow"><ruby lang="en">Homs<rp>(</rp><rt lang="ar">حمص</rt><rp>)</rp></ruby></a> in Syria, and appeared to Saint Marcellus <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">note 1</a></sup> who discovered it by following a star <span style="color: #999;">(Golden Legend chap. 121,III.)</span>.</p>
   <div class="footnotes">
   <hr>
   <ol>
   <li id="fn:1">
-  <p>Saint Marcellus of Apamea in Syria (died in 389). Magistrate of the city, in the year 375, he left his wife and children, and devoted himself to a monastic life, was elected bishop of Apamea, Syria. He died murdered by the heathens while watching over the destruction of a temple of idols according to an edict of Emperor Theodosius. Celebrated on August 14th.&nbsp;<a href="#fnref1:1" rev="footnote" class="footnote-backref">↩</a></p>
+  <p>Saint Marcellus of Apamea in Syria (died in 389). Magistrate of the city, in the year 375, he left his wife and children, and devoted himself to a monastic life, was elected bishop of Apamea, Syria. He died murdered by the heathens while watching over the destruction of a temple of idols according to an edict of Emperor Theodosius. Celebrated on August 14th.&nbsp;<a href="#fnref1:1" rev="footnote" class="footnote-backref">return to text ↩</a></p>
   </li>
   </ol>
   </div>
@@ -1360,7 +1415,7 @@
   <p>The story starts on the central panel:</p>
   <p>«<span style="color: #e6a64d;">John</span> was preaching at Ephesus when he was arrested by the proconsul and invited to sacrifice to the gods.
   As he refused, he was thrown into prison; a letter was then sent to the <span style="color: #e6a64d;">Emperor Domitian</span> designating him as a sacrilegious magician, contender of the gods and worshipper of the Crucified.
-  By order of Domitian, John was then taken to Rome where, after having derisively cut his hair, in front of the <span style="color: #e6a64d;">gate</span> of the city called «<span style="color: #e6a64d;">Latin</span>», he was flogged and thrown into a cauldron of boiling oil under which a fiery fire was burning» <span style="color: #999;">(chap. 65)</span> <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">1</a></sup> .</p>
+  By order of Domitian, John was then taken to Rome where, after having derisively cut his hair, in front of the <span style="color: #e6a64d;">gate</span> of the city called «<span style="color: #e6a64d;">Latin</span>», he was flogged and thrown into a cauldron of boiling oil under which a fiery fire was burning» <span style="color: #999;">(chap. 65)</span> <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">note 1</a></sup> .</p>
   <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/rome-280.webp 280w,
@@ -1385,7 +1440,7 @@
   So, in this place, Christians have built a church, and today is solemnly celebrated as that of John's martyrdom.».</p>
   <p>The representation of Memling shows on the horizon on the left, this <span style="color: #e6a64d;">church</span>, on the right, the <span style="color: #e6a64d;">Colosseum of Rome</span> and the <span style="color: #e6a64d;">Latin Gate</span>.</p>
   <p>«The emperor, realizing that he was not renouncing preaching, exiled him to <span style="color: #e6a64d;">the island of Patmos</span>», <span style="color: #999;">(the departure for Patmos appears in the middle: some men board a boat)</span> «where, in solitude, he wrote the <span style="color: #e6a64d;">Apocalypse» <span style="color: #999;"></span>(chap. 9)</span>.</p>
-  <p>The right inner panel is entirely dedicated to the visions John had in Patmos <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">2</a></sup>.</p>
+  <p>The right inner panel is entirely dedicated to the visions John had in Patmos <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">note 2</a></sup>.</p>
   <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-280.webp 280w,
@@ -1409,7 +1464,7 @@
   <p>Memling represents the apostle, sitting on a circular rock, the island of Patmos in the middle of the Aegean Sea.</p>
   <p>He holds a feather and a penknife in his hand, and on his knees one can see a notebook.
   John is represented when he has not yet even begun to write, <span style="color: #e6a64d;">in the blink of an eye</span>, at the very moment when he is seized by the <span style="color: #e6a64d;">«Apocalypse»</span>, which in ancient Greek means <span style="color: #e6a64d;">«unveiling»</span>: these visions appear above him in the sky, on the water and on the nearby land on all the rest of the shutter.  </p>
-  <p>We choose to follow John's own way to tell <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref">3</a></sup> the unveiling in the text <span style="color: #999;">(Apocalypse 4:2-6)</span>, which begins at the top left of the panel: this way it is possible to compare the text with Memling's representation of it.</p>
+  <p>We choose to follow John's own way to tell <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref">note 3</a></sup> the unveiling in the text <span style="color: #999;">(Apocalypse 4:2-6)</span>, which begins at the top left of the panel: this way it is possible to compare the text with Memling's representation of it.</p>
   <p><sup>02</sup>
   «With that, I fell into <span style="color: #e6a64d;">ecstasy</span> and I saw a <span style="color: #e6a64d;">throne</span> standing in <span style="color: #e6a64d;">heaven</span>, and <span style="color: #e6a64d;">the one</span> who was sitting on the throne,</p>
   <p><sup>03</sup>
@@ -1463,14 +1518,14 @@
   <hr>
   <ol>
   <li id="fn:1">
-  <p>the quotation that follows is past; for information, I transpose it here to present.&nbsp;<a href="#fnref1:1" rev="footnote" class="footnote-backref">↩</a></p>
+  <p>the quotation that follows is past; for information, I transpose it here to present.&nbsp;<a href="#fnref1:1" rev="footnote" class="footnote-backref">return to text ↩</a></p>
   </li>
   <li id="fn:2">
-  <p>the extracts of the text of the Apocalypse that refer to the right panel can be found <a href="#apocalypse" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse">here</a>&nbsp;<a href="#fnref1:2" rev="footnote" class="footnote-backref">↩</a></p>
+  <p>the extracts of the text of the Apocalypse that refer to the right panel can be found <a href="#apocalypse" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse">here</a>&nbsp;<a href="#fnref1:2" rev="footnote" class="footnote-backref">return to text ↩</a></p>
   </li>
   <li id="fn:3">
   <p>The text of Apocalypse is addressed to the "seven churches that are in Asia Minor" ("Ephesus, Smyrna, Pergamos, Thyatira, Sardis, Philadelphia and Laodicea", Apocalypse 1:4) in the symbolic language of the Jewish scriptures.</p>
-  <p>It exhorts them to a transcendent reality that will enable them to overcome not only persecutions, whether Roman or Jewish, but also their own inadequacies <span style="color: #999;">(Apocalypse chap. 2-3)</span> through new hope in Christ at the end of time.&nbsp;<a href="#fnref1:3" rev="footnote" class="footnote-backref">↩</a></p>
+  <p>It exhorts them to a transcendent reality that will enable them to overcome not only persecutions, whether Roman or Jewish, but also their own inadequacies <span style="color: #999;">(Apocalypse chap. 2-3)</span> through new hope in Christ at the end of time.&nbsp;<a href="#fnref1:3" rev="footnote" class="footnote-backref">return to text ↩</a></p>
   </li>
   </ol>
   </div>

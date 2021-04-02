@@ -190,7 +190,7 @@
   <section><article>
     <h3 id="a-propos-de-cet-article" class="yellow">références de cet article</h3>
     <section><article>
-      <p>Pour réaliser cet article, nous sommes redevables de travaux de référence, particulièrement ceux de <a href="#de-vos-1" id="renvoi-de-vos-1" class="yellow">Dirk DE VOS, “Hans Memling - L'œuvre complet”</a> et <a href="#de-vos-2" id="renvoi-de-vos-2" class="yellow">“Hans Memling”</a>.</p>
+      <p>Pour réaliser cet article, nous sommes redevables de travaux de référence, particulièrement ceux de <a href="#de-vos-1" id="renvoi-de-vos-1" class="yellow">Dirk DE VOS, “Hans Memling - L'œuvre complète”</a> et <a href="#de-vos-2" id="renvoi-de-vos-2" class="yellow">“Hans Memling”</a>.</p>
     </article></section>
 
     <section><article>
@@ -213,7 +213,7 @@
                 <td>ISBN-10</td>
                 </tr>
                 <tr>
-                <td>Hans Memling: l'œuvre complet</td>
+                <td>Hans Memling: l'œuvre complète</td>
                 <td>1994</td>
                 <td>2-226-06992-5</td>
                 </tr>
@@ -458,7 +458,7 @@
       <section><article>
         <p><a href="https://fr.wikipedia.org/wiki/Catherine_d'Alexandrie" title="https://fr.wikipedia.org/wiki/Catherine_d'Alexandrie" id="catherine-d-alexandrie-2" class="yellow">Catherine d'Alexandrie</a> est, depuis la fin du XIII<sup style="color:#555;">ème</sup> siècle, une sainte très populaire dont la légende, rapportée par <a href="https://fr.wikipedia.org/wiki/Jacques_de_Voragine" title="https://fr.wikipedia.org/wiki/Jacques_de_Voragine" class="yellow">Jacques De Voragine</a> dans le <span style="color: #e6a64d;">chapître 168</span> de la <a href="https://fr.wikipedia.org/wiki/La_Légende_dorée" title="https:/fr.wikipedia.org/wiki/La_Légende_dorée" class="yellow">“La Légende Dorée”</a>, intitulé <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:6" title="https://francois-vidit.om/docs/fr/saint-jean/page:6" class="yellow">“sainte Catherine”</a> est passionnant.</p>
         <ul>
-          <li>Lire le <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:6" title="https://francois-vidit.com/docs/fr/saint-jean/page:6" class="yellow">texte de la Légende de Catherine d'Alexandrie selon le chapître 168 de <cite>La Légende Dorée</cite></a>.</li>
+          <li>Lire le <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16" title="https://francois-vidit.com/docs/fr/saint-jean/page:16" class="yellow">texte de la Légende de Catherine d'Alexandrie selon le chapître 168 de <cite>La Légende Dorée</cite></a>.</li>
         </ul>
         <p>Il est tout à fait probable que Memling se soit fondé sur ce texte.</p>
         <p>Les historiens modernes estiment que Catherine d'Alexandrie n'a pas réellement existé <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">note 1</a></sup>. L'église catholique elle-même le reconnaît: son culte a été retiré du calendrier général en <time datetime="1970">1970</time> <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">note 2</a></sup>.</p>
@@ -487,22 +487,26 @@
     <h3 id="les-deux-jean" class="yellow">les deux jean</h3>
     <section><article>
       <h4 class="yellow">deux jumeaux: jean le baptiste, jean l'évangéliste</h4>
-      <p>Mais plus que Catherine d'Alexandrie, <span style="color: #e6a64d;">deux hommes</span>, <span style="color: #e6a64d;">sont les personnages principaux</span> de l'œuvre par:</p>
-      <ol>
-        <li>les nombreux détails qui racontent leurs deux légendes sur toute l'étendue intérieure du triptyque <span style="color: #999;">(panneau central, volets droite et gauche)</span>,</li>
-        <li>tous deux sont appelés <span style="color: #e6a64d;">«Jean»</span>, ce qui, en creux, matérialise dans l'œuvre <span style="color: #e6a64d;">l'institution commanditaire</span>, <span style="color: #e6a64d;">l'Hôpital Saint-Jean de Bruges</span> et justifie l'appellation officielle actuelle, <span style="color: #e6a64d;"><cite>Triptyque de Jean le Baptiste et de Jean l'Évangéliste</cite></span>.</li>
-      </ol>
-      <p>ils se tiennent comme <span style="color: #e6a64d;">deux jumeaux</span>, debouts, à droite et à gauche, de part et d'autre de la vierge, en encadrement, sur le derrière.</p>
+      <section><article>
+        <p>Mais plus que Catherine d'Alexandrie, <span style="color: #e6a64d;">deux hommes</span>, <span style="color: #e6a64d;">sont les personnages principaux</span> de l'œuvre par:</p>
+        <ol>
+          <li>les nombreux détails qui racontent leurs deux légendes sur toute l'étendue intérieure du triptyque <span style="color: #999;">(panneau central, volets droite et gauche)</span>,</li>
+          <li>tous deux sont appelés <span style="color: #e6a64d;">«Jean»</span>, ce qui, en creux, matérialise dans l'œuvre <span style="color: #e6a64d;">l'institution commanditaire</span>, <span style="color: #e6a64d;">l'Hôpital Saint-Jean de Bruges</span> et justifie l'appellation officielle actuelle, <span style="color: #e6a64d;"><cite>Triptyque de Jean le Baptiste et de Jean l'Évangéliste</cite></span>.</li>
+        </ol>
+        <p>ils se tiennent comme <span style="color: #e6a64d;">deux jumeaux</span>, debouts, à droite et à gauche, de part et d'autre de la vierge, en encadrement, sur le derrière.</p>
+      </article></section>
     </article></section>
 
     <section><article>
       <h4 id="jean-le-baptiste-2" class="yellow">jean le baptiste</h4>
-      <p>Sur le derrière, à gauche, la présence d'un <span style="color: #e6a64d;">agneau blanc</span> nous permet d'identifier <span style="color: #e6a64d;">l'homme portant la</span> magnifique <span style="color: #e6a64d;">tunique violette</span> comme <a href="https://fr.wikipedia.org/wiki/Jean_le_Baptiste" title="https://fr.wikipedia.org/wiki/Jean_le_Baptiste" id="jean-le-baptiste" class="yellow">Jean le Baptiste</a>.</p>
-      <p>L'agneau rappelle la parole que Jean le Baptiste adressa à ses disciples pour <span style="color #e6a64d;">annoncer</span> la venue de <span style="color: #e6a64d;">Jésus dans le monde</span> <span style="color: #999;">(Jean, 1.29)</span>:</p>
-      <blockquote>
-        <p><span style="color: #e6a64d;"><ruby style="color:#e6a64d;" lang="fr">Voici&#160;l'agneau&#160;de&#160;dieu<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce&#160;agnus&#160;dei</rt><rp>)</rp></ruby></span>.</p>
-      </blockquote>
-      <p>Jean le Baptiste désigne aussi de son bras droit l'enfant Jésus.</p>
+      <section><article>
+        <p>Sur le derrière, à gauche, la présence d'un <span style="color: #e6a64d;">agneau blanc</span> nous permet d'identifier <span style="color: #e6a64d;">l'homme portant la</span> magnifique <span style="color: #e6a64d;">tunique violette</span> comme <a href="https://fr.wikipedia.org/wiki/Jean_le_Baptiste" title="https://fr.wikipedia.org/wiki/Jean_le_Baptiste" id="jean-le-baptiste" class="yellow">Jean le Baptiste</a>.</p>
+        <p>L'agneau rappelle la parole que Jean le Baptiste adressa à ses disciples pour <span style="color #e6a64d;">annoncer</span> la venue de <span style="color: #e6a64d;">Jésus dans le monde</span> <span style="color: #999;">(Jean, chapître 1 verset 29)</span>:</p>
+        <blockquote>
+          <p><span style="color: #e6a64d;"><ruby style="color:#e6a64d;" lang="fr">Voici&#160;l'agneau&#160;de&#160;dieu<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce&#160;agnus&#160;dei</rt><rp>)</rp></ruby></span>.</p>
+        </blockquote>
+        <p>Jean le Baptiste désigne aussi de son bras droit l'enfant Jésus.</p>
+      </article></section>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-280.webp 280w,
@@ -522,15 +526,17 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-1920.jpg 1920w"></picture><figcaption>Jean le Baptiste</figcaption>
       </figure>
-      <p>L'agneau est aussi un symbole nouveau propre à la foi chrétienne.</p>
-      <p>Au contraire de l'ancienne foi hébraïque où, pour plaire à dieu, il faut lui sacrifier des animaux, le christianisme naissant affirme que <span style="color: #e6a64d;">le seul véritable sacrifice qui plaît à dieu</span> est celui que <span style="color: #e6a64d;">le croyant lui fait de lui-même</span>, à l'imitation de Jésus et en référence à cette parole du prophète <a href="https://fr.wikipedia.org/wiki/Isaïe" title="https://fr.wikipedia.org/wiki/Isaïe" id="isaie" class="yellow">Isaïe</a> <span style="color: #999;">(Isaïe, 53-7)</span>:</p>
-      <blockquote>
-        <span style="color: #e6a64d;"><q>Maltraité, il s’humilie, il n’ouvre pas la bouche: comme <span style="text-decoration: underline;">un agneau</span> conduit à l’abattoir</q>.</span>
-      </blockquote>
-      <p>Sous sa tunique violette, se trouve <span style="color: #e6a64d;">une autre tunique</span>, brune claire, que le texte nous précise être de <span style="color: #e6a64d;">poil de chameau</span> <span style="color: #999;">(Marc 1:6)</span>, à l'imitation du vêtement de poil du prophète <a href="https://fr.wikipedia.org/wiki/Élie" title="https://fr.wikipedia.org/wiki/Élie" id="elie" class="yellow">Élie</a> <span style="color: #999;">(2 Rois 1:8)</span>.</p>
-      <p>Ce même vêtement de poil fait aussi référence à un épisode de <a href="https://fr.wikipedia.org/wiki/Livre_de_la_Genèse" title="https://fr.wikipedia.org/wiki/Livre_de_la_Genèse" id="elie" class="yellow">le Livre de la Génèse</a> <span style="color: #999;">(Gn 27:1-40)</span> durant lequel <a href="https://fr.wikipedia.org/wiki/Jacob" title="https://fr.wikipedia.org/wiki/Jacob" id="jacob" class="yellow">Jacob</a>, sur l'indication de sa mère <a href="https://fr.wikipedia.org/wiki/Rébecca_(Bible)" title="https://fr.wikipedia.org/wiki/Rébecca_(Bible)" id=rebecca" class="yellow">Rebecca</a>, se fait passer pour son frère <a href="https://fr.wikipedia.org/wiki/Ésaü" title="https://fr.wikipedia.org/wiki/Ésaü" id="esau" class="yellow>Ésaü</a> qui est très <span style="color: #e6a64d;">poilu</span>, auprès de son père aveugle, <a href="https://fr.wikipedia.org/wiki/Isaac" title="ttps://fr.wikipedia.org/wiki/Isaac" id="isaac" class="yellow">Isaac</a>, en revêtant un <span style="color: #e6a64d;">vêtement de poil</span>.</p>
-      <p>Sa ruse lui permet d'être indûment béni et de devenir ainsi l'unique hértier à la place d'Ésaü.</p>
-      <p>Cette tunique est aussi un signe de domination de l'animalité: dans le cas de Jean le Baptiste, le chameau étant un animal qui permet de traverser le désert, de domination l'animalité par l'ascèse.</p>
+      <section><article>
+        <p>L'agneau est aussi un symbole nouveau propre à la foi chrétienne.</p>
+        <p>Au contraire de l'ancienne foi hébraïque où, pour plaire à dieu, il faut lui sacrifier des animaux, le christianisme naissant affirme que <span style="color: #e6a64d;">le seul véritable sacrifice qui plaît à dieu</span> est celui que <span style="color: #e6a64d;">le croyant lui fait de lui-même</span>, à l'imitation de Jésus et en référence à cette parole du prophète <a href="https://fr.wikipedia.org/wiki/Isaïe" title="https://fr.wikipedia.org/wiki/Isaïe" id="isaie" class="yellow">Isaïe</a> <span style="color: #999;">(Isaïe, chapître 53 verset 7)</span>:</p>
+        <blockquote>
+          <span style="color: #e6a64d;"><q>Maltraité, il s’humilie, il n’ouvre pas la bouche: comme <span style="text-decoration: underline;">un agneau</span> conduit à l’abattoir</q>.</span>
+        </blockquote>
+        <p>Sous sa tunique violette, se trouve <span style="color: #e6a64d;">une autre tunique</span>, brune claire, que le texte nous précise être de <span style="color: #e6a64d;">poil de chameau</span> <span style="color: #999;">(Marc chapître 1 verset 6)</span>, à l'imitation du vêtement de poil du prophète <a href="https://fr.wikipedia.org/wiki/Élie" title="https://fr.wikipedia.org/wiki/Élie" id="elie" class="yellow">Élie</a> <span style="color: #999;">(2 Rois chapître 1 verset 8)</span>.</p>
+        <p>Ce même vêtement de poil fait aussi référence à un épisode de <a href="https://fr.wikipedia.org/wiki/Livre_de_la_Genèse" title="https://fr.wikipedia.org/wiki/Livre_de_la_Genèse" id="elie" class="yellow">le Livre de la Génèse</a> <span style="color: #999;">(Gn 27:1-40)</span> durant lequel <a href="https://fr.wikipedia.org/wiki/Jacob" title="https://fr.wikipedia.org/wiki/Jacob" id="jacob" class="yellow">Jacob</a>, sur l'indication de sa mère <a href="https://fr.wikipedia.org/wiki/Rébecca_(Bible)" title="https://fr.wikipedia.org/wiki/Rébecca_(Bible)" id=rebecca" class="yellow">Rebecca</a>, se fait passer pour son frère <a href="https://fr.wikipedia.org/wiki/Ésaü" title="https://fr.wikipedia.org/wiki/Ésaü" id="esau" class="yellow>Ésaü</a> qui est très <span style="color: #e6a64d;">poilu</span>, auprès de son père aveugle, <a href="https://fr.wikipedia.org/wiki/Isaac" title="ttps://fr.wikipedia.org/wiki/Isaac" id="isaac" class="yellow">Isaac</a>, en revêtant un <span style="color: #e6a64d;">vêtement de poil</span>.</p>
+        <p>Sa ruse lui permet d'être indûment béni et de devenir ainsi l'unique hértier à la place d'Ésaü.</p>
+        <p>Cette tunique est aussi un signe de domination de l'animalité: dans le cas de Jean le Baptiste, le chameau étant un animal qui permet de traverser le désert, de domination l'animalité par l'ascèse.</p>
+      </article></section>
     </article></section>
 
     <section><article>
@@ -566,7 +572,7 @@
         <p>Celui-ci fait, comme Memling le représente, le <span style="color: #e6a64d;">signe de croix</span>, boit la coupe mais le poison ne lui fait aucun mal.</p>
         <p>Le <span style="color: #e6a64d;">serpent</span> évoque aussi une parole que Jésus adresse à <a href="https://fr.wikipedia.org/wiki/Nicodème" title="https://fr.wikipedia.org/wiki/Nicodème" id="nicodeme" class="yellow">Nicodème</a> <span style="color: #999;">(Jean 3,14)</span>:</p>
         <blockquote>
-          <span style="color: #e6a64d;"><q>Comme Moïse a élevé le serpent dans le désert, il faut que le fis de l'homme soit élevé, afin que quiconque croit ait, en lui, la vie éternelle</q></span>.
+          <p><span style="color: #e6a64d;"><q>Comme Moïse a élevé le serpent dans le désert, il faut que le fis de l'homme soit élevé, afin que quiconque croit ait, en lui, la vie éternelle</q></span>.</p>
         </blockquote>
       </article></section>
     </article></section>
@@ -575,11 +581,13 @@
       <h4 id="le-nom-de-jean" class="yellow">le nom «jean», son étymologie</h4>
       <section><article>
         <h5 class="yellow">l'étymologie du nom «jean» en hébreu</h5>
-        <p>L'étymologie du prénom «Jean» vient de l'hébreu «<ruby style="color:#e6a64d;" lang="fr">Yo<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">יו</rt><rp>)</rp>kha<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">ח</rt><rp>)</rp>nan<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">נן</rt><rp>)</rp></ruby>», dont la prononciation est:</p>
-        <p><audio controls="1" title="prononciation de Yokhanan en hébreu" alt="ici"><source src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/prononciation-yokhanan.mp3">Your browser does not support the audio tag.</audio></p>
-        <p>qui signifie littéralement «<ruby style="color:#e6a64d;" lang="fr">dieu<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">Yo</rt><rp>)</rp></ruby>» est «<ruby style="color:#e6a64d;" lang="fr">grâce<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">khanan</rt><rp>)</rp></ruby>» ou «<ruby style="color:#e6a64d;" lang="fr">miséricorde<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">khanan</rt><rp>)</rp></ruby>».</p>
-        <p>Comme «dieu» veut dire aussi en hébreu «ce qui est», «Jean» signifie également <span style="color: #e6a64d;">«celui en qui est»</span> la <span style="color: #e6a64d;">«grâce»</span> ou  la <span style="color: #e6a64d;">«miséricorde»</span>.</p>
-        <p>Si <span style="color: #e6a64d;">ce prénom</span> a été porté par plusieurs personnages mineurs de l'histoire du peuple hébreu, il n'<span style="color: #e6a64d;">est devenu</span> très <span style="color: #e6a64d;">populaire</span> qu'après l'apparition du christianisme, <span style="color: #e6a64d;">dans le monde chrétien</span>, à la suite du rôle très important que chacun d'eux accomplit, rôles que nous détaillons bientôt en suivant le récit de la narration picturale de chacune de leur légende à travers les différentes scènes du triptyque.</p>
+        <section><article>
+          <p>L'étymologie du prénom «Jean» vient de l'hébreu «<ruby style="color:#e6a64d;" lang="fr">Yo<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">יו</rt><rp>)</rp>kha<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">ח</rt><rp>)</rp>nan<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">נן</rt><rp>)</rp></ruby>», dont la prononciation est:</p>
+          <p><audio controls="1" title="prononciation de Yokhanan en hébreu"><source src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/prononciation-yokhanan.mp3" type="audio/mpeg">Your browser does not support the audio tag.</audio></p>
+          <p>qui signifie littéralement «<ruby style="color:#e6a64d;" lang="fr">dieu<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">Yo</rt><rp>)</rp></ruby>» est «<ruby style="color:#e6a64d;" lang="fr">grâce<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">khanan</rt><rp>)</rp></ruby>» ou «<ruby style="color:#e6a64d;" lang="fr">miséricorde<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">khanan</rt><rp>)</rp></ruby>».</p>
+          <p>Comme «dieu» veut dire aussi en hébreu «ce qui est», «Jean» signifie également <span style="color: #e6a64d;">«celui en qui est»</span> la <span style="color: #e6a64d;">«grâce»</span> ou  la <span style="color: #e6a64d;">«miséricorde»</span>.</p>
+          <p>Si <span style="color: #e6a64d;">ce prénom</span> a été porté par plusieurs personnages mineurs de l'histoire du peuple hébreu, il n'<span style="color: #e6a64d;">est devenu</span> très <span style="color: #e6a64d;">populaire</span> qu'après l'apparition du christianisme, <span style="color: #e6a64d;">dans le monde chrétien</span>, à la suite du rôle très important que chacun d'eux accomplit, rôles que nous détaillons bientôt en suivant le récit de la narration picturale de chacune de leur légende à travers les différentes scènes du triptyque.</p>
+        </article></section>
       </article></section>
     </article></section>
   </article></section>
