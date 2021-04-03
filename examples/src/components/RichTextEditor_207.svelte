@@ -30,9 +30,9 @@
   </figure>
   
   <section><article>
-    <h2 class="yellow">une œuvre majeure d'Hans Memling</h2>
+    <h2 class="yellow">a major work by Hans Memling</h2>
     <section><article>
-      <h3 class="yellow">le triptyque de l'hôpital Saint-Jean de Bruges depuis le XV<sup>ème</sup> siècle</h3>
+      <h3 class="yellow">the triptych of the Saint John's Hospital in Bruges since the 15<sup>th</sup> century</h3>
       <section><article>
         <div class="notices yellow">
           <p>The triptych has been conceived and realised for the master altar of the new apse of the church of the Old St. John Hospital of Bruges (in Flemish: Brugge) built in 1473-74, where it still stands.</p>
@@ -45,32 +45,37 @@
     </article></section>
     
     <section><article>
-      <h3 class="yellow">à propos de cet article</h3>
+      <h3 class="yellow">about this article</h3>
       <section><article>
-        <h4 class="yellow">objectifs de cet article</h4>
+        <h4 class="yellow">objectives of this article</h4>
         <section><article>
-          <p>L'article que nous rédigeons se donne pour objectif de dépasser ce premier regard:</p>
+          <p>The article we are writing aims to go beyond this first glance:</p>
           <ol>
-            <li>first, by a photographic presentation of the triptych in its exhibition space,</li>
-            <li>then thrue a description of what it represents,</li>
-            <li>finally by relating the different elements of the image with the different texts at the origin of the represented scenes.</li>
-          </ol>
+              <li>we describe in detail the quantities of small scenes that Memling arranged in the landscape by means of <span style="color: #e6a64d;">quality reproductions</span> <a href="#note-1" title="note-1" id="reference-note-1"><sup style="color:#555;">note 1</sup></a>,</li>
+              <li>connect them to the sources, whether textual or pictorial, which it is reasonable to assume directly inspired Memling,</li>
+              <li>let us reconstruct a narrative that accounts for its coherence as well as its unity,</li>
+              <li>let us make available the texts we report on so that our choices can be judged.</li>
+            </ol>
+            <p>Through this, we should enable the reader to become more familiar with Bruges society in the late 15<sup>th</sup> century, in particular:
+            <ul>
+              <li>of the Christian wonder of Jacobus de Varagine's <cite>The Golden Legend</cite>,</li>
+              <li>from the sensibility of this current of religious reform, called “devotio moderna”,</li>
+              <li>of the economic opulence, urban social magnificence of the late 15<sup>th</sup> century Duchy of Burgundy.</li>
+            </ul>
+            <p>Our aim will have been achieved if the reader finds himself in a position to <span style="color: #e6a64d;">measure and thus deepen his own perception</span> of a work which we believe deserves to hold the attention <span style="color: #e6a64d;">so great is the brilliance of its presence</span>.</p>
         </article></section>
       </article></section>
-    </article></section>
-  </article></section>
 
-  <hr>
-  
-  <section><article>
-    <h3 id="a-propos-de-cet-article" class="yellow">about this article<a class="anchorjs-link " href="#a-propos-de-cet-article" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>
-      <h4 class="yellow">objectifs de cet article</h4>
       <section><article>
-        <div class="notices yellow">
-          <p>To produce this article, we are indebted to reference works, particularly those of <a href="#de-vos-1" id="renvoi-de-vos-1" class="yellow">Dirk DE VOS, “Hans Memling - The Complete Work”</a> and <a href="#de-vos-2" id="renvoi-de-vos-2" class="yellow">“Hans Memling”</a>.</p>
-          <p>However, our aim is not to produce an interpretation of the work here, but rather <span style="color: #e6a64d;">a description</span> and through it to make available the elements that make it possible to grasp it: <span style="color: #e6a64d;">quality reproductions</span> <a href="#note-1" title="note-1" id="renvoi-note-1"><sup style="color:#555;">1</sup></a> , <span style="color: #e6a64d;">the main sources of the work</span>, whether textual or pictorial, which today, even in the case of specialised paper works available, for example, in libraries, is too often done only by reference or implied.</p>
-          <p>Our goal will have been achieved if the reader is in a position to <span style="color: #e6a64d;">measure and thus deepen his or her own perception</span> of a work that we think deserves attention <span style="color: #e6a64d;">as much as is great the radiance of its presence</span>.</p>
-        </div>
+      <h4 class="yellow">outline of this article</h4>
+        <section><article>
+          <p>In the following pages, we present the different aspects of this work:</p>
+          <ol>
+            <li>first by a <a href="#presentation-photographic" title="presentation-photographic" id="renvoi-presentation-photographique" class="yellow">photographic presentation of the work in its exhibition space</a>, the new apse of the hospital church,</li>
+            <li>then by a <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:2#description" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:2#description" class="yellow">detailed description of what it represents</a>,</li>
+            <li>finally by the <a href="/docs/en/bruges/hopital-saint-jean/sint-jean/page:16#mise-en-relation" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" id="renvoi-mise-en-relation" class="yellow">relating the various elements of the image to the various texts</a> on which it is reasonable to assume that the painter himself relied in order to conceive his representation of religious subjects.</li>
+          </ol>
+        </article></section>
       </article></section>
     </article></section>
   </article></section>
@@ -231,7 +236,7 @@
 
 <aside>
   <section><article>
-    <h3 id="table-des-matieres" class="yellow">renferences of this article</h3>
+    <h3 id="table-des-matieres" class="yellow">references of this article</h3>
     <div id="body-inner">
     <section><article>
       <p>For this article we are indebted to reference works, especially those of <a href="#de-vos-1" id="renvoi-de-vos-1" class="yellow">Dirk DE VOS, "Hans Memling - The Complete Works"</a> and <a href="#de-vos-2" id="renvoi-de-vos-2" class="yellow">"Hans Memling"</a>.</p>
@@ -439,7 +444,7 @@
     </article></section>
 
     <section><article>
-      <h3 class="yellow">l'enfant Jésus</h3>
+      <h3 class="yellow">child jésus</h3>
 
       <section><article>
         <p>On his knees, <span style="color: #e6a64d;">Jesus child</span>, seatted, hold a apple with his left hand, and move from his right hand <span style="color: #e6a64d;">a ring</span> to the finger of <span style="color: #e6a64d;">a woman</span>, placed futher down and left of her, on the front.</p>
@@ -473,9 +478,9 @@
 
 <article>
   <section><article>
-    <h3 id="catherine-d-alexandrie" class="yellow">catherine d'alexandrie</h3>
+    <h3 id="catherine-d-alexandrie" class="yellow">catherine of Alexandria</h3>
     <section><article>
-      <h4 class="yellow">catherine d'alexandrie dans la scène du panneau central</h4>
+      <h4 class="yellow">catherine of Alexandria in the scene of then central panel</h4>
       <section><article>
          <p><span style="color: #e6a64d;">The sword</span> and <span style="color: #e6a64d;">the broken wheel</span> at his feet are <span style="color: #e6a64d;">the instruments of his martyrdom</span>: it is <a href="https://en.wikipedia.org/wiki/Catherine_of_Alexandria" title="https://en.wikipedia.org/wiki/Catherine_of_Alexandria" class="yellow">Catherine of Alexandria</a>.</p>
       </article></section>
@@ -610,10 +615,10 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1920.jpg 1920w"></picture><figcaption>John the Evangelist</figcaption>
       </figure>
         <section><article>      
-        <p>We recognize <a href="https://en.wikipedia.org/wiki/John_the_Apostle" title="https://en.wikipedia.org/wiki/John_the_Apostle" id="jean-l-evangeliste" class="yellow">John the Evangelist</a> as an episode of the <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" id="legende-doree-2" class="yellow">“Golden Legend”</a> <span style="color: #999;">(chapter 9)</span>, which we report <a href="#aristodeme" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" id="renvoi-aristodeme" class="yellow">here</a>.</p>
+        <p>We recognize <a href="https://en.wikipedia.org/wiki/John_the_Apostle" title="https://en.wikipedia.org/wiki/John_the_Apostle" id="jean-l-evangeliste" class="yellow">John the Evangelist</a> as an episode of the <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" id="legende-doree-2" class="yellow">“Golden Legend”</a> <span style="color: #999;">(chapter 9)</span>, which we report <a href="#aristodeme" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" id="renvoi-aristodeme" class="yellow">here</a>.</p>
         <p>John faces <span style="color: #e6a64d;">Aristodemus</span>, priest of the temple of Diana in Asia <span style="color: #999;">(probably Ephesus)</span>, who publicly challenges him to <span style="color: #e6a64d;">drink</span> a <span style="color: #e6a64d;">poisoned cup</span>.</p>
         <p>The later makes, as Memling represents him, the <span style="color: #e6a64d;">sign of the cross</span>, drinks the cup but the poison does him no harm.</p>
-        <p>The <span style="color: #e6a64d;">serpent</span> also refers to a word that Jesus addressed to <a href="https://fr.wikipedia.org/wiki/Nicodème" title="https://fr.wikipedia.org/wiki/Nicodème" id="nicodeme" class="yellow">Nicodemus</a> <span style="color: #999;">(John 3:14)</span>:</p>
+        <p>The <span style="color: #e6a64d;">serpent</span> also refers to a word that Jesus addressed to <a href="https://en.wikipedia.org/wiki/Nicodemus" title="https://en.wikipedia.org/wiki/Nicodemus" id="nicodeme" class="yellow">Nicodemus</a> <span style="color: #999;">(John 3:14)</span>:</p>
         <blockquote>
           <p><span style="color: #e6a64d;"><q>As Moses raised the serpent in the wilderness, so must the son of man be raised up, so that whoever believes may have eternal life in him</q></span>.</p>
         </blockquote>
@@ -849,7 +854,7 @@
     </article></section>
 
     <section><article>
-      <h4 id="devotion-moderne" class="yellow">devotio moderna</h4>
+      <h4 id="devotion-moderne" class="yellow">“devotio moderna”</h4>
       <section><article>
         <section><article>
           <p>In Flanders, at the time of Memling, for a book of Christian piety, <span style="color: #e6a64d;"><a href="https://en.wikipedia.org/wiki/Geert_Groote" title="https://en.wikipedia.org/wiki/Geert_Groote" id="imitation-de-jesus-christ" class="yellow">“<ruby>The&nbsp;imitation<rp>(</rp><rt>De&nbsp;imitatione</rt><rp>)</rp>&nbsp;<rp>(</rp><rt>&nbsp;</rt><rp>)</rp>of<rp>(</rp><rt>&nbsp;</rt><rp>)</rp>&nbsp;<rp>(</rp><rt>&nbsp;</rt><rp>)</rp>Jesus&nbsp;Christ<rp>(</rp><rt>Christi</rt><rp>)</rp></ruby>”</a></span>, is a huge publishing success <sup id="fnref1:4"><a href="#fn:4" class="footnote-ref">note 1</a></sup> .</p>
@@ -889,7 +894,7 @@
   <section><article>
     <h3 id="dispositif-architectural" class="yellow">architectural plan</h3>
     <section><article>
-      <h4 class="yellow">the <ruby lang="en">devotio moderna, mode of relationship between the protagonists of the represented scene and spectators</h4>
+      <h4 class="yellow">the “devotio moderna”, mode of relationship between the protagonists of the represented scene and spectators</h4>
       <section><article>
         <p>The arrangement of the places represented, the apse of a church, allows the architectural device to function also in relation to the spectators of the triptych.</p>
         <p>We who look at the painting find ourselves de facto in the space of the painting, part of the sacred conversation, in the presence of the protagonists of the scene represented, in this relationship of simple, transparent, familiar otherness.</p>
@@ -910,7 +915,7 @@
         <blockquote>
           <p><span style="color: #e6a64d;">"a world of virgins clad in gold brocade, silk and ermine, golden crowns and rare precious stones"</span> where <span style="color: #e6a64d;">"the infant Jesus beckons"</span> to the sick in an <span style="color: #e6a64d;">"atmosphere imbued with profound serenity"</span>. </p>
         </blockquote>
-        <p>In fact, in Bruges in the 15th<sup> century, simplicity and the obvious knew no bounds, leading <em>wonderfully</em> to the divine.</p>
+        <p>In fact, in Bruges in the 15<sup>th</sup> century, simplicity and the obvious knew no bounds, leading <em>wonderfully</em> to the divine.</p>
       </article></section>
     </article></section>
 
@@ -941,7 +946,7 @@
     </article></section>
 
     <section><article>
-      <h4 class="yellow">Memling's innovation on the architectural device compared to Van Eyck</h4>
+      <h4 class="yellow">Memling's innovation on the architectural plan compared to Van Eyck</h4>
       <section><article>
         <p>As in many of his other works, Memling removes to the apse <span style="color: #e6a64d;">walls</span>, <span style="color: #e6a64d;">windows</span> and makes <span style="color: #e6a64d;">the view to the outside continuous</span>.</p>
       </article></section>
@@ -985,7 +990,7 @@
       </div>
       <footer>
         <ul>
-          <li>back to the text «<a href="#renvoi-devotion-moderne" title="renvoi mouvement «dévotion moderne»">A detailed presentation of this movement can be found in note ↑</a>»</li>
+          <li>back to the text: <a href="#renvoi-devotion-moderne" title="renvoi mouvement «dévotio moderna»">A detailed presentation of this movement can be found in note ↩</a></li>
         </ul>
       </footer>
     </article></section>
@@ -996,17 +1001,45 @@
       <div class="footnotes">
         <ol>
           <li id="fn:4">
-      <p>We follow the references given in Wikipedia's article (french edition) «l'Imitation de Jésus-Christ» (date: 2018 August 21st), namely:</p>
-      <p>・ Yann Sordet, Un succès de librairie européen: l'Imitatio Christi (1470-1850), Paris, Bibliothèque Mazarine; Editions des cendres, 2012, 195 p. (ISBN 979-10-90853-01-0), p. 11.</p>
-      <p>According to specialists, its author is a monk: <a href="https://en.wikipedia.org/wiki/Thomas_à_Kempis" title="https://en.wikipedia.org/wiki/Thomas_%C3%A0_Kempis">Thomas A KEMPIS</a>. &nbsp;<a href="#fnref1:4" rev="footnote" class="footnote-backref">return to text ↩</a></p>
-      </li>
-      </ol>
+            <p>We follow the references given in Wikipedia's article (french edition) «l'Imitation de Jésus-Christ» (date: 2018 August 21st), namely:</p>
+            <ul>
+              <li>Yann Sordet, Un succès de librairie européen: l'Imitatio Christi (1470-1850), Paris, Bibliothèque Mazarine; Editions des cendres, 2012, 195 p. (ISBN 979-10-90853-01-0), p. 11.</li>
+            </ul>
+            <p>According to specialists, its author is a monk: <a href="https://en.wikipedia.org/wiki/Thomas_à_Kempis" title="https://en.wikipedia.org/wiki/Thomas_%C3%A0_Kempis">Thomas A KEMPIS</a>.</p>
+          </li>
+        </ol>
       </div>
+      <footer>
+        <ul>
+          <li><a href="#fnref1:4" rev="footnote" class="footnote-backref">back to text ↩</a></li>
+        </ul>
+      </footer>
+    </article></section>
+
+    <hr>
+
+    <section><article>
+      <div class="footnotes">
+        <ol>
+          <li id="fn:5">
+            <p>source: <cite href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis#cite_ref-5">L'imitation de notre Seigneur Jésus Christ</cite>, trans. by F. de Lamennais, Éd. Arts et Métiers graphiques, Paris, 1946, pp. 59-60, II, 4, 1-2 (part II, chapter 4, paragraphs 1 and 2).</p>
+            <p>original translation from us.</p></li>
+            </ul>
+          </li>
+        </ol>
       </div>
+      <footer>
+        <ul>
+          <li><a href="#fnref1:5" rev="footnote" class="footnote-backref">back to text  ↩</a></li>
+        </ul>
+      </footer>
+    </article></section>
+  </article></section>
+</aside>
 
-  <!-- Page 5 --><hr>
+<!-- Page 5 --><hr>
 
-  <div id="body-inner">
+<article>
   <h3 id="organisation-du-recit" class="yellow">structure of the narrative</h3>
   <p>The narrative is structured around a number of <span style="color: #e6a64d;">small scenes</span> depicting <span style="color: #e6a64d;">the two legends</span> of John the Baptist and John the Evangelist and representing the <span style="color: #e6a64d;">Crane's square</span> of Bruges linked to the St. John's Hospital.</p>
   <p>The two legends begin spatially with the <span style="color: #e6a64d;">sculpted scenes</span> above each saint in the <span style="color: #e6a64d;">column capitals</span>.</p>
@@ -1029,9 +1062,15 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-1600.jpg 1600w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-1920.jpg 1920w"></picture><figcaption>details of the central panel, from left to right: the 4 capitals</figcaption>
   </figure>
-  <p>This way of ordering the composition, which is found in many of Memling's other works, takes up the techniques of page layout of illumination <sup id="fnref1:6"><a href="#fn:6" class="footnote-ref">note 1</a></sup> : the different scenes are staggered up to a very high placed horizon.</p>
-  <p><span style="color: #e6a64d;">Small scenes</span> take place in the distance <span style="color: #e6a64d;">within the different frames</span> operated by the columns.</p>
-  <figure>
+  </article></section>
+
+  <section><article>
+    <h4 class="yellow">le récit se poursuit de petites scènes dans le lointain</h4>
+    <section><article>
+      <p>This manner of ordering the composition, which is found in many of Memling's other works, takes up the layout techniques of illumination <sup id="fnref1:6"><a href="#fn:6" class="footnote-ref">note 1</a></sup>: the various scenes are tiered up to a very high placed horizon.</p>
+      <p>Smaller <span style="color: #e6a64d;">scenes</span> take place in the distant <span style="color: #e6a64d;">within the various framings</span> operated by the columns.</p>
+    </article></section>
+    <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-280.webp 280w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-380.webp 380w,
@@ -1050,54 +1089,60 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-1600.jpg 1600w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-1920.jpg 1920w"></picture><figcaption>details of the central panel, “opening on the horizon”<br>on the left, scenes from the legend of John the Baptist, on the right, those of John the Evangelist</figcaption>
   </figure>
-  <p>The narrative of the two legends then continues in each of the two inner panels.</p>
-  <figure>
-    <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-280.webp 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-380.webp 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-480.webp 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-640.webp 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-840.webp 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1280.webp 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1600.webp 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, the 2 inner panels: in the foreground on the left one, John the Baptist beheaded by Herod's order, on the right one, John the Evangelist in Patmos, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, the 2 inner panels: in the foreground on the left one, John the Baptist beheaded by Herod's order, on the right one, John the Evangelist in Patmos, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-280.jpg 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-380.jpg 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-480.jpg 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-640.jpg 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-840.jpg 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1280.jpg 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1600.jpg 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1920.jpg 1920w"></picture><figcaption>the 2 inner panels: in the foreground of the left one, John the Baptist beheaded by Herod's order, on the right one, John the Evangelist in Patmos</figcaption>
-  </figure>
-  <p>On each panel, an episode forms <span style="color: #e6a64d;">a main scene in the foreground</span>, completed in the narrative by <span style="color: #e6a64d;">small scenes in the distance</span>.</p>
-  <ul>
-  <li>on the left, <span style="color: #e6a64d;">John the Baptist</span> has just been beheaded by <span style="color: #e6a64d;">Herod</span>'s order,</li>
-  <li>on the right, <span style="color: #e6a64d;">John the Evangelist</span> receives the «unveiling» of the text of the Apocalypse in <span style="color: #e6a64d;">Patmos</span>.</li>
-  </ul>
-  <p>The view of the <ruby style="color:#e6a64d;" lang="en">Crane's&nbsp;square<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 1px;" lang="nl">Kraanplaats</rt><rp>)</rp></ruby> and <span style="color: #e6a64d;">the St. John church</span>, in the background to the right of the drapery of honour behind virgin Mary, behind John the Evangelist, refers directly to the <span style="color: #e6a64d;">religious</span> who run the hospital that <span style="color: #e6a64d;">commissioned the work</span> and to <span style="color: #e6a64d;">the history</span> of the institution.</p>
-  <figure>
-    <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-280.webp 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-380.webp 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-480.webp 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-640.webp 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-840.webp 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1280.webp 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1600.webp 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the central panel, view of Crane's square and the St. John church, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, détail du panneau central, vue de la place de la Grue et l'église saint-Jean, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-280.jpg 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-380.jpg 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-480.jpg 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-640.jpg 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-840.jpg 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1280.jpg 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1600.jpg 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1920.jpg 1920w"></picture><figcaption>detail of the central panel, view of Crane's square and the St. John church</figcaption>
-  </figure>
-  <p><span style="color: #e6a64d;">Two brothers from the hospital</span> are represented <span style="color: #e6a64d;">measuring the imported bordeaux wine</span> arriving in Bruges.</p>
-  <p>This reminds us that the hospital was entrusted by the city around 1300 with a <span style="color: #e6a64d;">communal charge</span>, the <span style="color: #e6a64d;">«right to gauge»</span> from which the institution had its income.</p>
-  </div>
+  </article></section>
+
+  <section><article>
+    <h4 class="yellow">the narrative concludes with each of the two inner shutters</h4>
+    <section><article>
+      <p>The narrative of the two legends then continues in each of the two inner panels.</p>
+    </article></section>
+    <figure>
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-280.webp 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-380.webp 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-480.webp 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-640.webp 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-840.webp 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1280.webp 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1600.webp 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, the 2 inner panels: in the foreground on the left one, John the Baptist beheaded by Herod's order, on the right one, John the Evangelist in Patmos, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, the 2 inner panels: in the foreground on the left one, John the Baptist beheaded by Herod's order, on the right one, John the Evangelist in Patmos, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-280.jpg 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-380.jpg 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-480.jpg 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-640.jpg 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-840.jpg 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1280.jpg 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1600.jpg 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1920.jpg 1920w"></picture><figcaption>the 2 inner panels: in the foreground of the left one, John the Baptist beheaded by Herod's order, on the right one, John the Evangelist in Patmos</figcaption>
+    </figure>
+    <p>On each panel, an episode forms <span style="color: #e6a64d;">a main scene in the foreground</span>, completed in the narrative by <span style="color: #e6a64d;">small scenes in the distance</span>.</p>
+    <ul>
+    <li>on the left, <span style="color: #e6a64d;">John the Baptist</span> has just been beheaded by <span style="color: #e6a64d;">Herod</span>'s order,</li>
+    <li>on the right, <span style="color: #e6a64d;">John the Evangelist</span> receives the «unveiling» of the text of the Apocalypse in <span style="color: #e6a64d;">Patmos</span>.</li>
+    </ul>
+    <p>The view of the <ruby style="color:#e6a64d;" lang="en">Crane's&nbsp;square<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 1px;" lang="nl">Kraanplaats</rt><rp>)</rp></ruby> and <span style="color: #e6a64d;">the St. John church</span>, in the background to the right of the drapery of honour behind virgin Mary, behind John the Evangelist, refers directly to the <span style="color: #e6a64d;">religious</span> who run the hospital that <span style="color: #e6a64d;">commissioned the work</span> and to <span style="color: #e6a64d;">the history</span> of the institution.</p>
+    <figure>
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-280.webp 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-380.webp 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-480.webp 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-640.webp 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-840.webp 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1280.webp 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1600.webp 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the central panel, view of Crane's square and the St. John church, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, détail du panneau central, vue de la place de la Grue et l'église saint-Jean, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-280.jpg 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-380.jpg 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-480.jpg 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-640.jpg 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-840.jpg 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1280.jpg 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1600.jpg 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/place-de-la-grue-1920.jpg 1920w"></picture><figcaption>detail of the central panel, view of Crane's square and the St. John church</figcaption>
+    </figure>
+    <p><span style="color: #e6a64d;">Two brothers from the hospital</span> are represented <span style="color: #e6a64d;">measuring the imported bordeaux wine</span> arriving in Bruges.</p>
+    <p>This reminds us that the hospital was entrusted by the city around 1300 with a <span style="color: #e6a64d;">communal charge</span>, the <span style="color: #e6a64d;">«right to gauge»</span> from which the institution had its income.</p>
+    </div>
         
   <div id="body-inner">
   <div class="footnotes">
