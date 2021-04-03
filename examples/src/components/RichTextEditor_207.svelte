@@ -180,7 +180,7 @@
           <a href="#conversation" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#conversation" class="yellow">a sacred conversation</a>
         </li>
         <li>
-          <a href="#devotion-moderne" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#devotion-moderne" class="yellow">modern devotion</a>
+          “<a href="#devotion-moderne" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#devotion-moderne" class="yellow">devotio moderna</a>”
         </li>
         <li>
           <a href="#dispositif-architectural" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#dispositif-architectural" class="yellow">architectural structure</a>
@@ -638,7 +638,7 @@
   <section><article>
     <h3 id="barbe" class="yellow">barbara the great martyr</h3>
     <section><article>
-      <h4 class="yellow">barbe the great martyr in the scene of the central panel</h4>
+      <h4 class="yellow">barbara the great martyr in the scene of the central panel</h4>
       <section><article>
         <p>On the other side of virgin Mary, on the front right, <span style="color: #e6a64d;">another woman</span>, dressed in <span style="color: #e6a64d;">a magnificent green wool tunic</span> as only Bruges produced in the 15<sup style="color:#555;">th</sup> century, <span style="color: #e6a64d;">reads</span>.</p>
         <p>Her presence corresponds to that of <a href="#catherine-d-alexandrie" class="yellow">Catherine of Alexandria</a> on the front of the other side.</p>
@@ -678,7 +678,7 @@
     </article></section>
 
     <section><article>
-      <h4 class="yellow">Barbara the great martyr, her legend in the XV<sup>th</sup>.</h4>
+      <h4 class="yellow">Barbara the great martyr, her legend in the 15<sup>th</sup>.</h4>
       <section><article>
         <p>According to his legend, Barbara lives in <a href="https://en.wikipedia.org/wiki/Nicomedia" title="https://en.wikipedia.org/wiki/Nicomedia" id="nicomedie" class="yellow">Nicomedia</a>, capital of the former province of <a href="https://en.wikipedia.org/wiki/Bithynia" title="https://en.wikipedia.org/wiki/Bithynia" id="bithynie" class="yellow">Bithynia</a>, which is located in the north of present-day Turkey and overlooks the Black Sea.
         Barbara has the defect of being beautiful..., so beautiful, that when he was very young, <span style="color: #e6a64d;">his father emprisoned her in a tower</span>!</p>
@@ -698,7 +698,6 @@
       <h4 class="yellow">the host through the tower of Barbara the great martyr</h4>
       <section><article>
         <p>Through the intertwining of the tower, <span style="color: #e6a64d;">a host</span> appears in <span style="color: #e6a64d;">a glass cylinder</span> mounted on a golden crescent moon.</p>
-        <p>The <span style="color: #e6a64d;">host</span> is one of the attributes of the saint; it is also a link with the rest of the panel that reveals other aspects of it in the form of a <span style="color: #e6a64d;">«sacred conversation»</span>.</p>
       </article></section>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -714,179 +713,296 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-840.jpg 840w"></picture><figcaption>through the intertwining of its tower, a host appears in a glass cylinder mounted on a golden crescent moon</figcaption>
       </figure>
       <section><article>
-        <p>L'<span style="color: #e6a64d;">hostie</span> est un des attribut de la sainte; c'est aussi un lien avec le reste du panneau qui en fait apparaître d'autres aspects sous forme d'une <span style="color: #e6a64d;"><q>conversation sacrée</q></span>.</p>
+        <p>The <span style="color: #e6a64d;">host</span> is one of the attributes of the saint; it is also a link with the rest of the panel that reveals other aspects of it in the form of a <span style="color: #e6a64d;">«sacred conversation»</span>.</p>
       </article></section>
     </article></section>
   </article></section>
 </article>
 
-<hr>
-
   <!-- Page 4 --><hr>
 
-  <div id="body-inner">
-  <h3 id="conversation" class="yellow">a sacred conversation</h3>
-  <p>To <a href="https://fr.wikipedia.org/wiki/Marie_(mère_de_Jésus)" title="https://fr.wikipedia.org/wiki/Marie_(mère_de_Jésus)" id="marie-mere-de-jesus" class="yellow">Mary</a>'s coronation, the presence <span style="color: #e6a64d;">two</span> by <span style="color: #e6a64d;">two</span> of <a href="#catherine-d-alexandrie" title="Catherine d'Alexandrie" class="yellow">Catherine</a> and <a href="#barbe" class="yellow">Barbara</a>, <a href="#jean-le-baptiste-2" title="Jean le Baptiste" id="jean-le-baptiste-3" class="yellow">John the Baptist</a> and <a href="#jean-l-evangeliste-3" title="Jean l'Évangéliste" id="jean-l-evangeliste-4" class="yellow">John the Evangelist</a> adds a «<ruby style="color:#e6a64d;" lang="en">sacred conversation<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="it">sacra&nbsp;conversazione</rt><rp>)</rp></ruby>», that is, a <span style="color: #e6a64d;">meeting of saints</span> around the Virgin.</p>
-  <figure>
-    <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-280.webp 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-380.webp 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-480.webp 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-640.webp 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-840.webp 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1280.webp 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1600.webp 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, view of the central panel, a sacred conversation, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, view of the central panel, a sacred conversation, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-280.jpg 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-380.jpg 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-480.jpg 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-640.jpg 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-840.jpg 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1280.jpg 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1600.jpg 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1920.jpg 1920w"></picture><figcaption>view of the central panel, a sacred conversation</figcaption>
-  </figure>
-  <p>This spirit of <span style="color: #e6a64d;">communion</span> is reinforced by the presence on the left of the Virgin of <span style="color: #e6a64d;">a altar server</span> who plays a small <span style="color: #e6a64d;">organ</span> seated, and on the right of <span style="color: #e6a64d;">another</span> kneeling who presents her with <span style="color: #e6a64d;">a book</span>.</p>
-  <figure>
-    <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-280.webp 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-380.webp 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-480.webp 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-640.webp 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-840.webp 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1280.webp 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1600.webp 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, details of the central panel, the two altar servers, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, details of the central panel, the two altar servers, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-280.jpg 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-380.jpg 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-480.jpg 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-640.jpg 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-840.jpg 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1280.jpg 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1600.jpg 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1920.jpg 1920w"></picture><figcaption>details of the central panel, the two altar servers</figcaption>
-  </figure>
-  <p>The symmetry and simplicity of the positions in relation to each other in the width matches the shape of the tryptic.</p>
-  <p>The height and depth organize themselves around the <span style="color: #e6a64d;">distinction between men and women</span>: on the <span style="color: #e6a64d;">front</span> below, <span style="color: #e6a64d;">two women</span>, on the <span style="color: #e6a64d;">back</span> in the upper part, <span style="color: #e6a64d;">two men</span>.</p>
-  <p>The <span style="color: #e6a64d;">unfathomability</span> and <span style="color: #e6a64d;">mystery</span> in depth and height responds to the <span style="color: #e6a64d;">symmetry</span> and <span style="color: #e6a64d;">simplicity</span> of the width positions</p>
-  <p>The characters depicted appear to be from <span style="color: #e6a64d;">the same family</span> and are <span style="color: #e6a64d;">of all ages</span>:
-  newborn, small child, child, teenager, young man, woman, mother, man, mature man and woman.</p>
-  <figure>
-    <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-280.webp 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-380.webp 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-480.webp 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-640.webp 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-840.webp 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-1280.webp 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-1600.webp 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, details of the central panel, from left to right: similarities of the physionomy, varieties of the ages represented, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, details of the central panel, from left to right: similarities of the physionomy, varieties of the ages represented, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-280.jpg 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-380.jpg 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-480.jpg 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-640.jpg 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-840.jpg 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-1280.jpg 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-1600.jpg 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-1920.jpg 1920w"></picture><figcaption>details of the central panel, from left to right: similarities of physionomies, varieties of the ages represented</figcaption>
-  </figure>
-  <p>The <span style="color: #e6a64d;">similarity</span> of the physiognomies and the <span style="color: #e6a64d;">variety</span> of ages <span style="color: #e6a64d;">unifies</span> the whole.</p>
-  <p>We believe that this <span style="color: #e6a64d;">balance</span> is a remarkable feature of the society in which Memling lived and that the very important reform movement of the christian faith of that time, which historians call «<a href="https://en.wikipedia.org/wiki/Devotio_Moderna" title="https://en.wikipedia.org/wiki/Devotio_Moderna" id="devotio-moderna" class="yellow"><ruby lang="fr">modern&nbsp;devotion<rp>(</rp><rt lang="la">devotio&nbsp;moderna</rt><rp>)</rp></ruby></a>», cannot be ignored in order to better understand this point.</p>
-  <p><span style="color: #999;">(a detailed historical presentation of "modern devotion" can be found <a href="#note-devotion-moderne" title="note présentation du mouvement «dévotion moderne»" id="renvoi-devotion-moderne" class="yellow">here</a>)</span></p>
-  <h3 id="devotion-moderne" class="yellow">modern devotion</h3>
-  <p>In Flanders, at the time of Memling, for a book of Christian piety, <span style="color: #e6a64d;"><a href="https://en.wikipedia.org/wiki/Geert_Groote" title="https://en.wikipedia.org/wiki/Geert_Groote" id="imitation-de-jesus-christ" class="yellow">“<ruby>The&nbsp;imitation<rp>(</rp><rt>De&nbsp;imitatione</rt><rp>)</rp>&nbsp;<rp>(</rp><rt>&nbsp;</rt><rp>)</rp>of<rp>(</rp><rt>&nbsp;</rt><rp>)</rp>&nbsp;<rp>(</rp><rt>&nbsp;</rt><rp>)</rp>Jesus&nbsp;Christ<rp>(</rp><rt>Christi</rt><rp>)</rp></ruby>”</a></span>, is a huge publishing success <sup id="fnref1:4"><a href="#fn:4" class="footnote-ref">note 1</a></sup> .</p>
-  <p>One can read:</p>
-  <div class="notices yellow">
-  <p><span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="#e6a64d" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"></path></svg></span>
-  Man rises above the earth on two wings, <span style="color: #b37319;">simplicity</span> and <span style="color: #b37319;">purity</span>.</p>
-  <p>Simplicity must be in <span style="color: #b37319;">intention</span>, and purity in <span style="color: #b37319;">affection</span>.</p>
-  <p>Simplicity <span style="color: #9c6416;">seeks</span> God, purity <span style="color: #9c6416;">finds</span> him and <span style="color: #9c6416;">taste</span> him.</p>
-  <p>No good work will be difficult for you if you are free of any disturbed affection.</p>
-  <p>If you only want what God wants and what is useful to the others, you will enjoy <span style="color: #9c6416;">inner freedom</span>.</p>
-  <p>If your heart was right, then any creature would be a <span style="color: #9c6416;">mirror of life</span> to you and a <span style="color: #9c6416;">book filled with holy instructions</span>.</p>
-  <p>There is no creature so small and so vile that would not present some <span style="color: #9c6416;">image of the goodness of God</span>.</p>
-  <p>If you had enough <span style="color: #9c6416;">innocence</span> and <span style="color: #9c6416;">purity</span>, you would see everything <span style="color: #9c6416;">without impediments</span>.</p>
-  <p>A pure heart penetrates heaven and hell.</p>
-  <p>Anyone judges of things from the outside according to what he is within himself.</p>
-  <p>If there is some joy in the world, the pure heart owns it.
-  And if there are anxieties and tribulations, above all they are known from bad conscience.</p>
-  <p>As the iron put on fire loses its rust and becomes blazing, so the one who gives himself unreservedly to God remains his languor and changes into a new man.
-  <span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="#e6a64d" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"></path></svg></span></p>
-  </div>
-  <p>In Memling's work, the sacred conversation functions according to these principles, in relation to the spectators as a <span style="color: #e6a64d;">«mirror of life»</span>: on one hand the patients <span style="color: #e6a64d;">«converse»</span> with the represented figures, on the other they <span style="color: #e6a64d;">«appear»</span> here and now, as inhabitants of Bruges of 1479.</p>
-  <p>The work functions as also as a <span style="color: #e6a64d;">«book filled with holy instructions»</span>: <span style="color: #e6a64d;">spiritual simplicity and evidence produce</span> in a wonderful and continuous way <span style="color: #e6a64d;">material sophistication and opulence</span>.</p>
-  <p><a href="#de-vos" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" id="renvoi-de-vos-2" class="yellow">Dirk DE VOS</a> evokes: <span style="color: #e6a64d;">«a world of virgins dressed in brocade of gold, silk and ermine, guilded crowns and rare precious stones»</span> where <span style="color: #e6a64d;">«the child Jesus waves»</span> to the sick in an <span style="color: #e6a64d;">«atmosphere of profound serenity»</span>.
-  In fact, simplicity and obviousness know no limits and lead to the divine.</p>
-  <h3 id="dispositif-architectural" class="yellow">architectural structure</h3>
-  <p>Memling is undoubtedly guided by this work by <a href="https://en.wikipedia.org/wiki/Jan_van_Eyck" title="https://en.wikipedia.org/wiki/Jan_van_Eyck" id="jan-van-eyck" class="yellow">Jan VAN EYCK</a> painted in 1436, which he knows and will admire in the <a href="https://en.wikipedia.org/wiki/St._Donatian's_Cathedral" title="https://en.wikipedia.org/wiki/St._Donatian%27s_Cathedral" id="cathedrale-saint-donatien" class="yellow">St. Donatian Cathedral</a>: <a href="https://en.wikipedia.org/wiki/Virgin_and_Child_with_Canon_van_der_Paele" title="https://en.wikipedia.org/wiki/Virgin_and_Child_with_Canon_van_der_Paele" id="van-der-paele" class="yellow">“<ruby lang="en">Virgin&nbsp;and&nbsp;Child&nbsp;with&nbsp;Canon&nbsp;van&nbsp;der&nbsp;Paele<rp>(</rp><rt lang="nl">Madonna&nbsp;met&nbsp;kanunnik&nbsp;Joris&nbsp;van&nbsp;der&nbsp;Paele</rt><rp>)</rp></ruby>”</a>.</p>
-  <figure>
-    <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-280.webp 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-380.webp 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-480.webp 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-640.webp 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-840.webp 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1280.webp 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1600.webp 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-640.jpg" title="Jan VAN EYCK, “Virgin and Child with Canon van der Paele”, Groeninge Museum, Bruges (Brugge)" alt="Jan VAN EYCK, “Virgin and Child with Canon van der Paele”, Groeninge Museum, Bruges (Brugge)" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-280.jpg 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-380.jpg 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-480.jpg 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-640.jpg 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-840.jpg 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1280.jpg 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1600.jpg 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1920.jpg 1920w"></picture><figcaption>Jan VAN EYCK, <ruby lang="en">Virgin&nbsp;and&nbsp;Child&nbsp;with&nbsp;Canon&nbsp;van&nbsp;der&nbsp;Paele<rp>(</rp><rt style="color:#999;font-size: 70%;letter-spacing: 2px;" lang="nl">Madonna&nbsp;met&nbsp;kanunnik&nbsp;Joris&nbsp;van&nbsp;der&nbsp;Paele</rt><rp>)</rp></ruby>, Musée Groeninge, Bruges</figcaption>
-  </figure>
-  <p>As in many of his other works, Memling removes to the apse <span style="color: #e6a64d;">walls</span>, <span style="color: #e6a64d;">windows</span> and makes <span style="color: #e6a64d;">the view to the outside continuous</span>.</p>
-  <figure>
-    <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-280.webp 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-380.webp 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-480.webp 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-640.webp 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-840.webp 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1280.webp 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1600.webp 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, overview of the central panel, coronation of the Virgin, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, overview of the central panel, coronation of the Virgin, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-280.jpg 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-380.jpg 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-480.jpg 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-640.jpg 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-840.jpg 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1280.jpg 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1600.jpg 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1920.jpg 1920w"></picture><figcaption>overview of the central panel</figcaption>
-  </figure>
-  <p>Six columns marbled with red and brown are arranged in a semi-circle on a tile and doubled on the outside by a second semi-circle of fasciculated dark grey pilasters.
-  Their bases are connected by the edge line of the paving which shows a polygon on the ground.</p>
-  <p>The thin vertical openings between the columns overlook a <span style="color: #e6a64d;">visually continuous landscape with ruins and buildings</span>, open to the distant, horizon and infinite.</p>
-  </div>
+  <article>
+  <section><article>
+    <h3 id="conversation" class="yellow">a sacred conversation</h3>
+      <h4 class="yellow">sacred conversation in the central panel scene</h4>
+      <section><article>
+        <p>To <a href="https://fr.wikipedia.org/wiki/Marie_(mère_de_Jésus)" title="https://fr.wikipedia.org/wiki/Marie_(mère_de_Jésus)" id="marie-mere-de-jesus" class="yellow">Mary</a>'s coronation, the presence <span style="color: #e6a64d;">two</span> by <span style="color: #e6a64d;">two</span> of <a href="#catherine-d-alexandrie" title="Catherine d'Alexandrie" class="yellow">Catherine of Alexandria</a> and <a href="#barbe" class="yellow">Barbara the great martyr</a>, <a href="#jean-le-baptiste-2" title="Jean le Baptiste" id="jean-le-baptiste-3" class="yellow">John the Baptist</a> and <a href="#jean-l-evangeliste-3" title="Jean l'Évangéliste" id="jean-l-evangeliste-4" class="yellow">John the Evangelist</a> adds a «<ruby style="color:#e6a64d;" lang="en">sacred conversation<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="it">sacra&nbsp;conversazione</rt><rp>)</rp></ruby>», that is, a <span style="color: #e6a64d;">meeting of saints</span> around the Virgin.</p>
+      </article></section>
+      <figure>
+        <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-280.webp 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-380.webp 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-480.webp 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-640.webp 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-840.webp 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1280.webp 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1600.webp 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, view of the central panel, a sacred conversation, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, view of the central panel, a sacred conversation, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-280.jpg 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-380.jpg 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-480.jpg 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-640.jpg 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-840.jpg 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1280.jpg 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1600.jpg 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1920.jpg 1920w"></picture><figcaption>view of the central panel, a sacred conversation</figcaption>
+      </figure>
+    </article></section>
 
-  <div id="body-inner">
+    <section><article>
+      <h4 class="yellow">the two altar servers in the scene of the central panel</h4>
+      <section><article>
+        <p>This spirit of <span style="color: #e6a64d;">communion</span> is reinforced by the presence:</p>
+        <ul>
+          <li>on the left of the Virgin of <span style="color: #e6a64d;">a altar server</span> who plays a small <span style="color: #e6a64d;">organ</span> seated,</li>
+          <li>and on the right of <span style="color: #e6a64d;">another</span> kneeling who presents her with <span style="color: #e6a64d;">a book</span>.</li>
+      </article></section>
+      <figure>
+        <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-280.webp 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-380.webp 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-480.webp 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-640.webp 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-840.webp 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1280.webp 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1600.webp 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, details of the central panel, the two altar servers, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, details of the central panel, the two altar servers, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-280.jpg 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-380.jpg 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-480.jpg 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-640.jpg 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-840.jpg 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1280.jpg 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1600.jpg 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1920.jpg 1920w"></picture><figcaption>details of the central panel, the two altar servers</figcaption>
+      </figure>
+    </article></section>
+  </article></section>
+
+  <section><article>
+    <h3 id="devotion-moderne" class="yellow">Sacred conversation, a remarkable expression of “devotio moderna”</h3>
+    <section><article>
+      <h4 class="yellow">symmetry, simplicity, distinction in the arrangement of the protagonists</h4>
+      <section><article>
+        <h5 class="yellow">symmetry, simplicity</h5>
+        <section><article>
+          <p>The symmetry and simplicity of the positions in relation to each other in the width matches the shape of the tryptic.</p>
+        </article></section>
+
+        <h5 class="yellow">distinction</h5>
+        <section><article>
+          <p>The height and depth organize themselves around the <span style="color: #e6a64d;">distinction between men and women</span>: on the <span style="color: #e6a64d;">front</span> below, <span style="color: #e6a64d;">two women</span>, on the <span style="color: #e6a64d;">back</span> in the upper part, <span style="color: #e6a64d;">two men</span>.</p>
+          <p>The <span style="color: #e6a64d;">unfathomability</span> and <span style="color: #e6a64d;">mystery</span> in depth and height responds to the <span style="color: #e6a64d;">symmetry</span> and <span style="color: #e6a64d;">simplicity</span> of the width positions</p>
+        </article></section>
+      </article></section>
+    </article></section>
+
+    <section><article>
+      <h4 class="yellow">similarities of physiognomies, variety of ages represented</h4>
+      <section><article>
+        <p>The characters depicted appear to be from <span style="color: #e6a64d;">the same family</span> and are <span style="color: #e6a64d;">of all ages</span>:</p>
+        <ul>
+          <li>newborn,</li>
+          <li>small child,</li>
+          <li>child,</li>
+          <li>teenager,</li>
+          <li>young man,</li>
+          <li>woman,</li>
+          <li>mother,</li>
+          <li>man,</li>
+          <li>mature man and woman.</li>
+        </ul>
+        <p>The <span style="color: #e6a64d;">similarity</span> of the physiognomies and the <span style="color: #e6a64d;">variety</span> of ages <span style="color: #e6a64d;">unifies</span> the whole.</p>
+      </article></section>
+      <figure>
+        <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-280.webp 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-380.webp 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-480.webp 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-640.webp 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-840.webp 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-1280.webp 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-1600.webp 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, details of the central panel, from left to right: similarities of the physionomy, varieties of the ages represented, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, details of the central panel, from left to right: similarities of the physionomy, varieties of the ages represented, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-280.jpg 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-380.jpg 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-480.jpg 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-640.jpg 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-840.jpg 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-1280.jpg 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-1600.jpg 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/air-de-famille-1920.jpg 1920w"></picture><figcaption>details of the central panel, from left to right: similarities of physionomies, varieties of the ages represented</figcaption>
+      </figure>
+    </article></section>
+
+    <section><article>
+      <h4 class="yellow">“devotio moderna”, a movement to reform the Christian faith in Flemish society in the 15<sup>th</sup> century</h4>
+      <section><article>
+        <p>We believe that this <span style="color: #e6a64d;">balance</span> is a remarkable feature of the 15<sup>th<sup> century Flemish society in which Memling lived.</p>
+        <p>The very important Christian faith reform movement of this period, which historians call <a href="https://en.wikipedia.org/wiki/Devotio_Moderna" title="https://en.wikipedia.org/wiki/Devotio_Moderna" id="devotio-moderna" class="yellow">“devotio moderna”</a>, illuminates that familiar simple transparency of represented space. </p>
+      </article></section>
+      <footer>
+        <ul>
+          <li>For more information: <a href="#note-devotion-modern" title="note presentation of the "modern devotion" movement" id="renvoi-devotion-modern" class="yellow">“devotio moderna” as a historical religious movement of the 15<sup>th</sup> century</a></li>
+        </ul>
+      </footer>
+    </article></section>
+
+    <section><article>
+      <h4 id="devotion-moderne" class="yellow">devotio moderna</h4>
+      <section><article>
+        <section><article>
+          <p>In Flanders, at the time of Memling, for a book of Christian piety, <span style="color: #e6a64d;"><a href="https://en.wikipedia.org/wiki/Geert_Groote" title="https://en.wikipedia.org/wiki/Geert_Groote" id="imitation-de-jesus-christ" class="yellow">“<ruby>The&nbsp;imitation<rp>(</rp><rt>De&nbsp;imitatione</rt><rp>)</rp>&nbsp;<rp>(</rp><rt>&nbsp;</rt><rp>)</rp>of<rp>(</rp><rt>&nbsp;</rt><rp>)</rp>&nbsp;<rp>(</rp><rt>&nbsp;</rt><rp>)</rp>Jesus&nbsp;Christ<rp>(</rp><rt>Christi</rt><rp>)</rp></ruby>”</a></span>, is a huge publishing success <sup id="fnref1:4"><a href="#fn:4" class="footnote-ref">note 1</a></sup> .</p>
+        </article></section>
+
+        <section><article>
+          <h5 class="yellow">text from <cite>The Imitation of Jesus Christ</cite></h5>
+          <header>
+            <p>One can read <sup id="fnref1:5"><a href="#fn:4" class="footnote-ref">note 2</a></sup>:</p>
+          </header>
+          <article>
+            <ol class="doc">
+              <li value="1">Man rises above the earth on two wings, <span style="color: #b37319;">simplicity</span> and <span style="color: #b37319;">purity</span>.</li>
+              <li>Simplicity must be in <span style="color: #b37319;">intention</span>, and purity in <span style="color: #b37319;">affection</span>.</li>
+              <li>Simplicity <span style="color: #9c6416;">seeks</span> God, purity <span style="color: #9c6416;">finds</span> him and <span style="color: #9c6416;">taste</span> him.</li>
+              <li>No good work will be difficult for you if you are free of any disturbed affection.</li>
+              <li value="5">If you only want what God wants and what is useful to the others, you will enjoy <span style="color: #9c6416;">inner freedom</span>.</li>
+              <li>If your heart was right, then any creature would be a <span style="color: #9c6416;">mirror of life</span> to you and a <span style="color: #9c6416;">book filled with holy instructions</span>.</li>
+              <li>There is no creature so small and so vile that would not present some <span style="color: #9c6416;">image of the goodness of God</span>.</li>
+              <li>If you had enough <span style="color: #9c6416;">innocence</span> and <span style="color: #9c6416;">purity</span>, you would see everything <span style="color: #9c6416;">without impediments</span>.</li>
+              <li>A pure heart penetrates heaven and hell.</li>
+              <li value="10">Anyone judges of things from the outside according to what he is within himself.</li>
+              <li>If there is some joy in the world, the pure heart owns it.
+              And if there are anxieties and tribulations, above all they are known from bad conscience.</li>
+              <li value="13">As the iron put on fire loses its rust and becomes blazing, so the one who gives himself unreservedly to God remains his languor and changes into a new man.</li>
+            </ol>
+          </article>
+        </article></section>
+
+        <section><article>
+          <p>In the scene depicted by Memling, the sacred conversation functions in the terms of the text quoted above as a <q><span style="color: #e6a64d;">book filled with holy instructions</span></q> simple, pure, in accordance with the architectural plan.</p>
+        </article></section>
+      </article></section>
+    </article></section>
+  </article></section>
+  
+  <section><article>
+    <h3 id="dispositif-architectural" class="yellow">architectural plan</h3>
+    <section><article>
+      <h4 class="yellow">the <ruby lang="en">devotio moderna, mode of relationship between the protagonists of the represented scene and spectators</h4>
+      <section><article>
+        <p>The arrangement of the places represented, the apse of a church, allows the architectural device to function also in relation to the spectators of the triptych.</p>
+        <p>We who look at the painting find ourselves de facto in the space of the painting, part of the sacred conversation, in the presence of the protagonists of the scene represented, in this relationship of simple, transparent, familiar otherness.</p>
+        <p>From this point of view, Memling's work functions as <span style="color: #e6a64d;">a mirror of life</span>:</p>
+        <ul>
+          <li>On the one hand the viewers of the triptych, whether they were patients at St John's Hospital in Memling's time or us today <span style="color: #e6a64d;">"<em>conversing</em>"</span> with the figures depicted,</li>
+          <li>on the other these <span style="color: #e6a64d;">"<em>act</em>"</span> here and now, as Bruges men and women of <time datetime="1479">1479</time> or visitors to the Memling Museum of the 21st<sup> century.</li>
+        </ul>
+      </article></section>
+    </article></section>
+
+    <section><article>
+      <h4 class="yellow">devotio moderna, crystallisation of the marvellous of Bruges in the 15<sup>th</sup> century</h4>
+      <section><article>
+        <p>Finally, the exemplary arrangement of a representation in which the figures are adorned with the finest sartorial achievements of fifteenth</sup> century Bruges, crystallises the sense of <em>wonder</em>.</p>
+        <p><span style="color: #e6a64d;">spiritual simplicity, evidence, ideality also produce</span> in a continuous <em>way</em> <span style="color: #e6a64d;">material sophistication and opulence</span>.</p>
+        <p><a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" id="renvoi-de-vos-2" class="yellow">Dirk DE VOS</a> mentions:</p>
+        <blockquote>
+          <p><span style="color: #e6a64d;">"a world of virgins clad in gold brocade, silk and ermine, golden crowns and rare precious stones"</span> where <span style="color: #e6a64d;">"the infant Jesus beckons"</span> to the sick in an <span style="color: #e6a64d;">"atmosphere imbued with profound serenity"</span>. </p>
+        </blockquote>
+        <p>In fact, in Bruges in the 15th<sup> century, simplicity and the obvious knew no bounds, leading <em>wonderfully</em> to the divine.</p>
+      </article></section>
+    </article></section>
+
+    <section><article>
+      <h4 class="yellow">the influence of Van Eyck on the architectural plan</h4>
+      <section><article>
+        <p>Memling is undoubtedly guided by this work by <a href="https://en.wikipedia.org/wiki/Jan_van_Eyck" title="https://en.wikipedia.org/wiki/Jan_van_Eyck" id="jan-van-eyck" class="yellow">Jan VAN EYCK</a> painted in 1436, which he knows and will admire in the <a href="https://en.wikipedia.org/wiki/St._Donatian's_Cathedral" title="https://en.wikipedia.org/wiki/St._Donatian%27s_Cathedral" id="cathedrale-saint-donatien" class="yellow">St. Donatian Cathedral</a>: <a href="https://en.wikipedia.org/wiki/Virgin_and_Child_with_Canon_van_der_Paele" title="https://en.wikipedia.org/wiki/Virgin_and_Child_with_Canon_van_der_Paele" id="van-der-paele" class="yellow">“<ruby lang="en">Virgin&nbsp;and&nbsp;Child&nbsp;with&nbsp;Canon&nbsp;van&nbsp;der&nbsp;Paele<rp>(</rp><rt lang="nl">Madonna&nbsp;met&nbsp;kanunnik&nbsp;Joris&nbsp;van&nbsp;der&nbsp;Paele</rt><rp>)</rp></ruby>”</a>.</p>
+      </article></section>
+      <figure>
+        <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-280.webp 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-380.webp 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-480.webp 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-640.webp 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-840.webp 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1280.webp 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1600.webp 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-640.jpg" title="Jan VAN EYCK, “Virgin and Child with Canon van der Paele”, Groeninge Museum, Bruges (Brugge)" alt="Jan VAN EYCK, “Virgin and Child with Canon van der Paele”, Groeninge Museum, Bruges (Brugge)" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-280.jpg 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-380.jpg 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-480.jpg 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-640.jpg 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-840.jpg 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1280.jpg 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1600.jpg 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/van-der-paele-1920.jpg 1920w"></picture><figcaption>Jan VAN EYCK, <ruby lang="en">Virgin&nbsp;and&nbsp;Child&nbsp;with&nbsp;Canon&nbsp;van&nbsp;der&nbsp;Paele<rp>(</rp><rt style="color:#999;font-size: 70%;letter-spacing: 2px;" lang="nl">Madonna&nbsp;met&nbsp;kanunnik&nbsp;Joris&nbsp;van&nbsp;der&nbsp;Paele</rt><rp>)</rp></ruby>, Musée Groeninge, Bruges</figcaption>
+      </figure>
+    </article></section>
+
+    <section><article>
+      <h4 class="yellow">Memling's innovation on the architectural device compared to Van Eyck</h4>
+      <section><article>
+        <p>As in many of his other works, Memling removes to the apse <span style="color: #e6a64d;">walls</span>, <span style="color: #e6a64d;">windows</span> and makes <span style="color: #e6a64d;">the view to the outside continuous</span>.</p>
+      </article></section>
+      <figure>
+        <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-280.webp 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-380.webp 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-480.webp 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-640.webp 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-840.webp 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1280.webp 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1600.webp 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, overview of the central panel, coronation of the Virgin, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, overview of the central panel, coronation of the Virgin, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-280.jpg 280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-380.jpg 380w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-480.jpg 480w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-640.jpg 640w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-840.jpg 840w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1280.jpg 1280w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1600.jpg 1600w,
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1920.jpg 1920w"></picture><figcaption>overview of the central panel</figcaption>
+      </figure>
+      <p>Six columns marbled with red and brown are arranged in a semi-circle on a tile and doubled on the outside by a second semi-circle of fasciculated dark grey pilasters.
+      Their bases are connected by the edge line of the paving which shows a polygon on the ground.</p>
+      <p>The thin vertical openings between the columns overlook a <span style="color: #e6a64d;">visually continuous landscape with ruins and buildings</span>, open to the distant, horizon and infinite.</p>
+      </article></section>
+    </article></section>
+  </article></section>
+</article>
+
+<aside>
   <h3 id="note">Note</h3>
-  <h4 id="note-devotion-moderne">modern devotion</h4>
-  <div class="notices yellow">
-  <p>Born a little further north in the present Netherlands, in the Utrecht region at the end of the 14<sup style="color:#e6a64d;">th</sup> and beginning of the 15<sup style="color:#e6a64d;">th</sup> century, modern devotion was initiated by a man, <a href="https://en.wikipedia.org/wiki/Geert_Groote" title="https://en.wikipedia.org/wiki/Geert_Groote" id="gerard-groote" class="yellow">Geert Groote</a>, who criticized the piety of his time, judging it too austere and too far from the world.
-  In reaction, he exhorted the believer to let Christ dwell in the depths of his heart.
-  According to him, this presence of Christ is intended to produce simplicity.
-  The believer can then exercise an action in conformity with the virtue to which faith calls him, in a natural way, where he is.</p>
-  <hr>
-  <ul>
-  <li>back to the text «<a href="#renvoi-devotion-moderne" title="renvoi mouvement «dévotion moderne»">A detailed presentation of this movement can be found in note ↑</a>»</li>
-  </ul>
-  </div>
-  <div class="footnotes">
-  <hr>
-  <ol>
-  <li id="fn:4">
-  <p>We follow the references given in Wikipedia's article (french edition) «l'Imitation de Jésus-Christ» (date: 2018 August 21st), namely:</p>
-  <p>・ Yann Sordet, Un succès de librairie européen: l'Imitatio Christi (1470-1850), Paris, Bibliothèque Mazarine; Editions des cendres, 2012, 195 p. (ISBN 979-10-90853-01-0), p. 11.</p>
-  <p>According to specialists, its author is a monk: <a href="https://en.wikipedia.org/wiki/Thomas_à_Kempis" title="https://en.wikipedia.org/wiki/Thomas_%C3%A0_Kempis">Thomas A KEMPIS</a>. &nbsp;<a href="#fnref1:4" rev="footnote" class="footnote-backref">return to text ↩</a></p>
-  </li>
-  </ol>
-  </div>
-  </div>
+  <section><article>
+    <h4 id="note-devotion-moderne">“devotio moderna”</h4>
+    <section><article>
+      <div class="notices yellow">
+      <p>Born a little further north in the present Netherlands, in the Utrecht region at the end of the 14<sup style="color:#e6a64d;">th</sup> and beginning of the 15<sup style="color:#e6a64d;">th</sup> century, “devotio moderna” or modern devotion was initiated by a man, <a href="https://en.wikipedia.org/wiki/Geert_Groote" title="https://en.wikipedia.org/wiki/Geert_Groote" id="gerard-groote" class="yellow">Geert Groote</a>, who criticized the piety of his time, judging it too austere and too far from the world.
+      In reaction, he exhorted the believer to let Christ dwell in the depths of his heart.
+      According to him, this presence of Christ is intended to produce simplicity.
+      The believer can then exercise an action in conformity with the virtue to which faith calls him, in a natural way, where he is.</p>
+      </div>
+      <footer>
+        <ul>
+          <li>back to the text «<a href="#renvoi-devotion-moderne" title="renvoi mouvement «dévotion moderne»">A detailed presentation of this movement can be found in note ↑</a>»</li>
+        </ul>
+      </footer>
+    </article></section>
+
+    <hr>
+
+    <section><article>
+      <div class="footnotes">
+        <ol>
+          <li id="fn:4">
+      <p>We follow the references given in Wikipedia's article (french edition) «l'Imitation de Jésus-Christ» (date: 2018 August 21st), namely:</p>
+      <p>・ Yann Sordet, Un succès de librairie européen: l'Imitatio Christi (1470-1850), Paris, Bibliothèque Mazarine; Editions des cendres, 2012, 195 p. (ISBN 979-10-90853-01-0), p. 11.</p>
+      <p>According to specialists, its author is a monk: <a href="https://en.wikipedia.org/wiki/Thomas_à_Kempis" title="https://en.wikipedia.org/wiki/Thomas_%C3%A0_Kempis">Thomas A KEMPIS</a>. &nbsp;<a href="#fnref1:4" rev="footnote" class="footnote-backref">return to text ↩</a></p>
+      </li>
+      </ol>
+      </div>
+      </div>
 
   <!-- Page 5 --><hr>
 

@@ -60,7 +60,7 @@
             <p>Par là, nous devrions permettre au lecteur de se rendre plus familier de la société de Bruges à la fin du XV<sup>ème</sup> siècle, notamment:
             <ul>
               <li>du merveilleux chrétien de l'ouvrage de Jacques de Voragine, <cite>La Légende Dorée</cite>,</li>
-              <li>de la sensibilité de ce courant de réforme religieuse, la “dévotion moderne”,</li>
+              <li>de la sensibilité de ce courant de réforme religieuse, la “<ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby>”,</li>
               <li>de l'opulence économique, de la magnificience sociale urbaines du Duché de Bourgogne.</li>
             </ul>
             <p>Notre but aura été atteint si le lecteur se trouve en position de <span style="color: #e6a64d;">mesurer et ainsi d'approfondir lui-même sa perception</span> d'une œuvre dont nous pensons qu'elle mérite de retenir l'attention <span style="color: #e6a64d;">tant est grand l'éclat de sa présence</span>.</p>
@@ -161,7 +161,7 @@
         </li>
         <li><a href="/docs/fr/bruges/hopita-saint-jean/saint-jean/page:3#barbe" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#barbe" class="yellow">barbe la grande martyre</a></li>
         <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:4#conversation" title="https://francois-viit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:4#conversation" class="yellow">une conversation sacrée</a></li>
-        <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:4#devotion-moderne" title="htps://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:4#devotion-moderne" class="yellow">la dévotion moderne</a></li>
+        <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:4#devotion-moderne" title="htps://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:4#devotion-moderne" class="yellow"><ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby></a></li>
         <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jeanpage:4#dispositif-architectural" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:4#dispositif-architectural" class="yellow">le dispositif architectural</a></li>
         <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:5#organsation-du-recit" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:5#organisation-du-recit" class="yellow">organisation du récit</a></li>
         <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:6#legendes" title="https//francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:6#legendes" class="yellow">légendes de jean le baptiste et jean l'évangéliste</a>
@@ -799,7 +799,7 @@
   </article></section>
 
   <section><article>
-    <h3 id="devotion-moderne" class="yellow">La conversation sacrée, expression remarquable de la “dévotion moderne”</h3>
+    <h3 id="devotion-moderne" class="yellow">La conversation sacrée, expression remarquable de la “<ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby>”</h3>
     <section><article>
       <h4 class="yellow">symétrie, simplicité, distinction de la disposition des protagonistes</h4>
       <section><article>
@@ -859,23 +859,23 @@
     </article></section>
 
     <section><article>
-      <h4 class="yellow">la dévotion moderne, mouvement de réforme de la foi chrétienne de la société flamande du XV<sup>ème</sup> siècle</h4>
+      <h4 class="yellow">la <ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby>, mouvement de réforme de la foi chrétienne de la société flamande du XV<sup>ème</sup> siècle</h4>
       <section><article>
         <p>Nous pensons que cet <span style="color: #e6a64d;">équilibre</span> est une caractéristique remarquable de la société flamande du XV<sup>ème</sup> siècle dans laquelle a vécu Memling.</p>
         <p>Le très important mouvement de réforme de la foi chrétienne de cette époque, que les historiens appellent <q><a href="https://fr.wikipedia.org/wiki/Devotio_moderna" title="https://fr.wikipedia.org/wiki/Devotio_moderna" id="devotio-moderna" class="yellow"><ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby></a></q>, éclaire cette transparence simple familière de l'espace représenté.</p>
       </article></section>
       <footer>
         <ul>
-          <li>pour en savoir plus: <a href="#note-devotion-moderne" title="note présentation du mouvement “dévotion moderne”" id="renvoi-devotion-moderne" class="yellow">la “dévotion moderne” comme mouvement religieux historique du XV<sup>ème</sup> siècle</a></li>
+          <li>pour en savoir plus: <a href="#note-devotion-moderne" title="note présentation du mouvement “dévotion moderne”" id="renvoi-devotion-moderne" class="yellow">la “<ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby>” comme mouvement religieux historique du XV<sup>ème</sup> siècle</a></li>
         </ul>
       </footer>
     </article></section>
 
     <section><article>
-      <h4 class="yellow">la dévotion moderne, conversion essentielle universelle, simple, pure, transparente</h4>
+      <h4 class="yellow">la <ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby>, conversion essentielle universelle, simple, pure, transparente</h4>
       <section><article>
         <section><article>
-          <p>En Flandres, à l'époque de Memling, un livre de piété chrétienne, <span style="color: #e6a64d;"><cite><a href="https://fr.wikipedia.org/wiki/L'Imitation_de_Jésus-Christ" title="https://fr.wikipedia.org/wiki/L'Imitation_de_Jésus-Christ" id="imitation-de-jesus-christ" class="yellow"><ruby lang="fr">L'Imitation&#160;de<rp>(</rp><rt lang="la">De&#160;imitatione</rt><rp>)</rp>&#160;Jésus-Christ<rp>(</rp><rt lang="la">Christi</rt><rp>)</rp><ruby></a></cite></span>, qui est un énorme succès d'édition <sup id="fnref1:4"><a href="#fn:4" class="footnote-ref">note 1</a></sup>, nous permet aujourd'hui de nous représenter ce qu'a pu être “dévotion moderne”.</p>
+          <p>En Flandres, à l'époque de Memling, un livre de piété chrétienne, <span style="color: #e6a64d;"><cite><a href="https://fr.wikipedia.org/wiki/L'Imitation_de_Jésus-Christ" title="https://fr.wikipedia.org/wiki/L'Imitation_de_Jésus-Christ" id="imitation-de-jesus-christ" class="yellow"><ruby lang="fr">L'Imitation&#160;de<rp>(</rp><rt lang="la">De&#160;imitatione</rt><rp>)</rp>&#160;Jésus-Christ<rp>(</rp><rt lang="la">Christi</rt><rp>)</rp><ruby></a></cite></span>, qui est un énorme succès d'édition <sup id="fnref1:4"><a href="#fn:4" class="footnote-ref">note 1</a></sup>, nous permet aujourd'hui de nous représenter ce qu'a pu être “<ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby>”.</p>
         </article></section>
 
         <section><article>
@@ -912,7 +912,7 @@
   <section><article>
     <h3 id="dispositif-architectural" class="yellow">le dispositif architectural représenté dans le panneau central</h3>
     <section><article>
-      <h4 class="yellow">la dévotion moderne, mode de relation entre les protagonistes de la scène représentée et spectateurs</h4>
+      <h4 class="yellow">la <ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby>, mode de relation entre les protagonistes de la scène représentée et spectateurs</h4>
       <section><article>
         <p>La disposition des lieux représentés, l'abside d'une église, permet au dispositif architectural de fonctionner aussi par rapport aux spectateurs du triptyque.</p>
         <p>Nous qui regardons le tableau nous trouvons de fait dans l'espace du tableau, partie de la conversation sacrée, en présence des protagonistes de la scène représentée, dans ce rapport d'altérité simple, transparente, familière.</p>
@@ -925,7 +925,7 @@
     </article></section>
 
     <section><article>
-      <h4 class="yellow">la dévotion moderne, cristallisation du merveilleux de Bruges au XV<sup>ème</sup> siècle</h4>
+      <h4 class="yellow">la <ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby>, cristallisation du merveilleux de Bruges au XV<sup>ème</sup> siècle</h4>
       <section><article>
         <p>Enfin, la disposition exemplaire d'une représentation où les personnages sont parés des plus belles réalisations vestimentaires de la Bruges du XV<sup>ème</sup> siècle, cristallise le sentiment de <em>merveilleux</em>.</p>
         <p><span style="color: #e6a64d;">simplicité, évidence, idéalité spirituelles produisent</span> aussi de <em>manière continue</em> <span style="color: #e6a64d;">sophistication et opulence matérielles</span>.</p>
@@ -999,17 +999,17 @@
 <aside>
   <h3 id="note">Notes</h3>
   <section><article>
-    <h4 id="note-devotion-moderne">la dévotion moderne</h4>
+    <h4 id="note-devotion-moderne">la <ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby></h4>
     <section><article>
       <div class="notices yellow">
-      <p>Né un peu plus au nord dans les Pays-Bas actuels, dans la région d'Utrecht à la fin du XIV<sup style="color:#e6a64d;">ème</sup> et au début du XV<sup style="color:#e6a64d;">ème</sup> siècle, la dévotion moderne est initié par un homme, <a href="https://fr.wikipedia.org/wiki/Gérard_Groote" title="https://fr.wikipedia.org/wiki/Gérard_Groote" id="gerard-groote" class="yellow">Gérard Groote</a>, qui critique la piété de son temps, la juge trop austère et trop éloignée du monde
+      <p>Né un peu plus au nord dans les Pays-Bas actuels, dans la région d'Utrecht à la fin du XIV<sup style="color:#e6a64d;">ème</sup> et au début du XV<sup style="color:#e6a64d;">ème</sup> siècle, la <ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby> est initiée par un homme, <a href="https://fr.wikipedia.org/wiki/Gérard_Groote" title="https://fr.wikipedia.org/wiki/Gérard_Groote" id="gerard-groote" class="yellow">Gérard Groote</a>, qui critique la piété de son temps, la juge trop austère et trop éloignée du monde
       En réaction, il exhorte le croyant à laisser le christ habiter au plus profond de lui-même.
       Cette présence du christ a vocation selon lui à produire de la simplicité.
       Le croyant peut alors exercer une action conforme à la vertu à laquelle la foi l'appelle, de manière naturelle, là où il se trouve.</p>
       </div>
       <footer>
         <ul>
-          <li>retour au texte <a href="#renvoi-devotion-moderne" title="renvoi mouvement «dévotion moderne»">...une présentation détaillée de ce mouvement se trouve en note ↑</a></li>
+          <li>retour au texte <a href="#renvoi-devotion-moderne" title="renvoi mouvement «<ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby>»">...une présentation détaillée de ce mouvement se trouve en note ↑</a></li>
         </ul>
       </footer>
     </article></section>
