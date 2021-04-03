@@ -208,16 +208,16 @@
       <a href="#mise-en-relation" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" class="yellow">different texts at the origin of the scenes represented</a>
       <ul>
         <li>
-          <a href="#cath-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" class="yellow">catherine of alexandria according to the Golden Legend</a>
+          <a href="#cath-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" class="yellow">catherine of alexandria according to <cite>The Golden Legend</cite></a>
         </li>
         <li>
-          <a href="#barbe-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" class="yellow">barbara the great martyr according to the Golden Legend</a>
+          <a href="#barbe-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" class="yellow">barbara the great martyr according to <cite>The Golden Legend</cite></a>
         </li>
         <li>
-          <a href="#jean-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" class="yellow">john the evangelist according to the Golden Legend chapter 9</a>
+          <a href="#jean-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" class="yellow">john the evangelist according to <cite>The Golden Legend</cite> chapter 9</a>
         </li>
         <li>
-          <a href="#jean-selon-legende-2" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" class="yellow">john the evangelist according to the Golden Legend chapter 65</a>
+          <a href="#jean-selon-legende-2" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" class="yellow">john the evangelist according to <cite>The Golden Legend</cite> chapter 65</a>
         </li>
         <li>
           <a href="#apocalypse" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" class="yellow">vision of the throne of the god and the heavenly court: the living on the throne and the lamb</a>
@@ -390,7 +390,7 @@
     <section><article>
 
       <section><article>
-        <p>In the center, <span style="color: #e6a64d;">virgin Mary</span> thrones on a gold seat in front of a clothed cloth and under a red velvet baldaquin. </p>
+        <p>In the center, <span style="color: #e6a64d;">virgin Mary</span> thrones on a gold seat in front of a clothed cloth and under a red velvet baldaquin.</p>
       </article></section>
 
       <figure>
@@ -505,7 +505,7 @@
       <section><article>
         <p><a href="https://en.wikipedia.org/wiki/Catherine_of_Alexandria" title="https://en.wikipedia.org/wiki/Catherine_of_Alexandria" id="catherine-d-alexandrie-2" class="yellow">Catherine of Alexandria</a> was, since the end of the 13<sup style="color:#555;">th</sup> century, a very popular saint whose legend, reported by <a href="https://en.wikipedia.org/wiki/Jacobus_da_Varagine" title="https://en.wikipedia.org/wiki/Jacobus_da_Varagine" class="yellow">Jacobus da Varagine</a> in <span style="color: #e6a64d;">chapter 168</span> of the <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" class="yellow">“Golden Legend”</a>, entitled <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16" title="https://francois-vidit.com/docs/fr/saint-jean/page:16" class="yellow">“Saint Catherine”</a>, is fascinating.</p>
         <ul>
-          <li>Read the <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:6" title="https://francois-vidit.com/docs/fr/saint-jean/page:6" class="yellow">text of the Legend of Catherine of Alexandria according to chapter 168 of <cite>the Golden Legend</cite></a>.</li>
+          <li>Read the <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:6" title="https://francois-vidit.com/docs/fr/saint-jean/page:6" class="yellow">text of the Legend of Catherine of Alexandria according to chapter 168 of <cite>The Golden Legend</cite></a>.</li>
         </ul>
         <p>It is quite likely that Memling relied on this text.</p>
         <p>Although modern historians believe that Catherine of Alexandria has not really existed <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">note 1</a></sup> and her cult was removed from the general calendar of the catholic church in <time datetime="1970">1970</time> <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">note 2</a></sup>.</p>
@@ -513,7 +513,7 @@
     </article></section>
 
     <section><article>
-      <h4 class="yellow">catherine d'alexandrie, sa légende au XVème siècle</h4>
+      <h4 class="yellow">catherine of alexandria, her legend in the 15<sup>th</sup> century</h4>
       <section><article>
         <p>According to her legend, <span style="color: #e6a64d;">Catherine</span> is a <span style="color: #e6a64d;">patrician</span> known for her <span style="color: #e6a64d;">exceptional education</span> and her <span style="color: #e6a64d;">great beauty</span></p>
         <p>She may have lived in Alexandria in the 3<sup style="color:#555;">rd</sup> or 4<sup style="color:#555;">th</sup> centuries.</p>
@@ -627,12 +627,25 @@
         <section><article>
           <p>The etymology of the first name "John" comes from the hebrew <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="fr">Yo<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">יו</rt><rp>)</rp>kha<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">ח</rt><rp>)</rp>nan<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">נן</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span>, whose pronunciation is:</p>
           <p><audio controls="1" title="prononciation de Yokhanan en hébreu"><source src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/prononciation-yokhanan.mp3" type="audio/mpeg">Your browser does not support the audio tag.</audio></p>
-          <p>which literally means <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="fr">god<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">Yo</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span> is <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="fr">grace<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">khanan</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span> or <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="fr">mercy<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">khanan</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span>.
-          As «god» also means in hebrew «what is», it also means <span style="color: #e6a64d;">«the one who is»</span> <span style="color: #e6a64d;">«grace»</span> or <span style="color: #e6a64d;">«mercy»</span>.  <p></p>
+          <p>which literally means <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="fr">god<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">Yo</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span> is <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="fr">grace<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">khanan</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span> or <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="fr">mercy<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">khanan</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span>.</p>
+          <p>As «god» also means in hebrew «what is», it also means <span style="color: #e6a64d;">«the one who is»</span> <span style="color: #e6a64d;">«grace»</span> or <span style="color: #e6a64d;">«mercy»</span>.</p>
           <p>Although <span style="color: #e6a64d;">this first name</span> was used by several minor figures in the history of the hebrew people, it <span style="color: #e6a64d;">only became</span> very <span style="color: #e6a64d;">popular</span> after the appearance of christianity <span style="color: #e6a64d;">in the christian world</span>, following the very important role each of them played, roles that we will soon detail.</p>
-          <p>On the other side of virgin Mary, on the front right, <span style="color: #e6a64d;">another woman</span>, dressed in <span style="color: #e6a64d;">a magnificent green wool tunic</span> as only Bruges produced in the 15<sup style="color:#555;">th</sup> century, <span style="color: #e6a64d;">reads</span>.
-          Her presence corresponds to that of <a href="#catherine-d-alexandrie" class="yellow">Catherine of Alexandria</a> on the front of the other side.
-          Behind her, <span style="color: #e6a64d;">a white stone tabernacle tower</span> tells us that it is <a href="https://en.wikipedia.org/wiki/Saint_Barbara" title="https://en.wikipedia.org/wiki/Saint_Barbara" id="barbe-la-grande-martyre" class="yellow">Barbara the great martyr</a> <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref">note 4</a></sup>.</p>
+        </article></section>
+      </article></section>
+    </article></section>
+  </article></section>
+
+  <section><article>
+    <h3 id="barbe" class="yellow">barbara the great martyr</h3>
+    <section><article>
+      <h4 class="yellow">barbe the great martyr in the scene of the central panel</h4>
+      <section><article>
+        <p>On the other side of virgin Mary, on the front right, <span style="color: #e6a64d;">another woman</span>, dressed in <span style="color: #e6a64d;">a magnificent green wool tunic</span> as only Bruges produced in the 15<sup style="color:#555;">th</sup> century, <span style="color: #e6a64d;">reads</span>.</p>
+        <p>Her presence corresponds to that of <a href="#catherine-d-alexandrie" class="yellow">Catherine of Alexandria</a> on the front of the other side.</p>
+        <p>Behind her, <span style="color: #e6a64d;">a white stone tabernacle tower</span> tells us that it is <a href="https://en.wikipedia.org/wiki/Saint_Barbara" title="https://en.wikipedia.org/wiki/Saint_Barbara" id="barbe-la-grande-martyre" class="yellow">Barbara the great martyr</a> <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref">note 4</a></sup>.</p>
+        <p>As with <a href="#catherine-d-alexandrie" class="yellow">Catherine of Alexandria</a>, modern historians doubt the reality of her existence and her name has also been removed from the general calendar <sup id="fnref2:2"><a href="#fn:2" class="footnote-ref">note 2</a></sup>.</p>
+      </article></section>
+  
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-280.webp 280w,
@@ -652,19 +665,41 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1920.jpg 1920w"></picture><figcaption>Barbara the great martyr</figcaption>
       </figure>
-      <h3 id="barbe" class="yellow">barbara the great martyr</h3>
-      <p>As with <a href="#catherine-d-alexandrie" class="yellow">Catherine of Alexandria</a>, modern historians doubt the reality of her existence and her name has also been removed from the general calendar <sup id="fnref2:2"><a href="#fn:2" class="footnote-ref">note 2</a></sup> ; the text on which Memling based his representation is not part of the <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" id="legende-doree-2" class="yellow">Golden Legend</a> either but, like other texts, was added later.
-      We reproduce it in its entirety <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:17" title="https://francois-vidit.com/docs/fr/saint-jean/page:17" class="yellow">here</a>.</p>
-      <p>According to his legend, Barbara lives in <a href="https://en.wikipedia.org/wiki/Nicomedia" title="https://en.wikipedia.org/wiki/Nicomedia" id="nicomedie" class="yellow">Nicomedia</a>, capital of the former province of <a href="https://en.wikipedia.org/wiki/Bithynia" title="https://en.wikipedia.org/wiki/Bithynia" id="bithynie" class="yellow">Bithynia</a>, which is located in the north of present-day Turkey and overlooks the Black Sea.
-      Barbara has the defect of being beautiful..., so beautiful, that when he was very young, <span style="color: #e6a64d;">his father emprisoned her in a tower</span>!   </p>
-      <p>The text teaches us that Barbara then feels <span style="color: #e6a64d;">«the nothingness of earthly things»</span> and begins to worry about <span style="color: #e6a64d;">«heavenly things»</span>.
-      Although it was forbidden in her time, she gradually turned away from the roman gods and secretly wrote to the most famous christian of <a href="https://en.wikipedia.org/wiki/Alexandria" title="https://en.wikipedia.org/wiki/Alexandria" id="alexandrie" class="yellow">Alexandria</a> in Egypt, <a href="https://en.wikipedia.org/wiki/Origen" title="https://en.wikipedia.org/wiki/Origen" class="yellow">Origen</a>.
-      The latter replied, fortifying her in her nascent faith, visiting her and secretly giving her the <span style="color: #e6a64d;">baptism</span>.  </p>
-      <p>Publicly <span style="color: #e6a64d;">denounced</span> later for refusing to sacrifice to the gods, she was martyred.
-      Jesus' voice would then have been heard from heaven:
-      <span style="color: #e6a64d;">«Come, my beloved; rest in my father's house in heaven»</span>.</p>
-      <p>His own father cuts off her head. </p>
-      <p>Through the intertwining of the tower, <span style="color: #e6a64d;">a host</span> appears in <span style="color: #e6a64d;">a glass cylinder</span> mounted on a golden crescent moon.</p>
+    </article></section>
+
+    <section><article>
+      <h4 class="yellow">Barbara the great martyr, its historical reality</h4>
+      <section><article>
+        <p>As with <a href="#catherine-d-alexandria" class="yellow">Catherine of Alexandria</a>, modern historians doubt the reality of her existence and her name has also been removed from the general calendar <sup id="fnref2: 2"><a href="#fn:2" class="footnote-ref">note 2</a></sup>; the text Memling relied on to represent her is also not part of <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" id="legende-doree-2" class="yellow"><cite>The Golden Legend</cite></a> but, like other texts, was added to it later.</p>
+        <ul>
+          <li>Read the <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:7" title="https://francois-vidit.com/docs/en/saint-jean/page:7" class="yellow">text <cite href="https://francois-vidit.com/docs/en/saint-jean/page:7">Legend of Beard the Great Martyr</cite> added to <cite>The Golden Legend</cite></a>.</li>
+        </ul>
+      </article></section>
+    </article></section>
+
+    <section><article>
+      <h4 class="yellow">Barbara the great martyr, her legend in the XV<sup>th</sup>.</h4>
+      <section><article>
+        <p>According to his legend, Barbara lives in <a href="https://en.wikipedia.org/wiki/Nicomedia" title="https://en.wikipedia.org/wiki/Nicomedia" id="nicomedie" class="yellow">Nicomedia</a>, capital of the former province of <a href="https://en.wikipedia.org/wiki/Bithynia" title="https://en.wikipedia.org/wiki/Bithynia" id="bithynie" class="yellow">Bithynia</a>, which is located in the north of present-day Turkey and overlooks the Black Sea.
+        Barbara has the defect of being beautiful..., so beautiful, that when he was very young, <span style="color: #e6a64d;">his father emprisoned her in a tower</span>!</p>
+        <p>The text teaches us that Barbara then feels <span style="color: #e6a64d;">«the nothingness of earthly things»</span> and begins to worry about <span style="color: #e6a64d;">«heavenly things»</span>.
+        Although it was forbidden in her time, she gradually turned away from the roman gods and secretly wrote to the most famous christian of <a href="https://en.wikipedia.org/wiki/Alexandria" title="https://en.wikipedia.org/wiki/Alexandria" id="alexandrie" class="yellow">Alexandria</a> in Egypt, <a href="https://en.wikipedia.org/wiki/Origen" title="https://en.wikipedia.org/wiki/Origen" class="yellow">Origen</a>.
+        The latter replied, fortifying her in her nascent faith, visiting her and secretly giving her the <span style="color: #e6a64d;">baptism</span>.</p>
+        <p>Publicly <span style="color: #e6a64d;">denounced</span> later for refusing to sacrifice to the gods, she was martyred.
+        Jesus' voice would then have been heard from heaven:</p>
+        <blockquote>
+          <p><span style="color: #e6a64d;">«Come, my beloved; rest in my father's house in heaven»</span>.</p>
+        </blockquote>
+        <p>His own father cuts off her head.</p>
+      </article></section>
+    </article></section>
+
+    <section><article>
+      <h4 class="yellow">the host through the tower of Barbara the great martyr</h4>
+      <section><article>
+        <p>Through the intertwining of the tower, <span style="color: #e6a64d;">a host</span> appears in <span style="color: #e6a64d;">a glass cylinder</span> mounted on a golden crescent moon.</p>
+        <p>The <span style="color: #e6a64d;">host</span> is one of the attributes of the saint; it is also a link with the rest of the panel that reveals other aspects of it in the form of a <span style="color: #e6a64d;">«sacred conversation»</span>.</p>
+      </article></section>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-280.webp 280w,
@@ -678,14 +713,20 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-640.jpg 640w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-840.jpg 840w"></picture><figcaption>through the intertwining of its tower, a host appears in a glass cylinder mounted on a golden crescent moon</figcaption>
       </figure>
-      <p>The <span style="color: #e6a64d;">host</span> is one of the attributes of the saint; it is also a link with the rest of the panel that reveals other aspects of it in the form of a <span style="color: #e6a64d;">«sacred conversation»</span>.</p>
-      </div>
+      <section><article>
+        <p>L'<span style="color: #e6a64d;">hostie</span> est un des attribut de la sainte; c'est aussi un lien avec le reste du panneau qui en fait apparaître d'autres aspects sous forme d'une <span style="color: #e6a64d;"><q>conversation sacrée</q></span>.</p>
+      </article></section>
+    </article></section>
+  </article></section>
+</article>
+
+<hr>
 
   <!-- Page 4 --><hr>
 
   <div id="body-inner">
   <h3 id="conversation" class="yellow">a sacred conversation</h3>
-  <p>To <a href="https://fr.wikipedia.org/wiki/Marie_(mère_de_Jésus)" title="https://fr.wikipedia.org/wiki/Marie_(mère_de_Jésus)" id="marie-mere-de-jesus" class="yellow">Mary</a>'s coronation, the presence <span style="color: #e6a64d;">two</span> by <span style="color: #e6a64d;">two</span> of <a href="#catherine-d-alexandrie" title="Catherine d'Alexandrie" class="yellow">Catherine</a> and <a href="#barbe" class="yellow">Barbara</a>, <a href="#jean-le-baptiste-2" title="Jean le Baptiste" id="jean-le-baptiste-3" class="yellow">John the Baptist</a> and <a href="#jean-l-evangeliste-3" title="Jean l'Évangéliste" id="jean-l-evangeliste-4" class="yellow">John the Evangelist</a> adds a «<ruby style="color:#e6a64d;" lang="en">sacred conversation<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="it">sacra&nbsp;conversazione</rt><rp>)</rp></ruby>», that is, a <span style="color: #e6a64d;">meeting of saints</span> around the Virgin. </p>
+  <p>To <a href="https://fr.wikipedia.org/wiki/Marie_(mère_de_Jésus)" title="https://fr.wikipedia.org/wiki/Marie_(mère_de_Jésus)" id="marie-mere-de-jesus" class="yellow">Mary</a>'s coronation, the presence <span style="color: #e6a64d;">two</span> by <span style="color: #e6a64d;">two</span> of <a href="#catherine-d-alexandrie" title="Catherine d'Alexandrie" class="yellow">Catherine</a> and <a href="#barbe" class="yellow">Barbara</a>, <a href="#jean-le-baptiste-2" title="Jean le Baptiste" id="jean-le-baptiste-3" class="yellow">John the Baptist</a> and <a href="#jean-l-evangeliste-3" title="Jean l'Évangéliste" id="jean-l-evangeliste-4" class="yellow">John the Evangelist</a> adds a «<ruby style="color:#e6a64d;" lang="en">sacred conversation<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="it">sacra&nbsp;conversazione</rt><rp>)</rp></ruby>», that is, a <span style="color: #e6a64d;">meeting of saints</span> around the Virgin.</p>
   <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-280.webp 280w,
@@ -829,7 +870,7 @@
   <p>Born a little further north in the present Netherlands, in the Utrecht region at the end of the 14<sup style="color:#e6a64d;">th</sup> and beginning of the 15<sup style="color:#e6a64d;">th</sup> century, modern devotion was initiated by a man, <a href="https://en.wikipedia.org/wiki/Geert_Groote" title="https://en.wikipedia.org/wiki/Geert_Groote" id="gerard-groote" class="yellow">Geert Groote</a>, who criticized the piety of his time, judging it too austere and too far from the world.
   In reaction, he exhorted the believer to let Christ dwell in the depths of his heart.
   According to him, this presence of Christ is intended to produce simplicity.
-  The believer can then exercise an action in conformity with the virtue to which faith calls him, in a natural way, where he is. </p>
+  The believer can then exercise an action in conformity with the virtue to which faith calls him, in a natural way, where he is.</p>
   <hr>
   <ul>
   <li>back to the text «<a href="#renvoi-devotion-moderne" title="renvoi mouvement «dévotion moderne»">A detailed presentation of this movement can be found in note ↑</a>»</li>
@@ -852,7 +893,7 @@
   <div id="body-inner">
   <h3 id="organisation-du-recit" class="yellow">structure of the narrative</h3>
   <p>The narrative is structured around a number of <span style="color: #e6a64d;">small scenes</span> depicting <span style="color: #e6a64d;">the two legends</span> of John the Baptist and John the Evangelist and representing the <span style="color: #e6a64d;">Crane's square</span> of Bruges linked to the St. John's Hospital.</p>
-  <p>The two legends begin spatially with the <span style="color: #e6a64d;">sculpted scenes</span> above each saint in the <span style="color: #e6a64d;">column capitals</span>. </p>
+  <p>The two legends begin spatially with the <span style="color: #e6a64d;">sculpted scenes</span> above each saint in the <span style="color: #e6a64d;">column capitals</span>.</p>
   <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-280.webp 280w,
@@ -983,7 +1024,7 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1920.jpg 1920w"></picture><figcaption>the 2 inner panels: in the foreground on the left, John the Baptist beheaded by Herod's order, on the right, John the Evangelist in Patmos</figcaption>
   </figure>
   <h3 id="legendes" class="yellow">legends of john the baptist and john the evangelist</h3>
-  <p>We follow here each of <span style="color: #e6a64d;">two stories</span> on which Memling probably based himself as <a href="https://en.wikipedia.org/wiki/Jacobus_da_Varagine" title="https://en.wikipedia.org/wiki/Jacobus_da_Varagine" id="jacques-de-voragine" class="yellow">Jacobus da Varagine</a> reports them in the <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" id="legende-doree" class="yellow">Golden Legend</a>.</p>
+  <p>We follow here each of <span style="color: #e6a64d;">two stories</span> on which Memling probably based himself as <a href="https://en.wikipedia.org/wiki/Jacobus_da_Varagine" title="https://en.wikipedia.org/wiki/Jacobus_da_Varagine" id="jacques-de-voragine" class="yellow">Jacobus da Varagine</a> reports them in <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" id="legende-doree" class="yellow"><cite>The Golden Legend</cite></a>.</p>
   <p>For ease of reference, these texts have been placed after the description <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18" title="https://francois-vidit.com/docs/fr/saint-jean/page:18" class="yellow">here</a> and <a href="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:19" title="https://francois-vidit.com/docs/ja/saint-jean/page:19" class="yellow">here</a>.</p>
   <h4 id="legende-de-jean-le-baptiste" class="yellow">legend of john the baptist</h4>
   <p>We begin with John the Baptist who, in chronology, precedes John the Evangelist.</p>
@@ -1222,7 +1263,7 @@
   <p>Herod looks as if he liked his dance and, <span style="color: #e6a64d;">to avoid responsibility for John's death, says</span>:</p>
   <p>«"<span style="color: #e6a64d;">Ask me what you want</span>, and I'll give it to you, even if it's half my kingdom" <span style="color: #999;">(Mark, chap. 6:21-22)</span>.</p>
   <p>Salome goes out «to tell her mother, <span style="color: #e6a64d;">"What am I going to ask for?"</span>» Herodias replied: «<span style="color: #e6a64d;">"The head of John, the one who baptises"</span>. Immediately the girl» hastened «to return to the king, and» made him «this request: <span style="color: #e6a64d;">"I want you to give me immediately on a plate the head of John the Baptist"</span>. <span style="color: #999;">(Mark, chap. 6, 24-29)</span></p>
-  <p>The proof that this whole story is indeed a smokescreen is that if Salome asks Herod <span style="color: #e6a64d;">«the death of his father <a href="https://en.wikipedia.org/wiki/Herod_II" title="https://en.wikipedia.org/wiki/Herod_II" id="herode-boethos-2" class="yellow">Philip</a> or her mother <a href="https://en.wikipedia.org/wiki/Herodias" title="https://en.wikipedia.org/wiki/Herodias" id="herodiade-2" class="yellow">Herodias</a>»</span>, Herod cannot consent to it <span style="color: #999;">(Golden Legend chap. 121,I. <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">note 1</a></sup> )</span>.  </p>
+  <p>The proof that this whole story is indeed a smokescreen is that if Salome asks Herod <span style="color: #e6a64d;">«the death of his father <a href="https://en.wikipedia.org/wiki/Herod_II" title="https://en.wikipedia.org/wiki/Herod_II" id="herode-boethos-2" class="yellow">Philip</a> or her mother <a href="https://en.wikipedia.org/wiki/Herodias" title="https://en.wikipedia.org/wiki/Herodias" id="herodiade-2" class="yellow">Herodias</a>»</span>, Herod cannot consent to it <span style="color: #999;">(<cite>The Golden Legend</cite> chap. 121,I. <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">note 1</a></sup> )</span>.  </p>
   <p>A guard is going to «behead John in the prison» <span style="color: #999;">(Mark, chap. 6,22-23)</span>.</p>
   <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -1341,7 +1382,7 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-1600.jpg 1600w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-1920.jpg 1920w"></picture><figcaption>detail of the central panel, “the head of John the Baptist in the opening of a wall”</figcaption>
   </figure>
-  <p>According to legend, the head was buried separately by <span style="color: #e6a64d;">a potter from the city of Emesse</span>, the current <a href="https://en.wikipedia.org/wiki/Homs" title="https://en.wikipedia.org/wiki/Homs" id="homs" class="yellow"><ruby lang="en">Homs<rp>(</rp><rt lang="ar">حمص</rt><rp>)</rp></ruby></a> in Syria, and appeared to Saint Marcellus <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">note 1</a></sup> who discovered it by following a star <span style="color: #999;">(Golden Legend chap. 121,III.)</span>.</p>
+  <p>According to legend, the head was buried separately by <span style="color: #e6a64d;">a potter from the city of Emesse</span>, the current <a href="https://en.wikipedia.org/wiki/Homs" title="https://en.wikipedia.org/wiki/Homs" id="homs" class="yellow"><ruby lang="en">Homs<rp>(</rp><rt lang="ar">حمص</rt><rp>)</rp></ruby></a> in Syria, and appeared to Saint Marcellus <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">note 1</a></sup> who discovered it by following a star <span style="color: #999;">(<cite>The Golden Legend</cite> chap. 121,III.)</span>.</p>
   <div class="footnotes">
   <hr>
   <ol>
@@ -1408,8 +1449,8 @@
   <p>He was the first to recognize Jesus at Lake Tiberias after his resurrection <span style="color: #999;">(John 21:7)</span>.</p>
   <h5 id="jean-de-patmos-2" class="yellow">john of patmos</h5>
   <p><a href="https://fr.wikipedia.org/wiki/Jean_de_Patmos" title="https://fr.wikipedia.org/wiki/Jean_de_Patmos" id="jean-de-patmos-3" class="yellow">John of Patmos</a> appears at the beginning of the text of Apocalypse <span style="color: #999;">(Rev 1:1-9)</span> which presents him as a <span style="color: #e6a64d;">«servant» to whom god made known</span> <span style="color: #999;">(…)</span> «by sending his angel»[/color] <span style="color: #999;">(…)</span> «what must soon happen» <span style="color: #999;">(…)</span> «to the seven churches in Asia Minor».</p>
-  <h5 id="jean-de-patmos-2" class="yellow">john the evangelist in relation to the golden legend</h5>
-  <p>The representation of John the Evangelist broadly follows the account established by Jacobus da Varagine in <span style="color: #e6a64d;">Chapters 9</span> and <span style="color: #e6a64d;">65</span> of the Golden Legend, texts that we reproduce for information <a href="#aristodeme" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:8#aristodeme" class="yellow">here</a>.</p>
+  <h5 id="jean-de-patmos-2" class="yellow">john the evangelist in relation to The golden legend</h5>
+  <p>The representation of John the Evangelist broadly follows the account established by Jacobus da Varagine in <span style="color: #e6a64d;">Chapters 9</span> and <span style="color: #e6a64d;">65</span> of <cite>The Golden Legend</cite>, texts that we reproduce for information <a href="#aristodeme" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:8#aristodeme" class="yellow">here</a>.</p>
   <p>However, unlike Jacobus da Varagine who considers the three John <span style="color: #999;">(John the Apostle, the disciple whom Jesus loved, John of Patmos)</span> as one and the same person, Memling gives a physical appearance to John the Apostle <span style="color: #999;">(left inner panel)</span> in comparison to John the Evangelist.</p>
   <h5 id="jean-a-la-porte-latine" class="yellow">john the evangelist scalded by order of emperor domitian in front of the latin gate in rome and departure for exile in the island of patmos</h5>
   <p>The story starts on the central panel:</p>
@@ -1835,7 +1876,7 @@
   <p><sup>01</sup>
   Then I saw another powerful <span style="color: #e6a64d;">angel</span> coming down from heaven, <span style="color: #e6a64d;">wrapped in cloud</span>, with <span style="color: #e6a64d;">a rainbow</span> over his head; his face was like <span style="color: #e6a64d;">the sun</span>, and his legs were <span style="color: #e6a64d;">pillars of fire</span>.</p>
   <p><sup>02</sup>
-  In his hand he had <span style="color: #e6a64d;">a small scroll, unrolled</span>; he put his right foot in the sea and his left foot on the land. </p>
+  In his hand he had <span style="color: #e6a64d;">a small scroll, unrolled</span>; he put his right foot in the sea and his left foot on the land.</p>
   <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-280.webp 280w,
@@ -1977,7 +2018,7 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1600.jpg 1600w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1920.jpg 1920w"></picture><figcaption>detail of the right inner panel, “the woman was given a pair of the great eagle's wings to fly away from the serpent” (Apocalypse 12:14)</figcaption>
   </figure>
-  <p>This is for the visions of the apocalypse. According to the Golden Legend, John returns to Ephesus, where he resurrected Drusiana as Memling depicts him on a capital.</p>
+  <p>This is for the visions of the apocalypse. According to <cite>The Golden Legend</cite>, John returns to Ephesus, where he resurrected Drusiana as Memling depicts him on a capital.</p>
   <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/chapiteau-3-280.webp 280w,
@@ -2095,7 +2136,7 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1600.jpg 1600w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1920.jpg 1920w"></picture><figcaption>Catherine of Alexandria</figcaption>
   </figure>
-  <h2 id="cath-selon-legende" class="yellow">catherine of alexandria following the golden legend</h2>
+  <h2 id="cath-selon-legende" class="yellow">catherine of alexandria following The golden legend</h2>
   <p>Here followeth the Life of S. Catherine, virgin and martyr, and first of her name.</p>
   <p>CATHERINE is said of catha, that is all, and ruina that is falling, for all the edifice of the devil fell all from her.
   For the edifice of pride fell from her by humility that she had, and the edifice of fleshly desire fell from her by her virginity, and worldly covetise, for that she despised all worldly things.</p>
@@ -2334,7 +2375,7 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1600.jpg 1600w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1920.jpg 1920w"></picture><figcaption>Barbara the great martyr</figcaption>
   </figure>
-  <h2 id="st-barbara-following-the-golden-legend" class="yellow">St. Barbara following the Golden Legend</h2>
+  <h2 id="st-barbara-following-the-golden-legend" class="yellow">St. Barbara following <cite>The Golden Legend</cite></h2>
   <p>There was in <a href="#note_nicomedie" title="Nicomedy" id="nicomedie" class="yellow">Nicomedia</a>, at the time of Emperor <a href="#note_maximien" title="Maximian" id="maximien" class="yellow">Maximian</a>, a pagan named <span style="color: #99713d;">Dioscorus</span> who was from a very distinguished family with great wealth.</p>
   <p>He had a daughter of great beauty, who called <span style="color: #994c3d;">Barbara</span>.</p>
   <p>Her father loved her very much;
@@ -3015,7 +3056,7 @@
   </div>
   <h3 id="note_marcien" class="yellow">Marcian</h3>
   <div class="notices yellow">
-  <p>No trace of this proconsul apart from the Golden Legend.</p>
+  <p>No trace of this proconsul apart from <cite>The Golden Legend</cite>.</p>
   <p>back to note: <a href="#marcien" title="Marcian">Marcian↑</a></p>
   </div>
   <h3 id="note_saxe" class="yellow">Saxony</h3>
@@ -3047,7 +3088,7 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1600.jpg 1600w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1920.jpg 1920w"></picture><figcaption>John the Evangelist</figcaption>
   </figure>
-  <h2 class="yellow" id="st-john-the-evangelist-according-to-the-golden-legend">St. John the Evangelist according to the Golden Legend</h2>
+  <h2 class="yellow" id="st-john-the-evangelist-according-to-the-golden-legend">St. John the Evangelist according to <cite>The Golden Legend</cite></h2>
   <p>Chapter 9. St. John the Evangelist</p>
   <p>The <a href="#note_nomdejean" title="name of John" id="nomdejean" class="yellow">name of John</a>, <span style="color: #994c3d;">Johannes</span>, is expounded <span style="color: #994c3d;">«the grace of God»</span>, or <span style="color: #994c3d;">«he in whom grace is»</span>, or <span style="color: #994c3d;">«to whom it is given of our Lord»</span>,
   and therefore been understood four privileges that be in the blessed <span style="color: #994c3d;">St. John</span>.</p>
@@ -3238,11 +3279,11 @@
   </table>
   <p>And then the apostle began to distil a lot against wealth by showing that six causes must divert us from wanting immodestly.</p>
   <p>The <span style="color: #994c3d;">first</span> is <span style="color: #994c3d;">scripture</span>:</p>
-  <p>He told the <a href="#note_hoteriche" title="story of the rich host" id="hoteriche" class="yellow">story of the rich host that the reproach and poor Lazare chose him</a>. </p>
-  <p>The <span style="color: #994c3d;">second</span> cause is <span style="color: #994c3d;">nature</span>, because man is born without wealth or clothing and dies without wealth. </p>
-  <p>The <span style="color: #994c3d;">third</span> is creation, because the sun, the moon, the stars, the rain, the air are common to all and distribute their benefits in common: similarly, all things should be common to all. </p>
-  <p>The <span style="color: #994c3d;">fourth</span> cause is <span style="color: #994c3d;">fortune</span>, because the rich is the slave of money and devil: the slave of money, he does not possess wealth, but is possessed by wealth; slave to devil, the lover of money, according to the Gospel, serves Mammon (Matthew 6, 24; Luke 16, 13). </p>
-  <p>The <span style="color: #994c3d;">fifth</span> is the <span style="color: #994c3d;">concern</span>, because the rich experience, both day and night, the concern and obsession to acquire and fear of losing. Indeed, they have trouble to acquire and fear to keep. </p>
+  <p>He told the <a href="#note_hoteriche" title="story of the rich host" id="hoteriche" class="yellow">story of the rich host that the reproach and poor Lazare chose him</a>.</p>
+  <p>The <span style="color: #994c3d;">second</span> cause is <span style="color: #994c3d;">nature</span>, because man is born without wealth or clothing and dies without wealth.</p>
+  <p>The <span style="color: #994c3d;">third</span> is creation, because the sun, the moon, the stars, the rain, the air are common to all and distribute their benefits in common: similarly, all things should be common to all.</p>
+  <p>The <span style="color: #994c3d;">fourth</span> cause is <span style="color: #994c3d;">fortune</span>, because the rich is the slave of money and devil: the slave of money, he does not possess wealth, but is possessed by wealth; slave to devil, the lover of money, according to the Gospel, serves Mammon (Matthew 6, 24; Luke 16, 13).</p>
+  <p>The <span style="color: #994c3d;">fifth</span> is the <span style="color: #994c3d;">concern</span>, because the rich experience, both day and night, the concern and obsession to acquire and fear of losing. Indeed, they have trouble to acquire and fear to keep.</p>
   <p>The <span style="color: #994c3d;">sixth</span> cause is the <span style="color: #994c3d;">loss</span>:</p>
   <p>it showed that wealth causes a loss that lies in the acquisition of two evils: evil in life present, vanity, and evil in future life, eternal damnation.</p>
   <p>They cause, in eternal perdition, another loss, that of two goods, grace in the present life and eternal glory in future life.</p>
@@ -3453,7 +3494,7 @@
   <!-- Page 19 --><hr>
 
   <div id="body-inner">
-  <h2 id="jean-selon-legende-2" class="yellow">St. John the Evangelist according to the Golden Legend</h2>
+  <h2 id="jean-selon-legende-2" class="yellow">St. John the Evangelist according to <cite>The Golden Legend</cite></h2>
   <ol start="65">
   <li>saint John in front of the Latin gate</li>
   </ol>
@@ -3466,7 +3507,7 @@
 
   <!-- Page 20 --><hr>
 
-  <h2 id="jean-selon-legende-2" class="yellow">St. John the Evangelist according to the Golden Legend</h2>
+  <h2 id="jean-selon-legende-2" class="yellow">St. John the Evangelist according to <cite>The Golden Legend</cite></h2>
 `;
 
   let focusEditor;

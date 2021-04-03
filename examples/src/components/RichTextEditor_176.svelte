@@ -174,10 +174,10 @@
     </li>
     <li><a href=/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" class="yellow">différents textes à l'origine des scènes représentées</a>
       <ul>
-        <li><a href=/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" class="yellow">catherine d'alexandrie selon la légende dorée</a></li>
-        <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:17#barb-selon-legende" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" class="yellow">barbe la grande martyre selon la légende dorée</a></li>
-        <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jeanpage:18#jean-selon-legende" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" class="yellow">jean l'évangéliste selon la légende dorée chapître 9</a></li>
-        <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jeanpage:19#jean-selon-legende-2" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" class="yellow">jean l'évangéliste selon la légende dorée chapître 65</a></li>
+        <li><a href=/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" class="yellow">catherine d'alexandrie selon <cite>la légende dorée</cite></a></li>
+        <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:17#barb-selon-legende" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" class="yellow">barbe la grande martyre selon <cite>la légende dorée</cite></a></li>
+        <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jeanpage:18#jean-selon-legende" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" class="yellow">jean l'évangéliste selon <cite>la légende dorée</cite> chapître 9</a></li>
+        <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jeanpage:19#jean-selon-legende-2" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" class="yellow">jean l'évangéliste selon <cite>la légende dorée</cite> chapître 65</a></li>
         <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:20#apocaypse" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" class="yellow">vision du trône du dieu et de la cour céleste: le vivant sur le trône et l'agneau</a></li>
       </ul>
     </li>
@@ -456,7 +456,7 @@
     <section><article>
       <h4 class="yellow">catherine d'alexandrie, sa réalité historique</h4>
       <section><article>
-        <p><a href="https://fr.wikipedia.org/wiki/Catherine_d'Alexandrie" title="https://fr.wikipedia.org/wiki/Catherine_d'Alexandrie" id="catherine-d-alexandrie-2" class="yellow">Catherine d'Alexandrie</a> est, depuis la fin du XIII<sup style="color:#555;">ème</sup> siècle, une sainte très populaire dont la légende, rapportée par <a href="https://fr.wikipedia.org/wiki/Jacques_de_Voragine" title="https://fr.wikipedia.org/wiki/Jacques_de_Voragine" class="yellow">Jacques De Voragine</a> dans le <span style="color: #e6a64d;">chapître 168</span> de la <a href="https://fr.wikipedia.org/wiki/La_Légende_dorée" title="https:/fr.wikipedia.org/wiki/La_Légende_dorée" class="yellow">“La Légende Dorée”</a>, intitulé <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:6" title="https://francois-vidit.om/docs/fr/saint-jean/page:6" class="yellow">“sainte Catherine”</a> est passionnant.</p>
+        <p><a href="https://fr.wikipedia.org/wiki/Catherine_d'Alexandrie" title="https://fr.wikipedia.org/wiki/Catherine_d'Alexandrie" id="catherine-d-alexandrie-2" class="yellow">Catherine d'Alexandrie</a> est, depuis la fin du XIII<sup style="color:#555;">ème</sup> siècle, une sainte très populaire dont la légende, rapportée par <a href="https://fr.wikipedia.org/wiki/Jacques_de_Voragine" title="https://fr.wikipedia.org/wiki/Jacques_de_Voragine" class="yellow">Jacques De Voragine</a> dans le <span style="color: #e6a64d;">chapître 168</span> de la <a href="https://fr.wikipedia.org/wiki/La_Légende_dorée" title="https:/fr.wikipedia.org/wiki/La_Légende_dorée" class="yellow">“<cite>La Légende Dorée</cite>”</a>, intitulé <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:6" title="https://francois-vidit.om/docs/fr/saint-jean/page:6" class="yellow">“sainte Catherine”</a> est passionnant.</p>
         <ul>
           <li>Lire le <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16" title="https://francois-vidit.com/docs/fr/saint-jean/page:16" class="yellow">texte de la Légende de Catherine d'Alexandrie selon le chapître 168 de <cite>La Légende Dorée</cite></a>.</li>
         </ul>
@@ -466,7 +466,7 @@
     </article></section>
 
     <section><article>
-      <h4 class="yellow">catherine d'alexandrie, sa légende au XVème siècle</h4>
+      <h4 class="yellow">catherine d'alexandrie, sa légende au XV<sup>ème</sup> siècle</h4>
       <section><article>
         <p>Selon sa légende, <span style="color: #e6a64d;">Catherine</span> est une <span style="color: #e6a64d;">patricienne</span> connue pour son <span style="color: #e6a64d;">exceptionnelle éducation</span>, sa très <span style="color: #e6a64d;">grande beauté</span>.</p>
         <p>Elle aurait vécu à Alexandrie au III<sup>ème</sup> ou au IV<sup>ème</sup> siècle.</p>
@@ -596,9 +596,11 @@
     <h3 id="barbe" class="yellow">barbe la grande martyre</h3>
     <section><article>
       <h4 class="yellow">barbe la grande martyre dans la scène du panneau central</h4>
-      <p>De l'autre côté de la vierge, sur le devant, à droite, <span style="color: #e6a64d;">une autre femme</span>, vétue d'<span style="color: #e6a64d;">une magnifique tunique de laine verte</span> telle que seule Bruges en produisait au XV<sup style="color:#555;">ème</sup> siècle, <span style="color: #e6a64d;">lit</span>.</p>
-      <p>Sa présence répond à celle de <a href="#catherine-d-alexandrie" class="yellow">Catherine d'Alexandrie</a> sur le devant de l'autre côté.</p>
-      <p>Derrière elle, <span style="color: #e6a64d;">une tour tabernacle en pierre blanche</span> nous indique qu'il s'agit de <a href="https://fr.wikipedia.org/wiki/Barbe_la_grande_martyre" title="https://fr.wikipedia.org/wiki/Barbe_la_grande_martyre" id="barbe-la-grande-martyre" class="yellow">Barbe la grande martyre</a> <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref">note 4</a></sup>.</p>
+      <section><article>
+        <p>De l'autre côté de la vierge, sur le devant, à droite, <span style="color: #e6a64d;">une autre femme</span>, vétue d'<span style="color: #e6a64d;">une magnifique tunique de laine verte</span> telle que seule Bruges en produisait au XV<sup style="color:#555;">ème</sup> siècle, <span style="color: #e6a64d;">lit</span>.</p>
+        <p>Sa présence répond à celle de <a href="#catherine-d-alexandrie" class="yellow">Catherine d'Alexandrie</a> sur le devant de l'autre côté.</p>
+        <p>Derrière elle, <span style="color: #e6a64d;">une tour tabernacle en pierre blanche</span> nous indique qu'il s'agit de <a href="https://fr.wikipedia.org/wiki/Barbe_la_grande_martyre" title="https://fr.wikipedia.org/wiki/Barbe_la_grande_martyre" id="barbe-la-grande-martyre" class="yellow">Barbe la grande martyre</a> <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref">note 4</a></sup>.</p>
+      </article></section>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-280.webp 280w,
@@ -619,31 +621,39 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1920.jpg 1920w"></picture><figcaption>Barbe la grande martyre</figcaption>
       </figure>
     </article></section>
+
     <section><article>
       <h4 class="yellow">barbe la grande martyre, sa réalité historique</h4>
-      <p>Comme pour <a href="#catherine-d-alexandrie" class="yellow">Catherine d'Alexandrie</a>, les historiens modernes doutent de la réalité de son existence et son nom a également été retiré du calendrier général <sup id="fnref2:2"><a href="#fn:2" class="footnote-ref">note 2</a></sup>; le texte sur lequel Memling s'est fondé pour la représenter ne fait pas non plus partie de la <a href="https://fr.wikipedia.org/wiki/La_Légende_dorée" title="https://fr.wikipedia.org/wiki/La_Légende_dorée" id="legende-doree-2" class="yellow">Légende Dorée</a> mais, comme d'autres textes, y a été ajouté ensuite.</p>
-      <ul>
-        <li>Lire le <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:7" title="https://francois-vidit.com/docs/fr/saint-jean/page:7" class="yellow">texte <cite href="https://francois-vidit.com/docs/fr/saint-jean/page:7">Légende de Barbe la grande martyre</cite> ajouté à <cite>La Légende Dorée</cite></a>.</li>
-      </ul>
+      <section><article>
+        <p>Comme pour <a href="#catherine-d-alexandrie" class="yellow">Catherine d'Alexandrie</a>, les historiens modernes doutent de la réalité de son existence et son nom a également été retiré du calendrier général <sup id="fnref2:2"><a href="#fn:2" class="footnote-ref">note 2</a></sup>; le texte sur lequel Memling s'est fondé pour la représenter ne fait pas non plus partie de <a href="https://fr.wikipedia.org/wiki/La_Légende_dorée" title="https://fr.wikipedia.org/wiki/La_Légende_dorée" id="legende-doree-2" class="yellow"><cite>La Légende Dorée</cite></a> mais, comme d'autres textes, y a été ajouté ensuite.</p>
+        <ul>
+          <li>Lire le <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:7" title="https://francois-vidit.com/docs/fr/saint-jean/page:7" class="yellow">texte <cite href="https://francois-vidit.com/docs/fr/saint-jean/page:7">Légende de Barbe la grande martyre</cite> ajouté à <cite>La Légende Dorée</cite></a>.</li>
+        </ul>
+      </article></section>
     </article></section>
+
     <section><article>
       <h4 class="yellow">barbe la grande martyre, sa légende au XV<sup>ème</sup></h4>
-      <p>Selon sa légende, Barbe habite <a href="https://fr.wikipedia.org/wiki/Nicomédie" title="https://fr.wikipedia.org/wiki/Nicomédie" id="nicomedie" class="yellow">Nicomédie</a>, capitale de l'ancienne province de <a href="https://fr.wikipedia.org/wiki/Bithynie" title="https://fr.wikipedia.org/wiki/Bithynie" id="bithynie class="yellow">Bithynie</a> et qui se trouve située dans le nord de la Turquie actuelle et donne sur la Mer Noire.
-      Barbe a le défaut d'être belle .., tellement belle, que très jeune, <span style="color: #e6a64d;">son père l'enferme dans une tour</span>!</p>
-      <p>Le texte nous apprend que Barbe sent alors <span style="color: #e6a64d;">«le néant des choses terrestres»</span> et commence à se préoccuper <span style="color: #e6a64d;"><q>des choses célestes</q></span>.
-      Bien que cela soit interdit à son époque, elle se détourne peu à peu des dieux romains et écrit secrètement au plus célèbre chrétien d'<a href="https://fr.wikipedia.org/wiki/Alexandrie" title="https://fr.wikipedia.org/wiki/Alexandrie" id="alexandrie" class="yellow">Alexandrie</a> en Égypte, <a href="https://fr.wikipedia.org/wiki/Origène" title="https://fr.wikipedia.org/wiki/Origène" class="yellow">Origène</a>
-      Celui-ci lui répond, la fortifie dans sa foi naissante, la visite et lui donne clandestinemnt le <span style="color: #e6a64d;">baptème</span>.</p>
-      <p>Publiquement <span style="color: #e6a64d;">dénoncée</span> ensuite pour avoir refusé de sacrifier aux dieux, elle subit le martyre.
-      La voix de Jésus se serait alors fait entendre du ciel:</p>
-      <blockquote>
-        <p><span style="color: #e6a64d;"><q>Viens, ma bien-aimée; repose-toi dans la demeure de mon père lui est dans le ciel</q></span>.</p>
-      </blockquote>
-      <p>Son propre père lui tranche la tête.</p>
+      <section><article>
+        <p>Selon sa légende, Barbe habite <a href="https://fr.wikipedia.org/wiki/Nicomédie" title="https://fr.wikipedia.org/wiki/Nicomédie" id="nicomedie" class="yellow">Nicomédie</a>, capitale de l'ancienne province de <a href="https://fr.wikipedia.org/wiki/Bithynie" title="https://fr.wikipedia.org/wiki/Bithynie" id="bithynie class="yellow">Bithynie</a> et qui se trouve située dans le nord de la Turquie actuelle et donne sur la Mer Noire.
+        Barbe a le défaut d'être belle .., tellement belle, que très jeune, <span style="color: #e6a64d;">son père l'enferme dans une tour</span>!</p>
+        <p>Le texte nous apprend que Barbe sent alors <span style="color: #e6a64d;">«le néant des choses terrestres»</span> et commence à se préoccuper <span style="color: #e6a64d;"><q>des choses célestes</q></span>.
+        Bien que cela soit interdit à son époque, elle se détourne peu à peu des dieux romains et écrit secrètement au plus célèbre chrétien d'<a href="https://fr.wikipedia.org/wiki/Alexandrie" title="https://fr.wikipedia.org/wiki/Alexandrie" id="alexandrie" class="yellow">Alexandrie</a> en Égypte, <a href="https://fr.wikipedia.org/wiki/Origène" title="https://fr.wikipedia.org/wiki/Origène" class="yellow">Origène</a>
+        Celui-ci lui répond, la fortifie dans sa foi naissante, la visite et lui donne clandestinemnt le <span style="color: #e6a64d;">baptème</span>.</p>
+        <p>Publiquement <span style="color: #e6a64d;">dénoncée</span> ensuite pour avoir refusé de sacrifier aux dieux, elle subit le martyre.
+        La voix de Jésus se serait alors fait entendre du ciel:</p>
+        <blockquote>
+          <p><span style="color: #e6a64d;"><q>Viens, ma bien-aimée; repose-toi dans la demeure de mon père lui est dans le ciel</q></span>.</p>
+        </blockquote>
+        <p>Son propre père lui tranche la tête.</p>
+      </article></section>
     </article></section>
 
     <section><article>
       <h4 class="yellow">l'hostie au travers de la tour de barbe la grande martyre</h4>
-      <p>À travers les entrelacs de la tour placée derrière elle, <span style="color: #e6a64d;">une hostie</span> apparaît dans <span style="color: #e6a64d;">un cylindre de verre</span> monté sur un croissant de lune doré.</p>
+      <section><article>
+        <p>À travers les entrelacs de la tour placée derrière elle, <span style="color: #e6a64d;">une hostie</span> apparaît dans <span style="color: #e6a64d;">un cylindre de verre</span> monté sur un croissant de lune doré.</p>
+      </article></section>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-280.webp 280w,
@@ -657,7 +667,9 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-640.jpg 640w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/tabernacle-840.jpg 840w"></picture><figcaption>à travers les entrelacs de sa tour, une hostie apparaît dans un cylindre de verre monté sur un croissant de lune doré</figcaption>
       </figure>
-      <p>L'<span style="color: #e6a64d;">hostie</span> est un des attribut de la sainte; c'est aussi un lien avec le reste du panneau qui en fait apparaître d'autres aspects sous forme d'une <span style="color: #e6a64d;"><q>conversation sacrée</q></span>.</p>
+      <section><article>
+        <p>L'<span style="color: #e6a64d;">hostie</span> est un des attribut de la sainte; c'est aussi un lien avec le reste du panneau qui en fait apparaître d'autres aspects sous forme d'une <span style="color: #e6a64d;"><q>conversation sacrée</q></span>.</p>
+      </article></section>
     </article></section>
   </article></section>
 </article>
@@ -1604,7 +1616,7 @@
     </blockquote>
     <p><span style="color: #999;">(Marc, chap.6,24-29)</span></p>
     <p>Ainsi, Hérode peut apparaître mettre à mort Jean contre son gré.</p>
-    <p>La preuve que tout ce récit est bien une mise en scène destinée à permettre de mettre à mort Jean sans provoquer une révolte des partisans de Jean, c'est, comme l'explique Jacques de Voragine, que si Salomé demande à Hérode <span style="color: #e6a64d;">“la mort de son père <a href="https://fr.wikipedia.org/wiki/Hérode_Boëthos" title="https://fr.wikipedia.org/wiki/Hérode_Boëthos" id="herode-boethos-2" class="yellow">Philippe</a> ou de sa mère <a href="https://fr.wikipedia.org/wiki/Hérodiade" title="https://fr.wikipedia.org/wiki/Hérodiade" id="herodiade-2" class="yello">Hérodiade</a>”</span>, Hérode ne peut y consentir <span style="color: #999;">(Légende dorée chap.121,I. <sup id="fnref1:1"><a href="#fn:1" class="footnote-rf">note 1</a></sup>)</span>.</p>
+    <p>La preuve que tout ce récit est bien une mise en scène destinée à permettre de mettre à mort Jean sans provoquer une révolte des partisans de Jean, c'est, comme l'explique Jacques de Voragine, que si Salomé demande à Hérode <span style="color: #e6a64d;">“la mort de son père <a href="https://fr.wikipedia.org/wiki/Hérode_Boëthos" title="https://fr.wikipedia.org/wiki/Hérode_Boëthos" id="herode-boethos-2" class="yellow">Philippe</a> ou de sa mère <a href="https://fr.wikipedia.org/wiki/Hérodiade" title="https://fr.wikipedia.org/wiki/Hérodiade" id="herodiade-2" class="yello">Hérodiade</a>”</span>, Hérode ne peut y consentir <span style="color: #999;">(<cite>La Légende dorée</cite> chapître 121, I. <sup id="fnref1:1"><a href="#fn:1" class="footnote-rf">note 1</a></sup>)</span>.</p>
     <p>La mise en scène a bien pour seul but de ne pas faire porter la responsabilité de la mise à mort de Jean à Hérode en le présentant faussement aux yeux de l'histoire comme accédant à cette demande contre sa volonté.</p>
   </article></section>
 
@@ -1750,7 +1762,7 @@
     <h6 class="yellow">Détail du mur dans lequel est caché la tête de Jean le Baptiste, panneau central intérieur</h6>
     <article><section>
       <p>Mais les choses ne se passent pas comme prévu.</p>
-      <p>Selon la légende, la tête aurait été ensevelie séparément par <span style="color: #e6a64d;">un potier de la ville d'Émesse</span>, l'actuelle <a href="https://fr.wikipedia.org/wiki/Homs" title="https://fr.wikipedia.org/wiki/Homs" id="homs" class="yellow"><ruby lang="fr">Homs<rp>(</rp><rt lang="ar">حمص</rt><rp>)</rp></ruby></a> en Syrie, puis serait apparue à <a href="https://fr.wikipedia.org/wiki/Marcel_d'pamée" title="https://fr.wikipedia.org/wiki/Marcel_d'Apamée" id="saint-marcel" class="yellow">saint Marcel</a> qui la découvre en suivant une étoile <span style="color: #999;">(Légende dorée chap.121, III.)</span>.</p>
+      <p>Selon la légende, la tête aurait été ensevelie séparément par <span style="color: #e6a64d;">un potier de la ville d'Émesse</span>, l'actuelle <a href="https://fr.wikipedia.org/wiki/Homs" title="https://fr.wikipedia.org/wiki/Homs" id="homs" class="yellow"><ruby lang="fr">Homs<rp>(</rp><rt lang="ar">حمص</rt><rp>)</rp></ruby></a> en Syrie, puis serait apparue à <a href="https://fr.wikipedia.org/wiki/Marcel_d'pamée" title="https://fr.wikipedia.org/wiki/Marcel_d'Apamée" id="saint-marcel" class="yellow">saint Marcel</a> qui la découvre en suivant une étoile <span style="color: #999;">(<cite>La Légende dorée</cite> chap.121, III.)</span>.</p>
       <p>Sa tête apparaît donc plus bas dans <span style="color: #e6a64d;">l'ouverture du mur</span>, derrière <span style="color: #e6a64d;">une pierre</span>.</p>
     </article></section>
 
@@ -2762,7 +2774,7 @@
 
     <section><article>
       <p>Le récit de la légende de Jean l'Évangéliste se poursuit sur le panneau central intérieur, dans le lointain droit</p>
-      <p>Selon la Légende Dorée, Jean retourne ensuite à à Éphèse, où il ressuscite Drusiane ainsi que Memling le représente sur un chapiteau.</p>
+      <p>Selon <cite>La Légende Dorée</cite>, Jean retourne ensuite à à Éphèse, où il ressuscite Drusiane ainsi que Memling le représente sur un chapiteau.</p>
     </article></section>
 
     <figure>
@@ -3254,10 +3266,10 @@
         certains privilèges particuliers se manifestent chez quelques saints au moment de leur mort: </p>
         <ul>
         <li>la visite du Christ pour <a href="#note_jean" title="福音書記者ヨハネ" id="jean" class="yellow">Jean l'Évangéliste</a>, </li>
-        <li>l'écoulement d'huile pour saint Nicolas <span style="color: #ccc;">(chapître 19 de la Légende Dorée</span>, </li>
+        <li>l'écoulement d'huile pour saint Nicolas <span style="color: #ccc;">(chapître 19 de <cite>La Légende Dorée</cite></span>, </li>
         <li>le ruissellement de lait pour saint Paul, </li>
-        <li>la préparation du tombeau pour saint Clément <span style="color: #ccc;">(chapître 20 de la Légende Dorée)</span>, </li>
-        <li>l'efficacité des demandes d'intercession pour sainte Marguerite <span style="color: #ccc;">(chapître 88 de la Légende Dorée)</span>, quand elle pria pour ceux qui entretiendraient sa mémoire.</li>
+        <li>la préparation du tombeau pour saint Clément <span style="color: #ccc;">(chapître 20 de <cite>La Légende Dorée</cite>)</span>, </li>
+        <li>l'efficacité des demandes d'intercession pour sainte Marguerite <span style="color: #ccc;">(chapître 88 de <cite>La Légende Dorée</cite>)</span>, quand elle pria pour ceux qui entretiendraient sa mémoire.</li>
         </ul>
         <p>Or tous ces privilèges se trouvèrent réunis en <span style="color: #df8f20;">sainte Catherine</span>, comme le montre sa légende.</p>
         <p>On remarque une hésitation chez certains auteurs:
@@ -3288,7 +3300,7 @@
   <section><article>
     <h3 id="note_jean" class="yellow">Jean l'Évangéliste</h3>
     <div class="notices yellow">
-    <p>Voir le <a href="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#jean9-selon-legende" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#jean9-selon-legende">chapître 18</a> de la Légende Dorée.</p>
+    <p>Voir le <a href="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#jean9-selon-legende" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#jean9-selon-legende">chapître 18</a> de <cite>La Légende Dorée</cite>.</p>
     </div>
     <footer><p>retour au texte: <a href="#jean" title="福音書記者ヨハネ">Jean l'Évangéliste↑</a></p></footer>
   </article></section>
@@ -3672,7 +3684,7 @@
   <section><article>
     <h3 id="note_marcien" class="yellow">Marcien</h3>
     <div class="notices yellow">
-      <p>Aucune trace de ce proconsul hors la Légende Dorée.</p>
+      <p>Aucune trace de ce proconsul hors <cite>La Légende Dorée</cite>.</p>
     </div>
     <footer>
       <p>retour au texte: <a href="#marcien" title="Marcien">Marcien↑</a></p>
