@@ -1706,7 +1706,7 @@
 
     <article><section>
       <p>Les historiens de l'art ont identifié dans les positions du bourreau et de Salomé <spanstyle="color: #e6a64d;">une reprise par Memling d'une scène</span> de son maître, <a href="https://fr.wikipedia.org/wiki/Rogier_van_der_Weyden" title="https://fr.wikipedia.org/wiki/Rogier_van_der_Weyden" id="rogier-van-der-weyden" class="yellow">Rogier VAN DER WEYDEN</a>, alors qu'il était son assistant à Bruxelles.</p>
-      <p>Il s'agit du <span style="color: #e6a64d;"><cite>Tryptique de saint Jean</cite></span> peint vers <time datetime="1450">1450</time>-<time datetime="1455">55<time> qui se trouve aujourd'hui à la <a href="https://fr.wikipedia.org/wiki/Gemäldegalerie_(Berlin)" title="https://fr.wikipedia.org/wiki/Gemäldegalerie_(Berlin)" id="gemaldegalerie" class="yellow"><ruby lang="fr">Galerie&#160;de&#160;peintures<rp>(</rp><rt lang="de">Gemäldegalerie</rt><rp>)</rp></ruby></a> des <a href="https://fr.wikipedia.org/wikiMusées_d'État_de_Berlin" title="https://fr.wikipedia.org/wiki/Musées_d'État_de_Berlin" id="musees-d-etat-de-berlin" class="yellow"><ruby lang="fr">Musées&#160;d'état&#160;de&#160;Berlin<rp>(</rp><rt lang="de">Staatliche&#160;Museen&#160;zu&#160;Berlin</rt><rp>)</rp></ruby></a> <span style="color: #999;">(inv. n°534B)</span>, ci-dessous.</p>
+      <p>Il s'agit du <span style="color: #e6a64d;"><cite>Tryptique de saint Jean</cite></span> peint vers <time datetime="1450">1450</time>-<time datetime="1455">55</time> qui se trouve aujourd'hui à la <a href="https://fr.wikipedia.org/wiki/Gemäldegalerie_(Berlin)" title="https://fr.wikipedia.org/wiki/Gemäldegalerie_(Berlin)" id="gemaldegalerie" class="yellow"><ruby lang="fr">Galerie&#160;de&#160;peintures<rp>(</rp><rt lang="de">Gemäldegalerie</rt><rp>)</rp></ruby></a> des <a href="https://fr.wikipedia.org/wikiMusées_d'État_de_Berlin" title="https://fr.wikipedia.org/wiki/Musées_d'État_de_Berlin" id="musees-d-etat-de-berlin" class="yellow"><ruby lang="fr">Musées&#160;d'état&#160;de&#160;Berlin<rp>(</rp><rt lang="de">Staatliche&#160;Museen&#160;zu&#160;Berlin</rt><rp>)</rp></ruby></a> <span style="color: #999;">(inv. n°534B)</span>, ci-dessous.</p>
     </article></section>
 
     <figure>
@@ -1733,7 +1733,7 @@
   <article><section>
     <h6 class="yellow">Scène du déterrement et de la crémation du corps de Jean le Baptiste dans le lointain, panneau central intérieur</h6>
     <article><section>
-      <p>Le récit de Marc se poursuit: <span style="color: #e6a64d;"><q>Ayant appris cela, les disciples de Jean vinrent prendre son corps et le déposèrent dans un tombeau</q></span> <span style="color: #999;">(Marc,chap.6-29)</span>.</p>
+      <p>Le récit de Marc se poursuit: <span style="color: #e6a64d;"><q>Ayant appris cela, les disciples de Jean vinrent prendre son corps et le déposèrent dans un tombeau</q></span> <span style="color: #999;">(Marc,chapître 6, verset 29)</span>.</p>
       <p>D'après la tradition, celui-ci aurait été emmené loin des territoires contrôlés par Hérode Antipas, en Cisjordanie à <ruby style="color:#e6a64d;" lang="fr">Sébastée<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="grc">Σεβαστή</rt><rp>)</rp></ruby>, l'actuel village de <a href="https://fr.wikipedia.org/wiki/Sebastia" title="https://fr.wikipedia.org/wiki/Sebastia" id="sebastia" class="yellow"><ruby lang="fr">Sebastia<rp>(</rp><rt lang="ar">سبسطية</rt><rp>)</rp></ruby></a> et enterré auprès des prophètes <a href="https://fr.wikipedia.org/wiki/Élisée"title="https://fr.wikipedia.org/wiki/Élisée" id="elisee" class="yellow">Élisée</a> et <a href="https://fr.wikipedia.org/wiki/Abdias" title="https://fr.wikipedia.org/wiki/Abdias" id="abdias" class="yellow">Abdias</a>.</p>
       <p>Sur la gauche du panneau central, à droite, derrière Jean le Baptite, Memling a fait apparaître cette dernière scène de sa légende.</p>
       <p>Comme ses miracles ne cessaient de se produire sur le lieu de sépulture de Jean, pour combattre la foi chrétienne naissante, <a href="https://fr.wikipedia.org/wiki/Julien_(empereur_romain)" title=" https://fr.wikipedia.org/wiki/Julien_(empereur_romain)" id="julien-l-apostat" class="yellow">l'empereur romain Julien l'Apostat</a> ordonne de déterrer le corps, de le brûler et disperser ses cendres à travers champs.</p>
@@ -1764,7 +1764,7 @@
     <h6 class="yellow">Détail du mur dans lequel est caché la tête de Jean le Baptiste, panneau central intérieur</h6>
     <article><section>
       <p>Mais les choses ne se passent pas comme prévu.</p>
-      <p>Selon la légende, la tête aurait été ensevelie séparément par <span style="color: #e6a64d;">un potier de la ville d'Émesse</span>, l'actuelle <a href="https://fr.wikipedia.org/wiki/Homs" title="https://fr.wikipedia.org/wiki/Homs" id="homs" class="yellow"><ruby lang="fr">Homs<rp>(</rp><rt lang="ar">حمص</rt><rp>)</rp></ruby></a> en Syrie, puis serait apparue à <a href="https://fr.wikipedia.org/wiki/Marcel_d'pamée" title="https://fr.wikipedia.org/wiki/Marcel_d'Apamée" id="saint-marcel" class="yellow">saint Marcel</a> qui la découvre en suivant une étoile <span style="color: #999;">(<cite>La Légende dorée</cite> chap.121, III.)</span>.</p>
+      <p>Selon la légende, la tête aurait été ensevelie séparément par <span style="color: #e6a64d;">un potier de la ville d'Émesse</span>, l'actuelle <a href="https://fr.wikipedia.org/wiki/Homs" title="https://fr.wikipedia.org/wiki/Homs" id="homs" class="yellow"><ruby lang="fr">Homs<rp>(</rp><rt lang="ar">حمص</rt><rp>)</rp></ruby></a> en Syrie, puis serait apparue à <a href="https://fr.wikipedia.org/wiki/Marcel_d'pamée" title="https://fr.wikipedia.org/wiki/Marcel_d'Apamée" id="saint-marcel" class="yellow">saint Marcel</a> qui la découvre en suivant une étoile <span style="color: #999;">(<cite>La Légende dorée</cite> chapître 121, III.)</span>.</p>
       <p>Sa tête apparaît donc plus bas dans <span style="color: #e6a64d;">l'ouverture du mur</span>, derrière <span style="color: #e6a64d;">une pierre</span>.</p>
     </article></section>
 
@@ -1843,16 +1843,16 @@
 
       <section><article>
         <ul>
-          <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:8#aristodeme" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:8#aristodeme" id="jean-l-apotre-3" class="yellow">Jean “l'Apôtre”</a> est l'<span style="color: #e6a64d;">un des deux «fils de <a href="https://fr.wikipedia.org/wiki/Zébédée" title="https://fr.wikipeia.org/wiki/Zébédée" id="zebedee" class="yellow">Zébédée</a>»</span> <span style="color: #999;">(Marc 3.16-19, Mathieu 10.2-5 et Luc 6.13-16)</span>.</li>
+          <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:8#aristodeme" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:8#aristodeme" id="jean-l-apotre-3" class="yellow">Jean “l'Apôtre”</a> est l'<span style="color: #e6a64d;">un des deux «fils de <a href="https://fr.wikipedia.org/wiki/Zébédée" title="https://fr.wikipeia.org/wiki/Zébédée" id="zebedee" class="yellow">Zébédée</a>»</span> <span style="color: #999;">(Marc chapter 3 versets 16 à 19, Mathieu chapître 10 versets 2 à 5 et Luc chapître 6 versets 13 à 16)</span>.</li>
           <li>Son frère est <a href="htps://fr.wikipedia.org/wiki/Jacques_de_Zébédée" title="https://fr.wikipedia.org/wiki/https://fr.wikipedia.org/wiki/Jacques_de_Zébédée" id="jacques-le-majeur" class="yellow">Jacques dit «le Majeur»</a>.</li>
-          <li>Jésus les appellent les <span style="color: #e6a64d;"><q>fils du tonnerre</q></span> <span style="color: #999;">(Marc 3.17)</span>.</li>
+          <li>Jésus les appellent les <span style="color: #e6a64d;"><q>fils du tonnerre</q></span> <span style="color: #999;">(Marc chapître 3 verset 17)</span>.</li>
           <li>Comme son frère et deux autres apôtres, <a href="https://fr.wikipedia.org/wiki/Pierre_(apôtre)" title="https://fr.wikipedia.org/wiki/Pierre_(apôtre)" id="simon-pierre" class="yellow">Simon-Pierre</a> et <a href="https://fr.wikipedia.org/wiki/André_(apôtre)" title="https://fr.wikipedia.org/wiki/André_(apôtre)" id="simon-pierre" clss="yellow">André</a>, c'est <span style="color: #e6a64d;">un des pêcheurs du lac de Tibériade</span> qui abandonne ses filets pour suivre Jésus.</li>
           <li>À partir de là, il est témoin:
             <ul>
-              <li>de la <a href="https://fr.wikipedia.org/wiki/Transfiguration_(christianisme)" title="https://fr.wikipedia.org/wiki/Transfiguration_(christianisme)" id="transfiguration" class="yellow">transfiguration de Jésus</a> <span style="color: #999;">(Marc 9.2, Mathieu 17.1 et Luc 9.28)</span>,</li>
+              <li>de la <a href="https://fr.wikipedia.org/wiki/Transfiguration_(christianisme)" title="https://fr.wikipedia.org/wiki/Transfiguration_(christianisme)" id="transfiguration" class="yellow">transfiguration de Jésus</a> <span style="color: #999;">(Marc chapître 9 verset 2, Mathieu chapître 17 verset 1 et Luc chapître 9 verset 28)</span>,</li>
               <li>de la <a href="https://fr.wikipedia.org/wiki/Guériso_de_la_belle-mère_de_Pierre" title="https://fr.wikipedia.org/wiki/Guérison_de_la_belle-mère_de_Pierre" id="guerison-de-la-belle-mere-de-pierre" class="yellow">guérison de la belle-mère de Simon-Pierre</a> <span style="color: #999;">(Marc 1.29)</span>,</li>
               <li>de la guérison de la <a href="https://fr.wikipedia.org/wiki/File_de_Jaïre" title="https://fr.wikipedia.org/wiki/Fille_de_Jaïre" id="fille-de-jaire" class="yellow">fille de Jaïre</a> le chef de la synagogue <span style="color: #999;">(Marc 5.37 et Luc 8.51)</span>,</li>
-              <li>est présent avec son frère au moment où Jésus est tené de renoncer dans le <a href="https://fr.wikipedia.org/wiki/Agonie_dans_le_jardin_des_oliviers" title="https://fr.wikipedia.org/wiki/Agonie_dans_le_jardin_des_oliviers" id="agonie-dans-le-jardin-des-oliviers" class="yellow">jardin des Oliviers</a> <span style="color: #999;">(Marc 13.3)</span>, mais il s'endort <span style="color: #999;">(Marc 14.33)</span>.</li>
+              <li>est présent avec son frère au moment où Jésus est tené de renoncer dans le <a href="https://fr.wikipedia.org/wiki/Agonie_dans_le_jardin_des_oliviers" title="https://fr.wikipedia.org/wiki/Agonie_dans_le_jardin_des_oliviers" id="agonie-dans-le-jardin-des-oliviers" class="yellow">jardin des Oliviers</a> <span style="color: #999;">(Marc chapître 13 verset 3)</span>, mais il s'endort <span style="color: #999;">(Marc chapître 14 verset 33)</span>.</li>
             </ul>
           </li>
         </ul>
@@ -1864,20 +1864,21 @@
 
       <section><article>
         <ul>
-          <li><p><a href="https://fr.wikipedia.org/wiki/Évangile_selon_Jean#Le_«_disciple_bien-aimé_»" title="https://fr.wikipedia.org/wiki/Évangile_selon_Jean#Le_«_disciple_bien-aimé_»" id="disciple-que-jesus-aimait-3" class="yellow">Le disciple que Jésus aimait</a> n'apparaît qu'à la fin de l'évangile dit “de Jean” <span style="color: #999;">(Jean 21.20;24-25)</span>:</p>
+          <li><p><a href="https://fr.wikipedia.org/wiki/Évangile_selon_Jean#Le_«_disciple_bien-aimé_»" title="https://fr.wikipedia.org/wiki/Évangile_selon_Jean#Le_«_disciple_bien-aimé_»" id="disciple-que-jesus-aimait-3" class="yellow">Le disciple que Jésus aimait</a> n'apparaît qu'à la fin de l'évangile dit “de Jean” <span style="color: #999;">(Jean chapître 21 verset 20; versets 24 à 25)</span>:</p>
           <blockquote>
-            <p><q>s’étant retourné, Pierre aperçoit, marchant à leur suite, <span style="color: #e6a64d;"><em>le disciple que Jésus aimait</em></span>. <span style="color: #999;">(…)</span>
-            C’est <span style="color: #e6a64d;">ce disciple qui témoigne</span> de ces choses <span style="color: #e6a64d;">et qui les a écrites</span></q>.</p>
+            <p>“s’étant retourné, Pierre aperçoit, marchant à leur suite, <span style="color: #e6a64d;"><em>le disciple que Jésus aimait</em></span>.</p>
+            <p><span style="color: #999;">(…)</span></p>
+            <p>C’est <span style="color: #e6a64d;">ce disciple qui témoigne</span> de ces choses <span style="color: #e6a64d;">et qui les a écrites</span>.”</p>
           </blockquote>
           <p>Aucun élément du texte ne permet de le nommer “Jean” donc l'apellation “évangile de Jean” ne peut être juste: en toute rigueur, ce devrait être l' “évangile du disciple que Jésus aimait”.</p>
           <p>C'est un personnage tout à fait extraordinaire: c'est un disciple de Jésus parmi d'autres auquel tout lecteur peut s'identifier, il est aimé de Jésus lui-même et se trouve donc plus proche de lui que n'importe qui d'autre.</p>
-          <p>Il n'hésite d'ailleurs pas, juste après l'extrait précédent, à donner son opinion:</p>
+          <p>Il n'hésite d'ailleurs pas, juste après l'extrait précédent, à donner son opinion <span style="color: #999;">(Jean chapître 21 verset 25)</span>:</p>
           <blockquote>
-            <p><q>Il y a encore beaucoup d’autres choses que Jésus a faites; et s’il fallait écrire chacune d’elles, <span style="color: #e6a64d;"><span style="text-decoration: underline;">je</span> pense que</span> le monde entier ne suffirait pas pour contenir les livres que l’on écrirait</q> <span style="color: #999;">(Jean 21.25)</span>.</p>
+            <p><q>Il y a encore beaucoup d’autres choses que Jésus a faites; et s’il fallait écrire chacune d’elles, <span style="color: #e6a64d;"><span style="text-decoration: underline;">je</span> pense que</span> le monde entier ne suffirait pas pour contenir les livres que l’on écrirait</q>.</p>
           </blockquote>
           </li>
           <li>
-            <p>Jésus lui-même, à l'occasion d'une question de Pierre, émet un souhait quant à son destin lors de la Cène:</p>
+            <p>Jésus lui-même, à l'occasion d'une question de Pierre, émet un souhait quant à son destin lors de la Cène <span style="color: #999;">(Jean chapître 21, versets 21 à 23)</span>:</p>
             <blockquote>
               <p>Pierre, voyant donc ce disciple, dit à Jésus:</p>
               <blockquote>
@@ -1885,12 +1886,12 @@
               </blockquote>
               <p>Jésus lui répond:</p>
               <blockquote>
-                <p><q>Si <span style="color: #e6a64d;">je veux qu’il demeure jusqu’à ce que je vienne</span>, que t’importe?</q>. <span style="color: #999;">(Jean 21.21-23)</span></p>
+                <p>“Si <span style="color: #e6a64d;">je veux qu’il demeure jusqu’à ce que je vienne</span>, que t’importe?”.</p>
               </blockquote>
             </blockquote>
           </li>
           <li>
-            <p>C'est également lui qui <q>couché sur le sein de Jésus</q>, lui demande qui va le trahir <span style="color: #999;">(Jean 13.23-26)</span>.</p>
+            <p>C'est également lui qui <q>couché sur le sein de Jésus</q>, lui demande qui va le trahir <span style="color: #999;">(Jean chapître 13 versets 23 à 26)</span>.</p>
           </li>
           <li>
             <p>Lors de la crucifixion, Jésus lui confie sa propre mère, en disant:</p>
@@ -1899,14 +1900,14 @@
             </blockquote>
             <p>puis à lui:</p>
             <blockquote>
-              <p><q>Voici ta mère</q> <span style="color: #999;">(Jean 19.26-27)</span>.</p>
+              <p><q>Voici ta mère</q> <span style="color: #999;">(Jean chapître 19 versets 26 à 27)</span>.</p>
             </blockquote>
           </li>
           <li>
-            <p>Quand Marie-Madeleine découvre le tombeau vide, elle court le dire au <q>disciple bien-aimé</q> et à Pierre; il est le premier à atteindre le tombeau <span style="color: #999;">(Jean 20.2-8)</span>.</p>
+            <p>Quand Marie-Madeleine découvre le tombeau vide, elle court le dire au <q>disciple bien-aimé</q> et à Pierre; il est le premier à atteindre le tombeau <span style="color: #999;">(Jean chapître 20 versets 2 à 8)</span>.</p>
           </li>
           <li>
-            <p>C'est encore lui qui le premier reconnaît Jésus au lac de Tibériade après sa résurrection <span style="color: #999;">(Jean 21.7)</span>.</p>
+            <p>C'est encore lui qui le premier reconnaît Jésus au lac de Tibériade après sa résurrection <span style="color: #999;">(Jean chapître 21 verset 7)</span>.</p>
           </li>
         </ul>
       </article></section>
@@ -1931,7 +1932,7 @@
       <h5 id="jean-de-patmos-2" class="yellow">la représentation de Jean l'Évangéliste selon Memling par rapport à <cite>La Légende dorée</cite></h5>
 
       <section><article>
-        <p>La représentation de Jean l'Évangéliste suit globalement le récit établit par Jacques de Voragine dans les <span style="color: #e6a64d;">chapîtres 9</span> et <span style="color: #e6a64d;">65</span> de <cite>La Légende dorée</cite>.</p> 
+        <p>La représentation de Jean l'Évangéliste suit globalement le récit établit par Jacques de Voragine dans les <span style="color: #e6a64d;">chapîtres 9</span> et <span style="color: #e6a64d;">65</span> de <cite>La Légende dorée</cite>.</p>
         <ul>
           <li>lire le <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" class="yellow">texte du chapître 9 <cite>La Légende dorée</cite> de Jacques de Voragine</a>.</li>
           <li>lire le <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" class="yellow">texte du chapître 65 de <cite>La Légende dorée</cite> de Jacques de Voragine</a>.</li>
@@ -1979,7 +1980,7 @@
         </ol>
         <p>La représentation de Memling fait apparaître à l'horizon à gauche, cette <span style="color: #e6a64d;">église</span>, à droite, le <span style="color: #e6a64d;">Colisée de Rome</span> et la <span style="color: #e6a64d;">Porte Latine</span>.</p>
         <ol class="doc">
-          <li>«L'empereur, constatant qu'il ne renonçait pas à la prédication, l'exila dans <span style="color: #e6a64d;">l'île de Patmos</span>», <span style="color: #999;">(le départ pour Patmos apparaît au milieu: quelques hommes montent dans un bateau)</span> «où, dans la solitude, il écrivit <span style="color: #e6a64d;">l'Apocalypse</span>» <span style="color: #999;">(chap. 9)</span>.</li>
+          <li>«L'empereur, constatant qu'il ne renonçait pas à la prédication, l'exila dans <span style="color: #e6a64d;">l'île de Patmos</span>», <span style="color: #999;">(le départ pour Patmos apparaît au milieu: quelques hommes montent dans un bateau)</span> «où, dans la solitude, il écrivit <span style="color: #e6a64d;"><cite>L'Apocalypse</cite></span>» <span style="color: #999;">(chap. 9)</span>.</li>
         </ol>
       </article></section>
     </article></section>
@@ -2201,7 +2202,7 @@
         <ol class="doc">
           <li value="03">Et quand il ouvrit le deuxième sceau, j’entendis le deuxième vivant qui disait:</p>
             <blockquote>
-              <p><q>Viens!</q></p>
+              <p>“Viens!”</p>
             </blockquote>
           </li>
           <li value="04">Alors sortit un autre <span style="color: #e6a64d;">cheval</span>, <span style="color: #e6a64d;">rouge feu</span>; à celui qui le montait il fut donné d’enlever la paix à la terre, pour que les gens s’entretuent, et une grande <span style="color: #e6a64d;">épée</span> lui fut donnée.</li>
