@@ -2767,7 +2767,7 @@
   <section><article>
     <h5 class="yellow">Fin des visions de Jean à Patmos, poursuite du récit de la légende de Jean l'Évangéliste selon le chapître 9 de <cite>La Légende Dorée</cite></h5>
     <section><article>
-      <p>Du point de vue de la narration construite par Memling, les visions de l'Apocalypse s'arrêtent avec </p>
+      <p>Du point de vue de la narration construite par Memling, les visions de l'Apocalypse s'arrêtent là.</p>
       <p>La vie de Jean l'Évangéliste se poursuit, après Patmos, sur le panneau central, selon La Légende de Jean l'Évangéliste telle qu'elle est racontée dans le chapître 9 de <cite>La Légende Dorée</cite>.</p>
     </article></section>
   </article></section>
