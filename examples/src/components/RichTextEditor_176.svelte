@@ -2239,14 +2239,14 @@
           <li value="05">
             <p>Et quand il ouvrit le troisième sceau, j’entendis le troisième vivant qui disait:</p>
             <blockquote>
-              <p><q>Viens!</q></p>
+              <p>“Viens!”</p>
             </blockquote>
           <p>Alors j’ai vu: et voici un <span style="color: #e6a64d;">cheval noir</span>; celui qui le montait tenait à la main une <span style="color: #e6a64d;">balance</span>.</p>
           </li>
           <li value="06">
           <p>Et j'entendis comme une voix au milieu des quatre vivants; elle disait:</p>
             <blockquote>
-              <p><q>Un denier, la mesure de blé! Un denier, les trois mesures d’orge! Ne fraude pas sur l’huile et sur le vin!</q></p>
+              <p>“Un denier, la mesure de blé! Un denier, les trois mesures d’orge! Ne fraude pas sur l’huile et sur le vin!”</p>
             </blockquote>
           </li>
         </ol>
@@ -2281,7 +2281,7 @@
           <li value="07">
           <p>Et quand il ouvrit le quatrième sceau, j’entendis la voix du quatrième vivant qui disait:</p>
           <blockquote>
-            <p><q>Viens!</q></p>
+            <p>“Viens!”</p>
           </blockquote>
           </li>
           <li value="08">Alors j’ai vu: et voici un <span style="color: #e6a64d;">cheval verdâtre</span>; celui qui le montait se nomme <span style="color: #e6a64d;">la mort</span>, et le <span style="color: #e6a64d;">séjour des morts</span> l’accompagnait.</li>
@@ -2320,12 +2320,12 @@
           <li value="15"><span style="color: #e6a64d;">Les rois de la terre et les grands, les chefs d’armée, les riches et les puissants, tous les esclaves et les hommes libres allèrent se cacher dans les cavernes et les rochers des montagnes</span>.</li>
           <li value="16"><p>Et ils disaient aux montagnes et aux rochers:</p>
           <blockquote>
-            <p><q>Tombez sur nous, et cachez-nous du regard de celui qui siège sur le trône et aussi de la colère de l’agneau.</q></p>
+            <p>“Tombez sur nous, et cachez-nous du regard de celui qui siège sur le trône et aussi de la colère de l’agneau.”</p>
           </blockquote>
           </li>
           <li value="17">
           <blockquote>
-            <p>Car il est venu, le grand jour de leur colère, et qui pourrait tenir?»</p>
+            <p>Car il est venu, le grand jour de leur colère, et qui pourrait tenir?</p>
           </blockquote>
           </li>
         </ol>

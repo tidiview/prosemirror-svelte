@@ -2171,7 +2171,7 @@
     </article></section>
 
     <section><article>
-      <h6 class="yellow">second sceau: le cheval rouge feu - <cite>Apocalypse</cite>, chapître 6 versets 3 à 4</h6>
+      <h6 class="yellow">second seal: the fiery red horse - <cite>Revelation</cite>, chapter 6 verses 3 to 4</h6>
 
       <section><article>
         <ol class="doc">
@@ -2180,7 +2180,10 @@
               <p>“Come!”</p>
             </blockquote>
           </li>
-          <li value="04">And out came another <span style="color: #e6a64d;">horse</span>, <span style="color: #e6a64d;">bright red</span>, and its rider was given this duty: to take away peace from the earth and set people killing each other. He was given a huge <span style="color: #e6a64d;">sword</span>.</p>
+          <li value="04">And out came another <span style="color: #e6a64d;">horse</span>, <span style="color: #e6a64d;">bright red</span>, and its rider was given this duty: to take away peace from the earth and set people killing each other. He was given a huge <span style="color: #e6a64d;">sword</span>.</li>
+        </ol>
+      </article></section>
+
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-280.webp 280w,
@@ -2201,11 +2204,29 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the black horseorse”</p>
           <p>«its rider was given this duty: to take away peace from the earth and set people killing each other. He was given a huge sword» (Apocalypse 4.4)</figcaption>
       </figure>
-      <p><sup>05</sup>
-      When he broke the third seal, I heard the third living creature shout, 'Come!'
-      Immediately I saw a <span style="color: #e6a64d;">black horse</span> appear, and its rider was holding a <span style="color: #e6a64d;">pair of scales</span>;
-      <sup>06</sup>
-      and I seemed to hear a voice shout from among the four living creatures and say, 'A day's wages for a quart of corn, and a day's wages for three quarts of barley, but do not tamper with the oil or the wine.'</p>
+    </article></section>
+    
+    <section><article>
+      <h6 class="yellow">third seal: the black horse - <cite>Apocalypse</cite>, chapter 6 verses 5 to 6</h6>
+
+      <section><article>
+        <ol class="doc">
+          <li value="05">
+            <p>When he broke the third seal, I heard the third living creature shout</p>
+            <blockquote>
+              <p>“Come!”</p>
+            </blockquote>
+          <p>Immediately I saw a <span style="color: #e6a64d;">black horse</span> appear, and its rider was holding a <span style="color: #e6a64d;">pair of scales</span>;</p>
+          </li>
+          <li value="06">
+          <p>and I seemed to hear a voice shout from among the four living creatures and say:</p>
+            <blockquote>
+              <p>“A day's wages for a quart of corn, and a day's wages for three quarts of barley, but do not tamper with the oil or the wine.”</p>
+            </blockquote>
+          </li>
+        </ol>
+      </article></section>
+
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-280.webp 280w,
@@ -2225,11 +2246,25 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the black horse”.<br>«its rider was holding a pair of scales» (Apocalypse 4.5)</figcaption>
       </figure>
-      <p><sup>07</sup>
-      When he broke the fourth seal, I heard the voice of the fourth living creature shout, 'Come!'
-      <sup>08</sup>
-      Immediately I saw another <span style="color: #e6a64d;">horse</span> appear, <span style="color: #e6a64d;">deathly pale</span>, and its rider was called <span style="color: #e6a64d;">death</span>, and <span style="color: #e6a64d;">Hades</span> followed at its heels.
-      They were given authority over a quarter of the earth, to kill by the sword, by famine, by plague and through wild beasts. <span style="color: #999;">(…)</span></p>
+    </article></section>
+    
+    <section><article>
+      <h6 class="yellow">fourth seal: the greenish horse - <cite>Apocalypse</cite>, chapter 6 verses 7 to 8</h6>
+
+      <section><article>
+        <ol class="doc">
+          <li value="07">
+          <p>When he broke the fourth seal, I heard the voice of the fourth living creature shout:</p>
+          <blockquote>
+            <p>“Come!”</p>
+          </blockquote>
+          </li>
+          <li value="08">Immediately I saw another <span style="color: #e6a64d;">horse</span> appear, <span style="color: #e6a64d;">deathly pale</span>, and its rider was called <span style="color: #e6a64d;">death</span>, and <span style="color: #e6a64d;">Hades</span> followed at its heels.</li>
+          <li>They were given authority over a quarter of the earth, to kill by the sword, by famine, by plague and through wild beasts.</li>
+          <li><span style="color: #999;">(…)</span></p></li>
+        </ol>
+      </article></section>
+
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-280.webp 280w,
@@ -2249,14 +2284,28 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the black horse, Death, Hades”.<br>«its rider was called Death, and Hades followed at its heels» (Apocalypse 4.5)</figcaption>
       </figure>
-      <p><sup>14</sup>
-      the sky disappeared like a scroll rolling up and all the mountains and islands were shaken from their places.</p>
-      <p><sup>15</sup>
-      <span style="color: #e6a64d;">Then all the kings of the earth, the governors and the commanders, the rich people and the men of influence, the whole population, slaves and citizens, hid in caverns and among the rocks of the mountains.</span>.</p>
-      <p><sup>16</sup>
-      They said to the mountains and the rocks, 'Fall on us and hide us away from the one who sits on the throne and from the retribution of the Lamb.</p>
-      <p><sup>17</sup>
-      For the great day of his retribution has come, and who can face it?'</p>
+    </article></section>
+    
+    <section><article>
+      <h6 class="yellow">landscape around the four horsemen - <cite>Apocalypse</cite>, chapter 6 verses 14 to 17</h6>
+
+      <section><article>
+        <ol class="doc">
+          <li value="14">the sky disappeared like a scroll rolling up and all the mountains and islands were shaken from their places.</li>
+          <li value="15"><span style="color: #e6a64d;">Then all the kings of the earth, the governors and the commanders, the rich people and the men of influence, the whole population, slaves and citizens, hid in caverns and among the rocks of the mountains.</span>.</li>
+          <li value="16"><p>They said to the mountains and the rocks:</p>
+          <blockquote>
+            <p>“Fall on us and hide us away from the one who sits on the throne and from the retribution of the Lamb.”</p>
+          </blockquote>
+          </li>
+          <li value="17">
+          <blockquote>
+            <p>For the great day of his retribution has come, and who can face it?'</p>
+          </blockquote>
+          </li>
+        </ol>
+      </article></section>
+
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-280.webp 280w,
@@ -2276,7 +2325,9 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the black horse”</figcaption>
       </figure>
-      </div>
+    </article></section>
+  </article></section>
+</article>
 
   <!-- Page 12 --><hr>
 
