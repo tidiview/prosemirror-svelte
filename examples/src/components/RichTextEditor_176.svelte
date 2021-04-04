@@ -1417,7 +1417,7 @@
     <h6 class="yellow">Scène de l'apostolat de Jean dans le lointain du panneau central</h6>
 
     <article><section>
-      <p>On le voit également <q>proclamer un baptême de conversion pour le pardon des péchés</q> <span style="color: #999;">(Luc 3,03)</span>.</p>
+      <p>On le voit également <q>proclamer un baptême de conversion pour le pardon des péchés</q> <span style="color: #999;">(Luc chapître 3, verset 3)</span>.</p>
     </article></section>
 
     <figure>
@@ -1442,7 +1442,7 @@
 
     <section><article>
       <p>Jean innove dans le judaïsme de son époque:</p>
-      <p>il préconise le pardon des péchés non plus par le sacrifice d'animaux au temple par crémation, mais par <span style="color: #e6a64d;"><q>baptême</q></span>, c'est-à-dire, selon l'étymologie de ce mot, <span style="color: #e6a64d;"><q>immersion</q></span> dans l'eau.</p>
+      <p>il préconise le pardon des péchés non plus par le sacrifice d'animaux au temple par crémation, mais par <span style="color: #e6a64d;">“baptême”</span>, c'est-à-dire, selon l'étymologie de ce mot, <span style="color: #e6a64d;">“immersion”</span> dans l'eau.</p>
     </article></section>
   </article></section>
 
@@ -1488,7 +1488,7 @@
       <p><span style="color: #e6a64d;">Hérode craint</span> que cela ne suscite <q><span style="color: #e6a64d;">une révolte</span>, la foule semblant prête à suivre en tout les conseils de cet homme</q>.</p>
       <p>il aime donc mieux s'emparer de lui avant que quelque trouble se produise à cause de lui, que d'avoir à se repentir plus tard si un mouvement avait lieu</q> <span style="color: #999;">(<cite>Antiquités judaïques</cite>, livre XVIII, chap.5,118)</span> <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">note 1</a></sup>.</p>
       <p>En cas de troubles causés par les partisans de Jean, Hérode devait répondre de la situation aux autorités romaines, qui pouvait le destituer:</p>
-      <p>il donne donc <span style="color: #e6a64d;"><q>l’ordre d’arrêter Jean</q></span> <span style="color: #999;">(Marc chap.6,17)</span>.</p>
+      <p>il donne donc <span style="color: #e6a64d;">“l’ordre d’arrêter Jean”</span> <span style="color: #999;">(Marc chap.6,17)</span>.</p>
     </article></section>
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -1569,8 +1569,8 @@
 
     <section><article>
       <p>Pour réussir à faire mourir Jean sans provoquer de mouvement de troubles de ses partisans, <span style="color: #e6a64d;">Hérode imagine une mise en scène</span>.</p>
-      <p><q>Le jour de son anniversaire</q>, il organise <q>un dîner pour ses dignitaires</q>, chefs de l’armée et notables de la Galilée.</p>
-      <p>La fille d’Hérodiade, <a href="https://fr.wikipedia.org/wiki/Salomé_(fille_d'Hérodiade)" title="https://fr.wikipedia.org/wiki/Salomé_(fille_d'Hérodiade)" id="salome" class="yellow">Salomé</a> fait <q>son entrée</q> et danse.</p>
+      <p>“Le jour de son anniversaire”, il organise <q>un dîner pour ses dignitaires</q>, chefs de l’armée et notables de la Galilée.</p>
+      <p>La fille d’Hérodiade, <a href="https://fr.wikipedia.org/wiki/Salomé_(fille_d'Hérodiade)" title="https://fr.wikipedia.org/wiki/Salomé_(fille_d'Hérodiade)" id="salome" class="yellow">Salomé</a> fait “son entrée” et danse.</p>
       <p>La <span style="color: #e6a64d;">“Danse de Salomé”</span> prend place dans une salle de la tour du palais d'Hérode en haut à gauche du volet gauche, dont Memling a éventré le mur afin de montrer la scène.</p>
       <p>Au-dessus, des statues installées dans des niches représentent un homme nu entre deux femmes nues, figures païennes: elles qualifient la nature adultère du lieu et du comportement d’Hérode.</p>
     </article></section>
@@ -1600,7 +1600,7 @@
     <p>La mise en scène se poursuit</p>
     <p>Hérode fait mine que sa danse lui a plu. <span style="color: #e6a64d;">Pour se dégager de la responsabilité de la mort de Jean</span>, dit:</p>
     <blockquote>
-      <p><q><span style="color: #e6a64d;">Demande-moi ce que tu veux</span>, et je te le donnerai, même si c’est la moitié de mon royaume</q> <span style="color: #999;">(Marc, chap.6,21-22)</span>.</p>
+      <p><q><span style="color: #e6a64d;">Demande-moi ce que tu veux</span>, et je te le donnerai, même si c’est la moitié de mon royaume</q> <span style="color: #999;">(Marc, chapître 6, versets 21 à 22)</span>.</p>
     </blockquote>
     <p>Salomé sort pour dire à sa mère:</p>
     <blockquote>
@@ -1612,9 +1612,9 @@
     </blockquote>
     <p>Aussitôt la jeune fille s’empresse <q>de retourner auprès du roi</q>, et lui fait cette demande incroyable:</p>
     <blockquote>
-      <p><span style="color: #e6a64d;"><q>Je veux que, tout de suite, tu me donnes sur un plat la tête de Jean le Baptiste</q></span>.</p>
+      <p><span style="color: #e6a64d;">“Je veux que, tout de suite, tu me donnes sur un plat la tête de Jean le Baptiste”</span>.</p>
     </blockquote>
-    <p><span style="color: #999;">(Marc, chap.6,24-29)</span></p>
+    <p><span style="color: #999;">(Marc, chapître 6, versets 24 à 29)</span></p>
     <p>Ainsi, Hérode peut apparaître mettre à mort Jean contre son gré.</p>
     <p>La preuve que tout ce récit est bien une mise en scène destinée à permettre de mettre à mort Jean sans provoquer une révolte des partisans de Jean, c'est, comme l'explique Jacques de Voragine, que si Salomé demande à Hérode <span style="color: #e6a64d;">“la mort de son père <a href="https://fr.wikipedia.org/wiki/Hérode_Boëthos" title="https://fr.wikipedia.org/wiki/Hérode_Boëthos" id="herode-boethos-2" class="yellow">Philippe</a> ou de sa mère <a href="https://fr.wikipedia.org/wiki/Hérodiade" title="https://fr.wikipedia.org/wiki/Hérodiade" id="herodiade-2" class="yello">Hérodiade</a>”</span>, Hérode ne peut y consentir <span style="color: #999;">(<cite>La Légende dorée</cite> chapître 121, I. <sup id="fnref1:1"><a href="#fn:1" class="footnote-rf">note 1</a></sup>)</span>.</p>
     <p>La mise en scène a bien pour seul but de ne pas faire porter la responsabilité de la mise à mort de Jean à Hérode en le présentant faussement aux yeux de l'histoire comme accédant à cette demande contre sa volonté.</p>
@@ -1622,8 +1622,10 @@
 
   <section><article>
     <h6 class="yellow">Scène de la décollation de Jean dans la cour du palais d'Hérode, du volet intérieur gauche</h6>
-    <p>L'histoire s'accomplit donc, tragique.</p>
-    <p>Un garde va <q>décapiter Jean dans la prison</q> <span style="color: #999;">(Marc, chap.6,22-23)</span>.</p>
+    <section><article>
+      <p>L'histoire s'accomplit donc, tragique.</p>
+      <p>Un garde va <q>décapiter Jean dans la prison</q> <span style="color: #999;">(Marc, chapître 6, versets 22 à 23)</span>.</p>
+    </article></section>
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-280.webp 280w,
@@ -1654,12 +1656,12 @@
       <ol>
         <li id="fn:1">
         <p>propos de <a href="https://fr.wikipedia.org/wiki/Jérôme_de_Stridon" title="https://fr.wikipedia.org/wiki/Jérôme_de_Stridon" id="saint-jerome" class="yellow">saint Jérôme</a> rapportés par Jacques de Voragine.</p>
-        <footer>
-          <p><a href="#fnref1:1" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
-        </footer>
         </li>
       </ol>
     </div>
+    <footer>
+      <p><a href="#fnref1:1" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+    </footer>
   </article>
 </aside>
 
