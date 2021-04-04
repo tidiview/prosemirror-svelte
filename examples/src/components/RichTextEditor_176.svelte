@@ -2574,8 +2574,8 @@
           <li value="07">Ces sortes de <span style="color: #e6a64d;">sauterelles</span> ressemblent à des chevaux équipés pour la guerre; elles ont comme des couronnes d’or sur la tête, et un visage comme un visage humain,</li>
           <li value="08">Elles ont des cheveux comme des cheveux de femmes, leurs dents sont comme celles des lions.</li>
           <li value="09">Elles ont des poitrails comme des cuirasses de fer, et le bruit de leurs ailes est comme celui de chars à plusieurs chevaux courant au combat.</li>
-          <li value="10">Elles ont des queues comme des scorpions, et des dards venimeux.
-          Dans leur queue se trouve le pouvoir de faire du mal aux hommes pendant cinq mois.</li>
+          <li value="10">Elles ont des queues comme des scorpions, et des dards venimeux.</li>
+          <li>Dans leur queue se trouve le pouvoir de faire du mal aux hommes pendant cinq mois.</li>
           <li value="11">Elles ont comme roi l’ange de l’abîme; il se nomme en hébreu ”Abaddôn” et en grec ”Apollyôn” (c’est-à-dire: Destructeur).</li>
         </ol>
       </article></section>
@@ -2695,11 +2695,11 @@
         <ol class="doc">
           <li value="05">Or, elle mit au monde un fils, un enfant mâle, celui qui sera le berger de toutes les nations, les conduisant avec un sceptre de fer. L’enfant fut enlevé jusqu’auprès de dieu et de son trône,</li>
           <li value="06">et la femme s’enfuit au désert, où dieu lui a préparé une place, pour qu’elle y soit nourrie pendant mille deux cent soixante jours.</li>
-          <li value="07">Il y eut alors un combat dans le ciel: Michel, avec ses anges, dut combattre le dragon.
-          Le dragon, lui aussi, combattait avec ses anges,</li>
+          <li value="07">Il y eut alors un combat dans le ciel: Michel, avec ses anges, dut combattre le dragon.</li>
+          <li>Le dragon, lui aussi, combattait avec ses anges,</li>
           <li value="08">mais il ne fut pas le plus fort; pour eux désormais, nulle place dans le ciel.</li>
-          <li value="09">Oui, il fut rejeté, le grand dragon, le serpent des origines, celui qu’on nomme diable et Satan, le séducteur du monde entier.
-          Il fut jeté sur la terre, et ses anges furent jetés avec lui.</li>
+          <li value="09">Oui, il fut rejeté, le grand dragon, le serpent des origines, celui qu’on nomme diable et Satan, le séducteur du monde entier.</li>
+          <li>Il fut jeté sur la terre, et ses anges furent jetés avec lui.</li>
         </ol>
       </article></section>
 
