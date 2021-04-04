@@ -2887,7 +2887,7 @@
 
     <section><article>
       <section><article>
-        <p>Sur volet gauche, depuis la gauche :</p>
+        <p>Sur volet gauche, depuis la gauche:</p>
         <ul>
           <li>Debout, <span style="color: #e6a64d;">sainte Agnès</span>, reconnaissable à l'agneau en bas sur le côté gauche,</li>
           <li>Agenouillée devant, <span style="color: #e6a64d;">Agnès CASEMBROOD</span> agenouillée.</li>
