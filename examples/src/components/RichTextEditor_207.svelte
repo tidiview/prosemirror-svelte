@@ -2557,7 +2557,7 @@
     </article></section>
 
     <section><article>
-      <h5 class="yellow">l'ange descendu du ciel - <cite>Apocalypse</cite>, chapître 10 versets 1 à 3</h5>
+      <h5 class="yellow">the angel descended from heaven - <cite>Apocalypse</cite>, chapter 10 verses 1 to 3</h5>
 
       <section><article>
         <ol class="doc">
@@ -2592,7 +2592,7 @@
     </article></section>
 
     <section><article>
-      <h5 class="yellow">le ciel de l'Apocalypse - <cite>Apocalypse</cite>, chapître 10 versets 3 à 6</h5>
+      <h5 class="yellow">The heaven of Apocalypse - <cite>Apocalypse</cite>, chapter 10 verses 3 to 6</h5>
 
       <section><article>
         <ol class="doc">
@@ -2604,7 +2604,8 @@
           <li value="06"><p>and swore by him who lives for ever and ever, and made heaven and all that it contains, and earth and all it contains, and the sea and all it contains:</p>
           <blockquote>
             <p>“The time of waiting is over”</p>
-          </blockquote></li>
+          </blockquote>
+          </li>
         </ol>
       </article></section>
 
@@ -2630,7 +2631,7 @@
     </article></section>
 
     <section><article>
-      <h5 class="yellow">la femme et le dragon - <cite>Apocalypse</cite>, chapître 12 versets 1 à 4</h5>
+      <h5 class="yellow">the woman and the dragon - <cite>Apocalypse</cite>, chapter 12 verses 1 to 4</h5>
 
       <section><article>
         <ol class="doc">
@@ -2664,7 +2665,7 @@
     </article></section>
 
     <section><article>
-      <h5 class="yellow">combat de saint michel, du dragon et de leurs anges: chute du dragon et de ses anges - <cite>Apocalypse</cite>, chapître 12 versets 5 à 9</h5>
+      <h5 class="yellow">battle of saint michael, the dragon and their angels: fall of the dragon and his angels - <cite>Apocalypse</cite>, chapter 12 verses 5 to 9</h5>
 
       <section><article>
         <ol class="doc">
@@ -2702,9 +2703,12 @@
 
   <!-- Page 14 --><hr>
 
-  <div id="body-inner">
-  <p><sup>10</sup>
-  Then I heard a voice shout from heaven, 'Salvation and power and empire for ever have been won by our god, and all authority for his Christ,
+<article>
+  <section><article>
+    <h5 class="yellow">the woman receives two great eagle's wings to escape the dragon - <cite>Apocalypse</cite>, chapter 12 verses 10 to 14</h5>
+    <section><article>
+      <ol class="doc">
+        <li value="10">Then I heard a voice shout from heaven, 'Salvation and power and empire for ever have been won by our god, and all authority for his Christ,
   now that the accuser, who accused our brothers day and night before our god, has been brought down.</p>
   <p><sup>11</sup>
   They have triumphed over him by the blood of the Lamb and by the word to which they bore witness, because even in the face of death they did not cling to life.</p>
@@ -2732,7 +2736,7 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-840.jpg 840w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1280.jpg 1280w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1600.jpg 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the woman was given a pair of the great eagle's wings to fly away from the serpent” (Apocalypse 12:14)</figcaption>
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the woman was given a pair of the great eagle's wings to fly away from the serpent” (Apocalypse chapter 12 verse 14)</figcaption>
   </figure>
   <p>This is for the visions of the apocalypse. According to <cite>The Golden Legend</cite>, John returns to Ephesus, where he resurrected Drusiana as Memling depicts him on a capital.</p>
   <figure>
