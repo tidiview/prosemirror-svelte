@@ -251,8 +251,8 @@
               <table>
                 <thead>
                 <tr>
-                <th><span hidden="">hidden</span></th>
-                <th><span hidden="">hidden</span></th>
+                <th><span hidden>hidden</span></th>
+                <th><span hidden>hidden</span></th>
                 </tr>
                 </thead>
                 <tbody>
@@ -280,8 +280,8 @@
               <table>
                 <thead>
                 <tr>
-                <th><span hidden="">hidden</span></th>
-                <th><span hidden="">hidden</span></th>
+                <th><span hidden>hidden</span></th>
+                <th><span hidden>hidden</span></th>
                 </tr>
                 </thead>
                 <tbody>
@@ -321,8 +321,8 @@
                 <table>
                   <thead>
                   <tr>
-                  <th><span hidden="">hidden</span></th>
-                  <th><span hidden="">hidden</span></th>
+                  <th><span hidden>hidden</span></th>
+                  <th><span hidden>hidden</span></th>
                   </tr>
                   </thead>
                   <tbody>
@@ -1122,7 +1122,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-840.webp 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1280.webp 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1600.webp 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, the 2 inner shutterss: in the foreground on the left one, John the Baptist beheaded by Herod's order, on the right one, John the Evangelist in Patmos, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, the 2 inner shutterss: in the foreground on the left one, John the Baptist beheaded by Herod's order, on the right one, John the Evangelist in Patmos, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, the right and left inner shutters: in the foreground on the left one, John the Baptist beheaded by Herod's order, on the right one, John the Evangelist in Patmos, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, the right and left inner shutters: in the foreground on the left one, John the Baptist beheaded by Herod's order, on the right one, John the Evangelist in Patmos, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-280.jpg 280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-380.jpg 380w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-480.jpg 480w,
@@ -1130,13 +1130,13 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1920.jpg 1920w"></picture><figcaption>the 2 inner shutterss: in the foreground of the left one, John the Baptist beheaded by Herod's order, on the right one, John the Evangelist in Patmos</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1920.jpg 1920w"></picture><figcaption>the right and left inner shutters: in the foreground of the left one, John the Baptist beheaded by Herod's order, on the right one, John the Evangelist in Patmos</figcaption>
     </figure>
     <section><article>
       <p>On each panel, an episode forms <span style="color: #e6a64d;">a main scene in the foreground</span>, completed in the narrative by <span style="color: #e6a64d;">small scenes in the distance</span>.</p>
       <ul>
-        <li>on the left, <span style="color: #e6a64d;">John the Baptist</span> has just been beheaded by <span style="color: #e6a64d;">Herod</span>'s order,</li>
-        <li>on the right, <span style="color: #e6a64d;">John the Evangelist</span> receives the «unveiling» of the text of the Apocalypse in <span style="color: #e6a64d;">Patmos</span>.</li>
+        <li>on the left inner shutter, <span style="color: #e6a64d;">John the Baptist</span> has just been beheaded by <span style="color: #e6a64d;">Herod</span>'s order,</li>
+        <li>on the right inner shutter, <span style="color: #e6a64d;">John the Evangelist</span> receives the «unveiling» of the text of the Apocalypse in <span style="color: #e6a64d;">Patmos</span>.</li>
       </ul>
     </article></section>
   </article></section>
@@ -1212,7 +1212,7 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-840.webp 840w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1280.webp 1280w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1600.webp 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, the 2 inner shutterss: in the foreground on the left, John the Baptist beheaded by Herod's order, on the right, John the Evangelist in Patmos, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, the 2 inner shutterss: in the foreground on the left, John the Baptist beheaded by Herod's order, on the right, John the Evangelist in Patmos, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, the right and left inner shutters: in the foreground on the left, John the Baptist beheaded by Herod's order, on the right, John the Evangelist in Patmos, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, the right and left inner shutters: in the foreground on the left, John the Baptist beheaded by Herod's order, on the right, John the Evangelist in Patmos, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-280.jpg 280w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-380.jpg 380w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-480.jpg 480w,
@@ -1220,7 +1220,7 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-840.jpg 840w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1280.jpg 1280w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1600.jpg 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1920.jpg 1920w"></picture><figcaption>the 2 inner shutterss: in the foreground on the left, John the Baptist beheaded by Herod's order, on the right, John the Evangelist in Patmos</figcaption>
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1920.jpg 1920w"></picture><figcaption>the right and left inner shutters: in the foreground on the left, John the Baptist beheaded by Herod's order, on the right, John the Evangelist in Patmos</figcaption>
   </figure>
   <section><article>
     <section><article>
@@ -1266,7 +1266,7 @@
 
     <section><article>
       <h5 class="yellow">John the Baptist according to historical documents</h5>
-      <p>Historically, John is described as a Jewish <span style="color: #e6a64d;">preacher</span> in <a href="https://en.wikipedia.org/wiki/Galilee" title="https://en.wikipedia.org/wiki/Galilee" id="galilee" class="yellow">Galilee</a> of this time of <a href="https://en.wikipedia.org/wiki/Historical_Jesus" title="https://en.wikipedia.org/wiki/Historical_Jesus" id="jesus-de-nazareth" class="yellow">Jesus of Nazareth</a> according to the testimony of <a href="https://en.wikipedia.org/wiki/Josephus" title="https://en.wikipedia.org/wiki/Josephus" id="flavius-josephe" class="yellow">Flavius Josephus</a>, a 1<sup style="color:#555;">st</sup> century roman jewish historian (<span style="color: #999;"><a href="https://en.wikipedia.org/wiki/Antiquities_of_the_Jews" title="https://en.wikipedia.org/wiki/Antiquities_of_the_Jews" id="antiquites-judaiques" class="yellow">“Jewish Antiquities”</a>, book XVIII, chap. 5, 118).</span></p>
+      <p>Historically, John is described as a Jewish <span style="color: #e6a64d;">preacher</span> in <a href="https://en.wikipedia.org/wiki/Galilee" title="https://en.wikipedia.org/wiki/Galilee" id="galilee" class="yellow">Galilee</a> of this time of <a href="https://en.wikipedia.org/wiki/Historical_Jesus" title="https://en.wikipedia.org/wiki/Historical_Jesus" id="jesus-de-nazareth" class="yellow">Jesus of Nazareth</a> according to the testimony of <a href="https://en.wikipedia.org/wiki/Josephus" title="https://en.wikipedia.org/wiki/Josephus" id="flavius-josephe" class="yellow">Flavius Josephus</a>, a 1<sup style="color:#555;">st</sup> century roman jewish historian (<span style="color: #999;"><a href="https://en.wikipedia.org/wiki/Antiquities_of_the_Jews" title="https://en.wikipedia.org/wiki/Antiquities_of_the_Jews" id="antiquites-judaiques" class="yellow">“Jewish Antiquities”</a>, book XVIII, chapter 5, paragraph 118).</span></p>
       <p>Galilee at that time was a province of the roman empire that experienced many revolts.</p>
       <p>Its population, mainly Jewish, is very religious;
       the biblical writings announce the coming of an envoy of god whose action will enable the jewish people to recover their independence and religious organization, in particular to rebuild <a href="https://en.wikipedia.org/wiki/Solomon's_Temple" title="https://en.wikipedia.org/wiki/Solomon'%27's_Temple" id="temple-de-salomon" class="yellow">
@@ -1276,7 +1276,7 @@
     <section><article>
       <h5 class="yellow">John the Baptist according to the texts of the Christian faith</h5>
       <section><article>
-        <p>In terms of christian faith, <span style="color: #e6a64d;"></span>John is, according to Luke's gospel <span style="color: #999;">(chapter 1:5-25)</span>, <span style="color: #e6a64d;">the son of</span> <a href="https://en.wikipedia.org/wiki/Zechariah_(priest)" title="https://en.wikipedia.org/wiki/Zechariah_(priest)" id="zaccharie" class="yellow">Zechariah</a>, an old jewish priest from the galilean countryside to whom god himself announces by <a href="https://en.wikipedia.org/wiki/Gabriel" title="https://en.wikipedia.org/wiki/Gabriel" id="archange-gabriel" class="yellow">the archangel Gabriel</a> the birth of John when he was chosen by chance to go to Jerusalem and prays in the temple.</p>
+        <p>In terms of christian faith, <span style="color: #e6a64d;"></span>John is, according to Luke's gospel <span style="color: #999;">(chapter 1 verses 5 to 25)</span>, <span style="color: #e6a64d;">the son of</span> <a href="https://en.wikipedia.org/wiki/Zechariah_(priest)" title="https://en.wikipedia.org/wiki/Zechariah_(priest)" id="zaccharie" class="yellow">Zechariah</a>, an old jewish priest from the galilean countryside to whom god himself announces by <a href="https://en.wikipedia.org/wiki/Gabriel" title="https://en.wikipedia.org/wiki/Gabriel" id="archange-gabriel" class="yellow">the archangel Gabriel</a> the birth of John when he was chosen by chance to go to Jerusalem and prays in the temple.</p>
       </article></section>
 
       <section><article>
@@ -1340,7 +1340,7 @@
         <h6 class="yellow">Choice of the name of Jean by Zechariah</h6>
 
         <section><article>
-          <p>The name of this son, «John», is also one of the issues in the story <span style="color: #999;">(Luke 1:59-63)</span>:</p>
+          <p>The name of this son, «John», is also one of the issues in the story <span style="color: #999;">(Luke chapter 1 verses 59 to 63)</span>:</p>
         <blockquote>
           <p>«On the eighth day they came for the circumcision of the child, and they wanted to call him Zechariah, after his father's name. But his mother spoke up and said:</p>
           <p><span style="color: #e6a64d;"><q>No, his name will be John.</q></span></p>
@@ -1366,7 +1366,7 @@
     <h6 class="yellow">Scene of the asceticism of John in the distance of the central panel</h6>
 
     <section><article>
-      <p>He then leads an exemplary life as an ascetic «in the desert» <span style="color: #999;">(Luke 1:80)</span>.</p>
+      <p>He then leads an exemplary life as an ascetic «in the desert» <span style="color: #999;">(Luke chapter 1 verse 80)</span>.</p>
       <p>Memling transposes this scene into the forest.</p></p>
     </article></section>
 
@@ -1460,12 +1460,12 @@
     <h6 class="yellow">Scene of the arrest of John in the distance of the central panel</h6>
     <section><article>
       <p>From that point on, his story is tragic:</p>
-      <p>the tetrarch of Galilee and Perea, <a href="https://en.wikipedia.org/wiki/Herod_Antipas" title="https://en.wikipedia.org/wiki/Herod_Antipas" id="herode-antipas" class="yellow">Herod Antipas</a> married «<a href="https://en.wikipedia.org/wiki/Herod_II" title="https://en.wikipedia.org/wiki/Herod_II" id="herode-boethos" class="yellow">his brother Philip's wife</a> (<a href="https://en.wikipedia.org/wiki/Herodias" title="https://en.wikipedia.org/wiki/Herodias" id="herodiade">Herodias</a>)» <span style="color: #999;">(Mark chapter 6,17)</span>;</p>
-      <p>As the jewish faith regards any marriage with his brother's wife as <span style="color: #e6a64d;">«defiling»</span> and <span style="color: #e6a64d;">forbids</span> it <span style="color: #999;">(Leviticus chap. 18:16; chap. 20:21)</span>, John publicly condemns it.</p>
+      <p>the tetrarch of Galilee and Perea, <a href="https://en.wikipedia.org/wiki/Herod_Antipas" title="https://en.wikipedia.org/wiki/Herod_Antipas" id="herode-antipas" class="yellow">Herod Antipas</a> married «<a href="https://en.wikipedia.org/wiki/Herod_II" title="https://en.wikipedia.org/wiki/Herod_II" id="herode-boethos" class="yellow">his brother Philip's wife</a> (<a href="https://en.wikipedia.org/wiki/Herodias" title="https://en.wikipedia.org/wiki/Herodias" id="herodiade">Herodias</a>)» <span style="color: #999;">(Mark chapter 6, verse 17)</span>;</p>
+      <p>As the jewish faith regards any marriage with his brother's wife as <span style="color: #e6a64d;">«defiling»</span> and <span style="color: #e6a64d;">forbids</span> it <span style="color: #999;">(Leviticus chapter 18 verse 16; chapter 20 verse 21)</span>, John publicly condemns it.</p>
       <p><span style="color: #e6a64d;">Herod feared</span> that this would provoke «<span style="color: #e6a64d;">a revolt</span>, the crowd seeming ready to follow all the advice of this man.</p>
-      <p>He therefore prefers to take him before any trouble occurs because of him, rather than to have to repent later if a movement takes place» <span style="color: #999;">(“Jewish Antiquities”, Book XVIII, chap. 5,118)</span> <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">note 1</a></sup>.</p>
+      <p>He therefore prefers to take him before any trouble occurs because of him, rather than to have to repent later if a movement takes place» <span style="color: #999;">(“Jewish Antiquities”, Book XVIII, chapter 5, paragraph 118)</span> <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">note 1</a></sup>.</p>
       <p>In the event of unrest caused by John's supporters, Herod had to answer to the roman authorities, who could dismiss him:</p>
-      <p>he gives <span style="color: #e6a64d;">“the order to arrest John”</span> <span style="color: #999;">(Mark chapter 6,17)</span>.</p>
+      <p>he gives <span style="color: #e6a64d;">“the order to arrest John”</span> <span style="color: #999;">(Mark chapter 6, verse 17)</span>.</p>
     </article></section>
     <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -1592,7 +1592,7 @@
     </blockquote>
     <p><span style="color: #999;">(Mark, chapter 6, verses 24 to 29)</span></p>
     <p>Thus, Herod may appear to put John to death against his will.</p>
-    <p>The proof that this whole story is indeed a smokescreen is that if Salome asks Herod <span style="color: #e6a64d;">«the death of his father <a href="https://en.wikipedia.org/wiki/Herod_II" title="https://en.wikipedia.org/wiki/Herod_II" id="herode-boethos-2" class="yellow">Philip</a> or her mother <a href="https://en.wikipedia.org/wiki/Herodias" title="https://en.wikipedia.org/wiki/Herodias" id="herodiade-2" class="yellow">Herodias</a>»</span>, Herod cannot consent to it <span style="color: #999;">(<cite>The Golden Legend</cite> chap. 121,I. <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">note 1</a></sup> )</span>.</p>
+    <p>The proof that this whole story is indeed a smokescreen is that if Salome asks Herod <span style="color: #e6a64d;">«the death of his father <a href="https://en.wikipedia.org/wiki/Herod_II" title="https://en.wikipedia.org/wiki/Herod_II" id="herode-boethos-2" class="yellow">Philip</a> or her mother <a href="https://en.wikipedia.org/wiki/Herodias" title="https://en.wikipedia.org/wiki/Herodias" id="herodiade-2" class="yellow">Herodias</a>»</span>, Herod cannot consent to it <span style="color: #999;">(<cite>The Golden Legend</cite> chapter 121, paragraph I. <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">note 1</a></sup> )</span>.</p>
   </article></section>
 
   <section><article>
@@ -1682,7 +1682,7 @@
   <article><section>
     <p><span style="color: #e6a64d;">The executioner</span> is represented from behind placing <span style="color: #e6a64d;">the head in the plate</span> presented to him by a barely moved <a href="https://en.wikipedia.org/wiki/Salome" title="https://en.wikipedia.org/wiki/Salome" id="salome-3" class="yellow">Salome</a>.</p>
     <p>Art historians have identified in the positions of the executioner and Salome <span style="color: #e6a64d;">a reuse by Memling of a similar scene</span> in a work by his master when he was the assistant of this painter in Brussels, <a href="https://en.wikipedia.org/wiki/Rogier_van_der_Weyden" title="https://en.wikipedia.org/wiki/Rogier_van_der_Weyden" id="rogier-van-der-weyden" class="yellow">Rogier VAN DER WEYDEN</a>.</p>
-    <p>This is the left inner shutter of the <span style="color: #e6a64d;"><cite>Tryptic of St. John</cite></span> painted around <time datetime="1450">1450</time>-<time datetime="1455">55</time> in the <a href="https://en.wikipedia.org/wiki/Gemäldegalerie,_Berlin" title="https://en.wikipedia.org/wiki/Gem%C3%A4ldegalerie,_Berlin" id="gemaldegalerie" class="yellow"><ruby lang="en">Painting&nbsp;Gallery<rp>(</rp><rt lang="de">Gemäldegalerie</rt><rp>)</rp></ruby></a> of the <a href="https://en.wikipedia.org/wiki/Berlin_State_Museums" title="https://en.wikipedia.org/wiki/Berlin_State_Museums" id="musees-d-etat-de-berlin" class="yellow"><ruby lang="fr">Berlin&nbsp;State&nbsp;Museums<rp>(</rp><rt lang="de">Staatliche&nbsp;Museen&nbsp;zu&nbsp;Berlin</rt><rp>)</rp></ruby></a> <span style="color: #999;">(inv. no. 534B)</span>.</p>
+    <p>This is the left inner shutter of the <span style="color: #e6a64d;"><cite>Tryptic of St. John</cite></span> painted around <time datetime="1450">1450</time>-<time datetime="1455">55</time> in the <a href="https://en.wikipedia.org/wiki/Gemäldegalerie,_Berlin" title="https://en.wikipedia.org/wiki/Gem%C3%A4ldegalerie,_Berlin" id="gemaldegalerie" class="yellow"><ruby lang="en">Painting&nbsp;Gallery<rp>(</rp><rt lang="de">Gemäldegalerie</rt><rp>)</rp></ruby></a> of the <a href="https://en.wikipedia.org/wiki/Berlin_State_Museums" title="https://en.wikipedia.org/wiki/Berlin_State_Museums" id="musees-d-etat-de-berlin" class="yellow"><ruby lang="fr">Berlin&nbsp;State&nbsp;Museums<rp>(</rp><rt lang="de">Staatliche&nbsp;Museen&nbsp;zu&nbsp;Berlin</rt><rp>)</rp></ruby></a> <span style="color: #999;">(inventory reference: 534B)</span>.</p>
   </article></section>
 
   <figure>
@@ -1738,13 +1738,13 @@
   </article></section>
 
   <article><section>
-    <h6 class="yellow">Détail du mur dans lequel est caché la tête de Jean le Baptiste, panneau central intérieur</h6>
+    <h6 class="yellow">Detail of the wall in which the head of John the Baptist is hidden, inner central panel</h6>
     <article><section>
       <p>His head appears lower down in <span style="color: #e6a64d;">the opening of the wall</span>, behind <span style="color: #e6a64d;">a stone</span>.</p>
 
 
       <p>But things do not go as planned.</p>
-      <p>According to legend, the head was buried separately by <span style="color: #e6a64d;">a potter from the city of Emesse</span>, the present <a href="https://en.wikipedia.org/wiki/Homs" title="https://en.wikipedia.org/wiki/Homs" id="homs" class="yellow"><ruby lang="en">Homs<rp>(</rp><rt lang="ar">حمص</rt><rp>)</rp></ruby></a> in Syria, and then is thought to have appeared to Saint Marcellus who discovered it by following a star <span style="color: #999;">(<cite>The Golden Legend</cite> chapter 121, III.)</span>.</p>
+      <p>According to legend, the head was buried separately by <span style="color: #e6a64d;">a potter from the city of Emesse</span>, the present <a href="https://en.wikipedia.org/wiki/Homs" title="https://en.wikipedia.org/wiki/Homs" id="homs" class="yellow"><ruby lang="en">Homs<rp>(</rp><rt lang="ar">حمص</rt><rp>)</rp></ruby></a> in Syria, and then is thought to have appeared to Saint Marcellus who discovered it by following a star <span style="color: #999;">(<cite>The Golden Legend</cite> chapter 121, paragraph III.)</span>.</p>
       <p>So his head appears further down in <span style="color: #e6a64d;">the opening in the wall</span>, behind <span style="color: #e6a64d;">a stone</span>.</p>
     </article></section>
 
@@ -1779,7 +1779,7 @@
   <div class="footnotes">
   <ol>
     <li id="fn:1">
-    <p>Saint Marcellus of Apamea in Syria (died in 389). Magistrate of the city, in the year 375, he left his wife and children, and devoted himself to a monastic life, was elected bishop of Apamea, Syria. He died murdered by the heathens while watching over the destruction of a temple of idols according to an edict of Emperor Theodosius. Celebrated on August 14th.</p>
+    <p>Saint Marcellus of Apamea in Syria (died in <time datetime="389">389</time>). Magistrate of the city, in the year <time datetime="375">375</time>, he left his wife and children, and devoted himself to a monastic life, was elected bishop of Apamea, Syria. He died murdered by the heathens while watching over the destruction of a temple of idols according to an edict of Emperor Theodosius. Celebrated on <time datetime="08-14">August 14<sup>th</sup></time>.</p>
    </li>
   </ol>
   </div>
@@ -1792,9 +1792,9 @@
 <!-- Page 10 --><hr>
 
 <article>
-  <h4 class="yellow" id="légende-de-jean-l’évangéliste">scènes de la légende de Jean l’Évangéliste selon <cite>La Légende Dorée</cite> et <cite>L'Apocalypse</cite></h4>
+  <h4 class="yellow" id="légende-de-jean-l’évangéliste">scenes from the legend of John the Evangelist according to <cite>The Golden Legend</cite> and <cite>The Apocalypse</cite></h4>
   <article><section>
-    <h5 class="yellow">précisions sur Jean l’Évangéliste selon <cite>La Légende Dorée</cite> et <cite>L'Apocalypse</cite></h5>
+    <h5 class="yellow">details on John the Evangelist according to <cite>The Golden Legend</cite> and <cite>The Apocalypse</cite></h5>
     <section><article>
 
       <section><article>
@@ -1845,7 +1845,7 @@
           <li>From there, he witnessed:
             <ul>
               <li>the <a href="https://fr.wikipedia.org/wiki/Transfiguration_(christianisme)" title="https://fr.wikipedia.org/wiki/Transfiguration_(christianisme)" id="transfiguration" class="yellow">transfiguration of Jesus</a> <span style="color: #999;">(Mark chapter 9 verse 2, Matthew chapter 17 verse 1 and Luke chapter 9 verse 28)</span>,</li>
-              <li>the <a href="https://en.wikipedia.org/wiki/Healing_the_mother_of_Peter%27s_wife" title="https://en.wikipedia.org/wiki/Healing_the_mother_of_Peter%27s_wife" id="guerison-de-la-belle-mere-de-pierre" class="yellow">healing of Simon Peter's mother-in-law</a> <span style="color: #999;">(Mark 1.29)</span>,</li>
+              <li>the <a href="https://en.wikipedia.org/wiki/Healing_the_mother_of_Peter%27s_wife" title="https://en.wikipedia.org/wiki/Healing_the_mother_of_Peter%27s_wife" id="guerison-de-la-belle-mere-de-pierre" class="yellow">healing of Simon Peter's mother-in-law</a> <span style="color: #999;">(Mark chapter 1 verse 29)</span>,</li>
               <li>the <a href="https://en.wikipedia.org/wiki/Raising_of_Jairus%27_daughter" title="https://en.wikipedia.org/wiki/Raising_of_Jairus%27_daughter" id="fille-de-jaire" class="yellow">healing of Jairus' daughter</a> the ruler of the synagogue <span style="color: #999;">(Mark chapter 5 verse 37 and Luke chapter 8 verse 51)</span>,</li>
               <li>was present with his brother when Jesus was tempted to renounce in the <a href="https://en.wikipedia.org/wiki/Agony_in_the_Garden" title="https://en.wikipedia.org/wiki/Agony_in_the_Garden" id="agonie-dans-le-jardin-des-oliviers" class="yellow">Garden of Gethsemane</a> <span style="color: #999;">(Mark chapter 13 verse 3)</span>, but he fell asleep <span style="color: #999;">(Mark chapter 14 verse 33)</span>.</li>
             </ul>
@@ -1859,7 +1859,7 @@
 
       <section><article>
         <ul>
-          <li><p><a href="https://en.wikipedia.org/wiki/Gospel_of_John" title="https://en.wikipedia.org/wiki/Gospel_of_John" id="disciple-que-jesus-aimait-3" class="yellow">The disciple whom Jesus loved</a> appears at the end of the gospel called «of John» <span style="color: #999;">(John 21:20;24-25)</span>:</p>
+          <li><p><a href="https://en.wikipedia.org/wiki/Gospel_of_John" title="https://en.wikipedia.org/wiki/Gospel_of_John" id="disciple-que-jesus-aimait-3" class="yellow">The disciple whom Jesus loved</a> appears at the end of the gospel called «of John» <span style="color: #999;">(John chapter 21 verse 20; verses 24 to 25)</span>:</p>
           <blockquote>
             <p>“having turned around, Peter saw, following them, <span style="color: #e6a64d;"><em>the disciple whom Jesus loved</em></span>.</p>
             <p><span style="color: #999;">(…)</span></p>
@@ -1867,7 +1867,7 @@
           </blockquote>
           <p>There is nothing in the text that allows us to call him «John», so the designation “Gospel of John” cannot be right: it should be the “Gospel of the disciple whom Jesus loved”.</p>
           <p>He is quite an extraordinary character: he is a disciple of Jesus among others with whom every reader can identify, he is loved by Jesus himself and therefore finds himself closer to him than anyone else.</p>
-          <p>He does not hesitate, just after the previous excerpt, to give his opinion <span style="color: #999;">(John chapître 21 verset 25)</span>:</p>
+          <p>He does not hesitate, just after the previous excerpt, to give his opinion <span style="color: #999;">(John chapter 21 verse 25)</span>:</p>
           <blockquote>
             <p>«There are many other things that Jesus did; and if we had to write each of them, <span style="color: #e6a64d;"><span style="text-decoration: underline;">I</span> think</span> the whole world would not be enough to hold the books we would write».</p>
           </blockquote>
@@ -1894,13 +1894,13 @@
           </blockquote>
           <p>then to him:</p>
           <blockquote>
-            <p><q>Behold your mother</q> <span style="color: #999;">(John chapter 19 versets 26 à 27)</span>.</p>
+            <p><q>Behold your mother</q> <span style="color: #999;">(John chapter 19 verses 26 to 27)</span>.</p>
          </li>
           <li>
-            <p>When Mary Magdalene discovered the empty tomb, she ran to tell the «beloved disciple» and Peter; he was the first to reach the tomb <span style="color: #999;">(John chapter 20 versets 2 à 8)</span>.</p>
+            <p>When Mary Magdalene discovered the empty tomb, she ran to tell the «beloved disciple» and Peter; he was the first to reach the tomb <span style="color: #999;">(John chapter 20 verses 2 to 8)</span>.</p>
          </li>
           <li>
-            <p>He was the first to recognize Jesus at Lake Tiberias after his resurrection <span style="color: #999;">(John chapter 21 verset 7)</span>.</p>
+            <p>He was the first to recognize Jesus at Lake Tiberias after his resurrection <span style="color: #999;">(John chapter 21 verse 7)</span>.</p>
          </li>
         </ul>
       </article></section>
@@ -1908,14 +1908,13 @@
 
     <section><article>
       <h5 id="jean-de-patmos-2" class="yellow">john of patmos</h5>
-
-<section><article>
-  <ul>
-    <li>
-      <p><a href="https://en.wikipedia.org/wiki/John_of_Patmos" title="https://en.wikipedia.org/wiki/John_of_Patmos" id="jean-de-patmos-3" class="yellow">John of Patmos</a> appears at the beginning of the text of Apocalypse which presents him as:</p>
+      <section><article>
+        <ul>
+          <li>
+            <p><a href="https://en.wikipedia.org/wiki/John_of_Patmos" title="https://en.wikipedia.org/wiki/John_of_Patmos" id="jean-de-patmos-3" class="yellow">John of Patmos</a> appears at the beginning of the text of Apocalypse which presents him as:</p>
             <blockquote>
-              <p> a <span style="color: #e6a64d;">«servant» to whom god made known</span> <span style="color: #999;">(…)</span> «by sending his angel»[/color] <span style="color: #999;">(…)</span> «what must soon happen» <span style="color: #999;">(…)</span> «to the seven churches in Asia Minor» <span style="color: #999;">(Rev chapter 1 verset 1 à 9)</span>.</p>
-         </li>
+              <p> a <span style="color: #e6a64d;">«servant» to whom god made known</span> <span style="color: #999;">(…)</span> <span style="color: #e6a64d;">«by sending his angel»</span> <span style="color: #999;">(…)</span> «what must soon happen» <span style="color: #999;">(…)</span> «to the seven churches in Asia Minor» <span style="color: #999;">(Apocalypse chapter 1 verses 1 to 9)</span>.</p>
+          </li>
         </ul>
       </article></section>
     </article></section>
@@ -1936,7 +1935,7 @@
       <h5 id="jean-a-la-porte-latine" class="yellow">john the evangelist scalded by order of emperor domitian in front of the latin gate in rome and departure for exile in the island of patmos</h5>
 
       <section><article>
-        <p>The narrative starts on the central panel <span style="color: #999;">(chap. 65)</span> <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">note 1</a></sup>:</p>
+        <p>The narrative starts on the central panel <span style="color: #999;">(chapter 65)</span> <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">note 1</a></sup>:</p>
         <ol class="doc">
           <li>«<span style="color: #e6a64d;">John</span> was preaching at Ephesus when he was arrested by the proconsul and invited to sacrifice to the gods.</li>
           <li>As he refused, he was thrown into prison; a letter was then sent to the <span style="color: #e6a64d;">Emperor Domitian</span> designating him as a sacrilegious magician, contender of the gods and worshipper of the Crucified.</li>
@@ -1972,19 +1971,19 @@
         </ol>
         <p>The representation of Memling shows on the horizon on the left, this <span style="color: #e6a64d;">church</span>, on the right, the <span style="color: #e6a64d;">Colosseum of Rome</span> and the <span style="color: #e6a64d;">Latin Gate</span>.</p>
         <ol class="doc">
-          <li>«The emperor, realizing that he was not renouncing preaching, exiled him to <span style="color: #e6a64d;">the island of Patmos</span>», <span style="color: #999;">(the departure for Patmos appears in the middle: some men board a boat)</span> «where, in solitude, he wrote <span style="color: #e6a64d;"><cite>The Apocalypse</cite>» <span style="color: #999;"></span>(chap. 9)</span>.</li>
+          <li>«The emperor, realizing that he was not renouncing preaching, exiled him to <span style="color: #e6a64d;">the island of Patmos</span>», <span style="color: #999;">(the departure for Patmos appears in the middle: some men board a boat)</span> «where, in solitude, he wrote <span style="color: #e6a64d;"><cite>The Apocalypse</cite>» <span style="color: #999;"></span>(chapter 9)</span>.</li>
         </ol>
       </article></section>
     </article></section>
 
     <section><article>
-      <h5 class="yellow">Vue d'ensemble du volet intérieur droit: Jean témoigne de <cite>L'Apocalypse</cite> à Patmos</h5>
+      <h5 class="yellow">Overview of the right inner shutter: John bears witness to <cite>The Apocalypse</cite> on Patmos.</h5>
 
       <section><article>
         <p>The right inner shutter is entirely dedicated to the visions John had in Patmos <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">note 2</a></sup>.</p>
         <p>Memling's representation is particularly noteworthy because while there are many representations of <cite>The Apocalypse</cite> as a succession of paintings, in contrast there are very few that assume a unity of the space of representation.</p>
         <p>And for good reason: the narrative of John of Patmos presents a remarkable complexity.</p>
-        <p>And yet Memling succeeds in the tour de force of making the space of representation as credible, supernaturally complex as the narrative.</p>
+        <p>And yet Memling succeeds in the tour-de-force of making the space of representation as credible, supernaturally complex as the narrative.</p>
       </article></section>
 
       <figure>
@@ -2005,7 +2004,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “John the Evangelist in Patmos”<br>«With that, I fell into ecstasy. 
-        I saw a throne standing in heaven (…) In front of the throne was a sea as transparent as crystal» (Apocalypse 4.2;6)</figcaption>
+        I saw a throne standing in heaven (…) In front of the throne was a sea as transparent as crystal», <cite>Apocalypse</cite>, chapter 4 verse 2 and verse 6</figcaption>
       </figure>
 
       <section><article>
@@ -2016,11 +2015,11 @@
     </article></section>
 
     <section><article>
-      <h5 class="yellow">Vision du trône de dieu, de la cour céleste et de l'agneau - <cite>Apocalypse</cite>, du chapître 4 verset 2 au chapître 6 verset 1</h5>
+      <h5 class="yellow">Vision of the throne of god, the heavenly court and the lamb - <cite>Apocalypse</cite>, from chapter 4 verse 2 to chapter 6 verse 1</h5>
 
       <section><article>
         <section><article>
-          <p>We choose to follow John's own way to tell <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref">note 3</a></sup> the unveiling in the text <span style="color: #999;">(Apocalypse 4:2-6)</span>, which begins at the top left of the panel: this way it is possible to compare the text with Memling's representation of it.</p>
+          <p>We choose to follow John's own way to tell <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref">note 3</a></sup> the unveiling in the text <span style="color: #999;">(Apocalypse chapter 4 verse 2 and verse 6)</span>, which begins at the top left of the shutter: this way it is possible to compare the text with Memling's representation of it.</p>
         </article></section>
 
         <section><article>
@@ -2053,7 +2052,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “vision of the throne of god, of the heavenly court, and of the lamb”</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “vision of the throne of god, of the heavenly court, and of the lamb”, <cite>Apocalypse</cite>, from chapter 4 verse 2 to chapter 6 verse 1</figcaption>
       </figure>
 
       <section><article>
@@ -2110,8 +2109,8 @@
     <div class="footnotes">
       <ol start="3">
         <li id="fn:3">
-          <p>The text of Apocalypse is addressed to the "seven churches that are in Asia Minor" ("Ephesus, Smyrna, Pergamos, Thyatira, Sardis, Philadelphia and Laodicea", Apocalypse 1:4) in the symbolic language of the Jewish scriptures.</p>
-          <p>It exhorts them to a transcendent reality that will enable them to overcome not only persecutions, whether Roman or Jewish, but also their own inadequacies <span style="color: #999;">(Apocalypse chap. 2-3)</span> through new hope in Christ at the end of time.</p>
+          <p>The text of Apocalypse is addressed to the "seven churches that are in Asia Minor" ("Ephesus, Smyrna, Pergamos, Thyatira, Sardis, Philadelphia and Laodicea", Apocalypse chapter 1 verse 4) in the symbolic language of the Jewish scriptures.</p>
+          <p>It exhorts them to a transcendent reality that will enable them to overcome not only persecutions, whether Roman or Jewish, but also their own inadequacies <span style="color: #999;">(Apocalypse chapter 2 verse 3)</span> through new hope in Christ at the end of time.</p>
        </li>
       </ol>
     </div>
@@ -2157,7 +2156,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-840.webp 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1280.webp 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1600.webp 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the right inner shutter, “the black horse”, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the right inner shutter, “the black horse”, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-80-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the right inner shutter, “the white horse”, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the right inner shutter, “the white horse”, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-80-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-280.jpg 280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-380.jpg 380w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-480.jpg 480w,
@@ -2165,17 +2164,17 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the black horse”.</p>
-          <p>«its rider was holding a bow; he was given a victor's crown and he went away, to go from victory to victory» (Apocalypse 4.2)</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the white horse”.</p>
+          <p>«its rider was holding a bow; he was given a victor's crown and he went away, to go from victory to victory», <cite>Apocalypse</cite>, chapter 6 verse 2</figcaption>
       </figure>
     </article></section>
 
     <section><article>
-      <h6 class="yellow">second seal: the fiery red horse - <cite>Revelation</cite>, chapter 6 verses 3 to 4</h6>
+      <h6 class="yellow">second seal: the fiery red horse - <cite>Apocalypse</cite>, chapter 6 verses 3 to 4</h6>
 
       <section><article>
         <ol class="doc">
-          <li value="03">When he broke the second seal, I heard the second living creature shout</p>
+          <li value="03"><p>When he broke the second seal, I heard the second living creature shout</p>
             <blockquote>
               <p>“Come!”</p>
             </blockquote>
@@ -2201,8 +2200,8 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the black horseorse”</p>
-          <p>«its rider was given this duty: to take away peace from the earth and set people killing each other. He was given a huge sword» (Apocalypse 4.4)</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the fiery red horse”</p>
+          <p>«its rider was given this duty: to take away peace from the earth and set people killing each other. He was given a huge sword», <cite>Apocalypse</cite>, chapter 6 verses 3 to 4</figcaption>
       </figure>
     </article></section>
     
@@ -2244,7 +2243,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the black horse”.<br>«its rider was holding a pair of scales» (Apocalypse 4.5)</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the black horse”.<br>«its rider was holding a pair of scales» (Apocalypse chapter 6 verse 5)</figcaption>
       </figure>
     </article></section>
     
@@ -2282,7 +2281,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the black horse, Death, Hades”.<br>«its rider was called Death, and Hades followed at its heels» (Apocalypse 4.5)</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the black horse, Death, Hades”.<br>«its rider was called Death, and Hades followed at its heels» (Apocalypse chapter 6 verse 8)</figcaption>
       </figure>
     </article></section>
     
@@ -2315,7 +2314,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-840.webp 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1280.webp 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1600.webp 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the right inner shutter, “the black horse”, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the right inner shutter, “the black horse”, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-80-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the right inner shutter, “landscape around the four horsemen”, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the right inner shutter, “landscape around the four horsemen”, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-80-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-280.jpg 280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-380.jpg 380w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-480.jpg 480w,
@@ -2323,7 +2322,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the black horse”</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “landscape around the four horsemen” - Apocalypse, chapter 6 verses 14 to 17</figcaption>
       </figure>
     </article></section>
   </article></section>
@@ -2360,7 +2359,7 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-840.jpg 840w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-1280.jpg 1280w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-1600.jpg 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the angels of the seventh seal”</figcaption>
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the angels of the seventh seal”, <cite>Apocalypse</cite>, chapter 8 verse 2</figcaption>
   </figure>
   </article></section>
 
@@ -2390,7 +2389,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the angel of the altar”</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the angel of the altar”, <cite>Apocalypse</cite>, chapter 8 verse 3</figcaption>
     </figure>
 
     <section><article>
@@ -2422,7 +2421,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-840.webp 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1280.webp 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1600.webp 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the right inner shutter, “fall of great mountain blazing with fire, a third of all ships destroyed”, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the right inner shutter, “fall of great mountain blazing with fire, a third of all ships destroyed”, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-80-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the right inner shutter, fall of “great mountain blazing with fire, a third of all ships destroyed”, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the right inner shutter, fall of “great mountain blazing with fire, a third of all ships destroyed”, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-80-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-280.jpg 280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-380.jpg 380w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-480.jpg 480w,
@@ -2430,7 +2429,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “fall of great mountain blazing with fire, a third of all ships destroyed”</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, fall of “great mountain blazing with fire, a third of all ships destroyed”, <cite>Apocalypse</cite>, chapter 8 verse 8</figcaption>
     </figure>
   </article></section>
 
@@ -2926,16 +2925,16 @@
 <section><article>
   <h3 id="cath-selon-legende" class="yellow">Legend of Catherine of Alexandria according to chapter 166 of <cite>The Golden Legend</cite></h3>
     <section><article>
-      <h4>Texte du chapître 166 de <cite>La Légende dorée</cite>: légende de Catherine d'Alexandrie</h4>
+      <h4>Text of chapter 166 of <cite>The Golden Legend</cite>: legend of Catherine of Alexandria</h4>
       <section><article>
-        <p>Here followeth the Life of S. Catherine, virgin and martyr, and first of her name.</p>
+        <p>Here followeth the Life of St. Catherine, virgin and martyr, and first of her name.</p>
         <p>CATHERINE is said of catha, that is all, and ruina that is falling, for all the edifice of the devil fell all from her.
         For the edifice of pride fell from her by humility that she had, and the edifice of fleshly desire fell from her by her virginity, and worldly covetise, for that she despised all worldly things.</p>
         <p>Or Catherine may be said as, a little chain, for she made a chain of good works by which she mounted into heaven, and this chain or ladder had four grees or steps which be: innocence of work, cleanness of body, despising of vanity and saying of truth, which the prophet putteth by order where he saith: Quis ascendet in montem domini? Innocens manibus.</p>
         <p>Who shall ascend into the mountain of our Lord? that is heaven, and he answereth: The innocent of his hands, he that is clean in his heart, he that hath not taken in vain his soul, and he that hath not sworn in fraud and deceit to his neighbour.</p>
         <p>And it appeareth in her legend how these four degrees were in her.</p>
         <p>Catherine, by descent of line, was of the noble lineage of the emperors of Rome as it shall be declared more plainly hereafter by a notable chronicle, whose most blessed life and conversation wrote the solemn doctor Athanasius, which knew her lineage and her life, for he was one of her masters in her tender age ere she was converted to the christian faith.</p>
-        <p>And after, the said Athanasius, by her preaching and marvellous work of our Lord, was converted also, which, after her martyrdom, was made bishop of Alexandria, and a glorious pillar of the church by the grace of God and merits of S. Catherine.</p>
+        <p>And after, the said Athanasius, by her preaching and marvellous work of our Lord, was converted also, which, after her martyrdom, was made bishop of Alexandria, and a glorious pillar of the church by the grace of God and merits of St. Catherine.</p>
         <p>And as we find by credible chronicles, in the time of Diocletian and Maximian was great and cruel tyranny showed in all the world, as well to christian men as to paynims, so that many that were subject to Rome put away the yoke of servage and rebelled openly against the empire.</p>
         <p>Among whom the realm of Armenia was one that withstood most the tribute of the Romans, wherefore they of Rome deputed a noble man of dignity named Constantius, which was tofore others a valiant man in arms, discreet and virtuous.</p>
         <p>The which lord, after he came in to Armenia, anon subdued them by his discreet prudence, and deserved to have the love and favour of his enemies, in so much that he was desired to marry the daughter of the king which was sole heir of the realm, and he consented and married her.</p>
@@ -2945,11 +2944,11 @@
         And also he was so acceptable to the king of Britain, named Coel, that he married his daughter Helen, which afterward found the holy cross, and in short time he gat on her Constantine, which after was emperor.</p>
         <p>And then soon after died Constantius.</p>
         <p>And Constantine, after the death of King Coel, by his mother was crowned king of Britain.</p>
-        <p>And Costus, the first son of Constantius, wedded the king's daughter of Cyprus, which was heir, of whom, as shall be hereafter said, was engendered S. Catherine, which came of the lineage of Constantius.</p>
-        <p>Now followeth the Life of S. Catherine.</p>
+        <p>And Costus, the first son of Constantius, wedded the king's daughter of Cyprus, which was heir, of whom, as shall be hereafter said, was engendered St. Catherine, which came of the lineage of Constantius.</p>
+        <p>Now followeth the Life of St. Catherine.</p>
         <p>In the year of our Lord two hundred, reigned in Cyprus a noble and prudent king named Costus, which was a noble and seemly man, rich and of good conditions, and had to his wife a queen like to himself in virtuous governance, which lived together prosperously, but after the law of paynims, and worshipped idols.</p>
         <p>This king, because he loved renomee and would have his name spread through the world, he founded a city in which he edified a temple of his false gods, and named that city after his name Costi, which after, to increase his fame, the people named it Fama Costi, and yet unto this day is called Famagosta; in which city he and the queen lived in great wealth and prosperity.</p>
-        <p>And like as the fair rose springeth among the briars and thorns, right so between these two paynims was brought forth this blessed S. Catherine.</p>
+        <p>And like as the fair rose springeth among the briars and thorns, right so between these two paynims was brought forth this blessed tS. Catherine.</p>
         <p>And when this holy virgin was born she was so fair of visage and so well formed Catherine in her members that all the people enjoyed in her beauty, and when she came to seven years of age,anon after she was set to school, where she profited much more than any other of her age, and was informed in the arts liberal, wherein she drank plenteously of the well of wisdom, for she was chosen to be a teacher and informer of everlasting wisdom.</p>
         <p>The king Costus her father had so great joy of the great towardness and wisdom of his daughter, that he let ordain a tower in his palace, with divers studies and chambers, in which she might be at her pleasure and also at her will, and also he ordained for to wait on her seven the best masters and wisest in conning that might be gotten in those parts.</p>
         <p>And within a while they that came to teach her, they after that, learned of her and became her disciples.</p>
@@ -3069,7 +3068,7 @@
         <p>I am given and married to Jesu Christ, he is my spouse, he is my glory, he is my love, and he is my sweetness, there may no fair words ne no torments call me from him.</p>
         <p>And then he being full of woodness, commanded that she should be despoiled naked and beaten with scorpions, and so beaten to be put in a dark prison, and there was tormented by hunger by the space of twelve days.</p>
         <p>And the emperor went out of the country for certain causes, and the queen was esprised with great love of the virgin, and went by night to the prison with Porphyry, the prince of knights, and when the queen entered, she saw the prison shining by great clearness, and angels anointing the wounds of the holy virgin Catherine.</p>
-        <p>And then S. Catherine began to preach to the queen the joys of Paradise and converted her to the faith, and said to her that she would receive the crown of martyrdom, and thus spake they together till midnight.</p>
+        <p>And then St. Catherine began to preach to the queen the joys of Paradise and converted her to the faith, and said to her that she would receive the crown of martyrdom, and thus spake they together till midnight.</p>
         <p>And when Porphyry had heard all that she had said, he fell down to her feet and received the faith of Jesu Christ, with two hundred knights.</p>
         <p>And because the tyrant had commanded that she should be twelve days without meat and drink, Jesu Christ sent to her a white dove which fed her with meat celestial.</p>
         <p>And after this, Jesu Christ appeared to her with a great multitude of angels and virgins, and said to her: Daughter, know thy maker, for whom thou hast emprised this travailous battle; be thou constant, for I am with thee.</p>
@@ -3095,18 +3094,18 @@
         <p>And then came a voice to her, saying: Come unto me, my fair love and my spouse; lo! behold the gate of heaven is open to thee, and also to them that shall hallow thy passion, I promise the comfort of heaven of that they require.</p>
         <p>And when she was beheaded there issued out of her body milk instead of blood, and angels took the body and bare it unto the Mount of Sinai, more than twenty journeys from thence, and buried it there honourably, and continually oil runneth out of her bones which healeth all maladies and sicknesses, and she suffered death under Maxentius the tyrant, about the year of our Lord three hundred.</p>
         <p>How Maxentius was punished for this felony and for others, it is contained in the history of the invention of the holy cross, but forasmuch as it was not known long after where this holy body was become, there was great sorrow and lamentation among christian men, saying: Alas ! the most clear light of our faith, of wisdom, and the temple of the Holy Ghost, is gone from us, and besought God devoutly that it might please him to show to them this holy relic, which after came to knowledge in this manner.</p>
-        <p>In the desert about the Mount of Sinai there were many christian hermits which were inflamed with great devotion toward this holy virgin S. Catherine, wherefore by common assent they ordained a chapel in which this holy virgin should specially remembered, which chapel was by the Mount of Sinai, not far from the hill, fast by the place whereas our Lord appeared in the bush to Moses.</p>
+        <p>In the desert about the Mount of Sinai there were many christian hermits which were inflamed with great devotion toward this holy virgin St. Catherine, wherefore by common assent they ordained a chapel in which this holy virgin should specially remembered, which chapel was by the Mount of Sinai, not far from the hill, fast by the place whereas our Lord appeared in the bush to Moses.</p>
         <p>In which place the holy hermits lived in great abstinence and devotion a glorious life.</p>
-        <p>To whom on a time the angel of God appeared and said: God hath beholden your effectual devotion from heaven, therefore he hath granted to you this grace that by you shall be found and known the holy body of the glorious virgin S. Catherine, to his sovereign honour and glory.</p>
+        <p>To whom on a time the angel of God appeared and said: God hath beholden your effectual devotion from heaven, therefore he hath granted to you this grace that by you shall be found and known the holy body of the glorious virgin St. Catherine, to his sovereign honour and glory.</p>
         <p>And therefore arise ye up and follow me, and though it so be that ye see me not, yet the shadow of the palm that I bear in mine hand shall never depart from your sight.</p>
         <p>And then these hermits went forth and followed the angel till they came to the place where unnethe any creature might enter for straitness of the way and sharpness of the rocks; and when they came to the top of the hill they saw not the angel, but they saw evidently the shadow of the palm, that it seemed all the place had been shadowed by the leaves of the palm, by which they came unto the place where the body had lain one hundred and thirty years in a stone.</p>
         <p>And her flesh was dried up for length of time, but the bones were so compact and pure that they seemed to be kept by the cure of angels.</p>
         <p>Then they took up with great joy and reverence this holy body and bare it down into the chapel which they had made, and this was done by great miracle, for the place where she lay in was so steep, thick, strait, and so dangerous, that it seemed to man's reason impossible to come thereto.
         And these holy men, after they had brought this body with solemnity, ordained the feast of the invention of this holy body should be solemnised, which is yet there kept and is about the time of the Invention of the Holy Cross. Which place is greatly honoured, and our Lord showeth there many miracles, and out of the bones floweth out oil largely, by which many maladies be guerished.</p>
-        <p>And it is said that tofore the body was found that a monk went to the Mount of Sinai and dwelled there by the space of seven years much devoutly in the service of S. Catherine, and on a time as he prayed with great devotion that he might have something of her body, suddenly there came a joint of one of her fingers of her hand, which gift he took joyfully of our Lord.</p>
-        <p>It is read also that there was a man much devout to S. Catherine and oft called on her to his and, and by length of time he fell in foul thought, and lost the devotion that he had to the saint, and ceased to pray to her; and as he was on a time in prayer he saw a great multitude of virgins passing by him, among whom there was one more resplendissent than the other, and when she approached him she covered her visage and passed tofore him, her face covered.</p>
+        <p>And it is said that tofore the body was found that a monk went to the Mount of Sinai and dwelled there by the space of seven years much devoutly in the service of St. Catherine, and on a time as he prayed with great devotion that he might have something of her body, suddenly there came a joint of one of her fingers of her hand, which gift he took joyfully of our Lord.</p>
+        <p>It is read also that there was a man much devout to St. Catherine and oft called on her to his and, and by length of time he fell in foul thought, and lost the devotion that he had to the saint, and ceased to pray to her; and as he was on a time in prayer he saw a great multitude of virgins passing by him, among whom there was one more resplendissent than the other, and when she approached him she covered her visage and passed tofore him, her face covered.</p>
         <p>And he marvelled much of the beauty of her, and demanded what she was, and one of the virgins said that it was Catherine whom thou wert wont for to know, and because thou knowest ne rememberest her not, she passed tofore thee with face covered and without knowledge.</p>
-        <p>It is to be noted that this blessed virgin S. Catherine seemeth and appeareth marvellous in five things: first, in wisdom, secondly, in eloquence, thirdly, in constancy, fourthly, in cleanness of chastity, and fifthly, in privilege of dignity.</p>
+        <p>It is to be noted that this blessed virgin St. Catherine seemeth and appeareth marvellous in five things: first, in wisdom, secondly, in eloquence, thirdly, in constancy, fourthly, in cleanness of chastity, and fifthly, in privilege of dignity.</p>
         <p>First she appeared marvellous in wisdom, in her was all manner of philosophy.</p>
         <p>Philosophy is divided in three, in theory, in practice, and in logic.</p>
         <p>Theory is divided in three, that is intellectual, natural, and mathematical.</p>
@@ -3133,12 +3132,12 @@
         And among all these things the blessed Catherine kept her chastity, for she had great plenty of riches as she that was heir of rich parents; she had convenable leisure to do her will, as she that was lady of herself, and conversed all day among her servants which were young of age; she had freedom without any that governed her in her palace, and of these four it is said before, and she had beauty, so much that every man marvelled of her beauty.</p>
         <p>Fifthly, she was marvellous in privilege of dignity, for certain special privileges were in some saints when they died, like as:  </p>
         <ul>
-        <li>the visitation of Jesu Christ was in S. John the Evangelist,</li>
-        <li>the flowing of oil in S. Nicholas,</li>
-        <li>the effusion of milk for blood that was in S. Paul,</li>
-        <li>the preparation of the sepulchre that was in S. Clement,</li>
-        <li>and the hearing and granting of the petitions that was in S. Margaret, when she prayed for them remembering her memory.</p>
-        <p>All these things together were in this blessed virgin S. Catherine as it appeareth in her legend.</p>
+        <li>the visitation of Jesu Christ was in St. John the Evangelist,</li>
+        <li>the flowing of oil in St. Nicholas,</li>
+        <li>the effusion of milk for blood that was in St. Paul,</li>
+        <li>the preparation of the sepulchre that was in St. Clement,</li>
+        <li>and the hearing and granting of the petitions that was in tS. Margaret, when she prayed for them remembering her memory.</p>
+        <p>All these things together were in this blessed virgin St. Catherine as it appeareth in her legend.</p>
         <p>Then let us devoutly worship this holy virgin and humbly pray her to be our advocatrice in all our needs bodily and ghostly, that by the merits of her prayers we may after this short and transitory life come unto the everlasting bliss and joy in heaven whereas is life perdurable.</p>
         <p>Quod ipse præstare dignetur qui cum patre et spiritu sancto vivit et regnat deus per omnia secula seculorum.</p>
       </article></section>
@@ -3175,165 +3174,55 @@
   And so that no man could see her, he put her in a very high tower that he raised.</p>
   <p>From his earliest age, <span style="color: #994c3d;">Barbara</span>, feeling the void of earthly things, began to apply to the meditation of things from heaven.</p>
   <p>After entering a temple, and seeing along the walls the statues of idols, she asked her parents:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">«What do these images of human beings mean?»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— «What do these images of human beings mean?»</span>
+  </blockquote>
   <p>Her parents answered her:  </p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #b3884d;">—&nbsp;</span></td>
-  <td><span style="color: #b3884d;">«Shut down; they are not human beings, but gods, and they want to be adored.»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #b3884d;">— «Shut down; they are not human beings, but gods, and they want to be adored.»</span>
+  </blockquote>
   <p><span style="color: #994c3d;">Barbara</span> says:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">«Were they human beings once?»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— «Were they human beings once?»</span>
+  </blockquote>
   <p>And she was answered that yes.</p>
   <p>And she was reflecting on this day and night, saying herself:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">«If our gods were human beings, they were born like human beings, they died like human beings; if they were gods, they would not be born and they would not be dead; because the Divinity, to it looks like to me, does not start and cannot stop.»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— «If our gods were human beings, they were born like human beings, they died like human beings; if they were gods, they would not be born and they would not be dead; because the Divinity, to it looks like to me, does not start and cannot stop.»</span>
+  </blockquote>
   <p>So she came to despise those supposed gods of wood or stone;
   but he still lacked knowledge of the true God.</p>
   <p>In the meantime, the renown spread to Nicomedia that there was in Alexandria a man of immeasurable wisdom, named <a href="#note_origene" title="Origen" id="origene" class="yellow">Origen</a>, who demonstrated the existence of true God and the vanity of idols.</p>
   <p>In learning this, <span style="color: #994c3d;">Barbara</span> was filled with joy, and she looked at how she could go to hear it.</p>
   <p>but she did not dare to talk to her father, and she adopted the idea of writing to Origen;
   what she did with the words:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="visibility:hidden;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">«To Origen of Alexandria, whose glory is universally widespread, I, Barbara, of Nicomedia.</span></td>
-  </tr>
-  <tr>
-  <td></td>
-  <td><span style="color: #df8f20;">From the very first dawn of my reason, I felt in all my heart the strongest desire to arrive to this knowledge, and I always thought that the Divinity could not be in images, work of our hands, that cannot speak nor hear.</span></td>
-  </tr>
-  <tr>
-  <td></td>
-  <td><span style="color: #df8f20;">I also thought that those who had been human beings, and were represented as gods, could not be; because human being begins and ends, but God is before all times and after all times.</span></td>
-  </tr>
-  <tr>
-  <td></td>
-  <td><span style="color: #df8f20;">And I put my confidence in this God who is unknown to me, but who created all things; I devoted my love to him, and I will spare nothing to get to know him.</span></td>
-  </tr>
-  <tr>
-  <td></td>
-  <td><span style="color: #df8f20;">The fame of your talents came to me, and I thought, that you, venerable father, would take me to the science of this God you preach.</span></td>
-  </tr>
-  <tr>
-  <td></td>
-  <td><span style="color: #df8f20;">And I hope you will disperse the darkness of my ignorance and that you will conduct me in the light of true faith.»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <p><span style="color: #df8f20;">«To Origen of Alexandria, whose glory is universally widespread, I, Barbara, of Nicomedia.</span></p>
+    <p><span style="color: #df8f20;">From the very first dawn of my reason, I felt in all my heart the strongest desire to arrive to this knowledge, and I always thought that the Divinity could not be in images, work of our hands, that cannot speak nor hear.</span></p>
+    <p><span style="color: #df8f20;">I also thought that those who had been human beings, and were represented as gods, could not be; because human being begins and ends, but God is before all times and after all times.</span></p>
+    <p><span style="color: #df8f20;">And I put my confidence in this God who is unknown to me, but who created all things; I devoted my love to him, and I will spare nothing to get to know him.</span></p>
+    <p><span style="color: #df8f20;">The fame of your talents came to me, and I thought, that you, venerable father, would take me to the science of this God you preach.</span></p>
+    <p><span style="color: #df8f20;">And I hope you will disperse the darkness of my ignorance and that you will conduct me in the light of true faith.»</span>
+  </blockquote>
   <p>Having sent his letter to Origen, she prayed to the Lord weeping tears and saying:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">«Lord, strengthen the foot of the one that I sent to your servant, so that the light I have asked for comes.»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— «Lord, strengthen the foot of the one that I sent to your servant, so that the light I have asked for comes.»</span>
+  </blockquote>
   <p>The messenger arrived in Alexandria,
   and he found Origen in the palace of the mother of Emperor Alexander, Mamaea,
   and he was busy preaching the doctrine of Jesus Christ.</p>
   <p>He received with great joy the letter from <span style="color: #994c3d;">Barbara</span>,</p>
   <p>and he praised God for that he would be arousing such enthusiasm,
   and rushed to answer her:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="visibility:hidden;">—&nbsp;</span></td>
-  <td><span style="color: #165493;">«Origen, unworthy priest of Jesus Christ, and perhaps his preacher, still remaining in Alexandria, to Barbara, of the race of Gentiles, but by adoption of the race of the children of God and Jesus Christ.</span></td>
-  </tr>
-  <tr>
-  <td></td>
-  <td><span style="color: #165493;">I will teach you, as you ask me, what is the real God.</span></td>
-  </tr>
-  <tr>
-  <td></td>
-  <td><span style="color: #165493;">Know that it is one in substance and three in persons: the Father, the Son and the Holy Spirit.</span></td>
-  </tr>
-  <tr>
-  <td></td>
-  <td><span style="color: #165493;">Whoever believes in this doctrine has what he needs to reach God.</span></td>
-  </tr>
-  <tr>
-  <td></td>
-  <td><span style="color: #165493;">So add up to it credibility to complete what is lacking in your desire; see my envoy, he will inform you of law of God and he will read you the holy books he carries with him.</span></td>
-  </tr>
-  <tr>
-  <td></td>
-  <td><span style="color: #165493;">Do not fear being exposed to great torments for the name of Jesus Christ.</span></td>
-  </tr>
-  <tr>
-  <td></td>
-  <td><span style="color: #165493;">He said: “The one who loses for me his soul in this world shall keep it in eternal life”.»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <p><span style="color: #165493;">«Origen, unworthy priest of Jesus Christ, and perhaps his preacher, still remaining in Alexandria, to Barbara, of the race of Gentiles, but by adoption of the race of the children of God and Jesus Christ.</span></p>
+    <p><span style="color: #165493;">I will teach you, as you ask me, what is the real God.</span></p>
+    <p><span style="color: #165493;">Know that it is one in substance and three in persons: the Father, the Son and the Holy Spirit.</span></p>
+    <p><span style="color: #165493;">Whoever believes in this doctrine has what he needs to reach God.</span></p>
+    <p><span style="color: #165493;">So add up to it credibility to complete what is lacking in your desire; see my envoy, he will inform you of law of God and he will read you the holy books he carries with him.</span></p>
+    <p><span style="color: #165493;">Do not fear being exposed to great torments for the name of Jesus Christ.</span></p>
+    <p><span style="color: #165493;">He said: “The one who loses for me his soul in this world shall keep it in eternal life”.»</span>
+  </blockquote>
   <p>Origen sent one of his disciples to confer with <span style="color: #994c3d;">Barbara</span>,
   and when she was told that he had arrived,
   she immediately said to have him to enter.</p>
@@ -3341,20 +3230,9 @@
   <p>And now his father came,
   and seeing a stranger,
   he became scared and he said:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #b3884d;">—&nbsp;</span></td>
-  <td><span style="color: #b3884d;">«What is this man and what is he doing?»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #b3884d;">— «What is this man and what is he doing?»</span>
+  </blockquote>
   <p>The Alexandrine replied that he was educated about the science of medicine, and that he had a master who, against the usage of doctors, also healed souls.</p>
   <p>The father of <span style="color: #994c3d;">Barbara</span>, hearing that, withdrew and let them talk.</p>
   <p>And the christian, who called himself Valentin, explained to <span style="color: #994c3d;">Barbara</span> the sacred mysteries of religion,
@@ -3365,223 +3243,69 @@
   <p>Some says that because of her beauty some nobles of that country falled in love for her,
   and they talked to her father so that she took a husband.</p>
   <p>And his father, going to the tower, sought to decide it, saying:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #b3884d;">—&nbsp;</span></td>
-  <td><span style="color: #b3884d;">«My daughter, powerful figures remembered you, and told me that they would take you into marriage; what do you want to do?»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #b3884d;">— «My daughter, powerful figures remembered you, and told me that they would take you into marriage; what do you want to do?»</span>
+  </blockquote>
   <p>She answered her father by looking at him with anger:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">«Don't force me to do this, my father».</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— «Don't force me to do this, my father».</span>
+  </blockquote>
   <p>He left her,
   and getting away from her, he brought a large number of workers,
   and he ordered them to build a bathroom house, and he went to a far away country.</p>
   <p><span style="color: #994c3d;">Barbara</span> got down from the tower to see what has been done,
   and she saw that on the north side there were only two windows,
   and she told the workers:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">«Why did you make these two windows?»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— «Why did you make these two windows?»</span>
+  </blockquote>
   <p>And they answered:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">«Your father ordered it so.»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— «Your father ordered it so.»</span>
+  </blockquote>
   <p>She replied:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">«Make another window for me.»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— «Make another window for me.»</span>
+  </blockquote>
   <p>And they responded:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">«We fear that your father get annoyed at us.»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— «We fear that your father get annoyed at us.»</span>
+  </blockquote>
   <p>She says:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">«Do what I tell you, and I will bring my father to give his approval.»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— «Do what I tell you, and I will bring my father to give his approval.»</span>
+  </blockquote>
   <p>So they made another window.</p>
   <p><span style="color: #994c3d;">Barbara</span> put with her own hand on the side of the orient, in this building, a precious cross;
   and, going back to the tower, she saw the idols that her father loved.</p>
   <p>Obeying to the inspiration of the Holy Spirit, she spit in their face and said:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">«Shall they become similar to you, those who make you and those who put their trust into you.»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— «Shall they become similar to you, those who make you and those who put their trust into you.»</span>
+  </blockquote>
   <p>When the building got finished, his father returned from his trip, and when he saw the three windows, he told the workers:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #b3884d;">—&nbsp;</span></td>
-  <td><span style="color: #b3884d;">«Why did you make three windows?»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #b3884d;">— «Why did you make three windows?»</span>
+  </blockquote>
   <p>They replied:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">«Your daughter ordered us.»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— «Your daughter ordered us.»</span>
+  </blockquote>
   <p>He then told his daughter:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">«Who did you order to make three windows?»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— «Who did you order to make three windows?»</span>
+  </blockquote>
   <p>She replied:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">«I have had good reasons for doing so; because three windows illuminate the whole human being.»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— «I have had good reasons for doing so; because three windows illuminate the whole human being.»</span>
+  </blockquote>
   <p>And his father brought him with him in the bathroom, and told him:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #b3884d;">—&nbsp;</span></td>
-  <td><span style="color: #b3884d;">«Why do three windows shed more light than two?»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #b3884d;">— «Why do three windows shed more light than two?»</span>
+  </blockquote>
   <p>She replied:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">«There are three that illuminate the world and set the course of stars: the Father, the Son and the Holy Spirit, and they are one in essence.»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— «There are three that illuminate the world and set the course of stars: the Father, the Son and the Holy Spirit, and they are one in essence.»</span>
+  </blockquote>
   <p>So his father, full of fury, pulled his sword to kill her.</p>
   <p>But the Saint did her prayer to God,
   and the walls opened,
@@ -3599,176 +3323,57 @@
   and he went away to warn Proconsul <a href="#note_marcien" title="Marcian" id="marcien" class="yellow">Marcian</a> for all that happened.</p>
   <p>The proconsul wanted <span style="color: #994c3d;">Barbara</span> to be brought before him.
   When he saw him, he was struck by her great beauty, and he told her:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #165493;">—&nbsp;</span></td>
-  <td><span style="color: #165493;">If you want to save yourself, sacrifice to the immortal gods, or you will die in the greatest torments.</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #165493;">— If you want to save yourself, sacrifice to the immortal gods, or you will die in the greatest torments.</span>
+  </blockquote>
   <p>She replied:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">I want to offer myself in sacrifice to my God Jesus Christ, who has done heaven and earth and all that is contained therein.</span></td>
-  </tr>
-  <tr>
-  <td></td>
-  <td><span style="color: #df8f20;">As for the demons you love, the prophet said:</span></td>
-  </tr>
-  <tr>
-  <td></td>
-  <td><span style="color: #df8f20;">They have a mouth but do not speak; they have eyes but do not see; those who pay tribute to them will look like them.</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— I want to offer myself in sacrifice to my God Jesus Christ, who has done heaven and earth and all that is contained therein.</span></p>
+    <p><span style="color: #df8f20;">As for the demons you love, the prophet said:</span></p>
+    <p><span style="color: #df8f20;">They have a mouth but do not speak; they have eyes but do not see; those who pay tribute to them will look like them.</span>
+  </blockquote>
   <p>The proconsul, furious, ordered to strip her and beat her indiscriminately with beef nerve.</p>
   <p>And when all her body was in blood, he ordered to bring her back to prison until she had decided what torment he would inflict on her.</p>
   <p>In the middle of the night, great clarity wrapped the martyr, and　Jesus Christ appeared and told her:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #6c936c;">—&nbsp;</span></td>
-  <td><span style="color: #6c936c;">Take courage, my daughter; there will be great joy in heaven and on earth during your passion; do not fear the threats of the tyrant; I'm with you to preserve all evils.</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #6c936c;">— Take courage, my daughter; there will be great joy in heaven and on earth during your passion; do not fear the threats of the tyrant; I'm with you to preserve all evils.</span>
+  </blockquote>
   <p><span style="color: #994c3d;">St. Barbara</span> felt a great joy in the words of the Lord,
   and in the morning she reappeared in front of the proconsul, who, seeing that there was no trace of the blows she had received the day before, told her:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #165493;">—&nbsp;</span></td>
-  <td><span style="color: #165493;">See how much the gods are in favour of you and they love you, because they have healed your wounds.</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #165493;">— See how much the gods are in favour of you and they love you, because they have healed your wounds.</span>
+  </blockquote>
   <p><span style="color: #994c3d;">Barbara</span> replied to him:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">Your gods are like you, deaf, blind and mute; how could they have healed me? </span></td>
-  </tr>
-  <tr>
-  <td></td>
-  <td><span style="color: #df8f20;">The one who healed me is Jesus Christ, the Son of the living God; But you don't see it, because your heart is hardened by the devil.</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— Your gods are like you, deaf, blind and mute; how could they have healed me? </span></p>
+    <p><span style="color: #df8f20;">The one who healed me is Jesus Christ, the Son of the living God; But you don't see it, because your heart is hardened by the devil.</span>
+  </blockquote>
   <p>The proconsul, quivering like a infuriated lion, ordered that she has her ribs burned with the torches and her head beatten with a hammer.</p>
   <p>The Saint, looking at the sky, says:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">You know, Lord, that I am suffering for your love; don't leave me now.</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— You know, Lord, that I am suffering for your love; don't leave me now.</span>
+  </blockquote>
   <p>The impious proconsul commanded that she had her udders cut;
   and she says:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">Do not reject me out of your presence, Lord, and shall not deprive me of the Holy Spirit.</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— Do not reject me out of your presence, Lord, and shall not deprive me of the Holy Spirit.</span>
+  </blockquote>
   <p>He then ordered that she would be taken naked thrue the city, beattening her;
   and she says:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">Lord, you who are my support and covers the sky of clouds, cover my body, so that it is not exposed in the eyes of impiouses.</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— Lord, you who are my support and covers the sky of clouds, cover my body, so that it is not exposed in the eyes of impiouses.</span>
+  </blockquote>
   <p>And he descended from heaven a angel who brought him a white tunic.</p>
   <p>The proconsul ordered that she had her head cut;
   but his father seizes her and led her to the mountain,
   and she made that prayer:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">Lord Jesus, to whom all things obey, grant that those who invoke your holy name by remembering my martyrdom, finds their sins forgetten on the day of judgment.</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— Lord Jesus, to whom all things obey, grant that those who invoke your holy name by remembering my martyrdom, finds their sins forgetten on the day of judgment.</span>
+  </blockquote>
   <p>And she heard a voice that came from heaven and who replied:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #6c936c;">—&nbsp;</span></td>
-  <td><span style="color: #6c936c;">«Come, my beloved; rest in the home of my father who is in heaven;  what you are asking for has been given to you.</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #6c936c;">— «Come, my beloved; rest in the home of my father who is in heaven;  what you are asking for has been given to you.</span>
+  </blockquote>
   <p>And the martyr had the head cut off by the hands of her own father.</p>
   <p>And when he came down from the mountain, the fire of heaven fell on him and consumed him,
   and not even a vestige of him remained.</p>
@@ -3787,39 +3392,14 @@
   <p>He called them back and told them not to be afraid;
   And they came closer to him, and they asked how he could support his existence,
   and he answered them:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #165493;">—&nbsp;</span></td>
-  <td><span style="color: #165493;">St. Barbara assisted me in all my sorrows; </span></td>
-  </tr>
-  <tr>
-  <td></td>
-  <td><span style="color: #165493;">it was her who supported me in my fall, and I cannot die before I confessed myself and be received the holy communion,</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <p><span style="color: #165493;">— St. Barbara assisted me in all my sorrows; </span></p>
+    <p><span style="color: #165493;">it was her who supported me in my fall, and I cannot die before I confessed myself and be received the holy communion,</span></p>
+  </blockquote>
   <p>Asked why he had obtained this grace, he answered:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #165493;">—&nbsp;</span></td>
-  <td><span style="color: #165493;">I never missed a year of fasting and praying on the day of St. Barbara's fest to make her happy, and that is why she asked God that I wouldn't die without having received the sacraments.</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #165493;">— I never missed a year of fasting and praying on the day of St. Barbara's fest to make her happy, and that is why she asked God that I wouldn't die without having received the sacraments.</span>
+  </blockquote>
   <p>And as soon as he received them, he breathed out.</p>
   <p>We also read that at the time of the king of the Romans, Adolphe, a count has been put at the head of the government of the provinces of Orient, and a soldier was accused of having made violence against a young girl.</p>
   <p>While he was in prison, waiting for his judgment, he asked to confess,
@@ -3839,12 +3419,12 @@
   </div>
   <h3 id="note_maximien" class="yellow">Maximian</h3>
   <div class="notices yellow">
-  <p><a href="https://en.wikipedia.org/wiki/Maximian_Hercule" title="https://en.wikipedia.org/wiki/Maximian_Hercule">Maximian Hercules</a>. Coemperor of the Roman Empire from 286 to 305 with <a href="https://en.wikipedia.org/wiki/Dioclétien" title="https://en.wikipedia.org/wiki/Dioclétien">Diocletian</a> for the East. Father of <a href="https://en.wikipedia.org/wiki/Maxence_(empereur_romain)" title="https://en.wikipedia.org/wiki/Maxence_(empereur_romain)">Maxentius</a>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/Maximian_Hercule" title="https://en.wikipedia.org/wiki/Maximian_Hercule">Maximian Hercules</a>. Coemperor of the Roman Empire from <time datetime="286">286</time> to <time datetime="305">305</time> with <a href="https://en.wikipedia.org/wiki/Dioclétien" title="https://en.wikipedia.org/wiki/Dioclétien">Diocletian</a> for the East. Father of <a href="https://en.wikipedia.org/wiki/Maxence_(empereur_romain)" title="https://en.wikipedia.org/wiki/Maxence_(empereur_romain)">Maxentius</a>.</p>
   <p>back to note: <a href="#nicomedie" title="Nicomedy">Maximian↑</a></p>
   </div>
   <h3 id="note_origene" class="yellow">Origen</h3>
   <div class="notices yellow">
-  <p><a href="https://en.wikipedia.org/wiki/Origen" title="https://en.wikipedia.org/wiki/Origen"><ruby lang="en">Origen<rp>(</rp><rt lang="grc">Ὠριγένης</rt><rp>)</rp></ruby></a> is a christian theologian, recognized Father of the Church but not a saint, born in Alexandria around 185 and died in Tyre around 253.</p>
+  <p><a href="https://en.wikipedia.org/wiki/Origen" title="https://en.wikipedia.org/wiki/Origen"><ruby lang="en">Origen<rp>(</rp><rt lang="grc">Ὠριγένης</rt><rp>)</rp></ruby></a> is a christian theologian, recognized Father of the Church but not a saint, born in Alexandria around <time datetime="185">185</time> and died in Tyre around <time datetime="253">253</time>.</p>
   <p>back to note: <a href="#origene" title="Origen">Origen↑</a></p>
   </div>
   <h3 id="note_marcien" class="yellow">Marcian</h3>
@@ -3854,7 +3434,7 @@
   </div>
   <h3 id="note_saxe" class="yellow">Saxony</h3>
   <div class="notices yellow">
-  <p>A region of Germany whose boundaries have varied throughout history; the Palatinate County of Saxony was a principality of the Holy Roman Empire. Founded by Emperor Otto Ist in the 10th century, it extended over what is now the Saale-Unstrut region in the south-east of the Duchy of Saxony.</p>
+  <p>A region of Germany whose boundaries have varied throughout history; the Palatinate County of Saxony was a principality of the Holy Roman Empire. Founded by Emperor Otto I<sup>st</sup> in the 10th century, it extended over what is now the Saale-Unstrut region in the south-east of the Duchy of Saxony.</p>
   <p>back to note: <a href="#saxe" title="Saxony">Saxony↑</a></p>
   </div>
   </div>
@@ -3951,59 +3531,20 @@
   <p>In this same year was Domitian the emperor, for his evils, put to death, and all that he had done was revoked by the senators and defeated,
   and thus was <span style="color: #994c3d;">St. John</span> brought again from his exile with great honour into Ephesus;
   and all the people of Ephesus came against him singing and saying:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #165493;">—&nbsp;</span></td>
-  <td><span style="color: #165493;">«Blessed be he that cometh in the name of our Lord!» </span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #165493;">— «Blessed be he that cometh in the name of our Lord!» </span>
+  </blockquote>
   <p>In that way he raised a woman which was named Drusiana, which had much loved <span style="color: #994c3d;">St. John</span> and well kept his commandments.</p>
   <p>And her friends brought her tofore <span style="color: #994c3d;">St. John</span> all weeping and saving to him:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #165493;">—&nbsp;</span></td>
-  <td><span style="color: #165493;">Lo! here is Drusiana which much loved thee and did thy commandments, and is dead, and desired nothing so much as thy return, and that she might see thee tofore her death. </span></td>
-  </tr>
-  <tr>
-  <td></td>
-  <td><span style="color: #165493;">Now thou art come hither and she may not see thee.</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <p><span style="color: #165493;">— Lo! here is Drusiana which much loved thee and did thy commandments, and is dead, and desired nothing so much as thy return, and that she might see thee tofore her death. </span></p>
+    <p><span style="color: #165493;">Now thou art come hither and she may not see thee.</span></p>
+  </blockquote>
   <p><span style="color: #994c3d;">St. John</span> had great pity on her that was dead, and of the people that wept for her, and commanded that they should set down the bier, and unbind and take away the clothes from her. And when they had so done he said, hearing all, with a loud voice,</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">«Drusiana, my Lord God Jesus Christ ariseth thee;　</span></td>
-  </tr>
-  <tr>
-  <td></td>
-  <td><span style="color: #df8f20;">Drusiana arise, and go into thy house, and make ready for me some refection.»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <p><span style="color: #df8f20;">— «Drusiana, my Lord God Jesus Christ ariseth thee;　</span></p>
+    <p><span style="color: #df8f20;">Drusiana arise, and go into thy house, and make ready for me some refection.»</span></p>
+  </blockquote>
   <p>Anon she arose and went in to her house for to do the commandment of <span style="color: #994c3d;">St. John</span>, and the people made three hours long a great noise and cry, saying there is but one God, and that is he whom <span style="color: #994c3d;">St. John</span> preacheth.</p>
   <h3 class="yellow" id="the-baptisma-of-crato">the baptisma of Crato</h3>
   <figure>
@@ -4033,20 +3574,9 @@
   <p><span style="color: #994c3d;">Secondly</span>, <span style="color: #994c3d;">this gesture, which does not serve the vice, is in vain, as is pointless any cure that does not involve a disease</span>.</p>
   <p><span style="color: #994c3d;">Finally</span>, <span style="color: #994c3d;">the contempt of the world is meritorious to the person who distributes his property to the poor</span>, following what the Lord said to a young man: <a href="#note_mathieu" title="If you wish to be perfect" id="mathieu" class="yellow">«If you want to be perfect, go, etc.»</a></p>
   <p>Craton replied:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #b3884d;">—&nbsp;</span></td>
-  <td><span style="color: #b3884d;">«If your master is truly God and if he wants the price of these stones to be given to the poor, make them reconstituted: So you can turn to his glory what I did to praise men.»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    — «If your master is truly God and if he wants the price of these stones to be given to the poor, make them reconstituted: So you can turn to his glory what I did to praise men.»</span>
+  </blockquote>
   <p>So <span style="color: #994c3d;">St. John</span> gathered in his hand the fragments of the stones and put himself in prayer;
   the stones were returned to their first state.</p>
   <p>Immediately the philosopher and the two young people began to believe, sold the stones and distributed the prize to the poor.  </p>
@@ -4056,20 +3586,9 @@
   <p><span style="color: #994c3d;">St. John</span> noticed their sad mine; From the shore of the sea, he made branches and small stones and transformed them into gold and precious stones.</p>
   <p>On the order of the apostle, young people sought, for seven days, from all the experts in gold and precious stones and returned by saying that they had testified never to have seen or so pure or precious stones.</p>
   <p><span style="color: #994c3d;">John</span> then told them:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">«Go and redeem the lands you sold, since you lost the heavenly profit; flower in order to rot, enjoy temporal riches, to beg in eternity.»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— «Go and redeem the lands you sold, since you lost the heavenly profit; flower in order to rot, enjoy temporal riches, to beg in eternity.»</span>
+  </blockquote>
   <p>And then the apostle began to distil a lot against wealth by showing that six causes must divert us from wanting immodestly.</p>
   <p>The <span style="color: #994c3d;">first</span> is <span style="color: #994c3d;">scripture</span>:</p>
   <p>He told the <a href="#note_hoteriche" title="story of the rich host" id="hoteriche" class="yellow">story of the rich host that the reproach and poor Lazare chose him</a>.</p>
@@ -4085,54 +3604,21 @@
   <p>Came his mother, his widow and all those who cried him; They threw himself at his feet by imploring him to resurrect the young man in the name of the Lord, as he did for Drusiana.</p>
   <p>So, immediately after having burdened himself in tears and prayers, he revived him and commanded him to tell both disciples what punishment they could incur and what glory they could lose.</p>
   <p>The young man told many things about the glory of heaven and the sentences of hell, which he had seen, and he said:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">«O unfortunate, I saw your angels cry and demons rejoice.»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— «O unfortunate, I saw your angels cry and demons rejoice.»</span>
+  </blockquote>
   <p>He told them that they could lose eternal palaces, built of sparkling stones, illuminated with prodigious clarity, abundant in rich banquets, full of delights, glorified by joys and destined to last forever.</p>
   <p>From hell, he presented eight retributions:</p>
   <p>«Towards and darkness, revulsion, cold and burning Regard of demon, remorse, pain».</p>
   <p>So, the risen young man and the two disciples cast himself to the feet of the apostle by asking him mercy.</p>
   <p>The apostle tells them:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">«Make penance for thirty days by praying that branches and stones return to their first nature.»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— «Make penance for thirty days by praying that branches and stones return to their first nature.»</span>
+  </blockquote>
   <p>When it was done, he said:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">«Go carry these branches and stones where you took them.»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— «Go carry these branches and stones where you took them.»</span>
+  </blockquote>
   <p>When they performed and the branches and stones were found in their first nature, they received all the grace of the virtues they had possessed before.</p>
   <h3 class="yellow" id="the-destruction-of-dianas-temple">the destruction of diana's temple</h3>
   <p><span style="color: #994c3d;">St. John</span> had preached to all of Asia.</p>
@@ -4140,13 +3626,13 @@
   and took him to the temple of Diane to force him to offer a sacrifice.</p>
   <p><span style="color: #994c3d;">John</span> offered them this alternative:  </p>
   <ul>
-  <li>or they would succeed in convincing the Church of Christ to invoke Diane
-  and then he would offer himself a sacrifice to the idols: </li>
-  <li>or he would succeed himself in making them to invoke the Christ to the temple of Diane
-  and then they should believe in Christ.</p>
-  <p>The majority of the people agreed;
-  everyone came out of the temple, the apostle went into prayer and the temple collapsed;
-  Diane's statue broke into a thousand pieces.</li>
+    <li>or they would succeed in convincing the Church of Christ to invoke Diane
+    and then he would offer himself a sacrifice to the idols: </li>
+    <li>or he would succeed himself in making them to invoke the Christ to the temple of Diane
+    and then they should believe in Christ.</p>
+    <p>The majority of the people agreed;
+    everyone came out of the temple, the apostle went into prayer and the temple collapsed;
+    Diane's statue broke into a thousand pieces.</li>
   </ul>
   <h3 class="yellow" id="the-cup-of-poison">the cup of poison</h3>
   <figure>
@@ -4169,36 +3655,14 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1920.jpg 1920w"></picture><figcaption>John the Evangelist holding a cup of poison</figcaption>
   </figure>
   <p>So Aristodeme, priest of the idols, gave rise to a strong argument among the people, so that part of this people was preparing to confront the other. The apostle says:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">«What do you want to do? Say it and I'll do what you'll like.»</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— «What do you want to do? Say it and I'll do what you'll like.»</span>
+  </blockquote>
   <p>The other replied:</p>
   <p>«If you want me to believe in your God, I will give you a drink of poison and if he does not hurt you, your lord will appear as the true God.»</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">«Do as you say» said the apostle.</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— «Do as you say» said the apostle.</span>
+  </blockquote>
   <p>«I want first, say the priest, you'll see people die, for your greatest fear.»</p>
   <p>Aristodema therefore found the proconsul to be entrusted with two men destined for decapitation and, in front of the crowd, gave them poison.</p>
   <p>As soon as they drank her, they gave up the soul.</p>
@@ -4208,40 +3672,15 @@
   <p>«I still have a doubt; But if you resurrect these two dead, I will believe really and without any doubt.»</p>
   <p>The apostle gave him his tunic.</p>
   <p>The other asked: «Why did you give me your tunic?»</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">«So that you are confused and give up your false beliefs</span>, retorted the apostle.[/color]</td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <span style="color: #df8f20;">— «So that you are confused and give up your false beliefs</span>, retorted the apostle.
+  </blockquote>
   <p>Do you really think that your tunic will make me believe?  said the other one.</p>
   <p>The apostle says:</p>
-  <table>
-  <thead>
-  <tr>
-  <th></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><span style="color: #df8f20;">—&nbsp;</span></td>
-  <td><span style="color: #df8f20;">«Go and throw it on the dead body by saying: </span></td>
-  </tr>
-  <tr>
-  <td></td>
-  <td><span style="color: #df8f20;">“The apostle of Christ sent me to you for you to resurface in the name of Christ”».</span></td>
-  </tr>
-  </tbody>
-  </table>
+  <blockquote>
+    <p><span style="color: #df8f20;">— «Go and throw it on the dead body by saying: </span></p>
+    <p><span style="color: #df8f20;">“The apostle of Christ sent me to you for you to resurface in the name of Christ”».</span></p>
+  </blockquote>
   <p>The priest executed and the dead resurrected immediately.</p>
   <p>So the apostle named in the name of Christ the priest and the proconsul, who converged with their entire family and then built a church in honor of <span style="color: #994c3d;">St. John</span>.</p>
   </div>
