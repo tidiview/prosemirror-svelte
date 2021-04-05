@@ -4028,7 +4028,7 @@
         <section><article>
           <div class="notices yellow">
             <ol class="doc">
-              <li value="21"><q>Si tu veux être parfait, va, vends ce que tu possèdes, donne-le aux pauvres, et tu auras un trésor dans les cieux. Puis viens, suis-moi.</q></li>
+              <li value="21">“Si tu veux être parfait, va, vends ce que tu possèdes, donne-le aux pauvres, et tu auras un trésor dans les cieux. Puis viens, suis-moi.”</li>
             </ol>
           </div>
         </article></section>
@@ -4040,41 +4040,58 @@
         <section><article>
           <div class="notices yellow">
           <ol class="doc">
-            <li value="16"><p>Et voici que quelqu’un s’approcha de Jésus et lui dit:</p>
+            <li value="16">
+              Et voici que quelqu’un s’approcha de Jésus et lui dit:
               <blockquote>
-                <p><q>Maître, que dois-je faire de bon pour avoir la vie éternelle ?</q></p>
-              </blockquote></li>
-            <li value="17"><p>Jésus lui dit:</p>
-              <blockquote>
-                <p><q>Pourquoi m’interroges-tu sur ce qui est bon? Celui qui est bon, c’est Dieu, et lui seul! Si tu veux entrer dans la vie, observe les commandements.</q></p>
-              </blockquote></li>
-            <li value="18"><p>Il lui dit:</p>
-              <blockquote>
-                <p><q>Lesquels?</q></p>
+                “Maître, que dois-je faire de bon pour avoir la vie éternelle ?”
               </blockquote>
-              <p>Jésus reprit:</p>
+            </li>
+            <li value="17">
+              Jésus lui dit:
               <blockquote>
-                <p>“Tu ne commettras pas de meurtre. Tu ne commettras pas d’adultère. Tu ne commettras pas de vol. Tu ne porteras pas de faux témoignage.</p>
-              </blockquote></li>
+                “Pourquoi m’interroges-tu sur ce qui est bon? Celui qui est bon, c’est Dieu, et lui seul! Si tu veux entrer dans la vie, observe les commandements.”
+              </blockquote>
+            </li>
+            <li value="18">
+              Il lui dit:
+              <blockquote>
+                “Lesquels?”
+              </blockquote>
+              ésus reprit:
+              <blockquote>
+                “Tu ne commettras pas de meurtre. Tu ne commettras pas d’adultère. Tu ne commettras pas de vol. Tu ne porteras pas de faux témoignage.
+              </blockquote>
+            </li>
             <li value="19">
               <blockquote>
-                <p><q>Honore ton père et ta mère. Et aussi: Tu aimeras ton prochain comme toi-même.</q></p>
-              </blockquote></li>
-            <li value="20"><p>Le jeune homme lui dit:</p>
-            <blockquote>
-              <p><q>Tout cela, je l’ai observé: que me manque-t-il encore?</q></p>
-            </blockquote>
-            <li value="21"><p>Jésus lui répondit:</p>
-            <blockquote>
-              <p><q>Si tu veux être parfait, va, vends ce que tu possèdes, donne-le aux pauvres, et tu auras un trésor dans les cieux. Puis viens, suis-moi.</q></p></li>
+                “Honore ton père et ta mère. Et aussi: Tu aimeras ton prochain comme toi-même.”
+              </blockquote>
+            </li>
+            <li value="20">
+              Le jeune homme lui dit:
+              <blockquote>
+                “Tout cela, je l’ai observé: que me manque-t-il encore?”
+              </blockquote>
+            </li>
+            <li value="21">
+              Jésus lui répondit:
+              <blockquote>
+                “Si tu veux être parfait, va, vends ce que tu possèdes, donne-le aux pauvres, et tu auras un trésor dans les cieux. Puis viens, suis-moi.”
+              </blockquote>
+            </li>
             <li value="22">À ces mots, le jeune homme s’en alla tout triste, car il avait de grands biens.</li>
-            <li value="23"><p>Et Jésus dit à ses disciples:</p>
-            <blockquote>
-              <p><q>Amen, je vous le dis: un riche entrera difficilement dans le royaume des Cieux.</q></p></li>
-            <li value="24"><p>Je vous le répète:</p>
-            <blockquote>
-              <p><q>il est plus facile à un chameau de passer par un trou d’aiguille qu’à un riche d’entrer dans le royaume des Cieux</q>.</p>
-            </blockquote></li>
+            <li value="23">
+              Et Jésus dit à ses disciples:
+              <blockquote>
+                “Amen, je vous le dis: un riche entrera difficilement dans le royaume des Cieux.”
+              </blockquote>
+            </li>
+            <li value="24">
+              Je vous le répète:
+              <blockquote>
+                “il est plus facile à un chameau de passer par un trou d’aiguille qu’à un riche d’entrer dans le royaume des Cieux”.
+              </blockquote>
+            </li>
           </ol>
           </div>
         </article></section>
@@ -4102,13 +4119,15 @@
               <li value="21">Il aurait bien voulu se rassasier de ce qui tombait de la table du riche; mais les chiens, eux, venaient lécher ses ulcères.</li>
               <li value="22">Or le pauvre mourut, et les anges l’emportèrent auprès d’Abraham. Le riche mourut aussi, et on l’enterra.</li>
               <li value="23">Au séjour des morts, il était en proie à la torture; levant les yeux, il vit Abraham de loin et Lazare tout près de lui.</li>
-              <li value="24"><p>Alors il cria:</p>
-              <blockquote>
-                <p><q>Père Abraham, prends pitié de moi et envoie Lazare tremper le bout de son doigt dans l’eau pour me rafraîchir la langue, car je souffre terriblement dans cette fournaise.</q></p>
-              </blockquote></li>
+              <li value="24">
+                Alors il cria:
+                <blockquote>
+                  “Père Abraham, prends pitié de moi et envoie Lazare tremper le bout de son doigt dans l’eau pour me rafraîchir la langue, car je souffre terriblement dans cette fournaise.”
+                </blockquote>
+              </li>
               <li value="25">
                 <blockquote>
-                  <p>– <q>Mon enfant, répondit Abraham, rappelle-toi: tu as reçu le bonheur pendant ta vie, et Lazare, le malheur pendant la sienne. Maintenant, lui, il trouve ici la consolation, et toi, la souffrance</q>.</p>
+                  – “Mon enfant, répondit Abraham, rappelle-toi: tu as reçu le bonheur pendant ta vie, et Lazare, le malheur pendant la sienne. Maintenant, lui, il trouve ici la consolation, et toi, la souffrance”.
                 </blockquote>
               </li>
             </ol>

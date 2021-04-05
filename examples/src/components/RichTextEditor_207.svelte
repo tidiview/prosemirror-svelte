@@ -3692,36 +3692,123 @@
   <p>On the meaning of the name of John in Hebrew, see also the <a href="#le-nom-de-jean" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean">«name “john”, its link with the institution, its etymology»</a>.</p>
   <p>back to the note: <a href="#nomdejean" title="name of John">name of John↑</a></p>
   </div>
-  <h3 id="note_mathieu" class="yellow">If you wish to be perfect</h3>
-  <div class="notices yellow">
-  <p>This quote refers to a passage from the Gospel according to Matthew, chapter 19, verse 21:</p>
-  <p><sup>21</sup> Jesus said, “If you wish to be perfect, go and sell your possessions and give the money to the poor, and you will have treasure in heaven; then come, follow me”.»</p>
-  <p>In addition, the full text:</p>
-  <p><sup>16</sup> And now a man came to him and asked, “Master, what good deed must I do to possess eternal life?”</p>
-  <p><sup>17</sup> Jesus said to him, “Why do you ask me about what is good? There is one alone who is good. But if you wish to enter into life, keep the commandments”.</p>
-  <p><sup>18</sup> He said, “Which ones?” Jesus replied, “These: You shall not kill. You shall not commit adultery. You shall not steal. You shall not give false witness.</p>
-  <p><sup>19</sup> Honour your father and your mother. You shall love your neighbour as yourself.”</p>
-  <p><sup>20</sup> The young man said to him, “I have kept all these. What more do I need to do?”</p>
-  <p><sup>21</sup> Jesus said, “If you wish to be perfect, go and sell your possessions and give the money to the poor, and you will have treasure in heaven; then come, follow me”.</p>
-  <p><sup>22</sup> But when the young man heard these words he went away sad, for he was a man of great wealth.</p>
-  <p><sup>23</sup> Then Jesus said to his disciples, “In truth I tell you, it is hard for someone rich to enter the kingdom of Heaven.</p>
-  <p><sup>24</sup> Yes, I tell you again, it is easier for a camel to pass through the eye of a needle than for someone rich to enter the kingdom of Heaven.»</p>
-  <p>back to the note: <a href="#mathieu" title="If you wish to be perfect">If you wish to be perfect↑</a></p>
-  </div>
-  <h3 id="note_hoteriche" class="yellow">story of the rich host</h3>
-  <div class="notices yellow">
-  <p>This passage refers to the gospel according to Luke, chapter 16, verse 19 and following:</p>
-  <p><sup>19</sup> «There was a rich man who used to dress in purple and fine linen and feast magnificently every day.</p>
-  <p><sup>20</sup> And at his gate there used to lie a poor man called Lazarus, covered with sores,</p>
-  <p><sup>21</sup> who longed to fill himself with what fell from the rich man's table. Even dogs came and licked his sores.</p>
-  <p><sup>22</sup> Now it happened that the poor man died and was carried away by the angels into Abraham's embrace. The rich man also died and was buried.</p>
-  <p><sup>23</sup> 'In his torment in Hades he looked up and saw Abraham a long way off with Lazarus in his embrace.</p>
-  <p><sup>24</sup> So he cried out, “Father Abraham, pity me and send Lazarus to dip the tip of his finger in water and cool my tongue, for I am in agony in these flames”.</p>
-  <p><sup>25</sup> – Abraham said, “My son, remember that during your life you had your fill of good things, just as Lazarus his fill of bad. Now he is being comforted here while you are in agony”.»</p>
-  <p>This story is also told by John, more in detail: see <a href="https://www.catholic.org/bible/book.php?bible_chapter=11" title="https://www.catholic.org/bible/book.php?id=50&amp;bible_chapter=11" id="50">John chapter 11, verse 1-46</a></p>
-  <p>back to the note: <a href="#mathieu" title="If you wish to be perfect">story of the rich host↑</a></p>
-  </div>
-  </div>
+
+  <aside>
+  <article>
+  <h2 id="notes" class="yellow">notes</h2>
+    <section><article>
+      <h3 id="note_mathieu" class="yellow">If you wish to be perfect</h3>
+      <section><article>
+        <p>This quote refers to a passage from the Gospel according to Matthew, chapter 19, verse 21:</p>
+        </article></section>
+        <section><article>
+          <div class="notices yellow">
+          <ol class="doc">
+            <li value="21">
+              <blockquote>
+                “If you wish to be perfect, go and sell your possessions and give the money to the poor, and you will have treasure in heaven; then come, follow me.”
+              </blockquote>
+            </li>
+          </ol>
+          </div>
+        </article></section>
+      </article></section>
+      <section><article>
+        <section><article>
+          <p>In addition, the full text:</p>
+        </article></section>
+        <section><article>
+          <div class="notices yellow">
+          <ol class="doc">
+            <li value="16">
+              And now a man came to him and asked:
+              <blockquote>
+                “Master, what good deed must I do to possess eternal life?”
+              </blockquote>
+            </li>
+            <li value="17">
+              Jesus said to him:
+              <blockquote>
+                <p>“Why do you ask me about what is good? There is one alone who is good. But if you wish to enter into life, keep the commandments.”</p>
+              </blockquote>
+            </li>
+            <li value="18">
+              He said:
+              <blockquote>
+                “Which ones?”
+              </blockquote>
+              Jesus replied:
+              <blockquote>
+                “These: You shall not kill. You shall not commit adultery. You shall not steal. You shall not give false witness.
+              </blockquote>
+            </li>
+            <li value="19">
+              <blockquote>
+                Honour your father and your mother. You shall love your neighbour as yourself.”
+              </blockquote>
+            </li>
+            <li value="20">The young man said to him, “I have kept all these. What more do I need to do?”</li>
+            <li value="21">
+              Jesus said:
+              <blockquote>
+                “If you wish to be perfect, go and sell your possessions and give the money to the poor, and you will have treasure in heaven; then come, follow me”.
+              </blockquote>
+            </li>
+            <li value="22">But when the young man heard these words he went away sad, for he was a man of great wealth.</li>
+            <li value="23">
+              Then Jesus said to his disciples:
+              <blockquote>
+                “In truth I tell you, it is hard for someone rich to enter the kingdom of Heaven.
+              </blockquote>
+            </li>
+            <li value="24">
+              <blockquote>
+                Yes, I tell you again, it is easier for a camel to pass through the eye of a needle than for someone rich to enter the kingdom of Heaven.”»
+              </blockquote>
+            </li>
+          </ol>
+        </article></section>
+        <footer>
+          <p>back to the note: <a href="#mathieu" title="If you wish to be perfect">If you wish to be perfect↑</a></p>
+        </footer>
+      </article></section>
+
+      <section><article>
+        <h3 id="note_hoteriche" class="yellow">story of the rich host</h3>
+      <div class="notices yellow">
+      <p>This passage refers to the gospel according to Luke, chapter 16, verse 19 and following:</p>
+      <ol>
+        <li value="19">«There was a rich man who used to dress in purple and fine linen and feast magnificently every day.</li>
+        <li value="20">And at his gate there used to lie a poor man called Lazarus, covered with sores,</li>
+        <li value="21">who longed to fill himself with what fell from the rich man's table. Even dogs came and licked his sores.</li>
+        <li value="22">Now it happened that the poor man died and was carried away by the angels into Abraham's embrace. The rich man also died and was buried.</li>
+        <li value="23">In his torment in Hades he looked up and saw Abraham a long way off with Lazarus in his embrace.
+        </li>
+        <li value="24">
+          So he cried out:
+          <blockquote>
+            “Father Abraham, pity me and send Lazarus to dip the tip of his finger in water and cool my tongue, for I am in agony in these flames”.
+          </blockquote>
+        </li>
+        <li value="25">
+          – Abraham said:
+          <blockquote>
+            “My son, remember that during your life you had your fill of good things, just as Lazarus his fill of bad. Now he is being comforted here while you are in agony”.»
+          </blockquote>
+        </li>
+      </ol>
+          </div>
+        </article></section>
+        <section><article>
+          <p>This story is also told by John, more in detail: see <a href="https://www.catholic.org/bible/book.php?bible_chapter=11" title="https://www.catholic.org/bible/book.php?id=50&amp;bible_chapter=11" id="50">John chapter 11, verses 1 to 46</a></p>
+        </article></section>
+      </article></section>
+      <footer>
+        <p>back to text: <a href="#mathieu" title="If you wish to be perfect">story of the rich host ↑</a></p>
+      </footer>
+    </article></section>
+  </article>
+</aside>
 
   <!-- Page 19 --><hr>
 
