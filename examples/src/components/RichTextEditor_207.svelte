@@ -3888,8 +3888,12 @@
 
       <section><article><p>out</p>
         <ol class="doc">
-          <li>Chapître 4</li>
-          <li value="01">Then, in my vision, I saw a door open in heaven and heard the same voice speaking to me, the voice like a trumpet, saying, 'Come up here: I will show you what is to take place in the future.'</li>
+          <li>Chapter 4</li>
+          <li value="01">Then, in my vision, I saw a door open in heaven and heard the same voice speaking to me, the voice like a trumpet, saying,
+            <blockquote>
+              “Come up here: I will show you what is to take place in the future.”
+            </blockquote>
+          </li>
         </ol>
       </article></section>
       <hr>
