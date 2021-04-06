@@ -103,8 +103,11 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-1920.jpg 1920w"></picture><figcaption>Vue de l'espace d'exposition depuis l'entrée de l'église de l'hôpital Saint-Jean</figcaption></figure>
-      <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-1920.jpg 1920w"></picture><figcaption>Vue de l'espace d'exposition depuis l'entrée de l'église de l'hôpital Saint-Jean</figcaption>
+    </figure>
+
+    <figure>
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-280.webp 280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-380.webp 380w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-480.webp 480w,
@@ -120,8 +123,11 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-1920.jpg 1920w"></picture><figcaption>Vue de l'espace d'exposition depuis l'intérieur de l'église de l'hôpital Saint-Jean</figcaption></figure>
-      <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-1920.jpg 1920w"></picture><figcaption>Vue de l'espace d'exposition depuis l'intérieur de l'église de l'hôpital Saint-Jean</figcaption>
+    </figure>
+
+    <figure>
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-280.webp 280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-380.webp 380w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-480.webp 480w,
@@ -2927,28 +2933,28 @@
 
 <article>
   <h2 id="mise-en-relation" class="yellow">différents textes à l'origine des scènes représentées</h2>
-  <figure>
-    <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-280.webp 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-380.webp 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-480.webp 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-640.webp 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-840.webp 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1280.webp 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1600.webp 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-640.jpg" title="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, Catherine d'Alexandrie, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, Catherine d'Alexandrie, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-60-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-280.jpg 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-380.jpg 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-480.jpg 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-640.jpg 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-840.jpg 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1280.jpg 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1600.jpg 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1920.jpg 1920w"></picture><figcaption>Catherine d'Alexandrie</figcaption>
-  </figure>
-
   <section><article>
     <h3 id="cath-selon-legende" class="yellow">Légende de Catherine d'Alexandrie selon le chapître 166 de <cite>La Légende dorée</cite></h3>
+    <figure>
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-280.webp 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-380.webp 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-480.webp 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-640.webp 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-840.webp 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1280.webp 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1600.webp 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-640.jpg" title="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, Catherine d'Alexandrie, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, Catherine d'Alexandrie, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-60-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-280.jpg 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-380.jpg 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-480.jpg 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-640.jpg 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-840.jpg 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1280.jpg 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1600.jpg 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1920.jpg 1920w"></picture><figcaption>Catherine d'Alexandrie</figcaption>
+    </figure>
+
     <section><article>
       <h4>Texte du chapître 166 de <cite>La Légende dorée</cite>: légende de Catherine d'Alexandrie</h4>
       <section><article>
@@ -3296,7 +3302,7 @@
   <section><article>
     <h3 id="note_rouen" class="yellow">Rothomagus</h3>
     <div class="notices yellow">
-    <p>Rothomagus est l'ancien nom de Rouen. S'y trouvait un monastère appelé à l'origine «Sainte-Trinité-du-Mont», aujourd'hui «Sainte-Catherine-du-Mont».</p
+    <p><dfn>Rothomagus</dfn> est l'ancien nom de Rouen. S'y trouvait un monastère appelé à l'origine «Sainte-Trinité-du-Mont», aujourd'hui «Sainte-Catherine-du-Mont».</p
     </div>
     <footer><p>retour au texte: <a href="#rouen" title="Rothomagus">Rothomagus↑</a></p></footer>
   </article></section>
@@ -3407,10 +3413,11 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1920.jpg 1920w"></picture><figcaption>Barbe la grande martyre</figcaption>
   </figure>
 
+  
+  <h3 id="barbe-selon-legende" class="yellow"><cite>Légende de Barbe la grande martyre</cite> selon le texte ajouté à <cite>La Légende dorée</cite></h3>
   <section><article>
-    <h3 id="barbe-selon-legende" class="yellow">Légende de Barbe la grande martyre selon le texte apocryphe ajouté à <cite>La Légende dorée</cite></h3>
+    <h4>Texte ajouté à <cite>La Légende dorée</cite>: <cite>légende de Barbe la grande martyre</cite></h4>
     <section><article>
-      <h4>Texte  apocryphe ajouté à <cite>La Légende dorée</cite>: légende de Barbe la grande martyre</h4>
       <p>Il y avait à <a href="#note_nicomedie" title="Nicomédie" id="nicomedie" class="yellow">Nicomédie</a>, du temps de l'empereur <a href="#note_maximien" title="Maximien" id="maximien" class="yellow">Maximien</a>, un païen du nom de <span style=color: #99713d;">Dioscore</span>, qui était d'une famille très distinguée et qui possédait de grandes richsses.</p>
       <p>Il avait une fille d'une grande beauté, qui se nommait <span style="color: #994c3d;">Barbe</span>.</p>
       <p>Son père l'aimait beaucoup;
@@ -4436,15 +4443,15 @@
       <hr>
       <section><article><p>out</p>
         <ol class="doc">
-          <li value="12">Le premier « Malheur ! » est passé ; voici que deux « Malheur ! » vont encore arriver.</li>
-          <li value="13">Le sixième ange sonna de la trompette, et j’entendis une voix venant des quatre cornes de l’autel d’or qui est devant Dieu ;</li>
-          <li value="14">elle disait au sixième ange qui avait la trompette : « Libère les quatre anges qui sont enchaînés au bord de l’Euphrate, le grand fleuve. »</li>
+          <li value="12">Le premier «Malheur!» est passé; voici que deux «Malheur!» vont encore arriver.</li>
+          <li value="13">Le sixième ange sonna de la trompette, et j’entendis une voix venant des quatre cornes de l’autel d’or qui est devant Dieu;</li>
+          <li value="14">elle disait au sixième ange qui avait la trompette: «Libère les quatre anges qui sont enchaînés au bord de l’Euphrate, le grand fleuve. »</li>
           <li value="15">Alors furent libérés les quatre anges qui étaient prêts pour cette heure, ce jour, ce mois, cette année, afin de tuer le tiers de l’humanité.</li>
-          <li value="16">Les troupes de cavalerie comptaient deux myriades de myriades : j’ai entendu ce nombre.</li>
-          <li value="17">Ainsi, dans ma vision, j’ai vu les chevaux et ceux qui les montaient : ils ont des cuirasses couleur de feu, d’hyacinthe et de soufre ; les têtes des chevaux sont comme des têtes de lion ; de leurs bouches sortent du feu, de la fumée et du soufre.</li>
+          <li value="16">Les troupes de cavalerie comptaient deux myriades de myriades: j’ai entendu ce nombre.</li>
+          <li value="17">Ainsi, dans ma vision, j’ai vu les chevaux et ceux qui les montaient: ils ont des cuirasses couleur de feu, d’hyacinthe et de soufre; les têtes des chevaux sont comme des têtes de lion; de leurs bouches sortent du feu, de la fumée et du soufre.</li>
           <li value="18">Le tiers de l’humanité fut tué par ces trois fléaux, le feu, la fumée et le soufre qui sortaient de leurs bouches.</li>
           <li value="19">Car le pouvoir des chevaux se trouve dans leurs bouches, et aussi dans leurs queues. En effet, celles-ci sont semblables à des serpents, et elles ont des têtes qui font du mal.</li>
-          <li value="20">Et le reste des hommes, ceux qui n’avaient pas été tués par ces fléaux, ne se sont pas convertis, ne renonçant pas aux œuvres de leurs mains ; ils n’ont pas cessé de se prosterner devant les démons, les idoles d’or, d’argent, de bronze, de pierre et de bois, qui ne peuvent pas voir, ni entendre, ni marcher.</li>
+          <li value="20">Et le reste des hommes, ceux qui n’avaient pas été tués par ces fléaux, ne se sont pas convertis, ne renonçant pas aux œuvres de leurs mains; ils n’ont pas cessé de se prosterner devant les démons, les idoles d’or, d’argent, de bronze, de pierre et de bois, qui ne peuvent pas voir, ni entendre, ni marcher.</li>
           <li value="21">Ils ne se sont pas convertis, ne renonçant ni à leurs meurtres, ni à leurs sortilèges, ni à leur débauche, ni à leurs vols.</li>
         </ol>
       </article></section>
