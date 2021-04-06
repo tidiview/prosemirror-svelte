@@ -528,7 +528,7 @@
         <p>Catherine, in the name of her faith, refused and chose to undergo martyrdom.</p>
         <p>At the time of his execution, Jesus' own voice would then have been heard from heaven to tell him:</p>
         <blockquote>
-          <p><span style="color: #e6a64d;">«Come, my beloved, my beautiful one!»</span></p>
+          <span style="color: #e6a64d;">«Come, my beloved, my beautiful one!»</span>
         </blockquote>
         <p>Due to the presence of Saint Catherine, the triptych has sometimes been called <span style="color: #e6a64d;">“the mystical marriage of Saint Catherine”</span> <sup id="fnref1:5"><a href="#fn:5" class="footnote-ref">note 3</a></sup>.</p>
       </article></section>
@@ -555,7 +555,7 @@
         <p>On the back, on the left, the presence of a <span style="color: #e6a64d;">white lamb</span> allows us to identify <span style="color: #e6a64d;">the man wearing the</span> magnificent <span style="color: #e6a64d;">purple tunic</span> as <a href="https://en.wikipedia.org/wiki/John_the_Baptist" title="https://en.wikipedia.org/wiki/John_the_Baptist" id="jean-le-baptiste" class="yellow">John the Baptist</a>.</p>
         <p>The lamb recalls the word that John the Baptist spoke to his disciples to <span style="color #e6a64d;">announce</span> the coming of <span style="color: #e6a64d;">Jesus into the world</span> <span style="color: #999;">(John chapter 1 verse 29)</span>:
         <blockquote>
-          <p><span style="color: #e6a64d;">«<ruby style="color:#e6a64d;" lang="en">This is&nbsp;the&nbsp;lamb&nbsp;of&nbsp;god<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce&nbsp;agnus&nbsp;dei</rt><rp>)</rp></ruby>»</span>.</p>
+          <span style="color: #e6a64d;">«<ruby style="color:#e6a64d;" lang="en">This is&nbsp;the&nbsp;lamb&nbsp;of&nbsp;god<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce&nbsp;agnus&nbsp;dei</rt><rp>)</rp></ruby>»</span>.
         </blockquote>
         <p>In fact, John also refers with his right arm to the child Jesus.</p>
       </article></section>
@@ -582,7 +582,7 @@
         <p>The lamb is a new symbol of the christian faith.</p>
         <p>In contrast to the ancient hebraic faith, where, in order to please god, animals had to be sacrificed to him, christianity affirms that <span style="color: #e6a64d;">the only true sacrifice that pleases god</span> is that which <span style="color: #e6a64d;">the believer makes of himself</span>, in imitation of Jesus and in reference to this word of the prophet <a href="https://en.wikipedia.org/wiki/Isaiah" title="https://en.wikipedia.org/wiki/Isaiah" id="isaie" class="yellow">Isaiah</a> <span style="color: #999;">(Isaiah, chapter 53 verset 7)</span>:</p>
         <blockquote>
-          <p><span style="color: #e6a64d;">«Abused, he humbles himself, he does not open his mouth: like <span style="text-decoration: underline;">a lamb</span> leads to the slaughterhouse»</span>.</p>
+          <span style="color: #e6a64d;">«Abused, he humbles himself, he does not open his mouth: like <span style="text-decoration: underline;">a lamb</span> leads to the slaughterhouse»</span>.
         </blockquote>
         <p>Under his purple tunic is <span style="color: #e6a64d;">another tunic</span>, light brown, which the text tells us is <span style="color: #e6a64d;">camel hair</span> <span style="color: #999;">(Mark chapter 1 verse 6)</span>, imitating the hair garment of the prophet <a href="https://en.wikipedia.org/wiki/Elijah" title="https://en.wikipedia.org/wiki/Elijah" id="elie" class="yellow">Elijah</a> <span style="color: #999;">(2 Kings chapter 1 verse 8)</span>.</p>
         <p>This same hair garment also refers to an episode of Genesis <span style="color: #999;">(Genesis 27:1-40)</span> during which <a href="https://en.wikipedia.org/wiki/Jacob" title="https://en.wikipedia.org/wiki/Jacob" id="jacob" class="yellow">Jacob</a>, on the advice of his mother <a href="https://en.wikipedia.org/wiki/Rebecca" title="https://en.wikipedia.org/wiki/Rebecca" id="rebecca" class="yellow">Rebecca</a>, poses as his brother <a href="https://en.wikipedia.org/wiki/Esau" title="https://en.wikipedia.org/wiki/Esau" id="esau" class="yellow">Esau</a> who is very <span style="color: #e6a64d;">hairy</span>, with his blind father, <a href="https://en.wikipedia.org/wiki/Isaac" title="https://en.wikipedia.org/wiki/Isaac" id="isaac" class="yellow">Isaac</a>, by wearing <span style="color: #e6a64d;">a hair garment</span>.</p>
@@ -620,7 +620,7 @@
         <p>The later makes, as Memling represents him, the <span style="color: #e6a64d;">sign of the cross</span>, drinks the cup but the poison does him no harm.</p>
         <p>The <span style="color: #e6a64d;">serpent</span> also refers to a word that Jesus addressed to <a href="https://en.wikipedia.org/wiki/Nicodemus" title="https://en.wikipedia.org/wiki/Nicodemus" id="nicodeme" class="yellow">Nicodemus</a> <span style="color: #999;">(John 3:14)</span>:</p>
         <blockquote>
-          <p><span style="color: #e6a64d;"><q>As Moses raised the serpent in the wilderness, so must the son of man be raised up, so that whoever believes may have eternal life in him</q></span>.</p>
+          <span style="color: #e6a64d;"><q>As Moses raised the serpent in the wilderness, so must the son of man be raised up, so that whoever believes may have eternal life in him</q></span>.
         </blockquote>
       </article></section>
     </article></section>
@@ -693,7 +693,7 @@
         <p>Publicly <span style="color: #e6a64d;">denounced</span> later for refusing to sacrifice to the gods, she was martyred.
         Jesus' voice would then have been heard from heaven:</p>
         <blockquote>
-          <p><span style="color: #e6a64d;">«Come, my beloved; rest in my father's house in heaven»</span>.</p>
+          <span style="color: #e6a64d;">«Come, my beloved; rest in my father's house in heaven»</span>.
         </blockquote>
         <p>His own father cuts off her head.</p>
       </article></section>
@@ -913,7 +913,7 @@
         <p><span style="color: #e6a64d;">spiritual simplicity, evidence, ideality also produce</span> in a continuous <em>way</em> <span style="color: #e6a64d;">material sophistication and opulence</span>.</p>
         <p><a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" id="renvoi-de-vos-2" class="yellow">Dirk DE VOS</a> mentions:</p>
         <blockquote>
-          <p><span style="color: #e6a64d;">"a world of virgins clad in gold brocade, silk and ermine, golden crowns and rare precious stones"</span> where <span style="color: #e6a64d;">"the infant Jesus beckons"</span> to the sick in an <span style="color: #e6a64d;">"atmosphere imbued with profound serenity"</span>. </p>
+          <span style="color: #e6a64d;">"a world of virgins clad in gold brocade, silk and ermine, golden crowns and rare precious stones"</span> where <span style="color: #e6a64d;">"the infant Jesus beckons"</span> to the sick in an <span style="color: #e6a64d;">"atmosphere imbued with profound serenity"</span>.
         </blockquote>
         <p>In fact, in Bruges in the 15<sup>th</sup> century, simplicity and the obvious knew no bounds, leading <em>wonderfully</em> to the divine.</p>
       </article></section>
@@ -1431,61 +1431,61 @@
       <p>He recognizes it by a baptism in the waters of the <a href="https://en.wikipedia.org/wiki/Jordan_River" title="https://en.wikipedia.org/wiki/Jordan_River" id="jourdain" class="yellow">Jordan</a>: this scene appears at the top of the left inner shutter.</p>
     </article></section>
 
-    figure>
-    <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-280.webp 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-380.webp 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-480.webp 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-640.webp 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-840.webp 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1280.webp 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1600.webp 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/bapt%C3%A8me-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the inner left panel, “John the Baptist baptizing Jesus on the banks of the Jordan River”, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the inner left panel, “John the Baptist baptizing Jesus on the banks of the Jordan River”, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-280.jpg 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-380.jpg 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-480.jpg 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-640.jpg 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-840.jpg 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1280.jpg 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1600.jpg 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1920.jpg 1920w"></picture><figcaption>detail of the inner left panel, “John the Baptist baptizing Jesus on the banks of the Jordan River”</figcaption>
-  </figure>
-
-  <article><section>
-    <p>On the other bank, <span style="color: #e6a64d;">John the Baptist</span> presents Jesus with the words <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="en">This is the lamb of god<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce&nbsp;agnus&nbsp;dei</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span> to his first two disciples <a href="https://en.wikipedia.org/wiki/Andrew_the_Apostle" title="https://en.wikipedia.org/wiki/Andrew_the_Apostle" id="andre" class="yellow">Andrew</a> and <a href="https://en.wikipedia.org/wiki/John_the_Apostle" title="https://en.wikipedia.org/wiki/John_the_Apostle" id="jean-l-apotre" class="yellow">John (the Apostle)</a>; they join him.</p>
-    </article></section>
-  </article></section>
-
-  <article><section>
-    <h6 class="yellow">Scene of the arrest of John in the distance of the central panel</h6>
-    <section><article>
-      <p>From that point on, his story is tragic:</p>
-      <p>the tetrarch of Galilee and Perea, <a href="https://en.wikipedia.org/wiki/Herod_Antipas" title="https://en.wikipedia.org/wiki/Herod_Antipas" id="herode-antipas" class="yellow">Herod Antipas</a> married «<a href="https://en.wikipedia.org/wiki/Herod_II" title="https://en.wikipedia.org/wiki/Herod_II" id="herode-boethos" class="yellow">his brother Philip's wife</a> (<a href="https://en.wikipedia.org/wiki/Herodias" title="https://en.wikipedia.org/wiki/Herodias" id="herodiade">Herodias</a>)» <span style="color: #999;">(Mark chapter 6, verse 17)</span>;</p>
-      <p>As the jewish faith regards any marriage with his brother's wife as <span style="color: #e6a64d;">«defiling»</span> and <span style="color: #e6a64d;">forbids</span> it <span style="color: #999;">(Leviticus chapter 18 verse 16; chapter 20 verse 21)</span>, John publicly condemns it.</p>
-      <p><span style="color: #e6a64d;">Herod feared</span> that this would provoke «<span style="color: #e6a64d;">a revolt</span>, the crowd seeming ready to follow all the advice of this man.</p>
-      <p>He therefore prefers to take him before any trouble occurs because of him, rather than to have to repent later if a movement takes place» <span style="color: #999;">(“Jewish Antiquities”, Book XVIII, chapter 5, paragraph 118)</span> <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">note 1</a></sup>.</p>
-      <p>In the event of unrest caused by John's supporters, Herod had to answer to the roman authorities, who could dismiss him:</p>
-      <p>he gives <span style="color: #e6a64d;">“the order to arrest John”</span> <span style="color: #999;">(Mark chapter 6, verse 17)</span>.</p>
-    </article></section>
     <figure>
-    <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-280.webp 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-380.webp 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-480.webp 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-640.webp 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-840.webp 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1280.webp 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1600.webp 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the central panel, “Arrest of John the Baptist by order of Herod Antipas”, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the central panel, “Arrest of John the Baptist by order of Herod Antipas”, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-280.jpg 280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-380.jpg 380w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-480.jpg 480w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-640.jpg 640w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-840.jpg 840w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1280.jpg 1280w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1600.jpg 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1920.jpg 1920w"></picture><figcaption>detail of the central panel, “Arrest of John the Baptist by order of Herod Antipas”</figcaption>
-  </figure>
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-280.webp 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-380.webp 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-480.webp 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-640.webp 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-840.webp 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1280.webp 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1600.webp 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/bapt%C3%A8me-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the inner left panel, “John the Baptist baptizing Jesus on the banks of the Jordan River”, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the inner left panel, “John the Baptist baptizing Jesus on the banks of the Jordan River”, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-280.jpg 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-380.jpg 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-480.jpg 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-640.jpg 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-840.jpg 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1280.jpg 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1600.jpg 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1920.jpg 1920w"></picture><figcaption>detail of the inner left panel, “John the Baptist baptizing Jesus on the banks of the Jordan River”</figcaption>
+    </figure>
+
+    <article><section>
+      <p>On the other bank, <span style="color: #e6a64d;">John the Baptist</span> presents Jesus with the words <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="en">This is the lamb of god<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce&nbsp;agnus&nbsp;dei</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span> to his first two disciples <a href="https://en.wikipedia.org/wiki/Andrew_the_Apostle" title="https://en.wikipedia.org/wiki/Andrew_the_Apostle" id="andre" class="yellow">Andrew</a> and <a href="https://en.wikipedia.org/wiki/John_the_Apostle" title="https://en.wikipedia.org/wiki/John_the_Apostle" id="jean-l-apotre" class="yellow">John the Apostle</a>; they join him.</p>
+      </article></section>
+    </article></section>
+
+    <article><section>
+      <h6 class="yellow">Scene of the arrest of John in the distance of the central panel</h6>
+      <section><article>
+        <p>From that point on, his story is tragic:</p>
+        <p>the tetrarch of Galilee and Perea, <a href="https://en.wikipedia.org/wiki/Herod_Antipas" title="https://en.wikipedia.org/wiki/Herod_Antipas" id="herode-antipas" class="yellow">Herod Antipas</a> married «<a href="https://en.wikipedia.org/wiki/Herod_II" title="https://en.wikipedia.org/wiki/Herod_II" id="herode-boethos" class="yellow">his brother Philip's wife</a> (<a href="https://en.wikipedia.org/wiki/Herodias" title="https://en.wikipedia.org/wiki/Herodias" id="herodiade">Herodias</a>)» <span style="color: #999;">(Mark chapter 6, verse 17)</span>;</p>
+        <p>As the jewish faith regards any marriage with his brother's wife as <span style="color: #e6a64d;">«defiling»</span> and <span style="color: #e6a64d;">forbids</span> it <span style="color: #999;">(Leviticus chapter 18 verse 16; chapter 20 verse 21)</span>, John publicly condemns it.</p>
+        <p><span style="color: #e6a64d;">Herod feared</span> that this would provoke «<span style="color: #e6a64d;">a revolt</span>, the crowd seeming ready to follow all the advice of this man.</p>
+        <p>He therefore prefers to take him before any trouble occurs because of him, rather than to have to repent later if a movement takes place» <span style="color: #999;">(“Jewish Antiquities”, Book XVIII, chapter 5, paragraph 118)</span> <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">note 1</a></sup>.</p>
+        <p>In the event of unrest caused by John's supporters, Herod had to answer to the roman authorities, who could dismiss him:</p>
+        <p>he gives <span style="color: #e6a64d;">“the order to arrest John”</span> <span style="color: #999;">(Mark chapter 6, verse 17)</span>.</p>
+      </article></section>
+      <figure>
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-280.webp 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-380.webp 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-480.webp 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-640.webp 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-840.webp 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1280.webp 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1600.webp 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the central panel, “Arrest of John the Baptist by order of Herod Antipas”, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the central panel, “Arrest of John the Baptist by order of Herod Antipas”, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-280.jpg 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-380.jpg 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-480.jpg 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-640.jpg 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-840.jpg 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1280.jpg 1280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1600.jpg 1600w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1920.jpg 1920w"></picture><figcaption>detail of the central panel, “Arrest of John the Baptist by order of Herod Antipas”</figcaption>
+    </figure>
     <section><article>
       <p>On the central panel above the white lamb, <span style="color: #e6a64d;">John was forcibly taken</span> to the prison on the left side of the current city of <a href="https://en.wikipedia.org/wiki/Machaerus" title="https://en.wikipedia.org/wiki/Machaerus" id="macheronte" class="yellow"><ruby style="color:#e6a64d;" lang="en">Machaerus<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">μάχαιρα</rt><rp>)</rp></ruby></a>, whose ethymology in ancient greek means «sword» and which is located in present-day Jordan.</p>
     </article></section>
@@ -1516,7 +1516,7 @@
     <h6 class="yellow">Overview of the left inner shutter</h6>
 
     <section><article>
-      <p>The action continues on the left inner panel.</p>
+      <p>The action continues on the left inner shutter.</p>
     </article></section>
 
     <figure>
@@ -1574,21 +1574,21 @@
   </article></section>
 
   <section><article>
-    <p>Herod looks as if he liked his dance and, <span style="color: #e6a64d;">to avoid responsibility for John's death, says</span>:</p>
+    <p>Herod looks as if he liked his dance and, <span style="color: #e6a64d;">to avoid responsibility for John's death, says</span>: <span style="color: #999;">(Mark, chapter 6, verses 21 to 22)</span></p>
     <blockquote>
-      p>«"<span style="color: #e6a64d;">Ask me what you want</span>, and I'll give it to you, even if it's half my kingdom" <span style="color: #999;">(Mark, chapter 6, verses 21 to 22)</span>.</p>
+      «"<span style="color: #e6a64d;">Ask me what you want</span>, and I'll give it to you, even if it's half my kingdom".
     </blockquote>
     <p>Salome goes out «to tell her mother:</p>
     <blockquote>
-      <p><span style="color: #e6a64d;">"What am I going to ask for?"</span>»</p>
+      <span style="color: #e6a64d;">"What am I going to ask for?"</span>»
     </blockquote>
-    <p>Herodias replied:
+    <p>Herodias replied:</p>
     <blockquote>
-      <p>«<span style="color: #e6a64d;">"The head of John, the one who baptises"</span>.</p>
+      «<span style="color: #e6a64d;">"The head of John, the one who baptises"</span>.
     </blockquote>
     <p>Immediately the girl» hastened <q>to return to the king, and</q> made him this incredible request:</p>
     <blockquote>
-      <p><span style="color: #e6a64d;">"I want you to give me immediately on a plate the head of John the Baptist"</span>.</p>
+      <span style="color: #e6a64d;">"I want you to give me immediately on a plate the head of John the Baptist"</span>.
     </blockquote>
     <p><span style="color: #999;">(Mark, chapter 6, verses 24 to 29)</span></p>
     <p>Thus, Herod may appear to put John to death against his will.</p>
@@ -1672,7 +1672,7 @@
     </figure>
 
     <article><section>
-      <p>To the left of the executioner depicted from behind are the two disciples <a href="https://en.wikipedia.org/wiki/Andrew_the_Apostle" title="https://en.wikipedia.org/wiki/Andrew_the_Apostle" id="andre-2" class="yellow">Andre</a> and <a href="https://en.wikipedia.org/wiki/John_the_Apostle" title="https://en.wikipedia.org/wiki/John_the_Apostle" id="jean-l-apotre-2" class="yello">John the apostle</a>.</p>
+      <p>To the left of the executioner depicted from behind are the two disciples <a href="https://en.wikipedia.org/wiki/Andrew_the_Apostle" title="https://en.wikipedia.org/wiki/Andrew_the_Apostle" id="andre-2" class="yellow">Andre</a> and <a href="https://en.wikipedia.org/wiki/John_the_Apostle" title="https://en.wikipedia.org/wiki/John_the_Apostle" id="jean-l-apotre-2" class="yello">John the Apostle</a>.</p>
     </article></section>
   </article></section>
 
@@ -1869,7 +1869,7 @@
           <p>He is quite an extraordinary character: he is a disciple of Jesus among others with whom every reader can identify, he is loved by Jesus himself and therefore finds himself closer to him than anyone else.</p>
           <p>He does not hesitate, just after the previous excerpt, to give his opinion <span style="color: #999;">(John chapter 21 verse 25)</span>:</p>
           <blockquote>
-            <p>«There are many other things that Jesus did; and if we had to write each of them, <span style="color: #e6a64d;"><span style="text-decoration: underline;">I</span> think</span> the whole world would not be enough to hold the books we would write».</p>
+            «There are many other things that Jesus did; and if we had to write each of them, <span style="color: #e6a64d;"><span style="text-decoration: underline;">I</span> think</span> the whole world would not be enough to hold the books we would write».
           </blockquote>
          </li>
           <li>
@@ -1880,7 +1880,7 @@
             </blockquote>
             <p>Jesus answered him:</p>
             <blockquote>
-              <p>“If I want him to stay until I come, what do you care?”</p>
+              “If I want him to stay until I come, what do you care?”
             </blockquote>
           </blockquote>
        </li>
@@ -1888,13 +1888,13 @@
           <p>It is also he who <q>lay on the womb of Jesus</q>, he asks him who will betray him <span style="color: #999;">(John chapter 13 verses 23 to 26)</span>.</p>
        </li>
         <li>
-          <p>At the crucifixion, Jesus entrusted his own mother to him, saying:</p>
+          <p>At the crucifixion, Jesus entrusted his own mother to him, saying <span style="color: #999;">(John chapter 19 verses 26 to 27)</span>:</p>
           <blockquote>
-            <p><q>Woman, behold your son</q>,</p>
+            “Woman, behold your son”,
           </blockquote>
           <p>then to him:</p>
           <blockquote>
-            <p><q>Behold your mother</q> <span style="color: #999;">(John chapter 19 verses 26 to 27)</span>.</p>
+            “Behold your mother”.
          </li>
           <li>
             <p>When Mary Magdalene discovered the empty tomb, she ran to tell the «beloved disciple» and Peter; he was the first to reach the tomb <span style="color: #999;">(John chapter 20 verses 2 to 8)</span>.</p>
@@ -1911,9 +1911,9 @@
       <section><article>
         <ul>
           <li>
-            <p><a href="https://en.wikipedia.org/wiki/John_of_Patmos" title="https://en.wikipedia.org/wiki/John_of_Patmos" id="jean-de-patmos-3" class="yellow">John of Patmos</a> appears at the beginning of the text of Apocalypse which presents him as:</p>
+            <p><a href="https://en.wikipedia.org/wiki/John_of_Patmos" title="https://en.wikipedia.org/wiki/John_of_Patmos" id="jean-de-patmos-3" class="yellow">John of Patmos</a> appears at the beginning of the text of Apocalypse which presents him as <span style="color: #999;">(<cite>Apocalypse</cite> chapter 1 verses 1 to 9):</p>
             <blockquote>
-              <p> a <span style="color: #e6a64d;">«servant» to whom god made known</span> <span style="color: #999;">(…)</span> <span style="color: #e6a64d;">«by sending his angel»</span> <span style="color: #999;">(…)</span> «what must soon happen» <span style="color: #999;">(…)</span> «to the seven churches in Asia Minor» <span style="color: #999;">(Apocalypse chapter 1 verses 1 to 9)</span>.</p>
+              a <span style="color: #e6a64d;">«servant» to whom god made known</span> <span style="color: #999;">(…)</span> <span style="color: #e6a64d;">«by sending his angel»</span> <span style="color: #999;">(…)</span> «what must soon happen» <span style="color: #999;">(…)</span> «to the seven churches in Asia Minor»</span>.
           </li>
         </ul>
       </article></section>
@@ -2062,10 +2062,10 @@
             <p>Each of the four living creatures had <span style="color: #e6a64d;">six wings</span> and was studded with eyes all the way round as well as inside;
             and day and night they never stopped singing:</p>
             <blockquote>
-              <p><q>Holy, Holy, Holy is the lord god, the almighty; who was, and is and is to come.</q></p>
+              “Holy, Holy, Holy is the lord god, the almighty; who was, and is and is to come”.
             </blockquote>
-         </li>
-          <li><span style="color: #999;">(…)</span></p></li>
+          </li>
+          <li><span style="color: #999;">(…)</span></li>
           <li>chapter 5</li>
           <li value="01">I saw that in the right hand of the one sitting on the throne there was a <span style="color: #e6a64d;">scroll</span> that was written on back and front and was sealed with <span style="color: #e6a64d;">seven seals</span>.</li>
           <li><span style="color: #999;">(…)</span></li>
@@ -2085,7 +2085,7 @@
     <div class="footnotes">
       <ol>
         <li id="fn:1">
-          <p>the quotation that follows is past; for information, I transpose it here to present.</p>
+          <p>the quotation that follows is past; for information, e transpose it here to present.</p>
        </li>
       </ol>
     </div>
@@ -2097,7 +2097,7 @@
     <div class="footnotes">
       <ol start="2">
         <li id="fn:2">
-          <p>the extracts of the text of the Apocalypse that refer to the right panel can be found <a href="#apocalypse" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse">here</a></p>
+          <p>the extracts of the text of <cite>The Apocalypse</cite> that refer to the right panel can be found <a href="#apocalypse" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse">here</a></p>
        </li>
       </ol>
     </div>
@@ -2109,8 +2109,17 @@
     <div class="footnotes">
       <ol start="3">
         <li id="fn:3">
-          <p>The text of Apocalypse is addressed to the "seven churches that are in Asia Minor" ("Ephesus, Smyrna, Pergamos, Thyatira, Sardis, Philadelphia and Laodicea", Apocalypse chapter 1 verse 4) in the symbolic language of the Jewish scriptures.</p>
-          <p>It exhorts them to a transcendent reality that will enable them to overcome not only persecutions, whether Roman or Jewish, but also their own inadequacies <span style="color: #999;">(Apocalypse chapter 2 verse 3)</span> through new hope in Christ at the end of time.</p>
+          <p>The text of <cite>The Apocalypse</cite> is addressed to the "seven churches that are in Asia Minor" according to <cite>The Apocalypse</cite> chapter 1 verse 4:</p>
+          <ol>
+            <li>"Ephesus,</li>
+            <li>Smyrna,</li>
+            <li>Pergamos,</li>
+            <li>Thyatira,</li>
+            <li>Sardis,</li>
+            <li>Philadelphia</li>
+            <li>and Laodicea".</li>
+          </ol>
+          <p>In the symbolic language of the Jewish scriptures, it exhorts them to a transcendent reality that will enable them to overcome not only persecutions, whether Roman or Jewish, but also their own inadequacies, as <cite>The Apocalypse</cite> chapter 2 verse 3 shows, through new hope in Christ at the end of time.</p>
        </li>
       </ol>
     </div>
@@ -2139,7 +2148,7 @@
             <li value="01">
               <p>Then I saw: when the Lamb opened one of the seven seals, I heard one of the four living ones say with a voice of thunder:</p>
               <blockquote>
-                <p><q>Come!</q></p>
+                “Come!”
               </blockquote>
            </li>
             <li value="02">Immediately I saw a <span style="color: #e6a64d;">white horse</span> appear, and its rider was holding a <span style="color: #e6a64d;">bow</span>; he was given a victor's <span style="color: #e6a64d;">crown</span> and he went away, to go from victory to victory.</li>
@@ -2176,7 +2185,7 @@
         <ol class="doc">
           <li value="03"><p>When he broke the second seal, I heard the second living creature shout</p>
             <blockquote>
-              <p>“Come!”</p>
+              “Come!”
             </blockquote>
          </li>
           <li value="04">And out came another <span style="color: #e6a64d;">horse</span>, <span style="color: #e6a64d;">bright red</span>, and its rider was given this duty: to take away peace from the earth and set people killing each other. He was given a huge <span style="color: #e6a64d;">sword</span>.</li>
@@ -2213,14 +2222,14 @@
           <li value="05">
             <p>When he broke the third seal, I heard the third living creature shout</p>
             <blockquote>
-              <p>“Come!”</p>
+              “Come!”
             </blockquote>
           <p>Immediately I saw a <span style="color: #e6a64d;">black horse</span> appear, and its rider was holding a <span style="color: #e6a64d;">pair of scales</span>;</p>
          </li>
           <li value="06">
           <p>and I seemed to hear a voice shout from among the four living creatures and say:</p>
             <blockquote>
-              <p>“A day's wages for a quart of corn, and a day's wages for three quarts of barley, but do not tamper with the oil or the wine.”</p>
+              “A day's wages for a quart of corn, and a day's wages for three quarts of barley, but do not tamper with the oil or the wine.”
             </blockquote>
          </li>
         </ol>
@@ -2255,7 +2264,7 @@
           <li value="07">
           <p>When he broke the fourth seal, I heard the voice of the fourth living creature shout:</p>
           <blockquote>
-            <p>“Come!”</p>
+            “Come!”
           </blockquote>
          </li>
           <li value="08">Immediately I saw another <span style="color: #e6a64d;">horse</span> appear, <span style="color: #e6a64d;">deathly pale</span>, and its rider was called <span style="color: #e6a64d;">death</span>, and <span style="color: #e6a64d;">Hades</span> followed at its heels.</li>
@@ -2294,12 +2303,12 @@
           <li value="15"><span style="color: #e6a64d;">Then all the kings of the earth, the governors and the commanders, the rich people and the men of influence, the whole population, slaves and citizens, hid in caverns and among the rocks of the mountains.</span>.</li>
           <li value="16"><p>They said to the mountains and the rocks:</p>
           <blockquote>
-            <p>“Fall on us and hide us away from the one who sits on the throne and from the retribution of the Lamb.”</p>
+            <p>“Fall on us and hide us away from the one who sits on the throne and from the retribution of the Lamb.</p>
           </blockquote>
          </li>
           <li value="17">
           <blockquote>
-            <p>For the great day of his retribution has come, and who can face it?'</p>
+            For the great day of his retribution has come, and who can face it?”
           </blockquote>
          </li>
         </ol>
@@ -2332,7 +2341,7 @@
 
   <article>
   <section><article>
-    <h5 class="yellow">the angels of the seventh seal - <cite>Revelation</cite>, chapter 8 verses 1 to 2</h5>
+    <h5 class="yellow">the angels of the seventh seal - <cite>Apocalypse</cite>, chapter 8 verses 1 to 2</h5>
 
     <section><article>
       <ol class="doc">
@@ -2476,7 +2485,7 @@
       <ol class="doc">
         <li value="13"><p>In my vision, I heard <span style="color: #e6a64d;">an eagle</span>, calling aloud as it flew high overhead:</p>
         <blockquote>
-          <p><q style="quotes: '«' '»';">Disaster, disaster, disaster, on all the people on earth at the sound of the other three trumpets which the three angels have yet to blow!'.</q></p>
+          “Disaster, disaster, disaster, on all the people on earth at the sound of the other three trumpets which the three angels have yet to blow!”.
         </blockquote>
        </li>
       </ol>
@@ -2586,7 +2595,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the angel coming down from heaven”<br>«Then I saw another powerful angel coming down from heaven, wrapped in cloud, with a rainbow over his head; his face was like the sun, and his legs were pillars of fire» (Apocalypse 10.1-2)</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the angel coming down from heaven”<br>«Then I saw another powerful angel coming down from heaven, wrapped in cloud, with a rainbow over his head; his face was like the sun, and his legs were pillars of fire», <cite>Apocalypse</cite>, chapter 10 verses 1 to 3</figcaption>
       </figure>
     </article></section>
 
@@ -2596,13 +2605,14 @@
       <section><article>
         <ol class="doc">
           <li value="04"><p>and when the seven thunderclaps had sounded, I was preparing to write, when I heard a voice from heaven say to me:</p>
-          <blockquote>
-            <p>“Keep the words of the seven thunderclaps secret and do not write them down.”</p>
-          </blockquote></li>
+            <blockquote>
+              “Keep the words of the seven thunderclaps secret and do not write them down.”
+            </blockquote>
+          </li>
           <li value="05">Then the angel that I had seen, standing on the sea and the land, raised his right hand to heaven,</li>
           <li value="06"><p>and swore by him who lives for ever and ever, and made heaven and all that it contains, and earth and all it contains, and the sea and all it contains:</p>
           <blockquote>
-            <p>“The time of waiting is over”</p>
+            “The time of waiting is over”
           </blockquote>
          </li>
         </ol>
@@ -3177,7 +3187,7 @@
   <blockquote>
     <span style="color: #df8f20;">— «What do these images of human beings mean?»</span>
   </blockquote>
-  <p>Her parents answered her:  </p>
+  <p>Her parents answered her:</p>
   <blockquote>
     <span style="color: #b3884d;">— «Shut down; they are not human beings, but gods, and they want to be adored.»</span>
   </blockquote>
@@ -3328,9 +3338,9 @@
   </blockquote>
   <p>She replied:</p>
   <blockquote>
-    <span style="color: #df8f20;">— I want to offer myself in sacrifice to my God Jesus Christ, who has done heaven and earth and all that is contained therein.</span></p>
+    <p><span style="color: #df8f20;">— I want to offer myself in sacrifice to my God Jesus Christ, who has done heaven and earth and all that is contained therein.</span></p>
     <p><span style="color: #df8f20;">As for the demons you love, the prophet said:</span></p>
-    <p><span style="color: #df8f20;">They have a mouth but do not speak; they have eyes but do not see; those who pay tribute to them will look like them.</span>
+    <p><span style="color: #df8f20;">They have a mouth but do not speak; they have eyes but do not see; those who pay tribute to them will look like them.</span></p>
   </blockquote>
   <p>The proconsul, furious, ordered to strip her and beat her indiscriminately with beef nerve.</p>
   <p>And when all her body was in blood, he ordered to bring her back to prison until she had decided what torment he would inflict on her.</p>
@@ -3532,7 +3542,7 @@
   and thus was <span style="color: #994c3d;">St. John</span> brought again from his exile with great honour into Ephesus;
   and all the people of Ephesus came against him singing and saying:</p>
   <blockquote>
-    <span style="color: #165493;">— «Blessed be he that cometh in the name of our Lord!» </span>
+    <span style="color: #165493;">— «Blessed be he that cometh in the name of our Lord!»</span>
   </blockquote>
   <p>In that way he raised a woman which was named Drusiana, which had much loved <span style="color: #994c3d;">St. John</span> and well kept his commandments.</p>
   <p>And her friends brought her tofore <span style="color: #994c3d;">St. John</span> all weeping and saving to him:</p>
@@ -3542,7 +3552,7 @@
   </blockquote>
   <p><span style="color: #994c3d;">St. John</span> had great pity on her that was dead, and of the people that wept for her, and commanded that they should set down the bier, and unbind and take away the clothes from her. And when they had so done he said, hearing all, with a loud voice,</p>
   <blockquote>
-    <p><span style="color: #df8f20;">— «Drusiana, my Lord God Jesus Christ ariseth thee;　</span></p>
+    <p><span style="color: #df8f20;">— «Drusiana, my Lord God Jesus Christ ariseth thee;</span></p>
     <p><span style="color: #df8f20;">Drusiana arise, and go into thy house, and make ready for me some refection.»</span></p>
   </blockquote>
   <p>Anon she arose and went in to her house for to do the commandment of <span style="color: #994c3d;">St. John</span>, and the people made three hours long a great noise and cry, saying there is but one God, and that is he whom <span style="color: #994c3d;">St. John</span> preacheth.</p>
@@ -3729,7 +3739,7 @@
             <li value="17">
               Jesus said to him:
               <blockquote>
-                <p>“Why do you ask me about what is good? There is one alone who is good. But if you wish to enter into life, keep the commandments.”</p>
+                “Why do you ask me about what is good? There is one alone who is good. But if you wish to enter into life, keep the commandments.”
               </blockquote>
             </li>
             <li value="18">
