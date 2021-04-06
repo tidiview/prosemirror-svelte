@@ -4327,54 +4327,77 @@
           <li value="16">The twenty-four elders, enthroned in the presence of God, prostrated themselves and touched the ground with their foreheads worshipping God</li>
           <li value="17">with these words,
             <blockquote>
-              “We give thanks to you, Almighty Lord God, He who is, He who was, for assuming your great power and beginning your reign.”
+              “We give thanks to you, Almighty Lord God, He who is, He who was, for assuming your great power and beginning your reign.
             </blockquote>
           </li>
-          <li value="18">Les nations s’étaient mises en colère ; alors, ta colère est venue et le temps du jugement pour les morts, le temps de récompenser tes serviteurs, les prophètes et les saints, ceux qui craignent ton nom, les petits et les grands, le temps de détruire ceux qui détruisent la terre. »</li>
-          <li value="19">Le sanctuaire de Dieu, qui est dans le ciel, s’ouvrit, et l’arche de son Alliance apparut dans le Sanctuaire ; et il y eut des éclairs, des fracas, des coups de tonnerre, un tremblement de terre et une forte grêle.</li>
+          <li value="18">
+            <blockquote>
+              The nations were in uproar and now the time has come for your retribution, and for the dead to be judged, and for your servants the prophets, for the saints and for those who fear your name, small and great alike, to be rewarded. The time has come to destroy those who are destroying the earth.”
+            </blockquote>
+          </li>
+          <li value="19">Then the sanctuary of God in heaven opened, and the ark of the covenant could be seen inside it. Then came flashes of lightning, peals of thunder and an earthquake and violent hail.</li>
         </ol>
       </article></section>
       <hr>
       <section><article>
         <ol class="doc">
-          <li>chapître 12</li>
-          <li value="01">Un grand signe apparut dans le ciel: <span style="color: #e6a64d;">une femme</span>, ayant le soleil pour manteau, la lune sous les pieds, et sur la tête une couronne de douze étoiles.</li>
-          <li value="02">Elle est enceinte, elle crie, dans les douleurs et la torture d’un enfantement.</li>
-          <li value="03">Un autre signe apparut dans le ciel: <span style="color: #e6a64d;">un grand dragon</span>, rouge feu, avec sept têtes et dix cornes, et, sur chacune des sept têtes, un diadème.</li>
-          <li value="04">Sa queue, entraînant le tiers des étoiles du ciel, les précipita sur la terre. Le dragon vint se poster devant la femme qui allait enfanter, afin de dévorer l’enfant dès sa naissance.</li>
+          <li>chapter 12</li>
+          <li value="01">Now a great sign appeared in heaven: a <span style="color: #e6a64d;">woman</span>, robed with the sun, standing on the moon, and on her head a crown of twelve stars.</li>
+          <li value="02">She was pregnant, and in labour, crying aloud in the pangs of childbirth.</li>
+          <li value="03">Then a second sign appeared in the sky: there was a <span style="color: #e6a64d;">huge red dragon</span> with seven heads and ten horns, and each of the seven heads crowned with a coronet.</li>
+          <li value="04">Its tail swept a third of the stars from the sky and hurled them to the ground, and the dragon stopped in front of the woman as she was at the point of giving birth, so that it could eat the child as soon as it was born.</li>
         </ol>
       </article></section>
       <hr>
       <section><article>
         <ol class="doc">
-          <li value="05">Or, elle mit au monde un fils, un enfant mâle, celui qui sera le berger de toutes les nations, les conduisant avec un sceptre de fer. L’enfant fut enlevé jusqu’auprès de dieu et de son trône,</li>
-          <li value="06">et la femme s’enfuit au désert, où dieu lui a préparé une place, pour qu’elle y soit nourrie pendant mille deux cent soixante jours.</li>
-          <li value="07">Il y eut alors un combat dans le ciel: Michel, avec ses anges, dut combattre le dragon.
-          Le dragon, lui aussi, combattait avec ses anges,</li>
-          <li value="08">mais il ne fut pas le plus fort; pour eux désormais, nulle place dans le ciel.</li>
-          <li value="09">Oui, il fut rejeté, le grand dragon, le serpent des origines, celui qu’on nomme diable et Satan, le séducteur du monde entier.
-          Il fut jeté sur la terre, et ses anges furent jetés avec lui.</li>
+          <li value="05">The woman was delivered of a boy, the son who was to rule all the nations with an iron sceptre, and the child was taken straight up to God and to his throne,</li>
+          <li value="06">while the woman escaped into the desert, where God had prepared a place for her to be looked after for twelve hundred and sixty days.</li>
+          <li value="07">And now war broke out in heaven, when Michael with his angels attacked the dragon.
+          The dragon fought back with his angels,</li>
+          <li value="08">but they were defeated and driven out of heaven.</li>
+          <li value="09">The great dragon, the primeval serpent, known as the devil or Satan, who had led all the world astray, was hurled down to the earth and his angels were hurled down with him.</li>
         </ol>
       </article></section>
       <hr>
       <section><article>
         <ol class="doc">
-          <li value="10">Alors j’entendis dans le ciel une voix forte, qui proclamait: «Maintenant voici le salut, la puissance et le règne de notre dieu, voici le pouvoir de son christ!</li>
-          <li>Car il est rejeté, l’accusateur de nos frères, lui qui les accusait, jour et nuit, devant notre dieu.</li>
-          <li value="11">Eux-mêmes l’ont vaincu par le sang de l’agneau, par la parole dont ils furent les témoins; détachés de leur propre vie, ils sont allés jusqu’à mourir.</li>
-          <li value="12">Cieux, soyez donc dans la joie, et vous qui avez aux cieux votre demeure!</li>
-          <li>Malheur à la terre et à la mer: le diable est descendu vers vous, plein d’une grande fureur; il sait qu’il lui reste peu de temps.»</li>
-          <li value="13">Et quand le <span style="color: #e6a64d;">dragon</span> vit qu’il était jeté sur la terre, il se mit à poursuivre la <span style="color: #e6a64d;">femme</span> qui avait mis au monde l’enfant mâle.</li>
-          <li value="14">Alors furent données à la femme les <span style="color: #e6a64d;">deux ailes du grand aigle</span> pour qu’elle s’envole au désert, à la place où elle doit être nourrie pour un temps, deux temps et la moitié d’un temps, loin de la présence du Serpent.</li>
+          <li value="10">Then I heard a voice shout from heaven,
+            <blockquote>
+              “Salvation and power and empire for ever have been won by our God, and all authority for his Christ,
+            </blockquote>
+          </li>
+          <li>
+            <blockquote>
+              now that the accuser, who accused our brothers day and night before our God, has been brought down.
+            </blockquote>
+          </li>
+          <li value="11">
+            <blockquote>
+              They have triumphed over him by the blood of the Lamb and by the word to which they bore witness, because even in the face of death they did not cling to life.
+            </blockquote>
+          </li>
+          <li value="12">
+            <blockquote>
+              So let the heavens rejoice and all who live there; but for you, earth and sea, disaster is coming
+            </blockquote>
+          </li>
+          <li>
+            <blockquote>
+              -- because the devil has gone down to you in a rage, knowing that he has little time left.”
+            </blockquote>
+          </li>
+          <li value="13">As soon as the <span style="color: #e6a64d;">dragon</span> found himself hurled down to the earth, he sprang in pursuit of the <span style="color: #e6a64d;">woman</span>, the mother of the male child.</li>
+          <li value="14">but she was given a pair of the <span style="color: #e6a64d;">great eagle's wings</span> to fly away from the serpent into the desert, to the place where she was to be looked after for a time, two times and half a time.</li>
         </ol>
       </article></section>
       <hr>
       <section><article><p>out</p>
         <ol class="doc">
-          <li value="15">Puis, de sa gueule, le Serpent projeta derrière la Femme de l’eau comme un fleuve, pour qu’elle soit emportée par ce fleuve.</li>
-          <li value="16">Mais la terre vint au secours de la Femme: la terre ouvrit la bouche et engloutit le fleuve projeté par la gueule du Dragon.</li>
-          <li value="17">Alors le Dragon se mit en colère contre la Femme, il partit faire la guerre au reste de sa descendance, ceux qui observent les commandements de Dieu et gardent le témoignage de Jésus.</li>
-          <li value="18">Et il se posta sur le sable au bord de la mer.</li>
+          <li value="15">So the serpent vomited water from his mouth, like a river, after the woman, to sweep her away in the current,</li>
+          <li value="16">but the earth came to her rescue; it opened its mouth and swallowed the river spewed from the dragon's mouth.</li>
+          <li value="17">Then the dragon was enraged with the woman and went away to make war on the rest of her children, who obey God's commandments and have in themselves the witness of Jesus.</li>
+          <li value="18">And I took my stand on the seashore.</li>
         </ol>
       </article></section>
       <hr>
