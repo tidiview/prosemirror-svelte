@@ -32,11 +32,11 @@
   <section><article>
     <h2 class="yellow">a major work by Hans Memling</h2>
     <section><article>
-      <h3 class="yellow">the triptych of the St. John's Hospital in Bruges since the 15<sup>th</sup> century</h3>
+      <h3 class="yellow">the triptych of the Old St. John's Hospital in Bruges since the 15<sup>th</sup> century</h3>
       <section><article>
         <div class="notices yellow">
           <p>The triptych has been conceived and realised for the master altar of the new apse of the church of the Old St. John's Hospital of Bruges (in Flemish: Brugge) built in <time datetime="1473">1473</time>-<time datetime="1474">74</time>, where it still stands.</p>
-          <p>The frame bears the inscription « <ruby lang="la">WORK<rp>(</rp><rt lang="fr">OPVs</rt><rp>)</rp>&nbsp;<rp>(</rp><rt lang="fr"></rt><rp>)</rp>OF&nbsp;HANS<rp>(</rp><rt lang="fr">IOHANNIS</rt><rp>)</rp>&nbsp;<rp>(</rp><rt lang="fr"></rt><rp>)</rp>MEMLING<rp>(</rp><rt lang="fr">MEMLING</rt><rp>)</rp></ruby> », the first known signature of the flemish primitive painter of Bruges Hans MEMLING, and also the date: «1479».</p>
+          <p>The frame bears the inscription « <ruby lang="la">WORK<rp>(</rp><rt lang="fr">OPVs</rt><rp>)</rp>&nbsp;<rp>(</rp><rt lang="fr"></rt><rp>)</rp>OF&nbsp;HANS<rp>(</rp><rt lang="fr">IOHANNIS</rt><rp>)</rp>&nbsp;<rp>(</rp><rt lang="fr"></rt><rp>)</rp>MEMLING<rp>(</rp><rt lang="fr">MEMLING</rt><rp>)</rp></ruby> », the first known signature of the flemish primitive painter of Bruges Hans MEMLING, and also the date: «<time datetime="1479">1479</time>».</p>
           <p>It has a central panel, framed by two panels on the right and left fixed by hinges.</p>
           <p>The characters depicted are a little smaller than life size.</p>
           <p>these fews pages aim at presenting its different aspects to allow a deeper understanding:</p>
@@ -263,12 +263,12 @@
                 </tr>
                 <tr>
                 <td>Hans Memling : l'œuvre complète</td>
-                <td>1994</td>
+                <td><time datetime="1994">1994</time></td>
                 <td>2-226-06992-5</td>
                 </tr>
                 <tr>
                 <td>Hans Memling : catalogue</td>
-                <td>1994</td>
+                <td><time datetime="1994">1994</time></td>
                 <td>90-5544-028-0</td>
                 </tr>
                 </tbody>
@@ -292,12 +292,12 @@
                 </tr>
                 <tr>
                 <td>Hans Memling: The Complete Works</td>
-                <td>1994</td>
+                <td><time datetime="1994">1994</time></td>
                 <td>0810936496</td>
                 </tr>
                 <tr>
                 <td>Hans Memling: Catalogue</td>
-                <td>1994</td>
+                <td><time datetime="1994">1994</time></td>
                 <td>9055440299</td>
                 </tr>
                 </tbody>
@@ -332,7 +332,7 @@
                   <td>ISBN-10</td>
                   </tr>
                   <tr>
-                  <td>Hans Memling au Louvre (exposition, Musée du Louvre, Salle de la Chapelle, aile Sully, 18 Mai-14 Août 1995)</td>
+                  <td>Hans Memling au Louvre (exposition, Musée du Louvre, Salle de la Chapelle, aile Sully, <time datetime="1995-05-18">18 Mai</time>-<time datetime="1995-08-14">14 Août 1995</time>)</td>
                   <td>1995</td>
                   <td>2-7118-3275-9</td>
                   </tr>
@@ -354,7 +354,7 @@
       <header>
         <p><a href="#renvoi-note-1" title="renvoi note-1" id="note-1">note:</a></p>
       </header>
-      <p>the reproductions of the work that we make available to the public are, to our knowledge, the best that currently available exist outside of professional works: they required a great deal of efforts from us due to the low intensity and yellow of the lighting in the exhibition space of the Memling Museum in Bruges at the time this article was written (<time datetime="2018">2018</time>).</p>
+      <p>the reproductions of the work that we make available to the public are, to our knowledge, the best that currently available exist outside of professional works: they required a great deal of efforts from us due to the low intensity and yellow of the lighting in the exhibition space of the Memling Museum in Bruges at the time this article was first written (<time datetime="2018">2018</time>).</p>
       <footer>
         <p><a href="#renvoi-note-1" title="renvoi note-1">↑ retour au texte</a></p>
       </footer>
