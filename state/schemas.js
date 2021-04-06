@@ -853,6 +853,14 @@ export const ExtendedThreerichTextSchema = new Schema({
       parseDOM: [{tag: "dfn"}],
       toDOM() { return ["dfn", 0] },
     },
+    time: {
+      inline: true,
+      group: "inline",
+      content: "inline*",
+      attrs: {datetime: {default: null}},
+      parseDOM: [{tag: "time", getAttrs(dom) { return {datetime: dom.getAttribute("datetime")}} }],
+      toDOM(node) { let {datetime} = node.attrs ; return ["time", {datetime}, 0] },
+    },
   },
   marks: {
     rt: {
@@ -912,11 +920,6 @@ export const ExtendedThreerichTextSchema = new Schema({
         return {color: dom.style["color"], title: dom.title}
       }}],
       toDOM(node) { let {color, title} = node.attrs ; return color == "" ? title == "" ? ["span", 0] : ["span", {"title": title}, 0] : title == "" ? ["span", {"style": "color:" + color}, 0] : ["span", {"style": "color:" + color,"title": title}, 0]  },
-    },
-    time: {
-      attrs: {datetime: {default: null}},
-      parseDOM: [{tag: "time", getAttrs(dom) { return {datetime: dom.getAttribute("datetime")}} }],
-      toDOM(node) { let {datetime} = node.attrs ; return ["time", {datetime}, 0] },
     },
   },
 });
