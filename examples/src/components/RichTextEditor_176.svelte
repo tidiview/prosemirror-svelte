@@ -4015,6 +4015,8 @@
   </article></section>
 </article>
 
+<hr>
+
 <aside>
   <article>
   <h2 id="notes" class="yellow">notes</h2>
