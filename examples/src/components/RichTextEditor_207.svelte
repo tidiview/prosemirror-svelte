@@ -32,10 +32,10 @@
   <section><article>
     <h2 class="yellow">a major work by Hans Memling</h2>
     <section><article>
-      <h3 class="yellow">the triptych of the Saint John's Hospital in Bruges since the 15<sup>th</sup> century</h3>
+      <h3 class="yellow">the triptych of the St. John's Hospital in Bruges since the 15<sup>th</sup> century</h3>
       <section><article>
         <div class="notices yellow">
-          <p>The triptych has been conceived and realised for the master altar of the new apse of the church of the Old St. John Hospital of Bruges (in Flemish: Brugge) built in <time datetime="1473">1473</time>-<time datetime="1474">74</time>, where it still stands.</p>
+          <p>The triptych has been conceived and realised for the master altar of the new apse of the church of the Old St. John's Hospital of Bruges (in Flemish: Brugge) built in <time datetime="1473">1473</time>-<time datetime="1474">74</time>, where it still stands.</p>
           <p>The frame bears the inscription « <ruby lang="la">WORK<rp>(</rp><rt lang="fr">OPVs</rt><rp>)</rp>&nbsp;<rp>(</rp><rt lang="fr"></rt><rp>)</rp>OF&nbsp;HANS<rp>(</rp><rt lang="fr">IOHANNIS</rt><rp>)</rp>&nbsp;<rp>(</rp><rt lang="fr"></rt><rp>)</rp>MEMLING<rp>(</rp><rt lang="fr">MEMLING</rt><rp>)</rp></ruby> », the first known signature of the flemish primitive painter of Bruges Hans MEMLING, and also the date: «1479».</p>
           <p>It has a central panel, framed by two panels on the right and left fixed by hinges.</p>
           <p>The characters depicted are a little smaller than life size.</p>
@@ -94,7 +94,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-840.webp 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-1280.webp 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-1600.webp 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-640.jpg" title="Hans Memling, “Triptych of John the Baptist and John the Evangelist”, view of the exhibition space from the entrance of the church of the Old St. John Hospital, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans Memling, “Triptych of John the Baptist and John the Evangelist”, view of the exhibition space from the entrance of the church of the Old St. John Hospital, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-640.jpg" title="Hans Memling, “Triptych of John the Baptist and John the Evangelist”, view of the exhibition space from the entrance of the church of the Old St. John's Hospital, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans Memling, “Triptych of John the Baptist and John the Evangelist”, view of the exhibition space from the entrance of the church of the Old St. John's Hospital, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-280.jpg 280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-380.jpg 380w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-480.jpg 480w,
@@ -102,7 +102,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-1920.jpg 1920w"></picture><figcaption>View of the exhibition space from the entrance of the church of the Old St. John Hospital</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-1920.jpg 1920w"></picture><figcaption>View of the exhibition space from the entrance of the church of the Old St. John's Hospital</figcaption>
     </figure>
 
     <figure>
@@ -114,7 +114,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-840.webp 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-1280.webp 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-1600.webp 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, view of the exhibition space from the entrance of the church of the Old St. John Hospital, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, view of the exhibition space from the entrance of the church of the Old St. John Hospital, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, view of the exhibition space from inside the church of Saint John's Hospital, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, view of the exhibition space from inside the church of Saint John's Hospital, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-280.jpg 280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-380.jpg 380w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-480.jpg 480w,
@@ -122,7 +122,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-1920.jpg 1920w"></picture><figcaption>View of the exhibition space from the entrance of the church of the Old St. John Hospital</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_2-1920.jpg 1920w"></picture><figcaption>View of the exhibition space from inside the church of Saint John's Hospital</figcaption>
     </figure>
 
     <figure>
@@ -134,7 +134,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-840.webp 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-1280.webp 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-1600.webp 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, Memling Museum, Hospital St. John, Bruges" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, Memling Museum, Hospital St. John, Bruges" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist” from the apse of the church of Old St. John's Hospital, Memling Museum, Hospital St. John, Bruges" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist” from the apse of the church of Old St. John's Hospital, Memling Museum, Hospital St. John, Bruges" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-280.jpg 280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-380.jpg 380w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-480.jpg 480w,
@@ -142,7 +142,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-1920.jpg 1920w"></picture><figcaption></figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-1920.jpg 1920w"></picture><figcaption>View of the exhibition space from the apse of the church of Old St. John's Hospital</figcaption>
     </figure>
   </article></section>
 </article>
@@ -543,7 +543,7 @@
         <p>But more than Catherine of Alexandria, <span style="color: #e6a64d;">two men</span> are the main characters of the work:</p>
         <ol>
           <li>the many details that tell their two legends throughout the interior of the triptych <span style="color: #999;">(central panelm, right and left shutters)</span>,</li>
-          <li>both are called <span style="color: #e6a64d;">"John"</span>, which, in a hollow way, materializes in the work <span style="color: #e6a64d;">the commissioning institution</span>, <span style="color: #e6a64d;">Saint John's Hospital in Bruges</span> and justifies the current official name, <span style="color: #e6a64d;"><cite>Triptych of John the Baptist and John the Evangelist</cite></span>.</li>
+          <li>both are called <span style="color: #e6a64d;">"John"</span>, which, in a hollow way, materializes in the work <span style="color: #e6a64d;">the commissioning institution</span>, <span style="color: #e6a64d;">St. John's Hospital in Bruges</span> and justifies the current official name, <span style="color: #e6a64d;"><cite>Triptych of John the Baptist and John the Evangelist</cite></span>.</li>
         </ol>
         <p>they stand as <span style="color: #e6a64d;">twins</span>, standing, right and left, on either side of the virgin, framed, on the back.</p>
       </article></section>
@@ -585,7 +585,7 @@
           <span style="color: #e6a64d;">«Abused, he humbles himself, he does not open his mouth: like <span style="text-decoration: underline;">a lamb</span> leads to the slaughterhouse»</span>.
         </blockquote>
         <p>Under his purple tunic is <span style="color: #e6a64d;">another tunic</span>, light brown, which the text tells us is <span style="color: #e6a64d;">camel hair</span> <span style="color: #999;">(Mark chapter 1 verse 6)</span>, imitating the hair garment of the prophet <a href="https://en.wikipedia.org/wiki/Elijah" title="https://en.wikipedia.org/wiki/Elijah" id="elie" class="yellow">Elijah</a> <span style="color: #999;">(2 Kings chapter 1 verse 8)</span>.</p>
-        <p>This same hair garment also refers to an episode of Genesis <span style="color: #999;">(Genesis 27:1-40)</span> during which <a href="https://en.wikipedia.org/wiki/Jacob" title="https://en.wikipedia.org/wiki/Jacob" id="jacob" class="yellow">Jacob</a>, on the advice of his mother <a href="https://en.wikipedia.org/wiki/Rebecca" title="https://en.wikipedia.org/wiki/Rebecca" id="rebecca" class="yellow">Rebecca</a>, poses as his brother <a href="https://en.wikipedia.org/wiki/Esau" title="https://en.wikipedia.org/wiki/Esau" id="esau" class="yellow">Esau</a> who is very <span style="color: #e6a64d;">hairy</span>, with his blind father, <a href="https://en.wikipedia.org/wiki/Isaac" title="https://en.wikipedia.org/wiki/Isaac" id="isaac" class="yellow">Isaac</a>, by wearing <span style="color: #e6a64d;">a hair garment</span>.</p>
+        <p>This same hair garment also refers to an episode of Genesis <span style="color: #999;">(Genesis chapter 27 verses 1 to 40)</span> during which <a href="https://en.wikipedia.org/wiki/Jacob" title="https://en.wikipedia.org/wiki/Jacob" id="jacob" class="yellow">Jacob</a>, on the advice of his mother <a href="https://en.wikipedia.org/wiki/Rebecca" title="https://en.wikipedia.org/wiki/Rebecca" id="rebecca" class="yellow">Rebecca</a>, poses as his brother <a href="https://en.wikipedia.org/wiki/Esau" title="https://en.wikipedia.org/wiki/Esau" id="esau" class="yellow">Esau</a> who is very <span style="color: #e6a64d;">hairy</span>, with his blind father, <a href="https://en.wikipedia.org/wiki/Isaac" title="https://en.wikipedia.org/wiki/Isaac" id="isaac" class="yellow">Isaac</a>, by wearing <span style="color: #e6a64d;">a hair garment</span>.</p>
         <p>His cunning allows him to be unduly blessed and thus become the sole heir in Esau's place. This tunic is also a sign of domination of animality, and in the case of John the Baptist, the camel being an animal that allows to cross the desert, of domination of animality by asceticism.</p>
       </article></section>
     </article></section>
@@ -618,7 +618,7 @@
         <p>We recognize <a href="https://en.wikipedia.org/wiki/John_the_Apostle" title="https://en.wikipedia.org/wiki/John_the_Apostle" id="jean-l-evangeliste" class="yellow">John the Evangelist</a> as an episode of the <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" id="legende-doree-2" class="yellow">“Golden Legend”</a> <span style="color: #999;">(chapter 9)</span>, which we report <a href="#aristodeme" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" id="renvoi-aristodeme" class="yellow">here</a>.</p>
         <p>John faces <span style="color: #e6a64d;">Aristodemus</span>, priest of the temple of Diana in Asia <span style="color: #999;">(probably Ephesus)</span>, who publicly challenges him to <span style="color: #e6a64d;">drink</span> a <span style="color: #e6a64d;">poisoned cup</span>.</p>
         <p>The later makes, as Memling represents him, the <span style="color: #e6a64d;">sign of the cross</span>, drinks the cup but the poison does him no harm.</p>
-        <p>The <span style="color: #e6a64d;">serpent</span> also refers to a word that Jesus addressed to <a href="https://en.wikipedia.org/wiki/Nicodemus" title="https://en.wikipedia.org/wiki/Nicodemus" id="nicodeme" class="yellow">Nicodemus</a> <span style="color: #999;">(John 3:14)</span>:</p>
+        <p>The <span style="color: #e6a64d;">serpent</span> also refers to a word that Jesus addressed to <a href="https://en.wikipedia.org/wiki/Nicodemus" title="https://en.wikipedia.org/wiki/Nicodemus" id="nicodeme" class="yellow">Nicodemus</a> <span style="color: #999;">(John chapter 3 verse 14)</span>:</p>
         <blockquote>
           <span style="color: #e6a64d;"><q>As Moses raised the serpent in the wilderness, so must the son of man be raised up, so that whoever believes may have eternal life in him</q></span>.
         </blockquote>
@@ -983,7 +983,7 @@
     <h4 id="note-devotion-moderne">“devotio moderna”</h4>
     <section><article>
       <div class="notices yellow">
-      <p>Born a little further north in the present Netherlands, in the Utrecht region at the end of the 14<sup style="color:#e6a64d;">th</sup> and beginning of the 15<sup style="color:#e6a64d;">th</sup> century, “devotio moderna” or modern devotion was initiated by a man, <a href="https://en.wikipedia.org/wiki/Geert_Groote" title="https://en.wikipedia.org/wiki/Geert_Groote" id="gerard-groote" class="yellow">Geert Groote</a>, who criticized the piety of his time, judging it too austere and too far from the world.
+      <p>Born a little further north in the present Netherlands, in the Utrecht region at the end of the 14<sup style="color:#e6a64d;">th</sup> and beginning of the 15<sup style="color:#e6a64d;">th</sup> century, “<dfn>devotio moderna</dfn>” or modern devotion was initiated by a man, <a href="https://en.wikipedia.org/wiki/Geert_Groote" title="https://en.wikipedia.org/wiki/Geert_Groote" id="gerard-groote" class="yellow">Geert Groote</a>, who criticized the piety of his time, judging it too austere and too far from the world.
       In reaction, he exhorted the believer to let Christ dwell in the depths of his heart.
       According to him, this presence of Christ is intended to produce simplicity.
       The believer can then exercise an action in conformity with the virtue to which faith calls him, in a natural way, where he is.</p>
@@ -1022,7 +1022,8 @@
       <div class="footnotes">
         <ol start="2">
           <li id="fn:5">
-            <p>source: <cite href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis#cite_ref-5">L'imitation de notre Seigneur Jésus Christ</cite>, trans. by F. de Lamennais, Éd. Arts et Métiers graphiques, Paris, <time datetime="1946">1946</time>, pp. 59-60, II, 4, 1-2 (part II, chapter 4, paragraphs 1 and 2).</p>
+            <p>source:</p>
+            <p><cite href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis#cite_ref-5">L'imitation de notre Seigneur Jésus Christ</cite>, trans. by F. de Lamennais, Éd. Arts et Métiers graphiques, Paris, <time datetime="1946">1946</time>, pp. 59-60, II, 4, 1-2 (part II, chapter 4, paragraphs 1 and 2).</p>
             <p>original translation from us.</p></li>
             </ul>
          </li>
@@ -1040,7 +1041,7 @@
 <!-- Page 5 --><hr>
 
 <article>
-  <h3 id="organisation-du-recit" class="yellow">organisation of the pictorial narrative of the legends of John the Baptist, John the Evangelist, St John's Hospital</h3>
+  <h3 id="organisation-du-recit" class="yellow">organisation of the pictorial narrative around the legends of John the Baptist, John the Evangelist and the St John's Hospital</h3>
   <section><article>
     <h4 class="yellow">a number of small scenes</h4>
     <p>The narrative is structured around a number of <span style="color: #e6a64d;">small scenes</span>
@@ -1192,7 +1193,7 @@
     </div>
     <footer>
       <p>source: book by Philippe LORENTZ referenced in <a href="/docs/en/bruges/hopital-saint-jean/saint-jean#lorentz" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean#lorentz" id="renvoi-lorentz-2" class="yellow">bibliography</a>.</p>
-      <p>&#160;<a href="#fnref1:6" rev="footnote" class="footnote-backref">return to text ↩</a></p>
+      <p><a href="#fnref1:6" rev="footnote" class="footnote-backref">back to text ↩</a></p>
     </footer>
   </article>
 </aside>
@@ -1212,7 +1213,7 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-840.webp 840w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1280.webp 1280w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1600.webp 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, the right and left inner shutters: in the foreground on the left, John the Baptist beheaded by Herod's order, on the right, John the Evangelist in Patmos, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, the right and left inner shutters: in the foreground on the left, John the Baptist beheaded by Herod's order, on the right, John the Evangelist in Patmos, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, the right and left inner shutters: in the foreground on the left, John the Baptist beheaded by Herod's order, on the right, John the Evangelist in Patmos, Hans Memling Museum, Old St. John's Hospital, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, the right and left inner shutters: in the foreground on the left, John the Baptist beheaded by Herod's order, on the right, John the Evangelist in Patmos, Hans Memling Museum, Old St. John's Hospital, Bruges (Brugge)" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-280.jpg 280w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-380.jpg 380w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-480.jpg 480w,
@@ -1252,7 +1253,7 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-840.webp 840w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-1280.webp 1280w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-1600.webp 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, details of the central panel, “opening to the distance of the left half”: scenes from the legend of John the Baptist, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, details of the central panel, “opening to the distance of the left half”: scenes from the legend of John the Baptist, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, details of the central panel, “opening to the distance of the left half”: scenes from the legend of John the Baptist, Hans Memling Museum, Old St. John's Hospital, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, details of the central panel, “opening to the distance of the left half”: scenes from the legend of John the Baptist, Hans Memling Museum, Old St. John's Hospital, Bruges (Brugge)" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-280.jpg 280w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-380.jpg 380w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/paysage-gauche-480.jpg 480w,
@@ -1337,7 +1338,7 @@
       </article></section>
 
       <section><article>
-        <h6 class="yellow">Choice of the name of Jean by Zechariah</h6>
+        <h6 class="yellow">Choice of the name of John by Zechariah</h6>
 
         <section><article>
           <p>The name of this son, «John», is also one of the issues in the story <span style="color: #999;">(Luke chapter 1 verses 59 to 63)</span>:</p>
@@ -1361,16 +1362,16 @@
 
   <!-- Page 7 --><hr>
 
-  <article>
+<article>
+<section><article>
+  <h6 class="yellow">Scene of the asceticism of John in the distance of the central panel</h6>
+
   <section><article>
-    <h6 class="yellow">Scene of the asceticism of John in the distance of the central panel</h6>
+    <p>He then leads an exemplary life as an ascetic «in the desert» <span style="color: #999;">(Luke chapter 1 verse 80)</span>.</p>
+    <p>Memling transposes this scene into the forest.</p></p>
+  </article></section>
 
-    <section><article>
-      <p>He then leads an exemplary life as an ascetic «in the desert» <span style="color: #999;">(Luke chapter 1 verse 80)</span>.</p>
-      <p>Memling transposes this scene into the forest.</p></p>
-    </article></section>
-
-    <figure>
+  <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-280.webp 280w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-380.webp 380w,
@@ -1499,12 +1500,12 @@
     <div class="footnotes">
   <ol>
     <li id="fn:2">
-      <p>for information, this quote is in the past, I'm transposing it to the present.</p>
+      for information, this quote is in the past, We're transposing it to the present.
    </li>
   </ol>
   </div>
     <footer>
-      <p><a href="#fnref1:2" rev="footnote" class="footnote-backref">return to text ↩</a></p>
+      <p><a href="#fnref1:2" rev="footnote" class="footnote-backref">back to text ↩</a></p>
     </footer>
   </article>
 </aside>
@@ -1635,7 +1636,7 @@
     </ol>
     </div>
     <footer>
-      <p><a href="#fnref1:1" rev="footnote" class="footnote-backref">return to text ↩</a></p>
+      <p><a href="#fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
     </footer>
   </article>
 </aside>
@@ -1774,17 +1775,19 @@
   </article></section>
 </article>
 
+<hr>
+
 <aside>
 <article>
   <div class="footnotes">
   <ol>
     <li id="fn:1">
-    <p>Saint Marcellus of Apamea in Syria (died in <time datetime="389">389</time>). Magistrate of the city, in the year <time datetime="375">375</time>, he left his wife and children, and devoted himself to a monastic life, was elected bishop of Apamea, Syria. He died murdered by the heathens while watching over the destruction of a temple of idols according to an edict of Emperor Theodosius. Celebrated on <time datetime="08-14">August 14<sup>th</sup></time>.</p>
+      <dfn>Saint Marcellus of Apamea</dfn> in Syria (died in <time datetime="389">389</time>). Magistrate of the city, in the year <time datetime="375">375</time>, he left his wife and children, and devoted himself to a monastic life, was elected bishop of Apamea, Syria. He died murdered by the heathens while watching over the destruction of a temple of idols according to an edict of Emperor Theodosius. Celebrated on <time datetime="08-14">August 14<sup>th</sup></time>.
    </li>
   </ol>
   </div>
   <footer>
-    <p><a href="#fnref1:1" rev="footnote" class="footnote-backref">return to text ↩</a></p>
+    <p><a href="#fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
   </footer>
 </article>
 </aside>
@@ -2090,19 +2093,19 @@
       </ol>
     </div>
     <footer>
-      <p><a href="#fnref1:1" rev="footnote" class="footnote-backref">return to text ↩</a></p>
+      <p><a href="#fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
     </footer>
   </article>
   <article>
     <div class="footnotes">
       <ol start="2">
         <li id="fn:2">
-          <p>the extracts of the text of <cite>The Apocalypse</cite> that refer to the right panel can be found <a href="#apocalypse" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse">here</a></p>
+          read the <a href="#apocalypse" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse">extracts of the text of <cite>The Apocalypse</cite> that refer to the right shutter</a>.
        </li>
       </ol>
     </div>
     <footer>
-      <p><a href="#fnref1:2" rev="footnote" class="footnote-backref">return to text ↩</a></p>
+      <p><a href="#fnref1:2" rev="footnote" class="footnote-backref">back to text ↩</a></p>
     </footer>
   </article>
   <article>
@@ -2124,7 +2127,7 @@
       </ol>
     </div>
     <footer>
-      <p><a href="#fnref1:3" rev="footnote" class="footnote-backref">return to text ↩</a></p>
+      <p><a href="#fnref1:3" rev="footnote" class="footnote-backref">back to text ↩</a></p>
     </footer>
   </article>
 </aside>
