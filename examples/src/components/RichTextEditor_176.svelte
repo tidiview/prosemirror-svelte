@@ -4179,7 +4179,7 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/rome-1920.jpg 1920w"></picture><figcaption>détails du panneau central, “Ébouillantement de Jean l'Évangéliste sur ordre de l'empereur Domitien devant la Porte Latine à Rome et départ en l'exil sur l'île de Patmos”</figcaption>
   </figure>
   <section><article>
-  <h3 id="jean-selon-legende-2" class="yellow">Légende de Jean l'Évangéliste selon le chapître 65 selon <cite>La Légende dorée</cite></h3>
+  <h3 id="jean-selon-legende-2" class="yellow">Légende de Jean l'Évangéliste selon le chapître 65 selon <cite>La Légende dorée</cite> - Jean devant la Porte Latine</h3>
     <section><article>
       <h4>Texte du chapître 65 de <cite>La Légende dorée</cite>: légende de Jean l'Évangéliste - Jean devant la Porte Latine</h4> 
       <section><article>
