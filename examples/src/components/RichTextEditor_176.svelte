@@ -3663,6 +3663,8 @@
   </article></section>
 </article>
 
+<hr>
+
 <aside>
   <section><article>
     <h3 id="note_nicomedie" class="yellow">Nicomédie</h3>
@@ -4023,7 +4025,9 @@
         <p>À propos du sens du nom de Jean en hébreu, voir aussi <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean">«le nom “jean”, son lien avec l'institution, son étymologie»</a>.</p>
         </div>
       </article></section>
-      <footer><p>retour au texte: <a href="#nomdejean" title="nom de Jean">nom de Jean ↑</a></p></footer>
+      <footer>
+        <p>retour au texte: <a href="#nomdejean" title="nom de Jean">nom de Jean ↑</a></p>
+      </footer>
     </article></section>
     
     <section><article>
