@@ -4068,7 +4068,7 @@
               <blockquote>
                 “Lesquels?”
               </blockquote>
-              ésus reprit:
+              Jésus reprit:
               <blockquote>
                 “Tu ne commettras pas de meurtre. Tu ne commettras pas d’adultère. Tu ne commettras pas de vol. Tu ne porteras pas de faux témoignage.
               </blockquote>
@@ -4205,7 +4205,11 @@
       <section><article><p>out</p>
         <ol class="doc">
           <li>Chapître 4</li>
-          <li value="01">Après cela, j’ai vu: et voici qu’il y avait une porte ouverte dans le ciel. Et la voix que j’avais entendue, pareille au son d’une trompette, me parlait en disant: «Monte jusqu’ici, et je te ferai voir ce qui doit ensuite advenir.»</li>
+          <li value="01">Après cela, j’ai vu: et voici qu’il y avait une porte ouverte dans le ciel. Et la voix que j’avais entendue, pareille au son d’une trompette, me parlait en disant:
+            <blockquote>
+              «Monte jusqu’ici, et je te ferai voir ce qui doit ensuite advenir.»
+            </blockquote>
+          </li>
         </ol>
       </article></section>
       <hr>
@@ -4239,7 +4243,11 @@
           <ol class="doc">
             <li value="9">Lorsque les Vivants rendent gloire, honneur et action de grâce à celui qui siège sur le Trône, lui qui vit pour les siècles des siècles,</li>
             <li value="10">les vingt-quatre Anciens se jettent devant Celui qui siège sur le Trône, ils se prosternent face à celui qui vit pour les siècles des siècles; ils lancent leur couronne devant le Trône en disant:</li>
-            <li value="11">«Tu es digne, Seigneur notre Dieu, de recevoir la gloire, l’honneur et la puissance. C’est toi qui créas l’univer ; tu as voulu qu’il soit: il fut créé.»</li>
+            <li value="11">
+              <blockquote>
+                “Tu es digne, Seigneur notre Dieu, de recevoir la gloire, l’honneur et la puissance. C’est toi qui créas l’univer ; tu as voulu qu’il soit: il fut créé.”
+              </blockquote>
+            </li>
           </ol>
       </article></section>
       <hr>
@@ -4247,11 +4255,19 @@
         <ol class="doc">
           <li>Chapître 5</li>
           <li value="1">J’ai vu, dans la main droite de celui qui siège sur le Trône, un livre en forme de rouleau, écrit au-dedans et à l’extérieur, scellé de sept sceaux.</li>
-          <li value="2">Puis j’ai vu un ange plein de force, qui proclamait d’une voix puissante: «Qui donc est digne d’ouvrir le Livre et d’en briser les sceaux ?»</li>
+          <li value="2">Puis j’ai vu un ange plein de force, qui proclamait d’une voix puissante:
+            <blockquote>
+              “Qui donc est digne d’ouvrir le Livre et d’en briser les sceaux?”
+            </blockquote>
+          </li>
           <li value="3">Mais personne, au ciel, sur terre ou sous la terre, ne pouvait ouvrir le Livre et regarder.</li>
           <li value="4">Je pleurais beaucoup, parce que personne n’avait été trouvé digne d’ouvrir le Livre et de regarder.</li>
-          <li value="5">Mais l’un des Anciens me dit: «Ne pleure pas. Voilà qu’il a remporté la victoire, le lion de la tribu de Juda, le rejeton de David: il ouvrira le Livre aux sept sceaux.»</li>
-          </ol>
+          <li value="5">Mais l’un des Anciens me dit:
+            <blockquote>
+              “Ne pleure pas. Voilà qu’il a remporté la victoire, le lion de la tribu de Juda, le rejeton de David: il ouvrira le Livre aux sept sceaux.”
+            </blockquote>
+          </li>
+        </ol>
       </article></section>
       <hr>
       <section><article>
@@ -4264,13 +4280,32 @@
       <section><article><p>out</p>
           <ol class="doc">
             <li value="8">Quand l’Agneau eut pris le Livre, les quatre Vivants et les vingt-quatre Anciens se jetèrent à ses pieds. Ils tenaient chacun une cithare et des coupes d’or pleines de parfums qui sont les prières des saints.</li>
-            <li value="9">Ils chantaient ce cantique nouveau: «Tu es digne, de prendre le Livre et d’en ouvrir les sceaux, car tu fus immolé, rachetant pour Dieu, par ton sang, des gens de toute tribu, langue, peuple et nation.</li>
-            <li value="10">Pour notre Dieu, tu en as fait un royaume et des prêtres: ils régneront sur la terre.»</li>
+            <li value="9">Ils chantaient ce cantique nouveau:
+              <blockquote>
+                “Tu es digne, de prendre le Livre et d’en ouvrir les sceaux, car tu fus immolé, rachetant pour Dieu, par ton sang, des gens de toute tribu, langue, peuple et nation.</li>
+            <li value="10">
+              <blockquote>
+                Pour notre Dieu, tu en as fait un royaume et des prêtres: ils régneront sur la terre.”
+              </blockquote>
+            </li>
             <li value="11">Alors j’ai vu: et j’entendis la voix d’une multitude d’anges qui entouraient le Trône, les Vivants et les Anciens; ils étaient des myriades de myriades, par milliers de milliers.</li>
-            <li value="12">Ils disaient d’une voix forte: «Il est digne, l’Agneau immolé, de recevoir puissance et richesse, sagesse et force, honneur, gloire et louange.»</li>
-            <li value="13">Toute créature dans le ciel et sur la terre, sous la terre et sur la mer, et tous les êtres qui s’y trouvent, je les entendis proclamer: «À celui qui siège sur le Trône, et à l’Agneau, la louange et l’honneur, la gloire et la souveraineté pour les siècles des siècles.»</li>
-            <li value="14">Et les quatre Vivants disaient: «Amen!»; et les Anciens, se jetant devant le Trône, se prosternèrent.</li>
-          </ol>
+            <li value="12">Ils disaient d’une voix forte:
+              <blockquote>
+                “Il est digne, l’Agneau immolé, de recevoir puissance et richesse, sagesse et force, honneur, gloire et louange.”
+              </blockquote>
+            </li>
+            <li value="13">Toute créature dans le ciel et sur la terre, sous la terre et sur la mer, et tous les êtres qui s’y trouvent, je les entendis proclamer:
+              <blockquote>
+                “À celui qui siège sur le Trône, et à l’Agneau, la louange et l’honneur, la gloire et la souveraineté pour les siècles des siècles.”
+              </blockquote>
+            </li>
+            <li value="14">Et les quatre Vivants disaient:
+              <blockquote>
+                “Amen!”
+              </blockquote>
+            et les Anciens, se jetant devant le Trône, se prosternèrent.
+          </li>
+        </ol>
       </article></section>
       <hr>
       <section><article>
