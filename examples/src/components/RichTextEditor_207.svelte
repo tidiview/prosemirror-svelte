@@ -2573,8 +2573,8 @@
           <li value="01">Then I saw another powerful <span style="color: #e6a64d;">angel</span> coming down from heaven, <span style="color: #e6a64d;">wrapped in cloud</span>, with <span style="color: #e6a64d;">a rainbow</span> over his head; his face was like <span style="color: #e6a64d;">the sun</span>, and his legs were <span style="color: #e6a64d;">pillars of fire</span>.</li>
           <li value="02">In his hand he had <span style="color: #e6a64d;">a small scroll, unrolled</span></li>
           <li>he put his right foot in the sea and his left foot on the land.</li>
-          <li value="03">and he shouted so loud, it was like a lion roaring.
-      At this, the seven claps of thunder made themselves heard</li>
+          <li value="03">and he shouted so loud, it was like a lion roaring.</li>
+          <li>At this, the seven claps of thunder made themselves heard</li>
         </ol>
       </article></section>
 
@@ -2635,7 +2635,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “le ciel de l'Apocalypse” (Apocalypse 12)</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “le ciel de l'Apocalypse”, <cite>Apocalypse</cite>, chapter 12</figcaption>
       </figure>
     </article></section>
 
@@ -2669,7 +2669,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “The woman and the dragon” (Apocalypse chapter 12 verses 1 to 5)</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “The woman and the dragon”, <cite>Apocalypse</cite>, chapter 12 verses 1 to 4</figcaption>
       </figure>
     </article></section>
 
@@ -2704,7 +2704,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “fight of saint Michael, of the dragon and of their angels: fall of the dragon and his angels” (Apocalypse 12.7-9)</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “fight of saint Michael, of the dragon and of their angels: fall of the dragon and his angels”, <cite>Apocalypse</cite>, chapter 12 verses 5 to 9</figcaption>
       </figure>
     </article></section>
   </article></section>
@@ -2744,7 +2744,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the woman was given a pair of the great eagle's wings to fly away from the serpent” (Apocalypse chapter 12 verse 14)</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the woman was given a pair of the great eagle's wings to fly away from the serpent”, <cite>Apocalypse</cite>, chapter 12 verses 10 to 14</figcaption>
     </figure>
   </article></section>
 
@@ -2781,12 +2781,12 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/chapiteau-3-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/chapiteau-3-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/chapiteau-3-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/chapiteau-3-1920.jpg 1920w"></picture><figcaption>detail of the central panel, column capital, “resurrection of Drusiana”</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/chapiteau-3-1920.jpg 1920w"></picture><figcaption>detail of the central panel, column capital, “resurrection of Drusiana”, <cite>The Golden Legend</cite>, chapter 9</figcaption>
     </figure>
   </article></section>
 
   <section><article>
-    <h5 class="yellow">Craton's baptism - <p>The Golden Legend</p>, chapter 9</h5>
+    <h5 class="yellow">Craton's baptism - <cite>The Golden Legend</cite>, chapter 9</h5>
     
     <section><article>
       <p>At the very back, he baptizes the converted philosopher Crato in the small domed building.</p>
@@ -2809,7 +2809,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1920.jpg 1920w"></picture><figcaption>detail of the central panel, column capital, “baptisma of Crato”</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1920.jpg 1920w"></picture><figcaption>detail of the central panel, column capital, “baptisma of Crato”, <cite>The Golden Legend</cite>, chapter 9</figcaption>
     </figure>
   </article></section>
 
@@ -2837,7 +2837,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/chapiteau-4-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/chapiteau-4-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/chapiteau-4-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/chapiteau-4-1920.jpg 1920w"></picture><figcaption>detail of the central panel, column capital, "capital of the miracle of the poisoned cup"</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/chapiteau-4-1920.jpg 1920w"></picture><figcaption>detail of the central panel, column capital, "capital of the miracle of the poisoned cup", <cite>The Golden Legend</cite>, chapter 9</figcaption>
       </figure>
   </article></section>
 </article>
@@ -3421,20 +3421,20 @@
   <p>and the unknown man who served him as lawyer disappeared without nobody knew who he was.</p>
   </div>
 
-  <div id="body-inner">
+  <aside>
   <h3 id="note_nicomedie" class="yellow">Nicomedy</h3>
   <div class="notices yellow">
-  <p><a href="https://en.wikipedia.org/wiki/Nicomedy" title="https://en.wikipedia.org/wiki/Nicomedy"><ruby lang="en">Nicomedy<rp>(</rp><rt lang="grc">Νικομήδεια</rt><rp>)</rp></ruby></a> is a city in Asia Minor, capital of the kingdom of <a href="https://en.wikipedia.org/wiki/Bithynie" title="https://en.wikipedia.org/wiki/Bithynie">Bithynia</a>. Today it is located in Turkey and is called Izmit. It was the capital of the emperors <a href="https://en.wikipedia.org/wiki/Dioclétien" title="https://en.wikipedia.org/wiki/Dioclétien">Diocletian</a> and <a href="https://en.wikipedia.org/wiki/Constantin_Ier_(empereur_romain)" title="https://en.wikipedia.org/wiki/Constantin_Ier_(empereur_romain)">Constantine</a>.</p>
-  <p>back to note: <a href="#maximien" title="Maximian">Nicomedy↑</a></p>
+  <p><dfn><a href="https://en.wikipedia.org/wiki/Nicomedy" title="https://en.wikipedia.org/wiki/Nicomedy"><ruby lang="en">Nicomedy<rp>(</rp><rt lang="grc">Νικομήδεια</rt><rp>)</rp></ruby></a></dfn> is a city in Asia Minor, capital of the kingdom of <a href="https://en.wikipedia.org/wiki/Bithynie" title="https://en.wikipedia.org/wiki/Bithynie">Bithynia</a>. Today it is located in Turkey and is called Izmit. It was the capital of the emperors <a href="https://en.wikipedia.org/wiki/Dioclétien" title="https://en.wikipedia.org/wiki/Dioclétien">Diocletian</a> and <a href="https://en.wikipedia.org/wiki/Constantin_Ier_(empereur_romain)" title="https://en.wikipedia.org/wiki/Constantin_Ier_(empereur_romain)">Constantine</a>.</p>
+  <p>back to note: <a href="#nicomedie" title="Nicomedy">Nicomedy↑</a></p>
   </div>
   <h3 id="note_maximien" class="yellow">Maximian</h3>
   <div class="notices yellow">
-  <p><a href="https://en.wikipedia.org/wiki/Maximian_Hercule" title="https://en.wikipedia.org/wiki/Maximian_Hercule">Maximian Hercules</a>. Coemperor of the Roman Empire from <time datetime="286">286</time> to <time datetime="305">305</time> with <a href="https://en.wikipedia.org/wiki/Dioclétien" title="https://en.wikipedia.org/wiki/Dioclétien">Diocletian</a> for the East. Father of <a href="https://en.wikipedia.org/wiki/Maxence_(empereur_romain)" title="https://en.wikipedia.org/wiki/Maxence_(empereur_romain)">Maxentius</a>.</p>
-  <p>back to note: <a href="#nicomedie" title="Nicomedy">Maximian↑</a></p>
+  <p><dfn>Maximian</dfn> is also called <a href="https://en.wikipedia.org/wiki/Maximian_Hercule" title="https://en.wikipedia.org/wiki/Maximian_Hercule">Maximian Hercules</a>. Coemperor of the Roman Empire from <time datetime="286">286</time> to <time datetime="305">305</time> with <a href="https://en.wikipedia.org/wiki/Dioclétien" title="https://en.wikipedia.org/wiki/Dioclétien">Diocletian</a> for the East. Father of <a href="https://en.wikipedia.org/wiki/Maxence_(empereur_romain)" title="https://en.wikipedia.org/wiki/Maxence_(empereur_romain)">Maxentius</a>.</p>
+  <p>back to note: <a href="#maximien" title="Maximian">Maximian↑</a></p>
   </div>
   <h3 id="note_origene" class="yellow">Origen</h3>
   <div class="notices yellow">
-  <p><a href="https://en.wikipedia.org/wiki/Origen" title="https://en.wikipedia.org/wiki/Origen"><ruby lang="en">Origen<rp>(</rp><rt lang="grc">Ὠριγένης</rt><rp>)</rp></ruby></a> is a christian theologian, recognized Father of the Church but not a saint, born in Alexandria around <time datetime="185">185</time> and died in Tyre around <time datetime="253">253</time>.</p>
+  <p><dfn><a href="https://en.wikipedia.org/wiki/Origen" title="https://en.wikipedia.org/wiki/Origen"><ruby lang="en">Origen<rp>(</rp><rt lang="grc">Ὠριγένης</rt><rp>)</rp></ruby></a></dfn> is a christian theologian, recognized Father of the Church but not a saint, born in Alexandria around <time datetime="185">185</time> and died in Tyre around <time datetime="253">253</time>.</p>
   <p>back to note: <a href="#origene" title="Origen">Origen↑</a></p>
   </div>
   <h3 id="note_marcien" class="yellow">Marcian</h3>
@@ -3444,7 +3444,7 @@
   </div>
   <h3 id="note_saxe" class="yellow">Saxony</h3>
   <div class="notices yellow">
-  <p>A region of Germany whose boundaries have varied throughout history; the Palatinate County of Saxony was a principality of the Holy Roman Empire. Founded by Emperor Otto I<sup>st</sup> in the 10th century, it extended over what is now the Saale-Unstrut region in the south-east of the Duchy of Saxony.</p>
+  <p><dfn>Saxony</dfn> is a region of Germany whose boundaries have varied throughout history; the Palatinate County of Saxony was a principality of the Holy Roman Empire. Founded by Emperor Otto I<sup>st</sup> in the 10th century, it extended over what is now the Saale-Unstrut region in the south-east of the Duchy of Saxony.</p>
   <p>back to note: <a href="#saxe" title="Saxony">Saxony↑</a></p>
   </div>
   </div>
@@ -3471,8 +3471,8 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1600.jpg 1600w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1920.jpg 1920w"></picture><figcaption>John the Evangelist</figcaption>
   </figure>
-  <h2 class="yellow" id="st-john-the-evangelist-according-to-the-golden-legend">St. John the Evangelist according to <cite>The Golden Legend</cite></h2>
-  <p>Chapter 9. St. John the Evangelist</p>
+  <h2 class="yellow" id="st-john-the-evangelist-according-to-the-golden-legend">St. John the Evangelist according to chapter 9 of <cite>The Golden Legend</cite></h2>
+  <h3>Text of Chapter 9. of <cite>The Golden Legend</cite>: <cite>Legend of St. John the Evangelist</cite></h3>
   <p>The <a href="#note_nomdejean" title="name of John" id="nomdejean" class="yellow">name of John</a>, <span style="color: #994c3d;">Johannes</span>, is expounded <span style="color: #994c3d;">«the grace of God»</span>, or <span style="color: #994c3d;">«he in whom grace is»</span>, or <span style="color: #994c3d;">«to whom it is given of our Lord»</span>,
   and therefore been understood four privileges that be in the blessed <span style="color: #994c3d;">St. John</span>.</p>
   <p>The <span style="color: #994c3d;">first</span> was the <span style="color: #994c3d;">noble love of the Christ</span>, for he loved him more than the other and showed to him of greater love,
@@ -3494,7 +3494,7 @@
   which gift of grace was given of our Lord,
   for this gift was given to him when the mother was given to him into keeping.</p>
   <p>And Miletus, Bishop of Laodicea, wrote his life, the which Isidore abridged and set it in the book of nativities of the life and the death of holy fathers.</p>
-  <h3 class="yellow" id="persecuted-for-his-faith-by-domitian">persecuted for his faith by domitian</h3>
+  <h4 class="yellow" id="persecuted-for-his-faith-by-domitian">persecuted for his faith by domitian</h4>
   <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-280.webp 280w,
@@ -3512,13 +3512,13 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-840.jpg 840w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1280.jpg 1280w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1600.jpg 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1920.jpg 1920w"></picture><figcaption>detail of the central panel, “Salding of John the Evangelist by order of Emperor Domitian in front of the Latin Gate in Rome and departure for exile in the island of Patmos”</figcaption>
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1920.jpg 1920w"></picture><figcaption>detail of the central panel, “Salding of John the Evangelist by order of Emperor Domitian in front of the Latin Gate in Rome and departure for exile in the island of Patmos”, <cite>The Golden Legend</cite>, Chapter 9.</figcaption>
   </figure>
   <p><span style="color: #994c3d;">John</span>, apostle and evangelist, the beloved of the Lord the virgin elected man, departed for Asia when the apostles separated after Pentecost. There he founded many churches.</p>
   <p>In this time Emperor Domitian heard of him, ordered him to be brought to him and made him to be cast into a vat or a ton full of hot oil in front of the Latin Gate,
   of which he issued out, by the help of God, more pure and more fair, without feeling of any more heat or chauffing, than he entered in.</p>
-  <p>After this that emperor saw that he ceased not to preach the christian faith, he sent him into exile unto an isle called Patmos, were alone, he wrote the Apocalypse.</p>
-  <h3 class="yellow" id="the-raising-of-drusiana">the raising of drusiana</h3>
+  <p>After this that emperor saw that he ceased not to preach the christian faith, he sent him into exile unto an isle called Patmos, were alone, he wrote <cite>The Apocalypse</cite>.</p>
+  <h4 class="yellow" id="the-raising-of-drusiana">the raising of drusiana</h4>
   <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-280.webp 280w,
@@ -3556,7 +3556,7 @@
     <p><span style="color: #df8f20;">Drusiana arise, and go into thy house, and make ready for me some refection.»</span></p>
   </blockquote>
   <p>Anon she arose and went in to her house for to do the commandment of <span style="color: #994c3d;">St. John</span>, and the people made three hours long a great noise and cry, saying there is but one God, and that is he whom <span style="color: #994c3d;">St. John</span> preacheth.</p>
-  <h3 class="yellow" id="the-baptisma-of-crato">the baptisma of Crato</h3>
+  <h4 class="yellow" id="the-baptisma-of-crato">the baptisma of Crato</h4>
   <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/craton-280.webp 280w,
@@ -3590,7 +3590,7 @@
   <p>So <span style="color: #994c3d;">St. John</span> gathered in his hand the fragments of the stones and put himself in prayer;
   the stones were returned to their first state.</p>
   <p>Immediately the philosopher and the two young people began to believe, sold the stones and distributed the prize to the poor.  </p>
-  <h3 class="yellow" id="st-johns-sermons-against-material-wealth">st. john's sermons against material wealth</h3>
+  <h4 class="yellow" id="st-johns-sermons-against-material-wealth">st. john's sermons against material wealth</h4>
   <p>On this, in their example, two other young people from good families sold all their property, gave the product to the poor and followed <span style="color: #994c3d;">John</span>.
   But one day, they fired their replete servants of precious magnets, even though they had only one coat and they saddened themselves.</p>
   <p><span style="color: #994c3d;">St. John</span> noticed their sad mine; From the shore of the sea, he made branches and small stones and transformed them into gold and precious stones.</p>
@@ -3609,7 +3609,7 @@
   <p>The <span style="color: #994c3d;">sixth</span> cause is the <span style="color: #994c3d;">loss</span>:</p>
   <p>it showed that wealth causes a loss that lies in the acquisition of two evils: evil in life present, vanity, and evil in future life, eternal damnation.</p>
   <p>They cause, in eternal perdition, another loss, that of two goods, grace in the present life and eternal glory in future life.</p>
-  <h3 class="yellow" id="the-resurrection-of-the-young-married-man">the resurrection of the young married man</h3>
+  <h4 class="yellow" id="the-resurrection-of-the-young-married-man">the resurrection of the young married man</h4>
   <p>Now, while <span style="color: #994c3d;">John</span> was in the process of disenfranchising the riches, now we brought the body of a young man who had been married for thirty days.</p>
   <p>Came his mother, his widow and all those who cried him; They threw himself at his feet by imploring him to resurrect the young man in the name of the Lord, as he did for Drusiana.</p>
   <p>So, immediately after having burdened himself in tears and prayers, he revived him and commanded him to tell both disciples what punishment they could incur and what glory they could lose.</p>
@@ -3630,7 +3630,7 @@
     <span style="color: #df8f20;">— «Go carry these branches and stones where you took them.»</span>
   </blockquote>
   <p>When they performed and the branches and stones were found in their first nature, they received all the grace of the virtues they had possessed before.</p>
-  <h3 class="yellow" id="the-destruction-of-dianas-temple">the destruction of diana's temple</h3>
+  <h4 class="yellow" id="the-destruction-of-dianas-temple">the destruction of diana's temple</h4>
   <p><span style="color: #994c3d;">St. John</span> had preached to all of Asia.</p>
   <p>One day, the worms of the idol fomented a popular sedition
   and took him to the temple of Diane to force him to offer a sacrifice.</p>
@@ -3644,7 +3644,7 @@
     everyone came out of the temple, the apostle went into prayer and the temple collapsed;
     Diane's statue broke into a thousand pieces.</li>
   </ul>
-  <h3 class="yellow" id="the-cup-of-poison">the cup of poison</h3>
+  <h4 class="yellow" id="the-cup-of-poison">the cup of poison</h4>
   <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-280.webp 280w,
@@ -3699,7 +3699,7 @@
   <h2 id="notes" class="yellow">　notes</h2>
   <h3 id="note_nomdejean" class="yellow">name of John</h3>
   <div class="notices yellow">
-  <p>On the meaning of the name of John in Hebrew, see also the <a href="#le-nom-de-jean" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean">«name “john”, its link with the institution, its etymology»</a>.</p>
+  <p>On the meaning of the name of John in Hebrew, see also the <a href="#le-nom-de-jean" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean">«name “john”, its etymology»</a>.</p>
   <p>back to the note: <a href="#nomdejean" title="name of John">name of John↑</a></p>
   </div>
 
