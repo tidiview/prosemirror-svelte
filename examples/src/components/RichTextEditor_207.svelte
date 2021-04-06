@@ -36,7 +36,7 @@
       <section><article>
         <div class="notices yellow">
           <p>The triptych has been conceived and realised for the master altar of the new apse of the church of the Old St. John's Hospital of Bruges (in Flemish: Brugge) built in <time datetime="1473">1473</time>-<time datetime="1474">74</time>, where it still stands.</p>
-          <p>The frame bears the inscription « <ruby lang="la">WORK<rp>(</rp><rt lang="fr">OPVs</rt><rp>)</rp>&nbsp;<rp>(</rp><rt lang="fr"></rt><rp>)</rp>OF&nbsp;HANS<rp>(</rp><rt lang="fr">IOHANNIS</rt><rp>)</rp>&nbsp;<rp>(</rp><rt lang="fr"></rt><rp>)</rp>MEMLING<rp>(</rp><rt lang="fr">MEMLING</rt><rp>)</rp></ruby> », the first known signature of the flemish primitive painter of Bruges Hans MEMLING, and also the date: «<time datetime="1479">1479</time>».</p>
+          <p>The frame bears the inscription «<ruby lang="la">WORK<rp>(</rp><rt lang="fr">OPVs</rt><rp>)</rp>&nbsp;rp>(</rp><rt lang="fr"></rt><rp>)</rp>OF&nbsp;HANS<rp>(</rp><rt lang="fr">IOHANNIS</rt><rp>)</rp>&nbsp;<rp>(</rp><rt lang="fr"></rt><rp>)</rp>MEMLING<rp>(</rp><rt lang="fr">MEMLING</rt><rp>)</rp></ruby> », the first known signature of the flemish primitive painter of Bruges Hans MEMLING, and also the date: «<time datetime="1479">1479</time>».</p>
           <p>It has a central panel, framed by two panels on the right and left fixed by hinges.</p>
           <p>The characters depicted are a little smaller than life size.</p>
         </div>
@@ -261,12 +261,12 @@
                 <td>ISBN-10</td>
                 </tr>
                 <tr>
-                <td>Hans Memling : l'œuvre complète</td>
+                <td>Hans Memling: l'œuvre complète</td>
                 <td><time datetime="1994">1994</time></td>
                 <td>2-226-06992-5</td>
                 </tr>
                 <tr>
-                <td>Hans Memling : catalogue</td>
+                <td>Hans Memling: catalogue</td>
                 <td><time datetime="1994">1994</time></td>
                 <td>90-5544-028-0</td>
                 </tr>
@@ -3471,7 +3471,7 @@
   <section><article>
     <h3 id="note_saxe" class="yellow">Saxony</h3>
     <div class="notices yellow">
-      <p><dfn>Saxony</dfn> is a region of Germany whose boundaries have varied throughout history; the Palatinate County of Saxony was a principality of the Holy Roman Empire. Founded by Emperor Otto I<sup>st</sup> in the 10th century, it extended over what is now the Saale-Unstrut region in the south-east of the Duchy of Saxony.</p>
+      <p><dfn>Saxony</dfn> is a region of Germany whose boundaries have varied throughout history; the Palatinate County of Saxony was a principality of the Holy Roman Empire. Founded by Emperor Otto I<sup>st</sup> in the 10<sup>th</sup> century, it extended over what is now the Saale-Unstrut region in the south-east of the Duchy of Saxony.</p>
     </div>
     <footer>
       <p>back to note: <a href="#saxe" title="Saxony">Saxony↑</a></p>
@@ -3889,31 +3889,29 @@
       <section><article><p>out</p>
         <ol class="doc">
           <li>Chapître 4</li>
-          <li value="01">Après cela, j’ai vu : et voici qu’il y avait une porte ouverte dans le ciel. Et la voix que j’avais entendue, pareille au son d’une trompette, me parlait en disant : « Monte jusqu’ici, et je te ferai voir ce qui doit ensuite advenir. »</li>
+          <li value="01">Then, in my vision, I saw a door open in heaven and heard the same voice speaking to me, the voice like a trumpet, saying, 'Come up here: I will show you what is to take place in the future.'</li>
         </ol>
       </article></section>
       <hr>
       <section><article>
         <ol class="doc">
-          <li value="02">je fus saisi en <span style="color: #e6a64d;">esprit</span>.
-          Voici qu’un <span style="color: #e6a64d;">trône</span> était là dans le <span style="color: #e6a64d;">ciel</span>, et sur le trône siégeait <span style="color: #e6a64d;">quelqu’un</span>.</li>
-          <li value="03">Celui qui siège a l’aspect d’une pierre de jaspe ou de cornaline;
-          il y a, tout autour du trône, <span style="color: #e6a64d;">un arc-en-ciel</span>, avec des reflets d’émeraude <sup id="fnref1:4"><a href="#fn:4" class="footnote-ref">note 4</a></sup>.</li>
-          <li value="04">Tout autour de ce trône, vingt-quatre trônes, où siègent <span style="color: #e6a64d;">vingt-quatre anciens</span> portant des vêtements blancs et, sur leurs têtes, des couronnes d’or.</li>
-          <li value="05">Et du trône sortent des éclairs, des fracas, des coups de tonnerre, et sept torches enflammées brûlent devant le trône:
-          ce sont les sept esprits de dieu.</li>
-          <li value="06">Devant le trône, il y a comme une mer, aussi transparente que du cristal.</li>
+          <li value="02">With that, I fell into <span style="color: #e6a64d;">ecstasy</span>.
+            and I saw a <span style="color: #e6a64d;">throne</span> standing in <span style="color: #e6a64d;">heaven</span>, and <span style="color: #e6a64d;">the One</span> who was sitting on the throne,</li>
+          <li value="03">and the One sitting there looked like a diamond and a ruby.
+          There was a <span style="color: #e6a64d;">rainbow</span> encircling the throne, and this looked like an emerald.</li>
+          <li value="04">Round the throne in a circle were twenty-four thrones, and on them <span style="color: #e6a64d;">twenty-four elders</span> sitting, dressed in white robes with golden crowns on their heads.</li>
+          <li value="05">Flashes of lightning were coming from the throne, and the sound of peals of thunder, and in front of the throne there were seven flaming lamps burning, the seven Spirits of God.</li>
+          <li value="06">In front of the throne was a sea as transparent as crystal.[In the middle of the throne and around it, were four living creatures all studded with eyes, in front and behind.]</li>
         </ol>
       </article></section>
       <hr>
       <section><article>
         <ol class="doc">
-          <li value="07">Le premier vivant ressemble à un <span style="color: #e6a64d;">lion</span>, le deuxième vivant ressemble à un <span style="color: #e6a64d;">jeune taureau</span>, le troisième vivant a comme un <span style="color: #e6a64d;">visage d’homme</span>, le quatrième vivant ressemble à un <span style="color: #e6a64d;">aigle</span> en plein vol.</li>
+          <li value="07">The first living creature was like a <span style="color: #e6a64d;">lion</span>, the second like a <span style="color: #e6a64d;">young bull</span>, the third living creature had a <span style="color: #e6a64d;">human face</span>, and the fourth living creature was like a <span style="color: #e6a64d;">flying eagle</span>.</li>
           <li value="08">
-            <p>Les quatre vivants ont chacun <span style="color: #e6a64d;">six ailes</span>, avec des yeux innombrables tout autour et au-dedans.
-            Jour et nuit, ils ne cessent de dire:</p>
+            Each of the four living creatures had <span style="color: #e6a64d;">six wings</span> and was studded with eyes all the way round as well as inside; and day and night they never stopped singing:
             <blockquote>
-              <p><q>Saint! saint! saint, le seigneur dieu, le souverain de l’univers, celui qui était, qui est et qui vient.</q></p>
+              “Saint! saint! saint, le seigneur dieu, le souverain de l’univers, celui qui était, qui est et qui vient.”
             </blockquote>
           </li>
         </ol>
@@ -3921,38 +3919,55 @@
       <hr>
       <section><article><p>out</p>
           <ol class="doc">
-            <li value="9">Lorsque les Vivants rendent gloire, honneur et action de grâce à celui qui siège sur le Trône, lui qui vit pour les siècles des siècles,</li>
-            <li value="10">les vingt-quatre Anciens se jettent devant Celui qui siège sur le Trône, ils se prosternent face à celui qui vit pour les siècles des siècles ; ils lancent leur couronne devant le Trône en disant:</li>
-            <li value="11">« Tu es digne, Seigneur notre Dieu, de recevoir la gloire, l’honneur et la puissance. C’est toi qui créas l’univers ; tu as voulu qu’il soit : il fut créé. »</li>
+            <li value="9">Every time the living creatures glorified and honoured and gave thanks to the One sitting on the throne, who lives for ever and ever,</li>
+            <li value="10">the twenty-four elders prostrated themselves before him to worship the One who lives for ever and ever, and threw down their crowns in front of the throne, saying:</li>
+            <li value="11">«You are worthy, our Lord and God, to receive glory and honour and power, for you made the whole universe; by your will, when it did not exist, it was created.»</li>
           </ol>
       </article></section>
       <hr>
       <section><article><p>out</p>
         <ol class="doc">
           <li>Chapître 5</li>
-          <li value="1">J’ai vu, dans la main droite de celui qui siège sur le Trône, un livre en forme de rouleau, écrit au-dedans et à l’extérieur, scellé de sept sceaux.</li><li value="2">Puis j’ai vu un ange plein de force, qui proclamait d’une voix puissante : « Qui donc est digne d’ouvrir le Livre et d’en briser les sceaux ? »</li>
-          <li value="3">Mais personne, au ciel, sur terre ou sous la terre, ne pouvait ouvrir le Livre et regarder.</li>
-          <li value="4">Je pleurais beaucoup, parce que personne n’avait été trouvé digne d’ouvrir le Livre et de regarder.</li>
-          <li value="5">Mais l’un des Anciens me dit : « Ne pleure pas. Voilà qu’il a remporté la victoire, le lion de la tribu de Juda, le rejeton de David : il ouvrira le Livre aux sept sceaux. »</li>
-          </ol>
+          <li value="1">I saw that in the right hand of the One sitting on the throne there was a scroll that was written on back and front and was sealed with seven seals.</li>
+          <li value="2">Then I saw a powerful angel who called with a loud voice
+            <blockquote>
+              “Who is worthy to open the scroll and break its seals?”
+            </blockquote>
+          </li>
+          <li value="3">But there was no one, in heaven or on the earth or under the earth, who was able to open the scroll and read it.</li>
+          <li value="4">I wept bitterly because nobody could be found to open the scroll and read it,</li>
+          <li value="5">but one of the elders said to me
+            <blockquote>
+              “Do not weep. Look, the Lion of the tribe of Judah, the Root of David, has triumphed, and so he will open the scroll and its seven seals.”
+            </blockquote>
+          </li>
+        </ol>
       </article></section>
       <hr>
       <section><article>
         <ol class="doc">
-          <li value="06">「わたしはまた、玉座と四つの生き物の間、長老たちの間に、屠られたような<span style="color: #e6a64d;">小羊が立っている</span>のを見た。小羊には七つの角と七つの目があった。この七つの目は、全地に遣わされている神の七つの霊である。」</li>
-          <li value="07">小羊は進み出て、玉座に座っておられる方の右の手から、巻物を受け取った。</li>
+          <li value="06">Then I saw, in the middle of the throne with its four living creatures and the circle of the elders, a Lamb standing that seemed to have been sacrificed; it had seven horns, and it had seven eyes, which are the seven Spirits that God has sent out over the whole world.</li>
+          <li value="07">The Lamb came forward to take the scroll from the right hand of the One sitting on the throne,</li>
         </ol>
       </article></section>
       <hr>
       <section><article><p>out</p>
           <ol class="doc">
-            <li value="8">Quand l’Agneau eut pris le Livre, les quatre Vivants et les vingt-quatre Anciens se jetèrent à ses pieds. Ils tenaient chacun une cithare et des coupes d’or pleines de parfums qui sont les prières des saints.</li>
-            <li value="9">Ils chantaient ce cantique nouveau : « Tu es digne, de prendre le Livre et d’en ouvrir les sceaux, car tu fus immolé, rachetant pour Dieu, par ton sang, des gens de toute tribu, langue, peuple et nation.</li>
-            <li value="10">Pour notre Dieu, tu en as fait un royaume et des prêtres : ils régneront sur la terre. »</li>
-            <li value="11">Alors j’ai vu : et j’entendis la voix d’une multitude d’anges qui entouraient le Trône, les Vivants et les Anciens ; ils étaient des myriades de myriades, par milliers de milliers.</li>
-            <li value="12">Ils disaient d’une voix forte : « Il est digne, l’Agneau immolé, de recevoir puissance et richesse, sagesse et force, honneur, gloire et louange. »</li>
-            <li value="13">Toute créature dans le ciel et sur la terre, sous la terre et sur la mer, et tous les êtres qui s’y trouvent, je les entendis proclamer : « À celui qui siège sur le Trône, et à l’Agneau, la louange et l’honneur, la gloire et la souveraineté pour les siècles des siècles. »</li>
-            <li value="14">Et les quatre Vivants disaient : « Amen ! » ; et les Anciens, se jetant devant le Trône, se prosternèrent.</li>
+            <li value="8">and when he took it, the four living creatures prostrated themselves before him and with them the twenty-four elders; each one of them was holding a harp and had a golden bowl full of incense which are the prayers of the saints.</li>
+            <li value="9">They sang a new hymn: You are worthy to take the scroll and to break its seals, because you were sacrificed, and with your blood you bought people for God of every race, language, people and nation.</li>
+            <li value="10">and made them a line of kings and priests for God, to rule the world.</li>
+            <li value="11">In my vision, I heard the sound of an immense number of angels gathered round the throne and the living creatures and the elders; there were ten thousand times ten thousand of them and thousands upon thousands,</li>
+            <li value="12">loudly chanting: Worthy is the Lamb that was sacrificed to receive power, riches, wisdom, strength, honour, glory and blessing.</li>
+            <li value="13">Then I heard all the living things in creation -- everything that lives in heaven, and on earth, and under the earth, and in the sea, crying:
+              <blockquote>
+                “To the One seated on the throne and to the Lamb, be all praise, honour, glory and power, for ever and ever.”
+              </blockquote>
+            </li>
+            <li value="14">And the four living creatures said,
+              <blockquote>
+                “Amen”
+              </blockquote>
+            and the elders prostrated themselves to worship.</li>
           </ol>
       </article></section>
       <hr>
@@ -3960,9 +3975,9 @@
         <ol class="doc">
             <li>chapître 6</li>
             <li value="01">
-              <p>Alors j’ai vu: quand l’agneau ouvrit l’un des sept sceaux, j’entendis l’un des quatre vivants dire d’une voix de tonnerre:</p>
+              Alors j’ai vu: quand l’agneau ouvrit l’un des sept sceaux, j’entendis l’un des quatre vivants dire d’une voix de tonnerre:
               <blockquote>
-                <p><q>Viens!</q></p>
+                “Viens!”
               </blockquote>
             </li>
             <li value="02">Alors j’ai vu: et voici un <span style="color: #e6a64d;">cheval blanc</span>; celui qui le montait tenait un <span style="color: #e6a64d;">arc</span>, une <span style="color: #e6a64d;">couronne</span> lui fut donnée, et il sortit vainqueur, pour vaincre à nouveau.</li>
@@ -3971,9 +3986,9 @@
       <hr>
       <section><article>
         <ol class="doc">
-          <li value="03">Et quand il ouvrit le deuxième sceau, j’entendis le deuxième vivant qui disait:</p>
+          <li value="03">Et quand il ouvrit le deuxième sceau, j’entendis le deuxième vivant qui disait:
             <blockquote>
-              <p><q>Viens!</q></p>
+              “Viens!”
             </blockquote>
           </li>
           <li value="04">Alors sortit un autre <span style="color: #e6a64d;">cheval</span>, <span style="color: #e6a64d;">rouge feu</span>; à celui qui le montait il fut donné d’enlever la paix à la terre, pour que les gens s’entretuent, et une grande <span style="color: #e6a64d;">épée</span> lui fut donnée.</li>
@@ -3983,16 +3998,16 @@
       <section><article>
         <ol class="doc">
           <li value="05">
-            <p>Et quand il ouvrit le troisième sceau, j’entendis le troisième vivant qui disait:</p>
+            Et quand il ouvrit le troisième sceau, j’entendis le troisième vivant qui disait:
             <blockquote>
-              <p><q>Viens!</q></p>
+              “Viens!”
             </blockquote>
           <p>Alors j’ai vu: et voici un <span style="color: #e6a64d;">cheval noir</span>; celui qui le montait tenait à la main une <span style="color: #e6a64d;">balance</span>.</p>
           </li>
           <li value="06">
           <p>Et j'entendis comme une voix au milieu des quatre vivants; elle disait:</p>
             <blockquote>
-              <p><q>Un denier, la mesure de blé! Un denier, les trois mesures d’orge! Ne fraude pas sur l’huile et sur le vin!</q></p>
+              “Un denier, la mesure de blé! Un denier, les trois mesures d’orge! Ne fraude pas sur l’huile et sur le vin!”
             </blockquote>
           </li>
         </ol>
@@ -4001,10 +4016,9 @@
       <section><article>
         <ol class="doc">
           <li value="07">
-          <li value="07">
-          <p>Et quand il ouvrit le quatrième sceau, j’entendis la voix du quatrième vivant qui disait:</p>
+          Et quand il ouvrit le quatrième sceau, j’entendis la voix du quatrième vivant qui disait:
           <blockquote>
-            <p><q>Viens!</q></p>
+            “Viens!”
           </blockquote>
           </li>
           <li value="08">Alors j’ai vu: et voici un <span style="color: #e6a64d;">cheval verdâtre</span>; celui qui le montait se nomme <span style="color: #e6a64d;">la mort</span>, et le <span style="color: #e6a64d;">séjour des morts</span> l’accompagnait.</li>
@@ -4016,9 +4030,9 @@
       <section><article><p>out</p>
         <ol class="doc">
           <li value="9">Et quand il ouvrit le cinquième sceau, je vis sous l’autel les âmes de ceux qui furent égorgés à cause de la parole de Dieu et du témoignage qu’ils avaient porté.</li>
-          <li value="10">Ils crièrent d’une voix forte : « Jusques à quand, Maître saint et vrai,resteras-tu sans juger, sans venger notre sang sur les habitants de la terre ? »</li>
+          <li value="10">Ils crièrent d’une voix forte: «Jusques à quand, Maître saint et vrai,resteras-tu sans juger, sans vener notre sang sur les habitants de la terre ? »</li>
           <li value="11">Et il fut donné à chacun une robe blanche, et il leur fut dit de patienter encore quelque temps, jusqu’à ce que soient au complet leurs compagnons de service, leurs frères, qui allaient être tués comme eux.</li>
-          <li value="12">Alors j’ai vu : quand il ouvrit le sixième sceau, il y eut un grand tremblement de terre, le soleil devint noir comme une étoffe de crin, et la lune entière, comme du sang,</li>
+          <li value="12">Alors j’ai vu: quand il ouvrit le sixième sceau, il y eut un grand tremblement de terre, le soleil devint noir comme une étoffe de crin, et la lune entière, comme du sang,</li>
           <li value="13">et les étoiles du ciel tombèrent sur la terre comme lorsqu’un figuier secoué par grand vent jette ses fruits.</li>
         </ol>
       </article></section>
@@ -4027,14 +4041,14 @@
         <ol class="doc">
           <li value="14">Le ciel se retira comme un livre qu’on referme; toutes les montagnes et les îles furent déplacées.</li>
           <li value="15"><span style="color: #e6a64d;">Les rois de la terre et les grands, les chefs d’armée, les riches et les puissants, tous les esclaves et les hommes libres allèrent se cacher dans les cavernes et les rochers des montagnes</span>.</li>
-          <li value="16"><p>Et ils disaient aux montagnes et aux rochers:</p>
+          <li value="16"><p>Et ils disaient aux montagnes et aux rochers:
           <blockquote>
-            <p><q>Tombez sur nous, et cachez-nous du regard de celui qui siège sur le trône et aussi de la colère de l’agneau.</q></p>
+            “Tombez sur nous, et cachez-nous du regard de celui qui siège sur le trône et aussi de la colère de l’agneau.”
           </blockquote>
           </li>
           <li value="17">
           <blockquote>
-            <p>Car il est venu, le grand jour de leur colère, et qui pourrait tenir?»</p>
+            “Car il est venu, le grand jour de leur colère, et qui pourrait tenir?”
           </blockquote>
           </li>
         </ol>
@@ -4045,18 +4059,18 @@
           <li>chapître 7</li>
           <li value="1"> Après cela, j’ai vu quatre anges debout aux quatre coins de la terre, maîtrisant les quatre vents de la terre, pour empêcher le vent de souffler sur la terre, sur la mer et sur tous les arbres.</li>
           <li value="2">Puis j’ai vu un autre ange qui montait du côté où le soleil se lève, avec le sceau qui imprime la marque du Dieu vivant ; d’une voix forte, il cria aux quatre anges qui avaient reçu le pouvoir de faire du mal à la terre et à la mer :</li>
-          <li value="3">« Ne faites pas de mal à la terre, ni à la mer, ni aux arbres, avant que nous ayons marqué du sceau le front des serviteurs de notre Dieu. »</li>
-          <li value="4">Et j’entendis le nombre de ceux qui étaient marqués du sceau : ils étaient cent quarante-quatre mille, de toutes les tribus des fils d’Israël.</li>
+          <li value="3">«Ne faites pas de mal à la terre, ni à la mer, ni aux arbres, avant ue nous ayons marqué du sceau le front des serviteurs de notre Dieu. »</li>
+          <li value="4">Et j’entendis le nombre de ceux qui étaient marqués du sceau: ils étaient cent quarante-quatre mille, de toutes les tribus des fils d’Israël.</li>
           <li value="5">De la tribu de Juda, douze mille marqués du sceau ; de la tribu de Roubène, douze mille ; de la tribu de Gad, douze mille ;</li>
           <li value="6">de la tribu d’Aser, douze mille ; de la tribu de Nephtali, douze mille ; de la tribu de Manassé, douze mille ;</li>
           <li value="7">de la tribu de Siméon, douze mille ; de la tribu de Lévi, douze mille ; de la tribu d’Issakar, douze mille ;</li>
           <li value="8">de la tribu de Zabulon, douze mille ; de la tribu de Joseph, douze mille ; de la tribu de Benjamin, douze mille marqués du sceau.</li>
-          <li value="9">Après cela, j’ai vu : et voici une foule immense, que nul ne pouvait dénombrer, une foule de toutes nations, tribus, peuples et langues. Ils se tenaient debout devant le Trône et devant l’Agneau, vêtus de robes blanches, avec des palmes à la main.</li>
-          <li value="10">Et ils s’écriaient d’une voix forte : « Le salut appartient à notre Dieu qui siège sur le Trône et à l’Agneau ! »</li>
+          <li value="9">Après cela, j’ai vu: et voici une foule immense, que nul ne pouvait dénombrer, une foule de toutes nations, tribus, peuples et langues. Ils se tenaient debout devant le Trône et devant l’Agneau, vêtus de robes blanches, avec des palmes à la main.</li>
+          <li value="10">Et ils s’écriaient d’une voix forte: «Le salut appartient à notre Dieu qui siège sur le Trône et à ’Agneau ! »</li>
           <li value="11">Tous les anges se tenaient debout autour du Trône, autour des Anciens et des quatre Vivants ; se jetant devant le Trône, face contre terre, ils se prosternèrent devant Dieu.</li>
-          <li value="12">Et ils disaient : « Amen ! Louange, gloire, sagesse et action de grâce, honneur, puissance et force à notre Dieu, pour les siècles des siècles ! Amen ! »</li>
-          <li value="13">L’un des Anciens prit alors la parole et me dit : « Ces gens vêtus de robes blanches, qui sont-ils, et d’où viennent-ils ? »</li>
-          <li value="14">Je lui répondis : « Mon seigneur, toi, tu le sais. » Il me dit : « Ceux-là viennent de la grande épreuve ; ils ont lavé leurs robes, ils les ont blanchies par le sang de l’Agneau.</li>
+          <li value="12">Et ils disaient: «Amen ! Louange, gloire, sagesse et action de grâce, honneur, puissace et force à notre Dieu, pour les siècles des siècles ! Amen ! »</li>
+          <li value="13">L’un des Anciens prit alors la parole et me dit: «Ces gens vêtus de robes blanches, qui sont-ils, et d’où viennent-ils? »</li>
+          <li value="14">Je lui répondis: «Mon seigneur, toi, tu le sais. » Il me dit: «Ceux-là viennent de la rande épreuve ; ils ont lavé leurs robes, is les ont blanchies par le sang de l’Agneau.</li>
           <li value="15">C’est pourquoi ils sont devant le trône de Dieu, et le servent, jour et nuit, dans son sanctuaire. Celui qui siège sur le Trône établira sa demeure chez eux.</li>
           <li value="16">Ils n’auront plus faim, ils n’auront plus soif, ni le soleil ni la chaleur ne les accablera,</li>
           <li value="17">puisque l’Agneau qui se tient au milieu du Trône sera leur pasteur pour les conduire aux sources des eaux de la vie. Et Dieu essuiera toute larme de leurs yeux. »</li>
@@ -4100,7 +4114,7 @@
         <ol class="doc">
           <li value="13"><p>Alors j’ai vu: et j’entendis <span style="color: #e6a64d;">un aigle</span> qui volait en plein ciel, disant d’une voix forte:</p>
           <blockquote>
-            <p><q style="quotes: '«' '»';">Malheur! Malheur! Malheur pour ceux qui habitent la terre, car la trompette, encore, doit retentir quand les trois anges sonneront!</q></p>
+            “Malheur! Malheur! Malheur pour ceux qui habitent la terre, car la trompette, encore, doit retentir quand les trois anges sonneront!”
           </blockquote>
           </li>
         </ol>
@@ -4157,14 +4171,14 @@
         <ol class="doc">
           <li value="03">il cria d’une voix forte, comme un lion qui rugit.
           Et quand il cria, les sept tonnerres parlèrent, faisant résonner leur voix.</li>
-          <li value="04"><p>Et quand les sept tonnerres eurent parlé, j’allais me mettre à écrire; mais j’entendis une voix venant du ciel qui disait:</p>
+          <li value="04">Et quand les sept tonnerres eurent parlé, j’allais me mettre à écrire; mais j’entendis une voix venant du ciel qui disait:
           <blockquote>
-            <p>“Ce que viennent de dire les sept tonnerres, garde-le scellé, ne l’écris pas!”</p>
+            “Ce que viennent de dire les sept tonnerres, garde-le scellé, ne l’écris pas!”
           </blockquote></li>
           <li value="05">Et l’ange que j’avais vu debout sur la mer et sur la terre leva la main droite vers le ciel;</li>
-          <li value="06"><p>il fit un serment par celui qui est vivant pour les siècles des siècles, celui qui a créé le ciel et tout ce qu’il contient, la terre et tout ce qu’elle contient, la mer et tout ce qu’elle contient. Il déclara:</p>
+          <li value="06">il fit un serment par celui qui est vivant pour les siècles des siècles, celui qui a créé le ciel et tout ce qu’il contient, la terre et tout ce qu’elle contient, la mer et tout ce qu’elle contient. Il déclara:
           <blockquote>
-            <p>“Du temps, il n’y en aura plus!”</p>
+            “Du temps, il n’y en aura plus!”
           </blockquote></li>
         </ol>
       </article></section>
@@ -4172,18 +4186,18 @@
       <section><article><p>out</p>
         <ol class="doc">
           <li value="07">Dans les jours où retentira la voix du septième ange, quand il sonnera de la trompette, alors se trouvera accompli le mystère de Dieu, selon la bonne nouvelle qu’il a annoncée à ses serviteurs les prophètes. »</li>
-          <li value="08">Et la voix que j’avais entendue, venant du ciel, me parla de nouveau et me dit : « Va prendre le livre ouvert dans la main de l’ange qui se tient debout sur la mer et sur la terre. »</li>
-          <li value="09">Je m’avançai vers l’ange pour lui demander de me donner le petit livre. Il me dit : « Prends, et dévore-le ; il remplira tes entrailles d’amertume, mais dans ta bouche il sera doux comme le miel. »</li>
+          <li value="08">Et la voix que j’avais entendue, venant du ciel, me parla de nouveau et me dit: «Va prendre le livre ouvert dans la main de l’ange qui se tient debou sur la mer et sur la terre. »</li>
+          <li value="09">Je m’avançai vers l’ange pour lui demander de me donner le petit livre. Il me dit: «Prends, et dévore-le ; il remplira tes entrailles d’amertume, maisdans ta bouche il sera doux comme le miel. »</li>
           <li value="10">Je pris le petit livre de la main de l’ange, et je le dévorai. Dans ma bouche il était doux comme le miel, mais, quand je l’eus mangé, il remplit mes entrailles d’amertume.</li>
-          <li value="11">Alors on me dit : « Il te faut de nouveau prophétiser sur un grand nombre de peuples, de nations, de langues et de rois. »</li>
+          <li value="11">Alors on me dit: «Il te faut de nouveau prophétiser sur un grand nombre de peuples, de ntions, de langues et de rois. »</li>
         </ol>
       </article></section>
       <hr>
       <section><article><p>out</p>
         <ol class="doc">
           <li>chapître 11</li>
-          <li value="1">Puis il me fut donné un roseau, une sorte de règle, avec cette parole : « Lève-toi, mesure le sanctuaire de Dieu, l’autel et ceux qui s’y prosternent.</li>
-          <li value="2">Mais la cour au-dehors du Sanctuaire, tiens-la en dehors, ne la mesure pas, car elle a été donnée aux nations : elles fouleront aux pieds la Ville sainte pendant quarante-deux mois.</li>
+          <li value="1">Puis il me fut donné un roseau, une sorte de règle, avec cette parole: «Lève-toi, mesure le sanctuaire de Dieu, l’autel et ceux qui s’y prostenent.</li>
+          <li value="2">Mais la cour au-dehors du Sanctuaire, tiens-la en dehors, ne la mesure pas, car elle a été donnée aux nations: elles fouleront aux pieds la Ville sainte pendant quarante-deux mois.</li>
           <li value="3">Et je donnerai à mes deux témoins de prophétiser, vêtus de toile à sac, pendant mille deux cent soixante jours. »</li>
           <li value="4">Ce sont eux les deux oliviers, les deux chandeliers, qui se tiennent devant le Seigneur de la terre.</li>
           <li value="5">Si quelqu’un veut leur faire du mal, un feu jaillit de leur bouche et dévore leurs ennemis ; oui, celui qui voudra leur faire du mal, c’est ainsi qu’il doit mourir.</li>
@@ -4192,13 +4206,13 @@
           <li value="8">Leurs cadavres restent sur la place de la grande ville, qu’on appelle, au sens figuré, Sodome et l’Égypte, là où leur Seigneur aussi a été crucifié</li>
           <li value="9">De tous les peuples, tribus, langues et nations, on vient regarder leurs cadavres pendant trois jours et demi, sans qu’il soit permis de les mettre au tombeau.</li>
           <li value="10">Les habitants de la terre s’en réjouissent, ils sont dans la joie, ils échangent des présents ; ces deux prophètes, en effet, avaient causé bien du tourment aux habitants de la terre.</li>
-          <li value="11">Mais, après ces trois jours et demi, un souffle de vie venu de Dieu entra en eux : ils se dressèrent sur leurs pieds, et une grande crainte tomba sur ceux qui les regardaient.</li>
-          <li value="12">Alors les deux témoins entendirent une voix forte venant du ciel, qui leur disait : « Montez jusqu’ici ! » Et ils montèrent au ciel dans la nuée, sous le regard de leurs ennemis.</li>
-          <li value="13">Et à cette heure-là, il y eut un grand tremblement de terre : le dixième de la ville s’écroula, et dans le tremblement de terre sept mille personnes furent tuées. Les survivants furent saisis de crainte et rendirent gloire au Dieu du ciel.</li>
-          <li value="14">Le deuxième « Malheur ! » est passé ; voici que le troisième « Malheur ! » vient sans tarder.</li>
-          <li value="15">Le septième ange sonna de la trompette. Il y eut dans le ciel des voix fortes qui disaient : « Il est advenu sur le monde, le règne de notre Seigneur et de son Christ. C’est un règne pour les siècles des siècles. »</li>
+          <li value="11">Mais, après ces trois jours et demi, un souffle de vie venu de Dieu entra en eux: ils se dressèrent sur leurs pieds, et une grande crainte tomba sur ceux qui les regardaient.</li>
+          <li value="12">Alors les deux témoins entendirent une voix forte venant du ciel, qui leur disait: «Montez jusqu’ici ! » Et ils montèrent au ciel dans la nuée, sus le regard de leurs ennemis.</li>
+          <li value="13">Et à cette heure-là, il y eut un grand tremblement de terre: le dixième de la ville s’écroula, et dans le tremblement de terre sept mille personnes furent tuées. Les survivants furent saisis de crainte et rendirent gloire au Dieu du ciel.</li>
+          <li value="14">Le deuxième «Malheur ! » est passé ; voici que le troisième «Malheur ! » vien sans tarder.</li>
+          <li value=15">Le septième ange sonna de la trompette. Il y eut dans le ciel des voix fortes qui disaient: «Il est advenu sur le monde, le règne de notre Seigneur et de son Chrit. C’est un règne pour les siècles des siècles. »</li>
           <li value="16">Et les vingt-quatre Anciens qui siègent sur leurs trônes en présence de Dieu, se jetant face contre terre, se prosternèrent devant Dieu</li>
-          <li value="17">en disant : « À toi, nous rendons grâce, Seigneur Dieu, Souverain de l’univers, toi qui es, toi qui étais ! Tu as saisi ta grande puissance et pris possession de ton règne.</li>
+          <li value="17">en disant: «À toi, nous rendons grâce, Seigneur Dieu, Souverain de l’univers, to qui es, toi qui étais ! Tu as saisi ta grande puissance et pris possession de ton règne.</li>
           <li value="18">Les nations s’étaient mises en colère ; alors, ta colère est venue et le temps du jugement pour les morts, le temps de récompenser tes serviteurs, les prophètes et les saints, ceux qui craignent ton nom, les petits et les grands, le temps de détruire ceux qui détruisent la terre. »</li>
           <li value="19">Le sanctuaire de Dieu, qui est dans le ciel, s’ouvrit, et l’arche de son Alliance apparut dans le Sanctuaire ; et il y eut des éclairs, des fracas, des coups de tonnerre, un tremblement de terre et une forte grêle.</li>
         </ol>
@@ -4241,7 +4255,7 @@
       <section><article><p>out</p>
         <ol class="doc">
           <li value="15">Puis, de sa gueule, le Serpent projeta derrière la Femme de l’eau comme un fleuve, pour qu’elle soit emportée par ce fleuve.</li>
-          <li value="16">Mais la terre vint au secours de la Femme : la terre ouvrit la bouche et engloutit le fleuve projeté par la gueule du Dragon.</li>
+          <li value="16">Mais la terre vint au secours de la Femme: la terre ouvrit la bouche et engloutit le fleuve projeté par la gueule du Dragon.</li>
           <li value="17">Alors le Dragon se mit en colère contre la Femme, il partit faire la guerre au reste de sa descendance, ceux qui observent les commandements de Dieu et gardent le témoignage de Jésus.</li>
           <li value="18">Et il se posta sur le sable au bord de la mer.</li>
         </ol>

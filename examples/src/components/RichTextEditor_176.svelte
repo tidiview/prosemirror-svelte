@@ -4214,7 +4214,7 @@
           <li value="02">je fus saisi en <span style="color: #e6a64d;">esprit</span>.
           Voici qu’un <span style="color: #e6a64d;">trône</span> était là dans le <span style="color: #e6a64d;">ciel</span>, et sur le trône siégeait <span style="color: #e6a64d;">quelqu’un</span>.</li>
           <li value="03">Celui qui siège a l’aspect d’une pierre de jaspe ou de cornaline;
-          il y a, tout autour du trône, <span style="color: #e6a64d;">un arc-en-ciel</span>, avec des reflets d’émeraude <sup id="fnref1:4"><a href="#fn:4" class="footnote-ref">note 4</a></sup>.</li>
+          il y a, tout autour du trône, <span style="color: #e6a64d;">un arc-en-ciel</span>, avec des reflets d’émeraude.</li>
           <li value="04">Tout autour de ce trône, vingt-quatre trônes, où siègent <span style="color: #e6a64d;">vingt-quatre anciens</span> portant des vêtements blancs et, sur leurs têtes, des couronnes d’or.</li>
           <li value="05">Et du trône sortent des éclairs, des fracas, des coups de tonnerre, et sept torches enflammées brûlent devant le trône:
           ce sont les sept esprits de dieu.</li>
@@ -4226,10 +4226,10 @@
         <ol class="doc">
           <li value="07">Le premier vivant ressemble à un <span style="color: #e6a64d;">lion</span>, le deuxième vivant ressemble à un <span style="color: #e6a64d;">jeune taureau</span>, le troisième vivant a comme un <span style="color: #e6a64d;">visage d’homme</span>, le quatrième vivant ressemble à un <span style="color: #e6a64d;">aigle</span> en plein vol.</li>
           <li value="08">
-            <p>Les quatre vivants ont chacun <span style="color: #e6a64d;">six ailes</span>, avec des yeux innombrables tout autour et au-dedans.
-            Jour et nuit, ils ne cessent de dire:</p>
+            Les quatre vivants ont chacun <span style="color: #e6a64d;">six ailes</span>, avec des yeux innombrables tout autour et au-dedans.
+            Jour et nuit, ils ne cessent de dire:
             <blockquote>
-              <p><q>Saint! saint! saint, le seigneur dieu, le souverain de l’univers, celui qui était, qui est et qui vient.</q></p>
+              “Saint! saint! saint, le seigneur dieu, le souverain de l’univers, celui qui était, qui est et qui vient.”
             </blockquote>
           </li>
         </ol>
@@ -4239,14 +4239,15 @@
           <ol class="doc">
             <li value="9">Lorsque les Vivants rendent gloire, honneur et action de grâce à celui qui siège sur le Trône, lui qui vit pour les siècles des siècles,</li>
             <li value="10">les vingt-quatre Anciens se jettent devant Celui qui siège sur le Trône, ils se prosternent face à celui qui vit pour les siècles des siècles; ils lancent leur couronne devant le Trône en disant:</li>
-            <li value="11">« Tu es digne, Seigneur notre Dieu, de recevoir la gloire, l’honneur et la puissance. C’est toi qui créas l’univer ; tu as voulu qu’il soit: il fut créé.»</li>
+            <li value="11">«Tu es digne, Seigneur notre Dieu, de recevoir la gloire, l’honneur et la puissance. C’est toi qui créas l’univer ; tu as voulu qu’il soit: il fut créé.»</li>
           </ol>
       </article></section>
       <hr>
       <section><article><p>out</p>
         <ol class="doc">
           <li>Chapître 5</li>
-          <li value="1">J’ai vu, dans la main droite de celui qui siège sur le Trône, un livre en forme de rouleau, écrit au-dedans et à l’extérieur, scellé de sept sceaux.</li><li value="2">Puis j’ai vu un ange plein de force, qui proclamait d’une voix puissante: «Qui donc est digne d’ouvrir le Livre et d’en briser les sceaux ?»</li>
+          <li value="1">J’ai vu, dans la main droite de celui qui siège sur le Trône, un livre en forme de rouleau, écrit au-dedans et à l’extérieur, scellé de sept sceaux.</li>
+          <li value="2">Puis j’ai vu un ange plein de force, qui proclamait d’une voix puissante: «Qui donc est digne d’ouvrir le Livre et d’en briser les sceaux ?»</li>
           <li value="3">Mais personne, au ciel, sur terre ou sous la terre, ne pouvait ouvrir le Livre et regarder.</li>
           <li value="4">Je pleurais beaucoup, parce que personne n’avait été trouvé digne d’ouvrir le Livre et de regarder.</li>
           <li value="5">Mais l’un des Anciens me dit: «Ne pleure pas. Voilà qu’il a remporté la victoire, le lion de la tribu de Juda, le rejeton de David: il ouvrira le Livre aux sept sceaux.»</li>
@@ -4255,8 +4256,8 @@
       <hr>
       <section><article>
         <ol class="doc">
-          <li value="06">「わたしはまた、玉座と四つの生き物の間、長老たちの間に、屠られたような<span style="color: #e6a64d;">小羊が立っている</span>のを見た。小羊には七つの角と七つの目があった。この七つの目は、全地に遣わされている神の七つの霊である。」</li>
-          <li value="07">小羊は進み出て、玉座に座っておられる方の右の手から、巻物を受け取った。</li>
+          <li value="06">Et j’ai vu, entre le Trône, les quatre Vivants et les Anciens, un Agneau debout, comme égorgé; ses cornes étaient au nombre de sept, ainsi que ses yeux, qui sont les sept esprits de Dieu envoyés sur toute la terre.</li>
+          <li value="07">Il s’avança et prit le Livre dans la main droite de celui qui siégeait sur le Trône.</li>
         </ol>
       </article></section>
       <hr>
@@ -4360,7 +4361,7 @@
           <li>chapître 7</li>
           <li value="1"> Après cela, j’ai vu quatre anges debout aux quatre coins de la terre, maîtrisant les quatre vents de la terre, pour empêcher le vent de souffler sur la terre, sur la mer et sur tous les arbres.</li>
           <li value="2">Puis j’ai vu un autre ange qui montait du côté où le soleil se lève, avec le sceau qui imprime la marque du Dieu vivan ; d’une voix forte, il cria aux quatre anges qui avaient reçu le pouvoir de faire du mal à la terre et à la mer :</li>
-          <li value="3">« Ne faites pas de mal à la terre, ni à la mer, ni aux arbres, avant que nous ayons marqué du sceau le front des serviteurs de notre Dieu.»</li>
+          <li value="3">«Ne faites pas de mal à la terre, ni à la mer, ni aux arbres, avant que nous ayons marqué du sceau le front des serviteurs de notre Dieu.»</li>
           <li value="4">Et j’entendis le nombre de ceux qui étaient marqués du sceau: ils étaient cent quarante-quatre mille, de toutes les tribus des fils d’Israël.</li>
           <li value="5">De la tribu de Juda, douze mille marqués du sceau; de la tribu de Roubène, douze mille; de la tribu de Gad, douze mille ;</li>
           <li value="6">de la tribu d’Aser, douze mille; de la tribu de Nephtali, douze mille; de la tribu de Manassé, douze mille ;</li>
