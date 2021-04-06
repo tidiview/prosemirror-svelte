@@ -35,7 +35,7 @@
       <h3 class="yellow">the triptych of the Saint John's Hospital in Bruges since the 15<sup>th</sup> century</h3>
       <section><article>
         <div class="notices yellow">
-          <p>The triptych has been conceived and realised for the master altar of the new apse of the church of the Old St. John Hospital of Bruges (in Flemish: Brugge) built in 1473-74, where it still stands.</p>
+          <p>The triptych has been conceived and realised for the master altar of the new apse of the church of the Old St. John Hospital of Bruges (in Flemish: Brugge) built in <time datetime="1473">1473</time>-<time datetime="1474">74</time>, where it still stands.</p>
           <p>The frame bears the inscription « <ruby lang="la">WORK<rp>(</rp><rt lang="fr">OPVs</rt><rp>)</rp>&nbsp;<rp>(</rp><rt lang="fr"></rt><rp>)</rp>OF&nbsp;HANS<rp>(</rp><rt lang="fr">IOHANNIS</rt><rp>)</rp>&nbsp;<rp>(</rp><rt lang="fr"></rt><rp>)</rp>MEMLING<rp>(</rp><rt lang="fr">MEMLING</rt><rp>)</rp></ruby> », the first known signature of the flemish primitive painter of Bruges Hans MEMLING, and also the date: «1479».</p>
           <p>It has a central panel, framed by two panels on the right and left fixed by hinges.</p>
           <p>The characters depicted are a little smaller than life size.</p>
@@ -444,7 +444,7 @@
     </article></section>
 
     <section><article>
-      <h3 class="yellow">child jésus</h3>
+      <h3 class="yellow">jesus child</h3>
 
       <section><article>
         <p>On his knees, <span style="color: #e6a64d;">Jesus child</span>, seatted, hold a apple with his left hand, and move from his right hand <span style="color: #e6a64d;">a ring</span> to the finger of <span style="color: #e6a64d;">a woman</span>, placed futher down and left of her, on the front.</p>
@@ -901,7 +901,7 @@
         <p>From this point of view, Memling's work functions as <span style="color: #e6a64d;">a mirror of life</span>:</p>
         <ul>
           <li>On the one hand the viewers of the triptych, whether they were patients at St John's Hospital in Memling's time or us today <span style="color: #e6a64d;">"<em>conversing</em>"</span> with the figures depicted,</li>
-          <li>on the other these <span style="color: #e6a64d;">"<em>act</em>"</span> here and now, as Bruges men and women of <time datetime="1479">1479</time> or visitors to the Memling Museum of the 21st<sup> century.</li>
+          <li>on the other these <span style="color: #e6a64d;">"<em>act</em>"</span> here and now, as Bruges men and women of <time datetime="1479">1479</time> or visitors to the Memling Museum of the 21<sup>st</sup> century.</li>
         </ul>
       </article></section>
     </article></section>
@@ -922,7 +922,7 @@
     <section><article>
       <h4 class="yellow">the influence of Van Eyck on the architectural plan</h4>
       <section><article>
-        <p>Memling is undoubtedly guided by this work by <a href="https://en.wikipedia.org/wiki/Jan_van_Eyck" title="https://en.wikipedia.org/wiki/Jan_van_Eyck" id="jan-van-eyck" class="yellow">Jan VAN EYCK</a> painted in 1436, which he knows and will admire in the <a href="https://en.wikipedia.org/wiki/St._Donatian's_Cathedral" title="https://en.wikipedia.org/wiki/St._Donatian%27s_Cathedral" id="cathedrale-saint-donatien" class="yellow">St. Donatian Cathedral</a>: <a href="https://en.wikipedia.org/wiki/Virgin_and_Child_with_Canon_van_der_Paele" title="https://en.wikipedia.org/wiki/Virgin_and_Child_with_Canon_van_der_Paele" id="van-der-paele" class="yellow">“<ruby lang="en">Virgin&nbsp;and&nbsp;Child&nbsp;with&nbsp;Canon&nbsp;van&nbsp;der&nbsp;Paele<rp>(</rp><rt lang="nl">Madonna&nbsp;met&nbsp;kanunnik&nbsp;Joris&nbsp;van&nbsp;der&nbsp;Paele</rt><rp>)</rp></ruby>”</a>.</p>
+        <p>Memling is undoubtedly guided by this work by <a href="https://en.wikipedia.org/wiki/Jan_van_Eyck" title="https://en.wikipedia.org/wiki/Jan_van_Eyck" id="jan-van-eyck" class="yellow">Jan VAN EYCK</a> painted in <time datetime="1436">1436</time>, which he knows and will admire in the <a href="https://en.wikipedia.org/wiki/St._Donatian's_Cathedral" title="https://en.wikipedia.org/wiki/St._Donatian%27s_Cathedral" id="cathedrale-saint-donatien" class="yellow">St. Donatian Cathedral</a>: <a href="https://en.wikipedia.org/wiki/Virgin_and_Child_with_Canon_van_der_Paele" title="https://en.wikipedia.org/wiki/Virgin_and_Child_with_Canon_van_der_Paele" id="van-der-paele" class="yellow">“<ruby lang="en">Virgin&nbsp;and&nbsp;Child&nbsp;with&nbsp;Canon&nbsp;van&nbsp;der&nbsp;Paele<rp>(</rp><rt lang="nl">Madonna&nbsp;met&nbsp;kanunnik&nbsp;Joris&nbsp;van&nbsp;der&nbsp;Paele</rt><rp>)</rp></ruby>”</a>.</p>
       </article></section>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -1001,9 +1001,9 @@
       <div class="footnotes">
         <ol>
           <li id="fn:4">
-            <p>We follow the references given in Wikipedia's article (french edition) «l'Imitation de Jésus-Christ» (date: 2018 August 21st), namely:</p>
+            <p>We follow the references given in Wikipedia's article (french edition) «l'Imitation de Jésus-Christ» (date: <time datetime="2018-08-21">2018 August 21<sup>st</sup></time>), namely:</p>
             <ul>
-              <li>Yann Sordet, Un succès de librairie européen: l'Imitatio Christi (1470-1850), Paris, Bibliothèque Mazarine; Editions des cendres, 2012, 195 p. (ISBN 979-10-90853-01-0), p. 11.</li>
+              <li>Yann Sordet, Un succès de librairie européen: l'Imitatio Christi (<time datetime="1470">1470</time>-<time datetime="1850">1850</time>), Paris, Bibliothèque Mazarine; Editions des cendres, <time datetime="2012">2012</time>, 195 p. (ISBN 979-10-90853-01-0), p. 11.</li>
             </ul>
             <p>According to specialists, its author is a monk: <a href="https://en.wikipedia.org/wiki/Thomas_à_Kempis" title="https://en.wikipedia.org/wiki/Thomas_%C3%A0_Kempis">Thomas A KEMPIS</a>.</p>
          </li>
@@ -1022,7 +1022,7 @@
       <div class="footnotes">
         <ol start="2">
           <li id="fn:5">
-            <p>source: <cite href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis#cite_ref-5">L'imitation de notre Seigneur Jésus Christ</cite>, trans. by F. de Lamennais, Éd. Arts et Métiers graphiques, Paris, 1946, pp. 59-60, II, 4, 1-2 (part II, chapter 4, paragraphs 1 and 2).</p>
+            <p>source: <cite href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis#cite_ref-5">L'imitation de notre Seigneur Jésus Christ</cite>, trans. by F. de Lamennais, Éd. Arts et Métiers graphiques, Paris, <time datetime="1946">1946</time>, pp. 59-60, II, 4, 1-2 (part II, chapter 4, paragraphs 1 and 2).</p>
             <p>original translation from us.</p></li>
             </ul>
          </li>
@@ -1069,7 +1069,7 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-840.webp 840w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-1280.webp 1280w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-1600.webp 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, details of the central panel, from left to right: the 4 capitals, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, details of the central panel, from left to right: the 4 capitals, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, details of the central panel, from left to right: the four capitals, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, details of the central panel, from left to right: the four capitals, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-280.jpg 280w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-380.jpg 380w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-480.jpg 480w,
@@ -1077,7 +1077,7 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-840.jpg 840w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-1280.jpg 1280w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-1600.jpg 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-1920.jpg 1920w"></picture><figcaption>details of the central panel, from left to right: the 4 capitals</figcaption>
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/4-chapiteaux-1920.jpg 1920w"></picture><figcaption>details of the central panel, from left to right: the four capitals</figcaption>
   </figure>
   </article></section>
 
@@ -1133,7 +1133,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/2-volets-1920.jpg 1920w"></picture><figcaption>the right and left inner shutters: in the foreground of the left one, John the Baptist beheaded by Herod's order, on the right one, John the Evangelist in Patmos</figcaption>
     </figure>
     <section><article>
-      <p>On each panel, an episode forms <span style="color: #e6a64d;">a main scene in the foreground</span>, completed in the narrative by <span style="color: #e6a64d;">small scenes in the distance</span>.</p>
+      <p>On each shutter, an episode forms <span style="color: #e6a64d;">a main scene in the foreground</span>, completed in the narrative by <span style="color: #e6a64d;">small scenes in the distance</span>.</p>
       <ul>
         <li>on the left inner shutter, <span style="color: #e6a64d;">John the Baptist</span> has just been beheaded by <span style="color: #e6a64d;">Herod</span>'s order,</li>
         <li>on the right inner shutter, <span style="color: #e6a64d;">John the Evangelist</span> receives the «unveiling» of the text of the Apocalypse in <span style="color: #e6a64d;">Patmos</span>.</li>
@@ -1167,7 +1167,7 @@
     </figure>
     <section><article>
       <p><span style="color: #e6a64d;">Two brothers from the hospital</span> are represented <span style="color: #e6a64d;">measuring the imported bordeaux wine</span> arriving in Bruges.</p>
-      <p>This reminds us that the hospital was entrusted by the city around 1300 with a <span style="color: #e6a64d;">communal charge</span>, the <span style="color: #e6a64d;">«right to gauge»</span> from which the institution had its income.</p>
+      <p>This reminds us that the hospital was entrusted by the city around <time datetime="1300">1300</time> with a <span style="color: #e6a64d;">communal charge</span>, the <span style="color: #e6a64d;">«right to gauge»</span> from which the institution had its income.</p>
     </article></section>
   </article></section>
 </article>
@@ -1182,7 +1182,7 @@
         <p>«at the time when the artist settled in Bruges, the city was one of the main centres of production of illuminated books in the burgundian Netherlands (...)</p>
         <p>Memling included a miniaturist among his Bruges relations: <a href="https://en.wikipedia.org/wiki/Willem_Vrelant" title="https://en.wikipedia.org/wiki/Willem_Vrelant">Willem Vrelant</a>.
         At the head of the city's most prolific pharmacy, Vrelant was, like Memling, an immigrant.</p>
-        <p>Originally from Utrecht, he was mentioned in the Bruges booksellers' guild from 1454 until his death in 1481.
+        <p>Originally from Utrecht, he was mentioned in the Bruges booksellers' guild from <time datetime="1454">1454</time> until his death in <time datetime="1481">1481</time>.
         Both living in Sint-Jorisstraat, Vrelant and Memling were almost neighbours (...)</p>
         <p>From the point of view of a visually convincing spatial representation, the relationship between the two figures in the foreground and the rest of the table (... an) inconsistency governs the relationship between the main figure and the wood in the intermediate plane (...)</p>
         <p>From one work to another, we find the same cumulative layering of the different zones of the landscape up to a horizon placed very high (...) in Vrelant's work»</p>
@@ -1229,7 +1229,7 @@
 
     <section><article>
       <p>As, in the scenes Memling painted, these texts are faithfully represented, we invite those who would like to feel more deeply the relationship of the triptych to the various texts to read them directly:</p>
-      ul>
+      <ul>
         <li>read the <a href="https:/francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18" title="https://francois-vidit.com/docs/en/saint-jean/page:18" class="yellow">original text of the <cite href="https:/francois-vidit. com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18">Legend of John the Baptist according to chapter 9 of <cite>The Golden Legend</cite></a>,</li>
         <li>read the <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:19" title="https://francois-vidit.com/docs/en/saintjean/page:19" class="yellow">original text of the <cite href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:19">John the Evangelist before the Latin Gate according to chapter 65 of <cite>The Golden Legend</cite></a>.</li>
       </ul>
