@@ -4119,9 +4119,9 @@
     <section><article>
       <h3 id="note_hoteriche" class="yellow">histoire de l'hôte riche</h3>
       <section><article>
-        <section><article>
+        <header>
             <p>Ce passage se rapporte à l'<cite>Évangile selon Luc</cite>, chapître 16, verset 19 et suivants:</p>
-        </article></section>
+        </header>
         <section><article>
           <div class="notices yellow">
             <ol clas="doc">
@@ -4144,10 +4144,10 @@
             </ol>
           </div>
         </article></section>
-        <section><article>
+        <footer>
           <p>Cette histoire est également racontée par Jean, plus en détail:</p>
           <p>voir <a href="https://www.aelf.org/bible/Jn/11" title="https://www.aelf.org/bible/Jn/11">Jean chapitre 11, verset 1-46</a>.</p>
-        </article></section>
+        </footer>
       </article></section>
       <footer>
         <p>retour au texte: <a href="#mathieu" title="Si tu veux être parfait">histoire de l'hôte riche ↑</a></p>
