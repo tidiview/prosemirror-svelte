@@ -1630,7 +1630,7 @@
     <h6 class="yellow">Scène de la décollation de Jean dans la cour du palais d'Hérode, du volet intérieur gauche</h6>
     <section><article>
       <p>L'histoire s'accomplit donc, tragique.</p>
-      <p>Un garde va <q>décapiter Jean dans la prison</q> <span style="color: #999;">(Marc, chapître 6, versets 22 à 23)</span>.</p>
+      <p>Un garde va <q>décapiter Jean dans la prison</q> <span style="color: #999;">(Marc, chapître 6, versets 28)</span>.</p>
     </article></section>
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
