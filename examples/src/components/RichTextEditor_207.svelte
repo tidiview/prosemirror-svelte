@@ -3830,14 +3830,12 @@
             <p>The priest executed and the dead resurrected immediately.</p>
             <p>So the apostle named in the name of Christ the priest and the proconsul, who converged with their entire family and then built a church in honor of <span style="color: #994c3d;">St. John</span>.</p>
           </article></section>
-
         </article></section>
       </article></section>
 
       <hr>
 
-      <aside>
-      <article>
+    <aside>
       <h2 id="notes" class="yellow">notes</h2>
         <section><article>
           <h3 id="note_nomdejean" class="yellow">name of John</h3>
@@ -3929,47 +3927,44 @@
           </footer>
         </article></section>
 
-        <section><article>
-          <h3 id="note_hoteriche" class="yellow">story of the rich host</h3>
+      <section><article>
+        <h3 id="note_hoteriche" class="yellow">story of the rich host</h3>
+          <header>
+            <p>This passage refers to the gospel according to Luke, chapter 16, verse 19 and following:</p>
+          </header>
           <section><article>
-            <header>
-              <p>This passage refers to the gospel according to Luke, chapter 16, verse 19 and following:</p>
-            </header>
-            <section><article>
-              <div class="notices yellow">
-              <ol>
-                <li value="19">«There was a rich man who used to dress in purple and fine linen and feast magnificently every day.</li>
-                <li value="20">And at his gate there used to lie a poor man called Lazarus, covered with sores,</li>
-                <li value="21">who longed to fill himself with what fell from the rich man's table. Even dogs came and licked his sores.</li>
-                <li value="22">Now it happened that the poor man died and was carried away by the angels into Abraham's embrace. The rich man also died and was buried.</li>
-                <li value="23">In his torment in Hades he looked up and saw Abraham a long way off with Lazarus in his embrace.
-                </li>
-                <li value="24">
-                  So he cried out:
-                  <blockquote>
-                    “Father Abraham, pity me and send Lazarus to dip the tip of his finger in water and cool my tongue, for I am in agony in these flames”.
-                  </blockquote>
-                </li>
-                <li value="25">
-                  – Abraham said:
-                  <blockquote>
-                    “My son, remember that during your life you had your fill of good things, just as Lazarus his fill of bad. Now he is being comforted here while you are in agony”.»
-                  </blockquote>
-                </li>
-              </ol>
-              </div>
-            </article></section>
-            <footer>
-              <p>This story is also told by John, more in detail: see <a href="https://www.catholic.org/bible/book.php?bible_chapter=11" title="https://www.catholic.org/bible/book.php?id=50&amp;bible_chapter=11" id="50">John chapter 11, verses 1 to 46</a></p>
-            </footer>
+            <div class="notices yellow">
+            <ol>
+              <li value="19">«There was a rich man who used to dress in purple and fine linen and feast magnificently every day.</li>
+              <li value="20">And at his gate there used to lie a poor man called Lazarus, covered with sores,</li>
+              <li value="21">who longed to fill himself with what fell from the rich man's table. Even dogs came and licked his sores.</li>
+              <li value="22">Now it happened that the poor man died and was carried away by the angels into Abraham's embrace. The rich man also died and was buried.</li>
+              <li value="23">In his torment in Hades he looked up and saw Abraham a long way off with Lazarus in his embrace.
+              </li>
+              <li value="24">
+                So he cried out:
+                <blockquote>
+                  “Father Abraham, pity me and send Lazarus to dip the tip of his finger in water and cool my tongue, for I am in agony in these flames”.
+                </blockquote>
+              </li>
+              <li value="25">
+                – Abraham said:
+                <blockquote>
+                  “My son, remember that during your life you had your fill of good things, just as Lazarus his fill of bad. Now he is being comforted here while you are in agony”.»
+                </blockquote>
+              </li>
+            </ol>
+            </div>
           </article></section>
           <footer>
-            <p>back to text: <a href="#mathieu" title="If you wish to be perfect">story of the rich host ↑</a></p>
+            <p>This story is also told by John, more in detail: see <a href="https://www.catholic.org/bible/book.php?bible_chapter=11" title="https://www.catholic.org/bible/book.php?id=50&amp;bible_chapter=11" id="50">John chapter 11, verses 1 to 46</a></p>
           </footer>
         </article></section>
-      </article>
-      </aside>
-    </article></section>
+        <footer>
+          <p>back to text: <a href="#mathieu" title="If you wish to be perfect">story of the rich host ↑</a></p>
+        </footer>
+      </article></section> 
+    </aside>
 
     <!-- Page 19 --><hr>
 
@@ -4008,538 +4003,538 @@
 
       <!-- Page 20 --><hr>
 
-    <section><article>
-      <h3 id="apocalypse" class="yellow">Vision of the throne of God and the heavenly court: the living on the throne and the Lamb</h3>
       <section><article>
-        <h4 id="apocalypse" class="yellow">Text of the vision of the throne of God and the heavenly court: the living on the throne and the Lamb</h4>
+        <h3 id="apocalypse" class="yellow">Vision of the throne of God and the heavenly court: the living on the throne and the Lamb</h3>
         <section><article>
+          <h4 id="apocalypse" class="yellow">Text of the vision of the throne of God and the heavenly court: the living on the throne and the Lamb</h4>
+          <section><article>
 
-          <section><article><p>out</p>
-            <ol class="doc">
-              <li>Chapter 4</li>
-              <li value="01">Then, in my vision, I saw a door open in heaven and heard the same voice speaking to me, the voice like a trumpet, saying,
-                <blockquote>
-                  “Come up here: I will show you what is to take place in the future.”
-                </blockquote>
-              </li>
-            </ol>
-          </article></section>
-          <hr>
-          <section><article>
-            <ol class="doc">
-              <li value="02">With that, I fell into <span style="color: #e6a64d;">ecstasy</span>.
-                and I saw a <span style="color: #e6a64d;">throne</span> standing in <span style="color: #e6a64d;">heaven</span>, and <span style="color: #e6a64d;">the One</span> who was sitting on the throne,</li>
-              <li value="03">and the One sitting there looked like a diamond and a ruby.
-              There was a <span style="color: #e6a64d;">rainbow</span> encircling the throne, and this looked like an emerald.</li>
-              <li value="04">Round the throne in a circle were twenty-four thrones, and on them <span style="color: #e6a64d;">twenty-four elders</span> sitting, dressed in white robes with golden crowns on their heads.</li>
-              <li value="05">Flashes of lightning were coming from the throne, and the sound of peals of thunder, and in front of the throne there were seven flaming lamps burning, the seven Spirits of God.</li>
-              <li value="06">In front of the throne was a sea as transparent as crystal.[In the middle of the throne and around it, were four living creatures all studded with eyes, in front and behind.]</li>
-            </ol>
-          </article></section>
-          <hr>
-          <section><article>
-            <ol class="doc">
-              <li value="07">The first living creature was like a <span style="color: #e6a64d;">lion</span>, the second like a <span style="color: #e6a64d;">young bull</span>, the third living creature had a <span style="color: #e6a64d;">human face</span>, and the fourth living creature was like a <span style="color: #e6a64d;">flying eagle</span>.</li>
-              <li value="08">
-                Each of the four living creatures had <span style="color: #e6a64d;">six wings</span> and was studded with eyes all the way round as well as inside; and day and night they never stopped singing:
-                <blockquote>
-                  “Saint! saint! saint, le seigneur dieu, le souverain de l’univers, celui qui était, qui est et qui vient.”
-                </blockquote>
-              </li>
-            </ol>
-          </article></section>
-          <hr>
-          <section><article><p>out</p>
+            <section><article><p>out</p>
               <ol class="doc">
-                <li value="9">Every time the living creatures glorified and honoured and gave thanks to the One sitting on the throne, who lives for ever and ever,</li>
-                <li value="10">the twenty-four elders prostrated themselves before him to worship the One who lives for ever and ever, and threw down their crowns in front of the throne, saying:</li>
-                <li value="11">«You are worthy, our Lord and God, to receive glory and honour and power, for you made the whole universe; by your will, when it did not exist, it was created.»</li>
-              </ol>
-          </article></section>
-          <hr>
-          <section><article><p>out</p>
-            <ol class="doc">
-              <li>Chapître 5</li>
-              <li value="1">I saw that in the right hand of the One sitting on the throne there was a scroll that was written on back and front and was sealed with seven seals.</li>
-              <li value="2">Then I saw a powerful angel who called with a loud voice
-                <blockquote>
-                  “Who is worthy to open the scroll and break its seals?”
-                </blockquote>
-              </li>
-              <li value="3">But there was no one, in heaven or on the earth or under the earth, who was able to open the scroll and read it.</li>
-              <li value="4">I wept bitterly because nobody could be found to open the scroll and read it,</li>
-              <li value="5">but one of the elders said to me
-                <blockquote>
-                  “Do not weep. Look, the Lion of the tribe of Judah, the Root of David, has triumphed, and so he will open the scroll and its seven seals.”
-                </blockquote>
-              </li>
-            </ol>
-          </article></section>
-          <hr>
-          <section><article>
-            <ol class="doc">
-              <li value="06">Then I saw, in the middle of the throne with its four living creatures and the circle of the elders, a Lamb standing that seemed to have been sacrificed; it had seven horns, and it had seven eyes, which are the seven Spirits that God has sent out over the whole world.</li>
-              <li value="07">The Lamb came forward to take the scroll from the right hand of the One sitting on the throne,</li>
-            </ol>
-          </article></section>
-          <hr>
-          <section><article><p>out</p>
-              <ol class="doc">
-                <li value="8">and when he took it, the four living creatures prostrated themselves before him and with them the twenty-four elders; each one of them was holding a harp and had a golden bowl full of incense which are the prayers of the saints.</li>
-                <li value="9">They sang a new hymn: You are worthy to take the scroll and to break its seals, because you were sacrificed, and with your blood you bought people for God of every race, language, people and nation.</li>
-                <li value="10">and made them a line of kings and priests for God, to rule the world.</li>
-                <li value="11">In my vision, I heard the sound of an immense number of angels gathered round the throne and the living creatures and the elders; there were ten thousand times ten thousand of them and thousands upon thousands,</li>
-                <li value="12">loudly chanting: Worthy is the Lamb that was sacrificed to receive power, riches, wisdom, strength, honour, glory and blessing.</li>
-                <li value="13">Then I heard all the living things in creation -- everything that lives in heaven, and on earth, and under the earth, and in the sea, crying:
+                <li>Chapter 4</li>
+                <li value="01">Then, in my vision, I saw a door open in heaven and heard the same voice speaking to me, the voice like a trumpet, saying,
                   <blockquote>
-                    “To the One seated on the throne and to the Lamb, be all praise, honour, glory and power, for ever and ever.”
+                    “Come up here: I will show you what is to take place in the future.”
                   </blockquote>
                 </li>
-                <li value="14">And the four living creatures said,
-                  <blockquote>
-                    “Amen”
-                  </blockquote>
-                and the elders prostrated themselves to worship.</li>
               </ol>
-          </article></section>
-          <hr>
-          <section><article>
-            <ol class="doc">
-                <li>chapter 6</li>
-                <li value="01">
-                  Then, in my vision, I saw the Lamb break one of the seven seals, and I heard one of the four living creatures shout in a voice like thunder:
+            </article></section>
+            <hr>
+            <section><article>
+              <ol class="doc">
+                <li value="02">With that, I fell into <span style="color: #e6a64d;">ecstasy</span>.
+                  and I saw a <span style="color: #e6a64d;">throne</span> standing in <span style="color: #e6a64d;">heaven</span>, and <span style="color: #e6a64d;">the One</span> who was sitting on the throne,</li>
+                <li value="03">and the One sitting there looked like a diamond and a ruby.
+                There was a <span style="color: #e6a64d;">rainbow</span> encircling the throne, and this looked like an emerald.</li>
+                <li value="04">Round the throne in a circle were twenty-four thrones, and on them <span style="color: #e6a64d;">twenty-four elders</span> sitting, dressed in white robes with golden crowns on their heads.</li>
+                <li value="05">Flashes of lightning were coming from the throne, and the sound of peals of thunder, and in front of the throne there were seven flaming lamps burning, the seven Spirits of God.</li>
+                <li value="06">In front of the throne was a sea as transparent as crystal.[In the middle of the throne and around it, were four living creatures all studded with eyes, in front and behind.]</li>
+              </ol>
+            </article></section>
+            <hr>
+            <section><article>
+              <ol class="doc">
+                <li value="07">The first living creature was like a <span style="color: #e6a64d;">lion</span>, the second like a <span style="color: #e6a64d;">young bull</span>, the third living creature had a <span style="color: #e6a64d;">human face</span>, and the fourth living creature was like a <span style="color: #e6a64d;">flying eagle</span>.</li>
+                <li value="08">
+                  Each of the four living creatures had <span style="color: #e6a64d;">six wings</span> and was studded with eyes all the way round as well as inside; and day and night they never stopped singing:
+                  <blockquote>
+                    “Saint! saint! saint, le seigneur dieu, le souverain de l’univers, celui qui était, qui est et qui vient.”
+                  </blockquote>
+                </li>
+              </ol>
+            </article></section>
+            <hr>
+            <section><article><p>out</p>
+                <ol class="doc">
+                  <li value="9">Every time the living creatures glorified and honoured and gave thanks to the One sitting on the throne, who lives for ever and ever,</li>
+                  <li value="10">the twenty-four elders prostrated themselves before him to worship the One who lives for ever and ever, and threw down their crowns in front of the throne, saying:</li>
+                  <li value="11">«You are worthy, our Lord and God, to receive glory and honour and power, for you made the whole universe; by your will, when it did not exist, it was created.»</li>
+                </ol>
+            </article></section>
+            <hr>
+            <section><article><p>out</p>
+              <ol class="doc">
+                <li>Chapître 5</li>
+                <li value="1">I saw that in the right hand of the One sitting on the throne there was a scroll that was written on back and front and was sealed with seven seals.</li>
+                <li value="2">Then I saw a powerful angel who called with a loud voice
+                  <blockquote>
+                    “Who is worthy to open the scroll and break its seals?”
+                  </blockquote>
+                </li>
+                <li value="3">But there was no one, in heaven or on the earth or under the earth, who was able to open the scroll and read it.</li>
+                <li value="4">I wept bitterly because nobody could be found to open the scroll and read it,</li>
+                <li value="5">but one of the elders said to me
+                  <blockquote>
+                    “Do not weep. Look, the Lion of the tribe of Judah, the Root of David, has triumphed, and so he will open the scroll and its seven seals.”
+                  </blockquote>
+                </li>
+              </ol>
+            </article></section>
+            <hr>
+            <section><article>
+              <ol class="doc">
+                <li value="06">Then I saw, in the middle of the throne with its four living creatures and the circle of the elders, a Lamb standing that seemed to have been sacrificed; it had seven horns, and it had seven eyes, which are the seven Spirits that God has sent out over the whole world.</li>
+                <li value="07">The Lamb came forward to take the scroll from the right hand of the One sitting on the throne,</li>
+              </ol>
+            </article></section>
+            <hr>
+            <section><article><p>out</p>
+                <ol class="doc">
+                  <li value="8">and when he took it, the four living creatures prostrated themselves before him and with them the twenty-four elders; each one of them was holding a harp and had a golden bowl full of incense which are the prayers of the saints.</li>
+                  <li value="9">They sang a new hymn: You are worthy to take the scroll and to break its seals, because you were sacrificed, and with your blood you bought people for God of every race, language, people and nation.</li>
+                  <li value="10">and made them a line of kings and priests for God, to rule the world.</li>
+                  <li value="11">In my vision, I heard the sound of an immense number of angels gathered round the throne and the living creatures and the elders; there were ten thousand times ten thousand of them and thousands upon thousands,</li>
+                  <li value="12">loudly chanting: Worthy is the Lamb that was sacrificed to receive power, riches, wisdom, strength, honour, glory and blessing.</li>
+                  <li value="13">Then I heard all the living things in creation -- everything that lives in heaven, and on earth, and under the earth, and in the sea, crying:
+                    <blockquote>
+                      “To the One seated on the throne and to the Lamb, be all praise, honour, glory and power, for ever and ever.”
+                    </blockquote>
+                  </li>
+                  <li value="14">And the four living creatures said,
+                    <blockquote>
+                      “Amen”
+                    </blockquote>
+                  and the elders prostrated themselves to worship.</li>
+                </ol>
+            </article></section>
+            <hr>
+            <section><article>
+              <ol class="doc">
+                  <li>chapter 6</li>
+                  <li value="01">
+                    Then, in my vision, I saw the Lamb break one of the seven seals, and I heard one of the four living creatures shout in a voice like thunder:
+                    <blockquote>
+                      “Come!”
+                    </blockquote>
+                  </li>
+                  <li value="02">Immediately I saw a <span style="color: #e6a64d;">white horse</span> appear, and its rider was holding a <span style="color: #e6a64d;">bow</span>; he was given a victor's <span style="color: #e6a64d;">crown</span> and he went away, to go from victory to victory.</li>
+                </ol>
+            </article></section>
+            <hr>
+            <section><article>
+              <ol class="doc">
+                <li value="03">When he broke the second seal, I heard the second living creature shout:
                   <blockquote>
                     “Come!”
                   </blockquote>
                 </li>
-                <li value="02">Immediately I saw a <span style="color: #e6a64d;">white horse</span> appear, and its rider was holding a <span style="color: #e6a64d;">bow</span>; he was given a victor's <span style="color: #e6a64d;">crown</span> and he went away, to go from victory to victory.</li>
+                <li value="04">And out came another <span style="color: #e6a64d;">horse</span>, <span style="color: #e6a64d;">bright red</span>, and its rider was given this duty: to take away peace from the earth and set people killing each other. He was given a huge <span style="color: #e6a64d;">sword</span>.</li>
               </ol>
-          </article></section>
-          <hr>
-          <section><article>
-            <ol class="doc">
-              <li value="03">When he broke the second seal, I heard the second living creature shout:
-                <blockquote>
-                  “Come!”
-                </blockquote>
-              </li>
-              <li value="04">And out came another <span style="color: #e6a64d;">horse</span>, <span style="color: #e6a64d;">bright red</span>, and its rider was given this duty: to take away peace from the earth and set people killing each other. He was given a huge <span style="color: #e6a64d;">sword</span>.</li>
-            </ol>
-          </article></section>
-          <hr>
-          <section><article>
-            <ol class="doc">
-              <li value="05">
-                When he broke the third seal, I heard the third living creature shout:
-                <blockquote>
-                  “Come!”
-                </blockquote>
-              Immediately I saw a <span style="color: #e6a64d;">black horse</span> appear, and its rider was holding a <span style="color: #e6a64d;">pair of scales</span>;
-              </li>
-              <li value="06">
-                and I seemed to hear a voice shout from among the four living creatures and say:
-                <blockquote>
-                  “A day's wages for a quart of corn, and a day's wages for three quarts of barley, but do not tamper with the oil or the wine.”
-                </blockquote>
-              </li>
-            </ol>
-          </article></section>
-          <hr>
-          <section><article>
-            <ol class="doc">
-              <li value="07">
-                When he broke the fourth seal, I heard the voice of the fourth living creature shout:
-              <blockquote>
-                “Come!”
-              </blockquote>
-              </li>
-              <li value="08">
-              Immediately I saw another horse appear, <span style="color: #e6a64d;">deathly pale</span>, and its rider was called <span style="color: #e6a64d;">Death</span>, and Hades followed at its heels. </li>
-              <li>They were given authority over a <span style="color: #e6a64d;">quarter of the earth</span>, to kill by the sword, by famine, by plague and through wild beasts.</li>
-            </ol>
-            <footer>
+            </article></section>
+            <hr>
+            <section><article>
               <ol class="doc">
-                <li><span style="color: #999;">(…)</span></li>
+                <li value="05">
+                  When he broke the third seal, I heard the third living creature shout:
+                  <blockquote>
+                    “Come!”
+                  </blockquote>
+                Immediately I saw a <span style="color: #e6a64d;">black horse</span> appear, and its rider was holding a <span style="color: #e6a64d;">pair of scales</span>;
+                </li>
+                <li value="06">
+                  and I seemed to hear a voice shout from among the four living creatures and say:
+                  <blockquote>
+                    “A day's wages for a quart of corn, and a day's wages for three quarts of barley, but do not tamper with the oil or the wine.”
+                  </blockquote>
+                </li>
               </ol>
-            </footer>
+            </article></section>
+            <hr>
+            <section><article>
+              <ol class="doc">
+                <li value="07">
+                  When he broke the fourth seal, I heard the voice of the fourth living creature shout:
+                <blockquote>
+                  “Come!”
+                </blockquote>
+                </li>
+                <li value="08">
+                Immediately I saw another horse appear, <span style="color: #e6a64d;">deathly pale</span>, and its rider was called <span style="color: #e6a64d;">Death</span>, and Hades followed at its heels. </li>
+                <li>They were given authority over a <span style="color: #e6a64d;">quarter of the earth</span>, to kill by the sword, by famine, by plague and through wild beasts.</li>
+              </ol>
+              <footer>
+                <ol class="doc">
+                  <li><span style="color: #999;">(…)</span></li>
+                </ol>
+              </footer>
+            </article></section>
+            <hr>
+            <section><article><p>out</p>
+              <ol class="doc">
+                <li value="9">
+                When he broke the fifth seal, I saw underneath the altar the souls of all the people who had been killed on account of the Word of God, for witnessing to it.</li>
+                <li value="10">They shouted in a loud voice:
+                  <blockquote>
+                    “Holy, true Master, how much longer will you wait before you pass sentence and take vengeance for our death on the inhabitants of the earth?”
+                  </blockquote>
+                </li>
+                <li value="11">Each of them was given a white robe, and they were told to be patient a little longer, until the roll was completed of their fellow-servants and brothers who were still to be killed as they had been.</li>
+                <li value="12">In my vision, when he broke the sixth seal, there was a violent earthquake and the sun went as black as coarse sackcloth; the moon turned red as blood all over,</li>
+                <li value="13">and the stars of the sky fell onto the earth like figs dropping from a fig tree when a high wind shakes it;</li>
+              </ol>
+            </article></section>
+            <hr>
+            <section><article>
+              <ol class="doc">
+                <li value="14">the sky disappeared like a scroll rolling up and all the mountains and islands were shaken from their places.</li>
+                <li value="15">Then all the <span style="color: #e6a64d;">kings of the earth, the governors and the commanders, the rich people and the men of influence, the whole population, slaves and citizens, hid in caverns and among the rocks of the mountains</span>.</li>
+                <li value="16">They said to the mountains and the rocks:
+                <blockquote>
+                  “Fall on us and hide us away from the One who sits on the throne and from the retribution of the Lamb.
+                </blockquote>
+                </li>
+                <li value="17">
+                <blockquote>
+                  For the Great Day of his retribution has come, and who can face it?”
+                </blockquote>
+                </li>
+              </ol>
+            </article></section>
+            <hr>
+            <section><article><p>out</p>
+              <ol class="doc">
+                <li>chapter 7</li>
+                <li value="1">Next I saw four angels, standing at the four corners of the earth, holding back the four winds of the world to keep them from blowing over the land or the sea or any tree.</li>
+                <li value="2">Then I saw another angel rising where the sun rises, carrying the seal of the living God; he called in a powerful voice to the four angels whose duty was to devastate land and sea,</li>
+                <li value="3">
+                  <blockquote>
+                    “Wait before you do any damage on land or at sea or to the trees, until we have put the seal on the foreheads of the servants of our God.”
+                  </blockquote>
+                </li>
+                <li value="4">And I heard how many had been sealed: a hundred and forty-four thousand, out of all the tribes of Israel.</li>
+                <li value="5">From the tribe of Judah, twelve thousand had been sealed; from the tribe of Reuben, twelve thousand; from the tribe of Gad, twelve thousand;</li>
+                <li value="6">from the tribe of Asher, twelve thousand; from the tribe of Naphtali, twelve thousand; from the tribe of Manasseh, twelve thousand;</li>
+                <li value="7">from the tribe of Simeon, twelve thousand; from the tribe of Levi, twelve thousand; from the tribe of Issachar, twelve thousand;</li>
+                <li value="8">from the tribe of Zebulun, twelve thousand; and from the tribe of Benjamin, twelve thousand had been sealed.</li>
+                <li value="9">After that I saw that there was a huge number, impossible for anyone to count, of people from every nation, race, tribe and language; they were standing in front of the throne and in front of the Lamb, dressed in white robes and holding palms in their hands.</li>
+                <li value="10">They shouted in a loud voice:
+                  <blockquote>
+                    “Salvation to our God, who sits on the throne, and to the Lamb!”
+                  </blockquote>
+                </li>
+                <li value="11">And all the angels who were standing in a circle round the throne, surrounding the elders and the four living creatures, prostrated themselves before the throne, and touched the ground with their foreheads, worshipping God.</li>
+                <li value="12">with these words:
+                  <blockquote>
+                    “Amen. Praise and glory and wisdom, thanksgiving and honour and power and strength to our God for ever and ever. Amen.”
+                  </blockquote>
+                </li>
+                <li value="13">One of the elders then spoke and asked me:
+                  <blockquote>
+                    “Who are these people, dressed in white robes, and where have they come from?”
+                  </blockquote>
+                </li>
+                <li value="14">I answered him:
+                  <blockquote>
+                    “You can tell me, sir.”
+                  </blockquote>
+                  Then he said:
+                  <blockquote>
+                    “These are the people who have been through the great trial; they have washed their robes white again in the blood of the Lamb.”
+                  </blockquote>
+                </li>
+                <li value="15">
+                  <blockquote>
+                    “That is why they are standing in front of God's throne and serving him day and night in his sanctuary; and the One who sits on the throne will spread his tent over them.
+                  </blockquote>
+                </li>
+                <li value="16">
+                  <blockquote>
+                    They will never hunger or thirst again; sun and scorching wind will never plague them,
+                  </blockquote>
+                </li>
+                <li value="17">
+                  <blockquote>
+                    because the Lamb who is at the heart of the throne will be their shepherd and will guide them to springs of living water; and God will wipe away all tears from their eyes.”
+                  </blockquote>
+                </li>
+              </ol>
+            </article></section>
+            <hr>
+            <section><article>
+              <ol class="doc">
+                <li>chapter 8</li>
+                <li value="01">The Lamb then broke the seventh seal, and there was silence in heaven for about half an hour.</li>
+                <li value="02">Next I saw <span style="color: #e6a64d;">seven trumpets</span> being given to the seven angels who stand in the presence of God.</li>
+              </ol>
+            </article></section>
+            <hr>
+            <section><article>
+              <ol class="doc">
+                <li value="03">
+                  Another angel, who had a <span style="color: #e6a64d;">golden censer</span>, came and stood at the altar. A large quantity of incense was given to him to offer with the prayers of all the saints on the <span style="color: #e6a64d;">golden altar</span> that stood in front of the throne;
+                </li>
+              </ol>
+            </article></section>
+            <hr>
+            <section><article>
+              <ol class="doc">
+                <li value="04">and so from the angel's hand the smoke of the incense went up in the presence of God and with it the prayers of the saints.</li>
+                <li value="05">Then the angel took the censer and filled it from the fire of the altar, which he then hurled down onto the earth; immediately there came peals of thunder and flashes of lightning, and the earth shook.</li>
+                <li value="06">The seven angels that had the seven trumpets now made ready to sound them.</li>
+                <li value="07">The first blew his trumpet and, with that, hail and fire, mixed with blood, were hurled on the earth: a third of the earth was burnt up, and a third of all trees, and every blade of grass was burnt.</li>
+                <li value="08">The second angel blew his trumpet, and it was as though a <span style="color: #e6a64d;">great mountain blazing with fire</span> was hurled into the sea: a third of the sea turned into blood,</li>
+                <li value="09">a third of all the living things in the sea were killed, and <span style="color: #e6a64d;">a third of all ships were destroyed</span>.</li>
+              </ol>
+            </article></section>
+            <hr>
+            <section><article>
+              <ol class="doc">
+                <li value="10">The third angel blew his trumpet, and a <span style="color: #e6a64d;">huge star fell from the sky, burning like a ball of fire</span>, and it fell on a third of all rivers and on the springs of water.</li>
+                <li value="11">this was the star called “<span style="color: #e6a64d;">Wormwood</span>”, and a third of all water turned to wormwood, so that many people died; the water had become so bitter.</li>
+                <li value="12">The fourth angel blew his trumpet, and a third of the sun and a third of the moon and a third of the stars were blasted, so that the light went out of a third of them and the day lost a third of its illumination, and likewise the night.</li>
+              </ol>
+            </article></section>
+            <hr>
+            <section><article>
+              <ol class="doc">
+                <li value="13">In my vision, I heard an <span style="color: #e6a64d;">eagle</span>, calling aloud as it flew high overhead:
+                  <blockquote>
+                    “Disaster, disaster, disaster, on all the people on earth at the sound of the other three trumpets which the three angels have yet to blow!”
+                  </blockquote>
+                </li>
+              </ol>
+            </article></section>
+            <hr>
+            <section><article>
+              <ol class="doc">
+                <li>chapter 9</li>
+                <li value="01">Then the fifth angel blew his trumpet, and I saw a star that had fallen from heaven onto the earth, and the angel was given the key to the shaft leading down to the <span style="color: #e6a64d;">Abyss</span>.</li>
+                <li value="02">When he unlocked the <span style="color: #e6a64d;">shaft of the Abyss, smoke rose out of the Abyss like the smoke from a huge furnace</span> so that the sun and the sky were darkened by the smoke from the Abyss,</li>
+                <li value="03">and out of the smoke dropped <span style="color: #e6a64d;">locusts</span> onto the earth: they were given the powers that scorpions have on the earth.</li>
+                <li value="04">they were forbidden to harm any fields or crops or trees and told to attack only those people who were without God's seal on their foreheads.</li>
+                <li value="05">They were not to kill them, but to give them anguish for five months, and the anguish was to be the anguish of a scorpion's sting.</li>
+                <li value="06">When this happens, people will long for death and not find it anywhere; they will want to die and death will evade them.</li>
+              </ol>
+            </article></section>
+            <hr>
+            <section><article>
+              <ol class="doc">
+                <li value="07">These <span style="color: #e6a64d;">locusts</span> looked like horses armoured for battle; they had what looked like gold crowns on their heads, and their faces looked human,</li>
+                <li value="08">and their hair was like women's hair, and teeth like lion's teeth.</li>
+                <li value="09">They had body-armour like iron breastplates, and the noise of their wings sounded like the racket of chariots with many horses charging.</li>
+                <li value="10">Their tails were like scorpions' tails, with stings, and with their tails they were able to torture people for five months.</li>
+                <li value="11">As their leader they had their emperor, the angel of the Abyss, whose name in Hebrew is ”Abaddon”, and in Greek ”Apollyon” (meaning: Destructor).</li>
+              </ol>
+            </article></section>
+            <hr>
+            <section><article><p>out</p>
+              <ol class="doc">
+                <li value="12">That was the first of the disasters; there are still two more to come.</li>
+                <li value="13">The sixth angel blew his trumpet, and I heard a single voice issuing from the four horns of the golden altar in God's presence.</li>
+                <li value="14">It spoke to the sixth angel with the trumpet, and said:
+                  <blockquote>
+                    “Release the four angels that are chained up at the great river Euphrates.”
+                  </blockquote>
+                </li>
+                <li value="15">These four angels had been ready for this hour of this day of this month of this year, and ready to destroy a third of the human race.</li>
+                <li value="16">I learnt how many there were in their army: twice ten thousand times ten thousand mounted men.</li>
+                <li value="17">In my vision I saw the horses, and the riders with their breastplates of flame colour, hyacinth-blue and sulphur-yellow; the horses had lions' heads, and fire, smoke and sulphur were coming from their mouths.</li>
+                <li value="18">It was by these three plagues, the fire, the smoke and the sulphur coming from their mouths, that the one third of the human race was killed.</li>
+                <li value="19">All the horses' power was in their mouths and their tails: their tails were like snakes, and had heads which inflicted wounds.</li>
+                <li value="20">But the rest of the human race, who escaped death by these plagues, refused either to abandon their own handiwork or to stop worshipping devils, the idols made of gold, silver, bronze, stone and wood that can neither see nor hear nor move.</li>
+                <li value="21">Nor did they give up their murdering, or witchcraft, or fornication or stealing.</li>
+              </ol>
+            </article></section>
+            <hr>
+            <section><article>
+              <ol class="doc">
+                <li>chapter 10</li>
+                <li value="01">Then I saw another powerful <span style="color: #e6a64d;">angel</span> coming down from heaven, <span style="color: #e6a64d;">wrapped in cloud</span>, with a <span style="color: #e6a64d;">rainbow</span> over his head; his face was like the <span style="color: #e6a64d;">sun</span>, and his legs were <span style="color: #e6a64d;">pillars of fire</span>.</li>
+                <li>In his hand he had a small scroll, unrolled; he put his right foot in the sea and his left foot on the land</li>
+              </ol>
+            </article></section>
+            <hr>
+            <section><article>
+              <ol class="doc">
+                <li value="03">and he shouted so loud, it was like a lion roaring. At this, the seven claps of thunder made themselves heard.</li>
+                <li value="04">Eand when the seven thunderclaps had sounded, I was preparing to write, when I heard a voice from heaven say to me:
+                <blockquote>
+                  “Keep the words of the seven thunderclaps secret and do not write them down.”
+                </blockquote></li>
+                <li value="05">Then the angel that I had seen, standing on the sea and the land, raised his right hand to heaven,</li>
+                <li value="06">and swore by him who lives for ever and ever, and made heaven and all that it contains, and earth and all it contains, and the sea and all it contains:
+                <blockquote>
+                  “The time of waiting is over.
+                </blockquote></li>
+              </ol>
+            </article></section>
+            <hr>
+            <section><article><p>out</p>
+              <ol class="doc">
+                <li value="07">
+                  <blockquote>
+                    at the time when the seventh angel is heard sounding his trumpet, the mystery of God will be fulfilled, just as he announced in the gospel to his servants the prophets.”
+                  </blockquote>
+                </li>
+                <li value="08">Then I heard the voice I had heard from heaven speaking to me again.
+                  <blockquote>
+                    “Go”,
+                  </blockquote>
+                it said,
+                  <blockquote>
+                    “and take that open scroll from the hand of the angel standing on sea and land.”
+                  </blockquote>
+                </li>
+                <li value="09">I went to the angel and asked him to give me the small scroll, and he said,
+                  <blockquote>
+                    “Take it and eat it; it will turn your stomach sour, but it will taste as sweet as honey.”
+                  </blockquote>
+                </li>
+                <li value="10">So I took it out of the angel's hand, and I ate it and it tasted sweet as honey, but when I had eaten it my stomach turned sour.</li>
+                <li value="11">Then I was told,
+                  <blockquote>
+                    “You are to prophesy again, this time against many different nations and countries and languages and kings.”
+                  </blockquote>
+                </li>
+              </ol>
+            </article></section>
+            <hr>
+            <section><article><p>out</p>
+              <ol class="doc">
+                <li>chapter 11</li>
+                <li value="1">Then I was given a long cane like a measuring rod, and I was told,
+                  <blockquote>
+                    “Get up and measure God's sanctuary, and the altar, and the people who worship there;
+                  </blockquote>
+                </li>
+                <li value="2">
+                  <blockquote>
+                    but exclude the outer court and do not measure it, because it has been handed over to gentiles -- they will trample on the holy city for forty-two months.
+                  </blockquote>
+                </li>
+                <li value="3">
+                  <blockquote>
+                    But I shall send my two witnesses to prophesy for twelve hundred and sixty days, wearing sackcloth.
+                  </blockquote>
+                </li>
+                <li value="4">
+                  <blockquote>
+                    These are the two olive trees and the two lamps in attendance on the Lord of the world.
+                  </blockquote>
+                </li>
+                <li value="5">
+                  <blockquote>
+                    Fire comes from their mouths and consumes their enemies if anyone tries to harm them; and anyone who tries to harm them will certainly be killed in this way.
+                  </blockquote>
+                </li>
+                <li value="6">
+                  <blockquote>
+                    They have the power to lock up the sky so that it does not rain as long as they are prophesying; they have the power to turn water into blood and strike the whole world with any plague as often as they like.
+                  </blockquote>
+                </li>
+                <li value="7">
+                  <blockquote>
+                    When they have completed their witnessing, the beast that comes out of the Abyss is going to make war on them and overcome them and kill them.
+                  </blockquote>
+                </li>
+                <li value="8">
+                  <blockquote>
+                    Their corpses lie in the main street of the great city known by the symbolic names Sodom and Egypt, in which their Lord was crucified.
+                  </blockquote>
+                </li>
+                <li value="9">
+                  <blockquote>
+                    People of every race, tribe, language and nation stare at their corpses, for three-and-a-half days, not letting them be buried,
+                  </blockquote>
+                </li>
+                <li value="10">
+                  <blockquote>
+                    and the people of the world are glad about it and celebrate the event by giving presents to each other, because these two prophets have been a plague to the people of the world.”
+                  </blockquote>
+                </li>
+                <li value="11">After the three-and-a-half days, God breathed life into them and they stood up on their feet, and everybody who saw it happen was terrified;</li>
+                <li value="12">then I heard a loud voice from heaven say to them,
+                  <blockquote>
+                    “Come up here,”
+                  </blockquote>
+                and while their enemies were watching, they went up to heaven in a cloud.</li>
+                <li value="13">Immediately, there was a violent earthquake, and a tenth of the city collapsed; seven thousand persons were killed in the earthquake, and the survivors, overcome with fear, could only praise the God of heaven.</li>
+                <li value="14">That was the second of the disasters; the third is to come quickly after it.</li>
+                <li value=15">Then the seventh angel blew his trumpet, and voices could be heard shouting in heaven, calling,
+                  <blockquote>
+                    “The kingdom of the world has become the kingdom of our Lord and his Christ, and he will reign for ever and ever.”
+                  </blockquote>
+                </li>
+                <li value="16">The twenty-four elders, enthroned in the presence of God, prostrated themselves and touched the ground with their foreheads worshipping God</li>
+                <li value="17">with these words,
+                  <blockquote>
+                    “We give thanks to you, Almighty Lord God, He who is, He who was, for assuming your great power and beginning your reign.
+                  </blockquote>
+                </li>
+                <li value="18">
+                  <blockquote>
+                    The nations were in uproar and now the time has come for your retribution, and for the dead to be judged, and for your servants the prophets, for the saints and for those who fear your name, small and great alike, to be rewarded. The time has come to destroy those who are destroying the earth.”
+                  </blockquote>
+                </li>
+                <li value="19">Then the sanctuary of God in heaven opened, and the ark of the covenant could be seen inside it. Then came flashes of lightning, peals of thunder and an earthquake and violent hail.</li>
+              </ol>
+            </article></section>
+            <hr>
+            <section><article>
+              <ol class="doc">
+                <li>chapter 12</li>
+                <li value="01">Now a great sign appeared in heaven: a <span style="color: #e6a64d;">woman</span>, robed with the sun, standing on the moon, and on her head a crown of twelve stars.</li>
+                <li value="02">She was pregnant, and in labour, crying aloud in the pangs of childbirth.</li>
+                <li value="03">Then a second sign appeared in the sky: there was a <span style="color: #e6a64d;">huge red dragon</span> with seven heads and ten horns, and each of the seven heads crowned with a coronet.</li>
+                <li value="04">Its tail swept a third of the stars from the sky and hurled them to the ground, and the dragon stopped in front of the woman as she was at the point of giving birth, so that it could eat the child as soon as it was born.</li>
+              </ol>
+            </article></section>
+            <hr>
+            <section><article>
+              <ol class="doc">
+                <li value="05">The woman was delivered of a boy, the son who was to rule all the nations with an iron sceptre, and the child was taken straight up to God and to his throne,</li>
+                <li value="06">while the woman escaped into the desert, where God had prepared a place for her to be looked after for twelve hundred and sixty days.</li>
+                <li value="07">And now war broke out in heaven, when Michael with his angels attacked the dragon.
+                The dragon fought back with his angels,</li>
+                <li value="08">but they were defeated and driven out of heaven.</li>
+                <li value="09">The great dragon, the primeval serpent, known as the devil or Satan, who had led all the world astray, was hurled down to the earth and his angels were hurled down with him.</li>
+              </ol>
+            </article></section>
+            <hr>
+            <section><article>
+              <ol class="doc">
+                <li value="10">Then I heard a voice shout from heaven,
+                  <blockquote>
+                    “Salvation and power and empire for ever have been won by our God, and all authority for his Christ,
+                  </blockquote>
+                </li>
+                <li>
+                  <blockquote>
+                    now that the accuser, who accused our brothers day and night before our God, has been brought down.
+                  </blockquote>
+                </li>
+                <li value="11">
+                  <blockquote>
+                    They have triumphed over him by the blood of the Lamb and by the word to which they bore witness, because even in the face of death they did not cling to life.
+                  </blockquote>
+                </li>
+                <li value="12">
+                  <blockquote>
+                    So let the heavens rejoice and all who live there; but for you, earth and sea, disaster is coming
+                  </blockquote>
+                </li>
+                <li>
+                  <blockquote>
+                    -- because the devil has gone down to you in a rage, knowing that he has little time left.”
+                  </blockquote>
+                </li>
+                <li value="13">As soon as the <span style="color: #e6a64d;">dragon</span> found himself hurled down to the earth, he sprang in pursuit of the <span style="color: #e6a64d;">woman</span>, the mother of the male child.</li>
+                <li value="14">but she was given a pair of the <span style="color: #e6a64d;">great eagle's wings</span> to fly away from the serpent into the desert, to the place where she was to be looked after for a time, two times and half a time.</li>
+              </ol>
+            </article></section>
+            <hr>
+            <section><article><p>out</p>
+              <ol class="doc">
+                <li value="15">So the serpent vomited water from his mouth, like a river, after the woman, to sweep her away in the current,</li>
+                <li value="16">but the earth came to her rescue; it opened its mouth and swallowed the river spewed from the dragon's mouth.</li>
+                <li value="17">Then the dragon was enraged with the woman and went away to make war on the rest of her children, who obey God's commandments and have in themselves the witness of Jesus.</li>
+                <li value="18">And I took my stand on the seashore.</li>
+              </ol>
+            </article></section>
+            <hr>
           </article></section>
-          <hr>
-          <section><article><p>out</p>
-            <ol class="doc">
-              <li value="9">
-              When he broke the fifth seal, I saw underneath the altar the souls of all the people who had been killed on account of the Word of God, for witnessing to it.</li>
-              <li value="10">They shouted in a loud voice:
-                <blockquote>
-                  “Holy, true Master, how much longer will you wait before you pass sentence and take vengeance for our death on the inhabitants of the earth?”
-                </blockquote>
-              </li>
-              <li value="11">Each of them was given a white robe, and they were told to be patient a little longer, until the roll was completed of their fellow-servants and brothers who were still to be killed as they had been.</li>
-              <li value="12">In my vision, when he broke the sixth seal, there was a violent earthquake and the sun went as black as coarse sackcloth; the moon turned red as blood all over,</li>
-              <li value="13">and the stars of the sky fell onto the earth like figs dropping from a fig tree when a high wind shakes it;</li>
-            </ol>
-          </article></section>
-          <hr>
-          <section><article>
-            <ol class="doc">
-              <li value="14">the sky disappeared like a scroll rolling up and all the mountains and islands were shaken from their places.</li>
-              <li value="15">Then all the <span style="color: #e6a64d;">kings of the earth, the governors and the commanders, the rich people and the men of influence, the whole population, slaves and citizens, hid in caverns and among the rocks of the mountains</span>.</li>
-              <li value="16">They said to the mountains and the rocks:
-              <blockquote>
-                “Fall on us and hide us away from the One who sits on the throne and from the retribution of the Lamb.
-              </blockquote>
-              </li>
-              <li value="17">
-              <blockquote>
-                For the Great Day of his retribution has come, and who can face it?”
-              </blockquote>
-              </li>
-            </ol>
-          </article></section>
-          <hr>
-          <section><article><p>out</p>
-            <ol class="doc">
-              <li>chapter 7</li>
-              <li value="1">Next I saw four angels, standing at the four corners of the earth, holding back the four winds of the world to keep them from blowing over the land or the sea or any tree.</li>
-              <li value="2">Then I saw another angel rising where the sun rises, carrying the seal of the living God; he called in a powerful voice to the four angels whose duty was to devastate land and sea,</li>
-              <li value="3">
-                <blockquote>
-                  “Wait before you do any damage on land or at sea or to the trees, until we have put the seal on the foreheads of the servants of our God.”
-                </blockquote>
-              </li>
-              <li value="4">And I heard how many had been sealed: a hundred and forty-four thousand, out of all the tribes of Israel.</li>
-              <li value="5">From the tribe of Judah, twelve thousand had been sealed; from the tribe of Reuben, twelve thousand; from the tribe of Gad, twelve thousand;</li>
-              <li value="6">from the tribe of Asher, twelve thousand; from the tribe of Naphtali, twelve thousand; from the tribe of Manasseh, twelve thousand;</li>
-              <li value="7">from the tribe of Simeon, twelve thousand; from the tribe of Levi, twelve thousand; from the tribe of Issachar, twelve thousand;</li>
-              <li value="8">from the tribe of Zebulun, twelve thousand; and from the tribe of Benjamin, twelve thousand had been sealed.</li>
-              <li value="9">After that I saw that there was a huge number, impossible for anyone to count, of people from every nation, race, tribe and language; they were standing in front of the throne and in front of the Lamb, dressed in white robes and holding palms in their hands.</li>
-              <li value="10">They shouted in a loud voice:
-                <blockquote>
-                  “Salvation to our God, who sits on the throne, and to the Lamb!”
-                </blockquote>
-              </li>
-              <li value="11">And all the angels who were standing in a circle round the throne, surrounding the elders and the four living creatures, prostrated themselves before the throne, and touched the ground with their foreheads, worshipping God.</li>
-              <li value="12">with these words:
-                <blockquote>
-                  “Amen. Praise and glory and wisdom, thanksgiving and honour and power and strength to our God for ever and ever. Amen.”
-                </blockquote>
-              </li>
-              <li value="13">One of the elders then spoke and asked me:
-                <blockquote>
-                  “Who are these people, dressed in white robes, and where have they come from?”
-                </blockquote>
-              </li>
-              <li value="14">I answered him:
-                <blockquote>
-                  “You can tell me, sir.”
-                </blockquote>
-                Then he said:
-                <blockquote>
-                  “These are the people who have been through the great trial; they have washed their robes white again in the blood of the Lamb.”
-                </blockquote>
-              </li>
-              <li value="15">
-                <blockquote>
-                  “That is why they are standing in front of God's throne and serving him day and night in his sanctuary; and the One who sits on the throne will spread his tent over them.
-                </blockquote>
-              </li>
-              <li value="16">
-                <blockquote>
-                  They will never hunger or thirst again; sun and scorching wind will never plague them,
-                </blockquote>
-              </li>
-              <li value="17">
-                <blockquote>
-                  because the Lamb who is at the heart of the throne will be their shepherd and will guide them to springs of living water; and God will wipe away all tears from their eyes.”
-                </blockquote>
-              </li>
-            </ol>
-          </article></section>
-          <hr>
-          <section><article>
-            <ol class="doc">
-              <li>chapter 8</li>
-              <li value="01">The Lamb then broke the seventh seal, and there was silence in heaven for about half an hour.</li>
-              <li value="02">Next I saw <span style="color: #e6a64d;">seven trumpets</span> being given to the seven angels who stand in the presence of God.</li>
-            </ol>
-          </article></section>
-          <hr>
-          <section><article>
-            <ol class="doc">
-              <li value="03">
-                Another angel, who had a <span style="color: #e6a64d;">golden censer</span>, came and stood at the altar. A large quantity of incense was given to him to offer with the prayers of all the saints on the <span style="color: #e6a64d;">golden altar</span> that stood in front of the throne;
-              </li>
-            </ol>
-          </article></section>
-          <hr>
-          <section><article>
-            <ol class="doc">
-              <li value="04">and so from the angel's hand the smoke of the incense went up in the presence of God and with it the prayers of the saints.</li>
-              <li value="05">Then the angel took the censer and filled it from the fire of the altar, which he then hurled down onto the earth; immediately there came peals of thunder and flashes of lightning, and the earth shook.</li>
-              <li value="06">The seven angels that had the seven trumpets now made ready to sound them.</li>
-              <li value="07">The first blew his trumpet and, with that, hail and fire, mixed with blood, were hurled on the earth: a third of the earth was burnt up, and a third of all trees, and every blade of grass was burnt.</li>
-              <li value="08">The second angel blew his trumpet, and it was as though a <span style="color: #e6a64d;">great mountain blazing with fire</span> was hurled into the sea: a third of the sea turned into blood,</li>
-              <li value="09">a third of all the living things in the sea were killed, and <span style="color: #e6a64d;">a third of all ships were destroyed</span>.</li>
-            </ol>
-          </article></section>
-          <hr>
-          <section><article>
-            <ol class="doc">
-              <li value="10">The third angel blew his trumpet, and a <span style="color: #e6a64d;">huge star fell from the sky, burning like a ball of fire</span>, and it fell on a third of all rivers and on the springs of water.</li>
-              <li value="11">this was the star called “<span style="color: #e6a64d;">Wormwood</span>”, and a third of all water turned to wormwood, so that many people died; the water had become so bitter.</li>
-              <li value="12">The fourth angel blew his trumpet, and a third of the sun and a third of the moon and a third of the stars were blasted, so that the light went out of a third of them and the day lost a third of its illumination, and likewise the night.</li>
-            </ol>
-          </article></section>
-          <hr>
-          <section><article>
-            <ol class="doc">
-              <li value="13">In my vision, I heard an <span style="color: #e6a64d;">eagle</span>, calling aloud as it flew high overhead:
-                <blockquote>
-                  “Disaster, disaster, disaster, on all the people on earth at the sound of the other three trumpets which the three angels have yet to blow!”
-                </blockquote>
-              </li>
-            </ol>
-          </article></section>
-          <hr>
-          <section><article>
-            <ol class="doc">
-              <li>chapter 9</li>
-              <li value="01">Then the fifth angel blew his trumpet, and I saw a star that had fallen from heaven onto the earth, and the angel was given the key to the shaft leading down to the <span style="color: #e6a64d;">Abyss</span>.</li>
-              <li value="02">When he unlocked the <span style="color: #e6a64d;">shaft of the Abyss, smoke rose out of the Abyss like the smoke from a huge furnace</span> so that the sun and the sky were darkened by the smoke from the Abyss,</li>
-              <li value="03">and out of the smoke dropped <span style="color: #e6a64d;">locusts</span> onto the earth: they were given the powers that scorpions have on the earth.</li>
-              <li value="04">they were forbidden to harm any fields or crops or trees and told to attack only those people who were without God's seal on their foreheads.</li>
-              <li value="05">They were not to kill them, but to give them anguish for five months, and the anguish was to be the anguish of a scorpion's sting.</li>
-              <li value="06">When this happens, people will long for death and not find it anywhere; they will want to die and death will evade them.</li>
-            </ol>
-          </article></section>
-          <hr>
-          <section><article>
-            <ol class="doc">
-              <li value="07">These <span style="color: #e6a64d;">locusts</span> looked like horses armoured for battle; they had what looked like gold crowns on their heads, and their faces looked human,</li>
-              <li value="08">and their hair was like women's hair, and teeth like lion's teeth.</li>
-              <li value="09">They had body-armour like iron breastplates, and the noise of their wings sounded like the racket of chariots with many horses charging.</li>
-              <li value="10">Their tails were like scorpions' tails, with stings, and with their tails they were able to torture people for five months.</li>
-              <li value="11">As their leader they had their emperor, the angel of the Abyss, whose name in Hebrew is ”Abaddon”, and in Greek ”Apollyon” (meaning: Destructor).</li>
-            </ol>
-          </article></section>
-          <hr>
-          <section><article><p>out</p>
-            <ol class="doc">
-              <li value="12">That was the first of the disasters; there are still two more to come.</li>
-              <li value="13">The sixth angel blew his trumpet, and I heard a single voice issuing from the four horns of the golden altar in God's presence.</li>
-              <li value="14">It spoke to the sixth angel with the trumpet, and said:
-                <blockquote>
-                  “Release the four angels that are chained up at the great river Euphrates.”
-                </blockquote>
-              </li>
-              <li value="15">These four angels had been ready for this hour of this day of this month of this year, and ready to destroy a third of the human race.</li>
-              <li value="16">I learnt how many there were in their army: twice ten thousand times ten thousand mounted men.</li>
-              <li value="17">In my vision I saw the horses, and the riders with their breastplates of flame colour, hyacinth-blue and sulphur-yellow; the horses had lions' heads, and fire, smoke and sulphur were coming from their mouths.</li>
-              <li value="18">It was by these three plagues, the fire, the smoke and the sulphur coming from their mouths, that the one third of the human race was killed.</li>
-              <li value="19">All the horses' power was in their mouths and their tails: their tails were like snakes, and had heads which inflicted wounds.</li>
-              <li value="20">But the rest of the human race, who escaped death by these plagues, refused either to abandon their own handiwork or to stop worshipping devils, the idols made of gold, silver, bronze, stone and wood that can neither see nor hear nor move.</li>
-              <li value="21">Nor did they give up their murdering, or witchcraft, or fornication or stealing.</li>
-            </ol>
-          </article></section>
-          <hr>
-          <section><article>
-            <ol class="doc">
-              <li>chapter 10</li>
-              <li value="01">Then I saw another powerful <span style="color: #e6a64d;">angel</span> coming down from heaven, <span style="color: #e6a64d;">wrapped in cloud</span>, with a <span style="color: #e6a64d;">rainbow</span> over his head; his face was like the <span style="color: #e6a64d;">sun</span>, and his legs were <span style="color: #e6a64d;">pillars of fire</span>.</li>
-              <li>In his hand he had a small scroll, unrolled; he put his right foot in the sea and his left foot on the land</li>
-            </ol>
-          </article></section>
-          <hr>
-          <section><article>
-            <ol class="doc">
-              <li value="03">and he shouted so loud, it was like a lion roaring. At this, the seven claps of thunder made themselves heard.</li>
-              <li value="04">Eand when the seven thunderclaps had sounded, I was preparing to write, when I heard a voice from heaven say to me:
-              <blockquote>
-                “Keep the words of the seven thunderclaps secret and do not write them down.”
-              </blockquote></li>
-              <li value="05">Then the angel that I had seen, standing on the sea and the land, raised his right hand to heaven,</li>
-              <li value="06">and swore by him who lives for ever and ever, and made heaven and all that it contains, and earth and all it contains, and the sea and all it contains:
-              <blockquote>
-                “The time of waiting is over.
-              </blockquote></li>
-            </ol>
-          </article></section>
-          <hr>
-          <section><article><p>out</p>
-            <ol class="doc">
-              <li value="07">
-                <blockquote>
-                  at the time when the seventh angel is heard sounding his trumpet, the mystery of God will be fulfilled, just as he announced in the gospel to his servants the prophets.”
-                </blockquote>
-              </li>
-              <li value="08">Then I heard the voice I had heard from heaven speaking to me again.
-                <blockquote>
-                  “Go”,
-                </blockquote>
-              it said,
-                <blockquote>
-                  “and take that open scroll from the hand of the angel standing on sea and land.”
-                </blockquote>
-              </li>
-              <li value="09">I went to the angel and asked him to give me the small scroll, and he said,
-                <blockquote>
-                  “Take it and eat it; it will turn your stomach sour, but it will taste as sweet as honey.”
-                </blockquote>
-              </li>
-              <li value="10">So I took it out of the angel's hand, and I ate it and it tasted sweet as honey, but when I had eaten it my stomach turned sour.</li>
-              <li value="11">Then I was told,
-                <blockquote>
-                  “You are to prophesy again, this time against many different nations and countries and languages and kings.”
-                </blockquote>
-              </li>
-            </ol>
-          </article></section>
-          <hr>
-          <section><article><p>out</p>
-            <ol class="doc">
-              <li>chapter 11</li>
-              <li value="1">Then I was given a long cane like a measuring rod, and I was told,
-                <blockquote>
-                  “Get up and measure God's sanctuary, and the altar, and the people who worship there;
-                </blockquote>
-              </li>
-              <li value="2">
-                <blockquote>
-                  but exclude the outer court and do not measure it, because it has been handed over to gentiles -- they will trample on the holy city for forty-two months.
-                </blockquote>
-              </li>
-              <li value="3">
-                <blockquote>
-                  But I shall send my two witnesses to prophesy for twelve hundred and sixty days, wearing sackcloth.
-                </blockquote>
-              </li>
-              <li value="4">
-                <blockquote>
-                  These are the two olive trees and the two lamps in attendance on the Lord of the world.
-                </blockquote>
-              </li>
-              <li value="5">
-                <blockquote>
-                  Fire comes from their mouths and consumes their enemies if anyone tries to harm them; and anyone who tries to harm them will certainly be killed in this way.
-                </blockquote>
-              </li>
-              <li value="6">
-                <blockquote>
-                  They have the power to lock up the sky so that it does not rain as long as they are prophesying; they have the power to turn water into blood and strike the whole world with any plague as often as they like.
-                </blockquote>
-              </li>
-              <li value="7">
-                <blockquote>
-                  When they have completed their witnessing, the beast that comes out of the Abyss is going to make war on them and overcome them and kill them.
-                </blockquote>
-              </li>
-              <li value="8">
-                <blockquote>
-                  Their corpses lie in the main street of the great city known by the symbolic names Sodom and Egypt, in which their Lord was crucified.
-                </blockquote>
-              </li>
-              <li value="9">
-                <blockquote>
-                  People of every race, tribe, language and nation stare at their corpses, for three-and-a-half days, not letting them be buried,
-                </blockquote>
-              </li>
-              <li value="10">
-                <blockquote>
-                  and the people of the world are glad about it and celebrate the event by giving presents to each other, because these two prophets have been a plague to the people of the world.”
-                </blockquote>
-              </li>
-              <li value="11">After the three-and-a-half days, God breathed life into them and they stood up on their feet, and everybody who saw it happen was terrified;</li>
-              <li value="12">then I heard a loud voice from heaven say to them,
-                <blockquote>
-                  “Come up here,”
-                </blockquote>
-              and while their enemies were watching, they went up to heaven in a cloud.</li>
-              <li value="13">Immediately, there was a violent earthquake, and a tenth of the city collapsed; seven thousand persons were killed in the earthquake, and the survivors, overcome with fear, could only praise the God of heaven.</li>
-              <li value="14">That was the second of the disasters; the third is to come quickly after it.</li>
-              <li value=15">Then the seventh angel blew his trumpet, and voices could be heard shouting in heaven, calling,
-                <blockquote>
-                  “The kingdom of the world has become the kingdom of our Lord and his Christ, and he will reign for ever and ever.”
-                </blockquote>
-              </li>
-              <li value="16">The twenty-four elders, enthroned in the presence of God, prostrated themselves and touched the ground with their foreheads worshipping God</li>
-              <li value="17">with these words,
-                <blockquote>
-                  “We give thanks to you, Almighty Lord God, He who is, He who was, for assuming your great power and beginning your reign.
-                </blockquote>
-              </li>
-              <li value="18">
-                <blockquote>
-                  The nations were in uproar and now the time has come for your retribution, and for the dead to be judged, and for your servants the prophets, for the saints and for those who fear your name, small and great alike, to be rewarded. The time has come to destroy those who are destroying the earth.”
-                </blockquote>
-              </li>
-              <li value="19">Then the sanctuary of God in heaven opened, and the ark of the covenant could be seen inside it. Then came flashes of lightning, peals of thunder and an earthquake and violent hail.</li>
-            </ol>
-          </article></section>
-          <hr>
-          <section><article>
-            <ol class="doc">
-              <li>chapter 12</li>
-              <li value="01">Now a great sign appeared in heaven: a <span style="color: #e6a64d;">woman</span>, robed with the sun, standing on the moon, and on her head a crown of twelve stars.</li>
-              <li value="02">She was pregnant, and in labour, crying aloud in the pangs of childbirth.</li>
-              <li value="03">Then a second sign appeared in the sky: there was a <span style="color: #e6a64d;">huge red dragon</span> with seven heads and ten horns, and each of the seven heads crowned with a coronet.</li>
-              <li value="04">Its tail swept a third of the stars from the sky and hurled them to the ground, and the dragon stopped in front of the woman as she was at the point of giving birth, so that it could eat the child as soon as it was born.</li>
-            </ol>
-          </article></section>
-          <hr>
-          <section><article>
-            <ol class="doc">
-              <li value="05">The woman was delivered of a boy, the son who was to rule all the nations with an iron sceptre, and the child was taken straight up to God and to his throne,</li>
-              <li value="06">while the woman escaped into the desert, where God had prepared a place for her to be looked after for twelve hundred and sixty days.</li>
-              <li value="07">And now war broke out in heaven, when Michael with his angels attacked the dragon.
-              The dragon fought back with his angels,</li>
-              <li value="08">but they were defeated and driven out of heaven.</li>
-              <li value="09">The great dragon, the primeval serpent, known as the devil or Satan, who had led all the world astray, was hurled down to the earth and his angels were hurled down with him.</li>
-            </ol>
-          </article></section>
-          <hr>
-          <section><article>
-            <ol class="doc">
-              <li value="10">Then I heard a voice shout from heaven,
-                <blockquote>
-                  “Salvation and power and empire for ever have been won by our God, and all authority for his Christ,
-                </blockquote>
-              </li>
-              <li>
-                <blockquote>
-                  now that the accuser, who accused our brothers day and night before our God, has been brought down.
-                </blockquote>
-              </li>
-              <li value="11">
-                <blockquote>
-                  They have triumphed over him by the blood of the Lamb and by the word to which they bore witness, because even in the face of death they did not cling to life.
-                </blockquote>
-              </li>
-              <li value="12">
-                <blockquote>
-                  So let the heavens rejoice and all who live there; but for you, earth and sea, disaster is coming
-                </blockquote>
-              </li>
-              <li>
-                <blockquote>
-                  -- because the devil has gone down to you in a rage, knowing that he has little time left.”
-                </blockquote>
-              </li>
-              <li value="13">As soon as the <span style="color: #e6a64d;">dragon</span> found himself hurled down to the earth, he sprang in pursuit of the <span style="color: #e6a64d;">woman</span>, the mother of the male child.</li>
-              <li value="14">but she was given a pair of the <span style="color: #e6a64d;">great eagle's wings</span> to fly away from the serpent into the desert, to the place where she was to be looked after for a time, two times and half a time.</li>
-            </ol>
-          </article></section>
-          <hr>
-          <section><article><p>out</p>
-            <ol class="doc">
-              <li value="15">So the serpent vomited water from his mouth, like a river, after the woman, to sweep her away in the current,</li>
-              <li value="16">but the earth came to her rescue; it opened its mouth and swallowed the river spewed from the dragon's mouth.</li>
-              <li value="17">Then the dragon was enraged with the woman and went away to make war on the rest of her children, who obey God's commandments and have in themselves the witness of Jesus.</li>
-              <li value="18">And I took my stand on the seashore.</li>
-            </ol>
-          </article></section>
-          <hr>
         </article></section>
       </article></section>
-    </article></section>
   </article></section>
 </article>
 `;
