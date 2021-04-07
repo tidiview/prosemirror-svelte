@@ -236,13 +236,12 @@
 <aside>
   <section><article>
     <h3 id="table-des-matieres" class="yellow">references of this article</h3>
-    <div id="body-inner">
     <section><article>
       <p>For this article we are indebted to reference works, especially those of <a href="#de-vos-1" id="renvoi-de-vos-1" class="yellow">Dirk DE VOS, "Hans Memling - The Complete Works"</a> and <a href="#de-vos-2" id="renvoi-de-vos-2" class="yellow">"Hans Memling"</a>.</p>
     </article></section>
 
     <section><article>
-    <h4 id="de-vos" class="yellow">references of the books cited by Dirk DE VOS:</h4>
+      <h4 id="de-vos" class="yellow">references of the books cited by Dirk DE VOS:</h4>
       <section><article>
         <ul>
           <li>in french:
@@ -273,36 +272,36 @@
                 </tbody>
               </table>
             </pre>
-         </li>
-          <li>in english:
-            <pre id="de-vos-2">
-              <table>
-                <thead>
-                <tr>
-                <th><span hidden>hidden</span></th>
-                <th><span hidden>hidden</span></th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr>
-                <td>Title</td>
-                <td>Published in</td>
-                <td>ISBN-10</td>
-                </tr>
-                <tr>
-                <td>Hans Memling: The Complete Works</td>
-                <td><time datetime="1994">1994</time></td>
-                <td>0810936496</td>
-                </tr>
-                <tr>
-                <td>Hans Memling: Catalogue</td>
-                <td><time datetime="1994">1994</time></td>
-                <td>9055440299</td>
-                </tr>
-                </tbody>
-              </table>
-            </pre>
-         </li>
+          </li>
+            <li>in english:
+              <pre id="de-vos-2">
+                <table>
+                  <thead>
+                  <tr>
+                  <th><span hidden>hidden</span></th>
+                  <th><span hidden>hidden</span></th>
+                  </tr>
+                  </thead>
+                  <tbody>
+                  <tr>
+                  <td>Title</td>
+                  <td>Published in</td>
+                  <td>ISBN-10</td>
+                  </tr>
+                  <tr>
+                  <td>Hans Memling: The Complete Works</td>
+                  <td><time datetime="1994">1994</time></td>
+                  <td>0810936496</td>
+                  </tr>
+                  <tr>
+                  <td>Hans Memling: Catalogue</td>
+                  <td><time datetime="1994">1994</time></td>
+                  <td>9055440299</td>
+                  </tr>
+                  </tbody>
+                </table>
+              </pre>
+          </li>
         </ul>
       </article></section>
       <footer>
@@ -390,8 +389,8 @@
       <p>We first describe what <span style="color: #e6a64d;">the work represents</span> and for that we follow <span style="color: #e6a64d;">the path of the gaze</span>, starting with the <span style="color: #e6a64d;">main scene</span>.</p>
     </article></section>
 
+    <article><section>
     <h3 id="couronnement" class="yellow">coronation of the virgin</h3>
-    <section><article>
 
       <section><article>
         <p>In the center, <span style="color: #e6a64d;">virgin Mary</span> thrones on a gold seat in front of a clothed cloth and under a red velvet baldaquin.</p>
@@ -469,9 +468,8 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/enfant-jesus-1920.jpg 1920w"></picture><figcaption>detail of the central panel, “Coronation of the virgin”</figcaption>
       </figure>
     </article></section>
-  <section><article>
+  </article></section>
 </article>
-
 
 <!-- Page 3 --><hr>
 
@@ -723,34 +721,38 @@
   </article></section>
 </article>
 
-  <!-- Page 4 --><hr>
+<!-- Page 4 --><hr>
 
-  <article>
+<article>
   <section><article>
     <h3 id="conversation" class="yellow">a sacred conversation</h3>
+    <section><article>
       <h4 class="yellow">sacred conversation in the central panel scene</h4>
       <section><article>
-        <p>To <a href="https://fr.wikipedia.org/wiki/Marie_(mère_de_Jésus)" title="https://fr.wikipedia.org/wiki/Marie_(mère_de_Jésus)" id="marie-mere-de-jesus" class="yellow">Mary</a>'s coronation, the presence <span style="color: #e6a64d;">two</span> by <span style="color: #e6a64d;">two</span> of <a href="#catherine-d-alexandrie" title="Catherine d'Alexandrie" class="yellow">Catherine of Alexandria</a> and <a href="#barbe" class="yellow">Barbara the great martyr</a>, <a href="#jean-le-baptiste-2" title="Jean le Baptiste" id="jean-le-baptiste-3" class="yellow">John the Baptist</a> and <a href="#jean-l-evangeliste-3" title="John the Evangelist" id="jean-l-evangeliste-4" class="yellow">John the Evangelist</a> adds a «<ruby style="color:#e6a64d;" lang="en">sacred conversation<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="it">sacra&nbsp;conversazione</rt><rp>)</rp></ruby>», that is, a <span style="color: #e6a64d;">meeting of saints</span> around the Virgin.</p>
+
+        <section><article>
+          <p>To <a href="https://fr.wikipedia.org/wiki/Marie_(mère_de_Jésus)" title="https://fr.wikipedia.org/wiki/Marie_(mère_de_Jésus)" id="marie-mere-de-jesus" class="yellow">Mary</a>'s coronation, the presence <span style="color: #e6a64d;">two</span> by <span style="color: #e6a64d;">two</span> of <a href="#catherine-d-alexandrie" title="Catherine d'Alexandrie" class="yellow">Catherine of Alexandria</a> and <a href="#barbe" class="yellow">Barbara the great martyr</a>, <a href="#jean-le-baptiste-2" title="Jean le Baptiste" id="jean-le-baptiste-3" class="yellow">John the Baptist</a> and <a href="#jean-l-evangeliste-3" title="John the Evangelist" id="jean-l-evangeliste-4" class="yellow">John the Evangelist</a> adds a «<ruby style="color:#e6a64d;" lang="en">sacred conversation<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="it">sacra&nbsp;conversazione</rt><rp>)</rp></ruby>», that is, a <span style="color: #e6a64d;">meeting of saints</span> around the Virgin.</p>
+        </article></section>
+        <figure>
+          <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-280.webp 280w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-380.webp 380w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-480.webp 480w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-640.webp 640w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-840.webp 840w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1280.webp 1280w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1600.webp 1600w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, view of the central panel, a sacred conversation, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, view of the central panel, a sacred conversation, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-280.jpg 280w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-380.jpg 380w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-480.jpg 480w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-640.jpg 640w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-840.jpg 840w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1280.jpg 1280w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1600.jpg 1600w,
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1920.jpg 1920w"></picture><figcaption>view of the central panel, a sacred conversation</figcaption>
+        </figure>
       </article></section>
-      <figure>
-        <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-280.webp 280w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-380.webp 380w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-480.webp 480w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-640.webp 640w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-840.webp 840w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1280.webp 1280w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1600.webp 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, view of the central panel, a sacred conversation, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, view of the central panel, a sacred conversation, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-280.jpg 280w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-380.jpg 380w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-480.jpg 480w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-640.jpg 640w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-840.jpg 840w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1280.jpg 1280w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/sainte-conversation-1920.jpg 1920w"></picture><figcaption>view of the central panel, a sacred conversation</figcaption>
-      </figure>
     </article></section>
 
     <section><article>
@@ -968,9 +970,10 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/saint-jean_5-1920.jpg 1920w"></picture><figcaption>overview of the central panel</figcaption>
       </figure>
-      <p>Six columns marbled with red and brown are arranged in a semi-circle on a tile and doubled on the outside by a second semi-circle of fasciculated dark grey pilasters.
-      Their bases are connected by the edge line of the paving which shows a polygon on the ground.</p>
-      <p>The thin vertical openings between the columns overlook a <span style="color: #e6a64d;">visually continuous landscape with ruins and buildings</span>, open to the distant, horizon and infinite.</p>
+      <section><article>
+        <p>Six columns marbled with red and brown are arranged in a semi-circle on a tile and doubled on the outside by a second semi-circle of fasciculated dark grey pilasters.
+        Their bases are connected by the edge line of the paving which shows a polygon on the ground.</p>
+        <p>The thin vertical openings between the columns overlook a <span style="color: #e6a64d;">visually continuous landscape with ruins and buildings</span>, open to the distant, horizon and infinite.</p>
       </article></section>
     </article></section>
   </article></section>
@@ -1043,16 +1046,18 @@
   <h3 id="organisation-du-recit" class="yellow">organisation of the pictorial narrative around the legends of John the Baptist, John the Evangelist and the St John's Hospital</h3>
   <section><article>
     <h4 class="yellow">a number of small scenes</h4>
-    <p>The narrative is structured around a number of <span style="color: #e6a64d;">small scenes</span>
-    <ul>
-      <li>depicting <span style="color: #e6a64d;">the two legends</span>,
-        <ul>
-          <li>of John the Baptist</li>
-          <li>and John the Evangelist</li>
-        </ul>
-     </li>
-      <li>and representing the <span style="color: #e6a64d;">Crane's square</span> of Bruges linked to the St. John's Hospital.</li>
-    </ul>
+    <section><article>
+      <p>The narrative is structured around a number of <span style="color: #e6a64d;">small scenes</span>
+      <ul>
+        <li>depicting <span style="color: #e6a64d;">the two legends</span>,
+          <ul>
+            <li>of John the Baptist</li>
+            <li>and John the Evangelist</li>
+          </ul>
+        </li>
+        <li>and representing the <span style="color: #e6a64d;">Crane's square</span> of Bruges linked to the St. John's Hospital.</li>
+      </ul>
+    </article></section>
   </article></section>
 
   <section><article>
