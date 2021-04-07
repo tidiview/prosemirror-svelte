@@ -5,7 +5,7 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-  <!-- Page 1 -->
+<!-- Page 1 -->
 
 <article>
   <h1 class="yellow"><ruby style="color:#555;" lang="en">Triptych of John The Baptist and John The Evangelist<rt style="color:#999;" lang="nl">Triptiek van Johannes de Doper en Johannes de Evangelist</rt></ruby></h1>
@@ -1358,10 +1358,14 @@
                 <p><span style="color: #e6a64d;"><q>No, his name will be John.</q></span></p>
                 <p>We tell him:</p>
                 <p><span style="color: #e6a64d;"><q>No one in your family has that name!</q></p>
+              </blockquote>
+              <footer>
                 <p></span> <span style="color: #999;">(…)</span>.</p>
+              </footer>
+            </article></section>
+            <section><article>
                 <p>Zechariah had a tablet given to him and wrote on it:</p>
                 <p><span style="color: #e6a64d;"><q>John is his name.</q></span>»</p>
-              </blockquote>
             </article></section>
             <section><article>
               <p>From the point of view of faith, <span style="color: #e6a64d;">John the Baptist</span> therefore <span style="color: #e6a64d;">comes into the world according to god's will</span>.</p>
@@ -1891,9 +1895,11 @@
       <ul>
         <li><p><a href="https://en.wikipedia.org/wiki/Gospel_of_John" title="https://en.wikipedia.org/wiki/Gospel_of_John" id="disciple-que-jesus-aimait-3" class="yellow">The disciple whom Jesus loved</a> appears at the end of the gospel called «of John» <span style="color: #999;">(John chapter 21 verse 20; verses 24 to 25)</span>:</p>
         <blockquote>
-          <p>“having turned around, Peter saw, following them, <span style="color: #e6a64d;"><em>the disciple whom Jesus loved</em></span>.</p>
-          <p><span style="color: #999;">(…)</span></p>
-          <p>It is <span style="color: #e6a64d;">this disciple who testifies</span> to these things <span style="color: #e6a64d;">and who wrote them</span>”.</p>
+          <article>
+            <section><article><p>“having turned around, Peter saw, following them, <span style="color: #e6a64d;"><em>the disciple whom Jesus loved</em></span>.</p></article></section>
+            <section><p><span style="color: #999;">(…)</span></p></section>
+            <section><article><p>It is <span style="color: #e6a64d;">this disciple who testifies</span> to these things <span style="color: #e6a64d;">and who wrote them</span>”.</p></article></section>
+          </article>
         </blockquote>
         <p>There is nothing in the text that allows us to call him «John», so the designation “Gospel of John” cannot be right: it should be the “Gospel of the disciple whom Jesus loved”.</p>
         <p>He is quite an extraordinary character: he is a disciple of Jesus among others with whom every reader can identify, he is loved by Jesus himself and therefore finds himself closer to him than anyone else.</p>
@@ -4153,8 +4159,12 @@
           <li value="08">
           Immediately I saw another horse appear, <span style="color: #e6a64d;">deathly pale</span>, and its rider was called <span style="color: #e6a64d;">Death</span>, and Hades followed at its heels. </li>
           <li>They were given authority over a <span style="color: #e6a64d;">quarter of the earth</span>, to kill by the sword, by famine, by plague and through wild beasts.</li>
-          <li><span style="color: #999;">(…)</span></li>
         </ol>
+        <footer>
+          <ol class="doc">
+            <li><span style="color: #999;">(…)</span></li>
+          </ol>
+        </footer>
       </article></section>
       <hr>
       <section><article><p>out</p>
