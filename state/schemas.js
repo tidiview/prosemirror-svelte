@@ -560,11 +560,12 @@ export const ExtendedThreerichTextSchema = new Schema({
     },
     nav: {
       content: "block+",
+      group: "block",
       parseDOM: [{tag: "nav"}],
       toDOM() { return ["nav", 0] },
     },
     article: {
-      content: "(section | figure | header | footer | block)+",
+      content: "(section | aside | figure | header | footer | block)+",
       group: "block",
       parseDOM: [{tag: "article"}],
       toDOM() { return ["article", 0] },
