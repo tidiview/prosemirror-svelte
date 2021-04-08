@@ -481,7 +481,7 @@
         <p>Il peine à maintenir sa dignité et, vaincu au terme d'un long combat spirituel plein de rebondissements, lui propose de l'épouser.</p>
         <p>Catherine, au nom de sa foi, refuse et choisit de subir le martyre.
         Au moment de son exécution, la voix de Jésus lui-même se serait alors fait entendre du ciel pour lui dire:</p>
-        <blockquote>
+        <blockquote cite="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende">
           <p><span style="color: #e6a64d;"><q>Viens, ma bien-aimée, ma belle!</q></span></p>
         </blockquote>
         <p>Du fait de cette présence de sainte Catherine aux côtés de la Vierge et de l'enfant Jésus au centre du panneau central intérieur, le triptyque a quelques fois été appelé <span style="color: #e6a64d;">“le mariage mystique de sainte Catherine”</span> <sup id="fnref1:5"><a href="#fn:5" class="footnote-ref">note 3</a></sup>.</p>
@@ -535,8 +535,8 @@
       <section><article>
         <p>L'agneau est aussi un symbole nouveau propre à la foi chrétienne.</p>
         <p>Au contraire de l'ancienne foi hébraïque où, pour plaire à dieu, il faut lui sacrifier des animaux, le christianisme naissant affirme que <span style="color: #e6a64d;">le seul véritable sacrifice qui plaît à dieu</span> est celui que <span style="color: #e6a64d;">le croyant lui fait de lui-même</span>, à l'imitation de Jésus et en référence à cette parole du prophète <a href="https://fr.wikipedia.org/wiki/Isaïe" title="https://fr.wikipedia.org/wiki/Isaïe" id="isaie" class="yellow">Isaïe</a> <span style="color: #999;">(Isaïe, chapître 53 verset 7)</span>:</p>
-        <blockquote>
-          <span style="color: #e6a64d;"><q>Maltraité, il s’humilie, il n’ouvre pas la bouche: comme <span style="text-decoration: underline;">un agneau</span> conduit à l’abattoir</q>.</span>
+        <blockquote cite="https://www.aelf.org/bible/Is/53">
+          <span style="color: #e6a64d;">«Maltraité, il s’humilie, il n’ouvre pas la bouche: comme <span style="text-decoration: underline;">un agneau</span> conduit à l’abattoir.»</span>
         </blockquote>
         <p>Sous sa tunique violette, se trouve <span style="color: #e6a64d;">une autre tunique</span>, brune claire, que le texte nous précise être de <span style="color: #e6a64d;">poil de chameau</span> <span style="color: #999;">(Marc chapître 1 verset 6)</span>, à l'imitation du vêtement de poil du prophète <a href="https://fr.wikipedia.org/wiki/Élie" title="https://fr.wikipedia.org/wiki/Élie" id="elie" class="yellow">Élie</a> <span style="color: #999;">(2 Rois chapître 1 verset 8)</span>.</p>
         <p>Ce même vêtement de poil fait aussi référence à un épisode de <a href="https://fr.wikipedia.org/wiki/Livre_de_la_Genèse" title="https://fr.wikipedia.org/wiki/Livre_de_la_Genèse" id="elie" class="yellow">le Livre de la Génèse</a> <span style="color: #999;">(Gn 27:1-40)</span> durant lequel <a href="https://fr.wikipedia.org/wiki/Jacob" title="https://fr.wikipedia.org/wiki/Jacob" id="jacob" class="yellow">Jacob</a>, sur l'indication de sa mère <a href="https://fr.wikipedia.org/wiki/Rébecca_(Bible)" title="https://fr.wikipedia.org/wiki/Rébecca_(Bible)" id=rebecca" class="yellow">Rebecca</a>, se fait passer pour son frère <a href="https://fr.wikipedia.org/wiki/Ésaü" title="https://fr.wikipedia.org/wiki/Ésaü" id="esau" class="yellow>Ésaü</a> qui est très <span style="color: #e6a64d;">poilu</span>, auprès de son père aveugle, <a href="https://fr.wikipedia.org/wiki/Isaac" title="ttps://fr.wikipedia.org/wiki/Isaac" id="isaac" class="yellow">Isaac</a>, en revêtant un <span style="color: #e6a64d;">vêtement de poil</span>.</p>
@@ -577,8 +577,8 @@
         <p>Jean l'Évangéliste y affronte <span style="color: #e6a64d;">Aristodème</span>, prêtre du temple de Diane en Asie <span style="color: #999;">(sans doute Éphèse)</span>, qui le défie publiquement de <span style="color: #e6a64d;">boire</span> une <span style="color: #e6a64d;">coupe empoisonnée</span>.</p>
         <p>Celui-ci fait, comme Memling le représente, le <span style="color: #e6a64d;">signe de croix</span>, boit la coupe mais le poison ne lui fait aucun mal.</p>
         <p>Le <span style="color: #e6a64d;">serpent</span> évoque aussi une parole que Jésus adresse à <a href="https://fr.wikipedia.org/wiki/Nicodème" title="https://fr.wikipedia.org/wiki/Nicodème" id="nicodeme" class="yellow">Nicodème</a> <span style="color: #999;">(Jean 3,14)</span>:</p>
-        <blockquote>
-          <p><span style="color: #e6a64d;"><q>Comme Moïse a élevé le serpent dans le désert, il faut que le fis de l'homme soit élevé, afin que quiconque croit ait, en lui, la vie éternelle</q></span>.</p>
+        <blockquote cite="https://www.aelf.org/bible/Jn/3">
+          <p><span style="color: #e6a64d;">Comme Moïse a élevé le serpent dans le désert, il faut que le fis de l'homme soit élevé, afin que quiconque croit ait, en lui, la vie éternelle</span>.</p>
         </blockquote>
       </article></section>
     </article></section>
@@ -648,8 +648,8 @@
         Celui-ci lui répond, la fortifie dans sa foi naissante, la visite et lui donne clandestinemnt le <span style="color: #e6a64d;">baptème</span>.</p>
         <p>Publiquement <span style="color: #e6a64d;">dénoncée</span> ensuite pour avoir refusé de sacrifier aux dieux, elle subit le martyre.
         La voix de Jésus se serait alors fait entendre du ciel:</p>
-        <blockquote>
-          <p><span style="color: #e6a64d;"><q>Viens, ma bien-aimée; repose-toi dans la demeure de mon père lui est dans le ciel</q></span>.</p>
+        <blockquote cite="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende">
+          <p><span style="color: #e6a64d;">Viens, ma bien-aimée; repose-toi dans la demeure de mon père lui est dans le ciel</span>.</p>
         </blockquote>
         <p>Son propre père lui tranche la tête.</p>
       </article></section>
@@ -708,7 +708,7 @@
         <ol start="2">
           <li id="fn:2">
             <p>Nous suivons les références données dans l'article «Catherine d'Alexandrie» de Wikipedia (date: 15 août 2018), à savoir:</p>
-            <blockquote>
+            <blockquote cite="https://fr.wikipedia.org/wiki/Catherine_d'Alexandrie#Réalité_historique_et_dévotion">
               <p>«Certains saints peuvent être populaires, en raison des légendes qui se sont créées autour de leurs noms, sans qu'on puisse même garantir qu'ils aient existé, tels saint Christophe, sainte Barbara, sainte Catherine d'Alexandrie, sainte Philomène. Ils ont été supprimés du calendrier général: le peuple chrétien ne peut être invité à une prière officielle que dans la vérité».</p>
             </blockquote>
             <p><cite>Conférence de présentation du nouveau calendrier romain</cite> par l'abbé Pierre JOUNEL, professeur à l'institut supérieur de liturgie de l'Institut catholique de Paris, rapporteur du groupe d'étude qui a préparé la réforme du calendrier, faite à Rome le <time datetime="1969-05-09">9 mai 1969</time>.</p>
