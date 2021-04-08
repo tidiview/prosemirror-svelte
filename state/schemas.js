@@ -741,9 +741,9 @@ export const ExtendedThreerichTextSchema = new Schema({
       content: "(block | table)+",
       group: "block",
       defining: true,
-      attrs: { color: {default: null}},
-      parseDOM: [{tag: "blockquote", getAttrs(dom) {return {color: dom.getAttribute("class")}} }],
-      toDOM(node) { let {color} = node.attrs; return color == "" ? ["blockquote", 0] : ["blockquote", {"class": color}, 0] },
+      attrs: { color: {default: null}, cite: {default: null}},
+      parseDOM: [{tag: "blockquote", getAttrs(dom) {return {color: dom.getAttribute("class"), cite: dom.getAttribute("cite")}} }],
+      toDOM(node) { let {color, cite} = node.attrs; return color == "" ? cite == "" ? ["blockquote", 0] : ["blockquote", {cite}, 0] : cite == "" ? ["blockquote", {"class": color}, 0] : ["blockquote", {cite, "class": color}, 0] },
     },
     heading: {
       content: "inline*",
