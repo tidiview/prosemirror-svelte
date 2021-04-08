@@ -187,4 +187,10 @@
     color: var(--ui-color-placeholder);
   }
 
+  :global(.conversation) {
+    margin-block-end: 1em;
+    margin-block-start: 1em;
+    margin-inline-end: 16px;
+    margin-inline-start: 16px;
+  }
 </style>
