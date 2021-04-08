@@ -577,7 +577,7 @@
         <p>Jean l'Évangéliste y affronte <span style="color: #e6a64d;">Aristodème</span>, prêtre du temple de Diane en Asie <span style="color: #999;">(sans doute Éphèse)</span>, qui le défie publiquement de <span style="color: #e6a64d;">boire</span> une <span style="color: #e6a64d;">coupe empoisonnée</span>.</p>
         <p>Celui-ci fait, comme Memling le représente, le <span style="color: #e6a64d;">signe de croix</span>, boit la coupe mais le poison ne lui fait aucun mal.</p>
         <p>Le <span style="color: #e6a64d;">serpent</span> évoque aussi une parole que Jésus adresse à <a href="https://fr.wikipedia.org/wiki/Nicodème" title="https://fr.wikipedia.org/wiki/Nicodème" id="nicodeme" class="yellow">Nicodème</a> <span style="color: #999;">(Jean 3,14)</span>:</p>
-        <blockquote cite="https://www.aelf.org/bible/Jn/3">
+        <blockquote cite="https://www.aelf.org/bible/Jn/3#right-col">
           <p><span style="color: #e6a64d;">Comme Moïse a élevé le serpent dans le désert, il faut que le fis de l'homme soit élevé, afin que quiconque croit ait, en lui, la vie éternelle</span>.</p>
         </blockquote>
       </article></section>
@@ -1369,7 +1369,7 @@
 
         <section><article>
           <p>Le nom de ce fils, «Jean», est lui aussi un des enjeux du récit <span style="color: #999;">(Luc chapître 1, versets 59 à 63)</span>:</p>
-          <blockquote>
+          <blockquote cite="https://www.aelf.org/bible/Lc/1#right-col">
             <p>«Le huitième jour, ils vinrent pour la circoncision de l’enfant, et ils voulaient l’appeler Zaccharie, du nom de son père. Mais sa mère prit la parole, et dit:</p>
             <p><span style="color: #e6a64d;"><q>Non, il s'appelera Jean</q></span>.</p>
             <p>On lui dit:</p>
@@ -1604,21 +1604,30 @@
 
   <section><article>
     <p>La mise en scène se poursuit</p>
-    <p>Hérode fait mine que sa danse lui a plu. <span style="color: #e6a64d;">Pour se dégager de la responsabilité de la mort de Jean</span>, dit:</p>
-    <blockquote>
-      <p><q><span style="color: #e6a64d;">Demande-moi ce que tu veux</span>, et je te le donnerai, même si c’est la moitié de mon royaume</q> <span style="color: #999;">(Marc, chapître 6, versets 21 à 22)</span>.</p>
-    </blockquote>
-    <p>Salomé sort pour dire à sa mère:</p>
-    <blockquote>
-      <p><span style="color: #e6a64d;"><q>qu’est-ce que je vais demander?</q></span>»
-    </blockquote>
-    <p>Hérodiade répond:</p>
-    <blockquote>
-      <p><span style="color: #e6a64d;"><q>la tête de Jean, celui qui baptise</q></span>.</p>
-    </blockquote>
-    <p>Aussitôt la jeune fille s’empresse <q>de retourner auprès du roi</q>, et lui fait cette demande incroyable:</p>
-    <blockquote>
-      <p><span style="color: #e6a64d;">“Je veux que, tout de suite, tu me donnes sur un plat la tête de Jean le Baptiste”</span>.</p>
+    <p>Hérode fait mine que sa danse lui a plu. <span style="color: #e6a64d;">Pour se dégager de la responsabilité de la mort de Jean</span>, dit <span style="color: #999;">(Marc, chapître 6, versets 22 à 23):</p> 
+    <blockquote cite="https://www.aelf.org/bible/Mc/6#right-col">
+      <ol class="doc">
+        <li value="22">
+          <p class="conversation">
+            <span style="color: #e6a64d;">“Tout ce que tu me demanderas, je te le donnerai, même si c’est la moitié de mon royaume.”</span>.
+          </p>
+        </li>
+        <li value="23">
+          <p>Salomé sort pour dire à sa mère:</p>
+          <p class="conversation">
+            <span style="color: #e6a64d;">“qu’est-ce que je vais demander?”</span>»
+          <p>Hérodiade répond:</p>
+          <p class="conversation">
+            <span style="color: #e6a64d;">“la tête de Jean, celui qui baptise”</span>.
+          </p>
+        </li>
+        <li value="24">
+          <p>Aussitôt la jeune fille s’empresse de retourner auprès du roi, et lui fait cette demande:</p>
+          <p class="conversation">
+            <span style="color: #e6a64d;">“Je veux que, tout de suite, tu me donnes sur un plat la tête de Jean le Baptiste”</span>.
+          </p>
+        </li>
+      </ol>
     </blockquote>
     <p><span style="color: #999;">(Marc, chapître 6, versets 24 à 29)</span></p>
     <p>Ainsi, Hérode peut apparaître mettre à mort Jean contre son gré.</p>
