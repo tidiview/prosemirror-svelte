@@ -2071,21 +2071,25 @@
           <h5 class="yellow">Vision of the throne of god, the heavenly court and the lamb - <cite>Apocalypse</cite>, from chapter 4 verse 2 to chapter 6 verse 1</h5>
 
           <section><article>
-            <section><article>
-              <p>We choose to follow John's own way to tell <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref">note 3</a></sup> the unveiling in the text <span style="color: #999;">(Apocalypse chapter 4 verse 2 and verse 6)</span>, which begins at the top left of the shutter: this way it is possible to compare the text with Memling's representation of it.</p>
-            </article></section>
+            <p>We choose to follow John's own way to tell <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref">note 3</a></sup> the unveiling in the text <span style="color: #999;">(Apocalypse chapter 4 verse 2 and verse 6)</span>, which begins at the top left of the shutter: this way it is possible to compare the text with Memling's representation of it.</p>
+          </article></section>
 
-            <section><article>
+          <section><article>
+            <header>
               <ol class="doc">
                 <li>chapter 4</li>
-                <li value="02">With that, I fell into <span style="color: #e6a64d;">ecstasy</span> and I saw a <span style="color: #e6a64d;">throne</span> standing in <span style="color: #e6a64d;">heaven</span>, and <span style="color: #e6a64d;">the one</span> who was sitting on the throne,</li>
-                <li value="03">and the one sitting there looked like a diamond and a ruby.
-                There was a <span style="color: #e6a64d;">rainbow</span> encircling the throne, and this looked like an emerald.</li>
-                <li value="04">Round the throne in a circle were twenty-four thrones, and on them <span style="color: #e6a64d;">twenty-four elders</span> sitting, dressed in white robes with golden crowns on their heads.</li>
-                <li value="05">Flashes of lightning were coming from the throne, and the sound of peals of thunder, and in front of the throne there were seven flaming lamps burning, the seven spirits of god.</li>
-                <li value="06">In front of the throne was a sea as transparent as crystal.»</li>
               </ol>
-            </article></section>
+            </header>
+
+            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_4">
+              <ol class="doc">
+                <li value="02">Immediately I was in the <span style="color: #e6a64d;">Spirit</span>. Behold, there was a <span style="color: #e6a64d;">throne</span> set in <span style="color: #e6a64d;">heaven</span>, and <span style="color: #e6a64d;">one</span> sitting on the throne</li>
+                <li value="03">that looked like a jasper stone and a sardius. There was a <span style="color: #e6a64d;">rainbow</span> around the throne, like an emerald to look at.</li>
+                <li value="04">Around the throne were twenty-four thrones. On the thrones were <span style="color: #e6a64d;">twenty-four elders</span> sitting, dressed in white garments, with crowns of gold on their heads.</li>
+                <li value="05">Out of the throne proceed lightnings, sounds, and thunders. There were seven lamps of fire burning before his throne, which are the seven Spirits of God.</li>
+                <li value="06">Before the throne was something like a sea of glass, similar to crystal. In the midst of the throne, and around the throne were four living creatures full of eyes before and behind.»</li>
+              </ol>
+            </blockquote>
           </article></section>
 
           <figure>
@@ -2110,16 +2114,17 @@
 
           <section><article>
             <section><article>
-              <ol class="doc">
-                <li value="07">The first living creature was like a <span style="color: #e6a64d;">lion</span>, the second like <span style="color: #e6a64d;">a young bull</span>, the third living creature had a <span style="color: #e6a64d;">human face</span>, and the fourth living creature was like a flying <span style="color: #e6a64d;">eagle</span>.</li>
-                <li value="08">
-                  <p>Each of the four living creatures had <span style="color: #e6a64d;">six wings</span> and was studded with eyes all the way round as well as inside;
-                  and day and night they never stopped singing:</p>
-                  <p class="conversation">
-                    “Holy, Holy, Holy is the lord god, the almighty; who was, and is and is to come”.
-                  </p>
-                </li>
-              </ol>
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_4">
+                <ol class="doc">
+                  <li value="07">The first creature was like a <span style="color: #e6a64d;">lion</span>, and the second creature like a <span style="color: #e6a64d;">calf</span>, and the third creature had a <span style="color: #e6a64d;">face like a man</span>, and the fourth was like a <span style="color: #e6a64d;">flying eagle</span>.</li>
+                  <li value="08">
+                    <p>The four living creatures, each one of them having <span style="color: #e6a64d;">six wings</span>, are full of eyes around and within. They have no rest day and night, saying,</p>
+                    <p class="conversation">
+                      “Holy, holy, holy is the Lord God, the Almighty, who was and who is and who is to come!”.
+                    </p>
+                  </li>
+                </ol>
+              </blockquote>
               <footer>
                 <ol class="doc">
                   <li><span style="color: #999;">(…)</span></li>
@@ -4015,6 +4020,10 @@
           <h4 id="apocalypse" class="yellow">Text of the vision of the throne of God and the heavenly court: the living on the throne and the Lamb</h4>
           <section><article>
 
+              <ol class="doc">
+                <li>chapter 4</li>
+              </ol>
+
             <section><article><p>out</p>
               <ol class="doc">
                 <li>Chapter 4</li>
@@ -4027,15 +4036,15 @@
             </article></section>
             <hr>
             <section><article>
-              <ol class="doc">
-                <li value="02">With that, I fell into <span style="color: #e6a64d;">ecstasy</span>.
-                  and I saw a <span style="color: #e6a64d;">throne</span> standing in <span style="color: #e6a64d;">heaven</span>, and <span style="color: #e6a64d;">the One</span> who was sitting on the throne,</li>
-                <li value="03">and the One sitting there looked like a diamond and a ruby.
-                There was a <span style="color: #e6a64d;">rainbow</span> encircling the throne, and this looked like an emerald.</li>
-                <li value="04">Round the throne in a circle were twenty-four thrones, and on them <span style="color: #e6a64d;">twenty-four elders</span> sitting, dressed in white robes with golden crowns on their heads.</li>
-                <li value="05">Flashes of lightning were coming from the throne, and the sound of peals of thunder, and in front of the throne there were seven flaming lamps burning, the seven Spirits of God.</li>
-                <li value="06">In front of the throne was a sea as transparent as crystal.[In the middle of the throne and around it, were four living creatures all studded with eyes, in front and behind.]</li>
-              </ol>
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_4">
+                <ol class="doc">
+                  <li value="02">Immediately I was in the <span style="color: #e6a64d;">Spirit</span>. Behold, there was a <span style="color: #e6a64d;">throne</span> set in <span style="color: #e6a64d;">heaven</span>, and <span style="color: #e6a64d;">one</span> sitting on the throne</li>
+                  <li value="03">that looked like a jasper stone and a sardius. There was a <span style="color: #e6a64d;">rainbow</span> around the throne, like an emerald to look at.</li>
+                  <li value="04">Around the throne were twenty-four thrones. On the thrones were <span style="color: #e6a64d;">twenty-four elders</span> sitting, dressed in white garments, with crowns of gold on their heads.</li>
+                  <li value="05">Out of the throne proceed lightnings, sounds, and thunders. There were seven lamps of fire burning before his throne, which are the seven Spirits of God.</li>
+                  <li value="06">Before the throne was something like a sea of glass, similar to crystal. In the midst of the throne, and around the throne were four living creatures full of eyes before and behind.»</li>
+                </ol>
+              </blockquote>
             </article></section>
             <hr>
             <section><article>
