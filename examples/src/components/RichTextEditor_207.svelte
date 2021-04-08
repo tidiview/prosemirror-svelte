@@ -2591,15 +2591,14 @@
           <section><article>
             <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
               <ol class="doc">
-                <li value="13"><p>In my vision, I heard <span style="color: #e6a64d;">an eagle</span>, calling aloud as it flew high overhead:</p>
+                <li value="13"><p>I saw, and I heard an <span style="color: #e6a64d;">eagle</span>, flying in mid heaven, saying with a loud voice,</p>
                   <p class="conversation">
-                    “Disaster, disaster, disaster, on all the people on earth at the sound of the other three trumpets which the three angels have yet to blow!”.
+                    “Woe! Woe! Woe for those who dwell on the earth, because of the other voices of the trumpets of the three angels, who are yet to sound!”.
                   </p>
                 </li>
               </ol>
             </blockquote>
           </article></section>
-
           <figure>
             <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-280.webp 280w,
@@ -2629,16 +2628,14 @@
           <h5 class="yellow">the locusts' exit to the earth - <cite>Apocalypse</cite>, chapter 9</h5>
 
           <section><article>
-            <header>
+            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_9">
               <ol class="doc">
                 <li>chapter 9</li>
+                <li value="01">The fifth angel sounded, and I saw a star from the sky which had fallen to the earth. The key to the pit of the <span style="color: #e6a64d;">abyss</span> was given to him.</li>
+                <li value="02">He opened the pit of the abyss, and smoke went up out of the pit, like the <span style="color: #e6a64d;">smoke from a burning furnace</span>. The sun and the air were darkened because of the smoke from the pit,</li>
+                <li value="03">Then out of the smoke came forth <span style="color: #e6a64d;">locusts</span> on the earth, and power was given to them, as the scorpions of the earth have power.</li>
               </ol>
-            </header>
-              <ol class="doc">
-                <li value="01">Then the fifth angel blew his trumpet, and I saw a star that had fallen from heaven onto the earth, and the angel was given the key to the shaft leading down to the <span style="color: #e6a64d;">abyss</span>.</li>
-                <li value="02">When he unlocked the shaft of the abyss, smoke rose out of the abyss like the <span style="color: #e6a64d;">smoke from a huge furnace</span> so that the sun and the sky were darkened by the smoke from the abyss,</li>
-                <li value="03">and out of the smoke dropped <span style="color: #e6a64d;">locusts</span> onto the earth: they were given the powers that scorpions have on the earth.</li>
-              </ol>
+            </blockquote>
           </article></section>
             
           <figure>
@@ -2662,17 +2659,19 @@
           </figure>
 
           <section><article>
-            <ol class="doc">
-              <li value="04">they were forbidden to harm any fields or crops or trees and told to attack only those people who were without god's seal on their foreheads.</li>
-              <li value="05">They were not to kill them, but to give them anguish for five months, and the anguish was to be the anguish of a scorpion's sting.</li>
-              <li value="06">When this happens, people will long for death and not find it anywhere; they will want to die and death will evade them.</li>
-              <li value="07">These <span style="color: #e6a64d;">locusts</span> looked like horses armoured for battle; they had what looked like gold crowns on their heads, and their faces looked human,</li>
-              <li value="08">and their hair was like women's hair, and teeth like lion's teeth.</li>
-              <li value="09">They had body-armour like iron breastplates, and the noise of their wings sounded like the racket of chariots with many horses charging.</li>
-              <li value="10">Their tails were like scorpions' tails, with stings,</li>
-              <li>and with their tails they were able to torture people for five months.</li>
-              <li value="11">As their leader they had their emperor, the angel of the abyss, whose name in hebrew is Abaddôn, and in Greek Apollyôn (which means: Destructor).</li>
-            </ol>
+            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_9">
+              <ol class="doc">
+                <li value="04">They were told that they should not hurt the grass of the earth, neither any green thing, neither any tree, but only those people who don't have God's seal on their foreheads.</li>
+                <li value="05">They were given power not to kill them, but to torment them for five months. Their torment was like the torment of a scorpion, when it strikes a person.</li>
+                <li value="06">In those days people will seek death, and will in no way find it. They will desire to die, and death will flee from them.</li>
+                <li value="07">The shapes of the <span style="color: #e6a64d;">locusts</span> were like horses prepared for war. On their heads were something like golden crowns, and their faces were like people's faces,</li>
+                <li value="08">They had hair like women's hair, and their teeth were like those of lions.</li>
+                <li value="09">They had breastplates, like breastplates of iron. The sound of their wings was like the sound of chariots, or of many horses rushing to war.</li>
+                <li value="10">They have tails like those of scorpions, and stings. In their tails they have power to harm men for five months.</li>
+                <li>Their tails were like scorpions' tails, with stings,</li>
+                <li value="11">They have over them as king the angel of the abyss. His name in Hebrew is “Abaddon”, but in Greek, he has the name “Apollyon” (which means: Destructor).</li>
+              </ol>
+            </blockquote>
           </article></section>
         </article></section>
 
@@ -2680,14 +2679,16 @@
           <h5 class="yellow">the angel descended from heaven - <cite>Apocalypse</cite>, chapter 10 verses 1 to 3</h5>
 
           <section><article>
-            <ol class="doc">
-              <li>chapter 10</li>
-              <li value="01">Then I saw another powerful <span style="color: #e6a64d;">angel</span> coming down from heaven, <span style="color: #e6a64d;">wrapped in cloud</span>, with <span style="color: #e6a64d;">a rainbow</span> over his head; his face was like <span style="color: #e6a64d;">the sun</span>, and his legs were <span style="color: #e6a64d;">pillars of fire</span>.</li>
-              <li value="02">In his hand he had <span style="color: #e6a64d;">a small scroll, unrolled</span></li>
-              <li>he put his right foot in the sea and his left foot on the land.</li>
-              <li value="03">and he shouted so loud, it was like a lion roaring.</li>
-              <li>At this, the seven claps of thunder made themselves heard</li>
-            </ol>
+            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_10">
+              <ol class="doc">
+                <li>chapter 10</li>
+                <li value="01">I saw a mighty <span style="color: #e6a64d;">angel</span> coming down out of the sky, clothed with a <span style="color: #e6a64d;">cloud</span>. A <span style="color: #e6a64d;">rainbow</span> was on his head. His face was like the sun, and his feet like <span style="color: #e6a64d;">pillars of fire</span>.</li>
+                <li value="02">He had in his hand a little open <span style="color: #e6a64d;">book</span>.</li>
+                <li>He set his right foot on the sea, and his left on the land.</li>
+                <li value="03">He cried with a loud voice, as a lion roars.</li>
+                <li>When he cried, the seven thunders uttered their voices.</li>
+              </ol>
+            </blockquote>
           </article></section>
 
           <figure>
@@ -2715,19 +2716,18 @@
           <h5 class="yellow">The heaven of Apocalypse - <cite>Apocalypse</cite>, chapter 10 verses 3 to 6</h5>
 
           <section><article>
-            <ol class="doc">
-              <li value="04"><p>and when the seven thunderclaps had sounded, I was preparing to write, when I heard a voice from heaven say to me:</p>
-                <p class="conversation">
-                  “Keep the words of the seven thunderclaps secret and do not write them down.”
-                </p>
-              </li>
-              <li value="05">Then the angel that I had seen, standing on the sea and the land, raised his right hand to heaven,</li>
-              <li value="06"><p>and swore by him who lives for ever and ever, and made heaven and all that it contains, and earth and all it contains, and the sea and all it contains:</p>
-              <p class="conversation">
-                “The time of waiting is over”
-              </p>
-              </li>
-            </ol>
+            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_10">
+              <ol class="doc">
+                <li value="04"><p>When the seven thunders sounded, I was about to write; but I heard a voice from the sky saying,</p>
+                  <p class="conversation">
+                    “Seal up the things which the seven thunders said, and don't write them.”
+                  </p>
+                </li>
+                <li value="05">The angel who I saw standing on the sea and on the land lifted up his right hand to the sky,</li>
+                <li value="06">and swore by him who lives forever and ever, who created heaven and the things that are in it, the earth and the things that are in it, and the sea and the things that are in it, that there will no longer be delay.
+                </li>
+              </ol>
+            </blockquote>
           </article></section>
 
           <figure>
@@ -2755,13 +2755,15 @@
           <h5 class="yellow">the woman and the dragon - <cite>Apocalypse</cite>, chapter 12 verses 1 to 4</h5>
 
           <section><article>
-            <ol class="doc">
-              <li>chapter 12</li>
-              <li value="01">Now a great sign appeared in heaven: <span style="color: #e6a64d;">a woman</span>, robed with the sun, standing on the moon, and on her head a crown of twelve stars.</li>
-              <li value="02">She was pregnant, and in labour, crying aloud in the pangs of childbirth.</li>
-              <li value="03">Then a second sign appeared in the sky: there was <span style="color: #e6a64d;">a huge red dragon</span> with seven heads and ten horns, and each of the seven heads crowned with a coronet.</li>
-              <li value="04">Its tail swept a third of the stars from the sky and hurled them to the ground, and the dragon stopped in front of the woman as she was at the point of giving birth, so that it could eat the child as soon as it was born.</li>
-            </ol>
+            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_12">
+              <ol class="doc">
+                <li>chapter 12</li>
+                <li value="01">A great sign was seen in heaven: a <span style="color: #e6a64d;">woman</span> clothed with the sun, and the moon under her feet, and on her head a crown of twelve stars.</li>
+                <li value="02">She was with child. She cried out in pain, laboring to give birth.</li>
+                <li value="03">Another sign was seen in heaven. Behold, a great <span style="color: #e6a64d;">red dragon</span>, having seven heads and ten horns, and on his heads seven crowns.</li>
+                <li value="04">His tail drew one third of the stars of the sky, and threw them to the earth. The dragon stood before the woman who was about to give birth, so that when she gave birth he might devour her child.</li>
+              </ol>
+            </blockquote>
           </article></section>
 
           <figure>
@@ -2789,14 +2791,16 @@
           <h5 class="yellow">battle of saint michael, the dragon and their angels: fall of the dragon and his angels - <cite>Apocalypse</cite>, chapter 12 verses 5 to 9</h5>
 
           <section><article>
-            <ol class="doc">
-              <li value="05">OThe woman was delivered of a boy, the son who was to rule all the nations with an iron sceptre, and the child was taken straight up to god and to his throne,</li>
-              <li value="06">while the woman escaped into the desert, where god had prepared a place for her to be looked after for twelve hundred and sixty days.</li>
-              <li value="07">And now war broke out in heaven, when Michael with his angels attacked the dragon.</li>
-              <li>The dragon fought back with his angels,</li>
-              <li value="08">but they were defeated and driven out of heaven.</li>
-              <li value="09">The great dragon, the primeval serpent, known as the devil or Satan, who had led all the world astray, was hurled down to the earth and his angels were hurled down with him.</li>
-            </ol>
+            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_12">
+              <ol class="doc">
+                <li value="05">She gave birth to a son, a male child, who is to rule all the nations with a rod of iron. Her child was caught up to God, and to his throne.</li>
+                <li value="06">The woman fled into the wilderness, where she has a place prepared by God, that there they may nourish her one thousand two hundred sixty days.</li>
+                <li value="07">There was war in the sky. Michael and his angels made war on the dragon. The dragon and his angels made war.</li>
+                <li>The dragon fought back with his angels,</li>
+                <li value="08">They didn't prevail, neither was a place found for him any more in heaven.</li>
+                <li value="09">The great dragon was thrown down, the old serpent, he who is called the devil and Satan, the deceiver of the whole world. He was thrown down to the earth, and his angels were thrown down with him.</li>
+              </ol>
+            </blockquote>
           </article></section>
 
           <figure>
@@ -2827,15 +2831,28 @@
         <section><article>
           <h5 class="yellow">the woman receives two great eagle's wings to escape the dragon - <cite>Apocalypse</cite>, chapter 12 verses 10 to 14</h5>
           <section><article>
-            <ol class="doc">
-              <li value="10">Then I heard a voice shout from heaven, 'Salvation and power and empire for ever have been won by our god, and all authority for his Christ,</li>
-              <li>now that the accuser, who accused our brothers day and night before our god, has been brought down.</li>
-              <li value="11">They have triumphed over him by the blood of the Lamb and by the word to which they bore witness, because even in the face of death they did not cling to life.</li>
-              <li value="12">So let the heavens rejoice and all who live there;</li>
-              <li>but for you, earth and sea, disaster is coming -- because the devil has gone down to you in a rage, knowing that he has little time left.»</li>
-              <li value="13">As soon as the <span style="color: #e6a64d;">dragon</span> found himself hurled down to the earth, he sprang in pursuit of the <span style="color: #e6a64d;">woman</span>, the mother of the male child,</li>
-              <li value="14">but she was given <span style="color: #e6a64d;">a pair of the great eagle's wings</span> to fly away from the serpent into the desert, to the place where she was to be looked after for a time, two times and half a time.</li>
-            </ol>
+            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_12">
+              <ol class="doc">
+                <li value="10">
+                  <p>I heard a loud voice in heaven, saying,</p>
+                  <p class="conversation">«Now is come the salvation, the power, and the Kingdom of our God, and the authority of his Christ; for the accuser of our brothers has been thrown down, who accuses them before our God day and night,</p>
+                </li>
+                <li>
+                  <p class="conversation">now that the accuser, who accused our brothers day and night before our god, has been brought down.</p>
+                </li>
+                <li value="11">
+                  <p class="conversation">They overcame him because of the Lamb's blood, and because of the word of their testimony. They didn't love their life, even to death.</p>
+                </li>
+                <li value="12">
+                  <p class="conversation">Therefore rejoice, heavens, and you who dwell in them.</p>
+                </li>
+                <li>
+                  <p class="conversation">Woe to the earth and to the sea, because the devil has gone down to you, having great wrath, knowing that he has but a short time.»</p>
+                </li>
+                <li value="13">When the <span style="color: #e6a64d;">dragon</span> saw that he was thrown down to the earth, he persecuted the <span style="color: #e6a64d;">woman</span> who gave birth to the male child,</li>
+                <li value="14">Two <span style="color: #e6a64d;">wings of the great eagle</span> were given to the woman, that she might fly into the wilderness to her place, so that she might be nourished for a time, and times, and half a time, from the face of the serpent.</li>
+              </ol>
+            </blockquote>
           </article></section>
 
           <figure>
@@ -4359,35 +4376,42 @@
               </blockquote>
             </article></section>
             <section><article>
-              <ol class="doc">
-                <li value="13">In my vision, I heard an <span style="color: #e6a64d;">eagle</span>, calling aloud as it flew high overhead:
-                  <p class="conversation">
-                    “Disaster, disaster, disaster, on all the people on earth at the sound of the other three trumpets which the three angels have yet to blow!”
-                  </p>
-                </li>
-              </ol>
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
+                <ol class="doc">
+                  <li value="13"><p>I saw, and I heard an <span style="color: #e6a64d;">eagle</span>, flying in mid heaven, saying with a loud voice,</p>
+                    <p class="conversation">
+                      “Woe! Woe! Woe for those who dwell on the earth, because of the other voices of the trumpets of the three angels, who are yet to sound!”.
+                    </p>
+                  </li>
+                </ol>
+              </blockquote>
             </article></section>
             <hr>
             <section><article>
-              <ol class="doc">
-                <li>chapter 9</li>
-                <li value="01">Then the fifth angel blew his trumpet, and I saw a star that had fallen from heaven onto the earth, and the angel was given the key to the shaft leading down to the <span style="color: #e6a64d;">Abyss</span>.</li>
-                <li value="02">When he unlocked the <span style="color: #e6a64d;">shaft of the Abyss, smoke rose out of the Abyss like the smoke from a huge furnace</span> so that the sun and the sky were darkened by the smoke from the Abyss,</li>
-                <li value="03">and out of the smoke dropped <span style="color: #e6a64d;">locusts</span> onto the earth: they were given the powers that scorpions have on the earth.</li>
-                <li value="04">they were forbidden to harm any fields or crops or trees and told to attack only those people who were without God's seal on their foreheads.</li>
-                <li value="05">They were not to kill them, but to give them anguish for five months, and the anguish was to be the anguish of a scorpion's sting.</li>
-                <li value="06">When this happens, people will long for death and not find it anywhere; they will want to die and death will evade them.</li>
-              </ol>
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_9">
+                <ol class="doc">
+                  <li>chapter 9</li>
+                  <li value="01">The fifth angel sounded, and I saw a star from the sky which had fallen to the earth. The key to the pit of the <span style="color: #e6a64d;">abyss</span> was given to him.</li>
+                  <li value="02">He opened the pit of the abyss, and smoke went up out of the pit, like the <span style="color: #e6a64d;">smoke from a burning furnace</span>. The sun and the air were darkened because of the smoke from the pit,</li>
+                  <li value="03">Then out of the smoke came forth <span style="color: #e6a64d;">locusts</span> on the earth, and power was given to them, as the scorpions of the earth have power.</li>
+                </ol>
+              </blockquote>
             </article></section>
             <hr>
             <section><article>
-              <ol class="doc">
-                <li value="07">These <span style="color: #e6a64d;">locusts</span> looked like horses armoured for battle; they had what looked like gold crowns on their heads, and their faces looked human,</li>
-                <li value="08">and their hair was like women's hair, and teeth like lion's teeth.</li>
-                <li value="09">They had body-armour like iron breastplates, and the noise of their wings sounded like the racket of chariots with many horses charging.</li>
-                <li value="10">Their tails were like scorpions' tails, with stings, and with their tails they were able to torture people for five months.</li>
-                <li value="11">As their leader they had their emperor, the angel of the Abyss, whose name in Hebrew is ”Abaddon”, and in Greek ”Apollyon” (meaning: Destructor).</li>
-              </ol>
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_9">
+                <ol class="doc">
+                  <li value="04">They were told that they should not hurt the grass of the earth, neither any green thing, neither any tree, but only those people who don't have God's seal on their foreheads.</li>
+                  <li value="05">They were given power not to kill them, but to torment them for five months. Their torment was like the torment of a scorpion, when it strikes a person.</li>
+                  <li value="06">In those days people will seek death, and will in no way find it. They will desire to die, and death will flee from them.</li>
+                  <li value="07">The shapes of the <span style="color: #e6a64d;">locusts</span> were like horses prepared for war. On their heads were something like golden crowns, and their faces were like people's faces,</li>
+                  <li value="08">They had hair like women's hair, and their teeth were like those of lions.</li>
+                  <li value="09">They had breastplates, like breastplates of iron. The sound of their wings was like the sound of chariots, or of many horses rushing to war.</li>
+                  <li value="10">They have tails like those of scorpions, and stings. In their tails they have power to harm men for five months.</li>
+                  <li>Their tails were like scorpions' tails, with stings,</li>
+                  <li value="11">They have over them as king the angel of the abyss. His name in Hebrew is “Abaddon”, but in Greek, he has the name “Apollyon” (which means: Destructor).</li>
+                </ol>
+              </blockquote>
             </article></section>
             <hr>
             <section><article><p>out</p>
@@ -4410,26 +4434,31 @@
             </article></section>
             <hr>
             <section><article>
-              <ol class="doc">
-                <li>chapter 10</li>
-                <li value="01">Then I saw another powerful <span style="color: #e6a64d;">angel</span> coming down from heaven, <span style="color: #e6a64d;">wrapped in cloud</span>, with a <span style="color: #e6a64d;">rainbow</span> over his head; his face was like the <span style="color: #e6a64d;">sun</span>, and his legs were <span style="color: #e6a64d;">pillars of fire</span>.</li>
-                <li>In his hand he had a small scroll, unrolled; he put his right foot in the sea and his left foot on the land</li>
-              </ol>
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_10">
+                <ol class="doc">
+                  <li>chapter 10</li>
+                  <li value="01">I saw a mighty <span style="color: #e6a64d;">angel</span> coming down out of the sky, clothed with a <span style="color: #e6a64d;">cloud</span>. A <span style="color: #e6a64d;">rainbow</span> was on his head. His face was like the sun, and his feet like <span style="color: #e6a64d;">pillars of fire</span>.</li>
+                  <li value="02">He had in his hand a little open <span style="color: #e6a64d;">book</span>.</li>
+                  <li>He set his right foot on the sea, and his left on the land.</li>
+                  <li value="03">He cried with a loud voice, as a lion roars.</li>
+                  <li>When he cried, the seven thunders uttered their voices.</li>
+                </ol>
+              </blockquote>
             </article></section>
             <hr>
             <section><article>
-              <ol class="doc">
-                <li value="03">and he shouted so loud, it was like a lion roaring. At this, the seven claps of thunder made themselves heard.</li>
-                <li value="04">Eand when the seven thunderclaps had sounded, I was preparing to write, when I heard a voice from heaven say to me:
-                <p class="conversation">
-                  “Keep the words of the seven thunderclaps secret and do not write them down.”
-                </p></li>
-                <li value="05">Then the angel that I had seen, standing on the sea and the land, raised his right hand to heaven,</li>
-                <li value="06">and swore by him who lives for ever and ever, and made heaven and all that it contains, and earth and all it contains, and the sea and all it contains:
-                <p class="conversation">
-                  “The time of waiting is over.
-                </p></li>
-              </ol>
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_10">
+                <ol class="doc">
+                  <li value="04"><p>When the seven thunders sounded, I was about to write; but I heard a voice from the sky saying,</p>
+                    <p class="conversation">
+                      “Seal up the things which the seven thunders said, and don't write them.”
+                    </p>
+                  </li>
+                  <li value="05">The angel who I saw standing on the sea and on the land lifted up his right hand to the sky,</li>
+                  <li value="06">and swore by him who lives forever and ever, who created heaven and the things that are in it, the earth and the things that are in it, and the sea and the things that are in it, that there will no longer be delay.
+                  </li>
+                </ol>
+              </blockquote>
             </article></section>
             <hr>
             <section><article><p>out</p>
@@ -4544,24 +4573,28 @@
             </article></section>
             <hr>
             <section><article>
-              <ol class="doc">
-                <li>chapter 12</li>
-                <li value="01">Now a great sign appeared in heaven: a <span style="color: #e6a64d;">woman</span>, robed with the sun, standing on the moon, and on her head a crown of twelve stars.</li>
-                <li value="02">She was pregnant, and in labour, crying aloud in the pangs of childbirth.</li>
-                <li value="03">Then a second sign appeared in the sky: there was a <span style="color: #e6a64d;">huge red dragon</span> with seven heads and ten horns, and each of the seven heads crowned with a coronet.</li>
-                <li value="04">Its tail swept a third of the stars from the sky and hurled them to the ground, and the dragon stopped in front of the woman as she was at the point of giving birth, so that it could eat the child as soon as it was born.</li>
-              </ol>
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_12">
+                <ol class="doc">
+                  <li>chapter 12</li>
+                  <li value="01">A great sign was seen in heaven: a <span style="color: #e6a64d;">woman</span> clothed with the sun, and the moon under her feet, and on her head a crown of twelve stars.</li>
+                  <li value="02">She was with child. She cried out in pain, laboring to give birth.</li>
+                  <li value="03">Another sign was seen in heaven. Behold, a great <span style="color: #e6a64d;">red dragon</span>, having seven heads and ten horns, and on his heads seven crowns.</li>
+                  <li value="04">His tail drew one third of the stars of the sky, and threw them to the earth. The dragon stood before the woman who was about to give birth, so that when she gave birth he might devour her child.</li>
+                </ol>
+              </blockquote>
             </article></section>
             <hr>
             <section><article>
-              <ol class="doc">
-                <li value="05">The woman was delivered of a boy, the son who was to rule all the nations with an iron sceptre, and the child was taken straight up to God and to his throne,</li>
-                <li value="06">while the woman escaped into the desert, where God had prepared a place for her to be looked after for twelve hundred and sixty days.</li>
-                <li value="07">And now war broke out in heaven, when Michael with his angels attacked the dragon.
-                The dragon fought back with his angels,</li>
-                <li value="08">but they were defeated and driven out of heaven.</li>
-                <li value="09">The great dragon, the primeval serpent, known as the devil or Satan, who had led all the world astray, was hurled down to the earth and his angels were hurled down with him.</li>
-              </ol>
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_12">
+                <ol class="doc">
+                  <li value="05">She gave birth to a son, a male child, who is to rule all the nations with a rod of iron. Her child was caught up to God, and to his throne.</li>
+                  <li value="06">The woman fled into the wilderness, where she has a place prepared by God, that there they may nourish her one thousand two hundred sixty days.</li>
+                  <li value="07">There was war in the sky. Michael and his angels made war on the dragon. The dragon and his angels made war.</li>
+                  <li>The dragon fought back with his angels,</li>
+                  <li value="08">They didn't prevail, neither was a place found for him any more in heaven.</li>
+                  <li value="09">The great dragon was thrown down, the old serpent, he who is called the devil and Satan, the deceiver of the whole world. He was thrown down to the earth, and his angels were thrown down with him.</li>
+                </ol>
+              </blockquote>
             </article></section>
             <hr>
             <section><article>
