@@ -193,4 +193,8 @@
     margin-inline-end: 16px;
     margin-inline-start: 16px;
   }
+
+  :global(.conversation:last-child) {
+  margin-block-end: 1em;
+}
 </style>
