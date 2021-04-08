@@ -3376,55 +3376,41 @@
       et afin que nul homme ne pût la voir, il la renferma dans une tour très-haute qu'il fit élever.</p>
       <p>Dès son plus jeune âge, <span style="color: #994c3d;">Barbe</span>, sentant le néant des choses terrestres, commença à s'appliquer à la méditation des choses du ciel.</p>
       <p>Étant une fois entrée dans un temple, et voyant le long des murailles les statues des idoles, elle demanda à ses parents:</p>
-      <blockquote>
-        <p><span style="color: #df8f20;">— Qu'est-ce que signifient ces images de personnes humaines?</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Qu'est-ce que signifient ces images de personnes humaines?</span></p>
       <p>Ses parents lui répondirent:</p>
-      <blockquote>
-        <p><span style="color: #b3884d;">— Tais-toi; ce ne sont pas des hommes, mais des dieux, et ils veulent être adorés.</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #b3884d;">— Tais-toi; ce ne sont pas des hommes, mais des dieux, et ils veulent être adorés.</span></p>
       <p><span style="color: #994c3d;">Barbe</span> dit:</p>
-      <blockquote>
-        <p><span style="color: #df8f20;">— Autrefois furent-ils des hommes?</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Autrefois furent-ils des hommes?</span></p>
       <p>Et on lui répondit qu'oui.</p>
       <p>Et elle réfléchissait là-dessus le jour et la nuit, se disant en elle-même:</p>
-      <blockquote>
-        <p><span style="color: #df8f20;">— Si nos dieux ont été des hommes, ils sont donc nés comme des hommes, ils sont morts comme des hommes; s'ils étaient dieux, ils ne seraient point nés et ils ne seraient point morts; car la Divinité, à ce qu'il me semble, ne commence point et ne peut cesser.</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Si nos dieux ont été des hommes, ils sont donc nés comme des hommes, ils sont morts comme des hommes; s'ils étaient dieux, ils ne seraient point nés et ils ne seraient point morts; car la Divinité, à ce qu'il me semble, ne commence point et ne peut cesser.</span></p>
       <p>Elle en vint donc à mépriser ces prétendus dieux de bois ou de pierre;
       mais il lui manquait encore la connaissance du vrai Dieu.</p>
       <p>Sur ces entrefaites, la renommée se répandit à Nicomédie qu'il y avait à Alexandrie un homme d'une sagesse prodigieuse, nommé <a href="#note_origene" title="Origène" id="origene" class="yellow">Origène</a>, qui démontrait l'existence du vrai Dieu et la vanité des idoles.</p>
       <p>En apprenant cela, <span style="color: #94c3d;">Barbe</span> fut remplie de joie, et elle songeait comment elle pourrait faire pour aller l'entendre;
       mais elle n'osa pas en parler à son père, et elle adopta l'idée d'écrire à Origène;
       ce qu'elle fit en ces termes:</p>
-      <blockquote>
-        <p>— À Origène d'Alexandrie, dont la gloire est universellement répandue, moi, Barbe, de Nicomédie.</span></p>
-        <p><span style="color: #df8f20;">Dès la première lueur de ma raison, j'ai éprouvé dans tout mon cœur le plus vif désir d'arriver à cette connaissance, et j'ai toujours pensé que la Divinité ne pouvait être dans des images, œuvre de nos mains, incapables de parler et d'entendre.</span></p>
-        <p><span style="color: #df8f20;">J'ai pensé aussi que ceux qui avaient été des hommes, et qu'on représentait comme des dieux, ne pouvaient pas l'être; car l'homme commence et finit, mais Dieu est avant tous les temps et après tous les temps.</span></p>
-        <p><span style="color: #df8f20;">Et j'ai mis ma confiance en ce Dieu qui m'est inconnu, mais qui a créé toutes choses; je lui ai voué mon amour, et je n'épargnerai rien pour arriver à le connaître.</span></p>
-        <p><span style="color: #df8f20;">La renommée de tes talents est venue jusqu'à moi, et j'ai pensé, père vénérable, que tu m'amènerais à la science de ce Dieu que tu prêches.</span></p>
-        <p><span style="color: #df8f20;">Et j'espère que tu dissiperas les ténèbres de mon ignorance et que tu me conduiras à la lumière de la vraie foi.</span></p>
-      </blockquote>
+        <p class="conversation">— À Origène d'Alexandrie, dont la gloire est universellement répandue, moi, Barbe, de Nicomédie.</span></p>
+        <p class="conversation"><span style="color: #df8f20;">Dès la première lueur de ma raison, j'ai éprouvé dans tout mon cœur le plus vif désir d'arriver à cette connaissance, et j'ai toujours pensé que la Divinité ne pouvait être dans des images, œuvre de nos mains, incapables de parler et d'entendre.</span></p>
+        <p class="conversation"><span style="color: #df8f20;">J'ai pensé aussi que ceux qui avaient été des hommes, et qu'on représentait comme des dieux, ne pouvaient pas l'être; car l'homme commence et finit, mais Dieu est avant tous les temps et après tous les temps.</span></p>
+        <p class="conversation"><span style="color: #df8f20;">Et j'ai mis ma confiance en ce Dieu qui m'est inconnu, mais qui a créé toutes choses; je lui ai voué mon amour, et je n'épargnerai rien pour arriver à le connaître.</span></p>
+        <p class="conversation"><span style="color: #df8f20;">La renommée de tes talents est venue jusqu'à moi, et j'ai pensé, père vénérable, que tu m'amènerais à la science de ce Dieu que tu prêches.</span></p>
+        <p class="conversation"><span style="color: #df8f20;">Et j'espère que tu dissiperas les ténèbres de mon ignorance et que tu me conduiras à la lumière de la vraie foi.</span></p>
       <p>Ayant envoyé sa lettre à Origène, elle pria le Seigneur en versant des larmes et en disant:</p>
-      <blockquote>
-        <p><span style="color: #df8f20;">— Seigneur, affermissez le pied de celui que j'ai envoyé à votre serviteur, afin que la lumière que j'ai réclamée m'arrive.</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Seigneur, affermissez le pied de celui que j'ai envoyé à votre serviteur, afin que la lumière que j'ai réclamée m'arrive.</span></p>
       <p>Le messager arriva à Alexandrie,
       et il trouva Origène dans le palais de la mère de l'empereur Alexandre, Mamée,
       et il était occupé à prêcher la doctrine de Jésus-Christ.</p>
       <p>Il reçut avec grande joie la lettre de <span style="color: #994c3d;">Barbe</span>,
       et il loua Dieu de ce qu'il suscitait une pareille ferveur,
       et il s'empressa de lui répondre ainsi:</p>
-      <blockquote>
-        <p>— Origène, indigne prêtre de Jésus-Christ, et peut-être son prédicateur, demeurant encore à Alexandrie, à Barbe, de la race des gentils, mais par adoption de la race des enfants de Dieu et de Jésus-Christ.</span></p>
-        <p><span style="color: #165493;">Je vais t'enseigner, ainsi que tu me le demandes, quel est le vrai Dieu.</span></p>
-        <p><span style="color: #165493;">Sache qu'il est un en substance et trois en personnes: le Père, le Fils et le Saint-Esprit.</span></p>
-        <p><span style="color: #165493;">Celui qui croit en cette doctrine a ce qu'il faut pour parvenir à Dieu.</span></p>
-        <p><span style="color: #165493;">Ajoutes-y donc créance pour compléter ce qui manque à la plénitude de ton désir; consulte mon envoyé, il t'informera de la loi de Dieu et il te lira les livres saints qu'il porte avec lui.</span></p>
-        <p><span style="color: #165493;">Ne redoute pas d'être exposée à de grands tourments pour le nom de Jésus-Christ.</span></p>
-        <p><span style="color: #165493;">Il a dit: “Celui qui perd pour moi son âme en ce monde, la gardera dans la vie éternelle”.</span></p>
-      </blockquote>
+        <p class="conversation">— Origène, indigne prêtre de Jésus-Christ, et peut-être son prédicateur, demeurant encore à Alexandrie, à Barbe, de la race des gentils, mais par adoption de la race des enfants de Dieu et de Jésus-Christ.</span></p>
+        <p class="conversation"><span style="color: #165493;">Je vais t'enseigner, ainsi que tu me le demandes, quel est le vrai Dieu.</span></p>
+        <p class="conversation"><span style="color: #165493;">Sache qu'il est un en substance et trois en personnes: le Père, le Fils et le Saint-Esprit.</span></p>
+        <p class="conversation"><span style="color: #165493;">Celui qui croit en cette doctrine a ce qu'il faut pour parvenir à Dieu.</span></p>
+        <p class="conversation"><span style="color: #165493;">Ajoutes-y donc créance pour compléter ce qui manque à la plénitude de ton désir; consulte mon envoyé, il t'informera de la loi de Dieu et il te lira les livres saints qu'il porte avec lui.</span></p>
+        <p class="conversation"><span style="color: #165493;">Ne redoute pas d'être exposée à de grands tourments pour le nom de Jésus-Christ.</span></p>
+        <p class="conversation"><span style="color: #165493;">Il a dit: “Celui qui perd pour moi son âme en ce monde, la gardera dans la vie éternelle”.</span></p>
       <p>Origène envoya un de ses disciples pour conférer avec <span style="color: #994c3d;">Barbe</span>,</p>
       <p>et quand on lui dit qu'il était arrivé,
       elle dit aussitôt de le faire entrer.</p>
@@ -3432,9 +3418,7 @@
       <p>Et voilà que son père survint,
       et, voyant un inconnu,
       il s'effraya et il dit:</p>
-      <blockquote>
-        <p><span style="color: #b3884d;">— Quel est cet homme et que vient-il faire?</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #b3884d;">— Quel est cet homme et que vient-il faire?</span></p>
       <p>L'Alexandrin répondit qu'il était instruit de la science de la médecine, et 'il avait un maître qui, contre l'usage des médecins, guérissait aussi les âmes.</p>
       <p>Le père de <span style="color: #994c3d;">Barbe</span>, entendant cela, se retira et les laissa converser.</p>
       <p>Et le chrétien, qui se nommait Valentin, expliqua à <span style="color: #994c3d;">Barbe</span> les mystères sacrés de la religion,
@@ -3445,69 +3429,41 @@
       <p>On dit qu'à cause de sa beauté des nobles du pays s'éprirent d'amour pour elle,
       et ils parlèrent à son père afin qu'elle prit un époux.</p>
       <p>Et son père, allant la trouver dans la tour, cherchait à l'y décider, en disant:</p>
-      <blockquote>
-        <p><span style="color: #b3884d;">— Ma fille, des personnages puissants se sont souvenus de toi, et m'ont dit qu'ils te prendraient en mariage; qu'est-ce que tu veux faire?</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #b3884d;">— Ma fille, des personnages puissants se sont souvenus de toi, et m'ont dit qu'ils te prendraient en mariage; qu'est-ce que tu veux faire?</span></p>
       <p>Elle répondit à son père en le regardant avec courroux:</p>
-      <blockquote>
-        <p><span style="color: #df8f20;">— Ne me force pas à agir ainsi, mon père.</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Ne me force pas à agir ainsi, mon père.</span></p>
       <p>II la quitta,
       et, se séparant d'elle, il fit venir un grand nombre d'ouvriers,
       et il leur ordonna de construire une maison de bains, et il s'en alla dans un pays éloigné.</p>
       <p><span style="color: #994c3d;">Barbe</span> descendit de la tour pour voir ce que l'on avait fait,
       et elle vit que du côté du nord il n'y avait que deux fenêtres,
       et elle dit aux ouvriers:</p>
-      <blockquote>
-        <p><span style="color: #df8f20;">— Pourquoi avez-vous fait ces deux fenêtres?</span></p>
-      </blockquote>
-      <p>Et ils répondirent:</p>
-      <blockquote>
-        <p><span style="color: #df8f20;">— Votre père l'a ainsi commandé.</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Pourquoi avez-vous fait ces deux fenêtres?</span></p>
+      <p class="conversation">Et ils répondirent:</p>
+        <p class="conversation"><span style="color: #df8f20;">— Votre père l'a ainsi commandé.</span></p>
       <p>Elle répondit:</p>
-      <blockquote>
-        <p><span style="color: #df8f20;">— Faites-moi une autre fenêtre.</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Faites-moi une autre fenêtre.</span></p>
       <p>Et ils répliquèrent:</p>
-      <blockquote>
-        <p><span style="color: #df8f20;">— Nous craignons que votre père ne s'irrite contre nous.</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Nous craignons que votre père ne s'irrite contre nous.</span></p>
       <p>Elle leur dit:</p>
-      <blockquote>
-        <p><span style="color: #df8f20;">— Faites ce que je vous dis, et j'amènerai mon père à donner son approbation.</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Faites ce que je vous dis, et j'amènerai mon père à donner son approbation.</span></p>
       <p>Ils firent donc une autre fenêtre.</p>
       <p><span style="color: #994c3d;">Barbe</span> plaça de sa propre main, du côté de l'orient, dans cet édifice, une croix précieuse;
       et, remontant dans la tour, elle vit les idoles qu'adorait son père.</p>
       <p>Obéissant à l'inspiration de l'Esprit saint, elle leur cracha à la figure et elle dit:</p>
-      <blockquote>
-        <p><span style="color: #df8f20;">— Qu'ils deviennent semblables à vous, ceux qui vous font et ceux qui mettent en vous leur confiance.</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Qu'ils deviennent semblables à vous, ceux qui vous font et ceux qui mettent en vous leur confiance.</span></p>
       <p>Quand la bâtisse fut finie, son père revint de son voyage, et lorsqu'il vit les trois fenêtres, il dit aux ouvriers:</p>
-      <blockquote>
-        <p><span style="color: #b3884d;">— Pourquoi avez-vous fait trois fenêtres?</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #b3884d;">— Pourquoi avez-vous fait trois fenêtres?</span></p>
       <p>Ils répondiren</p>
-      <blockquote>
-        <p><span style="color: #df8f20;">— Votre fille nous l'a ordonné.</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Votre fille nous l'a ordonné.</span></p>
       <p>Il dit alors à sa fille:</p>
-      <blockquote>
-        <p><span style="color: #df8f20;">— Est-ce toi qui as commandé de faire trois fenêtres?</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Est-ce toi qui as commandé de faire trois fenêtres?</span></p>
       <p>Elle répondit:</p>
-      <blockquote>
-        <p><span style="color: #df8f20;">— J'ai eu de bonnes raisons pour agir ainsi; car trois fenêtres illuminent l'homme entier.</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— J'ai eu de bonnes raisons pour agir ainsi; car trois fenêtres illuminent l'homme entier.</span></p>
       <p>Et son père la mena avec lui dans la salle des bains, et lui dit:</p>
-      <blockquote>
-        <p><span style="color: #b3884d;">— Pourquoi trois fenêtres éclairent-elles plus que deux?</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #b3884d;">— Pourquoi trois fenêtres éclairent-elles plus que deux?</span></p>
       <p>Elle répondi</p>
-      <blockquote>
-        <p><span style="color: #df8f20;">— Il y en a trois qui illuminent le monde et qui règlent le cours des étoiles: le Père, le Fils et le Saint-Esprit, et ils sont un en essence.</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Il y en a trois qui illuminent le monde et qui règlent le cours des étoiles: le Père, le Fils et le Saint-Esprit, et ils sont un en essence.</span></p>
       <p>Alors son père, rempli de fureur, tira son épée pour la tuer.</p>
       <p>Mais la sainte fit sa prière à Dieu,
       et les murailles s'entr'ouvrirent,
@@ -3525,57 +3481,37 @@
       et il s'en alla prévenir de tout ce qui s'était passé le proconsul <a href="#note_marcien" title="Marcien" id="marcien" class="yellow">Marcien</a>.</p>
       <p>Le proconsul voulut que <span style="color: #994c3d;">Barbe</span> fût amenée devant lui.</p>
       <p>Quand il la vit, il fut frappé de sa grande beauté, et il lui dit:</p>
-      <blockquote>
-        <p><span style="color: #165493;">— Si tu veux te sauver, sacrifie aux dieux immortels, ou tu mourras dans les plus grands tourments.</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #165493;">— Si tu veux te sauver, sacrifie aux dieux immortels, ou tu mourras dans les plus grands tourments.</span></p>
       <p>Elle répondit:</p>
-      <blockquote>
-        <p><span style="color: #df8f20;">— Je veux m'offrir en sacrifice à mon Dieu Jésus-Christ, qui a fait le ciel et la terre et tout ce qui y est contenu.</span></p>
-        <p><span style="color: #df8f20;">Quant aux démons que tu adores, le prophète a dit:</span></p>
-        <p><span style="color: #df8f20;">Ils ont une bouche et ne parlent point; ils ont des yeux et ne voient point; ceux qui leur rendent hommage leur ressembleront.</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Je veux m'offrir en sacrifice à mon Dieu Jésus-Christ, qui a fait le ciel et la terre et tout ce qui y est contenu.</span></p>
+        <p class="conversation"><span style="color: #df8f20;">Quant aux démons que tu adores, le prophète a dit:</span></p>
+        <p class="conversation"><span style="color: #df8f20;">Ils ont une bouche et ne parlent point; ils ont des yeux et ne voient point; ceux qui leur rendent hommage leur ressembleront.</span></p>
       <p>Le proconsul, furieux, ordonna de la dépouiller et de la frapper sans ménagement à coups de nerf de boeuf;
       et quand tout son corps fut en sang, il prescrivit de la ramener en prison, jusqu'à ce qu'il eût décidé quel tourment il lui infligerait.</p>
       <p>Au milieu de la nuit, une grande clarté entoura la martyre, et Jésus-Christ lui apparut et lui dit:</p>
-      <blockquote>
-        <p><span style="color: #6c936c;">— Prends courage, ma fille; il y aura grande joie dans le ciel et sur la terre lors de ta passion; ne redoute point les menaces du tyran; je suis avec toi pour te préserver de tous maux.</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #6c936c;">— Prends courage, ma fille; il y aura grande joie dans le ciel et sur la terre lors de ta passion; ne redoute point les menaces du tyran; je suis avec toi pour te préserver de tous maux.</span></p>
       <p><span style="color: #994c3d;">Sainte Barbe</span> ressentit une joie extrême des paroles du Seigneur,
       et le matin elle reparut devant le proconsul, qui, voyant qu'il ne restait sur elle nulle trace des coups qu'elle avait reçus la veille, lui dit:</p>
-      <blockquote>
-        <p><span style="color: #165493;">— Vois combien les dieux te sont favorables et combíen ils t'aiment, puisqu'ils ont guéri tes plaies.</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #165493;">— Vois combien les dieux te sont favorables et combíen ils t'aiment, puisqu'ils ont guéri tes plaies.</span></p>
       <p><span style="color: #994c3d;">Barbe</span> lui répliqua:</p>
-      <blockquote>
-        <p><span style="color: #df8f20;">— Tes dieux sont comme toi, sourds, aveugles et muets; comment auraient-ils pu me guérir?</span></p>
+        <p class="conversation"><span style="color: #df8f20;">— Tes dieux sont comme toi, sourds, aveugles et muets; comment auraient-ils pu me guérir?</span></p>
         <p><span style="color: #df8f20;">Celui qui m'a guérie, c'est Jésus-Christ, le Fils du Dieu vivant; mais tu ne le vois pas, parce que ton cœur est endurci par le diable.</span></p>
-      </blockquote>
       <p>Le proconsul, frémissant comme un lion irrité, ordonna qu'on lui brûlat les côtes avec des torches allumées et qu'on lui frappât la tête à coups de marteau.</p>
       <p>La sainte, regardant le ciel, dit:</p>
-      <blockquote>
-        <p><span style="color: #df8f20;">— Vous savez, Seigneur, que je souffre pour l'amour de vous; ne m'abandonnez pas.</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Vous savez, Seigneur, que je souffre pour l'amour de vous; ne m'abandonnez pas.</span></p>
       <p>L'impie proconsul commanda qu'on lui coupat les mamelles;
       et elle dit:</p>
-      <blockquote>
-        <p><span style="color: #df8f20;">— Ne me rejetez pas hors de votre présence, Seigneur, et ne m'otez pas l'Esprit saint.</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Ne me rejetez pas hors de votre présence, Seigneur, et ne m'otez pas l'Esprit saint.</span></p>
       <p>Il prescrivit ensuite qu'on la menât nue dans la ville, en la frappant;
       et elle dit:</p>
-      <blockquote>
-        <p><span style="color: #df8f20;">— Seigneur, vous qui êtes mon soutien et qui couvrez le ciel de nuages, couvrez mon corps, afin qu'il ne soit pas exposé aux regards des impies.</span></p>
-      </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Seigneur, vous qui êtes mon soutien et qui couvrez le ciel de nuages, couvrez mon corps, afin qu'il ne soit pas exposé aux regards des impies.</span></p>
       <p>Et il descendit du ciel un ange qui lui apporta une tunique blanche.</p>
       <p>Le proconsul ordonna alors qu'on lui coupât la tête;
       mais son père se saisit d'elle et la mena dans la montagne,
       et elle fit cette prière:</p>
-      <blockquote>
-        <p><span style="color: #df8f20;">— Seigneur Jésus, à qui toutes choses obéissent, accordez que ceux qui invoqueront votre saint nom en se souvenant de mon martyre, trouvent leurs péchés mis en oubli au jour du jugement.</span></p>
-      </blockquote>
+      <p class="conversation"><span style="color: #df8f20;">— Seigneur Jésus, à qui toutes choses obéissent, accordez que ceux qui invoqueront votre saint nom en se souvenant de mon martyre, trouvent leurs péchés mis en oubli au jour du jugement.</span></p>
       <p>Et elle entendit une voix qui venait du ciel et qui répondit:</p>
-      <blockquote>
-        <p><span style="color: #6c936c;">— Viens, ma bien-aimée; repose-toi dans la demeure de mon père qui est dans le ciel; ce que tu demandes t'est accordé.</span></p>
-      </blockquote>
+      <p class="conversation"><span style="color: #6c936c;">— Viens, ma bien-aimée; repose-toi dans la demeure de mon père qui est dans le ciel; ce que tu demandes t'est accordé.</span></p>
       <p>Et la martyre eut la tête tranchée des mains de son propre père.
       Et lorsqu'il redescendit de la montagne, le feu du ciel tomba sur lui et le consuma,
       et il ne resta pas même vestige de lui.</p>
@@ -3594,14 +3530,10 @@
       <p>Il les rappela et leur dit de ne point avoir peur;
       et ils s'approchèrent de lui, et ils demandèrent comment il avait pu soutenir son existence,
       et il leur répondit:</p>
-      <blockquote>
-        <p><span style="color: #165493;">— Sainte Barbe m'a assisté dans toutes mes peines;</span></p>
-        <p><span style="color: #165493;">c'est elle qui m'a soutenu dans ma chute, et je ne peux mourir avant de m'être confessé et d'être muni de la sainte communion,</span></p>
-      </blockquote>
+      <p class="conversation"><span style="color: #165493;">— Sainte Barbe m'a assisté dans toutes mes peines;</span></p>
+      <p class="conversation"><span style="color: #165493;">c'est elle qui m'a soutenu dans ma chute, et je ne peux mourir avant de m'être confessé et d'être muni de la sainte communion,</span></p>
       <p>Interrogé pourquoi il avait obtenu cette grâce, il répondit:</p>
-      <blockquote>
-        <p><span style="color: #165493;">— Je n'ai manqué aucune année de jeûner et de prier le jour de la fête de sainte Barbe pour lui faire bonheur, et c'est pourquoi elle a demandé à Dieu que je ne mourusse pas sans avoir reçu les sacrements.</span></p>
-      </blockquote>
+      <p class="conversation"><span style="color: #165493;">— Je n'ai manqué aucune année de jeûner et de prier le jour de la fête de sainte Barbe pour lui faire bonheur, et c'est pourquoi elle a demandé à Dieu que je ne mourusse pas sans avoir reçu les sacrements.</span></p>
       <p>Et dès qu'il les eut reçus, il expira.</p>
       <p>Nous lisons aussi que du temps du roi des Romains, Adolphe, un comte fut mis à la tête du gouvernement des provinces de l'Orient, et un soldat fut accusé d'avoir fait violence à une jeune fille.</p>
       <p>Tandis qu'il était en prison, attendant son jugement, il demanda à se confesser,
@@ -3770,15 +3702,11 @@
         <p>La même année, l'empereur fut tué en châtiment de son extrême cruauté, et le Sénat annula tout ce qu'il avait fait;
         et c'est ainsi qu'il arriva que <span style="color: #994c3d;">saint Jean</span>, qui avait été injustement déporté dans cette île, put revenir à Éphèse avec tous les honneurs.</p>
         <p>Toute une foule vint à sa rencontre en criant:</p>
-        <blockquote>
-        <p><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«Béni soit celui qui vient au nom du Seigneur!</span></p>
+        <p class="conversation"><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«Béni soit celui qui vient au nom du Seigneur!</span></p>
         <p>Au moment où il entrait dans la ville, on portait en terre Drusiane, qui l'avait beaucoup aimé et qui avait tant souhaité sa venue.</p>
         <p>Les parents de Drusiane, les veuves et les orphelins dirent à <span style="color: #994c3d;">Jean</span>:</p>
         <p class="conversation"><span style="color: #df8f20;">—&#160;</span><span style="color: #165493;">«Vénérable Jean, c'est Drusiane que nous portons en terre, elle qui a toujours suivi tes instructions, qui nous nourrissait et qui, aussi, désirait tant ta venue en répétant:</span></p>
-          <blockquote>
-            <p><span style="color: #165493;">“Ah, si je pouvais voir l'apôtre de Dieu avant de mourir!”</span></p>
-          </blockquote>
-        </blockquote>
+        <p class="conversation"><span style="color: #165493;">“Ah, si je pouvais voir l'apôtre de Dieu avant de mourir!”</span></p>
         <p>Alors <span style="color: #994c3d;">Jean</span> fit déposer le cercueil et découvrir le corps en disant:</p>
         <p class="conversation"><span style="color: #df8f20;">—&#160;</span></td>Drusiane, que mon Seigneur Jésus-Christ te ressuscite!</span></p>
           <p><span style="color: #df8f20;">Lève-toi, va à la maison et prépare-moi à manger!</span></p>
@@ -3816,8 +3744,7 @@
         <p><span style="color: #994c3d;">ensuite</span>, <span style="color: #994c3d;">ce geste, qui ne soigne pas le vice, est vain, comme est vain tout remède qui ne soigne pas une maladie</span>.</p>
         <p><span style="color: #994c3d;">Enfin</span>, <span style="color: #994c3d;">le mépris du monde est méritoire chez celui qui distribue ses biens aux pauvres</span>, en suivant ce que disait le Seigneur à un jeune homme: <q><a href="#note_mathieu" title="Si tu veux être parfait" id="mathieu" class="yellow">Si tu veux être parfait, va, etc.</a></q></p>
         <p>Craton répondit:</p>
-        <blockquote>
-          <p>— Si ton maître est véritablement Dieu et s'il veut que le prix de ces pierres soit donné aux pauvres, fais qu'elles soient reconstituées: tu pourras ainsi tourner à sa gloire ce que j'ai fait pour obtenir l'éloge des hommes.</span></p>
+        <p class="conversation">— Si ton maître est véritablement Dieu et s'il veut que le prix de ces pierres soit donné aux pauvres, fais qu'elles soient reconstituées: tu pourras ainsi tourner à sa gloire ce que j'ai fait pour obtenir l'éloge des hommes.</span></p>
         <p>Alors <span style="color: #994c3d;">saint Jean</span> rassembla en sa main les fragments des pierres et se mit en prière;
         les pierres furent restituées à leur état premier.</p>
         <p>Aussitôt le philosophe et les deux jeunes gens se mirent à croire, vendirent les pierres et en distribuèrent le prix aux pauvres.</p>
@@ -3910,9 +3837,7 @@
         <p class="conversation"><span style="color: #df8f20;">— Que veux-tu faire? Dis-le et je ferai ce qui te plaira.</span></p>
         <p>L'autre répondit:</p>
         <p class="conversation"><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«Si tu veux que je croie en ton Dieu, je te donnerai à boire du poison et s'il ne te fait aucun mal, ton seigneur apparaîtra comme le vrai Dieu.</span></p>
-        </blockquote>
         <p class="conversation"><span style="color: #df8f20;">— Fais comme tu le dis</span>, dit l'apôtre.</p>
-        </blockquote>
         <p class="conversation"><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«Je veux d'abord</span>, dit le prêtre, <span style="color: #165493;">que tu voies des gens mourir, pour ta plus grande crainte.</span></p>
         <p>Aristodème alla donc trouver le proconsul pour se faire confier deux hommes destinés à la décapitation et,
         devant la foule, leur donna du poison.</p>
@@ -3926,9 +3851,7 @@
         <p class="conversation"><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«J'ai encore un doute; mais si tu ressuscites ces deux morts, je croirai véritablement et sans le moindre doute.</span></p>
         <p>L'apôtre lui donna alors sa tunique. L'autre demanda:</p>
         <p class="conversation"><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«Pourquoi m’as-tu donné ta tunique?</span></p>
-        </blockquote>
         <p class="conversation"><span style="color: #df8f20;">— Pour qu'ainsi tu sois confondu et que tu abandonnes tes fausses croyances</span>, rétorqua l'apôtre.</p>
-        </blockquote>
         <p class="conversation"><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«Penses-tu vraiment que ta tunique me fera croire?» dit l'autre.</span></p>
         <p>L'apôtre dit:</p>
         <p class="conversation"><span style="color: #df8f20;">— Va et jette-la sur le corps des défunts en disant:</span></p>
@@ -3980,55 +3903,55 @@
           <ol class="doc">
             <li value="16">
               Et voici que quelqu’un s’approcha de Jésus et lui dit:
-              <blockquote>
+              <p class="conversation">
                 “Maître, que dois-je faire de bon pour avoir la vie éternelle ?”
-              </blockquote>
+              </p>
             </li>
             <li value="17">
               Jésus lui dit:
-              <blockquote>
+              <p class="conversation">
                 “Pourquoi m’interroges-tu sur ce qui est bon? Celui qui est bon, c’est Dieu, et lui seul! Si tu veux entrer dans la vie, observe les commandements.”
-              </blockquote>
+              </p>
             </li>
             <li value="18">
               Il lui dit:
-              <blockquote>
+              <p class="conversation">
                 “Lesquels?”
-              </blockquote>
+              </p>
               Jésus reprit:
-              <blockquote>
+              <p class="conversation">
                 “Tu ne commettras pas de meurtre. Tu ne commettras pas d’adultère. Tu ne commettras pas de vol. Tu ne porteras pas de faux témoignage.
-              </blockquote>
+              </p>
             </li>
             <li value="19">
-              <blockquote>
+              <p class="conversation">
                 “Honore ton père et ta mère. Et aussi: Tu aimeras ton prochain comme toi-même.”
-              </blockquote>
+              </p>
             </li>
             <li value="20">
               Le jeune homme lui dit:
-              <blockquote>
+              <p class="conversation">
                 “Tout cela, je l’ai observé: que me manque-t-il encore?”
-              </blockquote>
+              </p>
             </li>
             <li value="21">
               Jésus lui répondit:
-              <blockquote>
+              <p class="conversation">
                 “Si tu veux être parfait, va, vends ce que tu possèdes, donne-le aux pauvres, et tu auras un trésor dans les cieux. Puis viens, suis-moi.”
-              </blockquote>
+              </p>
             </li>
             <li value="22">À ces mots, le jeune homme s’en alla tout triste, car il avait de grands biens.</li>
             <li value="23">
               Et Jésus dit à ses disciples:
-              <blockquote>
+              <p class="conversation">
                 “Amen, je vous le dis: un riche entrera difficilement dans le royaume des Cieux.”
-              </blockquote>
+              </p>
             </li>
             <li value="24">
               Je vous le répète:
-              <blockquote>
+              <p class="conversation">
                 “il est plus facile à un chameau de passer par un trou d’aiguille qu’à un riche d’entrer dans le royaume des Cieux”.
-              </blockquote>
+              </p>
             </li>
           </ol>
           </div>
@@ -4059,14 +3982,14 @@
               <li value="23">Au séjour des morts, il était en proie à la torture; levant les yeux, il vit Abraham de loin et Lazare tout près de lui.</li>
               <li value="24">
                 Alors il cria:
-                <blockquote>
+                <p class="conversation">
                   “Père Abraham, prends pitié de moi et envoie Lazare tremper le bout de son doigt dans l’eau pour me rafraîchir la langue, car je souffre terriblement dans cette fournaise.”
-                </blockquote>
+                </p>
               </li>
               <li value="25">
-                <blockquote>
+                <p class="conversation">
                   – “Mon enfant, répondit Abraham, rappelle-toi: tu as reçu le bonheur pendant ta vie, et Lazare, le malheur pendant la sienne. Maintenant, lui, il trouve ici la consolation, et toi, la souffrance”.
-                </blockquote>
+                </p>
               </li>
             </ol>
           </div>
@@ -4133,9 +4056,9 @@
         <ol class="doc">
           <li>Chapître 4</li>
           <li value="01">Après cela, j’ai vu: et voici qu’il y avait une porte ouverte dans le ciel. Et la voix que j’avais entendue, pareille au son d’une trompette, me parlait en disant:
-            <blockquote>
+            <p class="conversation">
               «Monte jusqu’ici, et je te ferai voir ce qui doit ensuite advenir.»
-            </blockquote>
+            </p>
           </li>
         </ol>
       </article></section>
@@ -4159,9 +4082,9 @@
           <li value="08">
             Les quatre vivants ont chacun <span style="color: #e6a64d;">six ailes</span>, avec des yeux innombrables tout autour et au-dedans.
             Jour et nuit, ils ne cessent de dire:
-            <blockquote>
+            <p class="conversation">
               “Saint! saint! saint, le seigneur dieu, le souverain de l’univers, celui qui était, qui est et qui vient.”
-            </blockquote>
+            </p>
           </li>
         </ol>
       </article></section>
@@ -4171,9 +4094,9 @@
             <li value="9">Lorsque les Vivants rendent gloire, honneur et action de grâce à celui qui siège sur le Trône, lui qui vit pour les siècles des siècles,</li>
             <li value="10">les vingt-quatre Anciens se jettent devant Celui qui siège sur le Trône, ils se prosternent face à celui qui vit pour les siècles des siècles; ils lancent leur couronne devant le Trône en disant:</li>
             <li value="11">
-              <blockquote>
+              <p class="conversation">
                 “Tu es digne, Seigneur notre Dieu, de recevoir la gloire, l’honneur et la puissance. C’est toi qui créas l’univer ; tu as voulu qu’il soit: il fut créé.”
-              </blockquote>
+              </p>
             </li>
           </ol>
       </article></section>
@@ -4183,16 +4106,16 @@
           <li>Chapître 5</li>
           <li value="1">J’ai vu, dans la main droite de celui qui siège sur le Trône, un livre en forme de rouleau, écrit au-dedans et à l’extérieur, scellé de sept sceaux.</li>
           <li value="2">Puis j’ai vu un ange plein de force, qui proclamait d’une voix puissante:
-            <blockquote>
+            <p class="conversation">
               “Qui donc est digne d’ouvrir le Livre et d’en briser les sceaux?”
-            </blockquote>
+            </p>
           </li>
           <li value="3">Mais personne, au ciel, sur terre ou sous la terre, ne pouvait ouvrir le Livre et regarder.</li>
           <li value="4">Je pleurais beaucoup, parce que personne n’avait été trouvé digne d’ouvrir le Livre et de regarder.</li>
           <li value="5">Mais l’un des Anciens me dit:
-            <blockquote>
+            <p class="conversation">
               “Ne pleure pas. Voilà qu’il a remporté la victoire, le lion de la tribu de Juda, le rejeton de David: il ouvrira le Livre aux sept sceaux.”
-            </blockquote>
+            </p>
           </li>
         </ol>
       </article></section>
@@ -4208,28 +4131,30 @@
           <ol class="doc">
             <li value="8">Quand l’Agneau eut pris le Livre, les quatre Vivants et les vingt-quatre Anciens se jetèrent à ses pieds. Ils tenaient chacun une cithare et des coupes d’or pleines de parfums qui sont les prières des saints.</li>
             <li value="9">Ils chantaient ce cantique nouveau:
-              <blockquote>
-                “Tu es digne, de prendre le Livre et d’en ouvrir les sceaux, car tu fus immolé, rachetant pour Dieu, par ton sang, des gens de toute tribu, langue, peuple et nation.</li>
+              <p>
+                “Tu es digne, de prendre le Livre et d’en ouvrir les sceaux, car tu fus immolé, rachetant pour Dieu, par ton sang, des gens de toute tribu, langue, peuple et nation.
+              </p>
+            </li>
             <li value="10">
-              <blockquote>
+              <p class="conversation">
                 Pour notre Dieu, tu en as fait un royaume et des prêtres: ils régneront sur la terre.”
-              </blockquote>
+              </p>
             </li>
             <li value="11">Alors j’ai vu: et j’entendis la voix d’une multitude d’anges qui entouraient le Trône, les Vivants et les Anciens; ils étaient des myriades de myriades, par milliers de milliers.</li>
             <li value="12">Ils disaient d’une voix forte:
-              <blockquote>
+              <p class="conversation">
                 “Il est digne, l’Agneau immolé, de recevoir puissance et richesse, sagesse et force, honneur, gloire et louange.”
-              </blockquote>
+              </p>
             </li>
             <li value="13">Toute créature dans le ciel et sur la terre, sous la terre et sur la mer, et tous les êtres qui s’y trouvent, je les entendis proclamer:
-              <blockquote>
+              <p class="conversation">
                 “À celui qui siège sur le Trône, et à l’Agneau, la louange et l’honneur, la gloire et la souveraineté pour les siècles des siècles.”
-              </blockquote>
+              </p>
             </li>
             <li value="14">Et les quatre Vivants disaient:
-              <blockquote>
+              <p class="conversation">
                 “Amen!”
-              </blockquote>
+              </p>
             et les Anciens, se jetant devant le Trône, se prosternèrent.
           </li>
         </ol>
@@ -4240,9 +4165,9 @@
             <li>chapître 6</li>
             <li value="01">
               Alors j’ai vu: quand l’agneau ouvrit l’un des sept sceaux, j’entendis l’un des quatre vivants dire d’une voix de tonnerre:
-              <blockquote>
+              <p class="conversation">
                 “Viens!”
-              </blockquote>
+              </p>
             </li>
             <li value="02">Alors j’ai vu: et voici un <span style="color: #e6a64d;">cheval blanc</span>; celui qui le montait tenait un <span style="color: #e6a64d;">arc</span>, une <span style="color: #e6a64d;">couronne</span> lui fut donnée, et il sortit vainqueur, pour vaincre à nouveau.</li>
           </ol>
@@ -4251,9 +4176,9 @@
       <section><article>
         <ol class="doc">
           <li value="03">Et quand il ouvrit le deuxième sceau, j’entendis le deuxième vivant qui disait:
-            <blockquote>
+            <p class="conversation">
               “Viens!”
-            </blockquote>
+            </p>
           </li>
           <li value="04">Alors sortit un autre <span style="color: #e6a64d;">cheval</span>, <span style="color: #e6a64d;">rouge feu</span>; à celui qui le montait il fut donné d’enlever la paix à la terre, pour que les gens s’entretuent, et une grande <span style="color: #e6a64d;">épée</span> lui fut donnée.</li>
         </ol>
@@ -4263,16 +4188,16 @@
         <ol class="doc">
           <li value="05">
             Et quand il ouvrit le troisième sceau, j’entendis le troisième vivant qui disait:
-            <blockquote>
+            <p class="conversation">
               “Viens!”
-            </blockquote>
+            </p>
           Alors j’ai vu: et voici un <span style="color: #e6a64d;">cheval noir</span>; celui qui le montait tenait à la main une <span style="color: #e6a64d;">balance</span>.
           </li>
           <li value="06">
           Et j'entendis comme une voix au milieu des quatre vivants; elle disait:
-            <blockquote>
+            <p class="conversation">
               “Un denier, la mesure de blé! Un denier, les trois mesures d’orge! Ne fraude pas sur l’huile et sur le vin!”
-            </blockquote>
+            </p>
           </li>
         </ol>
       </article></section>
@@ -4281,9 +4206,9 @@
         <ol class="doc">
           <li value="07">
           <li value="07">Et quand il ouvrit le quatrième sceau, j’entendis la voix du quatrième vivant qui disait:
-          <blockquote>
+          <p class="conversation">
             “Viens!”
-          </blockquote>
+          </p>
           </li>
           <li value="08">Alors j’ai vu: et voici un <span style="color: #e6a64d;">cheval verdâtre</span>; celui qui le montait se nomme <span style="color: #e6a64d;">la mort</span>, et le <span style="color: #e6a64d;">séjour des morts</span> l’accompagnait.</li>
           <li>Et il leur fut donné pouvoir sur un quart de la terre pour tuer par le glaive, par la famine et par la peste, et par les fauves de la terre.</li>
@@ -4306,14 +4231,14 @@
           <li value="14">Le ciel se retira comme un livre qu’on referme; toutes les montagnes et les îles furent déplacées.</li>
           <li value="15"><span style="color: #e6a64d;">Les rois de la terre et les grands, les chefs d’armée, les riches et les puissants, tous les esclaves et les hommes libres allèrent se cacher dans les cavernes et les rochers des montagnes</span>.</li>
           <li value="16"><p>Et ils disaient aux montagnes et aux rochers:</p>
-          <blockquote>
+          <p class="conversation">
             “Tombez sur nous, et cachez-nous du regard de celui qui siège sur le trône et aussi de la colère de l’agneau.”
-          </blockquote>
+          </p>
           </li>
           <li value="17">
-          <blockquote>
+          <p class="conversation">
             Car il est venu, le grand jour de leur colère, et qui pourrait tenir?»
-          </blockquote>
+          </p>
           </li>
         </ol>
       </article></section>
@@ -4377,9 +4302,9 @@
       <section><article>
         <ol class="doc">
           <li value="13"><p>Alors j’ai vu: et j’entendis <span style="color: #e6a64d;">un aigle</span> qui volait en plein ciel, disant d’une voix forte:</p>
-          <blockquote>
+          <p class="conversation">
             «Malheur! Malheur! Malheur pour ceux qui habitent la terre, car la trompette, encore, doit retentir quand les trois anges sonneront!»
-          </blockquote>
+          </p>
           </li>
         </ol>
       </article></section>
