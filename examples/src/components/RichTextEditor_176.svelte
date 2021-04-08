@@ -483,7 +483,6 @@
         Au moment de son exécution, la voix de Jésus lui-même se serait alors fait entendre du ciel pour lui dire:</p>
         <blockquote cite="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende">
           <p><span style="color: #e6a64d;"><q>Viens, ma bien-aimée, ma belle!</q></span></p>
-        </blockquote>
         <p>Du fait de cette présence de sainte Catherine aux côtés de la Vierge et de l'enfant Jésus au centre du panneau central intérieur, le triptyque a quelques fois été appelé <span style="color: #e6a64d;">“le mariage mystique de sainte Catherine”</span> <sup id="fnref1:5"><a href="#fn:5" class="footnote-ref">note 3</a></sup>.</p>
       </article></section>
     </article></section>
@@ -508,8 +507,7 @@
       <section><article>
         <p>Sur le derrière, à gauche, la présence d'un <span style="color: #e6a64d;">agneau blanc</span> nous permet d'identifier <span style="color: #e6a64d;">l'homme portant la</span> magnifique <span style="color: #e6a64d;">tunique violette</span> comme <a href="https://fr.wikipedia.org/wiki/Jean_le_Baptiste" title="https://fr.wikipedia.org/wiki/Jean_le_Baptiste" id="jean-le-baptiste" class="yellow">Jean le Baptiste</a>.</p>
         <p>L'agneau rappelle la parole que Jean le Baptiste adressa à ses disciples pour <span style="color #e6a64d;">annoncer</span> la venue de <span style="color: #e6a64d;">Jésus dans le monde</span> <span style="color: #999;">(Jean, chapître 1 verset 29)</span>:</p>
-        <blockquote>
-          <p><span style="color: #e6a64d;"><ruby style="color:#e6a64d;" lang="fr">Voici&#160;l'agneau&#160;de&#160;dieu<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce&#160;agnus&#160;dei</rt><rp>)</rp></ruby></span>.</p>
+        <p class="conversation"><span style="color: #e6a64d;"><ruby style="color:#e6a64d;" lang="fr">Voici&#160;l'agneau&#160;de&#160;dieu<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce&#160;agnus&#160;dei</rt><rp>)</rp></ruby></span>.</p>
         </blockquote>
         <p>Jean le Baptiste désigne aussi de son bras droit l'enfant Jésus.</p>
       </article></section>
@@ -936,8 +934,7 @@
         <p>Enfin, la disposition exemplaire d'une représentation où les personnages sont parés des plus belles réalisations vestimentaires de la Bruges du XV<sup>ème</sup> siècle, cristallise le sentiment de <em>merveilleux</em>.</p>
         <p><span style="color: #e6a64d;">simplicité, évidence, idéalité spirituelles produisent</span> aussi de <em>manière continue</em> <span style="color: #e6a64d;">sophistication et opulence matérielles</span>.</p>
         <p><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" id="renvoi-de-vos-2" class="yellow">Dirk DE VOS</a> évoque:</p>
-        <blockquote>
-          <p><span style="color: #e6a64d;">«un monde de vierges vêtues de brocart d'or, de soie et d'hermine, couronnes dorées et de pierres précieses rares»</span> où <span style="color: #e6a64d;">«l'enfant Jésus fait signe»</span> aux malades dans une <span style="color: #e6a64d;">«atmosphère empreinte de profonde sérénité»</span>.</p>
+        <p class="conversation"><span style="color: #e6a64d;">«un monde de vierges vêtues de brocart d'or, de soie et d'hermine, couronnes dorées et de pierres précieses rares»</span> où <span style="color: #e6a64d;">«l'enfant Jésus fait signe»</span> aux malades dans une <span style="color: #e6a64d;">«atmosphère empreinte de profonde sérénité»</span>.</p>
         </blockquote>
         <p>De fait, à Bruges au XV<sup>ème</sup> siècle, simplicité et l'évidence ne connaissant pas de limites, mènent <em>merveilleusement</em> au divin.</p>
       </article></section>
@@ -2110,9 +2107,7 @@
           <li value="08">
             <p>Les quatre vivants ont chacun <span style="color: #e6a64d;">six ailes</span>, avec des yeux innombrables tout autour et au-dedans.
             Jour et nuit, ils ne cessent de dire:</p>
-            <blockquote>
-              <p><q>Saint! saint! saint, le seigneur dieu, le souverain de l’univers, celui qui était, qui est et qui vient.</q></p>
-            </blockquote>
+              <p class="conversation"><q>Saint! saint! saint, le seigneur dieu, le souverain de l’univers, celui qui était, qui est et qui vient.</q></p>
           </li>
           <li><span style="color: #999;">(…)</span></li>
           <li>chapître 5</li>
@@ -2199,9 +2194,9 @@
             <li>chapître 6</li>
             <li value="01">
               <p>Alors j’ai vu: quand l’agneau ouvrit l’un des sept sceaux, j’entendis l’un des quatre vivants dire d’une voix de tonnerre:</p>
-              <blockquote>
+              <p class="conversation">
                 <p><q>Viens!</q></p>
-              </blockquote>
+              </p>
             </li>
             <li value="02">Alors j’ai vu: et voici un <span style="color: #e6a64d;">cheval blanc</span>; celui qui le montait tenait un <span style="color: #e6a64d;">arc</span>, une <span style="color: #e6a64d;">couronne</span> lui fut donnée, et il sortit vainqueur, pour vaincre à nouveau.</li>
           </ol>
@@ -2236,9 +2231,9 @@
       <section><article>
         <ol class="doc">
           <li value="03">Et quand il ouvrit le deuxième sceau, j’entendis le deuxième vivant qui disait:</p>
-            <blockquote>
+            <p class="conversation">
               <p>“Viens!”</p>
-            </blockquote>
+            </p>
           </li>
           <li value="04">Alors sortit un autre <span style="color: #e6a64d;">cheval</span>, <span style="color: #e6a64d;">rouge feu</span>; à celui qui le montait il fut donné d’enlever la paix à la terre, pour que les gens s’entretuent, et une grande <span style="color: #e6a64d;">épée</span> lui fut donnée.</li>
         </ol>
@@ -2273,16 +2268,16 @@
         <ol class="doc">
           <li value="05">
             <p>Et quand il ouvrit le troisième sceau, j’entendis le troisième vivant qui disait:</p>
-            <blockquote>
+            <p class="conversation">
               <p>“Viens!”</p>
-            </blockquote>
+            </p>
           <p>Alors j’ai vu: et voici un <span style="color: #e6a64d;">cheval noir</span>; celui qui le montait tenait à la main une <span style="color: #e6a64d;">balance</span>.</p>
           </li>
           <li value="06">
           <p>Et j'entendis comme une voix au milieu des quatre vivants; elle disait:</p>
-            <blockquote>
+            <p class="conversation">
               <p>“Un denier, la mesure de blé! Un denier, les trois mesures d’orge! Ne fraude pas sur l’huile et sur le vin!”</p>
-            </blockquote>
+            </p>
           </li>
         </ol>
       </article></section>
@@ -2315,9 +2310,9 @@
         <ol class="doc">
           <li value="07">
           <p>Et quand il ouvrit le quatrième sceau, j’entendis la voix du quatrième vivant qui disait:</p>
-          <blockquote>
+          <p class="conversation">
             <p>“Viens!”</p>
-          </blockquote>
+          </p>
           </li>
           <li value="08">Alors j’ai vu: et voici un <span style="color: #e6a64d;">cheval verdâtre</span>; celui qui le montait se nomme <span style="color: #e6a64d;">la mort</span>, et le <span style="color: #e6a64d;">séjour des morts</span> l’accompagnait.</li>
           <li>Et il leur fut donné pouvoir sur un quart de la terre pour tuer par le glaive, par la famine et par la peste, et par les fauves de la terre.</li>
@@ -2354,14 +2349,10 @@
           <li value="14">Le ciel se retira comme un livre qu’on referme; toutes les montagnes et les îles furent déplacées.</li>
           <li value="15"><span style="color: #e6a64d;">Les rois de la terre et les grands, les chefs d’armée, les riches et les puissants, tous les esclaves et les hommes libres allèrent se cacher dans les cavernes et les rochers des montagnes</span>.</li>
           <li value="16"><p>Et ils disaient aux montagnes et aux rochers:</p>
-          <blockquote>
-            <p>“Tombez sur nous, et cachez-nous du regard de celui qui siège sur le trône et aussi de la colère de l’agneau.”</p>
-          </blockquote>
+            <p class="conversation">“Tombez sur nous, et cachez-nous du regard de celui qui siège sur le trône et aussi de la colère de l’agneau.”</p>
           </li>
           <li value="17">
-          <blockquote>
-            <p>Car il est venu, le grand jour de leur colère, et qui pourrait tenir?</p>
-          </blockquote>
+            <p class="conversation">Car il est venu, le grand jour de leur colère, et qui pourrait tenir?</p>
           </li>
         </ol>
       </article></section>
@@ -2536,9 +2527,7 @@
     <section><article>
       <ol class="doc">
         <li value="13"><p>Alors j’ai vu: et j’entendis <span style="color: #e6a64d;">un aigle</span> qui volait en plein ciel, disant d’une voix forte:</p>
-        <blockquote>
-          <p><q style="quotes: '«' '»';">Malheur! Malheur! Malheur pour ceux qui habitent la terre, car la trompette, encore, doit retentir quand les trois anges sonneront!</q></p>
-        </blockquote>
+          <p class="conversation"><q style="quotes: '«' '»';">Malheur! Malheur! Malheur pour ceux qui habitent la terre, car la trompette, encore, doit retentir quand les trois anges sonneront!</q></p>
         </li>
       </ol>
     </article></section>
@@ -2657,14 +2646,12 @@
       <section><article>
         <ol class="doc">
           <li value="04"><p>Et quand les sept tonnerres eurent parlé, j’allais me mettre à écrire; mais j’entendis une voix venant du ciel qui disait:</p>
-          <blockquote>
-            <p>“Ce que viennent de dire les sept tonnerres, garde-le scellé, ne l’écris pas!”</p>
-          </blockquote></li>
+            <p class="conversation">“Ce que viennent de dire les sept tonnerres, garde-le scellé, ne l’écris pas!”</p>
+          </li>
           <li value="05">Et l’ange que j’avais vu debout sur la mer et sur la terre leva la main droite vers le ciel;</li>
           <li value="06"><p>il fit un serment par celui qui est vivant pour les siècles des siècles, celui qui a créé le ciel et tout ce qu’il contient, la terre et tout ce qu’elle contient, la mer et tout ce qu’elle contient. Il déclara:</p>
-          <blockquote>
-            <p>“Du temps, il n’y en aura plus!”</p>
-          </blockquote></li>
+            <p class="conversation">“Du temps, il n’y en aura plus!”</p>
+          </li>
         </ol>
       </article></section>
 
@@ -2994,120 +2981,84 @@
         <p>Quand elle l'eut appris, elle s'entoura de quelques personnes, se protégea par un signe de croix, sortit du palais et s'approcha.</p>
         <p>Là, elle vit de nombreux chrétiens poussés à sacrifier par crainte de la mort.</p>
         <p>Frappée au cœur par une forte douleur, elle s'avança avec audace vers l'empereur et lui dit:</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">— La dignité de ton ordre et la voie de la raison me conseilleraient de te présenter mes salutations, si tu reconnaissais le Créateur des cieux et si tu détournais ton esprit des dieux.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— La dignité de ton ordre et la voie de la raison me conseilleraient de te présenter mes salutations, si tu reconnaissais le Créateur des cieux et si tu détournais ton esprit des dieux.</span></p>
         <p>Et, debout devant la porte du temple, elle disputa longuement avec l'empereur, en utilisant les diverses démonstrations des syllogismes, en utilisant l'allégorie, la métonymie, en parlant de claire et mystique façon.</p>
         <p>Ensuite, revenant au langage commun, elle dit:</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">— Je me suis efforcée de m'adresser à toi comme à un savant.</span></p>
-          <p><span style="color: #df8f20;">Pourquoi donc as-tu rassemblé en vain cette foule en vue l'honorer la stupidité des idoles?</span></p>
-          <p><span style="color: #df8f20;">Tu admires ce temple fait de la main des artisans, tu admires des ornements précieux qui seront comme de la poussière face au vent.</span></p>
-          <p><span style="color: #df8f20;">Admire plutôt le ciel et la terre, la mer et tout ce qu'elle contient.</span></p>
-          <p><span style="color: #df8f20;">Admire les ornements des cieux: le soleil, la lune et les étoiles.</span></p>
-          <p><span style="color: #df8f20;">Admire leur docilité: depuis le commencement du monde jusqu'à sa fin, ils courent nuit et jour vers l'Occident, pour revenir, infatigablement, vers l'Orient.</span></p>
-          <p><span style="color: #df8f20;">Et quand tu auras observé tout cela, interroge-toi et apprends qui est plus puissant qu'eux.</span></p>
-          <p><span style="color: #df8f20;">Quand tu auras compris, par le don de sa grâce, de qui il s'agit, et que tu ne pourras trouver personne qui lui soit analogue, alors, adore-le, glorifie-le, car il est le Dieu des dieux, le Seigneur des dominateurs.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Je me suis efforcée de m'adresser à toi comme à un savant.</span></p>
+        <p class="conversation"><span style="color: #df8f20;">Pourquoi donc as-tu rassemblé en vain cette foule en vue l'honorer la stupidité des idoles?</span></p>
+        <p class="conversation"><span style="color: #df8f20;">Tu admires ce temple fait de la main des artisans, tu admires des ornements précieux qui seront comme de la poussière face au vent.</span></p>
+        <p class="conversation"><span style="color: #df8f20;">Admire plutôt le ciel et la terre, la mer et tout ce qu'elle contient.</span></p>
+        <p class="conversation"><span style="color: #df8f20;">Admire les ornements des cieux: le soleil, la lune et les étoiles.</span></p>
+        <p class="conversation"><span style="color: #df8f20;">Admire leur docilité: depuis le commencement du monde jusqu'à sa fin, ils courent nuit et jour vers l'Occident, pour revenir, infatigablement, vers l'Orient.</span></p>
+        <p class="conversation"><span style="color: #df8f20;">Et quand tu auras observé tout cela, interroge-toi et apprends qui est plus puissant qu'eux.</span></p>
+        <p class="conversation"><span style="color: #df8f20;">Quand tu auras compris, par le don de sa grâce, de qui il s'agit, et que tu ne pourras trouver personne qui lui soit analogue, alors, adore-le, glorifie-le, car il est le Dieu des dieux, le Seigneur des dominateurs.</span></p>
         <p>Et quand elle eut savamment et longuement disputé de <a href="#note_incarnation" title="l'Incarnation" id="incarnation" class="yellow">l’Incarnation du Fils</a>, l'empereur, stupéfié, ne sut que répondre.</p>
         <p>Enfin, il revint à lui et lui dit:</p>
-        <blockquote>
-          <p><span style="color: #b3884d;">— Femme, laisse-nous achever le sacrifice et ensuite, nous te rendrons réponse.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #b3884d;">— Femme, laisse-nous achever le sacrifice et ensuite, nous te rendrons réponse.</span></p>
         <p>Il ordonna alors de l'emmener visiter le palais et de la recevoir avec le plus grand soin, parce qu'il admirait beaucoup sa sagesse et la beauté de son corps.</p>
         <p>En effet, elle était très jolie et, par sa beauté incroyable, elle paraissait admirable aux yeux de tous.</p>
         <p>L'empereur revint au palais et dit à Catherine:</p>
-        <blockquote>
-          <p><span style="color: #b3884d;">— Nous avons entendu ton éloquence et admiré ta sagesse,</span></p>
-          <p><span style="color: #b3884d;">mais, occupés à sacrifier aux dieux, nous n'avons pu comprendre pleinement toutes tes paroles.</span></p>
-          <p><span style="color: #b3884d;">Maintenant, pour reprendre au début, nous te demandons de quelle famille tu viens.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #b3884d;">— Nous avons entendu ton éloquence et admiré ta sagesse,</span></p>
+        <p class="conversation"><span style="color: #b3884d;">mais, occupés à sacrifier aux dieux, nous n'avons pu comprendre pleinement toutes tes paroles.</span></p>
+        <p class="conversation"><span style="color: #b3884d;">Maintenant, pour reprendre au début, nous te demandons de quelle famille tu viens.</span></p>
         <p>La sainte répondit:</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">— Il est écrit: “Ne te vante pas, ni ne te méprise toi-même.”</span></p>
-          <p><span style="color: #df8f20;">C'est ce que font les sots que tourmente la vaine gloire.</span></p>
-          <p><span style="color: #df8f20;">Cependant je déclare mon origine familiale, poussée non par l'enflure de la vanité, mais par l'amour de la vérité.</span></p>
-          <p><span style="color: #df8f20;">Je suis Catherine, fille du roi Costus; bien que née dans la pourpre et assez bien instruite dans les savoirs libéraux, pourtant j'ai méprisé tout cela pour me réfugier auprès du Seigneur Jésus-Christ.</span></p>
-          <p><span style="color: #df8f20;">Les dieux que tu honores ne peuvent t'aider ni toi, ni les autres.</span></p>
-          <p><span style="color: #df8f20;">Ils sont bien malheureux, les adorateurs de telles divinités qui, appelées en cas de nécessité, font défaut, qui n'apportent aucun secours dans les tourments, qui ne procurent aucune défense au milieu des périls!</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Il est écrit: “Ne te vante pas, ni ne te méprise toi-même.”</span></p>
+        <p class="conversation"><span style="color: #df8f20;">C'est ce que font les sots que tourmente la vaine gloire.</span></p>
+        <p class="conversation"><span style="color: #df8f20;">Cependant je déclare mon origine familiale, poussée non par l'enflure de la vanité, mais par l'amour de la vérité.</span></p>
+        <p class="conversation"><span style="color: #df8f20;">Je suis Catherine, fille du roi Costus; bien que née dans la pourpre et assez bien instruite dans les savoirs libéraux, pourtant j'ai méprisé tout cela pour me réfugier auprès du Seigneur Jésus-Christ.</span></p>
+        <p class="conversation"><span style="color: #df8f20;">Les dieux que tu honores ne peuvent t'aider ni toi, ni les autres.</span></p>
+        <p class="conversation"><span style="color: #df8f20;">Ils sont bien malheureux, les adorateurs de telles divinités qui, appelées en cas de nécessité, font défaut, qui n'apportent aucun secours dans les tourments, qui ne procurent aucune défense au milieu des périls!</span></p>
         <p>Le roi lui répondit:</p>
-        <blockquote>
-          <p><span style="color: #b3884d;">— S'il en est comme tu le dis, alors le monde entier est dans l'erreur et tu es la seule à dire vrai, alors que toute parole doit être confirmée par la bouche de deux ou trois témoins.</span></p>
-          <p><span style="color: #b3884d;">Même si tu étais un ange, même si tu étais une vertu céleste, personne n'aurait alors l'obligation de te croire.</span></p>
-          <p><span style="color: #b3884d;">Et on doit te croire d'autant moins que tu te trouves être une fragile femme.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #b3884d;">— S'il en est comme tu le dis, alors le monde entier est dans l'erreur et tu es la seule à dire vrai, alors que toute parole doit être confirmée par la bouche de deux ou trois témoins.</span></p>
+        <p class="conversation"><span style="color: #b3884d;">Même si tu étais un ange, même si tu étais une vertu céleste, personne n'aurait alors l'obligation de te croire.</span></p>
+        <p class="conversation"><span style="color: #b3884d;">Et on doit te croire d'autant moins que tu te trouves être une fragile femme.</span></p>
         <p>Elle rétorqua:</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">— Je t'en conjure, empereur, ne te laisse pas vaincre par ta fureur.</span></p>
-          <p><span style="color: #df8f20;">Un funeste trouble ne doit pas envahir l'âme du sage.</span></p>
-          <p><span style="color: #df8f20;">Et comme le poète le dit: “Si tu gouvernes par l'esprit, tu es un roi; si tu gouvernes par le corps, tu es un esclave.”</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Je t'en conjure, empereur, ne te laisse pas vaincre par ta fureur.</span></p>
+        <p class="conversation"><span style="color: #df8f20;">Un funeste trouble ne doit pas envahir l'âme du sage.</span></p>
+        <p class="conversation"><span style="color: #df8f20;">Et comme le poète le dit: “Si tu gouvernes par l'esprit, tu es un roi; si tu gouvernes par le corps, tu es un esclave.”</span></p>
         <p>L'empereur dit alors:</p>
-        <blockquote>
-          <p><span style="color: #b3884d;">— À ce que je vois, tu t'apprêtes à nous embobiner par ton astuce pernicieuse, en t'efforçant de faire ces longs discours appuyés sur les exemples des philosophes.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #b3884d;">— À ce que je vois, tu t'apprêtes à nous embobiner par ton astuce pernicieuse, en t'efforçant de faire ces longs discours appuyés sur les exemples des philosophes.</span></p>
         <p>Mais l'empereur, constatant qu'il ne pourrait trouver de parade à sa sagesse, s'empressa de convoquer secrètement par lettres au prétoire d'Alexandrie tous les grammairiens et rhéteurs: ils obtiendraient d'immenses récompenses s'ils triomphaient par leurs raisonnements de la vierge argumentatrice.</p>
         <p>On amena donc, de diverses provinces, cinquante orateurs,
         qui l'emportaient sur tous les mortels en toute science de ce monde.</p>
         <p>Quand ils demandèrent pourquoi ils avaient été appelés de lieux aussi éloignés,
         l'empereur leur dit:</p>
-        <blockquote>
-          <p><span style="color: #b3884d;">— Il y a auprès de nous une jeune fille incomparable de bon sens et de sagesse, qui réfute tous les savants et affirme que nos dieux sont des démons.</span></p>
-          <p><span style="color: #b3884d;">Si vous arrivez à l'emporter sur elle, vous rentrerez chez vous avec de grands honneurs.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #b3884d;">— Il y a auprès de nous une jeune fille incomparable de bon sens et de sagesse, qui réfute tous les savants et affirme que nos dieux sont des démons.</span></p>
+        <p class="conversation"><span style="color: #b3884d;">Si vous arrivez à l'emporter sur elle, vous rentrerez chez vous avec de grands honneurs.</span></p>
         <p>En entendant cela, l'un d'eux, indigné, répondit d'une voix pleine de colère:</p>
-        <blockquote>
-          <p><span style="color: #165493;">— Belle décision pour un empereur!</span></p>
-          <p><span style="color: #165493;">Pour un différend avec une seule jeune fille, il a fait venir de pays lointains les savants de ce monde, alors qu'un seul de nos jeunes élèves pourrait très aisément la confondre!</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #165493;">— Belle décision pour un empereur!</span></p>
+        <p class="conversation"><span style="color: #165493;">Pour un différend avec une seule jeune fille, il a fait venir de pays lointains les savants de ce monde, alors qu'un seul de nos jeunes élèves pourrait très aisément la confondre!</span></p>
         <p>Le roi répondit:</p>
-        <blockquote>
-          <p><span style="color: #b3884d;">— Je pouvais certes la contraindre par la force à sacrifier,</span></p>
-          <p><span style="color: #b3884d;">mais j'ai jugé meilleur de la confondre totalement à l'aide de vos arguments.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #b3884d;">— Je pouvais certes la contraindre par la force à sacrifier,</span></p>
+        <p class="conversation"><span style="color: #b3884d;">mais j'ai jugé meilleur de la confondre totalement à l'aide de vos arguments.</span></p>
         <p>Alors les autres lui dirent:</p>
-        <blockquote>
-          <p><span style="color: #165493;">— Qu'on nous amène cette jeune fille et que, convaincue de sa témérité, elle reconnaisse qu'elle n'avait pas encore rencontré de savants.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #165493;">— Qu'on nous amène cette jeune fille et que, convaincue de sa témérité, elle reconnaisse qu'elle n'avait pas encore rencontré de savants.</span></p>
         <p>Mais cette vierge, quand elle eut pris connaissance de la dispute à venir, se recommanda tout entière à Dieu;
         et voici qu'un ange du Seigneur apparut et lui conseilla de résister avec constance, en affirmant que non seulement elle ne pourrait pas être vaincue par ses adversaires, mais qu'en outre, elle les convertirait et les guiderait vers la palme du martyre.</p>
         <p>Alors, quand elle fut conduite devant les orateurs, elle dit à l'empereur:</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">— Par quelle décision peux-tu placer une seule jeune fille devant cinquante orateurs à qui, en outre, tu as promis salaire en cas de victoire, alors que tu m'obliges à combattre sans espoir de récompense?</span></p>
-          <p><span style="color: #df8f20;">Pourtant, ma récompense sera le Seigneur Jésus-Christ, qui est l'espérance et la couronne de ceux qui combattent pour lui.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Par quelle décision peux-tu placer une seule jeune fille devant cinquante orateurs à qui, en outre, tu as promis salaire en cas de victoire, alors que tu m'obliges à combattre sans espoir de récompense?</span></p>
+        <p class="conversation"><span style="color: #df8f20;">Pourtant, ma récompense sera le Seigneur Jésus-Christ, qui est l'espérance et la couronne de ceux qui combattent pour lui.</span></p>
         <p>Mais quand les orateurs dirent qu'il était impossible que Dieu se fasse homme et qu'il souffre, la vierge montra que la chose avait été predite même par les païens:</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">— En effet Platon a affirmé que Dieu était une figure circulaire coupée par une sécante. La <a href="#note_sybille" title="la Sibylle" id="sybille" class="yellow">Sibylle</a> a dit aussi: “Heureux est ce Dieu suspendu à du bois”.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— En effet Platon a affirmé que Dieu était une figure circulaire coupée par une sécante. La <a href="#note_sybille" title="la Sibylle" id="sybille" class="yellow">Sibylle</a> a dit aussi: “Heureux est ce Dieu suspendu à du bois”.</span></p>
         <p>La vierge disputa donc avec beaucoup de sagesse contre les orateurs et confondit les dieux par des raisons évidentes; les orateurs en furent stupéfiés et, ne trouvant quoi répondre, ils devinrent totalement muets.</p>
         <p>Alors l'empereur, rempli d'une grande colère à leur egard, commença à leur adresser des reproches: pourquoi se laissaient-ils si honteusement vaincre par une seule jeune fille!</p>
         <p>Alors l'un d'eux, qui était leur maître dit:</p>
-        <blockquote>
-          <p><span style="color: #165493;">— Tu sais, empereur, que jamais personne n'a pu paraître devant nous sans être immédiatement vaincu.</span></p>
-          <p><span style="color: #165493;">Mais cette jeune fille, en qui parle l'Esprit de Dieu, nous a frappés d'admiration, au point que dire quoi que ce soit contre le Christ est pour nous une tâche tout à fait impossible ou très redoutable.</span></p>
-          <p><span style="color: #165493;">C'est pourquoi nous déclarons fermement, empereur, qu'à moins que tu ne produises une argumentation plus convaincante sur les dieux que nous avons honorés jusqu'à présent, nous nous convertissons tous au Christ.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #165493;">— Tu sais, empereur, que jamais personne n'a pu paraître devant nous sans être immédiatement vaincu.</span></p>
+        <p class="conversation"><span style="color: #165493;">Mais cette jeune fille, en qui parle l'Esprit de Dieu, nous a frappés d'admiration, au point que dire quoi que ce soit contre le Christ est pour nous une tâche tout à fait impossible ou très redoutable.</span></p>
+        <p class="conversation"><span style="color: #165493;">C'est pourquoi nous déclarons fermement, empereur, qu'à moins que tu ne produises une argumentation plus convaincante sur les dieux que nous avons honorés jusqu'à présent, nous nous convertissons tous au Christ.</span></p>
         <p>À ces mots le tyran, enflammé par une violente colère, ordonna de les faire tous brûler au milieu de la cité.</p>
         <p>La vierge les réconforta, leur donna de la constance pour le martyre et les instruisit soigneusement dans la foi.</p>
         <p>Et quand ils se lamentèrent de mourir sans baptême, la vierge leur répondit:</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">— Ne craignez rien, car le sang répandu vous sera compté comme baptême et comme couronne.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Ne craignez rien, car le sang répandu vous sera compté comme baptême et comme couronne.</span></p>
         <p>Après qu'ils se furent protégés par le signe de croix, ils furent jetés dans les flammes et ils rendirent leur âme au Seigneur,
         sans que leurs cheveux ni leurs vêtements fussent aucunement atteints par le feu...</p>
         <p>Quand ils eurent été ensevelis par les chrétiens, le tyran dit à la vierge:</p>
-        <blockquote>
-          <p><span style="color: #b3884d;">— Généreuse vierge, pense à ta jeunesse et tu recevras le second rang après la reine dans mon palais et, grâce à une statue de toi érigée au milieu de la cité, tu seras adorée par tous comme une déesse.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #b3884d;">— Généreuse vierge, pense à ta jeunesse et tu recevras le second rang après la reine dans mon palais et, grâce à une statue de toi érigée au milieu de la cité, tu seras adorée par tous comme une déesse.</span></p>
         <p>Elle dit:</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">— Cesse de tenir de tels propos, qu'il est criminel de simplement envisager par la pensée.</span></p>
-          <p><span style="color: #df8f20;">Je me suis donnée comme <a href="#note_fiancee" title="Je le déclare, je suis une femme qui a dédié son corps comme fiancée au Christ" id="fiancee" class="yellow">épouse au Christ</a>.</span></p>
-          <p><span style="color: #df8f20;">Il est ma gloire, il est mon amour, il est ma douceur et mon affection.</span></p>
-          <p><span style="color: #df8f20;">Ni les caresses ni les tourments ne pourront m'éloigner de l'amour que j'ai pour lui.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Cesse de tenir de tels propos, qu'il est criminel de simplement envisager par la pensée.</span></p>
+        <p class="conversation"><span style="color: #df8f20;">Je me suis donnée comme <a href="#note_fiancee" title="Je le déclare, je suis une femme qui a dédié son corps comme fiancée au Christ" id="fiancee" class="yellow">épouse au Christ</a>.</span></p>
+        <p class="conversation"><span style="color: #df8f20;">Il est ma gloire, il est mon amour, il est ma douceur et mon affection.</span></p>
+        <p class="conversation"><span style="color: #df8f20;">Ni les caresses ni les tourments ne pourront m'éloigner de l'amour que j'ai pour lui.</span></p>
         <p>Alors, rempli de fureur, l'empereur ordonna qu'elle soit dévêtue, frappée à coups de croc de fer,
         et, une fois déchirée, jetée dans une prison obscure pour y être torturée par la faim durant douze jours.</p>
         <p>Le roi, pour certaines affaires urgentes, dut quitter la région.</p>
@@ -3118,34 +3069,22 @@
         <p>Et, comme le tyran avait ordonné qu'elle soit laissée sans nourriture durant douze jours,
         le Christ, pendant tout ce temps, envoyant du ciel une colombe blanche, la nourrissait d'un aliment céleste.</p>
         <p>Puis le Seigneur lui apparut au milieu d'une foule d'anges et de vierges et lui dit:</p>
-        <blockquote>
-          <p><span style="color: #7070c2;">— Reconnais, ma fille, ton Créateur pour le nom de qui tu as subi un dur combat.</span></p>
-          <p><span style="color: #7070c2;">Sois constante, car je suis avec toi.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #7070c2;">— Reconnais, ma fille, ton Créateur pour le nom de qui tu as subi un dur combat.</span></p>
+        <p class="conversation"><span style="color: #7070c2;">Sois constante, car je suis avec toi.</span></p>
         <p>À son retour, l'empereur se la fit amener
         et constata aussi qu'elle était tout aussi florissante qu'il pensait la trouver exténuée par un tel jeûne.</p>
         <p>Il crut donc que quelqu'un l'avait nourrie en prison et, rempli de fureur, il fit torturer les gardiens.</p>
         <p>Mais Catherine lui dit:</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">— Je n'ai pas reçu de nourriture de main d'homme: c'est le Christ qui m'a nourrie par l'intermédiaire de son ange.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Je n'ai pas reçu de nourriture de main d'homme: c'est le Christ qui m'a nourrie par l'intermédiaire de son ange.</span></p>
         <p>L'empereur dit alors:</p>
-        <blockquote>
-          <p><span style="color: #b3884d;">— Recueille en ton cœur, je t'en prie, mes conseils et ne réponds pas par des paroles ambiguës.</span></p>
-          <p><span style="color: #b3884d;">Nous ne désirons pas t'avoir comme esclave: reine puissante et choisie pour ta beauté, tu triompheras en mon royaume.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #b3884d;">— Recueille en ton cœur, je t'en prie, mes conseils et ne réponds pas par des paroles ambiguës.</span></p>
+        <p class="conversation"><span style="color: #b3884d;">Nous ne désirons pas t'avoir comme esclave: reine puissante et choisie pour ta beauté, tu triompheras en mon royaume.</span></p>
         <p>La vierge rétorqua:</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">— Fais attention, toi aussi, je t'en supplie, et après un jugement délibéré, au terme d'une décision véridique, décide qui je dois choisir: un être puissant, éternel, glorieux et beau, ou bien un être faible, mortel, bas et laid.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Fais attention, toi aussi, je t'en supplie, et après un jugement délibéré, au terme d'une décision véridique, décide qui je dois choisir: un être puissant, éternel, glorieux et beau, ou bien un être faible, mortel, bas et laid.</span></p>
         <p>Alors, l'empereur, indigné, lui dit:</p>
-        <blockquote>
-          <p><span style="color: #b3884d;">— Choisis, pour ton sort, de deux choses l'une: ou de sacrifier pour vivre, ou de subir des tourments raffinés pour périr.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #b3884d;">— Choisis, pour ton sort, de deux choses l'une: ou de sacrifier pour vivre, ou de subir des tourments raffinés pour périr.</span></p>
         <p>Catherine lui répondit: </p>
-        <blockquote>
-          <p><span style="color: #df8f20;">— Quels que soient les tourments que tu peux imaginer, ne les diffère pas, car je veux offrir ma chair et mon sang au Christ, comme il s'est offert pour moi. Car il est mon Dieu, mon amour, mon berger et mon époux unique.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Quels que soient les tourments que tu peux imaginer, ne les diffère pas, car je veux offrir ma chair et mon sang au Christ, comme il s'est offert pour moi. Car il est mon Dieu, mon amour, mon berger et mon époux unique.</span></p>
         <p>Alors un préfet conseilla au roi furieux de faire préparer dans les trois jours quatre roues entourées de scies de fer et de clous très pointus, en sorte que ce terrible supplice découpe la vierge et que l'exemple de cette mort atroce effraye les autres chrétiens.</p>
         <p>Les dispositions suivantes furent prises:
         deux roues tournaient dans un sens et deux autres dans un sens contraire,
@@ -3156,9 +3095,7 @@
         <p>Mais le roi, rempli de fureur, après qu'elle eut refusé avec hauteur de sacrifier, lui fit arracher les seins, puis trancher la tête.</p>
         <p>Conduite au martyre, elle demanda à Catherine de prier le Seigneur pour elle.</p>
         <p>La sainte répondit:</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">— Ne crains rien, reine aimée de Dieu, car aujourd'hui, tu obtiendras le royaume éternel en échange d'un royaume transitoire, et, à la place d'un époux mortel, tu en obtiendras un immortel.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Ne crains rien, reine aimée de Dieu, car aujourd'hui, tu obtiendras le royaume éternel en échange d'un royaume transitoire, et, à la place d'un époux mortel, tu en obtiendras un immortel.</span></p>
         <p>Alors la reine, affermie,
         demanda aux tortionnaires de ne pas différer ce qui leur avait été ordonné.</p>
         <p>Ces serviteurs la conduisirent hors de la cité, lui arrachèrent les seins avec des fers de lance et, ensuite, lui coupèrent la tête.</p>
@@ -3166,39 +3103,25 @@
         <p>Le lendemain, comme on cherchait le corps de la reine
         et que le tyran faisait traîner au supplice beaucoup de gens à cause de cette disparition, Porphyre s'avança tout à coup au milieu de la place
         et s'écria:</p>
-        <blockquote>
-          <p><span style="color: #93836c;">— C'est moi qui ai enseveli la servante du Christ, qui m'a donné foi dans le Christ.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #93836c;">— C'est moi qui ai enseveli la servante du Christ, qui m'a donné foi dans le Christ.</span></p>
         <p>Alors Maxence, rendu fou, poussa un rugissement terrible et s'écria:</p>
-        <blockquote>
-          <p><span style="color: #b3884d;">— Ah, que je suis malheureux et digne de pitié!</span></p>
-          <p><span style="color: #b3884d;">Voilà que Porphyre, qui était l'unique gardien de mon âme et la consolation de toutes mes peines, m'a trahi!</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #b3884d;">— Ah, que je suis malheureux et digne de pitié!</span></p>
+        <p class="conversation"><span style="color: #b3884d;">Voilà que Porphyre, qui était l'unique gardien de mon âme et la consolation de toutes mes peines, m'a trahi!</span></p>
         <p>Et, quand il rapporta cela à ses soldats, ces derniers répondirent aussitôt:</p>
-        <blockquote>
-          <p><span style="color: #936c93;">— Nous aussi, nous sommes chrétiens et nous sommes prêts à mourir.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #936c93;">— Nous aussi, nous sommes chrétiens et nous sommes prêts à mourir.</span></p>
         <p>Alors l'empereur, ivre de fureur, ordonna que tous soient décapités en compagnie de Porphyre et que leurs corps soient jetés aux chiens.</p>
         <p>Ensuite, il fit appeler Catherine et lui dit:</p>
-        <blockquote>
-          <p><span style="color: #b3884d;">— Bien que tu aies fait mourir la reine par ton art de la magie, pourtant, si tu te repens, tu seras la première dans mon palais.</span></p>
-          <p><span style="color: #b3884d;">Aujourd'hui donc, ou bien tu offriras des sacrifices aux dieux, ou bien tu perdras ta tête.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #b3884d;">— Bien que tu aies fait mourir la reine par ton art de la magie, pourtant, si tu te repens, tu seras la première dans mon palais.</span></p>
+        <p class="conversation"><span style="color: #b3884d;">Aujourd'hui donc, ou bien tu offriras des sacrifices aux dieux, ou bien tu perdras ta tête.</span></p>
         <p>Elle répondit:</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">— Fais tout ce que tu as décidé, car tu me trouveras prête à tout subir.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Fais tout ce que tu as décidé, car tu me trouveras prête à tout subir.</span></p>
         <p>Il donna alors sa sentence sur le sort de Catherine et ordonna qu'elle soit décapitée.</p>
         <p>Quand elle fut conduite sur le lieu d'exécution, elle leva les yeux vers le ciel et fit cette prière:</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">— Ô toi, espérance et salut des croyants, toi, beauté et gloire des vierges, Jésus, bon roi, je t'en supplie: que tous ceux qui garderont mémoire de ma passion et m'invoqueront, soit au moment du départ de leur âme, soit en cas de nécessité, obtiennent l'effet de ta protection.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Ô toi, espérance et salut des croyants, toi, beauté et gloire des vierges, Jésus, bon roi, je t'en supplie: que tous ceux qui garderont mémoire de ma passion et m'invoqueront, soit au moment du départ de leur âme, soit en cas de nécessité, obtiennent l'effet de ta protection.</span></p>
         <p>Une voix se fit entendre qui lui disait:</p>
-        <blockquote>
-          <p><span style="color: #6c936c;">— Viens, ma bien-aimée, ma belle!</span></p>
-          <p><span style="color: #6c936c;">Voilà: la porte du ciel t’est ouverte.</span></p>
-          <p><span style="color: #6c936c;">Et, en effet, à ceux qui auront célébré ta passion, je promets, du ciel, les secours demandés.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #6c936c;">— Viens, ma bien-aimée, ma belle!</span></p>
+        <p class="conversation"><span style="color: #6c936c;">Voilà: la porte du ciel t’est ouverte.</span></p>
+        <p class="conversation"><span style="color: #6c936c;">Et, en effet, à ceux qui auront célébré ta passion, je promets, du ciel, les secours demandés.</span></p>
         <p>Puis, quand elle fut décapitée,
         en guise de sang, du lait sortit de son corps.</p>
         <p>Alors des anges prirent son corps, <a href="#note_sinai" title="l'emportèrent jusqu'au mont Sinaï et l'ensevelirent là" id="note_sinai" class="yellow">l'emportèrent</a> depuis ce lieu <a href="#note_sinai" title="l'emportèrent jusqu'au mont Sinaï et l'ensevelirent là" class="yello">jusqu'au mont Sinaï</a>, à plus de vingt journées de voyage, et <a href="#note_sinai" title="l'emportèrent jusqu'au mont Sinaï et l'ensevelirent là" class="yllow">l'ensevelirent là</a> avec beaucoup d'honneurs.</p>
@@ -3849,20 +3772,16 @@
         <p>Toute une foule vint à sa rencontre en criant:</p>
         <blockquote>
         <p><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«Béni soit celui qui vient au nom du Seigneur!</span></p>
-        </blockquote>
         <p>Au moment où il entrait dans la ville, on portait en terre Drusiane, qui l'avait beaucoup aimé et qui avait tant souhaité sa venue.</p>
         <p>Les parents de Drusiane, les veuves et les orphelins dirent à <span style="color: #994c3d;">Jean</span>:</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">—&#160;</span><span style="color: #165493;">«Vénérable Jean, c'est Drusiane que nous portons en terre, elle qui a toujours suivi tes instructions, qui nous nourrissait et qui, aussi, désirait tant ta venue en répétant:</span></p>
+        <p class="conversation"><span style="color: #df8f20;">—&#160;</span><span style="color: #165493;">«Vénérable Jean, c'est Drusiane que nous portons en terre, elle qui a toujours suivi tes instructions, qui nous nourrissait et qui, aussi, désirait tant ta venue en répétant:</span></p>
           <blockquote>
             <p><span style="color: #165493;">“Ah, si je pouvais voir l'apôtre de Dieu avant de mourir!”</span></p>
           </blockquote>
         </blockquote>
         <p>Alors <span style="color: #994c3d;">Jean</span> fit déposer le cercueil et découvrir le corps en disant:</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">—&#160;</span></td>Drusiane, que mon Seigneur Jésus-Christ te ressuscite!</span></p>
+        <p class="conversation"><span style="color: #df8f20;">—&#160;</span></td>Drusiane, que mon Seigneur Jésus-Christ te ressuscite!</span></p>
           <p><span style="color: #df8f20;">Lève-toi, va à la maison et prépare-moi à manger!</span></p>
-        </blockquote>
         <p>Elle se leva aussitôt et entreprit d'aller accomplir ce que l'apôtre avait ordonné, comme si elle avait été tirée non pas de la mort mais d'un sommeil.</p>
       </article></section>
     </article></section>
@@ -3899,7 +3818,6 @@
         <p>Craton répondit:</p>
         <blockquote>
           <p>— Si ton maître est véritablement Dieu et s'il veut que le prix de ces pierres soit donné aux pauvres, fais qu'elles soient reconstituées: tu pourras ainsi tourner à sa gloire ce que j'ai fait pour obtenir l'éloge des hommes.</span></p>
-        </blockquote>
         <p>Alors <span style="color: #994c3d;">saint Jean</span> rassembla en sa main les fragments des pierres et se mit en prière;
         les pierres furent restituées à leur état premier.</p>
         <p>Aussitôt le philosophe et les deux jeunes gens se mirent à croire, vendirent les pierres et en distribuèrent le prix aux pauvres.</p>
@@ -3914,9 +3832,7 @@
         <p><span style="color: #994c3d;">Saint Jean</span> remarqua leur triste mine; il fit alors apporter, depuis le rivage de la mer, des branches et des petits cailloux et les transforma en or et en pierres précieuses.</p>
         <p>Sur ordre de l'apôtre, les jeunes gens se mirent en quête, durant sept jours, de tous les experts en or et pierres précieuses et revinrent en disant que ceux-ci avaient témoigné n'avoir jamais vu or si pur, ni pierres si précieuses.</p>
         <p><span style="color: #994c3d;">Jean</span> leur dit alors:</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">— Allez et rachetez les terres que vous avez vendues, puisque vous avez perdu le bénéfice céleste; fleurissez afin de pourrir, jouissez des richesses temporelles, afin de mendier dans l'éternité.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Allez et rachetez les terres que vous avez vendues, puisque vous avez perdu le bénéfice céleste; fleurissez afin de pourrir, jouissez des richesses temporelles, afin de mendier dans l'éternité.</span></p>
         <p>Et alors l'apôtre se mit à disserter fort longuement contre les richesses en montrant que six causes doivent nous détourner de les désirer immodérément.</p>
         <p>La <span style="color: #994c3d;">première</span> est l'<span style="color: #994c3d;">Écriture</span>:</p>
         <p>il raconta l'<a href="#note_hoteriche" title="histoire de l'hôte riche" id="hoteriche" class="yellow">histoire de l'hôte riche que le Seigneur réprouva et du pauvre Lazare qu'il choisit</a>.</p>
@@ -3937,21 +3853,15 @@
         <p>Arrivèrent sa mère, sa veuve et tous ceux qui le pleuraient; ils se jetèrent à ses pieds en l'implorant de ressusciter le jeune homme au nom du Seigneur, comme il l'avait fait pour Drusiane.</p>
         <p>Alors, aussitôt après s'être longuement abîmé dans les pleurs et les prières, il le ressuscita et lui commanda de raconter aux deux disciples quelle peine ils pouvaient encourir et quelle gloire ils pouvaient perdre.</p>
         <p>Le jeune homme raconta bien des choses sur la gloire du paradis et sur les peines de l'enfer, qu'il avait vues, et il dit:</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">— Ô malheureux, j'ai vu vos anges pleurer et les démons se réjouir.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Ô malheureux, j'ai vu vos anges pleurer et les démons se réjouir.</span></p>
         <p>Il leur raconta qu'ils pouvaient perdre des palais éternels, construits d'étincelantes pierres précieuses, illuminés d'une clarté prodigieuse, abondants en riches banquets, pleins de délices, glorifiés par les joies et destinés à durer toujours.</p>
         <p>De l'enfer, il présenta huit supplices ainsi versifiés:</p>
         <p>«Vers et ténèbres, supplice, froid et brûlure Regard du démon, remords, douleur».</p>
         <p>Alors, le jeune homme ressuscité et les deux disciples se jetèrent aux pieds de l'apôtre en lui demandant miséricorde.</p>
         <p>L'apôtre leur dit:</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">— Faites pénitence pendant trente jours en priant pour obtenir que les branches et les pierres retournent à leur nature première.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Faites pénitence pendant trente jours en priant pour obtenir que les branches et les pierres retournent à leur nature première.</span></p>
         <p>Quand cela fut fait, il leur dit:</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">— Allez porter ces branches et ces pierres là où vous les avez prises.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Allez porter ces branches et ces pierres là où vous les avez prises.</span></p>
         <p>Quand ils se furent exécutés et que les branches et les pierres se furent retrouvées dans leur nature première, ils reçurent toute la grâce des vertus qu'ils avaient possédée auparavant.</p>
       </article></section>
     </article></section>
@@ -3997,19 +3907,13 @@
       </figure>
       <section><article>
         <p>Alors <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#renvoi-aristodeme" title="https://francois-vidit.com/docs/fr/saint-jean/page:3#renvoi-aristodeme" id="aristodeme" class="yellow">Aristodème</a>, prêtre des idoles, fit naître une forte dispute parmi le peuple, si bien qu'une partie de ce peuple se préparait à affronter l'autre. L'apôtr dit alors:</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">— Que veux-tu faire? Dis-le et je ferai ce qui te plaira.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">— Que veux-tu faire? Dis-le et je ferai ce qui te plaira.</span></p>
         <p>L'autre répondit:</p>
-        <blockquote>
-          <p><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«Si tu veux que je croie en ton Dieu, je te donnerai à boire du poison et s'il ne te fait aucun mal, ton seigneur apparaîtra comme le vrai Dieu.</span></p>
+        <p class="conversation"><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«Si tu veux que je croie en ton Dieu, je te donnerai à boire du poison et s'il ne te fait aucun mal, ton seigneur apparaîtra comme le vrai Dieu.</span></p>
         </blockquote>
-        <blockquote>
-          <p><span style="color: #df8f20;">— Fais comme tu le dis</span>, dit l'apôtre.</p>
+        <p class="conversation"><span style="color: #df8f20;">— Fais comme tu le dis</span>, dit l'apôtre.</p>
         </blockquote>
-        <blockquote>
-          <p><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«Je veux d'abord</span>, dit le prêtre, <span style="color: #165493;">que tu voies des gens mourir, pour ta plus grande crainte.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«Je veux d'abord</span>, dit le prêtre, <span style="color: #165493;">que tu voies des gens mourir, pour ta plus grande crainte.</span></p>
         <p>Aristodème alla donc trouver le proconsul pour se faire confier deux hommes destinés à la décapitation et,
         devant la foule, leur donna du poison.</p>
         <p>Dès qu'ils l'eurent bu,
@@ -4019,24 +3923,16 @@
         but tout le poison, qui fut sans aucun effet.</p>
         <p>Tous se mirent alors à louer Dieu.</p>
         <p>Mais Aristodème ajouta:</p>
-        <blockquote>
-          <p><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«J'ai encore un doute; mais si tu ressuscites ces deux morts, je croirai véritablement et sans le moindre doute.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«J'ai encore un doute; mais si tu ressuscites ces deux morts, je croirai véritablement et sans le moindre doute.</span></p>
         <p>L'apôtre lui donna alors sa tunique. L'autre demanda:</p>
-        <blockquote>
-          <p><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«Pourquoi m’as-tu donné ta tunique?</span></p>
+        <p class="conversation"><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«Pourquoi m’as-tu donné ta tunique?</span></p>
         </blockquote>
-        <blockquote>
-          <p><span style="color: #df8f20;">— Pour qu'ainsi tu sois confondu et que tu abandonnes tes fausses croyances</span>, rétorqua l'apôtre.</p>
+        <p class="conversation"><span style="color: #df8f20;">— Pour qu'ainsi tu sois confondu et que tu abandonnes tes fausses croyances</span>, rétorqua l'apôtre.</p>
         </blockquote>
-        <blockquote>
-          <p><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«Penses-tu vraiment que ta tunique me fera croire?» dit l'autre.</span></p>
-        </blockquote>
+        <p class="conversation"><span style="color: #165493;">—&#160;</span><span style="color: #165493;">«Penses-tu vraiment que ta tunique me fera croire?» dit l'autre.</span></p>
         <p>L'apôtre dit:</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">— Va et jette-la sur le corps des défunts en disant:</span></p>
+        <p class="conversation"><span style="color: #df8f20;">— Va et jette-la sur le corps des défunts en disant:</span></p>
           <p><span style="color: #df8f20;">“L'apôtre du Christ m'a envoyé vers vous pour que vous ressuscitiez au nom du Christ”.</span></p>
-        </blockquote>
         <p>Le prêtre s'exécuta et les morts ressuscitèrent aussitôt.</p>
         <p>Alors l'apôtre baptisa au nom du Christ le prêtre et le proconsul, qui se convertirent avec toute leur famille et firent ensuite construire une église en l'honneur de <span style="color: #994c3d;">saint Jean</span>.</p>
       </article></section>
