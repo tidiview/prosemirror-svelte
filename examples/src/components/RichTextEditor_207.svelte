@@ -1352,17 +1352,13 @@
               <section><article>
                 <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Luke#1:59">
                   <section><article>
-                    <p>«It happened on the eighth day, that they came to circumcise the child; and they would have called him Zacharias, after the name of the father. His mother answered,</p>
-                    <p class="conversation"><span style="color: #e6a64d;">“No, his name will be John.”</span></p>
-                    <p>We tell him:</p>
-                    <p class="conversation"><span style="color: #e6a64d;">“No one in your family has that name!”</span></p>
-                  </article></section>
-                  <section>
-                    <p><span style="color: #999;">(…)</span></p>
-                  </section>
-                  <section><article>
-                    <p>Zechariah had a tablet given to him and wrote on it:</p>
-                    <p class="conversation"><span style="color: #e6a64d;">“John is his name.”</span>»</p>
+                    <p>«It happened on the eighth day, that they came to circumcise the child; and they would have called him Zechariah, after the name of the father. His mother answered,</p>
+                    <p class="conversation"><span style="color: #e6a64d;">“Not so; but he will be called John.”</span></p>
+                    <p>They said to her,</p>
+                    <p class="conversation"><span style="color: #e6a64d;">“There is no one among your relatives who is called by this name!”</span></p>
+                    <p>They made signs to his father, what he would have him called.</p>
+                    <p>Zechariah asked for a writing tablet, and wrote,</p>
+                    <p class="conversation"><span style="color: #e6a64d;">“His name is John.”</span>»</p>
                   </article></section>
                 </blockquote>
               <section><article>
@@ -1594,20 +1590,26 @@
                   <p>Herod looks as if he liked his dance and, <span style="color: #e6a64d;">to avoid responsibility for John's death, says</span>: <span style="color: #999;">(Mark, chapter 6, verses 22 to 25)</span></p>
                 </article></section>
                 <section><article>
-                  <blockquote>
-                    «"<span style="color: #e6a64d;">Ask me what you want</span>, and I'll give it to you, even if it's half my kingdom".
-                  </blockquote>
-                  <p>Salome goes out «to tell her mother:</p>
-                  <blockquote>
-                    <span style="color: #e6a64d;">"What am I going to ask for?"</span>»
-                  </blockquote>
-                  <p>Herodias replied:</p>
-                  <blockquote>
-                    «<span style="color: #e6a64d;">"The head of John, the one who baptises"</span>.
-                  </blockquote>
-                  <p>Immediately the girl» hastened <q>to return to the king, and</q> made him this incredible request:</p>
-                  <blockquote>
-                    <span style="color: #e6a64d;">"I want you to give me immediately on a plate the head of John the Baptist"</span>.
+                  <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Mark#6:22">
+                    <p class="conversation">
+                      «“<span style="color: #e6a64d;">Ask me whatever you want</span>, and I will give it to you”.
+                    </p>
+                    <p>He swore to her,</p>
+                    <p class="conversation">
+                      “Whatever you shall ask of me, I will give you, up to half of my kingdom.”
+                    </p>
+                    <p>Salome went out, and said to her mother,</p>
+                    <p class="conversation">
+                      <span style="color: #e6a64d;">"What shall I ask?"</span>»
+                    </p>
+                    <p>Herodias said,</p>
+                    <p class="conversation">
+                      «<span style="color: #e6a64d;">"The head of John, the one who baptises"</span>.
+                    </p>
+                    <p>She came in immediately with haste to the king, and asked,</p>
+                    <p class="conversation">
+                      <span style="color: #e6a64d;">"I want you to give me right now the head of John the one who baptises on a platter."</span>.
+                    </p>
                   </blockquote>
                 </article></section>
                 <section><article>
@@ -1889,44 +1891,49 @@
 
           <section><article>
             <ul>
-              <li><p><a href="https://en.wikipedia.org/wiki/Gospel_of_John" title="https://en.wikipedia.org/wiki/Gospel_of_John" id="disciple-que-jesus-aimait-3" class="yellow">The disciple whom Jesus loved</a> appears at the end of the gospel called «of John» <span style="color: #999;">(John chapter 21 verse 20; verses 24 to 25)</span>:</p>
-              <blockquote>
-                <article>
-                  <section><article><p>“having turned around, Peter saw, following them, <span style="color: #e6a64d;"><em>the disciple whom Jesus loved</em></span>.</p></article></section>
-                  <section><p><span style="color: #999;">(…)</span></p></section>
-                  <section><article><p>It is <span style="color: #e6a64d;">this disciple who testifies</span> to these things <span style="color: #e6a64d;">and who wrote them</span>”.</p></article></section>
-                </article>
-              </blockquote>
-              <p>There is nothing in the text that allows us to call him «John», so the designation “Gospel of John” cannot be right: it should be the “Gospel of the disciple whom Jesus loved”.</p>
-              <p>He is quite an extraordinary character: he is a disciple of Jesus among others with whom every reader can identify, he is loved by Jesus himself and therefore finds himself closer to him than anyone else.</p>
-              <p>He does not hesitate, just after the previous excerpt, to give his opinion <span style="color: #999;">(John chapter 21 verse 25)</span>:</p>
-              <blockquote>
-                «There are many other things that Jesus did; and if we had to write each of them, <span style="color: #e6a64d;"><span style="text-decoration: underline;">I</span> think</span> the whole world would not be enough to hold the books we would write».
-              </blockquote>
+              <li>
+                <p><a href="https://en.wikipedia.org/wiki/Gospel_of_John" title="https://en.wikipedia.org/wiki/Gospel_of_John" id="disciple-que-jesus-aimait-3" class="yellow">The disciple whom Jesus loved</a> appears at the end of the gospel called «of John» <span style="color: #999;">(John chapter 21 verse 20; verses 24 to 25)</span>:</p>
+                <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#21:20">
+                  “Then Peter, turning around, saw a disciple following. <span style="color: #e6a64d;"><em>This was the disciple whom Jesus sincerely loved</em></span>.”
+                </blockquote>
+                <p><span style="color: #999;">(…)</span></p>
+                <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#21:24">
+                  “This is <span style="color: #e6a64d;">the disciple who testifies</span> about these things</span>, and <span style="color: #e6a64d;">wrote these things.”
+                </blockquote>
+                <p>There is nothing in the text that allows us to call him «John», so the designation “Gospel of John” cannot be right: it should be the “Gospel of the disciple whom Jesus loved”.</p>
+                <p>He is quite an extraordinary character: he is a disciple of Jesus among others with whom every reader can identify, he is loved by Jesus himself and therefore finds himself closer to him than anyone else.</p>
+                <p>He does not hesitate, just after the previous excerpt, to give his opinion <span style="color: #999;">(John chapter 21 verse 25)</span>:</p>
+                <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#21:25">
+                  “There are also many other things which Jesus did, which if they would all be written, <span style="color: #e6a64d;"><span style="text-decoration: underline;">I</span></span> suppose that even the world itself wouldn't have room for the books that would be written.”
+                </blockquote>
               </li>
               <li>
                 <p>Jesus himself, on the occasion of a question from Peter, expresses a wish for his destiny at the Last Supper <span style="color: #999;">(John chapter 21 verses 21 to 23)</span>:</p>
-                <p>Peter, seeing this disciple, said to Jesus:
-                <blockquote>
-                  “And what will happen to him, lord?”
-                </blockquote>
-                <p>Jesus answered him:</p>
-                <blockquote>
-                  “If I want him to stay until I come, what do you care?”
-                </blockquote>
+                <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#21:21"
+                <p>Peter seeing this disciple, said to Jesus,</p>
+                <p class="conversation">
+                  “Lord, what about this man??”
+                </p>
+                <p>Jesus said to him,</p>
+                <p class="conversation">
+                  “If I desire that he stay until I come, what is that to you?”
+                </p>
               </blockquote>
             </li>
             <li>
-              <p>It is also he who <q>lay on the womb of Jesus</q>, he asks him who will betray him <span style="color: #999;">(John chapter 13 verses 23 to 26)</span>.</p>
+              <p>It is also him who <q style="quotes: '“' '”';" cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#21:20">had also leaned on Jesus' breast</q>, he asks him who will betray him <span style="color: #999;">(John chapter 13 verses 23 to 26)</span>.</p>
             </li>
             <li>
               <p>At the crucifixion, Jesus entrusted his own mother to him, saying <span style="color: #999;">(John chapter 19 verses 26 to 27)</span>:</p>
-              <blockquote>
+              <blockquote cite="">
+              <p class="conversation">
                 “Woman, behold your son”,
-              </blockquote>
+              </p>
               <p>then to him:</p>
-              <blockquote>
+              <p class="conversation">
                 “Behold your mother”.
+              </p>
+              </blockquote>
               </li>
               <li>
                 <p>When Mary Magdalene discovered the empty tomb, she ran to tell the «beloved disciple» and Peter; he was the first to reach the tomb <span style="color: #999;">(John chapter 20 verses 2 to 8)</span>.</p>
