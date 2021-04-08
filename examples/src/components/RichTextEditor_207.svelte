@@ -2115,9 +2115,9 @@
                 <li value="08">
                   <p>Each of the four living creatures had <span style="color: #e6a64d;">six wings</span> and was studded with eyes all the way round as well as inside;
                   and day and night they never stopped singing:</p>
-                  <blockquote>
+                  <p class="conversation">
                     “Holy, Holy, Holy is the lord god, the almighty; who was, and is and is to come”.
-                  </blockquote>
+                  </p>
                 </li>
               </ol>
               <footer>
@@ -2228,9 +2228,9 @@
                   <ol class="doc">
                     <li value="01">
                       <p>Then I saw: when the Lamb opened one of the seven seals, I heard one of the four living ones say with a voice of thunder:</p>
-                      <blockquote>
+                      <p class="conversation">
                         “Come!”
-                      </blockquote>
+                      </p>
                     </li>
                     <li value="02">Immediately I saw a <span style="color: #e6a64d;">white horse</span> appear, and its rider was holding a <span style="color: #e6a64d;">bow</span>; he was given a victor's <span style="color: #e6a64d;">crown</span> and he went away, to go from victory to victory.</li>
                     </ol>
@@ -2265,9 +2265,9 @@
               <section><article>
                 <ol class="doc">
                   <li value="03"><p>When he broke the second seal, I heard the second living creature shout</p>
-                    <blockquote>
+                    <p class="conversation">
                       “Come!”
-                    </blockquote>
+                    </p>
                 </li>
                   <li value="04">And out came another <span style="color: #e6a64d;">horse</span>, <span style="color: #e6a64d;">bright red</span>, and its rider was given this duty: to take away peace from the earth and set people killing each other. He was given a huge <span style="color: #e6a64d;">sword</span>.</li>
                 </ol>
@@ -2302,16 +2302,16 @@
                 <ol class="doc">
                   <li value="05">
                     <p>When he broke the third seal, I heard the third living creature shout</p>
-                    <blockquote>
+                    <p class="conversation">
                       “Come!”
-                    </blockquote>
+                    </p>
                   <p>Immediately I saw a <span style="color: #e6a64d;">black horse</span> appear, and its rider was holding a <span style="color: #e6a64d;">pair of scales</span>;</p>
                 </li>
                   <li value="06">
                   <p>and I seemed to hear a voice shout from among the four living creatures and say:</p>
-                    <blockquote>
+                    <p class="conversation">
                       “A day's wages for a quart of corn, and a day's wages for three quarts of barley, but do not tamper with the oil or the wine.”
-                    </blockquote>
+                    </p>
                 </li>
                 </ol>
               </article></section>
@@ -2344,9 +2344,9 @@
                 <ol class="doc">
                   <li value="07">
                   When he broke the fourth seal, I heard the voice of the fourth living creature shout:
-                  <blockquote>
+                  <p class="conversation">
                     “Come!”
-                  </blockquote>
+                  </p>
                   </li>
                   <li value="08">Immediately I saw another <span style="color: #e6a64d;">horse</span> appear, <span style="color: #e6a64d;">deathly pale</span>, and its rider was called <span style="color: #e6a64d;">death</span>, and <span style="color: #e6a64d;">Hades</span> followed at its heels.</li>
                   <li>They were given authority over a quarter of the earth, to kill by the sword, by famine, by plague and through wild beasts.</li>
@@ -2387,14 +2387,14 @@
                   <li value="14">the sky disappeared like a scroll rolling up and all the mountains and islands were shaken from their places.</li>
                   <li value="15"><span style="color: #e6a64d;">Then all the kings of the earth, the governors and the commanders, the rich people and the men of influence, the whole population, slaves and citizens, hid in caverns and among the rocks of the mountains.</span>.</li>
                   <li value="16"><p>They said to the mountains and the rocks:</p>
-                  <blockquote>
+                  <p class="conversation">
                     <p>“Fall on us and hide us away from the one who sits on the throne and from the retribution of the Lamb.</p>
-                  </blockquote>
+                  </p>
                 </li>
                   <li value="17">
-                  <blockquote>
+                  <p class="conversation">
                     For the great day of his retribution has come, and who can face it?”
-                  </blockquote>
+                  </p>
                 </li>
                 </ol>
               </article></section>
@@ -2572,9 +2572,9 @@
           <section><article>
             <ol class="doc">
               <li value="13"><p>In my vision, I heard <span style="color: #e6a64d;">an eagle</span>, calling aloud as it flew high overhead:</p>
-              <blockquote>
+              <p class="conversation">
                 “Disaster, disaster, disaster, on all the people on earth at the sound of the other three trumpets which the three angels have yet to blow!”.
-              </blockquote>
+              </p>
             </li>
             </ol>
           </article></section>
@@ -2696,15 +2696,15 @@
           <section><article>
             <ol class="doc">
               <li value="04"><p>and when the seven thunderclaps had sounded, I was preparing to write, when I heard a voice from heaven say to me:</p>
-                <blockquote>
+                <p class="conversation">
                   “Keep the words of the seven thunderclaps secret and do not write them down.”
-                </blockquote>
+                </p>
               </li>
               <li value="05">Then the angel that I had seen, standing on the sea and the land, raised his right hand to heaven,</li>
               <li value="06"><p>and swore by him who lives for ever and ever, and made heaven and all that it contains, and earth and all it contains, and the sea and all it contains:</p>
-              <blockquote>
+              <p class="conversation">
                 “The time of waiting is over”
-              </blockquote>
+              </p>
               </li>
             </ol>
           </article></section>
@@ -3282,47 +3282,47 @@
           And so that no man could see her, he put her in a very high tower that he raised.</p>
           <p>From his earliest age, <span style="color: #994c3d;">Barbara</span>, feeling the void of earthly things, began to apply to the meditation of things from heaven.</p>
           <p>After entering a temple, and seeing along the walls the statues of idols, she asked her parents:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #df8f20;">— «What do these images of human beings mean?»</span>
-          </blockquote>
+          </p>
           <p>Her parents answered her:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #b3884d;">— «Shut down; they are not human beings, but gods, and they want to be adored.»</span>
-          </blockquote>
+          </p>
           <p><span style="color: #994c3d;">Barbara</span> says:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #df8f20;">— «Were they human beings once?»</span>
-          </blockquote>
+          </p>
           <p>And she was answered that yes.</p>
           <p>And she was reflecting on this day and night, saying herself:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #df8f20;">— «If our gods were human beings, they were born like human beings, they died like human beings; if they were gods, they would not be born and they would not be dead; because the Divinity, to it looks like to me, does not start and cannot stop.»</span>
-          </blockquote>
+          </p>
           <p>So she came to despise those supposed gods of wood or stone;
           but he still lacked knowledge of the true God.</p>
           <p>In the meantime, the renown spread to Nicomedia that there was in Alexandria a man of immeasurable wisdom, named <a href="#note_origene" title="Origen" id="origene" class="yellow">Origen</a>, who demonstrated the existence of true God and the vanity of idols.</p>
           <p>In learning this, <span style="color: #994c3d;">Barbara</span> was filled with joy, and she looked at how she could go to hear it.</p>
           <p>but she did not dare to talk to her father, and she adopted the idea of writing to Origen;
           what she did with the words:</p>
-          <blockquote>
+          <p class="conversation">
             <p><span style="color: #df8f20;">«To Origen of Alexandria, whose glory is universally widespread, I, Barbara, of Nicomedia.</span></p>
             <p><span style="color: #df8f20;">From the very first dawn of my reason, I felt in all my heart the strongest desire to arrive to this knowledge, and I always thought that the Divinity could not be in images, work of our hands, that cannot speak nor hear.</span></p>
             <p><span style="color: #df8f20;">I also thought that those who had been human beings, and were represented as gods, could not be; because human being begins and ends, but God is before all times and after all times.</span></p>
             <p><span style="color: #df8f20;">And I put my confidence in this God who is unknown to me, but who created all things; I devoted my love to him, and I will spare nothing to get to know him.</span></p>
             <p><span style="color: #df8f20;">The fame of your talents came to me, and I thought, that you, venerable father, would take me to the science of this God you preach.</span></p>
             <p><span style="color: #df8f20;">And I hope you will disperse the darkness of my ignorance and that you will conduct me in the light of true faith.»</span>
-          </blockquote>
+          </p>
           <p>Having sent his letter to Origen, she prayed to the Lord weeping tears and saying:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #df8f20;">— «Lord, strengthen the foot of the one that I sent to your servant, so that the light I have asked for comes.»</span>
-          </blockquote>
+          </p>
           <p>The messenger arrived in Alexandria,
           and he found Origen in the palace of the mother of Emperor Alexander, Mamaea,
           and he was busy preaching the doctrine of Jesus Christ.</p>
           <p>He received with great joy the letter from <span style="color: #994c3d;">Barbara</span>,</p>
           <p>and he praised God for that he would be arousing such enthusiasm,
           and rushed to answer her:</p>
-          <blockquote>
+          <p class="conversation">
             <p><span style="color: #165493;">«Origen, unworthy priest of Jesus Christ, and perhaps his preacher, still remaining in Alexandria, to Barbara, of the race of Gentiles, but by adoption of the race of the children of God and Jesus Christ.</span></p>
             <p><span style="color: #165493;">I will teach you, as you ask me, what is the real God.</span></p>
             <p><span style="color: #165493;">Know that it is one in substance and three in persons: the Father, the Son and the Holy Spirit.</span></p>
@@ -3330,7 +3330,7 @@
             <p><span style="color: #165493;">So add up to it credibility to complete what is lacking in your desire; see my envoy, he will inform you of law of God and he will read you the holy books he carries with him.</span></p>
             <p><span style="color: #165493;">Do not fear being exposed to great torments for the name of Jesus Christ.</span></p>
             <p><span style="color: #165493;">He said: “The one who loses for me his soul in this world shall keep it in eternal life”.»</span>
-          </blockquote>
+          </p>
           <p>Origen sent one of his disciples to confer with <span style="color: #994c3d;">Barbara</span>,
           and when she was told that he had arrived,
           she immediately said to have him to enter.</p>
@@ -3338,9 +3338,9 @@
           <p>And now his father came,
           and seeing a stranger,
           he became scared and he said:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #b3884d;">— «What is this man and what is he doing?»</span>
-          </blockquote>
+          </p>
           <p>The Alexandrine replied that he was educated about the science of medicine, and that he had a master who, against the usage of doctors, also healed souls.</p>
           <p>The father of <span style="color: #994c3d;">Barbara</span>, hearing that, withdrew and let them talk.</p>
           <p>And the christian, who called himself Valentin, explained to <span style="color: #994c3d;">Barbara</span> the sacred mysteries of religion,
@@ -3351,69 +3351,69 @@
           <p>Some says that because of her beauty some nobles of that country falled in love for her,
           and they talked to her father so that she took a husband.</p>
           <p>And his father, going to the tower, sought to decide it, saying:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #b3884d;">— «My daughter, powerful figures remembered you, and told me that they would take you into marriage; what do you want to do?»</span>
-          </blockquote>
+          </p>
           <p>She answered her father by looking at him with anger:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #df8f20;">— «Don't force me to do this, my father».</span>
-          </blockquote>
+          </p>
           <p>He left her,
           and getting away from her, he brought a large number of workers,
           and he ordered them to build a bathroom house, and he went to a far away country.</p>
           <p><span style="color: #994c3d;">Barbara</span> got down from the tower to see what has been done,
           and she saw that on the north side there were only two windows,
           and she told the workers:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #df8f20;">— «Why did you make these two windows?»</span>
-          </blockquote>
+          </p>
           <p>And they answered:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #df8f20;">— «Your father ordered it so.»</span>
-          </blockquote>
+          </p>
           <p>She replied:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #df8f20;">— «Make another window for me.»</span>
-          </blockquote>
+          </p>
           <p>And they responded:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #df8f20;">— «We fear that your father get annoyed at us.»</span>
-          </blockquote>
+          </p>
           <p>She says:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #df8f20;">— «Do what I tell you, and I will bring my father to give his approval.»</span>
-          </blockquote>
+          </p>
           <p>So they made another window.</p>
           <p><span style="color: #994c3d;">Barbara</span> put with her own hand on the side of the orient, in this building, a precious cross;
           and, going back to the tower, she saw the idols that her father loved.</p>
           <p>Obeying to the inspiration of the Holy Spirit, she spit in their face and said:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #df8f20;">— «Shall they become similar to you, those who make you and those who put their trust into you.»</span>
-          </blockquote>
+          </p>
           <p>When the building got finished, his father returned from his trip, and when he saw the three windows, he told the workers:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #b3884d;">— «Why did you make three windows?»</span>
-          </blockquote>
+          </p>
           <p>They replied:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #df8f20;">— «Your daughter ordered us.»</span>
-          </blockquote>
+          </p>
           <p>He then told his daughter:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #df8f20;">— «Who did you order to make three windows?»</span>
-          </blockquote>
+          </p>
           <p>She replied:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #df8f20;">— «I have had good reasons for doing so; because three windows illuminate the whole human being.»</span>
-          </blockquote>
+          </p>
           <p>And his father brought him with him in the bathroom, and told him:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #b3884d;">— «Why do three windows shed more light than two?»</span>
-          </blockquote>
+          </p>
           <p>She replied:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #df8f20;">— «There are three that illuminate the world and set the course of stars: the Father, the Son and the Holy Spirit, and they are one in essence.»</span>
-          </blockquote>
+          </p>
           <p>So his father, full of fury, pulled his sword to kill her.</p>
           <p>But the Saint did her prayer to God,
           and the walls opened,
@@ -3431,57 +3431,57 @@
           and he went away to warn Proconsul <a href="#note_marcien" title="Marcian" id="marcien" class="yellow">Marcian</a> for all that happened.</p>
           <p>The proconsul wanted <span style="color: #994c3d;">Barbara</span> to be brought before him.
           When he saw him, he was struck by her great beauty, and he told her:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #165493;">— If you want to save yourself, sacrifice to the immortal gods, or you will die in the greatest torments.</span>
-          </blockquote>
+          </p>
           <p>She replied:</p>
-          <blockquote>
+          <p class="conversation">
             <p><span style="color: #df8f20;">— I want to offer myself in sacrifice to my God Jesus Christ, who has done heaven and earth and all that is contained therein.</span></p>
             <p><span style="color: #df8f20;">As for the demons you love, the prophet said:</span></p>
             <p><span style="color: #df8f20;">They have a mouth but do not speak; they have eyes but do not see; those who pay tribute to them will look like them.</span></p>
-          </blockquote>
+          </p>
           <p>The proconsul, furious, ordered to strip her and beat her indiscriminately with beef nerve.</p>
           <p>And when all her body was in blood, he ordered to bring her back to prison until she had decided what torment he would inflict on her.</p>
           <p>In the middle of the night, great clarity wrapped the martyr, and　Jesus Christ appeared and told her:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #6c936c;">— Take courage, my daughter; there will be great joy in heaven and on earth during your passion; do not fear the threats of the tyrant; I'm with you to preserve all evils.</span>
-          </blockquote>
+          </p>
           <p><span style="color: #994c3d;">St. Barbara</span> felt a great joy in the words of the Lord,
           and in the morning she reappeared in front of the proconsul, who, seeing that there was no trace of the blows she had received the day before, told her:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #165493;">— See how much the gods are in favour of you and they love you, because they have healed your wounds.</span>
-          </blockquote>
+          </p>
           <p><span style="color: #994c3d;">Barbara</span> replied to him:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #df8f20;">— Your gods are like you, deaf, blind and mute; how could they have healed me? </span></p>
             <p><span style="color: #df8f20;">The one who healed me is Jesus Christ, the Son of the living God; But you don't see it, because your heart is hardened by the devil.</span>
-          </blockquote>
+          </p>
           <p>The proconsul, quivering like a infuriated lion, ordered that she has her ribs burned with the torches and her head beatten with a hammer.</p>
           <p>The Saint, looking at the sky, says:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #df8f20;">— You know, Lord, that I am suffering for your love; don't leave me now.</span>
-          </blockquote>
+          </p>
           <p>The impious proconsul commanded that she had her udders cut;
           and she says:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #df8f20;">— Do not reject me out of your presence, Lord, and shall not deprive me of the Holy Spirit.</span>
-          </blockquote>
+          </p>
           <p>He then ordered that she would be taken naked thrue the city, beattening her;
           and she says:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #df8f20;">— Lord, you who are my support and covers the sky of clouds, cover my body, so that it is not exposed in the eyes of impiouses.</span>
-          </blockquote>
+          </p>
           <p>And he descended from heaven a angel who brought him a white tunic.</p>
           <p>The proconsul ordered that she had her head cut;
           but his father seizes her and led her to the mountain,
           and she made that prayer:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #df8f20;">— Lord Jesus, to whom all things obey, grant that those who invoke your holy name by remembering my martyrdom, finds their sins forgetten on the day of judgment.</span>
-          </blockquote>
+          </p>
           <p>And she heard a voice that came from heaven and who replied:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #6c936c;">— «Come, my beloved; rest in the home of my father who is in heaven;  what you are asking for has been given to you.</span>
-          </blockquote>
+          </p>
           <p>And the martyr had the head cut off by the hands of her own father.</p>
           <p>And when he came down from the mountain, the fire of heaven fell on him and consumed him,
           and not even a vestige of him remained.</p>
@@ -3500,14 +3500,14 @@
           <p>He called them back and told them not to be afraid;
           And they came closer to him, and they asked how he could support his existence,
           and he answered them:</p>
-          <blockquote>
+          <p class="conversation">
             <p><span style="color: #165493;">— St. Barbara assisted me in all my sorrows; </span></p>
             <p><span style="color: #165493;">it was her who supported me in my fall, and I cannot die before I confessed myself and be received the holy communion,</span></p>
-          </blockquote>
+          </p>
           <p>Asked why he had obtained this grace, he answered:</p>
-          <blockquote>
+          <p class="conversation">
             <span style="color: #165493;">— I never missed a year of fasting and praying on the day of St. Barbara's fest to make her happy, and that is why she asked God that I wouldn't die without having received the sacraments.</span>
-          </blockquote>
+          </p>
           <p>And as soon as he received them, he breathed out.</p>
           <p>We also read that at the time of the king of the Romans, Adolphe, a count has been put at the head of the government of the provinces of Orient, and a soldier was accused of having made violence against a young girl.</p>
           <p>While he was in prison, waiting for his judgment, he asked to confess,
@@ -3677,20 +3677,20 @@
             <p>In this same year was Domitian the emperor, for his evils, put to death, and all that he had done was revoked by the senators and defeated,
             and thus was <span style="color: #994c3d;">St. John</span> brought again from his exile with great honour into Ephesus;
             and all the people of Ephesus came against him singing and saying:</p>
-            <blockquote>
+            <p class="conversation">
               <span style="color: #165493;">— «Blessed be he that cometh in the name of our Lord!»</span>
-            </blockquote>
+            </p>
             <p>In that way he raised a woman which was named Drusiana, which had much loved <span style="color: #994c3d;">St. John</span> and well kept his commandments.</p>
             <p>And her friends brought her tofore <span style="color: #994c3d;">St. John</span> all weeping and saving to him:</p>
-            <blockquote>
+            <p class="conversation">
               <p><span style="color: #165493;">— Lo! here is Drusiana which much loved thee and did thy commandments, and is dead, and desired nothing so much as thy return, and that she might see thee tofore her death. </span></p>
               <p><span style="color: #165493;">Now thou art come hither and she may not see thee.</span></p>
-            </blockquote>
+            </p>
             <p><span style="color: #994c3d;">St. John</span> had great pity on her that was dead, and of the people that wept for her, and commanded that they should set down the bier, and unbind and take away the clothes from her. And when they had so done he said, hearing all, with a loud voice,</p>
-            <blockquote>
+            <p class="conversation">
               <p><span style="color: #df8f20;">— «Drusiana, my Lord God Jesus Christ ariseth thee;</span></p>
               <p><span style="color: #df8f20;">Drusiana arise, and go into thy house, and make ready for me some refection.»</span></p>
-            </blockquote>
+            </p>
             <p>Anon she arose and went in to her house for to do the commandment of <span style="color: #994c3d;">St. John</span>, and the people made three hours long a great noise and cry, saying there is but one God, and that is he whom <span style="color: #994c3d;">St. John</span> preacheth.</p>
           </article></section>
 
@@ -3724,9 +3724,9 @@
             <p><span style="color: #994c3d;">Secondly</span>, <span style="color: #994c3d;">this gesture, which does not serve the vice, is in vain, as is pointless any cure that does not involve a disease</span>.</p>
             <p><span style="color: #994c3d;">Finally</span>, <span style="color: #994c3d;">the contempt of the world is meritorious to the person who distributes his property to the poor</span>, following what the Lord said to a young man: <a href="#note_mathieu" title="If you wish to be perfect" id="mathieu" class="yellow">«If you want to be perfect, go, etc.»</a></p>
             <p>Craton replied:</p>
-            <blockquote>
+            <p class="conversation">
               — «If your master is truly God and if he wants the price of these stones to be given to the poor, make them reconstituted: So you can turn to his glory what I did to praise men.»</span>
-            </blockquote>
+            </p>
             <p>So <span style="color: #994c3d;">St. John</span> gathered in his hand the fragments of the stones and put himself in prayer;
             the stones were returned to their first state.</p>
             <p>Immediately the philosopher and the two young people began to believe, sold the stones and distributed the prize to the poor.  </p>
@@ -3736,9 +3736,9 @@
             <p><span style="color: #994c3d;">St. John</span> noticed their sad mine; From the shore of the sea, he made branches and small stones and transformed them into gold and precious stones.</p>
             <p>On the order of the apostle, young people sought, for seven days, from all the experts in gold and precious stones and returned by saying that they had testified never to have seen or so pure or precious stones.</p>
             <p><span style="color: #994c3d;">John</span> then told them:</p>
-            <blockquote>
+            <p class="conversation">
               <span style="color: #df8f20;">— «Go and redeem the lands you sold, since you lost the heavenly profit; flower in order to rot, enjoy temporal riches, to beg in eternity.»</span>
-            </blockquote>
+            </p>
             <p>And then the apostle began to distil a lot against wealth by showing that six causes must divert us from wanting immodestly.</p>
             <p>The <span style="color: #994c3d;">first</span> is <span style="color: #994c3d;">scripture</span>:</p>
             <p>He told the <a href="#note_hoteriche" title="story of the rich host" id="hoteriche" class="yellow">story of the rich host that the reproach and poor Lazare chose him</a>.</p>
@@ -3754,21 +3754,21 @@
             <p>Came his mother, his widow and all those who cried him; They threw himself at his feet by imploring him to resurrect the young man in the name of the Lord, as he did for Drusiana.</p>
             <p>So, immediately after having burdened himself in tears and prayers, he revived him and commanded him to tell both disciples what punishment they could incur and what glory they could lose.</p>
             <p>The young man told many things about the glory of heaven and the sentences of hell, which he had seen, and he said:</p>
-            <blockquote>
+            <p class="conversation">
               <span style="color: #df8f20;">— «O unfortunate, I saw your angels cry and demons rejoice.»</span>
-            </blockquote>
+            </p>
             <p>He told them that they could lose eternal palaces, built of sparkling stones, illuminated with prodigious clarity, abundant in rich banquets, full of delights, glorified by joys and destined to last forever.</p>
             <p>From hell, he presented eight retributions:</p>
             <p>«Towards and darkness, revulsion, cold and burning Regard of demon, remorse, pain».</p>
             <p>So, the risen young man and the two disciples cast himself to the feet of the apostle by asking him mercy.</p>
             <p>The apostle tells them:</p>
-            <blockquote>
+            <p class="conversation">
               <span style="color: #df8f20;">— «Make penance for thirty days by praying that branches and stones return to their first nature.»</span>
-            </blockquote>
+            </p>
             <p>When it was done, he said:</p>
-            <blockquote>
+            <p class="conversation">
               <span style="color: #df8f20;">— «Go carry these branches and stones where you took them.»</span>
-            </blockquote>
+            </p>
             <p>When they performed and the branches and stones were found in their first nature, they received all the grace of the virtues they had possessed before.</p>
             <h5 class="yellow" id="the-destruction-of-dianas-temple">the destruction of diana's temple</h5>
             <p><span style="color: #994c3d;">St. John</span> had preached to all of Asia.</p>
@@ -3809,14 +3809,14 @@
 
           <section><article>
             <p>So Aristodeme, priest of the idols, gave rise to a strong argument among the people, so that part of this people was preparing to confront the other. The apostle says:</p>
-            <blockquote>
+            <p class="conversation">
               <span style="color: #df8f20;">— «What do you want to do? Say it and I'll do what you'll like.»</span>
-            </blockquote>
+            </p>
             <p>The other replied:</p>
             <p>«If you want me to believe in your God, I will give you a drink of poison and if he does not hurt you, your lord will appear as the true God.»</p>
-            <blockquote>
+            <p class="conversation">
               <span style="color: #df8f20;">— «Do as you say» said the apostle.</span>
-            </blockquote>
+            </p>
             <p>«I want first, say the priest, you'll see people die, for your greatest fear.»</p>
             <p>Aristodema therefore found the proconsul to be entrusted with two men destined for decapitation and, in front of the crowd, gave them poison.</p>
             <p>As soon as they drank her, they gave up the soul.</p>
@@ -3826,15 +3826,15 @@
             <p>«I still have a doubt; But if you resurrect these two dead, I will believe really and without any doubt.»</p>
             <p>The apostle gave him his tunic.</p>
             <p>The other asked: «Why did you give me your tunic?»</p>
-            <blockquote>
+            <p class="conversation">
               <span style="color: #df8f20;">— «So that you are confused and give up your false beliefs</span>, retorted the apostle.
-            </blockquote>
+            </p>
             <p>Do you really think that your tunic will make me believe?  said the other one.</p>
             <p>The apostle says:</p>
-            <blockquote>
+            <p class="conversation">
               <p><span style="color: #df8f20;">— «Go and throw it on the dead body by saying:</span></p>
               <p><span style="color: #df8f20;">“The apostle of Christ sent me to you for you to resurface in the name of Christ”».</span></p>
-            </blockquote>
+            </p>
             <p>The priest executed and the dead resurrected immediately.</p>
             <p>So the apostle named in the name of Christ the priest and the proconsul, who converged with their entire family and then built a church in honor of <span style="color: #994c3d;">St. John</span>.</p>
           </article></section>
@@ -3866,9 +3866,9 @@
               <div class="notices yellow">
               <ol class="doc">
                 <li value="21">
-                  <blockquote>
+                  <p class="conversation">
                     “If you wish to be perfect, go and sell your possessions and give the money to the poor, and you will have treasure in heaven; then come, follow me.”
-                  </blockquote>
+                  </p>
                 </li>
               </ol>
               </div>
@@ -3883,49 +3883,49 @@
                 <ol class="doc">
                   <li value="16">
                     And now a man came to him and asked:
-                    <blockquote>
+                    <p class="conversation">
                       “Master, what good deed must I do to possess eternal life?”
-                    </blockquote>
+                    </p>
                   </li>
                   <li value="17">
                     Jesus said to him:
-                    <blockquote>
+                    <p class="conversation">
                       “Why do you ask me about what is good? There is one alone who is good. But if you wish to enter into life, keep the commandments.”
-                    </blockquote>
+                    </p>
                   </li>
                   <li value="18">
                     He said:
-                    <blockquote>
+                    <p class="conversation">
                       “Which ones?”
-                    </blockquote>
+                    </p>
                     Jesus replied:
-                    <blockquote>
+                    <p class="conversation">
                       “These: You shall not kill. You shall not commit adultery. You shall not steal. You shall not give false witness.
-                    </blockquote>
+                    </p>
                   </li>
                   <li value="19">
-                    <blockquote>
+                    <p class="conversation">
                       Honour your father and your mother. You shall love your neighbour as yourself.”
-                    </blockquote>
+                    </p>
                   </li>
                   <li value="20">The young man said to him, “I have kept all these. What more do I need to do?”</li>
                   <li value="21">
                     Jesus said:
-                    <blockquote>
+                    <p class="conversation">
                       “If you wish to be perfect, go and sell your possessions and give the money to the poor, and you will have treasure in heaven; then come, follow me”.
-                    </blockquote>
+                    </p>
                   </li>
                   <li value="22">But when the young man heard these words he went away sad, for he was a man of great wealth.</li>
                   <li value="23">
                     Then Jesus said to his disciples:
-                    <blockquote>
+                    <p class="conversation">
                       “In truth I tell you, it is hard for someone rich to enter the kingdom of Heaven.
-                    </blockquote>
+                    </p>
                   </li>
                   <li value="24">
-                    <blockquote>
+                    <p class="conversation">
                       Yes, I tell you again, it is easier for a camel to pass through the eye of a needle than for someone rich to enter the kingdom of Heaven.”»
-                    </blockquote>
+                    </p>
                   </li>
                 </ol>
             </article></section>
@@ -3951,15 +3951,15 @@
               </li>
               <li value="24">
                 So he cried out:
-                <blockquote>
+                <p class="conversation">
                   “Father Abraham, pity me and send Lazarus to dip the tip of his finger in water and cool my tongue, for I am in agony in these flames”.
-                </blockquote>
+                </p>
               </li>
               <li value="25">
                 – Abraham said:
-                <blockquote>
+                <p class="conversation">
                   “My son, remember that during your life you had your fill of good things, just as Lazarus his fill of bad. Now he is being comforted here while you are in agony”.»
-                </blockquote>
+                </p>
               </li>
             </ol>
             </div>
@@ -4021,9 +4021,9 @@
               <ol class="doc">
                 <li>Chapter 4</li>
                 <li value="01">Then, in my vision, I saw a door open in heaven and heard the same voice speaking to me, the voice like a trumpet, saying,
-                  <blockquote>
+                  <p class="conversation">
                     “Come up here: I will show you what is to take place in the future.”
-                  </blockquote>
+                  </p>
                 </li>
               </ol>
             </article></section>
@@ -4045,9 +4045,9 @@
                 <li value="07">The first living creature was like a <span style="color: #e6a64d;">lion</span>, the second like a <span style="color: #e6a64d;">young bull</span>, the third living creature had a <span style="color: #e6a64d;">human face</span>, and the fourth living creature was like a <span style="color: #e6a64d;">flying eagle</span>.</li>
                 <li value="08">
                   Each of the four living creatures had <span style="color: #e6a64d;">six wings</span> and was studded with eyes all the way round as well as inside; and day and night they never stopped singing:
-                  <blockquote>
+                  <p class="conversation">
                     “Saint! saint! saint, le seigneur dieu, le souverain de l’univers, celui qui était, qui est et qui vient.”
-                  </blockquote>
+                  </p>
                 </li>
               </ol>
             </article></section>
@@ -4065,16 +4065,16 @@
                 <li>Chapître 5</li>
                 <li value="1">I saw that in the right hand of the One sitting on the throne there was a scroll that was written on back and front and was sealed with seven seals.</li>
                 <li value="2">Then I saw a powerful angel who called with a loud voice
-                  <blockquote>
+                  <p class="conversation">
                     “Who is worthy to open the scroll and break its seals?”
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="3">But there was no one, in heaven or on the earth or under the earth, who was able to open the scroll and read it.</li>
                 <li value="4">I wept bitterly because nobody could be found to open the scroll and read it,</li>
                 <li value="5">but one of the elders said to me
-                  <blockquote>
+                  <p class="conversation">
                     “Do not weep. Look, the Lion of the tribe of Judah, the Root of David, has triumphed, and so he will open the scroll and its seven seals.”
-                  </blockquote>
+                  </p>
                 </li>
               </ol>
             </article></section>
@@ -4094,14 +4094,14 @@
                   <li value="11">In my vision, I heard the sound of an immense number of angels gathered round the throne and the living creatures and the elders; there were ten thousand times ten thousand of them and thousands upon thousands,</li>
                   <li value="12">loudly chanting: Worthy is the Lamb that was sacrificed to receive power, riches, wisdom, strength, honour, glory and blessing.</li>
                   <li value="13">Then I heard all the living things in creation -- everything that lives in heaven, and on earth, and under the earth, and in the sea, crying:
-                    <blockquote>
+                    <p class="conversation">
                       “To the One seated on the throne and to the Lamb, be all praise, honour, glory and power, for ever and ever.”
-                    </blockquote>
+                    </p>
                   </li>
                   <li value="14">And the four living creatures said,
-                    <blockquote>
+                    <p class="conversation">
                       “Amen”
-                    </blockquote>
+                    </p>
                   and the elders prostrated themselves to worship.</li>
                 </ol>
             </article></section>
@@ -4111,9 +4111,9 @@
                   <li>chapter 6</li>
                   <li value="01">
                     Then, in my vision, I saw the Lamb break one of the seven seals, and I heard one of the four living creatures shout in a voice like thunder:
-                    <blockquote>
+                    <p class="conversation">
                       “Come!”
-                    </blockquote>
+                    </p>
                   </li>
                   <li value="02">Immediately I saw a <span style="color: #e6a64d;">white horse</span> appear, and its rider was holding a <span style="color: #e6a64d;">bow</span>; he was given a victor's <span style="color: #e6a64d;">crown</span> and he went away, to go from victory to victory.</li>
                 </ol>
@@ -4122,9 +4122,9 @@
             <section><article>
               <ol class="doc">
                 <li value="03">When he broke the second seal, I heard the second living creature shout:
-                  <blockquote>
+                  <p class="conversation">
                     “Come!”
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="04">And out came another <span style="color: #e6a64d;">horse</span>, <span style="color: #e6a64d;">bright red</span>, and its rider was given this duty: to take away peace from the earth and set people killing each other. He was given a huge <span style="color: #e6a64d;">sword</span>.</li>
               </ol>
@@ -4134,16 +4134,16 @@
               <ol class="doc">
                 <li value="05">
                   When he broke the third seal, I heard the third living creature shout:
-                  <blockquote>
+                  <p class="conversation">
                     “Come!”
-                  </blockquote>
+                  </p>
                 Immediately I saw a <span style="color: #e6a64d;">black horse</span> appear, and its rider was holding a <span style="color: #e6a64d;">pair of scales</span>;
                 </li>
                 <li value="06">
                   and I seemed to hear a voice shout from among the four living creatures and say:
-                  <blockquote>
+                  <p class="conversation">
                     “A day's wages for a quart of corn, and a day's wages for three quarts of barley, but do not tamper with the oil or the wine.”
-                  </blockquote>
+                  </p>
                 </li>
               </ol>
             </article></section>
@@ -4152,9 +4152,9 @@
               <ol class="doc">
                 <li value="07">
                   When he broke the fourth seal, I heard the voice of the fourth living creature shout:
-                <blockquote>
+                <p class="conversation">
                   “Come!”
-                </blockquote>
+                </p>
                 </li>
                 <li value="08">
                 Immediately I saw another horse appear, <span style="color: #e6a64d;">deathly pale</span>, and its rider was called <span style="color: #e6a64d;">Death</span>, and Hades followed at its heels. </li>
@@ -4172,9 +4172,9 @@
                 <li value="9">
                 When he broke the fifth seal, I saw underneath the altar the souls of all the people who had been killed on account of the Word of God, for witnessing to it.</li>
                 <li value="10">They shouted in a loud voice:
-                  <blockquote>
+                  <p class="conversation">
                     “Holy, true Master, how much longer will you wait before you pass sentence and take vengeance for our death on the inhabitants of the earth?”
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="11">Each of them was given a white robe, and they were told to be patient a little longer, until the roll was completed of their fellow-servants and brothers who were still to be killed as they had been.</li>
                 <li value="12">In my vision, when he broke the sixth seal, there was a violent earthquake and the sun went as black as coarse sackcloth; the moon turned red as blood all over,</li>
@@ -4187,14 +4187,14 @@
                 <li value="14">the sky disappeared like a scroll rolling up and all the mountains and islands were shaken from their places.</li>
                 <li value="15">Then all the <span style="color: #e6a64d;">kings of the earth, the governors and the commanders, the rich people and the men of influence, the whole population, slaves and citizens, hid in caverns and among the rocks of the mountains</span>.</li>
                 <li value="16">They said to the mountains and the rocks:
-                <blockquote>
+                <p class="conversation">
                   “Fall on us and hide us away from the One who sits on the throne and from the retribution of the Lamb.
-                </blockquote>
+                </p>
                 </li>
                 <li value="17">
-                <blockquote>
+                <p class="conversation">
                   For the Great Day of his retribution has come, and who can face it?”
-                </blockquote>
+                </p>
                 </li>
               </ol>
             </article></section>
@@ -4205,9 +4205,9 @@
                 <li value="1">Next I saw four angels, standing at the four corners of the earth, holding back the four winds of the world to keep them from blowing over the land or the sea or any tree.</li>
                 <li value="2">Then I saw another angel rising where the sun rises, carrying the seal of the living God; he called in a powerful voice to the four angels whose duty was to devastate land and sea,</li>
                 <li value="3">
-                  <blockquote>
+                  <p class="conversation">
                     “Wait before you do any damage on land or at sea or to the trees, until we have put the seal on the foreheads of the servants of our God.”
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="4">And I heard how many had been sealed: a hundred and forty-four thousand, out of all the tribes of Israel.</li>
                 <li value="5">From the tribe of Judah, twelve thousand had been sealed; from the tribe of Reuben, twelve thousand; from the tribe of Gad, twelve thousand;</li>
@@ -4216,44 +4216,44 @@
                 <li value="8">from the tribe of Zebulun, twelve thousand; and from the tribe of Benjamin, twelve thousand had been sealed.</li>
                 <li value="9">After that I saw that there was a huge number, impossible for anyone to count, of people from every nation, race, tribe and language; they were standing in front of the throne and in front of the Lamb, dressed in white robes and holding palms in their hands.</li>
                 <li value="10">They shouted in a loud voice:
-                  <blockquote>
+                  <p class="conversation">
                     “Salvation to our God, who sits on the throne, and to the Lamb!”
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="11">And all the angels who were standing in a circle round the throne, surrounding the elders and the four living creatures, prostrated themselves before the throne, and touched the ground with their foreheads, worshipping God.</li>
                 <li value="12">with these words:
-                  <blockquote>
+                  <p class="conversation">
                     “Amen. Praise and glory and wisdom, thanksgiving and honour and power and strength to our God for ever and ever. Amen.”
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="13">One of the elders then spoke and asked me:
-                  <blockquote>
+                  <p class="conversation">
                     “Who are these people, dressed in white robes, and where have they come from?”
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="14">I answered him:
-                  <blockquote>
+                  <p class="conversation">
                     “You can tell me, sir.”
-                  </blockquote>
+                  </p>
                   Then he said:
-                  <blockquote>
+                  <p class="conversation">
                     “These are the people who have been through the great trial; they have washed their robes white again in the blood of the Lamb.”
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="15">
-                  <blockquote>
+                  <p class="conversation">
                     “That is why they are standing in front of God's throne and serving him day and night in his sanctuary; and the One who sits on the throne will spread his tent over them.
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="16">
-                  <blockquote>
+                  <p class="conversation">
                     They will never hunger or thirst again; sun and scorching wind will never plague them,
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="17">
-                  <blockquote>
+                  <p class="conversation">
                     because the Lamb who is at the heart of the throne will be their shepherd and will guide them to springs of living water; and God will wipe away all tears from their eyes.”
-                  </blockquote>
+                  </p>
                 </li>
               </ol>
             </article></section>
@@ -4296,9 +4296,9 @@
             <section><article>
               <ol class="doc">
                 <li value="13">In my vision, I heard an <span style="color: #e6a64d;">eagle</span>, calling aloud as it flew high overhead:
-                  <blockquote>
+                  <p class="conversation">
                     “Disaster, disaster, disaster, on all the people on earth at the sound of the other three trumpets which the three angels have yet to blow!”
-                  </blockquote>
+                  </p>
                 </li>
               </ol>
             </article></section>
@@ -4330,9 +4330,9 @@
                 <li value="12">That was the first of the disasters; there are still two more to come.</li>
                 <li value="13">The sixth angel blew his trumpet, and I heard a single voice issuing from the four horns of the golden altar in God's presence.</li>
                 <li value="14">It spoke to the sixth angel with the trumpet, and said:
-                  <blockquote>
+                  <p class="conversation">
                     “Release the four angels that are chained up at the great river Euphrates.”
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="15">These four angels had been ready for this hour of this day of this month of this year, and ready to destroy a third of the human race.</li>
                 <li value="16">I learnt how many there were in their army: twice ten thousand times ten thousand mounted men.</li>
@@ -4356,43 +4356,43 @@
               <ol class="doc">
                 <li value="03">and he shouted so loud, it was like a lion roaring. At this, the seven claps of thunder made themselves heard.</li>
                 <li value="04">Eand when the seven thunderclaps had sounded, I was preparing to write, when I heard a voice from heaven say to me:
-                <blockquote>
+                <p class="conversation">
                   “Keep the words of the seven thunderclaps secret and do not write them down.”
-                </blockquote></li>
+                </p></li>
                 <li value="05">Then the angel that I had seen, standing on the sea and the land, raised his right hand to heaven,</li>
                 <li value="06">and swore by him who lives for ever and ever, and made heaven and all that it contains, and earth and all it contains, and the sea and all it contains:
-                <blockquote>
+                <p class="conversation">
                   “The time of waiting is over.
-                </blockquote></li>
+                </p></li>
               </ol>
             </article></section>
             <hr>
             <section><article><p>out</p>
               <ol class="doc">
                 <li value="07">
-                  <blockquote>
+                  <p class="conversation">
                     at the time when the seventh angel is heard sounding his trumpet, the mystery of God will be fulfilled, just as he announced in the gospel to his servants the prophets.”
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="08">Then I heard the voice I had heard from heaven speaking to me again.
-                  <blockquote>
+                  <p class="conversation">
                     “Go”,
-                  </blockquote>
+                  </p>
                 it said,
-                  <blockquote>
+                  <p class="conversation">
                     “and take that open scroll from the hand of the angel standing on sea and land.”
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="09">I went to the angel and asked him to give me the small scroll, and he said,
-                  <blockquote>
+                  <p class="conversation">
                     “Take it and eat it; it will turn your stomach sour, but it will taste as sweet as honey.”
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="10">So I took it out of the angel's hand, and I ate it and it tasted sweet as honey, but when I had eaten it my stomach turned sour.</li>
                 <li value="11">Then I was told,
-                  <blockquote>
+                  <p class="conversation">
                     “You are to prophesy again, this time against many different nations and countries and languages and kings.”
-                  </blockquote>
+                  </p>
                 </li>
               </ol>
             </article></section>
@@ -4401,78 +4401,78 @@
               <ol class="doc">
                 <li>chapter 11</li>
                 <li value="1">Then I was given a long cane like a measuring rod, and I was told,
-                  <blockquote>
+                  <p class="conversation">
                     “Get up and measure God's sanctuary, and the altar, and the people who worship there;
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="2">
-                  <blockquote>
+                  <p class="conversation">
                     but exclude the outer court and do not measure it, because it has been handed over to gentiles -- they will trample on the holy city for forty-two months.
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="3">
-                  <blockquote>
+                  <p class="conversation">
                     But I shall send my two witnesses to prophesy for twelve hundred and sixty days, wearing sackcloth.
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="4">
-                  <blockquote>
+                  <p class="conversation">
                     These are the two olive trees and the two lamps in attendance on the Lord of the world.
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="5">
-                  <blockquote>
+                  <p class="conversation">
                     Fire comes from their mouths and consumes their enemies if anyone tries to harm them; and anyone who tries to harm them will certainly be killed in this way.
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="6">
-                  <blockquote>
+                  <p class="conversation">
                     They have the power to lock up the sky so that it does not rain as long as they are prophesying; they have the power to turn water into blood and strike the whole world with any plague as often as they like.
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="7">
-                  <blockquote>
+                  <p class="conversation">
                     When they have completed their witnessing, the beast that comes out of the Abyss is going to make war on them and overcome them and kill them.
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="8">
-                  <blockquote>
+                  <p class="conversation">
                     Their corpses lie in the main street of the great city known by the symbolic names Sodom and Egypt, in which their Lord was crucified.
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="9">
-                  <blockquote>
+                  <p class="conversation">
                     People of every race, tribe, language and nation stare at their corpses, for three-and-a-half days, not letting them be buried,
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="10">
-                  <blockquote>
+                  <p class="conversation">
                     and the people of the world are glad about it and celebrate the event by giving presents to each other, because these two prophets have been a plague to the people of the world.”
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="11">After the three-and-a-half days, God breathed life into them and they stood up on their feet, and everybody who saw it happen was terrified;</li>
                 <li value="12">then I heard a loud voice from heaven say to them,
-                  <blockquote>
+                  <p class="conversation">
                     “Come up here,”
-                  </blockquote>
+                  </p>
                 and while their enemies were watching, they went up to heaven in a cloud.</li>
                 <li value="13">Immediately, there was a violent earthquake, and a tenth of the city collapsed; seven thousand persons were killed in the earthquake, and the survivors, overcome with fear, could only praise the God of heaven.</li>
                 <li value="14">That was the second of the disasters; the third is to come quickly after it.</li>
                 <li value=15">Then the seventh angel blew his trumpet, and voices could be heard shouting in heaven, calling,
-                  <blockquote>
+                  <p class="conversation">
                     “The kingdom of the world has become the kingdom of our Lord and his Christ, and he will reign for ever and ever.”
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="16">The twenty-four elders, enthroned in the presence of God, prostrated themselves and touched the ground with their foreheads worshipping God</li>
                 <li value="17">with these words,
-                  <blockquote>
+                  <p class="conversation">
                     “We give thanks to you, Almighty Lord God, He who is, He who was, for assuming your great power and beginning your reign.
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="18">
-                  <blockquote>
+                  <p class="conversation">
                     The nations were in uproar and now the time has come for your retribution, and for the dead to be judged, and for your servants the prophets, for the saints and for those who fear your name, small and great alike, to be rewarded. The time has come to destroy those who are destroying the earth.”
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="19">Then the sanctuary of God in heaven opened, and the ark of the covenant could be seen inside it. Then came flashes of lightning, peals of thunder and an earthquake and violent hail.</li>
               </ol>
@@ -4502,29 +4502,29 @@
             <section><article>
               <ol class="doc">
                 <li value="10">Then I heard a voice shout from heaven,
-                  <blockquote>
+                  <p class="conversation">
                     “Salvation and power and empire for ever have been won by our God, and all authority for his Christ,
-                  </blockquote>
+                  </p>
                 </li>
                 <li>
-                  <blockquote>
+                  <p class="conversation">
                     now that the accuser, who accused our brothers day and night before our God, has been brought down.
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="11">
-                  <blockquote>
+                  <p class="conversation">
                     They have triumphed over him by the blood of the Lamb and by the word to which they bore witness, because even in the face of death they did not cling to life.
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="12">
-                  <blockquote>
+                  <p class="conversation">
                     So let the heavens rejoice and all who live there; but for you, earth and sea, disaster is coming
-                  </blockquote>
+                  </p>
                 </li>
                 <li>
-                  <blockquote>
+                  <p class="conversation">
                     -- because the devil has gone down to you in a rage, knowing that he has little time left.”
-                  </blockquote>
+                  </p>
                 </li>
                 <li value="13">As soon as the <span style="color: #e6a64d;">dragon</span> found himself hurled down to the earth, he sprang in pursuit of the <span style="color: #e6a64d;">woman</span>, the mother of the male child.</li>
                 <li value="14">but she was given a pair of the <span style="color: #e6a64d;">great eagle's wings</span> to fly away from the serpent into the desert, to the place where she was to be looked after for a time, two times and half a time.</li>
