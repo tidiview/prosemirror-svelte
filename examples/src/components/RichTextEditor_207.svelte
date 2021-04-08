@@ -79,7 +79,6 @@
     </article></section>
   </article></section>
 
-
   <hr>
 
   <section><article>
@@ -1591,25 +1590,35 @@
                 </article></section>
                 <section><article>
                   <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Mark#6:22">
-                    <p class="conversation">
-                      «“<span style="color: #e6a64d;">Ask me whatever you want</span>, and I will give it to you”.
-                    </p>
-                    <p>He swore to her,</p>
-                    <p class="conversation">
-                      “Whatever you shall ask of me, I will give you, up to half of my kingdom.”
-                    </p>
-                    <p>Salome went out, and said to her mother,</p>
-                    <p class="conversation">
-                      <span style="color: #e6a64d;">"What shall I ask?"</span>»
-                    </p>
-                    <p>Herodias said,</p>
-                    <p class="conversation">
-                      «<span style="color: #e6a64d;">"The head of John, the one who baptises"</span>.
-                    </p>
-                    <p>She came in immediately with haste to the king, and asked,</p>
-                    <p class="conversation">
-                      <span style="color: #e6a64d;">"I want you to give me right now the head of John the one who baptises on a platter."</span>.
-                    </p>
+                    <ol class="doc">
+                      <li value="22">
+                        <p class="conversation">
+                          «“<span style="color: #e6a64d;">Ask me whatever you want</span>, and I will give it to you”.
+                        </p>
+                      </li>
+                      <li value="23">
+                        <p>He swore to her,</p>
+                        <p class="conversation">
+                          “Whatever you shall ask of me, I will give you, up to half of my kingdom.”
+                        </p>
+                      </li>
+                      <li value="24">
+                        <p>Salome went out, and said to her mother,</p>
+                        <p class="conversation">
+                          <span style="color: #e6a64d;">“What shall I ask?”</span>»
+                        </p>
+                        <p>Herodias said,</p>
+                        <p class="conversation">
+                          «<span style="color: #e6a64d;">“The head of John, the one who baptises”</span>.
+                        </p>
+                      </li>
+                      <li value="25">
+                        <p>She came in immediately with haste to the king, and asked,</p>
+                        <p class="conversation">
+                          <span style="color: #e6a64d;">“I want you to give me right now the head of John the one who baptises on a platter.”</span>.
+                        </p>
+                      </li>
+                    </ol>
                   </blockquote>
                 </article></section>
                 <section><article>
