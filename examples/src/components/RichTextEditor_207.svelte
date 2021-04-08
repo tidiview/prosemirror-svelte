@@ -2132,11 +2132,12 @@
               </footer>
             </article></section>
             <section><article>
-              <blockquote cite="">
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_5">
                 <ol class="doc">
                   <li>chapter 5</li>
                   <li value="01">I saw, in the right hand of him who sat on the throne, a <span style="color: #e6a64d;">book</span> written inside and outside, sealed shut with <span style="color: #e6a64d;">seven seals</span>.</li>
                 </ol>
+              </blockquote>
               <footer>
                 <ol class="doc">
                   <li><span style="color: #999;">(…)</span></li>
@@ -4113,8 +4114,6 @@
             <hr>
             <section><article><p>out</p>
               <ol class="doc">
-                <li>Chapître 5</li>
-                <li value="1">I saw that in the right hand of the One sitting on the throne there was a scroll that was written on back and front and was sealed with seven seals.</li>
                 <li value="2">Then I saw a powerful angel who called with a loud voice
                   <p class="conversation">
                     “Who is worthy to open the scroll and break its seals?”
@@ -4598,35 +4597,28 @@
             </article></section>
             <hr>
             <section><article>
-              <ol class="doc">
-                <li value="10">Then I heard a voice shout from heaven,
-                  <p class="conversation">
-                    “Salvation and power and empire for ever have been won by our God, and all authority for his Christ,
-                  </p>
-                </li>
-                <li>
-                  <p class="conversation">
-                    now that the accuser, who accused our brothers day and night before our God, has been brought down.
-                  </p>
-                </li>
-                <li value="11">
-                  <p class="conversation">
-                    They have triumphed over him by the blood of the Lamb and by the word to which they bore witness, because even in the face of death they did not cling to life.
-                  </p>
-                </li>
-                <li value="12">
-                  <p class="conversation">
-                    So let the heavens rejoice and all who live there; but for you, earth and sea, disaster is coming
-                  </p>
-                </li>
-                <li>
-                  <p class="conversation">
-                    -- because the devil has gone down to you in a rage, knowing that he has little time left.”
-                  </p>
-                </li>
-                <li value="13">As soon as the <span style="color: #e6a64d;">dragon</span> found himself hurled down to the earth, he sprang in pursuit of the <span style="color: #e6a64d;">woman</span>, the mother of the male child.</li>
-                <li value="14">but she was given a pair of the <span style="color: #e6a64d;">great eagle's wings</span> to fly away from the serpent into the desert, to the place where she was to be looked after for a time, two times and half a time.</li>
-              </ol>
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_12">
+                <ol class="doc">
+                  <li value="10">
+                    <p>I heard a loud voice in heaven, saying,</p>
+                    <p class="conversation">«Now is come the salvation, the power, and the Kingdom of our God, and the authority of his Christ; for the accuser of our brothers has been thrown down, who accuses them before our God day and night,</p>
+                  </li>
+                  <li>
+                    <p class="conversation">now that the accuser, who accused our brothers day and night before our god, has been brought down.</p>
+                  </li>
+                  <li value="11">
+                    <p class="conversation">They overcame him because of the Lamb's blood, and because of the word of their testimony. They didn't love their life, even to death.</p>
+                  </li>
+                  <li value="12">
+                    <p class="conversation">Therefore rejoice, heavens, and you who dwell in them.</p>
+                  </li>
+                  <li>
+                    <p class="conversation">Woe to the earth and to the sea, because the devil has gone down to you, having great wrath, knowing that he has but a short time.»</p>
+                  </li>
+                  <li value="13">When the <span style="color: #e6a64d;">dragon</span> saw that he was thrown down to the earth, he persecuted the <span style="color: #e6a64d;">woman</span> who gave birth to the male child,</li>
+                  <li value="14">Two <span style="color: #e6a64d;">wings of the great eagle</span> were given to the woman, that she might fly into the wilderness to her place, so that she might be nourished for a time, and times, and half a time, from the face of the serpent.</li>
+                </ol>
+              </blockquote>
             </article></section>
             <hr>
             <section><article><p>out</p>
