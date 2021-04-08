@@ -2151,11 +2151,6 @@
                   <li value="07">Then he came, and he took it out of the right hand of him who sat on the throne.</li>
                 </ol>
               </blockquote>
-              <footer>
-                <ol class="doc">
-                  <li><span style="color: #999;">(…)</span></li>
-                </ol>
-              </footer>
             </article></section>
           </article></section>
         </article></section>
@@ -2360,11 +2355,6 @@
                     <li>Authority over one fourth of the earth, to kill with the sword, with famine, with death, and by the wild animals of the earth was given to him.</li>
                   </ol>
                 </blockquote>
-                <footer>
-                  <ol class="doc">
-                    <li><span style="color: #999;">(…)</span></li>
-                  </ol>
-                </footer>
               </article></section>
 
               <figure>
