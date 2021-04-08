@@ -3683,14 +3683,12 @@
             <p>In that way he raised a woman which was named Drusiana, which had much loved <span style="color: #994c3d;">St. John</span> and well kept his commandments.</p>
             <p>And her friends brought her tofore <span style="color: #994c3d;">St. John</span> all weeping and saving to him:</p>
             <p class="conversation">
-              <p><span style="color: #165493;">— Lo! here is Drusiana which much loved thee and did thy commandments, and is dead, and desired nothing so much as thy return, and that she might see thee tofore her death. </span></p>
+              <span style="color: #165493;">— Lo! here is Drusiana which much loved thee and did thy commandments, and is dead, and desired nothing so much as thy return, and that she might see thee tofore her death.</span></p>
               <p><span style="color: #165493;">Now thou art come hither and she may not see thee.</span></p>
             </p>
             <p><span style="color: #994c3d;">St. John</span> had great pity on her that was dead, and of the people that wept for her, and commanded that they should set down the bier, and unbind and take away the clothes from her. And when they had so done he said, hearing all, with a loud voice,</p>
             <p class="conversation">
-              <p><span style="color: #df8f20;">— «Drusiana, my Lord God Jesus Christ ariseth thee;</span></p>
-              <p><span style="color: #df8f20;">Drusiana arise, and go into thy house, and make ready for me some refection.»</span></p>
-            </p>
+              <span style="color: #df8f20;">— «Drusiana, my Lord God Jesus Christ ariseth thee;</span> <span style="color: #df8f20;">Drusiana arise, and go into thy house, and make ready for me some refection.»</span></p>
             <p>Anon she arose and went in to her house for to do the commandment of <span style="color: #994c3d;">St. John</span>, and the people made three hours long a great noise and cry, saying there is but one God, and that is he whom <span style="color: #994c3d;">St. John</span> preacheth.</p>
           </article></section>
 
@@ -3744,7 +3742,7 @@
             <p>He told the <a href="#note_hoteriche" title="story of the rich host" id="hoteriche" class="yellow">story of the rich host that the reproach and poor Lazare chose him</a>.</p>
             <p>The <span style="color: #994c3d;">second</span> cause is <span style="color: #994c3d;">nature</span>, because man is born without wealth or clothing and dies without wealth.</p>
             <p>The <span style="color: #994c3d;">third</span> is creation, because the sun, the moon, the stars, the rain, the air are common to all and distribute their benefits in common: similarly, all things should be common to all.</p>
-            <p>The <span style="color: #994c3d;">fourth</span> cause is <span style="color: #994c3d;">fortune</span>, because the rich is the slave of money and devil: the slave of money, he does not possess wealth, but is possessed by wealth; slave to devil, the lover of money, according to the Gospel, serves Mammon (Matthew 6, 24; Luke 16, 13).</p>
+            <p>The <span style="color: #994c3d;">fourth</span> cause is <span style="color: #994c3d;">fortune</span>, because the rich is the slave of money and devil: the slave of money, he does not possess wealth, but is possessed by wealth; slave to devil, the lover of money, according to the Gospel, serves Mammon <span style="color: #999">(Matthew chapter 6, verse 24; Luke chapter 16, verse 13)</span>.</p>
             <p>The <span style="color: #994c3d;">fifth</span> is the <span style="color: #994c3d;">concern</span>, because the rich experience, both day and night, the concern and obsession to acquire and fear of losing. Indeed, they have trouble to acquire and fear to keep.</p>
             <p>The <span style="color: #994c3d;">sixth</span> cause is the <span style="color: #994c3d;">loss</span>:</p>
             <p>it showed that wealth causes a loss that lies in the acquisition of two evils: evil in life present, vanity, and evil in future life, eternal damnation.</p>
@@ -3832,7 +3830,7 @@
             <p>Do you really think that your tunic will make me believe?  said the other one.</p>
             <p>The apostle says:</p>
             <p class="conversation">
-              <p><span style="color: #df8f20;">— «Go and throw it on the dead body by saying:</span></p>
+              <span style="color: #df8f20;">— «Go and throw it on the dead body by saying:</span></p>
               <p><span style="color: #df8f20;">“The apostle of Christ sent me to you for you to resurface in the name of Christ”».</span></p>
             </p>
             <p>The priest executed and the dead resurrected immediately.</p>
