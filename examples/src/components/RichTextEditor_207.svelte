@@ -1909,10 +1909,10 @@
               </li>
               <li>
                 <p>Jesus himself, on the occasion of a question from Peter, expresses a wish for his destiny at the Last Supper <span style="color: #999;">(John chapter 21 verses 21 to 23)</span>:</p>
-                <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#21:21"
+                <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#21:21">
                 <p>Peter seeing this disciple, said to Jesus,</p>
                 <p class="conversation">
-                  “Lord, what about this man??”
+                  “Lord, what about this man?”
                 </p>
                 <p>Jesus said to him,</p>
                 <p class="conversation">
@@ -1921,17 +1921,17 @@
               </blockquote>
             </li>
             <li>
-              <p>It is also him who <q style="quotes: '“' '”';" cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#21:20">had also leaned on Jesus' breast</q>, he asks him who will betray him <span style="color: #999;">(John chapter 13 verses 23 to 26)</span>.</p>
+              <p>It is also him who <q cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#21:20">had also leaned on Jesus' breast</q>, he asks him who will betray him <span style="color: #999;">(John chapter 13 verses 23 to 26)</span>.</p>
             </li>
             <li>
               <p>At the crucifixion, Jesus entrusted his own mother to him, saying <span style="color: #999;">(John chapter 19 verses 26 to 27)</span>:</p>
-              <blockquote cite="">
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#19:26">
               <p class="conversation">
-                “Woman, behold your son”,
+                “Woman, behold your son!”,
               </p>
-              <p>then to him:</p>
+              <p>Then he said to the disciple,</p>
               <p class="conversation">
-                “Behold your mother”.
+                “Behold your mother!”.
               </p>
               </blockquote>
               </li>
@@ -1951,8 +1951,8 @@
             <ul>
               <li>
                 <p><a href="https://en.wikipedia.org/wiki/John_of_Patmos" title="https://en.wikipedia.org/wiki/John_of_Patmos" id="jean-de-patmos-3" class="yellow">John of Patmos</a> appears at the beginning of the text of Apocalypse which presents him as <span style="color: #999;">(<cite>Apocalypse</cite> chapter 1 verses 1 to 9):</p>
-                <blockquote>
-                  a <span style="color: #e6a64d;">«servant» to whom god made known</span> <span style="color: #999;">(…)</span> <span style="color: #e6a64d;">«by sending his angel»</span> <span style="color: #999;">(…)</span> «what must soon happen» <span style="color: #999;">(…)</span> «to the seven churches in Asia Minor»</span>.
+                <p class="conversation">
+                  a <q style="color: #e6a64d;quotes: '«' '»'" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#1:1">servant</q> <span style="color: #e6a64d;">to whom god</span> <span style="color: #999;">(…)</span> <q style="color: #e6a64d;quotes: '«' '»'" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#1:1">sent and made known by his angel</q> </span> <span style="color: #999;">(…)</span> <q style="color: #e6a64d;quotes: '«' '»'" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#1:1">the things which must happen soon</q> <span style="color: #999;">(…)</span> <q style="color: #e6a64d;quotes: '«' '»'" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#1:1">to the seven churches in Asia Minor</q>.
               </li>
             </ul>
           </article></section>
