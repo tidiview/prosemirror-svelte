@@ -738,7 +738,7 @@ export const ExtendedThreerichTextSchema = new Schema({
       toDOM(node) { let {color} = node.attrs ; return color == "" ? ["p", 0] : ["p", {"style": "color:" + color}, 0] },
     },
     blockquote: {
-      content: "(block | table)+",
+      content: "inline*",
       group: "block",
       defining: true,
       attrs: { color: {default: null}, cite: {default: null}},
