@@ -2132,14 +2132,11 @@
               </footer>
             </article></section>
             <section><article>
-              <header>
+              <blockquote cite="">
                 <ol class="doc">
                   <li>chapter 5</li>
+                  <li value="01">I saw, in the right hand of him who sat on the throne, a <span style="color: #e6a64d;">book</span> written inside and outside, sealed shut with <span style="color: #e6a64d;">seven seals</span>.</li>
                 </ol>
-              </header>
-              <ol class="doc">
-                <li value="01">I saw that in the right hand of the one sitting on the throne there was a <span style="color: #e6a64d;">scroll</span> that was written on back and front and was sealed with <span style="color: #e6a64d;">seven seals</span>.</li>
-              </ol>
               <footer>
                 <ol class="doc">
                   <li><span style="color: #999;">(…)</span></li>
@@ -2147,10 +2144,12 @@
               </footer>
             </article></section>
             <section><article>
-              <ol class="doc">
-                <li value="06">Then I saw, in the middle of the throne with its four living creatures and the circle of the elders, a <span style="color: #e6a64d;">lamb standing</span> that seemed to have been sacrificed; it had seven horns, and it had seven eyes, which are the seven spirits that god has sent out over the whole world.</li>
-                <li value="07">The lamb came forward to take the scroll from the right hand of the one sitting on the throne.</li>
-              </ol>
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_5">
+                <ol class="doc">
+                  <li value="06">I saw in the midst of the throne and of the four living creatures, and in the midst of the elders, a <span style="color: #e6a64d;">Lamb</span> standing, as though it had been slain, having seven horns, and seven eyes, which are the seven Spirits of God, sent out into all the earth.</li>
+                  <li value="07">Then he came, and he took it out of the right hand of him who sat on the throne.</li>
+                </ol>
+              </blockquote>
               <footer>
                 <ol class="doc">
                   <li><span style="color: #999;">(…)</span></li>
@@ -2225,20 +2224,18 @@
                 </article></section>
 
                 <section><article>
-                <header>
-                  <ol class="doc">
-                    <li>chapter 6</li>
-                  </ol>
-                </header>
-                  <ol class="doc">
-                    <li value="01">
-                      <p>Then I saw: when the Lamb opened one of the seven seals, I heard one of the four living ones say with a voice of thunder:</p>
-                      <p class="conversation">
-                        “Come!”
-                      </p>
-                    </li>
-                    <li value="02">Immediately I saw a <span style="color: #e6a64d;">white horse</span> appear, and its rider was holding a <span style="color: #e6a64d;">bow</span>; he was given a victor's <span style="color: #e6a64d;">crown</span> and he went away, to go from victory to victory.</li>
+                  <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_6">
+                    <ol class="doc">
+                      <li>chapter 6</li>
+                      <li value="01">
+                        <p>I saw that the Lamb opened one of the seven seals, and I heard one of the four living creatures saying, as with a voice of thunder,</p>
+                        <p class="conversation">
+                          “Come and see!”
+                        </p>
+                      </li>
+                      <li value="02">And behold, a <span style="color: #e6a64d;">white horse</span>, and he who sat on it had a <span style="color: #e6a64d;">bow</span>. A <span style="color: #e6a64d;">crown</span> was given to him, and he came forth conquering, and to conquer.</li>
                     </ol>
+                  </blockquote>
                 </article></section>
               </article></section>
 
@@ -2268,14 +2265,16 @@
               <h6 class="yellow">second seal: the fiery red horse - <cite>Apocalypse</cite>, chapter 6 verses 3 to 4</h6>
 
               <section><article>
-                <ol class="doc">
-                  <li value="03"><p>When he broke the second seal, I heard the second living creature shout</p>
-                    <p class="conversation">
-                      “Come!”
-                    </p>
-                </li>
-                  <li value="04">And out came another <span style="color: #e6a64d;">horse</span>, <span style="color: #e6a64d;">bright red</span>, and its rider was given this duty: to take away peace from the earth and set people killing each other. He was given a huge <span style="color: #e6a64d;">sword</span>.</li>
-                </ol>
+                <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_6">
+                  <ol class="doc">
+                    <li value="03"><p>When he opened the second seal, I heard the second living creature saying,</p>
+                      <p class="conversation">
+                        “Come!”
+                      </p>
+                    </li>
+                    <li value="04">Another came forth, a <span style="color: #e6a64d;">red horse</span>. To him who sat on it was given power to take peace from the earth, and that they should kill one another. There was given to him a great <span style="color: #e6a64d;">sword</span>.</li>
+                  </ol>
+                </blockquote>
               </article></section>
 
               <figure>
@@ -2304,21 +2303,23 @@
               <h6 class="yellow">third seal: the black horse - <cite>Apocalypse</cite>, chapter 6 verses 5 to 6</h6>
 
               <section><article>
-                <ol class="doc">
-                  <li value="05">
-                    <p>When he broke the third seal, I heard the third living creature shout</p>
-                    <p class="conversation">
-                      “Come!”
-                    </p>
-                  <p>Immediately I saw a <span style="color: #e6a64d;">black horse</span> appear, and its rider was holding a <span style="color: #e6a64d;">pair of scales</span>;</p>
-                </li>
-                  <li value="06">
-                  <p>and I seemed to hear a voice shout from among the four living creatures and say:</p>
-                    <p class="conversation">
-                      “A day's wages for a quart of corn, and a day's wages for three quarts of barley, but do not tamper with the oil or the wine.”
-                    </p>
-                </li>
-                </ol>
+                <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_6">
+                  <ol class="doc">
+                    <li value="05">
+                      <p>When he opened the third seal, I heard the third living creature saying,</p>
+                      <p class="conversation">
+                        “Come and see!”
+                      </p>
+                      <p>And behold, a <span style="color: #e6a64d;">black horse</span>, and he who sat on it had a <span style="color: #e6a64d;"balance</span> in his hand.</p>
+                    </li>
+                    <li value="06">
+                    <p>I heard a voice in the midst of the four living creatures saying,</p>
+                      <p class="conversation">
+                        “Achoenix of wheat for a denarius, and three choenix of barley for a denarius! Don't damage the oil and the wine!”
+                      </p>
+                    </li>
+                  </ol>
+                </blockquote>
               </article></section>
 
               <figure>
@@ -2346,16 +2347,18 @@
               <h6 class="yellow">fourth seal: the greenish horse - <cite>Apocalypse</cite>, chapter 6 verses 7 to 8</h6>
 
               <section><article>
-                <ol class="doc">
-                  <li value="07">
-                  When he broke the fourth seal, I heard the voice of the fourth living creature shout:
-                  <p class="conversation">
-                    “Come!”
-                  </p>
-                  </li>
-                  <li value="08">Immediately I saw another <span style="color: #e6a64d;">horse</span> appear, <span style="color: #e6a64d;">deathly pale</span>, and its rider was called <span style="color: #e6a64d;">death</span>, and <span style="color: #e6a64d;">Hades</span> followed at its heels.</li>
-                  <li>They were given authority over a quarter of the earth, to kill by the sword, by famine, by plague and through wild beasts.</li>
-                </ol>
+                <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_6">
+                  <ol class="doc">
+                    <li value="07">
+                      When he opened the fourth seal, I heard the fourth living creature saying,
+                    <p class="conversation">
+                      “Come and see!”
+                    </p>
+                    </li>
+                    <li value="08">And behold, a <span style="color: #e6a64d;">pale horse</span>, and he who sat on it, his name was <span style="color: #e6a64d;">Death</span>.<span style="color: #e6a64d;">Hades</span> followed with him.</li>
+                    <li>Authority over one fourth of the earth, to kill with the sword, with famine, with death, and by the wild animals of the earth was given to him.</li>
+                  </ol>
+                </blockquote>
                 <footer>
                   <ol class="doc">
                     <li><span style="color: #999;">(…)</span></li>
@@ -2388,20 +2391,23 @@
               <h6 class="yellow">landscape around the four horsemen - <cite>Apocalypse</cite>, chapter 6 verses 14 to 17</h6>
 
               <section><article>
-                <ol class="doc">
-                  <li value="14">the sky disappeared like a scroll rolling up and all the mountains and islands were shaken from their places.</li>
-                  <li value="15"><span style="color: #e6a64d;">Then all the kings of the earth, the governors and the commanders, the rich people and the men of influence, the whole population, slaves and citizens, hid in caverns and among the rocks of the mountains.</span>.</li>
-                  <li value="16"><p>They said to the mountains and the rocks:</p>
-                  <p class="conversation">
-                    <p>“Fall on us and hide us away from the one who sits on the throne and from the retribution of the Lamb.</p>
-                  </p>
-                </li>
-                  <li value="17">
-                  <p class="conversation">
-                    For the great day of his retribution has come, and who can face it?”
-                  </p>
-                </li>
-                </ol>
+                <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_6">
+                  <ol class="doc">
+                    <li value="14">The sky was removed like a scroll when it is rolled up. Every mountain and island were moved out of their places.</li>
+                    <li value="15"><span style="color: #e6a64d;">The kings of the earth, the princes, the commanding officers, the rich, the strong, and every slave and free person, hid themselves in the caves and in the rocks of the mountains</span>.</li>
+                    <li value="16">
+                      <p>They told the mountains and the rocks,</p>
+                      <p class="conversation">
+                        “Fall on us, and hide us from the face of him who sits on the throne, and from the wrath of the Lamb,
+                      </p>
+                    </li>
+                    <li value="17">
+                      <p class="conversation">
+                        for the great day of his wrath has come; and who is able to stand?”
+                      </p>
+                    </li>
+                  </ol>
+                </blockquote>
               </article></section>
 
               <figure>
@@ -2433,15 +2439,13 @@
           <h5 class="yellow">the angels of the seventh seal - <cite>Apocalypse</cite>, chapter 8 verses 1 to 2</h5>
 
           <section><article>
-            <header>
+            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
               <ol class="doc">
                 <li>chapter 8</li>
+                <li value="01">When he opened the seventh seal, there was silence in heaven for about half an hour.</li>
+                <li value="02">I saw the <span style="color: #e6a64d;">seven angels</span> who stand before God, and <span style="color: #e6a64d;">seven trumpets</span> were given to them.</li>
               </ol>
-            </header>
-              <ol class="doc">
-                <li value="01">The Lamb then broke the seventh seal, and there was silence in heaven for about half an hour.</li>
-                <li value="02">Next I saw <span style="color: #e6a64d;">seven trumpets</span> being given to the <span style="color: #e6a64d;">seven angels</span> who stand in the presence of god.</li>
-              </ol>
+            </blockquote>
           </article></section>
 
           <figure>
@@ -2469,9 +2473,11 @@
           <h5 class="yellow">the angel of the altar - <cite>Apocalypse</cite>, chapter 8 verses 3 to 5</h5>
 
           <section><article>
-            <ol class="doc">
-              <li value="03">Another angel, who had a <span style="color: #e6a64d;">golden censer</span>, came and stood at the altar. A large quantity of incense was given to him to offer with the prayers of all the saints on <span style="color: #e6a64d;">the golden altar</span> that stood in front of the throne;</li>
-            </ol>
+            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
+              <ol class="doc">
+                <li value="03">Another angel came and stood over the altar, having a <span style="color: #e6a64d;">golden censer</span>. Much incense was given to him, that he should add it to the prayers of all the saints on the <span style="color: #e6a64d;">golden altar</span> which was before the throne.</li>
+              </ol>
+            </blockquote>
           </article></section>
 
           <figure>
@@ -2495,10 +2501,12 @@
           </figure>
 
           <section><article>
-            <ol class="doc">
-              <li value="04">and so from the angel's hand the smoke of the incense went up in the presence of god and with it the prayers of the saints.</li>
-              <li value="05">Then the angel took the censer and filled it from the fire of the altar, which he then hurled down onto the earth; immediately there came peals of thunder and flashes of lightning, and the earth shook.</li>
-            </ol>
+            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
+              <ol class="doc">
+                <li value="04">The smoke of the incense, with the prayers of the saints, went up before God out of the angel's hand.</li>
+                <li value="05">The angel took the censer, and he filled it with the fire of the altar, and threw it on the earth. There followed thunders, sounds, lightnings, and an earthquake.</li>
+              </ol>
+            </blockquote>
           </article></section>
         </article></section>
 
@@ -2506,12 +2514,14 @@
           <h5 class="yellow">fall of the great mountain burning - <cite>Apocalypse</cite>, chapter 8 verses 6 to 9</h5>
 
           <section><article>
-            <ol class="doc">
-              <li value="06">The seven angels that had the seven trumpets now made ready to sound them.</li>
-              <li value="07">The first blew his trumpet and, with that, hail and fire, mixed with blood, were hurled on the earth: a third of the earth was burnt up, and a third of all trees, and every blade of grass was burnt.</li>
-              <li value="08">The second angel blew his trumpet, and it was as though <span style="color: #e6a64d;">a great mountain blazing with fire</span> was hurled into the sea: a third of the sea turned into blood,</li>
-              <li value="09">a third of all the living things in the sea were killed, and <span style="color: #e6a64d;">a third of all ships were destroyed</span>.</li>
-            </ol>
+            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
+              <ol class="doc">
+                <li value="06">The seven angels who had the seven trumpets prepared themselves to sound.</li>
+                <li value="07">The first sounded, and there followed hail and fire, mixed with blood, and they were thrown to the earth.One third of the earth was burnt up, and one third of the trees were burnt up, and all green grass was burnt up.</li>
+                <li value="08">The second angel sounded, and something like a <span style="color: #e6a64d;">great burning mountain</span> was thrown into the sea. One third of the sea became blood,</li>
+                <li value="09">and one third of the living creatures which were in the sea died. O<span style="color: #e6a64d;">ne third of the ships were destroyed</span>.</li>
+              </ol>
+            </blockquote>
           </article></section>
 
           <figure>
@@ -2539,9 +2549,11 @@
           <h5 class="yellow">the fall of the "wormwood" star - <cite>Apocalypse</cite>, chapter 8 verses 10 to 12</h5>
 
           <section><article>
-            <ol class="doc">
-              <li value="10">The third angel blew his trumpet, and <span style="color: #e6a64d;">a huge star fell from the sky, burning like a ball of fire</span>, and it fell on a third of all rivers and on the springs of water;</li>
-            </ol>
+            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
+              <ol class="doc">
+                <li value="10">The third angel sounded, and a <span style="color: #e6a64d;">great star fell from the sky, burning like a torch</span>, and it fell on one third of the rivers, and on the springs of the waters.</li>
+              </ol>
+            </blockquote>
           </article></section>
 
           <figure>
@@ -2565,23 +2577,27 @@
           </figure>
 
           <section><article>
-            <ol class="doc">
-              <li value="11">this was the star called «<span style="color: #e6a64d;">wormwood</span>», and a third of all water turned to wormwood, so that many people died; the water had become so bitter.</li>
-              <li value="12">The fourth angel blew his trumpet, and a third of the sun and a third of the moon and a third of the stars were blasted, so that the light went out of a third of them and the day lost a third of its illumination, and likewise the night.</li>
-            </ol>
+            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
+              <ol class="doc">
+                <li value="11">The name of the star is called «<span style="color: #e6a64d;">wormwood</span>». One third of the waters became wormwood. Many people died from the waters, because they were made bitter.</li>
+                <li value="12">The fourth angel sounded, and one third of the sun was struck, and one third of the moon, and one third of the stars; so that one third of them would be darkened, and the day wouldn't shine for one third of it, and the night in the same way.</li>
+              </ol>
+            </blockquote>
           </article></section>
         </article></section>
 
         <section><article>
           <h5 class="yellow">the flight of the eagle - <cite>Apocalypse</cite>, chapter 8 verse 13</h5>
           <section><article>
-            <ol class="doc">
-              <li value="13"><p>In my vision, I heard <span style="color: #e6a64d;">an eagle</span>, calling aloud as it flew high overhead:</p>
-              <p class="conversation">
-                “Disaster, disaster, disaster, on all the people on earth at the sound of the other three trumpets which the three angels have yet to blow!”.
-              </p>
-            </li>
-            </ol>
+            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
+              <ol class="doc">
+                <li value="13"><p>In my vision, I heard <span style="color: #e6a64d;">an eagle</span>, calling aloud as it flew high overhead:</p>
+                  <p class="conversation">
+                    “Disaster, disaster, disaster, on all the people on earth at the sound of the other three trumpets which the three angels have yet to blow!”.
+                  </p>
+                </li>
+              </ol>
+            </blockquote>
           </article></section>
 
           <figure>
@@ -4048,15 +4064,17 @@
             </article></section>
             <hr>
             <section><article>
-              <ol class="doc">
-                <li value="07">The first living creature was like a <span style="color: #e6a64d;">lion</span>, the second like a <span style="color: #e6a64d;">young bull</span>, the third living creature had a <span style="color: #e6a64d;">human face</span>, and the fourth living creature was like a <span style="color: #e6a64d;">flying eagle</span>.</li>
-                <li value="08">
-                  Each of the four living creatures had <span style="color: #e6a64d;">six wings</span> and was studded with eyes all the way round as well as inside; and day and night they never stopped singing:
-                  <p class="conversation">
-                    “Saint! saint! saint, le seigneur dieu, le souverain de l’univers, celui qui était, qui est et qui vient.”
-                  </p>
-                </li>
-              </ol>
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_4">
+                <ol class="doc">
+                  <li value="07">The first creature was like a <span style="color: #e6a64d;">lion</span>, and the second creature like a <span style="color: #e6a64d;">calf</span>, and the third creature had a <span style="color: #e6a64d;">face like a man</span>, and the fourth was like a <span style="color: #e6a64d;">flying eagle</span>.</li>
+                  <li value="08">
+                    <p>The four living creatures, each one of them having <span style="color: #e6a64d;">six wings</span>, are full of eyes around and within. They have no rest day and night, saying,</p>
+                    <p class="conversation">
+                      “Holy, holy, holy is the Lord God, the Almighty, who was and who is and who is to come!”.
+                    </p>
+                  </li>
+                </ol>
+              </blockquote>
             </article></section>
             <hr>
             <section><article><p>out</p>
@@ -4065,6 +4083,15 @@
                   <li value="10">the twenty-four elders prostrated themselves before him to worship the One who lives for ever and ever, and threw down their crowns in front of the throne, saying:</li>
                   <li value="11">«You are worthy, our Lord and God, to receive glory and honour and power, for you made the whole universe; by your will, when it did not exist, it was created.»</li>
                 </ol>
+            </article></section>
+            <hr>
+            <section><article>
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_5">
+                <ol class="doc">
+                  <li>chapter 5</li>
+                  <li value="01">I saw, in the right hand of him who sat on the throne, a <span style="color: #e6a64d;">book</span> written inside and outside, sealed shut with <span style="color: #e6a64d;">seven seals</span>.</li>
+                </ol>
+              </blockquote>
             </article></section>
             <hr>
             <section><article><p>out</p>
@@ -4087,10 +4114,12 @@
             </article></section>
             <hr>
             <section><article>
-              <ol class="doc">
-                <li value="06">Then I saw, in the middle of the throne with its four living creatures and the circle of the elders, a Lamb standing that seemed to have been sacrificed; it had seven horns, and it had seven eyes, which are the seven Spirits that God has sent out over the whole world.</li>
-                <li value="07">The Lamb came forward to take the scroll from the right hand of the One sitting on the throne,</li>
-              </ol>
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_5">
+                <ol class="doc">
+                  <li value="06">I saw in the midst of the throne and of the four living creatures, and in the midst of the elders, a <span style="color: #e6a64d;">Lamb</span> standing, as though it had been slain, having seven horns, and seven eyes, which are the seven Spirits of God, sent out into all the earth.</li>
+                  <li value="07">Then he came, and he took it out of the right hand of him who sat on the throne.</li>
+                </ol>
+              </blockquote>
             </article></section>
             <hr>
             <section><article><p>out</p>
@@ -4114,59 +4143,66 @@
             </article></section>
             <hr>
             <section><article>
-              <ol class="doc">
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_6">
+                <ol class="doc">
                   <li>chapter 6</li>
                   <li value="01">
-                    Then, in my vision, I saw the Lamb break one of the seven seals, and I heard one of the four living creatures shout in a voice like thunder:
+                    <p>I saw that the Lamb opened one of the seven seals, and I heard one of the four living creatures saying, as with a voice of thunder,</p>
+                    <p class="conversation">
+                      “Come and see!”
+                    </p>
+                  </li>
+                  <li value="02">And behold, a <span style="color: #e6a64d;">white horse</span>, and he who sat on it had a <span style="color: #e6a64d;">bow</span>. A <span style="color: #e6a64d;">crown</span> was given to him, and he came forth conquering, and to conquer.</li>
+                </ol>
+              </blockquote>
+            </article></section>
+            <hr>
+            <section><article>
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_6">
+                <ol class="doc">
+                  <li value="03"><p>When he opened the second seal, I heard the second living creature saying,</p>
                     <p class="conversation">
                       “Come!”
                     </p>
                   </li>
-                  <li value="02">Immediately I saw a <span style="color: #e6a64d;">white horse</span> appear, and its rider was holding a <span style="color: #e6a64d;">bow</span>; he was given a victor's <span style="color: #e6a64d;">crown</span> and he went away, to go from victory to victory.</li>
+                  <li value="04">Another came forth, a <span style="color: #e6a64d;">red horse</span>. To him who sat on it was given power to take peace from the earth, and that they should kill one another. There was given to him a great <span style="color: #e6a64d;">sword</span>.</li>
                 </ol>
+              </blockquote>
             </article></section>
             <hr>
             <section><article>
-              <ol class="doc">
-                <li value="03">When he broke the second seal, I heard the second living creature shout:
-                  <p class="conversation">
-                    “Come!”
-                  </p>
-                </li>
-                <li value="04">And out came another <span style="color: #e6a64d;">horse</span>, <span style="color: #e6a64d;">bright red</span>, and its rider was given this duty: to take away peace from the earth and set people killing each other. He was given a huge <span style="color: #e6a64d;">sword</span>.</li>
-              </ol>
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_6">
+                <ol class="doc">
+                  <li value="05">
+                    <p>When he opened the third seal, I heard the third living creature saying,</p>
+                    <p class="conversation">
+                      “Come and see!”
+                    </p>
+                    <p>And behold, a <span style="color: #e6a64d;">black horse</span>, and he who sat on it had a <span style="color: #e6a64d;"balance</span> in his hand.</p>
+                  </li>
+                  <li value="06">
+                  <p>I heard a voice in the midst of the four living creatures saying,</p>
+                    <p class="conversation">
+                      “Achoenix of wheat for a denarius, and three choenix of barley for a denarius! Don't damage the oil and the wine!”
+                    </p>
+                  </li>
+                </ol>
+              </blockquote>
             </article></section>
             <hr>
             <section><article>
-              <ol class="doc">
-                <li value="05">
-                  When he broke the third seal, I heard the third living creature shout:
-                  <p class="conversation">
-                    “Come!”
-                  </p>
-                Immediately I saw a <span style="color: #e6a64d;">black horse</span> appear, and its rider was holding a <span style="color: #e6a64d;">pair of scales</span>;
-                </li>
-                <li value="06">
-                  and I seemed to hear a voice shout from among the four living creatures and say:
-                  <p class="conversation">
-                    “A day's wages for a quart of corn, and a day's wages for three quarts of barley, but do not tamper with the oil or the wine.”
-                  </p>
-                </li>
-              </ol>
-            </article></section>
-            <hr>
-            <section><article>
-              <ol class="doc">
-                <li value="07">
-                  When he broke the fourth seal, I heard the voice of the fourth living creature shout:
-                <p class="conversation">
-                  “Come!”
-                </p>
-                </li>
-                <li value="08">
-                Immediately I saw another horse appear, <span style="color: #e6a64d;">deathly pale</span>, and its rider was called <span style="color: #e6a64d;">Death</span>, and Hades followed at its heels. </li>
-                <li>They were given authority over a <span style="color: #e6a64d;">quarter of the earth</span>, to kill by the sword, by famine, by plague and through wild beasts.</li>
-              </ol>
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_6">
+                  <ol class="doc">
+                    <li value="07">
+                      When he opened the fourth seal, I heard the fourth living creature saying,
+                      <p class="conversation">
+                        “Come and see!”
+                      </p>
+                    </li>
+                    <li value="08">And behold, a <span style="color: #e6a64d;">pale horse</span>, and he who sat on it, his name was <span style="color: #e6a64d;">Death</span>.<span style="color: #e6a64d;">Hades</span> followed with him.</li>
+                    <li>Authority over one fourth of the earth, to kill with the sword, with famine, with death, and by the wild animals of the earth was given to him.</li>
+                  </ol>
+                </blockquote>
               <footer>
                 <ol class="doc">
                   <li><span style="color: #999;">(…)</span></li>
@@ -4190,20 +4226,23 @@
             </article></section>
             <hr>
             <section><article>
-              <ol class="doc">
-                <li value="14">the sky disappeared like a scroll rolling up and all the mountains and islands were shaken from their places.</li>
-                <li value="15">Then all the <span style="color: #e6a64d;">kings of the earth, the governors and the commanders, the rich people and the men of influence, the whole population, slaves and citizens, hid in caverns and among the rocks of the mountains</span>.</li>
-                <li value="16">They said to the mountains and the rocks:
-                <p class="conversation">
-                  “Fall on us and hide us away from the One who sits on the throne and from the retribution of the Lamb.
-                </p>
-                </li>
-                <li value="17">
-                <p class="conversation">
-                  For the Great Day of his retribution has come, and who can face it?”
-                </p>
-                </li>
-              </ol>
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_6">
+                  <ol class="doc">
+                    <li value="14">The sky was removed like a scroll when it is rolled up. Every mountain and island were moved out of their places.</li>
+                    <li value="15"><span style="color: #e6a64d;">The kings of the earth, the princes, the commanding officers, the rich, the strong, and every slave and free person, hid themselves in the caves and in the rocks of the mountains</span>.</li>
+                    <li value="16">
+                      <p>They told the mountains and the rocks,</p>
+                      <p class="conversation">
+                        “Fall on us, and hide us from the face of him who sits on the throne, and from the wrath of the Lamb,
+                      </p>
+                    </li>
+                    <li value="17">
+                      <p class="conversation">
+                        for the great day of his wrath has come; and who is able to stand?”
+                      </p>
+                    </li>
+                  </ol>
+                </blockquote>
             </article></section>
             <hr>
             <section><article><p>out</p>
@@ -4266,40 +4305,59 @@
             </article></section>
             <hr>
             <section><article>
-              <ol class="doc">
-                <li>chapter 8</li>
-                <li value="01">The Lamb then broke the seventh seal, and there was silence in heaven for about half an hour.</li>
-                <li value="02">Next I saw <span style="color: #e6a64d;">seven trumpets</span> being given to the seven angels who stand in the presence of God.</li>
-              </ol>
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
+                <ol class="doc">
+                  <li>chapter 8</li>
+                  <li value="01">When he opened the seventh seal, there was silence in heaven for about half an hour.</li>
+                  <li value="02">I saw the <span style="color: #e6a64d;">seven angels</span> who stand before God, and <span style="color: #e6a64d;">seven trumpets</span> were given to them.</li>
+                </ol>
+              </blockquote>
             </article></section>
             <hr>
             <section><article>
-              <ol class="doc">
-                <li value="03">
-                  Another angel, who had a <span style="color: #e6a64d;">golden censer</span>, came and stood at the altar. A large quantity of incense was given to him to offer with the prayers of all the saints on the <span style="color: #e6a64d;">golden altar</span> that stood in front of the throne;
-                </li>
-              </ol>
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
+                <ol class="doc">
+                  <li value="03">Another angel came and stood over the altar, having a <span style="color: #e6a64d;">golden censer</span>. Much incense was given to him, that he should add it to the prayers of all the saints on the <span style="color: #e6a64d;">golden altar</span> which was before the throne.</li>
+                </ol>
+              </blockquote>
             </article></section>
             <hr>
             <section><article>
-              <ol class="doc">
-                <li value="04">and so from the angel's hand the smoke of the incense went up in the presence of God and with it the prayers of the saints.</li>
-                <li value="05">Then the angel took the censer and filled it from the fire of the altar, which he then hurled down onto the earth; immediately there came peals of thunder and flashes of lightning, and the earth shook.</li>
-                <li value="06">The seven angels that had the seven trumpets now made ready to sound them.</li>
-                <li value="07">The first blew his trumpet and, with that, hail and fire, mixed with blood, were hurled on the earth: a third of the earth was burnt up, and a third of all trees, and every blade of grass was burnt.</li>
-                <li value="08">The second angel blew his trumpet, and it was as though a <span style="color: #e6a64d;">great mountain blazing with fire</span> was hurled into the sea: a third of the sea turned into blood,</li>
-                <li value="09">a third of all the living things in the sea were killed, and <span style="color: #e6a64d;">a third of all ships were destroyed</span>.</li>
-              </ol>
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
+                <ol class="doc">
+                  <li value="04">The smoke of the incense, with the prayers of the saints, went up before God out of the angel's hand.</li>
+                  <li value="05">The angel took the censer, and he filled it with the fire of the altar, and threw it on the earth. There followed thunders, sounds, lightnings, and an earthquake.</li>
+                </ol>
+              </blockquote>
             </article></section>
             <hr>
             <section><article>
-              <ol class="doc">
-                <li value="10">The third angel blew his trumpet, and a <span style="color: #e6a64d;">huge star fell from the sky, burning like a ball of fire</span>, and it fell on a third of all rivers and on the springs of water.</li>
-                <li value="11">this was the star called “<span style="color: #e6a64d;">Wormwood</span>”, and a third of all water turned to wormwood, so that many people died; the water had become so bitter.</li>
-                <li value="12">The fourth angel blew his trumpet, and a third of the sun and a third of the moon and a third of the stars were blasted, so that the light went out of a third of them and the day lost a third of its illumination, and likewise the night.</li>
-              </ol>
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
+                <ol class="doc">
+                  <li value="06">The seven angels who had the seven trumpets prepared themselves to sound.</li>
+                  <li value="07">The first sounded, and there followed hail and fire, mixed with blood, and they were thrown to the earth.One third of the earth was burnt up, and one third of the trees were burnt up, and all green grass was burnt up.</li>
+                  <li value="08">The second angel sounded, and something like a <span style="color: #e6a64d;">great burning mountain</span> was thrown into the sea. One third of the sea became blood,</li>
+                  <li value="09">and one third of the living creatures which were in the sea died. O<span style="color: #e6a64d;">ne third of the ships were destroyed</span>.</li>
+                </ol>
+              </blockquote>
             </article></section>
             <hr>
+            <section><article>
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
+                <ol class="doc">
+                  <li value="10">The third angel sounded, and a <span style="color: #e6a64d;">great star fell from the sky, burning like a torch</span>, and it fell on one third of the rivers, and on the springs of the waters.</li>
+                </ol>
+              </blockquote>
+            </article></section>
+            <hr>
+            <section><article>
+              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
+                <ol class="doc">
+                  <li value="11">The name of the star is called «<span style="color: #e6a64d;">wormwood</span>». One third of the waters became wormwood. Many people died from the waters, because they were made bitter.</li>
+                  <li value="12">The fourth angel sounded, and one third of the sun was struck, and one third of the moon, and one third of the stars; so that one third of them would be darkened, and the day wouldn't shine for one third of it, and the night in the same way.</li>
+                </ol>
+              </blockquote>
+            </article></section>
             <section><article>
               <ol class="doc">
                 <li value="13">In my vision, I heard an <span style="color: #e6a64d;">eagle</span>, calling aloud as it flew high overhead:
