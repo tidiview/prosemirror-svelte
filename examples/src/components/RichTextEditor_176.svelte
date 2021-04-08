@@ -1604,7 +1604,7 @@
 
   <section><article>
     <p>La mise en scène se poursuit</p>
-    <p>Hérode fait mine que sa danse lui a plu. <span style="color: #e6a64d;">Pour se dégager de la responsabilité de la mort de Jean</span>, dit <span style="color: #999;">(Marc, chapître 6, versets 22 à 23):</p> 
+    <p>Hérode fait mine que sa danse lui a plu. <span style="color: #e6a64d;">Pour se dégager de la responsabilité de la mort de Jean</span>, dit <span style="color: #999;">(Marc, chapître 6, versets 22 à 24):</p> 
     <blockquote cite="https://www.aelf.org/bible/Mc/6#right-col">
       <ol class="doc">
         <li value="22">
@@ -1879,43 +1879,63 @@
 
       <section><article>
         <ul>
-          <li><p><a href="https://fr.wikipedia.org/wiki/Évangile_selon_Jean#Le_«_disciple_bien-aimé_»" title="https://fr.wikipedia.org/wiki/Évangile_selon_Jean#Le_«_disciple_bien-aimé_»" id="disciple-que-jesus-aimait-3" class="yellow">Le disciple que Jésus aimait</a> n'apparaît qu'à la fin de l'évangile dit “de Jean” <span style="color: #999;">(Jean chapître 21 verset 20; versets 24 à 25)</span>:</p>
-          <blockquote>
-            <p>“s’étant retourné, Pierre aperçoit, marchant à leur suite, <span style="color: #e6a64d;"><em>le disciple que Jésus aimait</em></span>.</p>
-            <p><span style="color: #999;">(…)</span></p>
-            <p>C’est <span style="color: #e6a64d;">ce disciple qui témoigne</span> de ces choses <span style="color: #e6a64d;">et qui les a écrites</span>.”</p>
+          <li><p><a href="https://fr.wikipedia.org/wiki/Évangile_selon_Jean#Le_«_disciple_bien-aimé_»" title="https://fr.wikipedia.org/wiki/Évangile_selon_Jean#Le_«_disciple_bien-aimé_»" id="disciple-que-jesus-aimait-3" class="yellow">Le disciple que Jésus aimait</a> n'apparaît qu'à la fin de l'évangile dit “de Jean” <span style="color: #999;">(Jean chapître 21 verset 20; verset 24)</span>:</p>
+          <blockquote cite="https://www.aelf.org/bible/Jn/21#right-col">
+            <ol class="doc">
+              <li value="20">
+                “s’étant retourné, Pierre aperçoit, marchant à leur suite, <span style="color: #e6a64d;text-decoration: underline;"><em>le disciple que Jésus aimait</em></span>.”
+              </li>
+              <li><span style="color: #999;">(…)</span></li>
+              <li value="24">
+                “C’est <span style="color: #e6a64d;">ce disciple qui témoigne</span> de ces choses <span style="color: #e6a64d;">et qui les a écrites</span>.”
+              </li>
+            </ol>
           </blockquote>
           <p>Aucun élément du texte ne permet de le nommer “Jean” donc l'apellation “évangile de Jean” ne peut être juste: en toute rigueur, ce devrait être l' “évangile du disciple que Jésus aimait”.</p>
           <p>C'est un personnage tout à fait extraordinaire: c'est un disciple de Jésus parmi d'autres auquel tout lecteur peut s'identifier, il est aimé de Jésus lui-même et se trouve donc plus proche de lui que n'importe qui d'autre.</p>
           <p>Il n'hésite d'ailleurs pas, juste après l'extrait précédent, à donner son opinion <span style="color: #999;">(Jean chapître 21 verset 25)</span>:</p>
-          <blockquote>
-            <p><q>Il y a encore beaucoup d’autres choses que Jésus a faites; et s’il fallait écrire chacune d’elles, <span style="color: #e6a64d;"><span style="text-decoration: underline;">je</span> pense que</span> le monde entier ne suffirait pas pour contenir les livres que l’on écrirait</q>.</p>
+          <blockquote cite="https://www.aelf.org/bible/Jn/21#right-col">
+            <ol class="doc">
+              <li value="25">
+                <p>“Il y a encore beaucoup d’autres choses que Jésus a faites; et s’il fallait écrire chacune d’elles, <span style="color: #e6a64d;"><span style="text-decoration: underline;">je</span> pense que</span> le monde entier ne suffirait pas pour contenir les livres que l’on écrirait.”</p>
+              </li>
+            </ol>
           </blockquote>
           </li>
           <li>
-            <p>Jésus lui-même, à l'occasion d'une question de Pierre, émet un souhait quant à son destin lors de la Cène <span style="color: #999;">(Jean chapître 21, versets 21 à 23)</span>:</p>
-            <blockquote>
-              <p>Pierre, voyant donc ce disciple, dit à Jésus:</p>
-              <blockquote>
-                <p>“Et lui, Seigneur, que lui arrivera-t-il?”</p>
-              </blockquote>
-              <p>Jésus lui répond:</p>
-              <blockquote>
-                <p>“Si <span style="color: #e6a64d;">je veux qu’il demeure jusqu’à ce que je vienne</span>, que t’importe?”.</p>
-              </blockquote>
+            <p>Jésus lui-même, à l'occasion d'une question de Pierre, émet un souhait quant à son destin lors de la Cène <span style="color: #999;">(Jean chapître 21, versets 21 à 22)</span>:</p>
+            <blockquote cite="https://www.aelf.org/bible/Jn/21#right-col">
+              <ol class="doc">
+                <li value="21">
+                  <p>Pierre, voyant donc ce disciple, dit à Jésus:</p>
+                  <p class="conversation">“Et lui, Seigneur, que lui arrivera-t-il?”</p>
+                </li>
+                <li value="22">
+                  <p>Jésus lui répond:</p>
+                  <p class="conversation">“Si <span style="color: #e6a64d;">je veux qu’il demeure jusqu’à ce que je vienne</span>, que t’importe?”.</p>
+                </li>
+              </ol>
             </blockquote>
           </li>
           <li>
-            <p>C'est également lui qui <q>couché sur le sein de Jésus</q>, lui demande qui va le trahir <span style="color: #999;">(Jean chapître 13 versets 23 à 26)</span>.</p>
+            <p>C'est également lui qui <q cite="https://www.aelf.org/bible/Jn/21#right-col">couché sur le sein de Jésus</q>, lui demande qui va le trahir <span style="color: #999;">(Jean chapître 13 versets 23 à 26)</span>.</p>
           </li>
           <li>
-            <p>Lors de la crucifixion, Jésus lui confie sa propre mère, en disant:</p>
-            <blockquote>
-              <p><q>Femme, voici ton fils</q></p>
-            </blockquote>
-            <p>puis à lui:</p>
-            <blockquote>
-              <p><q>Voici ta mère</q> <span style="color: #999;">(Jean chapître 19 versets 26 à 27)</span>.</p>
+            <p>Lors de la crucifixion, Jésus lui confie sa propre mère, en disant <span style="color: #999;">(Jean chapître 19 versets 26 à 27):</p>
+            <blockquote cite="https://www.aelf.org/bible/Jn/21#right-col">
+              <ol class="doc">
+                <li value="26">
+                  <p class="conversation">
+                    “Femme, voici ton fils.”
+                  </p>
+                </li>
+                <li value="27">
+                  <p>Puis il dit au disciple:</p>
+                  <p class="conversation">
+                    “Voici ta mère.”
+                  </p>
+                </li>
+              </ol>
             </blockquote>
           </li>
           <li>
