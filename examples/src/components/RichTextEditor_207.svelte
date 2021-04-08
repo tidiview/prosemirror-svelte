@@ -548,7 +548,7 @@
         <section><article>
           <p>On the back, on the left, the presence of a <span style="color: #e6a64d;">white lamb</span> allows us to identify <span style="color: #e6a64d;">the man wearing the</span> magnificent <span style="color: #e6a64d;">purple tunic</span> as <a href="https://en.wikipedia.org/wiki/John_the_Baptist" title="https://en.wikipedia.org/wiki/John_the_Baptist" id="jean-le-baptiste" class="yellow">John the Baptist</a>.</p>
           <p>The lamb recalls the word that John the Baptist spoke to his disciples to <span style="color #e6a64d;">announce</span> the coming of <span style="color: #e6a64d;">Jesus into the world</span> <span style="color: #999;">(John chapter 1 verse 29)</span>:
-          <blockquote>
+          <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#1:29" >
             <span style="color: #e6a64d;">«<ruby style="color:#e6a64d;" lang="en">This is&nbsp;the&nbsp;lamb&nbsp;of&nbsp;god<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce&nbsp;agnus&nbsp;dei</rt><rp>)</rp></ruby>»</span>.
           </blockquote>
           <p>In fact, John also refers with his right arm to the child Jesus.</p>
@@ -575,8 +575,8 @@
         <section><article>
           <p>The lamb is a new symbol of the christian faith.</p>
           <p>In contrast to the ancient hebraic faith, where, in order to please god, animals had to be sacrificed to him, christianity affirms that <span style="color: #e6a64d;">the only true sacrifice that pleases god</span> is that which <span style="color: #e6a64d;">the believer makes of himself</span>, in imitation of Jesus and in reference to this word of the prophet <a href="https://en.wikipedia.org/wiki/Isaiah" title="https://en.wikipedia.org/wiki/Isaiah" id="isaie" class="yellow">Isaiah</a> <span style="color: #999;">(Isaiah, chapter 53 verset 7)</span>:</p>
-          <blockquote>
-            <span style="color: #e6a64d;">«Abused, he humbles himself, he does not open his mouth: like <span style="text-decoration: underline;">a lamb</span> leads to the slaughterhouse»</span>.
+          <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Isaiah#53:7">
+            <span style="color: #e6a64d;">«afflicted he didn't open his mouth. As a <span style="text-decoration: underline;">lamb</span> that is led to the slaughter»</span>.
           </blockquote>
           <p>Under his purple tunic is <span style="color: #e6a64d;">another tunic</span>, light brown, which the text tells us is <span style="color: #e6a64d;">camel hair</span> <span style="color: #999;">(Mark chapter 1 verse 6)</span>, imitating the hair garment of the prophet <a href="https://en.wikipedia.org/wiki/Elijah" title="https://en.wikipedia.org/wiki/Elijah" id="elie" class="yellow">Elijah</a> <span style="color: #999;">(2 Kings chapter 1 verse 8)</span>.</p>
           <p>This same hair garment also refers to an episode of Genesis <span style="color: #999;">(Genesis chapter 27 verses 1 to 40)</span> during which <a href="https://en.wikipedia.org/wiki/Jacob" title="https://en.wikipedia.org/wiki/Jacob" id="jacob" class="yellow">Jacob</a>, on the advice of his mother <a href="https://en.wikipedia.org/wiki/Rebecca" title="https://en.wikipedia.org/wiki/Rebecca" id="rebecca" class="yellow">Rebecca</a>, poses as his brother <a href="https://en.wikipedia.org/wiki/Esau" title="https://en.wikipedia.org/wiki/Esau" id="esau" class="yellow">Esau</a> who is very <span style="color: #e6a64d;">hairy</span>, with his blind father, <a href="https://en.wikipedia.org/wiki/Isaac" title="https://en.wikipedia.org/wiki/Isaac" id="isaac" class="yellow">Isaac</a>, by wearing <span style="color: #e6a64d;">a hair garment</span>.</p>
@@ -612,9 +612,9 @@
           <p>We recognize <a href="https://en.wikipedia.org/wiki/John_the_Apostle" title="https://en.wikipedia.org/wiki/John_the_Apostle" id="jean-l-evangeliste" class="yellow">John the Evangelist</a> as an episode of the <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" id="legende-doree-2" class="yellow">“Golden Legend”</a> <span style="color: #999;">(chapter 9)</span>, which we report <a href="#aristodeme" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" id="renvoi-aristodeme" class="yellow">here</a>.</p>
           <p>John faces <span style="color: #e6a64d;">Aristodemus</span>, priest of the temple of Diana in Asia <span style="color: #999;">(probably Ephesus)</span>, who publicly challenges him to <span style="color: #e6a64d;">drink</span> a <span style="color: #e6a64d;">poisoned cup</span>.</p>
           <p>The later makes, as Memling represents him, the <span style="color: #e6a64d;">sign of the cross</span>, drinks the cup but the poison does him no harm.</p>
-          <p>The <span style="color: #e6a64d;">serpent</span> also refers to a word that Jesus addressed to <a href="https://en.wikipedia.org/wiki/Nicodemus" title="https://en.wikipedia.org/wiki/Nicodemus" id="nicodeme" class="yellow">Nicodemus</a> <span style="color: #999;">(John chapter 3 verse 14)</span>:</p>
-          <blockquote>
-            <span style="color: #e6a64d;"><q>As Moses raised the serpent in the wilderness, so must the son of man be raised up, so that whoever believes may have eternal life in him</q></span>.
+          <p>The <span style="color: #e6a64d;">serpent</span> also refers to a word that Jesus addressed to <a href="https://en.wikipedia.org/wiki/Nicodemus" title="https://en.wikipedia.org/wiki/Nicodemus" id="nicodeme" class="yellow">Nicodemus</a> <span style="color: #999;">(John chapter 3 verses 14 to 15)</span>:</p>
+          <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#Chapter_3">
+            <span style="color: #e6a64d;">“As Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up, that whoever believes in him should not perish, but have eternal life.”</span>.
           </blockquote>
         </article></section>
       </article></section>
@@ -686,7 +686,7 @@
           The latter replied, fortifying her in her nascent faith, visiting her and secretly giving her the <span style="color: #e6a64d;">baptism</span>.</p>
           <p>Publicly <span style="color: #e6a64d;">denounced</span> later for refusing to sacrifice to the gods, she was martyred.
           Jesus' voice would then have been heard from heaven:</p>
-          <blockquote>
+          <blockquote cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende">
             <span style="color: #e6a64d;">«Come, my beloved; rest in my father's house in heaven»</span>.
           </blockquote>
           <p>His own father cuts off her head.</p>
@@ -898,8 +898,8 @@
           <p>We who look at the painting find ourselves de facto in the space of the painting, part of the sacred conversation, in the presence of the protagonists of the scene represented, in this relationship of simple, transparent, familiar otherness.</p>
           <p>From this point of view, Memling's work functions as <span style="color: #e6a64d;">a mirror of life</span>:</p>
           <ul>
-            <li>On the one hand the viewers of the triptych, whether they were patients at St John's Hospital in Memling's time or us today <span style="color: #e6a64d;">"<em>conversing</em>"</span> with the figures depicted,</li>
-            <li>on the other these <span style="color: #e6a64d;">"<em>act</em>"</span> here and now, as Bruges men and women of <time datetime="1479">1479</time> or visitors to the Memling Museum of the 21<sup>st</sup> century.</li>
+            <li>On the one hand the viewers of the triptych, whether they were patients at St John's Hospital in Memling's time or us today <span style="color: #e6a64d;">“<em>conversing</em>”</span> with the figures depicted,</li>
+            <li>on the other these <span style="color: #e6a64d;">“<em>act</em>”</span> here and now, as Bruges men and women of <time datetime="1479">1479</time> or visitors to the Memling Museum of the 21<sup>st</sup> century.</li>
           </ul>
         </article></section>
       </article></section>
@@ -911,7 +911,7 @@
           <p><span style="color: #e6a64d;">spiritual simplicity, evidence, ideality also produce</span> in a continuous <em>way</em> <span style="color: #e6a64d;">material sophistication and opulence</span>.</p>
           <p><a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" id="renvoi-de-vos-2" class="yellow">Dirk DE VOS</a> mentions:</p>
           <blockquote>
-            <span style="color: #e6a64d;">"a world of virgins clad in gold brocade, silk and ermine, golden crowns and rare precious stones"</span> where <span style="color: #e6a64d;">"the infant Jesus beckons"</span> to the sick in an <span style="color: #e6a64d;">"atmosphere imbued with profound serenity"</span>.
+            <span style="color: #e6a64d;">“a world of virgins clad in gold brocade, silk and ermine, golden crowns and rare precious stones”</span> where <span style="color: #e6a64d;">"the infant Jesus beckons"</span> to the sick in an <span style="color: #e6a64d;">"atmosphere imbued with profound serenity"</span>.
           </blockquote>
           <p>In fact, in Bruges in the 15<sup>th</sup> century, simplicity and the obvious knew no bounds, leading <em>wonderfully</em> to the divine.</p>
         </article></section>
@@ -1350,20 +1350,21 @@
                 <p>The name of this son, «John», is also one of the issues in the story <span style="color: #999;">(Luke chapter 1 verses 59 to 63)</span>:</p>
               </article></section>
               <section><article>
-                <blockquote>
-                  <p>«On the eighth day they came for the circumcision of the child, and they wanted to call him Zechariah, after his father's name. But his mother spoke up and said:</p>
-                  <p><span style="color: #e6a64d;"><q>No, his name will be John.</q></span></p>
-                  <p>We tell him:</p>
-                  <p><span style="color: #e6a64d;"><q>No one in your family has that name!</q></p>
+                <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Luke#1:59">
+                  <section><article>
+                    <p>«It happened on the eighth day, that they came to circumcise the child; and they would have called him Zacharias, after the name of the father. His mother answered,</p>
+                    <p class="conversation"><span style="color: #e6a64d;">“No, his name will be John.”</span></p>
+                    <p>We tell him:</p>
+                    <p class="conversation"><span style="color: #e6a64d;">“No one in your family has that name!”</span></p>
+                  </article></section>
+                  <section>
+                    <p><span style="color: #999;">(…)</span></p>
+                  </section>
+                  <section><article>
+                    <p>Zechariah had a tablet given to him and wrote on it:</p>
+                    <p class="conversation"><span style="color: #e6a64d;">“John is his name.”</span>»</p>
+                  </article></section>
                 </blockquote>
-                <footer>
-                  <p></span> <span style="color: #999;">(…)</span>.</p>
-                </footer>
-              </article></section>
-              <section><article>
-                  <p>Zechariah had a tablet given to him and wrote on it:</p>
-                  <p><span style="color: #e6a64d;"><q>John is his name.</q></span>»</p>
-              </article></section>
               <section><article>
                 <p>From the point of view of faith, <span style="color: #e6a64d;">John the Baptist</span> therefore <span style="color: #e6a64d;">comes into the world according to god's will</span>.</p>
               </article></section>
