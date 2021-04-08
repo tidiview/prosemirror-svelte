@@ -915,11 +915,11 @@ export const ExtendedThreerichTextSchema = new Schema({
       toDOM(node) { let {styles, cite} = node.attrs ; return styles == "" ? cite == "" ? ["q", 0] : ["q", {"cite": cite}, 0] : cite == "" ? ["q", {"style": styles}, 0] : ["q", {"style": styles, "cite": cite}, 0] },
     },
     span: {
-      attrs: {color: {default: null}, title: {default: null}},
+      attrs: {styles: {default: null}, title: {default: null}},
       parseDOM: [{tag: "span", getAttrs(dom) {
-        return {color: dom.style["color"], title: dom.title}
+        return {styles: dom.getAttribute("style"), title: dom.title}
       }}],
-      toDOM(node) { let {color, title} = node.attrs ; return color == "" ? title == "" ? ["span", 0] : ["span", {"title": title}, 0] : title == "" ? ["span", {"style": "color:" + color}, 0] : ["span", {"style": "color:" + color,"title": title}, 0]  },
+      toDOM(node) { let {styles, title} = node.attrs ; return styles == "" ? title == "" ? ["span", 0] : ["span", {"title": title}, 0] : title == "" ? ["span", {"style": styles}, 0] : ["span", {"style": styles,"title": title}, 0]  },
     },
   },
 });
