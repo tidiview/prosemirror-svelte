@@ -732,13 +732,12 @@ export const ExtendedThreerichTextSchema = new Schema({
     paragraph: {
       content: "inline*",
       group: "block",
-      attrs: {color: {default: null}},
-      parseDOM: [{tag: "p", getAttrs(dom) {
-        return {color: dom.style["color"]} }},{tag: "dl dt"},{tag: "dd"}],
-      toDOM(node) { let {color} = node.attrs ; return color == "" ? ["p", 0] : ["p", {"style": "color:" + color}, 0] },
+      attrs: {classe: {default: null}, color: {default: null}, flag: {default: null}},
+      parseDOM: [{tag: "p.conversation", getAttrs(dom) { return {classe: dom.getAttribute("class"), color: dom.style["color"], flag: true} }},{tag: "p", getAttrs(dom) { return {color: dom.style["color"]} }},{tag: "dl dt"},{tag: "dd"}],
+      toDOM(node) { let {classe, color, flag} = node.attrs ; return flag == true ? color == "" ? ["p", {"class": classe}, 0] : ["p", {"class": classe, "style": "color:" + color}, 0] : color == "" ? ["p", 0] : ["p", {"style": "color:" + color}, 0] },
     },
     blockquote: {
-      content: "inline*",
+      content: "block*",
       group: "block",
       defining: true,
       attrs: { color: {default: null}, cite: {default: null}},
