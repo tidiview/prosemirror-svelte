@@ -521,7 +521,7 @@
           <p>He struggles to maintain his dignity and, defeated at the end of a long spiritual battle full of twists and turns, proposes to her to marry him.</p>
           <p>Catherine, in the name of her faith, refused and chose to undergo martyrdom.</p>
           <p>At the time of his execution, Jesus' own voice would then have been heard from heaven to tell him:</p>
-          <blockquote>
+          <blockquote cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende">
             <span style="color: #e6a64d;">«Come, my beloved, my beautiful one!»</span>
           </blockquote>
           <p>Due to the presence of Saint Catherine, the triptych has sometimes been called <span style="color: #e6a64d;">“the mystical marriage of Saint Catherine”</span> <sup id="fnref1:5"><a href="#fn:5" class="footnote-ref">note 3</a></sup>.</p>
