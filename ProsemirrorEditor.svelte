@@ -204,6 +204,7 @@
     margin-block-end: 1em;
     margin-block-start: 1em;
     margin-inline-start: 32px;
+    vertical-align: bottom!important;
 }
 
 :global(p.puce::marker) {
