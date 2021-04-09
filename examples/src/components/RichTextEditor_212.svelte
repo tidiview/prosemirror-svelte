@@ -14,7 +14,7 @@
 
     <section><article>
       <ol>
-        <li><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#description-right-shutter">Back to: Overview of the right inner shutter: John bears witness to <cite>The Apocalypse</cite> on Patmos. ↩<</a></li>
+        <li><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#description-right-shutter">Back to: Overview of the right inner shutter: John bears witness to <cite>The Apocalypse</cite> on Patmos. ↩</a></li>
       </ol>
     </article></section>
 
@@ -42,7 +42,10 @@
           </ol>
         </blockquote>
         <footer>
-          <p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-4-2">Back to text in the article ↩</a></p>
+          <ul>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-4-2">Back to related text ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#image-apocalypse-4-2">Back to related image ↩</a></p></li>
+          </ul>
         </footer>
       </article></section>
       <hr>
@@ -59,7 +62,10 @@
           </ol>
         </blockquote>
         <footer>
-          <p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-4-7">Back to text in the article ↩</a></p>
+          <ul>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-4-7">Back to related text ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#image-apocalypse-4-2">Back to related image ↩</a></p></li>
+          </ul>
         </footer>
       </article></section>
       <hr>
@@ -79,7 +85,10 @@
           </ol>
         </blockquote>
         <footer>
-          <p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-5-1">Back to text in the article ↩</a></p>
+          <ul>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-5-1">Back to related text ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#image-apocalypse-4-2">Back to related image ↩</a></p></li>
+          </ul>
         </footer>
       </article></section>
       <hr>
@@ -108,7 +117,10 @@
           </ol>
         </blockquote>
         <footer>
-          <p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-5-6">Back to text in the article ↩</a></p>
+          <ul>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-5-6">Back to related text ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#image-apocalypse-4-2">Back to related image ↩</a></p></li>
+          </ul>
         </footer>
       </article></section>
       <hr>
@@ -146,7 +158,10 @@
           </ol>
         </blockquote>
         <footer>
-          <p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-6-1">Back to text in the article ↩</a></p>
+          <ul>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-6-1">Back to related text ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-1">Back to related image ↩</a></p></li>
+          </ul>
         </footer>
       </article></section>
       <hr>
@@ -162,7 +177,10 @@
           </ol>
         </blockquote>
         <footer>
-          <p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-6-3">Back to text in the article ↩</a></p>
+          <ul>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:11#renvoi-apocalypse-6-3">Back to related text ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-3">Back to related image ↩</a></p></li>
+          </ul>
         </footer>
       </article></section>
       <hr>
@@ -185,7 +203,10 @@
           </ol>
         </blockquote>
         <footer>
-          <p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-6-5">Back to text in the article ↩</a></p>
+          <ul>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:11#renvoi-apocalypse-6-5">Back to related text ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-5">Back to related image ↩</a></p></li>
+          </ul>
         </footer>
       </article></section>
       <hr>
@@ -203,7 +224,10 @@
             </ol>
           </blockquote>
         <footer>
-          <p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-6-7">Back to text in the article ↩</a></p>
+          <ul>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:11#renvoi-apocalypse-6-7">Back to related text ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-7">Back to related image ↩</a></p></li>
+          </ul>
         </footer>
       </article></section>
       <hr>
@@ -241,7 +265,10 @@
           </ol>
         </blockquote>
         <footer>
-          <p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-6-14">Back to text in the article ↩</a></p>
+          <ul>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:11#renvoi-apocalypse-6-14">Back to related text ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-14">Back to related image ↩</a></p></li>
+          </ul>
         </footer>
       </article></section>
       <hr>
@@ -313,7 +340,10 @@
           </ol>
         </blockquote>
         <footer>
-          <p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-8-1">Back to text in the article ↩</a></p>
+          <ul>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-1">Back to related text ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-1">Back to related image ↩</a></p></li>
+          </ul>
         </footer>
       </article></section>
       <hr>
@@ -324,7 +354,10 @@
           </ol>
         </blockquote>
         <footer>
-          <p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-8-3">Back to text in the article ↩</a></p>
+          <ul>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-3">Back to related text ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-3">Back to related image ↩</a></p></li>
+          </ul>
         </footer>
       </article></section>
       <hr>
@@ -336,7 +369,10 @@
           </ol>
         </blockquote>
         <footer>
-          <p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-8-4">Back to text in the article ↩</a></p>
+          <ul>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-4">Back to related text ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-4">Back to related image ↩</a></p></li>
+          </ul>
         </footer>
       </article></section>
       <hr>
@@ -350,7 +386,10 @@
           </ol>
         </blockquote>
         <footer>
-          <p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-8-6">Back to text in the article ↩</a></p>
+          <ul>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-6">Back to related text ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-4">Back to related image ↩</a></p></li>
+          </ul>
         </footer>
       </article></section>
       <hr>
@@ -361,7 +400,10 @@
           </ol>
         </blockquote>
         <footer>
-          <p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-8-10">Back to text in the article ↩</a></p>
+          <ul>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-10">Back to related text ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-10">Back to related image ↩</a></p></li>
+          </ul>
         </footer>
       </article></section>
       <hr>
@@ -373,7 +415,10 @@
           </ol>
         </blockquote>
         <footer>
-          <p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-8-11">Back to text in the article ↩</a></p>
+          <ul>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-11">Back to related text ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-10">Back to related image ↩</a></p></li>
+          </ul>
         </footer>
       </article></section>
       <hr>
@@ -388,7 +433,10 @@
           </ol>
         </blockquote>
         <footer>
-          <p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-8-13">Back to text in the article ↩</a></p>
+          <ul>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-13">Back to related text ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-13">Back to related image ↩</a></p></li>
+          </ul>
         </footer>
       </article></section>
       <hr>
@@ -402,7 +450,10 @@
           </ol>
         </blockquote>
         <footer>
-          <p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-9-1">Back to text in the article ↩</a></p>
+          <ul>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-9-1">Back to related text ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-9-1">Back to related image ↩</a></p></li>
+          </ul>
         </footer>
       </article></section>
       <hr>
@@ -420,7 +471,11 @@
             <li value="11">They have over them as king the angel of the abyss. His name in Hebrew is “Abaddon”, but in Greek, he has the name “Apollyon” (which means: Destructor).</li>
           </ol>
         </blockquote>
-          <p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-9-4">Back to text in the article ↩</a></p>
+        <footer>
+          <ul>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#renvoi-apocalypse-9-4">Back to related text ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-9-1">Back to related image ↩</a></p></li>
+          </ul>
         </footer>
       </article></section>
       <hr>
@@ -455,7 +510,10 @@
           </ol>
         </blockquote>
         <footer>
-          <p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-10-1">Back to text in the article ↩</a></p>
+          <ul>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#renvoi-apocalypse-10-1">Back to related text ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-10-1">Back to related image ↩</a></p></li>
+          </ul>
         </footer>
       </article></section>
       <hr>
@@ -472,7 +530,9 @@
             </li>
           </ol>
         </blockquote>
-          <p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-10-4">Back to text in the article ↩</a></p>
+          <p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#renvoi-apocalypse-10-4">Back to related text ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-10-4">Back to related image ↩</a></p></li>
+        </ul>
         </footer>
       </article></section>
       <hr>
@@ -598,7 +658,10 @@
           </ol>
         </blockquote>
         <footer>
-          <p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-12-1">Back to text in the article ↩</a></p>
+          <ul>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#renvoi-apocalypse-12-1">Back to related text ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-12-1">Back to related image ↩</a></p></li>
+          </ul>
         </footer>
       </article></section>
       <hr>
@@ -614,7 +677,10 @@
           </ol>
         </blockquote>
         <footer>
-          <p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-12-5">Back to text in the article ↩</a></p>
+          <ul>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#renvoi-apocalypse-12-5">Back to related text ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-12-5">Back to related image ↩</a></p></li>
+          </ul>
         </footer>
       </article></section>
       <hr>
@@ -642,7 +708,10 @@
           </ol>
         </blockquote>
         <footer>
-          <p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-12-10">Back to text in the article ↩</a></p>
+          <ul>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:14#renvoi-apocalypse-12-10">Back to related text ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:14#image-apocalypse-12-10">Back to related image ↩</a></p></li>
+          </ul>
         </footer>
       </article></section>
       <hr>
