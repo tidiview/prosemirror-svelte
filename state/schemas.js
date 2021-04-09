@@ -882,7 +882,7 @@ export const ExtendedThreerichTextSchema = new Schema({
       },
       inclusive: false,
       parseDOM: [{tag: "a[href]", getAttrs(dom) {
-        return {href: dom.getAttribute("href"), title: dom.getAttribute("title"), id: dom.getAttribute("id")}
+        return {href: dom.getAttribute("href"), title: dom.getAttribute("title") == null ? dom.getAttribute("href") : dom.getAttribute("title"), id: dom.getAttribute("id")}
       }}],
       toDOM(node) { let {href, title, id} = node.attrs; return id == "" ? ["a", {href, title}, 0] : ["a", {href, title, id}, 0] }
     },
