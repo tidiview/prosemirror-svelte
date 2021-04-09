@@ -2090,7 +2090,7 @@
               </ol>
             </header>
 
-            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_4">
+            <blockquote id="renvoi-apocalypse-4-2" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-4-2">
               <ol class="doc">
                 <li value="02">Immediately I was in the <span style="color: #e6a64d;">Spirit</span>. Behold, there was a <span style="color: #e6a64d;">throne</span> set in <span style="color: #e6a64d;">heaven</span>, and <span style="color: #e6a64d;">one</span> sitting on the throne</li>
                 <li value="03">that looked like a jasper stone and a sardius. There was a <span style="color: #e6a64d;">rainbow</span> around the throne, like an emerald to look at.</li>
@@ -2123,7 +2123,7 @@
 
           <section><article>
             <section><article>
-              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_4">
+              <blockquote id="renvoi-apocalypse-4-7" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-4-7">
                 <ol class="doc">
                   <li value="07">The first creature was like a <span style="color: #e6a64d;">lion</span>, and the second creature like a <span style="color: #e6a64d;">calf</span>, and the third creature had a <span style="color: #e6a64d;">face like a man</span>, and the fourth was like a <span style="color: #e6a64d;">flying eagle</span>.</li>
                   <li value="08">
@@ -2141,7 +2141,7 @@
               </footer>
             </article></section>
             <section><article>
-              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_5">
+              <blockquote id="renvoi-apocalypse-5-1" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-5-1">
                 <ol class="doc">
                   <li>chapter 5</li>
                   <li value="01">I saw, in the right hand of him who sat on the throne, a <span style="color: #e6a64d;">book</span> written inside and outside, sealed shut with <span style="color: #e6a64d;">seven seals</span>.</li>
@@ -2154,7 +2154,7 @@
               </footer>
             </article></section>
             <section><article>
-              <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_5">
+              <blockquote id="renvoi-apocalypse-5-6" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-5-6">
                 <ol class="doc">
                   <li value="06">I saw in the midst of the throne and of the four living creatures, and in the midst of the elders, a <span style="color: #e6a64d;">Lamb</span> standing, as though it had been slain, having seven horns, and seven eyes, which are the seven Spirits of God, sent out into all the earth.</li>
                   <li value="07">Then he came, and he took it out of the right hand of him who sat on the throne.</li>
@@ -2229,7 +2229,7 @@
                 </article></section>
 
                 <section><article>
-                  <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_6">
+                  <blockquote id="renvoi-apocalypse-6-1" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-6-1">
                     <ol class="doc">
                       <li>chapter 6</li>
                       <li value="01">
@@ -2270,7 +2270,7 @@
               <h6 class="yellow">second seal: the fiery red horse - <cite>Apocalypse</cite>, chapter 6 verses 3 to 4</h6>
 
               <section><article>
-                <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_6">
+                <blockquote id="renvoi-apocalypse-6-3" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-6-3">
                   <ol class="doc">
                     <li value="03"><p>When he opened the second seal, I heard the second living creature saying,</p>
                       <p class="conversation">
