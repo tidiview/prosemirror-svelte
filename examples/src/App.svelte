@@ -118,6 +118,7 @@
   import RichTextEditor_215 from "./components/RichTextEditor_215.svelte";
   import RichTextEditor_216 from "./components/RichTextEditor_216.svelte";
   import RichTextEditor_217 from "./components/RichTextEditor_217.svelte";
+  import RichTextEditor_218 from "./components/RichTextEditor_218.svelte";
 
   import ProsemirrorLogo from "./components/ProsemirrorLogo.svelte"
   import SvelteLogo from "./components/SvelteLogo.svelte"
@@ -832,6 +833,12 @@
       title: 'Rich text 217: Extending schema',
       subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
       component: RichTextEditor_217
+    },
+    "richtext_218": {
+      name: "#118: Extending schema to Html ruby tag, tables, coloured blockquotes",
+      title: 'Rich text 218: Extending schema',
+      subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
+      component: RichTextEditor_218
     },
   }
 
