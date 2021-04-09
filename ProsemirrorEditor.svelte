@@ -197,4 +197,18 @@
   :global(.conversation:last-child) {
   margin-block-end: 1em;
 }
+
+:global(.puce) {
+    display: list-item;
+    padding-inline-start: 0.5em;
+    margin-block-end: 1em;
+    margin-block-start: 1em;
+    margin-inline-start: 32px;
+}
+
+:global(p.puce::marker) {
+    display: list-item;
+    content: "•";
+    font-size: 1.25em;
+}
 </style>
