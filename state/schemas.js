@@ -740,10 +740,10 @@ export const ExtendedThreerichTextSchema = new Schema({
       content: "block*",
       group: "block",
       defining: true,
-      attrs: { color: {default: null}, cite: {default: null}},
-      parseDOM: [{tag: "blockquote", getAttrs(dom) {return {color: dom.getAttribute("class"), cite: dom.getAttribute("cite")}} }],
-      toDOM(node) { let {color, cite} = node.attrs; return color == "" ? cite == "" ? ["blockquote", 0] : ["blockquote", {cite}, 0] : cite == "" ? ["blockquote", {"class": color}, 0] : ["blockquote", {cite, "class": color}, 0] },
-    },
+      attrs: { color: {default: null}, cite: {default: null}, id: {default: null}},
+      parseDOM: [{tag: "blockquote", getAttrs(dom) {return {color: dom.getAttribute("class"), cite: dom.getAttribute("cite"), id: dom.id}} }],
+      toDOM(node) { let {color, cite, id} = node.attrs; return color == "" ? cite == "" ? ["blockquote", 0] : ["blockquote", {cite, id}, 0] : cite == "" ? ["blockquote", {"class": color}, 0] : ["blockquote", {id, cite, "class": color}, 0] },
+    }, /* attibutes cite and id are linked: if there is cite, there is id */
     heading: {
       content: "inline*",
       group: "block",
