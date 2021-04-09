@@ -2077,11 +2077,17 @@
         </article></section>
 
         <section><article>
-          <h5 class="yellow">Vision of the throne of god, the heavenly court and the lamb - <cite>Apocalypse</cite>, from chapter 4 verse 2 to chapter 6 verse 1</h5>
+          <p>We choose to follow John's own way to tell <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref">note 3</a></sup> the unveiling in the text <span style="color: #999;">(Apocalypse chapter 4 verse 2 and verse 6)</span>, which begins at the top left of the shutter: this way it is possible to compare the text with Memling's representation of it.</p>
+        </article></section>
 
-          <section><article>
-            <p>We choose to follow John's own way to tell <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref">note 3</a></sup> the unveiling in the text <span style="color: #999;">(Apocalypse chapter 4 verse 2 and verse 6)</span>, which begins at the top left of the shutter: this way it is possible to compare the text with Memling's representation of it.</p>
-          </article></section>
+        <section><article>
+          <ol>
+            <li>Read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse">Excerpt of the text of <cite>The Apocalypse</cite> related to its representation of John in Patmos on the left shutter by Hans Memling.</a></li>
+          </ol>
+        </article></section>
+
+        <section><article>
+          <h5 class="yellow">Vision of the throne of god, the heavenly court and the lamb - <cite>Apocalypse</cite>, from chapter 4 verse 2 to chapter 6 verse 1</h5>
 
           <section><article>
             <header>
@@ -2308,7 +2314,7 @@
               <h6 class="yellow">third seal: the black horse - <cite>Apocalypse</cite>, chapter 6 verses 5 to 6</h6>
 
               <section><article>
-                <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_6">
+                <blockquote id="renvoi-apocalypse-6-5" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-6-5">
                   <ol class="doc">
                     <li value="05">
                       <p>When he opened the third seal, I heard the third living creature saying,</p>
@@ -2352,7 +2358,7 @@
               <h6 class="yellow">fourth seal: the greenish horse - <cite>Apocalypse</cite>, chapter 6 verses 7 to 8</h6>
 
               <section><article>
-                <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_6">
+                <blockquote id="renvoi-apocalypse-6-7" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-6-7">
                   <ol class="doc">
                     <li value="07">
                       When he opened the fourth seal, I heard the fourth living creature saying,
@@ -2391,7 +2397,7 @@
               <h6 class="yellow">landscape around the four horsemen - <cite>Apocalypse</cite>, chapter 6 verses 14 to 17</h6>
 
               <section><article>
-                <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_6">
+                <blockquote id="renvoi-apocalypse-6-14" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-6-14">
                   <ol class="doc">
                     <li value="14">The sky was removed like a scroll when it is rolled up. Every mountain and island were moved out of their places.</li>
                     <li value="15"><span style="color: #e6a64d;">The kings of the earth, the princes, the commanding officers, the rich, the strong, and every slave and free person, hid themselves in the caves and in the rocks of the mountains</span>.</li>
@@ -2439,7 +2445,7 @@
           <h5 class="yellow">the angels of the seventh seal - <cite>Apocalypse</cite>, chapter 8 verses 1 to 2</h5>
 
           <section><article>
-            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
+            <blockquote id="renvoi-apocalypse-8-1" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-1">
               <ol class="doc">
                 <li>chapter 8</li>
                 <li value="01">When he opened the seventh seal, there was silence in heaven for about half an hour.</li>
@@ -2473,7 +2479,7 @@
           <h5 class="yellow">the angel of the altar - <cite>Apocalypse</cite>, chapter 8 verses 3 to 5</h5>
 
           <section><article>
-            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
+            <blockquote id="renvoi-apocalypse-8-3" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-3">
               <ol class="doc">
                 <li value="03">Another angel came and stood over the altar, having a <span style="color: #e6a64d;">golden censer</span>. Much incense was given to him, that he should add it to the prayers of all the saints on the <span style="color: #e6a64d;">golden altar</span> which was before the throne.</li>
               </ol>
@@ -2501,7 +2507,7 @@
           </figure>
 
           <section><article>
-            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
+            <blockquote id="renvoi-apocalypse-8-4" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-4">
               <ol class="doc">
                 <li value="04">The smoke of the incense, with the prayers of the saints, went up before God out of the angel's hand.</li>
                 <li value="05">The angel took the censer, and he filled it with the fire of the altar, and threw it on the earth. There followed thunders, sounds, lightnings, and an earthquake.</li>
@@ -2514,7 +2520,7 @@
           <h5 class="yellow">fall of the great mountain burning - <cite>Apocalypse</cite>, chapter 8 verses 6 to 9</h5>
 
           <section><article>
-            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
+            <blockquote id="renvoi-apocalypse-8-6" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-6">
               <ol class="doc">
                 <li value="06">The seven angels who had the seven trumpets prepared themselves to sound.</li>
                 <li value="07">The first sounded, and there followed hail and fire, mixed with blood, and they were thrown to the earth.One third of the earth was burnt up, and one third of the trees were burnt up, and all green grass was burnt up.</li>
@@ -2549,7 +2555,7 @@
           <h5 class="yellow">the fall of the "wormwood" star - <cite>Apocalypse</cite>, chapter 8 verses 10 to 12</h5>
 
           <section><article>
-            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
+            <blockquote id="renvoi-apocalypse-8-10" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-10">
               <ol class="doc">
                 <li value="10">The third angel sounded, and a <span style="color: #e6a64d;">great star fell from the sky, burning like a torch</span>, and it fell on one third of the rivers, and on the springs of the waters.</li>
               </ol>
@@ -2577,7 +2583,7 @@
           </figure>
 
           <section><article>
-            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
+            <blockquote id="renvoi-apocalypse-8-11" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-11">
               <ol class="doc">
                 <li value="11">The name of the star is called «<span style="color: #e6a64d;">wormwood</span>». One third of the waters became wormwood. Many people died from the waters, because they were made bitter.</li>
                 <li value="12">The fourth angel sounded, and one third of the sun was struck, and one third of the moon, and one third of the stars; so that one third of them would be darkened, and the day wouldn't shine for one third of it, and the night in the same way.</li>
@@ -2589,7 +2595,7 @@
         <section><article>
           <h5 class="yellow">the flight of the eagle - <cite>Apocalypse</cite>, chapter 8 verse 13</h5>
           <section><article>
-            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
+            <blockquote id="renvoi-apocalypse-8-11" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-11">
               <ol class="doc">
                 <li value="13"><p>I saw, and I heard an <span style="color: #e6a64d;">eagle</span>, flying in mid heaven, saying with a loud voice,</p>
                   <p class="conversation">
@@ -2628,7 +2634,7 @@
           <h5 class="yellow">the locusts' exit to the earth - <cite>Apocalypse</cite>, chapter 9</h5>
 
           <section><article>
-            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_9">
+            <blockquote id="renvoi-apocalypse-9-1" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-9-1">
               <ol class="doc">
                 <li>chapter 9</li>
                 <li value="01">The fifth angel sounded, and I saw a star from the sky which had fallen to the earth. The key to the pit of the <span style="color: #e6a64d;">abyss</span> was given to him.</li>
@@ -2659,7 +2665,7 @@
           </figure>
 
           <section><article>
-            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_9">
+            <blockquote id="renvoi-apocalypse-9-4" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-9-4">
               <ol class="doc">
                 <li value="04">They were told that they should not hurt the grass of the earth, neither any green thing, neither any tree, but only those people who don't have God's seal on their foreheads.</li>
                 <li value="05">They were given power not to kill them, but to torment them for five months. Their torment was like the torment of a scorpion, when it strikes a person.</li>
@@ -2679,7 +2685,7 @@
           <h5 class="yellow">the angel descended from heaven - <cite>Apocalypse</cite>, chapter 10 verses 1 to 3</h5>
 
           <section><article>
-            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_10">
+            <blockquote id="renvoi-apocalypse-10-1" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-10-1">
               <ol class="doc">
                 <li>chapter 10</li>
                 <li value="01">I saw a mighty <span style="color: #e6a64d;">angel</span> coming down out of the sky, clothed with a <span style="color: #e6a64d;">cloud</span>. A <span style="color: #e6a64d;">rainbow</span> was on his head. His face was like the sun, and his feet like <span style="color: #e6a64d;">pillars of fire</span>.</li>
@@ -2716,7 +2722,7 @@
           <h5 class="yellow">The heaven of Apocalypse - <cite>Apocalypse</cite>, chapter 10 verses 3 to 6</h5>
 
           <section><article>
-            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_10">
+            <blockquote id="renvoi-apocalypse-10-4" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-10-4">
               <ol class="doc">
                 <li value="04"><p>When the seven thunders sounded, I was about to write; but I heard a voice from the sky saying,</p>
                   <p class="conversation">
@@ -2755,7 +2761,7 @@
           <h5 class="yellow">the woman and the dragon - <cite>Apocalypse</cite>, chapter 12 verses 1 to 4</h5>
 
           <section><article>
-            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_12">
+            <blockquote id="renvoi-apocalypse-12-1" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-12-1">
               <ol class="doc">
                 <li>chapter 12</li>
                 <li value="01">A great sign was seen in heaven: a <span style="color: #e6a64d;">woman</span> clothed with the sun, and the moon under her feet, and on her head a crown of twelve stars.</li>
@@ -2791,7 +2797,7 @@
           <h5 class="yellow">battle of saint michael, the dragon and their angels: fall of the dragon and his angels - <cite>Apocalypse</cite>, chapter 12 verses 5 to 9</h5>
 
           <section><article>
-            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_12">
+            <blockquote id="renvoi-apocalypse-12-5" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-12-5">
               <ol class="doc">
                 <li value="05">She gave birth to a son, a male child, who is to rule all the nations with a rod of iron. Her child was caught up to God, and to his throne.</li>
                 <li value="06">The woman fled into the wilderness, where she has a place prepared by God, that there they may nourish her one thousand two hundred sixty days.</li>
@@ -2831,7 +2837,7 @@
         <section><article>
           <h5 class="yellow">the woman receives two great eagle's wings to escape the dragon - <cite>Apocalypse</cite>, chapter 12 verses 10 to 14</h5>
           <section><article>
-            <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_12">
+            <blockquote id="renvoi-apocalypse-12-10" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-12-10">
               <ol class="doc">
                 <li value="10">
                   <p>I heard a loud voice in heaven, saying,</p>
