@@ -2065,8 +2065,7 @@
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-840.jpg 840w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-1280.jpg 1280w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-1600.jpg 1600w,
-            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “John the Evangelist in Patmos”<br>«With that, I fell into ecstasy. 
-            I saw a throne standing in heaven (…) In front of the throne was a sea as transparent as crystal», <cite>Apocalypse</cite>, <q cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" style="quotes:'' '';">excerpts of chapters 4 to 12</q></figcaption>
+            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “John the Evangelist in Patmos”<br>«Immediately I was in the Spirit. Behold, there was a throne set in heaven (…) Before the throne was something like a sea of glass, similar to crystal», <cite>Apocalypse</cite>, <q cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" style="quotes:'' '';">excerpts of chapters 4 to 12</q></figcaption>
           </figure>
 
           <section><article>
@@ -2268,7 +2267,7 @@
                 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1280.jpg 1280w,
                 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1600.jpg 1600w,
                 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the white horse”.</p>
-                  <p>«its rider was holding a bow; he was given a victor's crown and he went away, to go from victory to victory», <cite>Apocalypse</cite>, <q cite="#renvoi-apocalypse-6-1" style="quotes:'' '';">chapter 6 verse 2</q></figcaption>
+                  <p>«And behold, a white horse, and he who sat on it had a bow. A crown was given to him, and he came forth conquering, and to conquer.», <cite>Apocalypse</cite>, <q cite="#renvoi-apocalypse-6-1" style="quotes:'' '';">chapter 6 verse 2</q></figcaption>
               </figure>
             </article></section>
 
@@ -2306,7 +2305,7 @@
                 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1280.jpg 1280w,
                 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1600.jpg 1600w,
                 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the fiery red horse”</p>
-                  <p>«its rider was given this duty: to take away peace from the earth and set people killing each other. He was given a huge sword», <cite>Apocalypse</cite>, <q cite="#renvoi-apocalypse-6-3" style="quotes:'' '';">chapter 6 verses 3 to 4</q></figcaption>
+                  <p>«To him who sat on it was given power to take peace from the earth, and that they should kill one another. There was given to him a great sword», <cite>Apocalypse</cite>, <q cite="#renvoi-apocalypse-6-3" style="quotes:'' '';">chapter 6 verses 3 to 4</q></figcaption>
               </figure>
             </article></section>
             
@@ -2321,7 +2320,7 @@
                       <p class="conversation">
                         “Come and see!”
                       </p>
-                      <p>And behold, a <span style="color: #e6a64d;">black horse</span>, and he who sat on it had a <span style="color: #e6a64d;"balance</span> in his hand.</p>
+                      <p>And behold, a <span style="color: #e6a64d;">black horse</span>, and he who sat on it had a <span style="color: #e6a64d;">balance</span> in his hand.</p>
                     </li>
                     <li value="06">
                     <p>I heard a voice in the midst of the four living creatures saying,</p>
@@ -2350,7 +2349,7 @@
                 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-840.jpg 840w,
                 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1280.jpg 1280w,
                 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1600.jpg 1600w,
-                https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the black horse”.<br>«its rider was holding a pair of scales» (Apocalypse <q cite="#renvoi-apocalypse-6-5" style="quotes:'' '';">chapter 6 verse 5</q>)</figcaption>
+                https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the black horse”.<br>«he who sat on it had a balance in his hand» (Apocalypse <q cite="#renvoi-apocalypse-6-5" style="quotes:'' '';">chapter 6 verse 5</q>)</figcaption>
               </figure>
             </article></section>
             
@@ -2366,7 +2365,7 @@
                       “Come and see!”
                     </p>
                     </li>
-                    <li value="08">And behold, a <span style="color: #e6a64d;">pale horse</span>, and he who sat on it, his name was <span style="color: #e6a64d;">Death</span>.<span style="color: #e6a64d;">Hades</span> followed with him.</li>
+                    <li value="08">And behold, a <span style="color: #e6a64d;">pale horse</span>, and he who sat on it, his name was <span style="color: #e6a64d;">Death</span>. <span style="color: #e6a64d;">Hades</span> followed with him.</li>
                     <li>Authority over one fourth of the earth, to kill with the sword, with famine, with death, and by the wild animals of the earth was given to him.</li>
                   </ol>
                 </blockquote>
@@ -2389,7 +2388,7 @@
                 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-840.jpg 840w,
                 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-1280.jpg 1280w,
                 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-1600.jpg 1600w,
-                https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the black horse, Death, Hades”.<br>«its rider was called Death, and Hades followed at its heels» (Apocalypse <q cite="#renvoi-apocalypse-6-7" style="quotes:'' '';">chapter 6 verse 8</q>)</figcaption>
+                https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the black horse, Death”.<br>«his name was Death. Hades followed with him» (Apocalypse <q cite="#renvoi-apocalypse-6-7" style="quotes:'' '';">chapter 6 verse 8</q>)</figcaption>
               </figure>
             </article></section>
             
@@ -2433,7 +2432,7 @@
                 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-840.jpg 840w,
                 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1280.jpg 1280w,
                 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1600.jpg 1600w,
-                https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “landscape around the four horsemen” - Apocalypse, <q cite="#renvoi-apocalypse-6-14" style="quotes:'' '';">chapter 6 verses 14 to 17</q></figcaption>
+                https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “landscape around the four horsemen”.<br>«Every mountain and island were moved out of their places» - Apocalypse, <q cite="#renvoi-apocalypse-6-14" style="quotes:'' '';">chapter 6 verses 14 to 17</q></figcaption>
               </figure>
             </article></section>
           </article></section>
@@ -2471,7 +2470,7 @@
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-840.jpg 840w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-1280.jpg 1280w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-1600.jpg 1600w,
-            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the angels of the seventh seal”, <cite>Apocalypse</cite>, <q cite="#renvoi-apocalypse-8-1" style="quotes:'' '';">chapter 8 verse 2</q></figcaption>
+            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the angels of the seventh seal”.<br>«who stand before God, and seven trumpets were given to them», <cite>Apocalypse</cite>, <q cite="#renvoi-apocalypse-8-1" style="quotes:'' '';">chapter 8 verse 2</q></figcaption>
           </figure>
         </article></section>
 
@@ -2503,7 +2502,7 @@
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-840.jpg 840w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1280.jpg 1280w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1600.jpg 1600w,
-            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the angel of the altar”, <cite>Apocalypse</cite>, <q cite="#renvoi-apocalypse-8-3" style="quotes:'' '';">chapter 8 verse 3</q></figcaption>
+            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the angel of the altar”.<br>«having a golden censer», <cite>Apocalypse</cite>, <q cite="#renvoi-apocalypse-8-3" style="quotes:'' '';">chapter 8 verse 3</q></figcaption>
           </figure>
 
           <section><article>
@@ -2517,7 +2516,7 @@
         </article></section>
 
         <section><article>
-          <h5 class="yellow">fall of the great mountain burning - <cite>Apocalypse</cite>, chapter 8 verses 6 to 9</h5>
+          <h5 class="yellow">fall of the great burning mountain - <cite>Apocalypse</cite>, chapter 8 verses 6 to 9</h5>
 
           <section><article>
             <blockquote id="renvoi-apocalypse-8-6" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-6">
@@ -2525,7 +2524,7 @@
                 <li value="06">The seven angels who had the seven trumpets prepared themselves to sound.</li>
                 <li value="07">The first sounded, and there followed hail and fire, mixed with blood, and they were thrown to the earth.One third of the earth was burnt up, and one third of the trees were burnt up, and all green grass was burnt up.</li>
                 <li value="08">The second angel sounded, and something like a <span style="color: #e6a64d;">great burning mountain</span> was thrown into the sea. One third of the sea became blood,</li>
-                <li value="09">and one third of the living creatures which were in the sea died. O<span style="color: #e6a64d;">ne third of the ships were destroyed</span>.</li>
+                <li value="09">and one third of the living creatures which were in the sea died. <span style="color: #e6a64d;">One third of the ships were destroyed</span>.</li>
               </ol>
             </blockquote>
           </article></section>
@@ -2539,7 +2538,7 @@
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-840.webp 840w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1280.webp 1280w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1600.webp 1600w,
-            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-640.jpg" id="image-apocalypse-8-4" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the right inner shutter, fall of “great mountain blazing with fire, a third of all ships destroyed”, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the right inner shutter, fall of “great mountain blazing with fire, a third of all ships destroyed”, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-80-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-640.jpg" id="image-apocalypse-8-4" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the right inner shutter, fall of “a great burning mountain was thrown into the sea”, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the right inner shutter, fall of “a great burning mountain was thrown into the sea”, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-80-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-280.jpg 280w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-380.jpg 380w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-480.jpg 480w,
@@ -2547,7 +2546,7 @@
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-840.jpg 840w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1280.jpg 1280w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1600.jpg 1600w,
-            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, fall of “great mountain blazing with fire, a third of all ships destroyed”, <cite>Apocalypse</cite>, <q cite="#renvoi-apocalypse-8-6" style="quotes:'' '';">chapter 8 verse 8</q></figcaption>
+            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, fall of “a great burning mountain was thrown into the sea”.<br>«One third of the ships were destroyed», <cite>Apocalypse</cite>, <q cite="#renvoi-apocalypse-8-6" style="quotes:'' '';">chapter 8 verse 8</q></figcaption>
           </figure>
         </article></section>
 
@@ -2579,7 +2578,7 @@
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-840.jpg 840w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1280.jpg 1280w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1600.jpg 1600w,
-            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the fall of the star called «Wormwood»”.<br>«a huge star fell from the sky, burning like a ball of fire» (…) «a third of all water turned to wormwood, so that many people died; the water had become so bitter», Apocalypse, <q cite="#renvoi-apocalypse-8-11" style="quotes:'' '';">chapter verse </q></figcaption>
+            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the fall of the star called «Wormwood»”.<br>«a great star fell from the sky, burning like a torch» (…) «One third of the waters became wormwood. Many people died from the waters, because they were made bitter», Apocalypse, <q cite="#renvoi-apocalypse-8-11" style="quotes:'' '';">chapter verse </q></figcaption>
           </figure>
 
           <section><article>
@@ -2622,7 +2621,7 @@
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-840.jpg 840w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-1280.jpg 1280w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-1600.jpg 1600w,
-            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the flight of the eagle”, <cite>The Apocalypse</cite>, <q cite="#renvoi-apocalypse-8-13" style="quotes:'' '';">chapter verse </q></figcaption>
+            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the flight of the eagle”.<br>«in mid heaven», <cite>The Apocalypse</cite>, <q cite="#renvoi-apocalypse-8-13" style="quotes:'' '';">chapter verse </q></figcaption>
           </figure>
         </article></section>
       
@@ -2661,7 +2660,7 @@
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-840.jpg 840w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1280.jpg 1280w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1600.jpg 1600w,
-            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the sortie of locusts onto the earth”, <cite>The Apocalypse</cite>, <q cite="#renvoi-apocalypse-9-1" style="quotes:'' '';">chapter verse </q></figcaption>
+            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the sortie of locusts onto the earth”.<br>«power was given to them», <cite>The Apocalypse</cite>, <q cite="#renvoi-apocalypse-9-1" style="quotes:'' '';">chapter verse </q></figcaption>
           </figure>
 
           <section><article>
@@ -2714,7 +2713,7 @@
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-840.jpg 840w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1280.jpg 1280w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1600.jpg 1600w,
-            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the angel coming down from heaven”<br>«Then I saw another powerful angel coming down from heaven, wrapped in cloud, with a rainbow over his head; his face was like the sun, and his legs were pillars of fire», <cite>Apocalypse</cite>, <q cite="#renvoi-apocalypse-10-1" style="quotes:'' '';">chapter 10 verses 1 to 3</q></figcaption>
+            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the angel coming down from heaven”<br>«I saw a mighty angel coming down out of the sky, clothed with a cloud. A rainbow was on his head. His face was like the sun, and his feet like pillars of fire», <cite>Apocalypse</cite>, <q cite="#renvoi-apocalypse-10-1" style="quotes:'' '';">chapter 10 verses 1 to 3</q></figcaption>
           </figure>
         </article></section>
 
@@ -2753,7 +2752,7 @@
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-840.jpg 840w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1280.jpg 1280w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1600.jpg 1600w,
-            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “le ciel de l'Apocalypse”, <cite>Apocalypse</cite>, <q cite="#renvoi-apocalypse-10-4" style="quotes:'' '';">chapter 12</q></figcaption>
+            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “le ciel de l'Apocalypse”.<br>«the seven thunders sounded», <cite>Apocalypse</cite>, <q cite="#renvoi-apocalypse-10-4" style="quotes:'' '';">chapter 12</q></figcaption>
           </figure>
         </article></section>
 
@@ -2789,7 +2788,7 @@
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-840.jpg 840w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1280.jpg 1280w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1600.jpg 1600w,
-            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “The woman and the dragon”, <cite>Apocalypse</cite>, <q cite="#renvoi-apocalypse-12-1" style="quotes:'' '';">chapter 12 verses 1 to 4</q></figcaption>
+            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “The woman and the dragon”.<br>«The dragon stood before the woman who was about to give birth, so that when she gave birth he might devour her child» , <cite>Apocalypse</cite>, <q cite="#renvoi-apocalypse-12-1" style="quotes:'' '';">chapter 12 verses 1 to 4</q></figcaption>
           </figure>
         </article></section>
 
@@ -2826,7 +2825,7 @@
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-840.jpg 840w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-1280.jpg 1280w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-1600.jpg 1600w,
-            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “fight of saint Michael, of the dragon and of their angels: fall of the dragon and his angels”, <cite>Apocalypse</cite>, <q cite="#renvoi-apocalypse-12-5" style="quotes:'' '';">chapter 12 verses 5 to 9</q></figcaption>
+            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “fight of saint Michael, of the dragon and of their angels: fall of the dragon and his angels”.<br>«He was thrown down to the earth, and his angels were thrown down with him», <cite>Apocalypse</cite>, <q cite="#renvoi-apocalypse-12-5" style="quotes:'' '';">chapter 12 verses 5 to 9</q></figcaption>
           </figure>
         </article></section>
       
@@ -2870,7 +2869,7 @@
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-840.webp 840w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1280.webp 1280w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1600.webp 1600w,
-            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-640.jpg" id="image-apocalypse-12-10" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the right inner shutter, “the woman was given a pair of the great eagle's wings to fly away from the serpent”, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the right inner shutter, “the woman was given a pair of the great eagle's wings to fly away from the serpent”, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-640.jpg" id="image-apocalypse-12-10" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the right inner shutter, “Two wings of the great eagle were given to the woman”, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the right inner shutter, “Two wings of the great eagle were given to the woman”, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-280.jpg 280w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-380.jpg 380w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-480.jpg 480w,
@@ -2878,7 +2877,7 @@
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-840.jpg 840w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1280.jpg 1280w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1600.jpg 1600w,
-            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the woman was given a pair of the great eagle's wings to fly away from the serpent”, <cite>Apocalypse</cite>, <q cite="#renvoi-apocalypse-12-10" style="quotes:'' '';">chapter 12 verses 10 to 14</q></figcaption>
+            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “Two wings of the great eagle were given to the woman”.<br>«that she might fly into the wilderness to her place», <cite>Apocalypse</cite>, <q cite="#renvoi-apocalypse-12-10" style="quotes:'' '';">chapter 12 verses 10 to 14</q></figcaption>
           </figure>
         </article></section>
 
