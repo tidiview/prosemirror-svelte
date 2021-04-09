@@ -200,16 +200,26 @@
 
 :global(.puce) {
     display: list-item;
-    padding-inline-start: 0.5em;
+    margin-top: 1em;
     margin-block-end: 1em;
     margin-block-start: 1em;
     margin-inline-start: 32px;
-    vertical-align: bottom!important;
+    
 }
 
 :global(p.puce::marker) {
     display: list-item;
-    content: "•";
-    font-size: 1.25em;
+}
+
+:global(p.puce:last-child) {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-block-end: 1em;
+}
+
+:global(p.puce:first-child) {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-block-end: 1em;
 }
 </style>
