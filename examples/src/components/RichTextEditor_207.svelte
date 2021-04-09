@@ -157,10 +157,10 @@
         <ul>
           <li>
             <a href="#couronnement" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:2#couronnement" class="yellow">coronation of the virgin</a>
-        </li>
+          </li>
           <li>
             <a href="#catherine-d-alexandrie" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#catherine-d-alexandrie" class="yellow">catherine of alexandria</a>
-        </li>
+          </li>
           <li>
             <a href="#les-deux-jean" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#les-deux-jean" class="yellow">the two john</a>
             <ul>
@@ -174,22 +174,22 @@
                 <a href="#le-nom-de-jean" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean" class="yellow">the name "john", its link with the institution, its etymology</a>
             </li>
             </ul>
-        </li>
+          </li>
           <li>
             <a href="#barbe" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#barbe" class="yellow">barbara the great martyr</a>
-        </li>
+          </li>
           <li>
             <a href="#conversation" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#conversation" class="yellow">a sacred conversation</a>
-        </li>
+          </li>
           <li>
             “<a href="#devotion-moderne" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#devotion-moderne" class="yellow">devotio moderna</a>”
-        </li>
+          </li>
           <li>
             <a href="#dispositif-architectural" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#dispositif-architectural" class="yellow">architectural structure</a>
-        </li>
+          </li>
           <li>
             <a href="#organisation-du-recit" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:5#organisation-du-recit" class="yellow">structure of the narrative</a>
-        </li>
+          </li>
           <li>
             <a href="#legendes" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:6#legendes" class="yellow">legends of john the baptist and john the evangelist</a>
             <ul>
@@ -200,30 +200,30 @@
                 <a href="#legende-de-jean-l-evangeliste" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#legende-de-jean-l-evangeliste" class="yellow">legend of john the evangelist</a>
             </li>
             </ul>
-        </li>
+          </li>
           <li>
             <a href="#position-fermee" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:15#position-fermee" class="yellow">presentation of donors: the closed tryptich</a>
         </li>
         </ul>
-    </li>
+      </li>
       <li>
         <a href="#mise-en-relation" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" class="yellow">different texts at the origin of the scenes represented</a>
         <ul>
           <li>
             <a href="#cath-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" class="yellow">catherine of alexandria according to <cite>The Golden Legend</cite></a>
-        </li>
+          </li>
           <li>
             <a href="#barbe-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" class="yellow">barbara the great martyr according to <cite>The Golden Legend</cite></a>
-        </li>
+          </li>
           <li>
             <a href="#jean-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" class="yellow">john the evangelist according to <cite>The Golden Legend</cite> chapter 9</a>
-        </li>
+          </li>
           <li>
             <a href="#jean-selon-legende-2" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" class="yellow">john the evangelist according to <cite>The Golden Legend</cite> chapter 65</a>
-        </li>
+          </li>
           <li>
             <a href="#apocalypse" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" class="yellow">vision of the throne of the god and the heavenly court: the living on the throne and the lamb</a>
-        </li>
+          </li>
         </ul>
     </li>
     </ol>
@@ -271,34 +271,34 @@
                 </table>
               </pre>
             </li>
-              <li>in english:
-                <pre id="de-vos-2">
-                  <table>
-                    <thead>
-                    <tr>
-                    <th><span hidden>hidden</span></th>
-                    <th><span hidden>hidden</span></th>
-                    </tr>
-                    </thead>
-                    <tbody>
-                    <tr>
-                    <td>Title</td>
-                    <td>Published in</td>
-                    <td>ISBN-10</td>
-                    </tr>
-                    <tr>
-                    <td>Hans Memling: The Complete Works</td>
-                    <td><time datetime="1994">1994</time></td>
-                    <td>0810936496</td>
-                    </tr>
-                    <tr>
-                    <td>Hans Memling: Catalogue</td>
-                    <td><time datetime="1994">1994</time></td>
-                    <td>9055440299</td>
-                    </tr>
-                    </tbody>
-                  </table>
-                </pre>
+            <li>in english:
+              <pre id="de-vos-2">
+                <table>
+                  <thead>
+                  <tr>
+                  <th><span hidden>hidden</span></th>
+                  <th><span hidden>hidden</span></th>
+                  </tr>
+                  </thead>
+                  <tbody>
+                  <tr>
+                  <td>Title</td>
+                  <td>Published in</td>
+                  <td>ISBN-10</td>
+                  </tr>
+                  <tr>
+                  <td>Hans Memling: The Complete Works</td>
+                  <td><time datetime="1994">1994</time></td>
+                  <td>0810936496</td>
+                  </tr>
+                  <tr>
+                  <td>Hans Memling: Catalogue</td>
+                  <td><time datetime="1994">1994</time></td>
+                  <td>9055440299</td>
+                  </tr>
+                  </tbody>
+                </table>
+              </pre>
             </li>
           </ul>
         </article></section>
@@ -335,7 +335,7 @@
                     </tbody>
                   </table>
                 </pre>
-            </li>
+              </li>
             </ul>
           </div>
         </article></section>
@@ -502,9 +502,9 @@
         <h4 id="catherine-d-alexandrie" class="yellow">Catherine of Alexandria</h4>
         <section><article>
           <p><a href="https://en.wikipedia.org/wiki/Catherine_of_Alexandria" title="https://en.wikipedia.org/wiki/Catherine_of_Alexandria" id="catherine-d-alexandrie-2" class="yellow">Catherine of Alexandria</a> was, since the end of the 13<sup style="color:#555;">th</sup> century, a very popular saint whose legend, reported by <a href="https://en.wikipedia.org/wiki/Jacobus_da_Varagine" title="https://en.wikipedia.org/wiki/Jacobus_da_Varagine" class="yellow">Jacobus da Varagine</a> in <span style="color: #e6a64d;">chapter 168</span> of the <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" class="yellow">“Golden Legend”</a>, entitled <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16" title="https://francois-vidit.com/docs/fr/saint-jean/page:16" class="yellow">“Saint Catherine”</a>, is fascinating.</p>
-          <ul>
-            <li>Read the <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:6" title="https://francois-vidit.com/docs/fr/saint-jean/page:6" class="yellow">text of the Legend of Catherine of Alexandria according to chapter 168 of <cite>The Golden Legend</cite></a>.</li>
-          </ul>
+          
+            <p class="puce">read the <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:6" title="https://francois-vidit.com/docs/fr/saint-jean/page:6" class="yellow">text of the Legend of Catherine of Alexandria according to chapter 168 of <cite>The Golden Legend</cite></a>.</p>
+          
           <p>It is quite likely that Memling relied on this text.</p>
           <p>Although modern historians believe that Catherine of Alexandria has not really existed <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">note 1</a></sup> and her cult was removed from the general calendar of the catholic church in <time datetime="1970">1970</time> <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">note 2</a></sup>.</p>
         </article></section>
@@ -669,9 +669,7 @@
         <h4 class="yellow">Barbara the great martyr, its historical reality</h4>
         <section><article>
           <p>As with <a href="#catherine-d-alexandria" class="yellow">Catherine of Alexandria</a>, modern historians doubt the reality of her existence and her name has also been removed from the general calendar <sup id="fnref2: 2"><a href="#fn:2" class="footnote-ref">note 2</a></sup>; the text Memling relied on to represent her is also not part of <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" id="legende-doree-2" class="yellow"><cite>The Golden Legend</cite></a> but, like other texts, was added to it later.</p>
-          <ul>
-            <li>Read the <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:7" title="https://francois-vidit.com/docs/en/saint-jean/page:7" class="yellow">text <cite href="https://francois-vidit.com/docs/en/saint-jean/page:7">Legend of Beard the Great Martyr</cite> added to <cite>The Golden Legend</cite></a>.</li>
-          </ul>
+          <p class="puce">read the <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:7" title="https://francois-vidit.com/docs/en/saint-jean/page:7" class="yellow">text <cite href="https://francois-vidit.com/docs/en/saint-jean/page:7">Legend of Beard the Great Martyr</cite> added to <cite>The Golden Legend</cite></a>.</p>
         </article></section>
       </article></section>
 
@@ -758,6 +756,7 @@
           <ul>
             <li>on the left of the Virgin of <span style="color: #e6a64d;">a altar server</span> who plays a small <span style="color: #e6a64d;">organ</span> seated,</li>
             <li>and on the right of <span style="color: #e6a64d;">another</span> kneeling who presents her with <span style="color: #e6a64d;">a book</span>.</li>
+          </ul>
         </article></section>
         <figure>
           <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -844,9 +843,7 @@
           <p>The very important Christian faith reform movement of this period, which historians call <a href="https://en.wikipedia.org/wiki/Devotio_Moderna" title="https://en.wikipedia.org/wiki/Devotio_Moderna" id="devotio-moderna" class="yellow">“devotio moderna”</a>, illuminates that familiar simple transparency of represented space. </p>
         </article></section>
         <footer>
-          <ul>
-            <li>For more information: <a href="#note-devotion-modern" title="note presentation of the "modern devotion" movement" id="renvoi-devotion-modern" class="yellow">“devotio moderna” as a historical religious movement of the 15<sup>th</sup> century</a></li>
-          </ul>
+          <p class="puce">for more information: <a href="#note-devotion-modern" title="note presentation of the "modern devotion" movement" id="renvoi-devotion-modern" class="yellow">“devotio moderna” as a historical religious movement of the 15<sup>th</sup> century</a></p>
         </footer>
       </article></section>
 
@@ -985,9 +982,7 @@
             The believer can then exercise an action in conformity with the virtue to which faith calls him, in a natural way, where he is.</p>
             </div>
             <footer>
-              <ul>
-                <li>back to the text: <a href="#renvoi-devotion-moderne" title="renvoi mouvement «dévotio moderna»">A detailed presentation of this movement can be found in note ↩</a></li>
-              </ul>
+              <p class="puce">back to the text: <a href="#renvoi-devotion-moderne" title="renvoi mouvement «dévotio moderna»">A detailed presentation of this movement can be found in note ↩</a></p>
             </footer>
           </article></section>
 
@@ -998,17 +993,13 @@
               <ol>
                 <li id="fn:4">
                   <p>We follow the references given in Wikipedia's article (french edition) «l'Imitation de Jésus-Christ» (date: <time datetime="2018-08-21">2018 August 21<sup>st</sup></time>), namely:</p>
-                  <ul>
-                    <li>Yann Sordet, Un succès de librairie européen: l'Imitatio Christi (<time datetime="1470">1470</time>-<time datetime="1850">1850</time>), Paris, Bibliothèque Mazarine; Editions des cendres, <time datetime="2012">2012</time>, 195 p. (ISBN 979-10-90853-01-0), p. 11.</li>
-                  </ul>
+                  <p class="puce">Yann Sordet, Un succès de librairie européen: l'Imitatio Christi (<time datetime="1470">1470</time>-<time datetime="1850">1850</time>), Paris, Bibliothèque Mazarine; Editions des cendres, <time datetime="2012">2012</time>, 195 p. (ISBN 979-10-90853-01-0), p. 11.</p>
                   <p>According to specialists, its author is a monk: <a href="https://en.wikipedia.org/wiki/Thomas_à_Kempis" title="https://en.wikipedia.org/wiki/Thomas_%C3%A0_Kempis">Thomas A KEMPIS</a>.</p>
               </li>
               </ol>
             </div>
             <footer>
-              <ul>
-                <li><a href="#fnref1:4" rev="footnote" class="footnote-backref">back to text ↩</a></li>
-              </ul>
+              <p class="puce"><a href="#fnref1:4" rev="footnote" class="footnote-backref">back to text ↩</a></p>
             </footer>
           </article></section>
 
@@ -1026,9 +1017,7 @@
               </ol>
             </div>
             <footer>
-              <ul>
-                <li><a href="#fnref1:5" rev="footnote" class="footnote-backref">back to text  ↩</a></li>
-              </ul>
+              <p class="puce"><a href="#fnref1:5" rev="footnote" class="footnote-backref">back to text  ↩</a></p>
             </footer>
           </article></section>
         </article></section>
@@ -1957,13 +1946,12 @@
         <section><article>
           <h5 id="jean-de-patmos-2" class="yellow">john of patmos</h5>
           <section><article>
-            <ul>
-              <li>
-                <p><a href="https://en.wikipedia.org/wiki/John_of_Patmos" title="https://en.wikipedia.org/wiki/John_of_Patmos" id="jean-de-patmos-3" class="yellow">John of Patmos</a> appears at the beginning of the text of Apocalypse which presents him as <span style="color: #999;">(<cite>Apocalypse</cite> chapter 1 verses 1 to 9):</p>
+              <ul>
+                <li><p><a href="https://en.wikipedia.org/wiki/John_of_Patmos" title="https://en.wikipedia.org/wiki/John_of_Patmos" id="jean-de-patmos-3" class="yellow">John of Patmos</a> appears at the beginning of the text of Apocalypse which presents him as <span style="color: #999;">(<cite>Apocalypse</cite> chapter 1 verses 1 to 9)</span>:</p>
                 <p class="conversation">
-                  a <q style="color: #e6a64d;quotes: '«' '»'" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#1:1">servant</q> <span style="color: #e6a64d;">to whom god</span> <span style="color: #999;">(…)</span> <q style="color: #e6a64d;quotes: '«' '»'" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#1:1">sent and made known by his angel</q> </span> <span style="color: #999;">(…)</span> <q style="color: #e6a64d;quotes: '«' '»'" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#1:1">the things which must happen soon</q> <span style="color: #999;">(…)</span> <q style="color: #e6a64d;quotes: '«' '»'" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#1:1">to the seven churches in Asia Minor</q>.
-              </li>
-            </ul>
+                  a <q style="color: #e6a64d;quotes: '«' '»'" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#1:1">servant</q> <span style="color: #e6a64d;">to whom god</span> <span style="color: #999;">(…)</span> <q style="color: #e6a64d;quotes: '«' '»'" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#1:1">sent and made known by his angel</q> <span style="color: #999;">(…)</span> <q style="color: #e6a64d;quotes: '«' '»'" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#1:1">the things which must happen soon</q> <span style="color: #999;">(…)</span> <q style="color: #e6a64d;quotes: '«' '»'" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#1:1">to the seven churches in Asia Minor</q>.
+                </li>
+              </ul>
           </article></section>
         </article></section>
 
@@ -2080,9 +2068,7 @@
         </article></section>
 
         <section><article>
-          <ul>
-            <li>read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse">text excerpt of <cite>The Apocalypse</cite> related to its representation of John in Patmos on the left shutter by Hans Memling.</a></li>
-          </ul>
+          <p class="puce">read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse">text excerpt of <cite>The Apocalypse</cite> related to its representation of John in Patmos on the left shutter by Hans Memling.</a></p>
         </article></section>
 
         <section><article>
