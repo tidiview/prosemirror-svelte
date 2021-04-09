@@ -8,9 +8,16 @@
 <!-- Page 20 -->
 
 <article>
-  <h3 id="apocalypse" class="yellow">Vision of the throne of God and the heavenly court: the living on the throne and the Lamb</h3>
+  <h3 class="yellow">Excerpt of the text of <cite>The Apocalypse</cite> related to its representation of John in Patmos on the left shutter by Hans Memling.</h3>
   <section><article>
     <h4 id="apocalypse" class="yellow">Text of the vision of the throne of God and the heavenly court: the living on the throne and the Lamb</h4>
+
+    <section><article>
+      <ol>
+        <li><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#description-right-shutter">Back to: Overview of the right inner shutter: John bears witness to <cite>The Apocalypse</cite> on Patmos. ↩<</a></li>
+      </ol>
+    </article></section>
+
     <section><article>
       <hr>
       <section><article><p>out</p>
