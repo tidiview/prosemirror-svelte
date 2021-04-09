@@ -2065,7 +2065,7 @@
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-840.jpg 840w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-1280.jpg 1280w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-1600.jpg 1600w,
-            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “John the Evangelist in Patmos”<br>«Immediately I was in the Spirit. Behold, there was a throne set in heaven (…) Before the throne was something like a sea of glass, similar to crystal», <cite>Apocalypse</cite>, <q cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" style="quotes:'' '';">excerpts of chapters 4 to 12</q></figcaption>
+            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “John the Evangelist in Patmos”<br><q cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" style="quotes:'«' '';">Immediately I was in the Spirit. Behold, there was a throne set in heaven</q> (…) Before the throne was something like a sea of glass, similar to crystal», <cite>Apocalypse</cite>, excerpts of chapters 4 to 12.</figcaption>
           </figure>
 
           <section><article>
@@ -2115,7 +2115,7 @@
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-840.webp 840w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-1280.webp 1280w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-1600.webp 1600w,
-            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-640.jpg" id="image-apocalypse-4-2" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the right inner shutter, “vision of the throne of god, of the heavenly court, and of the lamb”, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the right inner shutter, “vision of the throne of god, of the heavenly court, and of the lamb”, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-80-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-640.jpg" id="image-apocalypse-4-2" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the right inner shutter, “vision of the throne set in heaven, of the heavenly court, and of the lamb”, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the right inner shutter, “vision of the throne set in heaven, of the heavenly court, and of the lamb”, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-80-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-280.jpg 280w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-380.jpg 380w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-480.jpg 480w,
@@ -2123,7 +2123,7 @@
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-840.jpg 840w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-1280.jpg 1280w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-1600.jpg 1600w,
-            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “vision of the throne of god, of the heavenly court, and of the lamb”, <cite>Apocalypse</cite>, <q cite="#renvoi-apocalypse-4-2" style="quotes:'' '';">chapter 4 verses 2</q> to <q cite="#renvoi-apocalypse-4-7" style="quotes:'' '';">8</q>, <q cite="#renvoi-apocalypse-5-1" style="quotes:'' '';">chapter 5 verse 1</q> and <q cite="#renvoi-apocalypse-5-6" style="quotes:'' '';">verses 6 to 7</q></figcaption>
+            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “vision of the throne set in heaven, of the heavenly court, and of the lamb”.<br><q cite="#renvoi-apocalypse-4-2" style="quotes:'«' '';">There was a rainbow around the throne</q> (…) <q cite="#renvoi-apocalypse-4-7" style="quotes:'' '';">the four living creatures</q> (…) <q cite="#renvoi-apocalypse-5-1" style="quotes:'' '';">a book written inside and outside, sealed shut with seven seals</q> (…) <q cite="#renvoi-apocalypse-5-6" style="quotes:'' '»';">the elders</q>, <cite>Apocalypse</cite>, chapter 4 verses 2 to 8, chapter 5 verse 1, 6 to 7.</figcaption>
           </figure>
 
           <section><article>
@@ -2266,8 +2266,8 @@
                 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-840.jpg 840w,
                 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1280.jpg 1280w,
                 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1600.jpg 1600w,
-                https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the white horse”.</p>
-                  <p>«And behold, a white horse, and he who sat on it had a bow. A crown was given to him, and he came forth conquering, and to conquer.», <cite>Apocalypse</cite>, <q cite="#renvoi-apocalypse-6-1" style="quotes:'' '';">chapter 6 verse 2</q></figcaption>
+                https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the white horse”<br>
+                  <q cite="#renvoi-apocalypse-6-1" style="quotes:'«' '»';">And behold, a white horse, and he who sat on it had a bow. A crown was given to him, and he came forth conquering, and to conquer</q>, <cite>Apocalypse</cite>, chapter 6 verse 2.</figcaption>
               </figure>
             </article></section>
 
@@ -2304,8 +2304,8 @@
                 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-840.jpg 840w,
                 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1280.jpg 1280w,
                 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1600.jpg 1600w,
-                https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the fiery red horse”</p>
-                  <p>«To him who sat on it was given power to take peace from the earth, and that they should kill one another. There was given to him a great sword», <cite>Apocalypse</cite>, <q cite="#renvoi-apocalypse-6-3" style="quotes:'' '';">chapter 6 verses 3 to 4</q></figcaption>
+                https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the fiery red horse”<br>
+                <q cite="#renvoi-apocalypse-6-3" style="quotes:'«' '»';">To him who sat on it was given power to take peace from the earth, and that they should kill one another. There was given to him a great sword</q>, <cite>Apocalypse</cite>, chapter 6 verses 3 to 4.</figcaption>
               </figure>
             </article></section>
             
@@ -2349,7 +2349,7 @@
                 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-840.jpg 840w,
                 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1280.jpg 1280w,
                 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1600.jpg 1600w,
-                https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the black horse”.<br>«he who sat on it had a balance in his hand» (Apocalypse <q cite="#renvoi-apocalypse-6-5" style="quotes:'' '';">chapter 6 verse 5</q>)</figcaption>
+                https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the black horse”.<br><q cite="#renvoi-apocalypse-6-5" style="quotes:'«' '»';">he who sat on it had a balance in his hand</q>, <cite>The Apocalypse</cite> chapter 6 verse 5.</figcaption>
               </figure>
             </article></section>
             
