@@ -225,7 +225,7 @@
             <a href="#apocalypse" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" class="yellow">vision of the throne of the god and the heavenly court: the living on the throne and the lamb</a>
           </li>
         </ul>
-    </li>
+      </li>
     </ol>
   </nav>
 
@@ -2874,7 +2874,7 @@
             <p>The life of John the Evangelist continues, after Patmos, on the central panel, according to <cite>The Legend of John the Evangelist</cite> as told in chapter 9 of <cite>The Golden Legend</cite>.</p>
           </article></section>
           <footer>
-            <p class="puce">Read <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18">text of the <cite>Legend of John the Baptist</cite> from chapter 9 of <cite>The Golden Legend</cite></a></p>
+            <p class="puce">read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18">text of the <cite>Legend of John the Baptist</cite> from chapter 9 of <cite>The Golden Legend</cite></a></p>
           </footer>
         </article></section>
 
@@ -2882,7 +2882,7 @@
           <h5 class="yellow">resurrection of Drusiana - <cite>The Golden Legend</cite>, chapter 9</h5>
 
           <section><article>
-            <p>The narrative of the legend of John the Evangelist continues on the inner central panel, in the far right</p>
+            <p>The narrative of the legend of John the Evangelist continues on the inner central panel, in the far right.</p>
             <p>According to <cite>The Golden Legend</cite>, John then returns to Ephesus, where he resurrects Drusiana as Memling depicts him on a capital:</p>
           </article></section>
 
@@ -2948,20 +2948,15 @@
           <h5 class="yellow">Crato's baptism - <cite>The Golden Legend</cite>, chapter 9</h5>
           
           <section><article>
-            <p>At the very back, that also shows <a href="https://en.wikipedia.org/wiki/Colosseum">the Colosseum</a>, John the Evangelist baptizes the converted philosopher Crato in the small domed building.</p>
+            <p>At the very back, John the Evangelist baptizes the converted philosopher Crato</p>
           </article></section>
 
           <blockquote id="renvoi-crato" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18#crato">
-            <p class="conversation">
-              <span style="color: #df8f20;">— «Go and throw it on the dead body by saying:</span></p>
-              <p><span style="color: #df8f20;">“The apostle of Christ sent me to you for you to resurface in the name of Christ”».</span>
-            </p>
-            <p>The priest executed and the dead resurrected immediately.</p>
-            <p>So the apostle named in the name of Christ the priest and the proconsul, who converged with their entire family and then built a church in honor of <span style="color: #994c3d;">St. John</span>.</p>
+            <p class="conversation">The apostle named in the name of Christ the priest and the proconsul, who converged with their entire family and then built a church in honor of <span style="color: #994c3d;">St. John</span>.</p>
           </blockquote>
           
           <section><article>
-            <p>That small domed building of the very back can also be that <q cite="#renvoi-crato">church in honor of St. John</q></p>
+            <p>That small domed building can be seen as that <q cite="#renvoi-crato">church in honor of St. John</q> as told also in <a href="#jean-a-la-porte-latine">chapter 65</a>.</p>
           </article></section>
 
           <figure>
