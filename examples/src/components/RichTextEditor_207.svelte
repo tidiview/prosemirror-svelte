@@ -245,56 +245,56 @@
             <li>in french:
               <table>
                 <thead>
-                <tr>
-                <th><span hidden>hidden</span></th>
-                <th><span hidden>hidden</span></th>
-                <th><span hidden>hidden</span></th>
-                </tr>
-                </thead>
+                  <tr>
+                    <th><span hidden>hidden</span></th>
+                    <th><span hidden>hidden</span></th>
+                    <th><span hidden>hidden</span></th>
+                  </tr>
+                  </thead>
                 <tbody>
-                <tr>
-                <td>Title</td>
-                <td>Published in</td>
-                <td>ISBN-10</td>
-                </tr>
-                <tr>
-                <td>Hans Memling: l'œuvre complète</td>
-                <td><time datetime="1994">1994</time></td>
-                <td>2-226-06992-5</td>
-                </tr>
-                <tr>
-                <td>Hans Memling: catalogue</td>
-                <td><time datetime="1994">1994</time></td>
-                <td>90-5544-028-0</td>
-                </tr>
+                  <tr>
+                    <td><samp>Title</samp></td>
+                    <td><samp>Published in</samp></td>
+                    <td><samp>ISBN-10</samp></td>
+                  </tr>
+                  <tr>
+                    <td><samp>Hans Memling: l'œuvre complète</samp></td>
+                    <td><samp><time datetime="1994">1994</time></samp></td>
+                    <td><samp>2-226-06992-5</samp></td>
+                  </tr>
+                  <tr>
+                    <td><samp>Hans Memling: catalogue</samp></td>
+                    <td><samp><time datetime="1994">1994</time></samp></td>
+                    <td><samp>90-5544-028-0</samp></td>
+                  </tr>
                 </tbody>
               </table>
             </li>
             <li>in english:
               <table>
                 <thead>
-                <tr>
-                <th><span hidden>hidden</span></th>
-                <th><span hidden>hidden</span></th>
-                <th><span hidden>hidden</span></th>
-                </tr>
+                  <tr>
+                    <th><span hidden>hidden</span></th>
+                    <th><span hidden>hidden</span></th>
+                    <th><span hidden>hidden</span></th>
+                  </tr>
                 </thead>
                 <tbody>
-                <tr>
-                <td>Title</td>
-                <td>Published in</td>
-                <td>ISBN-10</td>
-                </tr>
-                <tr>
-                <td>Hans Memling: The Complete Works</td>
-                <td><time datetime="1994">1994</time></td>
-                <td>0810936496</td>
-                </tr>
-                <tr>
-                <td>Hans Memling: Catalogue</td>
-                <td><time datetime="1994">1994</time></td>
-                <td>9055440299</td>
-                </tr>
+                  <tr>
+                    <td><samp>Title</samp></td>
+                    <td><samp>Published in</samp></td>
+                    <td><samp>ISBN-10</samp></td>
+                  </tr>
+                  <tr>
+                    <td><samp>Hans Memling: The Complete Works</samp></td>
+                    <td><samp><time datetime="1994">1994</time></samp></td>
+                    <td><samp>0810936496</samp></td>
+                  </tr>
+                  <tr>
+                    <td><samp>Hans Memling: Catalogue</samp></td>
+                    <td><samp><time datetime="1994">1994</time></samp></td>
+                    <td><samp>9055440299</samp></td>
+                  </tr>
                 </tbody>
               </table>
             </li>
@@ -313,23 +313,23 @@
               <li>in french:
                 <table>
                   <thead>
-                  <tr>
-                  <th><span hidden>hidden</span></th>
-                  <th><span hidden>hidden</span></th>
-                  <th><span hidden>hidden</span></th>
-                  </tr>
+                    <tr>
+                      <th><samp><span hidden>hidden</span></th></samp>
+                      <th><samp><span hidden>hidden</span></th></samp>
+                      <th><samp><span hidden>hidden</span></th></samp>
+                    </tr>
                   </thead>
                   <tbody>
-                  <tr>
-                  <td>Title</td>
-                  <td>Published in</td>
-                  <td>ISBN-10</td>
-                  </tr>
-                  <tr>
-                  <td>Hans Memling au Louvre (exposition, Musée du Louvre, Salle de la Chapelle, aile Sully, <time datetime="1995-05-18">18 Mai</time>-<time datetime="1995-08-14">14 Août 1995</time>)</td>
-                  <td>1995</td>
-                  <td>2-7118-3275-9</td>
-                  </tr>
+                    <tr>
+                      <td><samp>Title</td></samp>
+                      <td><samp>Published in</td></samp>
+                      <td><samp>ISBN-10</td></samp>
+                    </tr>
+                    <tr>
+                      <td><samp>Hans Memling au Louvre (exposition, Musée du Louvre, Salle de la Chapelle, aile Sully, <time datetime="1995-05-18">18 Mai</time>-<time datetime="1995-08-14">14 Août 1995</time>)</samp></td>
+                      <td><samp>1995</td></samp>
+                      <td><samp>2-7118-3275-9</td></samp>
+                    </tr>
                   </tbody>
                 </table>
               </li>

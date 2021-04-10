@@ -776,7 +776,7 @@ export const ExtendedThreerichTextSchema = new Schema({
       toDOM() { return["ul", 0] },
     },
     li: {
-      content: "block*", /* has to be block - can be (block | inline also */
+      content: "(table | block)*", /* has to be block - can be (block | inline also */
       attrs: {value: {default: null}, doc: {default: false}},
       parseDOM: [{tag: "ol.doc li", getAttrs(dom) { return {value: dom.value, doc: true} } }, {tag: "li", getAttrs(dom) { return {value: dom.value} } }],
       toDOM(node) { let {value, doc} = node.attrs ; return value === 0 && doc == true ? ["li", {"style": "list-style-type:none"}, 0] : doc == true ? ["li", {value}, 0] : ["li", 0] },
@@ -833,13 +833,6 @@ export const ExtendedThreerichTextSchema = new Schema({
       selectable: false,
       parseDOM: [{tag: "wbr"}],
       toDOM() {return ["wbr"]}
-    },
-    pre: {
-      content: "table*",
-      group: "block",
-      attrs: {id: {default: null}},
-      parseDOM: [{tag: "pre", getAttrs(dom) { return {id: dom.id} }}],
-      toDOM(node) { let {id} = node.attrs; return id == "" ? ["pre", 0] : ["pre", {id}, 0] },
     },
     code: {
       content: "inline*",
@@ -918,6 +911,16 @@ export const ExtendedThreerichTextSchema = new Schema({
         return {styles: dom.getAttribute("style"), title: dom.title}
       }}],
       toDOM(node) { let {styles, title} = node.attrs ; return styles == "" ? title == "" ? ["span", 0] : ["span", {"title": title}, 0] : title == "" ? ["span", {"style": styles}, 0] : ["span", {"style": styles,"title": title}, 0]  },
+    },
+    pre: {
+      content: "inline*",
+      parseDOM: [{tag: "pre"}],
+      toDOM() { return ["pre", 0] },
+    },
+    samp: {
+      content: "inline*",
+      parseDOM: [{tag: "samp"}],
+      toDOM() { return ["samp", 0] },
     },
   },
 });

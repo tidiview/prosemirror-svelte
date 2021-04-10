@@ -214,19 +214,19 @@
               </thead>
               <tbody>
               <tr>
-              <td>Titre</td>
-              <td>Paru en</td>
-              <td>ISBN-10</td>
+              <td><samp>Titre</samp></td>
+              <td><samp>Paru en</samp></td>
+              <td><samp>ISBN-10</samp></td>
               </tr>
               <tr>
-              <td>Hans Memling: l'œuvre complète</td>
-              <td>1994</td>
-              <td>2-226-06992-5</td>
+              <td><samp>Hans Memling: l'œuvre complète</samp></td>
+              <td><samp>1994</samp></td>
+              <td><samp>2-226-06992-5</samp></td>
               </tr>
               <tr>
-              <td>Hans Memling: catalogue</td>
-              <td>1994</td>
-              <td>90-5544-028-0</td>
+              <td><samp>Hans Memling: catalogue</samp></td>
+              <td><samp>1994</samp></td>
+              <td><samp>90-5544-028-0</samp></td>
               </tr>
               </tbody>
             </table>
@@ -242,19 +242,19 @@
               </thead>
               <tbody>
               <tr>
-              <td>Titre</td>
-              <td>Paru en</td>
-              <td>ISBN-10</td>
+              <td><samp>Titre</samp></td>
+              <td><samp>Paru en</samp></td>
+              <td><samp>ISBN-10</samp></td>
               </tr>
               <tr>
-              <td>Hans Memling: The Complete Works</td>
-              <td>1994</td>
-              <td>0810936496</td>
+              <td><samp>Hans Memling: The Complete Works</samp></td>
+              <td><samp>1994</samp></td>
+              <td><samp>0810936496</samp></td>
               </tr>
               <tr>
-              <td>Hans Memling: Catalogue</td>
-              <td>1994</td>
-              <td>9055440299</td>
+              <td><samp>Hans Memling: Catalogue</samp></td>
+              <td><samp>1994</samp></td>
+              <td><samp>9055440299</samp></td>
               </tr>
               </tbody>
             </table>
@@ -282,14 +282,14 @@
                 </thead>
                 <tbody>
                 <tr>
-                <td>Titre</td>
-                <td>Paru en</td>
-                <td>ISBN-10</td>
+                <td><samp>Titre</samp></td>
+                <td><samp>Paru en</samp></td>
+                <td><samp>ISBN-10</samp></td>
                 </tr>
                 <tr>
-                <td>Hans Memling au Louvre (exposition, Musée du Louvre, Salle de la Chapelle, aile Sully, 18 Mai-14 Août 1995)</td>
-                <td>1995</td>
-                <td>2-7118-3275-9</td>
+                <td><samp>Hans Memling au Louvre (exposition, Musée du Louvre, Salle de la Chapelle, aile Sully, 18 Mai-14 Août 1995)</samp></td>
+                <td><samp>1995</samp></td>
+                <td><samp>2-7118-3275-9</samp></td>
                 </tr>
                 </tbody>
               </table>
