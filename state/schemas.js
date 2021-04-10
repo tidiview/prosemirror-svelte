@@ -904,7 +904,7 @@ export const ExtendedThreerichTextSchema = new Schema({
     },
     cite: {
       parseDOM: [{tag: "cite"}],
-      toDOM() {["cite", 0]},
+      toDOM() { return ["cite", 0]},
     },
     q: {
       attrs: {styles: {default: null}, cite: {default: null}},
