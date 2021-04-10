@@ -248,6 +248,7 @@
                 <tr>
                 <th><span hidden>hidden</span></th>
                 <th><span hidden>hidden</span></th>
+                <th><span hidden>hidden</span></th>
                 </tr>
                 </thead>
                 <tbody>
@@ -310,28 +311,27 @@
           <div class="notices yellow">
             <ul>
               <li>in french:
-                <pre id="lorents-1">
-                  <table>
-                    <thead>
-                    <tr>
-                    <th><span hidden>hidden</span></th>
-                    <th><span hidden>hidden</span></th>
-                    </tr>
-                    </thead>
-                    <tbody>
-                    <tr>
-                    <td>Title</td>
-                    <td>Published in</td>
-                    <td>ISBN-10</td>
-                    </tr>
-                    <tr>
-                    <td>Hans Memling au Louvre (exposition, Musée du Louvre, Salle de la Chapelle, aile Sully, <time datetime="1995-05-18">18 Mai</time>-<time datetime="1995-08-14">14 Août 1995</time>)</td>
-                    <td>1995</td>
-                    <td>2-7118-3275-9</td>
-                    </tr>
-                    </tbody>
-                  </table>
-                </pre>
+                <table>
+                  <thead>
+                  <tr>
+                  <th><span hidden>hidden</span></th>
+                  <th><span hidden>hidden</span></th>
+                  <th><span hidden>hidden</span></th>
+                  </tr>
+                  </thead>
+                  <tbody>
+                  <tr>
+                  <td>Title</td>
+                  <td>Published in</td>
+                  <td>ISBN-10</td>
+                  </tr>
+                  <tr>
+                  <td>Hans Memling au Louvre (exposition, Musée du Louvre, Salle de la Chapelle, aile Sully, <time datetime="1995-05-18">18 Mai</time>-<time datetime="1995-08-14">14 Août 1995</time>)</td>
+                  <td>1995</td>
+                  <td>2-7118-3275-9</td>
+                  </tr>
+                  </tbody>
+                </table>
               </li>
             </ul>
           </div>
@@ -638,7 +638,7 @@
           <p>On the other side of virgin Mary, on the front right, <span style="color: #e6a64d;">another woman</span>, dressed in <span style="color: #e6a64d;">a magnificent green wool tunic</span> as only Bruges produced in the 15<sup style="color:#555;">th</sup> century, <span style="color: #e6a64d;">reads</span>.</p>
           <p>Her presence corresponds to that of <a href="#catherine-d-alexandrie" class="yellow">Catherine of Alexandria</a> on the front of the other side.</p>
           <p>Behind her, <span style="color: #e6a64d;">a white stone tabernacle tower</span> tells us that it is <a href="https://en.wikipedia.org/wiki/Saint_Barbara" title="https://en.wikipedia.org/wiki/Saint_Barbara" id="barbe-la-grande-martyre" class="yellow">Barbara the great Martyr</a> <sup id="page-3-fnref1:3"><a href="#page-3-fn:3" class="footnote-ref">note 4</a></sup>.</p>
-          <p>As with <a href="#catherine-d-alexandrie" class="yellow">Catherine of Alexandria</a>, modern historians doubt the reality of her existence and her name has also been removed from the general calendar <sup id="fnref2:2"><a href="#fn:2" class="footnote-ref">note 2</a></sup>.</p>
+          <p>As with <a href="#catherine-d-alexandrie" class="yellow">Catherine of Alexandria</a>, modern historians doubt the reality of her existence and her name has also been removed from the general calendar <sup id="page-3-fnref2:2"><a href="#page-3-fn:2" class="footnote-ref">note 2</a></sup>.</p>
         </article></section>
     
         <figure>
@@ -665,7 +665,7 @@
       <section><article>
         <h4 class="yellow">Barbara the great Martyr, its historical reality</h4>
         <section><article>
-          <p>As with <a href="#catherine-d-alexandria" class="yellow">Catherine of Alexandria</a>, modern historians doubt the reality of her existence and her name has also been removed from the general calendar <sup id="fnref2:2"><a href="#fn:2" class="footnote-ref">note 2</a></sup>; the text Memling relied on to represent her is also not part of <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" id="legende-doree-3" class="yellow"><cite>The Golden Legend</cite></a> but, like other texts, was added to it later.</p>
+          <p>As with <a href="#catherine-d-alexandria" class="yellow">Catherine of Alexandria</a>, modern historians doubt the reality of her existence and her name has also been removed from the general calendar <sup id="page-3-fnref2:2"><a href="#page-3-fn:2" class="footnote-ref">note 2</a></sup>; the text Memling relied on to represent her is also not part of <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" id="legende-doree-3" class="yellow"><cite>The Golden Legend</cite></a> but, like other texts, was added to it later.</p>
           <p class="puce">read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:7" title="https://francois-vidit.com/docs/en/saint-jean/page:7" class="yellow">text of the <cite>Legend of Beard the Great Martyr</cite> added to <cite>The Golden Legend</cite></a>.</p>
         </article></section>
       </article></section>
@@ -2059,7 +2059,7 @@
         </article></section>
 
         <section><article>
-          <p>We choose to follow John's own way to tell <sup id="page-10-fnref1:3"><a href="#fn:3" class="footnote-ref">note 3</a></sup> the unveiling in the text <span style="color: #999;">(<cite>The Revelation</cite> chapter 4 verse 2 and verse 6)</span>, which begins at the top left of the shutter: this way it is possible to compare the text with Memling's representation of it.</p>
+          <p>We choose to follow John's own way to tell <sup id="page-10-fnref1:3"><a href="#page-10-fn:3" class="footnote-ref">note 3</a></sup> the unveiling in the text <span style="color: #999;">(<cite>The Revelation</cite> chapter 4 verse 2 and verse 6)</span>, which begins at the top left of the shutter: this way it is possible to compare the text with Memling's representation of it.</p>
         </article></section>
 
         <section><article>
