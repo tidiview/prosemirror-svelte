@@ -503,7 +503,7 @@
         <section><article>
           <p><a href="https://en.wikipedia.org/wiki/Catherine_of_Alexandria" title="https://en.wikipedia.org/wiki/Catherine_of_Alexandria" id="catherine-d-alexandrie-2" class="yellow">Catherine of Alexandria</a> was, since the end of the 13<sup style="color:#555;">th</sup> century, a very popular saint whose legend, reported by <a href="https://en.wikipedia.org/wiki/Jacobus_da_Varagine" title="https://en.wikipedia.org/wiki/Jacobus_da_Varagine" class="yellow">Jacobus da Varagine</a> in <span style="color: #e6a64d;">chapter 168</span> of the <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" class="yellow">“Golden Legend”</a>, entitled <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16" title="https://francois-vidit.com/docs/fr/saint-jean/page:16" class="yellow">“Saint Catherine”</a>, is fascinating.</p>
           
-            <p class="puce">read the <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:6" title="https://francois-vidit.com/docs/fr/saint-jean/page:6" class="yellow">text of the Legend of Catherine of Alexandria according to chapter 168 of <cite>The Golden Legend</cite></a>.</p>
+            <p class="puce">read: <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:6" title="https://francois-vidit.com/docs/fr/saint-jean/page:6" class="yellow">text of the <cite>Legend of Catherine of Alexandria</cite> according to chapter 168 of <cite>The Golden Legend</cite></a>.</p>
           
           <p>It is quite likely that Memling relied on this text.</p>
           <p>Although modern historians believe that Catherine of Alexandria has not really existed <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">note 1</a></sup> and her cult was removed from the general calendar of the catholic church in <time datetime="1970">1970</time> <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">note 2</a></sup>.</p>
@@ -669,7 +669,7 @@
         <h4 class="yellow">Barbara the great martyr, its historical reality</h4>
         <section><article>
           <p>As with <a href="#catherine-d-alexandria" class="yellow">Catherine of Alexandria</a>, modern historians doubt the reality of her existence and her name has also been removed from the general calendar <sup id="fnref2: 2"><a href="#fn:2" class="footnote-ref">note 2</a></sup>; the text Memling relied on to represent her is also not part of <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" id="legende-doree-2" class="yellow"><cite>The Golden Legend</cite></a> but, like other texts, was added to it later.</p>
-          <p class="puce">read the <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:7" title="https://francois-vidit.com/docs/en/saint-jean/page:7" class="yellow">text <cite href="https://francois-vidit.com/docs/en/saint-jean/page:7">Legend of Beard the Great Martyr</cite> added to <cite>The Golden Legend</cite></a>.</p>
+          <p class="puce">read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:7" title="https://francois-vidit.com/docs/en/saint-jean/page:7" class="yellow">text of the <cite>Legend of Beard the Great Martyr</cite> added to <cite>The Golden Legend</cite></a>.</p>
         </article></section>
       </article></section>
 
@@ -1224,8 +1224,8 @@
       <section><article>
         <p>As, in the scenes Memling painted, these texts are faithfully represented, we invite those who would like to feel more deeply the relationship of the triptych to the various texts to read them directly:</p>
         <ul>
-          <li>read the text: <a href="https:/francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18" title="https://francois-vidit.com/docs/en/saint-jean/page:18" class="yellow"><cite href="https:/francois-vidit. com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18">Legend of John the Baptist</cite> according to chapter 9 of <cite>The Golden Legend</cite></a>,</li>
-          <li>read the text: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:19" title="https://francois-vidit.com/docs/en/saintjean/page:19" class="yellow"><cite href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:19">Legend of John the Evangelist before the Latin Gate</cite> according to chapter 65 of <cite>The Golden Legend</cite></a>.</li>
+          <li>read: <a href="https:/francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18" title="https://francois-vidit.com/docs/en/saint-jean/page:18" class="yellow"> text of the <cite>Legend of John the Baptist</cite> according to chapter 9 of <cite>The Golden Legend</cite></a>,</li>
+          <li>read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:19" title="https://francois-vidit.com/docs/en/saintjean/page:19" class="yellow">text of the <cite>Legend of John the Evangelist before the Latin Gate</cite> according to chapter 65 of <cite>The Golden Legend</cite></a>.</li>
         </ul>
       </article></section>
     </article></section>
@@ -1964,8 +1964,8 @@
             </article></section>
             <section><article>
               <ul>
-                <li>read the <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" class="yellow">text of chapter 9 <cite>The Golden Legend</cite> by Jaccobus da Varagine</a>.</li>
-                <li>read the <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" class="yellow">text of chapter 65 of <cite>The Golden Legend</cite> by Jaccobus da Varagine</a>.</li>
+                <li>read: <a href="https:/francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18" title="https://francois-vidit.com/docs/en/saint-jean/page:18" class="yellow"> text of the <cite>Legend of John the Baptist</cite> according to chapter 9 of <cite>The Golden Legend</cite></a>,</li>
+                <li>read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:19" title="https://francois-vidit.com/docs/en/saintjean/page:19" class="yellow">text of the <cite>Legend of John the Evangelist before the Latin Gate</cite> according to chapter 65 of <cite>The Golden Legend</cite></a>.</li>
               </ul>
             </article></section>
           </article></section>
@@ -2068,7 +2068,7 @@
         </article></section>
 
         <section><article>
-          <p class="puce">read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse">text excerpt of <cite>The Revelation</cite> related to its representation of John in Patmos on the left shutter by Hans Memling.</a></p>
+          <p class="puce">read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse">text excerpt of <cite>The Revelation</cite> related to the representation of John in Patmos on the left inner shutter by Hans Memling</a>.</p>
         </article></section>
 
         <section><article>
@@ -2174,7 +2174,7 @@
             <div class="footnotes">
               <ol start="2">
                 <li id="fn:2">
-                  read the <a href="#apocalypse" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse">extracts of the text of <cite>The Revelation</cite> that refer to the right shutter</a>.
+                  read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse">text excerpt of <cite>The Revelation</cite> related to the representation of John in Patmos on the left inner shutter by Hans Memling</a>.</p>
               </li>
               </ol>
             </div>
