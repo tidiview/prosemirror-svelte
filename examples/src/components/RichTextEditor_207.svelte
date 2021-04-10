@@ -150,79 +150,79 @@
     <h3 id="table-des-matieres" class="yellow">table of contents</h3>
     <ol>
       <li>
-        <a href="#presentation-photographique" title="photographic presentation" class="yellow">photographic presentation of the work in its exhibition space</a>
+        <a href="/docs/en/bruges/hopital-saint-jean/saint-jean#presentation-photographique" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean#presentation-photographique" class="yellow">photographic presentation of the work in its exhibition space</a>
     </li>
       <li>
-        <a href="#description" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:2#description" class="yellow">description of the work</a>
+        <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:2#description" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:2#description" class="yellow">description of the work</a>
         <ul>
           <li>
-            <a href="#couronnement" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:2#couronnement" class="yellow">coronation of the virgin</a>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:2#couronnement" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:2#couronnement" class="yellow">coronation of the virgin</a>
           </li>
           <li>
-            <a href="#catherine-d-alexandrie" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#catherine-d-alexandrie" class="yellow">catherine of alexandria</a>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#catherine-d-alexandrie" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#catherine-d-alexandrie" class="yellow">catherine of alexandria</a>
           </li>
           <li>
-            <a href="#les-deux-jean" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#les-deux-jean" class="yellow">the two john</a>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#les-deux-jean" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#les-deux-jean" class="yellow">the two john</a>
             <ul>
               <li>
-                <a href="#jean-le-baptiste-2" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#jean-le-baptiste-2" class="yellow">john the baptist</a>
+                <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#jean-le-baptiste-2" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#jean-le-baptiste-2" class="yellow">john the baptist</a>
             </li>
               <li>
-                <a href="#jean-l-evangeliste-3" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#jean-l-evangeliste-3" class="yellow">john the evangelist</a>
+                <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#jean-l-evangeliste-3" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#jean-l-evangeliste-3" class="yellow">john the evangelist</a>
             </li>
               <li>
-                <a href="#le-nom-de-jean" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean" class="yellow">the name "john", its link with the institution, its etymology</a>
+                <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean" class="yellow">the name "john", its link with the institution, its etymology</a>
             </li>
             </ul>
           </li>
           <li>
-            <a href="#barbe" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#barbe" class="yellow">barbara the great martyr</a>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#barbe" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#barbe" class="yellow">barbara the great martyr</a>
           </li>
           <li>
-            <a href="#conversation" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#conversation" class="yellow">a sacred conversation</a>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#conversation" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#conversation" class="yellow">a sacred conversation</a>
           </li>
           <li>
-            “<a href="#devotion-moderne" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#devotion-moderne" class="yellow">devotio moderna</a>”
+            “<a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#devotion-moderne" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#devotion-moderne" class="yellow">devotio moderna</a>”
           </li>
           <li>
-            <a href="#dispositif-architectural" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#dispositif-architectural" class="yellow">architectural structure</a>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#dispositif-architectural" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#dispositif-architectural" class="yellow">architectural structure</a>
           </li>
           <li>
             <a href="#organisation-du-recit" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:5#organisation-du-recit" class="yellow">structure of the narrative</a>
           </li>
           <li>
-            <a href="#legendes" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:6#legendes" class="yellow">legends of john the baptist and john the evangelist</a>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:6#legendes" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:6#legendes" class="yellow">legends of john the baptist and john the evangelist</a>
             <ul>
               <li>
-                <a href="#legende-de-jean-le-baptiste" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:6#legende-de-jean-le-baptiste" class="yellow">legend of john the baptist</a>
+                <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:6#legende-de-jean-le-baptiste" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:6#legende-de-jean-le-baptiste" class="yellow">legend of john the baptist</a>
             </li>
               <li>
-                <a href="#legende-de-jean-l-evangeliste" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#legende-de-jean-l-evangeliste" class="yellow">legend of john the evangelist</a>
+                <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#legende-de-jean-l-evangeliste" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#legende-de-jean-l-evangeliste" class="yellow">legend of john the evangelist</a>
             </li>
             </ul>
           </li>
           <li>
-            <a href="#position-fermee" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:15#position-fermee" class="yellow">presentation of donors: the closed tryptich</a>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:15#position-fermee" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:15#position-fermee" class="yellow">presentation of donors: the closed tryptich</a>
         </li>
         </ul>
       </li>
       <li>
-        <a href="#mise-en-relation" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" class="yellow">different texts at the origin of the scenes represented</a>
+        <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" class="yellow">different texts at the origin of the scenes represented</a>
         <ul>
           <li>
-            <a href="#cath-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" class="yellow">catherine of alexandria according to <cite>The Golden Legend</cite></a>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" class="yellow">catherine of alexandria according to <cite>The Golden Legend</cite></a>
           </li>
           <li>
-            <a href="#barbe-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" class="yellow">barbara the great martyr according to <cite>The Golden Legend</cite></a>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" class="yellow">barbara the great martyr according to <cite>The Golden Legend</cite></a>
           </li>
           <li>
-            <a href="#jean-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" class="yellow">john the evangelist according to <cite>The Golden Legend</cite> chapter 9</a>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" class="yellow">john the evangelist according to <cite>The Golden Legend</cite> chapter 9</a>
           </li>
           <li>
-            <a href="#jean-selon-legende-2" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" class="yellow">john the evangelist according to <cite>The Golden Legend</cite> chapter 65</a>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" class="yellow">john the evangelist according to <cite>The Golden Legend</cite> chapter 65</a>
           </li>
           <li>
-            <a href="#apocalypse" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" class="yellow">vision of the throne of the god and the heavenly court: the living on the throne and the lamb</a>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" class="yellow">vision of the throne of the god and the heavenly court: the living on the throne and the lamb</a>
           </li>
         </ul>
       </li>
@@ -546,9 +546,9 @@
         <h4 id="jean-le-baptiste-2" class="yellow">john the baptist</h4>
         <section><article>
           <p>On the back, on the left, the presence of a <span style="color: #e6a64d;">white lamb</span> allows us to identify <span style="color: #e6a64d;">the man wearing the</span> magnificent <span style="color: #e6a64d;">purple tunic</span> as <a href="https://en.wikipedia.org/wiki/John_the_Baptist" title="https://en.wikipedia.org/wiki/John_the_Baptist" id="jean-le-baptiste" class="yellow">John the Baptist</a>.</p>
-          <p>The lamb recalls the word that John the Baptist spoke to his disciples to <span style="color #e6a64d;">announce</span> the coming of <span style="color: #e6a64d;">Jesus into the world</span> <span style="color: #999;">(John chapter 1 verse 29)</span>:
+          <p>The lamb recalls the words with whom John the Baptist <span style="color #e6a64d;">presents</span> Jesus, saying <span style="color: #999;">(John chapter 1 verse 29)</span>:
           <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#1:29" >
-            <span style="color: #e6a64d;">«<ruby style="color:#e6a64d;" lang="en">This is&nbsp;the&nbsp;lamb&nbsp;of&nbsp;god<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce&nbsp;agnus&nbsp;dei</rt><rp>)</rp></ruby>»</span>.
+            <span style="color: #e6a64d;">«<ruby style="color:#e6a64d;" lang="en">Behold the lamb of god<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce agnus dei</rt><rp>)</rp></ruby>»</span>.
           </blockquote>
           <p>In fact, John also refers with his right arm to the child Jesus.</p>
         </article></section>
@@ -662,7 +662,7 @@
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1280.jpg 1280w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1600.jpg 1600w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1920.jpg 1920w"></picture><figcaption>Barbara the great Martyr</figcaption>
-        <</figure>>
+        </figure>
       </article></section>
 
       <section><article>
@@ -969,7 +969,7 @@
           <p>The thin vertical openings between the columns overlook a <span style="color: #e6a64d;">visually continuous landscape with ruins and buildings</span>, open to the distant, horizon and infinite.</p>
         </article></section>
       </article></section>
-
+<hr>
       <aside>
         <h3 id="note">Notes:</h3>
         <section><article>
@@ -1184,7 +1184,7 @@
           </footer>
           </article></section>
           <footer>
-            <p><a href="#fnref1:6" rev="footnote" class="footnote-backref">back to text ↩</a></p>
+            <p class="puce"><a href="#fnref1:6" rev="footnote" class="footnote-backref">back to text ↩</a></p>
           </footer>
         </article>
       </aside>
@@ -1259,9 +1259,9 @@
         <section><article>
           <h5 class="yellow">John the Baptist according to historical documents</h5>
           <section><article>
-            <p>Historically, John is described as a Jewish <span style="color: #e6a64d;">preacher</span> in <a href="https://en.wikipedia.org/wiki/Galilee" title="https://en.wikipedia.org/wiki/Galilee" id="galilee" class="yellow">Galilee</a> of this time of <a href="https://en.wikipedia.org/wiki/Historical_Jesus" title="https://en.wikipedia.org/wiki/Historical_Jesus" id="jesus-de-nazareth" class="yellow">Jesus of Nazareth</a> according to the testimony of <a href="https://en.wikipedia.org/wiki/Josephus" title="https://en.wikipedia.org/wiki/Josephus" id="flavius-josephe" class="yellow">Flavius Josephus</a>, a 1<sup style="color:#555;">st</sup> century roman jewish historian (<span style="color: #999;"><a href="https://en.wikipedia.org/wiki/Antiquities_of_the_Jews" title="https://en.wikipedia.org/wiki/Antiquities_of_the_Jews" id="antiquites-judaiques" class="yellow">“Jewish Antiquities”</a>, book XVIII, chapter 5, paragraph 118).</span></p>
+            <p>Historically, John is described as a jewish <span style="color: #e6a64d;">preacher</span> in <a href="https://en.wikipedia.org/wiki/Galilee" title="https://en.wikipedia.org/wiki/Galilee" id="galilee" class="yellow">Galilee</a> of this time of <a href="https://en.wikipedia.org/wiki/Historical_Jesus" title="https://en.wikipedia.org/wiki/Historical_Jesus" id="jesus-de-nazareth" class="yellow">Jesus of Nazareth</a> according to the testimony of <a href="https://en.wikipedia.org/wiki/Josephus" title="https://en.wikipedia.org/wiki/Josephus" id="flavius-josephe" class="yellow">Flavius Josephus</a>, a 1<sup style="color:#555;">st</sup> century roman jewish historian (<span style="color: #999;"><a href="https://en.wikipedia.org/wiki/Antiquities_of_the_Jews" title="https://en.wikipedia.org/wiki/Antiquities_of_the_Jews" id="antiquites-judaiques" class="yellow">“Jewish Antiquities”</a>, book XVIII, chapter 5, paragraph 118).</span></p>
             <p>Galilee at that time was a province of the roman empire that experienced many revolts.</p>
-            <p>Its population, mainly Jewish, is very religious;
+            <p>Its population, mainly jewish, is very religious;
             the biblical writings announce the coming of an envoy of god whose action will enable the jewish people to recover their independence and religious organization, in particular to rebuild <a href="https://en.wikipedia.org/wiki/Solomon's_Temple" title="https://en.wikipedia.org/wiki/Solomon'%27's_Temple" id="temple-de-salomon" class="yellow">
             Solomon's temple</a> in Jerusalem.</p>
           </article></section>
@@ -1415,8 +1415,8 @@
             </figure>
 
             <section><article>
-              <p>John innovates in the judaism of his time:</p>
-              <p>he advocates the forgiveness of sins no longer through the sacrifice of animals in the temple by cremation, but by <span style="color: #e6a64d;">«baptism»</span>, that is, according to the etymology of the word, <span style="color: #e6a64d;">«immersion»</span> in water.</p>
+              <p>John innovates in the judaism of his time.</p>
+              <p>He advocates the forgiveness of sins no longer through the sacrifice of animals in the temple by cremation, but by <span style="color: #e6a64d;">«baptism»</span>, that is, according to the etymology of the word, <span style="color: #e6a64d;">«immersion»</span> in water.</p>
             </article></section>
           </article></section>
 
@@ -1449,7 +1449,7 @@
             </figure>
 
             <section><article>
-              <p>On the other bank, <span style="color: #e6a64d;">John the Baptist</span> presents Jesus with the words <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="en">This is the lamb of god<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce&nbsp;agnus&nbsp;dei</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span> to his first two disciples <a href="https://en.wikipedia.org/wiki/Andrew_the_Apostle" title="https://en.wikipedia.org/wiki/Andrew_the_Apostle" id="andre" class="yellow">Andrew</a> and <a href="https://en.wikipedia.org/wiki/John_the_Apostle" title="https://en.wikipedia.org/wiki/John_the_Apostle" id="jean-l-apotre" class="yellow">John the Apostle</a>; they join him.</p>
+              <p>On the other bank, <span style="color: #e6a64d;">John the Baptist</span> presents Jesus with the words <q style="color: #e6a64d;quotes: '«' '»'" cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#1:35"><ruby style="color:#e6a64d;" lang="en">Behold the lamb of god<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce agnus dei</rt><rp>)</rp></ruby></q> to his first two disciples <a href="https://en.wikipedia.org/wiki/Andrew_the_Apostle" title="https://en.wikipedia.org/wiki/Andrew_the_Apostle" id="andre" class="yellow">Andrew</a> and <a href="https://en.wikipedia.org/wiki/John_the_Apostle" title="https://en.wikipedia.org/wiki/John_the_Apostle" id="jean-l-apotre" class="yellow">John the Apostle</a>; they join him.</p>
             </article></section>
           </article></section>
 
@@ -1505,7 +1505,7 @@
             </ol>
             </div>
               <footer>
-                <p><a href="#fnref1:2" rev="footnote" class="footnote-backref">back to text ↩</a></p>
+                <p class="puce"><a href="#fnref1:2" rev="footnote" class="footnote-backref">back to text ↩</a></p>
               </footer>
             </article>
           </aside>
@@ -1660,7 +1660,7 @@
               </ol>
               </div>
               <footer>
-                <p><a href="#fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
+                <p class="puce"><a href="#fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
               </footer>
             </article>
           </aside>
@@ -1734,7 +1734,7 @@
           <section><article>
             <h6 class="yellow">Scene of the burial and cremation of the body of John the Baptist in the background, inner central panel</h6>
             <section><article>
-              <p>Mark's narrative continues: <span style="color: #e6a64d;"><q>When John's disciples heard this, they came and took his body and laid it in a tomb</q></span> <span style="color: #999;">(Mark, chapter 6, verse 29)</span>.</p>
+              <p>Mark's narrative continues: <span style="color: #e6a64d;"><q cite="https://en.wikisource.org/wiki/Bible_(World_English)/Mark#6:29">When John's disciples heard this, they came and took up his corpse and laid it in a tomb</q></span> <span style="color: #999;">(Mark, chapter 6, verse 29)</span>.</p>
               <p>According to tradition, this one was taken away from the territories controlled by Herod Antipas, to the West Bank in <ruby style="color: #e6a64d;" lang="en">Sebastee<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="grc">Σεβαστή</rt><rp>)</rp></ruby>, the actual village of <a href="https://en.wikipedia.org/wiki/Sebastia,_Nablus" title="https://en.wikipedia.org/wiki/Sebastia,_Nablus" id="sebastia" class="yellow"><ruby lang="en">Sebastia<rp>(</rp><rt lang="ar">سبسطية</rt><rp>)</rp></ruby></a> and buried with the prophets <a href="https://en.wikipedia.org/wiki/Elisha" title="https://en.wikipedia.org/wiki/Elisha" class="yellow">Elisha</a> and <a href="https://en.wikipedia.org/wiki/Obadiah" title="https://en.wikipedia.org/wiki/Obadiah" id="abdias" class="yellow">Abdias</a>.</p>
 
               <p>On the left of the central panel, on the right, behind John the Baptist, Memling has made this last scene of his legend appear.</p>
@@ -1813,7 +1813,7 @@
         </ol>
         </div>
         <footer>
-          <p><a href="#fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
+          <p class="puce"><a href="#fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
         </footer>
       </article>
       </aside>
@@ -2020,7 +2020,7 @@
             </article></section>
             <section><article>
               <ol class="doc">
-                <li>«The emperor, realizing that he was not renouncing preaching, exiled him to <span style="color: #e6a64d;">the island of Patmos</span>», <span style="color: #999;">(the departure for Patmos appears in the middle: some men board a boat)</span> «where, in solitude, he wrote <span style="color: #e6a64d;"><cite>The Revelation</cite>» <span style="color: #999;"></span>(chapter 9)</span>.</li>
+                <li>«The emperor, realizing that he was not renouncing preaching, exiled him to <span style="color: #e6a64d;">the island of Patmos</span>», <span style="color: #999;">(the departure for Patmos appears in the middle: some men board a boat)</span> «where, in solitude, he wrote <span style="color: #e6a64d;"><cite>The Revelation</cite></span>» <span style="color: #999;">(chapter 9)</span>.</li>
               </ol>
             </article></section>
           </article></section>
@@ -2167,21 +2167,23 @@
               </ol>
             </div>
             <footer>
-              <p><a href="#fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
+              <p class="puce"><a href="#fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
             </footer>
           </article>
+          <hr>
           <article>
             <div class="footnotes">
               <ol start="2">
                 <li id="fn:2">
-                  read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse">text excerpt of <cite>The Revelation</cite> related to the representation of John in Patmos on the left inner shutter by Hans Memling</a>.</p>
+                  read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse">text excerpt of <cite>The Revelation</cite> related to the representation of John in Patmos on the left inner shutter by Hans Memling</a>.
               </li>
               </ol>
             </div>
             <footer>
-              <p><a href="#fnref1:2" rev="footnote" class="footnote-backref">back to text ↩</a></p>
+              <p class="puce"><a href="#fnref1:2" rev="footnote" class="footnote-backref">back to text ↩</a></p>
             </footer>
           </article>
+          <hr>
           <article>
             <div class="footnotes">
               <ol start="3">
@@ -2201,7 +2203,7 @@
               </ol>
             </div>
             <footer>
-              <p><a href="#fnref1:3" rev="footnote" class="footnote-backref">back to text ↩</a></p>
+              <p class="puce"><a href="#fnref1:3" rev="footnote" class="footnote-backref">back to text ↩</a></p>
             </footer>
           </article>
         </aside>
