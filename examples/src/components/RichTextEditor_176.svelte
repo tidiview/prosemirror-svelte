@@ -157,7 +157,7 @@
     <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:2#description" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:2#description" class="yellow">description de l'œuvre</a>
       <ul>
         <li><a href="/docs/fr/bruges/hoptal-saint-jean/saint-jean/page:2#couronnement" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:2#couronnement" class="yellow">le couronnement de la vierge</a></li>
-        <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#catherine-d-alexandrie" tile="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#catherine-d-alexandrie" class="yellow">catherine d'alexandrie</a></li>
+        <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#catherine-d-alexandrie" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#catherine-d-alexandrie" class="yellow">catherine d'alexandrie</a></li>
         <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#les-deux-jean" title="https//francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#les-deux-jean" class="yellow">les deux jean</a>
           <ul>
             <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#jean-le-baptiste-2" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#jean-le-baptiste-2" class="yellow">jean le baptiste</a></li>
@@ -178,7 +178,7 @@
         <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:15#posiion-fermee" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:15#position-fermee" class="yellow">présentation des donateurs: le tryptique fermé</a></li>
       </ul>
     </li>
-    <li><a href=/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" class="yellow">différents textes à l'origine des scènes représentées</a>
+    <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" class="yellow">différents textes à l'origine des scènes représentées</a>
       <ul>
         <li><a href=/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" class="yellow">catherine d'alexandrie selon <cite>la légende dorée</cite></a></li>
         <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:17#barb-selon-legende" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" class="yellow">barbe la grande martyre selon <cite>la légende dorée</cite></a></li>
@@ -196,7 +196,7 @@
   <section><article>
     <h3 id="a-propos-de-cet-article" class="yellow">références de cet article</h3>
     <section><article>
-      <p>Pour réaliser cet article, nous sommes redevables de travaux de référence, particulièrement ceux de <a href="#de-vos-1" id="renvoi-de-vos-1" class="yellow">Dirk DE VOS, “Hans Memling - L'œuvre complète”</a> et <a href="#de-vos-2" id="renvoi-de-vos-2" class="yellow">“Hans Memling”</a>.</p>
+      <p>Pour réaliser cet article, nous sommes redevables de travaux de référence, particulièrement ceux de <a href="#de-vos-1" id="renvoi-de-vos-1" class="yellow">Dirk DE VOS, “Hans Memling - L'œuvre complète”</a> et <a href="#de-vos-2" id="de-vos-2" class="yellow">“Hans Memling”</a>.</p>
     </article></section>
 
     <section><article>
@@ -229,10 +229,10 @@
               <td>90-5544-028-0</td>
               </tr>
               </tbody>
-              </table>
-              </pre></li>
-              <li>en anglais:
-              <pre id="de-vos-2"><table>
+            </table>
+          </li>
+          <li>en anglais:
+            <table>
               <thead>
               <tr>
               <th><span hidden="">hidden</span></th>
@@ -275,6 +275,7 @@
               <table>
                 <thead>
                 <tr>
+                <th><span hidden="">hidden</span></th>
                 <th><span hidden="">hidden</span></th>
                 <th><span hidden="">hidden</span></th>
                 </tr>
@@ -437,7 +438,7 @@
         <p>C'est <a href="https://fr.wikipedia.org/wiki/Catherine_d'Alexandrie" title="https://fr.wikipedia.org/wiki/Catherine_d'Alexandrie" class="yellow">Catherine d'Alexandrie</a>, que l'on reconnaît à <span style="color: #e6a64d;">l'épée</span> et <span style="color: #e6a64d;">la roue brisée</span>, <span style="color: #e6a64d;">les instruments de son martyre</span> que l'on voit à ses pieds.</p>
       </article></section>
       <figure>
-        <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset=
+        <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-280.webp 280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-380.webp 380w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-480.webp 480w,
@@ -465,7 +466,7 @@
           <li>Lire le <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16" title="https://francois-vidit.com/docs/fr/saint-jean/page:16" class="yellow">texte de la Légende de Catherine d'Alexandrie selon le chapître 168 de <cite>La Légende Dorée</cite></a>.</li>
         </ul>
         <p>Il est tout à fait probable que Memling se soit fondé sur ce texte.</p>
-        <p>Les historiens modernes estiment que Catherine d'Alexandrie n'a pas réellement existé <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">note 1</a></sup>. L'église catholique elle-même le reconnaît: son culte a été retiré du calendrier général en <time datetime="1970">1970</time> <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">note 2</a></sup>.</p>
+        <p>Les historiens modernes estiment que Catherine d'Alexandrie n'a pas réellement existé <sup id="page-3-fnref1:1"><a href="#page-3-fn:1" class="footnote-ref">note 1</a></sup>. L'église catholique elle-même le reconnaît: son culte a été retiré du calendrier général en <time datetime="1970">1970</time> <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">note 2</a></sup>.</p>
       </article></section>
     </article></section>
 
@@ -481,7 +482,8 @@
         Au moment de son exécution, la voix de Jésus lui-même se serait alors fait entendre du ciel pour lui dire:</p>
         <blockquote cite="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende">
           <p><span style="color: #e6a64d;"><q>Viens, ma bien-aimée, ma belle!</q></span></p>
-        <p>Du fait de cette présence de sainte Catherine aux côtés de la Vierge et de l'enfant Jésus au centre du panneau central intérieur, le triptyque a quelques fois été appelé <span style="color: #e6a64d;">“le mariage mystique de sainte Catherine”</span> <sup id="fnref1:5"><a href="#fn:5" class="footnote-ref">note 3</a></sup>.</p>
+        <p>Du fait de cette présence de sainte Catherine aux côtés de la Vierge et de l'enfant Jésus au centre du panneau central intérieur, le triptyque a quelques fois été appelé <span style="color: #e6a64d;">“le mariage mystique de sainte Catherine”</span> <sup id="page-3-fnref1:5"><a href="#page-3-fn:5" class="footnote-ref">note 3</a></sup>.</p>
+        </blockquote>
       </article></section>
     </article></section>
   </article></section>
@@ -505,7 +507,8 @@
       <section><article>
         <p>Sur le derrière, à gauche, la présence d'un <span style="color: #e6a64d;">agneau blanc</span> nous permet d'identifier <span style="color: #e6a64d;">l'homme portant la</span> magnifique <span style="color: #e6a64d;">tunique violette</span> comme <a href="https://fr.wikipedia.org/wiki/Jean_le_Baptiste" title="https://fr.wikipedia.org/wiki/Jean_le_Baptiste" id="jean-le-baptiste" class="yellow">Jean le Baptiste</a>.</p>
         <p>L'agneau rappelle la parole que Jean le Baptiste adressa à ses disciples pour <span style="color: #e6a64d;">annoncer</span> la venue de <span style="color: #e6a64d;">Jésus dans le monde</span> <span style="color: #999;">(Jean, chapître 1 verset 29)</span>:</p>
-        <p class="conversation"><span style="color: #e6a64d;"><ruby style="color:#e6a64d;" lang="fr">Voici&#160;l'agneau&#160;de&#160;dieu<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce&#160;agnus&#160;dei</rt><rp>)</rp></ruby></span>.</p>
+        <blockquote>
+          <p class="conversation"><span style="color: #e6a64d;"><ruby style="color:#e6a64d;" lang="fr">Voici&#160;l'agneau&#160;de&#160;dieu<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce&#160;agnus&#160;dei</rt><rp>)</rp></ruby></span>.</p>
         </blockquote>
         <p>Jean le Baptiste désigne aussi de son bras droit l'enfant Jésus.</p>
       </article></section>
@@ -535,7 +538,7 @@
           <span style="color: #e6a64d;">«Maltraité, il s’humilie, il n’ouvre pas la bouche: comme <span style="text-decoration: underline;">un agneau</span> conduit à l’abattoir.»</span>
         </blockquote>
         <p>Sous sa tunique violette, se trouve <span style="color: #e6a64d;">une autre tunique</span>, brune claire, que le texte nous précise être de <span style="color: #e6a64d;">poil de chameau</span> <span style="color: #999;">(Marc chapître 1 verset 6)</span>, à l'imitation du vêtement de poil du prophète <a href="https://fr.wikipedia.org/wiki/Élie" title="https://fr.wikipedia.org/wiki/Élie" id="elie" class="yellow">Élie</a> <span style="color: #999;">(2 Rois chapître 1 verset 8)</span>.</p>
-        <p>Ce même vêtement de poil fait aussi référence à un épisode de <a href="https://fr.wikipedia.org/wiki/Livre_de_la_Genèse" title="https://fr.wikipedia.org/wiki/Livre_de_la_Genèse" id="elie" class="yellow">le Livre de la Génèse</a> <span style="color: #999;">(Gn 27:1-40)</span> durant lequel <a href="https://fr.wikipedia.org/wiki/Jacob" title="https://fr.wikipedia.org/wiki/Jacob" id="jacob" class="yellow">Jacob</a>, sur l'indication de sa mère <a href="https://fr.wikipedia.org/wiki/Rébecca_(Bible)" title="https://fr.wikipedia.org/wiki/Rébecca_(Bible)" id=rebecca" class="yellow">Rebecca</a>, se fait passer pour son frère <a href="https://fr.wikipedia.org/wiki/Ésaü" title="https://fr.wikipedia.org/wiki/Ésaü" id="esau" class="yellow>Ésaü</a> qui est très <span style="color: #e6a64d;">poilu</span>, auprès de son père aveugle, <a href="https://fr.wikipedia.org/wiki/Isaac" title="ttps://fr.wikipedia.org/wiki/Isaac" id="isaac" class="yellow">Isaac</a>, en revêtant un <span style="color: #e6a64d;">vêtement de poil</span>.</p>
+        <p>Ce même vêtement de poil fait aussi référence à un épisode de <a href="https://fr.wikipedia.org/wiki/Livre_de_la_Genèse" title="https://fr.wikipedia.org/wiki/Livre_de_la_Genèse" class="yellow">le Livre de la Génèse</a> <span style="color: #999;">(Gn 27:1-40)</span> durant lequel <a href="https://fr.wikipedia.org/wiki/Jacob" title="https://fr.wikipedia.org/wiki/Jacob" id="jacob" class="yellow">Jacob</a>, sur l'indication de sa mère <a href="https://fr.wikipedia.org/wiki/Rébecca_(Bible)" title="https://fr.wikipedia.org/wiki/Rébecca_(Bible)" id="rebecca" class="yellow">Rebecca</a>, se fait passer pour son frère <a href="https://fr.wikipedia.org/wiki/Ésaü" title="https://fr.wikipedia.org/wiki/Ésaü" id="esau" class="yellow">Ésaü</a> qui est très <span style="color: #e6a64d;">poilu</span>, auprès de son père aveugle, <a href="https://fr.wikipedia.org/wiki/Isaac" title="https://fr.wikipedia.org/wiki/Isaac" id="isaac" class="yellow">Isaac</a>, en revêtant un <span style="color: #e6a64d;">vêtement de poil</span>.</p>
         <p>Sa ruse lui permet d'être indûment béni et de devenir ainsi l'unique hértier à la place d'Ésaü.</p>
         <p>Cette tunique est aussi un signe de domination de l'animalité: dans le cas de Jean le Baptiste, le chameau étant un animal qui permet de traverser le désert, de domination l'animalité par l'ascèse.</p>
       </article></section>
@@ -547,7 +550,7 @@
         <p>De l'autre côté, à droite, <span style="color: #e6a64d;">un autre homme</span> debout, habillé comme un prêtre, de <span style="color: #e6a64d;">rouge</span>, fait de sa main droite le signe de croix sur <span style="color: #e6a64d;">une coupe</span>, dans laquelle il y a un <span style="color: #e6a64d;">serpent</span>: c'est <a href="https://fr.wikipedia.org/wiki/Jean_(apôtre)" title="https://fr.wikipedia.org/wiki/Jean_(apôtre)" id="jean-l-evangeliste-4" class="yellow">Jean l'Évangéliste</a>.</p>
       </article></section>
       <figure>
-        <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" rcset="
+        <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-280.webp 280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-380.webp 380w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-480.webp 480w,
@@ -568,7 +571,7 @@
       <section><article>
         <p>Nous reconnaissons <a href="https://fr.wikipedia.org/wiki/Jean_(apôtre)" title="https://fr.wikipedia.org/wiki/Jean_(apôtre)" id="jean-l-evangeliste" class="yellow">Jean l'Évangéliste</a> à un épisode du <span style="color: #999;">chapître 9</span> de <a href="https://fr.wikipedia.org/wiki/La_Légende_drée" title="https://fr.wikipedia.org/wiki/La_Légende_dorée" id="legende-doree-3" class="yellow"><cite>La Légende Dorée</cite></a>.</p>
         <ul>
-          <li>lire le <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" title="https://francois-vidit.comdocs/fr/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" id="renvoi-aristodeme" class="yellow">texte de la <cite href="https://francois-vidit.comdocs/fr/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme">Légende de Jean l'Évangéliste</cite> selon le chapître 9 de <cite>La Légende Dorée</cite></a>.</li>
+          <li>lire le <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" title="https://francois-vidit.comdocs/fr/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" id="renvoi-aristodeme" class="yellow">texte de la <cite>Légende de Jean l'Évangéliste</cite> selon le chapître 9 de <cite>La Légende Dorée</cite></a>.</li>
         </ul>
         <p>Jean l'Évangéliste y affronte <span style="color: #e6a64d;">Aristodème</span>, prêtre du temple de Diane en Asie <span style="color: #999;">(sans doute Éphèse)</span>, qui le défie publiquement de <span style="color: #e6a64d;">boire</span> une <span style="color: #e6a64d;">coupe empoisonnée</span>.</p>
         <p>Celui-ci fait, comme Memling le représente, le <span style="color: #e6a64d;">signe de croix</span>, boit la coupe mais le poison ne lui fait aucun mal.</p>
@@ -637,7 +640,7 @@
     <section><article>
       <h4 class="yellow">barbe la grande martyre, sa légende au XV<sup>ème</sup></h4>
       <section><article>
-        <p>Selon sa légende, Barbe habite <a href="https://fr.wikipedia.org/wiki/Nicomédie" title="https://fr.wikipedia.org/wiki/Nicomédie" id="nicomedie" class="yellow">Nicomédie</a>, capitale de l'ancienne province de <a href="https://fr.wikipedia.org/wiki/Bithynie" title="https://fr.wikipedia.org/wiki/Bithynie" id="bithynie class="yellow">Bithynie</a> et qui se trouve située dans le nord de la Turquie actuelle et donne sur la Mer Noire.
+        <p>Selon sa légende, Barbe habite <a href="https://fr.wikipedia.org/wiki/Nicomédie" title="https://fr.wikipedia.org/wiki/Nicomédie" id="nicomedie" class="yellow">Nicomédie</a>, capitale de l'ancienne province de <a href="https://fr.wikipedia.org/wiki/Bithynie" title="https://fr.wikipedia.org/wiki/Bithynie" id="bithynie" class="yellow">Bithynie</a> et qui se trouve située dans le nord de la Turquie actuelle et donne sur la Mer Noire.
         Barbe a le défaut d'être belle .., tellement belle, que très jeune, <span style="color: #e6a64d;">son père l'enferme dans une tour</span>!</p>
         <p>Le texte nous apprend que Barbe sent alors <span style="color: #e6a64d;">«le néant des choses terrestres»</span> et commence à se préoccuper <span style="color: #e6a64d;"><q>des choses célestes</q></span>.
         Bien que cela soit interdit à son époque, elle se détourne peu à peu des dieux romains et écrit secrètement au plus célèbre chrétien d'<a href="https://fr.wikipedia.org/wiki/Alexandrie" title="https://fr.wikipedia.org/wiki/Alexandrie" id="alexandrie" class="yellow">Alexandrie</a> en Égypte, <a href="https://fr.wikipedia.org/wiki/Origène" title="https://fr.wikipedia.org/wiki/Origène" class="yellow">Origène</a>
@@ -683,7 +686,7 @@
     <section><article>
       <div class="footnotes">
         <ol>
-          <li id="fn:1"><p>Nous suivons les références données dans l'article «Catherine d'Alexandrie» de Wikipedia (date de consultation: 15 août 2018), à savoir:</p>
+          <li id="page-3-fn:1"><p>Nous suivons les références données dans l'article «Catherine d'Alexandrie» de Wikipedia (date de consultation: 15 août 2018), à savoir:</p>
             <ul>
               <li>Gustave Bardy: Catherine d’Alexandrie. In: Dictionnaire d’histoire et de géographie ecclésiastiques, vol 11, Paris 1949, pp 1503–1505, ici: 1504.</li>
               <li>Christine Walsh: The Cult of St Katherine of Alexandria in Early Medieval Europe, Aldershot 2007, p. 3–26;</li>
@@ -695,14 +698,14 @@
         </ol>
       </div>
       <footer>
-        <p><a href="#fnref1:1" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+        <p><a href="#page-3-fnref1:1" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
       </footer>
     </article></section>
 
     <section><article>
       <div class="footnotes">
         <ol start="2">
-          <li id="fn:2">
+          <li id="page-3-fn:2">
             <p>Nous suivons les références données dans l'article «Catherine d'Alexandrie» de Wikipedia (date: 15 août 2018), à savoir:</p>
             <blockquote cite="https://fr.wikipedia.org/wiki/Catherine_d'Alexandrie#Réalité_historique_et_dévotion">
               <p>«Certains saints peuvent être populaires, en raison des légendes qui se sont créées autour de leurs noms, sans qu'on puisse même garantir qu'ils aient existé, tels saint Christophe, sainte Barbara, sainte Catherine d'Alexandrie, sainte Philomène. Ils ont été supprimés du calendrier général: le peuple chrétien ne peut être invité à une prière officielle que dans la vérité».</p>
@@ -711,29 +714,29 @@
           </li>
         </ol>
       </div>
-      <footer><p><a href="#fnref2:2" rev="footnote" class="footnote-backref">retour au texte ↩</a></p></footer>
+      <footer><p><a href="#page-3-fnref2:2" rev="footnote" class="footnote-backref">retour au texte ↩</a></p></footer>
     </article></section>
 
     <section><article>
       <div class="footnotes">
         <ol start="3">
-          <li id="fn:5">
+          <li id="page-3-fn:5">
             <p>comme, par exemple dans <a href="https://fr.wikipedia.org/wiki/Le_Mariage_mystique_de_sainte_Catherine_(Hans_Memling)" title="https://fr.wikipedia.org/wiki/Le_Mariage_mystique_de_sainte_Catherine_(Hans_Memling)">ce piètre article Wikipedia</a></p>
           </li>
         </ol>
       </div>
-      <footer><p><a href="#fnref1:5" rev="footnote" class="footnote-backref">retour au texte ↩</a></p></footer>
+      <footer><p><a href="#page-3-fnref1:5" rev="footnote" class="footnote-backref">retour au texte ↩</a></p></footer>
     </article></section>
 
     <section><article>
       <div class="footnotes">
       <ol start="4">
-        <li id="fn:3">
+        <li id="page-3-fn:3">
           <p>Barbe la grande martyre est aussi connue comme “sainte Barbe”.</p>
         </li>
       </ol>
       </div>
-      <footer><p><a href="#fnref1:3" rev="footnote" class="footnote-backref">retour au texte ↩</a></p></footer>
+      <footer><p><a href="#page-3-fnref1:3" rev="footnote" class="footnote-backref">retour au texte ↩</a></p></footer>
     </article></section>
   </article>
 </aside>
@@ -746,7 +749,7 @@
     <section><article>
       <h4 class="yellow">la conversation sacrée dans la scène du panneau central</h4>
       <section><article>
-        <p>Au couronnement de <a href="https://fr.wikipedia.org/wiki/Marie_(mère_de_Jésus)" title="https://frwikipedia.org/wiki/Marie_(mère_de_Jésus)" id="marie-mere-de-jesus" class="yellow">Marie</a>, la présence <span style="color: #e6a64d;">deux</span> à <span style="color: #e6a64d;">deux</span> de <a href="#catherine-d-alexandrie" itle="Catherine d'Alexandrie" class="yellow">Catherine</a> et <a href="#barbe" class="yellow">Barbe</a>, de <a href="#jean-le-baptiste-2" title="Jean le Baptiste" id="jean-le-baptiste-3" class="yello">Jean le Baptiste</a> et <a href="#jean-l-evangliste-3" title="Jean l'Évangéliste" id="jean-l-evangeliste-5" class="yellow">Jean l'Évangéliste</a> ajoute une <q><ruby style="color:#e6a64d;" lang="fr">conversation&#160;sacrée<rp>(</rp><rt style="font-size:70%;letter-spacing: 1px;color:#e6a64d;" lang="it">sacra&#160;conversazione</rt><rp>)</rp></ruby></q>, c'est-à-dire une <span style="color: #e6a64d;">réunion de saints</span> autour de la vierge.</p>
+        <p>Au couronnement de <a href="https://fr.wikipedia.org/wiki/Marie_(mère_de_Jésus)" title="https://frwikipedia.org/wiki/Marie_(mère_de_Jésus)" id="marie-mere-de-jesus" class="yellow">Marie</a>, la présence <span style="color: #e6a64d;">deux</span> à <span style="color: #e6a64d;">deux</span> de <a href="#catherine-d-alexandrie" title="Catherine d'Alexandrie" class="yellow">Catherine</a> et <a href="#barbe" class="yellow">Barbe</a>, de <a href="#jean-le-baptiste-2" title="Jean le Baptiste" id="jean-le-baptiste-3" class="yello">Jean le Baptiste</a> et <a href="#jean-l-evangliste-3" title="Jean l'Évangéliste" id="jean-l-evangeliste-5" class="yellow">Jean l'Évangéliste</a> ajoute une <q><ruby style="color:#e6a64d;" lang="fr">conversation&#160;sacrée<rp>(</rp><rt style="font-size:70%;letter-spacing: 1px;color:#e6a64d;" lang="it">sacra&#160;conversazione</rt><rp>)</rp></ruby></q>, c'est-à-dire une <span style="color: #e6a64d;">réunion de saints</span> autour de la vierge.</p>
       </article></section>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -877,7 +880,7 @@
       <h4 class="yellow">la <ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby>, conversion essentielle universelle, simple, pure, transparente</h4>
       <section><article>
         <section><article>
-          <p>En Flandres, à l'époque de Memling, un livre de piété chrétienne, <span style="color: #e6a64d;"><cite><a href="https://fr.wikipedia.org/wiki/L'Imitation_de_Jésus-Christ" title="https://fr.wikipedia.org/wiki/L'Imitation_de_Jésus-Christ" id="imitation-de-jesus-christ" class="yellow"><ruby lang="fr">L'Imitation&#160;de<rp>(</rp><rt lang="la">De&#160;imitatione</rt><rp>)</rp>&#160;Jésus-Christ<rp>(</rp><rt lang="la">Christi</rt><rp>)</rp><ruby></a></cite></span>, qui est un énorme succès d'édition <sup id="fnref1:4"><a href="#fn:4" class="footnote-ref">note 1</a></sup>, nous permet aujourd'hui de nous représenter ce qu'a pu être “<ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby>”.</p>
+          <p>En Flandres, à l'époque de Memling, un livre de piété chrétienne, <span style="color: #e6a64d;"><cite><a href="https://fr.wikipedia.org/wiki/L'Imitation_de_Jésus-Christ" title="https://fr.wikipedia.org/wiki/L'Imitation_de_Jésus-Christ" id="imitation-de-jesus-christ" class="yellow"><ruby lang="fr">L'Imitation&#160;de<rp>(</rp><rt lang="la">De&#160;imitatione</rt><rp>)</rp>&#160;Jésus-Christ<rp>(</rp><rt lang="la">Christi</rt><rp>)</rp></ruby></a></cite></span>, qui est un énorme succès d'édition <sup id="fnref1:4"><a href="#fn:4" class="footnote-ref">note 1</a></sup>, nous permet aujourd'hui de nous représenter ce qu'a pu être “<ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby>”.</p>
         </article></section>
 
         <section><article>
@@ -932,7 +935,8 @@
         <p>Enfin, la disposition exemplaire d'une représentation où les personnages sont parés des plus belles réalisations vestimentaires de la Bruges du XV<sup>ème</sup> siècle, cristallise le sentiment de <em>merveilleux</em>.</p>
         <p><span style="color: #e6a64d;">simplicité, évidence, idéalité spirituelles produisent</span> aussi de <em>manière continue</em> <span style="color: #e6a64d;">sophistication et opulence matérielles</span>.</p>
         <p><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" id="renvoi-de-vos-2" class="yellow">Dirk DE VOS</a> évoque:</p>
-        <p class="conversation"><span style="color: #e6a64d;">«un monde de vierges vêtues de brocart d'or, de soie et d'hermine, couronnes dorées et de pierres précieses rares»</span> où <span style="color: #e6a64d;">«l'enfant Jésus fait signe»</span> aux malades dans une <span style="color: #e6a64d;">«atmosphère empreinte de profonde sérénité»</span>.</p>
+        <blockquote>
+          <p class="conversation"><span style="color: #e6a64d;">«un monde de vierges vêtues de brocart d'or, de soie et d'hermine, couronnes dorées et de pierres précieses rares»</span> où <span style="color: #e6a64d;">«l'enfant Jésus fait signe»</span> aux malades dans une <span style="color: #e6a64d;">«atmosphère empreinte de profonde sérénité»</span>.</p>
         </blockquote>
         <p>De fait, à Bruges au XV<sup>ème</sup> siècle, simplicité et l'évidence ne connaissant pas de limites, mènent <em>merveilleusement</em> au divin.</p>
       </article></section>
@@ -1010,7 +1014,7 @@
       </div>
       <footer>
         <ul>
-          <li>retour au texte <a href="#renvoi-devotion-moderne" title="renvoi mouvement «<ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby>»">...une présentation détaillée de ce mouvement se trouve en note ↑</a></li>
+          <li>retour au texte <a href="#renvoi-devotion-moderne" title="renvoi mouvement">«<ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby>»</a> ...une présentation détaillée de ce mouvement se trouve en note ↑</a></li>
         </ul>
       </footer>
     </article></section>
@@ -1041,9 +1045,8 @@
     <section><article>
       <div class="footnotes">
         <ol>
-          <li id="fn:5">
-            <p>source: <cite href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis#cite_ref-5">L'imitation de notre Seigneur Jésus Christ</cite>, trad. de F. de Lamennais, Éd. Arts et Métiers graphiques, Paris, 1946, p. 59-60, II, 4, 1-2 (partie II, chapitre 4, paragraphes 1 et 2).</p></li>
-            </ul>
+          <li id="page-4-fn:5">
+            <p>source: <cite>L'imitation de notre Seigneur Jésus Christ</cite>, trad. de F. de Lamennais, Éd. Arts et Métiers graphiques, Paris, 1946, p. 59-60, II, 4, 1-2 (partie II, chapitre 4, paragraphes 1 et 2).</p>
             <p>D'après les spécialistes, son auteur est un moine: <a href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis" title="https://fr.wikipedia.org/wiki/Thomas_a_Kempis">Thomas A KEMPIS</a>.</p>
           </li>
         </ol>
@@ -1225,7 +1228,6 @@
 <article>
 <h3 id="legendes" class="yellow">scènes des légendes de Jean le Baptiste et Jean l'Évangéliste selon <cite>La Légende Dorée</cite></h3>
 <section><article>
-  <h4 id="legende-de-jean-le-baptiste" class="yellow">scènes de <cite>la légende de Jean le Baptiste</cite> selon <cite>La Légende Dorée</cite></h4>
   <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-280.webp 280w,
@@ -1253,8 +1255,8 @@
     <section><article>
       <p>Comme, dans les scène qu'a peinte Memling, ces textes sont fidèlement représentés, nous invitons les personnes qui qui souhaiteraient ressentir plus profondément la relation du triptyque aux différents texte à les lire directement:</p>
       <ul>
-        <li>lire le <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18" title="https://francois-vidit.com/docs/fr/saint-jean/page:18" class="yellow">texte original de la <cite href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18">Légende de Jean le Baptiste selon le chapître 9 de <cite>La Légende Dorée</cite></a>,</li>
-        <li>lire le <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:19" title="https://francois-vidit.com/docs/fr/saintjean/page:19" class="yellow">texte original de la <cite href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:19">Jean l'Évangéliste devant la Porte Latine selon le chapître 65 de <cite>La Légende Dorée</cite></a>.</li>
+        <li>lire le <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18" title="https://francois-vidit.com/docs/fr/saint-jean/page:18" class="yellow">texte original de la <cite>Légende de Jean l'Évangéliste</cite> selon le chapître 9 de <cite>La Légende Dorée</cite></a>,</li>
+        <li>lire le <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:19" title="https://francois-vidit.com/docs/fr/saintjean/page:19" class="yellow">texte original de la <cite>Légende de Jean l'Évangéliste</cite> devant la Porte Latine selon le chapître 65 de <cite>La Légende Dorée</cite></a>.</li>
       </ul>
     </article></section>
   </article></section>
@@ -1289,7 +1291,7 @@
 
     <section><article>
       <h5 class="yellow">Jean le Baptiste selon les documents d'histoire</h5>
-      <p>Sur le plan historique, Jean est décrit comme un <span style="color: #e6a64d;">prédicateur</span> juif en <a href="https://fr.wikipedia.org/wiki/Galilée_(région)" title="https://fr.wikipedia.org/wiki/Galilée_(région)" id="galilee" class="yellow">Galilée</a> de cette époque de <a href="https://fr.wikipedia.org/wiki/Jésus_de_Nazareth" title="https://fr.wikipedia.org/wiki/Jésus_de_Nazareth" id="jesus-denazareth" class="yellow">Jésus de Nazareth</a> selon le témoignage de <a href="https://fr.wikipedia.org/wiki/Flavius_Josèphe" title="https://fr.wikipedia.org/wiki/Flavius_Josèphe"id="flavius-josephe" class="yellow">Flavius Josèphe</a>, historien romain de confession juive du 1<sup style="color:#555;">er</sup> siècle <span style="color: #999;"><a href="https://fr.wikpedia.org/wiki/Antiquités_judaïques" title="https://fr.wikipedia.org/wiki/Antiquités_judaïques" id="antiquites-judaiques" class="yellow">(<cite>Antiquités judaïques</cite></a>, livre XVIII, chap.5, 118)</span>.</p>
+      <p>Sur le plan historique, Jean est décrit comme un <span style="color: #e6a64d;">prédicateur</span> juif en <a href="https://fr.wikipedia.org/wiki/Galilée_(région)" title="https://fr.wikipedia.org/wiki/Galilée_(région)" id="galilee" class="yellow">Galilée</a> de cette époque de <a href="https://fr.wikipedia.org/wiki/Jésus_de_Nazareth" title="https://fr.wikipedia.org/wiki/Jésus_de_Nazareth" id="jesus-denazareth" class="yellow">Jésus de Nazareth</a> selon le témoignage de <a href="https://fr.wikipedia.org/wiki/Flavius_Josèphe" title="https://fr.wikipedia.org/wiki/Flavius_Josèphe" id="flavius-josephe" class="yellow">Flavius Josèphe</a>, historien romain de confession juive du 1<sup style="color:#555;">er</sup> siècle <span style="color: #999;"><a href="https://fr.wikpedia.org/wiki/Antiquités_judaïques" title="https://fr.wikipedia.org/wiki/Antiquités_judaïques" id="antiquites-judaiques" class="yellow">(<cite>Antiquités judaïques</cite></a>, livre XVIII, chap.5, 118)</span>.</p>
       <p>La Galilée de l'époque est une province de l'empire romain qui connaît de nombreuses révoltes.</p>
       <p>Sa population, majoritairement juive, est très croyante;
       les écrits bibliques annoncent la venue d'un envoyé de dieu dont l'action permettra au peuple juif de recouvrer son indépendance et son organisation religieuse, notamment de reconstruire le <a href="https://fr.wikipedia.org/wiki/Temple_de_Salomon" title="https://fr.wikipedia.org/wiki/Temple_de_Salomon" id="temple-de-salomon" class="yellow">temple de Salomon</a> à Jérusalem.</p>
@@ -1456,7 +1458,7 @@
     </article></section>
 
     <figure>
-      <picure><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-280.webp 280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-380.webp 380w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-480.webp 480w,
@@ -1487,7 +1489,7 @@
       <p>En effet, <a href="https://fr.wikipedia.org/wiki/Hérode_Antipas" title="https://fr.wikipedia.org/wiki/Hérode_Antipas" id="herode-antipas" class="yellow">Hérode Antipas</a>, le tétrarque, c'est-à-dire gouverneur militaire romain, de Galilée et de Pérée, se marie à “la femme de <a href="https://fr.wikipedia.org/wiki/Hérode_Boëthos" title="https://fr.wikipedia.org/wiki/Hérode_Boëthos" id="herde-boethos" class="yellow">son frère Philippe</a>”, <a href="https://fr.wikipedia.org/wiki/Hérodiade" title="https://fr.wikipedia.org/wiki/Hérodiade" id="herodiade">Hérodiade</a> <span style="color: #999;">(Marc chap.6,17)</span>;</p>
       <p>comme la foi judaïque regarde tout mariage avec la femme de son frère comme une <span style="color: #e6a64d;"><q>souillure</q></span> et <span style="color: #e6a64d;">l'interdit</span> <span style="color: #999;">(Lévitique chap.18,16; chap.20,21)</span>, Jean, en tant que figure du mouvement religieux indépendantiste judaïque, prend position: il condamne Hérode publiquement.</p>
       <p><span style="color: #e6a64d;">Hérode craint</span> que cela ne suscite <q><span style="color: #e6a64d;">une révolte</span>, la foule semblant prête à suivre en tout les conseils de cet homme</q>.</p>
-      <p>il aime donc mieux s'emparer de lui avant que quelque trouble se produise à cause de lui, que d'avoir à se repentir plus tard si un mouvement avait lieu</q> <span style="color: #999;">(<cite>Antiquités judaïques</cite>, livre XVIII, chap.5,118)</span> <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">note 1</a></sup>.</p>
+      <p>il aime donc mieux s'emparer de lui avant que quelque trouble se produise à cause de lui, que d'avoir à se repentir plus tard si un mouvement avait lieu <span style="color: #999;">(<cite>Antiquités judaïques</cite>, livre XVIII, chap.5,118)</span> <sup id="page-7-fnref1:2"><a href="#page-7-fn:2" class="footnote-ref">note 1</a></sup>.</p>
       <p>En cas de troubles causés par les partisans de Jean, Hérode devait répondre de la situation aux autorités romaines, qui pouvait le destituer:</p>
       <p>il donne donc <span style="color: #e6a64d;">“l’ordre d’arrêter Jean”</span> <span style="color: #999;">(Marc chap.6,17)</span>.</p>
     </article></section>
@@ -1511,7 +1513,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1920.jpg 1920w"></picture><figcaption>détail du panneau central, “Arrestation de Jean le Baptiste par ordre d'Hérode Antipas”</figcaption>
     </figure>
     <section><article>
-      <p>Sur le panneau central au-dessus de l'agneau blanc, <span style="color: #e6a64d;">Jean est emmené</span> de force en direction de la prison sur le volet de gauche de l'actuelle ville de <a href="https://fr.wikipedia.org/wiki/Macheronte" title="https://fr.wikipedia.org/wiki/Macheronte" id="macheronte" class="yellow"><ruby style="color:#e6a64d;" lang="fr">Machéronte<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">μάχαιρα</rt><rp>)</rp</ruby></a>, dont l'éthymologie en grec ancien signifie “épée” et qui se situe dans l'actuelle Jordanie.</p>
+      <p>Sur le panneau central au-dessus de l'agneau blanc, <span style="color: #e6a64d;">Jean est emmené</span> de force en direction de la prison sur le volet de gauche de l'actuelle ville de <a href="https://fr.wikipedia.org/wiki/Macheronte" title="https://fr.wikipedia.org/wiki/Macheronte" id="macheronte" class="yellow"><ruby style="color:#e6a64d;" lang="fr">Machéronte<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">μάχαιρα</rt><rp>)</rp></ruby></a>, dont l'éthymologie en grec ancien signifie “épée” et qui se situe dans l'actuelle Jordanie.</p>
     </article></section>
   </article></section>
 </article>
@@ -1529,7 +1531,7 @@
     </ol>
     </div>
     <footer>
-      <p><a href="#fnref1:2" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+      <p><a href="#page-7-fnref1:2" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
     </footer>
   </article>
 </aside>
@@ -1599,7 +1601,7 @@
 
   <section><article>
     <p>La mise en scène se poursuit</p>
-    <p>Hérode fait mine que sa danse lui a plu. <span style="color: #e6a64d;">Pour se dégager de la responsabilité de la mort de Jean</span>, dit <span style="color: #999;">(Marc, chapître 6, versets 22 à 24):</p> 
+    <p>Hérode fait mine que sa danse lui a plu. <span style="color: #e6a64d;">Pour se dégager de la responsabilité de la mort de Jean</span>, dit <span style="color: #999;">(Marc, chapître 6, versets 22 à 24)</span>:</p> 
     <blockquote cite="https://www.aelf.org/bible/Mc/6#right-col">
       <ol class="doc">
         <li value="22">
@@ -1626,7 +1628,7 @@
     </blockquote>
     <p><span style="color: #999;">(Marc, chapître 6, versets 24 à 29)</span></p>
     <p>Ainsi, Hérode peut apparaître mettre à mort Jean contre son gré.</p>
-    <p>La preuve que tout ce récit est bien une mise en scène destinée à permettre de mettre à mort Jean sans provoquer une révolte des partisans de Jean, c'est, comme l'explique Jacques de Voragine, que si Salomé demande à Hérode <span style="color: #e6a64d;">“la mort de son père <a href="https://fr.wikipedia.org/wiki/Hérode_Boëthos" title="https://fr.wikipedia.org/wiki/Hérode_Boëthos" id="herode-boethos-2" class="yellow">Philippe</a> ou de sa mère <a href="https://fr.wikipedia.org/wiki/Hérodiade" title="https://fr.wikipedia.org/wiki/Hérodiade" id="herodiade-2" class="yello">Hérodiade</a>”</span>, Hérode ne peut y consentir <span style="color: #999;">(<cite>La Légende dorée</cite> chapître 121, I. <sup id="fnref1:1"><a href="#fn:1" class="footnote-rf">note 1</a></sup>)</span>.</p>
+    <p>La preuve que tout ce récit est bien une mise en scène destinée à permettre de mettre à mort Jean sans provoquer une révolte des partisans de Jean, c'est, comme l'explique Jacques de Voragine, que si Salomé demande à Hérode <span style="color: #e6a64d;">“la mort de son père <a href="https://fr.wikipedia.org/wiki/Hérode_Boëthos" title="https://fr.wikipedia.org/wiki/Hérode_Boëthos" id="herode-boethos-2" class="yellow">Philippe</a> ou de sa mère <a href="https://fr.wikipedia.org/wiki/Hérodiade" title="https://fr.wikipedia.org/wiki/Hérodiade" id="herodiade-2" class="yello">Hérodiade</a>”</span>, Hérode ne peut y consentir <span style="color: #999;">(<cite>La Légende dorée</cite> chapître 121, I. <sup id="page-8-fnref1:1"><a href="#page-8-fn:1" class="footnote-rf">note 1</a></sup>)</span>.</p>
     <p>La mise en scène a bien pour seul but de ne pas faire porter la responsabilité de la mise à mort de Jean à Hérode en le présentant faussement aux yeux de l'histoire comme accédant à cette demande contre sa volonté.</p>
   </article></section>
 
@@ -1664,13 +1666,13 @@
   <article>
     <div class="footnotes">
       <ol>
-        <li id="fn:1">
+        <li id="page-8-fn:1">
         <p>propos de <a href="https://fr.wikipedia.org/wiki/Jérôme_de_Stridon" title="https://fr.wikipedia.org/wiki/Jérôme_de_Stridon" id="saint-jerome" class="yellow">saint Jérôme</a> rapportés par Jacques de Voragine.</p>
         </li>
       </ol>
     </div>
     <footer>
-      <p><a href="#fnref1:1" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+      <p><a href="#page-8-fnref1:1" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
     </footer>
   </article>
 </aside>
@@ -1687,7 +1689,7 @@
       <p><span style="color: #e6a64d;">Le bourreau</span> est représenté de dos déposant <span style="color: #e6a64d;">la tête dans le plat</span> que lui présente une <a href="https://fr.wikipedia.org/wiki/Salomé_(fille_d'Hérodiade)" title="https://fr.wikipedia.org/wiki/Salomé_(fille_d'Hérodiade)" id="salome-3" class="yellow">Salomé</a> à peine émue.</p>
   </article></section>
     <figure>
-      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" rcset="
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-280.webp 280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-380.webp 380w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-480.webp 480w,
@@ -1715,7 +1717,7 @@
     <h6 class="yellow">Inspiration de Memling sur Van Der Weyden pour la scène de la décollation de Jean le Baptiste, volet intérieur gauche</h6>
 
     <section><article>
-      <p>Les historiens de l'art ont identifié dans les positions du bourreau et de Salomé <spanstyle="color: #e6a64d;">une reprise par Memling d'une scène</span> de son maître, <a href="https://fr.wikipedia.org/wiki/Rogier_van_der_Weyden" title="https://fr.wikipedia.org/wiki/Rogier_van_der_Weyden" id="rogier-van-der-weyden" class="yellow">Rogier VAN DER WEYDEN</a>, alors qu'il était son assistant à Bruxelles.</p>
+      <p>Les historiens de l'art ont identifié dans les positions du bourreau et de Salomé <span style="color: #e6a64d;">une reprise par Memling d'une scène</span> de son maître, <a href="https://fr.wikipedia.org/wiki/Rogier_van_der_Weyden" title="https://fr.wikipedia.org/wiki/Rogier_van_der_Weyden" id="rogier-van-der-weyden" class="yellow">Rogier VAN DER WEYDEN</a>, alors qu'il était son assistant à Bruxelles.</p>
       <p>Il s'agit du <span style="color: #e6a64d;"><cite>Tryptique de saint Jean</cite></span> peint vers <time datetime="1450">1450</time>-<time datetime="1455">55</time> qui se trouve aujourd'hui à la <a href="https://fr.wikipedia.org/wiki/Gemäldegalerie_(Berlin)" title="https://fr.wikipedia.org/wiki/Gemäldegalerie_(Berlin)" id="gemaldegalerie" class="yellow"><ruby lang="fr">Galerie&#160;de&#160;peintures<rp>(</rp><rt lang="de">Gemäldegalerie</rt><rp>)</rp></ruby></a> des <a href="https://fr.wikipedia.org/wikiMusées_d'État_de_Berlin" title="https://fr.wikipedia.org/wiki/Musées_d'État_de_Berlin" id="musees-d-etat-de-berlin" class="yellow"><ruby lang="fr">Musées&#160;d'état&#160;de&#160;Berlin<rp>(</rp><rt lang="de">Staatliche&#160;Museen&#160;zu&#160;Berlin</rt><rp>)</rp></ruby></a> <span style="color: #999;">(inv. n°534B)</span>, ci-dessous.</p>
     </article></section>
 
@@ -1744,7 +1746,7 @@
     <h6 class="yellow">Scène du déterrement et de la crémation du corps de Jean le Baptiste dans le lointain, panneau central intérieur</h6>
     <section><article>
       <p>Le récit de Marc se poursuit: <span style="color: #e6a64d;"><q>Ayant appris cela, les disciples de Jean vinrent prendre son corps et le déposèrent dans un tombeau</q></span> <span style="color: #999;">(Marc,chapître 6, verset 29)</span>.</p>
-      <p>D'après la tradition, celui-ci aurait été emmené loin des territoires contrôlés par Hérode Antipas, en Cisjordanie à <ruby style="color:#e6a64d;" lang="fr">Sébastée<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="grc">Σεβαστή</rt><rp>)</rp></ruby>, l'actuel village de <a href="https://fr.wikipedia.org/wiki/Sebastia" title="https://fr.wikipedia.org/wiki/Sebastia" id="sebastia" class="yellow"><ruby lang="fr">Sebastia<rp>(</rp><rt lang="ar">سبسطية</rt><rp>)</rp></ruby></a> et enterré auprès des prophètes <a href="https://fr.wikipedia.org/wiki/Élisée"title="https://fr.wikipedia.org/wiki/Élisée" id="elisee" class="yellow">Élisée</a> et <a href="https://fr.wikipedia.org/wiki/Abdias" title="https://fr.wikipedia.org/wiki/Abdias" id="abdias" class="yellow">Abdias</a>.</p>
+      <p>D'après la tradition, celui-ci aurait été emmené loin des territoires contrôlés par Hérode Antipas, en Cisjordanie à <ruby style="color:#e6a64d;" lang="fr">Sébastée<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="grc">Σεβαστή</rt><rp>)</rp></ruby>, l'actuel village de <a href="https://fr.wikipedia.org/wiki/Sebastia" title="https://fr.wikipedia.org/wiki/Sebastia" id="sebastia" class="yellow"><ruby lang="fr">Sebastia<rp>(</rp><rt lang="ar">سبسطية</rt><rp>)</rp></ruby></a> et enterré auprès des prophètes <a href="https://fr.wikipedia.org/wiki/Élisée" title="https://fr.wikipedia.org/wiki/Élisée" id="elisee" class="yellow">Élisée</a> et <a href="https://fr.wikipedia.org/wiki/Abdias" title="https://fr.wikipedia.org/wiki/Abdias" id="abdias" class="yellow">Abdias</a>.</p>
       <p>Sur la gauche du panneau central, à droite, derrière Jean le Baptite, Memling a fait apparaître cette dernière scène de sa légende.</p>
       <p>Comme ses miracles ne cessaient de se produire sur le lieu de sépulture de Jean, pour combattre la foi chrétienne naissante, <a href="https://fr.wikipedia.org/wiki/Julien_(empereur_romain)" title=" https://fr.wikipedia.org/wiki/Julien_(empereur_romain)" id="julien-l-apostat" class="yellow">l'empereur romain Julien l'Apostat</a> ordonne de déterrer le corps, de le brûler et disperser ses cendres à travers champs.</p>
     </article></section>
@@ -1856,7 +1858,7 @@
           <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:8#aristodeme" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:8#aristodeme" id="jean-l-apotre-3" class="yellow">Jean “l'Apôtre”</a> est l'<span style="color: #e6a64d;">un des deux «fils de <a href="https://fr.wikipedia.org/wiki/Zébédée" title="https://fr.wikipeia.org/wiki/Zébédée" id="zebedee" class="yellow">Zébédée</a>»</span> <span style="color: #999;">(Marc chapter 3 versets 16 à 19, Mathieu chapître 10 versets 2 à 5 et Luc chapître 6 versets 13 à 16)</span>.</li>
           <li>Son frère est <a href="htps://fr.wikipedia.org/wiki/Jacques_de_Zébédée" title="https://fr.wikipedia.org/wiki/https://fr.wikipedia.org/wiki/Jacques_de_Zébédée" id="jacques-le-majeur" class="yellow">Jacques dit «le Majeur»</a>.</li>
           <li>Jésus les appellent les <span style="color: #e6a64d;"><q>fils du tonnerre</q></span> <span style="color: #999;">(Marc chapître 3 verset 17)</span>.</li>
-          <li>Comme son frère et deux autres apôtres, <a href="https://fr.wikipedia.org/wiki/Pierre_(apôtre)" title="https://fr.wikipedia.org/wiki/Pierre_(apôtre)" id="simon-pierre" class="yellow">Simon-Pierre</a> et <a href="https://fr.wikipedia.org/wiki/André_(apôtre)" title="https://fr.wikipedia.org/wiki/André_(apôtre)" id="andre" clss="yellow">André</a>, c'est <span style="color: #e6a64d;">un des pêcheurs du lac de Tibériade</span> qui abandonne ses filets pour suivre Jésus.</li>
+          <li>Comme son frère et deux autres apôtres, <a href="https://fr.wikipedia.org/wiki/Pierre_(apôtre)" title="https://fr.wikipedia.org/wiki/Pierre_(apôtre)" id="simon-pierre" class="yellow">Simon-Pierre</a> et <a href="https://fr.wikipedia.org/wiki/André_(apôtre)" title="https://fr.wikipedia.org/wiki/André_(apôtre)" class="yellow">André</a>, c'est <span style="color: #e6a64d;">un des pêcheurs du lac de Tibériade</span> qui abandonne ses filets pour suivre Jésus.</li>
           <li>À partir de là, il est témoin:
             <ul>
               <li>de la <a href="https://fr.wikipedia.org/wiki/Transfiguration_(christianisme)" title="https://fr.wikipedia.org/wiki/Transfiguration_(christianisme)" id="transfiguration" class="yellow">transfiguration de Jésus</a> <span style="color: #999;">(Marc chapître 9 verset 2, Mathieu chapître 17 verset 1 et Luc chapître 9 verset 28)</span>,</li>
@@ -1916,7 +1918,7 @@
             <p>C'est également lui qui <q cite="https://www.aelf.org/bible/Jn/21#right-col">couché sur le sein de Jésus</q>, lui demande qui va le trahir <span style="color: #999;">(Jean chapître 13 versets 23 à 26)</span>.</p>
           </li>
           <li>
-            <p>Lors de la crucifixion, Jésus lui confie sa propre mère, en disant <span style="color: #999;">(Jean chapître 19 versets 26 à 27):</p>
+            <p>Lors de la crucifixion, Jésus lui confie sa propre mère, en disant <span style="color: #999;">(Jean chapître 19 versets 26 à 27)</span>:</p>
             <blockquote cite="https://www.aelf.org/bible/Jn/21#right-col">
               <ol class="doc">
                 <li value="26">
@@ -1974,7 +1976,7 @@
       <h5 id="jean-a-la-porte-latine" class="yellow">Jean l'Évangéliste ébouillanté sur ordre de l'empereur Domitien devant la Porte Latine à Rome</h5>
 
       <section><article>
-        <p>Le récit débute sur le panneau central <span style="color: #999;">(chap. 65)</span> <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">note 1</a></sup>:</p>
+        <p>Le récit débute sur le panneau central <span style="color: #999;">(chap. 65)</span> <sup id="page-10-fnref1:1"><a href="#page-10-fn:1" class="footnote-ref">note 1</a></sup>:</p>
         <ol class="doc">
           <li>«<span style="color: #e6a64d;">Jean</span> préchait à Éphèse lorsqu'il est arrêté par le proconsul et invité à sacrifier aux dieux.</li>
           <li>Comme il refuse, il est jeté en prison; on envoie alors à <span style="color: #e6a64d;">l'empereur Domitien</span> une lettre le désignant comme magicien sacrilège, contempteur des dieux et adorateur du crucifié.</li>
@@ -2019,7 +2021,7 @@
       <h5 class="yellow">Vue d'ensemble du volet intérieur droit: Jean témoigne de <cite>L'Apocalypse</cite> à Patmos</h5>
 
       <section><article>
-        <p>Le volet intérieur droit est entièrement consacré aux visions que Jean eut à Patmos <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">note 2</a></sup>.</p>
+        <p>Le volet intérieur droit est entièrement consacré aux visions que Jean eut à Patmos <sup id="page-10-fnref1:2"><a href="#page-10-fn:2" class="footnote-ref">note 2</a></sup>.</p>
         <p>La représentation de Memling est particulièrement remarquable car s'il existe de nombreuses représentations de <cite>L'Apocalypse</cite> comme une succession de tableaux, en revanche il n'en existe que très peu qui assument une unité de l'espace de la représentation.</p>
         <p>Et pour cause: le récit de Jean de Patmos présente une complexité remarquable.</p>
         <p>Et pourtant, Memling réussit le tour de force de rendre l'espace de représentation aussi crédible, complexe surnaturellement que le récit.</p>
@@ -2126,50 +2128,50 @@
   <article>
   <div class="footnotes">
     <ol>
-      <li id="fn:1">
+      <li id="page-10-fn:1">
         <p>la citation qui suit est au passé; pour information, je la transpose ici au présent.</p>
       </li>
     </ol>
     </div>
     <footer>
-      <p><a href="#fnref1:1" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+      <p><a href="#page-10-fnref1:1" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
     </footer>
   </article>
   <article>
     <div class="footnotes">
     <ol start="2">
-      <li id="fn:2">
+      <li id="page-10-fn:2">
         <p>les passages du texte de l'Apocalypse qui se rapporte au volet de droite se trouve <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#apocalypse" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#apocalypse">ici</a></p>
       </li>
     </ol>
     </div>
     <footer>
-      <p><a href="#fnref1:2" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+      <p><a href="#page-10-fnref1:2" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
     </footer>
   </article>
   <article>
     <div class="footnotes">
     <ol start="3">
-      <li id="fn:3">
+      <li id="page-10-fn:3">
         <p>Le texte de l'Apocalypse s'adresse aux «sept églises qui sont en Asie Mineure» (<q>Éphèse, Smyrne, Pergame, Thyatire, Sardes, Philadelphie et Laodicée</q>, Apocalypse 1.4) dans le langage symbolique des Écritures judaïques.</p>
-        <p>Il exhorte à une réalité transcendante devant leurs permettre de surmonter non seulement les persécutions, quelles soient romaines ou judaïques, mais aussi leurs propres insuffisance <span style="color: #999;">(<ite>Apocalypse</cite> chap.2-3)</span> grâce à l'espérance nouvelle dans le christ à la fin des temps.</p>
+        <p>Il exhorte à une réalité transcendante devant leurs permettre de surmonter non seulement les persécutions, quelles soient romaines ou judaïques, mais aussi leurs propres insuffisance <span style="color: #999;">(<cite>Apocalypse</cite> chap.2-3)</span> grâce à l'espérance nouvelle dans le christ à la fin des temps.</p>
       </li>
     </ol>
     </div>
     <footer>
-      <p><a href="#fnref1:3" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+      <p><a href="#page-10-fnref1:3" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
     </footer>
   </article>
   <article>
     <div class="footnotes">
     <ol start="4">
-      <li id="fn:4">
+      <li id="page-10-fn:4">
         <p>nous faisons le choix de remplacer le terme <q>halo de lumière</q> par <q>arc-en-ciel</q> qui correspond à la représentation de Memling étant donné la note de la traduction œuménique de la bible (Édition avril 1989, p.1799, note w.) <q>le même mot grec désigne aussi l'arc-en-ciel, ou encore une auréole</q>.</p>
       </li>
     </ol>
     </div>
     <footer>
-      <p><a href="#fnref1:4" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+      <p><a href="#page-10-fnref1:4" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
     </footer>
   </article>
 </aside>
@@ -2193,7 +2195,7 @@
             <li value="01">
               <p>Alors j’ai vu: quand l’agneau ouvrit l’un des sept sceaux, j’entendis l’un des quatre vivants dire d’une voix de tonnerre:</p>
               <p class="conversation">
-                <p><q>Viens!</q></p>
+                “Viens!”
               </p>
             </li>
             <li value="02">Alors j’ai vu: et voici un <span style="color: #e6a64d;">cheval blanc</span>; celui qui le montait tenait un <span style="color: #e6a64d;">arc</span>, une <span style="color: #e6a64d;">couronne</span> lui fut donnée, et il sortit vainqueur, pour vaincre à nouveau.</li>
@@ -2230,7 +2232,7 @@
         <ol class="doc">
           <li value="03">Et quand il ouvrit le deuxième sceau, j’entendis le deuxième vivant qui disait:</p>
             <p class="conversation">
-              <p>“Viens!”</p>
+              “Viens!”
             </p>
           </li>
           <li value="04">Alors sortit un autre <span style="color: #e6a64d;">cheval</span>, <span style="color: #e6a64d;">rouge feu</span>; à celui qui le montait il fut donné d’enlever la paix à la terre, pour que les gens s’entretuent, et une grande <span style="color: #e6a64d;">épée</span> lui fut donnée.</li>
@@ -2267,14 +2269,14 @@
           <li value="05">
             <p>Et quand il ouvrit le troisième sceau, j’entendis le troisième vivant qui disait:</p>
             <p class="conversation">
-              <p>“Viens!”</p>
+              “Viens!”
             </p>
           <p>Alors j’ai vu: et voici un <span style="color: #e6a64d;">cheval noir</span>; celui qui le montait tenait à la main une <span style="color: #e6a64d;">balance</span>.</p>
           </li>
           <li value="06">
           <p>Et j'entendis comme une voix au milieu des quatre vivants; elle disait:</p>
             <p class="conversation">
-              <p>“Un denier, la mesure de blé! Un denier, les trois mesures d’orge! Ne fraude pas sur l’huile et sur le vin!”</p>
+              “Un denier, la mesure de blé! Un denier, les trois mesures d’orge! Ne fraude pas sur l’huile et sur le vin!”
             </p>
           </li>
         </ol>
@@ -2309,7 +2311,7 @@
           <li value="07">
           <p>Et quand il ouvrit le quatrième sceau, j’entendis la voix du quatrième vivant qui disait:</p>
           <p class="conversation">
-            <p>“Viens!”</p>
+            “Viens!”
           </p>
           </li>
           <li value="08">Alors j’ai vu: et voici un <span style="color: #e6a64d;">cheval verdâtre</span>; celui qui le montait se nomme <span style="color: #e6a64d;">la mort</span>, et le <span style="color: #e6a64d;">séjour des morts</span> l’accompagnait.</li>
