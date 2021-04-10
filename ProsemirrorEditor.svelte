@@ -200,6 +200,7 @@
 
 :global(.puce) {
     display: list-item;
+    list-style-type: disc;
     margin-top: 1em;
     margin-block-end: 1em;
     margin-block-start: 1em;
