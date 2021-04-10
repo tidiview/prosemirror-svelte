@@ -419,7 +419,7 @@
           </footer>
         </article></section>
         <footer>
-          <p>back to text: <a href="#mathieu" title="If you wish to be perfect">story of the rich host ↑</a></p>
+          <p class="puce">back to text: <a href="#mathieu" title="If you wish to be perfect">story of the rich host ↑</a></p>
         </footer>
       </article></section> 
     </aside>
