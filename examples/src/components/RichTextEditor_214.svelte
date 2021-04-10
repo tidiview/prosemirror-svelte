@@ -121,9 +121,15 @@
               <p><span style="color: #165493;">Now thou art come hither and she may not see thee.</span></p>
             </p>
             <p><span style="color: #994c3d;">St. John</span> had great pity on her that was dead, and of the people that wept for her, and commanded that they should set down the bier, and unbind and take away the clothes from her. And when they had so done he said, hearing all, with a loud voice,</p>
-            <p class="conversation">
+            <p id="drusiane" class="conversation">
               <span style="color: #df8f20;">— «Drusiana, my Lord God Jesus Christ ariseth thee;</span> <span style="color: #df8f20;">Drusiana arise, and go into thy house, and make ready for me some refection.»</span></p>
             <p>Anon she arose and went in to her house for to do the commandment of <span style="color: #994c3d;">St. John</span>, and the people made three hours long a great noise and cry, saying there is but one God, and that is he whom <span style="color: #994c3d;">St. John</span> preacheth.</p>
+            <footer>
+              <ul>
+                <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:14#renvoi-drusiane">Back to related text ↩</a></p></li>
+                <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:14#image-drusiane">Back to related image ↩</a></p></li>
+              </ul>
+            </footer>
           </article></section>
 
           <h5 class="yellow" id="the-baptisma-of-crato">the baptisma of Crato</h5>
@@ -155,7 +161,7 @@
             <p><span style="color: #994c3d;">firstly</span>, <span style="color: #994c3d;">this refusal by the world was rented by men, but rejected by the divine judgment</span>; </p>
             <p><span style="color: #994c3d;">Secondly</span>, <span style="color: #994c3d;">this gesture, which does not serve the vice, is in vain, as is pointless any cure that does not involve a disease</span>.</p>
             <p><span style="color: #994c3d;">Finally</span>, <span style="color: #994c3d;">the contempt of the world is meritorious to the person who distributes his property to the poor</span>, following what the Lord said to a young man: <a href="#note_mathieu" title="If you wish to be perfect" id="mathieu" class="yellow">«If you want to be perfect, go, etc.»</a></p>
-            <p>Craton replied:</p>
+            <p>Crato replied:</p>
             <p class="conversation">
               — «If your master is truly God and if he wants the price of these stones to be given to the poor, make them reconstituted: So you can turn to his glory what I did to praise men.»</span>
             </p>
@@ -245,7 +251,7 @@
               <span style="color: #df8f20;">— «What do you want to do? Say it and I'll do what you'll like.»</span>
             </p>
             <p>The other replied:</p>
-            <p>«If you want me to believe in your God, I will give you a drink of poison and if he does not hurt you, your lord will appear as the true God.»</p>
+            <p id="poison" class="conversation">«If you want me to believe in your God, I will give you a drink of poison and if he does not hurt you, your lord will appear as the true God.»</p>
             <p class="conversation">
               <span style="color: #df8f20;">— «Do as you say» said the apostle.</span>
             </p>
@@ -263,13 +269,25 @@
             </p>
             <p>Do you really think that your tunic will make me believe?  said the other one.</p>
             <p>The apostle says:</p>
-            <p class="conversation">
+            <p id="crato" class="conversation">
               <span style="color: #df8f20;">— «Go and throw it on the dead body by saying:</span></p>
               <p><span style="color: #df8f20;">“The apostle of Christ sent me to you for you to resurface in the name of Christ”».</span></p>
             </p>
             <p>The priest executed and the dead resurrected immediately.</p>
             <p>So the apostle named in the name of Christ the priest and the proconsul, who converged with their entire family and then built a church in honor of <span style="color: #994c3d;">St. John</span>.</p>
+            <footer>
+              <ul>
+                <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:14#renvoi-poison">Back to related text ↩</a></p></li>
+                <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:14#image-poison">Back to related image ↩</a></p></li>
+              </ul>
+            </footer>
           </article></section>
+            <footer>
+              <ul>
+                <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:14#renvoi-crato">Back to related text ↩</a></p></li>
+                <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:14#image-crato">Back to related image ↩</a></p></li>
+              </ul>
+            </footer>
         </article></section>
       </article></section>
 
