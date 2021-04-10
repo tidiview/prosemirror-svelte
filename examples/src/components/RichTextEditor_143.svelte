@@ -200,61 +200,60 @@
       <section><article>
         <ul>
           <li>フランス語で：
-            <pre id="de-vos-1">
-              <table>
-                <thead>
-                <tr>
-                <th><span hidden>hidden</span></th>
-                <th><span hidden>hidden</span></th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr>
-                <td>題名</td>
-                <td>出版年</td>
-                <td>ISBN-10</td>
-                </tr>
-                <tr>
-                <td>Hans Memling : l'œuvre complète</td>
-                <td>1994</td>
-                <td>2-226-06992-5</td>
-                </tr>
-                <tr>
-                <td>Hans Memling : catalogue</td>
-                <td>1994</td>
-                <td>90-5544-028-0</td>
-                </tr>
-                </tbody>
-                </table>
-                </pre></li>
-                <li>英語で：
-                <pre id="de-vos-2">
-                <table>
-                <thead>
-                <tr>
-                <th><span hidden>hidden</span></th>
-                <th><span hidden>hidden</span></th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr>
-                <td>題名</td>
-                <td>出版年</td>
-                <td>ISBN-10</td>
-                </tr>
-                <tr>
-                <td>Hans Memling: The Complete Works</td>
-                <td>1994</td>
-                <td>0840936496</td>
-                </tr>
-                <tr>
-                <td>Hans Memling: Catalogue</td>
-                <td>1994</td>
-                <td>9055440299</td>
-                </tr>
-                </tbody>
+            <table>
+              <thead>
+              <tr>
+              <th><span hidden>hidden</span></th>
+              <th><span hidden>hidden</span></th>
+              <th><span hidden>hidden</span></th>
+              </tr>
+              </thead>
+              <tbody>
+              <tr>
+              <td>題名</td>
+              <td>出版年</td>
+              <td>ISBN-10</td>
+              </tr>
+              <tr>
+              <td>Hans Memling : l'œuvre complète</td>
+              <td>1994</td>
+              <td>2-226-06992-5</td>
+              </tr>
+              <tr>
+              <td>Hans Memling : catalogue</td>
+              <td>1994</td>
+              <td>90-5544-028-0</td>
+              </tr>
+              </tbody>
               </table>
-            </pre>
+              </pre></li>
+              <li>英語で：
+              <pre id="de-vos-2">
+              <table>
+              <thead>
+              <tr>
+              <th><span hidden>hidden</span></th>
+              <th><span hidden>hidden</span></th>
+              </tr>
+              </thead>
+              <tbody>
+              <tr>
+              <td>題名</td>
+              <td>出版年</td>
+              <td>ISBN-10</td>
+              </tr>
+              <tr>
+              <td>Hans Memling: The Complete Works</td>
+              <td>1994</td>
+              <td>0840936496</td>
+              </tr>
+              <tr>
+              <td>Hans Memling: Catalogue</td>
+              <td>1994</td>
+              <td>9055440299</td>
+              </tr>
+              </tbody>
+            </table>
           </li>
         </ul>
       </article></section>
@@ -269,28 +268,26 @@
         <div class="notices yellow">
           <ul>
             <li>フランス語で：
-              <pre id="lorents-1">
-                <table>
-                  <thead>
-                  <tr>
-                  <th><span hidden>hidden</span></th>
-                  <th><span hidden>hidden</span></th>
-                  </tr>
-                  </thead>
-                  <tbody>
-                  <tr>
-                  <td>題名</td>
-                  <td>出版年</td>
-                  <td>ISBN-10</td>
-                  </tr>
-                  <tr>
-                  <td>Hans Memling au Louvre (exposition, Musée du Louvre, Salle de la Chapelle, aile Sully, 18 Mai-14 Août 1995)</td>
-                  <td>1995</td>
-                  <td>2-7118-3275-9</td>
-                  </tr>
-                  </tbody>
-                </table>
-              </pre>
+              <table>
+                <thead>
+                <tr>
+                <th><span hidden>hidden</span></th>
+                <th><span hidden>hidden</span></th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                <td>題名</td>
+                <td>出版年</td>
+                <td>ISBN-10</td>
+                </tr>
+                <tr>
+                <td>Hans Memling au Louvre (exposition, Musée du Louvre, Salle de la Chapelle, aile Sully, 18 Mai-14 Août 1995)</td>
+                <td>1995</td>
+                <td>2-7118-3275-9</td>
+                </tr>
+                </tbody>
+              </table>
             </li>
           </ul>
         </div>
@@ -553,7 +550,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1920.jpg 1920w"></picture><figcaption>福音書記者ヨハネ</figcaption>
       </figure>
       <section><article>
-        <p>私たちは<a href="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" title="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" id="jean-l-evangeliste" class="yellow">福音書記者ヨハネ</a>であることが<a href="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" title="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" id="legende-doree-2" class="yellow"><cite>黄金伝説</cite></a>の<span style="color: #999;">第９章</span>の巻から明らかにしています。</p>
+        <p>私たちは<a href="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" title="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" id="jean-l-evangeliste" class="yellow">福音書記者ヨハネ</a>であることが<a href="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" title="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" id="legende-doree-3" class="yellow"><cite>黄金伝説</cite></a>の<span style="color: #999;">第９章</span>の巻から明らかにしています。</p>
         <ul>
           <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" id="renvoi-aristodeme" class="yellow"><cite>黄金伝説</cite>の第９章による<cite>福音書記者の伝説</cite>の文書</a>を読む。</li>
         </ul>
@@ -571,7 +568,7 @@
       <section><article>
         <h5 class="yellow">ヘブライ語での「ヨハネ」の名の語源</h5>
         <p>「ヨハネ」という名前の語源がヘブライ語の<span style="color: #e6a64d;">「</span><ruby lang="ja" style="color:#e6a64d;">ヨ<rp>(</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">יו</rt><rp>)</rp>ハ<rp>(</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ח</rt><rp>)</rp>ナン<rp>(</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">נן</rt><rp>)</rp></ruby><span style="color: #e6a64d;">」</span>から来ています。発音は：</p>
-        <p><audio controls="1" title="ヘブライ語での「ヨハナン」の発音" alt="ヘブライ語での「ヨハナン」の発音"><source src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/prononciation-yokhanan.mp3" type="audio/mpeg">あなたのブラウザーは <code>audio</code> 要素に対応していません。</audio></p>
+        <p><audio controls title="ヘブライ語での「ヨハナン」の発音" alt="ヘブライ語での「ヨハナン」の発音"><source src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/prononciation-yokhanan.mp3" type="audio/mpeg">あなたのブラウザーは <code>audio</code> 要素に対応していません。</audio></p>
         <p>文字通りに<span style="color: #e6a64d;">「</span><ruby lang="ja" style="color:#e6a64d;">神<rp>(</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ヨ</rt><rp>)</rp></ruby><span style="color: #e6a64d;">」</span>が<span style="color: #e6a64d;">「</span><ruby lang="ja" style="color:#e6a64d;">恵<rp>(</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ハナン</rt><rp>)</rp></ruby><span style="color: #e6a64d;">」</span>か<span style="color: #e6a64d;">「</span><ruby lang="ja" style="color:#e6a64d;">慈悲<rp>(</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ハナン</rt><rp>)</rp></ruby><span style="color: #e6a64d;">」</span>。</p>
         <p>同時にヘブライ語では、「神」は「存在しているもの」という意味をも持っているから、<span style="color: #e6a64d;">「恵」</span>か<span style="color: #e6a64d;">「慈悲」</span>が<span style="color: #e6a64d;">「宿るもの」</span>という意味になります。</p>
         <p><span style="color: #e6a64d;">この名前</span>がヘブライの民の歴史のあまり知られていない他の人物の名前として知られているとしても、とても<span style="color: #e6a64d;">人気</span>と<span style="color: #e6a64d;">なった</span>のはキリスト教が芽生えた後、<span style="color: #e6a64d;">キリスト教界</span>での二人が果したとても大切な役割からです。これらの役割をこれから細かく語ります。</p>
@@ -615,7 +612,7 @@
     </article></section>
     <section><article>
       <h4 class="yellow">大殉教者バルバラ、十五世紀での伝説</h4>
-      <p>その伝説によりますと、バルバラは旧<a href="https://ja.wikipedia.org/wiki/ビテュニア" title="https://ja.wikipedia.org/wiki/ビテュニア" id="bithynie" class="yellow">ビテュニア</a>の首都<a href="https://ja.wikipedia.org/wiki/イズミット" title="https://ja.wikipedia.org/wiki/イズミット" id="nicomedie" class="yellow">二コメディア</a> <sup id="fnref1:5"><a href="#fn:5" class="footnote-ref">ノート５</a></sup> に住んでいました。
+      <p>その伝説によりますと、バルバラは旧<a href="https://ja.wikipedia.org/wiki/ビテュニア" title="https://ja.wikipedia.org/wiki/ビテュニア" id="bithynie" class="yellow">ビテュニア</a>の首都<a href="https://ja.wikipedia.org/wiki/イズミット" title="https://ja.wikipedia.org/wiki/イズミット" id="nicomedie" class="yellow">二コメディア</a> <sup id="page-3-fnref1:5"><a href="#fn:5" class="footnote-ref">ノート５</a></sup> に住んでいました。
       欠点としてバルバラは美しいこと。。、こんなに美しいことから、とても若いころに、<span style="color: #e6a64d;">彼女のお父さんが彼女を塔に閉じ込めさせましたの</span>！</p>
       <p>文書だとバルバラがそこから<q style="quotes: '「' '」';color: #e6a64d;"><span style="color: #e6a64d;">地上的現世の拙さ</span></q>を感じて、<q style="quotes: '「' '」';color: #e6a64d;"><span style="color: #e6a64d;">天上的<ruby style="color:#e6a64d;">妙<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">たえ</rt><rp>)</rp></ruby>なるものごと</span></q>に気にし始めるとなっています。
       当時には禁じられているのに、彼女が少しづつローマの神々から離れて、密かに<a href="https://ja.wikipedia.org/wiki/アレクサンドリア" title="https://ja.wikipedia.org/wiki/アレクサンドリア" id="alexandrie" class="yellow">アレクサンドリア</a>の一有名のキリスト教徒<a href="https://ja.wikipedia.org/wiki/オリゲネス" title="https://ja.wikipedia.org/wiki/オリゲネス" class="yellow">オリゲネス</a>に手紙を書きます。
@@ -723,7 +720,7 @@
         </li>
       </ol>
       <footer>
-        <p><a href="#fnref1:5" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
+        <p><a href="#page-3-fnref1:5" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
       </footer>
     </article></section>
   </article>
@@ -737,7 +734,7 @@
     <section><article>
       <h4 class="yellow">中央パネルの場面での聖なる会話</h4>
       <section><article>
-        <p><a href="https://ja.wikipedia.org/wiki/聖母マリア" title="https://ja.wikipedia.org/wiki/聖母マリア" id="marie-mere-de-jesus" class="yellow">マリア</a>の戴冠式には、<a href="#catherine-d-alexandrie" title="アレクサンドリアのカタリナ" class="yellow">カタリナ</a>と<a href="#barbe" class="yellow">バルバラ</a>、<a href="#jean-le-baptiste-2" title="洗礼者ヨハネ" id="jean-le-baptiste-3" class="yellow">洗礼者ヨハネ</a>と<a href="#jean-l-evangeliste-3" title="福音書記者ヨハネ" id="jean-l-evangeliste-4" class="yellow">福音書記者ヨハネ</a>のいわゆる<span style="color: #e6a64d;">「</span><ruby style="color:#e6a64d;">聖なる会話<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;">サクラ・コンヴェルサツィオーネ</rt><rp>)</rp></ruby><span style="color: #e6a64d;">」</span> <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">ノート１</a></sup> 聖母の周りの<span style="color: #e6a64d;">聖人の集会</span>にニ人ずつ参加しています。</p>
+        <p><a href="https://ja.wikipedia.org/wiki/聖母マリア" title="https://ja.wikipedia.org/wiki/聖母マリア" id="marie-mere-de-jesus" class="yellow">マリア</a>の戴冠式には、<a href="#catherine-d-alexandrie" title="アレクサンドリアのカタリナ" class="yellow">カタリナ</a>と<a href="#barbe" class="yellow">バルバラ</a>、<a href="#jean-le-baptiste-2" title="洗礼者ヨハネ" id="jean-le-baptiste-3" class="yellow">洗礼者ヨハネ</a>と<a href="#jean-l-evangeliste-3" title="福音書記者ヨハネ" id="jean-l-evangeliste-5" class="yellow">福音書記者ヨハネ</a>のいわゆる<span style="color: #e6a64d;">「</span><ruby style="color:#e6a64d;">聖なる会話<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;">サクラ・コンヴェルサツィオーネ</rt><rp>)</rp></ruby><span style="color: #e6a64d;">」</span> <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">ノート１</a></sup> 聖母の周りの<span style="color: #e6a64d;">聖人の集会</span>にニ人ずつ参加しています。</p>
       </article></section>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -792,7 +789,7 @@
   </article></section>
 
   <section><article>
-    <h3 id="devotion-moderne" class="yellow">聖なる会話L、「新しき信心」注目に値する表現</h3>
+    <h3 class="yellow">聖なる会話L、「新しき信心」注目に値する表現</h3>
     <section><article>
       <h4 class="yellow">左右対称、単純さ、中心人物の配置の識別</h4>
       <section><article>
@@ -1749,7 +1746,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-840.webp 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1280.webp 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1600.webp 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-640.jpg" title="ロヒール・ファン・デル・ウェイデン、左翼パネル内面の詳細、《聖ヨハネの三連画》、ベルリン国立美術館、絵画館、ベルリン" alt="ロヒール・ファン・デル・ウェイデン、左翼パネル内面の詳細、《聖ヨハネの三連画》、ベルリン国立美術館、絵画館、ベルリン" class="class-40-img" ean le baptistesizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-640.jpg" title="ロヒール・ファン・デル・ウェイデン、左翼パネル内面の詳細、《聖ヨハネの三連画》、ベルリン国立美術館、絵画館、ベルリン" alt="ロヒール・ファン・デル・ウェイデン、左翼パネル内面の詳細、《聖ヨハネの三連画》、ベルリン国立美術館、絵画館、ベルリン" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-280.jpg 280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-380.jpg 380w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-480.jpg 480w,
@@ -1874,7 +1871,7 @@
         <p>洗礼者ヨハネと違って、歴史的視点から、キリスト教的信仰から生じたの他、<span style="color: #e6a64d;">なんの歴史的資料も存在しません</span>。</p>
         <p>それらのキリスト教からの資料と現代の専門家たちに寄りますと、<span style="color: #e6a64d;">福音書記者ヨハネが以下の人物を指しえます</span>：</p>
         <ol>
-          <li><a href="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" title="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" id="jean-l-apotre" class="yellow">「使徒」ヨハネ</a>。マルコ、ルカ、マタイの諸福音書と使徒言行録に登場する人物、</li>
+          <li><a href="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" title="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" class="yellow">「使徒」ヨハネ</a>。マルコ、ルカ、マタイの諸福音書と使徒言行録に登場する人物、</li>
           <li><a href="https://ja.wikipedia.org/wiki/イエスの愛しておられた弟子" title="https://ja.wikipedia.org/wiki/イエスの愛しておられた弟子" id="disciple-que-jesus-aimait" class="yellow">イエスの愛しておられた弟子</a>「ヨハネの」だと言われている福音の書記者、</li>
           <li><a href="https://fr.wikipedia.org/wiki/Jean_de_Patmos" title="https://fr.wikipedia.org/wiki/Jean_de_Patmos" id="jean-de-patmos" class="yellow">「パトモス島の」ヨハネ</a>。黙示録の書記者。</li>
         </ol>
@@ -1882,14 +1879,14 @@
     </article></section>
 
     <section><article>
-      <h5 id="jean-l-apotre-2" class="yellow">「使徒」ヨハネ</h5>
+      <h5 class="yellow">「使徒」ヨハネ</h5>
 
       <section><article>
         <ul>
           <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" id="jean-l-apotre-3" class="yellow">「使徒」ヨハネ</a>は<span style="color: #e6a64d;">「<a href="https://ja.wikipedia.org/wiki/ゼベダイの子" title="https://ja.wikipedia.org/wiki/ゼベダイの子" id="zebedee" class="yellow">ゼベダイ</a>のニ人の子の内の一人」</span><span style="color: #999;">（マルコ、第３章・１６～１９節、マタイ、第１０章・２～５節とルカ、第６章・１３～１６節）</span>。
         彼の兄弟は<a href="https://ja.wikipedia.org/wiki/ヤコブ_(ゼベダイの子)" title="https://ja.wikipedia.org/wiki/https://fr.wikipedia.org/wiki/ヤコブ_(ゼベダイの子)" id="jacques-le-majeur" class="yellow">「大」というヤコブ</a>です。</li>
         <li>イエスが彼たちを<span style="color: #e6a64d;">「雷の子ら」</span>と呼んでいる<span style="color: #999;">（マルコ、第３章・１７節）</span>。</li>
-        <li>兄弟と他の弟子のニ人だった<a href="https://ja.wikipedia.org/wiki/ペトロ" title="https://ja.wikipedia.org/wiki/ペトロ" id="simon-pierre" class="yellow">シモン・ペトロ</a>と<a href="https://ja.wikipedia.org/wiki/アンデレ" title="https://ja.wikipedia.org/wiki/アンデレ" id="simon-pierre" class="yellow">アンデレ</a>と同様に、彼はイエスに従うために自分の網を捨てる<a href="https://ja.wikipedia.org/wiki/ガリラヤ湖" title="https://ja.wikipedia.org/wiki/ガリラヤ湖" id="tiberiade" class="yellow">ティベリアス湖</a><span style="color: #e6a64d;">の漁師の一人</span>です。</li>
+        <li>兄弟と他の弟子のニ人だった<a href="https://ja.wikipedia.org/wiki/ペトロ" title="https://ja.wikipedia.org/wiki/ペトロ" id="simon-pierre" class="yellow">シモン・ペトロ</a>と<a href="https://ja.wikipedia.org/wiki/アンデレ" title="https://ja.wikipedia.org/wiki/アンデレ" id="andre" class="yellow">アンデレ</a>と同様に、彼はイエスに従うために自分の網を捨てる<a href="https://ja.wikipedia.org/wiki/ガリラヤ湖" title="https://ja.wikipedia.org/wiki/ガリラヤ湖" id="tiberiade" class="yellow">ティベリアス湖</a><span style="color: #e6a64d;">の漁師の一人</span>です。</li>
         <li>そこから、
           <ul>
             <li><a href="https://ja.wikipedia.org/wiki/主イエスの変容" title="https://ja.wikipedia.org/wiki/主イエスの変容" id="transfiguration" class="yellow">イエスの変容</a><span style="color: #999;">（マルコ、第９章・２節、マタイ、第１７章・１節とルカ、第９章・２８節）</span>、</li>

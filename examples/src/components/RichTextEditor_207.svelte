@@ -36,7 +36,7 @@
       <section><article>
         <div class="notices yellow">
           <p>The triptych has been conceived and realised for the master altar of the new apse of the church of the Old St. John's Hospital of Bruges (in Flemish: Brugge) built in <time datetime="1473">1473</time>-<time datetime="1474">74</time>, where it still stands.</p>
-          <p>The frame bears the inscription «<ruby lang="la">WORK<rp>(</rp><rt lang="fr">OPVs</rt><rp>)</rp>&nbsp;rp>(</rp><rt lang="fr"></rt><rp>)</rp>OF&nbsp;HANS<rp>(</rp><rt lang="fr">IOHANNIS</rt><rp>)</rp>&nbsp;<rp>(</rp><rt lang="fr"></rt><rp>)</rp>MEMLING<rp>(</rp><rt lang="fr">MEMLING</rt><rp>)</rp></ruby> », the first known signature of the flemish primitive painter of Bruges Hans MEMLING, and also the date: «<time datetime="1479">1479</time>».</p>
+          <p>The frame bears the inscription « <ruby lang="la">WORK<rp>(</rp><rt lang="fr">OPVs</rt><rp>)</rp>&nbsp;<rp>(</rp><rt lang="fr">&nbsp;</rt><rp>)</rp>OF HANS<rp>(</rp><rt lang="fr">IOHANNIS</rt><rp>)</rp>&nbsp;<rp>(</rp><rt lang="fr">&nbsp;</rt><rp>)</rp>MEMLING<rp>(</rp><rt lang="fr">MEMLING</rt><rp>)</rp></ruby> », the first known signature of the flemish primitive painter of Bruges Hans MEMLING, and also the date: «<time datetime="1479">1479</time>».</p>
           <p>It has a central panel, framed by two panels on the right and left fixed by hinges.</p>
           <p>The characters depicted are a little smaller than life size.</p>
         </div>
@@ -233,9 +233,9 @@
 
   <aside>
     <section><article>
-      <h3 id="table-des-matieres" class="yellow">references of this article</h3>
+      <h3 id="a-propos-de-cet-article" class="yellow">references of this article</h3>
       <section><article>
-        <p>For this article we are indebted to reference works, especially those of <a href="#de-vos-1" id="renvoi-de-vos-1" class="yellow">Dirk DE VOS, "Hans Memling - The Complete Works"</a> and <a href="#de-vos-2" id="renvoi-de-vos-2" class="yellow">"Hans Memling"</a>.</p>
+        <p>For this article we are indebted to reference works, especially those of <a href="#de-vos-1" id="de-vos-1" class="yellow">Dirk DE VOS, "Hans Memling - The Complete Works"</a> and <a href="#de-vos-2" id="de-vos-2" class="yellow">"Hans Memling"</a>.</p>
       </article></section>
 
       <section><article>
@@ -243,62 +243,59 @@
         <section><article>
           <ul>
             <li>in french:
-              <pre id="de-vos-1">
-                <table>
-                  <thead>
-                  <tr>
-                  <th><span hidden>hidden</span></th>
-                  <th><span hidden>hidden</span></th>
-                  </tr>
-                  </thead>
-                  <tbody>
-                  <tr>
-                  <td>Title</td>
-                  <td>Published in</td>
-                  <td>ISBN-10</td>
-                  </tr>
-                  <tr>
-                  <td>Hans Memling: l'œuvre complète</td>
-                  <td><time datetime="1994">1994</time></td>
-                  <td>2-226-06992-5</td>
-                  </tr>
-                  <tr>
-                  <td>Hans Memling: catalogue</td>
-                  <td><time datetime="1994">1994</time></td>
-                  <td>90-5544-028-0</td>
-                  </tr>
-                  </tbody>
-                </table>
-              </pre>
+              <table>
+                <thead>
+                <tr>
+                <th><span hidden>hidden</span></th>
+                <th><span hidden>hidden</span></th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                <td>Title</td>
+                <td>Published in</td>
+                <td>ISBN-10</td>
+                </tr>
+                <tr>
+                <td>Hans Memling: l'œuvre complète</td>
+                <td><time datetime="1994">1994</time></td>
+                <td>2-226-06992-5</td>
+                </tr>
+                <tr>
+                <td>Hans Memling: catalogue</td>
+                <td><time datetime="1994">1994</time></td>
+                <td>90-5544-028-0</td>
+                </tr>
+                </tbody>
+              </table>
             </li>
             <li>in english:
-              <pre id="de-vos-2">
-                <table>
-                  <thead>
-                  <tr>
-                  <th><span hidden>hidden</span></th>
-                  <th><span hidden>hidden</span></th>
-                  </tr>
-                  </thead>
-                  <tbody>
-                  <tr>
-                  <td>Title</td>
-                  <td>Published in</td>
-                  <td>ISBN-10</td>
-                  </tr>
-                  <tr>
-                  <td>Hans Memling: The Complete Works</td>
-                  <td><time datetime="1994">1994</time></td>
-                  <td>0810936496</td>
-                  </tr>
-                  <tr>
-                  <td>Hans Memling: Catalogue</td>
-                  <td><time datetime="1994">1994</time></td>
-                  <td>9055440299</td>
-                  </tr>
-                  </tbody>
-                </table>
-              </pre>
+              <table>
+                <thead>
+                <tr>
+                <th><span hidden>hidden</span></th>
+                <th><span hidden>hidden</span></th>
+                <th><span hidden>hidden</span></th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                <td>Title</td>
+                <td>Published in</td>
+                <td>ISBN-10</td>
+                </tr>
+                <tr>
+                <td>Hans Memling: The Complete Works</td>
+                <td><time datetime="1994">1994</time></td>
+                <td>0810936496</td>
+                </tr>
+                <tr>
+                <td>Hans Memling: Catalogue</td>
+                <td><time datetime="1994">1994</time></td>
+                <td>9055440299</td>
+                </tr>
+                </tbody>
+              </table>
             </li>
           </ul>
         </article></section>
@@ -340,7 +337,7 @@
           </div>
         </article></section>
         <footer>
-          <p><a href="#renvoi-lorentz-1" title="renvoi-de-vos-1">↑ back to this page</a> <a href="#renvoi-lorentz-2" title="renvoi-lorentz-2">↑ back to page 3</a></p>
+          <p><a href="#renvoi-lorentz-1" title="renvoi-lorentz-1">↑ back to this page</a> <a href="#renvoi-lorentz-2" title="renvoi-lorentz-2">↑ back to page 3</a></p>
         </footer>
       </article></section>
 
@@ -499,14 +496,14 @@
       </article></section>
 
       <section><article>
-        <h4 id="catherine-d-alexandrie" class="yellow">Catherine of Alexandria</h4>
+        <h4 class="yellow">Catherine of Alexandria</h4>
         <section><article>
           <p><a href="https://en.wikipedia.org/wiki/Catherine_of_Alexandria" title="https://en.wikipedia.org/wiki/Catherine_of_Alexandria" id="catherine-d-alexandrie-2" class="yellow">Catherine of Alexandria</a> was, since the end of the 13<sup style="color:#555;">th</sup> century, a very popular saint whose legend, reported by <a href="https://en.wikipedia.org/wiki/Jacobus_da_Varagine" title="https://en.wikipedia.org/wiki/Jacobus_da_Varagine" class="yellow">Jacobus da Varagine</a> in <span style="color: #e6a64d;">chapter 168</span> of <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" class="yellow"><cite>The Golden Legend</cite></a>, entitled <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16" title="https://francois-vidit.com/docs/fr/saint-jean/page:16" class="yellow">“Saint Catherine”</a>, is fascinating.</p>
           
             <p class="puce">read: <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:6" title="https://francois-vidit.com/docs/fr/saint-jean/page:6" class="yellow">text of the <cite>Legend of Catherine of Alexandria</cite> according to chapter 168 of <cite>The Golden Legend</cite></a>.</p>
           
           <p>It is quite likely that Memling relied on this text.</p>
-          <p>Although modern historians believe that Catherine of Alexandria has not really existed <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">note 1</a></sup> and her cult was removed from the general calendar of the catholic church in <time datetime="1970">1970</time> <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">note 2</a></sup>.</p>
+          <p>Although modern historians believe that Catherine of Alexandria has not really existed <sup id="page-3-fnref1:1"><a href="#page-3-fn:1" class="footnote-ref">note 1</a></sup> and her cult was removed from the general calendar of the catholic church in <time datetime="1970">1970</time> <sup id="page-3-fnref1:2"><a href="#page-3-fn:2" class="footnote-ref">note 2</a></sup>.</p>
         </article></section>
       </article></section>
 
@@ -531,7 +528,7 @@
     <section><article>
       <h3 id="les-deux-jean" class="yellow">the two john</h3>
       <section><article>
-        <h4 id="jean-le-baptiste-2" class="yellow">two twins: john the baptist, john the evangelist</h4>
+        <h4 class="yellow">two twins: john the baptist, john the evangelist</h4>
         <section><article>
           <p>But more than Catherine of Alexandria, <span style="color: #e6a64d;">two men</span> are the main characters of the work:</p>
           <ol>
@@ -546,7 +543,7 @@
         <h4 id="jean-le-baptiste-2" class="yellow">john the baptist</h4>
         <section><article>
           <p>On the back, on the left, the presence of a <span style="color: #e6a64d;">white lamb</span> allows us to identify <span style="color: #e6a64d;">the man wearing the</span> magnificent <span style="color: #e6a64d;">purple tunic</span> as <a href="https://en.wikipedia.org/wiki/John_the_Baptist" title="https://en.wikipedia.org/wiki/John_the_Baptist" id="jean-le-baptiste" class="yellow">John the Baptist</a>.</p>
-          <p>The lamb recalls the words with whom John the Baptist <span style="color #e6a64d;">presents</span> Jesus, saying <span style="color: #999;">(John chapter 1 verse 29)</span>:
+          <p>The lamb recalls the words with whom John the Baptist <span style="color: #e6a64d;">presents</span> Jesus, saying <span style="color: #999;">(John chapter 1 verse 29)</span>:
           <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#1:29" >
             <span style="color: #e6a64d;">«<ruby style="color:#e6a64d;" lang="en">Behold the lamb of god<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce agnus dei</rt><rp>)</rp></ruby>»</span>.
           </blockquote>
@@ -624,7 +621,7 @@
           <h5 class="yellow">the etymology of the name «John» in Hebrew</h5>
           <section><article>
             <p>The etymology of the first name "John" comes from the hebrew <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="fr">Yo<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">יו</rt><rp>)</rp>kha<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">ח</rt><rp>)</rp>nan<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">נן</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span>, whose pronunciation is:</p>
-            <p><audio controls="1" title="prononciation de Yokhanan en hébreu"><source src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/prononciation-yokhanan.mp3" type="audio/mpeg">Your browser does not support the audio tag.</audio></p>
+            <p><audio controls title="prononciation de Yokhanan en hébreu"><source src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/prononciation-yokhanan.mp3" type="audio/mpeg">Your browser does not support the audio tag.</audio></p>
             <p>which literally means <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="fr">god<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">Yo</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span> is <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="fr">grace<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">khanan</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span> or <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="fr">mercy<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">khanan</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span>.</p>
             <p>As «god» also means in hebrew «what is», it also means <span style="color: #e6a64d;">«the one who is»</span> <span style="color: #e6a64d;">«grace»</span> or <span style="color: #e6a64d;">«mercy»</span>.</p>
             <p>Although <span style="color: #e6a64d;">this first name</span> was used by several minor figures in the history of the hebrew people, it <span style="color: #e6a64d;">only became</span> very <span style="color: #e6a64d;">popular</span> after the appearance of christianity <span style="color: #e6a64d;">in the christian world</span>, following the very important role each of them played, roles that we will soon detail.</p>
@@ -634,13 +631,13 @@
     </article></section>
 
     <section><article>
-      <h3 id="barbe" class="yellow">barbara the great martyr</h3>
+      <h3 id="barbe" class="yellow">barbara the great Martyr</h3>
       <section><article>
         <h4 class="yellow">barbara the great martyr in the scene of the central panel</h4>
         <section><article>
           <p>On the other side of virgin Mary, on the front right, <span style="color: #e6a64d;">another woman</span>, dressed in <span style="color: #e6a64d;">a magnificent green wool tunic</span> as only Bruges produced in the 15<sup style="color:#555;">th</sup> century, <span style="color: #e6a64d;">reads</span>.</p>
           <p>Her presence corresponds to that of <a href="#catherine-d-alexandrie" class="yellow">Catherine of Alexandria</a> on the front of the other side.</p>
-          <p>Behind her, <span style="color: #e6a64d;">a white stone tabernacle tower</span> tells us that it is <a href="https://en.wikipedia.org/wiki/Saint_Barbara" title="https://en.wikipedia.org/wiki/Saint_Barbara" id="barbe-la-grande-martyre" class="yellow">Barbara the great Martyr</a> <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref">note 4</a></sup>.</p>
+          <p>Behind her, <span style="color: #e6a64d;">a white stone tabernacle tower</span> tells us that it is <a href="https://en.wikipedia.org/wiki/Saint_Barbara" title="https://en.wikipedia.org/wiki/Saint_Barbara" id="barbe-la-grande-martyre" class="yellow">Barbara the great Martyr</a> <sup id="page-3-fnref1:3"><a href="#page-3-fn:3" class="footnote-ref">note 4</a></sup>.</p>
           <p>As with <a href="#catherine-d-alexandrie" class="yellow">Catherine of Alexandria</a>, modern historians doubt the reality of her existence and her name has also been removed from the general calendar <sup id="fnref2:2"><a href="#fn:2" class="footnote-ref">note 2</a></sup>.</p>
         </article></section>
     
@@ -668,7 +665,7 @@
       <section><article>
         <h4 class="yellow">Barbara the great Martyr, its historical reality</h4>
         <section><article>
-          <p>As with <a href="#catherine-d-alexandria" class="yellow">Catherine of Alexandria</a>, modern historians doubt the reality of her existence and her name has also been removed from the general calendar <sup id="fnref2: 2"><a href="#fn:2" class="footnote-ref">note 2</a></sup>; the text Memling relied on to represent her is also not part of <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" id="legende-doree-2" class="yellow"><cite>The Golden Legend</cite></a> but, like other texts, was added to it later.</p>
+          <p>As with <a href="#catherine-d-alexandria" class="yellow">Catherine of Alexandria</a>, modern historians doubt the reality of her existence and her name has also been removed from the general calendar <sup id="fnref2:2"><a href="#fn:2" class="footnote-ref">note 2</a></sup>; the text Memling relied on to represent her is also not part of <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" id="legende-doree-3" class="yellow"><cite>The Golden Legend</cite></a> but, like other texts, was added to it later.</p>
           <p class="puce">read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:7" title="https://francois-vidit.com/docs/en/saint-jean/page:7" class="yellow">text of the <cite>Legend of Beard the Great Martyr</cite> added to <cite>The Golden Legend</cite></a>.</p>
         </article></section>
       </article></section>
@@ -725,7 +722,7 @@
         <section><article>
 
           <section><article>
-            <p>To <a href="https://fr.wikipedia.org/wiki/Marie_(mère_de_Jésus)" title="https://fr.wikipedia.org/wiki/Marie_(mère_de_Jésus)" id="marie-mere-de-jesus" class="yellow">Mary</a>'s coronation, the presence <span style="color: #e6a64d;">two</span> by <span style="color: #e6a64d;">two</span> of <a href="#catherine-d-alexandrie" title="Catherine d'Alexandrie" class="yellow">Catherine of Alexandria</a> and <a href="#barbe" class="yellow">Barbara the great Martyr</a>, <a href="#jean-le-baptiste-2" title="Jean le Baptiste" id="jean-le-baptiste-3" class="yellow">John the Baptist</a> and <a href="#jean-l-evangeliste-3" title="John the Evangelist" id="jean-l-evangeliste-4" class="yellow">John the Evangelist</a> adds a «<ruby style="color:#e6a64d;" lang="en">sacred conversation<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="it">sacra&nbsp;conversazione</rt><rp>)</rp></ruby>», that is, a <span style="color: #e6a64d;">meeting of saints</span> around the Virgin.</p>
+            <p>To <a href="https://fr.wikipedia.org/wiki/Marie_(mère_de_Jésus)" title="https://fr.wikipedia.org/wiki/Marie_(mère_de_Jésus)" id="marie-mere-de-jesus" class="yellow">Mary</a>'s coronation, the presence <span style="color: #e6a64d;">two</span> by <span style="color: #e6a64d;">two</span> of <a href="#catherine-d-alexandrie" title="Catherine d'Alexandrie" class="yellow">Catherine of Alexandria</a> and <a href="#barbe" class="yellow">Barbara the great Martyr</a>, <a href="#jean-le-baptiste-2" title="Jean le Baptiste" id="jean-le-baptiste-3" class="yellow">John the Baptist</a> and <a href="#jean-l-evangeliste-3" title="John the Evangelist" id="jean-l-evangeliste-5" class="yellow">John the Evangelist</a> adds a «<ruby style="color:#e6a64d;" lang="en">sacred conversation<rp>(</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="it">sacra&nbsp;conversazione</rt><rp>)</rp></ruby>», that is, a <span style="color: #e6a64d;">meeting of saints</span> around the Virgin.</p>
           </article></section>
           <figure>
             <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -781,7 +778,7 @@
     </article></section>
 
     <section><article>
-      <h3 id="devotion-moderne" class="yellow">Sacred conversation, a remarkable expression of “devotio moderna”</h3>
+      <h3 class="yellow">Sacred conversation, a remarkable expression of “devotio moderna”</h3>
       <section><article>
         <h4 class="yellow">symmetry, simplicity, distinction in the arrangement of the protagonists</h4>
         <section><article>
@@ -839,11 +836,11 @@
       <section><article>
         <h4 class="yellow">“devotio moderna”, a movement to reform the Christian faith in Flemish society in the 15<sup>th</sup> century</h4>
         <section><article>
-          <p>We believe that this <span style="color: #e6a64d;">balance</span> is a remarkable feature of the 15<sup>th<sup> century Flemish society in which Memling lived.</p>
+          <p>We believe that this <span style="color: #e6a64d;">balance</span> is a remarkable feature of the 15<sup>th</sup> century Flemish society in which Memling lived.</p>
           <p>The very important Christian faith reform movement of this period, which historians call <a href="https://en.wikipedia.org/wiki/Devotio_Moderna" title="https://en.wikipedia.org/wiki/Devotio_Moderna" id="devotio-moderna" class="yellow">“devotio moderna”</a>, illuminates that familiar simple transparency of represented space. </p>
         </article></section>
         <footer>
-          <p class="puce">for more information: <a href="#note-devotion-modern" title="note presentation of the "modern devotion" movement" id="renvoi-devotion-modern" class="yellow">“devotio moderna” as a historical religious movement of the 15<sup>th</sup> century</a></p>
+          <p class="puce">for more information: <a href="#note-devotion-moderne" title="note presentation of the “devotio moderna” movement" id="renvoi-devotion-moderne" class="yellow">“devotio moderna” as a historical religious movement of the 15<sup>th</sup> century</a></p>
         </footer>
       </article></section>
 
@@ -857,7 +854,7 @@
           <section><article>
             <h5 class="yellow">text from <cite>The Imitation of Jesus Christ</cite></h5>
             <header>
-              <p>One can read <sup id="fnref1:5"><a href="#fn:4" class="footnote-ref">note 2</a></sup>:</p>
+              <p>One can read <sup id="page-4-fnref1:5"><a href="#fn:4" class="footnote-ref">note 2</a></sup>:</p>
             </header>
             <article>
               <ol class="doc">
@@ -903,7 +900,7 @@
       <section><article>
         <h4 class="yellow">devotio moderna, crystallisation of the marvellous of Bruges in the 15<sup>th</sup> century</h4>
         <section><article>
-          <p>Finally, the exemplary arrangement of a representation in which the figures are adorned with the finest sartorial achievements of fifteenth</sup> century Bruges, crystallises the sense of <em>wonder</em>.</p>
+          <p>Finally, the exemplary arrangement of a representation in which the figures are adorned with the finest sartorial achievements of 15<sup>th</sup> century Bruges, crystallises the sense of <em>wonder</em>.</p>
           <p><span style="color: #e6a64d;">spiritual simplicity, evidence, ideality also produce</span> in a continuous <em>way</em> <span style="color: #e6a64d;">material sophistication and opulence</span>.</p>
           <p><a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" id="renvoi-de-vos-2" class="yellow">Dirk DE VOS</a> mentions:</p>
           <blockquote>
@@ -1010,14 +1007,13 @@
               <ol start="2">
                 <li id="fn:5">
                   <p>source:</p>
-                  <p><cite href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis#cite_ref-5">L'imitation de notre Seigneur Jésus Christ</cite>, trans. by F. de Lamennais, Éd. Arts et Métiers graphiques, Paris, <time datetime="1946">1946</time>, pp. 59-60, II, 4, 1-2 (part II, chapter 4, paragraphs 1 and 2).</p>
-                  <p>original translation from us.</p></li>
-                  </ul>
-              </li>
+                  <p><cite>L'imitation de notre Seigneur Jésus Christ</cite>, trans. by F. de Lamennais, Éd. Arts et Métiers graphiques, Paris, <time datetime="1946">1946</time>, pp. 59-60, II, 4, 1-2 (part II, chapter 4, paragraphs 1 and 2).</p>
+                  <p>original translation from us.</p>
+                </li>
               </ol>
             </div>
             <footer>
-              <p class="puce"><a href="#fnref1:5" rev="footnote" class="footnote-backref">back to text  ↩</a></p>
+              <p class="puce"><a href="#page-4-fnref1:5" rev="footnote" class="footnote-backref">back to text  ↩</a></p>
             </footer>
           </article></section>
         </article></section>
@@ -1216,7 +1212,6 @@
     </figure>
 
     <section><article>
-      <h4 id="legende-de-jean-le-baptiste" class="yellow">scenes from <cite>the legend of John the Baptist</cite> according to <cite>The Golden Legend</cite></h4>
       <section><article>
         <p>We follow here each of <span style="color: #e6a64d;">two stories</span> on which Memling probably based himself as <a href="https://en.wikipedia.org/wiki/Jacobus_da_Varagine" title="https://en.wikipedia.org/wiki/Jacobus_da_Varagine" id="jacques-de-voragine" class="yellow">Jacobus da Varagine</a> reports them in <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" id="legende-doree" class="yellow"><cite>The Golden Legend</cite></a>.</p>
       </article></section>
@@ -1224,7 +1219,7 @@
       <section><article>
         <p>As, in the scenes Memling painted, these texts are faithfully represented, we invite those who would like to feel more deeply the relationship of the triptych to the various texts to read them directly:</p>
         <ul>
-          <li>read: <a href="https:/francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18" title="https://francois-vidit.com/docs/en/saint-jean/page:18" class="yellow"> text of the <cite>Legend of John the Baptist</cite> from chapter 9 of <cite>The Golden Legend</cite></a>,</li>
+          <li>read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18" title="https://francois-vidit.com/docs/en/saint-jean/page:18" class="yellow"> text of the <cite>Legend of John the Baptist</cite> from chapter 9 of <cite>The Golden Legend</cite></a>,</li>
           <li>read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:19" title="https://francois-vidit.com/docs/en/saintjean/page:19" class="yellow">text of the <cite>Legend of John the Evangelist before the Latin Gate</cite> from chapter 65 of <cite>The Golden Legend</cite></a>.</li>
         </ul>
       </article></section>
@@ -1363,7 +1358,7 @@
 
             <section><article>
               <p>He then leads an exemplary life as an ascetic «in the desert» <span style="color: #999;">(Luke chapter 1 verse 80)</span>.</p>
-              <p>Memling transposes this scene into the forest.</p></p>
+              <p>Memling transposes this scene into the forest.</p>
             </article></section>
 
             <figure>
@@ -1461,7 +1456,7 @@
               <p>The tetrarch of Galilee and Perea, <a href="https://en.wikipedia.org/wiki/Herod_Antipas" title="https://en.wikipedia.org/wiki/Herod_Antipas" id="herode-antipas" class="yellow">Herod Antipas</a> married «<a href="https://en.wikipedia.org/wiki/Herod_II" title="https://en.wikipedia.org/wiki/Herod_II" id="herode-boethos" class="yellow">his brother Philip's wife</a> (<a href="https://en.wikipedia.org/wiki/Herodias" title="https://en.wikipedia.org/wiki/Herodias" id="herodiade">Herodias</a>)» <span style="color: #999;">(Mark chapter 6, verse 17)</span>;</p>
               <p>As the jewish faith regards any marriage with his brother's wife as <span style="color: #e6a64d;">«defiling»</span> and <span style="color: #e6a64d;">forbids</span> it <span style="color: #999;">(Leviticus chapter 18 verse 16; chapter 20 verse 21)</span>, John publicly condemns it.</p>
               <p><span style="color: #e6a64d;">Herod feared</span> that this would provoke «<span style="color: #e6a64d;">a revolt</span>, the crowd seeming ready to follow all the advice of this man.</p>
-              <p>He therefore prefers to take him before any trouble occurs because of him, rather than to have to repent later if a movement takes place» <span style="color: #999;">(“Jewish Antiquities”, Book XVIII, chapter 5, paragraph 118)</span> <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">note 1</a></sup>.</p>
+              <p>He therefore prefers to take him before any trouble occurs because of him, rather than to have to repent later if a movement takes place» <span style="color: #999;">(“Jewish Antiquities”, Book XVIII, chapter 5, paragraph 118)</span> <sup id="page-7-fnref1:2"><a href="#page-7-fn:2" class="footnote-ref">note 1</a></sup>.</p>
               <p>In the event of unrest caused by John's supporters, Herod had to answer to the roman authorities, who could dismiss him:</p>
               <p>he gives <span style="color: #e6a64d;">“the order to arrest John”</span> <span style="color: #999;">(Mark chapter 6, verse 17)</span>.</p>
             </article></section>
@@ -1499,13 +1494,13 @@
             <article>
               <div class="footnotes">
             <ol>
-              <li id="fn:2">
+              <li id="page-7-fn:2">
                 for information, this quote is in the past, We're transposing it to the present.
             </li>
             </ol>
             </div>
               <footer>
-                <p class="puce"><a href="#fnref1:2" rev="footnote" class="footnote-backref">back to text ↩</a></p>
+                <p class="puce"><a href="#page-7-fnref1:2" rev="footnote" class="footnote-backref">back to text ↩</a></p>
               </footer>
             </article>
           </aside>
@@ -1612,7 +1607,7 @@
                 </article></section>
                 <section><article>
                   <p>Thus Herod can appear to put John to death against his will.</p>
-                  <p>The proof that this whole story is indeed a smokescreen designed to allow John to be put to death without provoking a revolt by John's supporters is, as Jacobus da Varagine explains, that if Salome asks Herod <span style="color: #e6a64d;">«the death of her father <a href="https://en.wikipedia.org/wiki/Herod_II" title="https://en.wikipedia.org/wiki/Herod_II" id="herode-boethos-2" class="yellow">Philip</a> or her mother <a href="https://en.wikipedia.org/wiki/Herodias" title="https://en.wikipedia.org/wiki/Herodias" id="herodiade-2" class="yellow">Herodias</a>»</span>, Herod cannot consent to it <span style="color: #999;">(<cite>The Golden Legend</cite> chapter 121, paragraph I. <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">note 1</a></sup> )</span>.</p>
+                  <p>The proof that this whole story is indeed a smokescreen designed to allow John to be put to death without provoking a revolt by John's supporters is, as Jacobus da Varagine explains, that if Salome asks Herod <span style="color: #e6a64d;">«the death of her father <a href="https://en.wikipedia.org/wiki/Herod_II" title="https://en.wikipedia.org/wiki/Herod_II" id="herode-boethos-2" class="yellow">Philip</a> or her mother <a href="https://en.wikipedia.org/wiki/Herodias" title="https://en.wikipedia.org/wiki/Herodias" id="herodiade-2" class="yellow">Herodias</a>»</span>, Herod cannot consent to it <span style="color: #999;">(<cite>The Golden Legend</cite> chapter 121, paragraph I. <sup id="page-8-fnref1:1"><a href="#page-8-fn:1" class="footnote-ref">note 1</a></sup> )</span>.</p>
                   <p>The only purpose of the smokescreen is indeed to avoid placing the responsibility for John's killing on Herod by falsely presenting him in the eyes of history as acceding to this request against his will.</p>
                 </article></section>
               </article></section>
@@ -1654,13 +1649,13 @@
             <article>
               <div class="footnotes">
               <ol>
-                <li id="fn:1">
+                <li id="page-8-fn:1">
                   <p>words of <a href="https://en.wikipedia.org/wiki/Jerome" title="https://en.wikipedia.org/wiki/Jerome" id="saint-jerome" class="yellow">St. Jerome</a> reported by Jacobus da Varagine.&nbsp;</p>
               </li>
               </ol>
               </div>
               <footer>
-                <p class="puce"><a href="#fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
+                <p class="puce"><a href="#page-8-fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
               </footer>
             </article>
           </aside>
@@ -1705,7 +1700,7 @@
             <h6 class="yellow">Memling's inspiration on Van Der Weyden for the scene of the beheading of John the Baptist, inside left shutter</h6>
 
             <section><article>
-              <p><span style="color: #e6a64d;">The executioner</span> is represented from behind placing <span style="color: #e6a64d;">the head in the plate</span> presented to him by a barely moved <a href="https://en.wikipedia.org/wiki/Salome" title="https://en.wikipedia.org/wiki/Salome" id="salome-3" class="yellow">Salome</a>.</p>
+              <p><span style="color: #e6a64d;">The executioner</span> is represented from behind placing <span style="color: #e6a64d;">the head in the plate</span> presented to him by a barely moved <a href="https://en.wikipedia.org/wiki/Salome" title="https://en.wikipedia.org/wiki/Salome" class="yellow">Salome</a>.</p>
               <p>Art historians have identified in the positions of the executioner and Salome <span style="color: #e6a64d;">a reuse by Memling of a similar scene</span> in a work by his master when he was the assistant of this painter in Brussels, <a href="https://en.wikipedia.org/wiki/Rogier_van_der_Weyden" title="https://en.wikipedia.org/wiki/Rogier_van_der_Weyden" id="rogier-van-der-weyden" class="yellow">Rogier VAN DER WEYDEN</a>.</p>
               <p>This is the left inner shutter of the <span style="color: #e6a64d;"><cite>Tryptic of St. John</cite></span> painted around <time datetime="1450">1450</time>-<time datetime="1455">55</time> in the <a href="https://en.wikipedia.org/wiki/Gemäldegalerie,_Berlin" title="https://en.wikipedia.org/wiki/Gem%C3%A4ldegalerie,_Berlin" id="gemaldegalerie" class="yellow"><ruby lang="en">Painting&nbsp;Gallery<rp>(</rp><rt lang="de">Gemäldegalerie</rt><rp>)</rp></ruby></a> of the <a href="https://en.wikipedia.org/wiki/Berlin_State_Museums" title="https://en.wikipedia.org/wiki/Berlin_State_Museums" id="musees-d-etat-de-berlin" class="yellow"><ruby lang="fr">Berlin&nbsp;State&nbsp;Museums<rp>(</rp><rt lang="de">Staatliche&nbsp;Museen&nbsp;zu&nbsp;Berlin</rt><rp>)</rp></ruby></a> <span style="color: #999;">(inventory reference: 534B)</span>.</p>
             </article></section>
@@ -1719,7 +1714,7 @@
               https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-840.webp 840w,
               https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1280.webp 1280w,
               https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1600.webp 1600w,
-              https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-640.jpg" title="Rogier VAN DER WEYDEN, “Triptych of saint John”, detail of the left inner shutter, “Decollation of John the Baptist”, Painting Gallery, Berlin State Museums, Berlin" alt="Rogier VAN DER WEYDEN, “Triptych of saint John”, detail of the left inner shutter, “Decollation of John the Baptist”, Painting Gallery, Berlin State Museums, Berlin" class="class-40-img" ean="" le="" baptistesizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+              https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-640.jpg" title="Rogier VAN DER WEYDEN, “Triptych of saint John”, detail of the left inner shutter, “Decollation of John the Baptist”, Painting Gallery, Berlin State Museums, Berlin" alt="Rogier VAN DER WEYDEN, “Triptych of saint John”, detail of the left inner shutter, “Decollation of John the Baptist”, Painting Gallery, Berlin State Museums, Berlin" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
               https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-280.jpg 280w,
               https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-380.jpg 380w,
               https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-480.jpg 480w,
@@ -1807,13 +1802,13 @@
       <article>
         <div class="footnotes">
         <ol>
-          <li id="fn:1">
-            <dfn>Saint Marcellus of Apamea</dfn> in Syria (died in <time datetime="389">389</time>). Magistrate of the city, in the year <time datetime="375">375</time>, he left his wife and children, and devoted himself to a monastic life, was elected bishop of Apamea, Syria. He died murdered by the heathens while watching over the destruction of a temple of idols according to an edict of Emperor Theodosius. Celebrated on <time datetime="08-14">August 14<sup>th</sup></time>.
+          <li id="page-9-fn:1">
+            <dfn>Saint Marcellus of Apamea</dfn> in Syria (died in <time datetime="0389">389</time>). Magistrate of the city, in the year <time datetime="0375">375</time>, he left his wife and children, and devoted himself to a monastic life, was elected bishop of Apamea, Syria. He died murdered by the heathens while watching over the destruction of a temple of idols according to an edict of Emperor Theodosius. Celebrated on <time datetime="08-14">August 14<sup>th</sup></time>.
         </li>
         </ol>
         </div>
         <footer>
-          <p class="puce"><a href="#fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
+          <p class="puce"><a href="#page-9-fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
         </footer>
       </article>
       </aside>
@@ -1855,7 +1850,7 @@
             <p>Unlike John the Baptist, historically <span style="color: #e6a64d;">there is no historical document</span> other than those of the Christian faith.</p>
             <p>According to these documents and modern specialists, <span style="color: #e6a64d;">John the Evangelist can designate</span>:</p>
             <ol>
-              <li><a href="https://en.wikipedia.org/wiki/John_the_Apostle" title="https://en.wikipedia.org/wiki/John_the_Apostle" id="jean-l-apotre" class="yellow">John the «Apostle»</a> who appears in the gospels of Mark, Luke, Matthew and the Acts of the Apostles,</li>
+              <li><a href="https://en.wikipedia.org/wiki/John_the_Apostle" title="https://en.wikipedia.org/wiki/John_the_Apostle" class="yellow">John the «Apostle»</a> who appears in the gospels of Mark, Luke, Matthew and the Acts of the Apostles,</li>
               <li><a href="https://en.wikipedia.org/wiki/Gospel_of_John" title="https://en.wikipedia.org/wiki/Gospel_of_John" id="disciple-que-jesus-aimait" class="yellow">the disciple whom Jesus loved</a> to write the gospel called «of John»,</li>
               <li><a href="https://en.wikipedia.org/wiki/John_of_Patmos" title="https://en.wikipedia.org/wiki/John_of_Patmos" id="jean-de-patmos" class="yellow">John «of Patmos»</a> writer of the text of <cite>The Revelation</cite>.</li>
             </ol>
@@ -1864,14 +1859,14 @@
         </article></section>
 
         <section><article>
-          <h5 id="jean-l-apotre-2" class="yellow">John the “Apostle”</h5>
+          <h5 class="yellow">John the “Apostle”</h5>
 
           <section><article>
             <ul>
               <li><p><a href="#aristodeme" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:8#aristodeme" id="jean-l-apotre-3" class="yellow">John «the Apostle»</a> is <span style="color: #e6a64d;">one of the two «sons of <a href="https://en.wikipedia.org/wiki/Zebedee" title="https://en.wikipedia.org/wiki/Zebedee" id="zebedee" class="yellow">Zebedee</a>»</span> <span style="color: #999;">(Mark chapter 3 verses 16 to 19, Matthew chapter 10 verses 2 to 5 and Luke chapter 6 verses 13 to 16)</span>.</li>
               <li>His brother is <a href="https://fr.wikipedia.org/wiki/Jacques_de_Zébédée" title="https://fr.wikipedia.org/wiki/https://fr.wikipedia.org/wiki/Jacques_de_Zébédée" id="jacques-le-majeur" class="yellow">James, known as «the Greater»</a>.</li>
               <li>Jesus called them the <span style="color: #e6a64d;">«sons of thunder»</span> <span style="color: #999;">(Mark chapter 3 verse 17)</span>.</li>
-              <li>Like his brother and two other apostles, <a href="https://en.wikipedia.org/wiki/Saint_Peter" title="https://en.wikipedia.org/wiki/Saint_Peter" id="simon-pierre" class="yellow">Simon Peter</a> and <a href="https://en.wikipedia.org/wiki/Andrew_the_Apostle" title="https://en.wikipedia.org/wiki/Andrew_the_Apostle" id="simon-pierre" class="yellow">Andrew</a>, he is <span style="color: #e6a64d;">one of the fishermen of Lake Tiberias</span> who abandoned his nets to follow Jesus.</li>
+              <li>Like his brother and two other apostles, <a href="https://en.wikipedia.org/wiki/Saint_Peter" title="https://en.wikipedia.org/wiki/Saint_Peter" id="simon-pierre" class="yellow">Simon Peter</a> and <a href="https://en.wikipedia.org/wiki/Andrew_the_Apostle" title="https://en.wikipedia.org/wiki/Andrew_the_Apostle" id="andre" class="yellow">Andrew</a>, he is <span style="color: #e6a64d;">one of the fishermen of Lake Tiberias</span> who abandoned his nets to follow Jesus.</li>
               <li>From there, he witnessed:
                 <ul>
                   <li>the <a href="https://fr.wikipedia.org/wiki/Transfiguration_(christianisme)" title="https://fr.wikipedia.org/wiki/Transfiguration_(christianisme)" id="transfiguration" class="yellow">transfiguration of Jesus</a> <span style="color: #999;">(Mark chapter 9 verse 2, Matthew chapter 17 verse 1 and Luke chapter 9 verse 28)</span>,</li>
@@ -1896,7 +1891,7 @@
                 </blockquote>
                 <p><span style="color: #999;">(…)</span></p>
                 <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#21:24">
-                  “This is <span style="color: #e6a64d;">the disciple who testifies</span> about these things</span>, and <span style="color: #e6a64d;">wrote these things.”
+                  “This is <span style="color: #e6a64d;">the disciple who testifies</span> about these things, and <span style="color: #e6a64d;">wrote</span> these things.”
                 </blockquote>
                 <p>There is nothing in the text that allows us to call him «John», so the designation “Gospel of John” cannot be right: it should be the “Gospel of the disciple whom Jesus loved”.</p>
                 <p>He is quite an extraordinary character: he is a disciple of Jesus among others with whom every reader can identify, he is loved by Jesus himself and therefore finds himself closer to him than anyone else.</p>
@@ -1908,15 +1903,15 @@
               <li>
                 <p>Jesus himself, on the occasion of a question from Peter, expresses a wish for his destiny at the Last Supper <span style="color: #999;">(John chapter 21 verses 21 to 23)</span>:</p>
                 <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#21:21">
-                <p>Peter seeing this disciple, said to Jesus,</p>
-                <p class="conversation">
-                  “Lord, what about this man?”
-                </p>
-                <p>Jesus said to him,</p>
-                <p class="conversation">
-                  “If I desire that he stay until I come, what is that to you?”
-                </p>
-              </blockquote>
+                  <p>Peter seeing this disciple, said to Jesus,</p>
+                  <p class="conversation">
+                    “Lord, what about this man?”
+                  </p>
+                  <p>Jesus said to him,</p>
+                  <p class="conversation">
+                    “If I desire that he stay until I come, what is that to you?”
+                  </p>
+                </blockquote>
             </li>
             <li>
               <p>It is also him who <q cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#21:20">had also leaned on Jesus' breast</q>, he asks him who will betray him <span style="color: #999;">(John chapter 13 verses 23 to 26)</span>.</p>
@@ -1924,13 +1919,13 @@
             <li>
               <p>At the crucifixion, Jesus entrusted his own mother to him, saying <span style="color: #999;">(John chapter 19 verses 26 to 27)</span>:</p>
               <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#19:26">
-              <p class="conversation">
-                “Woman, behold your son!”,
-              </p>
-              <p>Then he said to the disciple,</p>
-              <p class="conversation">
-                “Behold your mother!”.
-              </p>
+                <p class="conversation">
+                  “Woman, behold your son!”,
+                </p>
+                <p>Then he said to the disciple,</p>
+                <p class="conversation">
+                  “Behold your mother!”.
+                </p>
               </blockquote>
               </li>
               <li>
@@ -1956,7 +1951,7 @@
         </article></section>
 
         <section><article>
-          <h5 id="jean-de-patmos-2" class="yellow">john the evangelist in relation to <cite>The Golden Legend</cite></h5>
+          <h5 class="yellow">john the evangelist in relation to <cite>The Golden Legend</cite></h5>
 
           <section><article>
             <section><article>
@@ -1964,7 +1959,7 @@
             </article></section>
             <section><article>
               <ul>
-                <li>read: <a href="https:/francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18" title="https://francois-vidit.com/docs/en/saint-jean/page:18" class="yellow"> text of the <cite>Legend of John the Baptist</cite> from chapter 9 of <cite>The Golden Legend</cite></a>,</li>
+                <li>read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18" title="https://francois-vidit.com/docs/en/saint-jean/page:18" class="yellow"> text of the <cite>Legend of John the Baptist</cite> from chapter 9 of <cite>The Golden Legend</cite></a>,</li>
                 <li>read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:19" title="https://francois-vidit.com/docs/en/saintjean/page:19" class="yellow">text of the <cite>Legend of John the Evangelist before the Latin Gate</cite> from chapter 65 of <cite>The Golden Legend</cite></a>.</li>
               </ul>
             </article></section>
@@ -1976,7 +1971,7 @@
 
           <section><article>
             <section><article>
-              <p>The narrative starts on the central panel <span style="color: #999;">(chapter 65)</span> <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">note 1</a></sup>:</p>
+              <p>The narrative starts on the central panel <span style="color: #999;">(chapter 65)</span> <sup id="page-10-fnref1:1"><a href="#page-10-fn:1" class="footnote-ref">note 1</a></sup>:</p>
             </article></section>
             <section><article>
               <ol class="doc">
@@ -2030,7 +2025,7 @@
           <h5 id="description-right-shutter" class="yellow">Overview of the right inner shutter: John bears witness to <cite>The Revelation</cite> in Patmos.</h5>
 
           <section><article>
-            <p>The right inner shutter is entirely dedicated to the visions John had in Patmos <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">note 2</a></sup>.</p>
+            <p>The right inner shutter is entirely dedicated to the visions John had in Patmos <sup id="page-10-fnref1:2"><a href="#page-10-fn:2" class="footnote-ref">note 2</a></sup>.</p>
             <p>Memling's representation is particularly noteworthy because while there are many representations of <cite>The Revelation</cite> as a succession of paintings, in contrast there are very few that assume a unity of the space of representation.</p>
             <p>And for good reason: the narrative of John of Patmos presents a remarkable complexity.</p>
             <p>And yet Memling succeeds in the tour-de-force of making the space of representation as credible, supernaturally complex as the narrative.</p>
@@ -2064,7 +2059,7 @@
         </article></section>
 
         <section><article>
-          <p>We choose to follow John's own way to tell <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref">note 3</a></sup> the unveiling in the text <span style="color: #999;">(<cite>The Revelation</cite> chapter 4 verse 2 and verse 6)</span>, which begins at the top left of the shutter: this way it is possible to compare the text with Memling's representation of it.</p>
+          <p>We choose to follow John's own way to tell <sup id="page-10-fnref1:3"><a href="#fn:3" class="footnote-ref">note 3</a></sup> the unveiling in the text <span style="color: #999;">(<cite>The Revelation</cite> chapter 4 verse 2 and verse 6)</span>, which begins at the top left of the shutter: this way it is possible to compare the text with Memling's representation of it.</p>
         </article></section>
 
         <section><article>
@@ -2161,26 +2156,26 @@
           <article>
             <div class="footnotes">
               <ol>
-                <li id="fn:1">
+                <li id="page-10-fn:1">
                   <p>the quotation that follows is past; for information, e transpose it here to present.</p>
               </li>
               </ol>
             </div>
             <footer>
-              <p class="puce"><a href="#fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
+              <p class="puce"><a href="#page-10-fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
             </footer>
           </article>
           <hr>
           <article>
             <div class="footnotes">
               <ol start="2">
-                <li id="fn:2">
+                <li id="page-10-fn:2">
                   read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse">text excerpt of <cite>The Revelation</cite> related to the representation of John in Patmos on the left inner shutter by Hans Memling</a>.
               </li>
               </ol>
             </div>
             <footer>
-              <p class="puce"><a href="#fnref1:2" rev="footnote" class="footnote-backref">back to text ↩</a></p>
+              <p class="puce"><a href="#page-10-fnref1:2" rev="footnote" class="footnote-backref">back to text ↩</a></p>
             </footer>
           </article>
           <hr>
@@ -2203,7 +2198,7 @@
               </ol>
             </div>
             <footer>
-              <p class="puce"><a href="#fnref1:3" rev="footnote" class="footnote-backref">back to text ↩</a></p>
+              <p class="puce"><a href="#page-10-fnref1:3" rev="footnote" class="footnote-backref">back to text ↩</a></p>
             </footer>
           </article>
         </aside>

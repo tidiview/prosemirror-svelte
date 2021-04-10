@@ -160,7 +160,7 @@
         <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#catherine-d-alexandrie" tile="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#catherine-d-alexandrie" class="yellow">catherine d'alexandrie</a></li>
         <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#les-deux-jean" title="https//francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#les-deux-jean" class="yellow">les deux jean</a>
           <ul>
-            <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#jean-le-baptiste-2" title="ttps://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#jean-le-baptiste-2" class="yellow">jean le baptiste</a></li>
+            <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#jean-le-baptiste-2" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#jean-le-baptiste-2" class="yellow">jean le baptiste</a></li>
             <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jeanpage:3#jean-l-evangeliste-3" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#jean-l-evangeliste-3" class="yellow">jean l'évangéliste</a></li>
             <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-e-jean" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean" class="yellow">le nom «jean», son lien avec l'institution, son étymologie</a></li>
           </ul>
@@ -204,60 +204,60 @@
       <section><article>
         <ul>
           <li>en français:
-            <pre id="de-vos-1">
-              <table>
-                <thead>
-                <tr>
-                <th><span hidden="">hidden</span></th>
-                <th><span hidden="">hidden</span></th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr>
-                <td>Titre</td>
-                <td>Paru en</td>
-                <td>ISBN-10</td>
-                </tr>
-                <tr>
-                <td>Hans Memling: l'œuvre complète</td>
-                <td>1994</td>
-                <td>2-226-06992-5</td>
-                </tr>
-                <tr>
-                <td>Hans Memling: catalogue</td>
-                <td>1994</td>
-                <td>90-5544-028-0</td>
-                </tr>
-                </tbody>
-                </table>
-                </pre></li>
-                <li>en anglais:
-                <pre id="de-vos-2"><table>
-                <thead>
-                <tr>
-                <th><span hidden="">hidden</span></th>
-                <th><span hidden="">hidden</span></th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr>
-                <td>Titre</td>
-                <td>Paru en</td>
-                <td>ISBN-10</td>
-                </tr>
-                <tr>
-                <td>Hans Memling: The Complete Works</td>
-                <td>1994</td>
-                <td>0810936496</td>
-                </tr>
-                <tr>
-                <td>Hans Memling: Catalogue</td>
-                <td>1994</td>
-                <td>9055440299</td>
-                </tr>
-                </tbody>
+            <table>
+              <thead>
+              <tr>
+              <th><span hidden="">hidden</span></th>
+              <th><span hidden="">hidden</span></th>
+              <th><span hidden="">hidden</span></th>
+              </tr>
+              </thead>
+              <tbody>
+              <tr>
+              <td>Titre</td>
+              <td>Paru en</td>
+              <td>ISBN-10</td>
+              </tr>
+              <tr>
+              <td>Hans Memling: l'œuvre complète</td>
+              <td>1994</td>
+              <td>2-226-06992-5</td>
+              </tr>
+              <tr>
+              <td>Hans Memling: catalogue</td>
+              <td>1994</td>
+              <td>90-5544-028-0</td>
+              </tr>
+              </tbody>
               </table>
-            </pre>
+              </pre></li>
+              <li>en anglais:
+              <pre id="de-vos-2"><table>
+              <thead>
+              <tr>
+              <th><span hidden="">hidden</span></th>
+              <th><span hidden="">hidden</span></th>
+              <th><span hidden="">hidden</span></th>
+              </tr>
+              </thead>
+              <tbody>
+              <tr>
+              <td>Titre</td>
+              <td>Paru en</td>
+              <td>ISBN-10</td>
+              </tr>
+              <tr>
+              <td>Hans Memling: The Complete Works</td>
+              <td>1994</td>
+              <td>0810936496</td>
+              </tr>
+              <tr>
+              <td>Hans Memling: Catalogue</td>
+              <td>1994</td>
+              <td>9055440299</td>
+              </tr>
+              </tbody>
+            </table>
           </li>
         </ul>
       </article></section>
@@ -272,28 +272,26 @@
         <div class="notices yellow">
           <ul>
             <li>en français:
-              <pre id="lorents-1">
-                <table>
-                  <thead>
-                  <tr>
-                  <th><span hidden="">hidden</span></th>
-                  <th><span hidden="">hidden</span></th>
-                  </tr>
-                  </thead>
-                  <tbody>
-                  <tr>
-                  <td>Titre</td>
-                  <td>Paru en</td>
-                  <td>ISBN-10</td>
-                  </tr>
-                  <tr>
-                  <td>Hans Memling au Louvre (exposition, Musée du Louvre, Salle de la Chapelle, aile Sully, 18 Mai-14 Août 1995)</td>
-                  <td>1995</td>
-                  <td>2-7118-3275-9</td>
-                  </tr>
-                  </tbody>
-                </table>
-              </pre>
+              <table>
+                <thead>
+                <tr>
+                <th><span hidden="">hidden</span></th>
+                <th><span hidden="">hidden</span></th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                <td>Titre</td>
+                <td>Paru en</td>
+                <td>ISBN-10</td>
+                </tr>
+                <tr>
+                <td>Hans Memling au Louvre (exposition, Musée du Louvre, Salle de la Chapelle, aile Sully, 18 Mai-14 Août 1995)</td>
+                <td>1995</td>
+                <td>2-7118-3275-9</td>
+                </tr>
+                </tbody>
+              </table>
             </li>
           </ul>
         </div>
@@ -506,7 +504,7 @@
       <h4 id="jean-le-baptiste-2" class="yellow">jean le baptiste</h4>
       <section><article>
         <p>Sur le derrière, à gauche, la présence d'un <span style="color: #e6a64d;">agneau blanc</span> nous permet d'identifier <span style="color: #e6a64d;">l'homme portant la</span> magnifique <span style="color: #e6a64d;">tunique violette</span> comme <a href="https://fr.wikipedia.org/wiki/Jean_le_Baptiste" title="https://fr.wikipedia.org/wiki/Jean_le_Baptiste" id="jean-le-baptiste" class="yellow">Jean le Baptiste</a>.</p>
-        <p>L'agneau rappelle la parole que Jean le Baptiste adressa à ses disciples pour <span style="color #e6a64d;">annoncer</span> la venue de <span style="color: #e6a64d;">Jésus dans le monde</span> <span style="color: #999;">(Jean, chapître 1 verset 29)</span>:</p>
+        <p>L'agneau rappelle la parole que Jean le Baptiste adressa à ses disciples pour <span style="color: #e6a64d;">annoncer</span> la venue de <span style="color: #e6a64d;">Jésus dans le monde</span> <span style="color: #999;">(Jean, chapître 1 verset 29)</span>:</p>
         <p class="conversation"><span style="color: #e6a64d;"><ruby style="color:#e6a64d;" lang="fr">Voici&#160;l'agneau&#160;de&#160;dieu<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce&#160;agnus&#160;dei</rt><rp>)</rp></ruby></span>.</p>
         </blockquote>
         <p>Jean le Baptiste désigne aussi de son bras droit l'enfant Jésus.</p>
@@ -568,7 +566,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1920.jpg 1920w"></picture><figcaption>Jean l'Évangéliste</figcaption>
       </figure>
       <section><article>
-        <p>Nous reconnaissons <a href="https://fr.wikipedia.org/wiki/Jean_(apôtre)" title="https://fr.wikipedia.org/wiki/Jean_(apôtre)" id="jean-l-evangeliste" class="yellow">Jean l'Évangéliste</a> à un épisode du <span style="color: #999;">chapître 9</span> de <a href="https://fr.wikipedia.org/wiki/La_Légende_drée" title="https://fr.wikipedia.org/wiki/La_Légende_dorée" id="legende-doree-2" class="yellow"><cite>La Légende Dorée</cite></a>.</p>
+        <p>Nous reconnaissons <a href="https://fr.wikipedia.org/wiki/Jean_(apôtre)" title="https://fr.wikipedia.org/wiki/Jean_(apôtre)" id="jean-l-evangeliste" class="yellow">Jean l'Évangéliste</a> à un épisode du <span style="color: #999;">chapître 9</span> de <a href="https://fr.wikipedia.org/wiki/La_Légende_drée" title="https://fr.wikipedia.org/wiki/La_Légende_dorée" id="legende-doree-3" class="yellow"><cite>La Légende Dorée</cite></a>.</p>
         <ul>
           <li>lire le <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" title="https://francois-vidit.comdocs/fr/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" id="renvoi-aristodeme" class="yellow">texte de la <cite href="https://francois-vidit.comdocs/fr/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme">Légende de Jean l'Évangéliste</cite> selon le chapître 9 de <cite>La Légende Dorée</cite></a>.</li>
         </ul>
@@ -587,7 +585,7 @@
         <h5 class="yellow">l'étymologie du nom «jean» en hébreu</h5>
         <section><article>
           <p>L'étymologie du prénom «Jean» vient de l'hébreu «<ruby style="color:#e6a64d;" lang="fr">Yo<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">יו</rt><rp>)</rp>kha<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">ח</rt><rp>)</rp>nan<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">נן</rt><rp>)</rp></ruby>», dont la prononciation est:</p>
-          <p><audio controls="1" title="prononciation de Yokhanan en hébreu"><source src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/prononciation-yokhanan.mp3" type="audio/mpeg">Your browser does not support the audio tag.</audio></p>
+          <p><audio controls title="prononciation de Yokhanan en hébreu"><source src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/prononciation-yokhanan.mp3" type="audio/mpeg">Your browser does not support the audio tag.</audio></p>
           <p>qui signifie littéralement «<ruby style="color:#e6a64d;" lang="fr">dieu<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">Yo</rt><rp>)</rp></ruby>» est «<ruby style="color:#e6a64d;" lang="fr">grâce<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">khanan</rt><rp>)</rp></ruby>» ou «<ruby style="color:#e6a64d;" lang="fr">miséricorde<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">khanan</rt><rp>)</rp></ruby>».</p>
           <p>Comme «dieu» veut dire aussi en hébreu «ce qui est», «Jean» signifie également <span style="color: #e6a64d;">«celui en qui est»</span> la <span style="color: #e6a64d;">«grâce»</span> ou  la <span style="color: #e6a64d;">«miséricorde»</span>.</p>
           <p>Si <span style="color: #e6a64d;">ce prénom</span> a été porté par plusieurs personnages mineurs de l'histoire du peuple hébreu, il n'<span style="color: #e6a64d;">est devenu</span> très <span style="color: #e6a64d;">populaire</span> qu'après l'apparition du christianisme, <span style="color: #e6a64d;">dans le monde chrétien</span>, à la suite du rôle très important que chacun d'eux accomplit, rôles que nous détaillons bientôt en suivant le récit de la narration picturale de chacune de leur légende à travers les différentes scènes du triptyque.</p>
@@ -748,7 +746,7 @@
     <section><article>
       <h4 class="yellow">la conversation sacrée dans la scène du panneau central</h4>
       <section><article>
-        <p>Au couronnement de <a href="https://fr.wikipedia.org/wiki/Marie_(mère_de_Jésus)" title="https://frwikipedia.org/wiki/Marie_(mère_de_Jésus)" id="marie-mere-de-jesus" class="yellow">Marie</a>, la présence <span style="color: #e6a64d;">deux</span> à <span style="color: #e6a64d;">deux</span> de <a href="#catherine-d-alexandrie" itle="Catherine d'Alexandrie" class="yellow">Catherine</a> et <a href="#barbe" class="yellow">Barbe</a>, de <a href="#jean-le-baptiste-2" title="Jean le Baptiste" id="jean-le-baptiste-3" class="yello">Jean le Baptiste</a> et <a href="#jean-l-evangliste-3" title="Jean l'Évangéliste" id="jean-l-evangeliste-4" class="yellow">Jean l'Évangéliste</a> ajoute une <q><ruby style="color:#e6a64d;" lang="fr">conversation&#160;sacrée<rp>(</rp><rt style="font-size:70%;letter-spacing: 1px;color:#e6a64d;" lang="it">sacra&#160;conversazione</rt><rp>)</rp></ruby></q>, c'est-à-dire une <span style="color: #e6a64d;">réunion de saints</span> autour de la vierge.</p>
+        <p>Au couronnement de <a href="https://fr.wikipedia.org/wiki/Marie_(mère_de_Jésus)" title="https://frwikipedia.org/wiki/Marie_(mère_de_Jésus)" id="marie-mere-de-jesus" class="yellow">Marie</a>, la présence <span style="color: #e6a64d;">deux</span> à <span style="color: #e6a64d;">deux</span> de <a href="#catherine-d-alexandrie" itle="Catherine d'Alexandrie" class="yellow">Catherine</a> et <a href="#barbe" class="yellow">Barbe</a>, de <a href="#jean-le-baptiste-2" title="Jean le Baptiste" id="jean-le-baptiste-3" class="yello">Jean le Baptiste</a> et <a href="#jean-l-evangliste-3" title="Jean l'Évangéliste" id="jean-l-evangeliste-5" class="yellow">Jean l'Évangéliste</a> ajoute une <q><ruby style="color:#e6a64d;" lang="fr">conversation&#160;sacrée<rp>(</rp><rt style="font-size:70%;letter-spacing: 1px;color:#e6a64d;" lang="it">sacra&#160;conversazione</rt><rp>)</rp></ruby></q>, c'est-à-dire une <span style="color: #e6a64d;">réunion de saints</span> autour de la vierge.</p>
       </article></section>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -803,7 +801,7 @@
   </article></section>
 
   <section><article>
-    <h3 id="devotion-moderne" class="yellow">La conversation sacrée, expression remarquable de la “<ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby>”</h3>
+    <h3 class="yellow">La conversation sacrée, expression remarquable de la “<ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby>”</h3>
     <section><article>
       <h4 class="yellow">symétrie, simplicité, distinction de la disposition des protagonistes</h4>
       <section><article>
@@ -885,7 +883,7 @@
         <section><article>
           <h5 class="yellow">texte extrait de <cite>L'Imitation de Jésus-Christ</cite></h5>
           <header>
-            <p>On peut y lire par exemple <sup id="fnref1:5"><a href="#fn:4" class="footnote-ref">note 2</a></sup>:</p>
+            <p>On peut y lire par exemple <sup id="page-4-fnref1:5"><a href="#fn:4" class="footnote-ref">note 2</a></sup>:</p>
           </header>
           <article>
             <ol class="doc">
@@ -1052,7 +1050,7 @@
       </div>
       <footer>
         <ul>
-          <li><a href="#fnref1:5" rev="footnote" class="footnote-backref">retour au texte ↩</a></li>
+          <li><a href="#page-4-fnref1:5" rev="footnote" class="footnote-backref">retour au texte ↩</a></li>
         </ul>
       </footer>
     </article></section>
@@ -1255,7 +1253,7 @@
     <section><article>
       <p>Comme, dans les scène qu'a peinte Memling, ces textes sont fidèlement représentés, nous invitons les personnes qui qui souhaiteraient ressentir plus profondément la relation du triptyque aux différents texte à les lire directement:</p>
       <ul>
-        <li>lire le <a href="https:/francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18" title="https://francois-vidit.com/docs/fr/saint-jean/page:18" class="yellow">texte original de la <cite href="https:/francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18">Légende de Jean le Baptiste selon le chapître 9 de <cite>La Légende Dorée</cite></a>,</li>
+        <li>lire le <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18" title="https://francois-vidit.com/docs/fr/saint-jean/page:18" class="yellow">texte original de la <cite href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18">Légende de Jean le Baptiste selon le chapître 9 de <cite>La Légende Dorée</cite></a>,</li>
         <li>lire le <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:19" title="https://francois-vidit.com/docs/fr/saintjean/page:19" class="yellow">texte original de la <cite href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:19">Jean l'Évangéliste devant la Porte Latine selon le chapître 65 de <cite>La Légende Dorée</cite></a>.</li>
       </ul>
     </article></section>
@@ -1730,7 +1728,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-840.webp 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1280.webp 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1600.webp 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-640.jpg" title="Rogier VAN DER WEYDEN, “Triptyque de saint Jean”, détail du volet intérieur gauche, “Décollation de Jean le Baptiste”, Galerie de peintures, Musées d'État de Berlin, Berlin" alt="Rogier VAN DER WEYDEN, “Triptyque de saint Jean”, détail du volet intérieur gauche, “Décollation de Jean le Baptiste”, Galerie de peintures, Musées d'État de Berlin, Berlin" class="class-40-img" ean="" le="" baptistesizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-640.jpg" title="Rogier VAN DER WEYDEN, “Triptyque de saint Jean”, détail du volet intérieur gauche, “Décollation de Jean le Baptiste”, Galerie de peintures, Musées d'État de Berlin, Berlin" alt="Rogier VAN DER WEYDEN, “Triptyque de saint Jean”, détail du volet intérieur gauche, “Décollation de Jean le Baptiste”, Galerie de peintures, Musées d'État de Berlin, Berlin" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-280.jpg 280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-380.jpg 380w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-480.jpg 480w,
@@ -1842,7 +1840,7 @@
         <p>À la différence de Jean le Baptiste, sur le plan historique, <span style="color: #e6a64d;">il n'existe aucun document historique</span> autre que ceux issus de la foi chrétienne.</p>
         <p>Selon ces documents, pour les spécialistes modernes, <span style="color: #e6a64d;">Jean l'Évangéliste peut désigner trois personnages historiques distincts</span>:</p>
         <ol>
-          <li><a href="https://fr.wikipedia.org/wiki/Jean_(apôtre)" title="https://fr.wikipedia.org/wiki/Jean_(apôtre)" id="jean-l-apotre" class="yellow">Jean “l'Apôtre”</a> qui apparaît dans les évangiles de Marc, Luc, Mathieu et les Actes des Apôtres,</li>
+          <li><a href="https://fr.wikipedia.org/wiki/Jean_(apôtre)" title="https://fr.wikipedia.org/wiki/Jean_(apôtre)" class="yellow">Jean “l'Apôtre”</a> qui apparaît dans les évangiles de Marc, Luc, Mathieu et les Actes des Apôtres,</li>
           <li><a href="https://fr.wikipedia.org/wiki/Évangile_selon_Jean#Le_«_disciple_bien-aimé_»" title="https://fr.wikipedia.org/wiki/Évangile_selon_Jean#Le_«_disciple_bien-aimé_»" id="disciple-que-jesus-aimait" class="yellow">le disciple que Jésus aimait</a> rédacteur de l'évangile dit “de Jean”,</li>
           <li><a href="https://fr.wikipedia.org/wiki/ean_de_Patmos" title="https://fr.wikipedia.org/wiki/Jean_de_Patmos" id="jean-de-patmos" class="yellow">Jean “de Patmos”</a> rédacteur de l'Apocalypse.</li>
         </ol>
@@ -1851,14 +1849,14 @@
     </article></section>
 
     <section><article>
-      <h5 id="jean-l-apotre-2" class="yellow">Jean “l'Apôtre”</h5>
+      <h5 class="yellow">Jean “l'Apôtre”</h5>
 
       <section><article>
         <ul>
           <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:8#aristodeme" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:8#aristodeme" id="jean-l-apotre-3" class="yellow">Jean “l'Apôtre”</a> est l'<span style="color: #e6a64d;">un des deux «fils de <a href="https://fr.wikipedia.org/wiki/Zébédée" title="https://fr.wikipeia.org/wiki/Zébédée" id="zebedee" class="yellow">Zébédée</a>»</span> <span style="color: #999;">(Marc chapter 3 versets 16 à 19, Mathieu chapître 10 versets 2 à 5 et Luc chapître 6 versets 13 à 16)</span>.</li>
           <li>Son frère est <a href="htps://fr.wikipedia.org/wiki/Jacques_de_Zébédée" title="https://fr.wikipedia.org/wiki/https://fr.wikipedia.org/wiki/Jacques_de_Zébédée" id="jacques-le-majeur" class="yellow">Jacques dit «le Majeur»</a>.</li>
           <li>Jésus les appellent les <span style="color: #e6a64d;"><q>fils du tonnerre</q></span> <span style="color: #999;">(Marc chapître 3 verset 17)</span>.</li>
-          <li>Comme son frère et deux autres apôtres, <a href="https://fr.wikipedia.org/wiki/Pierre_(apôtre)" title="https://fr.wikipedia.org/wiki/Pierre_(apôtre)" id="simon-pierre" class="yellow">Simon-Pierre</a> et <a href="https://fr.wikipedia.org/wiki/André_(apôtre)" title="https://fr.wikipedia.org/wiki/André_(apôtre)" id="simon-pierre" clss="yellow">André</a>, c'est <span style="color: #e6a64d;">un des pêcheurs du lac de Tibériade</span> qui abandonne ses filets pour suivre Jésus.</li>
+          <li>Comme son frère et deux autres apôtres, <a href="https://fr.wikipedia.org/wiki/Pierre_(apôtre)" title="https://fr.wikipedia.org/wiki/Pierre_(apôtre)" id="simon-pierre" class="yellow">Simon-Pierre</a> et <a href="https://fr.wikipedia.org/wiki/André_(apôtre)" title="https://fr.wikipedia.org/wiki/André_(apôtre)" id="andre" clss="yellow">André</a>, c'est <span style="color: #e6a64d;">un des pêcheurs du lac de Tibériade</span> qui abandonne ses filets pour suivre Jésus.</li>
           <li>À partir de là, il est témoin:
             <ul>
               <li>de la <a href="https://fr.wikipedia.org/wiki/Transfiguration_(christianisme)" title="https://fr.wikipedia.org/wiki/Transfiguration_(christianisme)" id="transfiguration" class="yellow">transfiguration de Jésus</a> <span style="color: #999;">(Marc chapître 9 verset 2, Mathieu chapître 17 verset 1 et Luc chapître 9 verset 28)</span>,</li>
@@ -1961,7 +1959,7 @@
     </article></section>
 
     <section><article>
-      <h5 id="jean-de-patmos-2" class="yellow">la représentation de Jean l'Évangéliste selon Memling par rapport à <cite>La Légende dorée</cite></h5>
+      <h5 class="yellow">la représentation de Jean l'Évangéliste selon Memling par rapport à <cite>La Légende dorée</cite></h5>
 
       <section><article>
         <p>La représentation de Jean l'Évangéliste suit globalement le récit établit par Jacques de Voragine dans les <span style="color: #e6a64d;">chapîtres 9</span> et <span style="color: #e6a64d;">65</span> de <cite>La Légende dorée</cite>.</p>
