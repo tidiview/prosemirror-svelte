@@ -903,10 +903,8 @@ export const ExtendedThreerichTextSchema = new Schema({
       toDOM() { return ["sup", 0] },
     },
     cite: {
-      attrs: {href: {default: null}},
-      parseDOM: [{tag: "cite", getAttrs(dom) {
-        return {href: dom.getAttribute("href")} } }],
-      toDOM(node) { let {href} = node.attrs ;  return href == "" ? ["cite", 0] : ["cite", {href}, 0] },
+      parseDOM: [{tag: "cite"}],
+      toDOM() {["cite", 0]},
     },
     q: {
       attrs: {styles: {default: null}, cite: {default: null}},
