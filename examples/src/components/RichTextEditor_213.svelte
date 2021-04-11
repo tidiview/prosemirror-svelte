@@ -28,7 +28,14 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/rome-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/rome-1920.jpg 1920w"></picture><figcaption>detail of the central panel, “Salding of John the Evangelist by order of Emperor Domitian in front of the Latin Gate in Rome and departure for exile in the island of Patmos”, <cite>The Golden Legend</cite>, Chapter 9.</figcaption>
       </figure>
+      
+    <hgroup>
+    <h2 id="mise-en-relation" class="yellow">different texts at the origin of the scenes represented</h2>
+    <section><article>
+
       <h3 id="jean-selon-legende-2" class="yellow">St. John the Evangelist according to <cite>The Golden Legend</cite> - John before the Latin Gate</h3>
+    </hgroup>
+
         <section><article>
           <h4>Text of chapter 65 of <cite>The Golden Legend</cite>: legend of John the Evangelist - John before the Latin Gate</h4> 
           <section><article>

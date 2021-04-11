@@ -9,10 +9,13 @@
 
 <article>
   <section><article>
+    <hgroup>
     <h2 id="mise-en-relation" class="yellow">different texts at the origin of the scenes represented</h2>
     <section><article>
 
       <h3 id="cath-selon-legende" class="yellow">Legend of Catherine of Alexandria according to chapter 166 of <cite>The Golden Legend</cite></h3>
+    </hgroup>
+
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-280.webp 280w,

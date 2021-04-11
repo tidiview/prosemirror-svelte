@@ -8,8 +8,14 @@
 <!-- Page 20 -->
 
 <article>
-  <h3 class="yellow">Excerpt of the text of <cite>The Revelation</cite> related to its representation of John in Patmos on the left shutter by Hans Memling.</h3>
-  <section><article>
+  
+  <hgroup>
+    <h2 id="mise-en-relation" class="yellow">different texts at the origin of the scenes represented</h2>
+    <section><article>
+
+      <h3 class="yellow">Excerpt of the text of <cite>The Revelation</cite> related to its representation of John in Patmos on the left shutter by Hans Memling.</h3>
+  </hgroup>
+
     <h4 id="apocalypse" class="yellow">Text of the vision of the throne of God and the heavenly court: the living on the throne and the Lamb</h4>
 
     <section><article>

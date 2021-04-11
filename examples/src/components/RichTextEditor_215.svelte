@@ -29,7 +29,14 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1920.jpg 1920w"></picture><figcaption>Barbara the great martyr, detail of the central panel.</figcaption>
       </figure>
 
+      
+    <hgroup>
+    <h2 id="mise-en-relation" class="yellow">different texts at the origin of the scenes represented</h2>
+    <section><article>
+
       <h3 id="st-barbara-following-the-golden-legend" class="yellow"><cite>Legend of Barbara the Great Martyr</cite> according to the text added to <cite>The Golden Legend</cite></h3>
+    </hgroup>
+
       <section><article>
         <h4>Text added to <cite>The Golden Legend</cite>: <cite>legend of Barbara the Great Martyr</cite></h4>
         <section><article>
