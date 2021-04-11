@@ -5,8 +5,10 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-<!-- Page 1 -->
 <article>
+
+<!-- Page 1 -->
+
   <h1 class="yellow"><ruby lang="ja" style="color:#555;">洗礼者<wbr>ヨハネと<wbr>福音書記者<wbr>ヨハネの<wbr>三連画<rt lang="nl" style="color:#999;">Triptiek van Johannes de Doper en Johannes de Evangelist</rt></ruby></h1>
   <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -142,7 +144,6 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-1920.jpg 1920w"></picture><figcaption>聖ヨハネ施療院の教会の後陣から三連画前の景観</figcaption>
     </figure>
 
-</article>
 
 <hr>
 
@@ -188,7 +189,7 @@
 
 <!-- Page 2 --><hr>
 
-<article>
+
   <h2 id="description" class="yellow">作品の描写</h2>
 
     <figure>
@@ -210,12 +211,12 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/saint-jean_4-1600.jpg 1600w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/saint-jean_4-1920.jpg 1920w"></picture><figcaption><ruby>開<rt style="color:#555">かい</rt>翼<rt style="color:#555">よく</rt>時<rt style="color:#555">じ</rt></ruby></figcaption>
     </figure>
-    <article><section>
+
       <p>私たちはまず<span style="color: #e6a64d;">作品が表わそうとしている事を</span>描写しましょう。そのため、<span style="color: #e6a64d;">視線</span>を追います。それは、<span style="color: #e6a64d;">主な場面</span>から始まります。</p>
 
 
     <h3 id="couronnement" class="yellow">聖母の戴冠</h3>
-    <article><section>
+
       <p><span style="color: #e6a64d;">中央の聖母</span>は、綺麗な模様のある上級繊維の前で、赤いベルベットのバルダキンの下に金箔の王座で座しています。</p>
 
     <figure>
@@ -289,11 +290,10 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/enfant-jesus-1920.jpg 1920w"></picture><figcaption>中央パネルの拡大、《幼子イエス》</figcaption>
     </figure>
 
-</article>
 
 <!-- Page 3 --><hr>
 
-<article>
+
 
     <h3 id="catherine-d-alexandrie" class="yellow">アレクサンドリアのカタリナ</h3>
 
@@ -519,11 +519,10 @@
       <p><span style="color: #e6a64d;">聖体</span>は聖人としての表像の一つでもある。パネルの他の部分との<span style="color: #e6a64d;">「聖なる会話」</span>という形を示している繋がりの一つでもある。</p>
 
 
-</article>
 
 <!-- Page 4 -->
 
-<article>
+
 
     <h3 id="conversation" class="yellow">聖母マリアと幼子イエスの周囲の聖なる会話</h3>
 
@@ -668,7 +667,7 @@
           <header>
             <p>これはその抜粋文書です <sup id="page-4-fnref1:4"><a href="#page-4-fn:4" class="footnote-ref">ノート３</a></sup>：</p>
           </header>
-          <article>
+          
             <ol class="doc">
               <li value="1">人はこの世の事柄から自分を引き上げているのは、<span style="color: #9c6416;">単純さ</span>と<span style="color: #9c6416;">清さ</span>という二つの羽によってです。</li>
               <li>単純さは人の<span style="color: #9c6416;">意図</span>に、<span style="color: #9c6416;">清さ</span>は人に対する情にあるべきです。</li>
@@ -684,7 +683,7 @@
               <li>従って、どこかに苦悩や苦痛があるのなら、気がとがめるそのことに知られているのです。</li>
               <li value="13">火のなかに投げ込まれた鉄がその錆を失ってとても白く輝くように、こうして 遠慮せず自分を神に捧げる人は、悩ましげをはぎとられ新しい人へと変えられます。</li>
             </ol>
-          </article>
+        
 
 
 
@@ -778,11 +777,10 @@
 
 
 
-</article>
 
 <!-- Page 5 -->
 
-<article>
+
   <h3 id="organisation-du-recit" class="yellow">語りの仕組み</h3>
 
     <h4 class="yellow">いくつかの小さな場面</h4>
@@ -916,11 +914,10 @@
       <p>私たちに<time datetime="1300">１３００</time>年ごろに病院が市に<span style="color: #e6a64d;">市の特権</span>、自分の収入の源でもあった<span style="color: #e6a64d;">「計量する権」</span>を任せられて来たことを思い出させてくれている。</p>
 
 
-</article>
 
 <!-- Page 6 --><hr>
 
-<article>
+
 <h3 id="legendes" class="yellow">洗礼者ヨハネと福音書記者ヨハネの諸伝説</h3>
 
   <figure>
@@ -1071,12 +1068,11 @@
 
 
 
-
-</article></div>
+</div>
 
 <!-- Page 7 --><hr>
 
-<article>
+
 
     <h6 class="yellow">中央パネルの遠景での洗礼者の修徳の場面</h6>
 
@@ -1167,12 +1163,12 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1920.jpg 1920w"></picture><figcaption>左翼パネルの内面の上部の詳細、《ヨルダン川のほとりでイエスを洗礼する洗礼者ヨハネ》</figcaption>
     </figure>
 
-    <article><section>
+
       <p>向こうの岸に、<span style="color: #e6a64d;">洗礼者ヨハネ</span>が自分の最初の弟子のニ人である<a href="https://ja.wikipedia.org/wiki/アンデレ" title="https://ja.wikipedia.org/wiki/アンデレ" id="andre" class="yellow">アンデレ</a>と<a href="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" title="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" id="jean-l-apotre" class="yellow">使徒ヨハネ</a>も彼に加わるよう、<q style="quotes: '「' '」';color: #e6a64d;"><ruby lang="ja" style="color:#e6a64d;">これは&#12289;神の小羊<rp>(</rp><rt lang="la" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">エッチェ・アニュス・ディ</rt><rp>)</rp></ruby></q>という言葉でイエスに紹介している。彼たちは彼と合流する。</p>
 
 
 
-  <article><section>
+
     <h6 class="yellow">中央パネルの遠景での洗礼者ヨハネの逮捕の場面</h6>
 
       <p>そこから、彼の運命が悲劇的になる。</p>
@@ -1211,11 +1207,10 @@
       <p>中央パネルでは、メムリンクがこの場面を白羊の上に、<span style="color: #e6a64d;">ヨハネ</span>が強制的に古代ギリシャの語源は「剣」という意味と、現代のヨルダン国に位置付けられているの現代<ruby lang="ja" style="color:#e6a64d;">マシェロント<rp>(</rp><rt lang="grc" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">μάχαιρα</rt><rp>)</rp></ruby> <sup id="page-7-fnref1:3"><a href="#page-7-fn:3" class="footnote-ref">ノート３</a></sup> の牢へ向かって左の翼パネルへ<span style="color: #e6a64d;">連れて行かれている</span>。</p>
 
 
-</article>
 
 <!-- Page 8 --><hr>
 
-<article>
+
 
     <h6 class="yellow">左翼パネル内面全景</h6>
 
@@ -1322,11 +1317,10 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/decollation-1920.jpg 1920w"></picture><figcaption>左翼パネル内面の詳細、《洗礼者ヨハネの斬首》</figcaption>
     </figure>
 
-</article>
 
 <!-- Page 9 --><hr>
 
-<article>
+
 
     <h6 class="yellow">洗礼者ヨハネの斬首の詳細、左翼パネル内面</h6>
 
@@ -1355,15 +1349,15 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/tete_de_baptiste-1920.jpg 1920w"></picture><figcaption>左翼パネル内面の詳細、《洗礼者ヨハネの頭》</figcaption>
     </figure>
 
-    <article><section>
+
       <p><span style="color: #e6a64d;">死刑執行人</span>は、ほとんど感動していない<a href="https://ja.wikipedia.org/wiki/サロメ_(ヘロディアの娘))" title="https://ja.wikipedia.org/wiki/サロメ_(ヘロディアの娘)" id="salome-3" class="yellow">サロメ</a>が彼に差し出す<span style="color: #e6a64d;">大皿に頭を</span>もたせかけながら、背後から描かれている。</p>
 
 
 
-  <article><section>
+
     <h6 class="yellow">洗礼者ヨハネの斬首の場面で、ファン・デル・ウェイデンからのメムリンクの影響、左翼パネル内面</h6>
 
-    <article><section>
+
       <p>美術史家たちは、死刑執行者とサロメの姿勢において、彼がブリュッセルで<a href="https://ja.wikipedia.org/wiki/ロヒール・ファン・デル・ウェイデン" title="https://ja.wikipedia.org/wiki/ロヒール・ファン・デル・ウェイデン" id="rogier-van-der-weyden" class="yellow">ロヒール・ファン・デル・ウェイデン</a>という画家のアシスタントだったころの先生の作品で見当たる<span style="color: #e6a64d;">似たような場面をメムリンクによるの再利用</span>だと見っ分けている。
       これは<a href="https://ja.wikipedia.org/wiki/絵画館_(ベルリン)" title="https://ja.wikipedia.org/wiki/絵画館_(ベルリン)" id="gemaldegalerie" class="yellow"><ruby lang="ja">ベルリン国立美術館<rp>(</rp><rt lang="de">Staatliche&#160;Museen&#160;zu&#160;Berlin</rt><rp>)</rp></ruby></a>の<a href="https://ja.wikipedia.org/wiki/ベルリン美術館" title="https://ja.wikipedia.org/wiki/Musées_d'État_de_Berlin" id="musees-d-etat-de-berlin" class="yellow"><ruby lang="ja">絵画館<rp>(</rp><rt lang="de">Gemäldegalerie</rt><rp>)</rp></ruby></a>にある<time datetime="1450">１４５０</time>〜<time datetime="1455">５５年頃</time>に描かれた<span style="color: #e6a64d;">《聖ヨハネの三連画》</span>の左翼パネル内面にある<span style="color: #999;">（目録番号５３４B）</span>。</p>
 
@@ -1388,7 +1382,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1920.jpg 1920w"></picture><figcaption>左翼パネル内面の詳細、ロヒール・ファン・デル・ウェイデン筆《聖ヨハネの三連画》</figcaption>
     </figure>
 
-    <article><section>
+
       <p>マルコの語りは続く<span style="color: #999;">（マルコ、第６章・２９節）</span>：<span style="color: #e6a64d;">「ヨハネの弟子たちはこのことを聞き、やって来て、遺体を引き取り、墓に納めた」</span>。
       後者はヘロデ・アンティパスに支配されている領地から遠くある、ヨルダン川西岸地区での<ruby lang="ja" style="color:#e6a64d;">セバステ<rp>(</rp><rt lang="grc" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">Σεβαστή</rt><rp>)</rp></ruby>、現代の<a href="https://ja.wikipedia.org/wiki/サバスティーヤ" title="https://ja.wikipedia.org/wiki/サバスティーヤ" id="sebastia" class="yellow"><ruby lang="ja">セバスティア<rp>(</rp><rt lang="ar">سبسطية</rt><rp>)</rp></ruby></a>という<a href="https://ja.wikipedia.org/wiki/エリシャ" title="https://ja.wikipedia.org/wiki/エリシャ" id="elisee" class="yellow">エリシャ</a>と<a href="https://ja.wikipedia.org/wiki/オバデヤ" title="https://ja.wikipedia.org/wiki/オバデヤ" id="abdias" class="yellow">オバデヤ</a>預言者たちのお墓の近くに持って行かれた。</p>
       <p>中央パネルの左側では、右に、洗礼者ヨハネの後ろに、メムリンクが彼の伝説の最後の場面を表した。それは、キリスト教の信仰と戦ってヨハネが葬られたところに行われた奇跡を止めさせるために、<a href="https://ja.wikipedia.org/wiki/フラウィウス・クラウディウス・ユリアヌス" title=" https://ja.wikipedia.org/wiki/フラウィウス・クラウディウス・ユリアヌス" id="julien-l-apostat" class="yellow">背教者ユリアヌス</a>が遺体を掘り起こし、焼いて、畑を散々に散らすよう命じたということだ。</p>
@@ -1415,9 +1409,9 @@
     </figure>
 
   
-  <article><section>
+
     <h6 class="yellow">壁の開口部の中の洗礼者ヨハネの頭、中央パネル</h6>
-    <article><section>
+
       <p>しかし、思い通りになりませんでした。</p>
       <p>彼の頭は、伝説によると、現代のシリアでの<ruby lang="ja">ホムス<rp>(</rp><rt lang="ar">حمص</rt><rp>)</rp></ruby>、当時エメサ市の陶工屋によって別に葬られたのであろうから、それは、遠ざけた石の後ろにある<span style="color: #e6a64d;">壁の開口部</span>の中に。</p>
       <p>伝説によると、頭が別にシリアにある現代の<a href="https://ja.wikipedia.org/wiki/ホムス" title="https://ja.wikipedia.org/wiki/ホムス" id="homs" class="yellow"><ruby lang="ja">ホムス<rp>(</rp><rt lang="ar">حمص</rt><rp>)</rp></ruby></a>のエメサ市のある製陶屋さんに埋められたのであろう。その後、星に追いかけながら発見した聖マルケッルス <sup id="page-9-fnref1:1"><a href="#page-9-fn:1" class="footnote-ref">ノート１</a></sup> に顕現されたであろう<span style="color: #999;">（黄金伝説、第１２１章、第３段）</span>。</p>
@@ -1443,17 +1437,16 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/mur-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、《壁の開口部の中の洗礼者ヨハネの頭》、</figcaption>
     </figure>
 
-    <article><section>
+
       <p>これで<cite>黄金伝説</cite>においての洗礼者ヨハネの伝説の語りが終ります。</p>
 
 
-</article>
 
 <!-- Page 10 --><hr>
 
-<article>
+
   <h4 id="legende-de-jean-l-evangeliste" class="yellow"><cite>黄金伝説</cite>と<cite>黙示録</cite>においての福音書記者ヨハネの伝説の諸場面</h4>
-  <article><section>
+
     <h5 class="yellow"><cite>黄金伝説</cite>と<cite>黙示録</cite>においての福音書記者ヨハネについての注意すべき事項</h5>
 
 
@@ -1748,11 +1741,10 @@
 
 
 
-</article>
 
 <!-- Page 11 --><hr>
 
-<article>
+
   <h5 class="yellow"><cite>黙示録</cite>での四人騎士</h5>
 
 
@@ -1939,11 +1931,10 @@
       </figure>
 
 
-</article>
 
 <!-- Page 12 --><hr>
 
-<article>
+
 
     <h5 class="yellow">第七封印の天使たち　＝　<cite>黙示録</cite>、第８章１～２節</h5>
 
@@ -2111,11 +2102,10 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《鷲の<ruby>飛<rp>(</rp><rt style="font-size: 70%;color:#999">ひ</rt><rp>)</rp>翔<rp>(</rp><rt style="font-size: 70%;color:#999">しょう</rt><rp>)</rp></ruby>》、<cite>黙示録</cite>、第８章１３節</figcaption>
     </figure>
 
-</article>
 
 <!-- Page 13 -->
 
-<article>
+
 
     <h5 class="yellow">la sortie vers la terre des sauterelles　＝　<cite>黙示録</cite>、第９章１～１１節</h5>
 
@@ -2298,11 +2288,10 @@
       </figure>
 
 
-</article>
 
 <!-- Page 14 --><hr>
 
-<article>
+
 
     <h5 class="yellow">女蛇から逃れるために女には大きな鷲の翼が二つ与えられる　＝　<cite>黙示録</cite>、第１２章１０～１３節</h5>
 
@@ -2426,12 +2415,11 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/chapiteau-4-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、右側の最右の柱頭、《毒の杯の奇跡》、<cite>黄金伝説</cite>、第９章</figcaption>
     </figure>
 
-</article>
       
 
 <!-- Page 15 --><hr>
 
-<article>
+
 	<figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-280.webp 280w,
@@ -2616,7 +2604,7 @@
 
 <hr>
 
-  <article>
+  
     <h3 class="yellow">註釈</h3>
 
       <h4 id="page-10-note-apocalypse" class="yellow">黙示録</h4>
@@ -2661,11 +2649,11 @@
 
 
 
-  </article>
+
 
 <hr>
 
-  <article>
+  
 
       <div class="footnotes">
         <ol>
@@ -2740,7 +2728,7 @@
         <p><a href="#page-3-fnref1:5" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
       </footer>
 
-  </article>
+
 
 <hr>
 
@@ -2812,7 +2800,7 @@
 
 <hr>
 
-  <article>
+  
     <header>
       <p>注釈：</p>
     </header>
@@ -2836,11 +2824,11 @@
       <p><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean#lorentz" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean#lorentz" id="renvoi-lorentz-2" class="yellow">この記事に関連書籍</a>に出典されている<ruby lang="ja">フィリップ<rp>(</rp><rt lang="de">Philippe</rt><rp>)</rp>・<rp>(</rp><rt lang="de">&#160;</rt><rp>)</rp>ローレンッツ<rp>(</rp><rt lang="de">LORENTZ</rt><rp>)</rp></ruby>の著作からの引用。</p>
       <p><a href="#page-5-fnref1:6" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p></p>
     </footer>
-  </article>
+
 
 <hr>
 
-  <article>
+  
     <div class="footnotes">
     <ol start="1">
       <li id="page-7-fn:2">
@@ -2851,9 +2839,9 @@
     <footer>
       <p><a href="#page-7-fnref1:2" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
     </footer>
-  </article>
 
-  <article>
+
+  
     <div class="footnotes">
     <ol start="2">
       <li id="page-7-fn:1">
@@ -2864,9 +2852,9 @@
     <footer>
       <p><a href="#page-7-fnref1:1" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
     </footer>
-  </article>
 
-  <article>
+
+  
     <div class="footnotes">
     <ol start="3">
       <li id="page-7-fn:3">
@@ -2877,11 +2865,11 @@
     <footer>
       <p><a href="#page-7-fnref1:3" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
     </footer>
-  </article>
+
 
 <hr>
 
-<article>
+
   <div class="footnotes">
   <ol>
     <li id="page-8-fn:1">
@@ -2892,11 +2880,10 @@
   <footer>
     <p><a href="#page-8-fnref1:1" rev="footnote" class="footnote-backref">文書に戻る　&#8617;</a></p>
   </footer>
-</article>
 
 <hr>
 
-  <article>
+  
   <div class="footnotes">
   <ol>
     <li id="page-9-fn:1">
@@ -2907,11 +2894,11 @@
   <footer>
     <p><a href="#page-9-fnref1:1" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
   </footer>
-  </article>
+
 
 <hr>
 
-  <article>
+  
     <h3 class="yellow">註釈</h3>
 
       <h4 id="page-10-note-apocalypse" class="yellow">黙示録</h4>
@@ -2956,11 +2943,10 @@
 
 
 
-  </article>
+
 </aside>
 
 
-</article>
 
 <!-- Page 16 -->
 
@@ -2971,6 +2957,7 @@
 <!-- Page 19 -->
 
 <!-- Page 20 -->
+</article>
 `;
 
 
