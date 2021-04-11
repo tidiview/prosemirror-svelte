@@ -229,132 +229,6 @@
     </figure>
   </article></section>
 
-  <hr>
-
-  <aside>
-    <section><article>
-      <h3 id="a-propos-de-cet-article" class="yellow">references of this article</h3>
-      <section>
-        <p>For this article we are indebted to reference works, especially those of <a href="#de-vos-1" id="de-vos-1" class="yellow">Dirk DE VOS, "Hans Memling - The Complete Works"</a> and <a href="#de-vos-2" id="de-vos-2" class="yellow">"Hans Memling"</a>.</p>
-      </section>
-
-      <section><article>
-        <h4 id="de-vos" class="yellow">references of the books cited by Dirk DE VOS:</h4>
-        <section>
-          <ul>
-            <li>in french:
-              <table>
-                <thead>
-                  <tr>
-                    <th><span hidden>hidden</span></th>
-                    <th><span hidden>hidden</span></th>
-                    <th><span hidden>hidden</span></th>
-                  </tr>
-                  </thead>
-                <tbody>
-                  <tr>
-                    <td><samp>Title</samp></td>
-                    <td><samp>Published in</samp></td>
-                    <td><samp>ISBN-10</samp></td>
-                  </tr>
-                  <tr>
-                    <td><samp>Hans Memling: l'œuvre complète</samp></td>
-                    <td><samp><time datetime="1994">1994</time></samp></td>
-                    <td><samp>2-226-06992-5</samp></td>
-                  </tr>
-                  <tr>
-                    <td><samp>Hans Memling: catalogue</samp></td>
-                    <td><samp><time datetime="1994">1994</time></samp></td>
-                    <td><samp>90-5544-028-0</samp></td>
-                  </tr>
-                </tbody>
-              </table>
-            </li>
-            <li>in english:
-              <table>
-                <thead>
-                  <tr>
-                    <th><span hidden>hidden</span></th>
-                    <th><span hidden>hidden</span></th>
-                    <th><span hidden>hidden</span></th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td><samp>Title</samp></td>
-                    <td><samp>Published in</samp></td>
-                    <td><samp>ISBN-10</samp></td>
-                  </tr>
-                  <tr>
-                    <td><samp>Hans Memling: The Complete Works</samp></td>
-                    <td><samp><time datetime="1994">1994</time></samp></td>
-                    <td><samp>0810936496</samp></td>
-                  </tr>
-                  <tr>
-                    <td><samp>Hans Memling: Catalogue</samp></td>
-                    <td><samp><time datetime="1994">1994</time></samp></td>
-                    <td><samp>9055440299</samp></td>
-                  </tr>
-                </tbody>
-              </table>
-            </li>
-          </ul>
-        </section>
-        <footer>
-          <p><a href="#renvoi-de-vos-1" title="renvoi-de-vos-1">↑ back to this page</a> <a href="#renvoi-de-vos-2" title="renvoi-de-vos-2">↑ back to page 2</a></p>
-        </footer>
-      </article></section>
-
-      <section><article>
-        <h4 id="lorentz" class="yellow">references of the book quoted by Philippe LORENTZ:</h4>
-        <section>
-          <div class="notices yellow">
-            <ul>
-              <li>in french:
-                <table>
-                  <thead>
-                    <tr>
-                      <th><samp><span hidden>hidden</span></samp></th>
-                      <th><samp><span hidden>hidden</span></samp></th>
-                      <th><samp><span hidden>hidden</span></samp></th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr>
-                      <td><samp>Title</samp></td>
-                      <td><samp>Published in</samp></td>
-                      <td><samp>ISBN-10</samp></td>
-                    </tr>
-                    <tr>
-                      <td><samp>Hans Memling au Louvre (exposition, Musée du Louvre, Salle de la Chapelle, aile Sully, <time datetime="1995-05-18">18 Mai</time>-<time datetime="1995-08-14">14 Août 1995</t</samp>ime>)</td>
-                      <td><samp>1995</samp></td>
-                      <td><samp>2-7118-3275-9</samp></td>
-                    </tr>
-                  </tbody>
-                </table>
-              </li>
-            </ul>
-          </div>
-        </section>
-        <footer>
-          <p><a href="#renvoi-lorentz-1" title="renvoi-lorentz-1">↑ back to this page</a> <a href="#renvoi-lorentz-2" title="renvoi-lorentz-2">↑ back to page 3</a></p>
-        </footer>
-      </article></section>
-    </article></section>
-
-    <hr>
-
-    <section>
-      <header>
-        <p><a href="#renvoi-note-1" title="renvoi note-1" id="note-1">note:</a></p>
-      </header>
-      <p>the reproductions of the work that we make available to the public are, to our knowledge, the best that currently available exist outside of professional works: they required a great deal of efforts from us due to the low intensity and yellow of the lighting in the exhibition space of the Memling Museum in Bruges at the time this article was first written (<time datetime="2018">2018</time>).</p>
-      <footer>
-        <p><a href="#renvoi-note-1" title="renvoi note-1">↑ retour au texte</a></p>
-      </footer>
-    </section>
-  </aside>
-
   <!-- Page 2 --><hr>
 
   <section><article>
@@ -966,58 +840,6 @@
           <p>The thin vertical openings between the columns overlook a <span style="color: #e6a64d;">visually continuous landscape with ruins and buildings</span>, open to the distant, horizon and infinite.</p>
         </article></section>
       </article></section>
-<hr>
-      <aside>
-        <h3 id="note">Notes:</h3>
-        <section><article>
-          <h4 id="note-devotion-moderne">“devotio moderna”</h4>
-          <section><article>
-            <div class="notices yellow">
-            <p>Born a little further north in the present Netherlands, in the Utrecht region at the end of the 14<sup style="color:#e6a64d;">th</sup> and beginning of the 15<sup style="color:#e6a64d;">th</sup> century, “<dfn>devotio moderna</dfn>” or modern devotion was initiated by a man, <a href="https://en.wikipedia.org/wiki/Geert_Groote" title="https://en.wikipedia.org/wiki/Geert_Groote" id="gerard-groote" class="yellow">Geert Groote</a>, who criticized the piety of his time, judging it too austere and too far from the world.
-            In reaction, he exhorted the believer to let Christ dwell in the depths of his heart.
-            According to him, this presence of Christ is intended to produce simplicity.
-            The believer can then exercise an action in conformity with the virtue to which faith calls him, in a natural way, where he is.</p>
-            </div>
-            <footer>
-              <p class="puce">back to the text: <a href="#renvoi-devotion-moderne" title="renvoi mouvement «dévotio moderna»">A detailed presentation of this movement can be found in note ↩</a></p>
-            </footer>
-          </article></section>
-
-          <hr>
-
-          <section><article>
-            <div class="footnotes">
-              <ol>
-                <li id="fn:4">
-                  <p>We follow the references given in Wikipedia's article (french edition) «l'Imitation de Jésus-Christ» (date: <time datetime="2018-08-21">2018 August 21<sup>st</sup></time>), namely:</p>
-                  <p class="puce">Yann Sordet, Un succès de librairie européen: l'Imitatio Christi (<time datetime="1470">1470</time>-<time datetime="1850">1850</time>), Paris, Bibliothèque Mazarine; Editions des cendres, <time datetime="2012">2012</time>, 195 p. (ISBN 979-10-90853-01-0), p. 11.</p>
-                  <p>According to specialists, its author is a monk: <a href="https://en.wikipedia.org/wiki/Thomas_à_Kempis" title="https://en.wikipedia.org/wiki/Thomas_%C3%A0_Kempis">Thomas A KEMPIS</a>.</p>
-                </li>
-              </ol>
-            </div>
-            <footer>
-              <p class="puce"><a href="#fnref1:4" rev="footnote" class="footnote-backref">back to text ↩</a></p>
-            </footer>
-          </article></section>
-
-          <hr>
-
-          <section><article>
-            <div class="footnotes">
-              <ol start="2">
-                <li id="fn:5">
-                  <p>source:</p>
-                  <p><cite>L'imitation de notre Seigneur Jésus Christ</cite>, trans. by F. de Lamennais, Éd. Arts et Métiers graphiques, Paris, <time datetime="1946">1946</time>, pp. 59-60, II, 4, 1-2 (part II, chapter 4, paragraphs 1 and 2).</p>
-                  <p>original translation from us.</p>
-                </li>
-              </ol>
-            </div>
-            <footer>
-              <p class="puce"><a href="#page-4-fnref1:5" rev="footnote" class="footnote-backref">back to text  ↩</a></p>
-            </footer>
-          </article></section>
-        </article></section>
-      </aside>
     </article></section>
 
 
@@ -1156,34 +978,6 @@
           <p>This reminds us that the hospital was entrusted by the city around <time datetime="1300">1300</time> with a <span style="color: #e6a64d;">communal charge</span>, the <span style="color: #e6a64d;">«right to gauge»</span> from which the institution had its income.</p>
         </article></section>
       </article></section>
-
-      <hr>
-
-      <aside>
-        <article>
-          <section><article>
-          <div class="footnotes">
-          <ol>
-            <li id="fn:6">
-              <p>«at the time when the artist settled in Bruges, the city was one of the main centres of production of illuminated books in the burgundian Netherlands (...)</p>
-              <p>Memling included a miniaturist among his Bruges relations: <a href="https://en.wikipedia.org/wiki/Willem_Vrelant" title="https://en.wikipedia.org/wiki/Willem_Vrelant">Willem Vrelant</a>.
-              At the head of the city's most prolific pharmacy, Vrelant was, like Memling, an immigrant.</p>
-              <p>Originally from Utrecht, he was mentioned in the Bruges booksellers' guild from <time datetime="1454">1454</time> until his death in <time datetime="1481">1481</time>.
-              Both living in Sint-Jorisstraat, Vrelant and Memling were almost neighbours (...)</p>
-              <p>From the point of view of a visually convincing spatial representation, the relationship between the two figures in the foreground and the rest of the table (... an) inconsistency governs the relationship between the main figure and the wood in the intermediate plane (...)</p>
-              <p>From one work to another, we find the same cumulative layering of the different zones of the landscape up to a horizon placed very high (...) in Vrelant's work»</p>
-          </li>
-          </ol>
-          </div>
-          <footer>
-            <p>source: book by Philippe LORENTZ referenced in <a href="/docs/en/bruges/hopital-saint-jean/saint-jean#lorentz" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean#lorentz" id="renvoi-lorentz-2" class="yellow">bibliography</a>.</p>
-          </footer>
-          </article></section>
-          <footer>
-            <p class="puce"><a href="#fnref1:6" rev="footnote" class="footnote-backref">back to text ↩</a></p>
-          </footer>
-        </article>
-      </aside>
     </article></section>
 
     <!-- Page 6 --><hr>
@@ -1487,24 +1281,6 @@
 
           </article></section>
 
-
-          <hr>
-
-          <aside>
-            <article>
-              <div class="footnotes">
-            <ol>
-              <li id="page-7-fn:2">
-                for information, this quote is in the past, We're transposing it to the present.
-            </li>
-            </ol>
-            </div>
-              <footer>
-                <p class="puce"><a href="#page-7-fnref1:2" rev="footnote" class="footnote-backref">back to text ↩</a></p>
-              </footer>
-            </article>
-          </aside>
-
           <!-- Page 8 --><hr>
 
 
@@ -1643,23 +1419,6 @@
             </article></section>
           </article>
 
-          <hr>
-
-          <aside>
-            <article>
-              <div class="footnotes">
-              <ol>
-                <li id="page-8-fn:1">
-                  <p>words of <a href="https://en.wikipedia.org/wiki/Jerome" title="https://en.wikipedia.org/wiki/Jerome" id="saint-jerome" class="yellow">St. Jerome</a> reported by Jacobus da Varagine.&nbsp;</p>
-              </li>
-              </ol>
-              </div>
-              <footer>
-                <p class="puce"><a href="#page-8-fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
-              </footer>
-            </article>
-          </aside>
-
           <!-- Page 9 --><hr>
 
           <article>
@@ -1795,26 +1554,7 @@
         </article></section>
       </article></section>
 
-
-      <hr>
-
-      <aside>
-      <article>
-        <div class="footnotes">
-        <ol>
-          <li id="page-9-fn:1">
-            <dfn>Saint Marcellus of Apamea</dfn> in Syria (died in <time datetime="0389">389</time>). Magistrate of the city, in the year <time datetime="0375">375</time>, he left his wife and children, and devoted himself to a monastic life, was elected bishop of Apamea, Syria. He died murdered by the heathens while watching over the destruction of a temple of idols according to an edict of Emperor Theodosius. Celebrated on <time datetime="08-14">August 14<sup>th</sup></time>.
-        </li>
-        </ol>
-        </div>
-        <footer>
-          <p class="puce"><a href="#page-9-fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
-        </footer>
-      </article>
-      </aside>
-
       <!-- Page 10 --><hr>
-
 
       <section><article>
         <h4 class="yellow" id="légende-de-jean-l’évangéliste">scenes from the legend of John the Evangelist according to <cite>The Golden Legend</cite> and <cite>The Revelation</cite></h4>
@@ -2149,59 +1889,6 @@
             </article></section>
           </article></section>
         </article></section>
-
-        <hr>
-
-        <aside>
-          <article>
-            <div class="footnotes">
-              <ol>
-                <li id="page-10-fn:1">
-                  <p>the quotation that follows is past; for information, e transpose it here to present.</p>
-              </li>
-              </ol>
-            </div>
-            <footer>
-              <p class="puce"><a href="#page-10-fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
-            </footer>
-          </article>
-          <hr>
-          <article>
-            <div class="footnotes">
-              <ol start="2">
-                <li id="page-10-fn:2">
-                  read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse">text excerpt of <cite>The Revelation</cite> related to the representation of John in Patmos on the left inner shutter by Hans Memling</a>.
-              </li>
-              </ol>
-            </div>
-            <footer>
-              <p class="puce"><a href="#page-10-fnref1:2" rev="footnote" class="footnote-backref">back to text ↩</a></p>
-            </footer>
-          </article>
-          <hr>
-          <article>
-            <div class="footnotes">
-              <ol start="3">
-                <li id="fn:3">
-                  <p>The text of <cite>The Revelation</cite> is addressed to the "seven churches that are in Asia Minor" according to <cite>The Revelation</cite> chapter 1 verse 4:</p>
-                  <ol>
-                    <li>"Ephesus,</li>
-                    <li>Smyrna,</li>
-                    <li>Pergamos,</li>
-                    <li>Thyatira,</li>
-                    <li>Sardis,</li>
-                    <li>Philadelphia</li>
-                    <li>and Laodicea".</li>
-                  </ol>
-                  <p>In the symbolic language of the Jewish scriptures, it exhorts them to a transcendent reality that will enable them to overcome not only persecutions, whether Roman or Jewish, but also their own inadequacies, as <cite>The Revelation</cite> chapter 2 verse 3 shows, through new hope in Christ at the end of time.</p>
-              </li>
-              </ol>
-            </div>
-            <footer>
-              <p class="puce"><a href="#page-10-fnref1:3" rev="footnote" class="footnote-backref">back to text ↩</a></p>
-            </footer>
-          </article>
-        </aside>
 
           <!-- Page 11 --><hr>
 
@@ -3046,6 +2733,307 @@
       </article></section>
     </article></section>
   </article></section>
+
+<hr>
+
+<aside>
+  <section><article>
+    <h3 id="a-propos-de-cet-article" class="yellow">references of this article</h3>
+    <section>
+      <p>For this article we are indebted to reference works, especially those of <a href="#de-vos-1" id="de-vos-1" class="yellow">Dirk DE VOS, "Hans Memling - The Complete Works"</a> and <a href="#de-vos-2" id="de-vos-2" class="yellow">"Hans Memling"</a>.</p>
+    </section>
+
+    <section><article>
+      <h4 id="de-vos" class="yellow">references of the books cited by Dirk DE VOS:</h4>
+      <section>
+        <ul>
+          <li>in french:
+            <table>
+              <thead>
+                <tr>
+                  <th><span hidden>hidden</span></th>
+                  <th><span hidden>hidden</span></th>
+                  <th><span hidden>hidden</span></th>
+                </tr>
+                </thead>
+              <tbody>
+                <tr>
+                  <td><samp>Title</samp></td>
+                  <td><samp>Published in</samp></td>
+                  <td><samp>ISBN-10</samp></td>
+                </tr>
+                <tr>
+                  <td><samp>Hans Memling: l'œuvre complète</samp></td>
+                  <td><samp><time datetime="1994">1994</time></samp></td>
+                  <td><samp>2-226-06992-5</samp></td>
+                </tr>
+                <tr>
+                  <td><samp>Hans Memling: catalogue</samp></td>
+                  <td><samp><time datetime="1994">1994</time></samp></td>
+                  <td><samp>90-5544-028-0</samp></td>
+                </tr>
+              </tbody>
+            </table>
+          </li>
+          <li>in english:
+            <table>
+              <thead>
+                <tr>
+                  <th><span hidden>hidden</span></th>
+                  <th><span hidden>hidden</span></th>
+                  <th><span hidden>hidden</span></th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><samp>Title</samp></td>
+                  <td><samp>Published in</samp></td>
+                  <td><samp>ISBN-10</samp></td>
+                </tr>
+                <tr>
+                  <td><samp>Hans Memling: The Complete Works</samp></td>
+                  <td><samp><time datetime="1994">1994</time></samp></td>
+                  <td><samp>0810936496</samp></td>
+                </tr>
+                <tr>
+                  <td><samp>Hans Memling: Catalogue</samp></td>
+                  <td><samp><time datetime="1994">1994</time></samp></td>
+                  <td><samp>9055440299</samp></td>
+                </tr>
+              </tbody>
+            </table>
+          </li>
+        </ul>
+      </section>
+      <footer>
+        <p><a href="#renvoi-de-vos-1" title="renvoi-de-vos-1">↑ back to this page</a> <a href="#renvoi-de-vos-2" title="renvoi-de-vos-2">↑ back to page 2</a></p>
+      </footer>
+    </article></section>
+
+    <section><article>
+      <h4 id="lorentz" class="yellow">references of the book quoted by Philippe LORENTZ:</h4>
+      <section>
+        <div class="notices yellow">
+          <ul>
+            <li>in french:
+              <table>
+                <thead>
+                  <tr>
+                    <th><samp><span hidden>hidden</span></samp></th>
+                    <th><samp><span hidden>hidden</span></samp></th>
+                    <th><samp><span hidden>hidden</span></samp></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><samp>Title</samp></td>
+                    <td><samp>Published in</samp></td>
+                    <td><samp>ISBN-10</samp></td>
+                  </tr>
+                  <tr>
+                    <td><samp>Hans Memling au Louvre (exposition, Musée du Louvre, Salle de la Chapelle, aile Sully, <time datetime="1995-05-18">18 Mai</time>-<time datetime="1995-08-14">14 Août 1995</t</samp>ime>)</td>
+                    <td><samp>1995</samp></td>
+                    <td><samp>2-7118-3275-9</samp></td>
+                  </tr>
+                </tbody>
+              </table>
+            </li>
+          </ul>
+        </div>
+      </section>
+      <footer>
+        <p><a href="#renvoi-lorentz-1" title="renvoi-lorentz-1">↑ back to this page</a> <a href="#renvoi-lorentz-2" title="renvoi-lorentz-2">↑ back to page 3</a></p>
+      </footer>
+    </article></section>
+  </article></section>
+
+  <hr>
+
+  <section>
+    <header>
+      <p><a href="#renvoi-note-1" title="renvoi note-1" id="note-1">note:</a></p>
+    </header>
+    <p>the reproductions of the work that we make available to the public are, to our knowledge, the best that currently available exist outside of professional works: they required a great deal of efforts from us due to the low intensity and yellow of the lighting in the exhibition space of the Memling Museum in Bruges at the time this article was first written (<time datetime="2018">2018</time>).</p>
+    <footer>
+      <p><a href="#renvoi-note-1" title="renvoi note-1">↑ retour au texte</a></p>
+    </footer>
+  </section>
+
+
+<hr>
+
+  <h3 id="note">Notes:</h3>
+  <section><article>
+    <h4 id="note-devotion-moderne">“devotio moderna”</h4>
+    <section><article>
+      <div class="notices yellow">
+      <p>Born a little further north in the present Netherlands, in the Utrecht region at the end of the 14<sup style="color:#e6a64d;">th</sup> and beginning of the 15<sup style="color:#e6a64d;">th</sup> century, “<dfn>devotio moderna</dfn>” or modern devotion was initiated by a man, <a href="https://en.wikipedia.org/wiki/Geert_Groote" title="https://en.wikipedia.org/wiki/Geert_Groote" id="gerard-groote" class="yellow">Geert Groote</a>, who criticized the piety of his time, judging it too austere and too far from the world.
+      In reaction, he exhorted the believer to let Christ dwell in the depths of his heart.
+      According to him, this presence of Christ is intended to produce simplicity.
+      The believer can then exercise an action in conformity with the virtue to which faith calls him, in a natural way, where he is.</p>
+      </div>
+      <footer>
+        <p class="puce">back to the text: <a href="#renvoi-devotion-moderne" title="renvoi mouvement «dévotio moderna»">A detailed presentation of this movement can be found in note ↩</a></p>
+      </footer>
+    </article></section>
+
+    <hr>
+
+    <section><article>
+      <div class="footnotes">
+        <ol>
+          <li id="fn:4">
+            <p>We follow the references given in Wikipedia's article (french edition) «l'Imitation de Jésus-Christ» (date: <time datetime="2018-08-21">2018 August 21<sup>st</sup></time>), namely:</p>
+            <p class="puce">Yann Sordet, Un succès de librairie européen: l'Imitatio Christi (<time datetime="1470">1470</time>-<time datetime="1850">1850</time>), Paris, Bibliothèque Mazarine; Editions des cendres, <time datetime="2012">2012</time>, 195 p. (ISBN 979-10-90853-01-0), p. 11.</p>
+            <p>According to specialists, its author is a monk: <a href="https://en.wikipedia.org/wiki/Thomas_à_Kempis" title="https://en.wikipedia.org/wiki/Thomas_%C3%A0_Kempis">Thomas A KEMPIS</a>.</p>
+          </li>
+        </ol>
+      </div>
+      <footer>
+        <p class="puce"><a href="#fnref1:4" rev="footnote" class="footnote-backref">back to text ↩</a></p>
+      </footer>
+    </article></section>
+
+    <hr>
+
+    <section><article>
+      <div class="footnotes">
+        <ol start="2">
+          <li id="fn:5">
+            <p>source:</p>
+            <p><cite>L'imitation de notre Seigneur Jésus Christ</cite>, trans. by F. de Lamennais, Éd. Arts et Métiers graphiques, Paris, <time datetime="1946">1946</time>, pp. 59-60, II, 4, 1-2 (part II, chapter 4, paragraphs 1 and 2).</p>
+            <p>original translation from us.</p>
+          </li>
+        </ol>
+      </div>
+      <footer>
+        <p class="puce"><a href="#page-4-fnref1:5" rev="footnote" class="footnote-backref">back to text  ↩</a></p>
+      </footer>
+    </article></section>
+  </article></section>
+
+<hr>
+
+  <article>
+    <section><article>
+    <div class="footnotes">
+    <ol>
+      <li id="fn:6">
+        <p>«at the time when the artist settled in Bruges, the city was one of the main centres of production of illuminated books in the burgundian Netherlands (...)</p>
+        <p>Memling included a miniaturist among his Bruges relations: <a href="https://en.wikipedia.org/wiki/Willem_Vrelant" title="https://en.wikipedia.org/wiki/Willem_Vrelant">Willem Vrelant</a>.
+        At the head of the city's most prolific pharmacy, Vrelant was, like Memling, an immigrant.</p>
+        <p>Originally from Utrecht, he was mentioned in the Bruges booksellers' guild from <time datetime="1454">1454</time> until his death in <time datetime="1481">1481</time>.
+        Both living in Sint-Jorisstraat, Vrelant and Memling were almost neighbours (...)</p>
+        <p>From the point of view of a visually convincing spatial representation, the relationship between the two figures in the foreground and the rest of the table (... an) inconsistency governs the relationship between the main figure and the wood in the intermediate plane (...)</p>
+        <p>From one work to another, we find the same cumulative layering of the different zones of the landscape up to a horizon placed very high (...) in Vrelant's work»</p>
+    </li>
+    </ol>
+    </div>
+    <footer>
+      <p>source: book by Philippe LORENTZ referenced in <a href="/docs/en/bruges/hopital-saint-jean/saint-jean#lorentz" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean#lorentz" id="renvoi-lorentz-2" class="yellow">bibliography</a>.</p>
+    </footer>
+    </article></section>
+    <footer>
+      <p class="puce"><a href="#fnref1:6" rev="footnote" class="footnote-backref">back to text ↩</a></p>
+    </footer>
+  </article>
+
+<hr>
+
+  <article>
+    <div class="footnotes">
+  <ol>
+    <li id="page-7-fn:2">
+      for information, this quote is in the past, We're transposing it to the present.
+  </li>
+  </ol>
+  </div>
+    <footer>
+      <p class="puce"><a href="#page-7-fnref1:2" rev="footnote" class="footnote-backref">back to text ↩</a></p>
+    </footer>
+  </article>
+
+<hr>
+
+  <article>
+    <div class="footnotes">
+    <ol>
+      <li id="page-8-fn:1">
+        <p>words of <a href="https://en.wikipedia.org/wiki/Jerome" title="https://en.wikipedia.org/wiki/Jerome" id="saint-jerome" class="yellow">St. Jerome</a> reported by Jacobus da Varagine.&nbsp;</p>
+    </li>
+    </ol>
+    </div>
+    <footer>
+      <p class="puce"><a href="#page-8-fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
+    </footer>
+  </article>
+
+<hr>
+
+<article>
+  <div class="footnotes">
+  <ol>
+    <li id="page-9-fn:1">
+      <dfn>Saint Marcellus of Apamea</dfn> in Syria (died in <time datetime="0389">389</time>). Magistrate of the city, in the year <time datetime="0375">375</time>, he left his wife and children, and devoted himself to a monastic life, was elected bishop of Apamea, Syria. He died murdered by the heathens while watching over the destruction of a temple of idols according to an edict of Emperor Theodosius. Celebrated on <time datetime="08-14">August 14<sup>th</sup></time>.
+  </li>
+  </ol>
+  </div>
+  <footer>
+    <p class="puce"><a href="#page-9-fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
+  </footer>
+</article>
+
+<hr>
+
+  <article>
+    <div class="footnotes">
+      <ol>
+        <li id="page-10-fn:1">
+          <p>the quotation that follows is past; for information, e transpose it here to present.</p>
+      </li>
+      </ol>
+    </div>
+    <footer>
+      <p class="puce"><a href="#page-10-fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
+    </footer>
+  </article>
+  <hr>
+  <article>
+    <div class="footnotes">
+      <ol start="2">
+        <li id="page-10-fn:2">
+          read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse">text excerpt of <cite>The Revelation</cite> related to the representation of John in Patmos on the left inner shutter by Hans Memling</a>.
+      </li>
+      </ol>
+    </div>
+    <footer>
+      <p class="puce"><a href="#page-10-fnref1:2" rev="footnote" class="footnote-backref">back to text ↩</a></p>
+    </footer>
+  </article>
+  <hr>
+  <article>
+    <div class="footnotes">
+      <ol start="3">
+        <li id="fn:3">
+          <p>The text of <cite>The Revelation</cite> is addressed to the "seven churches that are in Asia Minor" according to <cite>The Revelation</cite> chapter 1 verse 4:</p>
+          <ol>
+            <li>"Ephesus,</li>
+            <li>Smyrna,</li>
+            <li>Pergamos,</li>
+            <li>Thyatira,</li>
+            <li>Sardis,</li>
+            <li>Philadelphia</li>
+            <li>and Laodicea".</li>
+          </ol>
+          <p>In the symbolic language of the Jewish scriptures, it exhorts them to a transcendent reality that will enable them to overcome not only persecutions, whether Roman or Jewish, but also their own inadequacies, as <cite>The Revelation</cite> chapter 2 verse 3 shows, through new hope in Christ at the end of time.</p>
+      </li>
+      </ol>
+    </div>
+    <footer>
+      <p class="puce"><a href="#page-10-fnref1:3" rev="footnote" class="footnote-backref">back to text ↩</a></p>
+    </footer>
+  </article>
+</aside>
 
   <!-- Page 16 -->
 
