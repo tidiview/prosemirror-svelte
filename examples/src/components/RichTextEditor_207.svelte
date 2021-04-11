@@ -81,6 +81,91 @@
 
   <hr>
 
+  <nav>
+    <h3 id="table-des-matieres" class="yellow">table of contents</h3>
+    <ol>
+      <li>
+        <a href="/docs/en/bruges/hopital-saint-jean/saint-jean#presentation-photographique" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean#presentation-photographique" class="yellow">photographic presentation of the work in its exhibition space</a>
+      </li>
+      <li>
+        <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:2#description" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:2#description" class="yellow">description of the work</a>
+        <ul>
+          <li>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:2#couronnement" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:2#couronnement" class="yellow">coronation of the virgin</a>
+          </li>
+          <li>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#catherine-d-alexandrie" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#catherine-d-alexandrie" class="yellow">catherine of alexandria</a>
+          </li>
+          <li>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#les-deux-jean" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#les-deux-jean" class="yellow">the two john</a>
+            <ul>
+              <li>
+                <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#jean-le-baptiste-2" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#jean-le-baptiste-2" class="yellow">john the baptist</a>
+            </li>
+              <li>
+                <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#jean-l-evangeliste-3" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#jean-l-evangeliste-3" class="yellow">john the evangelist</a>
+            </li>
+              <li>
+                <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean" class="yellow">the name "john", its link with the institution, its etymology</a>
+            </li>
+            </ul>
+          </li>
+          <li>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#barbe" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#barbe" class="yellow">barbara the great martyr</a>
+          </li>
+          <li>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#conversation" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#conversation" class="yellow">a sacred conversation</a>
+          </li>
+          <li>
+            “<a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#devotion-moderne" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#devotion-moderne" class="yellow">devotio moderna</a>”
+          </li>
+          <li>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#dispositif-architectural" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#dispositif-architectural" class="yellow">architectural structure</a>
+          </li>
+          <li>
+            <a href="#organisation-du-recit" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:5#organisation-du-recit" class="yellow">structure of the narrative</a>
+          </li>
+          <li>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:6#legendes" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:6#legendes" class="yellow">legends of john the baptist and john the evangelist</a>
+            <ul>
+              <li>
+                <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:6#legende-de-jean-le-baptiste" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:6#legende-de-jean-le-baptiste" class="yellow">legend of john the baptist</a>
+            </li>
+              <li>
+                <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#legende-de-jean-l-evangeliste" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#legende-de-jean-l-evangeliste" class="yellow">legend of john the evangelist</a>
+            </li>
+            </ul>
+          </li>
+          <li>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:15#position-fermee" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:15#position-fermee" class="yellow">presentation of donors: the closed tryptich</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" class="yellow">different texts at the origin of the scenes represented</a>
+        <ul>
+          <li>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" class="yellow">catherine of alexandria according to <cite>The Golden Legend</cite></a>
+          </li>
+          <li>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" class="yellow">barbara the great martyr according to <cite>The Golden Legend</cite></a>
+          </li>
+          <li>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" class="yellow">john the evangelist according to <cite>The Golden Legend</cite> chapter 9</a>
+          </li>
+          <li>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" class="yellow">john the evangelist according to <cite>The Golden Legend</cite> chapter 65</a>
+          </li>
+          <li>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" class="yellow">vision of the throne of the god and the heavenly court: the living on the throne and the lamb</a>
+          </li>
+        </ul>
+      </li>
+    </ol>
+  </nav>
+
+  <hr>
+
   <section><article>
     <h2 id="presentation-photographique" class="yellow">photographic presentation of the work in its exhibition space</h2>
     <figure>
@@ -146,101 +231,16 @@
 
   <hr>
 
-  <nav>
-    <h3 id="table-des-matieres" class="yellow">table of contents</h3>
-    <ol>
-      <li>
-        <a href="/docs/en/bruges/hopital-saint-jean/saint-jean#presentation-photographique" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean#presentation-photographique" class="yellow">photographic presentation of the work in its exhibition space</a>
-    </li>
-      <li>
-        <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:2#description" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:2#description" class="yellow">description of the work</a>
-        <ul>
-          <li>
-            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:2#couronnement" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:2#couronnement" class="yellow">coronation of the virgin</a>
-          </li>
-          <li>
-            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#catherine-d-alexandrie" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#catherine-d-alexandrie" class="yellow">catherine of alexandria</a>
-          </li>
-          <li>
-            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#les-deux-jean" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#les-deux-jean" class="yellow">the two john</a>
-            <ul>
-              <li>
-                <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#jean-le-baptiste-2" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#jean-le-baptiste-2" class="yellow">john the baptist</a>
-            </li>
-              <li>
-                <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#jean-l-evangeliste-3" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#jean-l-evangeliste-3" class="yellow">john the evangelist</a>
-            </li>
-              <li>
-                <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean" class="yellow">the name "john", its link with the institution, its etymology</a>
-            </li>
-            </ul>
-          </li>
-          <li>
-            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#barbe" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#barbe" class="yellow">barbara the great martyr</a>
-          </li>
-          <li>
-            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#conversation" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#conversation" class="yellow">a sacred conversation</a>
-          </li>
-          <li>
-            “<a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#devotion-moderne" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#devotion-moderne" class="yellow">devotio moderna</a>”
-          </li>
-          <li>
-            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#dispositif-architectural" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#dispositif-architectural" class="yellow">architectural structure</a>
-          </li>
-          <li>
-            <a href="#organisation-du-recit" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:5#organisation-du-recit" class="yellow">structure of the narrative</a>
-          </li>
-          <li>
-            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:6#legendes" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:6#legendes" class="yellow">legends of john the baptist and john the evangelist</a>
-            <ul>
-              <li>
-                <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:6#legende-de-jean-le-baptiste" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:6#legende-de-jean-le-baptiste" class="yellow">legend of john the baptist</a>
-            </li>
-              <li>
-                <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#legende-de-jean-l-evangeliste" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#legende-de-jean-l-evangeliste" class="yellow">legend of john the evangelist</a>
-            </li>
-            </ul>
-          </li>
-          <li>
-            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:15#position-fermee" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:15#position-fermee" class="yellow">presentation of donors: the closed tryptich</a>
-        </li>
-        </ul>
-      </li>
-      <li>
-        <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" class="yellow">different texts at the origin of the scenes represented</a>
-        <ul>
-          <li>
-            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" class="yellow">catherine of alexandria according to <cite>The Golden Legend</cite></a>
-          </li>
-          <li>
-            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" class="yellow">barbara the great martyr according to <cite>The Golden Legend</cite></a>
-          </li>
-          <li>
-            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" class="yellow">john the evangelist according to <cite>The Golden Legend</cite> chapter 9</a>
-          </li>
-          <li>
-            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" class="yellow">john the evangelist according to <cite>The Golden Legend</cite> chapter 65</a>
-          </li>
-          <li>
-            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" class="yellow">vision of the throne of the god and the heavenly court: the living on the throne and the lamb</a>
-          </li>
-        </ul>
-      </li>
-    </ol>
-  </nav>
-
-  <hr>
-
   <aside>
     <section><article>
       <h3 id="a-propos-de-cet-article" class="yellow">references of this article</h3>
-      <section><article>
+      <section>
         <p>For this article we are indebted to reference works, especially those of <a href="#de-vos-1" id="de-vos-1" class="yellow">Dirk DE VOS, "Hans Memling - The Complete Works"</a> and <a href="#de-vos-2" id="de-vos-2" class="yellow">"Hans Memling"</a>.</p>
-      </article></section>
+      </section>
 
       <section><article>
         <h4 id="de-vos" class="yellow">references of the books cited by Dirk DE VOS:</h4>
-        <section><article>
+        <section>
           <ul>
             <li>in french:
               <table>
@@ -299,7 +299,7 @@
               </table>
             </li>
           </ul>
-        </article></section>
+        </section>
         <footer>
           <p><a href="#renvoi-de-vos-1" title="renvoi-de-vos-1">↑ back to this page</a> <a href="#renvoi-de-vos-2" title="renvoi-de-vos-2">↑ back to page 2</a></p>
         </footer>
@@ -307,52 +307,52 @@
 
       <section><article>
         <h4 id="lorentz" class="yellow">references of the book quoted by Philippe LORENTZ:</h4>
-        <section><article>
+        <section>
           <div class="notices yellow">
             <ul>
               <li>in french:
                 <table>
                   <thead>
                     <tr>
-                      <th><samp><span hidden>hidden</span></th></samp>
-                      <th><samp><span hidden>hidden</span></th></samp>
-                      <th><samp><span hidden>hidden</span></th></samp>
+                      <th><samp><span hidden>hidden</span></samp></th>
+                      <th><samp><span hidden>hidden</span></samp></th>
+                      <th><samp><span hidden>hidden</span></samp></th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td><samp>Title</td></samp>
-                      <td><samp>Published in</td></samp>
-                      <td><samp>ISBN-10</td></samp>
+                      <td><samp>Title</samp></td>
+                      <td><samp>Published in</samp></td>
+                      <td><samp>ISBN-10</samp></td>
                     </tr>
                     <tr>
-                      <td><samp>Hans Memling au Louvre (exposition, Musée du Louvre, Salle de la Chapelle, aile Sully, <time datetime="1995-05-18">18 Mai</time>-<time datetime="1995-08-14">14 Août 1995</time>)</samp></td>
-                      <td><samp>1995</td></samp>
-                      <td><samp>2-7118-3275-9</td></samp>
+                      <td><samp>Hans Memling au Louvre (exposition, Musée du Louvre, Salle de la Chapelle, aile Sully, <time datetime="1995-05-18">18 Mai</time>-<time datetime="1995-08-14">14 Août 1995</t</samp>ime>)</td>
+                      <td><samp>1995</samp></td>
+                      <td><samp>2-7118-3275-9</samp></td>
                     </tr>
                   </tbody>
                 </table>
               </li>
             </ul>
           </div>
-        </article></section>
+        </section>
         <footer>
           <p><a href="#renvoi-lorentz-1" title="renvoi-lorentz-1">↑ back to this page</a> <a href="#renvoi-lorentz-2" title="renvoi-lorentz-2">↑ back to page 3</a></p>
         </footer>
       </article></section>
-
-      <hr>
-
-      <section><article>
-        <header>
-          <p><a href="#renvoi-note-1" title="renvoi note-1" id="note-1">note:</a></p>
-        </header>
-        <p>the reproductions of the work that we make available to the public are, to our knowledge, the best that currently available exist outside of professional works: they required a great deal of efforts from us due to the low intensity and yellow of the lighting in the exhibition space of the Memling Museum in Bruges at the time this article was first written (<time datetime="2018">2018</time>).</p>
-        <footer>
-          <p><a href="#renvoi-note-1" title="renvoi note-1">↑ retour au texte</a></p>
-        </footer>
-      </article></section>
     </article></section>
+
+    <hr>
+
+    <section>
+      <header>
+        <p><a href="#renvoi-note-1" title="renvoi note-1" id="note-1">note:</a></p>
+      </header>
+      <p>the reproductions of the work that we make available to the public are, to our knowledge, the best that currently available exist outside of professional works: they required a great deal of efforts from us due to the low intensity and yellow of the lighting in the exhibition space of the Memling Museum in Bruges at the time this article was first written (<time datetime="2018">2018</time>).</p>
+      <footer>
+        <p><a href="#renvoi-note-1" title="renvoi note-1">↑ retour au texte</a></p>
+      </footer>
+    </section>
   </aside>
 
   <!-- Page 2 --><hr>
@@ -379,16 +379,16 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/saint-jean_4-1920.jpg 1920w"></picture><figcaption>the opened triptych</figcaption>
     </figure>
 
-    <section><article>
+    <section>
       <p>We first describe what <span style="color: #e6a64d;">the work represents</span> and for that we follow <span style="color: #e6a64d;">the path of the gaze</span>, starting with the <span style="color: #e6a64d;">main scene</span>.</p>
-    </article></section>
+    </section>
 
     <section><article>
       <h3 id="couronnement" class="yellow">coronation of the virgin</h3>
 
-      <section><article>
+      <section>
         <p>In the center, <span style="color: #e6a64d;">virgin Mary</span> thrones on a gold seat in front of a clothed cloth and under a red velvet baldaquin.</p>
-      </article></section>
+      </section>
 
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -410,9 +410,9 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/vierge-1920.jpg 1920w"></picture><figcaption>detail of the central panel, “Virgin and child”</figcaption>
       </figure>
 
-      <section><article>
+      <section>
         <p>She <span style="color: #e6a64d;">is crowned “Queen of heaven” by two small dark blue angels</span> flying above her.</p>
-      </article></section>
+      </section>
 
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -438,9 +438,9 @@
     <section><article>
       <h3 class="yellow">jesus child</h3>
 
-      <section><article>
+      <section>
         <p>On his knees, <span style="color: #e6a64d;">Jesus child</span>, seatted, hold a apple with his left hand, and move from his right hand <span style="color: #e6a64d;">a ring</span> to the finger of <span style="color: #e6a64d;">a woman</span>, placed futher down and left of her, on the front.</p>
-      </article></section>
+      </section>
 
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -471,9 +471,9 @@
       <h3 id="catherine-d-alexandrie" class="yellow">catherine of Alexandria</h3>
       <section><article>
         <h4 class="yellow">catherine of Alexandria in the scene of then central panel</h4>
-        <section><article>
+        <section>
           <p><span style="color: #e6a64d;">The sword</span> and <span style="color: #e6a64d;">the broken wheel</span> at his feet are <span style="color: #e6a64d;">the instruments of his martyrdom</span>: it is <a href="https://en.wikipedia.org/wiki/Catherine_of_Alexandria" title="https://en.wikipedia.org/wiki/Catherine_of_Alexandria" class="yellow">Catherine of Alexandria</a>.</p>
-        </article></section>
+        </section>
         <figure>
           <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-280.webp 280w,
@@ -497,19 +497,19 @@
 
       <section><article>
         <h4 class="yellow">Catherine of Alexandria</h4>
-        <section><article>
+        <section>
           <p><a href="https://en.wikipedia.org/wiki/Catherine_of_Alexandria" title="https://en.wikipedia.org/wiki/Catherine_of_Alexandria" id="catherine-d-alexandrie-2" class="yellow">Catherine of Alexandria</a> was, since the end of the 13<sup style="color:#555;">th</sup> century, a very popular saint whose legend, reported by <a href="https://en.wikipedia.org/wiki/Jacobus_da_Varagine" title="https://en.wikipedia.org/wiki/Jacobus_da_Varagine" class="yellow">Jacobus da Varagine</a> in <span style="color: #e6a64d;">chapter 168</span> of <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" class="yellow"><cite>The Golden Legend</cite></a>, entitled <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16" title="https://francois-vidit.com/docs/fr/saint-jean/page:16" class="yellow">“Saint Catherine”</a>, is fascinating.</p>
           
             <p class="puce">read: <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:6" title="https://francois-vidit.com/docs/fr/saint-jean/page:6" class="yellow">text of the <cite>Legend of Catherine of Alexandria</cite> according to chapter 168 of <cite>The Golden Legend</cite></a>.</p>
           
           <p>It is quite likely that Memling relied on this text.</p>
           <p>Although modern historians believe that Catherine of Alexandria has not really existed <sup id="page-3-fnref1:1"><a href="#page-3-fn:1" class="footnote-ref">note 1</a></sup> and her cult was removed from the general calendar of the catholic church in <time datetime="1970">1970</time> <sup id="page-3-fnref1:2"><a href="#page-3-fn:2" class="footnote-ref">note 2</a></sup>.</p>
-        </article></section>
+        </section>
       </article></section>
 
       <section><article>
         <h4 class="yellow">catherine of alexandria, her legend in the 15<sup>th</sup> century</h4>
-        <section><article>
+        <section>
           <p>According to her legend, <span style="color: #e6a64d;">Catherine</span> is a <span style="color: #e6a64d;">patrician</span> known for her <span style="color: #e6a64d;">exceptional education</span> and her <span style="color: #e6a64d;">great beauty</span></p>
           <p>She may have lived in Alexandria in the 3<sup style="color:#555;">rd</sup> or 4<sup style="color:#555;">th</sup> centuries.</p>
           <p>She <span style="color: #e6a64d;">defies</span> the roman emperor of the time, <a href="https://en.wikipedia.org/wiki/Maxentius" title="https://en.wikipedia.org/wiki/Maxentius" class="yellow">Maxentius</a>, who then threatened christians with public abjuration.</p>
@@ -522,33 +522,33 @@
           </blockquote>
           <p>Due to the presence of Saint Catherine, the triptych has sometimes been called <span style="color: #e6a64d;">“the mystical marriage of Saint Catherine”</span> <sup id="fnref1:5"><a href="#fn:5" class="footnote-ref">note 3</a></sup>.</p>
         </article></section>
-      </article></section>
+      </section>
     </article></section>
       
     <section><article>
       <h3 id="les-deux-jean" class="yellow">the two john</h3>
       <section><article>
         <h4 class="yellow">two twins: john the baptist, john the evangelist</h4>
-        <section><article>
+        <section>
           <p>But more than Catherine of Alexandria, <span style="color: #e6a64d;">two men</span> are the main characters of the work:</p>
           <ol>
             <li>the many details that tell their two legends throughout the interior of the triptych <span style="color: #999;">(central panelm, right and left shutters)</span>,</li>
             <li>both are called <span style="color: #e6a64d;">"John"</span>, which, in a hollow way, materializes in the work <span style="color: #e6a64d;">the commissioning institution</span>, <span style="color: #e6a64d;">St. John's Hospital in Bruges</span> and justifies the current official name, <span style="color: #e6a64d;"><cite>Triptych of John the Baptist and John the Evangelist</cite></span>.</li>
           </ol>
           <p>they stand as <span style="color: #e6a64d;">twins</span>, standing, right and left, on either side of the virgin, framed, on the back.</p>
-        </article></section>
+        </section>
       </article></section>
 
       <section><article>
         <h4 id="jean-le-baptiste-2" class="yellow">john the baptist</h4>
-        <section><article>
+        <section>
           <p>On the back, on the left, the presence of a <span style="color: #e6a64d;">white lamb</span> allows us to identify <span style="color: #e6a64d;">the man wearing the</span> magnificent <span style="color: #e6a64d;">purple tunic</span> as <a href="https://en.wikipedia.org/wiki/John_the_Baptist" title="https://en.wikipedia.org/wiki/John_the_Baptist" id="jean-le-baptiste" class="yellow">John the Baptist</a>.</p>
           <p>The lamb recalls the words with whom John the Baptist <span style="color: #e6a64d;">presents</span> Jesus, saying <span style="color: #999;">(John chapter 1 verse 29)</span>:
           <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#1:29" >
             <span style="color: #e6a64d;">«<ruby style="color:#e6a64d;" lang="en">Behold the lamb of god<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce agnus dei</rt><rp>)</rp></ruby>»</span>.
           </blockquote>
           <p>In fact, John also refers with his right arm to the child Jesus.</p>
-        </article></section>
+        </section>
         <figure>
           <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-280.webp 280w,
@@ -568,7 +568,7 @@
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-1600.jpg 1600w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-le-baptiste-1920.jpg 1920w"></picture><figcaption>John the Baptist</figcaption>
         </figure>
-        <section><article>
+        <section>
           <p>The lamb is a new symbol of the christian faith.</p>
           <p>In contrast to the ancient hebraic faith, where, in order to please god, animals had to be sacrificed to him, christianity affirms that <span style="color: #e6a64d;">the only true sacrifice that pleases god</span> is that which <span style="color: #e6a64d;">the believer makes of himself</span>, in imitation of Jesus and in reference to this word of the prophet <a href="https://en.wikipedia.org/wiki/Isaiah" title="https://en.wikipedia.org/wiki/Isaiah" id="isaie" class="yellow">Isaiah</a> <span style="color: #999;">(Isaiah, chapter 53 verset 7)</span>:</p>
           <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Isaiah#53:7">
@@ -577,14 +577,14 @@
           <p>Under his purple tunic is <span style="color: #e6a64d;">another tunic</span>, light brown, which the text tells us is <span style="color: #e6a64d;">camel hair</span> <span style="color: #999;">(Mark chapter 1 verse 6)</span>, imitating the hair garment of the prophet <a href="https://en.wikipedia.org/wiki/Elijah" title="https://en.wikipedia.org/wiki/Elijah" id="elie" class="yellow">Elijah</a> <span style="color: #999;">(2 Kings chapter 1 verse 8)</span>.</p>
           <p>This same hair garment also refers to an episode of Genesis <span style="color: #999;">(Genesis chapter 27 verses 1 to 40)</span> during which <a href="https://en.wikipedia.org/wiki/Jacob" title="https://en.wikipedia.org/wiki/Jacob" id="jacob" class="yellow">Jacob</a>, on the advice of his mother <a href="https://en.wikipedia.org/wiki/Rebecca" title="https://en.wikipedia.org/wiki/Rebecca" id="rebecca" class="yellow">Rebecca</a>, poses as his brother <a href="https://en.wikipedia.org/wiki/Esau" title="https://en.wikipedia.org/wiki/Esau" id="esau" class="yellow">Esau</a> who is very <span style="color: #e6a64d;">hairy</span>, with his blind father, <a href="https://en.wikipedia.org/wiki/Isaac" title="https://en.wikipedia.org/wiki/Isaac" id="isaac" class="yellow">Isaac</a>, by wearing <span style="color: #e6a64d;">a hair garment</span>.</p>
           <p>His cunning allows him to be unduly blessed and thus become the sole heir in Esau's place. This tunic is also a sign of domination of animality, and in the case of John the Baptist, the camel being an animal that allows to cross the desert, of domination of animality by asceticism.</p>
-        </article></section>
+        </section>
       </article></section>
 
       <section><article>
         <h4 id="jean-l-evangeliste-3" class="yellow">john the evangelist</h4>
-        <section><article>
+        <section>
           <p>On the other side, on the right, <span style="color: #e6a64d;">another man</span> standing, dressed like a priest, in <span style="color: #e6a64d;">red</span>, makes with his right hand the sign of the cross on <span style="color: #e6a64d;">a cup</span>, in which there is <span style="color: #e6a64d;">a serpent</span>: it is <a href="https://en.wikipedia.org/wiki/John_the_Apostle" title="https://en.wikipedia.org/wiki/John_the_Apostle" id="jean-l-evangeliste-4" class="yellow">John the Evangelist</a>.</p>
-        </article></section>
+        </section>
         <figure>
           <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-280.webp 280w,
@@ -604,7 +604,7 @@
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1600.jpg 1600w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1920.jpg 1920w"></picture><figcaption>John the Evangelist</figcaption>
         </figure>
-          <section><article>      
+        <section>      
           <p>We recognize <a href="https://en.wikipedia.org/wiki/John_the_Apostle" title="https://en.wikipedia.org/wiki/John_the_Apostle" id="jean-l-evangeliste" class="yellow">John the Evangelist</a> as an episode of the <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" id="legende-doree-2" class="yellow"><cite>The Golden Legend</cite></a> <span style="color: #999;">(chapter 9)</span>, which we report <a href="#aristodeme" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" id="renvoi-aristodeme" class="yellow">here</a>.</p>
           <p>John faces <span style="color: #e6a64d;">Aristodemus</span>, priest of the temple of Diana in Asia <span style="color: #999;">(probably Ephesus)</span>, who publicly challenges him to <span style="color: #e6a64d;">drink</span> a <span style="color: #e6a64d;">poisoned cup</span>.</p>
           <p>The later makes, as Memling represents him, the <span style="color: #e6a64d;">sign of the cross</span>, drinks the cup but the poison does him no harm.</p>
@@ -612,20 +612,20 @@
           <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#Chapter_3">
             <span style="color: #e6a64d;">“As Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up, that whoever believes in him should not perish, but have eternal life.”</span>.
           </blockquote>
-        </article></section>
+        </section>
       </article></section>
       
       <section><article>
         <h4 id="le-nom-de-jean" class="yellow">the name «john», its link with the institution, its etymology</h4>
         <section><article>
           <h5 class="yellow">the etymology of the name «John» in Hebrew</h5>
-          <section><article>
+          <section>
             <p>The etymology of the first name "John" comes from the hebrew <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="fr">Yo<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">יו</rt><rp>)</rp>kha<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">ח</rt><rp>)</rp>nan<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">נן</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span>, whose pronunciation is:</p>
             <p><audio controls title="prononciation de Yokhanan en hébreu"><source src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/prononciation-yokhanan.mp3" type="audio/mpeg">Your browser does not support the audio tag.</audio></p>
             <p>which literally means <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="fr">god<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">Yo</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span> is <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="fr">grace<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">khanan</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span> or <span style="color: #e6a64d;">«</span><ruby style="color:#e6a64d;" lang="fr">mercy<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="he">khanan</rt><rp>)</rp></ruby><span style="color: #e6a64d;">»</span>.</p>
             <p>As «god» also means in hebrew «what is», it also means <span style="color: #e6a64d;">«the one who is»</span> <span style="color: #e6a64d;">«grace»</span> or <span style="color: #e6a64d;">«mercy»</span>.</p>
             <p>Although <span style="color: #e6a64d;">this first name</span> was used by several minor figures in the history of the hebrew people, it <span style="color: #e6a64d;">only became</span> very <span style="color: #e6a64d;">popular</span> after the appearance of christianity <span style="color: #e6a64d;">in the christian world</span>, following the very important role each of them played, roles that we will soon detail.</p>
-          </article></section>
+          </section>
         </article></section>
       </article></section>
     </article></section>
@@ -634,12 +634,12 @@
       <h3 id="barbe" class="yellow">barbara the great Martyr</h3>
       <section><article>
         <h4 class="yellow">barbara the great martyr in the scene of the central panel</h4>
-        <section><article>
+        <section>
           <p>On the other side of virgin Mary, on the front right, <span style="color: #e6a64d;">another woman</span>, dressed in <span style="color: #e6a64d;">a magnificent green wool tunic</span> as only Bruges produced in the 15<sup style="color:#555;">th</sup> century, <span style="color: #e6a64d;">reads</span>.</p>
           <p>Her presence corresponds to that of <a href="#catherine-d-alexandrie" class="yellow">Catherine of Alexandria</a> on the front of the other side.</p>
           <p>Behind her, <span style="color: #e6a64d;">a white stone tabernacle tower</span> tells us that it is <a href="https://en.wikipedia.org/wiki/Saint_Barbara" title="https://en.wikipedia.org/wiki/Saint_Barbara" id="barbe-la-grande-martyre" class="yellow">Barbara the great Martyr</a> <sup id="page-3-fnref1:3"><a href="#page-3-fn:3" class="footnote-ref">note 4</a></sup>.</p>
           <p>As with <a href="#catherine-d-alexandrie" class="yellow">Catherine of Alexandria</a>, modern historians doubt the reality of her existence and her name has also been removed from the general calendar <sup id="page-3-fnref2:2"><a href="#page-3-fn:2" class="footnote-ref">note 2</a></sup>.</p>
-        </article></section>
+        </section>
     
         <figure>
           <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
