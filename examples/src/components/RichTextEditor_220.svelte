@@ -8,6 +8,10 @@
 <!-- Page 17 -->
 
 <article>
+  <hgroup>
+  <h2 id="mise-en-relation" class="yellow"><cite><ruby lang="ja" style="color:#555;">洗礼者<wbr>ヨハネと<wbr>福音書記者<wbr>ヨハネの<wbr>三連画<rp>(</rp><rt lang="nl" style="color:#999;">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby></cite>に表わされている場面の元にある様々な文書</h2>
+    <h3 id="barb-selon-legende" class="yellow"><ruby style="color:#e6a64d;">黄金伝説<rp>(</rp><rt style="color:#e6a64d;">レゲンダ・アウレア</rt><rp>)</rp></ruby>においての聖バルバラの伝説</h3>
+  </hgroup>
 	<figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-280.webp 280w,
@@ -27,12 +31,9 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1600.jpg 1600w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1920.jpg 1920w"></picture><figcaption>大殉教者バルバラ</figcaption>
   </figure>
-  
-  <section><article>
-    <h3 id="barb-selon-legende" class="yellow"><ruby style="color:#e6a64d;">黄金伝説<rt style="color:#e6a64d;">レゲンダ・アウレア</rt></ruby>においての聖バルバラ</h3>
-      <section><article>
-      <h4 id="barb-selon-legende" class="yellow"><ruby style="color:#e6a64d;">黄金伝説<rt style="color:#e6a64d;">レゲンダ・アウレア</rt></ruby>においての聖バルバラ</h4>
-      <section><article>
+
+      <h4 id="barb-selon-legende" class="yellow"><ruby style="color:#e6a64d;">黄金伝説<rp>(</rp><rt style="color:#e6a64d;">レゲンダ・アウレア</rt><rp>)</rp></ruby>においての聖バルバラ</h4>
+
         <p><a href="#note_nicomedie" title="ニコメディア" id="nicomedie" class="yellow">ニコメディア</a>では、<a href="#note_maximien" title="マクシミアヌス大帝" id="maximien" class="yellow">マクシミアヌス大帝</a>時代に、富裕な、とても礼儀正しい家族の出の<span style="color: #99713d;">ディアスコロス</span>という名の異教徒がいた。</p>
         <p>彼には<span style="color: #994c3d;">バルバラ</span>と呼ばれるとても美しい娘がいた。</p>
         <p>父は彼女をとても愛していた。
@@ -276,15 +277,15 @@
         <p>裁判官たちは彼を放裁させて、
         自由に戻った兵士が、<span style="color: #994c3d;">聖バルバラ</span>の奉仕する日々を終えた。
         弁護士となった無名の男の人が彼が誰であるか知らないままに消えた。</p>
-      </article></section>
-    </article></section>
-  </article></section>
+
+
+
 </article>
 
 <hr>
 
 <aside>
-  <section><article>
+
     <h3 id="note_nicomedie" class="yellow">ニコメディア</h3>
     <div class="notices yellow">
     <p><a href="https://ja.wikipedia.org/wiki/ニコメディア" title="https://ja.wikipedia.org/wiki/ニコメディア"><ruby lang="ja">ニコメディア<rp>(</rp><rt lang="grc">Νικομήδεια</rt><rp>)</rp></ruby lang="ja"></a>は、<a href="https://ja.wikipedia.org/wiki/ビテュニア" title="https://ja.wikipedia.org/wiki/ビテュニア">ビチニア王国</a>の首都、小アジアの都市です。 今はトルコにあり、<ruby lang="ja">イズミット<rp>(</rp><rt lang="tr">İzmit</rt><rp>)</rp></ruby lang="ja">と呼ばれている。 それは、<a href="https://ja.wikipedia.org/wiki/ディオクレティアヌス" title="https://ja.wikipedia.org/wiki/ディオクレティアヌス">ディオクレティアヌス</a>と<a href="https://ja.wikipedia.org/wiki/コンスタンティヌス1世" title="https://ja.wikipedia.org/wiki/コンスタンティヌス1世">コンスタンティヌス</a>の首都だった。</p>
@@ -292,8 +293,8 @@
     <footer>
       <p>文書へ戻る：　<a href="#maximien" title="マクシミアヌス大帝">ニコメディア↑</a></p>
     </footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_maximien" class="yellow">マクシミアヌス大帝</h3>
     <div class="notices yellow">
     <p><a href="https://ja.wikipedia.org/wiki/マクシミアヌス" title="https://ja.wikipedia.org/wiki/マクシミアヌス">マクシミアヌス</a>。ローマ東帝国皇帝だった<a href="https://ja.wikipedia.org/wiki/ディオクレティアヌス" title="https://ja.wikipedia.org/wiki/ディオクレティアヌス">ディオクレティアヌス</a>と<time datetime="286">２８６年<time>から<time datetime="305">３０５年<time>まで共同皇帝。<a href="https://ja.wikipedia.org/wiki/マクセンティウス" title="https://ja.wikipedia.org/wiki/マクセンティウス">マクセンティウス</a>の父上。</p>
@@ -301,8 +302,8 @@
     <footer>
       <p>文書へ戻る：　<a href="#nicomedie" title="ニコメディア">マクシミアヌス大帝↑</a></p>
     </footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_origene" class="yellow">オリゲネス</h3>
     <div class="notices yellow">
     <p><a href="https://ja.wikipedia.org/wiki/オリゲネス" title="https://ja.wikipedia.org/wiki/オリゲネス"><ruby lang="ja">オリゲン<rp>(</rp><rt lang="grc">Ὠριγένης</rt><rp>)</rp></ruby lang="ja"></a>は古代キリスト教の神学者で、<time datetime="185">１８５年<time>頃アレクサンドリアで生まれ、<time datetime="253">２５３年<time>頃にティルスで亡くなり、聖人ではなく教父として認められている。</p>
@@ -310,8 +311,8 @@
     <footer>
       <p>文書へ戻る：　<a href="#origene" title="オリゲネス">オリゲネス↑</a></p>
     </footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_marcien" class="yellow">マルキアヌス</h3>
   <div class="notices yellow">
   <p>黄金伝説意外に、この代理執政官の跡は一つもありません。</p>
@@ -319,8 +320,8 @@
     <footer>
       <p>文書へ戻る：　<a href="#marcien" title="マルキアヌス">マルキアヌス↑</a></p>
     </footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_saxe" class="yellow">ザクセン</h3>
     <div class="notices yellow">
     <p>ドイツの一地域で、その境界は歴史を通じて様々であり、ザクセンのパラティネート郡は、神聖ローマ皇帝の公国でした。１０世紀にオットー１世が創始し、現在のザクセン公国の南東のザーレ・ウンシュトルート地方に広がった。</p>
@@ -328,7 +329,7 @@
     <footer>
       <p>文書へ戻る：　<a href="#saxe" title="ザクセン">ザクセン↑</a></p>
     </footer>
-  </article></section>
+
 </aside>
 `;
 

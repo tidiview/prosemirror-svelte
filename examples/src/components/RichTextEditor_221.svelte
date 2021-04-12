@@ -8,7 +8,11 @@
 <!-- Page 16 -->
 
 <article>
-  <h2 id="mise-en-relation" class="yellow">表わされている場面の元にある様々な文書</h2>
+  <hgroup>
+  <h2 id="mise-en-relation" class="yellow"><cite><ruby lang="ja" style="color:#555;">洗礼者<wbr>ヨハネと<wbr>福音書記者<wbr>ヨハネの<wbr>三連画<rp>(</rp><rt lang="nl" style="color:#999;">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby></cite>に表わされている場面の元にある様々な文書</h2>
+    <h3 id="cath-selon-legende" class="yellow"><ruby style="color:#e6a64d;">黄金伝説<rp>(</rp><rt style="color:#e6a64d;">レゲンダ・アウレア</rt><rp>)</rp></ruby><span style="color: #e6a64d;">においてのアレクサンドリアのカテリナ</span></h3>
+    <section><article>
+  </hgroup>
   <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-280.webp 280w,
@@ -30,9 +34,7 @@
   </figure>
 
   <section><article>
-    <h3 id="cath-selon-legende" class="yellow"><ruby style="color:#e6a64d;">黄金伝説<rt style="color:#e6a64d;">レゲンダ・アウレア</rt></ruby><span style="color: #e6a64d;">においてのアレクサンドリアのカテリナ</span></h3>
-    <section><article>
-      <h4 id="cath-selon-legende" class="yellow"><ruby style="color:#e6a64d;">黄金伝説<rt style="color:#e6a64d;">レゲンダ・アウレア</rt></ruby><span style="color: #e6a64d;">の第１６６章においてのアレクサンドリアのカテリナ</span>の文書</h4>
+      <h4 id="cath-selon-legende" class="yellow"><ruby style="color:#e6a64d;">黄金伝説<rp>(</rp><rt style="color:#e6a64d;">レゲンダ・アウレア</rt><rp>)</rp></ruby><span style="color: #e6a64d;">の第１６６章においてのアレクサンドリアのカテリナ</span>の文書</h4>
       <section><article>
         <p>カテリナは、コストスという王の娘で、<a href="#note_artsliberaux" title="七学芸" id="artsliberaux" class="yellow">七学芸</a>の教育を熱心に受けた。</p>
         <p>そのころ、<a href="#note_maxentius" title="皇帝マクセンティウス" id="maxentius" class="yellow">皇帝マクセンティウス</a>は、富める者も貧しい者もアレクサンドリアに呼び集めて、偽神たちに香をささげさせた。これには、供香に応じようとしないキリスト教徒を断罪してやろうという狙いもあったのである。</p>

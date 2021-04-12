@@ -9,7 +9,7 @@
 
 <!-- Page 1 -->
 
-  <h1 class="yellow"><ruby style="color:#555;" lang="fr">Triptyque de Jean le Baptiste et de Jean l'Évangéliste<rt style="color:#999;" lang="nl">Triptiek van Johannes de Doper en Johannes de Evangelist</rt></ruby></h1>
+  <h1 class="yellow"><cite><ruby style="color:#555;" lang="fr">Triptyque de Jean le Baptiste et de Jean l'Évangéliste<rt style="color:#999;" lang="nl">Triptiek van Johannes de Doper en Johannes de Evangelist</rt></ruby></cite></h1>
   <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_0-280.webp 280w,
@@ -158,6 +158,9 @@
     <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:2#description" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:2#description" class="yellow">description de l'œuvre</a>
       <ul>
         <li><a href="/docs/fr/bruges/hoptal-saint-jean/saint-jean/page:2#couronnement" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:2#couronnement" class="yellow">le couronnement de la vierge</a></li>
+        <li>
+          <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:2#jesus" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:2#jesus" class="yellow">jesus child</a>
+        </li>
         <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#catherine-d-alexandrie" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#catherine-d-alexandrie" class="yellow">catherine d'alexandrie</a></li>
         <li><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#les-deux-jean" title="https//francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#les-deux-jean" class="yellow">les deux jean</a>
           <ul>

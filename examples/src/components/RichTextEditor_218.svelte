@@ -8,6 +8,11 @@
 <!-- Page 19 -->
 
 <article>
+  <hgroup>
+  <h2 id="mise-en-relation" class="yellow"><cite><ruby lang="ja" style="color:#555;">洗礼者<wbr>ヨハネと<wbr>福音書記者<wbr>ヨハネの<wbr>三連画<rp>(</rp><rt lang="nl" style="color:#999;">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby></cite>に表わされている場面の元にある様々な文書</h2>
+    <h3 class="yellow"><cite><ruby style="color:#e6a64d;">黄金伝説<rp>(</rp><rt style="color:#e6a64d;">レゲンダ・アウレア</rt><rp>)</rp></ruby></cite>においての福音書記者ヨハネの伝説</h3>
+  </hgroup>
+
 	<figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/rome-280.webp 280w,
@@ -27,35 +32,34 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/rome-1600.jpg 1600w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/rome-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、《ローマにあるラティナ門前にドミティアヌス大帝の命令によっての熱湯に浸せられる福音書記者ヨハネとパトモス島への流しへの出発》</figcaption>
   </figure>
-  <section><article>
-    <h3 class="yellow"><cite><ruby style="color:#e6a64d;">黄金伝説<rt style="color:#e6a64d;">レゲンダ・アウレア</rt></ruby></cite>においての福音書記者ヨハネ</h3>
-    <section><article>
+
+
       <h4><cite><ruby style="color:#e6a64d;">黄金伝説<rt style="color:#e6a64d;">レゲンダ・アウレア</rt></ruby></cite>においての第６５章　ラティナ門外の聖ヨハネ</h4>
-      <section><article>
+
         <p>使徒にして福音史家でもあるヨハネは、エヘソスで伝道活動に従事していたとき、同地の総督に捕えられ、いつわりの神々に供物をささげよと命じられた。</p>
         <p>が、命令にしたがおうとしなかったので、獄に投じられた。総督は、皇帝ドミティアヌスに報告書を送り、そのなかで、ヨハネのことを神殿の冒漬者神々の侮蔑者、十字架にかけられた男に仕えるやからのひとりであると決めつけた。</p>
         <p>ドミティアヌスは、ヨハネをローマにつれてくるようにと命じた。さて、ヨハネがローマに到着すると、笑いものにするために頭を丸坊主に剃りあげたうえ、ラティナ門とよばれる市門の外に引きだし、油がいっぱい煮えたぎっている釜に入れ、さらに下から火をどんどん焚きつけた。</p>
         <p>ところが、ヨハネは、文字どおり平気の平左で、火傷ひとつしないで釜から出てきた。</p>
         <p>キリスト教徒たちは、その後この場所に教会を建て、この日をヨハネの殉教記念日のように祝うのである。ドミティアヌス帝は、こんな拷問ぐらいでキリストの福音を宣べることをやめるような男ではないと見てとり、聖ヨハネをパトモス島（第一巻）へ流刑に処した。</p>
-      </article></section>
-    </article></section>
-  </article></section>
+
+
+
 </article>
 
 <hr>
 
 <aside>
-  <section><article>
+
     <h3 id="note_saint-clement" class="yellow">聖クレメンス</h3>
-    <section><article>
+
       <div class="notices yellow">
         <p>神の王座と天的宮廷の幻影、王座での生きているものと子羊。</p>
       </div>
       <footer>
         <p>註に戻る：　<a href="#porte-latine" title="ラティナ門">↑</a></p>
       </footer>
-    </article></section>
-  </article></section>
+
+
 </aside>
 `;
 

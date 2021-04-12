@@ -8,6 +8,10 @@
 <!-- Page 18 -->
 
 <article>
+  <hgroup>
+  <h2 id="mise-en-relation" class="yellow"><cite><ruby lang="ja" style="color:#555;">洗礼者<wbr>ヨハネと<wbr>福音書記者<wbr>ヨハネの<wbr>三連画<rp>(</rp><rt lang="nl" style="color:#999;">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby></cite>に表わされている場面の元にある様々な文書</h2>
+    <h3 id="jean9-selon-legende" class="yellow"><cite><ruby style="color:#e6a64d;">黄金伝説<rp>(</rp><rt style="color:#e6a64d;">レゲンダ・アウレア</rt><rp>)</rp></ruby><cite>の第９章においての福音書記者ヨハネの伝説</h3>
+  </hgroup>
   <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-280.webp 280w,
@@ -27,11 +31,10 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1600.jpg 1600w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1920.jpg 1920w"></picture><figcaption>福音書記者ヨハネ</figcaption>
   </figure>
-  <section><article>
-    <h3 id="jean9-selon-legende" class="yellow"><cite><ruby style="color:#e6a64d;">黄金伝説<rt style="color:#e6a64d;">レゲンダ・アウレア</rt></ruby><cite>の第９章においての福音書記者ヨハネの伝説</h3>
-    <section><article>
+
+
       <h4><cite><ruby style="color:#e6a64d;">黄金伝説<rt style="color:#e6a64d;">レゲンダ・アウレア</rt></ruby><cite>の第９章の文書：福音書記者ヨハネの伝説</h4>
-      <section><article>
+
         <p><a href="#note_nomdejean" title="ヨハネの名" id="nomdejean" class="yellow">ヨハネの名</a>は、<ruby lang="ja"><span style="color: #994c3d;">ヨハネス</span><rp>(</rp><rt lang="la"><span style="color: #994c3d;">Johannes</span></rt><rp>)</rp></ruby lang="ja">、<span style="color: #994c3d;">〈<ruby style="color:#994c3d;">主<rp>(</rp><rt style="color:#994c3d;font-size: 70%;letter-spacing: 2px;">しゅ</rt><rp>)</rp></ruby>の恩寵〉</span>のこと、あるいは<span style="color: #994c3d;">〈恩寵をやどした人〉</span>のこと、あるいは<span style="color: #994c3d;">〈あた えられている人〉</span>のこと、あるいは<span style="color: #994c3d;">〈神から贈物をされた人〉</span>のことである。</p>
         <p><span style="color: #994c3d;">ヨハネ</span>という名前のこの四つの解釈のなかに、彼がもっていた神からの四つの特別な贈物をみとめることができる。</p>
         <p><span style="color: #994c3d;">第一</span>には、<span style="color: #994c3d;">キリストが聖ヨハネにたいしてもっておられた特別な愛</span>である。</p>
@@ -53,10 +56,10 @@
         <p>〈神から贈物を受けた人〉とよばれるのは、そのためである。</p>
         <p>というのは、主が聖母を彼の保護にゆだねられたのは、主が彼におあたえになることのできた最大の贈物だったからである。</p>
         <p>彼の生涯を記述したのは、<a href="#note_hoteriche" title="神に永劫に罰せられた富裕な貪欲者と神に選ばれた貧しいラザロ" id="laodiceia" class="yellow"><ruby lang="ja">ラオディケイア<rp>(</rp><rt lang="la">Laodiceia</rt><rp>)</rp></ruby lang="ja"></a>の司教ミレトスであった。そして、<a href="#note_isidore" title="イシドルス" id="isidore" class="yellow">イシドルス</a>がその著『諸聖人の出自と生涯と死』のなかでそれを集約している。</p>
-      </article></section>
-    </article></section>
 
-    <section><article>
+
+
+
       <h4 class="yellow">信仰のためドミティアヌスに迫害される</h4>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -77,15 +80,15 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、《ローマにあるラティナ門前にドミティアヌス大帝の命令によっての熱湯に浸せられる福音書記者ヨハネとパトモス島島への流しへの出発》</figcaption>
       </figure>
-      <section><article>
+
         <p>使徒であり福音書記者であった<span style="color: #994c3d;">ヨハネ</span>は、主の<ruby>愛<rp>(</rp><rt>まな</rt><rp>)</rp></ruby>弟子であり、選ばれて童貞の肉体をもっていた。十二使徒が聖霊降臨のあと世界じゅうに散らばっていったとき、<span style="color: #994c3d;">ヨハネ</span>は、<a href="#note_asie" title="アジア" id="asie" class="yellow">アジア</a>に行き、その地に多くの教会を建てた。</p>
         <p><a href="#note_domitien" title="皇帝ドミティアヌス" id="domitien" class="yellow">皇帝ドミティアヌス</a>は、それを聞くと、彼を捕えさせ、<a href="#note_porte-latine" title="ラティナ門" id="porte-latine" class="yellow">ラティナ門</a>とよばれているローマの門外で煮えたぎった油をみたした桶に投げこむように命じた。</p>
         <p>しかし、<span style="color: #994c3d;">聖ヨハネ</span>は、肉の汚れを知らずにこの世の道を歩いてきたとおなじように、火傷ひとつしないで桶から出てきた。</p>
         <p>皇帝は、<span style="color: #994c3d;">ヨハネ</span>がなおも説教をやめようとしないのを見て、こんどは<a href="#note_patmos" title="パトモス島" id="patmos" class="yellow">パトモス島</a>という遠海の島へ流刑にした。彼は、その島にまったくひとりで住み、ここで『ヨハネの黙示録』を書いた。</p>
-      </article></section>
-    </article></section>
 
-    <section><article>
+
+
+
       <h4 class="yellow">ドゥルシアネの復活</h4>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -106,7 +109,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、右側の最左の柱頭、《ドゥルシアネの復活》</figcaption>
       </figure>
-      <section><article>
+
         <p>その年のうちに、皇帝は、その極悪非道のために試逆され、彼の命令は、元老院によってすべて取り消された。
         こうして、不当に流刑の身になっていた<span style="color: #994c3d;">ヨハネ</span>は、たいへんな敬意をもってふたたび<a href="#note_ephese" title="エペソス市" id="ephese" class="yellow">エペソス市</a>に迎えられた。</p>
         <p>多くの信者たちが駆けよってきて、</p>
@@ -125,10 +128,10 @@
           <p><span style="color: #df8f20;">さあ、起きあがって、家に帰り、わたしのために食事の用意をしてください」</span>と言った。</p>
         </blockquote>
         <p>すると、ドゥルシアネは、立ちあがって、<span style="color: #994c3d;">ヨハネ</span>から言いつかったことをはたすために、すたこらさっさと家に帰っていった。まるで昼寝から眼をさましたところだというふうにしか見えなかった。</p>
-      </article></section>
-    </article></section>
 
-    <section><article>
+
+
+
       <h4 class="yellow">クラトンの洗礼</h4>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -149,7 +152,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/craton-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/craton-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、《クラトンの洗礼》</figcaption>
       </figure>
-      <section><article>
+
         <p>翌日のこと、<span style="color: #b3884d;">クラトン</span>という哲学者が、市場で民衆を呼び集めて、この世を軽蔑しなくてはならぬと説き、それを実地にやって見せていた。</p>
         <p>彼は、あらかじめふたり兄弟の富裕な青年に全財産を若干の宝石と引きかえに売るように命じておいた。</p>
         <p>そして、いまふたりに言いつけて、その宝石を民衆の面前で打ちくだかせた。</p>
@@ -164,9 +167,9 @@
         <p><span style="color: #994c3d;">聖ヨハネ</span>は、割れた宝石を手にとって祈った。
         と、たちまち宝石は、もとどおりになった。</p>
         <p>このときから、<span style="color: #b3884d;">クラトン</span>は、キリスト教に改宗した。ふたりの若者も、彼といっしょに改宗し、宝石を売って、その金を貧しい人びとにわけあたえた。</p>
-      </article></section>
 
-      <section><article>
+
+
         <h4 class="yellow">聖ヨハネによる物質的な豊かさを反駁する説教</h4>
         <p>べつのふたりの貴族の青年がこれを見て、彼らの全財産を売り、その金を貧しい人たちに施し、<span style="color: #994c3d;">ヨハネ</span>にしたがった。しかし、ある日、ふたりは、彼らのかつての下僕が高価な衣服を着ているのに会い、自分たちの外套がいかにも粗末なのを見て、すっかり悲しくなった。
         <span style="color: #994c3d;">ヨハネ</span>は、これに気づき、ふたりの悲しそうな顔を見ると、海岸から若枝と小石とを拾ってくるように言いつけ、それらを金と宝石とに変えた。</p>
@@ -186,10 +189,10 @@
         <p><span style="color: #994c3d;">第六に</span>、富から生じる<span style="color: #994c3d;">損失</span>である。</p>
         <p>財産は、二つの悪が伴う損失を起こす。一つはこの世での悪としての虚しさであって、ともう一つのは次の世での悪として、永遠の劫罰である。</p>
         <p>これらの損失が、永遠的損失として、もう一つの損失の起こさせる。これは今での命での恩寵と将来での命の永遠的栄光である二つの財産の損失である。</p>
-      </article></section>
-    </article></section>
 
-    <section><article>
+
+
+
       <h4 class="yellow">若い結婚者の復活</h4>
       <p>こうして<span style="color: #994c3d;">聖ヨハネ</span>が富を否定する説教をしているとき、ひとりの死んだ若者が、彼のまえにはこばれてきた。若者は、三十日まえに結婚したばかりであった。</p>
       <p>あとに残された彼の妻は、彼の母親や彼の死をいたむ友人たちといっしょに使徒の足もとにひれ伏して、ドゥルシアネをもとどおりにしたように、神の御名においてこの死者の眠りをさましてほしいとたのんだ。</p>
@@ -211,9 +214,9 @@
         <p><span style="color: #df8f20;">—　さあ、海岸へ行って、金と宝石をもとの場所にもどしてきなさい」と言った。</span></p>
       </blockquote>
       <p>彼らがそのとおりにすると、なんというふしぎなことであろうか、金と宝石は、もとの若枝と小石とになった。青年たちは、いったん失っていた有徳の恩龍をふたたび受けたのだった。</p>
-    </article></section>
 
-    <section><article>
+
+
       <h4 class="yellow">ディアナの神殿の破壊</h4>
         <p><span style="color: #994c3d;">ヨハネ</span>がアジア州全土を説教してまわっていたとき、
         いつわりの神々の崇拝者たちは、民衆を煽動して彼をディアナの神殿に引っぱっていき、偽神に供物をささげさせようとした。</p>
@@ -224,9 +227,9 @@
         </blockquote>
         <p>民衆は、この提案をたいへんおもしろいとおもい、みんな神殿を出ていった。<span style="color: #994c3d;">ヨハネ</span>は、天主におん力をおしめしくださるようにと祈った。</p>
         <p>すると、神殿は倒壊し、いつわりの女神の偶像は、こなごなにくだけた。</p>
-      </article></section>
 
-      <section><article>
+
+
         <h4 class="yellow">毒の杯</h4>
         <figure>
           <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -290,9 +293,9 @@
         </blockquote>
         <p>アリストデムスは、言われたとおりにした。すると、死者たちは、息を吹きかえした。</p>
         <p>こうして、アリストデムスも、代理執政官も、一家総ぐるみキリスト教を信仰するようになった。<span style="color: #994c3d;">ヨハネ</span>は、彼らにキリストの御名において洗礼をさずけた。彼らは、教会を建てて、使徒にささげた。</p>
-      </article></section>
-    </article></section>
-  </article></section>
+
+
+
 </article>
 
 <hr>
@@ -300,123 +303,123 @@
 <aside>
   <article>
   <h2 id="notes" class="yellow">註釈</h2>
-    <section><article>
+
       <h3 id="note_nomdejean" class="yellow">ヨハネの名</h3>
-      <section><article>
+
         <div class="notices yellow">
           <p>ヘブライ語でのヨハネの名の意義について、<a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean">「〈ヨハネ〉という名、施設との繋がり、語源」</a>にご参照。</p>
         </div>
-      </article></section>
+
       <footer>
         <p>註に戻る：　<a href="#nomdejean" title="ヨハネの名">ヨハネの名 ↑</a></p>
       </footer>
-    </article></section>
 
-    <section><article>
+
+
       <h3 id="note_laodiceia" class="yellow">ラオディケイア</h3>
-      <section><article>
+
         <div class="notices yellow">
           <p><a href="https://ja.wikipedia.org/wiki/ラオディキア" title="https://ja.wikipedia.org/wiki/ラオディキア"><ruby lang="ja">ラオディケイア<rp>(</rp><rt lang="la">Laodiceia</rt><rp>)</rp></ruby lang="ja"></a>は、地小アジアの<a href="https://ja.wikipedia.org/wiki/フリギア" title="https://ja.wikipedia.org/wiki/フリギア"><ruby lang="ja">フリギア<rp>(</rp><rt lang="la">Phrygia</rt><rp>)</rp></ruby lang="ja">地方</a>の古代都市。</p>
           <p>古代名が同じながら、現在の<a href="https://ja.wikipedia.org/wiki/ラタキア" title="https://ja.wikipedia.org/wiki/ラタキア"><ruby lang="ja">ラタキア<rp>(</rp><rt lang="la">Latakia</rt><rp>)</rp></ruby lang="ja"></a>ではありませんので、ご注意ください。</p>
         </div>
-      </article></section>
+
       <footer>
         <p>註に戻る：　<a href="#laodiceia" title="ラオディケイア">ラオディケイア ↑</a></p>
       </footer>
-    </article></section>
 
-    <section><article>
+
+
       <h3 id="note_isidore" class="yellow">イシドルス</h3>
-      <section><article>
+
         <div class="notices yellow">
           <p>〈セビリヤの〉イシドルス（<time datetime="560">５６０<time>頃~<time datetime="636">６３６年<time>）。聖人（祝、４月４日）、教会博士、セビリヤ大司教。</p>
           <p>大教皇グレゴリウス一世に協力して西ゴート族の改宗に努力、また該博な百科全書知識（主著『語源考』二十巻がその集約）によって創成期のヨーロッパ中世文化に指導的な影響をあたえた。</p>
         </div>
-      </article></section>
+
       <footer>
         <p>註に戻る：　<a href="#isidore" title="イシドルス">イシドルス ↑</a></p>
       </footer>
-    </article></section>
 
-    <section><article>
+
+
       <h3 id="note_asie" class="yellow">アジア</h3>
-      <section><article>
+
         <div class="notices yellow">
           <p>これはローマ帝国の属州名で、小アジア地方すなわちミュシア、リュディア、カリアおよびプリュギアの大半をさす。</p>
         </div>
-      </article></section>
+
       <footer>
         <p>註に戻る：　<a href="#asie" title="アジア">アジア ↑</a></p>
       </footer>
-    </article></section>
 
-    <section><article>
+
+
       <h3 id="note_domitien" class="yellow">皇帝ドミティアヌス</h3>
-      <section><article>
+
         <div class="notices yellow">
           <p><a href="https://ja.wikipedia.org/wiki/ドミティアヌス" title="https://ja.wikipedia.org/wiki/ドミティアヌス">皇帝<ruby lang="ja">ドミティアヌス<rp>(</rp><rt lang="la">Domitianus</rt><rp>)</rp></ruby lang="ja"></a>はローマ帝国の第十一代皇帝である。在位<time datetime="81">８１年<time>から<time datetime="96">９６年<time>。フラウィウス朝最後の皇帝であり、キリスト教はの大迫害者となったと記憶されており。</p>
         </div>
-      </article></section>
+
       <footer>
         <p>註に戻る：　<a href="#domitien" title="皇帝ドミティアヌス">皇帝ドミティアヌス ↑</a></p>
       </footer>
-    </article></section>
 
-    <section><article>
+
+
       <h3 id="note_porte-latine" class="yellow">ラティナ門</h3>
-      <section><article>
+
         <div class="notices yellow">
           <p>カラカラ浴場から南東にのびるラティナ街道にある門、サン・ジョヴァンニ・ア・ポルタ・ラティナ教会（ラティナ門の聖ヨハネ、の意）がある。</p>
         </div>
-      </article></section>
+
       <footer>
         <p>註に戻る：　<a href="#porte-latine" title="ラティナ門">ラティナ門 ↑</a></p>
       </footer>
-    </article></section>
 
-    <section><article>
+
+
       <h3 id="note_patmos" class="yellow">パトモス島</h3>
-      <section><article>
+
         <div class="notices yellow">
           <p><a href="https://ja.wikipedia.org/wiki/パトモス島" title="https://ja.wikipedia.org/wiki/パトモス島"><ruby lang="ja">パトモス<rp>(</rp><rt lang="la">Patmos</rt><rp>)</rp></ruby lang="ja">島</a>はトルコ沿岸部から程近いエーゲ海に浮かぶギリシャの小島。<a href="https://ja.wikipedia.org/wiki/ドデカネス諸島" title="https://ja.wikipedia.org/wiki/ドデカネス諸島">ドデカネス諸島</a>に含まれる。</p>
         </div>
-      </article></section>
+
       <footer>
         <p>註に戻る：　<a href="#patmos" title="パトモス島">パトモス島 ↑</a></p>
       </footer>
-    </article></section>
 
-    <section><article>
+
+
       <h3 id="note_ephese" class="yellow">エペソス市</h3>
-      <section><article>
+
         <div class="notices yellow">
           <p><a href="https://ja.wikipedia.org/wiki/エフェソス" title="https://ja.wikipedia.org/wiki/エフェソス"><ruby lang="ja">エペソス<rp>(</rp><rt lang="la">Ephesos</rt><rp>)</rp></ruby lang="ja">市</a>はトルコ西部の小アジアの古代都市で、現在のイズミル県のセルチュク近郊に位置している。<a href="https://ja.wikipedia.org/wiki/アルテミス" title="https://ja.wikipedia.org/wiki/アルテミス">ディアナ</a>崇拝で知られたギリシア人都市でもあった。</p>
         </div>
-      </article></section>
+
       <footer>
         <p>註に戻る：　<a href="#ephese" title="エペソス市">エペソス市 ↑</a></p>
       </footer>
-    </article></section>
 
-    <section><article>
+
+
       <h3 id="note_drusiane" class="yellow">ドゥルシアネ</h3>
-      <section><article>
+
         <div class="notices yellow">
           <p>黄金伝説では、<ruby lang="ja">ドゥルシアネ<rp>(</rp><rt lang="la">Drusiane</rt><rp>)</rp></ruby lang="ja">はエペソス住人としてしか表れませんが、〈ドゥルシアネとカリマッコス物語〉という新約聖書外典である『ヨハネ行伝』では、アンドロニックの妻として、悪人のカリマッコスの愛に攻められて、神に死で開放されることを念願して神から敵われたことが語られています。</p>
         </div>
-      </article></section>
+
       <footer>
         <p>註に戻る：　<a href="#drusiane" title="ドゥルシアネ">ドゥルシアネ ↑</a></p>
       </footer>
-    </article></section>
 
-    <section><article>
+
+
       <h3 id="note_mathieu" class="yellow">もし完全になりたいのなら</h3>
-      <section><article>
-        <section><article>
+
+
           <p>この引用文は、マタイによる福音の第１９章第２１節１節を指す。</p>
-        </article></section>
-        <section><article>
+
+
           <div class="notices yellow">
             <ol class="doc">
               <li value="21"><p>「イエスは言われた。</p>
@@ -425,13 +428,13 @@
                 </blockquote></li>
             </ol>
           </div>
-        </article></section>
-      </article></section>
-      <section><article>
-        <section><article>
+
+
+
+
           <p>補充として、完全文：</p>
-        </article></section>
-        <section><article>
+
+
           <div>
             <ol class="doc">
               <li value="16"><p>「さて、一人の男がイエスに近寄って来て言った。</p>
@@ -473,17 +476,17 @@
                 </blockquote></li>
             </ol>
           </div>
-        </article></section>
-      </article></section>
+
+
       <footer>
         <p>註に戻る：　<a href="#mathieu" title="もし完全になりたいのなら">もし完全になりたいのなら ↑</a></p>
       </footer>
-      </article></section>
-    </article></section>
 
-    <section><article>
+
+
+
     <h3 id="note_hoteriche" class="yellow">神に永劫に罰せられた富裕な貪欲者と神に選ばれた貧しいラザロ</h3>
-      <section><article>
+
         <div class="notices yellow">
           <p>この引用文は、マタイによる福音の第１９章第２１節一節を指す。</p>
           <ol class="doc">
@@ -503,44 +506,44 @@
             </li>
           </ol>
         </div>
-        </article></section>
-        <section><article>
+
+
           <p>この話はヨハネにもう少し詳しく語られている：</p>
           <p><a href="https://www.bible.or.jp/read/vers_search.html" title="https://www.bible.or.jp/read/vers_search.html">ヨハネによる福音の第１１章を参照</a></p>
-        </article></section>
-      </article></section>
+
+
       <footer>
         <p>註に戻る：　<a href="#mathieu" title="もし完全になりたいのなら">神に永劫に罰せられた富裕な貪欲者と神に選ばれた貧しいラザロ ↑</a></p>
       </footer>
-    </article></section>
 
-    <section><article>
+
+
       <h3 id="note_eusebe" class="yellow">エウセビオス</h3>
-      <section><article>
+
         <div class="notices yellow">
           <p>カイサリアの司教（<time datetime="263">２６３頃<time>~<time datetime="339">３３９年<time>）。オリゲネスの弟子。アリウス論争にあいし三位一体論で聖子従属説をとった。</p>
           <p>コンスタンティヌス大帝にいたるまでの教会の歩みを書いたその『教会史』一〇巻は、いまは散佚した源史料からのおよびただしい引用をふくみ、初代キリスト教時代の貴重な文献であり、〈教会史の父〉と称せられる。</p>
           <p>また『ギリシア人と異邦人の年代記』は、<time datetime="325">３２５年<time>までの古代諸民族の世界史概説であり、他に多くの護教書、聖書釈義、聖地地理などの著作がある。</p>
         </div>
-      </article></section>
+
       <footer>
         <p>註に戻る：　<a href="#eusebe" title="エウセビオス">エウセビオス ↑</a></p>
       </footer>
-    </article></section>
 
-    <section><article>
+
+
       <h3 id="note_saint-clement" class="yellow">聖クレメンス</h3>
-      <section><article>
+
         <div class="notices yellow">
           <p>アレクサンドリアのクレメンス〉とよばれ、アテネで生まれ、アレクサンドリアで活躍した教会著述家（<time datetime="215">没年２１５以前<time>）。</p>
           <p>つぎに述べられる物語は、その著『どのような富者が救われるか』から。</p>
           <p>なお、本文では、〈聖〉が冠せられているが、ローマ教会で彼が聖列にくわえられたという事実はなく、また司祭職についたこともないらしい。</p>
         </div>
-      </article></section>
+
       <footer>
         <p>註に戻る：　<a href="#porte-latine" title="ラティナ門">聖クレメンス ↑</a></p>
       </footer>
-    </article></section>
+
   </article>
 </aside>
 `;

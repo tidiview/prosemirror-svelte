@@ -8,12 +8,15 @@
 <!-- Page 20 -->
 
 <article>
-  <h2 class="yellow"><cite><ruby style="color:#e6a64d;">黄金伝説<rt style="color:#e6a64d;">レゲンダ・アウレア</rt></ruby></cite>においての福音書記者ヨハネ</h2>
-  <section><article>
-    <h3><cite><ruby style="color:#e6a64d;">黄金伝説<rt style="color:#e6a64d;">レゲンダ・アウレア</rt></ruby></cite>においての第６５章　ラティナ門外の聖ヨハネ</h3>
-    <section><article>
+  <hgroup>
+  <h2 id="mise-en-relation" class="yellow"><cite><ruby lang="ja" style="color:#555;">洗礼者<wbr>ヨハネと<wbr>福音書記者<wbr>ヨハネの<wbr>三連画<rp>(</rp><rt lang="nl" style="color:#999;">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby></cite>に表わされている場面の元にある様々な文書</h2>
+    <h3 class="yellow"><cite><ruby style="color:#e6a64d;">黄金伝説<rp>(</rp><rt style="color:#e6a64d;">レゲンダ・アウレア</rt><rp>)</rp></ruby></cite>においての福音書記者ヨハネ</h3>
+  </hgroup>
+
+    <h4><cite><ruby style="color:#e6a64d;">黄金伝説<rp>(</rp><rt style="color:#e6a64d;">レゲンダ・アウレア</rt><rp>)</rp></ruby></cite>においての第６５章　ラティナ門外の聖ヨハネ</h4>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li>第４章</li>
           <li value="02">わたしは、たちまち<span style="color: #e6a64d;">「霊」</span>に満たされた。
@@ -25,9 +28,9 @@
           これは神の七つの霊である。</li>
           <li value="06">また、玉座の前は、水晶に似たガラスの海のようであった。</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="07">第一の生き物は<span style="color: #e6a64d;">獅子</span>のようであり、第二の生き物は<span style="color: #e6a64d;">若い雄牛</span>のようで、第三の生き物は<span style="color: #e6a64d;">人間のような顔</span>を持ち、第四の生き物は空を飛ぶ<span style="color: #e6a64d;">鷲</span>のようであった。</li>
           <li value="08">
@@ -38,40 +41,40 @@
             </blockquote>
           </li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
           <ol class="doc">
             <li value="9">これらの生き物が、玉座に座り、世々限りなく生きておられる方に、栄光と誉れと感謝とを献げる度に、</li>
             <li value="10">二十四人の長老は、玉座に座っている方の前にひれ伏し、世々限りなく生きておられる方を礼拝し、その冠を玉座の前に投げ出して言った。</li>
             <li value="11">「私たちの主、また神よ／あなたこそ／栄光と誉れと力を受けるにふさわしい方。／あなたは万物を造られ／万物はあなたの御心によって存在し／また造られたからです。」</li>
           </ol>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
         <ol class="doc">
           <li>第５章</li>
           <li value="01">「またわたしは、玉座に座っておられる方の右の手に<span style="color: #e6a64d;">巻物</span>があるのを見た。表にも裏にも字が書いてあり、<span style="color: #e6a64d;">七つの封印</span>で封じられていた。」</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
         <ol class="doc">
           <li value="2">また一人の力ある天使が、「封印を解いて、この巻物を開くのにふさわしい者は誰か」と大声で叫んでいるのを見た。</li>
           <li value="3">しかし、天にも地にも地の下にも、この巻物を開き、見ることのできる者は誰もいなかった。</li>
           <li value="4">この巻物を開くにも、見るにも、ふさわしい者が誰一人見つからなかったので、私は激しく泣き出した。</li>
           <li value="5">すると、長老の一人が私に言った。「泣くな。見よ、ユダ族の獅子、ダビデのひこばえが勝利を得たので、七つの封印を解き、この巻物を開くことができる。」</li>
           </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="06">「わたしはまた、玉座と四つの生き物の間、長老たちの間に、屠られたような<span style="color: #e6a64d;">小羊が立っている</span>のを見た。小羊には七つの角と七つの目があった。この七つの目は、全地に遣わされている神の七つの霊である。」</li>
           <li value="07">小羊は進み出て、玉座に座っておられる方の右の手から、巻物を受け取った。</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
           <ol class="doc">
             <li value="8">巻物を受け取ったとき、四つの生き物と二十四人の長老はおのおの、竪琴と、香で満たされた金の鉢とを手に持って、小羊の前にひれ伏した。この香は聖なる者たちの祈りである。</li>
             <li value="9">そして、彼らは新しい歌を歌った。／「あなたは、巻物を受け取り／その封印を解くのにふさわしい方です。／あなたは、屠られて、その血により、神のために／あらゆる部族と言葉の違う民／あらゆる民族と国民の中から人々を贖い </li>
@@ -81,33 +84,33 @@
             <li value="13">また私は、天と地、地の下と海にいるすべての造られたもの、そして、そこにいるあらゆるものがこう言うのを聞いた。／「玉座に座っておられる方と小羊に／賛美、誉れ、栄光、そして力が／世々限りなくありますように。」</li>
             <li value="14">四つの生き物は「アーメン」と唱え、長老たちはひれ伏して礼拝した。</li>
           </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li>第６章</li>
           <li value="01">また、わたしが見ていると、小羊が七つの封印の一つを開いた。すると、四つの生き物の一つが、雷のような声で「出て来い」と言うのを、わたしは聞いた。</li>
           <li value="02">そして見ていると、見よ、<span style="color: #e6a64d;">白い馬</span>が現れ、乗っている者は、<span style="color: #e6a64d;">弓</span>を持っていた。彼は<span style="color: #e6a64d;">冠</span>を与えられ、勝利の上に更に勝利を得ようと出て行った。</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="03">小羊が第二の封印を開いたとき、第二の生き物が「出て来い」と言うのを、わたしは聞いた。</li>
           <li value="04">すると、<span style="color: #e6a64d;">火のように赤い</span>別の<span style="color: #e6a64d;">馬</span>が現れた。その馬に乗っている者には、地上から平和を奪い取って、殺し合いをさせる力が与えられた。また、この者には大きな<span style="color: #e6a64d;">剣</span>が与えられた。</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="05">小羊が第三の封印を開いたとき、第三の生き物が「出て来い」と言うのを、わたしは聞いた。
           そして見ていると、見よ、<span style="color: #e6a64d;">黒い馬</span>が現れ、乗っている者は、手に<span style="color: #e6a64d;">秤</span>を持っていた。</li>
           <li value="06">わたしは、四つの生き物の間から出る声のようなものが、こう言うのを聞いた。「小麦は一コイニクスで一デナリオン。
           大麦は三コイニクスで一デナリオン。オリーブ油とぶどう酒とを損なうな。」</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="07">
             <p>小羊が第四の封印を開いたとき、</p>
@@ -120,9 +123,9 @@
           <li>彼らには、地上の四分の一を支配し、剣と飢饉と死をもって、更に地上の野獣で人を滅ぼす権威が与えられた。 </li>
           <li><span style="color: #999;">（...）</span></li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
         <ol class="doc">
           <li value="9">小羊が第五の封印を解いたとき、私は、神の言葉のゆえに、また、自分たちが立てた証しのゆえに殺された人々の魂を、祭壇の下に見た。</li>
           <li value="10">彼らは大声でこう叫んだ。「聖なるまことの主よ、あなたはいつまで裁きを行わず、地に住む者に私たちの血の復讐をなさらないのですか。」</li>
@@ -130,9 +133,9 @@
           <li value="12">また、小羊が第六の封印を解いたとき、私が見ていると、大地震が起きた。太陽は毛織の粗布のように暗くなり、月は全体が血のようになって、</li>
           <li value="13">天の星は地上に落ちた。まるで、いちじくの青い実が、大風に揺さぶられて振り落とされるようであった。</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="14">天は巻物が巻き取られるように消え去り、山も島も、みなその場所から移された。</li>
           <li value="15"><span style="color: #e6a64d;">地上の王、高官、千人隊長、富める者、力ある者、また、奴隷も自由な身分の者もことごとく、洞穴や山の岩間に隠れ</span></li>
@@ -147,9 +150,9 @@
           </blockquote>
           </li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
         <ol class="doc">
           <li>第７章</li>
           <li value="1">この後、私は地の四隅に四人の天使が立っているのを見た。彼らは、地の四隅から吹く風を押さえ、地にも海にもどの木にも吹きつけないようにしていた。</li>
@@ -170,39 +173,39 @@
           <li value="16">彼らは、もはや飢えることも渇くこともなく／太陽もどのような暑さも／彼らを打つことはない。</li>
           <li value="17">玉座の中央におられる小羊が彼らの牧者となり／命の水の泉へと導き／神が彼らの目から涙をことごとく／拭ってくださるからである。」</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li>第８章</li>
           <li value="01">小羊が第七の封印を開いたとき、天は半時間ほど沈黙に包まれた。</li>
           <li value="02">そして、わたしは<span style="color: #e6a64d;">七人の天使</span>が神の御前に立っているのを見た。彼らには<span style="color: #e6a64d;">七つのラッパ</span>が与えられた。</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="03">また、別の天使が来て、手に<span style="color: #e6a64d;">金の香炉</span>を持って祭壇のそばに立つと、この天使に多くの香が渡された。すべての聖なる者たちの祈りに添えて、玉座の前にある<span style="color: #e6a64d;">金の祭壇</span>に献げるためである。</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="04">香の煙は、天使の手から、聖なる者たちの祈りと共に神の御前へ立ち上った。</li>
           <li value="05">それから、天使が香炉を取り、それに祭壇の火を満たして地上へ投げつけると、雷、さまざまな音、稲妻、地震が起こった。</li>
           <li value="06">さて、七つのラッパを持っている七人の天使たちが、ラッパを吹く用意をした。</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="10">第三の天使がラッパを吹いた。すると、<span style="color: #e6a64d;">松明のように燃えている大きな星</span>が、天から落ちて来て、川という川の三分の一と、その水源の上に落ちた。</li>
           <li value="11">この星の名は<span style="color: #e6a64d;">「苦よもぎ」</span>といい、水の三分の一が苦よもぎのように苦くなって、そのために多くの人が死んだ。</li>
           <li value="12">第四の天使がラッパを吹いた。すると、太陽の三分の一、月の三分の一、星という星の三分の一が損なわれたので、それぞれ三分の一が暗くなって、昼はその光の三分の一を失い、夜も同じようになった。</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="13"><p>また、見ていると、一羽の<span style="color: #e6a64d;">鷲</span>が空高く飛びながら、大声でこう言うのが聞こえた。</p>
           <blockquote>
@@ -210,9 +213,9 @@
           </blockquote>
           </li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li>第９章</li>
           <li value="01">第五の天使がラッパを吹いた。すると、一つの星が天から地上へ落ちて来るのが見えた。この星に、<span style="color: #e6a64d;">底なしの淵に通じる穴を開く鍵</span>が与えられ、</li>
@@ -222,9 +225,9 @@
           <li value="05">殺してはいけないが、五か月の間、苦しめることは許されたのである。いなごが与える苦痛は、さそりが人を刺したときの苦痛のようであった。</li>
           <li value="06">この人々は、その期間、死にたいと思っても死ぬことができず、切に死を望んでも、死の方が逃げて行く。</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="07">さて、<span style="color: #e6a64d;">いなご</span>の姿は、出陣の用意を整えた馬に似て、頭には金の冠に似たものを着け、顔は人間の顔のようであった。</li>
           <li value="08">また、髪は女の髪のようで、歯は獅子の歯のようであった。</li>
@@ -233,9 +236,9 @@
           <li value="11">いなごは、底なしの淵の使いを王としていただいている。その名は、ヘブライ語でアバドンといい、ギリシア語の名はアポリオンという。</li>
           <li><span style="color: #999;">（…）</span></li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
         <ol class="doc">
           <li value="12">第一の災いが過ぎ去った。見よ、この後、さらに二つの災いがやって来る。</li>
           <li value="13">第六の天使がラッパを吹いた。すると、神の前にある金の祭壇の四本の角から一つの声が聞こえた。</li>
@@ -248,26 +251,26 @@
           <li value="20">これらの災いに遭っても殺されずに生き残った人々は、自分の手で造ったものについて悔い改めず、なおも、悪霊や、金、銀、銅、石、木で造った、見ることも聞くことも歩くこともできない偶像を拝むことをやめなかった。</li>
           <li value="21">また彼らは、自分たちの犯した殺人やまじない、淫行や盗みについても、悔い改めようとしなかった。</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li>第１０章</li>
           <li value="01">わたしはまた、もう一人の力強い<span style="color: #e6a64d;">天使</span>が、<span style="color: #e6a64d;">雲を身</span>にまとい、天から降って来るのを見た。頭には<span style="color: #e6a64d;">虹</span>をいただき、顔は<span style="color: #e6a64d;">太陽</span>のようで、足は<span style="color: #e6a64d;">火の柱</span>のようであり、</li>
           <li value="02">手には<span style="color: #e6a64d;">開いた小さな巻物</span>を持っていた。そして、右足で海を、左足で地を踏まえて、</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="03">獅子がほえるような大声で叫んだ。天使が叫んだとき、七つの雷がそれぞれの声で語った。</li>
           <li value="04">七つの雷が語ったとき、わたしは書き留めようとした。すると、天から声があって、「七つの雷が語ったことは秘めておけ。それを書き留めてはいけない」と言うのが聞こえた。</li>
           <li value="05">すると、海と地の上に立つのをわたしが見たあの天使が、右手を天に上げ、</li>
           <li value="06">世々限りなく生きておられる方にかけて誓った。すなわち、天とその中にあるもの、地とその中にあるもの、海とその中にあるものを創造された方にかけてこう誓った。「もはや時がない」。</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
         <ol class="doc">
           <li>第１０章</li>
           <li value="07">第七の天使がラッパを吹き鳴らすとき、神の秘義が成就する。それは、神がご自分の僕である預言者たちに良い知らせとして告げられたとおりである。」</li>
@@ -276,9 +279,9 @@
           <li value="10">そこで私は、その小さな巻物を天使の手から受け取り、すべて食べた。それは、口には蜜のように甘かったが、食べると腹には苦かった。</li>
           <li value="11">そして、私に語りかけるのを聞いた。「あなたは、もう一度、多くの民族、国民、言葉の違う民、また、王たちについて預言しなければならない。」</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li>第１１章</li>
           <li value="01">それから、私に杖のような物差しが与えられた。そして、こう告げられた。「立って神の神殿と祭壇とを測り、また礼拝している者たちを数えなさい。</li>
@@ -301,9 +304,9 @@
           <li value="18">諸国の民は怒り狂い／あなたも怒りを現されました。／死者の裁かれる時が来ました。／あなたの僕である預言者、聖なる者／あなたの名を畏れる者には／小さな者にも大きな者にも／報いが与えられ／地を滅ぼす者たちが／滅ぼされる時が来ました。」</li>
           <li value="19">そして、天にある神の神殿が開かれ、その神殿の中に契約の箱が見えた。すると稲妻、轟音、雷鳴、地震が起こり、大粒の雹が降った。</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li>第１２章</li>
           <li value="01">また、天に大きなしるしが現れた。<span style="color: #e6a64d;">一人の女</span>が身に太陽をまとい、月を足の下にし、頭には十二の星の冠をかぶっていた。</li>
@@ -311,9 +314,9 @@
           <li value="03">また、もう一つのしるしが天に現れた。見よ、火のように<span style="color: #e6a64d;">赤い大きな竜</span>である。これには七つの頭と十本の角があって、その頭に七つの冠をかぶっていた。</li>
           <li value="04">竜の尾は、天の星の三分の一を掃き寄せて、地上に投げつけた。そして、竜は子を産もうとしている女の前に立ちはだかり、産んだら、その子を食べてしまおうとしていた。</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="05">女は男の子を産んだ。この子は、鉄の杖ですべての国民を治めることになっていた。子は神のもとへ、その玉座へ引き上げられた。</li>
           <li value="06">女は荒れ野へ逃げ込んだ。そこには、この女が１２６０日の間養われるように、神の用意された場所があった。</li>
@@ -321,9 +324,9 @@
           <li value="08">勝てなかった。そして、もはや天には彼らの居場所がなくなった。</li>
           <li value="09">この巨大な竜、年を経た蛇、悪魔とかサタンとか呼ばれるもの、全人類を惑わす者は、投げ落とされた。地上に投げ落とされたのである。その使いたちも、もろともに投げ落とされた。</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="10">わたしは、天で大きな声が次のように言うのを、聞いた。「今や、我々の神の救いと力と支配が現れた。神のメシアの権威が現れた。</li>
           <li>我々の兄弟たちを告発する者、昼も夜も我々の神の御前で彼らを告発する者が、投げ落とされたからである。</li>
@@ -333,35 +336,35 @@
           <li value="13"><span style="color: #e6a64d;">竜</span>は、自分が地上へ投げ落とされたと分かると、男の子を産んだ<span style="color: #e6a64d;">女</span>の後を追った。</li>
           <li value="14">しかし、女には<span style="color: #e6a64d;">大きな鷲の翼</span>が二つ与えられた。荒れ野にある自分の場所へ飛んで行くためである。女はここで、蛇から逃れて、一年、その後二年、またその後半年の間、養われることになっていた。</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
         <ol class="doc">
           <li value="15">蛇は、女の後ろに水を口から川のように吐き出して、彼女を押し流そうとした。</li>
           <li value="16">しかし、大地が女を助けた。大地は口を開けて、竜が吐き出した川を飲み干したのである。</li>
           <li value="17">竜は女に対して激しく怒り、その子孫の残りの者たち、すなわち、神の戒めを守り、イエスの証しを守る者たちと戦うために出て行った。</li>
           <li value="18">そして、竜は海辺の砂の上に立った。</li>
         </ol>
-      </article></section>
+
       <hr>
-    </article></section>
-  </article></section>
+
+
 </article>
 
 <hr>
 
 <aside>
-  <section><article>
+
     <h3 id="note_saint-clement" class="yellow">聖クレメンス</h3>
-    <section><article>
+
       <div class="notices yellow">
         <p>神の王座と天的宮廷の幻影、王座での生きているものと子羊。</p>
       </div>
       <footer>
         <p>註に戻る：　<a href="#porte-latine" title="ラティナ門">↑</a></p>
       </footer>
-    </article></section>
-  </article></section>
+
+
 </aside>
 `;
 
