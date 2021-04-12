@@ -1147,7 +1147,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、《罪の赦しを得させるために悔い改めの洗礼を宣べ伝える洗礼者ヨハネ》</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、《<q cite="https://www.bible.com/ja/bible/1819/LUK.3.新共同訳" style="quotes: '' '';">罪の赦しを得させるために悔い改めの洗礼を宣べ伝える</q>洗礼者ヨハネ》</figcaption>
     </figure>
 
 
@@ -1185,7 +1185,7 @@
     </figure>
 
 
-      <p>向こうの岸に、<span style="color: #e6a64d;">洗礼者ヨハネ</span>が自分の最初の弟子のニ人である<a href="https://ja.wikipedia.org/wiki/アンデレ" title="https://ja.wikipedia.org/wiki/アンデレ" id="andre" class="yellow">アンデレ</a>と<a href="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" title="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" id="jean-l-apotre" class="yellow">使徒ヨハネ</a>も彼に加わるよう、<q style="quotes: '「' '」';color: #e6a64d;"><ruby lang="ja" style="color:#e6a64d;">これは&#12289;神の小羊<rp>（</rp><rt lang="la" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">エッチェ・アニュス・ディ</rt><rp>）</rp></ruby></q>という言葉でイエスに紹介している。彼たちは彼と合流する。</p>
+      <p>向こうの岸に、<span style="color: #e6a64d;">洗礼者ヨハネ</span>が自分の最初の弟子のニ人である<a href="https://ja.wikipedia.org/wiki/アンデレ" title="https://ja.wikipedia.org/wiki/アンデレ" id="andre" class="yellow">アンデレ</a>と<a href="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" title="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" id="jean-l-apotre" class="yellow">使徒ヨハネ</a>も彼に加わるよう、<q cite="https://www.bible.com/ja/bible/1819/JHN.1.新共同訳" style="quotes: '「' '」';color: #e6a64d;"><ruby lang="ja" style="color:#e6a64d;">見よ&#12289;神の小羊だ<rp>（</rp><rt lang="la" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">エッチェ・アニュス・ディ</rt><rp>）</rp></ruby></q>という言葉でイエスに紹介している。彼たちは彼と合流する。</p>
 
 
 
@@ -1193,14 +1193,12 @@
     <h6 class="yellow">中央パネルの遠景での洗礼者ヨハネの逮捕の場面</h6>
 
       <p>そこから、彼の運命が悲劇的になる。</p>
-      <p>ガリラヤとペレアの四分封領主である<a href="https://ja.wikipedia.org/wiki/ヘロデ・アンティパス" title="https://ja.wikipedia.org/wiki/ヘロデ・アンティパス" id="herode-antipas" class="yellow">ヘロデ・アンティパス</a>が<q style="quotes: '「' '」';color: #e6a64d;">自分の兄弟フィリポの妻</q> <sup id="page-7-fnref1:2"><a href="#page-7-fn:2" class="footnote-ref">ノート１</a></sup> （<a href="https://ja.wikipedia.org/wiki/ヘロデヤ" title="https://ja.wikipedia.org/wiki/ヘロディア" id="herodiade">ヘロディア</a>）と結婚する<span style="color: #999;">（マルコ、第６章・１７節）</span>。</p>
+      <p>ガリラヤとペレアの四分封領主である<a href="https://ja.wikipedia.org/wiki/ヘロデ・アンティパス" title="https://ja.wikipedia.org/wiki/ヘロデ・アンティパス" id="herode-antipas" class="yellow">ヘロデ・アンティパス</a>が<q cite="https://www.bible.com/ja/bible/1819/MRK.6.新共同訳" style="quotes: '「' '」';color: #e6a64d;">自分の兄弟フィリポの妻</q> <sup id="page-7-fnref1:2"><a href="#page-7-fn:2" class="footnote-ref">ノート１</a></sup> （<a href="https://ja.wikipedia.org/wiki/ヘロデヤ" title="https://ja.wikipedia.org/wiki/ヘロディア" id="herodiade">ヘロディア</a>）と結婚する<span style="color: #999;">（マルコ、第６章・１７節）</span>。</p>
       <p>ユダヤ教の信仰はどんな兄の妻との結婚とも<span style="color: #e6a64d;">「汚れ」</span>と見なしていて、ゆえに形式的にそれを<span style="color: #e6a64d;">禁じている</span><span style="color: #999;">（レビ記、第１８章・１６節、第２０章・２１節）</span>から、ヨハネはそれを糾弾する。</p>
-      <p><span style="color: #e6a64d;">ヘロデは</span><span style="color: #999;">［ヨハネの］</span><q style="quotes: '「' '」';">説得させる能力が<span style="color: #e6a64d;">反乱</span></q>を誘発することを恐れられていた<span style="color: #999;">（ユダヤ古代誌、第１８書、第５章、１１８節）</span> <sup id="page-7-fnref1:1"><a href="#page-7-fn:1" class="footnote-ref">ノート２</a></sup>。</p>
-      <blockquote>
+      <p><span style="color: #e6a64d;">ヘロデは</span><span style="color: #999;">［ヨハネの］</span><q style="quotes: '「' '」';">説得させる能力が<span style="color: #e6a64d;">反乱</span></q>を誘発することを恐れられていた<span style="color: #999;">（<cite>ユダヤ古代誌</cite>、第１８書、第５章、１１８節）</span> <sup id="page-7-fnref1:1"><a href="#page-7-fn:1" class="footnote-ref">ノート２</a></sup>。</p>
         <p>「群衆はこの人の忠告に完全に従いそうであったから。だからヘロデは、彼のせいで何かトラブルが起こる前に、彼を捕まえる方を後に騒動が起きた場合に悔むより好んだわけだ。ヘロデの嫌疑のせいで、ヨハネはマシャエロに送られ、</p>
         <p>（…）</p>
         <p>そこで殺された。」</p>
-      </blockquote>
       <p>実際、ヨハネの信奉者たちによってトラブルが起こされた場合、ヘロデが自分を取り上げることのできるローマ当局に事情について責任を取らなければならなかったのだった。</p>
       <p>彼は<span style="color: #e6a64d;">「洗礼者ヨハネを逮捕する命令」</span>を出す<span style="color: #999;">（マルコ、第６章・１７節）</span>。</p>
 
@@ -1264,10 +1262,10 @@
     <h6 class="yellow">ヘロデの宮殿で表わされているサロメの踊りの場面、左翼パネル内面</h6>
     
 
-      <p>ヨハネを、信奉者達のトラブルの騒ぎを起こさずに死なせるのを成功させるために、<span style="color: #e6a64d;">ヘロデ</span>が彼らを欺くよう、ごまかしを考える<span style="color: #999;">（マルコ、第６章・２１～２２節）</span>。
-      「自分の誕生日の祝いに」ガリラヤの「高官や将校、ガリラヤの有力者などを招いて宴会」を催す。</p>
+      <p>ヨハネを、信奉者たちのトラブルの騒ぎを起こさずに死なせるのを成功させるために、<span style="color: #e6a64d;">ヘロデ</span>が彼らを欺くよう、ごまかしを考える<span style="color: #999;">（マルコ、第６章・２１～２２節）</span>。</p>
+      <p>「自分の誕生日の祝いに」ガリラヤの「高官や将校、ガリラヤの有力者などを招いて宴会」を催す。</p>
       <p>「ヘロディアの娘<a href="https://ja.wikipedia.org/wiki/サロメ_(ヘロディアの娘))" title="https://ja.wikipedia.org/wiki/サロメ_(ヘロディアの娘)" id="salome" class="yellow">サロメ</a>」が姿を現して踊る。</p>
-      <p><span style="color: #e6a64d;">《サロメの踊り》</span>は左翼パネルの左上部にある宮殿の塔で行われている。</p>
+      <p><span style="color: #e6a64d;">《サロメの踊り》</span>は左翼パネルの左上部にある宮殿の塔で行われている。メムリンクが塔の壁をこの場面を鑑賞者たちに見せるように省いた。</p>
       <p>その上、<ruby>壁<rp>（</rp><rt>へき</rt><rp>）</rp>龕<rp>（</rp><rt>がん</rt><rp>）</rp></ruby>での像が、ヘロデの不倫行為をおのめかすいくつかの不信心な人物、裸の女性のニ人の間の一人裸の男性が表わされている。</p>
 
 
@@ -1292,30 +1290,38 @@
     </figure>
 
 
-      <p></p>
-      <p>ヘロデがその踊りを気に入ったことを見せかけて、<span style="color: #e6a64d;">ヨハネの死の責任を免除するには</span>言う：</p>
-      <blockquote>
-        <p><span style="color: #e6a64d;"><q style="color: #e6a64d;">欲しいものがあれば何でも言いなさい</q></span>、</p>
+      <p>ヘロデがその踊りを気に入ったことを見せかけて、<span style="color: #e6a64d;">ヨハネの死の責任を免除するには</span>言う<span style="color: #999;">（マルコ、第６章・２２～２５節）</span>：</p>
+      <blockquote cite="https://www.bible.com/ja/bible/1819/MRK.6.新共同訳">
+        <ol class="doc">
+          <li value="22">
+            <p class="conversation">
+              <span style="color: #e6a64d;">「欲しいものがあれば何でも言いなさい」</span>、
+            </p>
+          </li>
+          <li value="23">
+            <p>更に、</p>
+            <p class="conversation">「お前が願うなら、この国の半分でもやろう"と固く誓ったのである。」 </p>
+          </li>
+          <li value="24">
+            <p>サロメが座を外して、母親に、</p>
+            <p class="conversation">
+              <span style="color: #e6a64d;">「何を願いましょうか」</span>と言うと、
+            </p>
+            <p>ヘロディアは、</p>
+            <p class="conversation"><span style="color: #e6a64d;">「洗礼者ヨハネの首を」</span>と言った。</p>
+          </li>
+          <li value="25">
+            <p>早速、少女は大急ぎで王のところに行き、</p>
+            <p class="conversation">
+              <span style="color: #e6a64d;">「今すぐに洗礼者ヨハネの首を盆に載せて、いただきとうございます」</span>と願う。
+            </p>
+          </li>
+        </ol>
       </blockquote>
-      <p>更に、</p>
-      <blockquote>
-        <p><q style="color: #e6a64d;">お前が願うなら、この国の半分でもやろう"と固く誓ったのである</q>。</p>
-      </blockquote>
-      <p>サロメが座を外して、母親に、</p>
-      <blockquote>
-        <p><span style="color: #e6a64d;"><q style="color: #e6a64d;">何を願いましょうか</q></span>と言うと、</p>
-      </blockquote>
-      <p>ヘロディアは、</p>
-      <blockquote>
-        <p><span style="color: #e6a64d;"><q style="color: #e6a64d;">洗礼者ヨハネの首を</q></span>と言った。</p>
-      </blockquote>
-      <p>早速、少女は大急ぎで王のところに行き、</p>
-      <blockquote>
-        <p><span style="color: #e6a64d;"><q style="color: #e6a64d;">今すぐに洗礼者ヨハネの首を盆に載せて、いただきとうございます</q></span>と願う。</p>
-      </blockquote>
-      <p><span style="color: #999;">（マルコ、第６章・２４～２９節）</span></p>
-      <p>この語り筋のすべてが本当にごまかしである証拠が、もしサロメがヘロデに<span style="color: #e6a64d;">「自分の父のフィリポか自分の母の<a href="https://ja.wikipedia.org/wiki/ヘロデヤ" title="https://ja.wikipedia.org/wiki/ヘロディア" id="herodiade-2" class="yellow">ヘロディア</a>」</span>を頼んだなら、ヘロデがそれに同意出来ません<span style="color: #999;">（黄金伝説１２１章、第１段 <sup id="page-8-fnref1:1"><a href="#page-8-fn:1" class="footnote-ref">ノート１</a></sup> ）</span>。</p>
-      <p>ある衛兵は出て行き、「牢の中でヨハネの首をはね」に行く<span style="color: #999;">（マルコ、第６章・２２～２３節）</span>。</p>
+
+      <p>こうしてヘロデは，自分の意思に反するヨハネを死なせるように見える。</p>
+      <p>この語り筋のすべてが本当にヨハネを、信奉者たちのトラブルの騒ぎを起こさずに死なせるためのごまかしである証拠が、もしサロメがヘロデに<span style="color: #e6a64d;">「自分の父のフィリポか自分の母の<a href="https://ja.wikipedia.org/wiki/ヘロデヤ" title="https://ja.wikipedia.org/wiki/ヘロディア" id="herodiade-2" class="yellow">ヘロディア</a>」</span>を頼んだなら、ヘロデがそれに同意出来ません<span style="color: #999;">（<cite>黄金伝説</cite>１２１章、第１段 <sup id="page-8-fnref1:1"><a href="#page-8-fn:1" class="footnote-ref">ノート１</a></sup> ）</span>。</p>
+      <p>ある衛兵は出て行き、「牢の中でヨハネの首をはね」に行く。</p>
 
 
     <figure>

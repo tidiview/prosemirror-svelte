@@ -1191,7 +1191,7 @@
               https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-840.jpg 840w,
               https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1280.jpg 1280w,
               https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1600.jpg 1600w,
-              https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1920.jpg 1920w"></picture><figcaption>detail of the central panel, “John the Baptist proclaiming a baptism of conversion for the forgiveness of sins”</figcaption>
+              https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1920.jpg 1920w"></picture><figcaption>detail of the central panel, “John the Baptist <q cite="https://en.wikisource.org/wiki/Bible_(World_English)/Luke#3:3" style="quotes: '' '';">preaching the baptism of repentance for remission of sins</q>”</figcaption>
             </figure>
 
               <p>John innovates in the judaism of his time.</p>
@@ -1225,7 +1225,7 @@
               https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1920.jpg 1920w"></picture><figcaption>detail of the inner left panel, “John the Baptist baptizing Jesus on the banks of the Jordan River”</figcaption>
             </figure>
 
-              <p>On the other bank, <span style="color: #e6a64d;">John the Baptist</span> presents Jesus with the words <q style="color: #e6a64d;quotes: '«' '»'" cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#1:35"><ruby style="color:#e6a64d;" lang="en">Behold the lamb of god<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce agnus dei</rt><rp>)</rp></ruby></q> to his first two disciples <a href="https://en.wikipedia.org/wiki/Andrew_the_Apostle" title="https://en.wikipedia.org/wiki/Andrew_the_Apostle" id="andre" class="yellow">Andrew</a> and <a href="https://en.wikipedia.org/wiki/John_the_Apostle" title="https://en.wikipedia.org/wiki/John_the_Apostle" id="jean-l-apotre" class="yellow">John the Apostle</a>; they join him.</p>
+              <p>On the other bank, <span style="color: #e6a64d;">John the Baptist</span> presents Jesus with the words <q cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#1:35" style="color: #e6a64d;quotes: '«' '»'"><ruby style="color:#e6a64d;" lang="en">Behold the lamb of god<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce agnus dei</rt><rp>)</rp></ruby></q> to his first two disciples <a href="https://en.wikipedia.org/wiki/Andrew_the_Apostle" title="https://en.wikipedia.org/wiki/Andrew_the_Apostle" id="andre" class="yellow">Andrew</a> and <a href="https://en.wikipedia.org/wiki/John_the_Apostle" title="https://en.wikipedia.org/wiki/John_the_Apostle" id="jean-l-apotre" class="yellow">John the Apostle</a>; they join him.</p>
 
 
 
@@ -1236,7 +1236,7 @@
               <p>The tetrarch of Galilee and Perea, <a href="https://en.wikipedia.org/wiki/Herod_Antipas" title="https://en.wikipedia.org/wiki/Herod_Antipas" id="herode-antipas" class="yellow">Herod Antipas</a> married «<a href="https://en.wikipedia.org/wiki/Herod_II" title="https://en.wikipedia.org/wiki/Herod_II" id="herode-boethos" class="yellow">his brother Philip's wife</a> (<a href="https://en.wikipedia.org/wiki/Herodias" title="https://en.wikipedia.org/wiki/Herodias" id="herodiade">Herodias</a>)» <span style="color: #999;">(Mark chapter 6, verse 17)</span>;</p>
               <p>As the jewish faith regards any marriage with his brother's wife as <span style="color: #e6a64d;">«defiling»</span> and <span style="color: #e6a64d;">forbids</span> it <span style="color: #999;">(Leviticus chapter 18 verse 16; chapter 20 verse 21)</span>, John publicly condemns it.</p>
               <p><span style="color: #e6a64d;">Herod feared</span> that this would provoke «<span style="color: #e6a64d;">a revolt</span>, the crowd seeming ready to follow all the advice of this man.</p>
-              <p>He therefore prefers to take him before any trouble occurs because of him, rather than to have to repent later if a movement takes place» <span style="color: #999;">(“Jewish Antiquities”, Book XVIII, chapter 5, paragraph 118)</span> <sup id="page-7-fnref1:2"><a href="#page-7-fn:2" class="footnote-ref">note 1</a></sup>.</p>
+              <p>He therefore prefers to take him before any trouble occurs because of him, rather than to have to repent later if a movement takes place» <span style="color: #999;">(<cite>Jewish Antiquities</cite>, Book XVIII, chapter 5, paragraph 118)</span> <sup id="page-7-fnref1:2"><a href="#page-7-fn:2" class="footnote-ref">note 1</a></sup>.</p>
               <p>In the event of unrest caused by John's supporters, Herod had to answer to the roman authorities, who could dismiss him:</p>
               <p>he gives <span style="color: #e6a64d;">“the order to arrest John”</span> <span style="color: #999;">(Mark chapter 6, verse 17)</span>.</p>
 
@@ -1323,7 +1323,7 @@
               https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/08.saint-jean_8/salome-1920.jpg 1920w"></picture><figcaption>detail of the left inner shutter, “Salome's Dance”</figcaption>
             </figure>
 
-                <p>Herod looks as if he liked his dance and, <span style="color: #e6a64d;">to avoid responsibility for John's death, says</span>: <span style="color: #999;">(Mark, chapter 6, verses 22 to 25)</span></p>
+                <p>Herod looks as if he liked his dance and, <span style="color: #e6a64d;">to avoid responsibility for John's death, says</span> <span style="color: #999;">(Mark, chapter 6, verses 22 to 25)</span>:</p>
 
                 <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/Mark#6:22">
                   <ol class="doc">

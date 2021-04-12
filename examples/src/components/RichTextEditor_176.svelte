@@ -1218,7 +1218,7 @@
       <p><span style="color: #e6a64d;">Hérode craint</span> que cela ne suscite <q><span style="color: #e6a64d;">une révolte</span>, la foule semblant prête à suivre en tout les conseils de cet homme</q>.</p>
       <p>il aime donc mieux s'emparer de lui avant que quelque trouble se produise à cause de lui, que d'avoir à se repentir plus tard si un mouvement avait lieu <span style="color: #999;">(<cite>Antiquités judaïques</cite>, livre XVIII, chap.5,118)</span> <sup id="page-7-fnref1:2"><a href="#page-7-fn:2" class="footnote-ref">note 1</a></sup>.</p>
       <p>En cas de troubles causés par les partisans de Jean, Hérode devait répondre de la situation aux autorités romaines, qui pouvait le destituer:</p>
-      <p>il donne donc <span style="color: #e6a64d;">“l’ordre d’arrêter Jean”</span> <span style="color: #999;">(Marc chap.6,17)</span>.</p>
+      <p>il donne donc <span style="color: #e6a64d;">“l’ordre d’arrêter Jean”</span> <span style="color: #999;">(Marc chapître 6 verset 17)</span>.</p>
 
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
