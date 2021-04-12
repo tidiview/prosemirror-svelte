@@ -1574,7 +1574,7 @@
 
               <p class="conversation">「主よ、この人はどうなるのでしょうか」と言った。</p>
               <p>イエスは言われた。</p>
-              <p class="conversation"><span style="color: #e6a64d;">「わたしの来るときまで彼が生きていることを、わたしが望んだ</span>としても、あなたに何の関係があるか。」</p>
+              <p class="conversation">「<span style="color: #e6a64d;">わたしの来るときまで彼が生きていることを、わたしが望んだ</span>としても、あなたに何の関係があるか。」</p>
             </blockquote>
           </li>
           <li>
@@ -1614,7 +1614,7 @@
 
 
 
-      <h5 class="yellow">黄金伝説においての福音書記者ヨハネ</h5>
+      <h5 class="yellow"><cite>黄金伝説</cite>においての福音書記者ヨハネ</h5>
       
 
         <p>福音書記者ヨハネの表しが</cite>黄金伝説</cite>の<span style="color: #e6a64d;">第９章</span>と<span style="color: #e6a64d;">第６５章</span>でのヤコブス・ダ・ヴォラギネに編纂された語り筋を全体として守っています。
@@ -1707,23 +1707,24 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《パトモス島での福音書記者ヨハネ》<br>「わたしは、たちまち“霊”に満たされた。すると、見よ、天に玉座が設けられていて（…）玉座の前は、水晶に似たガラスの海のようであった。」、<cite>黙示録</cite>、第４章・２~６節</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《パトモス島での福音書記者ヨハネ》<br><q cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" style="quotes:'「' '';">わたしは、たちまち“霊”に満たされた。すると、見よ、天に玉座が設けられていて</q>（…）玉座の前は、水晶に似たガラスの海のようであった。」、<cite>黙示録</cite>、第４章から第１２章までの抜粋文書</figcaption>
       </figure>
 
 
         <p>メムリンクが使徒を、円形の岩、エーゲ海の真ん中にあるパトモス島に座している姿で表している。</p>
         <p>彼は手に羽根ペンと小型ナイフを掴んでいて、彼の膝に帳面が見られる。</p>
-        <p>ヨハネがまだ何もまだ書いていないで、<span style="color: #e6a64d;">生き生き</span>している古代ギリシャ語で<span style="color: #e6a64d;">「覆いを取る」</span>を意味する<span style="color: #e6a64d;">「黙示」</span>を捕らえられているままに表わされている。これらの幻影がかれの上、空で、水ととても近くにある陸の上、またそれ以外、翼パネルのすべてで表されている。</p>
+        <p>ヨハネがまだ何もまだ書いていないで、<span style="color: #e6a64d;">生き生き</span>している古代ギリシャ語で<span style="color: #e6a64d;">「ベールを取る」</span>を意味する<span style="color: #e6a64d;">「黙示」</span>を捕らえられているままに表わされている。これらの幻影がかれの上、空で、水ととても近くにある陸の上、またそれ以外、翼パネルのすべてで表されている。</p>
 
+        <p>私たちはヨハネご自身がベールはずしを語る文書での翼パネルの左上に始まる順に従うのを選択しています。</p>
+          <p>そうすると、メムリンクが作り出す表しが文書と直接対象される。</p>
 
+        <p class="puce"><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse">右翼パネル内面のパトモス島でのヨハネの表わしに関連した<cite>黙示録</cite>から抜粋した文書</a>を読む.</p>
 
 
       <h5 class="yellow">神の王座、天と子羊の宮廷の幻影　＝　<cite>黙示録</cite>、第４章２節～第６章１節</h5>
 
 
 
-          <p>私たちはヨハネご自身が覆いはずしを語る文書での翼パネルの左上に始まる順に従うのを選択しています。</p>
-          <p>そうすると、メムリンクが作り出す表しが文書と直接対象される。</p>
 
 
 
