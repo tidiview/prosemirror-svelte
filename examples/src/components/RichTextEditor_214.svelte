@@ -7,8 +7,12 @@
   const html = `
 <!-- Page 18 -->
 
-<article>
-  <section><article>
+<article>      
+    <hgroup>
+    <h2 id="mise-en-relation" class="yellow">different texts at the origin of the scenes represented in the <cite><ruby style="color:#555;" lang="en">Triptych of John The Baptist and John The Evangelist<rp>(</rp><rt style="color:#999;" lang="nl">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby></cite></h2>
+      <h3 class="yellow" id="st-john-the-evangelist-according-to-the-golden-legend"><cite>The Legend of John the Evangelist</cite> according to chapter 9 of <cite>The Golden Legend</cite></h3>
+    </hgroup>
+
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-280.webp 280w,
@@ -29,18 +33,10 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1920.jpg 1920w"></picture><figcaption>John the Evangelist</figcaption>
       </figure>
 
-      
-    <hgroup>
-    <h2 id="mise-en-relation" class="yellow">different texts at the origin of the scenes represented in the <cite><ruby style="color:#555;" lang="en">Triptych of John The Baptist and John The Evangelist<rp>(</rp><rt style="color:#999;" lang="nl">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby></cite></h2>
-    <section><article>
-
-      <h3 class="yellow" id="st-john-the-evangelist-according-to-the-golden-legend">John the Evangelist according to chapter 9 of <cite>The Golden Legend</cite></h3>
-      <section><article>
         <h4>Text of Chapter 9. of <cite>The Golden Legend</cite>: <cite>Legend of John the Evangelist</cite></h4>
-    </hgroup>
 
-        <section><article>
-          <section><article>
+
+
             <p>The <a href="#note_nomdejean" title="name of John" id="nomdejean" class="yellow">name of John</a>, <span style="color: #994c3d;">Johannes</span>, is expounded <span style="color: #994c3d;">«the grace of God»</span>, or <span style="color: #994c3d;">«he in whom grace is»</span>, or <span style="color: #994c3d;">«to whom it is given of our Lord»</span>,
             and therefore been understood four privileges that be in the blessed <span style="color: #994c3d;">St. John</span>.</p>
             <p>The <span style="color: #994c3d;">first</span> was the <span style="color: #994c3d;">noble love of the Christ</span>, for he loved him more than the other and showed to him of greater love,
@@ -85,7 +81,7 @@
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1920.jpg 1920w"></picture><figcaption>detail of the central panel, “Salding of John the Evangelist by order of Emperor Domitian in front of the Latin Gate in Rome and departure for exile in the island of Patmos”, <cite>The Golden Legend</cite>, Chapter 9.</figcaption>
           </figure>
 
-          <section><article>
+
             <p><span style="color: #994c3d;">John</span>, apostle and evangelist, the beloved of the Lord the virgin elected man, departed for Asia when the apostles separated after Pentecost. There he founded many churches.</p>
             <p>In this time Emperor Domitian heard of him, ordered him to be brought to him and made him to be cast into a vat or a ton full of hot oil in front of the Latin Gate,
             of which he issued out, by the help of God, more pure and more fair, without feeling of any more heat or chauffing, than he entered in.</p>
@@ -113,7 +109,7 @@
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1920.jpg 1920w"></picture><figcaption>detail of the central panel, column capital, “resurrection of Drusiana”, <cite>The Golden Legend</cite>, Chapter 9.</figcaption>
           </figure>
 
-          <section><article>
+
             <p>In this same year was Domitian the emperor, for his evils, put to death, and all that he had done was revoked by the senators and defeated,
             and thus was <span style="color: #994c3d;">St. John</span> brought again from his exile with great honour into Ephesus;
             and all the people of Ephesus came against him singing and saying:</p>
@@ -159,7 +155,7 @@
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/craton-1920.jpg 1920w"></picture><figcaption>detail of the central panel, column capital, “baptisma of Crato”, <cite>The Golden Legend</cite>, Chapter 9.</figcaption>
           </figure>
 
-          <section><article>
+
             <p>It happed on another day that Crato the philosopher made a great assembly of people in the midst of the city, for to show to them how they ought to despise the world.</p>
             <p>And he had ordained two young men brethren which were much rich, and had made them to sell their patrimony and therewith to buy precious stones, the which these two young men brake in the presence of the people,
             for to show how these precious and great riches of the world be soon destroyed.</p>
@@ -251,7 +247,7 @@
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1920.jpg 1920w"></picture><figcaption>John the Evangelist holding a cup of poison, <cite>The Golden Legend</cite>, Chapter 9.</figcaption>
           </figure>
 
-          <section><article>
+
             <p>So Aristodeme, priest of the idols, gave rise to a strong argument among the people, so that part of this people was preparing to confront the other. The apostle says:</p>
             <p class="conversation">
               <span style="color: #df8f20;">— «What do you want to do? Say it and I'll do what you'll like.»</span>
@@ -301,9 +297,9 @@
 
     <aside>
       <h2 id="notes" class="yellow">notes</h2>
-        <section><article>
+
           <h3 id="note_nomdejean" class="yellow">name of John</h3>
-          <section><article>
+
             <div class="notices yellow">
             <p>On the meaning of the name of John in Hebrew, see also: <a href="#le-nom-de-jean" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean">name “john”, its etymology</a>.</p>
             </div>
@@ -313,12 +309,12 @@
           </footer>
         </article></section>
         
-        <section><article>
+
           <h3 id="note_mathieu" class="yellow">If you wish to be perfect</h3>
-          <section><article>
+
             <p>This quote refers to a passage from the Gospel according to Matthew, chapter 19, verse 21:</p>
             </article></section>
-            <section><article>
+
               <div class="notices yellow">
               <ol class="doc">
                 <li value="21">
@@ -330,11 +326,11 @@
               </div>
             </article></section>
 
-            <section><article>
-              <section><article>
+
+
                 <p>In addition, the full text:</p>
               </article></section>
-              <section><article>
+
                 <div class="notices yellow">
                 <ol class="doc">
                   <li value="16">
@@ -391,12 +387,12 @@
           </footer>
         </article></section>
 
-      <section><article>
+
         <h3 id="note_hoteriche" class="yellow">story of the rich host</h3>
           <header>
             <p>This passage refers to the gospel according to Luke, chapter 16, verse 19 and following:</p>
           </header>
-          <section><article>
+
             <div class="notices yellow">
             <ol>
               <li value="19">«There was a rich man who used to dress in purple and fine linen and feast magnificently every day.</li>

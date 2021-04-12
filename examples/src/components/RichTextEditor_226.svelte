@@ -8,9 +8,12 @@
 <!-- Page 16 -->
 
 <article>
-  <h2 id="mise-en-relation" class="yellow">différents textes à l'origine des scènes représentées</h2>
-  <section><article>
-    <h3 id="cath-selon-legende" class="yellow">Légende de Catherine d'Alexandrie selon le chapître 166 de <cite>La Légende dorée</cite></h3>
+
+  <hgroup>
+  <h2 id="mise-en-relation" class="yellow">différents textes à l'origine des scènes représentées dans le <cite><ruby style="color:#555;" lang="fr">Triptyque de Jean le Baptiste et de Jean l'Évangéliste<rp>(</rp><rt style="color:#999;" lang="nl">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby></cite></h2>
+    <h3 id="cath-selon-legende" class="yellow"><cite>Légende de Catherine d'Alexandrie</cite> selon le chapître 166 de <cite>La Légende dorée</cite></h3>
+  </hgroup>
+
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-280.webp 280w,
@@ -31,9 +34,8 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1920.jpg 1920w"></picture><figcaption>Catherine d'Alexandrie</figcaption>
     </figure>
 
-    <section><article>
-      <h4>Texte du chapître 166 de <cite>La Légende dorée</cite>: légende de Catherine d'Alexandrie</h4>
-      <section><article>
+      <h4>Texte du chapître 166 de <cite>La Légende dorée</cite>: <cite>Légende de Catherine d'Alexandrie</cite></h4>
+
         <p>Catherine, fille du roi Costus, fut instruite en tous les <a href="#note_artsliberaux" title="les sept arts libéraux" id="artsliberaux" class="yellow">arts libéraux</a>.</p>
         <p>Un jour, l'empereur <a href="#note_maxentius" title="Maxence" id="maxentius" class="yello">Maxence</a> convoqua à Alexandrie tous les habitants, aussi bien les riches que les pauvres, afin qu'ils pratiquent l'immolation aux idoles et pour pouvoirainsi punir les chrétiens qui refuseraient d'immoler.</p>
         <p>Catherine, âgée de dix-huit ans, qui se trouvait seule dans un palais rempli de richesses et d'esclaves, entendit le mugissement de divers animaux et les chants de jubilation.
@@ -303,50 +305,50 @@
         </ul>
         <p>D'après les chroniques, Maxence exerçait sa tyrannie contre les chrétiens à Rome et Maximin en Orient.</p>
         <p>Il semble donc à certains auteurs que c'est par l'erreur d'un copiste que Maxence a été mis à la place de Maximin.</p>
-      </article></section>
-    </article></section>
-  </article></section>
+
+
+
 </article>
 
 <hr>
 
 <aside>
-  <section><article>
+
     <h3 id="note_rouen" class="yellow">Rothomagus</h3>
     <div class="notices yellow">
     <p><dfn>Rothomagus</dfn> est l'ancien nom de Rouen. S'y trouvait un monastère appelé à l'origine «Sainte-Trinité-du-Mont», aujourd'hui «Sainte-Catherine-du-Mont».</p
     </div>
     <footer><p>retour au texte: <a href="#rouen" title="Rothomagus">Rothomagus↑</a></p></footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_jean" class="yellow">Jean l'Évangéliste</h3>
     <div class="notices yellow">
     <p>Voir le <a href="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#jean9-selon-legende" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#jean9-selon-legende">chapître 18</a> de <cite>La Légende Dorée</cite>.</p>
     </div>
     <footer><p>retour au texte: <a href="#jean" title="福音書記者ヨハネ">Jean l'Évangéliste↑</a></p></footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_artsliberaux" class="yellow">Les sept arts libéraux</h3>
     <div class="notices yellow">
     <p>Dans les écoles moyennes et secondaires de la période médiévale, outre la théologie, sept arts libéraux ont été imposés comme matières d'enseignement général. comprenant trois enseignements (grammaire, rhétorique, droit de la défense) et quatre apprentissages (arithmétique, géométrie, astronomie, mathématiques).</p>
     </div>
     <footer><p>renvoi au texte: <a href="#artsliberaux" title="les sept arts libéraux">les sept arts libéraux↑</a></p></footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_maxentius" class="yellow">Maxence</h3>
     <div class="notices yellow">
     <p>Empereur romain (285 - 305 - 305 - 308) Il a été nommé vice-empereur (César) par Dioclétien, puis empereur d'occident (Auguste), persécuteur de chrétiens (303) puis démissionnaire. Il revînt pour aider son fils, Maxence, à lever une armée, et entra ensuite en conflit avec les uns avec les autres, s'est enfui à Galia (France), où il se confronte avec son beau-fils, Constantin, puis se suicide.</p>
     </div>
     <footer><p>renvoi au texte: <a href="#maxentius" title="Maxence">Maxence↑</a></p></footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_sybille" class="yellow">la Sibylle↑</h3>
     <div class="notices yellow">
     <p>Elle était une ancienne prophétesse païenne. On dit qu'il y en une ou dix. Le plus ancien est le Sibylle à Elytrie, en Asie Mineure, mais c'est le Sibyla de Cumes (une cité antique à l'ouest de Naples). Elle a écrit son oracle en neuf volumes, l'a vendu au roi de Rome, et ce "Livre de Sibylle" a été conservé dans le temple de Jupiter jusqu'à ce qu'il soit brûlé dans un incendie sur la colline Pictor au 1er siècle avant J-C. "L'Oracle de Sibylle", qui a été inclus dans le copus des textes apocryphes de l'Ancien puis du Nouveau Testament, est un faux document juif qui a été écrit en Egypte vers le deuxième siècle avant J-C, et qui inclut des altérations et des insertions chrétiennes plus tard.</p>
     </div>
     <footer><p>renvoi au texte: <a href="#sybille" title="la Sibylle">la Sibylle↑</a></p></footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_maximinus" class="yellow">Maximin</h3>
     <div class="notices yellow">
     <p>Il n'y avait pas d'empereur nommé Maximinus à cette époque. On peut aussi la confondre avec l'empereur Maximinus, neveu de l'empereur Relius, devenu vice-empereur en 305 et empereur du Trône impérial plus tard (308-314).</p>
@@ -357,8 +359,8 @@
     <p>Rothomagus. Ancien nom de la ville actuelle de Rouen. L'histoire d'un moine qui vivait dans le monastère de Sainte-Trinité-du-Mont près de Rouen (aujourd'hui monastère Sainte-Catherine-du-Mont), et la relique sacrée de la prêtresse, qui serait revenue du monastère de Sainte-Catherine au Sinaï au début du 10e siècle, et qui suscita quelques miracles, ont fait de Trinite-Aux-Mont l'un des cœurs du culte de sainte Catherin en Europe occidentale.</p>
     </div>
     <footer><p>renvoi au texte: <a href="#rouen" title="Rothomagus">Rothomagus↑</a></p></footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_fiancee" class="yellow">Je le déclare, je suis une femme qui a dédié son corps comme fiancée au Christ</h3>
     <div class="notices yellow">
     <p>Selon la tradition, Catherine, qui lui a été proposée par le fils de l'empereur, a vu du miroir que le prétendant ne lui convenait pas en termes de famille, de beauté, de richesse et d'apprentissage. Un ermite lui a enseigné que le Christ était le meilleur marié et qu'elle devait épouser le Christ, et elle a enseigné qu'elle ne pouvait être l'épouse du Christ à moins qu'elle ne soit vue deux fois et baptisée. Quand elle fut baptisée, le Christ nourrisson apparut dans son rêve et mit une bague de fiançailles sur son doigt.</p>
@@ -366,15 +368,15 @@
     <footer>
       <p>renvoi au texte: <a href="#fiancee" title="Je le déclare, je suis une femme qui a dédié son corps comme fiancée au Christ">Je le déclare, je suis une femme qui a dédié son corps comme fiancée au Christ↑</a></p>
     </footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_sinai" class="yellow">le mont Sinaï et le culte de sainte Catherine</h3>
     <div class="notices yellow">
     <p>Cependant, on dit que le mont Sinaï ne connaissait pas du tout Sainte-Catherine et sa tombe. Le célèbre monastère Sainte-Catherine au pied de la montagne a été construit au milieu du sixième siècle. Ce monastère, qui était supposé avoir la relique, n'était ni le lieu de naissance ni le centre du culte de sainte Catherine.</p>
     </div>
     <footer><p>renvoi au texte: <a href="#sinai" title="l'emportèrent jusqu'au mont Sinaï et l'ensevelirent là">l'emportèrent jusqu'au mont Sinaï et l'ensevelirent là↑</a></p></footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_boece" class="yellow">Boèce</h3>
     <div class="notices yellow">
     <p>Boèce est un philosophe et homme d'État italien qui vivait dans la Rome antique tardive.</p>
@@ -385,21 +387,21 @@
     <p>Les idées de Boèce reposent sur Platon et les Stoïciens, qui tentent par raison de surmonter les obstacles émotionnels et externes. Il traduisit la logique d'Aristote en latin, qui fut le début de l'étude médiévale d'Aristote. Il a également traduit des oeuvres littéraires comme Nicomaques, Euclide, Archimède et Ptoléemé, qui ont eu une grande influence sur la philosophie médiévale en tant qu'introduction à la philosophie et à la science grecques.</p>
     </div>
     <footer><p>renvoi au texte: <a href="#boece" title="Boèce">Boèce↑</a></p></footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_constantin" class="yellow">Constantin</h3>
     <div class="notices yellow">
     <p>Empereur Romain appelé Constantin Ier le Grand. Il a été la première personne à oeuvrer officiellement à la protection et à la formation reconnue de la religion chrétienne et s'est nommé "le 13ème apôtre" pour protéger l'Arianisme par le premier Conseil de Nicée. En 330, il déménagea la capitale de Rome à Byzance et la changea en Constantinople. Il avait toujours été croyant en Sol Invictus, mais il s'est converti sur son lit de mort <span style="color: #ccc;">(voir chapitre 12 de la Légende d'Or)</span>.</p>
     </div>
     <footer><p>renvoi au texte: <a href="#constantin" title="Constantin">Constantin↑</a></p></footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_incarnation" class="yellow">l'Incarnation</h3>
     <div class="notices yellow">
     <p>Est appelé incarnation le fait que pour sauver l'humanité vienne dans le monde l'unique enfant de Dieu en recevant chair dans les entrailles de Marie du travail de l'Esprit Saint.</p>
     </div>
     <footer><p>renvoi au texte: <a href="#incarnation" title="l'Incarnation">l'Incarnation↑</a></p></footer>
-  </article></section>
+
 </aside>
 `;
 

@@ -8,6 +8,12 @@
 <!-- Page 18 -->
 
 <article>
+
+<hgroup>
+<h2 id="mise-en-relation" class="yellow">différents textes à l'origine des scènes représentées dans le <cite><ruby style="color:#555;" lang="fr">Triptyque de Jean le Baptiste et de Jean l'Évangéliste<rp>(</rp><rt style="color:#999;" lang="nl">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby></cite></h2>
+    <h3 id="jean-selon-legende" class="yellow"><cite>Légende de Jean l'Évangéliste</cite> selon le chapître 9 selon <cite>La Légende dorée</cite></h3>
+</hgroup>
+
   <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-280.webp 280w,
@@ -27,11 +33,9 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1600.jpg 1600w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1920.jpg 1920w"></picture><figcaption>Jean l'Évangéliste</figcaption>
   </figure>
-  <section><article>
-    <h3 id="jean-selon-legende" class="yellow">Légende de Jean l'Évangéliste selon le chapître 9 selon <cite>La Légende dorée</cite></h3>
-    <section><article>
-      <h4>Texte du chapître 9 de <cite>La Légende dorée</cite>: légende de Jean l'Évangéliste</h4>
-      <section><article>
+
+      <h4>Texte du chapître 9 de <cite>La Légende dorée</cite>: <cite>Légende de Jean l'Évangéliste</cite></h4>
+
         <p>Le <a href="#note_nomdejean" title="nom de Jean" id="nomdejean" class="yellow">nom de Jean</a>, <span style="color: #994c3d;">Johannes</span>, se comprend comme <span style="color: #994c3d;">«grâce du Seigneur»</span>, ou comme <span tyle="color: #994c3d;">«celui en qui se trouve la grâce»</span>, ou <span style="color: #994c3d;">«celui à qui on a fait un don»</span>, ou encore <span style="color: #994c3d;">«celui qui a reçu une donation de Dieu»</span>.</p>
         <p>Ces quatre significations expriment les quatre privilèges dont a joui <span style="color: #994c3d;">saint Jean</span>.</p>
         <p>Le <span style="color: #994c3d;">premier</span> privilège a consisté dans l'<span style="color: #994c3d;">amour particulier que lui a porté le Christ</span>.</p>
@@ -53,10 +57,10 @@
         <p>C'est ce qui le fait nommer «celui qui a reçu une donation de Dieu».</p>
         <p>Et le Seigneur lui a bien fait une donation considérable en lui confiant la garde de la mère de Dieu <span style="color: #ccc;">(Jean 19, 26-27)</span>.</p>
         <p>L'évêque Milet de Laodicée a rédigé sa Vie, qu'Isidore a abrégée dans son livre «Sur la naissance, la vie et la mort des saints Pères».</p>
-      </article></section>
-    </article></section>
 
-    <section><article>
+
+
+
       <h4 class="yellow" id="persécutés-pour-sa-foi-par-domitien">persécutés pour sa foi par Domitien</h4>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -77,15 +81,15 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1920.jpg 1920w"></picture><figcaption>détails du panneau central, “Ébouillantement de Jean l'Évangéliste sur ordre de l'empereur Domitien devant la Porte Latine à Rome et départ en l'exil sur l'île de Patmos”</figcaption>
       </figure>
-      <section><article>
+
         <p><span style="color: #994c3d;">Jean</span>, apôtre et évangéliste, le bien-aimé du Seigneur l'homme vierge élu, partit pour l’Asie quand les apôtres séparèrent après la Pentecôte. Il y fonda de nombreuses églises.</p>
         <p>L'empereur Domitien entendit parler de lui, le convoqua et le fit jeter dans une cuve d'huile bouillante, devant la porte Latine.</p>
         <p>Il en sortit aussi indemne qu'il avait été étranger à la corruption de la chair.</p>
         <p>L'empereur, constatant qu'il ne renonçait pas à la prédication, l'exila dans l'île de Patmos où, dans la solitude, il écrivit l’Apocalypse.</p>
-      </article></section>
-    </article></section>
 
-    <section><article>
+
+
+
       <h4 class="yellow" id="la-résurrection-de-drusiane">la résurrection de Drusiane</h4>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -106,7 +110,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1920.jpg 1920w"></picture><figcaption>détail du panneau central, chapiteau de colonne, “résurrection de Drusiane”</figcaption>
       </figure>
-      <section><article>
+
         <p>La même année, l'empereur fut tué en châtiment de son extrême cruauté, et le Sénat annula tout ce qu'il avait fait;
         et c'est ainsi qu'il arriva que <span style="color: #994c3d;">saint Jean</span>, qui avait été injustement déporté dans cette île, put revenir à Éphèse avec tous les honneurs.</p>
         <p>Toute une foule vint à sa rencontre en criant:</p>
@@ -119,10 +123,10 @@
         <p class="conversation"><span style="color: #df8f20;">—&#160;</span></td>Drusiane, que mon Seigneur Jésus-Christ te ressuscite!</span></p>
           <p><span style="color: #df8f20;">Lève-toi, va à la maison et prépare-moi à manger!</span></p>
         <p>Elle se leva aussitôt et entreprit d'aller accomplir ce que l'apôtre avait ordonné, comme si elle avait été tirée non pas de la mort mais d'un sommeil.</p>
-      </article></section>
-    </article></section>
 
-    <section><article>
+
+
+
       <h4 class="yellow" id="le-baptème-de-craton">le baptème de Craton</h4>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -143,7 +147,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1920.jpg 1920w"></picture><figcaption>détail du panneau central, “baptème de Craton”</figcaption>
       </figure>
-      <section><article>
+
         <p>Le lendemain, le philosophe Craton convoqua le peuple sur la place du marché, afin de lui montrer comment il fallait mépriser le monde.</p>
         <p>Il avait fait acheter des pierres très précieuses par deux frères très riches qui avaient liquidé leur patrimoine à cette fin;
         et, à la vue de tous, il fit briser ces pierres.</p>
@@ -156,12 +160,12 @@
         <p>Alors <span style="color: #994c3d;">saint Jean</span> rassembla en sa main les fragments des pierres et se mit en prière;
         les pierres furent restituées à leur état premier.</p>
         <p>Aussitôt le philosophe et les deux jeunes gens se mirent à croire, vendirent les pierres et en distribuèrent le prix aux pauvres.</p>
-      </article></section>
-    </article></section>
 
-    <section><article>
+
+
+
       <h4 id="sermons-de-saint-jean-contre-la-richesse-matérielle" class="yellow">sermons de saint Jean contre la richese matérielle</h4>
-      <section><article>
+
         <p>Là-dessus, à leur exemple, deux autres jeunes gens de bonne famille vendirent tous leurs biens, en donnèrent le produit aux pauvres et suivirent <span style="color: #994c3d;">Jean</span>.</p>
         <p>Mais un jour, ils virent leurs serviteurs resplendissants d'atours précieux, alors qu'eux-mêmes ne disposaient que d'un seul manteau et ils s'en attristèrent.</p>
         <p><span style="color: #994c3d;">Saint Jean</span> remarqua leur triste mine; il fit alors apporter, depuis le rivage de la mer, des branches et des petits cailloux et les transforma en or et en pierres précieuses.</p>
@@ -178,12 +182,12 @@
         <p>La <span style="color: #994c3d;">sixième cause</span> est la <span style="color: #994c3d;">perte</span>:</p>
         <p>il montra que les richesses causent une perte qui réside dans l'acquisition de deux maux: un mal dans la vie présente, la vanité, et un mal dans la vie future, la damnation éternelle.</p>
         <p>Elles causent, dans la perdition éternelle, une autre perte, celle de deux biens, la grâce dans la vie présente et la gloire éternelle dans la vie future.</p>
-      </article></section>
-    </article></section>
 
-    <section><article>
+
+
+
       <h4 class="yellow" id="la-résurrection-du-jeune-marié">la résurrection du jeune marié</h4>
-      <section><article>
+
         <p>Or, pendant que <span style="color: #994c3d;">Jean</span> était en train d'ainsi disserter contre les richesses, voici qu'on apporta le corps d'un jeune homme qui était marié depuis trente jours.</p>
         <p>Arrivèrent sa mère, sa veuve et tous ceux qui le pleuraient; ils se jetèrent à ses pieds en l'implorant de ressusciter le jeune homme au nom du Seigneur, comme il l'avait fait pour Drusiane.</p>
         <p>Alors, aussitôt après s'être longuement abîmé dans les pleurs et les prières, il le ressuscita et lui commanda de raconter aux deux disciples quelle peine ils pouvaient encourir et quelle gloire ils pouvaient perdre.</p>
@@ -198,12 +202,12 @@
         <p>Quand cela fut fait, il leur dit:</p>
         <p class="conversation"><span style="color: #df8f20;">— Allez porter ces branches et ces pierres là où vous les avez prises.</span></p>
         <p>Quand ils se furent exécutés et que les branches et les pierres se furent retrouvées dans leur nature première, ils reçurent toute la grâce des vertus qu'ils avaient possédée auparavant.</p>
-      </article></section>
-    </article></section>
 
-    <section><article>
+
+
+
       <h4 class="yellow" id="la-destruction-du-temple-de-diane">la destruction du temple de Diane</h4>
-      <section><article>
+
         <p>Saint <span style="color: #994c3d;">Jean</span> avait prêché à toute l'Asie.</p>
         <p>Un jour, les adorateurs des idoles fomentèrent une sédition populaire
         et l'emmenèrent au temple de Diane pour l'obliger à offrir un sacrifice.</p>
@@ -216,10 +220,10 @@
         </ul>
         <p>La majorité du peuple en fut d'accord; tout le monde sortit du temple, l'apôtre se mit en prière et le temple s'écroula;
         la statue de Diane se brisa en mille morceaux.</p>
-      </article></section>
-    </article></section>
 
-    <section><article>
+
+
+
       <h4 class="yellow" id="la-coupe-de-poison">la coupe de poison</h4>
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -240,7 +244,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1920.jpg 1920w"></picture><figcaption>Jean l'Évangéliste tenant une coupe de poison</figcaption>
       </figure>
-      <section><article>
+
         <p>Alors <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#renvoi-aristodeme" title="https://francois-vidit.com/docs/fr/saint-jean/page:3#renvoi-aristodeme" id="aristodeme" class="yellow">Aristodème</a>, prêtre des idoles, fit naître une forte dispute parmi le peuple, si bien qu'une partie de ce peuple se préparait à affronter l'autre. L'apôtr dit alors:</p>
         <p class="conversation"><span style="color: #df8f20;">— Que veux-tu faire? Dis-le et je ferai ce qui te plaira.</span></p>
         <p>L'autre répondit:</p>
@@ -266,9 +270,9 @@
           <p><span style="color: #df8f20;">“L'apôtre du Christ m'a envoyé vers vous pour que vous ressuscitiez au nom du Christ”.</span></p>
         <p>Le prêtre s'exécuta et les morts ressuscitèrent aussitôt.</p>
         <p>Alors l'apôtre baptisa au nom du Christ le prêtre et le proconsul, qui se convertirent avec toute leur famille et firent ensuite construire une église en l'honneur de <span style="color: #994c3d;">saint Jean</span>.</p>
-      </article></section>
-    </article></section>
-  </article></section>
+
+
+
 </article>
 
 <hr>
@@ -276,37 +280,37 @@
 <aside>
   <article>
   <h2 id="notes" class="yellow">notes</h2>
-    <section><article>
+
       <h3 id="note_nomdejean" class="yellow">nom de Jean</h3>
-      <section><article>
+
         <div class="notices yellow">
         <p>À propos du sens du nom de Jean en hébreu, voir aussi <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean">«le nom “jean”, son lien avec l'institution, son étymologie»</a>.</p>
         </div>
-      </article></section>
+
       <footer>
         <p>retour au texte: <a href="#nomdejean" title="nom de Jean">nom de Jean ↑</a></p>
       </footer>
-    </article></section>
+
     
-    <section><article>
+
       <h3 id="note_mathieu" class="yellow">Si tu veux être parfait</h3>
-      <section><article>
-        <section><article>
+
+
             <p>Cette citation se rapporte à un passage de l'<cite>Évangile selon Mathieu</cite>, chapître 19, verset 21:</p>
-        </article></section>
-        <section><article>
+
+
           <div class="notices yellow">
             <ol class="doc">
               <li value="21">“Si tu veux être parfait, va, vends ce que tu possèdes, donne-le aux pauvres, et tu auras un trésor dans les cieux. Puis viens, suis-moi.”</li>
             </ol>
           </div>
-        </article></section>
-      </article></section>
-      <section><article>
-        <section><article>
+
+
+
+
           <p>En complément, le texte complet:</p>
-        </article></section>
-        <section><article>
+
+
           <div class="notices yellow">
           <ol class="doc">
             <li value="16">
@@ -363,24 +367,24 @@
             </li>
           </ol>
           </div>
-        </article></section>
-        <section><article>
+
+
           <p>Cette histoire apparaît également dans l'<cite>Évangile selon Jean</cite>, plus en détails:</p>
           <p><a href="https://www.aelf.org/bible/Jn/11" title="https://www.aelf.org/bible/Jn/11"><cite>Évangile selon Jean</cite> chapitre 11, verset 1-46</a></p>
-        </article></section>
-      </article></section>
+
+
       <footer>
         <p>retour au texte: <a href="#mathieu" title="Si tu veux être parfait">Si tu veux être parfait↑</a></p>
       </footer>
-    </article></section>
 
-    <section><article>
+
+
       <h3 id="note_hoteriche" class="yellow">histoire de l'hôte riche</h3>
-      <section><article>
+
         <header>
             <p>Ce passage se rapporte à l'<cite>Évangile selon Luc</cite>, chapître 16, verset 19 et suivants:</p>
         </header>
-        <section><article>
+
           <div class="notices yellow">
             <ol clas="doc">
               <li value="19">«Il y avait un homme riche, vêtu de pourpre et de lin fin, qui faisait chaque jour des festins somptueux.</li>
@@ -401,16 +405,16 @@
               </li>
             </ol>
           </div>
-        </article></section>
+
         <footer>
           <p>Cette histoire est également racontée par Jean, plus en détail:</p>
           <p>voir <a href="https://www.aelf.org/bible/Jn/11" title="https://www.aelf.org/bible/Jn/11">Jean chapitre 11, verset 1-46</a>.</p>
         </footer>
-      </article></section>
+
       <footer>
         <p>retour au texte: <a href="#mathieu" title="Si tu veux être parfait">histoire de l'hôte riche ↑</a></p>
       </footer>
-    </article></section>
+
   </article>
 </aside>
 `;

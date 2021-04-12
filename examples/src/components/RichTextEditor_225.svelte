@@ -8,6 +8,11 @@
 <!-- Page 17 -->
 
 <article>
+<hgroup>
+<h2 id="mise-en-relation" class="yellow">différents textes à l'origine des scènes représentées dans le <cite><ruby style="color:#555;" lang="fr">Triptyque de Jean le Baptiste et de Jean l'Évangéliste<rp>(</rp><rt style="color:#999;" lang="nl">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby></cite></h2>
+  <h3 id="barbe-selon-legende" class="yellow"><cite>Légende de Barbe la Grande Martyre</cite> selon le texte ajouté à <cite>La Légende dorée</cite></h3>
+</hgroup>
+
   <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-280.webp 280w,
@@ -17,7 +22,7 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-840.webp 840w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1280.webp 1280w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1600.webp 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-640.jpg" title="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, Barbe la grande martyre, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, Barbe la grande martyre, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-640.jpg" title="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, Barbe la Grande Martyre, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, Barbe la Grande Martyre, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-280.jpg 280w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-380.jpg 380w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-480.jpg 480w,
@@ -25,14 +30,11 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-840.jpg 840w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1280.jpg 1280w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1600.jpg 1600w,
-    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1920.jpg 1920w"></picture><figcaption>Barbe la grande martyre</figcaption>
+    https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1920.jpg 1920w"></picture><figcaption>Barbe la Grande Martyre</figcaption>
   </figure>
-
   
-  <h3 id="barbe-selon-legende" class="yellow"><cite>Légende de Barbe la grande martyre</cite> selon le texte ajouté à <cite>La Légende dorée</cite></h3>
-  <section><article>
-    <h4>Texte ajouté à <cite>La Légende dorée</cite>: <cite>légende de Barbe la grande martyre</cite></h4>
-    <section><article>
+    <h4>Texte ajouté à <cite>La Légende dorée</cite>: <cite>légende de Barbe la Grande Martyre</cite></h4>
+
       <p>Il y avait à <a href="#note_nicomedie" title="Nicomédie" id="nicomedie" class="yellow">Nicomédie</a>, du temps de l'empereur <a href="#note_maximien" title="Maximien" id="maximien" class="yellow">Maximien</a>, un païen du nom de <span style=color: #99713d;">Dioscore</span>, qui était d'une famille très distinguée et qui possédait de grandes richsses.</p>
       <p>Il avait une fille d'une grande beauté, qui se nommait <span style="color: #994c3d;">Barbe</span>.</p>
       <p>Son père l'aimait beaucoup;
@@ -206,14 +208,14 @@
       <p>Et les juges le révoquèrent;
       et le soldat, rendu à la liberté , finit ses jours au service de <span style="color: #994c3d;">sainte Barbe</span>,
       et l'inconnu qui lui avait servi d'avocat disparut sans qu'on sût qui il était.</p>
-    </article></section>
-  </article></section>
+
+
 </article>
 
 <hr>
 
 <aside>
-  <section><article>
+
     <h3 id="note_nicomedie" class="yellow">Nicomédie</h3>
     <div class="notices yellow">
       <p><a href="https://fr.wikipedia.org/wiki/Nicomédie" title="https://fr.wikipedia.org/wiki/Nicomédie"><ruby lang="fr">Nicomédie<rp>(</rp><rt lang="grc">Νικομήδεια</rt><rp>)</rp></ruby></a> est une ville d'Asie Mineure, capitale du royaume de <a href="https://fr.wikipedia.org/wiki/Bithynie" title="https://fr.wikipedia.org/wiki/Bithynie">Bithynie</a>. Elle se trouve aujourd’hui en Turquie et est appelée Izmit. Elle fut la capitale des empereurs <a href="https://fr.wikipedia.org/wiki/Dioclétien" title="https://fr.wikipedia.org/wiki/Dioclétien">Dioclétien</a> et <a href="https://fr.wikipedia.org/wiki/Constantin_Ier_(empereur_romain)" title="https://fr.wikipedia.org/wiki/Constantin_Ier_(empereur_romain)">Constantin</a>.</p>
@@ -221,8 +223,8 @@
     <footer>
       <p>retour au texte: <a href="#maximien" title="Maximien">Nicomédie↑</a></p>
     </footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_maximien" class="yellow">Maximien</h3>
     <div class="notices yellow">
       <p><a href="https://fr.wikipedia.org/wiki/Maximien_Hercule" title="https://fr.wikipedia.org/wiki/Maximien_Hercule">Maximien Hercule</a>. Coempereur de l'empire romain de 286 à 305 avec <a href="https://fr.wikipedia.org/wiki/Dioclétien" title="https://fr.wikipedia.org/wiki/Dioclétien">Dioclétien</a> pour l'orient. Père de <a href="https://fr.wikipedia.org/wiki/Maxence_(empereur_romain)" title="https://fr.wikipedia.org/wiki/Maxence_(empereur_romain)">Maxence</a>.</p>
@@ -230,8 +232,8 @@
     <footer>
       <p>retour au texte: <a href="#nicomedie" title="Nicomédie">Maximien↑</a></p>
     </footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_origene" class="yellow">Origène</h3>
     <div class="notices yellow">
       <p><a href="https://fr.wikipedia.org/wiki/Origène" title="https://fr.wikipedia.org/wiki/Origène"><ruby lang="fr">Origène<rp>(</rp><rt lang="grc">Ὠριγένης</rt><rp>)</rp></ruby></a> est un théologien chrétien, reconnu Père de l'Église mais non saint, né à Alexandrie vers 185 et mort à Tyr vers 253.</p>
@@ -239,8 +241,8 @@
     <footer>
       <p>retour au texte: <a href="#origene" title="Origène">Origène↑</a></p>
     </footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_marcien" class="yellow">Marcien</h3>
     <div class="notices yellow">
       <p>Aucune trace de ce proconsul hors <cite>La Légende Dorée</cite>.</p>
@@ -248,8 +250,8 @@
     <footer>
       <p>retour au texte: <a href="#marcien" title="Marcien">Marcien↑</a></p>
     </footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_saxe" class="yellow">Saxe</h3>
     <div class="notices yellow">
       <p>Région d'Allemagne dont la délimitation a varié au cours de l'histoire; le Comté palatin de Saxe était une principauté du Saint-Empire romain germanique. Fondée par l'empereur Otton Ier au xe siècle, elle s'étendait sur l'actuelle région de Saale-Unstrut dans le sud-est du duché de Saxe.</p>
@@ -257,7 +259,7 @@
     <footer>
       <p>retour au texte: <a href="#saxe" title="Saxe">Saxe↑</a></p>
     </footer>
-  </article></section>
+
 </aside>
 `;
 

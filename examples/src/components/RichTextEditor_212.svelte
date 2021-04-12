@@ -13,7 +13,7 @@
     <h2 id="mise-en-relation" class="yellow">different texts at the origin of the scenes represented in the <cite><ruby style="color:#555;" lang="en">Triptych of John The Baptist and John The Evangelist<rp>(</rp><rt style="color:#999;" lang="nl">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby></cite></h2>
     <section><article>
 
-      <h3 class="yellow">Excerpt of the text of <cite>The Revelation</cite> related to its representation of John in Patmos on the left shutter by Hans Memling.</h3>
+      <h3 class="yellow">Excerpt of the text of <cite>The Revelation</cite> related to its representation of John in Patmos on the left shutter by Hans Memling</h3>
   </hgroup>
 
     <h4 id="apocalypse" class="yellow">Text of the vision of the throne of God and the heavenly court: the living on the throne and the Lamb</h4>

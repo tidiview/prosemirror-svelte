@@ -10,8 +10,9 @@
 <article>
   <hgroup>
   <h2 id="mise-en-relation" class="yellow"><cite><ruby lang="ja" style="color:#555;">洗礼者<wbr>ヨハネと<wbr>福音書記者<wbr>ヨハネの<wbr>三連画<rp>(</rp><rt lang="nl" style="color:#999;">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby></cite>に表わされている場面の元にある様々な文書</h2>
-    <h3 id="barb-selon-legende" class="yellow"><ruby style="color:#e6a64d;">黄金伝説<rp>(</rp><rt style="color:#e6a64d;">レゲンダ・アウレア</rt><rp>)</rp></ruby>においての聖バルバラの伝説</h3>
+    <h3 id="barb-selon-legende" class="yellow"><cite><ruby style="color:#e6a64d;">黄金伝説<rp>(</rp><rt style="color:#e6a64d;">レゲンダ・アウレア</rt><rp>)</rp></ruby></cite>においての<cite>大殉教者バルバラの伝説</cite></h3>
   </hgroup>
+
 	<figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-280.webp 280w,
@@ -32,7 +33,7 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1920.jpg 1920w"></picture><figcaption>大殉教者バルバラ</figcaption>
   </figure>
 
-      <h4 id="barb-selon-legende" class="yellow"><ruby style="color:#e6a64d;">黄金伝説<rp>(</rp><rt style="color:#e6a64d;">レゲンダ・アウレア</rt><rp>)</rp></ruby>においての聖バルバラ</h4>
+      <h4 id="barb-selon-legende" class="yellow"><ruby style="color:#e6a64d;">黄金伝説<rp>(</rp><rt style="color:#e6a64d;">レゲンダ・アウレア</rt><rp>)</rp></ruby>においての大殉教者バルバラ</h4>
 
         <p><a href="#note_nicomedie" title="ニコメディア" id="nicomedie" class="yellow">ニコメディア</a>では、<a href="#note_maximien" title="マクシミアヌス大帝" id="maximien" class="yellow">マクシミアヌス大帝</a>時代に、富裕な、とても礼儀正しい家族の出の<span style="color: #99713d;">ディアスコロス</span>という名の異教徒がいた。</p>
         <p>彼には<span style="color: #994c3d;">バルバラ</span>と呼ばれるとても美しい娘がいた。</p>
@@ -178,7 +179,7 @@
         二人の羊飼いが羊を牧草させている山に運ばれた。</p>
         <p>父親が彼女の捜索し始めて、この羊飼いへ行き、彼らに娘を見たかと尋ねた。</p>
         <p>その内の一人は、父親が彼女がどこにいたのか分からずにいるから怒っているかを見たら、黙った。もう一人が指で彼女を指した。</p>
-        <p><span style="color: #994c3d;">聖バルバラ</span>は彼女を裏切った者を呪って、
+        <p><span style="color: #994c3d;">大殉教者バルバラ</span>は彼女を裏切った者を呪って、
         その場で彼が大理石の立像に変えさせられて、
         その羊数匹が<ruby>飛蝗<rp>(</rp><rt>バッタ</rt><rp>)</rp></ruby>に変えさせられた。</p>
         <p>が、この話は偽書である。</p>
@@ -205,7 +206,7 @@
           <p><span style="color: #6c936c;">—&#160;</span></td>
         <td><span style="color: #6c936c;">「勇気を出してください 、娘よ。あなたの受難中では、天国と地上では大いなる喜びがあるようとなる。僭主者のおどしを恐れないでくれたまえ。私はすべての悪から守るためにあなたと一緒にいる。</span></p>
         </blockquote>
-        <p><span style="color: #994c3d;">聖バルバラ</span>は主の言葉に極端な喜びを感じ、
+        <p><span style="color: #994c3d;">大殉教者バルバラ</span>は主の言葉に極端な喜びを感じ、
         朝、再び代理執政官の前に再び来させられ、彼女が前日に殴られたのに一撃の跡が一切残っていないのを見て、言われた。</p>
         <blockquote>
           <p><span style="color: #165493;">—　神々がどれだけ貴女に好意的なのか、どれだけ貴女を愛しているかのを見てくれたまえ。彼らが貴女の傷を癒したからだ。</span></p>
@@ -248,7 +249,7 @@
         <p>強力な<a href="#note_saxe" title="ザクセン" id="saxe" class="yellow">ザクセン</a>伯爵の男がいた。
         彼は自分の敵を捕虜してある塔に誰もが違反者には最も厳しい<ruby>刑<rp>(</rp><rt>けい</rt><rp>)</rp></ruby>を科して、その方に食べさせたり、飲みさせたりと禁じながらも閉じ込めさせた。</p>
         <p>その人がそこに数日間いた後、
-        塔の番人に、うめき声をあげながら、<span style="color: #994c3d;">聖バルバラ</span>のことを考えて、死なないようにパンを少しあたえるように願った。
+        塔の番人に、うめき声をあげながら、<span style="color: #994c3d;">大殉教者バルバラ</span>のことを考えて、死なないようにパンを少しあたえるように願った。
         が、番人はその願いを気にしなかったから、
         彼はぐったりと横たわっていたままだった。
         番人が彼が死んだと見込んで、
@@ -261,21 +262,21 @@
         そしたら、彼らが彼に近づいてきて，どうやって命を維持できたかと尋ねた。
         彼は彼らに答えた。</p>
         <blockquote>
-          <p><span style="color: #165493;">—　聖バルバラが全ての困難を凝らすように僕を助けてくれた。</span></p>
+          <p><span style="color: #165493;">—　大殉教者バルバラが全ての困難を凝らすように僕を助けてくれた。</span></p>
           <p><span style="color: #165493;">墜落中で助けてくれたのは彼女だったし、僕は告白せずに聖体を受けずに死ぬことはできないのだ。</span></p>
         </blockquote>
         <p>なぜこの恵みを得ることが出来たかと尋ねられて、こう答えた。</p>
         <blockquote>
-          <p><span style="color: #165493;">—　僕は聖バルバラに気に入って貰うよう一年も彼女の祝日に断食や祈りを惜しまなかった。だから彼女が神様に僕が秘跡を受けずに死ぬがないようにと願い出てくれた。</span></p>
+          <p><span style="color: #165493;">—　僕は大殉教者バルバラに気に入って貰うよう一年も彼女の祝日に断食や祈りを惜しまなかった。だから彼女が神様に僕が秘跡を受けずに死ぬがないようにと願い出てくれた。</span></p>
         </blockquote>
         <p>そしたら、これらの秘跡を受けてからすぐに、息を返した。</p>
         <p>また、我々は、ローマ人の王の時代、アタウルフという伯爵がオリエントのそれぞれの州に頭として任命され、ある兵士が若い少女に暴力を振るった疑いされたことがあったと読む。</p>
         <p>彼は牢獄で判決を待っていた間、告白を願い出た。
-        告白担当者が彼が無罪だと見抜いて、<span style="color: #994c3d;">聖バルバラ</span>に自分を奉仕することと彼女の名誉のため巡礼しない限り自分の家に戻らないことを誓うようと励んだ。</p>
+        告白担当者が彼が無罪だと見抜いて、<span style="color: #994c3d;">大殉教者バルバラ</span>に自分を奉仕することと彼女の名誉のため巡礼しない限り自分の家に戻らないことを誓うようと励んだ。</p>
         <p>女の人が声を大にして判決が言い渡されることを訴えている一方、裁判官たちが出席して被告人を出頭してから、死刑の宣告を下すことにした。
         そうすると、誰も知らない方が出て来て、その方が、発言する許可を願い出てから、正当な、反論の余地のない理屈で兵士が無罪で、判決も不公平だと明らかにした。</p>
         <p>裁判官たちは彼を放裁させて、
-        自由に戻った兵士が、<span style="color: #994c3d;">聖バルバラ</span>の奉仕する日々を終えた。
+        自由に戻った兵士が、<span style="color: #994c3d;">大殉教者バルバラ</span>の奉仕する日々を終えた。
         弁護士となった無名の男の人が彼が誰であるか知らないままに消えた。</p>
 
 

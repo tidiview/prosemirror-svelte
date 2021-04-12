@@ -8,12 +8,16 @@
 <!-- Page 20 -->
 
 <article>
-  <h2 id="apocalypse" class="yellow">Vision du trône du dieu et de la cour céleste: le vivant sur le trône et l'Agneau</h2>
-  <section><article>
-    <h3 id="apocalypse" class="yellow">Texte de la vision du trône du dieu et de la cour céleste: le vivant sur le trône et l'Agneau</h3>
-    <section><article>
 
-      <section><article><p>out</p>
+<hgroup>
+<h2 id="mise-en-relation" class="yellow">différents textes à l'origine des scènes représentées dans le <cite><ruby style="color:#555;" lang="fr">Triptyque de Jean le Baptiste et de Jean l'Évangéliste<rp>(</rp><rt style="color:#999;" lang="nl">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby></cite></h2>
+  <h3 id="apocalypse" class="yellow">Extrait du texte de <cite>L'Apocalypse</cite> relatif à la représentation de Jean à Patmos sur le volet gauche par Hans Memling</h3>
+</hgroup>
+
+    <h4 id="apocalypse" class="yellow">Extrait du texte de <cite>L'Apocalypse</cite> du chapître 4 à 12</h4>
+
+
+<p>out</p>
         <ol class="doc">
           <li>Chapître 4</li>
           <li value="01">Après cela, j’ai vu: et voici qu’il y avait une porte ouverte dans le ciel. Et la voix que j’avais entendue, pareille au son d’une trompette, me parlait en disant:
@@ -22,9 +26,9 @@
             </p>
           </li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="02">je fus saisi en <span style="color: #e6a64d;">esprit</span>.
           Voici qu’un <span style="color: #e6a64d;">trône</span> était là dans le <span style="color: #e6a64d;">ciel</span>, et sur le trône siégeait <span style="color: #e6a64d;">quelqu’un</span>.</li>
@@ -35,9 +39,9 @@
           ce sont les sept esprits de dieu.</li>
           <li value="06">Devant le trône, il y a comme une mer, aussi transparente que du cristal.</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="07">Le premier vivant ressemble à un <span style="color: #e6a64d;">lion</span>, le deuxième vivant ressemble à un <span style="color: #e6a64d;">jeune taureau</span>, le troisième vivant a comme un <span style="color: #e6a64d;">visage d’homme</span>, le quatrième vivant ressemble à un <span style="color: #e6a64d;">aigle</span> en plein vol.</li>
           <li value="08">
@@ -48,9 +52,9 @@
             </p>
           </li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
           <ol class="doc">
             <li value="9">Lorsque les Vivants rendent gloire, honneur et action de grâce à celui qui siège sur le Trône, lui qui vit pour les siècles des siècles,</li>
             <li value="10">les vingt-quatre Anciens se jettent devant Celui qui siège sur le Trône, ils se prosternent face à celui qui vit pour les siècles des siècles; ils lancent leur couronne devant le Trône en disant:</li>
@@ -60,9 +64,9 @@
               </p>
             </li>
           </ol>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
         <ol class="doc">
           <li>Chapître 5</li>
           <li value="1">J’ai vu, dans la main droite de celui qui siège sur le Trône, un livre en forme de rouleau, écrit au-dedans et à l’extérieur, scellé de sept sceaux.</li>
@@ -79,16 +83,16 @@
             </p>
           </li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="06">Et j’ai vu, entre le Trône, les quatre Vivants et les Anciens, un Agneau debout, comme égorgé; ses cornes étaient au nombre de sept, ainsi que ses yeux, qui sont les sept esprits de Dieu envoyés sur toute la terre.</li>
           <li value="07">Il s’avança et prit le Livre dans la main droite de celui qui siégeait sur le Trône.</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
           <ol class="doc">
             <li value="8">Quand l’Agneau eut pris le Livre, les quatre Vivants et les vingt-quatre Anciens se jetèrent à ses pieds. Ils tenaient chacun une cithare et des coupes d’or pleines de parfums qui sont les prières des saints.</li>
             <li value="9">Ils chantaient ce cantique nouveau:
@@ -119,9 +123,9 @@
             et les Anciens, se jetant devant le Trône, se prosternèrent.
           </li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
             <li>chapître 6</li>
             <li value="01">
@@ -132,9 +136,9 @@
             </li>
             <li value="02">Alors j’ai vu: et voici un <span style="color: #e6a64d;">cheval blanc</span>; celui qui le montait tenait un <span style="color: #e6a64d;">arc</span>, une <span style="color: #e6a64d;">couronne</span> lui fut donnée, et il sortit vainqueur, pour vaincre à nouveau.</li>
           </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="03">Et quand il ouvrit le deuxième sceau, j’entendis le deuxième vivant qui disait:
             <p class="conversation">
@@ -143,9 +147,9 @@
           </li>
           <li value="04">Alors sortit un autre <span style="color: #e6a64d;">cheval</span>, <span style="color: #e6a64d;">rouge feu</span>; à celui qui le montait il fut donné d’enlever la paix à la terre, pour que les gens s’entretuent, et une grande <span style="color: #e6a64d;">épée</span> lui fut donnée.</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="05">
             Et quand il ouvrit le troisième sceau, j’entendis le troisième vivant qui disait:
@@ -161,9 +165,9 @@
             </p>
           </li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="07">
           <li value="07">Et quand il ouvrit le quatrième sceau, j’entendis la voix du quatrième vivant qui disait:
@@ -175,9 +179,9 @@
           <li>Et il leur fut donné pouvoir sur un quart de la terre pour tuer par le glaive, par la famine et par la peste, et par les fauves de la terre.</li>
           <li><span style="color: #999;">(…)</span></li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
         <ol class="doc">
           <li value="9">Et quand il ouvrit le cinquième sceau, je vis sous l’autel les âmes de ceux qui furent égorgés à cause de la parole de Dieu et du témoignage qu’ils avaient porté.</li>
           <li value="10">Ils crièrent d’une voix forte: «Jusques à quand, Maître saint et vrai,resteras-tu sans juger, sans venger notre sang sur les habitants de la terre ?»</li>
@@ -185,9 +189,9 @@
           <li value="12">Alors j’ai vu: quand il ouvrit le sixième sceau, il y eut un grand tremblement de terre, le soleil devint noir comme une étoffe de crin, et la lune entière, comme du sang,</li>
           <li value="13">et les étoiles du ciel tombèrent sur la terre comme lorsqu’un figuier secoué par grand vent jette ses fruits.</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="14">Le ciel se retira comme un livre qu’on referme; toutes les montagnes et les îles furent déplacées.</li>
           <li value="15"><span style="color: #e6a64d;">Les rois de la terre et les grands, les chefs d’armée, les riches et les puissants, tous les esclaves et les hommes libres allèrent se cacher dans les cavernes et les rochers des montagnes</span>.</li>
@@ -202,9 +206,9 @@
           </p>
           </li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
         <ol class="doc">
           <li>chapître 7</li>
           <li value="1"> Après cela, j’ai vu quatre anges debout aux quatre coins de la terre, maîtrisant les quatre vents de la terre, pour empêcher le vent de souffler sur la terre, sur la mer et sur tous les arbres.</li>
@@ -225,23 +229,23 @@
           <li value="16">Ils n’auront plus faim, ils n’auront plus soif, ni le soleil ni la chaleur ne les accablera,</li>
           <li value="17">puisque l’Agneau qui se tient au milieu du Trône sera leur pasteur pour les conduire aux sources des eaux de la vie. Et Dieu essuiera toute larme de leurs yeux.»</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li>chapître 8</li>
           <li value="01">Quand il ouvrit le septième sceau, il y eut dans le ciel un silence d’environ une demi-heure.</li>
           <li value="02">Et j’ai vu les <span style="color: #e6a64d;">sept anges</span> qui se tiennent devant dieu: il leur fut donné <span style="color: #e6a64d;">sept trompettes</span>.</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="03">Un autre ange vint se placer près de l’autel; il portait un <span style="color: #e6a64d;">encensoir d’or</span>; il lui fut donné quantité de parfums pour les offrir, avec les prières de tous les saints, sur <span style="color: #e6a64d;">l’autel d’or</span> qui est devant le trône.</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="04">Et par la main de l’ange monta devant dieu la fumée des parfums, avec les prières des saints.</li>
           <li value="05">Puis l’ange prit l’encensoir et le remplit du feu de l’autel; il le jeta sur la terre: il y eut des coups de tonnerre, des fracas, des éclairs et un tremblement de terre.</li>
@@ -250,17 +254,17 @@
           <li value="08">Le deuxième ange sonna de la trompette: dans la mer fut jetée comme <span style="color: #e6a64d;">une grande montagne embrasée</span>, et le tiers de la mer fut changé en sang;</li>
           <li value="09">dans la mer, le tiers des créatures vivantes mourut, et <span style="color: #e6a64d;">le tiers des bateaux fut détruit</span>.</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="10">Le troisième ange sonna de la trompette: du ciel tomba <span style="color: #e6a64d;">une grande étoile qui flambait comme une torche</span>; elle tomba sur le tiers des fleuves et sur les sources des eaux.</li>
           <li value="11">L’étoile se nomme “<span style="color: #e6a64d;">absinthe</span>”, et le tiers des eaux devint de l’absinthe: beaucoup de gens moururent à cause des eaux devenues amères.</li>
           <li value="12">Le quatrième ange sonna de la trompette: le tiers du soleil fut frappé, et le tiers de la lune et le tiers des étoiles; ainsi chacun d’entre eux fut obscurci d’un tiers, le jour perdit le tiers de sa clarté et, de même, la nuit.</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="13"><p>Alors j’ai vu: et j’entendis <span style="color: #e6a64d;">un aigle</span> qui volait en plein ciel, disant d’une voix forte:</p>
           <p class="conversation">
@@ -268,9 +272,9 @@
           </p>
           </li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li>chapître 9</li>
           <li value="01">Le cinquième ange sonna de la trompette, et j’ai vu une étoile qui était tombée du ciel sur la terre: c’est à elle que fut donnée la clé du <span style="color: #e6a64d;">puits de l’abîme</span>.</li>
@@ -280,9 +284,9 @@
           <li value="05">Il leur fut donné, non pas de les tuer, mais de les tourmenter pendant cinq mois d’un tourment comme celui qu’inflige le scorpion quand il pique un homme.</li>
           <li value="06">En ces jours-là, les hommes chercheront la mort et ne la trouveront pas; ils désireront mourir et la mort les fuira.</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="07">Ces sortes de <span style="color: #e6a64d;">sauterelles</span> ressemblent à des chevaux équipés pour la guerre; elles ont comme des couronnes d’or sur la tête, et un visage comme un visage humain,</li>
           <li value="08">Elles ont des cheveux comme des cheveux de femmes, leurs dents sont comme celles des lions.</li>
@@ -291,9 +295,9 @@
           Dans leur queue se trouve le pouvoir de faire du mal aux hommes pendant cinq mois.</li>
           <li value="11">Elles ont comme roi l’ange de l’abîme; il se nomme en hébreu ”Abaddôn” et en grec ”Apollyôn” (c’est-à-dire: Destructeur).</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
         <ol class="doc">
           <li value="12">Le premier «Malheur!» est passé; voici que deux «Malheur!» vont encore arriver.</li>
           <li value="13">Le sixième ange sonna de la trompette, et j’entendis une voix venant des quatre cornes de l’autel d’or qui est devant Dieu;</li>
@@ -306,18 +310,18 @@
           <li value="20">Et le reste des hommes, ceux qui n’avaient pas été tués par ces fléaux, ne se sont pas convertis, ne renonçant pas aux œuvres de leurs mains; ils n’ont pas cessé de se prosterner devant les démons, les idoles d’or, d’argent, de bronze, de pierre et de bois, qui ne peuvent pas voir, ni entendre, ni marcher.</li>
           <li value="21">Ils ne se sont pas convertis, ne renonçant ni à leurs meurtres, ni à leurs sortilèges, ni à leur débauche, ni à leurs vols.</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li>chapître 10</li>
           <li value="01">Et j’ai vu un autre <span style="color: #e6a64d;">ange</span>, plein de force, descendre du ciel, ayant <span style="color: #e6a64d;">une nuée pour manteau</span>, et sur la tête <span style="color: #e6a64d;">un arc-en-ciel</span>; son visage était comme <span style="color: #e6a64d;">le soleil</span>, et ses jambes comme <span style="color: #e6a64d;">des colonnes de feu</span>.</li>
           <li value="02">Il tenait à la main <span style="color: #e6a64d;">un petit livre ouvert</span>.</li>
           <li>Il posa le pied droit sur la mer, et le gauche sur la terre;</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="03">il cria d’une voix forte, comme un lion qui rugit.
           Et quand il cria, les sept tonnerres parlèrent, faisant résonner leur voix.</li>
@@ -333,9 +337,9 @@
           </blockquote>
           </li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
         <ol class="doc">
           <li value="07">Dans les jours où retentira la voix du septième ange, quand il sonnera de la trompette, alors se trouvera accompli le mystère de Dieu, selon la bonne nouvelle qu’il a annoncée à ses serviteurs les prophètes.»</li>
           <li value="08">Et la voix que j’avais entendue, venant du ciel, me parla de nouveau et me dit: «Va prendre le livre ouvert dans la main de l’ange qui se tient debout sur la mer et sur la terre.»</li>
@@ -343,9 +347,9 @@
           <li value="10">Je pris le petit livre de la main de l’ange, et je le dévorai. Dans ma bouche il était doux comme le miel, mais, quand je l’eus mangé, il remplit mes entrailles d’amertume.</li>
           <li value="11">Alors on me dit: «Il te faut de nouveau prophétiser sur un grand nombre de peuples, de nations, de langues et de rois.»</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
         <ol class="doc">
           <li>chapître 11</li>
           <li value="1">Puis il me fut donné un roseau, une sorte de règle, avec cette parole: «Lève-toi, mesure le sanctuaire de Dieu, l’autel et ceux qui s’y prosternent.</li>
@@ -368,9 +372,9 @@
           <li value="18">Les nations s’étaient mises en colère; alors, ta colère est venue et le temps du jugement pour les morts, le temps de récompenser tes serviteurs, les prophètes et les saints, ceux qui craignent ton nom, les petits et les grands, le temps de détruire ceux qui détruisent la terre.»</li>
           <li value="19">Le sanctuaire de Dieu, qui est dans le ciel, s’ouvrit, et l’arche de son Alliance apparut dans le Sanctuaire; et il y eut des éclairs, des fracas, des coups de tonnerre, un tremblement de terre et une forte grêle.</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li>chapître 12</li>
           <li value="01">Un grand signe apparut dans le ciel: <span style="color: #e6a64d;">une femme</span>, ayant le soleil pour manteau, la lune sous les pieds, et sur la tête une couronne de douze étoiles.</li>
@@ -378,9 +382,9 @@
           <li value="03">Un autre signe apparut dans le ciel: <span style="color: #e6a64d;">un grand dragon</span>, rouge feu, avec sept têtes et dix cornes, et, sur chacune des sept têtes, un diadème.</li>
           <li value="04">Sa queue, entraînant le tiers des étoiles du ciel, les précipita sur la terre. Le dragon vint se poster devant la femme qui allait enfanter, afin de dévorer l’enfant dès sa naissance.</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="05">Or, elle mit au monde un fils, un enfant mâle, celui qui sera le berger de toutes les nations, les conduisant avec un sceptre de fer. L’enfant fut enlevé jusqu’auprès de dieu et de son trône,</li>
           <li value="06">et la femme s’enfuit au désert, où dieu lui a préparé une place, pour qu’elle y soit nourrie pendant mille deux cent soixante jours.</li>
@@ -390,9 +394,9 @@
           <li value="09">Oui, il fut rejeté, le grand dragon, le serpent des origines, celui qu’on nomme diable et Satan, le séducteur du monde entier.
           Il fut jeté sur la terre, et ses anges furent jetés avec lui.</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <ol class="doc">
           <li value="10">Alors j’entendis dans le ciel une voix forte, qui proclamait: «Maintenant voici le salut, la puissance et le règne de notre dieu, voici le pouvoir de son christ!</li>
           <li>Car il est rejeté, l’accusateur de nos frères, lui qui les accusait, jour et nuit, devant notre dieu.</li>
@@ -402,19 +406,18 @@
           <li value="13">Et quand le <span style="color: #e6a64d;">dragon</span> vit qu’il était jeté sur la terre, il se mit à poursuivre la <span style="color: #e6a64d;">femme</span> qui avait mis au monde l’enfant mâle.</li>
           <li value="14">Alors furent données à la femme les <span style="color: #e6a64d;">deux ailes du grand aigle</span> pour qu’elle s’envole au désert, à la place où elle doit être nourrie pour un temps, deux temps et la moitié d’un temps, loin de la présence du Serpent.</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
         <ol class="doc">
           <li value="15">Puis, de sa gueule, le Serpent projeta derrière la Femme de l’eau comme un fleuve, pour qu’elle soit emportée par ce fleuve.</li>
           <li value="16">Mais la terre vint au secours de la Femme: la terre ouvrit la bouche et engloutit le fleuve projeté par la gueule du Dragon.</li>
           <li value="17">Alors le Dragon se mit en colère contre la Femme, il partit faire la guerre au reste de sa descendance, ceux qui observent les commandements de Dieu et gardent le témoignage de Jésus.</li>
           <li value="18">Et il se posta sur le sable au bord de la mer.</li>
         </ol>
-      </article></section>
+
       <hr>
-    </article></section>
-  </article></section>
+
 </article>
 `;
 

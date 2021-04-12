@@ -8,6 +8,12 @@
 <!-- Page 19 -->
 
 <article>
+
+<hgroup>
+<h2 id="mise-en-relation" class="yellow">différents textes à l'origine des scènes représentées dans le <cite><ruby style="color:#555;" lang="fr">Triptyque de Jean le Baptiste et de Jean l'Évangéliste<rp>(</rp><rt style="color:#999;" lang="nl">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby></cite></h2>
+  <h3 id="jean-selon-legende-2" class="yellow"><cite>Légende de Jean l'Évangéliste</cite> selon le chapître 65 selon <cite>La Légende dorée</cite> - Jean devant la Porte Latine</h3>
+</hgroup>
+
   <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/rome-280.webp 280w,
@@ -27,20 +33,19 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/rome-1600.jpg 1600w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/rome-1920.jpg 1920w"></picture><figcaption>détails du panneau central, “Ébouillantement de Jean l'Évangéliste sur ordre de l'empereur Domitien devant la Porte Latine à Rome et départ en l'exil sur l'île de Patmos”</figcaption>
   </figure>
-  <section><article>
-  <h3 id="jean-selon-legende-2" class="yellow">Légende de Jean l'Évangéliste selon le chapître 65 selon <cite>La Légende dorée</cite> - Jean devant la Porte Latine</h3>
-    <section><article>
+
+
       <h4>Texte du chapître 65 de <cite>La Légende dorée</cite>: légende de Jean l'Évangéliste - Jean devant la Porte Latine</h4> 
-      <section><article>
+
         <p>Jean, apộtre et évangéliste, prêchait à Ephèse, lorsqu'il fut arrêté par le proconsul et invité à sacrifier aux dieux.</p>
         <p>Comme il refusait, il est jeté en prison; on envoie alors à l'empereur Domitien une lettre le désignant comme un magicien sacrilège, contempteur des dieux et adorateur du Crucifié.</p>
         <p>
         Sur ordre de Domitien, Jean est ensuite conduit à Rome où, après lui avoir coupé tous les cheveux par dérision, devant la porte de la ville qu'on appelle Latine, on le flagelle et on le jette dans un chaudron d'huile bouillante sous lequel brûlait un feu ardent.</p>
         <p>Mais Jean ne ressentit aucune douleur et en sortit tout à fait indemne, non pas brûlé mais oint.</p>
         <p>À cette vue, Domitien fut stupéfié et craignit de le mettre à mort. Aussi, à cet endroit, les chrétiens ont-ils construit une église, et ce jour est-il fêté solennellement comme celui du martyre de Jean. Or, comme il n'avait pas renoncé à prêcher le Christ, Domitien ordonna de le reléguer dans l'île de Patmos.</p>
-      </article></section>
-    </article></section>
-  </article></section>
+
+
+
 </article>
 `;
 

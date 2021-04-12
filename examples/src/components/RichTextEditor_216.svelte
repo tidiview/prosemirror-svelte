@@ -8,12 +8,10 @@
 <!-- Page 16 -->
 
 <article>
-  <section><article>
+
     <hgroup>
     <h2 id="mise-en-relation" class="yellow">different texts at the origin of the scenes represented in the <cite><ruby style="color:#555;" lang="en">Triptych of John The Baptist and John The Evangelist<rp>(</rp><rt style="color:#999;" lang="nl">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby></cite></h2>
-    <section><article>
-
-      <h3 id="cath-selon-legende" class="yellow">Legend of Catherine of Alexandria according to chapter 166 of <cite>The Golden Legend</cite></h3>
+      <h3 id="cath-selon-legende" class="yellow"><cite>Legend of Catherine of Alexandria</cite> according to chapter 166 of <cite>The Golden Legend</cite></h3>
     </hgroup>
 
       <figure>
@@ -35,9 +33,9 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1920.jpg 1920w"></picture><figcaption>Catherine of Alexandria, detail of the central panel.</figcaption>
       </figure>
-      <section><article>
+
         <h4>Text of chapter 166 of <cite>The Golden Legend</cite>: legend of Catherine of Alexandria</h4>
-        <section><article>
+
           <p>Here followeth the Life of St. Catherine, virgin and martyr, and first of her name.</p>
           <p>CATHERINE is said of catha, that is all, and ruina that is falling, for all the edifice of the devil fell all from her.
           For the edifice of pride fell from her by humility that she had, and the edifice of fleshly desire fell from her by her virginity, and worldly covetise, for that she despised all worldly things.</p>
@@ -251,9 +249,9 @@
           <p>All these things together were in this blessed virgin St. Catherine as it appeareth in her legend.</p>
           <p>Then let us devoutly worship this holy virgin and humbly pray her to be our advocatrice in all our needs bodily and ghostly, that by the merits of her prayers we may after this short and transitory life come unto the everlasting bliss and joy in heaven whereas is life perdurable.</p>
           <p>Quod ipse præstare dignetur qui cum patre et spiritu sancto vivit et regnat deus per omnia secula seculorum.</p>
-        </article></section>
-      </article></section>
-    </article></section>
+
+
+
 </article>
 `;
 

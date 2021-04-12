@@ -8,7 +8,11 @@
 <!-- Page 17 -->
 
 <article>
-  <section><article>
+  <hgroup>
+  <h2 id="mise-en-relation" class="yellow">different texts at the origin of the scenes represented in the <cite><ruby style="color:#555;" lang="en">Triptych of John The Baptist and John The Evangelist<rp>(</rp><rt style="color:#999;" lang="nl">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby></cite></h2>
+    <h3 id="st-barbara-following-the-golden-legend" class="yellow"><cite>Legend of Barbara the Great Martyr</cite> according to the text added to <cite>The Golden Legend</cite></h3>
+  </hgroup>
+
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-280.webp 280w,
@@ -29,17 +33,8 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1920.jpg 1920w"></picture><figcaption>Barbara the great martyr, detail of the central panel.</figcaption>
       </figure>
 
-      
-    <hgroup>
-    <h2 id="mise-en-relation" class="yellow">different texts at the origin of the scenes represented in the <cite><ruby style="color:#555;" lang="en">Triptych of John The Baptist and John The Evangelist<rp>(</rp><rt style="color:#999;" lang="nl">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby></cite></h2>
-    <section><article>
-
-      <h3 id="st-barbara-following-the-golden-legend" class="yellow"><cite>Legend of Barbara the Great Martyr</cite> according to the text added to <cite>The Golden Legend</cite></h3>
-    </hgroup>
-
-      <section><article>
         <h4>Text added to <cite>The Golden Legend</cite>: <cite>legend of Barbara the Great Martyr</cite></h4>
-        <section><article>
+
           <p>There was in <a href="#note_nicomedie" title="Nicomedy" id="nicomedie" class="yellow">Nicomedia</a>, at the time of Emperor <a href="#note_maximien" title="Maximian" id="maximien" class="yellow">Maximian</a>, a pagan named <span style="color: #99713d;">Dioscorus</span> who was from a very distinguished family with great wealth.</p>
           <p>He had a daughter of great beauty, who called <span style="color: #994c3d;">Barbara</span>.</p>
           <p>Her father loved her very much;
@@ -288,7 +283,7 @@
       <hr>
 
       <aside>
-        <section><article>
+
           <h3 id="note_nicomedie" class="yellow">Nicomedy</h3>
           <div class="notices yellow">
             <p><dfn><a href="https://en.wikipedia.org/wiki/Nicomedy" title="https://en.wikipedia.org/wiki/Nicomedy"><ruby lang="en">Nicomedy<rp>(</rp><rt lang="grc">Νικομήδεια</rt><rp>)</rp></ruby></a></dfn> is a city in Asia Minor, capital of the kingdom of <a href="https://en.wikipedia.org/wiki/Bithynie" title="https://en.wikipedia.org/wiki/Bithynie">Bithynia</a>. Today it is located in Turkey and is called Izmit. It was the capital of the emperors <a href="https://en.wikipedia.org/wiki/Dioclétien" title="https://en.wikipedia.org/wiki/Dioclétien">Diocletian</a> and <a href="https://en.wikipedia.org/wiki/Constantin_Ier_(empereur_romain)" title="https://en.wikipedia.org/wiki/Constantin_Ier_(empereur_romain)">Constantine</a>.</p>
@@ -297,7 +292,7 @@
             <p>back to note: <a href="#nicomedie" title="Nicomedy">Nicomedy↑</a></p>
           </footer>
         </article></section>
-        <section><article>
+
           <h3 id="note_maximien" class="yellow">Maximian</h3>
           <div class="notices yellow">
             <p><dfn>Maximian</dfn> is also called <a href="https://en.wikipedia.org/wiki/Maximian_Hercule" title="https://en.wikipedia.org/wiki/Maximian_Hercule">Maximian Hercules</a>. Coemperor of the Roman Empire from <time datetime="286">286</time> to <time datetime="305">305</time> with <a href="https://en.wikipedia.org/wiki/Dioclétien" title="https://en.wikipedia.org/wiki/Dioclétien">Diocletian</a> for the East. Father of <a href="https://en.wikipedia.org/wiki/Maxence_(empereur_romain)" title="https://en.wikipedia.org/wiki/Maxence_(empereur_romain)">Maxentius</a>.</p>
@@ -306,7 +301,7 @@
             <p>back to note: <a href="#maximien" title="Maximian">Maximian↑</a></p>
           </footer>
         </article></section>
-        <section><article>
+
           <h3 id="note_origene" class="yellow">Origen</h3>
           <div class="notices yellow">
             <p><dfn><a href="https://en.wikipedia.org/wiki/Origen" title="https://en.wikipedia.org/wiki/Origen"><ruby lang="en">Origen<rp>(</rp><rt lang="grc">Ὠριγένης</rt><rp>)</rp></ruby></a></dfn> is a christian theologian, recognized Father of the Church but not a saint, born in Alexandria around <time datetime="185">185</time> and died in Tyre around <time datetime="253">253</time>.</p>
@@ -315,7 +310,7 @@
             <p>back to note: <a href="#origene" title="Origen">Origen↑</a></p>
           </footer>
         </article></section>
-        <section><article>
+
           <h3 id="note_marcien" class="yellow">Marcian</h3>
           <div class="notices yellow">
             <p>No trace of this proconsul apart from <cite>The Golden Legend</cite>.</p>
@@ -324,7 +319,7 @@
             <p>back to note: <a href="#marcien" title="Marcian">Marcian↑</a></p>
           </footer>
         </article></section>
-        <section><article>
+
           <h3 id="note_saxe" class="yellow">Saxony</h3>
           <div class="notices yellow">
             <p><dfn>Saxony</dfn> is a region of Germany whose boundaries have varied throughout history; the Palatinate County of Saxony was a principality of the Holy Roman Empire. Founded by Emperor Otto I<sup>st</sup> in the 10<sup>th</sup> century, it extended over what is now the Saale-Unstrut region in the south-east of the Duchy of Saxony.</p>

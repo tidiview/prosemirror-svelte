@@ -10,8 +10,8 @@
 <article>
   <hgroup>
   <h2 id="mise-en-relation" class="yellow"><cite><ruby lang="ja" style="color:#555;">洗礼者<wbr>ヨハネと<wbr>福音書記者<wbr>ヨハネの<wbr>三連画<rp>(</rp><rt lang="nl" style="color:#999;">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby></cite>に表わされている場面の元にある様々な文書</h2>
-    <h3 id="cath-selon-legende" class="yellow"><ruby style="color:#e6a64d;">黄金伝説<rp>(</rp><rt style="color:#e6a64d;">レゲンダ・アウレア</rt><rp>)</rp></ruby><span style="color: #e6a64d;">においてのアレクサンドリアのカテリナ</span></h3>
-    <section><article>
+    <h3 id="cath-selon-legende" class="yellow"><cite><ruby style="color:#e6a64d;">黄金伝説<rp>(</rp><rt style="color:#e6a64d;">レゲンダ・アウレア</rt><rp>)</rp></ruby></cite><span style="color: #e6a64d;">においての<cite>アレクサンドリアのカテリナの伝説</cite></span></h3>
+
   </hgroup>
   <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -33,9 +33,9 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1920.jpg 1920w"></picture><figcaption>アレクサンドリアのカタリナ</figcaption>
   </figure>
 
-  <section><article>
+
       <h4 id="cath-selon-legende" class="yellow"><ruby style="color:#e6a64d;">黄金伝説<rp>(</rp><rt style="color:#e6a64d;">レゲンダ・アウレア</rt><rp>)</rp></ruby><span style="color: #e6a64d;">の第１６６章においてのアレクサンドリアのカテリナ</span>の文書</h4>
-      <section><article>
+
         <p>カテリナは、コストスという王の娘で、<a href="#note_artsliberaux" title="七学芸" id="artsliberaux" class="yellow">七学芸</a>の教育を熱心に受けた。</p>
         <p>そのころ、<a href="#note_maxentius" title="皇帝マクセンティウス" id="maxentius" class="yellow">皇帝マクセンティウス</a>は、富める者も貧しい者もアレクサンドリアに呼び集めて、偽神たちに香をささげさせた。これには、供香に応じようとしないキリスト教徒を断罪してやろうという狙いもあったのである。</p>
         <p>このとき十八歳であったカテリナは、大勢の召使いとありあまるほどの富にかこまれて、宮殿でひとりで暮らしていた。</p>
@@ -369,15 +369,15 @@
         </ul>
         <p>この三人のうち、年代記によると、マクセンティウスは、ローマでキリスト教徒を迫害し、マクシミヌスは、東方で暴虐をほしいままにしたという。</p>
         <p>だとすると、<span style="color: #df8f20;">聖カテリナ</span>を殉教に追いやったのはマクシミヌスであって、これをマクセンティウスとしたのは写本家のミスであるとする説が正しいのであろう。</p>
-      </article></section>
-    </article></section>
-  </article></section>
+
+
+
 </article>
 
 <hr>
 
 <aside>
-  <section><article>
+
     <h3 id="note_artsliberaux" class="yellow">七学芸</h3>
     <div class="notices yellow">
     <p>中世の中等、高等程度の学校では、神学以外に一般教養科目として七教養学が課せられ、これは、三学（文法、修辞、弁護法）と四学（算術、幾何、天文、数学）から成っていた。</p>
@@ -385,8 +385,8 @@
     <footer>
       <p>文書へ戻る：　<a href="#artsliberaux" title="七学芸">七学芸↑</a></p>
     </footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_maxentius" class="yellow">皇帝マクセンティウス</h3>
     <div class="notices yellow">
     <p>ローマ皇帝（位<time datetime="285">２８５年</time>ー<time datetime="305">３０５年</time>、<time datetime="305">３０５年</time>ー<time datetime="308">３０８年</time>）。ディオクレティアヌスによって副帝（カエサル）、ついで西の正帝（アウグストゥス）に任じられる、ともにキリスト教徒を迫害（<time datetime="303">３０３年</time>）、ともに退位。その子マクセンティウスの挙兵を助けふたたび活動、のち不和になってガリア（フランス）に逃げ、女婿コンスタンティウスと争って自殺した。</p>
@@ -394,8 +394,8 @@
     <footer>
       <p>文書へ戻る：　<a href="#maxentius" title="皇帝マクセンティウス">皇帝マクセンティウス↑</a></p>
     </footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_sybille" class="yellow">シビュラ</h3>
     <div class="notices yellow">
     <p>異教的古代の女託宣者。その数はひとりとも十人とも言われる。最も古いのは、小アジアのエリュトライにいたシビュラであるが、ここに言われるのは、クマエ（ナポリの西にあった古い町）のシビュラである。彼女は、その託宣を９巻の本に書いてローマの王に売りつけ、この「シビュラの書」は、前一世紀のかピトール丘の火災で焼失するまでそこのユピテル神殿に秘蔵されていた。旧約偽典および新訳外典に入れられる『シビュラの託宣』は、前２世紀ごろエジプトで成立したユダヤ教的偽作文書で、それに後代にキリスト教的改変ないし挿入をくわえたもの。</p>
@@ -403,8 +403,8 @@
     <footer>
       <p>文書へ戻る：　<a href="#sybille" title="シビュラ">シビュラ↑</a></p>
     </footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_scorpion" class="yellow">さそり鞭</h3>
     <div class="notices yellow">
     <p>逆鉤または鎖のついた<ruby>鞭<rp>(</rp><rt>むち</rt><rp>)</rp></ruby>、拷問具のひとつ。</p>
@@ -412,8 +412,8 @@
     <footer>
       <p>文書へ戻る：　<a href="#scorpion" title="さそり鞭">さそり鞭↑</a></p>
     </footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_maximinus" class="yellow">マクシミヌス帝</h3>
     <div class="notices yellow">
     <p>この前後でマクシミヌスという名の皇帝は存在しない。あるいは、がレリウス帝の甥で３０５年その副帝となり、のち正帝となったマクシミヌス帝（在<time datetime="308">３０８年</time>ー<time datetime="314">３１４年</time>）との混同かもしれない。</p>
@@ -421,8 +421,8 @@
     <footer>
       <p>文書へ戻る：　<a href="#maximinus" title="マクシミヌス帝">マクシミヌス帝↑</a></p>
     </footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_croix" class="yellow">〈聖十字架の発見〉</h3>
     <div class="notices yellow">
     <p>黄金伝説の第６４章、〈聖十字架の発見〉とのことです。</p>
@@ -430,8 +430,8 @@
     <footer>
       <p>文書へ戻る：　<a href="#croix" title="〈聖十字架の発見〉">〈聖十字架の発見〉↑</a></p>
     </footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_rouen" class="yellow">ロトマグス</h3>
     <div class="notices yellow">
     <p><ruby lang="ja">ロトマグス<rp>(</rp><rt lang="la">Rothomagus</rt><rp>)</rp></ruby lang="ja">。現<ruby lang="ja">ルアン<rp>(</rp><rt lang="fr">Rouen</rt><rp>)</rp></ruby lang="ja">市（フランス中北部、セーヌ川下流の港町）の古名。ここに語られているのはルアン近傍の<ruby lang="ja">サント<rp>(</rp><rt lang="fr">Sainte</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>トリニテ<rp>(</rp><rt lang="fr">Trinité</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>デュ<rp>(</rp><rt lang="fr">du</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>モン<rp>(</rp><rt lang="fr">Mont</rt><rp>)</rp></ruby lang="ja">修道院（現在、<ruby lang="ja">サント<rp>(</rp><rt lang="fr">Sainte</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>カテリヌ<rp>(</rp><rt lang="fr">Catherine</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>デュ<rp>(</rp><rt lang="fr">du</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>モン<rp>(</rp><rt lang="fr">Mont</rt><rp>)</rp></ruby lang="ja">修道院）にいた修道士の話で、彼が１０世紀前半にシナイの聖カテリナ修道院からもち帰ったとされる聖女の聖遺物は、たびたび奇跡をこなったので、トリニテ＝オ＝モンは、たちまち西欧における聖カテリナ崇敬の中心地のひとつとなった。</p>
@@ -439,8 +439,8 @@
     <footer>
       <p>文書へ戻る：　<a href="#rouen" title="ロトマグス">ロトマグス↑</a></p>
     </footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_fiancee" class="yellow">わが身をキリストに花嫁としてささげた女でございます</h3>
     <div class="notices yellow">
     <p>伝承によると、カテリナは、皇帝の息子から求婚されたが、鏡にうつった姿から求婚者が家柄、美しさ、富、学識の点で自分にふさわしいくないことを見てとった。ある隠修士からキリストこそいちばんすばらしい花婿であることを教えられ、聖母にキリストの花嫁にしてくださいとたのむと、聖母は、二度彼女にあらわれて洗礼を受けないかぎり、キリストの花嫁になることはできないと教えた。彼女が洗礼を受けると、夢に幼児キリストがあらわれ、彼女の指に婚約指輪をはめたという。</p>
@@ -449,8 +449,8 @@
     <footer>
       <p>文書へ戻る：　<a href="#fiancee" title="わが身をキリストに花嫁としてささげた女でございます">わが身をキリストに花嫁としてささげた女でございます↑</a></p>
     </footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_sinai" class="yellow">シナイの山にはこび、うやうやしく葬った</h3>
     <div class="notices yellow">
     <p>しかし、シナイ山では聖カテリナのこともその墓のことも、まったく知られていなかったと言われる。山麓の有名な聖カテリナ修道院が建てられたのは、６世紀中葉のことである。聖遺物をもっているはずのこの修道院も、聖カテリナ崇敬の発祥地にも中心地にもならなかった。</p>
@@ -458,8 +458,8 @@
     <footer>
       <p>文書へ戻る：　<a href="#sinai" title="シナイの山にはこび、うやうやしく葬った">シナイの山にはこび、うやうやしく葬った↑</a></p>
     </footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_rouen" class="yellow">ボエティウス</h3>
     <div class="notices yellow">
     <p><ruby lang="ja">ボエティウス<rp>(</rp><rt lang="la">Boethius</rt><rp>)</rp></ruby lang="ja">は、古代ローマ末期のイタリアの哲学者、政治家。</p>
@@ -469,8 +469,8 @@
     <footer>
       <p>文書へ戻る：　<a href="#boece" title="ボエティウス">ボエティウス↑</a></p>
     </footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_jean" class="yellow">福音書記者ヨハネ</h3>
     <div class="notices yellow">
     <p>福音書記者ヨハネの伝説は黄金伝説の<a href="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#jean9-selon-legende" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#jean9-selon-legende">第９章</a> に語られています。</p>
@@ -478,8 +478,8 @@
     <footer>
       <p>文書へ戻る：　<a href="#jean" title="福音書記者ヨハネ">福音書記者ヨハネ↑</a></p>
     </footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_constantin" class="yellow">コンスタンティヌス</h3>
     <div class="notices yellow">
     <p>ローマ皇帝コンスタンティヌス一世（位<time datetime="306">３０６年<time>ー<time datetime="337">３３７年<time>）大帝とよばれる。キリスト教の最初の公認者、その保護・育成につとめ、みずから〈十三人目の使徒〉おもって任じ、第一回ニカイヤ公会議によってアリウス派を保護とした。<time datetime="330">３３０年<time>都をローマからビザンティウムに移し、これをコンスタンティノポリスと改名。自身はずっと<ruby>常勝太陽神<rp>(</rp><rt>ソル・インヴィクトゥス</rt><rp>)</rp></ruby>の信者であったが、臨終の床で受洗した（黄金伝説の第１２章に参照）。</p>
@@ -487,8 +487,8 @@
     <footer>
       <p>文書へ戻る：　<a href="#constantin" title="コンスタンティヌス">コンスタンティヌス↑</a></p>
     </footer>
-  </article></section>
-  <section><article>
+
+
     <h3 id="note_incarnation" class="yellow">託身</h3>
     <div class="notices yellow">
     <p>神のひとり子が人類救済のため聖霊のはたらきによりマリアの胎内で受肉として隆世したことを<ruby lang="ja">託身<rp>(</rp><rt lang="la">incarnatio</rt><rp>)</rp></ruby lang="ja">と言う。</p>
@@ -496,7 +496,7 @@
     <footer>
       <p>文書へ戻る：　<a href="#incarnation" title="託身">託身↑</a></p>
     </footer>
-  </article></section>
+
 </aside>
 `;
 
