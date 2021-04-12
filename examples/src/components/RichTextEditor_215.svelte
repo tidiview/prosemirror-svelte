@@ -8,6 +8,7 @@
 <!-- Page 17 -->
 
 <article>
+
   <hgroup>
   <h2 id="mise-en-relation" class="yellow">different texts at the origin of the scenes represented in the <cite><ruby style="color:#555;" lang="en">Triptych of John The Baptist and John The Evangelist<rp>(</rp><rt style="color:#999;" lang="nl">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby></cite></h2>
     <h3 id="st-barbara-following-the-golden-legend" class="yellow"><cite>Legend of Barbara the Great Martyr</cite> according to the text added to <cite>The Golden Legend</cite></h3>

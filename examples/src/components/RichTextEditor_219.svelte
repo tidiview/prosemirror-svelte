@@ -8,10 +8,12 @@
 <!-- Page 18 -->
 
 <article>
+
   <hgroup>
   <h2 id="mise-en-relation" class="yellow"><cite><ruby lang="ja" style="color:#555;">洗礼者<wbr>ヨハネと<wbr>福音書記者<wbr>ヨハネの<wbr>三連画<rp>(</rp><rt lang="nl" style="color:#999;">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby></cite>に表わされている場面の元にある諸文書</h2>
     <h3 id="jean9-selon-legende" class="yellow"><cite><ruby style="color:#e6a64d;">黄金伝説<rp>(</rp><rt style="color:#e6a64d;">レゲンダ・アウレア</rt><rp>)</rp></ruby><cite>の第９章においての<cite>福音書記者ヨハネの伝説</cite></h3>
   </hgroup>
+
   <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-280.webp 280w,

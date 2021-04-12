@@ -8,6 +8,7 @@
 <!-- Page 17 -->
 
 <article>
+  
 <hgroup>
 <h2 id="mise-en-relation" class="yellow">différents textes à l'origine des scènes représentées dans le <cite><ruby style="color:#555;" lang="fr">Triptyque de Jean le Baptiste et de Jean l'Évangéliste<rp>(</rp><rt style="color:#999;" lang="nl">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby></cite></h2>
   <h3 id="barbe-selon-legende" class="yellow"><cite>Légende de Barbe la Grande Martyre</cite> selon le texte ajouté à <cite>La Légende dorée</cite></h3>

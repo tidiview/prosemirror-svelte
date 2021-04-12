@@ -16,7 +16,6 @@
 
     <h4 id="apocalypse" class="yellow">Extrait du texte de <cite>L'Apocalypse</cite> du chapître 4 à 12</h4>
 
-
 <p>out</p>
         <ol class="doc">
           <li>Chapître 4</li>
