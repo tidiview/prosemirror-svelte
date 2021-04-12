@@ -1397,7 +1397,6 @@
 
               <p>Memling has enlarged the scene in the foreground of the left shutter: we are in <span style="color: #e6a64d;">the inner courtyard of Herod's palace</span>.</p>
               <p>The execution site in the fortress is connected to the palace by <span style="color: #e6a64d;">a staircase</span> in the background.</p>
-              <p><span style="color: #e6a64d;">The executioner</span> is shown from behind laying <span style="color: #e6a64d;">his head in the dish</span> presented to him by a <a href="https://en.wikipedia.org/wiki/Salome" title="https://en.wikipedia.org/wiki/Salome" id="salome-3" class="yellow">Salome</a> barely moved.</p>
 
             <figure>
               <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -1426,9 +1425,10 @@
 
             <h6 class="yellow">Memling's inspiration on Van Der Weyden for the scene of the beheading of John the Baptist, inside left shutter</h6>
 
+              
               <p><span style="color: #e6a64d;">The executioner</span> is represented from behind placing <span style="color: #e6a64d;">the head in the plate</span> presented to him by a barely moved <a href="https://en.wikipedia.org/wiki/Salome" title="https://en.wikipedia.org/wiki/Salome" class="yellow">Salome</a>.</p>
               <p>Art historians have identified in the positions of the executioner and Salome <span style="color: #e6a64d;">a reuse by Memling of a similar scene</span> in a work by his master when he was the assistant of this painter in Brussels, <a href="https://en.wikipedia.org/wiki/Rogier_van_der_Weyden" title="https://en.wikipedia.org/wiki/Rogier_van_der_Weyden" id="rogier-van-der-weyden" class="yellow">Rogier VAN DER WEYDEN</a>.</p>
-              <p>This is the left inner shutter of the <span style="color: #e6a64d;"><cite>Tryptic of St. John</cite></span> painted around <time datetime="1450">1450</time>-<time datetime="1455">55</time> in the <a href="https://en.wikipedia.org/wiki/Gemäldegalerie,_Berlin" title="https://en.wikipedia.org/wiki/Gem%C3%A4ldegalerie,_Berlin" id="gemaldegalerie" class="yellow"><ruby lang="en">Painting&nbsp;Gallery<rp>(</rp><rt lang="de">Gemäldegalerie</rt><rp>)</rp></ruby></a> of the <a href="https://en.wikipedia.org/wiki/Berlin_State_Museums" title="https://en.wikipedia.org/wiki/Berlin_State_Museums" id="musees-d-etat-de-berlin" class="yellow"><ruby lang="fr">Berlin&nbsp;State&nbsp;Museums<rp>(</rp><rt lang="de">Staatliche&nbsp;Museen&nbsp;zu&nbsp;Berlin</rt><rp>)</rp></ruby></a> <span style="color: #999;">(inventory reference: 534B)</span>.</p>
+              <p>This is the left inner shutter of the <span style="color: #e6a64d;"><cite>Tryptic of St. John</cite></span> painted around <time datetime="1450">1450</time>-<time datetime="1455">55</time> in the <a href="https://en.wikipedia.org/wiki/Gemäldegalerie,_Berlin" title="https://en.wikipedia.org/wiki/Gemäldegalerie,_Berlin" id="gemaldegalerie" class="yellow"><ruby lang="en">Painting&nbsp;Gallery<rp>(</rp><rt lang="de">Gemäldegalerie</rt><rp>)</rp></ruby></a> of the <a href="https://en.wikipedia.org/wiki/Berlin_State_Museums" title="https://en.wikipedia.org/wiki/Berlin_State_Museums" id="musees-d-etat-de-berlin" class="yellow"><ruby lang="fr">Berlin&nbsp;State&nbsp;Museums<rp>(</rp><rt lang="de">Staatliche&nbsp;Museen&nbsp;zu&nbsp;Berlin</rt><rp>)</rp></ruby></a> <span style="color: #999;">(inventory reference: 534B)</span>.</p>
 
             <figure>
               <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -1452,7 +1452,7 @@
 
 
 
-            <h6 class="yellow">Scene of the burial and cremation of the body of John the Baptist in the background, inner central panel</h6>
+            <h6 class="yellow">Scene of the incineration of the body of John the Baptist in the background, inner central panel</h6>
 
               <p>Mark's narrative continues: <span style="color: #e6a64d;"><q cite="https://en.wikisource.org/wiki/Bible_(World_English)/Mark#6:29">When John's disciples heard this, they came and took up his corpse and laid it in a tomb</q></span> <span style="color: #999;">(Mark, chapter 6, verse 29)</span>.</p>
               <p>According to tradition, this one was taken away from the territories controlled by Herod Antipas, to the West Bank in <ruby style="color: #e6a64d;" lang="en">Sebastee<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="grc">Σεβαστή</rt><rp>)</rp></ruby>, the actual village of <a href="https://en.wikipedia.org/wiki/Sebastia,_Nablus" title="https://en.wikipedia.org/wiki/Sebastia,_Nablus" id="sebastia" class="yellow"><ruby lang="en">Sebastia<rp>(</rp><rt lang="ar">سبسطية</rt><rp>)</rp></ruby></a> and buried with the prophets <a href="https://en.wikipedia.org/wiki/Elisha" title="https://en.wikipedia.org/wiki/Elisha" class="yellow">Elisha</a> and <a href="https://en.wikipedia.org/wiki/Obadiah" title="https://en.wikipedia.org/wiki/Obadiah" id="abdias" class="yellow">Abdias</a>.</p>
@@ -1488,7 +1488,6 @@
 
               <p>But things do not go as planned.</p>
               <p>According to legend, the head was buried separately by <span style="color: #e6a64d;">a potter from the city of Emesse</span>, the present <a href="https://en.wikipedia.org/wiki/Homs" title="https://en.wikipedia.org/wiki/Homs" id="homs" class="yellow"><ruby lang="en">Homs<rp>(</rp><rt lang="ar">حمص</rt><rp>)</rp></ruby></a> in Syria, and then is thought to have appeared to Saint Marcellus who discovered it by following a star <span style="color: #999;">(<cite>The Golden Legend</cite> chapter 121, paragraph III.)</span>.</p>
-              <p>So his head appears further down in <span style="color: #e6a64d;">the opening in the wall</span>, behind <span style="color: #e6a64d;">a stone</span>.</p>
 
             <figure>
               <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -1520,6 +1519,8 @@
 
 
       <h4 class="yellow" id="légende-de-jean-l’évangéliste">scenes from the legend of John the Evangelist according to <cite>The Golden Legend</cite> and <cite>The Revelation</cite></h4>
+
+      <h5 class="yellow">details on John the Evangelist according to <cite>The Golden Legend</cite> and <cite>The Book of Revelation</cite></h5>
 
         <p>On the central panel in the upper part on the right of the background appear some scenes of the legend of John the Evangelist.</p>
 
