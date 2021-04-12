@@ -744,6 +744,12 @@ export const ExtendedThreerichTextSchema = new Schema({
       parseDOM: [{tag: "blockquote", getAttrs(dom) {return {color: dom.getAttribute("class"), cite: dom.getAttribute("cite"), id: dom.id}} }],
       toDOM(node) { let {color, cite, id} = node.attrs; return color == "" ? cite == "" ? ["blockquote", 0] : ["blockquote", {cite, id}, 0] : cite == "" ? ["blockquote", {"class": color}, 0] : ["blockquote", {id, cite, "class": color}, 0] },
     }, /* attibutes cite and id are linked: if there is cite, there is id */
+    hgroup: {
+      content: "heading+",
+      group: "block",
+      parseDOM: [{tag: "hgroup"}],
+      toDOM() { return["hgroup", 0] },
+    },
     heading: {
       content: "inline*",
       group: "block",

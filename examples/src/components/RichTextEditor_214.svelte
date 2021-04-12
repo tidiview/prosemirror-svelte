@@ -29,9 +29,15 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1920.jpg 1920w"></picture><figcaption>John the Evangelist</figcaption>
       </figure>
 
+      
+    <hgroup>
+    <h2 id="mise-en-relation" class="yellow">different texts at the origin of the scenes represented in the <cite><ruby style="color:#555;" lang="en">Triptych of John The Baptist and John The Evangelist<rp>(</rp><rt style="color:#999;" lang="nl">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby></cite></h2>
+    <section><article>
+
       <h3 class="yellow" id="st-john-the-evangelist-according-to-the-golden-legend">John the Evangelist according to chapter 9 of <cite>The Golden Legend</cite></h3>
       <section><article>
         <h4>Text of Chapter 9. of <cite>The Golden Legend</cite>: <cite>Legend of John the Evangelist</cite></h4>
+    </hgroup>
 
         <section><article>
           <section><article>
