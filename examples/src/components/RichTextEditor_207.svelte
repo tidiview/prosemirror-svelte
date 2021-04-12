@@ -114,7 +114,7 @@
             </ul>
           </li>
           <li>
-            <a href="#barbe" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#barbe" class="yellow">barbara the great Martyr</a>
+            <a href="#barbe" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#barbe" class="yellow">Barbara the Great Martyr</a>
           </li>
           <li>
             <a href="#conversation" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#conversation" class="yellow">Sacred conversation, a remarkable expression of “devotio moderna”</a>
@@ -151,7 +151,7 @@
             <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" class="yellow">catherine of alexandria according to <cite>The Golden Legend</cite></a>
           </li>
           <li>
-            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" class="yellow">barbara the great martyr according to <cite>The Golden Legend</cite></a>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" class="yellow">Barbara the Great Martyr according to <cite>The Golden Legend</cite></a>
           </li>
           <li>
             <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" class="yellow">john the evangelist according to <cite>The Golden Legend</cite>, chapter 9</a>
@@ -393,9 +393,11 @@
           <p>He struggles to maintain his dignity and, defeated at the end of a long spiritual battle full of twists and turns, proposes to her to marry him.</p>
           <p>Catherine, in the name of her faith, refused and chose to undergo martyrdom.</p>
           <p>At the time of his execution, Jesus' own voice would then have been heard from heaven to tell him:</p>
+
           <blockquote cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende">
             <span style="color: #e6a64d;">«Come, my beloved, my beautiful one!»</span>
           </blockquote>
+
           <p>Due to the presence of Saint Catherine, the triptych has sometimes been called <span style="color: #e6a64d;">“the mystical marriage of Saint Catherine”</span> <sup id="fnref1:5"><a href="#fn:5" class="footnote-ref">note 3</a></sup>.</p>
 
 
@@ -420,9 +422,11 @@
 
           <p>On the back, on the left, the presence of a <span style="color: #e6a64d;">white lamb</span> allows us to identify <span style="color: #e6a64d;">the man wearing the</span> magnificent <span style="color: #e6a64d;">purple tunic</span> as <a href="https://en.wikipedia.org/wiki/John_the_Baptist" title="https://en.wikipedia.org/wiki/John_the_Baptist" id="jean-le-baptiste" class="yellow">John the Baptist</a>.</p>
           <p>The lamb recalls the words with whom John the Baptist <span style="color: #e6a64d;">presents</span> Jesus, saying <span style="color: #999;">(John chapter 1 verse 29)</span>:
-          <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#1:29" >
+
+          <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#1:29">
             <span style="color: #e6a64d;">«<ruby style="color:#e6a64d;" lang="en">Behold the lamb of god<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce agnus dei</rt><rp>)</rp></ruby>»</span>.
           </blockquote>
+
           <p>In fact, John also refers with his right arm to the child Jesus.</p>
 
         <figure>
@@ -508,9 +512,9 @@
 
 
 
-      <h3 id="barbe" class="yellow">barbara the great Martyr</h3>
+      <h3 id="barbe" class="yellow">Barbara the Great Martyr</h3>
 
-        <h4 class="yellow">barbara the great martyr in the scene of the central panel</h4>
+        <h4 class="yellow">Barbara the Great Martyr in the scene of the central panel</h4>
 
           <p>On the other side of virgin Mary, on the front right, <span style="color: #e6a64d;">another woman</span>, dressed in <span style="color: #e6a64d;">a magnificent green wool tunic</span> as only Bruges produced in the 15<sup style="color:#555;">th</sup> century, <span style="color: #e6a64d;">reads</span>.</p>
           <p>Her presence corresponds to that of <a href="#catherine-d-alexandrie" class="yellow">Catherine of Alexandria</a> on the front of the other side.</p>
@@ -526,7 +530,7 @@
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-840.webp 840w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1280.webp 1280w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1600.webp 1600w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the central panel, barbara the great martyr, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the central panel, barbara the great martyr, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the central panel, Barbara the Great Martyr, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the central panel, Barbara the Great Martyr, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-280.jpg 280w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-380.jpg 380w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/barbe-la-grande-martyre-480.jpg 480w,
@@ -664,7 +668,11 @@
 
 
           <h5 class="yellow">distinction</h5>
-            <p>The height and depth organize themselves around the <span style="color: #e6a64d;">distinction between men and women</span>: on the <span style="color: #e6a64d;">front</span> below, <span style="color: #e6a64d;">two women</span>, on the <span style="color: #e6a64d;">back</span> in the upper part, <span style="color: #e6a64d;">two men</span>.</p>
+            <p>The height and depth organize themselves around the <span style="color: #e6a64d;">distinction between men and women</span>:</p>
+            <ul>
+              <li>on the <span style="color: #e6a64d;">front</span> below, <span style="color: #e6a64d;">two women</span>,</li>
+              <li>on the <span style="color: #e6a64d;">back</span> in the upper part, <span style="color: #e6a64d;">two men</span>.</li>
+            </ul>
             <p>The <span style="color: #e6a64d;">unfathomability</span> and <span style="color: #e6a64d;">mystery</span> in depth and height responds to the <span style="color: #e6a64d;">symmetry</span> and <span style="color: #e6a64d;">simplicity</span> of the width positions</p>
 
 
@@ -911,7 +919,7 @@
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-840.jpg 840w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-1280.jpg 1280w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-1600.jpg 1600w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-1920.jpg 1920w"></picture><figcaption>details of the central panel, “opening on the horizon”<br>on the left, scenes from the legend of John the Baptist, on the right, those of John the Evangelist</figcaption>
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/05.saint-jean_5/paysage-1920.jpg 1920w"></picture><figcaption>details of the central panel, “opening on the horizon”<br>on the left, scenes from the <cite>Legend of John the Baptist<cite>, on the right, those of John the Evangelist</figcaption>
         </figure>
 
 
@@ -1164,7 +1172,7 @@
 
             <h6 class="yellow">Scene of the apostolate of John in the distance of the central panel</h6>
 
-              <p>We also see him «proclaiming a baptism of conversion for the forgiveness of sins» <span style="color: #999;">(Luke chapter 3 verse 3)</span>.</p>
+              <p>We also see him <q cite="https://en.wikisource.org/wiki/Bible_(World_English)/Luke#3:3" style="quotes: '«' '»';">preaching the baptism of repentance for remission of sins</q> <span style="color: #999;">(Luke chapter 3 verse 3)</span>.</p>
 
             <figure>
               <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
