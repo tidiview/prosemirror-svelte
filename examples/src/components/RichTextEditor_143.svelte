@@ -1320,7 +1320,10 @@
       </blockquote>
 
       <p>こうしてヘロデは，自分の意思に反するヨハネを死なせるように見える。</p>
-      <p>この語り筋のすべてが本当にヨハネを、信奉者たちのトラブルの騒ぎを起こさずに死なせるためのごまかしである証拠が、もしサロメがヘロデに<span style="color: #e6a64d;">「自分の父のフィリポか自分の母の<a href="https://ja.wikipedia.org/wiki/ヘロデヤ" title="https://ja.wikipedia.org/wiki/ヘロディア" id="herodiade-2" class="yellow">ヘロディア</a>」</span>を頼んだなら、ヘロデがそれに同意出来ません<span style="color: #999;">（<cite>黄金伝説</cite>１２１章、第１段 <sup id="page-8-fnref1:1"><a href="#page-8-fn:1" class="footnote-ref">ノート１</a></sup> ）</span>。</p>
+      <p>この語り筋のすべてが本当にヨハネを、信奉者たちのトラブルの騒ぎを起こさずに死なせるためのごまかしである証拠が、ヤコブス・デ・ウォラギネが説明している通り、もしサロメがヘロデに<span style="color: #e6a64d;">「自分の父のフィリポか自分の母の<a href="https://ja.wikipedia.org/wiki/ヘロデヤ" title="https://ja.wikipedia.org/wiki/ヘロディア" id="herodiade-2" class="yellow">ヘロディア</a>」</span>を頼んだなら、ヘロデがそれに同意出来ません<span style="color: #999;">（<cite>黄金伝説</cite>１２１章、第１段 <sup id="page-8-fnref1:1"><a href="#page-8-fn:1" class="footnote-ref">ノート１</a></sup> ）</span>。</p>
+      
+    <h6 class="yellow">ヘロデ宮洗礼者ヨハネの斬首の詳細、左翼パネル内面</h6>
+      
       <p>ある衛兵は出て行き、「牢の中でヨハネの首をはね」に行く。</p>
 
 
@@ -1348,8 +1351,6 @@
 <!-- Page 9 --><hr>
 
 
-
-    <h6 class="yellow">洗礼者ヨハネの斬首の詳細、左翼パネル内面</h6>
 
 
       <p>メムリンクは左翼パネルの前景に《洗礼者ヨハネの斬首》を宮殿から出る<span style="color: #e6a64d;">階段</span>を通って牢の執行所として<span style="color: #e6a64d;">内庭</span>で位置づけて拡大することを選んだ。</p>
