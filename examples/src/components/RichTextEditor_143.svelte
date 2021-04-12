@@ -1723,22 +1723,24 @@
 
       <h5 class="yellow">神の王座、天と子羊の宮廷の幻影　＝　<cite>黙示録</cite>、第４章２節～第６章１節</h5>
 
+          <header>
+            <ol class="doc">
+              <li>第４章</li>
+            </ol>
+          </header>
 
-
-
-
-
-          <ol class="doc">
-            <li>第４章</li>
-            <li value="02">わたしは、たちまち<span style="color: #e6a64d;">「霊」</span>に満たされた。
-            すると、見よ、<span style="color: #e6a64d;">天</span>に<span style="color: #e6a64d;">玉座</span>が設けられていて、その玉座の上に座っている<span style="color: #e6a64d;">方</span>がおられた。</li>
-            <li value="03">その方は、碧玉や赤めのうのようであり、
-            玉座の周りにはエメラルドのような<span style="color: #e6a64d;">虹</span>が輝いていた。</li>
-            <li value="04">また、玉座の周りに二十四の座があって、それらの座の上には白い衣を着て、頭に金の冠をかぶった<span style="color: #e6a64d;">二十四人の長老</span>が座っていた。</li>
-            <li value="05">玉座からは、稲妻、さまざまな音、雷が起こった。また、玉座の前には、七つのともし火が燃えていた。
-            これは神の七つの霊である。</li>
-            <li value="06">また、玉座の前は、水晶に似たガラスの海のようであった。</li>
-          </ol>
+          <blockquote id="renvoi-apocalypse-4-2" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-4-2">
+            <ol class="doc">
+              <li value="02">わたしは、たちまち<span style="color: #e6a64d;">「霊」</span>に満たされた。
+              すると、見よ、<span style="color: #e6a64d;">天</span>に<span style="color: #e6a64d;">玉座</span>が設けられていて、その玉座の上に座っている<span style="color: #e6a64d;">方</span>がおられた。</li>
+              <li value="03">その方は、碧玉や赤めのうのようであり、
+              玉座の周りにはエメラルドのような<span style="color: #e6a64d;">虹</span>が輝いていた。</li>
+              <li value="04">また、玉座の周りに二十四の座があって、それらの座の上には白い衣を着て、頭に金の冠をかぶった<span style="color: #e6a64d;">二十四人の長老</span>が座っていた。</li>
+              <li value="05">玉座からは、稲妻、さまざまな音、雷が起こった。また、玉座の前には、七つのともし火が燃えていた。
+              これは神の七つの霊である。</li>
+              <li value="06">また、玉座の前は、水晶に似たガラスの海のようであった。</li>
+            </ol>
+          </blockquote>
 
 
 
@@ -1759,28 +1761,51 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《神の王座、天と子羊の宮廷の幻影》</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、
+        《神の王座、天と子羊の宮廷の幻影》。<br>
+        <q cite="#renvoi-apocalypse-4-2" style="quotes:'「' '';">玉座の周りにはエメラルドのような虹が輝いていた</q>
+        <span style="color: #999;">（…）</span>
+        <q cite="#renvoi-apocalypse-4-7" style="quotes:'' '';">四つの生き物</q><span style="color: #999;">（…）</span>
+        <q cite="#renvoi-apocalypse-5-1" style="quotes:'' '';">表にも裏にも字が書いてあり、七つの封印で封じられていた</q>巻物
+        <span style="color: #999;">（…）</span>
+        <q cite="#renvoi-apocalypse-5-6" style="quotes:'' '」';">長老たち</q>、
+        <br><cite>黙示録</cite>、第４章２～８節、第５章１節、６～７節</figcaption>
       </figure>
 
+      <blockquote id="renvoi-apocalypse-4-7" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-4-7">
         <ol class="doc">
           <li value="07">第一の生き物は<span style="color: #e6a64d;">獅子</span>のようであり、第二の生き物は<span style="color: #e6a64d;">若い雄牛</span>のようで、第三の生き物は<span style="color: #e6a64d;">人間のような顔</span>を持ち、第四の生き物は空を飛ぶ<span style="color: #e6a64d;">鷲</span>のようであった。</li>
           <li value="08">
             <p>この四つの生き物には、それぞれ<span style="color: #e6a64d;">六つの翼</span>があり、その周りにも内側にも、一面に目があった。
           彼らは、昼も夜も絶え間なく言い続けた。</p>
-            <blockquote>
-              <p><q style="quotes: '「' '」';">聖なるかな、聖なるかな、聖なるかな、全能者である神、主、かつておられ、今おられ、やがて来られる方。</q></p>
-            </blockquote>
+            <p class="conversation">「聖なるかな、聖なるかな、聖なるかな、全能者である神、主、かつておられ、今おられ、やがて来られる方。」</p>
           </li>
-          <li><span style="color: #999;">（...）</span></li>
+        </ol>
+      <footer>
+        <ol class="doc">
+          <li><span style="color: #999;">（…）</span></li>
+        </ol>
+      </footer>
+      </blockquote>
+
+      <blockquote id="renvoi-apocalypse-5-1" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-5-1">
+        <ol class="doc">
           <li>第５章</li>
           <li value="01">「またわたしは、玉座に座っておられる方の右の手に<span style="color: #e6a64d;">巻物</span>があるのを見た。表にも裏にも字が書いてあり、<span style="color: #e6a64d;">七つの封印</span>で封じられていた。」</li>
-          <li><span style="color: #999;">（...）</span></li>
+        </ol>
+      <footer>
+        <ol class="doc">
+          <li><span style="color: #999;">（…）</span></li>
+        </ol>
+      </footer>
+      </blockquote>
+
+      <blockquote id="renvoi-apocalypse-5-6" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-5-6">
+        <ol class="doc">
           <li value="06">「わたしはまた、玉座と四つの生き物の間、長老たちの間に、屠られたような<span style="color: #e6a64d;">小羊が立っている</span>のを見た。小羊には七つの角と七つの目があった。この七つの目は、全地に遣わされている神の七つの霊である。」</li>
           <li value="07">小羊は進み出て、玉座に座っておられる方の右の手から、巻物を受け取った。</li>
-          <li><span style="color: #999;">（...）</span></li>
-        </ol>
-
-
+            </ol>
+          </blockquote>
 
 
 <!-- Page 11 --><hr>
@@ -1788,22 +1813,26 @@
 
   <h5 class="yellow"><cite>黙示録</cite>での四人騎士</h5>
 
+      <p>語りが虹とヨハネの間に続く。</p>
 
 
       <h6 class="yellow">第一の封印：白い馬　＝　<cite>黙示録</cite>、第６章１～２節</h6>
 
+          <header>
+            <ol class="doc">
+              <li>第６章</li>
+            </ol>
+          </header>
 
-          <p>語りが虹とヨハネの間に続く。</p>
-
-        
-
+        <blockquote id="renvoi-apocalypse-6-1" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-6-1">
           <ol class="doc">
-            <li>第６章</li>
-            <li value="01">また、わたしが見ていると、小羊が七つの封印の一つを開いた。すると、四つの生き物の一つが、雷のような声で「出て来い」と言うのを、わたしは聞いた。</li>
+            <li value="01">
+              <p>また、わたしが見ていると、小羊が七つの封印の一つを開いた。すると、四つの生き物の一つが、雷のような声で</p>
+              <p class="conversation>「出て来い」と言うのを、わたしは聞いた。</p>
+            </li>
             <li value="02">そして見ていると、見よ、<span style="color: #e6a64d;">白い馬</span>が現れ、乗っている者は、<span style="color: #e6a64d;">弓</span>を持っていた。彼は<span style="color: #e6a64d;">冠</span>を与えられ、勝利の上に更に勝利を得ようと出て行った。</li>
           </ol>
-
-
+        </blockquote>
 
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -1823,19 +1852,19 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《白い馬》<br>
-        「乗っている者は、弓を持っていた。彼は冠を与えられ、勝利の上に更に勝利を得ようと出て行った」、<cite>黙示録</cite>、第４章・２節</figcaption>
+        <q cite="#renvoi-apocalypse-6-1" style="quotes:'「' '」';">乗っている者は、弓を持っていた。彼は冠を与えられ、勝利の上に更に勝利を得ようと出て行った</q>、<cite>黙示録</cite>、第４章・２節</figcaption>
       </figure>
 
 
 
       <h6 class="yellow">第二封印：火のように赤い馬　＝　<cite>黙示録</cite>、第６章３～４節</h6>
 
-
+      <blockquote id="renvoi-apocalypse-6-3" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-6-3">
         <ol class="doc">
           <li value="03">小羊が第二の封印を開いたとき、第二の生き物が「出て来い」と言うのを、わたしは聞いた。</li>
           <li value="04">すると、<span style="color: #e6a64d;">火のように赤い</span>別の<span style="color: #e6a64d;">馬</span>が現れた。その馬に乗っている者には、地上から平和を奪い取って、殺し合いをさせる力が与えられた。また、この者には大きな<span style="color: #e6a64d;">剣</span>が与えられた。</li>
         </ol>
-
+      </blockquote>
 
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -1855,7 +1884,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《火のように赤い馬》<br>
-        「その馬に乗っている者には、地上から平和を奪い取って、殺し合いをさせる力が与えられた。また、この者には大きな剣が与えられた」、<cite>黙示録</cite>、第４章・４節</figcaption>
+        <q cite="#renvoi-apocalypse-6-3" style="quotes:'「' '」';">その馬に乗っている者には、地上から平和を奪い取って、殺し合いをさせる力が与えられた。また、この者には大きな剣が与えられた</q>、<cite>黙示録</cite>、第４章・４節</figcaption>
       </figure>
 
     
@@ -1863,13 +1892,17 @@
       <h6 class="yellow">第三封印：黒い馬　＝　<cite>黙示録</cite>、第６章５～６節</h6>
 
 
+      <blockquote id="renvoi-apocalypse-6-5" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-6-5">
         <ol class="doc">
           <li value="05">小羊が第三の封印を開いたとき、第三の生き物が「出て来い」と言うのを、わたしは聞いた。
           そして見ていると、見よ、<span style="color: #e6a64d;">黒い馬</span>が現れ、乗っている者は、手に<span style="color: #e6a64d;">秤</span>を持っていた。</li>
-          <li value="06">わたしは、四つの生き物の間から出る声のようなものが、こう言うのを聞いた。「小麦は一コイニクスで一デナリオン。
-          大麦は三コイニクスで一デナリオン。オリーブ油とぶどう酒とを損なうな。」</li>
+          <li value="06">
+            <p>わたしは、四つの生き物の間から出る声のようなものが、こう言うのを聞いた。</p>
+            <p class="conversation">「小麦は一コイニクスで一デナリオン。大麦は三コイニクスで一デナリオン。オリーブ油とぶどう酒とを損なうな。」
+            </p>
+          </li>
         </ol>
-
+      </blockquote>
 
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -1888,27 +1921,25 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《黒い馬》<br>「乗っている者は、手に秤を持っていた」、<cite>黙示録</cite>、第４章・５節</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/3eme-cavalier-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《黒い馬》<br><q cite="#renvoi-apocalypse-6-5" style="quotes:'「' '」';">乗っている者は、手に秤を持っていた</q>、<cite>黙示録</cite>、第６章・５節</figcaption>
       </figure>
 
     
 
       <h6 class="yellow">>第四封印：青白い馬　＝　<cite>黙示録</cite>、第６章７～８節</h6>
-      
 
+      <blockquote id="renvoi-apocalypse-6-7" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-6-7">
         <ol class="doc">
           <li value="07">
             <p>小羊が第四の封印を開いたとき、</p>
-            <blockquote>
-              <p>「出て来い」と言う</p>
-            </blockquote>
+            <p class="conversation">「出て来い」と言う</p>
             <p>第四の生き物の声を、わたしは聞いた。</p>
           </li>
           <li value="08">こそして見ていると、見よ、<span style="color: #e6a64d;">青白い馬</span>が現れ、乗っている者の名は<span style="color: #e6a64d;">「死」</span>といい、これに<span style="color: #e6a64d;">陰府</span>が従っていた。</li>
           <li>彼らには、地上の四分の一を支配し、剣と飢饉と死をもって、更に地上の野獣で人を滅ぼす権威が与えられた。 </li>
           <li><span style="color: #999;">（...）</span></li>
         </ol>
-
+      </blockquote>
 
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -1927,29 +1958,25 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《青白い馬、「死」、陰府》<br>「乗っている者の名は「死」といい、これに陰府が従っていた。」、<cite>黙示録</cite>、第４章・５節</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/4eme-cavalier-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《青白い馬、「死」、陰府》<br><q cite="#renvoi-apocalypse-6-7" style="quotes:'「' '」';">乗っている者の名は「死」といい、これに陰府が従っていた。</q>、<cite>黙示録</cite>、第４章・５節</figcaption>
       </figure>
 
     
 
       <h6 class="yellow">四人騎士の周りの風景　＝　<cite>黙示録</cite>、第６章１４～１７節</h6>
 
-
+      <blockquote id="renvoi-apocalypse-6-14" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-6-14">
         <ol class="doc">
           <li value="14">天は巻物が巻き取られるように消え去り、山も島も、みなその場所から移された。</li>
           <li value="15"><span style="color: #e6a64d;">地上の王、高官、千人隊長、富める者、力ある者、また、奴隷も自由な身分の者もことごとく、洞穴や山の岩間に隠れ</span></li>
           <li value="16"><p>山と岩に向かって、</p>
-          <blockquote>
-            <p><q style="quotes: '「' '」';">わたしたちの上に覆いかぶさって、玉座に座っておられる方の顔と小羊の怒りから、わたしたちをかくまってくれ</q>と言った。</p>
-          </blockquote>
+          <p class="conversation">「わたしたちの上に覆いかぶさって、玉座に座っておられる方の顔と小羊の怒りから、わたしたちをかくまってくれ」と言った。</p>
           </li>
           <li value="17">
-          <blockquote>
-            <p><q style="quotes: '「' '」';">神と小羊の怒りの大いなる日が来たからである。だれがそれに耐えられるであろうか。</q></p>
-          </blockquote>
+          <p class="conversation">「神と小羊の怒りの大いなる日が来たからである。だれがそれに耐えられるであろうか。」</p>
           </li>
         </ol>
-
+      </blockquote>
 
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -1968,23 +1995,27 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《四騎士の周りの風景》、<cite>黙示録</cite>、第６章１４～１７節</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《四騎士の周りの風景》、<q cite="#renvoi-apocalypse-6-14" style="quotes:'「' '」';">山も島も、みなその場所から移された</q><cite>黙示録</cite>、第６章１４～１７節</figcaption>
       </figure>
-
 
 
 <!-- Page 12 --><hr>
 
 
-
     <h5 class="yellow">第七封印の天使たち　＝　<cite>黙示録</cite>、第８章１～２節</h5>
 
-
+    <header>
       <ol class="doc">
         <li>第８章</li>
+      </ol>
+    </header>
+
+    <blockquote id="renvoi-apocalypse-8-1" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-1">
+      <ol class="doc">
         <li value="01">小羊が第七の封印を開いたとき、天は半時間ほど沈黙に包まれた。</li>
         <li value="02">そして、わたしは<span style="color: #e6a64d;">七人の天使</span>が神の御前に立っているのを見た。彼らには<span style="color: #e6a64d;">七つのラッパ</span>が与えられた。</li>
       </ol>
+    </blockquote>
 
 
     <figure>
@@ -2004,18 +2035,18 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《第七の封印の天使たち》、<cite>黙示録</cite>、第８章１～２節</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《第七の封印の天使たち》。<br><q cite="#renvoi-apocalypse-8-1" style="quotes:'「' '」';">神の御前に立っているのを見た。彼らには七つのラッパが与えられた</q>、<cite>黙示録</cite>、第８章１～２節</figcaption>
     </figure>
 
 
 
     <h5 class="yellow">祭壇の天使　＝　<cite>黙示録</cite>、第８章３～５節</h5>
 
-
+    <blockquote id="renvoi-apocalypse-8-3" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-3">
       <ol class="doc">
         <li value="03">また、別の天使が来て、手に<span style="color: #e6a64d;">金の香炉</span>を持って祭壇のそばに立つと、この天使に多くの香が渡された。すべての聖なる者たちの祈りに添えて、玉座の前にある<span style="color: #e6a64d;">金の祭壇</span>に献げるためである。</li>
       </ol>
-
+    </blockquote>
 
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -2034,28 +2065,28 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《祭壇の天使》、<cite>黙示録</cite>、第８章３～５節</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、<q cite="#renvoi-apocalypse-8-3" style="quotes:'«' '»';">金の香炉を持</q>つ《祭壇の天使》、<cite>黙示録</cite>、第８章３～５節</figcaption>
     </figure>
 
-
+    <blockquote id="renvoi-apocalypse-8-4" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-4">
       <ol class="doc">
         <li value="04">香の煙は、天使の手から、聖なる者たちの祈りと共に神の御前へ立ち上った。</li>
         <li value="05">それから、天使が香炉を取り、それに祭壇の火を満たして地上へ投げつけると、雷、さまざまな音、稲妻、地震が起こった。</li>
         <li value="06">さて、七つのラッパを持っている七人の天使たちが、ラッパを吹く用意をした。</li>
       </ol>
-
+    </blockquote>
 
 
 
     <h5 class="yellow">火で燃えている大きな山の墜落　＝　<cite>黙示録</cite>、第８章６～９節</h5>
 
-
+    <blockquote id="renvoi-apocalypse-8-6" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-6">
       <ol class="doc">
        <li value="07">第一の天使がラッパを吹いた。すると、血の混じった<ruby>雹<rp>（</rp><rt>ひょう</rt><rp>）</rp></ruby>と火とが生じ、地上に投げ入れられた。地上の三分の一が焼け、木々の三分の一が焼け、すべての青草も焼けてしまった。</li>
         <li value="08">第二の天使がラッパを吹いた。すると、<span style="color: #e6a64d;">火で燃えている大きな山</span>のようなものが、海に投げ入れられた。海の三分の一が血に変わり、</li>
         <li value="09">また、被造物で海に住む生き物の三分の一は死に、<span style="color: #e6a64d;">船という船の三分の一が壊された</span>。</li>
       </ol>
-
+    </blockquote>
 
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -2074,20 +2105,18 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《火で燃えている大きな山の墜落、船の三分の一が壊された》、<cite>黙示録</cite>、第８章６～９節</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《火で燃えている大きな山の墜落、船の三分の一が壊された》。<br>q cite="#renvoi-apocalypse-8-6" style="quotes:'「' '」';">船という船の三分の一が壊された</q>、<cite>黙示録</cite>、第８章６～９節</figcaption>
     </figure>
 
 
 
     <h5 class="yellow">「苦よもぎ」という星の墜落 　＝　<cite>黙示録</cite>、第８章１０～１２節</h5>
 
-
+    <blockquote id="renvoi-apocalypse-8-10" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-10">
       <ol class="doc">
         <li value="10">第三の天使がラッパを吹いた。すると、<span style="color: #e6a64d;">松明のように燃えている大きな星</span>が、天から落ちて来て、川という川の三分の一と、その水源の上に落ちた。</li>
-        <li value="11">この星の名は<span style="color: #e6a64d;">「苦よもぎ」</span>といい、水の三分の一が苦よもぎのように苦くなって、そのために多くの人が死んだ。</li>
-        <li value="12">第四の天使がラッパを吹いた。すると、太陽の三分の一、月の三分の一、星という星の三分の一が損なわれたので、それぞれ三分の一が暗くなって、昼はその光の三分の一を失い、夜も同じようになった。</li>
       </ol>
-
+    </blockquote>
 
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -2106,21 +2135,28 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《「苦よもぎ」という星の墜落》<br>「松明のように燃えている大きな星が、天から落ちて」（…）「水の三分の一が苦よもぎのように苦くなって、そのために多くの人が死んだ」、<cite>黙示録</cite>、第８章１０～１２節</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《「苦よもぎ」という星の墜落》。<br><q cite="#renvoi-apocalypse-8-11" style="quotes:'「' '」';">松明のように燃えている大きな星が、天から落ちて</q>（…）「水の三分の一が苦よもぎのように苦くなって、そのために多くの人が死んだ」、<cite>黙示録</cite>、第８章１０～１２節</figcaption>
     </figure>
 
-
-
-    <h5 class="yellow">la chute de l'étoile “absinthe”　＝　<cite>黙示録</cite>、第８章１３節</h5>
-
-
+    <blockquote id="renvoi-apocalypse-8-11" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-11">
       <ol class="doc">
-        <li value="13"><p>また、見ていると、一羽の<span style="color: #e6a64d;">鷲</span>が空高く飛びながら、大声でこう言うのが聞こえた。</p>
-        <blockquote>
-          <p><q style="quotes: '「' '」';">不幸だ、不幸だ、不幸だ、地上に住む者たち。なお三人の天使が吹こうとしているラッパの響きのゆえに。</q></p>
-        </blockquote>
+        <li value="11">この星の名は<span style="color: #e6a64d;">「苦よもぎ」</span>といい、水の三分の一が苦よもぎのように苦くなって、そのために多くの人が死んだ。</li>
+        <li value="12">第四の天使がラッパを吹いた。すると、太陽の三分の一、月の三分の一、星という星の三分の一が損なわれたので、それぞれ三分の一が暗くなって、昼はその光の三分の一を失い、夜も同じようになった。</li>
+      </ol>
+    </blockquote>
+
+    <h5 class="yellow">鷲の<ruby>飛<rp>（</rp><rt style="font-size: 70%;color:#999">ひ</rt><rp>）</rp>翔<rp>（</rp><rt style="font-size: 70%;color:#999">しょう</rt><rp>）</rp></ruby>　＝　<cite>黙示録</cite>、第８章１３節</h5>
+
+    <blockquote id="renvoi-apocalypse-8-13" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-13">
+      <ol class="doc">
+        <li value="13">
+          <p>また、見ていると、一羽の<span style="color: #e6a64d;">鷲</span>が空高く飛びながら、大声でこう言うのが聞こえた。</p>
+          <p class="conversation">
+            「不幸だ、不幸だ、不幸だ、地上に住む者たち。なお三人の天使が吹こうとしているラッパの響きのゆえに。」
+          </p>
         </li>
       </ol>
+    </blockquote>
 
 
     <figure>
@@ -2140,7 +2176,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《鷲の<ruby>飛<rp>（</rp><rt style="font-size: 70%;color:#999">ひ</rt><rp>）</rp>翔<rp>（</rp><rt style="font-size: 70%;color:#999">しょう</rt><rp>）</rp></ruby>》、<cite>黙示録</cite>、第８章１３節</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《鷲の<ruby>飛<rp>（</rp><rt style="font-size: 70%;color:#999">ひ</rt><rp>）</rp>翔<rp>（</rp><rt style="font-size: 70%;color:#999">しょう</rt><rp>）</rp></ruby>》。<br><q cite="#renvoi-apocalypse-8-13" style="quotes:'「' '」';">空高く</q>、<cite>黙示録</cite>、第８章１３節</figcaption>
     </figure>
 
 
@@ -2148,20 +2184,22 @@
 
 
 
-    <h5 class="yellow">la sortie vers la terre des sauterelles　＝　<cite>黙示録</cite>、第９章１～１１節</h5>
+    <h5 class="yellow">いなごの群れの地上への出　＝　<cite>黙示録</cite>、第９章１～１１節</h5>
 
-
-
+      <header>
         <ol class="doc">
           <li>第９章</li>
+        </ol>
+      </header>
+
+
+      <blockquote id="renvoi-apocalypse-9-1" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-9-1">
+        <ol class="doc">
           <li value="01">第五の天使がラッパを吹いた。すると、一つの星が天から地上へ落ちて来るのが見えた。この星に、<span style="color: #e6a64d;">底なしの淵に通じる穴を開く鍵</span>が与えられ、</li>
           <li value="02">それが底なしの淵の穴を開くと、<span style="color: #e6a64d;">大きなかまどから出るような煙</span>が穴から立ち上り、太陽も空も穴からの煙のために暗くなった。</li>
           <li value="03">そして、煙の中から、<span style="color: #e6a64d;">いなご</span>の群れが地上へ出て来た。このいなごには、地に住むさそりが持っているような力が与えられた。</li>
-          <li value="04">いなごは、地の草やどんな青物も、またどんな木も損なってはならないが、ただ、額に神の刻印を押されていない人には害を加えてもよい、と言い渡された。</li>
-          <li value="05">殺してはいけないが、五か月の間、苦しめることは許されたのである。いなごが与える苦痛は、さそりが人を刺したときの苦痛のようであった。</li>
-          <li value="06">この人々は、その期間、死にたいと思っても死ぬことができず、切に死を望んでも、死の方が逃げて行く。</li>
         </ol>
-
+      </blockquote>
       
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -2180,11 +2218,14 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《いなごの群れの地上への出》、<cite>黙示録</cite>、第１０章１～２節</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《いなごの群れの地上への出》。<br>このいなごには、<q cite="#renvoi-apocalypse-9-1" style="quotes:'「' '」';">力が与えられた</q>、<cite>黙示録</cite>、第１０章３節</figcaption>
       </figure>
 
-
+      <blockquote id="renvoi-apocalypse-9-4" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-9-4">
         <ol class="doc">
+          <li value="04">いなごは、地の草やどんな青物も、またどんな木も損なってはならないが、ただ、額に神の刻印を押されていない人には害を加えてもよい、と言い渡された。</li>
+          <li value="05">殺してはいけないが、五か月の間、苦しめることは許されたのである。いなごが与える苦痛は、さそりが人を刺したときの苦痛のようであった。</li>
+          <li value="06">この人々は、その期間、死にたいと思っても死ぬことができず、切に死を望んでも、死の方が逃げて行く。</li>
           <li value="07">さて、<span style="color: #e6a64d;">いなご</span>の姿は、出陣の用意を整えた馬に似て、頭には金の冠に似たものを着け、顔は人間の顔のようであった。</li>
           <li value="08">また、髪は女の髪のようで、歯は獅子の歯のようであった。</li>
           <li value="09">また、胸には鉄の胸当てのようなものを着け、その羽の音は、多くの馬に引かれて戦場に急ぐ戦車の響きのようであった。</li>
@@ -2192,19 +2233,24 @@
           <li value="11">いなごは、底なしの淵の使いを王としていただいている。その名は、ヘブライ語でアバドンといい、ギリシア語の名はアポリオンという。</li>
           <li><span style="color: #999;">（…）</span></li>
         </ol>
+      </blockquote>
 
 
+      <h5 class="yellow">天から降って来る天使　＝　<cite>黙示録</cite>、第１０章１～３節</h5>
 
-
-      <h5 class="yellow">天から降って来る天使　＝　<cite>黙示録</cite>、第１０章１～２節</h5>
-
-
+      <header>
         <ol class="doc">
           <li>第１０章</li>
+        </ol>
+      </header>
+
+      <blockquote id="renvoi-apocalypse-10-1" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-10-1">
+        <ol class="doc">
           <li value="01">わたしはまた、もう一人の力強い<span style="color: #e6a64d;">天使</span>が、<span style="color: #e6a64d;">雲を身</span>にまとい、天から降って来るのを見た。頭には<span style="color: #e6a64d;">虹</span>をいただき、顔は<span style="color: #e6a64d;">太陽</span>のようで、足は<span style="color: #e6a64d;">火の柱</span>のようであり、</li>
           <li value="02">手には<span style="color: #e6a64d;">開いた小さな巻物</span>を持っていた。そして、右足で海を、左足で地を踏まえて、</li>
+          <li value="03">獅子がほえるような大声で叫んだ。天使が叫んだとき、七つの雷がそれぞれの声で語った。</li>
         </ol>
-
+      </blockquote>
 
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -2223,22 +2269,29 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《天から降って来る天使》<br>「わたしはまた、もう一人の力強い天使が、雲を身にまとい、天から降って来るのを見た。頭には虹をいただき、顔は太陽のようで、足は火の柱のようであり、
-        手には開いた小さな巻物を持っていた。そして、右足で海を、左足で地を踏まえて」、<cite>黙示録</cite>、第１０章１～２節</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《天から降って来る天使》。<br><q cite="#renvoi-apocalypse-10-1" style="quotes:'「' '」';">わたしはまた、もう一人の力強い天使が、雲を身にまとい、天から降って来るのを見た。頭には虹をいただき、顔は太陽のようで、足は火の柱のようであり、手には開いた小さな巻物を持っていた。そして、右足で海を、左足で地を踏まえて</q>、<cite>黙示録</cite>、第１０章１～３節</figcaption>
       </figure>
 
 
 
       <h5 class="yellow">黙示録の空　＝　<cite>黙示録</cite>、第１０章３～６節</h5>
 
-
+      <blockquote id="renvoi-apocalypse-10-4" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-10-4">
         <ol class="doc">
-          <li value="03">獅子がほえるような大声で叫んだ。天使が叫んだとき、七つの雷がそれぞれの声で語った。</li>
-          <li value="04">七つの雷が語ったとき、わたしは書き留めようとした。すると、天から声があって、「七つの雷が語ったことは秘めておけ。それを書き留めてはいけない」と言うのが聞こえた。</li>
+          <li value="04">
+            <p>七つの雷が語ったとき、わたしは書き留めようとした。すると、天から声があって、</p>
+            <p class="conversation">
+              「七つの雷が語ったことは秘めておけ。それを書き留めてはいけない」
+            </p>
+            <p>と言うのが聞こえた。</p>
+          </li>
           <li value="05">すると、海と地の上に立つのをわたしが見たあの天使が、右手を天に上げ、</li>
-          <li value="06">世々限りなく生きておられる方にかけて誓った。すなわち、天とその中にあるもの、地とその中にあるもの、海とその中にあるものを創造された方にかけてこう誓った。「もはや時がない」。</li>
+          <li value="06">
+            <p>世々限りなく生きておられる方にかけて誓った。すなわち、天とその中にあるもの、地とその中にあるもの、海とその中にあるものを創造された方にかけてこう誓った。</p>
+            <p class="conversation">「もはや時がない。」</p>
+          </li>
         </ol>
-
+      </blockquote>
 
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -2257,22 +2310,27 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《黙示録の空》、<cite>黙示録</cite>、第１２章１～４節</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《黙示録の空》。<br><q cite="#renvoi-apocalypse-10-4" style="quotes:'「' '」';"></q>、<cite>黙示録</cite>、第１２章３～６節</figcaption>
       </figure>
 
 
 
       <h5 class="yellow">女の人と竜　＝　<cite>黙示録</cite>、第１２章１～４節</h5>
 
+      <header>
+          <ol class="doc">
+            <li>第１２章</li>
+          </ol>
+        </header>
 
+        <blockquote id="renvoi-apocalypse-12-1" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-12-1">
         <ol class="doc">
-          <li>第１２章</li>
           <li value="01">また、天に大きなしるしが現れた。<span style="color: #e6a64d;">一人の女</span>が身に太陽をまとい、月を足の下にし、頭には十二の星の冠をかぶっていた。</li>
           <li value="02">女は身ごもっていたが、子を産む痛みと苦しみのため叫んでいた。</li>
           <li value="03">また、もう一つのしるしが天に現れた。見よ、火のように<span style="color: #e6a64d;">赤い大きな竜</span>である。これには七つの頭と十本の角があって、その頭に七つの冠をかぶっていた。</li>
           <li value="04">竜の尾は、天の星の三分の一を掃き寄せて、地上に投げつけた。そして、竜は子を産もうとしている女の前に立ちはだかり、産んだら、その子を食べてしまおうとしていた。</li>
         </ol>
-
+      </blockquote>
 
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -2291,14 +2349,14 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《女の人と竜》、<cite>黙示録</cite>、第１２章１～４節</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《女の人と竜》。<br><q cite="#renvoi-apocalypse-12-1" style="quotes:'「' '」';">竜は子を産もうとしている女の前に立ちはだかり、産んだら、その子を食べてしまおうとしていた</q>、<cite>黙示録</cite>、第１２章１～４節</figcaption>
       </figure>
 
 
 
       <h5 class="yellow">聖ミカエルと、竜とその使いたちの戦い。竜とその使いたちの墜落　＝　<cite>黙示録</cite>、第１２章５～９節</h5>
 
-
+      <blockquote id="renvoi-apocalypse-12-5" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-12-5">
         <ol class="doc">
           <li value="05">女は男の子を産んだ。この子は、鉄の杖ですべての国民を治めることになっていた。子は神のもとへ、その玉座へ引き上げられた。</li>
           <li value="06">女は荒れ野へ逃げ込んだ。そこには、この女が１２６０日の間養われるように、神の用意された場所があった。</li>
@@ -2306,7 +2364,7 @@
           <li value="08">勝てなかった。そして、もはや天には彼らの居場所がなくなった。</li>
           <li value="09">この巨大な竜、年を経た蛇、悪魔とかサタンとか呼ばれるもの、全人類を惑わす者は、投げ落とされた。地上に投げ落とされたのである。その使いたちも、もろともに投げ落とされた。</li>
         </ol>
-
+      </blockquote>
 
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -2325,7 +2383,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《聖ミカエルと、竜とその使いたちの戦い。竜とその使いたちの墜落》、<cite>黙示録</cite>、第１２章５～９節</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《聖ミカエルと、竜とその使いたちの戦い。竜とその使いたちの墜落》。<br><q cite="#renvoi-apocalypse-12-5" style="quotes:'「' '」';">全人類を惑わす者は、投げ落とされた。地上に投げ落とされたのである。その使いたちも、もろともに投げ落とされた</q>、<cite>黙示録</cite>、第１２章５～９節</figcaption>
       </figure>
 
 

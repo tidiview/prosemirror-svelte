@@ -1556,9 +1556,6 @@
           </ol>
           <p>We summarize the differences that distinguish these characters below.</p>
 
-
-
-
         <h5 class="yellow">John the “Apostle”</h5>
 
           <ul>
@@ -1577,29 +1574,34 @@
           </ul>
 
 
-
-
         <h5 id="disciple-que-jesus-aimait-2" class="yellow">the disciple whom jesus loved</h5>
 
           <ul>
             <li>
               <p><a href="https://en.wikipedia.org/wiki/Gospel_of_John" title="https://en.wikipedia.org/wiki/Gospel_of_John" id="disciple-que-jesus-aimait-3" class="yellow">The disciple whom Jesus loved</a> appears at the end of the gospel called «of John» <span style="color: #999;">(John chapter 21 verse 20; verses 24 to 25)</span>:</p>
+
               <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#21:20">
                 “Then Peter, turning around, saw a disciple following. <span style="color: #e6a64d;"><em>This was the disciple whom Jesus sincerely loved</em></span>.”
               </blockquote>
+
               <p><span style="color: #999;">(…)</span></p>
+
               <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#21:24">
                 “This is <span style="color: #e6a64d;">the disciple who testifies</span> about these things, and <span style="color: #e6a64d;">wrote</span> these things.”
               </blockquote>
+
               <p>There is nothing in the text that allows us to call him «John», so the designation “Gospel of John” cannot be right: it should be the “Gospel of the disciple whom Jesus loved”.</p>
               <p>He is quite an extraordinary character: he is a disciple of Jesus among others with whom every reader can identify, he is loved by Jesus himself and therefore finds himself closer to him than anyone else.</p>
               <p>He does not hesitate, just after the previous excerpt, to give his opinion <span style="color: #999;">(John chapter 21 verse 25)</span>:</p>
+
               <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#21:25">
                 “There are also many other things which Jesus did, which if they would all be written, <span style="color: #e6a64d;"><span style="text-decoration: underline;">I</span></span> suppose that even the world itself wouldn't have room for the books that would be written.”
               </blockquote>
+
             </li>
             <li>
               <p>Jesus himself, on the occasion of a question from Peter, expresses a wish for his destiny at the Last Supper <span style="color: #999;">(John chapter 21 verses 21 to 23)</span>:</p>
+
               <blockquote cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#21:21">
                 <p>Peter seeing this disciple, said to Jesus,</p>
                 <p class="conversation">
@@ -1610,9 +1612,10 @@
                   “If I desire that he stay until I come, what is that to you?”
                 </p>
               </blockquote>
+
           </li>
           <li>
-            <p>It is also him who <q cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#21:20">had also leaned on Jesus' breast</q>, he asks him who will betray him <span style="color: #999;">(John chapter 13 verses 23 to 26)</span>.</p>
+            <p>It is also him who <q cite="https://en.wikisource.org/wiki/Bible_(World_English)/John#13:23">had also leaned on Jesus' breast</q>, he asks him who will betray him <span style="color: #999;">(John chapter 13 verses 25)</span>.</p>
           </li>
           <li>
             <p>At the crucifixion, Jesus entrusted his own mother to him, saying <span style="color: #999;">(John chapter 19 verses 26 to 27)</span>:</p>
@@ -1825,14 +1828,19 @@
 
         <h5 class="yellow">The Four Horsemen of <cite>The Revelation</cite></h5>
 
+          <p>The narrative continues between the rainbow and John.</p>
+
 
           <h6 class="yellow">first seal: the white horse - <cite>The Revelation</cite>, chapter 6 verse 2</h6>
 
-            <p>The narrative continues between the rainbow and John.</p>
+            <header>
+              <ol class="doc">
+                <li>chapter 6</li>
+              </ol>
+            </header>
 
             <blockquote id="renvoi-apocalypse-6-1" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-6-1">
               <ol class="doc">
-                <li>chapter 6</li>
                 <li value="01">
                   <p>I saw that the Lamb opened one of the seven seals, and I heard one of the four living creatures saying, as with a voice of thunder,</p>
                   <p class="conversation">
@@ -1914,7 +1922,7 @@
                 <p>And behold, a <span style="color: #e6a64d;">black horse</span>, and he who sat on it had a <span style="color: #e6a64d;">balance</span> in his hand.</p>
               </li>
               <li value="06">
-              <p>I heard a voice in the midst of the four living creatures saying,</p>
+                <p>I heard a voice in the midst of the four living creatures saying,</p>
                 <p class="conversation">
                   “Achoenix of wheat for a denarius, and three choenix of barley for a denarius! Don't damage the oil and the wine!”
                 </p>
@@ -2022,15 +2030,19 @@
           </figure>
 
 
-
       <!-- Page 12 --><hr>
 
 
         <h5 class="yellow">the angels of the seventh seal - <cite>The Revelation</cite>, chapter 8 verses 1 to 2</h5>
 
-        <blockquote id="renvoi-apocalypse-8-1" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-1">
+            <header>
+              <ol class="doc">
+                <li>chapter 8</li>
+              </ol>
+            </header>
+
+            <blockquote id="renvoi-apocalypse-8-1" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-1">
           <ol class="doc">
-            <li>chapter 8</li>
             <li value="01">When he opened the seventh seal, there was silence in heaven for about half an hour.</li>
             <li value="02">I saw the <span style="color: #e6a64d;">seven angels</span> who stand before God, and <span style="color: #e6a64d;">seven trumpets</span> were given to them.</li>
           </ol>
@@ -2083,7 +2095,7 @@
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-840.jpg 840w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1280.jpg 1280w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1600.jpg 1600w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the angel of the altar”.<br>«having a golden censer», <cite>The Revelation</cite>, <q cite="#renvoi-apocalypse-8-3" style="quotes:'' '';">chapter 8 verse 3</q>.</figcaption>
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/autel-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the angel of the altar”.<br><q cite="#renvoi-apocalypse-8-3" style="quotes:'«' '»';">having a golden censer</q>, <cite>The Revelation</cite>, chapter 8 verse 3.</figcaption>
         </figure>
 
         <blockquote id="renvoi-apocalypse-8-4" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-4">
@@ -2123,7 +2135,7 @@
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-840.jpg 840w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1280.jpg 1280w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1600.jpg 1600w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, fall of “a great burning mountain was thrown into the sea”.<br>«One third of the ships were destroyed», <cite>The Revelation</cite>, <q cite="#renvoi-apocalypse-8-6" style="quotes:'' '';">chapter 8 verse 8</q>.</figcaption>
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, fall of <a great burning mountain was thrown into the sea”.<br>q cite="#renvoi-apocalypse-8-6" style="quotes:'«' '»';">One third of the ships were destroyed</q>, <cite>The Revelation</cite>, chapter 8 verse 8.</figcaption>
         </figure>
 
 
@@ -2153,7 +2165,7 @@
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-840.jpg 840w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1280.jpg 1280w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1600.jpg 1600w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the fall of the star called «Wormwood»”.<br>«a great star fell from the sky, burning like a torch» (…) «One third of the waters became wormwood. Many people died from the waters, because they were made bitter», <cite>The Revelation</cite>, <q cite="#renvoi-apocalypse-8-11" style="quotes:'' '';">chapter verse </q>.</figcaption>
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the fall of the star called «Wormwood»”.<br><q cite="#renvoi-apocalypse-8-11" style="quotes:'«' '»';">a great star fell from the sky, burning like a torch</q> (…) «One third of the waters became wormwood. Many people died from the waters, because they were made bitter», <cite>The Revelation</cite>, chapter 8 verses 8 à 12.</figcaption>
         </figure>
 
         <blockquote id="renvoi-apocalypse-8-11" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-11">
@@ -2163,19 +2175,18 @@
           </ol>
         </blockquote>
 
-
-
         <h5 class="yellow">the flight of the eagle - <cite>The Revelation</cite>, chapter 8 verse 13</h5>
 
-          <blockquote id="renvoi-apocalypse-8-13" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-13">
-            <ol class="doc">
-              <li value="13"><p>I saw, and I heard an <span style="color: #e6a64d;">eagle</span>, flying in mid heaven, saying with a loud voice,</p>
-                <p class="conversation">
-                  “Woe! Woe! Woe for those who dwell on the earth, because of the other voices of the trumpets of the three angels, who are yet to sound!”.
-                </p>
-              </li>
-            </ol>
-          </blockquote>
+        <blockquote id="renvoi-apocalypse-8-13" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-13">
+          <ol class="doc">
+            <li value="13">
+              <p>I saw, and I heard an <span style="color: #e6a64d;">eagle</span>, flying in mid heaven, saying with a loud voice,</p>
+              <p class="conversation">
+                “Woe! Woe! Woe for those who dwell on the earth, because of the other voices of the trumpets of the three angels, who are yet to sound!”.
+              </p>
+            </li>
+          </ol>
+        </blockquote>
 
         <figure>
           <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -2201,11 +2212,16 @@
       <!-- Page 13 --><hr>
 
 
-        <h5 class="yellow">the locusts' exit to the earth - <cite>The Revelation</cite>, chapter 9</h5>
+        <h5 class="yellow">the locusts' exit to the earth - <cite>The Revelation</cite>, chapter 9 verses 1 to 11</h5>
+
+        <header>
+          <ol class="doc">
+            <li>chapter 9</li>
+          </ol>
+        </header>
 
         <blockquote id="renvoi-apocalypse-9-1" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-9-1">
           <ol class="doc">
-            <li>chapter 9</li>
             <li value="01">The fifth angel sounded, and I saw a star from the sky which had fallen to the earth. The key to the pit of the <span style="color: #e6a64d;">abyss</span> was given to him.</li>
             <li value="02">He opened the pit of the abyss, and smoke went up out of the pit, like the <span style="color: #e6a64d;">smoke from a burning furnace</span>. The sun and the air were darkened because of the smoke from the pit,</li>
             <li value="03">Then out of the smoke came forth <span style="color: #e6a64d;">locusts</span> on the earth, and power was given to them, as the scorpions of the earth have power.</li>
@@ -2229,7 +2245,7 @@
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-840.jpg 840w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1280.jpg 1280w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1600.jpg 1600w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the sortie of locusts onto the earth”.<br><q cite="#renvoi-apocalypse-9-1" style="quotes:'«' '»';">power was given to them</q>, <cite>The Revelation</cite>, chapter 9 verse 1.</figcaption>
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the sortie of locusts onto the earth”.<br><q cite="#renvoi-apocalypse-9-1" style="quotes:'«' '»';">power was given to them</q>, <cite>The Revelation</cite>, chapter 9 verse 3.</figcaption>
         </figure>
 
         <blockquote id="renvoi-apocalypse-9-4" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-9-4">
@@ -2247,13 +2263,16 @@
         </blockquote>
 
 
-
-
         <h5 class="yellow">the angel descended from heaven - <cite>The Revelation</cite>, chapter 10 verses 1 to 3</h5>
+
+        <header>
+          <ol class="doc">
+            <li>chapter 10</li>
+          </ol>
+        </header>
 
         <blockquote id="renvoi-apocalypse-10-1" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-10-1">
           <ol class="doc">
-            <li>chapter 10</li>
             <li value="01">I saw a mighty <span style="color: #e6a64d;">angel</span> coming down out of the sky, clothed with a <span style="color: #e6a64d;">cloud</span>. A <span style="color: #e6a64d;">rainbow</span> was on his head. His face was like the sun, and his feet like <span style="color: #e6a64d;">pillars of fire</span>.</li>
             <li value="02">He had in his hand a little open <span style="color: #e6a64d;">book</span>.</li>
             <li>He set his right foot on the sea, and his left on the land.</li>
@@ -2316,7 +2335,7 @@
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-840.jpg 840w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1280.jpg 1280w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1600.jpg 1600w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “The heaven of Revelation”.<br><q cite="#renvoi-apocalypse-10-4" style="quotes:'«' '»';">the seven thunders sounded</q>, <cite>The Revelation</cite>, chapter 12.</figcaption>
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “The heaven of Revelation”.<br><q cite="#renvoi-apocalypse-10-4" style="quotes:'«' '»';">the seven thunders sounded</q>, <cite>The Revelation</cite>, chapter 10 verses 3 to 6.</figcaption>
         </figure>
 
 
