@@ -1486,10 +1486,7 @@
 
     <h5 class="yellow"><cite>黄金伝説</cite>と<cite>黙示録</cite>においての福音書記者ヨハネについての注意すべき事項</h5>
 
-
-
         <p>中央パネルの後景の上と右に福音書記者ヨハネの伝説の諸場面が表わされている。</p>
-
 
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -1508,9 +1505,10 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/paysage-droit-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/paysage-droit-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/paysage-droit-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/paysage-droit-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、《右半分の遠景への開き》：福音書記者ヨハネの伝説の諸場面</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/paysage-droit-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、《右半分の遠景への開き》：<cite>福音書記者ヨハネの伝説</cite>の諸場面</figcaption>
       </figure>
 
+      <h5 class="yellow"><cite>福音書記者ヨハネの伝説</cite>と<cite>黙示録</cite>においての詳細</h5>
 
         <p>洗礼者ヨハネと違って、歴史的視点から、キリスト教的信仰から生じたの他、<span style="color: #e6a64d;">なんの歴史的資料も存在しません</span>。</p>
         <p>それらのキリスト教からの資料と現代の専門家たちに寄りますと、<span style="color: #e6a64d;">福音書記者ヨハネが以下の人物を指しえます</span>：</p>
@@ -1520,73 +1518,78 @@
           <li><a href="https://fr.wikipedia.org/wiki/Jean_de_Patmos" title="https://fr.wikipedia.org/wiki/Jean_de_Patmos" id="jean-de-patmos" class="yellow">「パトモス島の」ヨハネ</a>。黙示録の書記者。</li>
         </ol>
 
-
-
-
       <h5 class="yellow">「使徒」ヨハネ</h5>
 
-
         <ul>
-          <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" id="jean-l-apotre-3" class="yellow">「使徒」ヨハネ</a>は<span style="color: #e6a64d;">「<a href="https://ja.wikipedia.org/wiki/ゼベダイの子" title="https://ja.wikipedia.org/wiki/ゼベダイの子" id="zebedee" class="yellow">ゼベダイ</a>のニ人の子の内の一人」</span><span style="color: #999;">（マルコ、第３章・１６～１９節、マタイ、第１０章・２～５節とルカ、第６章・１３～１６節）</span>。
-        彼の兄弟は<a href="https://ja.wikipedia.org/wiki/ヤコブ_(ゼベダイの子)" title="https://ja.wikipedia.org/wiki/https://fr.wikipedia.org/wiki/ヤコブ_(ゼベダイの子)" id="jacques-le-majeur" class="yellow">「大」というヤコブ</a>です。</li>
-        <li>イエスが彼たちを<span style="color: #e6a64d;">「雷の子ら」</span>と呼んでいる<span style="color: #999;">（マルコ、第３章・１７節）</span>。</li>
-        <li>兄弟と他の弟子のニ人だった<a href="https://ja.wikipedia.org/wiki/ペトロ" title="https://ja.wikipedia.org/wiki/ペトロ" id="simon-pierre" class="yellow">シモン・ペトロ</a>と<a href="https://ja.wikipedia.org/wiki/アンデレ" title="https://ja.wikipedia.org/wiki/アンデレ" class="yellow">アンデレ</a>と同様に、彼はイエスに従うために自分の網を捨てる<a href="https://ja.wikipedia.org/wiki/ガリラヤ湖" title="https://ja.wikipedia.org/wiki/ガリラヤ湖" id="tiberiade" class="yellow">ティベリアス湖</a><span style="color: #e6a64d;">の漁師の一人</span>です。</li>
-        <li>そこから、
-          <ul>
-            <li><a href="https://ja.wikipedia.org/wiki/主イエスの変容" title="https://ja.wikipedia.org/wiki/主イエスの変容" id="transfiguration" class="yellow">イエスの変容</a><span style="color: #999;">（マルコ、第９章・２節、マタイ、第１７章・１節とルカ、第９章・２８節）</span>、</li>
-            <li><a href="https://fr.wikipedia.org/wiki/Guérison_de_la_belle-mère_de_Pierre" title="https://fr.wikipedia.org/wiki/Guérison_de_la_belle-mère_de_Pierre" id="guerison-de-la-belle-mere-de-pierre" class="yellow">シモン・ペトロの<ruby>姑<rp>（</rp><rt>しゅうとめ</rt><rp>）</rp></ruby>の癒し</a> <span style="color: #999;">（マルコ、第１章・２９節）</span>、</li>
-            <li>シナゴーグの頭だった<a href="https://ja.wikipedia.org/wiki/Fille_de_Jaïre" title="https://ja.wikipedia.org/wiki/Fille_de_Jaïre" id="fille-de-jaire" class="yellow">ヤイロの娘の癒し</a><span style="color: #999;">（マルコ、第５章・３７節とルカ、第８章・５１節）</span>を証し、兄弟と一緒にイエスが<a href="https://ja.wikipedia.org/wiki/ゲツセマネの祈り" title="https://ja.wikipedia.org/wiki/ゲツセマネの祈り" id="agonie-dans-le-jardin-des-oliviers" class="yellow">ゲッセマネの園</a>であきらめることに誘惑される時に<span style="color: #999;">（マルコ、第１３章・３節）</span>いますが、彼は睡眠に落ちいる<span style="color: #999;">（マルコ、第１４章・３３節）</span>。</li>
+          <li>
+            <a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme" id="jean-l-apotre-3" class="yellow">「使徒」ヨハネ</a>は<span style="color: #e6a64d;">「<a href="https://ja.wikipedia.org/wiki/ゼベダイの子" title="https://ja.wikipedia.org/wiki/ゼベダイの子" id="zebedee" class="yellow">ゼベダイ</a>のニ人の子の内の一人」</span><span style="color: #999;">（マルコ、第３章・１６～１９節、マタイ、第１０章・２～５節とルカ、第６章・１３～１６節）</span>。
+            彼の兄弟は<a href="https://ja.wikipedia.org/wiki/ヤコブ_(ゼベダイの子)" title="https://ja.wikipedia.org/wiki/https://fr.wikipedia.org/wiki/ヤコブ_(ゼベダイの子)" id="jacques-le-majeur" class="yellow">「大」というヤコブ</a>です。
+          </li>
+          <li>
+            イエスが彼たちを<span style="color: #e6a64d;">「雷の子ら」</span>と呼んでいる<span style="color: #999;">（マルコ、第３章・１７節）</span>。
+          </li>
+          <li>
+            兄弟と他の弟子のニ人だった<a href="https://ja.wikipedia.org/wiki/ペトロ" title="https://ja.wikipedia.org/wiki/ペトロ" id="simon-pierre" class="yellow">シモン・ペトロ</a>と<a href="https://ja.wikipedia.org/wiki/アンデレ" title="https://ja.wikipedia.org/wiki/アンデレ" class="yellow">アンデレ</a>と同様に、彼はイエスに従うために自分の網を捨てる<a href="https://ja.wikipedia.org/wiki/ガリラヤ湖" title="https://ja.wikipedia.org/wiki/ガリラヤ湖" id="tiberiade" class="yellow">ティベリアス湖</a><span style="color: #e6a64d;">の漁師の一人</span>です。
+          </li>
+          <li>そこから、
+            <ul>
+              <li><a href="https://ja.wikipedia.org/wiki/主イエスの変容" title="https://ja.wikipedia.org/wiki/主イエスの変容" id="transfiguration" class="yellow">イエスの変容</a><span style="color: #999;">（マルコ、第９章・２節、マタイ、第１７章・１節とルカ、第９章・２８節）</span>、</li>
+              <li><a href="https://fr.wikipedia.org/wiki/Guérison_de_la_belle-mère_de_Pierre" title="https://fr.wikipedia.org/wiki/Guérison_de_la_belle-mère_de_Pierre" id="guerison-de-la-belle-mere-de-pierre" class="yellow">シモン・ペトロの<ruby>姑<rp>（</rp><rt>しゅうとめ</rt><rp>）</rp></ruby>の癒し</a> <span style="color: #999;">（マルコ、第１章・２９節）</span>、</li>
+              <li>シナゴーグの頭だった<a href="https://ja.wikipedia.org/wiki/Fille_de_Jaïre" title="https://ja.wikipedia.org/wiki/Fille_de_Jaïre" id="fille-de-jaire" class="yellow">ヤイロの娘の癒し</a><span style="color: #999;">（マルコ、第５章・３７節とルカ、第８章・５１節）</span>を証し、兄弟と一緒にイエスが<a href="https://ja.wikipedia.org/wiki/ゲツセマネの祈り" title="https://ja.wikipedia.org/wiki/ゲツセマネの祈り" id="agonie-dans-le-jardin-des-oliviers" class="yellow">ゲッセマネの園</a>であきらめることに誘惑される時に<span style="color: #999;">（マルコ、第１３章・３節）</span>いますが、彼は睡眠に落ちいる<span style="color: #999;">（マルコ、第１４章・３３節）</span>。</li>
             </ul>
           </li>
         </ul>
-
-
 
 
       <h5 id="disciple-que-jesus-aimait-2" class="yellow">イエスの愛しておられた弟子</h5>
 
 
         <ul>
-          <li><p><a href="https://ja.wikipedia.org/wiki/イエスの愛しておられた弟子" title="https://ja.wikipedia.org/wiki/イエスの愛しておられた弟子" id="disciple-que-jesus-aimait-3" class="yellow">イエスの愛しておられた弟子</a> が「ヨハネの」という福音の終わりに見えて来る<span style="color: #999;">（ヨハネ、第２１章・２０と２４～２５節）</span>:</p>
-          <blockquote>
-            <p><q style="quotes: '「' '」';">ペトロが振り向くと、<span style="color: #e6a64d;">イエスの愛しておられた弟子</span>がついて来るのが見えた。<span style="color: #999;">（…）</span>
-            これらのことについて<span style="color: #e6a64d;">証しをし、それを書いたのは、この弟子</span>である</q>。</p>
+          <li>
+            <p><a href="https://ja.wikipedia.org/wiki/イエスの愛しておられた弟子" title="https://ja.wikipedia.org/wiki/イエスの愛しておられた弟子" id="disciple-que-jesus-aimait-3" class="yellow">イエスの愛しておられた弟子</a> が「ヨハネの」という福音の終わりに見えて来る<span style="color: #999;">（ヨハネ、第２１章・２０と２４～２５節）</span>:</p>
+
+          <blockquote cite="https://www.bible.com/ja/bible/1819/JHN.21.新共同訳">
+            <p><q style="quotes: '「' '」';">ペトロが振り向くと、<span style="color: #e6a64d;">イエスの愛しておられた弟子</span>がついて来るのが見えた。
           </blockquote>
+
+          <span style="color: #999;">（…）</span>
+
+          <blockquote cite="https://www.bible.com/ja/bible/1819/JHN.21.新共同訳">
+            これらのことについて<span style="color: #e6a64d;">証しをし、それを書いたのは、この弟子</span>である。
+          </blockquote>
+
           <p>「ヨハネ」と呼称する文書での要素は一つもありませんので、 「ヨハネの福音」 との呼称が正しくなりえそうもありません。<q style="quotes: '「' '」';">イエスの愛しておられた弟子</q>の福音であるはずです。</p>
           <p>とても異常な人物です。どんな読者でもが自分と同一視できる他のイエスの弟子の内の一人であって、イエス自信から愛されて、従って他の誰よりも彼に親しくなっています。</p>
-          <p>彼は、以上の抜粋文書のすぐ後に、意見を述べることも迷いません：</p>
-          <blockquote>
-            <p><q style="quotes: '「' '」';">イエスのなさったことは、このほかにも、まだたくさんある。<span style="color: #e6a64d;"><span style="text-decoration: underline;">わたしは</span>思う。</span>その一つ一つを書くならば、世界もその書かれた書物を収めきれないであろう</q>。<span style="color: #999;">（ヨハネ、第２１章・２５節）</span>.</p>
-          </blockquote>
+          <p>彼は、以上の抜粋文書のすぐ後に、意見を述べることも迷いません<span style="color: #999;">（ヨハネ、第２１章・２５節）</span>：</p>
+
+            <blockquote cite="https://www.bible.com/ja/bible/1819/JHN.21.新共同訳">
+              <p>「イエスのなさったことは、このほかにも、まだたくさんある。<span style="color: #e6a64d;"><span style="text-decoration: underline;">わたしは</span>思う。</span>その一つ一つを書くならば、世界もその書かれた書物を収めきれないであろう。」</p>
+            </blockquote>
+
           </li>
           <li>
             <p>イエス自身が、ペトロからの質問をきっかけに、最後の晩餐中にヨハネの運命について望みがある<span style="color: #999;">（ヨハネ、第２１章・２１～２３節）</span>：</p>
             <blockquote>
               <p>「ペトロは彼を見て、</p>
-              <blockquote>
-                <p><q style="quotes: '「' '」';">主よ、この人はどうなるのでしょうか</q>と言った。</p>
-              </blockquote>
+
+              <p class="conversation">「主よ、この人はどうなるのでしょうか」と言った。</p>
               <p>イエスは言われた。</p>
-              <blockquote>
-                <p><q style="quotes: '「' '」';"><span style="color: #e6a64d;">わたしの来るときまで彼が生きていることを、わたしが望んだ</span>としても、あなたに何の関係があるか。</q></p>
-              </blockquote>
+              <p class="conversation"><span style="color: #e6a64d;">「わたしの来るときまで彼が生きていることを、わたしが望んだ</span>としても、あなたに何の関係があるか。」</p>
             </blockquote>
           </li>
           <li>
-            <p><q style="quotes: '「' '」';">イエスの胸もとに寄りかかったまま</q>のも彼であって、また彼を誰が裏切って行くかを聞くともなっています<span style="color: #999;">（ヨハネ、第１３章・２５節）</span>。</p>
+            <p><q cite="https://www.bible.com/ja/bible/1819/JHN.13.新共同訳" style="quotes: '「' '」';">イエスの胸もとに寄りかかったまま</q>のも彼であって、また彼を誰が裏切って行くかを聞くともなっています<span style="color: #999;">（ヨハネ、第１３章・２５節）</span>。</p>
           </li>
           <li>
-            <p>磔刑の時、イエスが自分のお母さまに彼に任せて、言われた：</p>
-            <blockquote>
-              <p><q style="quotes: '「' '」';">婦人よ、御覧なさい。あなたの子です</q>、</p>
-            </blockquote>
-            <p>それから彼に：</p>
-            <blockquote>
-              <p><q style="quotes: '「' '」';">見なさい。あなたの母です。</q><span style="color: #999;">（ヨハネ、第１９章・２６～２７節）</span></p>
+            <p>磔刑の時、イエスが自分のお母さまに彼に任せて、言われた<span style="color: #999;">（ヨハネ、第１９章・２６～２７節）</span>：</p>
+            <blockquote cite="https://www.bible.com/ja/bible/1819/JHN.19.新共同">
+              <p class="conversation">「婦人よ、御覧なさい。あなたの子です」、</p>
+              <p>それから彼に：</p>
+              <p class="conversation">「見なさい。あなたの母です。」</p>
             </blockquote>
           </li>
           <li>
-            <p>マグダラのマリアが空いているお墓を見て、<q style="quotes: '「' '」';">愛しておられた弟子</q>とペトロに言いに走る。彼がお墓に一速く着く<span style="color: #999;">（ヨハネ、第２０章・２～８節）</span>。</p>
+            <p>マグダラのマリアが空いているお墓を見て、<q cite="https://www.bible.com/ja/bible/1819/JHN.20.新共同" style="quotes: '「' '」';">愛しておられた弟子</q>とペトロに言いに走る。彼がお墓に一速く着く<span style="color: #999;">（ヨハネ、第２０章・２～８節）</span>。</p>
           </li>
           <li>
             <p>復活後にティベリアス湖でのイエスをいち早く認めるのもまた彼です。<span style="color: #999;">（ヨハネ、第２１章・７節）</span>。</p>
@@ -1603,7 +1606,7 @@
           <li>
             <p><a href="https://fr.wikipedia.org/wiki/Jean_de_Patmos" title="https://fr.wikipedia.org/wiki/Jean_de_Patmos" id="jean-de-patmos-3" class="yellow">「パトモス島の」ヨハネ</a>が黙示録の文書の始まる所に見えて来る<span style="color: #999;">（黙、第１章・１～９節）</span>。</p>
             <blockquote>
-              <p>その文書では彼は神が<span style="color: #e6a64d;">「すぐにも起こるはずのことを」</span><span style="color: #999;">（…）</span>「アジア州にある七つの教会」に<span style="color: #999;">（…）</span>ご自分の「天使を送って」知らせた<span style="color: #999;">（…）</span><span style="color: #e6a64d;">「<ruby>僕<rp>（</rp><rt>しもべ</rt><rp>）</rp></ruby>」</span>として紹介されている。</p>
+              <p>その文書では彼は神が<q style="color: #e6a64d;quotes: '「' '」'" cite="https://www.bible.com/ja/bible/1819/REV.1.新共同">すぐにも起こるはずのことを</q><span style="color: #999;">（…）</span><q style="color: #e6a64d;quotes: '「' '」'" cite="https://www.bible.com/ja/bible/1819/REV.1.新共同">アジア州にある七つの教会</q>に<span style="color: #999;">（…）</span>ご自分の<q style="color: #e6a64d;quotes: '「' '」'" cite="https://www.bible.com/ja/bible/1819/REV.1.新共同">天使を送って</q>知らせた<span style="color: #999;">（…）</span><span style="color: #e6a64d;"><q style="color: #e6a64d;quotes: '「' '」'" cite="https://www.bible.com/ja/bible/1819/REV.1.新共同"><ruby>僕<rp>（</rp><rt>しもべ</rt><rp>）</rp></ruby></q></span>として紹介されている。</p>
             </blockquote>
           </li>
         </ul>
