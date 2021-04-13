@@ -204,8 +204,7 @@
     margin-top: 1em;
     margin-block-end: 1em;
     margin-block-start: 1em;
-    margin-inline-start: 32px;
-    
+    margin-inline-start: 32px;   
 }
 
 :global(p.puce::marker) {
@@ -219,6 +218,27 @@
 }
 
 :global(p.puce:first-child) {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-block-end: 1em;
+}
+
+:global(.no-puce) {
+    display: list-item;
+    list-style-type: none;
+    margin-top: 1em;
+    margin-block-end: 1em;
+    margin-block-start: 1em;
+    margin-inline-start: 32px;  
+}
+
+:global(p.no-puce:last-child) {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-block-end: 1em;
+}
+
+:global(p.no-puce:first-child) {
   margin-top: 1em;
   margin-bottom: 1em;
   margin-block-end: 1em;

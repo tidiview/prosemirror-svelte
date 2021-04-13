@@ -1750,9 +1750,7 @@
         <h5 class="yellow">Vision of the throne of god, the heavenly court and the lamb - <cite>The Revelation</cite>, chapters 4 verse 2 to chapter 6 verse 1</h5>
 
           <header>
-            <ol class="doc">
-              <li>chapter 4</li>
-            </ol>
+            <p class="no-puce">chapter 4</p>
           </header>
 
           <blockquote id="renvoi-apocalypse-4-2" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-4-2">

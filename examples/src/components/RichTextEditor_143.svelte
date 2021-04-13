@@ -1724,9 +1724,7 @@
       <h5 class="yellow">神の王座、天と子羊の宮廷の幻影　＝　<cite>黙示録</cite>、第４章２節～第６章１節</h5>
 
           <header>
-            <ol class="doc">
-              <li>第４章</li>
-            </ol>
+            <p class="no-puce">第４章</p>
           </header>
 
           <blockquote id="renvoi-apocalypse-4-2" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-4-2">
