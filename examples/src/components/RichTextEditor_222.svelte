@@ -16,7 +16,7 @@
 
     <h3 id="apocalypse" class="yellow">Extrait du texte de <cite>L'Apocalypse</cite> du chapître 4 à 12</h3>
 
-    <p class="puce"><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#description-right-shutter">retour à: Vue d'ensemble du volet intérieur droit : Jean témoigne de <cite>L'Apocalypse</cite> à Patmos. ↩</a></p>
+    <p class="puce">Retour à: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#description-right-shutter">Vue d'ensemble du volet intérieur droit : Jean témoigne de <cite>L'Apocalypse</cite> à Patmos. ↩</a></p>
 
     <hr>
 <p>out</p>

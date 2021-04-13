@@ -19,7 +19,7 @@
     <h3 id="apocalypse" class="yellow">Excerpt from the text of <cite>The Revelation</cite> from chapters 4 to 12</h3>
 
 
-      <p class="puce"><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#description-right-shutter">Back to: Overview of the right inner shutter: John bears witness to <cite>The Revelation</cite> in Patmos. ↩</a></p>
+      <p class="puce">Back to: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#description-right-shutter">Overview of the right inner shutter: John bears witness to <cite>The Revelation</cite> in Patmos. ↩</a></p>
 
 
       <hr>
@@ -43,13 +43,13 @@
             <li value="05">Out of the throne proceed lightnings, sounds, and thunders. There were seven lamps of fire burning before his throne, which are the seven Spirits of God.</li>
             <li value="06">Before the throne was something like a sea of glass, similar to crystal. In the midst of the throne, and around the throne were four living creatures full of eyes before and behind.»</li>
           </ol>
-        </blockquote>
         <footer>
           <ul>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-4-2">Back to related text ↩</a></p></li>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#image-apocalypse-4-2">Back to related image ↩</a></p></li>
           </ul>
         </footer>
+        </blockquote>
 
       <hr>
 
@@ -59,17 +59,17 @@
             <li value="08">
               <p>The four living creatures, each one of them having <span style="color: #e6a64d;">six wings</span>, are full of eyes around and within. They have no rest day and night, saying,</p>
               <p class="conversation">
-                “Holy, holy, holy is the Lord God, the Almighty, who was and who is and who is to come!”.
+                “Holy, holy, holy is the Lord God, the Almighty, who was and who is and who is to come!”
               </p>
             </li>
           </ol>
-        </blockquote>
         <footer>
           <ul>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-4-7">Back to related text ↩</a></p></li>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#image-apocalypse-4-2">Back to related image ↩</a></p></li>
           </ul>
         </footer>
+        </blockquote>
 
       <hr>
 <p>out</p>
@@ -90,13 +90,13 @@
           <ol class="doc">
             <li value="01">I saw, in the right hand of him who sat on the throne, a <span style="color: #e6a64d;">book</span> written inside and outside, sealed shut with <span style="color: #e6a64d;">seven seals</span>.</li>
           </ol>
-        </blockquote>
         <footer>
           <ul>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-5-1">Back to related text ↩</a></p></li>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#image-apocalypse-4-2">Back to related image ↩</a></p></li>
           </ul>
         </footer>
+        </blockquote>
 
       <hr>
 <p>out</p>
@@ -122,13 +122,13 @@
             <li value="06">I saw in the midst of the throne and of the four living creatures, and in the midst of the elders, a <span style="color: #e6a64d;">Lamb</span> standing, as though it had been slain, having seven horns, and seven eyes, which are the seven Spirits of God, sent out into all the earth.</li>
             <li value="07">Then he came, and he took it out of the right hand of him who sat on the throne.</li>
           </ol>
-        </blockquote>
         <footer>
           <ul>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-5-6">Back to related text ↩</a></p></li>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#image-apocalypse-4-2">Back to related image ↩</a></p></li>
           </ul>
         </footer>
+        </blockquote>
 
       <hr>
 <p>out</p>
@@ -174,13 +174,13 @@
             </li>
             <li value="02">And behold, a <span style="color: #e6a64d;">white horse</span>, and he who sat on it had a <span style="color: #e6a64d;">bow</span>. A <span style="color: #e6a64d;">crown</span> was given to him, and he came forth conquering, and to conquer.</li>
           </ol>
-        </blockquote>
         <footer>
           <ul>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-6-1">Back to related text ↩</a></p></li>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-1">Back to related image ↩</a></p></li>
           </ul>
         </footer>
+        </blockquote>
 
       <hr>
 
@@ -193,13 +193,13 @@
             </li>
             <li value="04">Another came forth, a <span style="color: #e6a64d;">red horse</span>. To him who sat on it was given power to take peace from the earth, and that they should kill one another. There was given to him a great <span style="color: #e6a64d;">sword</span>.</li>
           </ol>
-        </blockquote>
         <footer>
           <ul>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:11#renvoi-apocalypse-6-3">Back to related text ↩</a></p></li>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-3">Back to related image ↩</a></p></li>
           </ul>
         </footer>
+        </blockquote>
 
       <hr>
 
@@ -213,19 +213,19 @@
               <p>And behold, a <span style="color: #e6a64d;">black horse</span>, and he who sat on it had a <span style="color: #e6a64d;"balance</span> in his hand.</p>
             </li>
             <li value="06">
-            <p>I heard a voice in the midst of the four living creatures saying,</p>
+              <p>I heard a voice in the midst of the four living creatures saying,</p>
               <p class="conversation">
                 “Achoenix of wheat for a denarius, and three choenix of barley for a denarius! Don't damage the oil and the wine!”
               </p>
             </li>
           </ol>
-        </blockquote>
         <footer>
           <ul>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:11#renvoi-apocalypse-6-5">Back to related text ↩</a></p></li>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-5">Back to related image ↩</a></p></li>
           </ul>
         </footer>
+        </blockquote>
 
       <hr>
 
@@ -240,13 +240,13 @@
               <li value="08">And behold, a <span style="color: #e6a64d;">pale horse</span>, and he who sat on it, his name was <span style="color: #e6a64d;">Death</span>.<span style="color: #e6a64d;">Hades</span> followed with him.</li>
               <li>Authority over one fourth of the earth, to kill with the sword, with famine, with death, and by the wild animals of the earth was given to him.</li>
             </ol>
+            <footer>
+              <ul>
+                <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:11#renvoi-apocalypse-6-7">Back to related text ↩</a></p></li>
+                <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-7">Back to related image ↩</a></p></li>
+              </ul>
+            </footer>
           </blockquote>
-        <footer>
-          <ul>
-            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:11#renvoi-apocalypse-6-7">Back to related text ↩</a></p></li>
-            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-7">Back to related image ↩</a></p></li>
-          </ul>
-        </footer>
 
       <hr>
 <p>out</p>
@@ -281,13 +281,13 @@
               </p>
             </li>
           </ol>
-        </blockquote>
         <footer>
           <ul>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:11#renvoi-apocalypse-6-14">Back to related text ↩</a></p></li>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-14">Back to related image ↩</a></p></li>
           </ul>
         </footer>
+        </blockquote>
 
       <hr>
 <p>out</p>
@@ -356,13 +356,13 @@
             <li value="01">When he opened the seventh seal, there was silence in heaven for about half an hour.</li>
             <li value="02">I saw the <span style="color: #e6a64d;">seven angels</span> who stand before God, and <span style="color: #e6a64d;">seven trumpets</span> were given to them.</li>
           </ol>
-        </blockquote>
         <footer>
           <ul>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-1">Back to related text ↩</a></p></li>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-1">Back to related image ↩</a></p></li>
           </ul>
         </footer>
+        </blockquote>
 
       <hr>
 
@@ -370,13 +370,13 @@
           <ol class="doc">
             <li value="03">Another angel came and stood over the altar, having a <span style="color: #e6a64d;">golden censer</span>. Much incense was given to him, that he should add it to the prayers of all the saints on the <span style="color: #e6a64d;">golden altar</span> which was before the throne.</li>
           </ol>
-        </blockquote>
         <footer>
           <ul>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-3">Back to related text ↩</a></p></li>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-3">Back to related image ↩</a></p></li>
           </ul>
         </footer>
+        </blockquote>
 
       <hr>
 
@@ -385,13 +385,13 @@
             <li value="04">The smoke of the incense, with the prayers of the saints, went up before God out of the angel's hand.</li>
             <li value="05">The angel took the censer, and he filled it with the fire of the altar, and threw it on the earth. There followed thunders, sounds, lightnings, and an earthquake.</li>
           </ol>
-        </blockquote>
         <footer>
           <ul>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-4">Back to related text ↩</a></p></li>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-4">Back to related image ↩</a></p></li>
           </ul>
         </footer>
+        </blockquote>
 
       <hr>
 
@@ -402,13 +402,13 @@
             <li value="08">The second angel sounded, and something like a <span style="color: #e6a64d;">great burning mountain</span> was thrown into the sea. One third of the sea became blood,</li>
             <li value="09">and one third of the living creatures which were in the sea died. O<span style="color: #e6a64d;">ne third of the ships were destroyed</span>.</li>
           </ol>
-        </blockquote>
         <footer>
           <ul>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-6">Back to related text ↩</a></p></li>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-4">Back to related image ↩</a></p></li>
           </ul>
         </footer>
+        </blockquote>
 
       <hr>
 
@@ -416,13 +416,13 @@
           <ol class="doc">
             <li value="10">The third angel sounded, and a <span style="color: #e6a64d;">great star fell from the sky, burning like a torch</span>, and it fell on one third of the rivers, and on the springs of the waters.</li>
           </ol>
-        </blockquote>
         <footer>
           <ul>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-10">Back to related text ↩</a></p></li>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-10">Back to related image ↩</a></p></li>
           </ul>
         </footer>
+        </blockquote>
 
       <hr>
 
@@ -431,13 +431,13 @@
             <li value="11">The name of the star is called «<span style="color: #e6a64d;">wormwood</span>». One third of the waters became wormwood. Many people died from the waters, because they were made bitter.</li>
             <li value="12">The fourth angel sounded, and one third of the sun was struck, and one third of the moon, and one third of the stars; so that one third of them would be darkened, and the day wouldn't shine for one third of it, and the night in the same way.</li>
           </ol>
-        </blockquote>
         <footer>
           <ul>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-11">Back to related text ↩</a></p></li>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-10">Back to related image ↩</a></p></li>
           </ul>
         </footer>
+        </blockquote>
 
       <hr>
 
@@ -449,13 +449,13 @@
               </p>
             </li>
           </ol>
-        </blockquote>
         <footer>
           <ul>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-13">Back to related text ↩</a></p></li>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-13">Back to related image ↩</a></p></li>
           </ul>
         </footer>
+        </blockquote>
 
       <hr>
 
@@ -466,13 +466,13 @@
             <li value="02">He opened the pit of the abyss, and smoke went up out of the pit, like the <span style="color: #e6a64d;">smoke from a burning furnace</span>. The sun and the air were darkened because of the smoke from the pit,</li>
             <li value="03">Then out of the smoke came forth <span style="color: #e6a64d;">locusts</span> on the earth, and power was given to them, as the scorpions of the earth have power.</li>
           </ol>
-        </blockquote>
         <footer>
           <ul>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-9-1">Back to related text ↩</a></p></li>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-9-1">Back to related image ↩</a></p></li>
           </ul>
         </footer>
+        </blockquote>
 
       <hr>
 
@@ -488,13 +488,13 @@
             <li>Their tails were like scorpions' tails, with stings,</li>
             <li value="11">They have over them as king the angel of the abyss. His name in Hebrew is “Abaddon”, but in Greek, he has the name “Apollyon” (which means: Destructor).</li>
           </ol>
-        </blockquote>
         <footer>
           <ul>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#renvoi-apocalypse-9-4">Back to related text ↩</a></p></li>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-9-1">Back to related image ↩</a></p></li>
           </ul>
         </footer>
+        </blockquote>
 
       <hr>
 <p>out</p>
@@ -526,13 +526,13 @@
             <li value="03">He cried with a loud voice, as a lion roars.</li>
             <li>When he cried, the seven thunders uttered their voices.</li>
           </ol>
-        </blockquote>
         <footer>
           <ul>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#renvoi-apocalypse-10-1">Back to related text ↩</a></p></li>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-10-1">Back to related image ↩</a></p></li>
           </ul>
         </footer>
+        </blockquote>
 
       <hr>
 
@@ -547,11 +547,13 @@
             <li value="06">and swore by him who lives forever and ever, who created heaven and the things that are in it, the earth and the things that are in it, and the sea and the things that are in it, that there will no longer be delay.
             </li>
           </ol>
-        </blockquote>
-          <p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#renvoi-apocalypse-10-4">Back to related text ↩</a></p></li>
+        <footer>
+          <ul>
+            <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#renvoi-apocalypse-10-4">Back to related text ↩</a></p></li>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-10-4">Back to related image ↩</a></p></li>
         </ul>
         </footer>
+        </blockquote>
 
       <hr>
 <p>out</p>
@@ -674,13 +676,13 @@
             <li value="03">Another sign was seen in heaven. Behold, a great <span style="color: #e6a64d;">red dragon</span>, having seven heads and ten horns, and on his heads seven crowns.</li>
             <li value="04">His tail drew one third of the stars of the sky, and threw them to the earth. The dragon stood before the woman who was about to give birth, so that when she gave birth he might devour her child.</li>
           </ol>
-        </blockquote>
         <footer>
           <ul>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#renvoi-apocalypse-12-1">Back to related text ↩</a></p></li>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-12-1">Back to related image ↩</a></p></li>
           </ul>
         </footer>
+        </blockquote>
 
       <hr>
 
@@ -693,13 +695,13 @@
             <li value="08">They didn't prevail, neither was a place found for him any more in heaven.</li>
             <li value="09">The great dragon was thrown down, the old serpent, he who is called the devil and Satan, the deceiver of the whole world. He was thrown down to the earth, and his angels were thrown down with him.</li>
           </ol>
-        </blockquote>
         <footer>
           <ul>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#renvoi-apocalypse-12-5">Back to related text ↩</a></p></li>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-12-5">Back to related image ↩</a></p></li>
           </ul>
         </footer>
+        </blockquote>
 
       <hr>
 
@@ -724,13 +726,13 @@
             <li value="13">When the <span style="color: #e6a64d;">dragon</span> saw that he was thrown down to the earth, he persecuted the <span style="color: #e6a64d;">woman</span> who gave birth to the male child,</li>
             <li value="14">Two <span style="color: #e6a64d;">wings of the great eagle</span> were given to the woman, that she might fly into the wilderness to her place, so that she might be nourished for a time, and times, and half a time, from the face of the serpent.</li>
           </ol>
-        </blockquote>
         <footer>
           <ul>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:14#renvoi-apocalypse-12-10">Back to related text ↩</a></p></li>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:14#image-apocalypse-12-10">Back to related image ↩</a></p></li>
           </ul>
         </footer>
+        </blockquote>
 
       <hr>
 <p>out</p>
