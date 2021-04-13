@@ -1707,7 +1707,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《パトモス島での福音書記者ヨハネ》<br><q cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" style="quotes:'「' '';">わたしは、たちまち“霊”に満たされた。すると、見よ、天に玉座が設けられていて</q>（…）玉座の前は、水晶に似たガラスの海のようであった。」、<cite>黙示録</cite>、第４章から第１２章までの抜粋文書</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/saint-jean-sans-cadre-2-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《パトモス島での福音書記者ヨハネ》<br><q cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" style="quotes:'「' '';">わたしは、たちまち“霊”に満たされた。すると、見よ、天に玉座が設けられていて</q><span style="color: #999;">（…）</span>玉座の前は、水晶に似たガラスの海のようであった」、<cite>黙示録</cite>、第４章から第１２章までの抜粋文書</figcaption>
       </figure>
 
 
@@ -1760,7 +1760,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/10.saint-jean_10/chose-divine-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、
-        《神の王座、天と子羊の宮廷の幻影》。<br>
+        《神の王座、天と子羊の宮廷の幻影》<br>
         <q cite="#renvoi-apocalypse-4-2" style="quotes:'「' '';">玉座の周りにはエメラルドのような虹が輝いていた</q>
         <span style="color: #999;">（…）</span>
         <q cite="#renvoi-apocalypse-4-7" style="quotes:'' '';">四つの生き物</q><span style="color: #999;">（…）</span>
@@ -1993,7 +1993,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《四騎士の周りの風景》、<q cite="#renvoi-apocalypse-6-14" style="quotes:'「' '」';">山も島も、みなその場所から移された</q><cite>黙示録</cite>、第６章１４～１７節</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/cavaliers-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《四騎士の周りの風景》<br><q cite="#renvoi-apocalypse-6-14" style="quotes:'「' '」';">山も島も、みなその場所から移された</q><cite>黙示録</cite>、第６章１４～１７節</figcaption>
       </figure>
 
 
@@ -2031,7 +2031,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《第七の封印の天使たち》。<br><q cite="#renvoi-apocalypse-8-1" style="quotes:'「' '」';">神の御前に立っているのを見た。彼らには七つのラッパが与えられた</q>、<cite>黙示録</cite>、第８章１～２節</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/7-anges-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《第七の封印の天使たち》<br><q cite="#renvoi-apocalypse-8-1" style="quotes:'「' '」';">神の御前に立っているのを見た。彼らには七つのラッパが与えられた</q>、<cite>黙示録</cite>、第８章１～２節</figcaption>
     </figure>
 
 
@@ -2101,7 +2101,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《火で燃えている大きな山の墜落、船の三分の一が壊された》。<br><q cite="#renvoi-apocalypse-8-6" style="quotes:'「' '」';">船という船の三分の一が壊された</q>、<cite>黙示録</cite>、第８章６～９節</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《火で燃えている大きな山の墜落、船の三分の一が壊された》<br><q cite="#renvoi-apocalypse-8-6" style="quotes:'「' '」';">船という船の三分の一が壊された</q>、<cite>黙示録</cite>、第８章６～９節</figcaption>
     </figure>
 
 
@@ -2131,7 +2131,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《「苦よもぎ」という星の墜落》。<br><q cite="#renvoi-apocalypse-8-11" style="quotes:'「' '」';">松明のように燃えている大きな星が、天から落ちて</q>（…）「水の三分の一が苦よもぎのように苦くなって、そのために多くの人が死んだ」、<cite>黙示録</cite>、第８章１０～１２節</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《「苦よもぎ」という星の墜落》<br><q cite="#renvoi-apocalypse-8-11" style="quotes:'「' '」';">松明のように燃えている大きな星が、天から落ちて</q>（…）「水の三分の一が苦よもぎのように苦くなって、そのために多くの人が死んだ」、<cite>黙示録</cite>、第８章１０～１２節</figcaption>
     </figure>
 
     <blockquote id="renvoi-apocalypse-8-11" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-11">
@@ -2172,7 +2172,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《鷲の<ruby>飛<rp>（</rp><rt style="font-size: 70%;color:#999">ひ</rt><rp>）</rp>翔<rp>（</rp><rt style="font-size: 70%;color:#999">しょう</rt><rp>）</rp></ruby>》。<br><q cite="#renvoi-apocalypse-8-13" style="quotes:'「' '」';">空高く</q>、<cite>黙示録</cite>、第８章１３節</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/aigle-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《鷲の<ruby>飛<rp>（</rp><rt style="font-size: 70%;color:#999">ひ</rt><rp>）</rp>翔<rp>（</rp><rt style="font-size: 70%;color:#999">しょう</rt><rp>）</rp></ruby>》<br><q cite="#renvoi-apocalypse-8-13" style="quotes:'「' '」';">空高く</q>、<cite>黙示録</cite>、第８章１３節</figcaption>
     </figure>
 
 
@@ -2212,7 +2212,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《いなごの群れの地上への出》。<br>このいなごには、<q cite="#renvoi-apocalypse-9-1" style="quotes:'「' '」';">力が与えられた</q>、<cite>黙示録</cite>、第１０章３節</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《いなごの群れの地上への出》<br>このいなごには、<q cite="#renvoi-apocalypse-9-1" style="quotes:'「' '」';">力が与えられた</q>、<cite>黙示録</cite>、第１０章３節</figcaption>
       </figure>
 
       <blockquote id="renvoi-apocalypse-9-4" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-9-4">
@@ -2261,7 +2261,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《天から降って来る天使》。<br><q cite="#renvoi-apocalypse-10-1" style="quotes:'「' '」';">わたしはまた、もう一人の力強い天使が、雲を身にまとい、天から降って来るのを見た。頭には虹をいただき、顔は太陽のようで、足は火の柱のようであり、手には開いた小さな巻物を持っていた。そして、右足で海を、左足で地を踏まえて</q>、<cite>黙示録</cite>、第１０章１～３節</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1920.jpg 1920w"></picture><figcaption>右翼パネル内面、《天から降って来る天使》<br><q cite="#renvoi-apocalypse-10-1" style="quotes:'「' '」';">わたしはまた、もう一人の力強い天使が、雲を身にまとい、天から降って来るのを見た。頭には虹をいただき、顔は太陽のようで、足は火の柱のようであり、手には開いた小さな巻物を持っていた。そして、右足で海を、左足で地を踏まえて</q>、<cite>黙示録</cite>、第１０章１～３節</figcaption>
       </figure>
 
 
@@ -2302,7 +2302,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《黙示録の空》。<br><q cite="#renvoi-apocalypse-10-4" style="quotes:'「' '」';"></q>、<cite>黙示録</cite>、第１２章３～６節</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/bataille-celeste-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《黙示録の空》<br><q cite="#renvoi-apocalypse-10-4" style="quotes:'「' '';">七つの雷が</q>聞こえて来た」、<cite>黙示録</cite>、第１２章３～６節</figcaption>
       </figure>
 
 
@@ -2339,7 +2339,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《女の人と竜》。<br><q cite="#renvoi-apocalypse-12-1" style="quotes:'「' '」';">竜は子を産もうとしている女の前に立ちはだかり、産んだら、その子を食べてしまおうとしていた</q>、<cite>黙示録</cite>、第１２章１～４節</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/femme-et-dragon-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《女の人と竜》<br><q cite="#renvoi-apocalypse-12-1" style="quotes:'「' '」';">竜は子を産もうとしている女の前に立ちはだかり、産んだら、その子を食べてしまおうとしていた</q>、<cite>黙示録</cite>、第１２章１～４節</figcaption>
       </figure>
 
 
@@ -2373,7 +2373,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-840.jpg 840w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-1280.jpg 1280w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-1600.jpg 1600w,
-        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《聖ミカエルと、竜とその使いたちの戦い。竜とその使いたちの墜落》。<br><q cite="#renvoi-apocalypse-12-5" style="quotes:'「' '」';">全人類を惑わす者は、投げ落とされた。地上に投げ落とされたのである。その使いたちも、もろともに投げ落とされた</q>、<cite>黙示録</cite>、第１２章５～９節</figcaption>
+        https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/saint-michel-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《聖ミカエルと、竜とその使いたちの戦い。竜とその使いたちの墜落》<br><q cite="#renvoi-apocalypse-12-5" style="quotes:'「' '」';">全人類を惑わす者は、投げ落とされた。地上に投げ落とされたのである。その使いたちも、もろともに投げ落とされた</q>、<cite>黙示録</cite>、第１２章５～９節</figcaption>
       </figure>
 
 
@@ -2388,7 +2388,7 @@
       <ol class="doc">
         <li value="10">
           <p>わたしは、天で大きな声が次のように言うのを、聞いた。</p>
-          <p class="conversation">「今や、我々の神の救いと力と支配が現れた。神のメシアの権威が現れた。<p>
+          <p class="conversation">「今や、我々の神の救いと力と支配が現れた。神のメシアの権威が現れた。</p>
         </li>
         <li>
           <p class="conversation">我々の兄弟たちを告発する者、昼も夜も我々の神の御前で彼らを告発する者が、投げ落とされたからである。</p>
@@ -2424,7 +2424,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《女蛇から逃れるために女には大きな鷲の翼が二つ与えられる》。<br><q cite="#renvoi-apocalypse-12-10" style="quotes:'「' '」';">荒れ野にある自分の場所へ飛んで行くためである</q>、<cite>黙示録</cite>、第１２章１０～１４節</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/poursuite-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《女蛇から逃れるために女には大きな鷲の翼が二つ与えられる》<br><q cite="#renvoi-apocalypse-12-10" style="quotes:'「' '」';">荒れ野にある自分の場所へ飛んで行くためである</q>、<cite>黙示録</cite>、第１２章１０～１４節</figcaption>
     </figure>
 
     <h5 class="yellow">パトモス島でのヨハネが啓示された<ruby>幻<rp>（</rp><rt>げん</rt><rp>）</rp>影<rp>（</rp><rt>えい</rt><rp>）</rp></ruby>、<cite>黄金伝説</cite>の第９章において<cite>福音書記者ヨハネの伝説</cite></h5>
