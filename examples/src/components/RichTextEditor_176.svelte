@@ -2630,186 +2630,184 @@
 
 <aside>
 
-    <h3 id="a-propos-de-cet-article" class="yellow">références de cet article</h3>
+<h3 id="a-propos-de-cet-article" class="yellow">références de cet article</h3>
 
-      <p>Pour réaliser cet article, nous sommes redevables de travaux de référence, particulièrement ceux de <a href="#de-vos-1" id="renvoi-de-vos-1" class="yellow">Dirk DE VOS, “Hans Memling - L'œuvre complète”</a> et <a href="#de-vos-2" id="de-vos-2" class="yellow">“Hans Memling”</a>.</p>
-
-
-
-      <h4 id="de-vos" class="yellow">références des livres cités de Dirk DE VOS:</h4>
-
-        <ul>
-          <li>en français:
-            <table>
-              <thead>
-              <tr>
-              <th><span hidden="">hidden</span></th>
-              <th><span hidden="">hidden</span></th>
-              <th><span hidden="">hidden</span></th>
-              </tr>
-              </thead>
-              <tbody>
-              <tr>
-              <td><samp>Titre</samp></td>
-              <td><samp>Paru en</samp></td>
-              <td><samp>ISBN-10</samp></td>
-              </tr>
-              <tr>
-              <td><samp>Hans Memling: l'œuvre complète</samp></td>
-              <td><samp>1994</samp></td>
-              <td><samp>2-226-06992-5</samp></td>
-              </tr>
-              <tr>
-              <td><samp>Hans Memling: catalogue</samp></td>
-              <td><samp>1994</samp></td>
-              <td><samp>90-5544-028-0</samp></td>
-              </tr>
-              </tbody>
-            </table>
-          </li>
-          <li>en anglais:
-            <table>
-              <thead>
-              <tr>
-              <th><span hidden="">hidden</span></th>
-              <th><span hidden="">hidden</span></th>
-              <th><span hidden="">hidden</span></th>
-              </tr>
-              </thead>
-              <tbody>
-              <tr>
-              <td><samp>Titre</samp></td>
-              <td><samp>Paru en</samp></td>
-              <td><samp>ISBN-10</samp></td>
-              </tr>
-              <tr>
-              <td><samp>Hans Memling: The Complete Works</samp></td>
-              <td><samp>1994</samp></td>
-              <td><samp>0810936496</samp></td>
-              </tr>
-              <tr>
-              <td><samp>Hans Memling: Catalogue</samp></td>
-              <td><samp>1994</samp></td>
-              <td><samp>9055440299</samp></td>
-              </tr>
-              </tbody>
-            </table>
-          </li>
-        </ul>
-
-      <footer>
-        <p><a href="#renvoi-de-vos-1" title="renvoi-de-vos-1">↑ retour cette page</a> <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:2#renvoi-de-vos-2" title="renvoi-de-vos-2">↑ retour page 2</a></p>
-      </footer>
+  <p>Pour réaliser cet article, nous sommes redevables de travaux de référence, particulièrement ceux de <a href="#de-vos-1" id="renvoi-de-vos-1" class="yellow">Dirk DE VOS, “Hans Memling - L'œuvre complète”</a> et <a href="#de-vos-2" id="de-vos-2" class="yellow">“Hans Memling”</a>.</p>
 
 
 
-      <h4 id="lorentz" class="yellow">références du livre cité de Philippe LORENTZ:</h4>
+  <h4 id="de-vos" class="yellow">références des livres cités de Dirk DE VOS:</h4>
 
-        <div class="notices yellow">
-          <ul>
-            <li>en français:
-              <table>
-                <thead>
-                <tr>
-                <th><span hidden="">hidden</span></th>
-                <th><span hidden="">hidden</span></th>
-                <th><span hidden="">hidden</span></th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr>
-                <td><samp>Titre</samp></td>
-                <td><samp>Paru en</samp></td>
-                <td><samp>ISBN-10</samp></td>
-                </tr>
-                <tr>
-                <td><samp>Hans Memling au Louvre (exposition, Musée du Louvre, Salle de la Chapelle, aile Sully, 18 Mai-14 Août 1995)</samp></td>
-                <td><samp>1995</samp></td>
-                <td><samp>2-7118-3275-9</samp></td>
-                </tr>
-                </tbody>
-              </table>
-            </li>
-          </ul>
-        </div>
+    <ul>
+      <li>en français:
+        <table>
+          <thead>
+          <tr>
+          <th><span hidden="">hidden</span></th>
+          <th><span hidden="">hidden</span></th>
+          <th><span hidden="">hidden</span></th>
+          </tr>
+          </thead>
+          <tbody>
+          <tr>
+          <td><samp>Titre</samp></td>
+          <td><samp>Paru en</samp></td>
+          <td><samp>ISBN-10</samp></td>
+          </tr>
+          <tr>
+          <td><samp>Hans Memling: l'œuvre complète</samp></td>
+          <td><samp>1994</samp></td>
+          <td><samp>2-226-06992-5</samp></td>
+          </tr>
+          <tr>
+          <td><samp>Hans Memling: catalogue</samp></td>
+          <td><samp>1994</samp></td>
+          <td><samp>90-5544-028-0</samp></td>
+          </tr>
+          </tbody>
+        </table>
+      </li>
+      <li>en anglais:
+        <table>
+          <thead>
+          <tr>
+          <th><span hidden="">hidden</span></th>
+          <th><span hidden="">hidden</span></th>
+          <th><span hidden="">hidden</span></th>
+          </tr>
+          </thead>
+          <tbody>
+          <tr>
+          <td><samp>Titre</samp></td>
+          <td><samp>Paru en</samp></td>
+          <td><samp>ISBN-10</samp></td>
+          </tr>
+          <tr>
+          <td><samp>Hans Memling: The Complete Works</samp></td>
+          <td><samp>1994</samp></td>
+          <td><samp>0810936496</samp></td>
+          </tr>
+          <tr>
+          <td><samp>Hans Memling: Catalogue</samp></td>
+          <td><samp>1994</samp></td>
+          <td><samp>9055440299</samp></td>
+          </tr>
+          </tbody>
+        </table>
+      </li>
+    </ul>
 
-      <footer>
-        <p><a href="#renvoi-lorentz-1" title="renvoi-de-vos-1">↑ retour cette page</a> <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#renvoi-lorentz-2" title="renvoi-lorentz-2">↑ retour page 3</a></p>
-      </footer>
+  <footer>
+    <p><a href="#renvoi-de-vos-1" title="renvoi-de-vos-1">↑ retour cette page</a> <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:2#renvoi-de-vos-2" title="renvoi-de-vos-2">↑ retour page 2</a></p>
+  </footer>
+
+
+
+  <h4 id="lorentz" class="yellow">références du livre cité de Philippe LORENTZ:</h4>
+
+    <div class="notices yellow">
+      <ul>
+        <li>en français:
+          <table>
+            <thead>
+            <tr>
+            <th><span hidden="">hidden</span></th>
+            <th><span hidden="">hidden</span></th>
+            <th><span hidden="">hidden</span></th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+            <td><samp>Titre</samp></td>
+            <td><samp>Paru en</samp></td>
+            <td><samp>ISBN-10</samp></td>
+            </tr>
+            <tr>
+            <td><samp>Hans Memling au Louvre (exposition, Musée du Louvre, Salle de la Chapelle, aile Sully, 18 Mai-14 Août 1995)</samp></td>
+            <td><samp>1995</samp></td>
+            <td><samp>2-7118-3275-9</samp></td>
+            </tr>
+            </tbody>
+          </table>
+        </li>
+      </ul>
+    </div>
+
+  <footer>
+    <p><a href="#renvoi-lorentz-1" title="renvoi-de-vos-1">↑ retour cette page</a> <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#renvoi-lorentz-2" title="renvoi-lorentz-2">↑ retour page 3</a></p>
+  </footer>
 
 
     <hr>
 
 
-      <header>
-        <p><a href="#renvoi-note-1" title="renvoi note-1" id="note-1">note 1:</a></p>
-      </header>
-      <p>les reproductions de l'œuvre que nous mettons à disposition du public sont à notre connaissance les meilleures actuellement existantes en dehors d'ouvrages professionnels: elles nous ont demandé un énorme travail du fait de la faiblesse de l'intensité et du jaune de l'éclairage de l'espace d'exposition du Musée Memling de Bruges à l'heure où cet article a été rédigé (<time datetime="2018">2018</time>).</p>
-      <footer>
-        <p><a href="#renvoi-note-1" title="renvoi note-1">↑ retour au texte</a></p>
-      </footer>
+  <header>
+    <p><a href="#renvoi-note-1" title="renvoi note-1" id="note-1">note 1:</a></p>
+  </header>
+  <p>les reproductions de l'œuvre que nous mettons à disposition du public sont à notre connaissance les meilleures actuellement existantes en dehors d'ouvrages professionnels: elles nous ont demandé un énorme travail du fait de la faiblesse de l'intensité et du jaune de l'éclairage de l'espace d'exposition du Musée Memling de Bruges à l'heure où cet article a été rédigé (<time datetime="2018">2018</time>).</p>
+  <footer>
+    <p><a href="#renvoi-note-1" title="renvoi note-1">↑ retour au texte</a></p>
+  </footer>
 
 
 
-<hr>
-
-  <article>
-
-      <div class="footnotes">
-        <ol>
-          <li id="page-3-fn:1"><p>Nous suivons les références données dans l'article «Catherine d'Alexandrie» de Wikipedia (date de consultation: 15 août 2018), à savoir:</p>
-            <ul>
-              <li>Gustave Bardy: Catherine d’Alexandrie. In: Dictionnaire d’histoire et de géographie ecclésiastiques, vol 11, Paris 1949, pp 1503–1505, ici: 1504.</li>
-              <li>Christine Walsh: The Cult of St Katherine of Alexandria in Early Medieval Europe, Aldershot 2007, p. 3–26;</li>
-              <li>Michael Deakin: Hypatia of Alexandria, Mathematician and Martyr, Amherst (New York) 2007, p. 135, 202;</li>
-              <li>Maria Dzielska: Hypatia of Alexandria, Cambridge (Massachusetts) 1995, p. 21;</li>
-              <li>Christian Lacombrade: Hypatia. In: Reallexikon für Antike und Christentum, vol 16, Stuttgart 1994, pp 956–967, ici: 966;</li>
-            </ul>
-          </li>
-        </ol>
-      </div>
-      <footer>
-        <p><a href="#page-3-fnref1:1" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
-      </footer>
+  <hr>
 
 
 
-      <div class="footnotes">
-        <ol start="2">
-          <li id="page-3-fn:2">
-            <p>Nous suivons les références données dans l'article «Catherine d'Alexandrie» de Wikipedia (date: 15 août 2018), à savoir:</p>
-            <blockquote cite="https://fr.wikipedia.org/wiki/Catherine_d'Alexandrie#Réalité_historique_et_dévotion">
-              <p>«Certains saints peuvent être populaires, en raison des légendes qui se sont créées autour de leurs noms, sans qu'on puisse même garantir qu'ils aient existé, tels saint Christophe, sainte Barbara, sainte Catherine d'Alexandrie, sainte Philomène. Ils ont été supprimés du calendrier général: le peuple chrétien ne peut être invité à une prière officielle que dans la vérité».</p>
-            </blockquote>
-            <p><cite>Conférence de présentation du nouveau calendrier romain</cite> par l'abbé Pierre JOUNEL, professeur à l'institut supérieur de liturgie de l'Institut catholique de Paris, rapporteur du groupe d'étude qui a préparé la réforme du calendrier, faite à Rome le <time datetime="1969-05-09">9 mai 1969</time>.</p>
-          </li>
-        </ol>
-      </div>
-      <footer><p><a href="#page-3-fnref2:2" rev="footnote" class="footnote-backref">retour au texte ↩</a></p></footer>
+  <div class="footnotes">
+    <ol>
+      <li id="page-3-fn:1"><p>Nous suivons les références données dans l'article «Catherine d'Alexandrie» de Wikipedia (date de consultation: 15 août 2018), à savoir:</p>
+        <ul>
+          <li>Gustave Bardy: Catherine d’Alexandrie. In: Dictionnaire d’histoire et de géographie ecclésiastiques, vol 11, Paris 1949, pp 1503–1505, ici: 1504.</li>
+          <li>Christine Walsh: The Cult of St Katherine of Alexandria in Early Medieval Europe, Aldershot 2007, p. 3–26;</li>
+          <li>Michael Deakin: Hypatia of Alexandria, Mathematician and Martyr, Amherst (New York) 2007, p. 135, 202;</li>
+          <li>Maria Dzielska: Hypatia of Alexandria, Cambridge (Massachusetts) 1995, p. 21;</li>
+          <li>Christian Lacombrade: Hypatia. In: Reallexikon für Antike und Christentum, vol 16, Stuttgart 1994, pp 956–967, ici: 966;</li>
+        </ul>
+      </li>
+    </ol>
+  </div>
+  <footer>
+    <p><a href="#page-3-fnref1:1" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+  </footer>
 
 
 
-      <div class="footnotes">
-        <ol start="3">
-          <li id="page-3-fn:5">
-            <p>comme, par exemple dans <a href="https://fr.wikipedia.org/wiki/Le_Mariage_mystique_de_sainte_Catherine_(Hans_Memling)" title="https://fr.wikipedia.org/wiki/Le_Mariage_mystique_de_sainte_Catherine_(Hans_Memling)">ce piètre article Wikipedia</a></p>
-          </li>
-        </ol>
-      </div>
-      <footer><p><a href="#page-3-fnref1:5" rev="footnote" class="footnote-backref">retour au texte ↩</a></p></footer>
+  <div class="footnotes">
+    <ol start="2">
+      <li id="page-3-fn:2">
+        <p>Nous suivons les références données dans l'article «Catherine d'Alexandrie» de Wikipedia (date: 15 août 2018), à savoir:</p>
+        <blockquote cite="https://fr.wikipedia.org/wiki/Catherine_d'Alexandrie#Réalité_historique_et_dévotion">
+          <p>«Certains saints peuvent être populaires, en raison des légendes qui se sont créées autour de leurs noms, sans qu'on puisse même garantir qu'ils aient existé, tels saint Christophe, sainte Barbara, sainte Catherine d'Alexandrie, sainte Philomène. Ils ont été supprimés du calendrier général: le peuple chrétien ne peut être invité à une prière officielle que dans la vérité».</p>
+        </blockquote>
+        <p><cite>Conférence de présentation du nouveau calendrier romain</cite> par l'abbé Pierre JOUNEL, professeur à l'institut supérieur de liturgie de l'Institut catholique de Paris, rapporteur du groupe d'étude qui a préparé la réforme du calendrier, faite à Rome le <time datetime="1969-05-09">9 mai 1969</time>.</p>
+      </li>
+    </ol>
+  </div>
+  <footer><p><a href="#page-3-fnref2:2" rev="footnote" class="footnote-backref">retour au texte ↩</a></p></footer>
 
 
 
-      <div class="footnotes">
-      <ol start="4">
-        <li id="page-3-fn:3">
-          <p>Barbe la grande martyre est aussi connue comme “sainte Barbe”.</p>
-        </li>
-      </ol>
-      </div>
-      <footer><p><a href="#page-3-fnref1:3" rev="footnote" class="footnote-backref">retour au texte ↩</a></p></footer>
+  <div class="footnotes">
+    <ol start="3">
+      <li id="page-3-fn:5">
+        <p>comme, par exemple dans <a href="https://fr.wikipedia.org/wiki/Le_Mariage_mystique_de_sainte_Catherine_(Hans_Memling)" title="https://fr.wikipedia.org/wiki/Le_Mariage_mystique_de_sainte_Catherine_(Hans_Memling)">ce piètre article Wikipedia</a></p>
+      </li>
+    </ol>
+  </div>
+  <footer><p><a href="#page-3-fnref1:5" rev="footnote" class="footnote-backref">retour au texte ↩</a></p></footer>
 
-  </article>
+
+
+  <div class="footnotes">
+  <ol start="4">
+    <li id="page-3-fn:3">
+      <p>Barbe la grande martyre est aussi connue comme “sainte Barbe”.</p>
+    </li>
+  </ol>
+  </div>
+  <footer><p><a href="#page-3-fnref1:3" rev="footnote" class="footnote-backref">retour au texte ↩</a></p></footer>
 
   <hr>
   
@@ -2833,155 +2831,153 @@
     <hr>
 
 
-      <div class="footnotes">
-        <ol>
-          <li id="fn:4">
-            <p>Nous suivons les références données dans l'article «l'Imitation de Jésus-Christ» de Wikipedia (date de consultation: 21 août 2018), à savoir:</p>
-            <ul>
-              <li>Yann Sordet, Un succès de librairie européen: l'Imitatio Christi (1470-1850), Paris, Bibliothèque Mazarine; Editions des cendres, 2012, 195 p. (ISBN 979-10-90853-01-0), p. 11.</p></li>
-            </ul>
-            <p>D'après les spécialistes, son auteur est un moine: <a href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis" title="https://fr.wikipedia.org/wiki/Thomas_a_Kempis">Thomas A KEMPIS</a>.</p>
-          </li>
-        </ol>
-      </div>
-      <footer>
+  <div class="footnotes">
+    <ol>
+      <li id="fn:4">
+        <p>Nous suivons les références données dans l'article «l'Imitation de Jésus-Christ» de Wikipedia (date de consultation: 21 août 2018), à savoir:</p>
         <ul>
-          <li><a href="#fnref1:4" rev="footnote" class="footnote-backref">retour au texte ↩</a></li>
+          <li>Yann Sordet, Un succès de librairie européen: l'Imitatio Christi (1470-1850), Paris, Bibliothèque Mazarine; Editions des cendres, 2012, 195 p. (ISBN 979-10-90853-01-0), p. 11.</p></li>
         </ul>
-      </footer>
+        <p>D'après les spécialistes, son auteur est un moine: <a href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis" title="https://fr.wikipedia.org/wiki/Thomas_a_Kempis">Thomas A KEMPIS</a>.</p>
+      </li>
+    </ol>
+  </div>
+  <footer>
+    <ul>
+      <li><a href="#fnref1:4" rev="footnote" class="footnote-backref">retour au texte ↩</a></li>
+    </ul>
+  </footer>
 
 
     <hr>
 
 
-      <div class="footnotes">
-        <ol>
-          <li id="page-4-fn:5">
-            <p>source: <cite>L'imitation de notre Seigneur Jésus Christ</cite>, trad. de F. de Lamennais, Éd. Arts et Métiers graphiques, Paris, 1946, p. 59-60, II, 4, 1-2 (partie II, chapitre 4, paragraphes 1 et 2).</p>
-            <p>D'après les spécialistes, son auteur est un moine: <a href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis" title="https://fr.wikipedia.org/wiki/Thomas_a_Kempis">Thomas A KEMPIS</a>.</p>
-          </li>
-        </ol>
-      </div>
-      <footer>
-        <ul>
-          <li><a href="#page-4-fnref1:5" rev="footnote" class="footnote-backref">retour au texte ↩</a></li>
-        </ul>
-      </footer>
-
-
-
-<hr>
-
-  <article>
-    <div class="footnotes">
-    <ol>
-      <li id="fn:6">
-        <p>notes:</p>
-        <p>«à l'époque où l'artiste s'établit à Bruges, la ville est l'un des principaux centres de production de livres enluminés des Pays-Bas bourguignons </p>
-        <p>(...)</p>
-        <p>Memling comptait parmi ses relations brugeoises un miniaturiste: <a href="https://fr.wikipedia.org/wiki/Willem_Vrelant" title="https://fr.wikipedia.org/wiki/Willem_Vrelant">Willem Vrelant</a>.
-        À la tête de la plus prolifique officine de la ville, Vrelant était, comme Memling, un immigrant.
-        Originaire d'Utrecht, il est mentionné au sein de la guilde des libraires de Bruges de <time datetime="1454">1454</time> à sa mort en <time datetime="1481">1481</time>.
-        Habitant tous deux dans la Sint-Jorisstraat, Vrelant et Memling étaient presque des voisins.</p>
-        <p>(...)</p>
-        <p>Si l'on se place du point de vue d'une représentation spatiale visuellement convaincante, le rapport entre les deux figures du premier plan et le reste du tableau (... une) incohérence régit le rapport entre la figure principale et le bois du plan intermédiaire.</p>
-        <p>(...)</p>
-        <p>On retrouve d'une œuvre à l'autre le même étagement cumulatif des différentes zones du paysage jusqu'à un horizon placé très haut (...) chez Vrelant»</p>
-      </li>
-    </ol>
-    </div>
-    <footer>
-      <p>source: ouvrage de Philippe LORENTZ référencé en <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean#lorentz" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean#lorentz" id="renvoi-lorentz-2" class="yellow">bibliographie</a>.</p>
-      <p>&#160;<a href="#fnref1:6" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
-    </footer>
-  </article>
-
-<hr>
-
-  <article>
-    <div class="footnotes">
-    <ol>
-      <li id="fn:2">
-        <p>note:</p>
-        <p>pour information, cette citation est au passé, je la transpose au présent.</p>
-      </li>
-    </ol>
-    </div>
-    <footer>
-      <p><a href="#page-7-fnref1:2" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
-    </footer>
-  </article>
-</aside>
-
-<hr>
-
-  <article>
-    <div class="footnotes">
-      <ol>
-        <li id="page-8-fn:1">
-        <p>propos de <a href="https://fr.wikipedia.org/wiki/Jérôme_de_Stridon" title="https://fr.wikipedia.org/wiki/Jérôme_de_Stridon" id="saint-jerome" class="yellow">saint Jérôme</a> rapportés par Jacques de Voragine.</p>
-        </li>
-      </ol>
-    </div>
-    <footer>
-      <p><a href="#page-8-fnref1:1" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
-    </footer>
-  </article>
-
-<hr>
-
-  <article>
   <div class="footnotes">
     <ol>
-      <li id="page-10-fn:1">
-        <p>la citation qui suit est au passé; pour information, je la transpose ici au présent.</p>
+      <li id="page-4-fn:5">
+        <p>source: <cite>L'imitation de notre Seigneur Jésus Christ</cite>, trad. de F. de Lamennais, Éd. Arts et Métiers graphiques, Paris, 1946, p. 59-60, II, 4, 1-2 (partie II, chapitre 4, paragraphes 1 et 2).</p>
+        <p>D'après les spécialistes, son auteur est un moine: <a href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis" title="https://fr.wikipedia.org/wiki/Thomas_a_Kempis">Thomas A KEMPIS</a>.</p>
       </li>
     </ol>
-    </div>
-    <footer>
-      <p><a href="#page-10-fnref1:1" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
-    </footer>
-  </article>
-  <article>
-    <div class="footnotes">
-    <ol start="2">
-      <li id="page-10-fn:2">
-        <p>les passages du texte de l'Apocalypse qui se rapporte au volet de droite se trouve <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#apocalypse" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#apocalypse">ici</a></p>
-      </li>
-    </ol>
-    </div>
-    <footer>
-      <p><a href="#page-10-fnref1:2" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
-    </footer>
-  </article>
-  <article>
-    <div class="footnotes">
-    <ol start="3">
-      <li id="page-10-fn:3">
-        <p>Le texte de l'Apocalypse s'adresse aux «sept églises qui sont en Asie Mineure» (<q>Éphèse, Smyrne, Pergame, Thyatire, Sardes, Philadelphie et Laodicée</q>, Apocalypse 1.4) dans le langage symbolique des Écritures judaïques.</p>
-        <p>Il exhorte à une réalité transcendante devant leurs permettre de surmonter non seulement les persécutions, quelles soient romaines ou judaïques, mais aussi leurs propres insuffisance <span style="color: #999;">(<cite>Apocalypse</cite> chap.2-3)</span> grâce à l'espérance nouvelle dans le christ à la fin des temps.</p>
-      </li>
-    </ol>
-    </div>
-    <footer>
-      <p><a href="#page-10-fnref1:3" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
-    </footer>
-  </article>
-  <article>
-    <div class="footnotes">
-    <ol start="4">
-      <li id="page-10-fn:4">
-        <p>nous faisons le choix de remplacer le terme <q>halo de lumière</q> par <q>arc-en-ciel</q> qui correspond à la représentation de Memling étant donné la note de la traduction œuménique de la bible (Édition avril 1989, p.1799, note w.) <q>le même mot grec désigne aussi l'arc-en-ciel, ou encore une auréole</q>.</p>
-      </li>
-    </ol>
-    </div>
-    <footer>
-      <p><a href="#page-10-fnref1:4" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
-    </footer>
-  </article>
+  </div>
+  <footer>
+    <ul>
+      <li><a href="#page-4-fnref1:5" rev="footnote" class="footnote-backref">retour au texte ↩</a></li>
+    </ul>
+  </footer>
+
+
+
+<hr>
+
+
+  <div class="footnotes">
+  <ol>
+    <li id="fn:6">
+      <p>notes:</p>
+      <p>«à l'époque où l'artiste s'établit à Bruges, la ville est l'un des principaux centres de production de livres enluminés des Pays-Bas bourguignons </p>
+      <p>(...)</p>
+      <p>Memling comptait parmi ses relations brugeoises un miniaturiste: <a href="https://fr.wikipedia.org/wiki/Willem_Vrelant" title="https://fr.wikipedia.org/wiki/Willem_Vrelant">Willem Vrelant</a>.
+      À la tête de la plus prolifique officine de la ville, Vrelant était, comme Memling, un immigrant.
+      Originaire d'Utrecht, il est mentionné au sein de la guilde des libraires de Bruges de <time datetime="1454">1454</time> à sa mort en <time datetime="1481">1481</time>.
+      Habitant tous deux dans la Sint-Jorisstraat, Vrelant et Memling étaient presque des voisins.</p>
+      <p>(...)</p>
+      <p>Si l'on se place du point de vue d'une représentation spatiale visuellement convaincante, le rapport entre les deux figures du premier plan et le reste du tableau (... une) incohérence régit le rapport entre la figure principale et le bois du plan intermédiaire.</p>
+      <p>(...)</p>
+      <p>On retrouve d'une œuvre à l'autre le même étagement cumulatif des différentes zones du paysage jusqu'à un horizon placé très haut (...) chez Vrelant»</p>
+    </li>
+  </ol>
+  </div>
+  <footer>
+    <p>source: ouvrage de Philippe LORENTZ référencé en <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean#lorentz" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean#lorentz" id="renvoi-lorentz-2" class="yellow">bibliographie</a>.</p>
+    <p>&#160;<a href="#fnref1:6" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+  </footer>
+
+
+<hr>
+
+
+  <div class="footnotes">
+  <ol>
+    <li id="fn:2">
+      <p>note:</p>
+      <p>pour information, cette citation est au passé, je la transpose au présent.</p>
+    </li>
+  </ol>
+  </div>
+  <footer>
+    <p><a href="#page-7-fnref1:2" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+  </footer>
+
 </aside>
 
-</article>
+<hr>
+
+
+  <div class="footnotes">
+    <ol>
+      <li id="page-8-fn:1">
+      <p>propos de <a href="https://fr.wikipedia.org/wiki/Jérôme_de_Stridon" title="https://fr.wikipedia.org/wiki/Jérôme_de_Stridon" id="saint-jerome" class="yellow">saint Jérôme</a> rapportés par Jacques de Voragine.</p>
+      </li>
+    </ol>
+  </div>
+  <footer>
+    <p><a href="#page-8-fnref1:1" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+  </footer>
+
+
+<hr>
+
+  
+<div class="footnotes">
+  <ol>
+    <li id="page-10-fn:1">
+      <p>la citation qui suit est au passé; pour information, je la transpose ici au présent.</p>
+    </li>
+  </ol>
+  </div>
+  <footer>
+    <p><a href="#page-10-fnref1:1" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+  </footer>
+
+
+  <div class="footnotes">
+  <ol start="2">
+    <li id="page-10-fn:2">
+      <p>les passages du texte de l'Apocalypse qui se rapporte au volet de droite se trouve <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#apocalypse" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#apocalypse">ici</a></p>
+    </li>
+  </ol>
+  </div>
+  <footer>
+    <p><a href="#page-10-fnref1:2" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+  </footer>
+
+
+  <div class="footnotes">
+  <ol start="3">
+    <li id="page-10-fn:3">
+      <p>Le texte de l'Apocalypse s'adresse aux «sept églises qui sont en Asie Mineure» (<q>Éphèse, Smyrne, Pergame, Thyatire, Sardes, Philadelphie et Laodicée</q>, Apocalypse 1.4) dans le langage symbolique des Écritures judaïques.</p>
+      <p>Il exhorte à une réalité transcendante devant leurs permettre de surmonter non seulement les persécutions, quelles soient romaines ou judaïques, mais aussi leurs propres insuffisance <span style="color: #999;">(<cite>Apocalypse</cite> chap.2-3)</span> grâce à l'espérance nouvelle dans le christ à la fin des temps.</p>
+    </li>
+  </ol>
+  </div>
+  <footer>
+    <p><a href="#page-10-fnref1:3" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+  </footer>
+
+
+  <div class="footnotes">
+  <ol start="4">
+    <li id="page-10-fn:4">
+      <p>nous faisons le choix de remplacer le terme <q>halo de lumière</q> par <q>arc-en-ciel</q> qui correspond à la représentation de Memling étant donné la note de la traduction œuménique de la bible (Édition avril 1989, p.1799, note w.) <q>le même mot grec désigne aussi l'arc-en-ciel, ou encore une auréole</q>.</p>
+    </li>
+  </ol>
+  </div>
+  <footer>
+    <p><a href="#page-10-fnref1:4" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+  </footer>
+
+</aside>
 
 <!-- Page 16 -->
 
@@ -2992,6 +2988,8 @@
 <!-- Page 19 -->
 
 <!-- Page 20 -->
+
+</article>
 `;
 
   let focusEditor;
