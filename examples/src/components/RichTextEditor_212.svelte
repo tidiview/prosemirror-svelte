@@ -551,7 +551,7 @@
           <ul>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#renvoi-apocalypse-10-4">Back to related text ↩</a></p></li>
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-10-4">Back to related image ↩</a></p></li>
-        </ul>
+          </ul>
         </footer>
         </blockquote>
 
