@@ -11,33 +11,30 @@
   
   <hgroup>
     <h2 id="mise-en-relation" class="yellow">different texts at the origin of the scenes represented in the <cite><ruby style="color:#555;" lang="en">Triptych of John The Baptist and John The Evangelist<rp>(</rp><rt style="color:#999;" lang="nl">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby></cite></h2>
-    <section><article>
+
 
       <h3 class="yellow">Excerpt of the text of <cite>The Revelation</cite> related to its representation of John in Patmos on the left shutter by Hans Memling</h3>
   </hgroup>
 
-    <h4 id="apocalypse" class="yellow">Text of the vision of the throne of God and the heavenly court: the living on the throne and the Lamb</h4>
+    <h3 id="apocalypse" class="yellow">Text of the vision of the throne of God and the heavenly court: the living on the throne and the Lamb</h3>
 
-    <section><article>
-      <ol>
-        <li><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#description-right-shutter">Back to: Overview of the right inner shutter: John bears witness to <cite>The Revelation</cite> on Patmos. ↩</a></li>
-      </ol>
-    </article></section>
 
-    <section><article>
+      <p class="puce"><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#description-right-shutter">Back to: Overview of the right inner shutter: John bears witness to <cite>The Revelation</cite> in Patmos. ↩</a></p>
+
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
+      <p class="o-puce">Chapter 4</p>
         <ol class="doc">
-          <li>Chapter 4</li>
           <li value="01">Then, in my vision, I saw a door open in heaven and heard the same voice speaking to me, the voice like a trumpet, saying,
             <p class="conversation">
               “Come up here: I will show you what is to take place in the future.”
             </p>
           </li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <blockquote id="apocalypse-4-2" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_4">
           <ol class="doc">
             <li value="02">Immediately I was in the <span style="color: #e6a64d;">Spirit</span>. Behold, there was a <span style="color: #e6a64d;">throne</span> set in <span style="color: #e6a64d;">heaven</span>, and <span style="color: #e6a64d;">one</span> sitting on the throne</li>
@@ -53,9 +50,9 @@
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#image-apocalypse-4-2">Back to related image ↩</a></p></li>
           </ul>
         </footer>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <blockquote id="apocalypse-4-7" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_4">
           <ol class="doc">
             <li value="07">The first creature was like a <span style="color: #e6a64d;">lion</span>, and the second creature like a <span style="color: #e6a64d;">calf</span>, and the third creature had a <span style="color: #e6a64d;">face like a man</span>, and the fourth was like a <span style="color: #e6a64d;">flying eagle</span>.</li>
@@ -73,20 +70,20 @@
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#image-apocalypse-4-2">Back to related image ↩</a></p></li>
           </ul>
         </footer>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
           <ol class="doc">
             <li value="9">Every time the living creatures glorified and honoured and gave thanks to the One sitting on the throne, who lives for ever and ever,</li>
             <li value="10">the twenty-four elders prostrated themselves before him to worship the One who lives for ever and ever, and threw down their crowns in front of the throne, saying:</li>
             <li value="11">«You are worthy, our Lord and God, to receive glory and honour and power, for you made the whole universe; by your will, when it did not exist, it was created.»</li>
           </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <blockquote id="apocalypse-5-1" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_5">
+        <p class="no-puce">chapter 5</p>
           <ol class="doc">
-            <li>chapter 5</li>
             <li value="01">I saw, in the right hand of him who sat on the throne, a <span style="color: #e6a64d;">book</span> written inside and outside, sealed shut with <span style="color: #e6a64d;">seven seals</span>.</li>
           </ol>
         </blockquote>
@@ -96,9 +93,9 @@
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#image-apocalypse-4-2">Back to related image ↩</a></p></li>
           </ul>
         </footer>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
         <ol class="doc">
           <li value="2">Then I saw a powerful angel who called with a loud voice
             <p class="conversation">
@@ -113,9 +110,9 @@
             </p>
           </li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <blockquote id="apocalypse-5-6" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_5">
           <ol class="doc">
             <li value="06">I saw in the midst of the throne and of the four living creatures, and in the midst of the elders, a <span style="color: #e6a64d;">Lamb</span> standing, as though it had been slain, having seven horns, and seven eyes, which are the seven Spirits of God, sent out into all the earth.</li>
@@ -128,9 +125,9 @@
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#image-apocalypse-4-2">Back to related image ↩</a></p></li>
           </ul>
         </footer>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
           <ol class="doc">
             <li value="8">and when he took it, the four living creatures prostrated themselves before him and with them the twenty-four elders; each one of them was holding a harp and had a golden bowl full of incense which are the prayers of the saints.</li>
             <li value="9">They sang a new hymn: You are worthy to take the scroll and to break its seals, because you were sacrificed, and with your blood you bought people for God of every race, language, people and nation.</li>
@@ -148,12 +145,12 @@
               </p>
             and the elders prostrated themselves to worship.</li>
           </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <blockquote id="apocalypse-6-1" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_6">
+          <p class="no-puce">chapter 6</p>
           <ol class="doc">
-            <li>chapter 6</li>
             <li value="01">
               <p>I saw that the Lamb opened one of the seven seals, and I heard one of the four living creatures saying, as with a voice of thunder,</p>
               <p class="conversation">
@@ -169,9 +166,9 @@
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-1">Back to related image ↩</a></p></li>
           </ul>
         </footer>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <blockquote id="apocalypse-6-3" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_6">
           <ol class="doc">
             <li value="03"><p>When he opened the second seal, I heard the second living creature saying,</p>
@@ -188,9 +185,9 @@
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-3">Back to related image ↩</a></p></li>
           </ul>
         </footer>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <blockquote id="apocalypse-6-5" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_6">
           <ol class="doc">
             <li value="05">
@@ -214,9 +211,9 @@
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-5">Back to related image ↩</a></p></li>
           </ul>
         </footer>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <blockquote id="apocalypse-6-7" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_6">
             <ol class="doc">
               <li value="07">
@@ -235,9 +232,9 @@
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-7">Back to related image ↩</a></p></li>
           </ul>
         </footer>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
         <ol class="doc">
           <li value="9">
           When he broke the fifth seal, I saw underneath the altar the souls of all the people who had been killed on account of the Word of God, for witnessing to it.</li>
@@ -250,9 +247,9 @@
           <li value="12">In my vision, when he broke the sixth seal, there was a violent earthquake and the sun went as black as coarse sackcloth; the moon turned red as blood all over,</li>
           <li value="13">and the stars of the sky fell onto the earth like figs dropping from a fig tree when a high wind shakes it;</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <blockquote id="apocalypse-6-14" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_6">
           <ol class="doc">
             <li value="14">The sky was removed like a scroll when it is rolled up. Every mountain and island were moved out of their places.</li>
@@ -276,11 +273,11 @@
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-14">Back to related image ↩</a></p></li>
           </ul>
         </footer>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
+      <p class="no-puce">chapter 7</p>
         <ol class="doc">
-          <li>chapter 7</li>
           <li value="1">Next I saw four angels, standing at the four corners of the earth, holding back the four winds of the world to keep them from blowing over the land or the sea or any tree.</li>
           <li value="2">Then I saw another angel rising where the sun rises, carrying the seal of the living God; he called in a powerful voice to the four angels whose duty was to devastate land and sea,</li>
           <li value="3">
@@ -335,12 +332,12 @@
             </p>
           </li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
+      <p class="no-puce">chapter 8</p>
         <blockquote id="apocalypse-8-1" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
           <ol class="doc">
-            <li>chapter 8</li>
             <li value="01">When he opened the seventh seal, there was silence in heaven for about half an hour.</li>
             <li value="02">I saw the <span style="color: #e6a64d;">seven angels</span> who stand before God, and <span style="color: #e6a64d;">seven trumpets</span> were given to them.</li>
           </ol>
@@ -351,9 +348,9 @@
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-1">Back to related image ↩</a></p></li>
           </ul>
         </footer>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <blockquote id="apocalypse-8-3" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
           <ol class="doc">
             <li value="03">Another angel came and stood over the altar, having a <span style="color: #e6a64d;">golden censer</span>. Much incense was given to him, that he should add it to the prayers of all the saints on the <span style="color: #e6a64d;">golden altar</span> which was before the throne.</li>
@@ -365,9 +362,9 @@
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-3">Back to related image ↩</a></p></li>
           </ul>
         </footer>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <blockquote id="apocalypse-8-4" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
           <ol class="doc">
             <li value="04">The smoke of the incense, with the prayers of the saints, went up before God out of the angel's hand.</li>
@@ -380,9 +377,9 @@
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-4">Back to related image ↩</a></p></li>
           </ul>
         </footer>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <blockquote id="apocalypse-8-6" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
           <ol class="doc">
             <li value="06">The seven angels who had the seven trumpets prepared themselves to sound.</li>
@@ -397,9 +394,9 @@
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-4">Back to related image ↩</a></p></li>
           </ul>
         </footer>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <blockquote id="apocalypse-8-10" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
           <ol class="doc">
             <li value="10">The third angel sounded, and a <span style="color: #e6a64d;">great star fell from the sky, burning like a torch</span>, and it fell on one third of the rivers, and on the springs of the waters.</li>
@@ -411,9 +408,9 @@
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-10">Back to related image ↩</a></p></li>
           </ul>
         </footer>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <blockquote id="apocalypse-8-11" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
           <ol class="doc">
             <li value="11">The name of the star is called «<span style="color: #e6a64d;">wormwood</span>». One third of the waters became wormwood. Many people died from the waters, because they were made bitter.</li>
@@ -426,9 +423,9 @@
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-10">Back to related image ↩</a></p></li>
           </ul>
         </footer>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <blockquote id="apocalypse-8-13" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_8">
           <ol class="doc">
             <li value="13"><p>I saw, and I heard an <span style="color: #e6a64d;">eagle</span>, flying in mid heaven, saying with a loud voice,</p>
@@ -444,12 +441,12 @@
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-13">Back to related image ↩</a></p></li>
           </ul>
         </footer>
-      </article></section>
+
       <hr>
-      <section><article>
+
+      <p class="no-puce">chapter 9</p>
         <blockquote id="apocalypse-9-1" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_9">
           <ol class="doc">
-            <li>chapter 9</li>
             <li value="01">The fifth angel sounded, and I saw a star from the sky which had fallen to the earth. The key to the pit of the <span style="color: #e6a64d;">abyss</span> was given to him.</li>
             <li value="02">He opened the pit of the abyss, and smoke went up out of the pit, like the <span style="color: #e6a64d;">smoke from a burning furnace</span>. The sun and the air were darkened because of the smoke from the pit,</li>
             <li value="03">Then out of the smoke came forth <span style="color: #e6a64d;">locusts</span> on the earth, and power was given to them, as the scorpions of the earth have power.</li>
@@ -461,9 +458,9 @@
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-9-1">Back to related image ↩</a></p></li>
           </ul>
         </footer>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <blockquote id="apocalypse-9-4" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_9">
           <ol class="doc">
             <li value="04">They were told that they should not hurt the grass of the earth, neither any green thing, neither any tree, but only those people who don't have God's seal on their foreheads.</li>
@@ -483,9 +480,9 @@
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-9-1">Back to related image ↩</a></p></li>
           </ul>
         </footer>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
         <ol class="doc">
           <li value="12">That was the first of the disasters; there are still two more to come.</li>
           <li value="13">The sixth angel blew his trumpet, and I heard a single voice issuing from the four horns of the golden altar in God's presence.</li>
@@ -502,12 +499,12 @@
           <li value="20">But the rest of the human race, who escaped death by these plagues, refused either to abandon their own handiwork or to stop worshipping devils, the idols made of gold, silver, bronze, stone and wood that can neither see nor hear nor move.</li>
           <li value="21">Nor did they give up their murdering, or witchcraft, or fornication or stealing.</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
+      <p class="no-puce">chapter 10</p>
         <blockquote id="apocalypse-10-1" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_10">
           <ol class="doc">
-            <li>chapter 10</li>
             <li value="01">I saw a mighty <span style="color: #e6a64d;">angel</span> coming down out of the sky, clothed with a <span style="color: #e6a64d;">cloud</span>. A <span style="color: #e6a64d;">rainbow</span> was on his head. His face was like the sun, and his feet like <span style="color: #e6a64d;">pillars of fire</span>.</li>
             <li value="02">He had in his hand a little open <span style="color: #e6a64d;">book</span>.</li>
             <li>He set his right foot on the sea, and his left on the land.</li>
@@ -521,9 +518,9 @@
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-10-1">Back to related image ↩</a></p></li>
           </ul>
         </footer>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <blockquote id="apocalypse-10-4" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_10">
           <ol class="doc">
             <li value="04"><p>When the seven thunders sounded, I was about to write; but I heard a voice from the sky saying,</p>
@@ -540,9 +537,9 @@
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-10-4">Back to related image ↩</a></p></li>
         </ul>
         </footer>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
         <ol class="doc">
           <li value="07">
             <p class="conversation">
@@ -570,11 +567,11 @@
             </p>
           </li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
+      <p class="no-puce">chapter 11</p>
         <ol class="doc">
-          <li>chapter 11</li>
           <li value="1">Then I was given a long cane like a measuring rod, and I was told,
             <p class="conversation">
               “Get up and measure God's sanctuary, and the altar, and the people who worship there;
@@ -651,9 +648,9 @@
           </li>
           <li value="19">Then the sanctuary of God in heaven opened, and the ark of the covenant could be seen inside it. Then came flashes of lightning, peals of thunder and an earthquake and violent hail.</li>
         </ol>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <blockquote id="apocalypse-12-1" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_12">
           <ol class="doc">
             <li>chapter 12</li>
@@ -669,9 +666,9 @@
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-12-1">Back to related image ↩</a></p></li>
           </ul>
         </footer>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <blockquote id="apocalypse-12-5" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_12">
           <ol class="doc">
             <li value="05">She gave birth to a son, a male child, who is to rule all the nations with a rod of iron. Her child was caught up to God, and to his throne.</li>
@@ -688,9 +685,9 @@
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-12-5">Back to related image ↩</a></p></li>
           </ul>
         </footer>
-      </article></section>
+
       <hr>
-      <section><article>
+
         <blockquote id="apocalypse-12-10" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_12">
           <ol class="doc">
             <li value="10">
@@ -719,19 +716,19 @@
             <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:14#image-apocalypse-12-10">Back to related image ↩</a></p></li>
           </ul>
         </footer>
-      </article></section>
+
       <hr>
-      <section><article><p>out</p>
+<p>out</p>
         <ol class="doc">
           <li value="15">So the serpent vomited water from his mouth, like a river, after the woman, to sweep her away in the current,</li>
           <li value="16">but the earth came to her rescue; it opened its mouth and swallowed the river spewed from the dragon's mouth.</li>
           <li value="17">Then the dragon was enraged with the woman and went away to make war on the rest of her children, who obey God's commandments and have in themselves the witness of Jesus.</li>
           <li value="18">And I took my stand on the seashore.</li>
         </ol>
-      </article></section>
+
       <hr>
-    </article></section>
-  </article></section>
+
+
 </article>
 `;
 
