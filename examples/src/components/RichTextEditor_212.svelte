@@ -23,7 +23,7 @@
 
 
       <hr>
-<p>out</p>
+      <p>out</p>
       <p class="no-puce">Chapter 4</p>
         <ol class="doc">
           <li value="01">Then, in my vision, I saw a door open in heaven and heard the same voice speaking to me, the voice like a trumpet, saying,
