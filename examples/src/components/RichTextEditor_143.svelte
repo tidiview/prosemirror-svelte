@@ -2587,179 +2587,171 @@
 
 <aside>
 
-    <h3 id="a-propos-de-cet-article" class="yellow">この記事に関連書籍</h3>
+<h3 id="a-propos-de-cet-article" class="yellow">この記事に関連書籍</h3>
 
-      <p>この記事を作文するには、特に<ruby lang="ja">ディルク<rp>（</rp><rt lang="nl">Dirk</rt><rp>）</rp>・<rp>（</rp><rt lang="nl">&#160;</rt><rp>）</rp>ド<rp>（</rp><rt lang="nl">DE</rt><rp>）</rp>・<rp>（</rp><rt lang="nl">&#160;</rt><rp>）</rp>ヴォス<rp>（</rp><rt lang="nl">VOS</rt><rp>）</rp></ruby>、<a href="#de-vos-1" id="renvoi-de-vos-1" class="yellow">「ハンス・メムリンク」</a>、<a href="#de-vos-2" class="yellow">「ハンス・メリンク＝作品全集」</a>などの既存の文献に対して、私たちは本当に感謝しています。</p>
+  <p>この記事を作文するには、特に<ruby lang="ja">ディルク<rp>（</rp><rt lang="nl">Dirk</rt><rp>）</rp>・<rp>（</rp><rt lang="nl">&#160;</rt><rp>）</rp>ド<rp>（</rp><rt lang="nl">DE</rt><rp>）</rp>・<rp>（</rp><rt lang="nl">&#160;</rt><rp>）</rp>ヴォス<rp>（</rp><rt lang="nl">VOS</rt><rp>）</rp></ruby>、<a href="#de-vos-1" id="renvoi-de-vos-1" class="yellow">「ハンス・メムリンク」</a>、<a href="#de-vos-2" class="yellow">「ハンス・メリンク＝作品全集」</a>などの既存の文献に対して、私たちは本当に感謝しています。</p>
 
 
 
-      <h4 id="de-vos" class="yellow">ディルク・ド・ヴォスの本:</h4>
+  <h4 id="de-vos" class="yellow">ディルク・ド・ヴォスの本:</h4>
 
-        <ul>
-          <li>フランス語で：
-            <table>
-              <thead>
-              <tr>
-              <th><span hidden>hidden</span></th>
-              <th><span hidden>hidden</span></th>
-              <th><span hidden>hidden</span></th>
-              </tr>
-              </thead>
-              <tbody>
-              <tr>
-              <td><samp>題名</samp></td>
-              <td><samp>出版年</samp></td>
-              <td><samp>ISBN-10</samp></td>
-              </tr>
-              <tr>
-              <td><samp>Hans Memling : l'œuvre complète</samp></td>
-              <td><samp>1994</samp></td>
-              <td><samp>2-226-06992-5</samp></td>
-              </tr>
-              <tr>
-              <td><samp>Hans Memling : catalogue</samp></td>
-              <td><samp>1994</samp></td>
-              <td><samp>90-5544-028-0</samp></td>
-              </tr>
-              </tbody>
-            </table>
-          </li>
-          <li>英語で：
-            <table>
-              <thead>
-              <tr>
-              <th><span hidden>hidden</span></th>
-              <th><span hidden>hidden</span></th>
-              <th><span hidden>hidden</span></th>
-              </tr>
-              </thead>
-              <tbody>
-              <tr>
-              <td><samp>題名</samp></td>
-              <td><samp>出版年</samp></td>
-              <td><samp>ISBN-10</samp></td>
-              </tr>
-              <tr>
-              <td><samp>Hans Memling: The Complete Works</samp></td>
-              <td><samp>1994</samp></td>
-              <td><samp>0840936496</samp></td>
-              </tr>
-              <tr>
-              <td><samp>Hans Memling: Catalogue</samp></td>
-              <td><samp>1994</samp></td>
-              <td><samp>9055440299</samp></td>
-              </tr>
-              </tbody>
-            </table>
-          </li>
-        </ul>
+    <ul>
+      <li>フランス語で：
+        <table>
+          <thead>
+          <tr>
+          <th><span hidden>hidden</span></th>
+          <th><span hidden>hidden</span></th>
+          <th><span hidden>hidden</span></th>
+          </tr>
+          </thead>
+          <tbody>
+          <tr>
+          <td><samp>題名</samp></td>
+          <td><samp>出版年</samp></td>
+          <td><samp>ISBN-10</samp></td>
+          </tr>
+          <tr>
+          <td><samp>Hans Memling : l'œuvre complète</samp></td>
+          <td><samp>1994</samp></td>
+          <td><samp>2-226-06992-5</samp></td>
+          </tr>
+          <tr>
+          <td><samp>Hans Memling : catalogue</samp></td>
+          <td><samp>1994</samp></td>
+          <td><samp>90-5544-028-0</samp></td>
+          </tr>
+          </tbody>
+        </table>
+      </li>
+      <li>英語で：
+        <table>
+          <thead>
+          <tr>
+          <th><span hidden>hidden</span></th>
+          <th><span hidden>hidden</span></th>
+          <th><span hidden>hidden</span></th>
+          </tr>
+          </thead>
+          <tbody>
+          <tr>
+          <td><samp>題名</samp></td>
+          <td><samp>出版年</samp></td>
+          <td><samp>ISBN-10</samp></td>
+          </tr>
+          <tr>
+          <td><samp>Hans Memling: The Complete Works</samp></td>
+          <td><samp>1994</samp></td>
+          <td><samp>0840936496</samp></td>
+          </tr>
+          <tr>
+          <td><samp>Hans Memling: Catalogue</samp></td>
+          <td><samp>1994</samp></td>
+          <td><samp>9055440299</samp></td>
+          </tr>
+          </tbody>
+        </table>
+      </li>
+    </ul>
 
+  <footer>
+    <p><a href="#renvoi-de-vos-1" title="renvoi-de-vos-1">↑ このページー</a>　<a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:2#renvoi-de-vos-2" title="renvoi-de-vos-2">↑ ページー２</a></p>
+  </footer>
+
+
+
+  <h4 id="lorentz" class="yellow">フィリップ・ロレンッツの本:</h4>
+
+    <div class="notices yellow">
+      <ul>
+        <li>フランス語で：
+          <table>
+            <thead>
+            <tr>
+            <th><span hidden>hidden</span></th>
+            <th><span hidden>hidden</span></th>
+            <th><span hidden>hidden</span></th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+            <td><samp>題名</samp></td>
+            <td><samp>出版年</samp></td>
+            <td><samp>ISBN-10</samp></td>
+            </tr>
+            <tr>
+            <td><samp>Hans Memling au Louvre (exposition, Musée du Louvre, Salle de la Chapelle, aile Sully, 18 Mai-14 Août 1995)</samp></td>
+            <td><samp>1995</samp></td>
+            <td><samp>2-7118-3275-9</samp></td>
+            </tr>
+            </tbody>
+          </table>
+        </li>
+      </ul>
+    </div>
+
+  <footer>
+    <p><a href="#renvoi-lorentz-1" title="renvoi-de-vos-1">↑ このページー</a>　<a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#renvoi-lorentz-2" title="renvoi-lorentz-2">↑ ページー３</a></p>
+  </footer>
+
+
+<hr>
+
+
+  <header>
+    <p><a href="#page-1-renvoi-note-1" title="renvoi note-1" id="note-1">註釈：</a></p>
+  </header>
+  <p>一般の人々に向けて私たちは公開にしている作品の複製写真は、現在では、私たちが知っている限り、専門家のを除いて、最高のものです。それらの写真が、（この記事が作文される<time datetime="2018">２０１８年</time>）現在ですと、展示会空間の照明が低強度と黄色のために、私たちから大変な努力を必要としてきました。</p>
+  <footer>
+    <p><a href="#page-1-renvoi-note-1" title="註釈の元へ">↑ 文書に戻る</a></p>
+  </footer>
+
+<hr>
+
+<h3 class="yellow">註釈</h3>
+
+  <h4 id="page-10-note-apocalypse" class="yellow">黙示録</h4>
+
+
+      <div class="notices yellow">
+      <ol>
+        <li><p>黙示録の文書が「アジア州にある７つの教会へ」 （「エフェソス、スミルナ、ペルガモン、ティアティラ、サルディス、フィラデルフィア、ラオディキア」、黙示録、１・４）とユダヤ系聖典の像徴的言語で宛てられている。</p>
+        <p>この文書が時間の終わりでのキリストの内での新たな希望のおかげでローマからであれユダヤからであれの迫害を乗り越えることだけではなくしかもそれらの教会自身の不足<span style="color: #9c6416;">、<cite>黙示録</cite>、第２章~３章）節/span>を乗り越えることを可能にしてくれる超越的な事実に招く。</p></li>
+      </ol>
+      </div>
       <footer>
-        <p><a href="#renvoi-de-vos-1" title="renvoi-de-vos-1">↑ このページー</a>　<a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:2#renvoi-de-vos-2" title="renvoi-de-vos-2">↑ ページー２</a></p>
+        <p><a href="#page-10-renvoi-note-apocalypse" title="文書としての『黙示録』の紹介をここに見当たることが出来ます">「文書としての『黙示録』の紹介をここに見当たることが出来ます」 ↑ 戻る ↑</a></p>
       </footer>
 
 
+      <div class="footnotes">
+      <ol start="2">
+        <li id="page-10-fn:1">
+        <p>この引用文が元々の文書では過去形です。念のため、ここでは、私は現在形に移動させている。</p>
+        </li>
+      </ol>
+      </div>
+      <footer>
+        <p><a href="#page-10-fnref1:1" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
+      </footer>
 
-      <h4 id="lorentz" class="yellow">フィリップ・ロレンッツの本:</h4>
 
-        <div class="notices yellow">
+      <div class="footnotes">
+      <ol start="3">
+        <li id="page-10-fn:2">
+          <p>右翼パネルと関係のある黙示録の文書からの引用文があります。</p>
           <ul>
-            <li>フランス語で：
-              <table>
-                <thead>
-                <tr>
-                <th><span hidden>hidden</span></th>
-                <th><span hidden>hidden</span></th>
-                <th><span hidden>hidden</span></th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr>
-                <td><samp>題名</samp></td>
-                <td><samp>出版年</samp></td>
-                <td><samp>ISBN-10</samp></td>
-                </tr>
-                <tr>
-                <td><samp>Hans Memling au Louvre (exposition, Musée du Louvre, Salle de la Chapelle, aile Sully, 18 Mai-14 Août 1995)</samp></td>
-                <td><samp>1995</samp></td>
-                <td><samp>2-7118-3275-9</samp></td>
-                </tr>
-                </tbody>
-              </table>
-            </li>
-          </ul>
-        </div>
-
+            <li><p><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse"><cite>黙示録</cite>の文書</a>を読む。</p></li>
+          </ul>  
+        </li>
+      </ol>
+      </div>
       <footer>
-        <p><a href="#renvoi-lorentz-1" title="renvoi-de-vos-1">↑ このページー</a>　<a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#renvoi-lorentz-2" title="renvoi-lorentz-2">↑ ページー３</a></p>
+        <p><a href="#page-10-fnref1:2" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
       </footer>
-
-
-    <hr>
-
-
-      <header>
-        <p><a href="#page-1-renvoi-note-1" title="renvoi note-1" id="note-1">註釈：</a></p>
-      </header>
-      <p>一般の人々に向けて私たちは公開にしている作品の複製写真は、現在では、私たちが知っている限り、専門家のを除いて、最高のものです。それらの写真が、（この記事が作文される<time datetime="2018">２０１８年</time>）現在ですと、展示会空間の照明が低強度と黄色のために、私たちから大変な努力を必要としてきました。</p>
-      <footer>
-        <p><a href="#page-1-renvoi-note-1" title="註釈の元へ">↑ 文書に戻る</a></p>
-      </footer>
-
-
 
 <hr>
 
-  
-    <h3 class="yellow">註釈</h3>
-
-      <h4 id="page-10-note-apocalypse" class="yellow">黙示録</h4>
-
-
-          <div class="notices yellow">
-          <ol>
-            <li><p>黙示録の文書が「アジア州にある７つの教会へ」 （「エフェソス、スミルナ、ペルガモン、ティアティラ、サルディス、フィラデルフィア、ラオディキア」、黙示録、１・４）とユダヤ系聖典の像徴的言語で宛てられている。</p>
-            <p>この文書が時間の終わりでのキリストの内での新たな希望のおかげでローマからであれユダヤからであれの迫害を乗り越えることだけではなくしかもそれらの教会自身の不足<span style="color: #9c6416;">、<cite>黙示録</cite>、第２章~３章）節/span>を乗り越えることを可能にしてくれる超越的な事実に招く。</p></li>
-          </ol>
-          </div>
-          <footer>
-            <p><a href="#page-10-renvoi-note-apocalypse" title="文書としての『黙示録』の紹介をここに見当たることが出来ます">「文書としての『黙示録』の紹介をここに見当たることが出来ます」 ↑ 戻る ↑</a></p>
-          </footer>
-
-
-          <div class="footnotes">
-          <ol start="2">
-            <li id="page-10-fn:1">
-            <p>この引用文が元々の文書では過去形です。念のため、ここでは、私は現在形に移動させている。</p>
-            </li>
-          </ol>
-          </div>
-          <footer>
-            <p><a href="#page-10-fnref1:1" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
-          </footer>
-
-
-          <div class="footnotes">
-          <ol start="3">
-            <li id="page-10-fn:2">
-              <p>右翼パネルと関係のある黙示録の文書からの引用文があります。</p>
-              <ul>
-                <li><p><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse"><cite>黙示録</cite>の文書</a>を読む。</p></li>
-              </ul>  
-            </li>
-          </ol>
-          </div>
-          <footer>
-            <p><a href="#page-10-fnref1:2" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
-          </footer>
-
-
-
-
-
-<hr>
-
-  
 
       <div class="footnotes">
         <ol>
@@ -2834,8 +2826,6 @@
         <p><a href="#page-3-fnref1:5" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
       </footer>
 
-
-
 <hr>
 
   <h3 class="yellow">註釈</h3>
@@ -2902,8 +2892,6 @@
         </ul>
       </footer>
 
-
-
 <hr>
 
   
@@ -2930,7 +2918,6 @@
       <p><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean#lorentz" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean#lorentz" id="renvoi-lorentz-2" class="yellow">この記事に関連書籍</a>に出典されている<ruby lang="ja">フィリップ<rp>（</rp><rt lang="de">Philippe</rt><rp>）</rp>・<rp>（</rp><rt lang="de">&#160;</rt><rp>）</rp>ローレンッツ<rp>（</rp><rt lang="de">LORENTZ</rt><rp>）</rp></ruby>の著作からの引用。</p>
       <p><a href="#page-5-fnref1:6" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p></p>
     </footer>
-
 
 <hr>
 
@@ -2972,9 +2959,7 @@
       <p><a href="#page-7-fnref1:3" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
     </footer>
 
-
 <hr>
-
 
   <div class="footnotes">
   <ol>
@@ -3005,54 +2990,47 @@
 <hr>
 
   
-    <h3 class="yellow">註釈</h3>
+<h3 class="yellow">註釈</h3>
 
-      <h4 id="page-10-note-apocalypse" class="yellow">黙示録</h4>
-
-
-          <div class="notices yellow">
-          <ol>
-            <li><p>黙示録の文書が「アジア州にある７つの教会へ」 （「エフェソス、スミルナ、ペルガモン、ティアティラ、サルディス、フィラデルフィア、ラオディキア」、黙示録、１・４）とユダヤ系聖典の像徴的言語で宛てられている。</p>
-            <p>この文書が時間の終わりでのキリストの内での新たな希望のおかげでローマからであれユダヤからであれの迫害を乗り越えることだけではなくしかもそれらの教会自身の不足<span style="color: #9c6416;">、<cite>黙示録</cite>、第２章~３章）節/span>を乗り越えることを可能にしてくれる超越的な事実に招く。</p></li>
-          </ol>
-          </div>
-          <footer>
-            <p><a href="#page-10-renvoi-note-apocalypse" title="文書としての『黙示録』の紹介をここに見当たることが出来ます">「文書としての『黙示録』の紹介をここに見当たることが出来ます」 ↑ 戻る ↑</a></p>
-          </footer>
+  <h4 id="page-10-note-apocalypse" class="yellow">黙示録</h4>
 
 
-          <div class="footnotes">
-          <ol start="2">
-            <li id="page-10-fn:1">
-            <p>この引用文が元々の文書では過去形です。念のため、ここでは、私は現在形に移動させている。</p>
-            </li>
-          </ol>
-          </div>
-          <footer>
-            <p><a href="#page-10-fnref1:1" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
-          </footer>
+      <div class="notices yellow">
+      <ol>
+        <li><p>黙示録の文書が「アジア州にある７つの教会へ」 （「エフェソス、スミルナ、ペルガモン、ティアティラ、サルディス、フィラデルフィア、ラオディキア」、黙示録、１・４）とユダヤ系聖典の像徴的言語で宛てられている。</p>
+        <p>この文書が時間の終わりでのキリストの内での新たな希望のおかげでローマからであれユダヤからであれの迫害を乗り越えることだけではなくしかもそれらの教会自身の不足<span style="color: #9c6416;">、<cite>黙示録</cite>、第２章~３章）節/span>を乗り越えることを可能にしてくれる超越的な事実に招く。</p></li>
+      </ol>
+      </div>
+      <footer>
+        <p><a href="#page-10-renvoi-note-apocalypse" title="文書としての『黙示録』の紹介をここに見当たることが出来ます">「文書としての『黙示録』の紹介をここに見当たることが出来ます」 ↑ 戻る ↑</a></p>
+      </footer>
 
 
-          <div class="footnotes">
-          <ol start="3">
-            <li id="page-10-fn:2">
-              <p>右翼パネルと関係のある黙示録の文書からの引用文があります。</p>
-              <ul>
-                <li><p><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse"><cite>黙示録</cite>の文書</a>を読む。</p></li>
-              </ul>  
-            </li>
-          </ol>
-          </div>
-          <footer>
-            <p><a href="#page-10-fnref1:2" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
-          </footer>
+      <div class="footnotes">
+      <ol start="2">
+        <li id="page-10-fn:1">
+        <p>この引用文が元々の文書では過去形です。念のため、ここでは、私は現在形に移動させている。</p>
+        </li>
+      </ol>
+      </div>
+      <footer>
+        <p><a href="#page-10-fnref1:1" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
+      </footer>
 
 
-
-
-</aside>
-
-
+      <div class="footnotes">
+      <ol start="3">
+        <li id="page-10-fn:2">
+          <p>右翼パネルと関係のある黙示録の文書からの引用文があります。</p>
+          <ul>
+            <li><p><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse"><cite>黙示録</cite>の文書</a>を読む。</p></li>
+          </ul>  
+        </li>
+      </ol>
+      </div>
+      <footer>
+        <p><a href="#page-10-fnref1:2" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
+      </footer>
 
 <!-- Page 16 -->
 
@@ -3063,6 +3041,9 @@
 <!-- Page 19 -->
 
 <!-- Page 20 -->
+
+</aside>
+
 </article>
 `;
 

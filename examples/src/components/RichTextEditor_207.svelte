@@ -2560,59 +2560,58 @@
 
       
 
-      <!-- Page 15 --><hr>
+  <!-- Page 15 --><hr>
 
 
-        <figure>
-          <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-280.webp 280w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-380.webp 380w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-480.webp 480w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-640.webp 640w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-840.webp 840w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-1280.webp 1280w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/saint-jean-ferme-840.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, view of the closed triptych, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, view of the closed triptych, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-280.jpg 280w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-380.jpg 380w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-480.jpg 480w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-640.jpg 640w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-840.webp 840w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-1280.webp 1280w"></picture><figcaption>the closed triptich</figcaption>
-        </figure>
+    <figure>
+      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-280.webp 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-380.webp 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-480.webp 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-640.webp 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-840.webp 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-1280.webp 1280w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/saint-jean-ferme-840.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, view of the closed triptych, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, view of the closed triptych, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-280.jpg 280w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-380.jpg 380w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-480.jpg 480w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-640.jpg 640w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-840.webp 840w,
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-1280.webp 1280w"></picture><figcaption>the closed triptich</figcaption>
+    </figure>
 
-        <h3 id="position-fermee" class="yellow">presentation of donors: the closed tryptich</h3>
+    <h3 id="position-fermee" class="yellow">presentation of donors: the closed tryptich</h3>
 
-          <p>The reverse sides of the shutters are decorated with portraits of the donors kneeling and accompanied by their standing patron saints.</p>
-          <p>They are represented in shallow niches.</p>
-          <p>All have been identified</p>
+      <p>The reverse sides of the shutters are decorated with portraits of the donors kneeling and accompanied by their standing patron saints.</p>
+      <p>They are represented in shallow niches.</p>
+      <p>All have been identified</p>
 
-          <p>We recognize, from left to right:</p>
-          <p>On the left shutter, from the left:</p>
-          <ul>
-            <li>Standing, <span style="color: #e6a64d;">St. Agnes</span>, recognizable by the lamb below on the left side,</li>
-            <li>Kneeling in front, <span style="color: #e6a64d;">Agnès CASEMBROOD</span> kneeling.</li>
-          </ul>
+      <p>We recognize, from left to right:</p>
+      <p>On the left shutter, from the left:</p>
+      <ul>
+        <li>Standing, <span style="color: #e6a64d;">St. Agnes</span>, recognizable by the lamb below on the left side,</li>
+        <li>Kneeling in front, <span style="color: #e6a64d;">Agnès CASEMBROOD</span> kneeling.</li>
+      </ul>
 
-          <p>to the right of the left shutter:</p>
-          <ul>
-            <li>Standing, <span style="color: #e6a64d;">St. Clare</span> carries the thurible,</li>
-            <li>Protects Sister <span style="color: #e6a64d;">Claire VAN HULSEN</span>, kneeling in front.</li>
-          </ul>
+      <p>to the right of the left shutter:</p>
+      <ul>
+        <li>Standing, <span style="color: #e6a64d;">St. Clare</span> carries the thurible,</li>
+        <li>Protects Sister <span style="color: #e6a64d;">Claire VAN HULSEN</span>, kneeling in front.</li>
+      </ul>
 
-            <p>On the right pane, from the left:</p>
-            <ul>
-              <li>Standing, <span style="color: #e6a64d;">Saint James the Great of Compostela</span> dressed as a pilgrim,</li>
-              <li>Known in front, <span style="color: #e6a64d;">Jacob DE KEUNINC</span></li>
-            </ul>
+        <p>On the right pane, from the left:</p>
+        <ul>
+          <li>Standing, <span style="color: #e6a64d;">Saint James the Great of Compostela</span> dressed as a pilgrim,</li>
+          <li>Known in front, <span style="color: #e6a64d;">Jacob DE KEUNINC</span></li>
+        </ul>
 
-          <p>to the right of the right-hand panel:</p>
-          <ul>
-            <li><span style="color: #e6a64d;">St. Anthony Abbot</span>, who is recognizable by his crook and the piglet,</li>
-            <li>patron of <span style="color: #e6a64d;">Antoine SEGHERS</span>, master of the hospital.</li>
-          </ul>
+      <p>to the right of the right-hand panel:</p>
+      <ul>
+        <li><span style="color: #e6a64d;">St. Anthony Abbot</span>, who is recognizable by his crook and the piglet,</li>
+        <li>patron of <span style="color: #e6a64d;">Antoine SEGHERS</span>, master of the hospital.</li>
+      </ul>
 
-          <p>The triptych was probably commanded before <time datetime="1475">1475</time>, since it was in that year that Antoine SEGHERS died.</p>
-          <p>It was placed above the master altar in <time datetime="1479">1479</time>.</p>
-
+      <p>The triptych was probably commanded before <time datetime="1475">1475</time>, since it was in that year that Antoine SEGHERS died.</p>
+      <p>It was placed above the master altar in <time datetime="1479">1479</time>.</p>
 
 <hr>
 
