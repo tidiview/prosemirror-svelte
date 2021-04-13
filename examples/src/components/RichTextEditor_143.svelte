@@ -1780,21 +1780,21 @@
           </li>
         </ol>
       <footer>
-        <ol class="doc">
-          <li><span style="color: #999;">（…）</span></li>
-        </ol>
+        <p class="no-puce"><span style="color: #999;">（…）</span></p>
       </footer>
       </blockquote>
 
+      <p class="no-puce">第５章</p>
+
       <blockquote id="renvoi-apocalypse-5-1" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-5-1">
+        <header>
+          
+        </header>
         <ol class="doc">
-          <li>第５章</li>
           <li value="01">「またわたしは、玉座に座っておられる方の右の手に<span style="color: #e6a64d;">巻物</span>があるのを見た。表にも裏にも字が書いてあり、<span style="color: #e6a64d;">七つの封印</span>で封じられていた。」</li>
         </ol>
       <footer>
-        <ol class="doc">
-          <li><span style="color: #999;">（…）</span></li>
-        </ol>
+        <p class="no-puce"><span style="color: #999;">（…）</span></p>
       </footer>
       </blockquote>
 
@@ -1817,9 +1817,7 @@
       <h6 class="yellow">第一の封印：白い馬　＝　<cite>黙示録</cite>、第６章１～２節</h6>
 
           <header>
-            <ol class="doc">
-              <li>第６章</li>
-            </ol>
+            <p class="no-puce">第６章</pl>
           </header>
 
         <blockquote id="renvoi-apocalypse-6-1" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-6-1">
@@ -1934,9 +1932,11 @@
             <p>第四の生き物の声を、わたしは聞いた。</p>
           </li>
           <li value="08">こそして見ていると、見よ、<span style="color: #e6a64d;">青白い馬</span>が現れ、乗っている者の名は<span style="color: #e6a64d;">「死」</span>といい、これに<span style="color: #e6a64d;">陰府</span>が従っていた。</li>
-          <li>彼らには、地上の四分の一を支配し、剣と飢饉と死をもって、更に地上の野獣で人を滅ぼす権威が与えられた。 </li>
-          <li><span style="color: #999;">（...）</span></li>
+          <li>彼らには、地上の四分の一を支配し、剣と飢饉と死をもって、更に地上の野獣で人を滅ぼす権威が与えられた。</li>
         </ol>
+        <footer>
+          <p class="no-puce"><span style="color: #999;">（...）</span></p>
+        </footer>
       </blockquote>
 
       <figure>
@@ -2003,9 +2003,7 @@
     <h5 class="yellow">第七封印の天使たち　＝　<cite>黙示録</cite>、第８章１～２節</h5>
 
     <header>
-      <ol class="doc">
-        <li>第８章</li>
-      </ol>
+      <p class="no-puce">第８章</p>
     </header>
 
     <blockquote id="renvoi-apocalypse-8-1" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-1">
@@ -2103,7 +2101,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《火で燃えている大きな山の墜落、船の三分の一が壊された》。<br>q cite="#renvoi-apocalypse-8-6" style="quotes:'「' '」';">船という船の三分の一が壊された</q>、<cite>黙示録</cite>、第８章６～９節</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/bateaux-1920.jpg 1920w"></picture><figcaption>右翼パネル内面の詳細、《火で燃えている大きな山の墜落、船の三分の一が壊された》。<br><q cite="#renvoi-apocalypse-8-6" style="quotes:'「' '」';">船という船の三分の一が壊された</q>、<cite>黙示録</cite>、第８章６～９節</figcaption>
     </figure>
 
 
@@ -2185,9 +2183,7 @@
     <h5 class="yellow">いなごの群れの地上への出　＝　<cite>黙示録</cite>、第９章１～１１節</h5>
 
       <header>
-        <ol class="doc">
-          <li>第９章</li>
-        </ol>
+        <p class="no-puce">第９章</p>
       </header>
 
 
@@ -2237,9 +2233,7 @@
       <h5 class="yellow">天から降って来る天使　＝　<cite>黙示録</cite>、第１０章１～３節</h5>
 
       <header>
-        <ol class="doc">
-          <li>第１０章</li>
-        </ol>
+        <p class="no-puce">第１０章</p>
       </header>
 
       <blockquote id="renvoi-apocalypse-10-1" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-10-1">
@@ -2316,9 +2310,7 @@
       <h5 class="yellow">女の人と竜　＝　<cite>黙示録</cite>、第１２章１～４節</h5>
 
       <header>
-          <ol class="doc">
-            <li>第１２章</li>
-          </ol>
+          <p class="no-puce">第１２章</p>
         </header>
 
         <blockquote id="renvoi-apocalypse-12-1" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-12-1">

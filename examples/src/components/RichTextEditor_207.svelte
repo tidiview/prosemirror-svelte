@@ -1737,8 +1737,9 @@
         </figure>
 
         <p>Memling represents the apostle, sitting on a circular rock, the island of Patmos in the middle of the Aegean Sea.</p>
-        <p>He holds a feather and a penknife in his hand, and on his knees one can see a notebook.
-        John is represented when he has not yet even begun to write, <span style="color: #e6a64d;">in the blink of an eye</span>, at the very moment when he is seized by the <span style="color: #e6a64d;">«Apocalypse»</span>, which in ancient Greek means <span style="color: #e6a64d;">«unveiling»</span> and has been translated into <span style="color: #e6a64d;">«revelation»</span>: these visions appear above him in the sky, on the water and on the nearby land on all the rest of the shutter.</p>
+        <p>He holds a feather and a penknife in his hand, and on his knees one can see a notebook.<p>
+        </p>John is represented when he has not yet even begun to write, <span style="color: #e6a64d;">in the blink of an eye</span>, at the very moment when he is seized by the <span style="color: #e6a64d;">«Apocalypse»</span>, which in ancient Greek means <span style="color: #e6a64d;">«unveiling»</span> and has been translated into <span style="color: #e6a64d;">«revelation»</span>.</p>
+        <p>these visions appear above him in the sky, on the water and on the nearby land on all the rest of the shutter.</p>
 
         <p>We choose to follow John's own way to tell <sup id="page-10-fnref1:3"><a href="#page-10-fn:3" class="footnote-ref">note 3</a></sup> the unveiling in the text <span style="color: #999;">(<cite>The Revelation</cite> chapter 4 verse 2 and verse 6)</span>, which begins at the top left of the shutter: this way it is possible to compare the text with Memling's representation of it.</p>
 
@@ -1794,21 +1795,18 @@
               </li>
             </ol>
           <footer>
-            <ol class="doc">
-              <li><span style="color: #999;">(…)</span></li>
-            </ol>
+            <p class="no-puce"><span style="color: #999;">(…)</span></p>
           </footer>
           </blockquote>
 
+          <p class="no-puce">chapter 5</p>
+
           <blockquote id="renvoi-apocalypse-5-1" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-5-1">
             <ol class="doc">
-              <li>chapter 5</li>
               <li value="01">I saw, in the right hand of him who sat on the throne, a <span style="color: #e6a64d;">book</span> written inside and outside, sealed shut with <span style="color: #e6a64d;">seven seals</span>.</li>
             </ol>
           <footer>
-            <ol class="doc">
-              <li><span style="color: #999;">(…)</span></li>
-            </ol>
+            <p class="no-puce"><span style="color: #999;">(…)</p>
           </footer>
           </blockquote>
 
@@ -1817,11 +1815,14 @@
               <li value="06">I saw in the midst of the throne and of the four living creatures, and in the midst of the elders, a <span style="color: #e6a64d;">Lamb</span> standing, as though it had been slain, having seven horns, and seven eyes, which are the seven Spirits of God, sent out into all the earth.</li>
               <li value="07">Then he came, and he took it out of the right hand of him who sat on the throne.</li>
             </ol>
+          <footer>
+            <p class="no-puce"><span style="color: #999;">(…)</span></p>
+          </footer>
           </blockquote>
 
 
 
-      <!-- Page 11 --><hr>
+<!-- Page 11 --><hr>
 
 
         <h5 class="yellow">The Four Horsemen of <cite>The Revelation</cite></h5>
@@ -1832,9 +1833,7 @@
           <h6 class="yellow">first seal: the white horse - <cite>The Revelation</cite>, chapter 6 verse 2</h6>
 
             <header>
-              <ol class="doc">
-                <li>chapter 6</li>
-              </ol>
+              <p class="no-puce">chapter 6</p>
             </header>
 
             <blockquote id="renvoi-apocalypse-6-1" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-6-1">
@@ -1866,7 +1865,7 @@
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-840.jpg 840w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1280.jpg 1280w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1600.jpg 1600w,
-            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the white horse”<br>
+            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/1er-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the white horse”.<br>
               <q cite="#renvoi-apocalypse-6-1" style="quotes:'«' '»';">And behold, a white horse, and he who sat on it had a bow. A crown was given to him, and he came forth conquering, and to conquer</q>, <cite>The Revelation</cite>, chapter 6 verse 2.</figcaption>
           </figure>
 
@@ -1902,7 +1901,7 @@
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-840.jpg 840w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1280.jpg 1280w,
             https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1600.jpg 1600w,
-            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the fiery red horse”<br>
+            https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/11.saint-jean_11/2eme-cavalier-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the fiery red horse”.<br>
             <q cite="#renvoi-apocalypse-6-3" style="quotes:'«' '»';">To him who sat on it was given power to take peace from the earth, and that they should kill one another. There was given to him a great sword</q>, <cite>The Revelation</cite>, chapter 6 verses 3 to 4.</figcaption>
           </figure>
 
@@ -2033,13 +2032,11 @@
 
         <h5 class="yellow">the angels of the seventh seal - <cite>The Revelation</cite>, chapter 8 verses 1 to 2</h5>
 
-            <header>
-              <ol class="doc">
-                <li>chapter 8</li>
-              </ol>
-            </header>
+        <header>
+          <p class="no-puce">chapter 8</p>
+        </header>
 
-            <blockquote id="renvoi-apocalypse-8-1" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-1">
+        <blockquote id="renvoi-apocalypse-8-1" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-1">
           <ol class="doc">
             <li value="01">When he opened the seventh seal, there was silence in heaven for about half an hour.</li>
             <li value="02">I saw the <span style="color: #e6a64d;">seven angels</span> who stand before God, and <span style="color: #e6a64d;">seven trumpets</span> were given to them.</li>
@@ -2068,7 +2065,7 @@
 
 
 
-        <h5 class="yellow">the angel of the altar - <cite>The Revelation</cite>, chapter 8 verses 3 to 5</h5>
+        <h5 class="yellow">the angel of the altar - <cite>The Revelation</cite>, chapter 8 verses 3</h5>
 
         <blockquote id="renvoi-apocalypse-8-3" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-3">
           <ol class="doc">
@@ -2163,7 +2160,7 @@
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-840.jpg 840w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1280.jpg 1280w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1600.jpg 1600w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the fall of the star called «Wormwood»”.<br><q cite="#renvoi-apocalypse-8-11" style="quotes:'«' '»';">a great star fell from the sky, burning like a torch</q> (…) «One third of the waters became wormwood. Many people died from the waters, because they were made bitter», <cite>The Revelation</cite>, chapter 8 verses 8 à 12.</figcaption>
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/12.saint-jean_12/absinthe-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the fall of the star called «Wormwood»”.<br><q cite="#renvoi-apocalypse-8-11" style="quotes:'«' '»';">a great star fell from the sky, burning like a torch</q> (…) «One third of the waters became wormwood. Many people died from the waters, because they were made bitter», <cite>The Revelation</cite>, chapter 8 verses 8 to 12.</figcaption>
         </figure>
 
         <blockquote id="renvoi-apocalypse-8-11" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-8-11">
@@ -2213,9 +2210,7 @@
         <h5 class="yellow">the locusts' exit to the earth - <cite>The Revelation</cite>, chapter 9 verses 1 to 11</h5>
 
         <header>
-          <ol class="doc">
-            <li>chapter 9</li>
-          </ol>
+          <p class="no-puce">chapter 9</p>
         </header>
 
         <blockquote id="renvoi-apocalypse-9-1" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-9-1">
@@ -2243,7 +2238,7 @@
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-840.jpg 840w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1280.jpg 1280w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1600.jpg 1600w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the sortie of locusts onto the earth”.<br><q cite="#renvoi-apocalypse-9-1" style="quotes:'«' '»';">power was given to them</q>, <cite>The Revelation</cite>, chapter 9 verse 3.</figcaption>
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/sauterelles-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the sortie of locusts onto the earth”.<br><q cite="#renvoi-apocalypse-9-1" style="quotes:'«' '»';">power was given to them, as the scorpions of the earth have power</q>, <cite>The Revelation</cite>, chapter 9 verse 3.</figcaption>
         </figure>
 
         <blockquote id="renvoi-apocalypse-9-4" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-9-4">
@@ -2264,9 +2259,7 @@
         <h5 class="yellow">the angel descended from heaven - <cite>The Revelation</cite>, chapter 10 verses 1 to 3</h5>
 
         <header>
-          <ol class="doc">
-            <li>chapter 10</li>
-          </ol>
+          <p class="no-puce">chapter 10</p>
         </header>
 
         <blockquote id="renvoi-apocalypse-10-1" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-10-1">
@@ -2296,7 +2289,7 @@
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-840.jpg 840w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1280.jpg 1280w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1600.jpg 1600w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the angel coming down from heaven”<br><q cite="#renvoi-apocalypse-10-1" style="quotes:'«' '»';">I saw a mighty angel coming down out of the sky, clothed with a cloud. A rainbow was on his head. His face was like the sun, and his feet like pillars of fire</q>, <cite>The Revelation</cite>, chapter 10 verses 1 to 3.</figcaption>
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/13.saint-jean_13/ange-1920.jpg 1920w"></picture><figcaption>detail of the right inner shutter, “the angel coming down from heaven”.<br><q cite="#renvoi-apocalypse-10-1" style="quotes:'«' '»';">I saw a mighty angel coming down out of the sky, clothed with a cloud. A rainbow was on his head. His face was like the sun, and his feet like pillars of fire</q>, <cite>The Revelation</cite>, chapter 10 verses 1 to 3.</figcaption>
         </figure>
 
 
@@ -2341,9 +2334,7 @@
         <h5 class="yellow">the woman and the dragon - <cite>The Revelation</cite>, chapter 12 verses 1 to 4</h5>
 
         <header>
-          <ol class="doc">
-            <li>chapter 12</li>
-          </ol>
+          <p class="no-puce">chapter 12</p>
         </header>
 
         <blockquote id="renvoi-apocalypse-12-1" cite="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-12-1">
@@ -2469,7 +2460,7 @@
           <p>The life of John the Evangelist continues, after Patmos, on the central panel, according to <cite>The Legend of John the Evangelist</cite> as told in chapter 9 of <cite>The Golden Legend</cite>.</p>
 
         <footer>
-          <p class="puce">read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18">text of the <cite>Legend of John the Evangelist</cite> from chapter 9 of <cite>The Golden Legend</cite></a></p>
+          <p class="puce">read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18">text of the <cite>Legend of John the Evangelist</cite> according to chapter 9 of <cite>The Golden Legend</cite></a></p>
         </footer>
 
 
