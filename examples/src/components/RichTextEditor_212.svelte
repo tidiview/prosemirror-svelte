@@ -16,7 +16,7 @@
       <h3 class="yellow">Excerpt of the text of <cite>The Revelation</cite> related to its representation of John in Patmos on the left shutter by Hans Memling</h3>
   </hgroup>
 
-    <h3 id="apocalypse" class="yellow">Text of the vision of the throne of God and the heavenly court: the living on the throne and the Lamb</h3>
+    <h3 id="apocalypse" class="yellow">Excerpt from the text of <cite>The Revelation</cite> from chapters 4 to 12</h3>
 
 
       <p class="puce"><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:10#description-right-shutter">Back to: Overview of the right inner shutter: John bears witness to <cite>The Revelation</cite> in Patmos. ↩</a></p>
@@ -24,7 +24,7 @@
 
       <hr>
 <p>out</p>
-      <p class="o-puce">Chapter 4</p>
+      <p class="no-puce">Chapter 4</p>
         <ol class="doc">
           <li value="01">Then, in my vision, I saw a door open in heaven and heard the same voice speaking to me, the voice like a trumpet, saying,
             <p class="conversation">
@@ -76,13 +76,17 @@
           <ol class="doc">
             <li value="9">Every time the living creatures glorified and honoured and gave thanks to the One sitting on the throne, who lives for ever and ever,</li>
             <li value="10">the twenty-four elders prostrated themselves before him to worship the One who lives for ever and ever, and threw down their crowns in front of the throne, saying:</li>
-            <li value="11">«You are worthy, our Lord and God, to receive glory and honour and power, for you made the whole universe; by your will, when it did not exist, it was created.»</li>
+            <li value="11">
+              <p class="conversation">
+                «You are worthy, our Lord and God, to receive glory and honour and power, for you made the whole universe; by your will, when it did not exist, it was created.»
+              </p>
+            </li>
           </ol>
 
       <hr>
 
-        <blockquote id="apocalypse-5-1" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_5">
         <p class="no-puce">chapter 5</p>
+        <blockquote id="apocalypse-5-1" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_5">
           <ol class="doc">
             <li value="01">I saw, in the right hand of him who sat on the throne, a <span style="color: #e6a64d;">book</span> written inside and outside, sealed shut with <span style="color: #e6a64d;">seven seals</span>.</li>
           </ol>
@@ -130,10 +134,21 @@
 <p>out</p>
           <ol class="doc">
             <li value="8">and when he took it, the four living creatures prostrated themselves before him and with them the twenty-four elders; each one of them was holding a harp and had a golden bowl full of incense which are the prayers of the saints.</li>
-            <li value="9">They sang a new hymn: You are worthy to take the scroll and to break its seals, because you were sacrificed, and with your blood you bought people for God of every race, language, people and nation.</li>
-            <li value="10">and made them a line of kings and priests for God, to rule the world.</li>
+            <li value="9">They sang a new hymn:
+              <p>
+                You are worthy to take the scroll and to break its seals, because you were sacrificed, and with your blood you bought people for God of every race, language, people and nation.
+              </p>
+            </li>
+            <li value="10">
+              <p class="conversation">
+                and made them a line of kings and priests for God, to rule the world.
+              </p>
+            </li>
             <li value="11">In my vision, I heard the sound of an immense number of angels gathered round the throne and the living creatures and the elders; there were ten thousand times ten thousand of them and thousands upon thousands,</li>
-            <li value="12">loudly chanting: Worthy is the Lamb that was sacrificed to receive power, riches, wisdom, strength, honour, glory and blessing.</li>
+            <li value="12">
+              <p class="conversation">
+                loudly chanting: Worthy is the Lamb that was sacrificed to receive power, riches, wisdom, strength, honour, glory and blessing.
+              </p>
             <li value="13">Then I heard all the living things in creation -- everything that lives in heaven, and on earth, and under the earth, and in the sea, crying:
               <p class="conversation">
                 “To the One seated on the throne and to the Lamb, be all praise, honour, glory and power, for ever and ever.”
@@ -148,8 +163,8 @@
 
       <hr>
 
-        <blockquote id="apocalypse-6-1" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_6">
           <p class="no-puce">chapter 6</p>
+        <blockquote id="apocalypse-6-1" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_6">
           <ol class="doc">
             <li value="01">
               <p>I saw that the Lamb opened one of the seven seals, and I heard one of the four living creatures saying, as with a voice of thunder,</p>
@@ -651,9 +666,9 @@
 
       <hr>
 
+        <p class="no-puce">chapter 12</p>
         <blockquote id="apocalypse-12-1" cite="https://en.wikisource.org/wiki/Bible_(World_English)/Revelation#Chapter_12">
           <ol class="doc">
-            <li>chapter 12</li>
             <li value="01">A great sign was seen in heaven: a <span style="color: #e6a64d;">woman</span> clothed with the sun, and the moon under her feet, and on her head a crown of twelve stars.</li>
             <li value="02">She was with child. She cried out in pain, laboring to give birth.</li>
             <li value="03">Another sign was seen in heaven. Behold, a great <span style="color: #e6a64d;">red dragon</span>, having seven heads and ten horns, and on his heads seven crowns.</li>

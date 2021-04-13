@@ -20,7 +20,7 @@
 
     <hr>
 <p>out</p>
-      <p class="o-puce">Chapître 4</p>
+      <p class="no-puce">Chapître 4</p>
         <ol class="doc">
           <li value="01">Après cela, j’ai vu: et voici qu’il y avait une porte ouverte dans le ciel. Et la voix que j’avais entendue, pareille au son d’une trompette, me parlait en disant:
             <p class="conversation">
@@ -45,8 +45,8 @@
         </blockquote>
         <footer>
           <ul>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-4-2">Back to related text ↩</a></p></li>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#image-apocalypse-4-2">Back to related image ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-4-2">Retour au texte associé ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#image-apocalypse-4-2">Retour à l'image associée ↩</a></p></li>
           </ul>
         </footer>
 
@@ -54,20 +54,20 @@
 
         <blockquote id="apocalypse-4-7" cite="https://www.aelf.org/bible/Ap/4">
           <ol class="doc">
-          <li value="07">Le premier vivant ressemble à un <span style="color: #e6a64d;">lion</span>, le deuxième vivant ressemble à un <span style="color: #e6a64d;">jeune taureau</span>, le troisième vivant a comme un <span style="color: #e6a64d;">visage d’homme</span>, le quatrième vivant ressemble à un <span style="color: #e6a64d;">aigle</span> en plein vol.</li>
-          <li value="08">
-            Les quatre vivants ont chacun <span style="color: #e6a64d;">six ailes</span>, avec des yeux innombrables tout autour et au-dedans.
-            Jour et nuit, ils ne cessent de dire:
-            <p class="conversation">
-              “Saint! saint! saint, le seigneur dieu, le souverain de l’univers, celui qui était, qui est et qui vient.”
-            </p>
-          </li>
-        </ol>
+            <li value="07">Le premier vivant ressemble à un <span style="color: #e6a64d;">lion</span>, le deuxième vivant ressemble à un <span style="color: #e6a64d;">jeune taureau</span>, le troisième vivant a comme un <span style="color: #e6a64d;">visage d’homme</span>, le quatrième vivant ressemble à un <span style="color: #e6a64d;">aigle</span> en plein vol.</li>
+            <li value="08">
+              Les quatre vivants ont chacun <span style="color: #e6a64d;">six ailes</span>, avec des yeux innombrables tout autour et au-dedans.
+              Jour et nuit, ils ne cessent de dire:
+              <p class="conversation">
+                “Saint! saint! saint, le seigneur dieu, le souverain de l’univers, celui qui était, qui est et qui vient.”
+              </p>
+            </li>
+          </ol>
         </blockquote>
         <footer>
           <ul>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-4-7">Back to related text ↩</a></p></li>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#image-apocalypse-4-2">Back to related image ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-4-7">Retour au texte associé ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#image-apocalypse-4-2">Retour à l'image associée ↩</a></p></li>
           </ul>
         </footer>
 
@@ -85,16 +85,16 @@
 
       <hr>
 
-      <blockquote id="apocalypse-5-1" cite="https://www.aelf.org/bible/Ap/5">
       <p class="no-puce">Chapître 5</p>
+      <blockquote id="apocalypse-5-1" cite="https://www.aelf.org/bible/Ap/5">
         <ol class="doc">
           <li value="1">J’ai vu, dans la main droite de celui qui siège sur le Trône, un livre en forme de rouleau, écrit au-dedans et à l’extérieur, scellé de sept sceaux.</li>
           </ol>
         </blockquote>
         <footer>
           <ul>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-5-1">Back to related text ↩</a></p></li>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#image-apocalypse-4-2">Back to related image ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-5-1">Retour au texte associé ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#image-apocalypse-4-2">Retour à l'image associée ↩</a></p></li>
           </ul>
         </footer>
 
@@ -125,8 +125,8 @@
       </blockquote>
       <footer>
         <ul>
-          <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-5-6">Back to related text ↩</a></p></li>
-          <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#image-apocalypse-4-2">Back to related image ↩</a></p></li>
+          <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-5-6">Retour au texte associé ↩</a></p></li>
+          <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#image-apocalypse-4-2">Retour à l'image associée ↩</a></p></li>
         </ul>
       </footer>
 
@@ -165,8 +165,8 @@
 
       <hr>
 
-      <blockquote id="apocalypse-6-1" cite="https://www.aelf.org/bible/Ap/6">
         <p class="no-puce">chapître 6</p>
+      <blockquote id="apocalypse-6-1" cite="https://www.aelf.org/bible/Ap/6">
           <ol class="doc">
             <li value="01">
               Alors j’ai vu: quand l’agneau ouvrit l’un des sept sceaux, j’entendis l’un des quatre vivants dire d’une voix de tonnerre:
@@ -179,8 +179,8 @@
         </blockquote>
         <footer>
           <ul>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-6-1">Back to related text ↩</a></p></li>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-1">Back to related image ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-6-1">Retour au texte associé ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-1">Retour à l'image associée ↩</a></p></li>
           </ul>
         </footer>
 
@@ -198,8 +198,8 @@
         </blockquote>
         <footer>
           <ul>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:11#renvoi-apocalypse-6-3">Back to related text ↩</a></p></li>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-3">Back to related image ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:11#renvoi-apocalypse-6-3">Retour au texte associé ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-3">Retour à l'image associée ↩</a></p></li>
           </ul>
         </footer>
 
@@ -224,8 +224,8 @@
         </blockquote>
         <footer>
           <ul>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:11#renvoi-apocalypse-6-5">Back to related text ↩</a></p></li>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-5">Back to related image ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:11#renvoi-apocalypse-6-5">Retour au texte associé ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-5">Retour à l'image associée ↩</a></p></li>
           </ul>
         </footer>
 
@@ -245,8 +245,8 @@
           </blockquote>
         <footer>
           <ul>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:11#renvoi-apocalypse-6-7">Back to related text ↩</a></p></li>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-7">Back to related image ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:11#renvoi-apocalypse-6-7">Retour au texte associé ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-7">Retour à l'image associée ↩</a></p></li>
           </ul>
         </footer>
 
@@ -254,7 +254,11 @@
 <p>out</p>
         <ol class="doc">
           <li value="9">Et quand il ouvrit le cinquième sceau, je vis sous l’autel les âmes de ceux qui furent égorgés à cause de la parole de Dieu et du témoignage qu’ils avaient porté.</li>
-          <li value="10">Ils crièrent d’une voix forte: «Jusques à quand, Maître saint et vrai,resteras-tu sans juger, sans venger notre sang sur les habitants de la terre ?»</li>
+          <li value="10">Ils crièrent d’une voix forte:
+            <p class="conversation">
+              «Jusques à quand, Maître saint et vrai,resteras-tu sans juger, sans venger notre sang sur les habitants de la terre ?»
+            </p>
+          </li>
           <li value="11">Et il fut donné à chacun une robe blanche, et il leur fut dit de patienter encore quelque temps, jusqu’à ce que soient au complet leurs compagnons de service, leurs frères, qui allaient être tués comme eux.</li>
           <li value="12">Alors j’ai vu: quand il ouvrit le sixième sceau, il y eut un grand tremblement de terre, le soleil devint noir comme une étoffe de crin, et la lune entière, comme du sang,</li>
           <li value="13">et les étoiles du ciel tombèrent sur la terre comme lorsqu’un figuier secoué par grand vent jette ses fruits.</li>
@@ -266,22 +270,23 @@
         <ol class="doc">
           <li value="14">Le ciel se retira comme un livre qu’on referme; toutes les montagnes et les îles furent déplacées.</li>
           <li value="15"><span style="color: #e6a64d;">Les rois de la terre et les grands, les chefs d’armée, les riches et les puissants, tous les esclaves et les hommes libres allèrent se cacher dans les cavernes et les rochers des montagnes</span>.</li>
-          <li value="16"><p>Et ils disaient aux montagnes et aux rochers:</p>
-          <p class="conversation">
-            “Tombez sur nous, et cachez-nous du regard de celui qui siège sur le trône et aussi de la colère de l’agneau.”
-          </p>
+          <li value="16">
+            <p>Et ils disaient aux montagnes et aux rochers:</p>
+            <p class="conversation">
+              “Tombez sur nous, et cachez-nous du regard de celui qui siège sur le trône et aussi de la colère de l’agneau.”
+            </p>
           </li>
           <li value="17">
-          <p class="conversation">
-            Car il est venu, le grand jour de leur colère, et qui pourrait tenir?»
-          </p>
+            <p class="conversation">
+              Car il est venu, le grand jour de leur colère, et qui pourrait tenir?»
+            </p>
           </li>
         </ol>
         </blockquote>
         <footer>
           <ul>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:11#renvoi-apocalypse-6-14">Back to related text ↩</a></p></li>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-14">Back to related image ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:11#renvoi-apocalypse-6-14">Retour au texte associé ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:11#image-apocalypse-6-14">Retour à l'image associée ↩</a></p></li>
           </ul>
         </footer>
 
@@ -291,21 +296,57 @@
         <ol class="doc">
           <li value="1"> Après cela, j’ai vu quatre anges debout aux quatre coins de la terre, maîtrisant les quatre vents de la terre, pour empêcher le vent de souffler sur la terre, sur la mer et sur tous les arbres.</li>
           <li value="2">Puis j’ai vu un autre ange qui montait du côté où le soleil se lève, avec le sceau qui imprime la marque du Dieu vivan ; d’une voix forte, il cria aux quatre anges qui avaient reçu le pouvoir de faire du mal à la terre et à la mer :</li>
-          <li value="3">«Ne faites pas de mal à la terre, ni à la mer, ni aux arbres, avant que nous ayons marqué du sceau le front des serviteurs de notre Dieu.»</li>
+          <li value="3">
+            <p class="conversation">
+              «Ne faites pas de mal à la terre, ni à la mer, ni aux arbres, avant que nous ayons marqué du sceau le front des serviteurs de notre Dieu.»
+            </p>
+          </li>
           <li value="4">Et j’entendis le nombre de ceux qui étaient marqués du sceau: ils étaient cent quarante-quatre mille, de toutes les tribus des fils d’Israël.</li>
           <li value="5">De la tribu de Juda, douze mille marqués du sceau; de la tribu de Roubène, douze mille; de la tribu de Gad, douze mille ;</li>
           <li value="6">de la tribu d’Aser, douze mille; de la tribu de Nephtali, douze mille; de la tribu de Manassé, douze mille ;</li>
           <li value="7">de la tribu de Siméon, douze mille; de la tribu de Lévi, douze mille; de la tribu d’Issakar, douze mille ;</li>
           <li value="8">de la tribu de Zabulon, douze mille; de la tribu de Joseph, douze mille; de la tribu de Benjamin, douze mille marqués du sceau.</li>
           <li value="9">Après cela, j’ai vu: et voici une foule immense, que nul ne pouvait dénombrer, une foule de toutes nations, tribus, peuples et langues. Ils se tenaient debout devant le Trône et devant l’Agneau, vêtus de robes blanches, avec des palmes à la main.</li>
-          <li value="10">Et ils s’écriaient d’une voix forte: «Le salut appartient à notre Dieu qui siège sur le Trône et à l’Agneau!»</li>
+          <li value="10">
+            <p class="conversation">
+              Et ils s’écriaient d’une voix forte: «Le salut appartient à notre Dieu qui siège sur le Trône et à l’Agneau!»
+            </p>
+          </li>
           <li value="11">Tous les anges se tenaient debout autour du Trône, autour des Anciens et des quatre Vivants; se jetant devant le Trône, face contre terre, ils se prosternèrent devant Dieu.</li>
-          <li value="12">Et ils disaient: «Amen! Louange, gloire, sagesse et action de grâce, honneur, puissance et force à notre Dieu, pour les siècles des siècles! Amen!»</li>
-          <li value="13">L’un des Anciens prit alors la parole et me dit: «Ces gens vêtus de robes blanches, qui sont-ils, et d’où viennent-ils ?»</li>
-          <li value="14">Je lui répondis: «Mon seigneur, toi, tu le sais.» Il me dit: «Ceux-là viennent de la grande épreuve; ils ont lavé leurs robes, ils les ont blanchies par le sang de l’Agneau.</li>
-          <li value="15">C’est pourquoi ils sont devant le trône de Dieu, et le servent, jour et nuit, dans son sanctuaire. Celui qui siège sur le Trône établira sa demeure chez eux.</li>
-          <li value="16">Ils n’auront plus faim, ils n’auront plus soif, ni le soleil ni la chaleur ne les accablera,</li>
-          <li value="17">puisque l’Agneau qui se tient au milieu du Trône sera leur pasteur pour les conduire aux sources des eaux de la vie. Et Dieu essuiera toute larme de leurs yeux.»</li>
+          <li value="12">Et ils disaient:
+            <p class="conversation">
+              «Amen! Louange, gloire, sagesse et action de grâce, honneur, puissance et force à notre Dieu, pour les siècles des siècles! Amen!»
+            </p>
+          </li>
+          <li value="13">L’un des Anciens prit alors la parole et me dit:
+            <p class="conversation">
+              «Ces gens vêtus de robes blanches, qui sont-ils, et d’où viennent-ils ?»
+            </p>
+          </li>
+          <li value="14">Je lui répondis:
+            <p class="conversation">
+              «Mon seigneur, toi, tu le sais.»
+            </p>
+            Il me dit:
+            <p class="conversation">
+              «Ceux-là viennent de la grande épreuve; ils ont lavé leurs robes, ils les ont blanchies par le sang de l’Agneau.
+            </p>
+          </li>
+          <li value="15">
+            <p class="conversation">
+              C’est pourquoi ils sont devant le trône de Dieu, et le servent, jour et nuit, dans son sanctuaire. Celui qui siège sur le Trône établira sa demeure chez eux.
+            </p>
+          </li>
+          <li value="16">
+            <p class="conversation">
+              Ils n’auront plus faim, ils n’auront plus soif, ni le soleil ni la chaleur ne les accablera,
+            </p>
+          </li>
+          <li value="17">
+            <p class="conversation">
+              puisque l’Agneau qui se tient au milieu du Trône sera leur pasteur pour les conduire aux sources des eaux de la vie. Et Dieu essuiera toute larme de leurs yeux.»
+            </p>
+          </li>
         </ol>
 
       <hr>
@@ -316,13 +357,13 @@
           <li value="01">Quand il ouvrit le septième sceau, il y eut dans le ciel un silence d’environ une demi-heure.</li>
           <li value="02">Et j’ai vu les <span style="color: #e6a64d;">sept anges</span> qui se tiennent devant dieu: il leur fut donné <span style="color: #e6a64d;">sept trompettes</span>.</li>
         </ol>
-        </blockquote>
-        <footer>
-          <ul>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-1">Back to related text ↩</a></p></li>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-1">Back to related image ↩</a></p></li>
-          </ul>
-        </footer>
+      </blockquote>
+      <footer>
+        <ul>
+          <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-1">Retour au texte associé ↩</a></p></li>
+          <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-1">Retour à l'image associée ↩</a></p></li>
+        </ul>
+      </footer>
 
       <hr>
 
@@ -333,8 +374,8 @@
         </blockquote>
         <footer>
           <ul>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-3">Back to related text ↩</a></p></li>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-3">Back to related image ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-3">Retour au texte associé ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-3">Retour à l'image associée ↩</a></p></li>
           </ul>
         </footer>
 
@@ -348,8 +389,8 @@
       </blockquote>
       <footer>
         <ul>
-          <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-4">Back to related text ↩</a></p></li>
-          <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-4">Back to related image ↩</a></p></li>
+          <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-4">Retour au texte associé ↩</a></p></li>
+          <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-4">Retour à l'image associée ↩</a></p></li>
         </ul>
       </footer>
 
@@ -362,13 +403,13 @@
           <li value="08">Le deuxième ange sonna de la trompette: dans la mer fut jetée comme <span style="color: #e6a64d;">une grande montagne embrasée</span>, et le tiers de la mer fut changé en sang;</li>
           <li value="09">dans la mer, le tiers des créatures vivantes mourut, et <span style="color: #e6a64d;">le tiers des bateaux fut détruit</span>.</li>
         </ol>
-        </blockquote>
-        <footer>
-          <ul>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-6">Back to related text ↩</a></p></li>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-4">Back to related image ↩</a></p></li>
-          </ul>
-        </footer>
+      </blockquote>
+      <footer>
+        <ul>
+          <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-6">Retour au texte associé ↩</a></p></li>
+          <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-4">Retour à l'image associée ↩</a></p></li>
+        </ul>
+      </footer>
 
       <hr>
 
@@ -379,8 +420,8 @@
         </blockquote>
         <footer>
           <ul>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-10">Back to related text ↩</a></p></li>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-10">Back to related image ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-10">Retour au texte associé ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-10">Retour à l'image associée ↩</a></p></li>
           </ul>
         </footer>
 
@@ -394,8 +435,8 @@
         </blockquote>
         <footer>
           <ul>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-11">Back to related text ↩</a></p></li>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-10">Back to related image ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-11">Retour au texte associé ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-10">Retour à l'image associée ↩</a></p></li>
           </ul>
         </footer>
 
@@ -412,8 +453,8 @@
         </blockquote>
         <footer>
           <ul>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-13">Back to related text ↩</a></p></li>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-13">Back to related image ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#renvoi-apocalypse-8-13">Retour au texte associé ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-8-13">Retour à l'image associée ↩</a></p></li>
           </ul>
         </footer>
 
@@ -429,8 +470,8 @@
         </blockquote>
         <footer>
           <ul>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-9-1">Back to related text ↩</a></p></li>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-9-1">Back to related image ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#renvoi-apocalypse-9-1">Retour au texte associé ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:12#image-apocalypse-9-1">Retour à l'image associée ↩</a></p></li>
           </ul>
         </footer>
 
@@ -451,8 +492,8 @@
         </blockquote>
         <footer>
           <ul>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:13#renvoi-apocalypse-9-4">Back to related text ↩</a></p></li>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-9-1">Back to related image ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:13#renvoi-apocalypse-9-4">Retour au texte associé ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-9-1">Retour à l'image associée ↩</a></p></li>
           </ul>
         </footer>
 
@@ -461,7 +502,11 @@
         <ol class="doc">
           <li value="12">Le premier «Malheur!» est passé; voici que deux «Malheur!» vont encore arriver.</li>
           <li value="13">Le sixième ange sonna de la trompette, et j’entendis une voix venant des quatre cornes de l’autel d’or qui est devant Dieu;</li>
-          <li value="14">elle disait au sixième ange qui avait la trompette: «Libère les quatre anges qui sont enchaînés au bord de l’Euphrate, le grand fleuve.»</li>
+          <li value="14">elle disait au sixième ange qui avait la trompette:
+            <p class="conversation">
+              «Libère les quatre anges qui sont enchaînés au bord de l’Euphrate, le grand fleuve.»
+            </p>
+          </li>
           <li value="15">Alors furent libérés les quatre anges qui étaient prêts pour cette heure, ce jour, ce mois, cette année, afin de tuer le tiers de l’humanité.</li>
           <li value="16">Les troupes de cavalerie comptaient deux myriades de myriades: j’ai entendu ce nombre.</li>
           <li value="17">Ainsi, dans ma vision, j’ai vu les chevaux et ceux qui les montaient: ils ont des cuirasses couleur de feu, d’hyacinthe et de soufre; les têtes des chevaux sont comme des têtes de lion; de leurs bouches sortent du feu, de la fumée et du soufre.</li>
@@ -473,20 +518,20 @@
 
 <hr>
 
-  <p class="no-puce">chapître 10</p>
-    <blockquote id="apocalypse-10-1" cite="https://www.aelf.org/bible/Ap/10">
-    <ol class="doc">
-          <li value="01">Et j’ai vu un autre <span style="color: #e6a64d;">ange</span>, plein de force, descendre du ciel, ayant <span style="color: #e6a64d;">une nuée pour manteau</span>, et sur la tête <span style="color: #e6a64d;">un arc-en-ciel</span>; son visage était comme <span style="color: #e6a64d;">le soleil</span>, et ses jambes comme <span style="color: #e6a64d;">des colonnes de feu</span>.</li>
-          <li value="02">Il tenait à la main <span style="color: #e6a64d;">un petit livre ouvert</span>.</li>
-          <li>Il posa le pied droit sur la mer, et le gauche sur la terre;</li>
-          <li value="03">il cria d’une voix forte, comme un lion qui rugit.
-          Et quand il cria, les sept tonnerres parlèrent, faisant résonner leur voix.</li>
+        <p class="no-puce">chapître 10</p>
+          <blockquote id="apocalypse-10-1" cite="https://www.aelf.org/bible/Ap/10">
+          <ol class="doc">
+            <li value="01">Et j’ai vu un autre <span style="color: #e6a64d;">ange</span>, plein de force, descendre du ciel, ayant <span style="color: #e6a64d;">une nuée pour manteau</span>, et sur la tête <span style="color: #e6a64d;">un arc-en-ciel</span>; son visage était comme <span style="color: #e6a64d;">le soleil</span>, et ses jambes comme <span style="color: #e6a64d;">des colonnes de feu</span>.</li>
+            <li value="02">Il tenait à la main <span style="color: #e6a64d;">un petit livre ouvert</span>.</li>
+            <li>Il posa le pied droit sur la mer, et le gauche sur la terre;</li>
+            <li value="03">il cria d’une voix forte, comme un lion qui rugit.
+            Et quand il cria, les sept tonnerres parlèrent, faisant résonner leur voix.</li>
           </ol>
         </blockquote>
         <footer>
           <ul>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:13#renvoi-apocalypse-10-1">Back to related text ↩</a></p></li>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-10-1">Back to related image ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:13#renvoi-apocalypse-10-1">Retour au texte associé ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-10-1">Retour à l'image associée ↩</a></p></li>
           </ul>
         </footer>
 
@@ -495,20 +540,20 @@
         <blockquote id="apocalypse-10-4" cite="https://www.aelf.org/bible/Ap/10">
           <ol class="doc">
             <li value="04"><p>Et quand les sept tonnerres eurent parlé, j’allais me mettre à écrire; mais j’entendis une voix venant du ciel qui disait:</p>
-          <p class="conversation">
-            “Ce que viennent de dire les sept tonnerres, garde-le scellé, ne l’écris pas!”
-          </p>
-          </li>
-          <li value="05">Et l’ange que j’avais vu debout sur la mer et sur la terre leva la main droite vers le ciel;</li>
-          <li value="06"><p>il fit un serment par celui qui est vivant pour les siècles des siècles, celui qui a créé le ciel et tout ce qu’il contient, la terre et tout ce qu’elle contient, la mer et tout ce qu’elle contient. Il déclara:</p>
-          <p class="conversation">
-            “Du temps, il n’y en aura plus!”
-          </p>
-          </li>
+            <p class="conversation">
+              “Ce que viennent de dire les sept tonnerres, garde-le scellé, ne l’écris pas!”
+            </p>
+            </li>
+            <li value="05">Et l’ange que j’avais vu debout sur la mer et sur la terre leva la main droite vers le ciel;</li>
+            <li value="06"><p>il fit un serment par celui qui est vivant pour les siècles des siècles, celui qui a créé le ciel et tout ce qu’il contient, la terre et tout ce qu’elle contient, la mer et tout ce qu’elle contient. Il déclara:</p>
+            <p class="conversation">
+              “Du temps, il n’y en aura plus!”
+            </p>
+            </li>
           </ol>
         </blockquote>
-          <p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:13#renvoi-apocalypse-10-4">Back to related text ↩</a></p></li>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-10-4">Back to related image ↩</a></p></li>
+          <p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:13#renvoi-apocalypse-10-4">Retour au texte associé ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-10-4">Retour à l'image associée ↩</a></p></li>
         </ul>
         </footer>
 
@@ -620,9 +665,10 @@
         </ol>
 
       <hr>
+
+      <p class="no-puce">chapître 12</p>
       <blockquote id="apocalypse-12-1" cite="https://www.aelf.org/bible/Ap/12">
         <ol class="doc">
-          <li>chapître 12</li>
           <li value="01">Un grand signe apparut dans le ciel: <span style="color: #e6a64d;">une femme</span>, ayant le soleil pour manteau, la lune sous les pieds, et sur la tête une couronne de douze étoiles.</li>
           <li value="02">Elle est enceinte, elle crie, dans les douleurs et la torture d’un enfantement.</li>
           <li value="03">Un autre signe apparut dans le ciel: <span style="color: #e6a64d;">un grand dragon</span>, rouge feu, avec sept têtes et dix cornes, et, sur chacune des sept têtes, un diadème.</li>
@@ -631,8 +677,8 @@
         </blockquote>
         <footer>
           <ul>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:13#renvoi-apocalypse-12-1">Back to related text ↩</a></p></li>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-12-1">Back to related image ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:13#renvoi-apocalypse-12-1">Retour au texte associé ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-12-1">Retour à l'image associée ↩</a></p></li>
           </ul>
         </footer>
 
@@ -651,8 +697,8 @@
         </blockquote>
         <footer>
           <ul>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:13#renvoi-apocalypse-12-5">Back to related text ↩</a></p></li>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-12-5">Back to related image ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:13#renvoi-apocalypse-12-5">Retour au texte associé ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:13#image-apocalypse-12-5">Retour à l'image associée ↩</a></p></li>
           </ul>
         </footer>
 
@@ -682,8 +728,8 @@
         </blockquote>
         <footer>
           <ul>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:14#renvoi-apocalypse-12-10">Back to related text ↩</a></p></li>
-            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:14#image-apocalypse-12-10">Back to related image ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:14#renvoi-apocalypse-12-10">Retour au texte associé ↩</a></p></li>
+            <li><p><a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:14#image-apocalypse-12-10">Retour à l'image associée ↩</a></p></li>
           </ul>
         </footer>
 
