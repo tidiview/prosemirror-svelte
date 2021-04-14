@@ -2619,14 +2619,9 @@
         </ul>
 
 
-
-
       <p>Le triptyque fut probablement commandé avant <time datetime="1475">1475</time>, puisque c'est au cours de cette année-là que mourut Antoine SEGHERS.</p>
       <p>Il fut placé au-dessus du maître-autel en <time datetime="1479">1479</time>.</p>
 
-
-
-<hr>
 
 <aside>
 
@@ -2738,9 +2733,6 @@
   </footer>
 
 
-    <hr>
-
-
   <header>
     <p><a href="#renvoi-note-1" title="renvoi note-1" id="note-1">note 1:</a></p>
   </header>
@@ -2748,10 +2740,6 @@
   <footer>
     <p><a href="#renvoi-note-1" title="renvoi note-1">↑ retour au texte</a></p>
   </footer>
-
-
-
-  <hr>
 
 
 
@@ -2773,7 +2761,6 @@
   </footer>
 
 
-
   <div class="footnotes">
     <ol start="2">
       <li id="page-3-fn:2">
@@ -2788,7 +2775,6 @@
   <footer><p><a href="#page-3-fnref2:2" rev="footnote" class="footnote-backref">retour au texte ↩</a></p></footer>
 
 
-
   <div class="footnotes">
     <ol start="3">
       <li id="page-3-fn:5">
@@ -2799,7 +2785,6 @@
   <footer><p><a href="#page-3-fnref1:5" rev="footnote" class="footnote-backref">retour au texte ↩</a></p></footer>
 
 
-
   <div class="footnotes">
   <ol start="4">
     <li id="page-3-fn:3">
@@ -2807,9 +2792,9 @@
     </li>
   </ol>
   </div>
-  <footer><p><a href="#page-3-fnref1:3" rev="footnote" class="footnote-backref">retour au texte ↩</a></p></footer>
-
-  <hr>
+  <footer>
+    <p><a href="#page-3-fnref1:3" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+  </footer>
   
   <h3 id="note">Notes</h3>
 
@@ -2826,9 +2811,6 @@
           <li>retour au texte <a href="#renvoi-devotion-moderne" title="renvoi mouvement">«<ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby>»</a> ...une présentation détaillée de ce mouvement se trouve en note ↑</a></li>
         </ul>
       </footer>
-
-
-    <hr>
 
 
   <div class="footnotes">
@@ -2849,9 +2831,6 @@
   </footer>
 
 
-    <hr>
-
-
   <div class="footnotes">
     <ol>
       <li id="page-4-fn:5">
@@ -2865,10 +2844,6 @@
       <li><a href="#page-4-fnref1:5" rev="footnote" class="footnote-backref">retour au texte ↩</a></li>
     </ul>
   </footer>
-
-
-
-<hr>
 
 
   <div class="footnotes">
@@ -2894,9 +2869,6 @@
   </footer>
 
 
-<hr>
-
-
   <div class="footnotes">
   <ol>
     <li id="fn:2">
@@ -2909,10 +2881,6 @@
     <p><a href="#page-7-fnref1:2" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
   </footer>
 
-</aside>
-
-<hr>
-
 
   <div class="footnotes">
     <ol>
@@ -2924,9 +2892,6 @@
   <footer>
     <p><a href="#page-8-fnref1:1" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
   </footer>
-
-
-<hr>
 
   
 <div class="footnotes">

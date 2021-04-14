@@ -2723,9 +2723,6 @@
     </footer>
 
 
-  <hr>
-
-
   <h3 id="note">Notes:</h3>
 
 
@@ -2735,8 +2732,6 @@
     <footer>
       <p><a href="#renvoi-note-1" title="renvoi note-1">↑ retour au texte</a></p>
     </footer>
-
-    <hr>
 
 
     <h4 id="note-devotion-moderne" class="yellow">“devotio moderna”</h4>
@@ -2750,8 +2745,6 @@
       <footer>
         <p class="puce">back to the text: <a href="#renvoi-devotion-moderne" title="renvoi mouvement «dévotio moderna»">A detailed presentation of this movement can be found in note ↩</a></p>
       </footer>
-
-      <hr>
 
 
       <h4 class="yellow" id="fn:4">References about «dévotio moderna»</h4>
@@ -2769,8 +2762,6 @@
         <p class="puce"><a href="#fnref1:4" rev="footnote" class="footnote-backref">back to text ↩</a></p>
       </footer>
 
-    <hr>
-
 
     <h4 id="fn:5" class="yellow">References about «dévotio moderna»</h4>
 
@@ -2786,9 +2777,6 @@
       <footer>
         <p class="puce"><a href="#page-4-fnref1:5" rev="footnote" class="footnote-backref">back to text  ↩</a></p>
       </footer>
-
-    <hr>
-
 
     <h4 id="fn:6" class="yellow">Document about Memling's friendship with brugian miniturist Willem Vrelant</h4>
 
@@ -2810,9 +2798,6 @@
       <p class="no-puce">source: book by Philippe LORENTZ referenced in <a href="/docs/en/bruges/hopital-saint-jean/saint-jean#lorentz" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean#lorentz" id="renvoi-lorentz-2" class="yellow">bibliography</a>.</p>
       <p class="puce"><a href="#fnref1:6" rev="footnote" class="footnote-backref">back to text ↩</a></p>
     </footer>
-  </article>
-
-<hr>
 
 
   <h4 id="page-7-fn:2" class="yellow">Precision on quotation</h4>
@@ -2826,8 +2811,6 @@
       <p class="puce"><a href="#page-7-fnref1:2" rev="footnote" class="footnote-backref">back to text ↩</a></p>
     </footer>
 
-<hr>
-
 
   <h4 id="page-8-fn:1" class="yellow">St. Jerome according to Jacobus De Varagine</h4>
 
@@ -2839,8 +2822,6 @@
     <footer>
       <p class="puce"><a href="#page-8-fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
     </footer>
-
-<hr>
 
 
   <h4 id="page-9-fn:1" class="yellow">Precision on Marcellus of Apamea</h4>
@@ -2854,8 +2835,6 @@
     <p class="puce"><a href="#page-9-fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
   </footer>
 
-<hr>
-
 
   <h4 id="page-10-fn:1" class="yellow">Precision on quotation</h4>
     <div class="footnotes">
@@ -2866,8 +2845,6 @@
     <footer>
       <p class="puce"><a href="#page-10-fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
     </footer>
-
-  <hr>
 
 
   <h4 id="page-10-fn:2" class="yellow">Reference of the excerpt of <cite>The Revelation</cite> related to the representation of John in Patmos on the left inner shutter by Hans Memling</h4>
@@ -2881,8 +2858,6 @@
     <footer>
       <p class="puce"><a href="#page-10-fnref1:2" rev="footnote" class="footnote-backref">back to text ↩</a></p>
     </footer>
-
-  <hr>
 
 
   <h4 id="fn:3" class="yellow">the "seven churches that are in Asia Minor"</h4>

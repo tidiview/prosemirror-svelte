@@ -2582,7 +2582,6 @@
       <p><time datetime="1479">１４７９年</time>には祭壇の上に置かれた。</p>
 
 
-
 <hr>
 
 <aside>
@@ -2695,9 +2694,6 @@
   </footer>
 
 
-<hr>
-
-
   <header>
     <p><a href="#page-1-renvoi-note-1" title="renvoi note-1" id="note-1">註釈：</a></p>
   </header>
@@ -2706,7 +2702,6 @@
     <p><a href="#page-1-renvoi-note-1" title="註釈の元へ">↑ 文書に戻る</a></p>
   </footer>
 
-<hr>
 
 <h3 class="yellow">註釈</h3>
 
@@ -2749,8 +2744,6 @@
       <footer>
         <p><a href="#page-10-fnref1:2" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
       </footer>
-
-<hr>
 
 
       <div class="footnotes">
@@ -2826,8 +2819,6 @@
         <p><a href="#page-3-fnref1:5" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
       </footer>
 
-<hr>
-
   <h3 class="yellow">註釈</h3>
   
     <h4 id="page-4-note-devotion-moderne" class="yellow">新しき信心</h4>
@@ -2892,8 +2883,6 @@
         </ul>
       </footer>
 
-<hr>
-
   
     <header>
       <p>注釈：</p>
@@ -2918,8 +2907,6 @@
       <p><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean#lorentz" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean#lorentz" id="renvoi-lorentz-2" class="yellow">この記事に関連書籍</a>に出典されている<ruby lang="ja">フィリップ<rp>（</rp><rt lang="de">Philippe</rt><rp>）</rp>・<rp>（</rp><rt lang="de">&#160;</rt><rp>）</rp>ローレンッツ<rp>（</rp><rt lang="de">LORENTZ</rt><rp>）</rp></ruby>の著作からの引用。</p>
       <p><a href="#page-5-fnref1:6" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p></p>
     </footer>
-
-<hr>
 
   
     <div class="footnotes">
@@ -2959,7 +2946,6 @@
       <p><a href="#page-7-fnref1:3" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
     </footer>
 
-<hr>
 
   <div class="footnotes">
   <ol>
@@ -2972,8 +2958,6 @@
     <p><a href="#page-8-fnref1:1" rev="footnote" class="footnote-backref">文書に戻る　&#8617;</a></p>
   </footer>
 
-<hr>
-
   
   <div class="footnotes">
   <ol>
@@ -2985,9 +2969,6 @@
   <footer>
     <p><a href="#page-9-fnref1:1" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
   </footer>
-
-
-<hr>
 
   
 <h3 class="yellow">註釈</h3>
