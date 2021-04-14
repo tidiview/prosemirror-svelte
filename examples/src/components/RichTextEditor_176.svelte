@@ -704,7 +704,8 @@
           <header>
             <p>On peut y lire par exemple <sup id="page-4-fnref1:5"><a href="#fn:4" class="footnote-ref">note 2</a></sup>:</p>
           </header>
-          <article>
+
+          <blockquote cite="https://fr.wikipedia.org/wiki/Thomas_a_Kempis">
             <ol class="doc">
               <li value="1">L'être humain s'élève au-dessus de la terre sur deux ailes, la <span style="color: #b37319;">simplicité</span> et la <span style="color: #b37319;">pureté</span>.</li>
               <li>La simplicité doit être dans l'<span style="color: #b37319;">intention</span>, et la pureté dans l'<span style="color: #b37319;">affection</span>.</li>
@@ -720,13 +721,11 @@
               <li>Et s'il y a des angoisses et des tribulations, avant tout elles sont connues de la mauvaise conscience.</li>
               <li value="13">Comme le fer mis au feu perd sa rouille et devient tout étincelant, ainsi celui qui se donne sans réserve à dieu se dépouille de sa langueur et se change en un être nouveau.</li>
             </ol>
-          </article>
+          </blockquote>
 
 
 
           <p>Dans la scène représentée par Memling, la conversation sacrée fonctionne selon les termes du texte cité plus haut comme <q><span style="color: #e6a64d;">livre rempli de saintes instructions</span></q> simples, pures, en accord avec le dispositif architural.</p>
-
-
 
 
   
@@ -745,7 +744,6 @@
 
 
 
-
       <h4 class="yellow">la <ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby>, cristallisation du merveilleux de Bruges au XV<sup>ème</sup> siècle</h4>
 
         <p>Enfin, la disposition exemplaire d'une représentation où les personnages sont parés des plus belles réalisations vestimentaires de la Bruges du XV<sup>ème</sup> siècle, cristallise le sentiment de <em>merveilleux</em>.</p>
@@ -755,7 +753,6 @@
           <p class="conversation"><span style="color: #e6a64d;">«un monde de vierges vêtues de brocart d'or, de soie et d'hermine, couronnes dorées et de pierres précieses rares»</span> où <span style="color: #e6a64d;">«l'enfant Jésus fait signe»</span> aux malades dans une <span style="color: #e6a64d;">«atmosphère empreinte de profonde sérénité»</span>.</p>
         </blockquote>
         <p>De fait, à Bruges au XV<sup>ème</sup> siècle, simplicité et l'évidence ne connaissant pas de limites, mènent <em>merveilleusement</em> au divin.</p>
-
 
 
 

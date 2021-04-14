@@ -737,6 +737,7 @@
               <p>One can read <sup id="page-4-fnref1:5"><a href="#fn:4" class="footnote-ref">note 2</a></sup>:</p>
             </header>
 
+          <blockquote cite="https://fr.wikipedia.org/wiki/Thomas_a_Kempis">
             <ol class="doc">
               <li value="1">Man rises above the earth on two wings, <span style="color: #b37319;">simplicity</span> and <span style="color: #b37319;">purity</span>.</li>
               <li>Simplicity must be in <span style="color: #b37319;">intention</span>, and purity in <span style="color: #b37319;">affection</span>.</li>
@@ -752,12 +753,10 @@
               And if there are anxieties and tribulations, above all they are known from bad conscience.</li>
               <li value="13">As the iron put on fire loses its rust and becomes blazing, so the one who gives himself unreservedly to God remains his languor and changes into a new man.</li>
             </ol>
-
+          </blockquote>
 
 
             <p>In the scene depicted by Memling, the sacred conversation functions in the terms of the text quoted above as a <q><span style="color: #e6a64d;">book filled with holy instructions</span></q> simple, pure, in accordance with the architectural plan.</p>
-
-
 
 
     
@@ -773,7 +772,6 @@
             <li>On the one hand the viewers of the triptych, whether they were patients at St John's Hospital in Memling's time or us today <span style="color: #e6a64d;">“<em>conversing</em>”</span> with the figures depicted,</li>
             <li>on the other these <span style="color: #e6a64d;">“<em>act</em>”</span> here and now, as Bruges men and women of <time datetime="1479">1479</time> or visitors to the Memling Museum of the 21<sup>st</sup> century.</li>
           </ul>
-
 
 
 

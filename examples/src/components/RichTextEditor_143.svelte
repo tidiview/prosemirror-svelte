@@ -403,8 +403,8 @@
 
       <p>ここでは、子羊が新しい、キリスト教の独特なシンボルです。</p>
       <p>旧ヘブライ信仰では神を喜ばすには動物の<ruby>生<rp>（</rp><rt>い</rt><rp>）</rp>け<rp>（</rp><rt>&#160;</rt><rp>）</rp>贄<rp>（</rp><rt>にえ</rt><rp>）</rp></ruby>をささげなければならなかったこととは逆に、キリスト教は神に気の入る唯一の本当の生け贄が信者がイエスを模範にしてイザヤ預言者のこの言葉に基づきながら、<span style="color: #e6a64d;">自分から神に自分自身を生け贄</span>とささげるのであることを断言しています<span style="color: #999;">（イザヤ、５３・７）</span>：</p>
-      <blockquote>
-        <p><q style="quotes: '「' '」';">屠り場に引かれる小羊のように毛を刈る者の前に物を言わない羊のように彼は口を開かなかった。</q></p>
+      <blockquote cite="https://www.bible.com/ja/bible/1819/ISA.53.新共同訳">
+        <p>「屠り場に引かれる小羊のように毛を刈る者の前に物を言わない羊のように彼は口を開かなかった。」</p>
       </blockquote>
       <p>その紫色のチュニックの下に、<span style="color: #e6a64d;">もう一つのチュニック</span>、薄い栗色のが、文書<span style="color: #999;">（マルコ、１・６）</span>が<a href="https://ja.wikipedia.org/wiki/エリア" title="https://ja.wikipedia.org/wiki/エリア" id="elie" class="yellow">エリア</a>預言者の毛皮衣を真似て<span style="color: #999;">（王２、第１章８節）</span>、ラクダの毛であることは明らかです。</p>
       <p>この同じ毛皮衣がまた<a href="https://ja.wikipedia.org/wiki/ヤコブ_(旧約聖書)" title="https://ja.wikipedia.org/wiki/ヤコブ_(旧約聖書)" id="jacob" class="yellow">ヤコブ</a>が、<a href="https://ja.wikipedia.org/wiki/リベカ" title="https://ja.wikipedia.org/wiki/リベカ" id="rebecca" class="yellow">母リベカ</a>の指示で、とても毛深いの兄<a href="https://ja.wikipedia.org/wiki/エサウ" title="https://ja.wikipedia.org/wiki/エサウ" id="esau" class="yellow">エサウ</a>に、眼の見えない父である<a href="https://ja.wikipedia.org/wiki/イサク" title="https://ja.wikipedia.org/wiki/イサク" id="isaac" class="yellow">イサク</a>を毛皮の衣を着ながら思わせるようにした創世記の一つの話し<span style="color: #999;">（創世記、第２７章１～４０節）</span>にも基づきます。</p>
@@ -505,7 +505,7 @@
       <h4 class="yellow">大殉教者バルバラ、十五世紀での伝説</h4>
       <p>その伝説によりますと、バルバラは旧<a href="https://ja.wikipedia.org/wiki/ビテュニア" title="https://ja.wikipedia.org/wiki/ビテュニア" id="bithynie" class="yellow">ビテュニア</a>の首都<a href="https://ja.wikipedia.org/wiki/イズミット" title="https://ja.wikipedia.org/wiki/イズミット" id="nicomedie" class="yellow">二コメディア</a> <sup id="page-3-fnref1:5"><a href="#fn:5" class="footnote-ref">ノート５</a></sup> に住んでいました。
       欠点としてバルバラは美しいこと。。、こんなに美しいことから、とても若いころに、<span style="color: #e6a64d;">彼女のお父さんが彼女を塔に閉じ込めさせましたの</span>！</p>
-      <p>文書だとバルバラがそこから<q style="quotes: '「' '」';color: #e6a64d;"><span style="color: #e6a64d;">地上的現世の拙さ</span></q>を感じて、<q style="quotes: '「' '」';color: #e6a64d;"><span style="color: #e6a64d;">天上的<ruby style="color:#e6a64d;">妙<rp>（</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">たえ</rt><rp>）</rp></ruby>なるものごと</span></q>に気にし始めるとなっています。
+      <p>文書だとバルバラがそこから<q cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" style="quotes: '「' '」';color: #e6a64d;"><span style="color: #e6a64d;">地上的現世の拙さ</span></q>を感じて、<q cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" style="quotes: '「' '」';color: #e6a64d;"><span style="color: #e6a64d;">天上的<ruby style="color:#e6a64d;">妙<rp>（</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">たえ</rt><rp>）</rp></ruby>なるものごと</span></q>に気にし始めるとなっています。
       当時には禁じられているのに、彼女が少しづつローマの神々から離れて、密かに<a href="https://ja.wikipedia.org/wiki/アレクサンドリア" title="https://ja.wikipedia.org/wiki/アレクサンドリア" id="alexandrie" class="yellow">アレクサンドリア</a>の一有名のキリスト教徒<a href="https://ja.wikipedia.org/wiki/オリゲネス" title="https://ja.wikipedia.org/wiki/オリゲネス" class="yellow">オリゲネス</a>に手紙を書きます。
       彼は彼女に返答し、芽生えている信仰を強めて、彼女を訪れて、こっそりと<span style="color: #e6a64d;">洗礼</span>を授けます。</p>
       <p>その後、神々を信じることを公に拒否したことにより、<span style="color: #e6a64d;">密告された</span>ことで、彼女は殉教します。
@@ -675,35 +675,35 @@
       <h4 id="devotion-moderne" class="yellow">新しき信心、普遍的、単純な、純粋な、透明な改心</h4>
 
 
-          <p>フランドルで、メムリンクの時代では、あるキリスト教信仰修練書は、「<a href="https://ja.wikipedia.org/wiki/キリストに倣いて" title="https://ja.wikipedia.org/wiki/キリストに倣いて" id="imitation-de-jesus-christ" class="yellow"><cite><ruby>キリストに倣いて<rp>（</rp><rt>イミタティオ・クリスティ</rt><rp>）</rp></ruby></cite></a>」、大変なベストセラーであって、「新しき信心」が何であったかを表わすことを我々に今日可能にしてくれています。</p>
+        <p>フランドルで、メムリンクの時代では、あるキリスト教信仰修練書は、「<a href="https://ja.wikipedia.org/wiki/キリストに倣いて" title="https://ja.wikipedia.org/wiki/キリストに倣いて" id="imitation-de-jesus-christ" class="yellow"><cite><ruby>キリストに倣いて<rp>（</rp><rt>イミタティオ・クリスティ</rt><rp>）</rp></ruby></cite></a>」、大変なベストセラーであって、「新しき信心」が何であったかを表わすことを我々に今日可能にしてくれています。</p>
 
 
-
-          <h5 class="yellow"><cite><ruby>キリストに倣いて<rp>（</rp><rt>イミタティオ・クリスティ</rt><rp>）</rp></ruby></cite>から抜粋された文書</h5>
-          <header>
-            <p>これはその抜粋文書です <sup id="page-4-fnref1:4"><a href="#page-4-fn:4" class="footnote-ref">ノート３</a></sup>：</p>
-          </header>
-          
-            <ol class="doc">
-              <li value="1">人はこの世の事柄から自分を引き上げているのは、<span style="color: #9c6416;">単純さ</span>と<span style="color: #9c6416;">清さ</span>という二つの羽によってです。</li>
-              <li>単純さは人の<span style="color: #9c6416;">意図</span>に、<span style="color: #9c6416;">清さ</span>は人に対する情にあるべきです。</li>
-              <li>単純さは神を<span style="color: #9c6416;">求め</span>、清さがそれを<span style="color: #9c6416;">見出し</span>て<span style="color: #9c6416;">味わう</span>のです。</li>
-              <li>どんな良い行為でもあなたたちには成し難くなりません。内面ではあらゆる乱された感情から自由があったらば、</li>
-              <li value="5">あなたたちが神が望むことと、隣人に役立つことのみを求めるなら、あなたたちは<span style="color: #9c6416;">内面の自由</span>を楽しむことでしょう。</li>
-              <li>従って、あなたたちの心が正しいのであれば、どんな被造物でもあなたたちにとっての<span style="color: #9c6416;">命の鏡</span>と<span style="color: #9c6416;">聖なる教えの満ちた書物</span>となるでしょう。</li>
-              <li>こんなに小さくて、こんなに卑劣な、<span style="color: #9c6416;">神の善良さの現象</span>を少しでも現さないほどの被造物は存在しないからです。</li>
-              <li>もしあなたたちが内面に十分な<span style="color: #9c6416;">清純さ</span>と<span style="color: #9c6416;">純粋さ</span>を持っていれば、あなたたちは全てを<span style="color: #9c6416;">さえぎるものなしに</span>見ることが出来るでしょう。</li>
-              <li>清い心は天国と地獄にまで入り込む。</li>
-              <li value="10">人は外にあるものごとを自分自身の内側での存在において判断するのです。</li>
-              <li>もしこの世に喜びが存在するなら、それを持つのは心の清いの持ち主にある。</li>
-              <li>従って、どこかに苦悩や苦痛があるのなら、気がとがめるそのことに知られているのです。</li>
-              <li value="13">火のなかに投げ込まれた鉄がその錆を失ってとても白く輝くように、こうして 遠慮せず自分を神に捧げる人は、悩ましげをはぎとられ新しい人へと変えられます。</li>
-            </ol>
+        <h5 class="yellow"><cite><ruby>キリストに倣いて<rp>（</rp><rt>イミタティオ・クリスティ</rt><rp>）</rp></ruby></cite>から抜粋された文書</h5>
+        <header>
+          <p>これはその抜粋文書です <sup id="page-4-fnref1:4"><a href="#page-4-fn:4" class="footnote-ref">ノート３</a></sup>：</p>
+        </header>
         
+        <blockquote cite="https://fr.wikipedia.org/wiki/Thomas_a_Kempis">
+          <ol class="doc">
+            <li value="1">人はこの世の事柄から自分を引き上げているのは、<span style="color: #9c6416;">単純さ</span>と<span style="color: #9c6416;">清さ</span>という二つの羽によってです。</li>
+            <li>単純さは人の<span style="color: #9c6416;">意図</span>に、<span style="color: #9c6416;">清さ</span>は人に対する情にあるべきです。</li>
+            <li>単純さは神を<span style="color: #9c6416;">求め</span>、清さがそれを<span style="color: #9c6416;">見出し</span>て<span style="color: #9c6416;">味わう</span>のです。</li>
+            <li>どんな良い行為でもあなたたちには成し難くなりません。内面ではあらゆる乱された感情から自由があったらば、</li>
+            <li value="5">あなたたちが神が望むことと、隣人に役立つことのみを求めるなら、あなたたちは<span style="color: #9c6416;">内面の自由</span>を楽しむことでしょう。</li>
+            <li>従って、あなたたちの心が正しいのであれば、どんな被造物でもあなたたちにとっての<span style="color: #9c6416;">命の鏡</span>と<span style="color: #9c6416;">聖なる教えの満ちた書物</span>となるでしょう。</li>
+            <li>こんなに小さくて、こんなに卑劣な、<span style="color: #9c6416;">神の善良さの現象</span>を少しでも現さないほどの被造物は存在しないからです。</li>
+            <li>もしあなたたちが内面に十分な<span style="color: #9c6416;">清純さ</span>と<span style="color: #9c6416;">純粋さ</span>を持っていれば、あなたたちは全てを<span style="color: #9c6416;">さえぎるものなしに</span>見ることが出来るでしょう。</li>
+            <li>清い心は天国と地獄にまで入り込む。</li>
+            <li value="10">人は外にあるものごとを自分自身の内側での存在において判断するのです。</li>
+            <li>もしこの世に喜びが存在するなら、それを持つのは心の清いの持ち主にある。</li>
+            <li>従って、どこかに苦悩や苦痛があるのなら、気がとがめるそのことに知られているのです。</li>
+            <li value="13">火のなかに投げ込まれた鉄がその錆を失ってとても白く輝くように、こうして 遠慮せず自分を神に捧げる人は、悩ましげをはぎとられ新しい人へと変えられます。</li>
+          </ol>
+        </blockquote>
 
 
 
-          <p>メムリンクが表わして場面では、聖なる会話自体が以上の文書の言葉によると<span style="color: #e6a64d;">単純な、純粋な、建築的装置と調和している<q style="quotes: '「' '」';color: #e6a64d;">聖なる教えの満ちた書物</q></span>として働いている。</p>
+        <p>メムリンクが表わして場面では、聖なる会話自体が以上の文書の言葉によると<span style="color: #e6a64d;">単純な、純粋な、建築的装置と調和している<q style="quotes: '「' '」';color: #e6a64d;">聖なる教えの満ちた書物</q></span>として働いている。</p>
 
 
 
@@ -731,7 +731,7 @@
         <p><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" id="renvoi-de-vos-2" class="yellow"><ruby lang="ja">ディルク<rp>（</rp><rt lang="nl">Dirk</rt><rp>）</rp>・<rp>（</rp><rt lang="nl">&#160;</rt><rp>）</rp>ド<rp>（</rp><rt lang="nl">DE</rt><rp>）</rp>・<rp>（</rp><rt lang="nl">&#160;</rt><rp>）</rp>ヴォス<rp>（</rp><rt lang="nl">VOS</rt><rp>）</rp></ruby></a>が言及すると：</p>
 
         <blockquote>
-          <span style="color: #e6a64d;">「黄金の<ruby style="color:#e6a64d;">錦<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;">にしき</rt><rp>）</rp></ruby>、絹とアーミンを着ている処女たち、金箔の冠と珍しい宝石各種の世界</span></q>、そこに、<q style="quotes: '「' '」';color: #e6a64d;"><span style="color: #e6a64d;">深い落ち着きの沁みった雰囲気</span></q>で<q style="quotes: '「' '」';color: #e6a64d;"><span style="color: #e6a64d;">幼子イエスが病人たちに合図をする。」</span>
+          <span style="color: #e6a64d;">「黄金の<ruby style="color:#e6a64d;">錦<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;">にしき</rt><rp>）</rp></ruby>、絹とアーミンを着ている処女たち、金箔の冠と珍しい宝石各種の世界」</span>、そこに、<span style="color: #e6a64d;">「深い落ち着きの沁みった雰囲気</span>」で<span style="color: #e6a64d;">「幼子イエスが病人たちに合図をする。」</span>
         </blockquote>
 
         <p>観賞者たちに対して、実際、単純さと明白さが制限を知らないで、神聖性へと導くのです。</p>
@@ -1357,10 +1357,10 @@
 
     <h6 class="yellow">ヘロデ宮洗礼者ヨハネの斬首の詳細、左翼パネル内面</h6>
 
-    <p>メムリンクは、左のシャッターの手前のシーンを拡大して、ヘロデの宮殿の中庭にいることを示しています</p>。
-      <p>メムリンクは左翼パネルの前景に《洗礼者ヨハネの斬首》の場面を位置づけて拡大することを選んだ。</p>
-      <p>私たちはヘロデの宮殿の中庭にいます。</p>
-      <p>砦の執行所が後方にある<span style="color: #e6a64d;">階段</span>によって宮殿に繋がっている。</p>
+    <p>メムリンクは、左のシャッターの手前のシーンを拡大して、ヘロデの宮殿の中庭にいることを示しています。</p>
+    <p>メムリンクは左翼パネルの前景に《洗礼者ヨハネの斬首》の場面を位置づけて拡大することを選んだ。</p>
+     <p>私たちはヘロデの宮殿の中庭にいます。</p>
+     <p>砦の執行所が後方にある<span style="color: #e6a64d;">階段</span>によって宮殿に繋がっている。</p>
 
 
     <figure>
@@ -1419,8 +1419,11 @@
 
     <h6 class="yellow">中央パネルの詳細、洗礼者ヨハネの遺体の発掘と焼却の場面</h6>
 
-      <p>マルコの語りは続く<span style="color: #999;">（マルコ、第６章・２９節）</span>：<span style="color: #e6a64d;">「ヨハネの弟子たちはこのことを聞き、やって来て、遺体を引き取り、墓に納めた」</span>。
-      後者はヘロデ・アンティパスに支配されている領地から遠くある、ヨルダン川西岸地区での<ruby lang="ja" style="color:#e6a64d;">セバステ<rp>（</rp><rt lang="grc" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">Σεβαστή</rt><rp>）</rp></ruby>、現代の<a href="https://ja.wikipedia.org/wiki/サバスティーヤ" title="https://ja.wikipedia.org/wiki/サバスティーヤ" id="sebastia" class="yellow"><ruby lang="ja">セバスティア<rp>（</rp><rt lang="ar">سبسطية</rt><rp>）</rp></ruby></a>という<a href="https://ja.wikipedia.org/wiki/エリシャ" title="https://ja.wikipedia.org/wiki/エリシャ" id="elisee" class="yellow">エリシャ</a>と<a href="https://ja.wikipedia.org/wiki/オバデヤ" title="https://ja.wikipedia.org/wiki/オバデヤ" id="abdias" class="yellow">オバデヤ</a>預言者たちのお墓の近くに持って行かれた。</p>
+      <p>マルコの語りは続く<span style="color: #999;">（マルコ、第６章・２９節）</span>：</p>
+      <blockquote cite="https://www.bible.com/ja/bible/1819/MRK.6.新共同訳">
+        <p><span style="color: #e6a64d;">「ヨハネの弟子たちはこのことを聞き、やって来て、遺体を引き取り、墓に納めた」</span>。</p>
+      </blockquote>
+      <p>後者はヘロデ・アンティパスに支配されている領地から遠くある、ヨルダン川西岸地区での<ruby lang="ja" style="color:#e6a64d;">セバステ<rp>（</rp><rt lang="grc" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">Σεβαστή</rt><rp>）</rp></ruby>、現代の<a href="https://ja.wikipedia.org/wiki/サバスティーヤ" title="https://ja.wikipedia.org/wiki/サバスティーヤ" id="sebastia" class="yellow"><ruby lang="ja">セバスティア<rp>（</rp><rt lang="ar">سبسطية</rt><rp>）</rp></ruby></a>という<a href="https://ja.wikipedia.org/wiki/エリシャ" title="https://ja.wikipedia.org/wiki/エリシャ" id="elisee" class="yellow">エリシャ</a>と<a href="https://ja.wikipedia.org/wiki/オバデヤ" title="https://ja.wikipedia.org/wiki/オバデヤ" id="abdias" class="yellow">オバデヤ</a>預言者たちのお墓の近くに持って行かれた。</p>
       <p>中央パネルの左側では、右に、洗礼者ヨハネの後ろに、メムリンクが彼の伝説の最後の場面を表した。それは、キリスト教の信仰と戦ってヨハネが葬られたところに行われた奇跡を止めさせるために、<a href="https://ja.wikipedia.org/wiki/フラウィウス・クラウディウス・ユリアヌス" title=" https://ja.wikipedia.org/wiki/フラウィウス・クラウディウス・ユリアヌス" id="julien-l-apostat" class="yellow">背教者ユリアヌス</a>が遺体を掘り起こし、焼いて、畑を散々に散らすよう命じたということだ。</p>
 
 
@@ -1549,7 +1552,7 @@
             <p><a href="https://ja.wikipedia.org/wiki/イエスの愛しておられた弟子" title="https://ja.wikipedia.org/wiki/イエスの愛しておられた弟子" id="disciple-que-jesus-aimait-3" class="yellow">イエスの愛しておられた弟子</a> が「ヨハネの」という福音の終わりに見えて来る<span style="color: #999;">（ヨハネ、第２１章・２０と２４～２５節）</span>:</p>
 
           <blockquote cite="https://www.bible.com/ja/bible/1819/JHN.21.新共同訳">
-            <p><q style="quotes: '「' '」';">ペトロが振り向くと、<span style="color: #e6a64d;">イエスの愛しておられた弟子</span>がついて来るのが見えた。
+            <p>「ペトロが振り向くと、<span style="color: #e6a64d;">イエスの愛しておられた弟子</span>がついて来るのが見えた。」
           </blockquote>
 
           <span style="color: #999;">（…）</span>
@@ -1558,7 +1561,7 @@
             これらのことについて<span style="color: #e6a64d;">証しをし、それを書いたのは、この弟子</span>である。
           </blockquote>
 
-          <p>「ヨハネ」と呼称する文書での要素は一つもありませんので、 「ヨハネの福音」 との呼称が正しくなりえそうもありません。<q style="quotes: '「' '」';">イエスの愛しておられた弟子</q>の福音であるはずです。</p>
+          <p>「ヨハネ」と呼称する文書での要素は一つもありませんので、 「ヨハネの福音」 との呼称が正しくなりえそうもありません。<q cite="https://www.bible.com/ja/bible/1819/JHN.21.新共同訳" style="quotes: '「' '」';">イエスの愛しておられた弟子</q>の福音であるはずです。</p>
           <p>とても異常な人物です。どんな読者でもが自分と同一視できる他のイエスの弟子の内の一人であって、イエス自信から愛されて、従って他の誰よりも彼に親しくなっています。</p>
           <p>彼は、以上の抜粋文書のすぐ後に、意見を述べることも迷いません<span style="color: #999;">（ヨハネ、第２１章・２５節）</span>：</p>
 
@@ -1569,7 +1572,7 @@
           </li>
           <li>
             <p>イエス自身が、ペトロからの質問をきっかけに、最後の晩餐中にヨハネの運命について望みがある<span style="color: #999;">（ヨハネ、第２１章・２１～２３節）</span>：</p>
-            <blockquote>
+            <blockquote cite="https://www.bible.com/ja/bible/1819/JHN.21.新共同訳">
               <p>「ペトロは彼を見て、</p>
 
               <p class="conversation">「主よ、この人はどうなるのでしょうか」と言った。</p>
@@ -1582,7 +1585,7 @@
           </li>
           <li>
             <p>磔刑の時、イエスが自分のお母さまに彼に任せて、言われた<span style="color: #999;">（ヨハネ、第１９章・２６～２７節）</span>：</p>
-            <blockquote cite="https://www.bible.com/ja/bible/1819/JHN.19.新共同">
+            <blockquote cite="https://www.bible.com/ja/bible/1819/JHN.19.新共同訳">
               <p class="conversation">「婦人よ、御覧なさい。あなたの子です」、</p>
               <p>それから彼に：</p>
               <p class="conversation">「見なさい。あなたの母です。」</p>
@@ -1605,8 +1608,8 @@
         <ul>
           <li>
             <p><a href="https://fr.wikipedia.org/wiki/Jean_de_Patmos" title="https://fr.wikipedia.org/wiki/Jean_de_Patmos" id="jean-de-patmos-3" class="yellow">「パトモス島の」ヨハネ</a>が黙示録の文書の始まる所に見えて来る<span style="color: #999;">（黙、第１章・１～９節）</span>。</p>
-            <blockquote>
-              <p>その文書では彼は神が<q style="color: #e6a64d;quotes: '「' '」'" cite="https://www.bible.com/ja/bible/1819/REV.1.新共同">すぐにも起こるはずのことを</q><span style="color: #999;">（…）</span><q style="color: #e6a64d;quotes: '「' '」'" cite="https://www.bible.com/ja/bible/1819/REV.1.新共同">アジア州にある七つの教会</q>に<span style="color: #999;">（…）</span>ご自分の<q style="color: #e6a64d;quotes: '「' '」'" cite="https://www.bible.com/ja/bible/1819/REV.1.新共同">天使を送って</q>知らせた<span style="color: #999;">（…）</span><span style="color: #e6a64d;"><q style="color: #e6a64d;quotes: '「' '」'" cite="https://www.bible.com/ja/bible/1819/REV.1.新共同"><ruby>僕<rp>（</rp><rt>しもべ</rt><rp>）</rp></ruby></q></span>として紹介されている。</p>
+            <blockquote cite="https://www.bible.com/ja/bible/1819/REV.1.新共同訳">
+              <p>その文書では彼は神が<q style="color: #e6a64d;quotes: '「' '」'" cite="https://www.bible.com/ja/bible/1819/REV.1.新共同訳">すぐにも起こるはずのことを</q><span style="color: #999;">（…）</span><q style="color: #e6a64d;quotes: '「' '」'" cite="https://www.bible.com/ja/bible/1819/REV.1.新共同訳">アジア州にある七つの教会</q>に<span style="color: #999;">（…）</span>ご自分の<q style="color: #e6a64d;quotes: '「' '」'" cite="https://www.bible.com/ja/bible/1819/REV.1.新共同訳">天使を送って</q>知らせた<span style="color: #999;">（…）</span><span style="color: #e6a64d;"><q style="color: #e6a64d;quotes: '「' '」'" cite="https://www.bible.com/ja/bible/1819/REV.1.新共同訳"><ruby>僕<rp>（</rp><rt>しもべ</rt><rp>）</rp></ruby></q></span>として紹介されている。</p>
             </blockquote>
           </li>
         </ul>
@@ -1629,13 +1632,13 @@
       <h5 id="jean-a-la-porte-latine" class="yellow">ローマにあるラティナ門前にドミティアヌス大帝の命令によって熱湯に浸せられる福音書記者ヨハネ</h5>
 
 
-        <p>語りが中央パネルから始まります<span style="color: #999;">（第６５章）</span> <sup id="page-10-fnref1:1"><a href="#page-10-fn:1" class="footnote-ref">ノート１</a></sup> ：</p>
-        <ol class="doc">
-          <li>「<span style="color: #e6a64d;">ヨハネ</span>は、<a href="https://ja.wikipedia.org/wiki/エフェソス" title="https://ja.wikipedia.org/wiki/エフェソス" class="yellow">エフェソス</a>で伝道活動に従事していたとき、同地の総督に捕えられ、いつわりの神々に供物をささげようと命じられた。</li>
-          <li>が、命令にしたがおうとしなかったので、獄に投じられた。総督は、皇帝ドミティアヌスに報告書を送り、そのなかで、ヨハネのことを神殿の冒漬者神々の侮蔑者、十字架にかけられた男に仕えるやからのひとりであると決めつけた。</li>
-          <li><span style="color: #e6a64d;">ドミティアヌス</span>は、ヨハネをローマにつれてくるようにと命じた。さて、ヨハネがローマに到着すると、笑いものにするために頭を丸坊主に剃りあげたうえ、<span style="color: #e6a64d;">ラティナ門</span>とよばれる市門の外に引きだし、油がいっぱい煮えたぎっている釜に入れ、さらに下から火をどんどん焚きつけた。。</li>
-        </ol>
+        <p>語りが中央パネルから始まります<sup id="page-10-fnref1:1"><a href="#page-10-fn:1" class="footnote-ref">ノート１</a></sup>：</p>
 
+      <blockquote id="renvoi-porte-latine" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:19#porte-latine">
+        <p>「<span style="color: #e6a64d;">ヨハネ</span>は、<a href="https://ja.wikipedia.org/wiki/エフェソス" title="https://ja.wikipedia.org/wiki/エフェソス" class="yellow">エフェソス</a>で伝道活動に従事していたとき、同地の総督に捕えられ、いつわりの神々に供物をささげようと命じられた。</p>
+        <p>が、命令にしたがおうとしなかったので、獄に投じられた。総督は、皇帝ドミティアヌスに報告書を送り、そのなかで、ヨハネのことを神殿の冒漬者神々の侮蔑者、十字架にかけられた男に仕えるやからのひとりであると決めつけた。</p>
+        <p><span style="color: #e6a64d;">ドミティアヌス</span>は、ヨハネをローマにつれてくるようにと命じた。さて、ヨハネがローマに到着すると、笑いものにするために頭を丸坊主に剃りあげたうえ、<span style="color: #e6a64d;">ラティナ門</span>とよばれる市門の外に引きだし、油がいっぱい煮えたぎっている釜に入れ、さらに下から火をどんどん焚きつけた。」</p>
+      </blockquote>
 
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -1658,7 +1661,7 @@
       </figure>
 
 
-
+        <blockquote cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:19#porte-latine">
           <ol class="doc">
             <li>
               <p>「ところが、ヨハネは、文字どおり平気の平左で、火傷ひとつしないで釜から出てきた。</p>
@@ -1666,19 +1669,19 @@
               <p>キリスト教徒たちは、その後この場所に教会を建て、この日をヨハネの殉教記念日のように祝うのである」。</p>
             </li>
           </ol>
+        </blockquote>
 
-
-
-          <p>メムリンクの表しが左での地平線にこの<span style="color: #e6a64d;">教会</span>と右では、<span style="color: #e6a64d;">ローマのコロッセオ</span>と<span style="color: #e6a64d;">ラティナ門</span>を見せてくれている<span style="color: #999;">（第９章）</span>。</p>
-
+      <p>メムリンクの表しが左での地平線にこの<span style="color: #e6a64d;">教会</span>と右では、<span style="color: #e6a64d;">ローマのコロッセオ</span>と<span style="color: #e6a64d;">ラティナ門</span>を見せてくれている<span style="color: #999;">（<cite>黄金伝説</cite>、第９章）</span>。</p>
         
+        <blockquote cite="https://francois-vidit.com/docs/ja/bruges/        hopital-saint-jean/saint-jean/page:18#chap-9">
+          <p>「ドミティアヌス大帝は、こんな拷問ぐらいでキリストの福音を宣べることをやめるような男ではないと見てとり、聖ヨハネを<span style="color: #e6a64d;">パトモス島</span>へ流刑に処した」</p>
+        </blockquote>
 
-          <ol class="doc">
-            <li>「ドミティアヌス大帝は、こんな拷問ぐらいでキリストの福音を宣べることをやめるような男ではないと見てとり、聖ヨハネを<span style="color: #e6a64d;">パトモス島</span>へ流刑に処した」<span style="color: #999;">(パトモス島への出発が真ん中に表わされていて、いくつかの人物がある船に乗ろうとしているところに）</span>。「彼は、その島にまったくひとりで住み、ここで<span style="color: #e6a64d;">『ヨハネの黙示録』</span>を書いた。」</li>
-          </ol>
-
-
-
+      <p>パトモス島への出発が真ん中に表わされていて、いくつかの人物がある船に乗ろうとしているところに。</p>
+        
+        <blockquote cite="https://francois-vidit.com/docs/ja/bruges/        hopital-saint-jean/saint-jean/page:18#chap-9">
+          <p>「彼は、その島にまったくひとりで住み、ここで<span style="color: #e6a64d;">『ヨハネの<cite>黙示録</cite>』</span>を書いた。」</p>
+        </blockquote>
 
 
       <h5 id="description-right-shutter" class="yellow">右翼パネル全景：パトモス島でヨハネは<cite>黙示録</cite>において証言する</h5>
@@ -2343,7 +2346,6 @@
       </figure>
 
 
-
       <h5 class="yellow">聖ミカエルと、竜とその使いたちの戦い。竜とその使いたちの墜落　＝　<cite>黙示録</cite>、第１２章５～９節</h5>
 
       <blockquote id="renvoi-apocalypse-12-5" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-12-5">
@@ -2379,8 +2381,6 @@
 
 
 <!-- Page 14 --><hr>
-
-
 
     <h5 class="yellow">女蛇から逃れるために女には大きな鷲の翼が二つ与えられる　＝　<cite>黙示録</cite>、第１２章１０～１３節</h5>
 
@@ -2525,6 +2525,7 @@
 
 <!-- Page 15 --><hr>
 
+<h3 id="position-fermee" class="yellow">寄贈者たちの紹介、<ruby style="color:#e6a64d;">閉<rp>（</rp><rt style="font-size: 70%;color:#e6a64d;">へい</rt><rp>）</rp>翼<rp>（</rp><rt style="font-size: 70%;color:#e6a64d;">よく</rt><rp>）</rp>時<rp>（</rp><rt style="font-size: 70%;color:#e6a64d;">じ</rt><rp>）</rp></ruby>の三連画</h3>
 
 	<figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -2541,7 +2542,6 @@
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-840.webp 840w,
     https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/15.saint-jean_15/triptyque-ferme-1280.webp 1280w"></picture><figcaption><ruby>閉<rt style="font-size: 70%;color:#999;">へい</rt>翼<rt style="font-size: 70%;color:#999;">よく</rt>時<rt style="font-size: 70%;color:#999;">じ</rt></ruby>の三連画</figcaption>
   </figure>
-  <h3 id="position-fermee" class="yellow">寄贈者たちの紹介、<ruby style="color:#e6a64d;">閉<rp>（</rp><rt style="font-size: 70%;color:#e6a64d;">へい</rt><rp>）</rp>翼<rp>（</rp><rt style="font-size: 70%;color:#e6a64d;">よく</rt><rp>）</rp>時<rp>（</rp><rt style="font-size: 70%;color:#e6a64d;">じ</rt><rp>）</rp></ruby>の三連画</h3>
 
 
 
@@ -2770,7 +2770,7 @@
         <ol start="2">
           <li id="page-3-fn:2">
             <p>ここでは私たちはウィキペディアのフランス語版（日付：<time datetime="2018-08-15">２０１８年８月１５日</time>）の「アレクサンドリアのカタリナ」を参照にしています。それは：</p>
-            <blockquote>
+            <blockquote cite="https://fr.wikipedia.org/wiki/Catherine_d'Alexandrie#Réalité_historique_et_dévotion">
               <p>「何人かの聖人が人気を博しているかもしれません。彼らの名前の周りに発生した伝説のために、例えば聖キリストフォルス、聖バルバラ、アレクサンドリアの聖カタリナ、聖フィロメナなどのように、彼らが存在したことをでも保証できない。一般ローマ暦から削除されました。キリスト教徒たちは、真実にしか祈りに招かれない」</p>
             </blockquote>
             <p><time datetime="1969-05-09">１９６９年５月９日</time>、ローマで行われた暦の改革を準備した研究グループのパリカトリック学院の典礼学課教授のピエール・ジョネル修道長の新しいローマ暦を紹介する会議による。</p>
