@@ -2703,7 +2703,7 @@
 
   <h3 id="note">Notes:</h3>
 
-
+ 
     <h4 id="note-1" class="yellow">Quality of reproductions of this article</h4>
     
     <p>the reproductions of the work that we make available to the public are, to our knowledge, the best that currently available exist outside of professional works: they required a great deal of efforts from us due to the low intensity and yellow of the lighting in the exhibition space of the Memling Museum in Bruges at the time this article was first written (<time datetime="2018">2018</time>).</p>
@@ -2725,7 +2725,7 @@
       </footer>
 
 
-      <h4 class="yellow" id="fn:4">References about «dévotio moderna»</h4>
+      <h4 class="yellow" id="fn:4">References about «devotio moderna»</h4>
 
       <div class="footnotes">
         <ol>
