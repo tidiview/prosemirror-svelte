@@ -82,7 +82,7 @@
 
 
 
-  <hr>
+  
 
 
     <h2 id="presentation-photographique" class="yellow">展示空間での作品の写真的紹介</h2>
@@ -147,13 +147,13 @@
     </figure>
 
 
-<hr>
+
 
 <nav>
   <h3 id="table-des-matieres" class="yellow">目次</h3>
   <ol>
     <li><a href="#presentation-photographique" title="展示空間での作品写真の紹介" class="yellow">展示空間での作品写真の紹介</a></li>
-    <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:2#description" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:2#description" class="yellow">作品の描写</a>
+    <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:2#description" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:2#description" class="yellow">作品の描写</a>：
       <ul>
         <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:2#couronnement" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:2#couronnement" class="yellow">聖母の戴冠</a></li>
         <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#catherine-d-alexandrie" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#catherine-d-alexandrie" class="yellow">アレクサンドリアのカタリナ</a></li>
@@ -161,7 +161,7 @@
           <ul>
             <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#jean-le-baptiste-2" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#jean-le-baptiste-2" class="yellow">洗礼者ヨハネ</a></li>
             <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#jean-l-evangeliste-3" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#jean-l-evangeliste-3" class="yellow">福音書記者ヨハネ</a></li>
-            <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean" class="yellow">「ヨハネ」という名、施設との繋がり、語源</a></li>
+            <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean" class="yellow">「ヨハネ」という名、その語源</a></li>
           </ul>
         </li>
         <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#barbe" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#barbe" class="yellow">大殉教者バルバラ</a></li>
@@ -171,26 +171,25 @@
         <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:5#organisation-du-recit" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:5#organisation-du-recit" class="yellow">語り筋の仕組み</a></li>
         <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:6#legendes" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:6#legendes" class="yellow">洗礼者ヨハネと福音書記者ヨハネの諸伝説</a>
           <ul>
-            <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:6#legende-de-jean-le-baptiste" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:6#legende-de-jean-le-baptiste" class="yellow">洗礼者ヨハネ伝</a></li>
-            <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:10#legende-de-jean-l-evangeliste" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:10#legende-de-jean-l-evangeliste" class="yellow">福音書記者ヨハネ伝</a></li>
+            <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:6#legende-de-jean-le-baptiste" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:6#legende-de-jean-le-baptiste" class="yellow">洗礼者ヨハネの伝説</a></li>
+            <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:10#legende-de-jean-l-evangeliste" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:10#legende-de-jean-l-evangeliste" class="yellow">福音書記者ヨハネの伝説</a></li>
           </ul></li>
         <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:15#position-fermee" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:15#position-fermee" class="yellow">贈与者たちの紹介、閉翼時の三連画</a></li>
       </ul>
     </li>
-    <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" class="yellow">表わされている場面の基にある様々な文書</a>
+    <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" class="yellow">表わされている場面の基にある諸文書</a>：
       <ul>
-        <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" class="yellow">黄金伝説に於いてのアレクサンドリアのカタリナ</a></li>
-        <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" class="yellow">黄金伝説に於いての大殉教者バルバラ</a></li>
-        <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" class="yellow">黄金伝説に於いての福音書記者ヨハネ（第９章）</a></li>
-        <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" class="yellow">黄金伝説に於いての福音書記者ヨハネ（第６５章）</a></li>
-        <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" class="yellow">神の王座と天的宮廷の幻影、王座での生きているものと子羊</a></li>
+        <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" class="yellow"><cite>黄金伝説</cite>の第１６６章に於いてのアレクサンドリアのカタリナ</a></li>
+        <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" class="yellow"><cite>黄金伝説</cite>に於いての大殉教者バルバラ</a></li>
+        <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" class="yellow"><cite>黄金伝説</cite>の第９章に於いての福音書記者ヨハネ</a></li>
+        <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" class="yellow"><cite>黄金伝説</cite>の第６５章に於いての福音書記者ヨハネ</a></li>
+        <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" class="yellow">右翼パネルに表わされているパトモス島でのヨハネに関連する<cite>黙示録</cite>から抜粋した文書</a></li>
       </ul>
     </li>
   </ol>
 </nav>
 
-<!-- Page 2 --><hr>
-
+<!-- Page 2 -->
 
   <h2 id="description" class="yellow">作品の描写</h2>
 
@@ -293,7 +292,7 @@
     </figure>
 
 
-<!-- Page 3 --><hr>
+<!-- Page 3 -->
 
 
 
@@ -933,7 +932,7 @@
 
 
 
-<!-- Page 6 --><hr>
+<!-- Page 6 -->
 
 
 <h3 id="legendes" class="yellow">洗礼者ヨハネと福音書記者ヨハネの諸伝説</h3>
@@ -1091,7 +1090,7 @@
 
 </div>
 
-<!-- Page 7 --><hr>
+<!-- Page 7 -->
 
 
 
@@ -1227,7 +1226,7 @@
 
 
 
-<!-- Page 8 --><hr>
+<!-- Page 8 -->
 
 
 
@@ -1353,7 +1352,7 @@
     </figure>
 
 
-<!-- Page 9 --><hr>
+<!-- Page 9 -->
 
     <h6 class="yellow">ヘロデ宮洗礼者ヨハネの斬首の詳細、左翼パネル内面</h6>
 
@@ -1482,7 +1481,7 @@
 
 
 
-<!-- Page 10 --><hr>
+<!-- Page 10 -->
 
 
   <h4 id="legende-de-jean-l-evangeliste" class="yellow"><cite>黄金伝説</cite>と<cite>黙示録</cite>においての福音書記者ヨハネの伝説の諸場面</h4>
@@ -1809,7 +1808,7 @@
           </blockquote>
 
 
-<!-- Page 11 --><hr>
+<!-- Page 11 -->
 
 
   <h5 class="yellow"><cite>黙示録</cite>での四人騎士</h5>
@@ -2000,7 +1999,7 @@
       </figure>
 
 
-<!-- Page 12 --><hr>
+<!-- Page 12 -->
 
 
     <h5 class="yellow">第七封印の天使たち　＝　<cite>黙示録</cite>、第８章１～２節</h5>
@@ -2380,7 +2379,7 @@
 
 
 
-<!-- Page 14 --><hr>
+<!-- Page 14 -->
 
     <h5 class="yellow">女蛇から逃れるために女には大きな鷲の翼が二つ与えられる　＝　<cite>黙示録</cite>、第１２章１０～１３節</h5>
 
@@ -2523,7 +2522,7 @@
 
       
 
-<!-- Page 15 --><hr>
+<!-- Page 15 -->
 
 <h3 id="position-fermee" class="yellow">寄贈者たちの紹介、<ruby style="color:#e6a64d;">閉<rp>（</rp><rt style="font-size: 70%;color:#e6a64d;">へい</rt><rp>）</rp>翼<rp>（</rp><rt style="font-size: 70%;color:#e6a64d;">よく</rt><rp>）</rp>時<rp>（</rp><rt style="font-size: 70%;color:#e6a64d;">じ</rt><rp>）</rp></ruby>の三連画</h3>
 
@@ -2582,7 +2581,7 @@
       <p><time datetime="1479">１４７９年</time>には祭壇の上に置かれた。</p>
 
 
-<hr>
+
 
 <aside>
 
@@ -2694,24 +2693,38 @@
   </footer>
 
 
-  <header>
-    <p><a href="#page-1-renvoi-note-1" title="renvoi note-1" id="note-1">註釈：</a></p>
-  </header>
-  <p>一般の人々に向けて私たちは公開にしている作品の複製写真は、現在では、私たちが知っている限り、専門家のを除いて、最高のものです。それらの写真が、（この記事が作文される<time datetime="2018">２０１８年</time>）現在ですと、展示会空間の照明が低強度と黄色のために、私たちから大変な努力を必要としてきました。</p>
-  <footer>
-    <p><a href="#page-1-renvoi-note-1" title="註釈の元へ">↑ 文書に戻る</a></p>
-  </footer>
+  <h3 class="yellow">註釈</h3>
 
 
-<h3 class="yellow">註釈</h3>
+    <h4 id="note-1" class="yellow">この記事の画像の質について</h4>
+      <ol start="1">
+        <li>
+          <p>一般の人々に向けて私たちは公開にしている作品の複製写真は、現在では、私たちが知っている限り、専門家のを除いて、最高のものです。それらの写真が、（この記事が作文される<time datetime="2018">２０１８年</time>）現在ですと、展示会空間の照明が低強度と黄色のために、私たちから大変な努力を必要としてきました。</p>
+        </li>
+      </ol>
+    <footer>
+      <p><a href="#page-1-renvoi-note-1" title="註釈の元へ">↑ 文書に戻る</a></p>
+    </footer>
 
-  <h4 id="page-10-note-apocalypse" class="yellow">黙示録</h4>
 
+    <h4 id="page-10-note-apocalypse" class="yellow">アジア州にある７つの教会</h4>
 
       <div class="notices yellow">
-      <ol>
-        <li><p>黙示録の文書が「アジア州にある７つの教会へ」 （「エフェソス、スミルナ、ペルガモン、ティアティラ、サルディス、フィラデルフィア、ラオディキア」、黙示録、１・４）とユダヤ系聖典の像徴的言語で宛てられている。</p>
-        <p>この文書が時間の終わりでのキリストの内での新たな希望のおかげでローマからであれユダヤからであれの迫害を乗り越えることだけではなくしかもそれらの教会自身の不足<span style="color: #9c6416;">、<cite>黙示録</cite>、第２章~３章）節/span>を乗り越えることを可能にしてくれる超越的な事実に招く。</p></li>
+      <ol start="2">
+        <li>
+          <p>黙示録の文書が「アジア州にある７つの教会へ」とユダヤ系聖典の像徴的言語で宛てられている。</p>
+          それは、<cite>黙示録</cite>、第１章４節に於いて、
+            <ol>
+              <li>「エフェソス、</li>
+              <li>スミルナ、</li>
+              <li>ペルガモン、</li>
+              <li>ティアティラ、</li>
+              <li>サルディス、</li>
+              <li>フィラデルフィア、</li>
+              <li>ラオディキア」。</li>
+            </ol>
+          <p>この文書が時間の終わりでのキリストの内での新たな希望のおかげでローマからであれユダヤからであれの迫害を乗り越えることだけではなくしかも、<span style="color: #9c6416;"><cite>黙示録</cite>、第２章３節の参照が示す通り</span>、それらの教会自身の不足を乗り越えることを可能にしてくれる超越的な事実に招く。</p>
+        </li>
       </ol>
       </div>
       <footer>
@@ -2719,20 +2732,21 @@
       </footer>
 
 
+    <h4 id="page-10-fn:1" class="yellow">引用文に注目に値する事項</h4>
       <div class="footnotes">
-      <ol start="2">
+      <ol start="3">
         <li id="page-10-fn:1">
-        <p>この引用文が元々の文書では過去形です。念のため、ここでは、私は現在形に移動させている。</p>
+        <p>この引用文が元々の文書では過去形です。念のため、ここでは、私たちは現在形に移動させている。</p>
         </li>
       </ol>
       </div>
       <footer>
-        <p><a href="#page-10-fnref1:1" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
+        <p><a href="#page-10-fnref1:1" rev="footnote" class="footnote-backref">文書に戻る　&#8617;</a></p>
       </footer>
 
 
       <div class="footnotes">
-      <ol start="3">
+      <ol start="4">
         <li id="page-10-fn:2">
           <p>右翼パネルと関係のある黙示録の文書からの引用文があります。</p>
           <ul>
@@ -2742,12 +2756,12 @@
       </ol>
       </div>
       <footer>
-        <p><a href="#page-10-fnref1:2" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
+        <p><a href="#page-10-fnref1:2" rev="footnote" class="footnote-backref">文書に戻る　&#8617;</a></p>
       </footer>
 
 
       <div class="footnotes">
-        <ol>
+        <ol start="5">
           <li id="page-3-fn:1">
           <p>ここでは私たちはウィキペディアのフランス語版（日付：<time datetime="2018-08-15">２０１８年８月１５日</time>）の「アレクサンドリアのカタリナ」を参照にしています。それは：</p>
           <ul>
@@ -2761,13 +2775,13 @@
         </ol>
       </div>
       <footer>
-        <p><a href="#page-3-fnref1:1" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
+        <p><a href="#page-3-fnref1:1" rev="footnote" class="footnote-backref">文書に戻る　&#8617;</a></p>
       </footer>
 
 
 
       <div class="footnotes">
-        <ol start="2">
+        <ol start="6">
           <li id="page-3-fn:2">
             <p>ここでは私たちはウィキペディアのフランス語版（日付：<time datetime="2018-08-15">２０１８年８月１５日</time>）の「アレクサンドリアのカタリナ」を参照にしています。それは：</p>
             <blockquote cite="https://fr.wikipedia.org/wiki/Catherine_d'Alexandrie#Réalité_historique_et_dévotion">
@@ -2778,53 +2792,51 @@
         </ol>
       </div>
       <footer>
-        <p><a href="#page-3-fnref1:2" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
-        <p><a href="#page-3-fnref2:2" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
+        <p><a href="#page-3-fnref1:2" rev="footnote" class="footnote-backref">文書に戻る　&#8617;</a></p>
+        <p><a href="#page-3-fnref2:2" rev="footnote" class="footnote-backref">文書２に戻る　&#8617;</a></p>
       </footer>
 
 
 
       <div class="footnotes">
-        <ol start="3">
+        <ol start="7">
           <li id="page-3-fn:4">
             <p>ラテン語では「Ecce&#160;Agnus&#160;Dei」。</p>
           </li>
         </ol>
       </div>
-      <footer><p><a href="#page-3-fnref1:4" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p></footer>
+      <footer><p><a href="#page-3-fnref1:4" rev="footnote" class="footnote-backref">文書に戻る　&#8617;</a></p></footer>
 
 
 
       <div class="footnotes">
-        <ol start="4">
+        <ol start="8">
           <li id="page-3-fn:3">
             <p>大殉教者バルバラはまた「聖バルバラ」として知られている。</p>
           </li>
         </ol>
       </div>
       <footer>
-        <p><a href="#page-3-fnref1:3" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
+        <p><a href="#page-3-fnref1:3" rev="footnote" class="footnote-backref">文書に戻る　&#8617;</a></p>
       </footer>
 
 
 
       <div class="footnotes">
-      <ol start="5">
+      <ol start="9">
         <li id="page-3-fn:5">
           <p>現在のトルコの北西部に位置づけられていて黒海の岸にある古代都市。現代の<a href="https://ja.wikipedia.org/wiki/イズミット" title="https://ja.wikipedia.org/wiki/イズミット">イズミット</a>。</p>
         </li>
       </ol>
       </div>
       <footer>
-        <p><a href="#page-3-fnref1:5" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
+        <p><a href="#page-3-fnref1:5" rev="footnote" class="footnote-backref">文書に戻る　&#8617;</a></p>
       </footer>
-
-  <h3 class="yellow">註釈</h3>
   
     <h4 id="page-4-note-devotion-moderne" class="yellow">新しき信心</h4>
     
       <div class="notices yellow">
-        <ol>
+        <ol start="10">
           <li><p>現在のネーデルラントの北部で誕生して、十四世紀初頭から十五世紀初頭にかけてユトレヒト周辺で新しき信心は、<a href="https://fr.wikipedia.org/wiki/Gérard_Groote" title="https://fr.wikipedia.org/wiki/Gérard_Groote" id="gerard-groote" class="yellow"><ruby lang="ja">ヘルート<rp>（</rp><rt lang="nl">Geert</rt><rp>）</rp>・<rp>（</rp><rt lang="nl">&#160;</rt><rp>）</rp>フローテ<rp>（</rp><rt lang="nl">Groote</rt><rp>）</rp></ruby></a>という男性により始められました。</p>
           <p>彼は当時の敬虔信仰を厳し過ぎると現世から遠くなると批判します。
           それに対して、彼は、信者にキリストを自分の心の一奥底に居るようにと導きます。
@@ -2834,13 +2846,13 @@
       </div>
       <footer>
         <ul>
-          <li>&#160;<a href="#page-4-renvoi-devotion-moderne" title="「新しき信心」運動の送り返し">「歴史的細かい紹介を註釈に見付かることが出来ますに」文書へ戻る　&#8617;</a>」</li>
+          <li>&#160;<a href="#page-4-renvoi-devotion-moderne" title="「新しき信心」運動の送り返し">文書に戻る　&#8617;</a>」</li>
         </ul>
       </footer>
 
 
         <div class="footnotes">
-          <ol start="2">
+          <ol start="11">
             <li id="page-4-fn:1">
               <p>イタリア語では「Sacra&#160;conversazione」。</p>
             </li>
@@ -2848,14 +2860,14 @@
         </div>
         <footer>
           <ul>
-            <li>&#160;<a href="#page-4-fnref1:1" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></li>
+            <li>&#160;<a href="#page-4-fnref1:1" rev="footnote" class="footnote-backref">文書に戻る　&#8617;</a></li>
           </ul>
         </footer>
 
 
 
         <div class="footnotes">
-          <ol start="3">
+          <ol start="12">
             <li id="page-4-fn:2">
               <p>ラテン語では「Devotio&#160;moderna」。</p>
             </li>
@@ -2863,14 +2875,14 @@
         </div>
         <footer>
           <ul>
-            <li>&#160;<a href="#page-4-fnref1:2" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></li>
+            <li>&#160;<a href="#page-4-fnref1:2" rev="footnote" class="footnote-backref">文書に戻る　&#8617;</a></li>
           </ul>
         </footer>
 
 
 
         <div class="footnotes">
-          <ol start="4">
+          <ol start="13">
             <li id="page-4-fn:4">
               <p>ラテン語では「Imitatio&#160;Christi」。『キリストに<ruby>倣<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>いて』は、修道士であった<a href="https://ja.wikipedia.org/wiki/トマス・ア・ケンピス" title="https://ja.wikipedia.org/wiki/トマス・ア・ケンピス">トマス・ア・ケンピス</a>によって書かれた本であって、<time datetime="1418">１４１８年</time>ごろにラテン語で出版された。</p>
               <p>「第ニの福音書」「中世の最高の信心書」とも言われ、聖書に次いでカトリックのキリスト教徒の霊的修練の書として識字階級に広く読まれ、親しまれている。 日本でも１６世紀後半にキリシタン版の『<ruby>世のはかなさ<rp>（</rp><rt>コンテムツス・ムンヂ</rt><rp>）</rp></ruby>』として翻訳され、刊行された以来、「キリストのまねび」「イミタティオ-クリスティ」など多種の訳がある。</p>
@@ -2879,7 +2891,7 @@
         </div>
       <footer>
         <ul>
-          <li>&#160;<a href="#page-4-fnref1:4" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></li>
+          <li>&#160;<a href="#page-4-fnref1:4" rev="footnote" class="footnote-backref">文書に戻る　&#8617;</a></li>
         </ul>
       </footer>
 
@@ -2888,7 +2900,7 @@
       <p>注釈：</p>
     </header>
     <div class="footnotes">
-    <ol>
+    <ol start="14">
       <li id="page-5-fn:6">
       <p>「その芸術家がブルージュに定住した当時、この街は、ブルゴーニュ公爵領ネーデルラントの主な装飾写本制作拠点の一つであった。</p>
       <p> (...)</p>
@@ -2905,50 +2917,50 @@
     </div>
     <footer>
       <p><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean#lorentz" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean#lorentz" id="renvoi-lorentz-2" class="yellow">この記事に関連書籍</a>に出典されている<ruby lang="ja">フィリップ<rp>（</rp><rt lang="de">Philippe</rt><rp>）</rp>・<rp>（</rp><rt lang="de">&#160;</rt><rp>）</rp>ローレンッツ<rp>（</rp><rt lang="de">LORENTZ</rt><rp>）</rp></ruby>の著作からの引用。</p>
-      <p><a href="#page-5-fnref1:6" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p></p>
+      <p><a href="#page-5-fnref1:6" rev="footnote" class="footnote-backref">文書に戻る　&#8617;</a></p></p>
     </footer>
 
   
     <div class="footnotes">
-    <ol start="1">
+    <ol start="15">
       <li id="page-7-fn:2">
         <p>ヘロデ・フィリッポス１世とも呼称されている。</p>
       </li>
     </ol>
     </div>
     <footer>
-      <p><a href="#page-7-fnref1:2" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
+      <p><a href="#page-7-fnref1:2" rev="footnote" class="footnote-backref">文書に戻る　&#8617;</a></p>
     </footer>
 
 
   
     <div class="footnotes">
-    <ol start="2">
+    <ol start="16">
       <li id="page-7-fn:1">
         <p>念のため、この引用文が過去形であって、ここでは私が現代形に移動させようとしている。</p>
       </li>
     </ol>
     </div>
     <footer>
-      <p><a href="#page-7-fnref1:1" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
+      <p><a href="#page-7-fnref1:1" rev="footnote" class="footnote-backref">文書に戻る　&#8617;</a></p>
     </footer>
 
 
   
     <div class="footnotes">
-    <ol start="3">
+    <ol start="17">
       <li id="page-7-fn:3">
         <p>マシェロントは、要塞化された宮殿の遺跡があるヨルダンの遺跡です。それは死海の東海岸のヨルダン川河口の約２４キロの丘に位置している。ヘブライ語では「מכוור」、アラブ語では、「قلة المشناقى」を呼称されている。</p>
       </li>
     </ol>
     </div>
     <footer>
-      <p><a href="#page-7-fnref1:3" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
+      <p><a href="#page-7-fnref1:3" rev="footnote" class="footnote-backref">文書に戻る　&#8617;</a></p>
     </footer>
 
 
   <div class="footnotes">
-  <ol>
+  <ol start="18">
     <li id="page-8-fn:1">
     <p>ヤコブス・デ・ウォラギネによって書き留められた<a href="https://ja.wikipedia.org/wiki/ヒエロニムス" title="https://ja.wikipedia.org/wiki/ヒエロニムス" id="saint-jerome" class="yellow">ヒエロニムス</a>の言葉。</p>
     </li>
@@ -2960,24 +2972,21 @@
 
   
   <div class="footnotes">
-  <ol>
+  <ol start="19">
     <li id="page-9-fn:1">
       <p>行政官、シリア属州・<a href="https://ja.wikipedia.org/wiki/アパメア" title="https://ja.wikipedia.org/wiki/アパメア" class="yellow"><ruby lang="ja">アパメア<rp>（</rp><rt lang="grc">Απάμεια</rt><rp>）</rp></ruby></a>市の司教に選ばれた人。彼はセオドシウス大帝の命令に従って偶像の社の破壊を監督していたところに、異教徒たちに暗殺されて亡くなりました</p>
     </li>
   </ol>
   </div>
   <footer>
-    <p><a href="#page-9-fnref1:1" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
+    <p><a href="#page-9-fnref1:1" rev="footnote" class="footnote-backref">文書に戻る　&#8617;</a></p>
   </footer>
-
-  
-<h3 class="yellow">註釈</h3>
 
   <h4 id="page-10-note-apocalypse" class="yellow">黙示録</h4>
 
 
       <div class="notices yellow">
-      <ol>
+      <ol start="20">
         <li><p>黙示録の文書が「アジア州にある７つの教会へ」 （「エフェソス、スミルナ、ペルガモン、ティアティラ、サルディス、フィラデルフィア、ラオディキア」、黙示録、１・４）とユダヤ系聖典の像徴的言語で宛てられている。</p>
         <p>この文書が時間の終わりでのキリストの内での新たな希望のおかげでローマからであれユダヤからであれの迫害を乗り越えることだけではなくしかもそれらの教会自身の不足<span style="color: #9c6416;">、<cite>黙示録</cite>、第２章~３章）節/span>を乗り越えることを可能にしてくれる超越的な事実に招く。</p></li>
       </ol>
@@ -2988,19 +2997,19 @@
 
 
       <div class="footnotes">
-      <ol start="2">
+      <ol start="21">
         <li id="page-10-fn:1">
         <p>この引用文が元々の文書では過去形です。念のため、ここでは、私は現在形に移動させている。</p>
         </li>
       </ol>
       </div>
       <footer>
-        <p><a href="#page-10-fnref1:1" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
+        <p><a href="#page-10-fnref1:1" rev="footnote" class="footnote-backref">文書に戻る　&#8617;</a></p>
       </footer>
 
 
       <div class="footnotes">
-      <ol start="3">
+      <ol start="22">
         <li id="page-10-fn:2">
           <p>右翼パネルと関係のある黙示録の文書からの引用文があります。</p>
           <ul>
@@ -3010,7 +3019,7 @@
       </ol>
       </div>
       <footer>
-        <p><a href="#page-10-fnref1:2" rev="footnote" class="footnote-backref">文書へ戻る　&#8617;</a></p>
+        <p><a href="#page-10-fnref1:2" rev="footnote" class="footnote-backref">文書に戻る　&#8617;</a></p>
       </footer>
 
 <!-- Page 16 -->

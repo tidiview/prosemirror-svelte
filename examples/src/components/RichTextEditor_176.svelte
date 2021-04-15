@@ -469,9 +469,6 @@
 
 
 
-
-
-
     <h3 id="barbe" class="yellow">barbe la grande martyre</h3>
 
       <h4 class="yellow">barbe la grande martyre dans la scène du panneau central</h4>

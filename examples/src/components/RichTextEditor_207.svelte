@@ -88,7 +88,7 @@
         <a href="#presentation-photographique" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean#presentation-photographique" class="yellow">photographic presentation of the work in its exhibition space</a>
       </li>
       <li>
-        <a href="#description" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:2#description" class="yellow">description of the work</a>
+        <a href="#description" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:2#description" class="yellow">description of the work</a>:
         <ul>
           <li>
             <a href="#couronnement" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:2#couronnement" class="yellow">coronation of the virgin</a>
@@ -145,7 +145,7 @@
         </ul>
       </li>
       <li>
-        <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" class="yellow">different texts at the origin of the scenes represented</a>
+        <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" class="yellow">different texts at the origin of the scenes represented</a>:
         <ul>
           <li>
             <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" class="yellow">catherine of alexandria according to chapter 168 of <cite>The Golden Legend</cite></a>
