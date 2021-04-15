@@ -79,7 +79,7 @@
 
 
 
-  <hr>
+  
 
   <nav>
     <h3 id="table-des-matieres" class="yellow">table of contents</h3>
@@ -118,10 +118,10 @@
           </li>
           <li>
             <a href="#conversation" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#conversation" class="yellow">Sacred conversation, a remarkable expression of “devotio moderna”</a>
-          </li>/* 
+          </li>
           <li>
             “<a href="#devotion-moderne" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#devotion-moderne" class="yellow">devotio moderna</a>”
-          </li> */
+          </li>
           <li>
             <a href="#dispositif-architectural" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:4#dispositif-architectural" class="yellow">architectural plan</a>
           </li>
@@ -148,26 +148,26 @@
         <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#mise-en-relation" class="yellow">different texts at the origin of the scenes represented</a>
         <ul>
           <li>
-            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" class="yellow">catherine of alexandria according to <cite>The Golden Legend</cite></a>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" class="yellow">catherine of alexandria according to chapter 168 of <cite>The Golden Legend</cite></a>
           </li>
           <li>
-            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" class="yellow">Barbara the Great Martyr according to <cite>The Golden Legend</cite></a>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" class="yellow">barbara the great martyr according to <cite>The Golden Legend</cite></a>
           </li>
           <li>
-            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" class="yellow">john the evangelist according to <cite>The Golden Legend</cite>, chapter 9</a>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" class="yellow">john the evangelist according to chapter 9 of the <cite>The Golden Legend</cite></a>
           </li>
           <li>
-            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" class="yellow">john the evangelist according to <cite>The Golden Legend</cite>, chapter 65</a>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" class="yellow">john the evangelist according to chapter 65 of the <cite>The Golden Legend</cite></a>
           </li>
           <li>
-            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" class="yellow">vision of the throne of the god and the heavenly court: the living on the throne and the lamb</a>
+            <a href="/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse" class="yellow">excerpt from the text of <cite>The Revelation</cite> relating to the depiction of John in Patmos on the left shutter</a>
           </li>
         </ul>
       </li>
     </ol>
   </nav>
 
-  <hr>
+  
 
     <h2 id="presentation-photographique" class="yellow">photographic presentation of the work in its exhibition space</h2>
 
@@ -231,7 +231,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-1920.jpg 1920w"></picture><figcaption>View of the exhibition space from the apse of the church of the Old St. John's Hospital</figcaption>
     </figure>
 
-  <!-- Page 2 --><hr>
+  <!-- Page 2 -->
 
     <h2 id="description" class="yellow">description of the work</h2>
 
@@ -340,7 +340,7 @@
 
 
 
-    <!-- Page 3 --><hr>
+    <!-- Page 3 -->
 
 
 
@@ -594,7 +594,7 @@
 
 
 
-    <!-- Page 4 --><hr>
+    <!-- Page 4 -->
 
 
 
@@ -848,7 +848,7 @@
 
 
 
-    <!-- Page 5 --><hr>
+    <!-- Page 5 -->
 
 
       <h3 id="organisation-du-recit" class="yellow">organisation of the pictorial narrative around the legends of John the Baptist, John the Evangelist and the Old St John's Hospital</h3>
@@ -985,30 +985,10 @@
 
 
 
-    <!-- Page 6 --><hr>
+    <!-- Page 6 -->
 
 
     <h3 id="legendes" class="yellow">scenes from the legends of John the Baptist and John the Evangelist according to <cite>The Golden Legend</cite></h3>
-    
-    <figure>
-      <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-280.webp 280w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-380.webp 380w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-480.webp 480w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-640.webp 640w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-840.webp 840w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1280.webp 1280w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1600.webp 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, the right and left inner shutters: in the foreground on the left, John the Baptist beheaded by Herod's order, on the right, John the Evangelist in Patmos, Hans Memling Museum, Old St. John's Hospital, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, the right and left inner shutters: in the foreground on the left, John the Baptist beheaded by Herod's order, on the right, John the Evangelist in Patmos, Hans Memling Museum, Old St. John's Hospital, Bruges (Brugge)" class="class-70-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-280.jpg 280w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-380.jpg 380w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-480.jpg 480w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-640.jpg 640w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-840.jpg 840w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1280.jpg 1280w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/2-volets-1920.jpg 1920w"></picture><figcaption>the right and left inner shutters: in the foreground on the left, John the Baptist beheaded by Herod's order, on the right, John the Evangelist in Patmos</figcaption>
-    </figure>
 
         <p>We follow here each of <span style="color: #e6a64d;">two stories</span> on which Memling probably based himself as <a href="https://en.wikipedia.org/wiki/Jacobus_da_Varagine" title="https://en.wikipedia.org/wiki/Jacobus_da_Varagine" id="jacques-de-voragine" class="yellow">Jacobus da Varagine</a> reports them in <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" id="legende-doree" class="yellow"><cite>The Golden Legend</cite></a>.</p>
 
@@ -1137,7 +1117,7 @@
 
 
 
-          <!-- Page 7 --><hr>
+          <!-- Page 7 -->
 
 
 
@@ -1262,7 +1242,7 @@
 
 
 
-          <!-- Page 8 --><hr>
+          <!-- Page 8 -->
 
 
 
@@ -1388,7 +1368,7 @@
             </figure>
 
 
-          <!-- Page 9 --><hr>
+          <!-- Page 9 -->
 
 
             <h6 class="yellow">Detail of the decollation of John the Baptist, inside left shutter</h6>
@@ -1513,7 +1493,7 @@
 
 
 
-      <!-- Page 10 --><hr>
+      <!-- Page 10 -->
 
 
       <h4 class="yellow" id="légende-de-jean-l’évangéliste">scenes from the legend of John the Evangelist according to <cite>The Golden Legend</cite> and <cite>The Revelation</cite></h4>
@@ -1820,7 +1800,7 @@
 
 
 
-<!-- Page 11 --><hr>
+<!-- Page 11 -->
 
 
         <h5 class="yellow">The Four Horsemen of <cite>The Revelation</cite></h5>
@@ -2025,7 +2005,7 @@
           </figure>
 
 
-      <!-- Page 12 --><hr>
+      <!-- Page 12 -->
 
 
         <h5 class="yellow">the angels of the seventh seal - <cite>The Revelation</cite>, chapter 8 verses 1 to 2</h5>
@@ -2202,7 +2182,7 @@
         </figure>
 
     
-      <!-- Page 13 --><hr>
+      <!-- Page 13 -->
 
 
         <h5 class="yellow">the locusts' exit to the earth - <cite>The Revelation</cite>, chapter 9 verses 1 to 11</h5>
@@ -2401,7 +2381,7 @@
 
     
 
-      <!-- Page 14 --><hr>
+      <!-- Page 14 -->
 
     
 
@@ -2558,7 +2538,7 @@
 
       
 
-  <!-- Page 15 --><hr>
+  <!-- Page 15 -->
 
 
     <figure>
@@ -2611,7 +2591,7 @@
       <p>The triptych was probably commanded before <time datetime="1475">1475</time>, since it was in that year that Antoine SEGHERS died.</p>
       <p>It was placed above the master altar in <time datetime="1479">1479</time>.</p>
 
-<hr>
+
 
 <aside>
 

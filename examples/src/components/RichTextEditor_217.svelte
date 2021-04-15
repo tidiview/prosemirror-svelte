@@ -11,10 +11,10 @@
 
   <hgroup>
     <h2 id="mise-en-relation" class="yellow"><cite><ruby lang="ja" style="color:#555;">洗礼者<wbr>ヨハネと<wbr>福音書記者<wbr>ヨハネの<wbr>三連画<rp>(</rp><rt lang="nl" style="color:#999;">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby></cite>に表わされている場面の元にある諸文書</h2>
-      <h3 class="yellow"><cite><ruby style="color:#e6a64d;">黄金伝説<rp>(</rp><rt style="color:#e6a64d;">レゲンダ・アウレア</rt><rp>)</rp></ruby></cite>においての<cite>福音書記者ヨハネ</cite></h3>
+      <h3 class="yellow">右翼パネルにパトモス島でメムリンクによって表わされているヨハネに関連する<cite>黙示録</cite>から抜粋した文書</h3>
   </hgroup>
 
-    <h3><cite><ruby style="color:#e6a64d;">黄金伝説<rp>(</rp><rt style="color:#e6a64d;">レゲンダ・アウレア</rt><rp>)</rp></ruby></cite>においての第６５章　ラティナ門外の聖ヨハネの文書</h3>
+    <h3 id="apocalypse" class="yellow"><cite>黙示録</cite>の文書、第４章～１２章 du chapître 4 à 12</h3>
 
 
     <p class="puce"><a href="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:10#description-right-shutter">パトモス島で<cite>黙示録</cite>を証言するヨハネ、右翼パネルの全景に戻る。 ↩</a></p>
