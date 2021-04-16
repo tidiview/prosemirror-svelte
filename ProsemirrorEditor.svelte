@@ -243,4 +243,25 @@
   margin-bottom: 1em;
   margin-block-end: 1em;
 }
+
+
+:global(h4.note) {
+  display: list-item;
+  counter-increment: h4;
+  margin-top: 1em;
+  margin-block-end: 0em;
+  margin-block-start: 0em;
+  margin-inline-start: 30px;
+  padding-inline-start: 15px;
+
+}
+
+:global(h4::marker) {
+  display: list-item;
+  content: counter(h4);
+}
+
+:global(h3) {
+  counter-reset: h4;
+}
 </style>
