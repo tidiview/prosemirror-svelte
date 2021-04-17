@@ -2645,7 +2645,8 @@
     </ul>
 
   <footer>
-    <p><a href="#renvoi-de-vos-1" title="renvoi-de-vos-1">↑ retour cette page</a> <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:2#renvoi-de-vos-2" title="renvoi-de-vos-2">↑ retour page 2</a></p>
+    <p class="puce"><a href="#renvoi-de-vos-1" title="renvoi-de-vos-1">retour au texte ↩</a></p>
+    <p class="puce><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:2#renvoi-de-vos-2" title="renvoi-de-vos-2">retour au texte 2 ↩</a></p>
   </footer>
 
 
@@ -2681,77 +2682,64 @@
     </div>
 
   <footer>
-    <p><a href="#renvoi-lorentz-1" title="renvoi-de-vos-1">↑ retour cette page</a> <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#renvoi-lorentz-2" title="renvoi-lorentz-2">↑ retour page 3</a></p>
+    <p class="puce"><a href="#renvoi-lorentz-1" title="renvoi-de-vos-1">retour au texte 2 ↩</a></p>
+    <p class="puce"><a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:3#renvoi-lorentz-2" title="renvoi-lorentz-2">retour au texte 3 ↩</a></p>
   </footer>
 
 
-  <header>
-    <p><a href="#renvoi-note-1" title="renvoi note-1" id="note-1">note 1:</a></p>
-  </header>
-  <p>les reproductions de l'œuvre que nous mettons à disposition du public sont à notre connaissance les meilleures actuellement existantes en dehors d'ouvrages professionnels: elles nous ont demandé un énorme travail du fait de la faiblesse de l'intensité et du jaune de l'éclairage de l'espace d'exposition du Musée Memling de Bruges à l'heure où cet article a été rédigé (<time datetime="2018">2018</time>).</p>
-  <footer>
-    <p><a href="#renvoi-note-1" title="renvoi note-1">↑ retour au texte</a></p>
-  </footer>
+  <h3 id="note">Notes:</h3>
 
-
-
+  <h4 id="note-1" class="yellow note">Qualité des reproductions de cet article</h4>
   <div class="footnotes">
-    <ol>
-      <li id="page-3-fn:1"><p>Nous suivons les références données dans l'article «Catherine d'Alexandrie» de Wikipedia (date de consultation: 15 août 2018), à savoir:</p>
-        <ul>
-          <li>Gustave Bardy: Catherine d’Alexandrie. In: Dictionnaire d’histoire et de géographie ecclésiastiques, vol 11, Paris 1949, pp 1503–1505, ici: 1504.</li>
-          <li>Christine Walsh: The Cult of St Katherine of Alexandria in Early Medieval Europe, Aldershot 2007, p. 3–26;</li>
-          <li>Michael Deakin: Hypatia of Alexandria, Mathematician and Martyr, Amherst (New York) 2007, p. 135, 202;</li>
-          <li>Maria Dzielska: Hypatia of Alexandria, Cambridge (Massachusetts) 1995, p. 21;</li>
-          <li>Christian Lacombrade: Hypatia. In: Reallexikon für Antike und Christentum, vol 16, Stuttgart 1994, pp 956–967, ici: 966;</li>
-        </ul>
-      </li>
-    </ol>
+    <p>les reproductions de l'œuvre que nous mettons à disposition du public sont à notre connaissance les meilleures actuellement existantes en dehors d'ouvrages professionnels: elles nous ont demandé un énorme travail du fait de la faiblesse de l'intensité et du jaune de l'éclairage de l'espace d'exposition du Musée Memling de Bruges à l'heure où cet article a été rédigé (<time datetime="2018">2018</time>).</p>
   </div>
   <footer>
-    <p><a href="#page-3-fnref1:1" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+    <p class="puce"><a href="#renvoi-note-1" title="renvoi note-1">retour au texte ↩</a></p>
   </footer>
 
-
+  <h4 id="page-3-fn:1" class="yellow note">Références à propos de Catherine d'Alexandrie</h4>
   <div class="footnotes">
-    <ol start="2">
-      <li id="page-3-fn:2">
-        <p>Nous suivons les références données dans l'article «Catherine d'Alexandrie» de Wikipedia (date: 15 août 2018), à savoir:</p>
-        <blockquote cite="https://fr.wikipedia.org/wiki/Catherine_d'Alexandrie#Réalité_historique_et_dévotion">
-          <p>«Certains saints peuvent être populaires, en raison des légendes qui se sont créées autour de leurs noms, sans qu'on puisse même garantir qu'ils aient existé, tels saint Christophe, sainte Barbara, sainte Catherine d'Alexandrie, sainte Philomène. Ils ont été supprimés du calendrier général: le peuple chrétien ne peut être invité à une prière officielle que dans la vérité».</p>
-        </blockquote>
-        <p><cite>Conférence de présentation du nouveau calendrier romain</cite> par l'abbé Pierre JOUNEL, professeur à l'institut supérieur de liturgie de l'Institut catholique de Paris, rapporteur du groupe d'étude qui a préparé la réforme du calendrier, faite à Rome le <time datetime="1969-05-09">9 mai 1969</time>.</p>
-      </li>
-    </ol>
-  </div>
-  <footer><p><a href="#page-3-fnref2:2" rev="footnote" class="footnote-backref">retour au texte ↩</a></p></footer>
-
-
-  <div class="footnotes">
-    <ol start="3">
-      <li id="page-3-fn:5">
-        <p>comme, par exemple dans <a href="https://fr.wikipedia.org/wiki/Le_Mariage_mystique_de_sainte_Catherine_(Hans_Memling)" title="https://fr.wikipedia.org/wiki/Le_Mariage_mystique_de_sainte_Catherine_(Hans_Memling)">ce piètre article Wikipedia</a></p>
-      </li>
-    </ol>
-  </div>
-  <footer><p><a href="#page-3-fnref1:5" rev="footnote" class="footnote-backref">retour au texte ↩</a></p></footer>
-
-
-  <div class="footnotes">
-  <ol start="4">
-    <li id="page-3-fn:3">
-      <p>Barbe la grande martyre est aussi connue comme “sainte Barbe”.</p>
-    </li>
-  </ol>
+    <p>Nous suivons les références données dans l'article «Catherine d'Alexandrie» de Wikipedia (date de consultation: 15 août 2018), à savoir:</p>
+    <ul>
+      <li>Gustave Bardy: Catherine d’Alexandrie. In: Dictionnaire d’histoire et de géographie ecclésiastiques, vol 11, Paris 1949, pp 1503–1505, ici: 1504.</li>
+      <li>Christine Walsh: The Cult of St Katherine of Alexandria in Early Medieval Europe, Aldershot 2007, p. 3–26;</li>
+      <li>Michael Deakin: Hypatia of Alexandria, Mathematician and Martyr, Amherst (New York) 2007, p. 135, 202;</li>
+      <li>Maria Dzielska: Hypatia of Alexandria, Cambridge (Massachusetts) 1995, p. 21;</li>
+      <li>Christian Lacombrade: Hypatia. In: Reallexikon für Antike und Christentum, vol 16, Stuttgart 1994, pp 956–967, ici: 966;</li>
+    </ul>
   </div>
   <footer>
-    <p><a href="#page-3-fnref1:3" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+    <p class="puce"><a href="#page-3-fnref1:1" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
   </footer>
-  
-  <h3 id="note">Notes</h3>
 
-    <h4 id="note-devotion-moderne">la <ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby></h4>
+  <h4 id="page-3-fn:2" class="yellow note">Suppression de Catherine d'Alexandrie du calendrier romain</h4>
+  <div class="footnotes">
+    <blockquote cite="https://fr.wikipedia.org/wiki/Catherine_d'Alexandrie#Réalité_historique_et_dévotion">
+      <p>«Certains saints peuvent être populaires, en raison des légendes qui se sont créées autour de leurs noms, sans qu'on puisse même garantir qu'ils aient existé, tels saint Christophe, sainte Barbara, sainte Catherine d'Alexandrie, sainte Philomène. Ils ont été supprimés du calendrier général: le peuple chrétien ne peut être invité à une prière officielle que dans la vérité».</p>
+    </blockquote>
+    <p><cite>Conférence de présentation du nouveau calendrier romain</cite> par l'abbé Pierre JOUNEL, professeur à l'institut supérieur de liturgie de l'Institut catholique de Paris, rapporteur du groupe d'étude qui a préparé la réforme du calendrier, faite à Rome le <time datetime="1969-05-09">9 mai 1969</time>.</p>
+  </div>
+  <footer>
+    <p class="puce"><a href="#page-3-fnref2:2" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+  </footer>
 
+  <h4 id="page-3-fn:5" class="yellow note">Appellation du triptyque</h4>
+  <div class="footnotes">
+    <p>comme, par exemple dans <a href="https://fr.wikipedia.org/wiki/Le_Mariage_mystique_de_sainte_Catherine_(Hans_Memling)" title="https://fr.wikipedia.org/wiki/Le_Mariage_mystique_de_sainte_Catherine_(Hans_Memling)">ce piètre article Wikipedia</a></p>
+  </div>
+  <footer>
+    <p class="puce"><a href="#page-3-fnref1:5" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+  </footer>
+
+  <h4 id="page-3-fn:3" class="yellow note">Appellation: Barbe la Grande Martyre ou sainte Barbe</h4>
+  <div class="footnotes">
+    <p>Barbe la grande martyre est aussi connue comme “sainte Barbe”.</p>
+  </div>
+  <footer>
+    <p class="puce"><a href="#page-3-fnref1:3" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+  </footer>
+
+    <h4 id="note-devotion-moderne" class="yellow note">la <ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby></h4>
       <div class="notices yellow">
       <p>Né un peu plus au nord dans les Pays-Bas actuels, dans la région d'Utrecht à la fin du XIV<sup style="color:#e6a64d;">ème</sup> et au début du XV<sup style="color:#e6a64d;">ème</sup> siècle, la <ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby> est initiée par un homme, <a href="https://fr.wikipedia.org/wiki/Gérard_Groote" title="https://fr.wikipedia.org/wiki/Gérard_Groote" id="gerard-groote" class="yellow">Gérard Groote</a>, qui critique la piété de son temps, la juge trop austère et trop éloignée du monde
       En réaction, il exhorte le croyant à laisser le christ habiter au plus profond de lui-même.
@@ -2759,120 +2747,86 @@
       Le croyant peut alors exercer une action conforme à la vertu à laquelle la foi l'appelle, de manière naturelle, là où il se trouve.</p>
       </div>
       <footer>
-        <ul>
-          <li>retour au texte <a href="#renvoi-devotion-moderne" title="renvoi mouvement">«<ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby>»</a> ...une présentation détaillée de ce mouvement se trouve en note ↑</a></li>
-        </ul>
+        <p class="puce">retour au <a href="#renvoi-devotion-moderne" title="renvoi mouvement">texte «<ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby>» ...une présentation détaillée de ce mouvement se trouve en note ↩</a></p>
       </footer>
 
-
+  <h4 id="fn:4" class="yellow note">Référence à propos de <cite>L'Imitation de Jésus Christ</cite></h4>
   <div class="footnotes">
-    <ol>
-      <li id="fn:4">
-        <p>Nous suivons les références données dans l'article «l'Imitation de Jésus-Christ» de Wikipedia (date de consultation: 21 août 2018), à savoir:</p>
-        <ul>
-          <li>Yann Sordet, Un succès de librairie européen: l'Imitatio Christi (1470-1850), Paris, Bibliothèque Mazarine; Editions des cendres, 2012, 195 p. (ISBN 979-10-90853-01-0), p. 11.</p></li>
-        </ul>
-        <p>D'après les spécialistes, son auteur est un moine: <a href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis" title="https://fr.wikipedia.org/wiki/Thomas_a_Kempis">Thomas A KEMPIS</a>.</p>
-      </li>
-    </ol>
-  </div>
-  <footer>
+    <p>Nous suivons les références données dans l'article «l'Imitation de Jésus-Christ» de Wikipedia (date de consultation: 21 août 2018), à savoir:</p>
     <ul>
-      <li><a href="#fnref1:4" rev="footnote" class="footnote-backref">retour au texte ↩</a></li>
+      <li>Yann Sordet, Un succès de librairie européen: <cite>l'Imitatio Christi</cite> (<time datetime="1470">1470</time>-<time datetime="1850">1850</time>), Paris, Bibliothèque Mazarine; Editions des cendres, <time datetime="2012">2012</time>, 195 p. (ISBN 979-10-90853-01-0), p. 11.</p></li>
     </ul>
+    <p>D'après les spécialistes, son auteur est un moine: <a href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis" title="https://fr.wikipedia.org/wiki/Thomas_a_Kempis">Thomas A KEMPIS</a>.</p>
+  </div>
+  <footer>
+    <p class="puce"><a href="#fnref1:4" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
   </footer>
 
-
+  <h4 id="page-4-fn:5" class="yellow note">Référence à propos de <cite>L'Imitation de Jésus Christ</cite></h4>
   <div class="footnotes">
-    <ol>
-      <li id="page-4-fn:5">
-        <p>source: <cite>L'imitation de notre Seigneur Jésus Christ</cite>, trad. de F. de Lamennais, Éd. Arts et Métiers graphiques, Paris, 1946, p. 59-60, II, 4, 1-2 (partie II, chapitre 4, paragraphes 1 et 2).</p>
-        <p>D'après les spécialistes, son auteur est un moine: <a href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis" title="https://fr.wikipedia.org/wiki/Thomas_a_Kempis">Thomas A KEMPIS</a>.</p>
-      </li>
-    </ol>
+    <p>source:</p>
+    <p><cite>L'imitation de notre Seigneur Jésus Christ</cite>, trad. de F. de Lamennais, Éd. Arts et Métiers graphiques, Paris, <time datetime="1946">1946</time>, p. 59-60, II, 4, 1-2 (partie II, chapitre 4, paragraphes 1 et 2).</p>
+    <p>D'après les spécialistes, son auteur est un moine: <a href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis" title="https://fr.wikipedia.org/wiki/Thomas_a_Kempis">Thomas A KEMPIS</a>.</p>
   </div>
   <footer>
-    <ul>
-      <li><a href="#page-4-fnref1:5" rev="footnote" class="footnote-backref">retour au texte ↩</a></li>
-    </ul>
+    <p class="puce"><a href="#page-4-fnref1:5" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
   </footer>
 
-
+  <h4 id="fn:6" class="yellow note">Amitié de Memling avec le miniaturiste brugeois Willem Vrelant</h4> 
   <div class="footnotes">
-  <ol>
-    <li id="fn:6">
-      <p>notes:</p>
-      <p>«à l'époque où l'artiste s'établit à Bruges, la ville est l'un des principaux centres de production de livres enluminés des Pays-Bas bourguignons </p>
-      <p>(...)</p>
-      <p>Memling comptait parmi ses relations brugeoises un miniaturiste: <a href="https://fr.wikipedia.org/wiki/Willem_Vrelant" title="https://fr.wikipedia.org/wiki/Willem_Vrelant">Willem Vrelant</a>.
-      À la tête de la plus prolifique officine de la ville, Vrelant était, comme Memling, un immigrant.
-      Originaire d'Utrecht, il est mentionné au sein de la guilde des libraires de Bruges de <time datetime="1454">1454</time> à sa mort en <time datetime="1481">1481</time>.
-      Habitant tous deux dans la Sint-Jorisstraat, Vrelant et Memling étaient presque des voisins.</p>
-      <p>(...)</p>
-      <p>Si l'on se place du point de vue d'une représentation spatiale visuellement convaincante, le rapport entre les deux figures du premier plan et le reste du tableau (... une) incohérence régit le rapport entre la figure principale et le bois du plan intermédiaire.</p>
-      <p>(...)</p>
-      <p>On retrouve d'une œuvre à l'autre le même étagement cumulatif des différentes zones du paysage jusqu'à un horizon placé très haut (...) chez Vrelant»</p>
-    </li>
-  </ol>
+    <p>«à l'époque où l'artiste s'établit à Bruges, la ville est l'un des principaux centres de production de livres enluminés des Pays-Bas bourguignons </p>
+    <p>(…)</p>
+    <p>Memling comptait parmi ses relations brugeoises un miniaturiste: <a href="https://fr.wikipedia.org/wiki/Willem_Vrelant" title="https://fr.wikipedia.org/wiki/Willem_Vrelant">Willem Vrelant</a>.
+    À la tête de la plus prolifique officine de la ville, Vrelant était, comme Memling, un immigrant.
+    Originaire d'Utrecht, il est mentionné au sein de la guilde des libraires de Bruges de <time datetime="1454">1454</time> à sa mort en <time datetime="1481">1481</time>.
+    Habitant tous deux dans la Sint-Jorisstraat, Vrelant et Memling étaient presque des voisins.</p>
+    <p>(…)</p>
+    <p>Si l'on se place du point de vue d'une représentation spatiale visuellement convaincante, le rapport entre les deux figures du premier plan et le reste du tableau (… une) incohérence régit le rapport entre la figure principale et le bois du plan intermédiaire.</p>
+    <p>(…)</p>
+    <p>On retrouve d'une œuvre à l'autre le même étagement cumulatif des différentes zones du paysage jusqu'à un horizon placé très haut (…) chez Vrelant»</p>
   </div>
   <footer>
-    <p>source: ouvrage de Philippe LORENTZ référencé en <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean#lorentz" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean#lorentz" id="renvoi-lorentz-2" class="yellow">bibliographie</a>.</p>
-    <p>&#160;<a href="#fnref1:6" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+    <p>source:</p>
+    <p>ouvrage de Philippe LORENTZ référencé en <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean#lorentz" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean#lorentz" class="yellow">bibliographie</a>. ↑</p>
+    <p class="puce"><a href="#fnref1:6" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
   </footer>
 
-
+  <h4 id="fn:2" class="yellow note">Précisiion à propos de la transposition de la citation</h4> 
   <div class="footnotes">
-  <ol>
-    <li id="fn:2">
-      <p>note:</p>
-      <p>pour information, cette citation est au passé, je la transpose au présent.</p>
-    </li>
-  </ol>
+    <p>pour information, cette citation est au passé, je la transpose au présent.</p>
   </div>
   <footer>
-    <p><a href="#page-7-fnref1:2" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+    <p class="puce"><a href="#page-7-fnref1:2" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
   </footer>
 
-
+  <h4 id="page-8-fn:1" class="yellow note">Référence des propos de Saint Jérôme</h4>
   <div class="footnotes">
-    <ol>
-      <li id="page-8-fn:1">
-      <p>propos de <a href="https://fr.wikipedia.org/wiki/Jérôme_de_Stridon" title="https://fr.wikipedia.org/wiki/Jérôme_de_Stridon" id="saint-jerome" class="yellow">saint Jérôme</a> rapportés par Jacques de Voragine.</p>
-      </li>
-    </ol>
+    <p>propos de <a href="https://fr.wikipedia.org/wiki/Jérôme_de_Stridon" title="https://fr.wikipedia.org/wiki/Jérôme_de_Stridon" class="yellow">saint Jérôme</a> rapportés par Jacques de Voragine.</p>
   </div>
   <footer>
-    <p><a href="#page-8-fnref1:1" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+    <p class="puce"><a href="#page-8-fnref1:1" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
   </footer>
 
-  
-<div class="footnotes">
-  <ol>
-    <li id="page-10-fn:1">
-      <p>la citation qui suit est au passé; pour information, je la transpose ici au présent.</p>
-    </li>
-  </ol>
-  </div>
-  <footer>
-    <p><a href="#page-10-fnref1:1" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
-  </footer>
-
-
+  <h4 id="page-10-fn:1" class="yellow note">Précisiion à propos de la transposition de la citation</h4>
   <div class="footnotes">
-  <ol start="2">
-    <li id="page-10-fn:2">
-      <p>les passages du texte de l'Apocalypse qui se rapporte au volet de droite se trouve <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#apocalypse" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#apocalypse">ici</a></p>
-    </li>
-  </ol>
+    <p>la citation qui suit est au passé; pour information, nous la transposons ici au présent.</p>
   </div>
   <footer>
-    <p><a href="#page-10-fnref1:2" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+    <p class="puce"><a href="#page-10-fnref1:1" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
   </footer>
 
+  <h4 id="page-10-fn:2" class="yellow note">Référence des propos de Saint Jérôme</h4>
+  <div class="footnotes">
+    <p>lire! <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#apocalypse" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:10#apocalypse">les passages du texte de l'Apocalypse qui se rapporte à la représentation de Jan à Patmos par Memling sur le volet intérieur droit ↑</a> </p>
+  </div>
+  <footer>
+    <p class="puce"><a href="#page-10-fnref1:2" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+  </footer>
 
+  <h4 id="page-10-fn:3" class="yellow note">Référence des propos de Saint Jérôme</h4>
   <div class="footnotes">
   <ol start="3">
-    <li id="page-10-fn:3">
+    <li>
       <p>Le texte de l'Apocalypse s'adresse aux «sept églises qui sont en Asie Mineure» (<q>Éphèse, Smyrne, Pergame, Thyatire, Sardes, Philadelphie et Laodicée</q>, Apocalypse 1.4) dans le langage symbolique des Écritures judaïques.</p>
       <p>Il exhorte à une réalité transcendante devant leurs permettre de surmonter non seulement les persécutions, quelles soient romaines ou judaïques, mais aussi leurs propres insuffisance <span style="color: #999;">(<cite>Apocalypse</cite> chap.2-3)</span> grâce à l'espérance nouvelle dans le christ à la fin des temps.</p>
     </li>
