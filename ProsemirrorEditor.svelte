@@ -251,8 +251,8 @@
   margin-top: 1em;
   margin-block-end: 0em;
   margin-block-start: 0em;
-  margin-inline-start: 30px;
-  padding-inline-start: 15px;
+  margin-inline-start: 22px;
+  padding-inline-start: 10px;
 
 }
 
