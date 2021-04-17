@@ -2791,7 +2791,7 @@
     <p class="puce"><a href="#page-9-fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
   </footer>
 
-  <h4 id="page-10-fn:1" class="yellow">Precision on quotation</h4>
+  <h4 id="page-10-fn:1" class="yellow note">Precision on quotation</h4>
     <div class="footnotes">
       <p>the quotation that follows is past; for information, we transpose it here to present.</p>
     </div>

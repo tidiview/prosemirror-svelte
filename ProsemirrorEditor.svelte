@@ -204,7 +204,7 @@
     margin-top: 1em;
     margin-block-end: 1em;
     margin-block-start: 1em;
-    margin-inline-start: 32px;   
+    margin-inline-start: 40px;   
 }
 
 :global(p.puce::marker) {
@@ -229,7 +229,7 @@
     margin-top: 1em;
     margin-block-end: 1em;
     margin-block-start: 1em;
-    margin-inline-start: 32px;  
+    margin-inline-start: 40px;  
 }
 
 :global(p.no-puce:last-child) {
@@ -251,7 +251,7 @@
   margin-top: 1em;
   margin-block-end: 0em;
   margin-block-start: 0em;
-  margin-inline-start: 22px;
+  margin-inline-start: 30px;
   padding-inline-start: 10px;
 
 }
