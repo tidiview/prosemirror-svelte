@@ -52,7 +52,7 @@
           <div class="notices yellow">
             <p>私たちが作文するこの記事は最初の一見した印象を超えるのを目的とする</p>
             <ol>
-              <li><p>ここでは私たちの目的は作品の解説を生み出すのではなく、しかも<span style="color: #e6a64d;">描写</span>を。その描写によってその作品をよりよく把握出来る要素を提供するのです。それは<span style="color: #e6a64d;">質の良い複写</span> <a href="#note-1" title="note-1" id="renvoi-note-1"><sup style="color:#555;">ノート１</sup></a> 、<span style="color: #e6a64d;">作品の主な根源</span>、文献的であれ、画学的であれです。それは、現在では、例えば図書館でも借りれる紙で印刷されている専門的な本ででもよくほのめかしや参照させることによってからしかされていません。</p></li>
+              <li><p>ここでは私たちの目的は作品の解説を生み出すのではなく、しかも<span style="color: #e6a64d;">描写</span>を。その描写によってその作品をよりよく把握出来る要素を提供するのです。それは<span style="color: #e6a64d;">質の良い複写</span> <a id="renvoi-note-1" href="#note-1" title="renvoi-note-1"><sup>注１</sup></a> 、<span style="color: #e6a64d;">作品の主な根源</span>、文献的であれ、画学的であれです。それは、現在では、例えば図書館でも借りれる紙で印刷されている専門的な本ででもよくほのめかしや参照させることによってからしかされていません。</p></li>
               <li><p>メムリンクに直接影響があったと思われるのはもっともである、文書的であれ、絵画的であれ、各々の源を繋がげること、</p></li>
               <li><p>それで作品の一貫性だけでなく、その統一性を納得できる語りを再現すること、</p></li>
               <li><p>私たちが提示する各々の文書を私たちの選択が判断出来るように提供すること。</p></li>
@@ -332,8 +332,8 @@
         <p class="puce"><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:16#cath-selon-legende" title="https://francois-vidit.com/docs/ja/saint-jean/page:6#cath-selon-legende" class="yellow"><cite>黄金伝説</cite>によるアレクサンドリアのカタリナの伝説の文書を</a>を読む。</p>
 
       <p>メムリンクがこの文書に基づいて描いたことは非常に確実らしいです。</p>
-      <p>現代の歴史家たちはアレクサンドリアのカタリナが確実に存在したか <sup id="page-3-fnref1:1"><a href="#page-3-fn:1" class="footnote-ref">ノート１</a></sup> 疑っています。</p>
-      <p>カトリック教会もそれを認めている。その崇拝が<time datetime="1970">１９７０年</time>に一般ローマ暦 <sup id="page-3-fnref1:2"><a href="#page-3-fn:2" class="footnote-ref">ノート２</a></sup> から取り除かれた。</p>
+      <p>現代の歴史家たちはアレクサンドリアのカタリナが確実に存在したか <a id="renvoi-note-2" href="#note-2"><sup>注２</sup></a> 疑っています。</p>
+      <p>カトリック教会もそれを認めている。その崇拝が<time datetime="1970">１９７０年</time>に一般ローマ暦 <a id="renvoi-note-3" href="#note-3"><sup>注３</sup></a> から取り除かれた。</p>
 
 
 
@@ -372,7 +372,7 @@
       <h4 id="jean-le-baptiste-2" class="yellow">洗礼者ヨハネ</h4>
 
       <p>奥の方では、左に、<span style="color: #e6a64d;">白い色の子羊</span>の存在が、素晴らしい<span style="color: #e6a64d;">紫色のチュニック</span>を着る<span style="color: #e6a64d;">男の人</span>を<a href="https://ja.wikipedia.org/wiki/洗礼者ヨハネ" title="https://ja.wikipedia.org/wiki/洗礼者ヨハネ" id="jean-le-baptiste" class="yellow">洗礼者ヨハネ</a>として見分けることを可能にしてくれています。</p>
-      <p>羊は彼が弟子たちにかけた<span style="color: #e6a64d;">現世でのイエスの到来</span>を<span style="color: #e6a64d;">告げる</span>言葉<span style="color: #e6a64d;"></span><span style="color: #999;">（ヨハネ、第１章２９節）</span> <sup id="page-3-fnref1:4"><a href="#page-3-fn:4" class="footnote-ref">ノート３</a></sup> を思い出させてくれる：</p>
+      <p>羊は彼が弟子たちにかけた<span style="color: #e6a64d;">現世でのイエスの到来</span>を<span style="color: #e6a64d;">告げる</span>言葉<span style="color: #e6a64d;"></span>を思い出させてくれる<span style="color: #999;">（ヨハネ、第１章２９節）</span> <a id="renvoi-note-4" href="#note-4"><sup>注４</sup></a> ：</p>
 
       <blockquote cite="https://www.bible.com/ja/bible/1819/JHN.1.新共同訳>
         <span style="color:#e6a64d;">「<ruby style="color:#e6a64d;">見よ、神の子羊だ<rp>（</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">エッチェ・アニウス・デイ</rt><rp>）</rp></ruby>」</span>
@@ -470,7 +470,7 @@
 
       <p>聖母の右手前方には、十五世紀ではブルージュにしか制作されていなかった<span style="color: #e6a64d;">緑色の羊毛の素晴らしいチュニック</span>を着る<span style="color: #e6a64d;">もう一人</span>の女の人が本を<span style="color: #e6a64d;">読んでいます</span>。</p>
       <p>彼女の存在が、反対側に、前にある<a href="#catherine-d-alexandrie" class="yellow">アレクサンドリアのカタリナ</a>のを対象しています。</p>
-      <p>彼女の後ろにある<span style="color: #e6a64d;">白い色の石での<ruby style="color:#e6a64d;">聖<rp>（</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">せい</rt><rp>）</rp>櫃<rp>（</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ひつ</rt><rp>）</rp></ruby>塔</span>が、彼女は<a href="https://ja.wikipedia.org/wiki/聖バルバラ" title="https://ja.wikipedia.org/wiki/聖バルバラ" id="barbe-la-grande-martyre" class="yellow">大殉教者バルバラ</a>であることが示されています <sup id="page-3-fnref1:3"><a href="#page-3-fn:3" class="footnote-ref">ノート４</a></sup>。</p>
+      <p>彼女の後ろにある<span style="color: #e6a64d;">白い色の石での<ruby style="color:#e6a64d;">聖<rp>（</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">せい</rt><rp>）</rp>櫃<rp>（</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ひつ</rt><rp>）</rp></ruby>塔</span>が、彼女は<a href="https://ja.wikipedia.org/wiki/聖バルバラ" title="https://ja.wikipedia.org/wiki/聖バルバラ" id="barbe-la-grande-martyre" class="yellow">大殉教者バルバラ</a>であることが示されています <a id="renvoi-note-5" href="#note-5"><sup>注５</sup></a> 。</p>
 
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -495,14 +495,14 @@
 
       <h4 class="yellow">大殉教者バルバラ、その歴史的存在</h4>
 
-      <p><a href="#catherine-d-alexandrie" class="yellow">アレクサンドリアのカタリナ</a>と同じように、現代の歴史家たちが実在したことを疑うと、彼女の名前もカトリック教会の一般ローマ暦 <sup id="fnref2:2"><a href="#fn:2" class="footnote-ref">ノート２</a></sup> から取り除かれました。メムリンクが彼女を描くために基にした文書も元々<a href="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" title="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" id="legende-doree-2" class="yellow"><cite>黄金伝説</cite></a>に含まれていませんが、他の文書と同様に、後で追加されることなりました。</p>
+      <p><a href="#catherine-d-alexandrie" class="yellow">アレクサンドリアのカタリナ</a>と同じように、現代の歴史家たちが実在したことを疑うと、彼女の名前もカトリック教会の一般ローマ暦 <a id="renvoi-note-3" href="#note-3"><sup>注３</sup></a> から取り除かれました。メムリンクが彼女を描くために基にした文書も元々<a href="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" title="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" id="legende-doree-2" class="yellow"><cite>黄金伝説</cite></a>に含まれていませんが、他の文書と同様に、後で追加されることなりました。</p>
       <ul>
         <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:17#prout" title="https://francois-vidit.com/docs/ja/saint-jean/page:7#barb-selon-legende" class="yellow"><cite>黄金伝説</cite>に追加された《大殉教者バルバラの伝説》の文書</a>を読む。</li>
       </ul>
 
 
       <h4 class="yellow">大殉教者バルバラ、十五世紀での伝説</h4>
-      <p>その伝説によりますと、バルバラは旧<a href="https://ja.wikipedia.org/wiki/ビテュニア" title="https://ja.wikipedia.org/wiki/ビテュニア" id="bithynie" class="yellow">ビテュニア</a>の首都<a href="https://ja.wikipedia.org/wiki/イズミット" title="https://ja.wikipedia.org/wiki/イズミット" id="nicomedie" class="yellow">二コメディア</a> <sup id="page-3-fnref1:5"><a href="#fn:5" class="footnote-ref">ノート５</a></sup> に住んでいました。
+      <p>その伝説によりますと、バルバラは旧<a href="https://ja.wikipedia.org/wiki/ビテュニア" title="https://ja.wikipedia.org/wiki/ビテュニア" id="bithynie" class="yellow">ビテュニア</a>の首都<a href="https://ja.wikipedia.org/wiki/イズミット" title="https://ja.wikipedia.org/wiki/イズミット" id="nicomedie" class="yellow">二コメディア</a> <a id="renvoi-note-6" href="#note-6"><sup>注６</sup></a> に住んでいました。
       欠点としてバルバラは美しいこと。。、こんなに美しいことから、とても若いころに、<span style="color: #e6a64d;">彼女のお父さんが彼女を塔に閉じ込めさせましたの</span>！</p>
       <p>文書だとバルバラがそこから<q cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" style="quotes: '「' '」';color: #e6a64d;"><span style="color: #e6a64d;">地上的現世の拙さ</span></q>を感じて、<q cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:17#barbe-selon-legende" style="quotes: '「' '」';color: #e6a64d;"><span style="color: #e6a64d;">天上的<ruby style="color:#e6a64d;">妙<rp>（</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">たえ</rt><rp>）</rp></ruby>なるものごと</span></q>に気にし始めるとなっています。
       当時には禁じられているのに、彼女が少しづつローマの神々から離れて、密かに<a href="https://ja.wikipedia.org/wiki/アレクサンドリア" title="https://ja.wikipedia.org/wiki/アレクサンドリア" id="alexandrie" class="yellow">アレクサンドリア</a>の一有名のキリスト教徒<a href="https://ja.wikipedia.org/wiki/オリゲネス" title="https://ja.wikipedia.org/wiki/オリゲネス" class="yellow">オリゲネス</a>に手紙を書きます。
@@ -545,7 +545,7 @@
 
       <h4 class="yellow">中央パネルの場面での聖なる会話</h4>
 
-        <p><a href="https://ja.wikipedia.org/wiki/聖母マリア" title="https://ja.wikipedia.org/wiki/聖母マリア" id="marie-mere-de-jesus" class="yellow">マリア</a>の戴冠式には、<a href="#catherine-d-alexandrie" title="アレクサンドリアのカタリナ" class="yellow">カタリナ</a>と<a href="#barbe" class="yellow">バルバラ</a>、<a href="#jean-le-baptiste-2" title="洗礼者ヨハネ" id="jean-le-baptiste-3" class="yellow">洗礼者ヨハネ</a>と<a href="#jean-l-evangeliste-3" title="福音書記者ヨハネ" id="jean-l-evangeliste-5" class="yellow">福音書記者ヨハネ</a>のいわゆる<span style="color: #e6a64d;">「</span><ruby style="color:#e6a64d;">聖なる会話<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;">サクラ・コンヴェルサツィオーネ</rt><rp>）</rp></ruby><span style="color: #e6a64d;">」</span> <sup id="page-4-fnref1:1"><a href="#page-4-fn:1" class="footnote-ref">ノート１</a></sup> 聖母の周りの<span style="color: #e6a64d;">聖人の集会</span>にニ人ずつ参加しています。</p>
+        <p><a href="https://ja.wikipedia.org/wiki/聖母マリア" title="https://ja.wikipedia.org/wiki/聖母マリア" id="marie-mere-de-jesus" class="yellow">マリア</a>の戴冠式には、<a href="#catherine-d-alexandrie" title="アレクサンドリアのカタリナ" class="yellow">カタリナ</a>と<a href="#barbe" class="yellow">バルバラ</a>、<a href="#jean-le-baptiste-2" title="洗礼者ヨハネ" id="jean-le-baptiste-3" class="yellow">洗礼者ヨハネ</a>と<a href="#jean-l-evangeliste-3" title="福音書記者ヨハネ" id="jean-l-evangeliste-5" class="yellow">福音書記者ヨハネ</a>のいわゆる<span style="color: #e6a64d;">「</span><ruby style="color:#e6a64d;">聖なる会話<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;">サクラ・コンヴェルサツィオーネ</rt><rp>）</rp></ruby><span style="color: #e6a64d;">」</span> <a id="renvoi-note-7" href="#note-7"><sup>注７</sup></a> 聖母の周りの<span style="color: #e6a64d;">聖人の集会</span>にニ人ずつ参加しています。</p>
 
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -663,10 +663,10 @@
       <h4 class="yellow">新しき信心、十五世紀のフランドル社会のキリスト的改革運動</h4>
 
         <p>顔立ちの<span style="color: #e6a64d;">類似性</span>と年齢の<span style="color: #e6a64d;">多様性</span>が全体を<span style="color: #e6a64d;">統一</span>させています。</p>
-        <p>私たちはこの<span style="color: #e6a64d;">均衡</span>がメムリンクが生きた社会の注目すべき特性であると当時の、歴史家たちが<span style="color: #e6a64d;">「</span><a href="https://fr.wikipedia.org/wiki/Devotio_moderna" title="https://fr.wikipedia.org/wiki/Devotio_moderna" id="devotio-moderna" class="yellow"><ruby>新しき信心<rp>（</rp><rt>デヴォティオ・モデルナ</rt><rp>）</rp></ruby></a><span style="color: #e6a64d;">」</span> <sup id="page-4-fnref1:2"><a href="#page-4-fn:2" class="footnote-ref">ノート２</a></sup> と呼ぶキリスト教信仰のとても大事な改革運動をよりよく把握するために無視することはできないと考えています。</p>
+        <p>私たちはこの<span style="color: #e6a64d;">均衡</span>がメムリンクが生きた社会の注目すべき特性であると当時の、歴史家たちが<span style="color: #e6a64d;">「</span><a href="https://fr.wikipedia.org/wiki/Devotio_moderna" title="https://fr.wikipedia.org/wiki/Devotio_moderna" id="devotio-moderna" class="yellow"><ruby>新しき信心<rp>（</rp><rt>デヴォティオ・モデルナ</rt><rp>）</rp></ruby></a><span style="color: #e6a64d;">」</span>と呼ぶキリスト教信仰のとても大事な改革運動をよりよく把握するために無視することはできないと考えています。</p>
 
       <footer>
-        <p class="puce">もっと知るには：<a href="#note-devotion-moderne" title="「新しき信心」運動を紹介する註釈" id="renvoi-devotion-moderne" class="yellow">十五世紀の歴史的宗教的運動としての「<cite>新しき信心</cite>」</a>。</p>
+        <p class="puce">もっと知るには：<a href="#note-8" title="#note-8" id="renvoi-note-8" class="yellow">十五世紀の歴史的宗教的運動としての「<cite>新しき信心</cite>」（注８）</a>。</p>
       </footer>
 
     
@@ -679,7 +679,7 @@
 
         <h5 class="yellow"><cite><ruby>キリストに倣いて<rp>（</rp><rt>イミタティオ・クリスティ</rt><rp>）</rp></ruby></cite>から抜粋された文書</h5>
         <header>
-          <p>これはその抜粋文書です <sup id="page-4-fnref1:4"><a href="#page-4-fn:4" class="footnote-ref">ノート３</a></sup>：</p>
+          <p>これはその抜粋文書です：</p>
         </header>
         
         <blockquote cite="https://fr.wikipedia.org/wiki/Thomas_a_Kempis">
@@ -844,7 +844,7 @@
     <h4 class="yellow">語りはいくつかの小さな場面で遠景へと続く</h4>
 
 
-      <p>数多くの他のメムリンクの作品に見出されるこの構成の組み方が写本の細密画のレイアウト技術を継承している <sup id="fnref1:6"><a href="#fn:6" class="footnote-ref">ノート１</a></sup> 。いくつかの場面がとても高く位置づけられている地平線まで段状に積み重ねるように配置されている。</p>
+      <p>数多くの他のメムリンクの作品に見出されるこの構成の組み方が写本の細密画のレイアウト技術を継承している <a id="renvoi-note-9" href="#note-9"><sup>注９</sup></a> 。いくつかの場面がとても高く位置づけられている地平線まで段状に積み重ねるように配置されている。</p>
       <p>それぞれの<span style="color: #e6a64d;">小さな場面</span>が遠景でそれぞれの円柱によって<span style="color: #e6a64d;">いくつかのフレーミングの枠内に</span>位置付けられている。</p>
 
 
@@ -1002,7 +1002,7 @@
 
 
       <h5 class="yellow">歴史資料においての洗礼者ヨハネ</h5>
-      <p>歴史的な面では、１世紀にユダヤ信仰のローマ史家である<a href="https://ja.wikipedia.org/wiki/フラウィウス・ヨセフス" title="https://ja.wikipedia.org/wiki/フラウィウス・ヨセフス" id="flavius-josephe" class="yellow">フラウィウス・ヨセフス</a>の証言<span style="color: #999;">（<a href="https://ja.wikipedia.org/wiki/ユダヤ古代誌" title="https://ja.wikipedia.org/wiki/ユダヤ古代誌" id="antiquites-judaiques" class="yellow">「<cite>ユダヤ古代誌</cite>」</a>、第１８書、第５章、１１８節）</span>によれば、ヨハネは<a href="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18" title="https://francois-vidit.com/docs/ja/saint-jean/page:18" id="galilee" class="yellow">ガリラヤ</a>での<a href="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:19" title="https://francois-vidit.com/docs/ja/saint-jean/page:19" id="jesus-de-nazareth" class="yellow">ナザレのイエス</a>の時代のユダヤ教<span style="color: #e6a64d;">伝道師</span>として表わされている。</p>
+      <p>歴史的な面では、１世紀にユダヤ信仰のローマ史家である<a href="https://ja.wikipedia.org/wiki/フラウィウス・ヨセフス" title="https://ja.wikipedia.org/wiki/フラウィウス・ヨセフス" id="flavius-josephe" class="yellow">フラウィウス・ヨセフス</a>の証言<span style="color: #999;">（<a href="https://ja.wikipedia.org/wiki/ユダヤ古代誌" title="https://ja.wikipedia.org/wiki/ユダヤ古代誌" id="antiquites-judaiques" class="yellow">「<cite>ユダヤ古代誌</cite>」</a>、第１８書、第５章、１１８段）</span>によれば、ヨハネは<a href="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18" title="https://francois-vidit.com/docs/ja/saint-jean/page:18" id="galilee" class="yellow">ガリラヤ</a>での<a href="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:19" title="https://francois-vidit.com/docs/ja/saint-jean/page:19" id="jesus-de-nazareth" class="yellow">ナザレのイエス</a>の時代のユダヤ教<span style="color: #e6a64d;">伝道師</span>として表わされている。</p>
       <p>当時のガリラヤは多くの反乱で知られているローマ帝国の属州である。</p>
       <p>その人口が、多数的にユダヤ教であって、とても信心深いです。
       聖書のそれぞれの書物が神のお使いの到来を予告していて、その活動によってユダヤの民が自分の独立、その宗教的組織、特にエルサレムでの<a href="https://ja.wikipedia.org/wiki/ソロモン神殿" title="https://en.wikipedia.org/wiki/Solomon'%27's_Temple" id="temple-de-salomon" class="yellow">ソロモン神殿</a>の再建を可能にすることを回復してくれる。</p>
@@ -1192,9 +1192,9 @@
     <h6 class="yellow">中央パネルの遠景での洗礼者ヨハネの逮捕の場面</h6>
 
       <p>そこから、彼の運命が悲劇的になる。</p>
-      <p>ガリラヤとペレアの四分封領主である<a href="https://ja.wikipedia.org/wiki/ヘロデ・アンティパス" title="https://ja.wikipedia.org/wiki/ヘロデ・アンティパス" id="herode-antipas" class="yellow">ヘロデ・アンティパス</a>が<q cite="https://www.bible.com/ja/bible/1819/MRK.6.新共同訳" style="quotes: '「' '」';color: #e6a64d;">自分の兄弟フィリポの妻</q> <sup id="page-7-fnref1:2"><a href="#page-7-fn:2" class="footnote-ref">ノート１</a></sup> （<a href="https://ja.wikipedia.org/wiki/ヘロデヤ" title="https://ja.wikipedia.org/wiki/ヘロディア" id="herodiade">ヘロディア</a>）と結婚する<span style="color: #999;">（マルコ、第６章・１７節）</span>。</p>
+      <p>ガリラヤとペレアの四分封領主である<a href="https://ja.wikipedia.org/wiki/ヘロデ・アンティパス" title="https://ja.wikipedia.org/wiki/ヘロデ・アンティパス" id="herode-antipas" class="yellow">ヘロデ・アンティパス</a>が<q cite="https://www.bible.com/ja/bible/1819/MRK.6.新共同訳" style="quotes: '「' '」';color: #e6a64d;">自分の兄弟フィリポの妻</q>（<a href="https://ja.wikipedia.org/wiki/ヘロデヤ" title="https://ja.wikipedia.org/wiki/ヘロディア" id="herodiade">ヘロディア</a>）と結婚する<span style="color: #999;">（マルコ、第６章・１７節）</span>。</p>
       <p>ユダヤ教の信仰はどんな兄の妻との結婚とも<span style="color: #e6a64d;">「汚れ」</span>と見なしていて、ゆえに形式的にそれを<span style="color: #e6a64d;">禁じている</span><span style="color: #999;">（レビ記、第１８章・１６節、第２０章・２１節）</span>から、ヨハネはそれを糾弾する。</p>
-      <p><span style="color: #e6a64d;">ヘロデは</span><span style="color: #999;">［ヨハネの］</span><q style="quotes: '「' '」';">説得させる能力が<span style="color: #e6a64d;">反乱</span></q>を誘発することを恐れられていた<span style="color: #999;">（<cite>ユダヤ古代誌</cite>、第１８書、第５章、１１８節）</span> <sup id="page-7-fnref1:1"><a href="#page-7-fn:1" class="footnote-ref">ノート２</a></sup>。</p>
+      <p><span style="color: #e6a64d;">ヘロデは</span><span style="color: #999;">［ヨハネの］</span><q style="quotes: '「' '」';">説得させる能力が<span style="color: #e6a64d;">反乱</span></q>を誘発することを恐れられていた<span style="color: #999;">（<cite>ユダヤ古代誌</cite>、第１８書、第５章、１１８段）</span>。</p>
         <p>「群衆はこの人の忠告に完全に従いそうであったから。だからヘロデは、彼のせいで何かトラブルが起こる前に、彼を捕まえる方を後に騒動が起きた場合に悔むより好んだわけだ。ヘロデの嫌疑のせいで、ヨハネはマシャエロに送られ、</p>
         <p>（…）</p>
         <p>そこで殺された。」</p>
@@ -1222,7 +1222,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、《ヘロデ・アンティパスの命令による洗礼者ヨハネの逮捕》</figcaption>
     </figure>
 
-      <p>中央パネルでは、メムリンクがこの場面を白羊の上に、<span style="color: #e6a64d;">ヨハネ</span>が強制的に古代ギリシャの語源は「剣」という意味と、現代のヨルダン国に位置付けられているの現代<ruby lang="ja" style="color:#e6a64d;">マシェロント<rp>（</rp><rt lang="grc" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">μάχαιρα</rt><rp>）</rp></ruby> <sup id="page-7-fnref1:3"><a href="#page-7-fn:3" class="footnote-ref">ノート３</a></sup> の牢へ向かって左の翼パネルへ<span style="color: #e6a64d;">連れて行かれている</span>。</p>
+      <p>中央パネルでは、メムリンクがこの場面を白羊の上に、<span style="color: #e6a64d;">ヨハネ</span>が強制的に古代ギリシャの語源は「剣」という意味と、現代のヨルダン国に位置付けられているの現代<ruby lang="ja" style="color:#e6a64d;">マシェロント<rp>（</rp><rt lang="grc" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">μάχαιρα</rt><rp>）</rp></ruby> <a id="renvoi-note-10" href="#note-10"><sup>注１０</sup></a> の牢へ向かって左の翼パネルへ<span style="color: #e6a64d;">連れて行かれている</span>。</p>
 
 
 
@@ -1319,7 +1319,7 @@
       </blockquote>
 
       <p>こうしてヘロデは，自分の意思に反するヨハネを死なせるように見える。</p>
-      <p>この語り筋のすべてが本当にヨハネを、信奉者たちのトラブルの騒ぎを起こさずに死なせるためのごまかしである証拠が、ヤコブス・デ・ウォラギネが説明している通り、もしサロメがヘロデに<span style="color: #e6a64d;">「自分の父のフィリポか自分の母の<a href="https://ja.wikipedia.org/wiki/ヘロデヤ" title="https://ja.wikipedia.org/wiki/ヘロディア" id="herodiade-2" class="yellow">ヘロディア</a>」</span>を頼んだなら、ヘロデがそれに同意出来ません<span style="color: #999;">（<cite>黄金伝説</cite>１２１章、第１段 <sup id="page-8-fnref1:1"><a href="#page-8-fn:1" class="footnote-ref">ノート１</a></sup> ）</span>。</p>
+      <p>この語り筋のすべてが本当にヨハネを、信奉者たちのトラブルの騒ぎを起こさずに死なせるためのごまかしである証拠が、ヤコブス・デ・ウォラギネが説明している通り、もしサロメがヘロデに<span style="color: #e6a64d;">「自分の父のフィリポか自分の母の<a href="https://ja.wikipedia.org/wiki/ヘロデヤ" title="https://ja.wikipedia.org/wiki/ヘロディア" id="herodiade-2" class="yellow">ヘロディア</a>」</span>を頼んだなら、ヘロデがそれに同意出来ません<span style="color: #999;">（<cite>黄金伝説</cite>１２１章、第１段 <a id="renvoi-note-10" href="#note-10"><sup>注１０</sup></a> ）</span>。</p>
       <p>このごまかしの唯一の目的は、ヨハネ殺害の責任をヘロデに負わせることを避けるためであって、ヘロデが自分の意思に反して要求に無理に応じたと歴史の視点におおいて偽って見せることです。</p>
 
 
@@ -1453,7 +1453,7 @@
       <p>彼の頭は、伝説によると、現代のシリアでの<ruby lang="ja">ホムス<rp>（</rp><rt lang="ar">حمص</rt><rp>）</rp></ruby>、当時エメサ市の陶工屋によって別に葬られたのであろうから、それは、遠ざけた石の後ろにある<span style="color: #e6a64d;">壁の開口部</span>の中に。</p>
 
       <p>しかし、思い通りになりませんでした。</p>
-      <p>伝説によると、頭が別にシリアにある現代の<a href="https://ja.wikipedia.org/wiki/ホムス" title="https://ja.wikipedia.org/wiki/ホムス" id="homs" class="yellow"><ruby lang="ja">ホムス<rp>（</rp><rt lang="ar">حمص</rt><rp>）</rp></ruby></a>のエメサ市のある製陶屋さんに埋められたのであろう。その後、星に追いかけながら発見した聖マルケッルス <sup id="page-9-fnref1:1"><a href="#page-9-fn:1" class="footnote-ref">ノート１</a></sup> に顕現されたであろう<span style="color: #999;">（黄金伝説、第１２１章、第３段）</span>。</p>
+      <p>伝説によると、頭が別にシリアにある現代の<a href="https://ja.wikipedia.org/wiki/ホムス" title="https://ja.wikipedia.org/wiki/ホムス" id="homs" class="yellow"><ruby lang="ja">ホムス<rp>（</rp><rt lang="ar">حمص</rt><rp>）</rp></ruby></a>のエメサ市のある製陶屋さんに埋められたのであろう。その後、星に追いかけながら発見した聖マルケッルス <a id="renvoi-note-12" href="#note-12"><sup>注１２</sup></a> に顕現されたであろう<span style="color: #999;">（黄金伝説、第１２１章、第３段）</span>。</p>
 
 
     <figure>
@@ -1631,7 +1631,7 @@
       <h5 id="jean-a-la-porte-latine" class="yellow">ローマにあるラティナ門前にドミティアヌス大帝の命令によって熱湯に浸せられる福音書記者ヨハネ</h5>
 
 
-        <p>語りが中央パネルから始まります<sup id="page-10-fnref1:1"><a href="#page-10-fn:1" class="footnote-ref">ノート１</a></sup>：</p>
+        <p>語りが中央パネルから始まります：</p>
 
       <blockquote id="renvoi-porte-latine" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:19#porte-latine">
         <p>「<span style="color: #e6a64d;">ヨハネ</span>は、<a href="https://ja.wikipedia.org/wiki/エフェソス" title="https://ja.wikipedia.org/wiki/エフェソス" class="yellow">エフェソス</a>で伝道活動に従事していたとき、同地の総督に捕えられ、いつわりの神々に供物をささげようと命じられた。</p>
@@ -1686,7 +1686,7 @@
       <h5 id="description-right-shutter" class="yellow">右翼パネル全景：パトモス島でヨハネは<cite>黙示録</cite>において証言する</h5>
 
 
-        <p>右翼パネルが完全にヨハネがパトモス島で啓示された<ruby>幻<rp>（</rp><rt>げん</rt><rp>）</rp>影<rp>（</rp><rt>えい</rt><rp>）</rp></ruby>に捧げられている <sup id="page-10-fnref1:2"><a href="#page-10-fn:2" class="footnote-ref">ノート２</a></sup> 。</p>
+        <p>右翼パネルが完全にヨハネがパトモス島で啓示された<ruby>幻<rp>（</rp><rt>げん</rt><rp>）</rp>影<rp>（</rp><rt>えい</rt><rp>）</rp></ruby>に捧げられている <a id="renvoi-note-13" href="#note-13"><sup>注１３</sup></a> 。</p>
         <p>メムリンクの表わしは特に注目に価するものです。<cite>黙示録</cite>の表しとして、数多くの絵画は絵画の連続として存在するならば、逆に表示の空間の統一を挑戦するのが稀にしか存在しません。</p>
         <p>当然なことに：パトモスのヨハネの語りは注目に値する複合さを提示しているからです。</p>
         <p>それでも、メムリンクは表示の空間を語りより信ずるに足る、超越的な複合さにさせる離れ<ruby>業<rp>（</rp><rt>わざ</rt><rp>）</rp></ruby>を成功します。</p>
@@ -2693,30 +2693,14 @@
   <h3 id="note" class="yellow">註釈</h3>
 
     <h4 id="note-1" class="yellow note">この記事の画像の質について</h4>
-    <div class="footnotes">
-      <p>一般の人々に向けて私たちは公開にしている作品の複製写真は、現在では、私たちが知っている限り、専門家のを除いて、最高のものです。それらの写真が、（この記事が作文される<time datetime="2018">２０１８年</time>）現在ですと、展示会空間の照明が低強度と黄色のために、私たちから大変な努力を必要としてきました。</p>
-    </div>
-    <footer>
-      <p class="puce"><a href="#page-1-renvoi-note-1" title="註釈の元へ">文書に戻る↩</a></p>
-    </footer>
-
-    <h4 id="page-10-fn:1" class="yellow note">引用文に注目に値する事項</h4>
       <div class="footnotes">
-        <p>この引用文が元々の文書では過去形です。念のため、ここでは、私たちは現在形に移動させている。</p>
+        <p>一般の人々に向けて私たちは公開にしている作品の複製写真は、現在では、私たちが知っている限り、専門家のを除いて、最高のものです。それらの写真が、（この記事が作文される<time datetime="2018">２０１８年</time>）現在ですと、展示会空間の照明が低強度と黄色のために、私たちから大変な努力を必要としてきました。</p>
       </div>
       <footer>
-        <p class="puce"><a href="#page-10-fnref1:1" rev="footnote" class="footnote-backref">文書に戻る↩</a></p>
+        <p class="puce"><a href="#renvoi-note-1" title="註釈の元へ">文書に戻る↩</a></p>
       </footer>
 
-      <h4 id="page-10-fn:2" class="yellow note notices"><cite>黙示録</cite>から抜粋した文書</h4>
-      <div class="footnotes">
-        <p class="no-puce"><a href="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse">右翼パネル内面のパトモス島でのヨハネの表わしに関連した<cite>黙示録</cite>から抜粋した文書</a>を読む.</p>
-      </div>
-      <footer>
-        <p class="puce"><a href="#page-10-fnref1:2" rev="footnote" class="footnote-backref">文書に戻る↩</a></p>
-      </footer>
-
-      <h4 id="page-3-fn:1" class="yellow note notices">アレクサンドリアのカタリナについての参照資料</h4>
+    <h4 id="note-2" class="yellow note notices">アレクサンドリアのカタリナについての参照資料</h4>
       <div class="footnotes">
         <p>ここでは私たちはウィキペディアのフランス語版（日付：<time datetime="2018-08-15">２０１８年８月１５日</time>）の「アレクサンドリアのカタリナ」を参照にしています。</p>
         <p>それは：</p>
@@ -2729,11 +2713,10 @@
         </ul>
       </div>
       <footer>
-        <p class="puce"><a href="#page-3-fnref1:1" rev="footnote" class="footnote-backref">文書に戻る↩</a></p>
+        <p class="puce"><a href="#renvoi-note-2">文書に戻る↩</a></p>
       </footer>
 
-
-      <h4 id="page-3-fn:2" class="yellow note notices">ローマ暦からアレクサンドリアのカタリナの削除</h4>
+    <h4 id="note-3" class="yellow note notices">ローマ暦からアレクサンドリアのカタリナと大殉教者バルバラの削除について</h4>
       <div class="footnotes">
         <blockquote cite="https://fr.wikipedia.org/wiki/Catherine_d'Alexandrie#Réalité_historique_et_dévotion">
           <p>「何人かの聖人が人気を博しているかもしれません。彼らの名前の周りに発生した伝説のために、例えば聖キリストフォルス、聖バルバラ、アレクサンドリアの聖カタリナ、聖フィロメナなどのように、彼らが存在したことをでも保証できない。一般ローマ暦から削除されました。キリスト教徒たちは、真実にしか祈りに招かれない」</p>
@@ -2741,73 +2724,67 @@
         <p><time datetime="1969-05-09">１９６９年５月９日</time>、ローマで行われた暦の改革を準備した研究グループのパリカトリック学院の典礼学課教授のピエール・ジョネル修道長の新しいローマ暦を紹介する会議による。</p>
       </div>
       <footer>
-        <p class="puce"><a href="#page-3-fnref1:2" rev="footnote" class="footnote-backref">文書に戻る↩</a></p>
-        <p><a href="#page-3-fnref2:2" rev="footnote" class="footnote-backref">文書２に戻る　↩</a></p>
+        <p class="puce"><a href="#renvoi-note-3">アレクサンドリアのカタリナの文書に戻る↩</a></p>
+        <p><a href="#renvoi-note-3-2">大殉教者バルバラの文書に戻る　↩</a></p>
       </footer>
 
-      <h4 id="page-3-fn:4" class="yellow note">「見よ、これは神の子羊だ」のラテン語の書き方</h4>
+    <h4 id="note-4" class="yellow note">「見よ、これは神の子羊だ」のラテン語の書き方</h4>
       <div class="footnotes">
         <p>ラテン語では「Ecce Agnus Dei」。</p>
       </div>
       <footer>
-        <p class="puce"><a href="#page-3-fnref1:4" rev="footnote" class="footnote-backref">文書に戻る↩</a></p>
+        <p class="puce"><a href="#renvoi-note-4">文書に戻る↩</a></p>
       </footer>
 
-      <h4 id="page-3-fn:3" class="yellow note notices">大殉教者バルバラのカトリック教会での正式呼称</h4>
+    <h4 id="note-5" class="yellow note">大殉教者バルバラのカトリック教会での呼称</h4>
       <div class="footnotes">
         <p>大殉教者バルバラはまた「聖バルバラ」として知られている。</p>
       </div>
       <footer>
-        <p class="puce"><a href="#page-3-fnref1:3" rev="footnote" class="footnote-backref">文書に戻る↩</a></p>
+        <p class="puce"><a href="#renvoi-note-5">文書に戻る↩</a></p>
       </footer>
 
-      <h4 id="page-3-fn:5" class="yellow note">イズミット</h4>
+    <h4 id="note-6" class="yellow note">二コメディアの現代呼称</h4>
       <div class="footnotes">
         <p>現在のトルコの北西部に位置づけられていて黒海の岸にある古代都市。現代の<a href="https://ja.wikipedia.org/wiki/イズミット" title="https://ja.wikipedia.org/wiki/イズミット">イズミット</a>。</p>
       </div>
       <footer>
-        <p class="puce"><a href="#page-3-fnref1:5" rev="footnote" class="footnote-backref">文書に戻る↩</a></p>
-      </footer>
-  
-      <h4 id="page-4-note-devotion-moderne" class="yellow note">新しき信心</h4>
-      <div class="notices yellow">
-        <p>現在のネーデルラントの北部で誕生して、十四世紀初頭から十五世紀初頭にかけてユトレヒト周辺で新しき信心は、<a href="https://fr.wikipedia.org/wiki/Gérard_Groote" title="https://fr.wikipedia.org/wiki/Gérard_Groote" id="gerard-groote" class="yellow"><ruby lang="ja">ヘルート<rp>（</rp><rt lang="nl">Geert</rt><rp>）</rp>・<rp>（</rp><rt lang="nl">&#160;</rt><rp>）</rp>フローテ<rp>（</rp><rt lang="nl">Groote</rt><rp>）</rp></ruby></a>という男性により始められました。</p>
-        <p>彼は当時の敬虔信仰を厳し過ぎると現世から遠くなると批判します。
-        それに対して、彼は、信者にキリストを自分の心の一奥底に居るようにと導きます。
-        彼によると、このキリストの存在は単純さを生み出すことと使命している。
-        従って信者は純粋に、信仰が自分の心の中で奨励する美徳に値する行動を為すことができる。</p>
-      </div>
-      <footer>
-        <p class="puce"><a href="#page-4-renvoi-devotion-moderne" title="「新しき信心」運動の送り返し">文書に戻る↩</a>」</p>
+        <p class="puce"><a href="#renvoi-note-6">文書に戻る↩</a></p>
       </footer>
 
-      <h4 id="page-4-note-devotion-moderne" class="yellow note">「聖なる会話」のイタリア語後での書き方</h4>
+    <h4 id="note-7" class="yellow note">「聖なる会話」のイタリア語後での書き方</h4>
       <div class="footnotes">
         <p>イタリア語では「Sacra conversazione」。</p>
       </div>
       <footer>
-        <p class="puce"><a href="#page-4-fnref1:1" rev="footnote" class="footnote-backref">文書に戻る↩</a></p>
+        <p class="puce"><a href="#renvoi-note-7">文書に戻る↩</a></p>
       </footer>
-
-      <h4 id="page-4-fn:2" class="yellow note">「新しき信心」のラテン語後での書き方</h4>
-      <div class="footnotes">
-        <p>ラテン語では「Devotio moderna」。</p>
-      </div>
-      <footer>
-        <p class="puce"><a href="#page-4-fnref1:2" rev="footnote" class="footnote-backref">文書に戻る↩</a></p>
-      </footer>
-
-      <h4 id="page-4-fn:4" class="yellow note">「<cite>イミタティオ-クリスティ</cite>」について</h4>
+  
+    <h4 id="note-8" class="yellow note">新しき信心</h4>
+      <h5 class="yellow">「新しき信心」のラテン語後での書き方</h5>
+        <div class="footnotes">
+          <p>ラテン語では「Devotio moderna」。</p>
+        </div>
+      <h5 class="yellow">「新しき信心」という宗教改革運動</h5>
+        <div class="yellow">
+          <p>現在のネーデルラントの北部で誕生して、十四世紀初頭から十五世紀初頭にかけてユトレヒト周辺で新しき信心は、<a href="https://fr.wikipedia.org/wiki/Gérard_Groote" title="https://fr.wikipedia.org/wiki/Gérard_Groote" id="gerard-groote" class="yellow"><ruby lang="ja">ヘルート<rp>（</rp><rt lang="nl">Geert</rt><rp>）</rp>・<rp>（</rp><rt lang="nl">&#160;</rt><rp>）</rp>フローテ<rp>（</rp><rt lang="nl">Groote</rt><rp>）</rp></ruby></a>という男性により始められました。</p>
+          <p>彼は当時の敬虔信仰を厳し過ぎると現世から遠くなると批判します。
+          それに対して、彼は、信者にキリストを自分の心の一奥底に居るようにと導きます。
+          彼によると、このキリストの存在は単純さを生み出すことと使命している。
+          従って信者は純粋に、信仰が自分の心の中で奨励する美徳に値する行動を為すことができる。</p>
+        </div>
+      <h5 class="yellow">「<cite>イミタティオ-クリスティ</cite>」について</h5>
         <div class="footnotes">
           <p>ラテン語では「Imitatio Christi」。『キリストに<ruby>倣<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>いて』は、修道士であった<a href="https://ja.wikipedia.org/wiki/トマス・ア・ケンピス" title="https://ja.wikipedia.org/wiki/トマス・ア・ケンピス">トマス・ア・ケンピス</a>によって書かれた本であって、<time datetime="1418">１４１８年</time>ごろにラテン語で出版された。</p>
           <p>「第ニの福音書」「中世の最高の信心書」とも言われ、聖書に次いでカトリックのキリスト教徒の霊的修練の書として識字階級に広く読まれ、親しまれている。 日本でも１６世紀後半にキリシタン版の『<ruby>世のはかなさ<rp>（</rp><rt>コンテムツス・ムンヂ</rt><rp>）</rp></ruby>』として翻訳され、刊行された以来、「キリストのまねび」「イミタティオ-クリスティ」など多種の訳がある。</p>
         </div>
-      <footer>
-        <p class="puce"><a href="#page-4-fnref1:4" rev="footnote" class="footnote-backref">文書に戻る↩</a></p>
-      </footer>
+
+    <footer>
+      <p class="puce"><a href="#renvoi-note-8" title="「新しき信心」運動の送り返し">文書に戻る↩</a>」</p>
+    </footer>
 
   
-    <h4 id="page-5-fn:6" class="yellow note">ウィレム・ヴレラントというブルージュの細密画作家とメムリンクの友情</h4>
+  <h4 id="note-9" class="yellow note">ウィレム・ヴレラントというブルージュの細密画作家とメムリンクの友情</h4>
     <div class="footnotes">
       <p>「その芸術家がブルージュに定住した当時、この街は、ブルゴーニュ公爵領ネーデルラントの主な装飾写本制作拠点の一つであった。</p>
       <p> (...)</p>
@@ -2822,74 +2799,74 @@
     </div>
     <footer>
       <p><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean#lorentz" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean#lorentz" id="renvoi-lorentz-2" class="yellow">この記事に関連書籍</a>に出典されている<ruby lang="ja">フィリップ<rp>（</rp><rt lang="de">Philippe</rt><rp>）</rp>・<rp>（</rp><rt lang="de">&#160;</rt><rp>）</rp>ローレンッツ<rp>（</rp><rt lang="de">LORENTZ</rt><rp>）</rp></ruby>の著作からの引用。</p>
-      <p class="puce"><a href="#page-5-fnref1:6" rev="footnote" class="footnote-backref">文書に戻る↩</a></p></p>
+      <p class="puce"><a href="#renvoi-note-9">文書に戻る↩</a></p></p>
     </footer>
 
-    <h4 id="page-7-fn:2" class="yellow note">ヘロデ王のもう一つの呼称</h4>
-    <div class="footnotes">
-      <p>ヘロデ・フィリッポス１世とも呼称されている。</p>
-    </div>
-    <footer>
-      <p class="puce"><a href="#page-7-fnref1:2" rev="footnote" class="footnote-backref">文書に戻る↩</a></p>
-    </footer>
-
-    <h4 id="page-7-fn:1" class="yellow note">引用文の時間形について</h4>
-    <div class="footnotes">
-        <p>念のため、この引用文が過去形であって、ここでは私が現代形に移動させようとしている。</p>
-    </div>
-    <footer>
-      <p class="puce"><a href="#page-7-fnref1:1" rev="footnote" class="footnote-backref">文書に戻る↩</a></p>
-    </footer>
-
-    <h4 id="page-7-fn:3" class="yellow note">マシェロントの位置について</h4>
-    <div class="footnotes">
-      <p>マシェロントは、要塞化された宮殿の遺跡があるヨルダンの遺跡です。それは死海の東海岸のヨルダン川河口の約２４キロの丘に位置している。ヘブライ語では「מכוור」、アラブ語では、「قلة المشناقى」を呼称されている。</p>
-    </div>
-    <footer>
-      <p class="puce"><a href="#page-7-fnref1:3" rev="footnote" class="footnote-backref">文書に戻る↩</a></p>
-    </footer>
-
-<h4 id="page-10-note-apocalypse" class="yellow note"><cite>黙示録</cite>の七つの教会</h4>
-<div class="notices yellow">
-  <p>黙示録の文書が <q cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20" style="quotes:'「' '」';">アジア州にある七つの教会へ</q>宛てられている<span style="color: #999;">（<cite>黙示録</cite>、第１章４節）</span></p>
-  <p>それは：</p>
-    <ol>
-      <li>「エフェソス、</li>
-      <li>スミルナ、</li>
-      <li>ペルガモン、</li>
-      <li>ティアティラ、</li>
-      <li>サルディス、</li>
-      <li>フィラデルフィア、</li>
-      <li>ラオディキア」、</li>
-    </ol>
-  <p>この文書はユダヤ系聖典の像徴的言語で時間の終わりでのキリストの内での新たな希望のおかげでローマからであれユダヤからであれの迫害を乗り越えることだけではなくしかもそれらの教会自身の不足<span style="color: #9c6416;">、<cite>黙示録</cite>、第２章３節</span>を乗り越えることを可能にしてくれる超越的な事実に招く。</p>
-</div>
-<footer>
-  <p class="puce"><a href="#page-10-renvoi-note-apocalypse" title="#page-10-renvoi-note-apocalypse">文書に戻る↩</a></p>
-</footer>
-
-    <h4 id="page-8-fn:1" class="yellow note">聖ヒエロニムスの言葉の参照</h4>
+  <h4 id="note-10" class="yellow note">聖ヒエロニムスの言葉の参照</h4>
     <div class="footnotes">
       <p>ヤコブス・デ・ウォラギネによって書き留められた<a href="https://ja.wikipedia.org/wiki/ヒエロニムス" title="https://ja.wikipedia.org/wiki/ヒエロニムス" id="saint-jerome" class="yellow">ヒエロニムス</a>の言葉。</p>
     </div>
     <footer>
-      <p class="puce"><a href="#page-8-fnref1:1" rev="footnote" class="footnote-backref">文書に戻る↩</a></p>
+      <p class="puce"><a href="#renvoi-note-10">文書に戻る↩</a></p>
     </footer>
 
-    <h4 id="page-9-fn:1" class="yellow note">アパメアの司教について</h4>
+  <h4 id="note-11" class="yellow note">マシェロントの位置について</h4>
+    <div class="footnotes">
+      <p>マシェロントは、要塞化された宮殿の遺跡があるヨルダンの遺跡です。それは死海の東海岸のヨルダン川河口の約２４キロの丘に位置している。ヘブライ語では「מכוור」、アラブ語では、「قلة المشناقى」を呼称されている。</p>
+    </div>
+    <footer>
+      <p class="puce"><a href="#renvoi-note-11">文書に戻る↩</a></p>
+    </footer>
+
+  <h4 id="note-12" class="yellow note">アパメアの司教について</h4>
     <div class="footnotes">
       <p>行政官、シリア属州・<a href="https://ja.wikipedia.org/wiki/アパメア" title="https://ja.wikipedia.org/wiki/アパメア" class="yellow"><ruby lang="ja">アパメア<rp>（</rp><rt lang="grc">Απάμεια</rt><rp>）</rp></ruby></a>市の司教に選ばれた人。彼はセオドシウス大帝の命令に従って偶像の社の破壊を監督していたところに、異教徒たちに暗殺されて亡くなりました</p>
     </div>
     <footer>
-      <p class="puce"><a href="#page-9-fnref1:1" rev="footnote" class="footnote-backref">文書に戻る↩</a></p>
+      <p class="puce"><a href="#renvoi-note-12">文書に戻る↩</a></p>
     </footer>
 
-    <h4 id="page-10-fn:1" class="yellow note">引用文の時間形</h4>
-    <div class="footnotes">
-      <p>この引用文が元々の文書では過去形です。念のため、ここでは、私は現在形に移動させている。</p>
+  <h4 id="note-13" class="yellow note"><cite>黙示録</cite>の七つの教会</h4>
+    <div class="notices yellow">
+      <p>黙示録の文書が <q cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20" style="quotes:'「' '」';">アジア州にある七つの教会へ</q>宛てられている<span style="color: #999;">（<cite>黙示録</cite>、第１章４節）</span></p>
+      <p>それは：</p>
+        <ol>
+          <li>「エフェソス、</li>
+          <li>スミルナ、</li>
+          <li>ペルガモン、</li>
+          <li>ティアティラ、</li>
+          <li>サルディス、</li>
+          <li>フィラデルフィア、</li>
+          <li>ラオディキア」、</li>
+        </ol>
+      <p>この文書はユダヤ系聖典の像徴的言語で時間の終わりでのキリストの内での新たな希望のおかげでローマからであれユダヤからであれの迫害を乗り越えることだけではなくしかもそれらの教会自身の不足<span style="color: #9c6416;">、<cite>黙示録</cite>、第２章３節</span>を乗り越えることを可能にしてくれる超越的な事実に招く。</p>
     </div>
     <footer>
-      <p class="puce"><a href="#page-10-fnref1:1" rev="footnote" class="footnote-backref">文書に戻る↩</a></p>
+      <p class="puce"><a href="#renvoi-note-13" title="#renvoi-note-13">文書に戻る↩</a></p>
+    </footer>
+
+  <h4 id="page-7-fn:1" class="yellow note">引用文の時間形について</h4>
+    <div class="footnotes">
+        <p>念のため、この引用文が過去形であって、ここでは私が現代形に移動させようとしている。</p>
+    </div>
+    <footer>
+      <p class="puce"><a href="#page-7-fnref1:1">文書に戻る↩</a></p>
+    </footer>
+
+  <h4 id="note-3" class="yellow note notices"><cite>黙示録</cite>から抜粋した文書</h4>
+  <div class="footnotes">
+    <p class="no-puce"><a href="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse">右翼パネル内面のパトモス島でのヨハネの表わしに関連した<cite>黙示録</cite>から抜粋した文書</a>を読む.</p>
+  </div>
+  <footer>
+    <p class="puce"><a href="#renvoi-note-3">文書に戻る↩</a></p>
+  </footer>
+
+  <h4 id="page-7-fn:2" class="yellow note">ヘロデ王のもう一つの呼称</h4>
+    <div class="footnotes">
+      <p>ヘロデ・フィリッポス１世とも呼称されている。</p>
+    </div>
+    <footer>
+      <p class="puce"><a href="#page-7-fnref1:2">文書に戻る↩</a></p>
     </footer>
 
 <!-- Page 16 -->

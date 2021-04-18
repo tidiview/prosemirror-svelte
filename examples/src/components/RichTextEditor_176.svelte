@@ -2712,7 +2712,7 @@
     <p class="puce"><a href="#renvoi-note-2">retour au texte ↩</a></p>
   </footer>
 
-  <h4 id="note-3" class="yellow note">Suppression de Catherine d'Alexandrie du calendrier romain</h4>
+  <h4 id="note-3" class="yellow note">Suppression de Catherine d'Alexandrie et de Barbe la Grande Martyre du calendrier romain</h4>
   <div class="footnotes">
     <blockquote cite="https://fr.wikipedia.org/wiki/Catherine_d'Alexandrie#Réalité_historique_et_dévotion">
       <p>«Certains saints peuvent être populaires, en raison des légendes qui se sont créées autour de leurs noms, sans qu'on puisse même garantir qu'ils aient existé, tels saint Christophe, sainte Barbara, sainte Catherine d'Alexandrie, sainte Philomène. Ils ont été supprimés du calendrier général: le peuple chrétien ne peut être invité à une prière officielle que dans la vérité».</p>
