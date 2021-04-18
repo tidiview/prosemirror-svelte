@@ -340,7 +340,7 @@
           <li>Lire le <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:16" title="https://francois-vidit.com/docs/fr/saint-jean/page:16" class="yellow">texte de la Légende de Catherine d'Alexandrie selon le chapître 168 de <cite>La Légende Dorée</cite></a>.</li>
         </ul>
         <p>Il est tout à fait probable que Memling se soit fondé sur ce texte.</p>
-        <p>Les historiens modernes estiment que Catherine d'Alexandrie n'a pas réellement existé <sup id="renvoi-note-2"><a href="#note-2">note 2</a></sup>. L'église catholique elle-même le reconnaît: son culte a été retiré du calendrier général en <time datetime="1970">1970</time> <sup id="renvoi-note-3"><a href="#note-3">note 3</a></sup>.</p>
+        <p>Les historiens modernes estiment que Catherine d'Alexandrie n'a pas réellement existé <sup id="renvoi-note-2"><a href="#note-2">note 2</a></sup>. L'église catholique elle-même le reconnaît: son culte a été retiré du calendrier général en <time datetime="1970">1970</time> <sup><a id="renvoi-note-3" href="#note-3">note 3</a></sup>.</p>
 
 
 
@@ -501,7 +501,7 @@
 
       <h4 class="yellow">barbe la grande martyre, sa réalité historique</h4>
 
-        <p>Comme pour <a href="#catherine-d-alexandrie" class="yellow">Catherine d'Alexandrie</a>, les historiens modernes doutent de la réalité de son existence et son nom a également été retiré du calendrier général <sup id="fnref2:2"><a href="#fn:2">note 2</a></sup>; le texte sur lequel Memling s'est fondé pour la représenter ne fait pas non plus partie de <a href="https://fr.wikipedia.org/wiki/La_Légende_dorée" title="https://fr.wikipedia.org/wiki/La_Légende_dorée" id="legende-doree-2" class="yellow"><cite>La Légende Dorée</cite></a> mais, comme d'autres textes, y a été ajouté ensuite.</p>
+        <p>Comme pour <a href="#catherine-d-alexandrie" class="yellow">Catherine d'Alexandrie</a>, les historiens modernes doutent de la réalité de son existence et son nom a également été retiré du calendrier général <sup><a id="renvoi-note-3-2" href="#note-3">note 3</a></sup>; le texte sur lequel Memling s'est fondé pour la représenter ne fait pas non plus partie de <a href="https://fr.wikipedia.org/wiki/La_Légende_dorée" title="https://fr.wikipedia.org/wiki/La_Légende_dorée" id="legende-doree-2" class="yellow"><cite>La Légende Dorée</cite></a> mais, comme d'autres textes, y a été ajouté ensuite.</p>
         <ul>
           <li>Lire le <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:7" title="https://francois-vidit.com/docs/fr/saint-jean/page:7" class="yellow">texte <cite href="https://francois-vidit.com/docs/fr/saint-jean/page:7">Légende de Barbe la grande martyre</cite> ajouté à <cite>La Légende Dorée</cite></a>.</li>
         </ul>
@@ -685,13 +685,13 @@
       <h4 class="yellow">la <ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby>, conversion essentielle universelle, simple, pure, transparente</h4>
 
 
-          <p>En Flandres, à l'époque de Memling, un livre de piété chrétienne, <span style="color: #e6a64d;"><cite><a href="https://fr.wikipedia.org/wiki/L'Imitation_de_Jésus-Christ" title="https://fr.wikipedia.org/wiki/L'Imitation_de_Jésus-Christ" id="imitation-de-jesus-christ" class="yellow"><ruby lang="fr">L'Imitation&#160;de<rp>(</rp><rt lang="la">De&#160;imitatione</rt><rp>)</rp>&#160;Jésus-Christ<rp>(</rp><rt lang="la">Christi</rt><rp>)</rp></ruby></a></cite></span>, qui est un énorme succès d'édition <sup><a id="renvoi-note-7" href="#note-7">note 7</a></sup>, nous permet aujourd'hui de nous représenter ce qu'a pu être “<ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby>”.</p>
+          <p>En Flandres, à l'époque de Memling, un livre de piété chrétienne, <span style="color: #e6a64d;"><cite><a href="https://fr.wikipedia.org/wiki/L'Imitation_de_Jésus-Christ" title="https://fr.wikipedia.org/wiki/L'Imitation_de_Jésus-Christ" id="imitation-de-jesus-christ" class="yellow"><ruby lang="fr">L'Imitation&#160;de<rp>(</rp><rt lang="la">De&#160;imitatione</rt><rp>)</rp>&#160;Jésus-Christ<rp>(</rp><rt lang="la">Christi</rt><rp>)</rp></ruby></a></cite></span>, qui est un énorme succès d'édition, nous permet aujourd'hui de nous représenter ce qu'a pu être “<ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby>” <sup><a id="renvoi-note-6" href="#note-6">note 6</a></sup>.</p>
 
 
 
           <h5 class="yellow">texte extrait de <cite>L'Imitation de Jésus-Christ</cite></h5>
           <header>
-            <p>On peut y lire par exemple <sup><a id="renvoi-note-8" href="#note-8">note 8</a></sup>:</p>
+            <p>On peut y lire par exemple:</p>
           </header>
 
           <blockquote cite="https://fr.wikipedia.org/wiki/Thomas_a_Kempis">
@@ -848,7 +848,7 @@
 
     <h4 class="yellow">le récit se poursuit de petites scènes dans le lointain</h4>
 
-      <p>Cette manière d'ordonner la composition qui se retrouve dans de nombreuses autres œuvres de Memling reprend les techniques de mise en page de l'enluminure <sup><a id="renvoi-note-9" href="#note-9">note 9</a></sup>: les différentes scènes sont étagées jusqu'à un horizon placé très haut.</p>
+      <p>Cette manière d'ordonner la composition qui se retrouve dans de nombreuses autres œuvres de Memling reprend les techniques de mise en page de l'enluminure <sup><a id="renvoi-note-7" href="#note-7">note 7</a></sup>: les différentes scènes sont étagées jusqu'à un horizon placé très haut.</p>
       <p>De <span style="color: #e6a64d;">petites scènes</span> prennent place dans le lointain <span style="color: #e6a64d;">à l'intérieur des différents cadrages</span> opérés par les colonnes.</p>
 
     <figure>
@@ -1176,7 +1176,7 @@
       <p>En effet, <a href="https://fr.wikipedia.org/wiki/Hérode_Antipas" title="https://fr.wikipedia.org/wiki/Hérode_Antipas" id="herode-antipas" class="yellow">Hérode Antipas</a>, le tétrarque, c'est-à-dire gouverneur militaire romain, de Galilée et de Pérée, se marie à “la femme de <a href="https://fr.wikipedia.org/wiki/Hérode_Boëthos" title="https://fr.wikipedia.org/wiki/Hérode_Boëthos" id="herde-boethos" class="yellow">son frère Philippe</a>”, <a href="https://fr.wikipedia.org/wiki/Hérodiade" title="https://fr.wikipedia.org/wiki/Hérodiade" id="herodiade">Hérodiade</a> <span style="color: #999;">(Marc chap.6,17)</span>;</p>
       <p>comme la foi judaïque regarde tout mariage avec la femme de son frère comme une <span style="color: #e6a64d;"><q>souillure</q></span> et <span style="color: #e6a64d;">l'interdit</span> <span style="color: #999;">(Lévitique chap.18,16; chap.20,21)</span>, Jean, en tant que figure du mouvement religieux indépendantiste judaïque, prend position: il condamne Hérode publiquement.</p>
       <p><span style="color: #e6a64d;">Hérode craint</span> que cela ne suscite <q><span style="color: #e6a64d;">une révolte</span>, la foule semblant prête à suivre en tout les conseils de cet homme</q>.</p>
-      <p>il aime donc mieux s'emparer de lui avant que quelque trouble se produise à cause de lui, que d'avoir à se repentir plus tard si un mouvement avait lieu <span style="color: #999;">(<cite>Antiquités judaïques</cite>, livre XVIII, chap.5,118)</span> <sup><a id="page-7-fnref1:2" href="#page-7-fn:2">note 1</a></sup>.</p>
+      <p>il aime donc mieux s'emparer de lui avant que quelque trouble se produise à cause de lui, que d'avoir à se repentir plus tard si un mouvement avait lieu <span style="color: #999;">(<cite>Antiquités judaïques</cite>, livre XVIII, chapître 5, paragraphe 118 <sup><a id="renvoi-note-8" href="#note-8">note 8</a></sup>)</span>.</p>
       <p>En cas de troubles causés par les partisans de Jean, Hérode devait répondre de la situation aux autorités romaines, qui pouvait le destituer:</p>
       <p>il donne donc <span style="color: #e6a64d;">“l’ordre d’arrêter Jean”</span> <span style="color: #999;">(Marc chapître 6 verset 17)</span>.</p>
 
@@ -1295,7 +1295,7 @@
     </blockquote>
     <p><span style="color: #999;">(Marc, chapître 6, versets 24 à 29)</span></p>
     <p>Ainsi, Hérode peut apparaître mettre à mort Jean contre son gré.</p>
-    <p>La preuve que tout ce récit est bien une mise en scène destinée à permettre de mettre à mort Jean sans provoquer une révolte des partisans de Jean, c'est, comme l'explique Jacques de Voragine, que si Salomé demande à Hérode <span style="color: #e6a64d;">“la mort de son père <a href="https://fr.wikipedia.org/wiki/Hérode_Boëthos" title="https://fr.wikipedia.org/wiki/Hérode_Boëthos" id="herode-boethos-2" class="yellow">Philippe</a> ou de sa mère <a href="https://fr.wikipedia.org/wiki/Hérodiade" title="https://fr.wikipedia.org/wiki/Hérodiade" id="herodiade-2" class="yello">Hérodiade</a>”</span>, Hérode ne peut y consentir <span style="color: #999;">(<cite>La Légende dorée</cite> chapître 121, I. <sup><a id="renvoi-note-12" href="#note-12" class="footnote-rf">note 12</a></sup>)</span>.</p>
+    <p>La preuve que tout ce récit est bien une mise en scène destinée à permettre de mettre à mort Jean sans provoquer une révolte des partisans de Jean, c'est, comme l'explique Jacques de Voragine, que si Salomé demande à Hérode <span style="color: #e6a64d;">“la mort de son père <a href="https://fr.wikipedia.org/wiki/Hérode_Boëthos" title="https://fr.wikipedia.org/wiki/Hérode_Boëthos" id="herode-boethos-2" class="yellow">Philippe</a> ou de sa mère <a href="https://fr.wikipedia.org/wiki/Hérodiade" title="https://fr.wikipedia.org/wiki/Hérodiade" id="herodiade-2" class="yello">Hérodiade</a>”</span>, Hérode ne peut y consentir <span style="color: #999;">(<cite>La Légende dorée</cite>, chapître 121, I. <sup><a id="renvoi-note-9" href="#note-9">note 9</a></sup>)</span>.</p>
     <p>La mise en scène a bien pour seul but de ne pas faire porter la responsabilité de la mise à mort de Jean à Hérode en le présentant faussement aux yeux de l'histoire comme accédant à cette demande contre sa volonté.</p>
 
 
@@ -1622,7 +1622,7 @@
       <h5 id="jean-a-la-porte-latine" class="yellow">Jean l'Évangéliste ébouillanté sur ordre de l'empereur Domitien devant la Porte Latine à Rome</h5>
 
 
-        <p>Le récit débute sur le panneau central <span style="color: #999;">(<cite>Légende Dorée</cite>chapître 65)</span> <sup id="renvoi-note-11"><a href="#note-11">note 11</a></sup>:</p>
+        <p>Le récit débute sur le panneau central <span style="color: #999;">(<cite>Légende Dorée</cite>, chapître 65)</span>:</p>
         <ol class="doc">
           <li>«<span style="color: #e6a64d;">Jean</span> préchait à Éphèse lorsqu'il est arrêté par le proconsul et invité à sacrifier aux dieux.</li>
           <li>Comme il refuse, il est jeté en prison; on envoie alors à <span style="color: #e6a64d;">l'empereur Domitien</span> une lettre le désignant comme magicien sacrilège, contempteur des dieux et adorateur du crucifié.</li>
@@ -1701,7 +1701,7 @@
         <p>Jean est représenté alors qu'il n'a encore même commencé d'écrire, <span style="color: #e6a64d;">sur le vif</span>, dans le moment même où il est saisi par l'<span style="color: #e6a64d;">“Apocalypse”</span>, qui signifie en grec ancien <span style="color: #e6a64d;">“dévoilement”</span>.</p>
         <p>Ses visions apparaissent au-dessus de lui dans le ciel, sur l'eau et sur la terre toute proche sur tout le reste du volet.</p>
 
-        <p>Nous faisons le choix de suivre le récit <sup><a id="renvoi-note-13" href="#note-13">note 13</a></sup> que Jean l'Évangéliste lui-même fait du dévoilement dans le texte de <cite>L'Apocalypse</cite>.</p>
+        <p>Nous faisons le choix de suivre le récit <sup><a id="renvoi-note-10" href="#note-10">note 10</a></sup> que Jean l'Évangéliste lui-même fait du dévoilement dans le texte de <cite>L'Apocalypse</cite>.</p>
         <p>Celui-ci débute sur le haut à gauche du volet</p>
         <p>La représentation qu'en fait Memling se trouve ainsi placée directement en regard du texte.</p>
 
@@ -1721,7 +1721,7 @@
           <li value="02">je fus saisi en <span style="color: #e6a64d;">esprit</span>.
           Voici qu’un <span style="color: #e6a64d;">trône</span> était là dans le <span style="color: #e6a64d;">ciel</span>, et sur le trône siégeait <span style="color: #e6a64d;">quelqu’un</span>.</li>
           <li value="03">Celui qui siège a l’aspect d’une pierre de jaspe ou de cornaline;
-          il y a, tout autour du trône, <span style="color: #e6a64d;">un arc-en-ciel</span>, avec des reflets d’émeraude <sup id="renvoi-note-14"><a href="#note-14">note 14</a></sup>.</li>
+          il y a, tout autour du trône, <span style="color: #e6a64d;">un arc-en-ciel</span>, avec des reflets d’émeraude <sup id="renvoi-note-11"><a href="#note-11">note 11</a></sup>.</li>
           <li value="04">Tout autour de ce trône, vingt-quatre trônes, où siègent <span style="color: #e6a64d;">vingt-quatre anciens</span> portant des vêtements blancs et, sur leurs têtes, des couronnes d’or.</li>
           <li value="05">Et du trône sortent des éclairs, des fracas, des coups de tonnerre, et sept torches enflammées brûlent devant le trône:
           ce sont les sept esprits de dieu.</li>
@@ -2709,7 +2709,7 @@
     </ul>
   </div>
   <footer>
-    <p class="puce"><a href="#renvoi-note-2" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+    <p class="puce"><a href="#renvoi-note-2">retour au texte ↩</a></p>
   </footer>
 
   <h4 id="note-3" class="yellow note">Suppression de Catherine d'Alexandrie du calendrier romain</h4>
@@ -2720,7 +2720,8 @@
   </div>
   <footer>
     <p><cite>Conférence de présentation du nouveau calendrier romain</cite> par l'abbé Pierre JOUNEL, professeur à l'institut supérieur de liturgie de l'Institut catholique de Paris, rapporteur du groupe d'étude qui a préparé la réforme du calendrier, faite à Rome le <time datetime="1969-05-09">9 mai 1969</time>.</p>
-    <p class="puce"><a href="#renvoi-note-3" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+    <p class="puce"><a href="#renvoi-note-3">retour au texte Catherine d'Alexandrie ↩</a></p>
+    <p class="puce"><a href="#renvoi-note-3-2">retour au texte Barbe la Grande Martyre ↩</a></p>
   </footer>
 
   <h4 id="note-4" class="yellow note">Appellation du triptyque</h4>
@@ -2728,7 +2729,7 @@
     <p>comme, par exemple dans <a href="https://fr.wikipedia.org/wiki/Le_Mariage_mystique_de_sainte_Catherine_(Hans_Memling)" title="https://fr.wikipedia.org/wiki/Le_Mariage_mystique_de_sainte_Catherine_(Hans_Memling)">ce piètre article Wikipedia</a></p>
   </div>
   <footer>
-    <p class="puce"><a href="#renvoi-note-4" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+    <p class="puce"><a href="#renvoi-note-4">retour au texte ↩</a></p>
   </footer>
 
   <h4 id="note-5" class="yellow note">Appellation: Barbe la Grande Martyre ou sainte Barbe</h4>
@@ -2736,42 +2737,42 @@
     <p>Barbe la grande martyre est aussi connue comme “sainte Barbe”.</p>
   </div>
   <footer>
-    <p class="puce"><a href="#renvoi-note-5" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+    <p class="puce"><a href="#renvoi-note-5">retour au texte ↩</a></p>
   </footer>
 
-  <h4 id="note-6 note-devotion-moderne" class="yellow note">la <ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby></h4>
-  <div class="notices yellow">
-    <p>Né un peu plus au nord dans les Pays-Bas actuels, dans la région d'Utrecht à la fin du XIV<sup style="color:#e6a64d;">ème</sup> et au début du XV<sup style="color:#e6a64d;">ème</sup> siècle, la <ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby> est initiée par un homme, <a href="https://fr.wikipedia.org/wiki/Gérard_Groote" title="https://fr.wikipedia.org/wiki/Gérard_Groote" id="gerard-groote" class="yellow">Gérard Groote</a>, qui critique la piété de son temps, la juge trop austère et trop éloignée du monde.
-    En réaction, il exhorte le croyant à laisser le christ habiter au plus profond de lui-même.
-    Cette présence du christ a vocation selon lui à produire de la simplicité.
-    Le croyant peut alors exercer une action conforme à la vertu à laquelle la foi l'appelle, de manière naturelle, là où il se trouve.</p>
-  </div>
+  <h4 id="note-6" class="yellow note">Précisions sur la <ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby></h4>
+
+    <h5 class="yellow">Référence à propos de <cite>L'Imitation de Jésus Christ</cite></h5>
+    <div class="footnotes">
+      <p>Nous suivons les références données dans l'article «l'Imitation de Jésus-Christ» de Wikipedia (date de consultation: 21 août 2018), à savoir:</p>
+      <p class="puce">Yann Sordet, Un succès de librairie européen: <cite>l'Imitatio Christi</cite> (<time datetime="1470">1470</time>-<time datetime="1850">1850</time>), Paris, Bibliothèque Mazarine; Editions des cendres, <time datetime="2012">2012</time>, 195 p. (ISBN 979-10-90853-01-0), p. 11.</p>
+      </ul>
+      <p>D'après les spécialistes, son auteur est un moine: <a href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis" title="https://fr.wikipedia.org/wiki/Thomas_a_Kempis">Thomas A KEMPIS</a>.</p>
+    </div>
+    <footer>
+      <p class="puce"><a href="#renvoi-note-6">retour au texte ↩</a></p>
+    </footer>
+
+    <h5 class="yellow>la <ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby></h5>
+    <div class="notices yellow">
+      <p>Né un peu plus au nord dans les Pays-Bas actuels, dans la région d'Utrecht à la fin du XIV<sup style="color:#e6a64d;">ème</sup> et au début du XV<sup style="color:#e6a64d;">ème</sup> siècle, la <ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby> est initiée par un homme, <a href="https://fr.wikipedia.org/wiki/Gérard_Groote" title="https://fr.wikipedia.org/wiki/Gérard_Groote" id="gerard-groote" class="yellow">Gérard Groote</a>, qui critique la piété de son temps, la juge trop austère et trop éloignée du monde.
+      En réaction, il exhorte le croyant à laisser le christ habiter au plus profond de lui-même.
+      Cette présence du christ a vocation selon lui à produire de la simplicité.
+      Le croyant peut alors exercer une action conforme à la vertu à laquelle la foi l'appelle, de manière naturelle, là où il se trouve.</p>
+    </div>
+
+    <h5 class="yellow">Référence à propos de <cite>L'Imitation de Jésus Christ</cite></h5>
+    <div class="footnotes">
+      <p>source:</p>
+      <p><cite>L'imitation de notre Seigneur Jésus Christ</cite>, trad. de F. de Lamennais, Éd. Arts et Métiers graphiques, Paris, <time datetime="1946">1946</time>, p. 59-60, II, 4, 1-2 (partie II, chapitre 4, paragraphes 1 et 2).</p>
+      <p>D'après les spécialistes, son auteur est un moine: <a href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis" title="https://fr.wikipedia.org/wiki/Thomas_a_Kempis">Thomas A KEMPIS</a>.</p>
+    </div>
+
   <footer>
-    <p class="puce">retour au <a href="#renvoi-note-6 devotion-moderne" title="renvoi mouvement">texte «<ruby lang="fr">dévotion<rp>(</rp><rt lang="la">devotio</rt><rp>)</rp>&#160;<rp>(</rp><rt lang="la">&#160;</rt><rp>)</rp>moderne<rp>(</rp><rt lang="la">moderna</rt><rp>)</rp></ruby>» ...une présentation détaillée de ce mouvement se trouve en note ↩</a></p>
+    <p class="puce"><a href="#renvoi-note-6">retour au texte ↩</a></p>
   </footer>
 
-  <h4 id="note-7" class="yellow note">Référence à propos de <cite>L'Imitation de Jésus Christ</cite></h4>
-  <div class="footnotes">
-    <p>Nous suivons les références données dans l'article «l'Imitation de Jésus-Christ» de Wikipedia (date de consultation: 21 août 2018), à savoir:</p>
-    <p class="puce">Yann Sordet, Un succès de librairie européen: <cite>l'Imitatio Christi</cite> (<time datetime="1470">1470</time>-<time datetime="1850">1850</time>), Paris, Bibliothèque Mazarine; Editions des cendres, <time datetime="2012">2012</time>, 195 p. (ISBN 979-10-90853-01-0), p. 11.</p>
-    </ul>
-    <p>D'après les spécialistes, son auteur est un moine: <a href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis" title="https://fr.wikipedia.org/wiki/Thomas_a_Kempis">Thomas A KEMPIS</a>.</p>
-  </div>
-  <footer>
-    <p class="puce"><a href="#renvoi-note-7" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
-  </footer>
-
-  <h4 id="note-8" class="yellow note">Référence à propos de <cite>L'Imitation de Jésus Christ</cite></h4>
-  <div class="footnotes">
-    <p>source:</p>
-    <p><cite>L'imitation de notre Seigneur Jésus Christ</cite>, trad. de F. de Lamennais, Éd. Arts et Métiers graphiques, Paris, <time datetime="1946">1946</time>, p. 59-60, II, 4, 1-2 (partie II, chapitre 4, paragraphes 1 et 2).</p>
-    <p>D'après les spécialistes, son auteur est un moine: <a href="https://fr.wikipedia.org/wiki/Thomas_a_Kempis" title="https://fr.wikipedia.org/wiki/Thomas_a_Kempis">Thomas A KEMPIS</a>.</p>
-  </div>
-  <footer>
-    <p class="puce"><a href="#renvoi-note-8" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
-  </footer>
-
-  <h4 id="note-9" class="yellow note">Amitié de Memling avec le miniaturiste brugeois Willem Vrelant</h4> 
+  <h4 id="note-7" class="yellow note">Amitié de Memling avec le miniaturiste brugeois Willem Vrelant</h4> 
   <div class="footnotes">
     <p>«à l'époque où l'artiste s'établit à Bruges, la ville est l'un des principaux centres de production de livres enluminés des Pays-Bas bourguignons </p>
     <p>(…)</p>
@@ -2787,34 +2788,26 @@
   <footer>
     <p>source:</p>
     <p>ouvrage de Philippe LORENTZ référencé en <a href="/docs/fr/bruges/hopital-saint-jean/saint-jean#lorentz" title="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean#lorentz" class="yellow">bibliographie</a>. ↑</p>
-    <p class="puce"><a href="#renvoi-note-9" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+    <p class="puce"><a href="#renvoi-note-7">retour au texte ↩</a></p>
   </footer>
 
-  <h4 id="note-10" class="yellow note">Précision à propos de la transposition de la citation</h4> 
+  <h4 id="note-8" class="yellow note">Précision à propos de la transposition de la citation</h4> 
   <div class="footnotes">
     <p>pour information, cette citation est au passé, je la transpose au présent.</p>
   </div>
   <footer>
-    <p class="puce"><a href="#renvoi-note-10" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+    <p class="puce"><a href="#renvoi-note-8">retour au texte ↩</a></p>
   </footer>
 
-  <h4 id="note-11" class="yellow note">Précisiion à propos de la transposition de la citation</h4>
-  <div class="footnotes">
-    <p>la citation qui suit est au passé; pour information, nous la transposons ici au présent.</p>
-  </div>
-  <footer>
-    <p class="puce"><a href="#renvoi-note-11" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
-  </footer>
-
-  <h4 id="note-12" class="yellow note">Référence des propos de Saint Jérôme</h4>
+  <h4 id="note-9" class="yellow note">Référence des propos de Saint Jérôme</h4>
   <div class="footnotes">
     <p>propos de <a href="https://fr.wikipedia.org/wiki/Jérôme_de_Stridon" title="https://fr.wikipedia.org/wiki/Jérôme_de_Stridon" class="yellow">saint Jérôme</a> rapportés par Jacques de Voragine.</p>
   </div>
   <footer>
-    <p class="puce"><a href="#renvoi-note-12" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+    <p class="puce"><a href="#renvoi-note-9">retour au texte ↩</a></p>
   </footer>
 
-  <h4 id="note-13" class="yellow note">Les sept églises de <cite>l'Apocalypse</cite></h4>
+  <h4 id="note-10" class="yellow note">Les sept églises de <cite>l'Apocalypse</cite></h4>
   <div class="footnotes">
     <p>Le texte de <cite>l'Apocalypse</cite> s'adresse aux <q cite="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:20" style="quotes:'«' '»';">sept églises qui sont en Asie Mineure</q> <span style="color: #999;">(<cite>Apocalypse</cite>, chapître 1 verset 4)</span>:</p>
     <ol>
@@ -2829,15 +2822,15 @@
     <p>Dans le langage symbolique des Écritures judaïques, il exhorte à une réalité transcendante devant leurs permettre de surmonter non seulement les persécutions, quelles soient romaines ou judaïques, mais aussi leurs propres insuffisance <span style="color: #999;">(<cite>Apocalypse</cite>, chapître 2 verset 3)</span> grâce à l'espérance nouvelle dans le christ à la fin des temps.</p>
   </div>
   <footer>
-    <p class="puce"><a href="#renvoi-note-13" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+    <p class="puce"><a href="#renvoi-note-10">retour au texte ↩</a></p>
   </footer>
 
-  <h4 id="note-14" class="yellow note">Précisions sur le terme «halo de lumière»</h4>
+  <h4 id="note-11" class="yellow note">Précisions sur le terme «halo de lumière»</h4>
   <div class="footnotes">
     <p>nous faisons le choix de remplacer le terme <q cite="https://www.aelf.org/bible/Ap/4">halo de lumière</q> par <q cite="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-4-2">arc-en-ciel</q> qui correspond à la représentation de Memling étant donné la note de la traduction œuménique de la bible (Édition avril <time datetime="1989">1989</time>, p.1799, note w.) <q cite="https://lire.la-bible.net/76/detail-traduction/chapitres/verset/Apocalypse/4/3/TOB">le même mot grec désigne aussi l'arc-en-ciel, ou encore une auréole</q>.</p>
   </div>
   <footer>
-    <p class="puce"><a href="#renvoi-note-14" rev="footnote" class="footnote-backref">retour au texte ↩</a></p>
+    <p class="puce"><a href="#renvoi-note-11">retour au texte ↩</a></p>
   </footer>
 
 </aside>
