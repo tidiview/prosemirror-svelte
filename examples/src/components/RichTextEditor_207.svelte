@@ -379,7 +379,7 @@
             <p class="puce">read: <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:6" title="https://francois-vidit.com/docs/fr/saint-jean/page:6" class="yellow">text of the <cite>Legend of Catherine of Alexandria</cite> according to chapter 168 of <cite>The Golden Legend</cite></a>.</p>
           
           <p>It is quite likely that Memling relied on this text.</p>
-          <p>Although modern historians believe that Catherine of Alexandria has not really existed <sup id="page-3-fnref1:1"><a href="#page-3-fn:1" class="footnote-ref">note 1</a></sup> and her cult was removed from the general calendar of the catholic church in <time datetime="1970">1970</time> <sup id="page-3-fnref1:2"><a href="#page-3-fn:2" class="footnote-ref">note 2</a></sup>.</p>
+          <p>Although modern historians believe that Catherine of Alexandria has not really existed <a id="renvoi-note-2" href="#note-2"><sup>note 2>note 2</sup></a> and her cult was removed from the general calendar of the catholic church in <time datetime="1970">1970</time> <a id="note-3" href="#renvoi-note-3"><sup>note 3</sup></a>.</p>
 
 
 
@@ -398,8 +398,7 @@
             <span style="color: #e6a64d;">«Come, my beloved, my beautiful one!»</span>
           </blockquote>
 
-          <p>Due to the presence of Saint Catherine, the triptych has sometimes been called <span style="color: #e6a64d;">“the mystical marriage of Saint Catherine”</span> <sup id="fnref1:5"><a href="#fn:5" class="footnote-ref">note 3</a></sup>.</p>
-
+          <p>Due to the presence of Saint Catherine, the triptych has sometimes been called <span style="color: #e6a64d;">“the mystical marriage of Saint Catherine”</span> <a id="renvoi-note-4" href="#note-4" class="footnote-ref"><sup>note 4</sup></a>.</p>
 
 
       
@@ -518,8 +517,8 @@
 
           <p>On the other side of virgin Mary, on the front right, <span style="color: #e6a64d;">another woman</span>, dressed in <span style="color: #e6a64d;">a magnificent green wool tunic</span> as only Bruges produced in the 15<sup style="color:#555;">th</sup> century, <span style="color: #e6a64d;">reads</span>.</p>
           <p>Her presence corresponds to that of <a href="#catherine-d-alexandrie" class="yellow">Catherine of Alexandria</a> on the front of the other side.</p>
-          <p>Behind her, <span style="color: #e6a64d;">a white stone tabernacle tower</span> tells us that it is <a href="https://en.wikipedia.org/wiki/Saint_Barbara" title="https://en.wikipedia.org/wiki/Saint_Barbara" id="barbe-la-grande-martyre" class="yellow">Barbara the Great Martyr</a> <sup id="page-3-fnref1:3"><a href="#page-3-fn:3" class="footnote-ref">note 4</a></sup>.</p>
-          <p>As with <a href="#catherine-d-alexandrie" class="yellow">Catherine of Alexandria</a>, modern historians doubt the reality of her existence and her name has also been removed from the general calendar <sup id="page-3-fnref2:2"><a href="#page-3-fn:2" class="footnote-ref">note 2</a></sup>.</p>
+          <p>Behind her, <span style="color: #e6a64d;">a white stone tabernacle tower</span> tells us that it is <a href="https://en.wikipedia.org/wiki/Saint_Barbara" title="https://en.wikipedia.org/wiki/Saint_Barbara" id="barbe-la-grande-martyre" class="yellow">Barbara the Great Martyr</a> <a id="renvoi-note-5" href="#note-5"><sup>note 5</sup></a>.</p>
+          <p>As with <a href="#catherine-d-alexandrie" class="yellow">Catherine of Alexandria</a>, modern historians doubt the reality of her existence and her name has also been removed from the general calendar <a id="renvoi-note-3" href="#note-3"><sup>note 3</sup></a>.</p>
     
         <figure>
           <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -545,7 +544,7 @@
 
         <h4 class="yellow">Barbara the Great Martyr, its historical reality</h4>
 
-          <p>As with <a href="#catherine-d-alexandria" class="yellow">Catherine of Alexandria</a>, modern historians doubt the reality of her existence and her name has also been removed from the general calendar <sup id="page-3-fnref2:2"><a href="#page-3-fn:2" class="footnote-ref">note 2</a></sup>; the text Memling relied on to represent her is also not part of <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" id="legende-doree-3" class="yellow"><cite>The Golden Legend</cite></a> but, like other texts, was added to it later.</p>
+          <p>As with <a href="#catherine-d-alexandria" class="yellow">Catherine of Alexandria</a>, modern historians doubt the reality of her existence and her name has also been removed from the general calendar <a id="note-3-2" href="#note-3" class="footnote-ref"><sup>note 3</sup></a>; the text Memling relied on to represent her is also not part of <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" id="legende-doree-3" class="yellow"><cite>The Golden Legend</cite></a> but, like other texts, was added to it later.</p>
           <p class="puce">read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:7" title="https://francois-vidit.com/docs/en/saint-jean/page:7" class="yellow">text of the <cite>Legend of Beard the Great Martyr</cite> added to <cite>The Golden Legend</cite></a>.</p>
 
 
@@ -729,12 +728,12 @@
 
         <h4 id="devotion-moderne" class="yellow">“devotio moderna”</h4>
 
-            <p>In Flanders, at the time of Memling, for a book of Christian piety, <span style="color: #e6a64d;"><a href="https://en.wikipedia.org/wiki/Geert_Groote" title="https://en.wikipedia.org/wiki/Geert_Groote" id="imitation-de-jesus-christ" class="yellow">“<ruby>The&nbsp;imitation<rp>(</rp><rt>De&nbsp;imitatione</rt><rp>)</rp>&nbsp;<rp>(</rp><rt>&nbsp;</rt><rp>)</rp>of<rp>(</rp><rt>&nbsp;</rt><rp>)</rp>&nbsp;<rp>(</rp><rt>&nbsp;</rt><rp>)</rp>Jesus&nbsp;Christ<rp>(</rp><rt>Christi</rt><rp>)</rp></ruby>”</a></span>, is a huge publishing success <sup id="fnref1:4"><a href="#fn:4" class="footnote-ref">note 1</a></sup> .</p>
+            <p>In Flanders, at the time of Memling, for a book of Christian piety, <span style="color: #e6a64d;"><a href="https://en.wikipedia.org/wiki/Geert_Groote" title="https://en.wikipedia.org/wiki/Geert_Groote" id="imitation-de-jesus-christ" class="yellow">“<ruby>The&nbsp;imitation<rp>(</rp><rt>De&nbsp;imitatione</rt><rp>)</rp>&nbsp;<rp>(</rp><rt>&nbsp;</rt><rp>)</rp>of<rp>(</rp><rt>&nbsp;</rt><rp>)</rp>&nbsp;<rp>(</rp><rt>&nbsp;</rt><rp>)</rp>Jesus&nbsp;Christ<rp>(</rp><rt>Christi</rt><rp>)</rp></ruby>”</a></span>, is a huge publishing success <a id="renvoi-note-6" href="#note-6"><sup>note 6</sup></a> .</p>
 
 
             <h5 class="yellow">text from <cite>The Imitation of Jesus Christ</cite></h5>
             <header>
-              <p>One can read <sup id="page-4-fnref1:5"><a href="#fn:4" class="footnote-ref">note 2</a></sup>:</p>
+              <p>One can read:</p>
             </header>
 
           <blockquote cite="https://fr.wikipedia.org/wiki/Thomas_a_Kempis">
@@ -897,7 +896,7 @@
 
         <h4 class="yellow">the narrative continues with small scenes in the distance</h4>
 
-          <p>This manner of ordering the composition, which is found in many of Memling's other works, takes up the layout techniques of illumination <sup id="fnref1:6"><a href="#fn:6" class="footnote-ref">note 1</a></sup>: the various scenes are tiered up to a very high placed horizon.</p>
+          <p>This manner of ordering the composition, which is found in many of Memling's other works, takes up the layout techniques of illumination <a id="note-7" href="#renvoi-note-7"><sup>note 7</sup></a>: the various scenes are tiered up to a very high placed horizon.</p>
           <p>Small <span style="color: #e6a64d;">scenes</span> take place in the distant <span style="color: #e6a64d;">within the various framings</span> operated by the columns.</p>
 
         <figure>
@@ -1214,7 +1213,7 @@
               <p>The tetrarch of Galilee and Perea, <a href="https://en.wikipedia.org/wiki/Herod_Antipas" title="https://en.wikipedia.org/wiki/Herod_Antipas" id="herode-antipas" class="yellow">Herod Antipas</a> married «<a href="https://en.wikipedia.org/wiki/Herod_II" title="https://en.wikipedia.org/wiki/Herod_II" id="herode-boethos" class="yellow">his brother Philip's wife</a> (<a href="https://en.wikipedia.org/wiki/Herodias" title="https://en.wikipedia.org/wiki/Herodias" id="herodiade">Herodias</a>)» <span style="color: #999;">(Mark chapter 6, verse 17)</span>;</p>
               <p>As the jewish faith regards any marriage with his brother's wife as <span style="color: #e6a64d;">«defiling»</span> and <span style="color: #e6a64d;">forbids</span> it <span style="color: #999;">(Leviticus chapter 18 verse 16; chapter 20 verse 21)</span>, John publicly condemns it.</p>
               <p><span style="color: #e6a64d;">Herod feared</span> that this would provoke «<span style="color: #e6a64d;">a revolt</span>, the crowd seeming ready to follow all the advice of this man.</p>
-              <p>He therefore prefers to take him before any trouble occurs because of him, rather than to have to repent later if a movement takes place» <span style="color: #999;">(<cite>Jewish Antiquities</cite>, Book XVIII, chapter 5, paragraph 118)</span> <sup id="page-7-fnref1:2"><a href="#page-7-fn:2" class="footnote-ref">note 1</a></sup>.</p>
+              <p>He therefore prefers to take him before any trouble occurs because of him, rather than to have to repent later if a movement takes place» <span style="color: #999;">(<cite>Jewish Antiquities</cite>, Book XVIII, chapter 5, paragraph 118)</span>.</p>
               <p>In the event of unrest caused by John's supporters, Herod had to answer to the roman authorities, who could dismiss him:</p>
               <p>he gives <span style="color: #e6a64d;">“the order to arrest John”</span> <span style="color: #999;">(Mark chapter 6, verse 17)</span>.</p>
 
@@ -1336,7 +1335,7 @@
                 </blockquote>
 
                 <p>Thus Herod can appear to put John to death against his will.</p>
-                <p>The proof that this whole story is indeed a smokescreen designed to allow John to be put to death without provoking a revolt by John's supporters is, as Jacobus da Varagine explains, that if Salome asks Herod <span style="color: #e6a64d;">«the death of her father <a href="https://en.wikipedia.org/wiki/Herod_II" title="https://en.wikipedia.org/wiki/Herod_II" id="herode-boethos-2" class="yellow">Philip</a> or her mother <a href="https://en.wikipedia.org/wiki/Herodias" title="https://en.wikipedia.org/wiki/Herodias" id="herodiade-2" class="yellow">Herodias</a>»</span>, Herod cannot consent to it <span style="color: #999;">(<cite>The Golden Legend</cite> chapter 121, paragraph I. <sup id="page-8-fnref1:1"><a href="#page-8-fn:1" class="footnote-ref">note 1</a></sup> )</span>.</p>
+                <p>The proof that this whole story is indeed a smokescreen designed to allow John to be put to death without provoking a revolt by John's supporters is, as Jacobus da Varagine explains, that if Salome asks Herod <span style="color: #e6a64d;">«the death of her father <a href="https://en.wikipedia.org/wiki/Herod_II" title="https://en.wikipedia.org/wiki/Herod_II" id="herode-boethos-2" class="yellow">Philip</a> or her mother <a href="https://en.wikipedia.org/wiki/Herodias" title="https://en.wikipedia.org/wiki/Herodias" id="herodiade-2" class="yellow">Herodias</a>»</span>, Herod cannot consent to it <span style="color: #999;">(<cite>The Golden Legend</cite> chapter 121, paragraph I. <a id="renvoi-note-8" href="#note-8"><sup>note 8</sup></a> )</span>.</p>
                 <p>The only purpose of the smokescreen is indeed to avoid placing the responsibility for John's killing on Herod by falsely presenting him in the eyes of history as acceding to this request against his will.</p>
 
 
@@ -1644,7 +1643,7 @@
 
         <h5 id="jean-a-la-porte-latine" class="yellow">john the evangelist scalded by order of emperor domitian in front of the latin gate in rome and departure for exile in the island of patmos</h5>
 
-          <p>The narrative starts on the central panel <span style="color: #999;">(chapter 65)</span> <sup id="page-10-fnref1:1"><a href="#page-10-fn:1" class="footnote-ref">note 1</a></sup>:</p>
+          <p>The narrative starts on the central panel <span style="color: #999;">(chapter 65)</span>:</p>
 
           <ol class="doc">
             <li>«<span style="color: #e6a64d;">John</span> was preaching at Ephesus when he was arrested by the proconsul and invited to sacrifice to the gods.</li>
@@ -1689,7 +1688,7 @@
 
         <h5 id="description-right-shutter" class="yellow">Overview of the right inner shutter: John bears witness to <cite>The Revelation</cite> in Patmos.</h5>
 
-          <p>The right inner shutter is entirely dedicated to the visions John had in Patmos <sup id="page-10-fnref1:2"><a href="#page-10-fn:2" class="footnote-ref">note 2</a></sup>.</p>
+          <p>The right inner shutter is entirely dedicated to the visions John had in Patmos <a id="renvoi-note-9" href="#note-9"><sup>note 9</sup></a> .</p>
           <p>Memling's representation is particularly noteworthy because while there are many representations of <cite>The Revelation</cite> as a succession of paintings, in contrast there are very few that assume a unity of the space of representation.</p>
           <p>And for good reason: the narrative of John of Patmos presents a remarkable complexity.</p>
           <p>And yet Memling succeeds in the tour-de-force of making the space of representation as credible, supernaturally complex as the narrative.</p>
@@ -2662,8 +2661,8 @@
       </ul>
 
     <footer>
-      <p class="puce"><a href="#renvoi-de-vos-1" title="renvoi-de-vos-1">back to text ↩</a></p>
-      <p class="puce"><a href="#renvoi-de-vos-2" title="renvoi-de-vos-2">back to text 2 ↩</a></p>
+      <p class="puce"><a href="#renvoi-renvoi-de-vos-1" title="renvoi-de-vos-1">back to text ↩</a></p>
+      <p class="puce"><a href="#renvoi-renvoi-de-vos-2" title="renvoi-de-vos-2">back to text 2 ↩</a></p>
     </footer>
 
 
@@ -2698,54 +2697,89 @@
       </div>
 
     <footer>
-      <p class="puce"><a href="#renvoi-lorentz-1" title="renvoi-lorentz-1">back to text 2 ↩</a></p>
-      <p class="puce"><a href="#renvoi-lorentz-2" title="renvoi-lorentz-2">back to text 3 ↩</a></p>
+      <p class="puce"><a href="#renvoi-renvoi-lorentz-1" title="renvoi-lorentz-1">back to text 2 ↩</a></p>
+      <p class="puce"><a href="#renvoi-renvoi-lorentz-2" title="renvoi-lorentz-2">back to text 3 ↩</a></p>
     </footer>
 
 
   <h3 id="note">Notes:</h3>
 
     <h4 id="note-1" class="yellow note">Quality of reproductions of this article</h4>
-    <p>the reproductions of the work that we make available to the public are, to our knowledge, the best that currently available exist outside of professional works: they required a great deal of efforts from us due to the low intensity and yellow of the lighting in the exhibition space of the Memling Museum in Bruges at the time this article was first written (<time datetime="2018">2018</time>).</p>
+      <div class="notices yellow">
+      <p>the reproductions of the work that we make available to the public are, to our knowledge, the best that currently available exist outside of professional works: they required a great deal of efforts from us due to the low intensity and yellow of the lighting in the exhibition space of the Memling Museum in Bruges at the time this article was first written (<time datetime="2018">2018</time>).</p>
+      </div>
+      <footer>
+        <p class="puce"><a href="#renvoi-note-1" title="renvoi note-1">back to text ↩</a></p>
+      </footer>
+
+    <h4 id="note-2" class="yellow note">References about Catherine of Alexandria</h4>
+    <div class="footnotes">
+      <p>We follow the references given in this <a href="https://fr.wikipedia.org/wiki/Catherine_d'Alexandrie" title="https://fr.wikipedia.org/wiki/Catherine_d'Alexandrie">French Wikipedia article "Catherine d'Alexandrie"</a> (view date: 15 August 2018), namely:</p>
+      <ul>
+        <li>Gustave Bardy: Catherine d’Alexandrie. In: Dictionnaire d’histoire et de géographie ecclésiastiques, vol 11, Paris 1949, pp 1503–1505, ici: 1504.</li>
+        <li>Christine Walsh: The Cult of St Katherine of Alexandria in Early Medieval Europe, Aldershot 2007, p. 3–26;</li>
+        <li>Michael Deakin: Hypatia of Alexandria, Mathematician and Martyr, Amherst (New York) 2007, p. 135, 202;</li>
+        <li>Maria Dzielska: Hypatia of Alexandria, Cambridge (Massachusetts) 1995, p. 21;</li>
+        <li>Christian Lacombrade: Hypatia. In: Reallexikon für Antike und Christentum, vol 16, Stuttgart 1994, pp 956–967, ici: 966;</li>
+      </ul>
+    </div>
     <footer>
-      <p class="puce"><a href="#renvoi-note-1" title="renvoi note-1">back to text ↩</a></p>
+      <p class="puce"><a href="#renvoi-note-2">back to text ↩</a></p>
     </footer>
 
+    <h4 id="note-3" class="yellow note">Removal of Catherine of Alexandria and Barbara the Great Martyr from the Roman calendar</h4>
+    <div class="footnotes">
+      <blockquote cite="https://fr.wikipedia.org/wiki/Catherine_d'Alexandrie#Réalité_historique_et_dévotion">
+        <p>«Some saints may be popular, because of the legends that have been created around their names, without it being possible to guarantee that they even existed, such as St. Christopher, St. Barbara, St. Catherine of Alexandria, St. Philomena. They have been removed from the general calendar: the Christian people can only be invited to official prayer in truth».</p>
+      </blockquote>
+    </div>
+    <footer>
+      <p><cite>Conference presenting the new Roman calendar</cite> by Abbot Pierre JOUNEL, professor at the Superior Institute of Liturgy of the Catholic Institute of Paris, rapporteur of the study group which prepared the reform of the calendar, given in Rome on <time datetime="1969-05-09">9 May 1969</time>.</p>
+      <p class="puce"><a href="#renvoi-note-3">back to text Catherine of Alexandria ↩</a></p>
+      <p class="puce"><a href="#renvoi-note-3-2">back to text Barbara the Great Martyr ↩</a></p>
+    </footer>
 
-    <h4 id="note-devotion-moderne" class="yellow note">“devotio moderna”</h4>
-      <div class="notices yellow">
-      <p>Born a little further north in the present Netherlands, in the Utrecht region at the end of the 14<sup style="color:#e6a64d;">th</sup> and beginning of the 15<sup style="color:#e6a64d;">th</sup> century, “<dfn>devotio moderna</dfn>” or modern devotion was initiated by a man, <a href="https://en.wikipedia.org/wiki/Geert_Groote" title="https://en.wikipedia.org/wiki/Geert_Groote" id="gerard-groote" class="yellow">Geert Groote</a>, who criticized the piety of his time, judging it too austere and too far from the world.
-      In reaction, he exhorted the believer to let Christ dwell in the depths of his heart.
-      According to him, this presence of Christ is intended to produce simplicity.
-      The believer can then exercise an action in conformity with the virtue to which faith calls him, in a natural way, where he is.</p>
-      </div>
-      <footer>
-        <p class="puce">back to the text: <a href="#renvoi-devotion-moderne" title="renvoi mouvement «dévotio moderna»">A detailed presentation of this movement can be found in note ↩</a></p>
-      </footer>
+    <h4 id="note-4" class="yellow note">Designation of the triptych</h4>
+    <div class="footnotes">
+      <p>as, for example, in <a href="https://en.wikipedia.org/wiki/St_John_Altarpiece_(Memling)#Mystic_marriage_of_St_Catherine" title="https://en.wikipedia.org/wiki/St_John_Altarpiece_(Memling)#Mystic_marriage_of_St_Catherine">this Wikipedia article</a></p>
+    </div>
+    <footer>
+      <p class="puce"><a href="#renvoi-note-4">back to text ↩</a></p>
+    </footer>
 
+    <h4 id="note-5" class="yellow note">Designation: Barbara the Great Martyr or St. Barbara</h4>
+    <div class="footnotes">
+      <p>Barbara the Great Martyr is also known as “sainte Barbara”.</p>
+    </div>
+    <footer>
+      <p class="puce"><a href="#renvoi-note-5">back to text ↩</a></p>
+    </footer>
 
-      <h4 id="fn:4" class="yellow note">References about «devotio moderna»</h4>
-      <div class="footnotes">
-            <p>We follow the references given in Wikipedia's article (french edition) «l'Imitation de Jésus-Christ» (date: <time datetime="2018-08-21">2018 August 21<sup>st</sup></time>), namely:</p>
-            <p class="puce">Yann Sordet, Un succès de librairie européen: l'Imitatio Christi (<time datetime="1470">1470</time>-<time datetime="1850">1850</time>), Paris, Bibliothèque Mazarine; Editions des cendres, <time datetime="2012">2012</time>, 195 p. (ISBN 979-10-90853-01-0), p. 11.</p>
-            <p>According to specialists, its author is a monk: <a href="https://en.wikipedia.org/wiki/Thomas_à_Kempis" title="https://en.wikipedia.org/wiki/Thomas_%C3%A0_Kempis">Thomas A KEMPIS</a>.</p>
-      </div>
-      <footer>
-        <p class="puce"><a href="#fnref1:4" rev="footnote" class="footnote-backref">back to text ↩</a></p>
-      </footer>
+    <h4 id="note-6" class="yellow note">Presentation of “devotio moderna”</h4>
+      <h5 class="yellow note">historical presentation of “devotio moderna”</h5>
+        <div class="notices yellow">
+        <p>Born a little further north in the present Netherlands, in the Utrecht region at the end of the 14<sup style="color:#e6a64d;">th</sup> and beginning of the 15<sup style="color:#e6a64d;">th</sup> century, “<dfn>devotio moderna</dfn>” or modern devotion was initiated by a man, <a href="https://en.wikipedia.org/wiki/Geert_Groote" title="https://en.wikipedia.org/wiki/Geert_Groote" id="gerard-groote" class="yellow">Geert Groote</a>, who criticized the piety of his time, judging it too austere and too far from the world.
+        In reaction, he exhorted the believer to let Christ dwell in the depths of his heart.
+        According to him, this presence of Christ is intended to produce simplicity.
+        The believer can then exercise an action in conformity with the virtue to which faith calls him, in a natural way, where he is.</p>
+        </div>
+      <h5 class="yellow note">References about “devotio moderna”</h5>
+        <div class="footnotes">
+          <p>We follow the references given in Wikipedia's article (french edition) «l'Imitation de Jésus-Christ» (date: <time datetime="2018-08-21">2018 August 21<sup>st</sup></time>), namely:</p>
+          <p class="puce">Yann Sordet, Un succès de librairie européen: l'Imitatio Christi (<time datetime="1470">1470</time>-<time datetime="1850">1850</time>), Paris, Bibliothèque Mazarine; Editions des cendres, <time datetime="2012">2012</time>, 195 p. (ISBN 979-10-90853-01-0), p. 11.</p>
+          <p>According to specialists, its author is a monk: <a href="https://en.wikipedia.org/wiki/Thomas_à_Kempis" title="https://en.wikipedia.org/wiki/Thomas_%C3%A0_Kempis">Thomas A KEMPIS</a>.</p>
+        </div>
+      <h5 class="yellow note">References of our quote about “devotio moderna”</h5>
+        <div class="footnotes">
+          <p>source:</p>
+          <p><cite>L'imitation de notre Seigneur Jésus Christ</cite>, trans. by F. de Lamennais, Éd. Arts et Métiers graphiques, Paris, <time datetime="1946">1946</time>, pp. 59-60, II, 4, 1-2 (part II, chapter 4, paragraphs 1 and 2).</p>
+          <p>original translation from us.</p>
+        </div>
+    <footer>
+      <p class="puce"><a href="#renvoi-note-6">back to text ↩</a></p>
+    </footer>
 
-
-    <h4 id="fn:5" class="yellow note">References about «devotio moderna»</h4>
-      <div class="footnotes">
-        <p>source:</p>
-        <p><cite>L'imitation de notre Seigneur Jésus Christ</cite>, trans. by F. de Lamennais, Éd. Arts et Métiers graphiques, Paris, <time datetime="1946">1946</time>, pp. 59-60, II, 4, 1-2 (part II, chapter 4, paragraphs 1 and 2).</p>
-        <p>original translation from us.</p>
-      </div>
-      <footer>
-        <p class="puce"><a href="#page-4-fnref1:5" rev="footnote" class="footnote-backref">back to text  ↩</a></p>
-      </footer>
-
-    <h4 id="fn:6" class="yellow note">Document about Memling's friendship with brugian miniturist Willem Vrelant</h4>
+    <h4 id="note-7" class="yellow note">Document about Memling's friendship with brugian miniturist Willem Vrelant</h4>
     <div class="footnotes">
       <p>«at the time when the artist settled in Bruges, the city was one of the main centres of production of illuminated books in the burgundian Netherlands (…)</p>
       <p>Memling included a miniaturist among his Bruges relations: <a href="https://en.wikipedia.org/wiki/Willem_Vrelant" title="https://en.wikipedia.org/wiki/Willem_Vrelant">Willem Vrelant</a>.
@@ -2755,60 +2789,21 @@
       <p>From the point of view of a visually convincing spatial representation, the relationship between the two figures in the foreground and the rest of the table (… an) inconsistency governs the relationship between the main figure and the wood in the intermediate plane (…)</p>
       <p>From one work to another, we find the same cumulative layering of the different zones of the landscape up to a horizon placed very high (…) in Vrelant's work»</p>
     </div>
-
     <footer>
       <p>source:</p>
       <p>book by Philippe LORENTZ referenced in <a href="/docs/en/bruges/hopital-saint-jean/saint-jean#lorentz" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean#lorentz" id="renvoi-lorentz-2" class="yellow">bibliography ↑</a>.</p>
-      <p class="puce"><a href="#fnref1:6" rev="footnote" class="footnote-backref">back to text ↩</a></p>
+      <p class="puce"><a href="#renvoi-note-7">back to text ↩</a></p>
     </footer>
 
-  <h4 id="page-7-fn:2" class="yellow note">Precision on quotation</h4>
-    <div class="footnotes">
-      <p class="no-puce">
-        for information, this quote is in the past, We're transposing it to the present.
-      </p>
-    </div>
-    <footer>
-      <p class="puce"><a href="#page-7-fnref1:2" rev="footnote" class="footnote-backref">back to text ↩</a></p>
-    </footer>
-
-  <h4 id="page-8-fn:1" class="yellow note">St. Jerome according to Jacobus De Varagine</h4>
-
+  <h4 id="note-8" class="yellow note">St. Jerome according to Jacobus De Varagine</h4>
     <div class="footnotes">
       <p class="no-puce">words of <a href="https://en.wikipedia.org/wiki/Jerome" title="https://en.wikipedia.org/wiki/Jerome" id="saint-jerome" class="yellow">St. Jerome</a> reported by Jacobus da Varagine.</p>
     </div>
     <footer>
-      <p class="puce"><a href="#page-8-fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
+      <p class="puce"><a href="#renvoi-note-8">back to text ↩</a></p>
     </footer>
 
-  <h4 id="page-9-fn:1" class="yellow note">Precision on Marcellus of Apamea</h4>
-  <div class="footnotes">
-    <p class="no-puce">
-        <dfn>Saint Marcellus of Apamea</dfn> in Syria (died in <time datetime="0389">389</time>). Magistrate of the city, in the year <time datetime="0375">375</time>, he left his wife and children, and devoted himself to a monastic life, was elected bishop of Apamea, Syria. He died murdered by the heathens while watching over the destruction of a temple of idols according to an edict of Emperor Theodosius. Celebrated on <time datetime="08-14">August 14<sup>th</sup></time>.
-    </p>
-  </div>
-  <footer>
-    <p class="puce"><a href="#page-9-fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
-  </footer>
-
-  <h4 id="page-10-fn:1" class="yellow note">Precision on quotation</h4>
-    <div class="footnotes">
-      <p>the quotation that follows is past; for information, we transpose it here to present.</p>
-    </div>
-    <footer>
-      <p class="puce"><a href="#page-10-fnref1:1" rev="footnote" class="footnote-backref">back to text ↩</a></p>
-    </footer>
-
-
-  <h4 id="page-10-fn:2" class="yellow note">Reference of the excerpt of <cite>The Revelation</cite> related to the representation of John in Patmos on the left inner shutter by Hans Memling</h4>
-    <div class="footnotes">
-      <p class="puce">read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse">text excerpt of <cite>The Revelation</cite> related to the representation of John in Patmos on the left inner shutter by Hans Memling ↑</a>.</p>
-    </div>
-    <footer>
-      <p class="puce"><a href="#page-10-fnref1:2" rev="footnote" class="footnote-backref">back to text ↩</a></p>
-    </footer>
-
-  <h4 id="fn:3" class="yellow note">the "seven churches that are in Asia Minor"</h4>
+  <h4 id="note-9" class="yellow note">the "seven churches that are in Asia Minor"</h4>
     <div class="footnotes">
       <p>The text of <cite>The Revelation</cite> is addressed to the "seven churches that are in Asia Minor" according to <cite>The Revelation</cite> chapter 1 verse 4:</p>
       <ol>
@@ -2823,7 +2818,7 @@
       <p>In the symbolic language of the Jewish scriptures, it exhorts them to a transcendent reality that will enable them to overcome not only persecutions, whether Roman or Jewish, but also their own inadequacies, as <cite>The Revelation</cite> chapter 2 verse 3 shows, through new hope in Christ at the end of time.</p>
     </div>
     <footer>
-      <p class="puce"><a href="#page-10-fnref1:3" rev="footnote" class="footnote-backref">back to text ↩</a></p>
+      <p class="puce"><a href="#renvoi-note-9">back to text ↩</a></p>
     </footer>
 
 <!-- Page 16 -->

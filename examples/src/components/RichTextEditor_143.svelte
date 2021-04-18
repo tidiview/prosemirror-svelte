@@ -666,7 +666,7 @@
         <p>私たちはこの<span style="color: #e6a64d;">均衡</span>がメムリンクが生きた社会の注目すべき特性であると当時の、歴史家たちが<span style="color: #e6a64d;">「</span><a href="https://fr.wikipedia.org/wiki/Devotio_moderna" title="https://fr.wikipedia.org/wiki/Devotio_moderna" id="devotio-moderna" class="yellow"><ruby>新しき信心<rp>（</rp><rt>デヴォティオ・モデルナ</rt><rp>）</rp></ruby></a><span style="color: #e6a64d;">」</span>と呼ぶキリスト教信仰のとても大事な改革運動をよりよく把握するために無視することはできないと考えています。</p>
 
       <footer>
-        <p class="puce">もっと知るには：<a href="#note-8" title="#note-8" id="renvoi-note-8" class="yellow">十五世紀の歴史的宗教的運動としての「<cite>新しき信心</cite>」（注８）</a>。</p>
+        <p class="puce">もっと知るには：<a href="#note-8" title="#note-8" id="renvoi-note-8" class="yellow">十五世紀の歴史的宗教的運動としての「<cite>新しき信心</cite>」、注８</a>。</p>
       </footer>
 
     
@@ -1319,7 +1319,7 @@
       </blockquote>
 
       <p>こうしてヘロデは，自分の意思に反するヨハネを死なせるように見える。</p>
-      <p>この語り筋のすべてが本当にヨハネを、信奉者たちのトラブルの騒ぎを起こさずに死なせるためのごまかしである証拠が、ヤコブス・デ・ウォラギネが説明している通り、もしサロメがヘロデに<span style="color: #e6a64d;">「自分の父のフィリポか自分の母の<a href="https://ja.wikipedia.org/wiki/ヘロデヤ" title="https://ja.wikipedia.org/wiki/ヘロディア" id="herodiade-2" class="yellow">ヘロディア</a>」</span>を頼んだなら、ヘロデがそれに同意出来ません<span style="color: #999;">（<cite>黄金伝説</cite>１２１章、第１段 <a id="renvoi-note-10" href="#note-10"><sup>注１０</sup></a> ）</span>。</p>
+      <p>この語り筋のすべてが本当にヨハネを、信奉者たちのトラブルの騒ぎを起こさずに死なせるためのごまかしである証拠が、ヤコブス・デ・ウォラギネが説明している通り、もしサロメがヘロデに<span style="color: #e6a64d;">「自分の父のフィリポか自分の母の<a href="https://ja.wikipedia.org/wiki/ヘロデヤ" title="https://ja.wikipedia.org/wiki/ヘロディア" id="herodiade-2" class="yellow">ヘロディア</a>」</span>を頼んだなら、ヘロデがそれに同意出来ません<span style="color: #999;">（<cite>黄金伝説</cite>１２１章、第１段 <a id="renvoi-note-11" href="#note-11"><sup>注１１</sup></a> ）</span>。</p>
       <p>このごまかしの唯一の目的は、ヨハネ殺害の責任をヘロデに負わせることを避けるためであって、ヘロデが自分の意思に反して要求に無理に応じたと歴史の視点におおいて偽って見せることです。</p>
 
 
@@ -2725,7 +2725,7 @@
       </div>
       <footer>
         <p class="puce"><a href="#renvoi-note-3">アレクサンドリアのカタリナの文書に戻る↩</a></p>
-        <p><a href="#renvoi-note-3-2">大殉教者バルバラの文書に戻る　↩</a></p>
+        <p class="puce"><a href="#renvoi-note-3-2">大殉教者バルバラの文書に戻る↩</a></p>
       </footer>
 
     <h4 id="note-4" class="yellow note">「見よ、これは神の子羊だ」のラテン語の書き方</h4>
@@ -2780,7 +2780,7 @@
         </div>
 
     <footer>
-      <p class="puce"><a href="#renvoi-note-8" title="「新しき信心」運動の送り返し">文書に戻る↩</a>」</p>
+      <p class="puce"><a href="#renvoi-note-8" title="「新しき信心」運動の送り返し">文書に戻る↩</a></p>
     </footer>
 
   
@@ -2799,26 +2799,26 @@
     </div>
     <footer>
       <p><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean#lorentz" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean#lorentz" id="renvoi-lorentz-2" class="yellow">この記事に関連書籍</a>に出典されている<ruby lang="ja">フィリップ<rp>（</rp><rt lang="de">Philippe</rt><rp>）</rp>・<rp>（</rp><rt lang="de">&#160;</rt><rp>）</rp>ローレンッツ<rp>（</rp><rt lang="de">LORENTZ</rt><rp>）</rp></ruby>の著作からの引用。</p>
-      <p class="puce"><a href="#renvoi-note-9">文書に戻る↩</a></p></p>
+      <p class="puce"><a href="#renvoi-note-9">文書に戻る↩</a></p>
     </footer>
 
-  <h4 id="note-10" class="yellow note">聖ヒエロニムスの言葉の参照</h4>
+  <h4 id="note-10" class="yellow note">マシェロントの位置について</h4>
     <div class="footnotes">
-      <p>ヤコブス・デ・ウォラギネによって書き留められた<a href="https://ja.wikipedia.org/wiki/ヒエロニムス" title="https://ja.wikipedia.org/wiki/ヒエロニムス" id="saint-jerome" class="yellow">ヒエロニムス</a>の言葉。</p>
+      <p>マシェロントは、要塞化された宮殿の遺跡があるヨルダンの遺跡です。それは死海の東海岸のヨルダン川河口の約２４キロの丘に位置している。ヘブライ語では「מכוור」、アラブ語では、「قلة المشناقى」を呼称されている。</p>
     </div>
     <footer>
       <p class="puce"><a href="#renvoi-note-10">文書に戻る↩</a></p>
     </footer>
 
-  <h4 id="note-11" class="yellow note">マシェロントの位置について</h4>
+  <h4 id="note-11" class="yellow note">聖ヒエロニムスの言葉の参照</h4>
     <div class="footnotes">
-      <p>マシェロントは、要塞化された宮殿の遺跡があるヨルダンの遺跡です。それは死海の東海岸のヨルダン川河口の約２４キロの丘に位置している。ヘブライ語では「מכוור」、アラブ語では、「قلة المشناقى」を呼称されている。</p>
+      <p>ヤコブス・デ・ウォラギネによって書き留められた<a href="https://ja.wikipedia.org/wiki/ヒエロニムス" title="https://ja.wikipedia.org/wiki/ヒエロニムス" id="saint-jerome" class="yellow">ヒエロニムス</a>の言葉。</p>
     </div>
     <footer>
       <p class="puce"><a href="#renvoi-note-11">文書に戻る↩</a></p>
     </footer>
 
-  <h4 id="note-12" class="yellow note">アパメアの司教について</h4>
+  <h4 id="note-12" class="yellow note">アパメアの司教、聖マルケッルス</h4>
     <div class="footnotes">
       <p>行政官、シリア属州・<a href="https://ja.wikipedia.org/wiki/アパメア" title="https://ja.wikipedia.org/wiki/アパメア" class="yellow"><ruby lang="ja">アパメア<rp>（</rp><rt lang="grc">Απάμεια</rt><rp>）</rp></ruby></a>市の司教に選ばれた人。彼はセオドシウス大帝の命令に従って偶像の社の破壊を監督していたところに、異教徒たちに暗殺されて亡くなりました</p>
     </div>
@@ -2843,30 +2843,6 @@
     </div>
     <footer>
       <p class="puce"><a href="#renvoi-note-13" title="#renvoi-note-13">文書に戻る↩</a></p>
-    </footer>
-
-  <h4 id="page-7-fn:1" class="yellow note">引用文の時間形について</h4>
-    <div class="footnotes">
-        <p>念のため、この引用文が過去形であって、ここでは私が現代形に移動させようとしている。</p>
-    </div>
-    <footer>
-      <p class="puce"><a href="#page-7-fnref1:1">文書に戻る↩</a></p>
-    </footer>
-
-  <h4 id="note-3" class="yellow note notices"><cite>黙示録</cite>から抜粋した文書</h4>
-  <div class="footnotes">
-    <p class="no-puce"><a href="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse">右翼パネル内面のパトモス島でのヨハネの表わしに関連した<cite>黙示録</cite>から抜粋した文書</a>を読む.</p>
-  </div>
-  <footer>
-    <p class="puce"><a href="#renvoi-note-3">文書に戻る↩</a></p>
-  </footer>
-
-  <h4 id="page-7-fn:2" class="yellow note">ヘロデ王のもう一つの呼称</h4>
-    <div class="footnotes">
-      <p>ヘロデ・フィリッポス１世とも呼称されている。</p>
-    </div>
-    <footer>
-      <p class="puce"><a href="#page-7-fnref1:2">文書に戻る↩</a></p>
     </footer>
 
 <!-- Page 16 -->
