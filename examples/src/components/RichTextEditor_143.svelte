@@ -666,7 +666,7 @@
         <p>私たちはこの<span style="color: #e6a64d;">均衡</span>がメムリンクが生きた社会の注目すべき特性であると当時の、歴史家たちが<span style="color: #e6a64d;">「</span><a href="https://fr.wikipedia.org/wiki/Devotio_moderna" title="https://fr.wikipedia.org/wiki/Devotio_moderna" id="devotio-moderna" class="yellow"><ruby>新しき信心<rp>（</rp><rt>デヴォティオ・モデルナ</rt><rp>）</rp></ruby></a><span style="color: #e6a64d;">」</span>と呼ぶキリスト教信仰のとても大事な改革運動をよりよく把握するために無視することはできないと考えています。</p>
 
       <footer>
-        <p class="puce">もっと知るには：<a href="#note-8" title="#note-8" id="renvoi-note-8" class="yellow">十五世紀の歴史的宗教的運動としての「<cite>新しき信心</cite>」、注８</a>。</p>
+        <p class="puce">もっと知るには：<a id="renvoi-note-8" href="#note-8" title="#note-8" class="yellow">十五世紀の歴史的宗教的運動としての「<cite>新しき信心</cite>」、注８</a>。</p>
       </footer>
 
     
