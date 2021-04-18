@@ -379,7 +379,7 @@
             <p class="puce">read: <a href="https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:6" title="https://francois-vidit.com/docs/fr/saint-jean/page:6" class="yellow">text of the <cite>Legend of Catherine of Alexandria</cite> according to chapter 168 of <cite>The Golden Legend</cite></a>.</p>
           
           <p>It is quite likely that Memling relied on this text.</p>
-          <p>Although modern historians believe that Catherine of Alexandria has not really existed <a id="renvoi-note-2" href="#note-2"><sup>note 2>note 2</sup></a> and her cult was removed from the general calendar of the catholic church in <time datetime="1970">1970</time> <a id="note-3" href="#renvoi-note-3"><sup>note 3</sup></a>.</p>
+          <p>Although modern historians believe that Catherine of Alexandria has not really existed <a id="renvoi-note-2" href="#note-2"><sup>note 2</sup></a> and her cult was removed from the general calendar of the catholic church in <time datetime="1970">1970</time> <a id="note-3" href="#renvoi-note-3"><sup>note 3</sup></a>.</p>
 
 
 
@@ -518,7 +518,7 @@
           <p>On the other side of virgin Mary, on the front right, <span style="color: #e6a64d;">another woman</span>, dressed in <span style="color: #e6a64d;">a magnificent green wool tunic</span> as only Bruges produced in the 15<sup style="color:#555;">th</sup> century, <span style="color: #e6a64d;">reads</span>.</p>
           <p>Her presence corresponds to that of <a href="#catherine-d-alexandrie" class="yellow">Catherine of Alexandria</a> on the front of the other side.</p>
           <p>Behind her, <span style="color: #e6a64d;">a white stone tabernacle tower</span> tells us that it is <a href="https://en.wikipedia.org/wiki/Saint_Barbara" title="https://en.wikipedia.org/wiki/Saint_Barbara" id="barbe-la-grande-martyre" class="yellow">Barbara the Great Martyr</a> <a id="renvoi-note-5" href="#note-5"><sup>note 5</sup></a>.</p>
-          <p>As with <a href="#catherine-d-alexandrie" class="yellow">Catherine of Alexandria</a>, modern historians doubt the reality of her existence and her name has also been removed from the general calendar <a id="renvoi-note-3" href="#note-3"><sup>note 3</sup></a>.</p>
+          <p>As with <a href="#catherine-d-alexandrie" class="yellow">Catherine of Alexandria</a>, modern historians doubt the reality of her existence and her name has also been removed from the general calendar <a id="renvoi-note-3-2" href="#note-3"><sup>note 3</sup></a>.</p>
     
         <figure>
           <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -544,7 +544,7 @@
 
         <h4 class="yellow">Barbara the Great Martyr, its historical reality</h4>
 
-          <p>As with <a href="#catherine-d-alexandria" class="yellow">Catherine of Alexandria</a>, modern historians doubt the reality of her existence and her name has also been removed from the general calendar <a id="note-3-2" href="#note-3" class="footnote-ref"><sup>note 3</sup></a>; the text Memling relied on to represent her is also not part of <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" id="legende-doree-3" class="yellow"><cite>The Golden Legend</cite></a> but, like other texts, was added to it later.</p>
+          <p>The text Memling relied on to represent her is also not part of <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="https://en.wikipedia.org/wiki/Golden_Legend" id="legende-doree-3" class="yellow"><cite>The Golden Legend</cite></a> but, like other texts, was added to it later.</p>
           <p class="puce">read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:7" title="https://francois-vidit.com/docs/en/saint-jean/page:7" class="yellow">text of the <cite>Legend of Beard the Great Martyr</cite> added to <cite>The Golden Legend</cite></a>.</p>
 
 
@@ -1718,7 +1718,7 @@
         </p>John is represented when he has not yet even begun to write, <span style="color: #e6a64d;">in the blink of an eye</span>, at the very moment when he is seized by the <span style="color: #e6a64d;">«Apocalypse»</span>, which in ancient Greek means <span style="color: #e6a64d;">«unveiling»</span> and has been translated into <span style="color: #e6a64d;">«revelation»</span>.</p>
         <p>these visions appear above him in the sky, on the water and on the nearby land on all the rest of the shutter.</p>
 
-        <p>We choose to follow John's own way to tell <sup id="page-10-fnref1:3"><a href="#page-10-fn:3" class="footnote-ref">note 3</a></sup> the unveiling in the text <span style="color: #999;">(<cite>The Revelation</cite> chapter 4 verse 2 and verse 6)</span>, which begins at the top left of the shutter: this way it is possible to compare the text with Memling's representation of it.</p>
+        <p>We choose to follow John's own way to tell the unveiling in the text <span style="color: #999;">(<cite>The Revelation</cite> chapter 4 verse 2 and verse 6)</span>, which begins at the top left of the shutter: this way it is possible to compare the text with Memling's representation of it.</p>
 
         <p class="puce">read: <a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse">text excerpt of <cite>The Revelation</cite> related to the representation of John in Patmos on the left inner shutter by Hans Memling</a>.</p>
 
