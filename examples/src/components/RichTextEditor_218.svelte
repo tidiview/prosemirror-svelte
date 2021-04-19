@@ -51,13 +51,14 @@
 
 <aside>
 
-    <h3 id="note_saint-clement" class="yellow">聖クレメンス</h3>
+  <h3 class="yellow">Notes:</h3>
+    <h4 id="note_saint-clement" class="yellow note">聖クレメンス</h4>
 
       <div class="notices yellow">
         <p>神の王座と天的宮廷の幻影、王座での生きているものと子羊。</p>
       </div>
       <footer>
-        <p>註に戻る：　<a href="#porte-latine" title="ラティナ門">↑</a></p>
+        <p class="puce">註に戻る：　<a href="#porte-latine" title="ラティナ門">↑</a></p>
       </footer>
 
 
