@@ -114,20 +114,14 @@
         <p>その年のうちに、皇帝は、その極悪非道のために試逆され、彼の命令は、元老院によってすべて取り消された。
         こうして、不当に流刑の身になっていた<span style="color: #994c3d;">ヨハネ</span>は、たいへんな敬意をもってふたたび<a href="#note_ephese" title="エペソス市" id="ephese" class="yellow">エペソス市</a>に迎えられた。</p>
         <p>多くの信者たちが駆けよってきて、</p>
-        <blockquote>
-          <p><span style="color: #165493;">—　天主の御名においておいでくださったかたに祝福がありますように」</span>と口々に言った。</p>
-        </blockquote>
+        <p class="conversation"><span style="color: #165493;">—　天主の御名においておいでくださったかたに祝福がありますように」</span>と口々に言った。</p>
         <p>しかし、彼が町なかに入っていくと、彼の女友達で、彼が帰ってくることをこころから願っていた<a href="#note_drusiane" title="ドゥルシアネ" id="drusiane" class="yellow">ドゥルシアネ</a>の死体がはこばれてきた。</p>
         <p>そして、いっしょについてきた彼女の両親や寡婦たちや孤児たちは、こう叫んだ。</p>
-        <blockquote>
-          <p><span style="color: #165493;">—　尊敬すべきヨハネさま、ごらんください、これはドゥルシアネの変わりはてた姿です。彼女は、あなたの戒めと教えにしたがって貧しいわたしたちにいつも食べ物をあたえ、困っているところを助けてくれました。そして、いつもあなたのお帰りを待ちこがれて、</span></p>
+        <p class="conversation"><span style="color: #165493;">—　尊敬すべきヨハネさま、ごらんください、これはドゥルシアネの変わりはてた姿です。彼女は、あなたの戒めと教えにしたがって貧しいわたしたちにいつも食べ物をあたえ、困っているところを助けてくれました。そして、いつもあなたのお帰りを待ちこがれて、</span></p>
           <p><span style="color: #165493;">〈ああ、死ぬまでにもう一度神の使徒さまにお会いしたい！〉と申しておりました。いまあなたがお帰りになりましたのに、彼女は、もうあなたを見ることができないのです」と。</span></p>
-        </blockquote>
         <p><span style="color: #994c3d;">ヨハネ</span>は、担架をそこにおき、死体のひもを解くようにと命じて、</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">—　ドゥルシアネ、わが主イエス・キリストがあなたの眼をさましてくださいますように。</span></p>
+        <p class="conversation"><span style="color: #df8f20;">—　ドゥルシアネ、わが主イエス・キリストがあなたの眼をさましてくださいますように。</span></p>
           <p><span style="color: #df8f20;">さあ、起きあがって、家に帰り、わたしのために食事の用意をしてください」</span>と言った。</p>
-        </blockquote>
         <p>すると、ドゥルシアネは、立ちあがって、<span style="color: #994c3d;">ヨハネ</span>から言いつかったことをはたすために、すたこらさっさと家に帰っていった。まるで昼寝から眼をさましたところだというふうにしか見えなかった。</p>
 
 
@@ -162,9 +156,7 @@
         <p><span style="color: #994c3d;">第二</span>に、<span style="color: #994c3d;">そうした行為によっては罪をつぐなうことができないからである。そのような行為は、無益である。ちょうど病気を治してくれない薬がなんの役にもたたないのとおなじ</span>である。</p>
         <p><span style="color: #994c3d;">第三</span>に、キリストがある富裕な青年にむかって<a href="#note_mathieu" title="もし完全になりたいのなら" id="mathieu" class="yellow">〈もし完全になりたいのなら、行って持ち物を売り払い、貧しい人々に施しなさい〉</a>とお命じになったように（のきなみ）、<span style="color: #994c3d;">財産を貧しい人びとに施すような世界蔑視こそ功徳のあるものだから</span>である。</p>
         <p><span style="color: #b3884d;">クラトン</span>は、それにたいして、</p>
-        <blockquote>
-          <p><span style="color: #b3884d;">—　ほんとうに神があなたの先生であり、この財宝が貧しい人たちにわけあたえられることをその神が望んでいるのであれば、わたしが世人の拍手を得るために打ちくだかせたこの宝石をもとどおりにして、神さまをよろこばせてあげることだな」</span>と言った。</p>
-        </blockquote>
+        <p class="conversation"><span style="color: #b3884d;">—　ほんとうに神があなたの先生であり、この財宝が貧しい人たちにわけあたえられることをその神が望んでいるのであれば、わたしが世人の拍手を得るために打ちくだかせたこの宝石をもとどおりにして、神さまをよろこばせてあげることだな」</span>と言った。</p>
         <p><span style="color: #994c3d;">聖ヨハネ</span>は、割れた宝石を手にとって祈った。
         と、たちまち宝石は、もとどおりになった。</p>
         <p>このときから、<span style="color: #b3884d;">クラトン</span>は、キリスト教に改宗した。ふたりの若者も、彼といっしょに改宗し、宝石を売って、その金を貧しい人びとにわけあたえた。</p>
@@ -177,9 +169,7 @@
         <p>そして、それを町の金細工師と宝石師のところへふたりにもっていかせた。
         彼らは、７日後にまた帰ってきて、親方たちがこれほど純粋な金や良質の宝石は見たことがないと言っていたと報告した。</p>
         <p>すると、<span style="color: #994c3d;">ヨハネ</span>は、こう言った。</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">—　さあ、出かけていって、あなたたちが売った財産を買いもどしなさい。しかし、そのかわり天国での報酬は、もうもらえませんよ。この世で花を咲かせたら、あの世ではしおれるのです。かりそめの世で富裕になったら、永遠の生命においては物乞いをして歩くのです</p>
-        </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">—　さあ、出かけていって、あなたたちが売った財産を買いもどしなさい。しかし、そのかわり天国での報酬は、もうもらえませんよ。この世で花を咲かせたら、あの世ではしおれるのです。かりそめの世で富裕になったら、永遠の生命においては物乞いをして歩くのです</p>
         <p>そう言って、富をいましめる説教をはじめ、われわれを富にたいする過度の欲望から遠ざけてくれる六つのものを語ってきかせた。</p>
         <p><span style="color: #994c3d;">第一に</span>、<span style="color: #994c3d;">聖書</span>である。</p>
         <p>使徒は、ふたりに聖書のなかから、<a href="#note_hoteriche" title="神に永劫に罰せられた富裕な貪欲者と神に選ばれた貧しいラザロ" id="hoteriche" class="yellow">神に永劫に罰せられた富裕な貪欲者と神に選ばれた貧しいラザロ</a>とのたとえ話を話した。</p>
@@ -222,10 +212,8 @@
         <p><span style="color: #994c3d;">ヨハネ</span>がアジア州全土を説教してまわっていたとき、
         いつわりの神々の崇拝者たちは、民衆を煽動して彼をディアナの神殿に引っぱっていき、偽神に供物をささげさせようとした。</p>
         <p>しかし、<span style="color: #994c3d;">ヨハネ</span>は、彼らにつぎのような提案をした。</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">—　双方がそれぞれの神に呼びかけることにしましょう。</span></p>
+        <p class="conversation"><span style="color: #df8f20;">—　双方がそれぞれの神に呼びかけることにしましょう。</span></p>
           <p><span style="color: #df8f20;">あなたたちは、ディアナにキリストの教会を破壊するようにたのみなさい。ディアナがそれを実現したなら、わたしは、ディアナに供犠をしましょう。わたしは、キリストさまにディアナの神殿を破壊してくださるようにお願いしましょう。キリストさまがそうしてくださったら、あなたがたは、キリストを信仰しなければなりませんよ」</span>と。</p>
-        </blockquote>
         <p>民衆は、この提案をたいへんおもしろいとおもい、みんな神殿を出ていった。<span style="color: #994c3d;">ヨハネ</span>は、天主におん力をおしめしくださるようにと祈った。</p>
         <p>すると、神殿は倒壊し、いつわりの女神の偶像は、こなごなにくだけた。</p>
 
@@ -252,60 +240,36 @@
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1920.jpg 1920w"></picture><figcaption>毒の盃を持つ福音書記者ヨハネ</figcaption>
         </figure>
         <p>しかし、偽神の大祭官<a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:2#renvoi-aristodeme" title="https://francois-vidit.com/docs/ja/saint-jean/page:2#renvoi-aristodeme" id="aristodeme" class="yellow">アリストデムス</a>は、民衆のあいだにもめごとを起こさせ、敵味方にわかれてたがいに戦いの準備をはじめるようにしむけた。そこで、<span style="color: #994c3d;">聖ヨハネ</span>は、アリストデムスにむかって、</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">—　あなたが怒りを忘れるためにしてほしいとおもうことをなんでもしてあげましょう」</span>と申し入れた。</p>
-        </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">—　あなたが怒りを忘れるためにしてほしいとおもうことをなんでもしてあげましょう」</span>と申し入れた。</p>
         <p>アリストデムスは、</p>
-        <blockquote>
-          <p><span style="color: #165493;">—　あなたに毒を飲んでもらおう。もしその毒があなたになんの害もあたえながったら、わたしは、あなたの神がほんとうの神だと信じよう」</span>と答えた。</p>
-        </blockquote>
+        <p class="conversation"><span style="color: #165493;">—　あなたに毒を飲んでもらおう。もしその毒があなたになんの害もあたえながったら、わたしは、あなたの神がほんとうの神だと信じよう」</span>と答えた。</p>
         <p><span style="color: #994c3d;">ヨハネ</span>が、</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">—　よろしい。そのとおりにしてください」</span>と言うと</td>
+        <p class="conversation"><span style="color: #df8f20;">—　よろしい。そのとおりにしてください」</span>と言うと</td>
         <td>、</p>
-        </blockquote>
         <p>アリストデムスは、</p>
-        <blockquote>
-          <p><span style="color: #165493;">—　いや、さらに、そのまえにまずほかの者がその毒を飲んで死ぬところをあなたに見ておいてもらうことにしよう。そうしておいたほうが、あなたにいっそう気おくれさせる効果があるからな」</span>と答え、</p>
-        </blockquote>
+        <p class="conversation"><span style="color: #165493;">—　いや、さらに、そのまえにまずほかの者がその毒を飲んで死ぬところをあなたに見ておいてもらうことにしよう。そうしておいたほうが、あなたにいっそう気おくれさせる効果があるからな」</span>と答え、</p>
         <p>代理執政官のところに行って、死刑の宣告を受けた囚人をふたりもらい受けてきて、民衆の面前でその毒を飲ませた。</p>
         <p>囚人たちはたちどころに死んだ。</p>
         <p>つづいて、<span style="color: #994c3d;">聖ヨハネ</span>は、その杯を受けとり、杯のうえで十字を切って、毒をすっかり飲みほした。しかし、彼にはなんの害も起こらなかった。</p>
         <p>民衆は、それを見て、神をほめたたえた。</p>
         <p>けれども、アリストデムスは、</p>
-        <blockquote>
-          <p><span style="color: #165493;">—　まだわたしには疑わしい。しかし、毒を飲んで死んだふたりの者をあなたが生きかえらせることができたら、すべての疑いをすててあなたの神を信じよう」</span>と言った。</p>
-        </blockquote>
+        <p class="conversation"><span style="color: #165493;">—　まだわたしには疑わしい。しかし、毒を飲んで死んだふたりの者をあなたが生きかえらせることができたら、すべての疑いをすててあなたの神を信じよう」</span>と言った。</p>
         <p><span style="color: #994c3d;">聖ヨハネ</span>は、自分の外衣をアリストデムスに渡した。</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">—　上衣をわたしによこすのは、どういうことかね</span>と、</p>
-        </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">—　上衣をわたしによこすのは、どういうことかね</span>と、</p>
         <p>アリストデムスはたずねた。</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">—　いまにあなたは不信仰を棄てるでしょう</p>
-        </blockquote>
-        <blockquote>
-          <p><span style="color: #165493;">—　あなたの上衣がわたしに信仰心を起こさせるというのかね</p>
-        </blockquote>
+        <p class="conversation"><span style="color: #df8f20;">—　いまにあなたは不信仰を棄てるでしょう</p>
+        <p class="conversation"><span style="color: #165493;">—　あなたの上衣がわたしに信仰心を起こさせるというのかね</p>
         <p><span style="color: #994c3d;">ヨハネ</span>は、答えた。</p>
-        <blockquote>
-          <p><span style="color: #df8f20;">—　さあ、死んだふたりの身体にこの上衣をかけなさい。そしてこう言うのです、</span></p>
+        <p class="conversation"><span style="color: #df8f20;">—　さあ、死んだふたりの身体にこの上衣をかけなさい。そしてこう言うのです、</span></p>
           <p><span style="color: #df8f20;">〈あなたがたがキリストの御名においてよみがえるように、キリストの使徒がわたしをあなたがたのところにつかわされたのです〉、と</p>
-        </blockquote>
         <p>アリストデムスは、言われたとおりにした。すると、死者たちは、息を吹きかえした。</p>
         <p>こうして、アリストデムスも、代理執政官も、一家総ぐるみキリスト教を信仰するようになった。<span style="color: #994c3d;">ヨハネ</span>は、彼らにキリストの御名において洗礼をさずけた。彼らは、教会を建てて、使徒にささげた。</p>
 
 
-
-</article>
-
-<hr>
-
 <aside>
-  <article>
-  <h2 id="notes" class="yellow">註釈</h2>
+  <h4 id="notes" class="yellow">註釈</h4>
 
-      <h3 id="note_nomdejean" class="yellow">ヨハネの名</h3>
+      <h4 id="note_nomdejean" class="yellow note">ヨハネの名</h4>
 
         <div class="notices yellow">
           <p>ヘブライ語でのヨハネの名の意義について、<a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean">「〈ヨハネ〉という名、施設との繋がり、語源」</a>にご参照。</p>
@@ -317,7 +281,7 @@
 
 
 
-      <h3 id="note_laodiceia" class="yellow">ラオディケイア</h3>
+      <h4 id="note_laodiceia" class="yellow note">ラオディケイア</h4>
 
         <div class="notices yellow">
           <p><a href="https://ja.wikipedia.org/wiki/ラオディキア" title="https://ja.wikipedia.org/wiki/ラオディキア"><ruby lang="ja">ラオディケイア<rp>(</rp><rt lang="la">Laodiceia</rt><rp>)</rp></ruby lang="ja"></a>は、地小アジアの<a href="https://ja.wikipedia.org/wiki/フリギア" title="https://ja.wikipedia.org/wiki/フリギア"><ruby lang="ja">フリギア<rp>(</rp><rt lang="la">Phrygia</rt><rp>)</rp></ruby lang="ja">地方</a>の古代都市。</p>
@@ -330,7 +294,7 @@
 
 
 
-      <h3 id="note_isidore" class="yellow">イシドルス</h3>
+      <h4 id="note_isidore" class="yellow note">イシドルス</h4>
 
         <div class="notices yellow">
           <p>〈セビリヤの〉イシドルス（<time datetime="560">５６０<time>頃~<time datetime="636">６３６年<time>）。聖人（祝、４月４日）、教会博士、セビリヤ大司教。</p>
@@ -343,7 +307,7 @@
 
 
 
-      <h3 id="note_asie" class="yellow">アジア</h3>
+      <h4 id="note_asie" class="yellow note">アジア</h4>
 
         <div class="notices yellow">
           <p>これはローマ帝国の属州名で、小アジア地方すなわちミュシア、リュディア、カリアおよびプリュギアの大半をさす。</p>
@@ -355,7 +319,7 @@
 
 
 
-      <h3 id="note_domitien" class="yellow">皇帝ドミティアヌス</h3>
+      <h4 id="note_domitien" class="yellow note">皇帝ドミティアヌス</h4>
 
         <div class="notices yellow">
           <p><a href="https://ja.wikipedia.org/wiki/ドミティアヌス" title="https://ja.wikipedia.org/wiki/ドミティアヌス">皇帝<ruby lang="ja">ドミティアヌス<rp>(</rp><rt lang="la">Domitianus</rt><rp>)</rp></ruby lang="ja"></a>はローマ帝国の第十一代皇帝である。在位<time datetime="81">８１年<time>から<time datetime="96">９６年<time>。フラウィウス朝最後の皇帝であり、キリスト教はの大迫害者となったと記憶されており。</p>
@@ -367,7 +331,7 @@
 
 
 
-      <h3 id="note_porte-latine" class="yellow">ラティナ門</h3>
+      <h4 id="note_porte-latine" class="yellow note">ラティナ門</h4>
 
         <div class="notices yellow">
           <p>カラカラ浴場から南東にのびるラティナ街道にある門、サン・ジョヴァンニ・ア・ポルタ・ラティナ教会（ラティナ門の聖ヨハネ、の意）がある。</p>
@@ -379,7 +343,7 @@
 
 
 
-      <h3 id="note_patmos" class="yellow">パトモス島</h3>
+      <h4 id="note_patmos" class="yellow note">パトモス島</h4>
 
         <div class="notices yellow">
           <p><a href="https://ja.wikipedia.org/wiki/パトモス島" title="https://ja.wikipedia.org/wiki/パトモス島"><ruby lang="ja">パトモス<rp>(</rp><rt lang="la">Patmos</rt><rp>)</rp></ruby lang="ja">島</a>はトルコ沿岸部から程近いエーゲ海に浮かぶギリシャの小島。<a href="https://ja.wikipedia.org/wiki/ドデカネス諸島" title="https://ja.wikipedia.org/wiki/ドデカネス諸島">ドデカネス諸島</a>に含まれる。</p>
@@ -391,7 +355,7 @@
 
 
 
-      <h3 id="note_ephese" class="yellow">エペソス市</h3>
+      <h4 id="note_ephese" class="yellow note">エペソス市</h4>
 
         <div class="notices yellow">
           <p><a href="https://ja.wikipedia.org/wiki/エフェソス" title="https://ja.wikipedia.org/wiki/エフェソス"><ruby lang="ja">エペソス<rp>(</rp><rt lang="la">Ephesos</rt><rp>)</rp></ruby lang="ja">市</a>はトルコ西部の小アジアの古代都市で、現在のイズミル県のセルチュク近郊に位置している。<a href="https://ja.wikipedia.org/wiki/アルテミス" title="https://ja.wikipedia.org/wiki/アルテミス">ディアナ</a>崇拝で知られたギリシア人都市でもあった。</p>
@@ -403,7 +367,7 @@
 
 
 
-      <h3 id="note_drusiane" class="yellow">ドゥルシアネ</h3>
+      <h4 id="note_drusiane" class="yellow note">ドゥルシアネ</h4>
 
         <div class="notices yellow">
           <p>黄金伝説では、<ruby lang="ja">ドゥルシアネ<rp>(</rp><rt lang="la">Drusiane</rt><rp>)</rp></ruby lang="ja">はエペソス住人としてしか表れませんが、〈ドゥルシアネとカリマッコス物語〉という新約聖書外典である『ヨハネ行伝』では、アンドロニックの妻として、悪人のカリマッコスの愛に攻められて、神に死で開放されることを念願して神から敵われたことが語られています。</p>
@@ -415,7 +379,7 @@
 
 
 
-      <h3 id="note_mathieu" class="yellow">もし完全になりたいのなら</h3>
+      <h4 id="note_mathieu" class="yellow note">もし完全になりたいのなら</h4>
 
 
           <p>この引用文は、マタイによる福音の第１９章第２１節１節を指す。</p>
@@ -424,13 +388,10 @@
           <div class="notices yellow">
             <ol class="doc">
               <li value="21"><p>「イエスは言われた。</p>
-                <blockquote>
-                  <p><q style="quotes: '〈' '〉';">もし完全になりたいのなら、行って持ち物を売り払い、貧しい人々に施しなさい。そうすれば、天に富を積むことになる。それから、わたしに従いなさい。</q></p>
-                </blockquote></li>
+                <p class="conversation">「もし完全になりたいのなら、行って持ち物を売り払い、貧しい人々に施しなさい。そうすれば、天に富を積むことになる。それから、わたしに従いなさい。」</p>
+                </p></li>
             </ol>
           </div>
-
-
 
 
           <p>補充として、完全文：</p>
@@ -438,43 +399,39 @@
 
           <div>
             <ol class="doc">
-              <li value="16"><p>「さて、一人の男がイエスに近寄って来て言った。</p>
-                <blockquote>
-                  <p><q style="quotes: '〈' '〉';">先生、永遠の命を得るには、どんな善いことをすればよいのでしょうか</q></p>
-                </blockquote></li>
-              <li value="17"><p>イエスは言われた。</p>
-                <blockquote>
-                  <p><q style="quotes: '〈' '〉';">なぜ、善いことについて、わたしに尋ねるのか。善い方はおひとりである。もし命を得たいのなら、掟を守りなさい</q>。</p>
-                </blockquote></li>
-              <li value="18"><p>男が</p>
-                <blockquote>
-                  <p><q style="quotes: '〈' '〉';">どの掟ですか</q></p>
-                </blockquote>
+              <li value="16">
+                <p>さて、一人の男がイエスに近寄って来て言った。</p>
+                <p class="conversation">「先生、永遠の命を得るには、どんな善いことをすればよいのでしょうか」</p>
+              </li>
+              <li value="17">
+                <p>イエスは言われた。</p>
+                <p class="conversation">「なぜ、善いことについて、わたしに尋ねるのか。善い方はおひとりである。もし命を得たいのなら、掟を守りなさい」。</p>
+              </li>
+              <li value="18">
+                <p>男が</p>
+                <p class="conversation">「どの掟ですか」</p>
                 <p>と尋ねると、イエスは言われた。</p>
-                <blockquote>
-                  <p><q style="quotes: '〈' '';">殺すな、姦淫するな、盗むな、偽証するな、</q></p>
-                <blockquote></li>
+                <p class="conversation">「すな、姦淫するな、盗むな、偽証するな、」</p>
+              </li>
               <li value="19">
-                <blockquote>
-                  <p><q style="quotes: '' '〉';">父母を敬え、また、隣人を自分のように愛しなさい。</q></p>
-                </blockquote></li>
-              <li value="20"><p>そこで、この青年は言った。</p>
-                <blockquote>
-                  <p><q style="quotes: '〈' '〉';">そういうことはみな守ってきました。まだ何か欠けているでしょうか</q>。</p>
-                </blockquote></li>
-              <li value="21"><p>イエスは言われた。</p>
-                <blockquote>
-                  <p><q style="quotes: '〈' '〉';">もし完全になりたいのなら、行って持ち物を売り払い、貧しい人々に施しなさい。そうすれば、天に富を積むことになる。それから、わたしに従いなさい</q>。</p>
-                </blockquote></li>
-              <li value="22">青年はこの言葉を聞き、悲しみながら立ち去った。たくさんの財産を持っていたからである。</li>
+                <p class="conversation">「母を敬え、また、隣人を自分のように愛しなさい。」</p>
+              </li>
+              <li value="20">
+                <p>そこで、この青年は言った。</p>
+                <p class="conversation">「そういうことはみな守ってきました。まだ何か欠けているでしょうか」。</p>
+              </li>
+              <li value="21">
+                <p>イエスは言われた。</p>
+                <p class="conversation">「もし完全になりたいのなら、行って持ち物を売り払い、貧しい人々に施しなさい。そうすれば、天に富を積むことになる。それから、わたしに従いなさい。」</p>
+              </li>
+              <li value="22">
+                <p>青年はこの言葉を聞き、悲しみながら立ち去った。たくさんの財産を持っていたからである。</p></li>
               <li value="24"><p>イエスは弟子たちに言われた。</p>
-                <blockquote>
-                  <p><q style="quotes: '〈' '';">はっきり言っておく。金持ちが天の国に入るのは難しい。</q></p>
-                </blockquote></li>
+                <p class="conversation">「っきり言っておく。金持ちが天の国に入るのは難しい。」</p>
+              </li>
               <li value="24">
-                <blockquote>
-                  <p><q style="quotes: '' '〉';">重ねて言うが、金持ちが神の国に入るよりも、らくだが針の穴を通る方がまだ易しい。</q></p>
-                </blockquote></li>
+                <p class="conversation">「ねて言うが、金持ちが神の国に入るよりも、らくだが針の穴を通る方がまだ易しい。」</p>
+              </li>
             </ol>
           </div>
 
@@ -486,7 +443,7 @@
 
 
 
-    <h3 id="note_hoteriche" class="yellow">神に永劫に罰せられた富裕な貪欲者と神に選ばれた貧しいラザロ</h3>
+    <h4 id="note_hoteriche" class="yellow note">神に永劫に罰せられた富裕な貪欲者と神に選ばれた貧しいラザロ</h4>
 
         <div class="notices yellow">
           <p>この引用文は、マタイによる福音の第１９章第２１節一節を指す。</p>
@@ -497,13 +454,10 @@
             <li value="22">やがて、この貧しい人は死んで、天使たちによって宴席にいるアブラハムのすぐそばに連れて行かれた。金持ちも死んで葬られた。</li>
             <li value="23">そして、金持ちは陰府でさいなまれながら目を上げると、宴席でアブラハムとそのすぐそばにいるラザロとが、はるかかなたに見えた。</li>
             <li value="24"><p>そこで、大声で言った。</p>
-              <blockquote>
-                <p><q style="quotes: '〈' '〉';">父アブラハムよ、わたしを憐れんでください。ラザロをよこして、指先を水に浸し、わたしの舌を冷やさせてください。わたしはこの炎の中でもだえ苦しんでいます。</q></p>
-              </blockquote></li>
+              <p class="conversation">「父アブラハムよ、わたしを憐れんでください。ラザロをよこして、指先を水に浸し、わたしの舌を冷やさせてください。わたしはこの炎の中でもだえ苦しんでいます。」</p>
+              </p></li>
             <li value="25"><p>しかし、アブラハムは言った。</p>
-              <blockquote>
-                <p><q style="quotes: '〈' '〉';">子よ、思い出してみるがよい。お前は生きている間に良いものをもらっていたが、ラザロは反対に悪いものをもらっていた。今は、ここで彼は慰められ、お前はもだえ苦しむのだ。</q></p>
-              <blockquote>
+              <p class="conversation">「子よ、思い出してみるがよい。お前は生きている間に良いものをもらっていたが、ラザロは反対に悪いものをもらっていた。今は、ここで彼は慰められ、お前はもだえ苦しむのだ。」</p>
             </li>
           </ol>
         </div>
@@ -519,7 +473,7 @@
 
 
 
-      <h3 id="note_eusebe" class="yellow">エウセビオス</h3>
+      <h4 id="note_eusebe" class="yellow note">エウセビオス</h4>
 
         <div class="notices yellow">
           <p>カイサリアの司教（<time datetime="263">２６３頃<time>~<time datetime="339">３３９年<time>）。オリゲネスの弟子。アリウス論争にあいし三位一体論で聖子従属説をとった。</p>
@@ -532,11 +486,10 @@
       </footer>
 
 
-
-      <h3 id="note_saint-clement" class="yellow">聖クレメンス</h3>
+      <h4 id="note_saint-clement" class="yellow note">聖クレメンス</h4>
 
         <div class="notices yellow">
-          <p>アレクサンドリアのクレメンス〉とよばれ、アテネで生まれ、アレクサンドリアで活躍した教会著述家（<time datetime="215">没年２１５以前<time>）。</p>
+          <p>〈アレクサンドリアのクレメンス〉とよばれ、アテネで生まれ、アレクサンドリアで活躍した教会著述家（<time datetime="215">没年２１５以前<time>）。</p>
           <p>つぎに述べられる物語は、その著『どのような富者が救われるか』から。</p>
           <p>なお、本文では、〈聖〉が冠せられているが、ローマ教会で彼が聖列にくわえられたという事実はなく、また司祭職についたこともないらしい。</p>
         </div>
@@ -545,8 +498,10 @@
         <p>註に戻る：　<a href="#porte-latine" title="ラティナ門">聖クレメンス ↑</a></p>
       </footer>
 
-  </article>
 </aside>
+
+
+</article>
 `;
 
   let focusEditor;

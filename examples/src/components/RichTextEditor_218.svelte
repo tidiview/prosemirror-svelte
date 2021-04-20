@@ -35,7 +35,7 @@
   </figure>
 
 
-      <h4 id="porte-latine"><cite><ruby style="color:#e6a64d;">黄金伝説<rt style="color:#e6a64d;">レゲンダ・アウレア</rt></ruby></cite>においての第６５章　ラティナ門外の聖ヨハネ</h4>
+      <h4 id="porte-latine"><cite><ruby style="color:#e6a64d;">黄金伝説<rt style="color:#e6a64d;">レゲンダ・アウレア</rt></ruby></cite>においての第６５章　ラティナ門外の福音書記者ヨハネ</h4>
 
         <p>使徒にして福音史家でもあるヨハネは、エヘソスで伝道活動に従事していたとき、同地の総督に捕えられ、いつわりの神々に供物をささげよと命じられた。</p>
         <p>が、命令にしたがおうとしなかったので、獄に投じられた。総督は、皇帝ドミティアヌスに報告書を送り、そのなかで、ヨハネのことを神殿の冒漬者神々の侮蔑者、十字架にかけられた男に仕えるやからのひとりであると決めつけた。</p>
@@ -46,23 +46,6 @@
 
 
 </article>
-
-<hr>
-
-<aside>
-
-  <h3 class="yellow">Notes:</h3>
-    <h4 id="note_saint-clement" class="yellow note">聖クレメンス</h4>
-
-      <div class="notices yellow">
-        <p>神の王座と天的宮廷の幻影、王座での生きているものと子羊。</p>
-      </div>
-      <footer>
-        <p class="puce">註に戻る：　<a href="#porte-latine" title="ラティナ門">↑</a></p>
-      </footer>
-
-
-</aside>
 `;
 
   let focusEditor;
