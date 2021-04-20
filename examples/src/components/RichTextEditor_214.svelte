@@ -59,7 +59,7 @@
             which gift of grace was given of our Lord,
             for this gift was given to him when the mother was given to him into keeping.</p>
             <p>And Miletus, Bishop of Laodicea, wrote his life, the which Isidore abridged and set it in the book of nativities of the life and the death of holy fathers.</p>
-          </article></section>
+
 
           <h5 class="yellow" id="persecuted-for-his-faith-by-domitian">persecuted for his faith by domitian</h5>
           <figure>
@@ -87,7 +87,7 @@
             <p>In this time Emperor Domitian heard of him, ordered him to be brought to him and made him to be cast into a vat or a ton full of hot oil in front of the Latin Gate,
             of which he issued out, by the help of God, more pure and more fair, without feeling of any more heat or chauffing, than he entered in.</p>
             <p>After this that emperor saw that he ceased not to preach the christian faith, he sent him into exile unto an isle called Patmos, were alone, he wrote <cite>The Apocalypse</cite>.</p>
-          </article></section>
+
 
           <h5 class="yellow" id="the-raising-of-drusiana">the raising of drusiana</h5>
           <figure>
@@ -133,7 +133,7 @@
                 <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:14#image-drusiane">Back to related image ↩</a></p></li>
               </ul>
             </footer>
-          </article></section>
+
 
           <h5 class="yellow" id="the-baptisma-of-crato">the baptisma of Crato</h5>
           <figure>
@@ -225,7 +225,7 @@
               everyone came out of the temple, the apostle went into prayer and the temple collapsed;
               Diane's statue broke into a thousand pieces.</li>
             </ul>
-          </article></section>
+
 
           <h5 class="yellow" id="the-cup-of-poison">the cup of poison</h5>
           <figure>
@@ -280,21 +280,14 @@
             <p>So the apostle named in the name of Christ the priest and the proconsul, who converged with their entire family and then built a church in honor of <span style="color: #994c3d;">St. John</span>.</p>
             <footer>
               <ul>
-                <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:14#renvoi-poison">Back to related text ↩</a></p></li>
-                <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:14#image-poison">Back to related image ↩</a></p></li>
+                <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:14#renvoi-poison">Back to related text of the poison cup ↩</a></p></li>
+                <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:14#image-poison">Back to related image of the poison cup ↩</a></p></li>
+                <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:14#renvoi-crato">Back to related text of the baptisma of crato ↩</a></p></li>
+                <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:14#image-crato">Back to related image of the baptisma of crato ↩</a></p></li>
               </ul>
             </footer>
-          </article></section>
-            <footer>
-              <ul>
-                <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:14#renvoi-crato">Back to related text ↩</a></p></li>
-                <li><p><a href="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:14#image-crato">Back to related image ↩</a></p></li>
-              </ul>
-            </footer>
-        </article></section>
-      </article></section>
 
-      <hr>
+
 
     <aside>
       <h2 id="notes" class="yellow">notes</h2>
@@ -304,17 +297,17 @@
             <div class="notices yellow">
             <p>On the meaning of the name of John in Hebrew, see also: <a href="#le-nom-de-jean" title="https://francois-vidit.com/docs/en/bruges/hopital-saint-jean/saint-jean/page:3#le-nom-de-jean">name “john”, its etymology</a>.</p>
             </div>
-          </article></section>
+
           <footer>
             <p>back to the note: <a href="#nomdejean" title="name of John">name of John↑</a></p>
           </footer>
-        </article></section>
+
         
 
           <h3 id="note_mathieu" class="yellow">If you wish to be perfect</h3>
 
             <p>This quote refers to a passage from the Gospel according to Matthew, chapter 19, verse 21:</p>
-            </article></section>
+
 
               <div class="notices yellow">
               <ol class="doc">
@@ -325,12 +318,12 @@
                 </li>
               </ol>
               </div>
-            </article></section>
+
 
 
 
                 <p>In addition, the full text:</p>
-              </article></section>
+
 
                 <div class="notices yellow">
                 <ol class="doc">
@@ -381,12 +374,12 @@
                     </p>
                   </li>
                 </ol>
-            </article></section>
-          </article></section>
+
+
           <footer>
             <p>back to the note: <a href="#mathieu" title="If you wish to be perfect">If you wish to be perfect↑</a></p>
           </footer>
-        </article></section>
+
 
 
         <h3 id="note_hoteriche" class="yellow">story of the rich host</h3>
@@ -416,15 +409,15 @@
               </li>
             </ol>
             </div>
-          </article></section>
+
           <footer>
             <p>This story is also told by John, more in detail: see <a href="https://www.catholic.org/bible/book.php?bible_chapter=11" title="https://www.catholic.org/bible/book.php?id=50&amp;bible_chapter=11" id="50">John chapter 11, verses 1 to 46</a></p>
           </footer>
-        </article></section>
+
         <footer>
           <p class="puce">back to text: <a href="#mathieu" title="If you wish to be perfect">story of the rich host ↑</a></p>
         </footer>
-      </article></section> 
+ 
     </aside>
 </article>
 `;
