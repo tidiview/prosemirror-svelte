@@ -241,11 +241,12 @@
           And among all these things the blessed Catherine kept her chastity, for she had great plenty of riches as she that was heir of rich parents; she had convenable leisure to do her will, as she that was lady of herself, and conversed all day among her servants which were young of age; she had freedom without any that governed her in her palace, and of these four it is said before, and she had beauty, so much that every man marvelled of her beauty.</p>
           <p>Fifthly, she was marvellous in privilege of dignity, for certain special privileges were in some saints when they died, like as:  </p>
           <ul>
-          <li>the visitation of Jesu Christ was in St. John the Evangelist,</li>
-          <li>the flowing of oil in St. Nicholas,</li>
-          <li>the effusion of milk for blood that was in St. Paul,</li>
-          <li>the preparation of the sepulchre that was in St. Clement,</li>
-          <li>and the hearing and granting of the petitions that was in tS. Margaret, when she prayed for them remembering her memory.</p>
+            <li>the visitation of Jesu Christ was in St. John the Evangelist,</li>
+            <li>the flowing of oil in St. Nicholas,</li>
+            <li>the effusion of milk for blood that was in St. Paul,</li>
+            <li>the preparation of the sepulchre that was in St. Clement,</li>
+            <li>and the hearing and granting of the petitions that was in tS. Margaret, when she prayed for them remembering her memory.</li>
+          </ul>
           <p>All these things together were in this blessed virgin St. Catherine as it appeareth in her legend.</p>
           <p>Then let us devoutly worship this holy virgin and humbly pray her to be our advocatrice in all our needs bodily and ghostly, that by the merits of her prayers we may after this short and transitory life come unto the everlasting bliss and joy in heaven whereas is life perdurable.</p>
           <p>Quod ipse præstare dignetur qui cum patre et spiritu sancto vivit et regnat deus per omnia secula seculorum.</p>

@@ -277,60 +277,58 @@
           <p>And the judges revocked him;
           and the soldier, let back to freedom, ended his days in the service of <span style="color: #994c3d;">St. Barbara</span>,</p>
           <p>and the unknown man who served him as lawyer disappeared without nobody knew who he was.</p>
-        </article></section>
-      </article></section>
-
-
-      <hr>
+        
+      
 
       <aside>
 
-          <h3 id="note_nicomedie" class="yellow">Nicomedy</h3>
+      <h3 class="yellow">Notes:</h3>
+        <h4 id="note_nicomedie" class="yellow note">Nicomedy</h4>
           <div class="notices yellow">
             <p><dfn><a href="https://en.wikipedia.org/wiki/Nicomedy" title="https://en.wikipedia.org/wiki/Nicomedy"><ruby lang="en">Nicomedy<rp>(</rp><rt lang="grc">Νικομήδεια</rt><rp>)</rp></ruby></a></dfn> is a city in Asia Minor, capital of the kingdom of <a href="https://en.wikipedia.org/wiki/Bithynie" title="https://en.wikipedia.org/wiki/Bithynie">Bithynia</a>. Today it is located in Turkey and is called Izmit. It was the capital of the emperors <a href="https://en.wikipedia.org/wiki/Dioclétien" title="https://en.wikipedia.org/wiki/Dioclétien">Diocletian</a> and <a href="https://en.wikipedia.org/wiki/Constantin_Ier_(empereur_romain)" title="https://en.wikipedia.org/wiki/Constantin_Ier_(empereur_romain)">Constantine</a>.</p>
           </div>
           <footer>
-            <p>back to note: <a href="#nicomedie" title="Nicomedy">Nicomedy↑</a></p>
+            <p>back to text: <a href="#nicomedie" title="Nicomedy">Nicomedy↩</a></p>
           </footer>
-        </article></section>
+        
 
-          <h3 id="note_maximien" class="yellow">Maximian</h3>
+          <h4 id="note_maximien" class="yellow note">Maximian</h4>
           <div class="notices yellow">
             <p><dfn>Maximian</dfn> is also called <a href="https://en.wikipedia.org/wiki/Maximian_Hercule" title="https://en.wikipedia.org/wiki/Maximian_Hercule">Maximian Hercules</a>. Coemperor of the Roman Empire from <time datetime="286">286</time> to <time datetime="305">305</time> with <a href="https://en.wikipedia.org/wiki/Dioclétien" title="https://en.wikipedia.org/wiki/Dioclétien">Diocletian</a> for the East. Father of <a href="https://en.wikipedia.org/wiki/Maxence_(empereur_romain)" title="https://en.wikipedia.org/wiki/Maxence_(empereur_romain)">Maxentius</a>.</p>
           </div>
           <footer>
-            <p>back to note: <a href="#maximien" title="Maximian">Maximian↑</a></p>
+            <p>back to text: <a href="#maximien" title="Maximian">Maximian↩</a></p>
           </footer>
-        </article></section>
+        
 
-          <h3 id="note_origene" class="yellow">Origen</h3>
+          <h4 id="note_origene" class="yellow note">Origen</h4>
           <div class="notices yellow">
             <p><dfn><a href="https://en.wikipedia.org/wiki/Origen" title="https://en.wikipedia.org/wiki/Origen"><ruby lang="en">Origen<rp>(</rp><rt lang="grc">Ὠριγένης</rt><rp>)</rp></ruby></a></dfn> is a christian theologian, recognized Father of the Church but not a saint, born in Alexandria around <time datetime="185">185</time> and died in Tyre around <time datetime="253">253</time>.</p>
           </div>
           <footer>
-            <p>back to note: <a href="#origene" title="Origen">Origen↑</a></p>
+            <p>back to text: <a href="#origene" title="Origen">Origen↩</a></p>
           </footer>
-        </article></section>
+        
 
-          <h3 id="note_marcien" class="yellow">Marcian</h3>
+          <h4 id="note_marcien" class="yellow note">Marcian</h4>
           <div class="notices yellow">
             <p>No trace of this proconsul apart from <cite>The Golden Legend</cite>.</p>
           </div>
           <footer>
-            <p>back to note: <a href="#marcien" title="Marcian">Marcian↑</a></p>
+            <p>back to text: <a href="#marcien" title="Marcian">Marcian↩</a></p>
           </footer>
-        </article></section>
+        
 
-          <h3 id="note_saxe" class="yellow">Saxony</h3>
+          <h4 id="note_saxe" class="yellow note">Saxony</h4>
           <div class="notices yellow">
             <p><dfn>Saxony</dfn> is a region of Germany whose boundaries have varied throughout history; the Palatinate County of Saxony was a principality of the Holy Roman Empire. Founded by Emperor Otto I<sup>st</sup> in the 10<sup>th</sup> century, it extended over what is now the Saale-Unstrut region in the south-east of the Duchy of Saxony.</p>
           </div>
           <footer>
-            <p>back to note: <a href="#saxe" title="Saxony">Saxony↑</a></p>
+            <p>back to text: <a href="#saxe" title="Saxony">Saxony↩</a></p>
           </footer>
-        </article></section>
+        
       </aside>
-    </article></section>
+    
 </article>
 `;
 
