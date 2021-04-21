@@ -5,10 +5,12 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
+<article>
+
 <h1 class="yellow">Perseus</h1>
 
-<section>
-  <figure><picture><source media="(min-width: 959px)" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+<figure>
+  <picture><source media="(min-width: 959px)" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-280.webp 280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-380.webp 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-480.webp 480w,
@@ -28,23 +30,19 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus_700x763.jpg 700w"></picture><figcaption>Perseus helps Andromeda chained to a rock</figcaption></figure>
-</section>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus_700x763.jpg 700w"></picture><figcaption>Perseus helps Andromeda chained to a rock</figcaption>
+</figure>
 
-<section>
-  <article>
+
   <div class="notices yellow">
   <p>There is a little text at the origin of one of the representations of <cite><a href="https://en.wikipedia.org/wiki/Perseus" title="https://en.wikipedia.org/wiki/Perseus">Perseus</a> and <a href="https://en.wikipedia.org/wiki/Andromeda_(mythology)" title="https://en.wikipedia.org/wiki/Andromeda">Andromeda</a></cite> painted by <a href="https://en.wikipedia.org/wiki/Jean_Monier" title="https://en.wikipedia.org/wiki/Jean Monier">Jean MONIER</a> for the ceiling of the King's bedroom and exposed on the second storey of the <a href="https://en.wikipedia.org/wiki/Château_de_Cheverny" title="https://en.wikipedia.org/wiki/Château de Cheverny">Château de Cheverny</a>.<br>
   It has been written by a latin writter that lived during the roman empire, <a href="https://en.wikipedia.org/wiki/Ovid" title="https://en.wikipedia.org/wiki/Ovid">Ovid</a>, and is part of Book 4 of his most famous work, <a href="https://en.wikipedia.org/wiki/Metamorphoses" title="https://en.wikipedia.org/wiki/Metamorphoses"><cite>the Metamorphoses</cite></a>.
   It tells how Perseus, that was passing by in the sky of <a href="https://en.wikipedia.org/wiki/Ethiopia" title="https://en.wikipedia.org/wiki/Ethiopia">Ethiopia</a>, was astonished to find a naked young girl chained to a rock....</p>
   </div>
-  </article>
-</section>
 
-<section>
-  <article>
-  <section>
+
   <h2 class="yellow"><cite>Perseus and Andromeda</cite> according to <cite>The Metamorphoses</cite></h2>
+
     <ol class="doc">
       <li>Aeolus, son of Hippotas, had confined the winds in their prison under Mount Etna, and Lucifer, who exhorts us to work, shone brightest of all</li>
       <li value="665">
@@ -104,12 +102,12 @@
       <li value="760"> and everywhere flutes and pipes, and singing, sound out, the happy evidence of joyful hearts.</li>
       <li>The doors fold back to show the whole of the golden hall, and the noble Ethiopian princes enter to a richly prepared banquet already set out for them.</li>
     </ol>
-  </section>
-  <section>
+
+  <footer>
     <p style="color: #df8a13;">Ovid, <cite>The Metamorphoses</cite>, Book 4, verses 663 to 764.</p>
-  </section>
+  </footer>
+
   </article>
-</section>
 `;
 
   let focusEditor;
