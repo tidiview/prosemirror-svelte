@@ -104,7 +104,7 @@
 </tol>
 
 <footer>
-  <p><span style="color: #3d8b3d;">Ovid, <cite>The Metamorphoses<cite>, Book XI, verses 583 and followings.</span></p>
+  <p><span style="color: #3d8b3d;">Ovid, <cite>The Metamorphoses</cite>, Book XI, verses 583 and followings.</span></p>
 </footer>
 
 <aside>
