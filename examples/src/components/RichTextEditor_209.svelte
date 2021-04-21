@@ -157,7 +157,6 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/03.martin_3/martin6-1920.jpg 1920w"></picture><figcaption>“St. Martin giving his coat to a poor”, “Landcape on Minnewater”, details of right panel of the “Diptych of Maarten van Nieuwenhove”</figcaption></figure>
 <p><strong>Hans MEMLING,  “Diptych of Maarten van Nieuwenhove”</strong></p>
 </div>
-
 `;
 
   let focusEditor;
