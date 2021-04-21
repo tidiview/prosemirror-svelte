@@ -732,9 +732,9 @@ export const ExtendedThreerichTextSchema = new Schema({
     paragraph: {
       content: "inline*",
       group: "block",
-      attrs: {classe: {default: null}, color: {default: null}, flag: {default: null}, id: {default: null}},
-      parseDOM: [{tag: "p.conversation", getAttrs(dom) { return {classe: dom.getAttribute("class"), color: dom.style["color"], flag: true, id: dom.id} }},{tag: "p.puce", getAttrs(dom) { return {classe: dom.getAttribute("class"), color: dom.style["color"], flag: true} }},{tag: "p.no-puce", getAttrs(dom) { return {classe: dom.getAttribute("class"), color: dom.style["color"], flag: true} }},{tag: "p", getAttrs(dom) { return {color: dom.style["color"]} }},{tag: "dl dt"},{tag: "dd"}],
-      toDOM(node) { let {classe, color, flag, id} = node.attrs ; return flag == true ? color == "" ? id == "" ? ["p", {"class": classe}, 0] : ["p", {"id": id, "class": classe}, 0] : id == "" ? ["p", {"class": classe, "style": "color:" + color}, 0] : ["p", {"id": id, "class": classe, "style": "color:" + color}, 0] : ["p", 0] },
+      attrs: {classe: {default: null}, styles: {default: null}, flag: {default: null}, id: {default: null}},
+      parseDOM: [{tag: "p.conversation", getAttrs(dom) { return {classe: dom.getAttribute("class"), styles: dom.getAttribute("style"), flag: true, id: dom.id} }},{tag: "p.puce", getAttrs(dom) { return {classe: dom.getAttribute("class"), styles: dom.getAttribute("style"), flag: true} }},{tag: "p.no-puce", getAttrs(dom) { return {classe: dom.getAttribute("class"), styles: dom.getAttribute("style"), flag: true} }},{tag: "p", getAttrs(dom) { return {styles: dom.getAttribute("style")} }},{tag: "dl dt"},{tag: "dd"}],
+      toDOM(node) { let {classe, styles, flag, id} = node.attrs ; return flag == true ? styles == "" ? id == "" ? ["p", {"class": classe}, 0] : ["p", {"id": id, "class": classe}, 0] : id == "" ? ["p", {"class": classe, "style": styles}, 0] : ["p", {"id": id, "class": classe, "style": styles}, 0] :  styles == "" ? ["p", 0] : ["p",{"style": styles} , 0] },
     },
     blockquote: {
       content: "block*",
