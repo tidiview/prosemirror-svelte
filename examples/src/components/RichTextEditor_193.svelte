@@ -175,11 +175,11 @@
   <li>and what award presumption must expect,</li>
   <li>Minerva wove four corners with life scenes</li>
   <li>of contest, brightly colored, but of size</li>
-  <li>diminutive.</li>
+  <li value="86">diminutive.</li>
 </ol>
 
 <footer>
-  <p><span style="color: #b52b27;">Ovid, <cite>The Metamorphoses</cite>, Book VI, verses 1 and followings.</span></p>
+  <p><span style="color: #b52b27;">Ovid, <cite>The Metamorphoses</cite>, Book VI, verses 1 to 86.</span></p>
 </footer>
 </article>
 `;
