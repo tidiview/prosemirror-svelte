@@ -195,73 +195,73 @@
   }
 
   :global(.conversation:last-child) {
-  margin-block-end: 1em;
-}
-
-:global(.puce) {
-    display: list-item;
-    list-style-type: disc;
-    margin-top: 1em;
     margin-block-end: 1em;
-    margin-block-start: 1em;
-    margin-inline-start: 40px;   
-}
+  }
 
-:global(p.puce::marker) {
-    display: list-item;
-}
+  :global(.puce) {
+      display: list-item;
+      list-style-type: disc;
+      margin-top: 1em;
+      margin-block-end: 1em;
+      margin-block-start: 1em;
+      margin-inline-start: 40px;   
+  }
 
-:global(p.puce:last-child) {
-  margin-top: 1em;
-  margin-bottom: 1em;
-  margin-block-end: 1em;
-}
+  :global(p.puce::marker) {
+      display: list-item;
+  }
 
-:global(p.puce:first-child) {
-  margin-top: 1em;
-  margin-bottom: 1em;
-  margin-block-end: 1em;
-}
-
-:global(.no-puce) {
-    display: list-item;
-    list-style-type: none;
+  :global(p.puce:last-child) {
     margin-top: 1em;
+    margin-bottom: 1em;
     margin-block-end: 1em;
-    margin-block-start: 1em;
-    margin-inline-start: 40px;  
-}
+  }
 
-:global(p.no-puce:last-child) {
-  margin-top: 1em;
-  margin-bottom: 1em;
-  margin-block-end: 1em;
-}
+  :global(p.puce:first-child) {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-block-end: 1em;
+  }
 
-:global(p.no-puce:first-child) {
-  margin-top: 1em;
-  margin-bottom: 1em;
-  margin-block-end: 1em;
-}
+  :global(.no-puce) {
+      display: list-item;
+      list-style-type: none;
+      margin-top: 1em;
+      margin-block-end: 1em;
+      margin-block-start: 1em;
+      margin-inline-start: 40px;  
+  }
+
+  :global(p.no-puce:last-child) {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-block-end: 1em;
+  }
+
+  :global(p.no-puce:first-child) {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-block-end: 1em;
+  }
 
 
-:global(h4.note) {
-  display: list-item;
-  counter-increment: h4;
-  margin-top: 1em;
-  margin-block-end: 0em;
-  margin-block-start: 0em;
-  margin-inline-start: 30px;
-  padding-inline-start: 10px;
+  :global(h4.note) {
+    display: list-item;
+    counter-increment: h4;
+    margin-top: 1em;
+    margin-block-end: 0em;
+    margin-block-start: 0em;
+    margin-inline-start: 30px;
+    padding-inline-start: 10px;
 
-}
+  }
 
-:global(h4::marker) {
-  display: list-item;
-  content: counter(h4);
-}
+  :global(h4::marker) {
+    display: list-item;
+    content: counter(h4);
+  }
 
-:global(h3) {
-  counter-reset: h4;
-}
+  :global(h3) {
+    counter-reset: h4;
+  }
 </style>
