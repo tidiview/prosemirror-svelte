@@ -5,9 +5,11 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-<section>
-  <h1 class="yellow">Archangel Michael in the Apocalypse</h1>
+<article>
+<h1 class="yellow">Archangel Michael in the Apocalypse</h1>
+
   <h2 id="renvoi_bataille" class="yellow">Archangel Michael according to chapter 12 of the Apocalypse</h2>
+
   <ol class="doc">
     <li value="01">Now a great sign appeared in heaven: a woman, robed with the sun, standing on the moon, and on her head a crown of twelve stars.</li>
     <li value="02">She was pregnant, and in labour, crying aloud in the pangs of childbirth.</li>
@@ -28,10 +30,11 @@
     <li value="17">Then the dragon was enraged with the woman and went away to make war on the rest of her children, who obey God's commandments and have in themselves the witness of Jesus.</li>
     <li value="18">And I took my stand on the seashore.</li>
   </ol>
-</section>
-<section>
+
+<footer>
   <p style="color: #df8a13;">Liturgical Translation of the New Testament, chapter 12 of the Apocalypse [Ap. 12-7]</p>
-</section>
+</footer>
+</article>
 `;
 
   let focusEditor;
