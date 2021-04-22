@@ -19,7 +19,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/01.latone/latone-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/01.latone/latone-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/01.latone/latone-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/01.latone/latone_700x525.jpg 700w"></picture><figcaption>Lycian peasants transformed into mud-pool animals by Latona's anger</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/01.latone/latone_700x525.jpg 700w"></picture><figcaption>Lycian peasants transformed into mud-pool animals by Latona's anger<br><q cite="#latona">The curse as soon as uttered took effect, and every one of them began to swim beneath the water, and to leap and plunge deep in the pool</q>, <cite>The Metamorphoses</cite>, Book VI, verses 333 and followings.</figcaption>
 </figure>
 
 <div class="notices red">
@@ -29,10 +29,10 @@
 <p>With the text written by <a href="https://en.wikipedia.org/wiki/Ovid" title="https://en.wikipedia.org/wiki/Ovid">Ovid</a> in <a href="https://en.wikipedia.org/wiki/Metamorphoses" title="https://en.wikipedia.org/wiki/Metamorphoses"><cite>The Metamorphoses</cite></a>, this opposition should probably comes closer to us.</p>
 </div>
 
-<h2 class="red">Latona according to <cite>The Metamorphoses</cite></h2>
+<h2 id="latona" class="red">Latona according to <cite>The Metamorphoses</cite></h2>
 
 <ol class="doc">
-  <li value="333">There Latona, as she leaned<li>
+  <li value="333">There <mark>Latona</mark>, as she leaned<li>
   <li>against a palm-tree—and against the tree<li>
   <li>most sacred to Minerva, brought forth twins,<li>
   <li>although their harsh step-mother, Juno, strove<li>
@@ -48,27 +48,27 @@
   <li>Some countrymen were there to gather reeds,<li>
   <li>and useful osiers, and the bulrush, found<li>
   <li>with sedge in fenny pools. To them approached<li>
-  <li>Latona, and she knelt upon the merge<li>
+  <li><mark>Latona</mark>, and she knelt upon the merge<li>
   <li>to cool her thirst, with some refreshing water.<li>
   <li>But those clowns forbade her and the goddess cried,<li>
   <li>as they so wickedly opposed her need:</li>
-  <li>“Why do you so resist my bitter thirst?<li>
-  <li>The use of water is the sacred right<li>
-  <li>of all mankind, for Nature has not made<li>
-  <li>the sun and air and water, for the sole<li>
-  <li>estate of any creature; and to Her<li>
-  <li>kind bounty I appeal, although of you<li>
-  <li>I humbly beg the use of it. Not here<li>
-  <li>do I intend to bathe my wearied limbs.<li>
-  <li>I only wish to quench an urgent thirst,<li>
-  <li>for, even as I speak, my cracking lips<li>
-  <li>and mouth so parched, almost deny me words.<li>
-  <li>A drink of water will be like a draught<li>
-  <li>of nectar, giving life; and I shall owe<li>
-  <li>to you the bounty and my life renewed.—<li>
-  <li>ah, let these tender infants, whose weak arms<li>
-  <li>implore you from my bosom, but incline<li>
-  <li>your hearts to pity!” And just as she spoke,<li>
+  <li><p class="conversation">“Why do you so resist my bitter thirst?</p><li>
+  <li><p class="conversation">The use of water is the sacred right</p><li>
+  <li><p class="conversation">of all mankind, for Nature has not made</p><li>
+  <li><p class="conversation">the sun and air and water, for the sole</p><li>
+  <li><p class="conversation">estate of any creature; and to Her</p><li>
+  <li><p class="conversation">kind bounty I appeal, although of you</p><li>
+  <li><p class="conversation">I humbly beg the use of it. Not here</p><li>
+  <li><p class="conversation">do I intend to bathe my wearied limbs.</p><li>
+  <li><p class="conversation">I only wish to quench an urgent thirst,</p><li>
+  <li><p class="conversation">for, even as I speak, my cracking lips</p><li>
+  <li><p class="conversation">and mouth so parched, almost deny me words.</p><li>
+  <li><p class="conversation">A drink of water will be like a draught</p><li>
+  <li><p class="conversation">of nectar, giving life; and I shall owe</p><li>
+  <li><p class="conversation">to you the bounty and my life renewed.—</p><li>
+  <li><p class="conversation">ah, let these tender infants, whose weak arms</p><li>
+  <li><p class="conversation">implore you from my bosom, but incline</p><li>
+  <li><p class="conversation">your hearts to pity!”</p> And just as she spoke,<li>
   <li>it chanced the children did stretch out their arms<li>
   <li>and who would not be touched to hear such words,<li>
   <li>as spoken by this goddess, and refuse?</li>
@@ -84,7 +84,7 @@
   <li>to supplicate again; but, feeling all<li>
   <li>the outraged majesty of her high state,<li>
   <li>she raised her hands to Heaven, and exclaimed,<li>
-  <li>“Forever may you live in that mud-pool!”</li>
+  <li><p class="conversation">“Forever may you live in that mud-pool!”</p><li>
   <li>The curse as soon as uttered took effect,<li>
   <li>and every one of them began to swim<li>
   <li>beneath the water, and to leap and plunge<li>
