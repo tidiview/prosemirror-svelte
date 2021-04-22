@@ -134,18 +134,18 @@
 
 <aside>
 
-<h2 class="blue">Notes</h2>
+<h3 class="blue">Notes</h3>
 
-  <h3 id="note_socrate" class="blue">Socrates</h3>
+  <h4 id="note_socrate" class="blue note">Socrates</h4>
 
   <div class="notices blue">
     <p><a href="/blog/en/eros#socrate" title="Socrate" id="note_socrate"><ruby lang="fr">Socrate<rp>(</rp><rt lang="grc">Σωκράτης</rt><rp>)</rp></ruby></a> is a philosopher of Greek antiquity but Socrates himself did not write, so here he is a character in the work of his disciple, the philosopher Plato.</p>
   </div>
   <footer>
-    <p><a href="/blog/en/eros#socrate" title="Socrate">back to text ↩</a></p>
+    <p class="puce"><a href="/blog/en/eros#socrate" title="Socrate">back to text ↩</a></p>
   </footer>
 
-  <h3 id="note_diotime" class="blue">Diotime</h3>
+  <h4 id="note_diotime" class="blue note">Diotime</h4>
 
   <div class="notices blue">
     <p>There is no other source mentioning <a href="/blog/en/eros#diotime" title="Diotime" id="note_diotime"><ruby lang="fr">Diotime<rp>(</rp><rt lang="grc">Διοτίμα</rt><rp>)</rp></ruby></a>'s name outside the Banquet, where she appears as a priestess and prophetess from the city of Mantue. With Diotime, it is philosophy that enters the dialogue which, in Luc Brisson's words, "opens up a new dimension, that of the intelligible". Socrates says of her that she "taught him about love".</p>
@@ -153,44 +153,44 @@
     <p>Mantue, which was considered to be his birthplace, was a city of Arcadia, an ancient Greek city, located on the Peloponnesus Peninsula. The name of Mantuea is similar to the word mántis, which means "the diviner" in ancient Greek.</p>
   </div>
   <footer>
-    <p><a href="/blog/en/eros#diotime" title="Diotime">back to text ↩</a></p>
+    <p class="puce"><a href="/blog/en/eros#diotime" title="Diotime">back to text ↩</a></p>
   </footer>
 
-  <h3 id="note_poros" class="blue">Poros</h3>
+  <h4 id="note_poros" class="blue note">Poros</h4>
 
   <div class="notices blue">
     <p><a href="/blog/en/eros#poros" title="Poros"><ruby lang="en">Poros<rp>(</rp><rt lang="grc">Πόρος</rt><rp>)</rp></ruby></a>, in Greek, means "passage", hence "resource", "expedient".</p>
   </div>
   <footer>
-    <p><a href="/blog/en/eros#poros" title="Poros">back to text ↩</a></p>
+    <p class="puce"><a href="/blog/en/eros#poros" title="Poros">back to text ↩</a></p>
   </footer>
 
   
-  <h3 id="note_penia" class="blue">Penia</h3>
+  <h4 id="note_penia" class="blue note">Penia</h4>
 
   <div class="notices blue">
     <p><a href="/blog/en/eros#penia" title="Penia"><ruby lang="fr">Penia<rp>(</rp><rt lang="grc">Πενία</rt><rp>)</rp></ruby></a>, that is, in Greek, Poverty.</p>
   </div>
   <footer>
-    <p><a href="/blog/en/eros#penia" title="Penia">back to text ↩</a></p>
+    <p class="puce"><a href="/blog/en/eros#penia" title="Penia">back to text ↩</a></p>
   </footer>
 
-  <h3 id="note_nectar" class="blue">nectar</h3>
+  <h4 id="note_nectar" class="blue note">nectar</h4>
 
   <div class="notices blue">
     <p>Le <a href="/blog/en/eros#nectar" title="nectar" id="note_nectar">nectar</a> is the drink of the gods, the source of their immortality.</p>
   </div>
   <footer>
-    <p><a href="/blog/en/eros#nectar" title="nectar">back to text ↩</a></p>
+    <p class="puce"><a href="/blog/en/eros#nectar" title="nectar">back to text ↩</a></p>
   </footer>
 
-  <h3 id="note_philosopher" class="blue">philosopher</h3>
+  <h4 id="note_philosopher" class="blue note">philosopher</h4>
 
   <div class="notices blue">
     <p><a href="/blog/en/eros#philosopher" title="Philosophize" id="note_philosopher">Philosophize</a>, that is also literally to "love wisdom".</p>
   </div>
   <footer>
-    <p><a href="/blog/en/eros#philosopher" title="Philosophize">back to text ↩</a></p>
+    <p class="puce"><a href="/blog/en/eros#philosopher" title="Philosophize">back to text ↩</a></p>
   </footer>
 
 </aside>
