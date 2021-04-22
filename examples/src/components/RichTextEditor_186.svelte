@@ -5,88 +5,52 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
+<article>
+
 <div class="list-blog-date">
-<p><span>9</span><sup>th </sup><i class="fa fa-calendar-o fa-2x"></i></p>
-<p>Sep.</p>
-<p><span>2016</span></p>
-</div>
-<h1 lang="en"><a href="/blog/en/ihoujin" rel="bookmark">the stranger</a></h1>
+  <p><time datetime="2016-09-09">9<sup>th</sup> Sep. 2016</time></p>
 </div>
 
+
+<h1 lang="en"><a href="/blog/en/ihoujin">the stranger</a></h1>
+
 <div class="notices green">
-<p>A stranger is ordinarily a person that is coming from another country.<br>
-In the question-answers that follows, all is taking place as if the one that is answering is not the stranger <em>of</em> anybody else.</p>
-<p>To enjoy with moderation!</p>
+  <p>A stranger is ordinarily a person that is coming from another country.<br>
+  In the question-answers that follows, all is taking place as if the one that is answering is not the stranger <em>of</em> anybody else.</p>
+  <p>To enjoy with moderation!</p>
 </div>
+
+
+<h2 class="yellow">Text of <cite>the stranger</cite></h2>
 
 <div id="translation-text-rousi">
-<table>
-<thead>
-<tr>
-<th></th>
-<th><span hidden="">hidden</span></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><sup>1</sup></td>
-<td>- Who do you love the best, enigmatic man, say?  your father, your mother, your sister or your brother?</td>
-</tr>
-<tr>
-<td></td>
-<td>- I have neither father, nor mother, nor sister, nor brother.</td>
-</tr>
-<tr>
-<td></td>
-<td>- Your friends?</td>
-</tr>
-<tr>
-<td></td>
-<td>- You are using here a word whose meaning remains unknown to me to this day.</td>
-</tr>
-<tr>
-<td><sup>5</sup></td>
-<td>- Your homeland?</td>
-</tr>
-<tr>
-<td></td>
-<td>- I do not know in which latitude it lies.</td>
-</tr>
-<tr>
-<td></td>
-<td>- Beauty?</td>
-</tr>
-<tr>
-<td></td>
-<td>- I would love her willingly, goddess and immortal.</td>
-</tr>
-<tr>
-<td></td>
-<td>- Gold?</td>
-</tr>
-<tr>
-<td><sup>10</sup></td>
-<td>- I hate it as you hate God.</td>
-</tr>
-<tr>
-<td></td>
-<td>- Eh! what do you love then, extraordinary stranger?</td>
-</tr>
-<tr>
-<td><sup>12</sup></td>
-<td>- I love the clouds… the passing clouds … up there … up there … the marvelous clouds!</td>
-</tr>
-</tbody>
-</table>
+<ol>
+  <li value="1">- Who do you love the best, enigmatic man, say? your father, your mother, your sister or your brother?</li>
+  <li>- I have neither father, nor mother, nor sister, nor brother.</li>
+  <li>- Your friends?</li>
+  <li>- You are using here a word whose meaning remains unknown to me to this day.</li>
+  <li value="5">- Your homeland?</li>
+  <li>- I do not know in which latitude it lies.</li>
+  <li>- Beauty?</li>
+  <li>- I would love her willingly, goddess and immortal.</li>
+  <li>- Gold?</li>
+  <li value="10">- I hate it as you hate God.</li>
+  <li>- Eh! what do you love then, extraordinary stranger?</li>
+  <li value="12">- I love the clouds… the passing clouds … up there … up there … the marvelous clouds!</li>
+</ol>
 </div>
-<div class="notices green">
-<dl>
-<dt>Text: <a href="https://en.wikipedia.org/wiki/Charles_Baudelaire" title="https://en.wikipedia.org/wiki/Charles Baudelaire">Charles Baudelaire</a>, "the stranger".</dt>
-<dd><a href="https://francois-vidit.com/blog/fr/ikokujin" title="l'étranger">original text in french</a></dd>
-<dt>English translation: original translation</dt>
-<dd>[can be reproduced with the following mention « original translation to english by <a href="https://francois-vidit.com/blog/en/ikokujin" title="the stranger">François VIDIT</a> », link included]</dd>
-</dl>
-</div>
+
+<footer>
+  <div class="notices green">
+    <dl>
+    <dt>Text: <a href="https://en.wikipedia.org/wiki/Charles_Baudelaire" title="https://en.wikipedia.org/wiki/Charles Baudelaire">Charles Baudelaire</a>, <cite>the stranger</cite>.</dt>
+    <dd><a href="https://francois-vidit.com/blog/fr/ikokujin" title="l'étranger">original text in french</a></dd>
+    <dt>English translation: original translation</dt>
+    <dd>[can be reproduced with the following mention « original translation to english by <a href="https://francois-vidit.com/blog/en/ikokujin" title="the stranger">François VIDIT</a> », link included]</dd>
+    </dl>
+  </div>
+</footer>
+</article>
 `;
 
   let focusEditor;
