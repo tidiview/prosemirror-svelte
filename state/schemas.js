@@ -620,15 +620,18 @@ export const ExtendedThreerichTextSchema = new Schema({
       isolating: true,
       tableRole: "header_cell",
       parseDOM: [{tag: "th"}],
-      toDOM() { return ["th", 0] }
+      toDOM() {return ["th", 0] }
     },
     table_cell: {
       content: "inline*",
       group: "table",
       isolating: true,
       tableRole: "cell",
-      parseDOM: [{tag: "td"}],
-      toDOM() { return ["td", 0] }
+      attrs: {
+        styles: {default: null}
+      },
+      parseDOM: [{tag: "td", getAttrs(dom) { return { styles: dom.getAttribute("style")} }}],
+      toDOM(node) { let {styles} = node.attrs; return styles == "" ? ["td", 0] : ["td", {"style": styles}, 0] }
     },
     figure: {
       content: "(picture figcaption? map?)",
