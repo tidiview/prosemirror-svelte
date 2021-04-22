@@ -565,7 +565,7 @@ export const ExtendedThreerichTextSchema = new Schema({
       toDOM() { return ["nav", 0] },
     },
     article: {
-      content: "(section | aside | figure | header | footer | block)+",
+      content: "(section | aside | figure | header | footer | table | block)+",
       group: "block",
       parseDOM: [{tag: "article"}],
       toDOM() { return ["article", 0] },
