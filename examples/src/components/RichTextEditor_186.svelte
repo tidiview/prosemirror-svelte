@@ -24,7 +24,7 @@
 <h2 class="yellow">Text of <cite>the stranger</cite></h2>
 
 <div id="translation-text-rousi">
-<ol>
+<ol class="doc">
   <li value="1">- Who do you love the best, enigmatic man, say? your father, your mother, your sister or your brother?</li>
   <li>- I have neither father, nor mother, nor sister, nor brother.</li>
   <li>- Your friends?</li>
@@ -40,16 +40,13 @@
 </ol>
 </div>
 
-<footer>
+<aside>
   <div class="notices green">
-    <dl>
-    <dt>Text: <a href="https://en.wikipedia.org/wiki/Charles_Baudelaire" title="https://en.wikipedia.org/wiki/Charles Baudelaire">Charles Baudelaire</a>, <cite>the stranger</cite>.</dt>
-    <dd><a href="https://francois-vidit.com/blog/fr/ikokujin" title="l'étranger">original text in french</a></dd>
-    <dt>English translation: original translation</dt>
-    <dd>[can be reproduced with the following mention « original translation to english by <a href="https://francois-vidit.com/blog/en/ikokujin" title="the stranger">François VIDIT</a> », link included]</dd>
-    </dl>
+    <p>text: <a href="https://en.wikipedia.org/wiki/Charles_Baudelaire" title="https://en.wikipedia.org/wiki/Charles Baudelaire">Charles Baudelaire</a>, <cite>the stranger</cite>.</p>
+    <p>read: <a href="https://francois-vidit.com/blog/fr/ikokujin" title="l'étranger">original text in french</a></p>
+    <p>english: original. © reproduction with the following mention « original translation to english from french by <a href="https://francois-vidit.com/blog/en/ikokujin" title="the stranger">François VIDIT</a> », link included, allowed.</p>
   </div>
-</footer>
+</aside>
 </article>
 `;
 
