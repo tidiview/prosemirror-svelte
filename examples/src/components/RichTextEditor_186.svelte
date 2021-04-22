@@ -42,9 +42,9 @@
 
 <aside>
   <div class="notices green">
-    <p>text: <a href="https://en.wikipedia.org/wiki/Charles_Baudelaire" title="https://en.wikipedia.org/wiki/Charles Baudelaire">Charles Baudelaire</a>, <cite>the stranger</cite>.</p>
+    <p>text: <a href="https://en.wikipedia.org/wiki/Charles_Baudelaire" title="https://en.wikipedia.org/wiki/Charles_Baudelaire">Charles Baudelaire</a>, <cite>the stranger</cite>.</p>
     <p>read: <a href="https://francois-vidit.com/blog/fr/ikokujin" title="l'étranger">original text in french</a></p>
-    <p>english: original. © reproduction with the following mention « original translation to english from french by <a href="https://francois-vidit.com/blog/en/ikokujin" title="the stranger">François VIDIT</a> », link included, allowed.</p>
+    <p>english: original. © reproduction with the following mention «original translation to english from french by <a href="https://francois-vidit.com/blog/en/ikokujin" title="the stranger">François VIDIT</a>», link included, allowed.</p>
   </div>
 </aside>
 </article>
