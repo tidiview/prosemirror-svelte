@@ -19,7 +19,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-380.jpg 380w, 
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-480.jpg 480w, 
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg 700w"></picture><figcaption>The Chariot of the Sun, driven by Apollo, is coming out of Ocean at dawn</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg 700w"></picture><figcaption>The Chariot of the Sun, driven by Apollo, coming out of Ocean at dawn<br><q cite="#phaeton">It had an axle of gold, and a gold chariot pole, wheels with golden rims, and circles of silver spokes.</q>, <cite>The Metamorphoses</cite> Book II, verses 1 to 365</figcaption>
 </figure>
 
 <div class="notices yellow">
@@ -31,7 +31,7 @@
 <p>This is the opportunity to approach the meaning of the figure of this star to Louis XIV as described by this text.</p>
 </div>
 
-<h2 class="yellow">Phaethon according to <cite>The Metamorphoses</cite></h2>
+<h2 id="phaeton" class="yellow">Phaethon according to <cite>The Metamorphoses</cite></h2>
 
 <ol class="doc">
   <li value="1">The palace of the Sun towered up with raised columns, bright with glittering gold, and gleaming bronze like fire.</li>
@@ -259,7 +259,7 @@
   <li>She tries to pull the bark from their bodies and break off new branches with her hands,</li>
   <li value="360">but drops of blood are left behind like wounds.</li>
   <li>
-  <p class="conversation">Stop, mother, please</p> cries out whichever one she hurts,</li>
+    <p class="conversation">Stop, mother, please</p> cries out whichever one she hurts,</li>
   <li><p class="conversation">Please stop: It is my body in the tree you are tearing.</p></li>
   <li><p class="conversation">Now, farewell.</p>
     and the bark closed over her with her last words.</li>
@@ -268,7 +268,7 @@
 </ol>
 
 <footer>
-  <p><span style="color: #df8a13;">Ovid, <cite>The Metamorphoses</cite>, Book 6, verses 1 and followings.</span></p>
+  <p><span style="color: #df8a13;">Ovid, <cite>The Metamorphoses</cite>, Book 6, verses 1 to 365.</span></p>
 </footer>
 </article>
 `;
