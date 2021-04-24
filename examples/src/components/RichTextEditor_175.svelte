@@ -5,19 +5,23 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-<h1 class="red">Saint-Michel dans la Légende Dorée</h1>
-<div id="body-inner">
+<article>
+
+<h1 class="red">Saint-Michel dans <cite>La Légende Dorée</cite></h1>
+
 <div class="notices red">
-<p>Dans l'Europe chrétienne du Moyen-Âge, la Légende Dorée est l'ouvrage le plus lu après la Bible.<br>
-Elle a été écrite en latin de 1261 à 1266 par un moine dominicain de l'Italie du Nord, compilateur de chroniques et également connu comme le 8<sup>ème</sup> Archevêque de Gênes, Jacques De Voragine (en latin, Jacobus de Voragine).<br>
-Présenter cet ouvrage, même de manière élémentaire, n'est pas chose aisée mais pour dire les choses, il n'y a pas d'erreur à écrire qu'en compilant plusieurs documents existants comme des vies de martyrs ou de quelques 150 saints ou groupes de saints, en incorporant dans le calendrier païen préexistant le calendrier liturgique annuel de l'église catholique, en l'uniformisant, en se servant aussi de cette occasion pour expliquer les principaux événements des vies du Christ et de la Vierge à partir des Évangiles, ce texte a de fait construit la mythologie chrétienne qui a imprégné en profondeur tous les domaines de la société de son époque, y compris par exemple sa topologie...<br>
-Comme l'écrit, dans la préface de son livre «Mythologie chrétienne: fêtes, rites et mythes du Moyen âge», le médiéviste Philippe WALTER, «le souvenir immémorial imprégnaient rites, traditions venus de la mémoire sauvage qui préexistaient à l'arrivée du christianisme», on peut considérer ce texte parce qu'y apparaissent de manière sous-jacente des éléments refoulés par l'Église de l'ancien calendrier païen, comme à la fois fascinant et particulièrement digne d'intérêt.<br>
-Ici, je n'en présente bien sûr ci-dessous qu'une très petite partie, le seul chapître 141, parce que celle-ci se rapporte dans l'œuvre comme étant origine du Mont Saint-Michel en temps que lieu de pélerinage.<br>
-Y apparaissent l'archange Michel, le taureau, et bien d'autres choses... On peut s'étonner aussi que le récit se développe sans s'arrêter et insensiblement de l'archange à un récit de la foi en les anges.<br>
-Entre l'existence qu'on ne peut mesurer et celle qu'on perçoit, ce texte devrait susciter diverses pensées, indépendemment de questions relatives au fait de croire ou de ne pas croire, et donc j'incite à le lire si possible jusqu'à la fin sans s'effrayer de la forte coloration religieuse propre à l'époque.<br>
-Des liens ont été établis à partir des citations pour rendre possible et facile pour ceux qui le souhaiterait, vérification des propos avancés en temps que citation.</p>
+<p>Dans l'Europe chrétienne du Moyen-Âge, la Légende Dorée est l'ouvrage le plus lu après la Bible.</p>
+<p>Elle a été écrite en latin de <time datetime="1261">1261</time> à <time datetime="1266">1266</time> par un moine dominicain de l'Italie du Nord, compilateur de chroniques et également connu comme le 8<sup>ème</sup> Archevêque de Gênes, Jacques De Voragine (en latin, Jacobus de Voragine).</p>
+<p>Présenter cet ouvrage, même de manière élémentaire, n'est pas chose aisée mais pour dire les choses, il n'y a pas d'erreur à écrire qu'en compilant plusieurs documents existants comme des vies de martyrs ou de quelques 150 saints ou groupes de saints, en incorporant dans le calendrier païen préexistant le calendrier liturgique annuel de l'église catholique, en l'uniformisant, en se servant aussi de cette occasion pour expliquer les principaux événements des vies du Christ et de la Vierge à partir des Évangiles, ce texte a de fait construit la mythologie chrétienne qui a imprégné en profondeur tous les domaines de la société de son époque, y compris par exemple sa topologie...</p>
+<p>Comme l'écrit, dans la préface de son livre «Mythologie chrétienne: fêtes, rites et mythes du Moyen âge», le médiéviste Philippe WALTER, «le souvenir immémorial imprégnaient rites, traditions venus de la mémoire sauvage qui préexistaient à l'arrivée du christianisme», on peut considérer ce texte parce qu'y apparaissent de manière sous-jacente des éléments refoulés par l'Église de l'ancien calendrier païen, comme à la fois fascinant et particulièrement digne d'intérêt.</p>
+<p>Ici, je n'en présente bien sûr ci-dessous qu'une très petite partie, le seul chapître 141, parce que celle-ci se rapporte dans l'œuvre comme étant origine du Mont Saint-Michel en temps que lieu de pélerinage.</p>
+<p>Y apparaissent l'archange Michel, le taureau, et bien d'autres choses... On peut s'étonner aussi que le récit se développe sans s'arrêter et insensiblement de l'archange à un récit de la foi en les anges.</p>
+<p>Entre l'existence qu'on ne peut mesurer et celle qu'on perçoit, ce texte devrait susciter diverses pensées, indépendemment de questions relatives au fait de croire ou de ne pas croire, et donc j'incite à le lire si possible jusqu'à la fin sans s'effrayer de la forte coloration religieuse propre à l'époque.</p>
+<p>Des liens ont été établis à partir des citations pour rendre possible et facile pour ceux qui le souhaiterait, vérification des propos avancés en temps que citation.</p>
 </div>
-<h2 id="chap141" class="red">saint Michel selon le chapître 141 de “La Légende Dorée”</h2>
+
+<h2 id="chap141" class="red">saint Michel selon le texte du chapître 141 de “La Légende Dorée”</h2>
+
 <p>Michel se comprend comme «Qui, comme Dieu?» et, à ce que dit Grégoire, chaque fois qu'il s'accomplit une grande merveille, c'est Michel qui est envoyé, pour signifier, par son action et par son nom, que personne ne peut faire ce qui revient à Dieu seul: aussi attribue-t-on à Michel lui-même nombre de faits qui manifestent une puissance admirable.
 Au témoignage de Daniel <a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs">(Daniel 12, 1.)</a>, il surgira au temps de l’Antéchrist et se tiendra à côté des élus comme leur défenseur et protecteur.
 Il a combattu le dragon et ses anges <a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille">(Apocalypse 12,7-9.)</a>, les a précipités du haut du ciel, et a remporté sur eux une grande victoire.
@@ -37,8 +41,8 @@ Comme il ne revenait pas avec les autres bêtes, l'homme rassembla une troupe de
 Se demandant avec exaspération pourquoi il errait ainsi tout seul, il lui décocha une flèche empoisonnée, mais celle-ci, comme si le vent la renvoyait, se retourna aussitôt contre lui.
 Troublés par l'affaire, les habitants allèrent trouver l'évêque et l'interrogèrent sur ce phénomène stupéfiant.
 Ce dernier leur imposa un jeûne de trois jours, et leur prescrivit de demander l'explication à Dieu.
-Cela fait, saint Michel apparut à l'évêque et lui dit:<br>
-«Sachez que c'est moi qui ai voulu que cet homme soit frappé par sa propre flèche; car je suis l'archange Michel, et j'ai décidé de préserver ce lieu, dont j'ai fait ma demeure sur terre.
+Cela fait, saint Michel apparut à l'évêque et lui dit:</p>
+<p>«Sachez que c'est moi qui ai voulu que cet homme soit frappé par sa propre flèche; car je suis l'archange Michel, et j'ai décidé de préserver ce lieu, dont j'ai fait ma demeure sur terre.
 Par ce signe j'ai voulu prouver que j'en étais l'inspecteur et le gardien.»
 Sur-le-champ, l'évêque et les habitants s'y rendirent en procession, et, n'osant pas entrer dans la grotte, ils se tinrent en prière devant l'entrée.</p>
 <h4 id="mont-tombe" class="red">apparition au mont Tombe</h4>
@@ -98,91 +102,105 @@ Se sentant près de mourir, il se fit conduire dans l'église Saint-Michel, dans
 Michel lui apparut, et lui dit de se préparer un mélange de miel, de vin et de poivre, et d'y tremper tous ses aliments: il recouvrerait ainsi sa pleine santé.
 Il le fit, et se trouva totalement guéri, bien que la médecine semble déconseiller de donner aux colériques des potions qui échauffent.
 Voilà ce que dit l'Histoire tripartite.</p>
-<p><span style="color: #b52b27;">Jacques De Voragine, “La Légende Dorée”, chapître 141.</span></p>
-</div>
 
-<div id="body-inner">
-<div class="notices red">
+<footer>
+  <p class="puce"><span style="color: #b52b27;">Jacques De Voragine, <cite>La Légende Dorée</cite>, chapître 141.</span></p>
+</footer>
+
+
+<aside>
+
 <h2 id="notes" class="red">Notes</h2>
-</div>
 
 <h3 id="note_moise" class="red">ascension de Moïse</h3>
-<div class="notices red">
-<p>Le récit intitulé «Ascension de Moïse» est un texte apocryphe du 1er siècle ap. J.-C.; la lettre de Jude a parfois elle aussi été considérée comme apocryphe.</p>
-<ul>
-<li>Revenir à la note： <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#moise" title="ascension de Moïse">Il a disputé le corps de Moïse ↑</a></li>
-</ul>
-</div>
+  <div class="notices red">
+    <p>Le récit intitulé «Ascension de Moïse» est un texte apocryphe du 1er siècle ap. J.-C.; la lettre de Jude a parfois elle aussi été considérée comme apocryphe.</p>
+  </div>
+<footer>
+  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#moise" title="ascension de Moïse">Il a disputé le corps de Moïse ↩</a></p>
+</footer>
+
 <h3 id="note_israel" class="red">patron d'Israël, défenseur des milices célestes</h3>
-<div class="notices red">
-<p>Michel est mentionné comme le patron d'Israël en Daniel 12, 1, et dans Apocalypse 12,7 il est le défenseur des milices célestes.</p>
-<ul>
-<li>Revenir à la note： <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#israel" title="patron d'Israël, défenseur des milices célestes">Il fut jadis prince de la Synagogue ↑</a></li>
-</ul>
-</div>
+  <div class="notices red">
+    <p>Michel est mentionné comme le patron d'Israël en Daniel 12, 1, et dans Apocalypse 12, 7 il est le défenseur des milices célestes.</p>
+  </div>
+<footer>
+  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#israel" title="patron d'Israël, défenseur des milices célestes">Il fut jadis prince de la Synagogue ↩</a></p>
+</footer>
+
 <h3 id="note_extrapolation" class="red">extrapolation de Jacques de Voragine</h3>
 <div class="notices red">
-<p>Jacques de Voragine identifie Michel avec l'ange du Seigneur dont parle Exode 23, 20-23. et qui a joué un rôle dans les sept plaies d'Égypte (Exode 7-12) et dans la traversée de la mer Rouge (Exode 14), mais Le livre de l'Exode ne le mentionne pas explicitement. </p>
-<ul>
-<li>Revenir à la note： <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#extrapolation" title="extrapolation de Jacques de Voragine">lui qui a répandu les plaies sur l'Égypte ↑</a></li>
-</ul>
+  <p>Jacques de Voragine identifie Michel avec l'ange du Seigneur dont parle Exode 23, 20-23. et qui a joué un rôle dans les sept plaies d'Égypte (Exode 7-12) et dans la traversée de la mer Rouge (Exode 14), mais Le livre de l'Exode ne le mentionne pas explicitement.</p>
 </div>
+<footer>
+  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#extrapolation" title="extrapolation de Jacques de Voragine">lui qui a répandu les plaies sur l'Égypte ↩</a></p>
+</footer>
+
 <h3 id="note_tumba" class="red">Mont Tumba</h3>
-<div class="notices red">
-<p>Il s'agit bien sûr du Mont-Saint-Michel.</p>
-<ul>
-<li>Revenir à la note： <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#tumba" title="Mont Tumba">Au lieu dit La Tombe ↑</a></li>
-</ul>
-</div>
+  <div class="notices red">
+    <p>Il s'agit bien sûr du Mont-Saint-Michel.</p>
+  </div>
+<footer>
+  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#tumba" title="Mont Tumba">Au lieu dit La Tombe ↩</a></p>
+</footer>
+
 <h3 id="note_calendes" class="red">date des calendes de novembre</h3>
-<div class="notices red">
-<p>Le 16 octobre (17è jour des calendes de novembre) est la date de la dédicace de l'église du Mont-Saint-Michel.</p>
-<ul>
-<li>Revenir à la note： <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#calendes" title="date des calendes de novembre">le dix-septième jour des calendes de novembre ↑</a></li>
-</ul>
-</div>
+  <div class="notices red">
+    <p>Le <time datetime="10-16">16 octobre (dix-septième jour des calendes de novembre)</time> est la date de la dédicace de l'église du Mont-Saint-Michel.</p>
+  </div>
+<footer>
+  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#calendes" title="date des calendes de novembre">le dix-septième jour des calendes de novembre ↩</a></p>
+</footer>
+
 <h3 id="note_denis" class="red">Pseudo-Denis</h3>
-<div class="notices red">
-<p>Il s'agit du Pseudo-Denis, auteur de De Hierarchia.</p>
-<ul>
-<li>Revenir à la note： <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#denis" title="Pseudo-Denis¹">selon la répartition de Denis ↑</a></li>
-<li>Revenir à la seconde note： <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#denis2" title="Pseudo-Denis²">Pour la répartition des ordres de la première hiérarchie ↑</a></li>
-</ul>
-</div>
+  <div class="notices red">
+    <p>Il s'agit du Pseudo-Denis, auteur de De Hierarchia.</p>
+  </div>
+<footer>
+  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#denis" title="Pseudo-Denis¹">selon la répartition de Denis ↩</a></p>
+  <p>Revenir au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#denis2" title="Pseudo-Denis²">Pour la répartition des ordres de la première hiérarchie ↩</a></p>
+</footer>
+
 <h3 id="note_gregoire" class="red">Grégoire le Grand</h3>
-<div class="notices red">
-<p><a href="https://fr.wikipedia.org/wiki/Grégoire_Ier" title="https://fr.wikipedia.org/wiki/Grégoire_Ier">Grégoire Ier, dit le Grand</a>, auteur des Dialogues (né vers 540, mort le 12 mars 604), devient le 64e pape en 590.<br>
-Docteur de l'Église, il est l'un des quatre Pères de l'Église d'Occident, avec saint Ambroise, saint Augustin et saint Jérôme. Son influence durant le Moyen Âge fut considérable.<br>
-C'est en son honneur que, deux siècles après sa mort, le chant élaboré dans les abbayes du diocèse de Metz est appelé «chant grégorien» (sans que l'on sache avec certitude son rôle dans l'évolution et la diffusion du chant liturgique).</p>
-<ul>
-<li>Revenir à la note： <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#gregoire" title="Grégoire le Grand">Pour la répartition des ordres de la première hiérarchie ↑</a></li>
-</ul>
-</div>
+  <div class="notices red">
+    <p><a href="https://fr.wikipedia.org/wiki/Grégoire_Ier" title="https://fr.wikipedia.org/wiki/Grégoire_Ier">Grégoire Ier, dit le Grand</a>, auteur des Dialogues (né vers <time datetime="540">540</time>, mort le <time datetime="604-03-12">12 mars 604</time>), devient le 64e pape en <time datetime="590">590</time>.</p>
+    <p>Docteur de l'Église, il est l'un des quatre Pères de l'Église d'Occident, avec saint Ambroise, saint Augustin et saint Jérôme. Son influence durant le Moyen Âge fut considérable.</p>
+    <p>C'est en son honneur que, deux siècles après sa mort, le chant élaboré dans les abbayes du diocèse de Metz est appelé «chant grégorien» (sans que l'on sache avec certitude son rôle dans l'évolution et la diffusion du chant liturgique).</p>
+  </div>
+<footer>
+  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#gregoire" title="Grégoire le Grand">Pour la répartition des ordres de la première hiérarchie ↩</a></p>
+</footer>
+
 <h3 id="note_bernard" class="red">Bernard de Clairvaux</h3>
-<div class="notices red">
-<p><a href="https://fr.wikipedia.org/wiki/Bernard_de_Clairvaux" title="Bernard de Clairvaux">Bernard de Fontaine, abbé de Clairvaux</a>, né en 1090 à Fontaine-lès-Dijon1 et mort le 20 août 1153 à l'abbaye de Clairvaux, est un moine bourguignon, réformateur de la vie religieuse catholique.<br>
-Directeur de conscience et important promoteur de l'ordre cistercien (ou ordre de Cîteaux), il recherche l'amour du Christ par la mortification la plus dure. Bernard de Fontaine fait preuve, toute sa vie, d'une activité inlassable pour instruire ses moines de Clairvaux, pour émouvoir et entraîner les foules, pour allier son ordre avec la papauté et pour élaborer un dogme militant que son ordre et toute l'Église catholique mettront en œuvre.<br>
-C'est aussi un conservateur, qui fustige les mutations de son époque (la «Renaissance du xiie siècle»), marquée par une profonde transformation de l'économie, de la société et du pouvoir politique.<br>
-Mort en 1153, il est canonisé dès 1174 et devient ainsi saint Bernard de Clairvaux. Il est déclaré Docteur de l'Église catholique en 1830 par le pape Pie VIII.  </p>
-<ul>
-<li>Revenir à la note： <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#bernard" title="Bernard de Clairvaux">Pour la répartition des ordres de la première hiérarchie ↑</a></li>
-</ul>
-</div>
+  <div class="notices red">
+    <p><a href="https://fr.wikipedia.org/wiki/Bernard_de_Clairvaux" title="Bernard de Clairvaux">Bernard de Fontaine, abbé de Clairvaux</a>, né en <time datetime="1090">1090</time> à Fontaine-lès-Dijon et mort le <time datetime="1153-08-20">20 août 1153</time> à l'abbaye de Clairvaux, est un moine bourguignon, réformateur de la vie religieuse catholique.</p>
+    <p>Directeur de conscience et important promoteur de l'ordre cistercien (ou ordre de Cîteaux), il recherche l'amour du Christ par la mortification la plus dure. Bernard de Fontaine fait preuve, toute sa vie, d'une activité inlassable pour instruire ses moines de Clairvaux, pour émouvoir et entraîner les foules, pour allier son ordre avec la papauté et pour élaborer un dogme militant que son ordre et toute l'Église catholique mettront en œuvre.</p>
+    <p>C'est aussi un conservateur, qui fustige les mutations de son époque (la «Renaissance du xiie siècle»), marquée par une profonde transformation de l'économie, de la société et du pouvoir politique.</p>
+    <p>Mort en <time datetime="1153">1153</time>, il est canonisé dès <time datetime="1175">1174</time> et devient ainsi saint Bernard de Clairvaux. Il est déclaré Docteur de l'Église catholique en <time datetime="1830">1830</time> par le pape Pie VIII.</p>
+  </div>
+<footer>
+  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#bernard" title="Bernard de Clairvaux">Pour la répartition des ordres de la première hiérarchie ↩</a></p>
+</footer>
+
 <h3 id="note_histoiretripartite" class="red">Histoire tripartite</h3>
-<div class="notices red">
-<p>chronique ecclésiastique de Constantin à Théodose II (313 à 439) en quatre livres, dans laquelle Théodore reprend les œuvres de trois historiens du Ve siècle, Socrate le Scolastique, Sozomène et Théodoret de Cyr, avec notes et comparaisons. Elle a été partiellement traduite en latin en 560 par le moine Épiphane à la demande de Cassiodore. Certaines parties sont assez fidèles, tandis que d'autres sont une adaptation libre.</p>
-<ul>
-<li>Revenir à la note：<a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#histoiretripartite" title="Histoire tripartite">↑</a></li>
-</ul>
-</div>
+  <div class="notices red">
+    <p>chronique ecclésiastique de Constantin à Théodose II (<time datetime="313">313</time> à <time datetime="439">439</time>) en quatre livres, dans laquelle Théodore reprend les œuvres de trois historiens du Ve siècle, Socrate le Scolastique, Sozomène et Théodoret de Cyr, avec notes et comparaisons. Elle a été partiellement traduite en latin en <time datetime="560">560</time> par le moine Épiphane à la demande de Cassiodore. Certaines parties sont assez fidèles, tandis que d'autres sont une adaptation libre.</p>
+  </div>
+<footer>
+  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#histoiretripartite" title="Histoire tripartite">Histoire tripartite ↩</a></p>
+</footer>
+
 <h3 id="note_haymon" class="red">Haymon</h3>
-<div class="notices red">
-<p><a href="https://fr.wikipedia.org/wiki/Haymon_d'Halberstadt" title="https://fr.wikipedia.org/wiki/Haymon_d'Halberstadt">Haymon d'Halberstadt</a>, dit aussi Haymon de Fulda (en latin Haimo Halberstatensis), est un moine bénédictin, puis évêque, de l'époque carolingienne, né vers 780, mort le 26 mars 853.</p>
-<ul>
-<li>Revenir à la note：<a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#haymon" title="Haymon">↑</a></li>
-</ul>
-</div>
-</div>
+  <div class="notices red">
+    <p><a href="https://fr.wikipedia.org/wiki/Haymon_d'Halberstadt" title="https://fr.wikipedia.org/wiki/Haymon_d'Halberstadt">Haymon d'Halberstadt</a>, dit aussi Haymon de Fulda (en latin Haimo Halberstatensis), est un moine bénédictin, puis évêque, de l'époque carolingienne, né vers <time datetime="780">780</time>, mort le <time datetime="853-03-26">26 mars 853<time datetime="780">.</p>
+  </div>
+<footer>
+  <p class="puce">retour au texte:<a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#haymon" title="Haymon">↩</a></p>
+</footer>
+
+</aside>
+
+</article>
 `;
 
   let focusEditor;
