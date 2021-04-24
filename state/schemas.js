@@ -888,6 +888,11 @@ export const ExtendedThreerichTextSchema = new Schema({
       }}],
       toDOM(node) { let {href, title, id} = node.attrs; return id == "" ? ["a", {href, title}, 0] : ["a", {href, title, id}, 0] }
     },
+    abbr: {
+      attrs: { title: {default: null} },
+      parseDOM: [{tag: "abbr", getAttrs(dom) { return {title: dom.getAttribute("title")} }}],
+      toDOM(node) {  let {title} = node.attrs; return ["abbr", {title}, 0]},
+    },
     strong: {
       parseDOM: [{tag: "strong"}, {tag: "b"}],
       toDOM() { return ["strong", 0] },
