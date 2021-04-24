@@ -5,18 +5,23 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-<div id="body-inner">
+<article>
+
 <h1 class="green">nom de l'archange Michel</h1>
+
 <div class="notices green">
-<p>En hébreu, le nom de l'<a href="https://fr.wikipedia.org/wiki/Michel_(archange)" title="https://fr.wikipedia.org/wiki/Michel (archange)">archange « Michel »</a> s'écrit: « <span style="color:#3d8b3d;" lang="he">מיכאל</span> ».<br>
-Sa prononciation se situe entre le « Michel » du français et le « Mikaël » de l'anglais: « Mîḵā’ēl » selon la notation phonétique internationale.<br>
-Ci-dessous, un enregistrement audio de cette prononciation précise les choses.<br>
-Une analyse succinte de l'étymologie de cette dénomination détaille la signification de cette dénomination en hébreu.</p>
+<p>En hébreu, le nom de l'<a href="https://fr.wikipedia.org/wiki/Michel_(archange)" title="https://fr.wikipedia.org/wiki/Michel (archange)">archange « Michel »</a> s'écrit: « <span style="color:#3d8b3d;"><ruby lang="he">מיכאל<rp>(</rp><rt>Mîḵā’ēl</rt><rp>)</rp></ruby></span> ».</p>
+<p>Sa prononciation se situe entre le « Michel » du français et le « Mikaël » de l'anglais: « Mîḵā’ēl » selon la notation phonétique internationale.</p>
+<p>Ci-dessous, un enregistrement audio de cette prononciation précise les choses.</p>
+<p>Une analyse succinte de l'étymologie de cette dénomination détaille la signification de cette dénomination en hébreu.</p>
 </div>
+
 <h3 id="à-propos-du-nom-de-larchange-michel" class="green">à propos du nom de l'archange Michel</h3>
+
 <h4 id="sens-en-hébreu" class="green">sens en hébreu</h4>
-<p>Dans le texte original de la Bible en hébreu, le nom de l'archange « Michel » en français est « <ruby lang="he">מיכאל<rt>Mîḵā’ēl</rt></ruby> ».<br>
-La notation « Mîḵā’ēl » vient de l'<a href="https://fr.wikipedia.org/wiki/Alphabet_phonétique_international" title="https://fr.wikipedia.org/wiki/Alphabet phonétique international">alphabet phonétique international</a> et représente le son suivant:</p>
+
+<p>Dans le texte original de la Bible en hébreu, le nom de l'archange « Michel » en français est « <ruby lang="he"><rp>)</rp>מיכאל<rt>Mîḵā’ēl</rt><rp>(</rp></ruby> ».</p>
+<p>La notation « Mîḵā’ēl » vient de l'<a href="https://fr.wikipedia.org/wiki/Alphabet_phonétique_international" title="https://fr.wikipedia.org/wiki/Alphabet phonétique international">alphabet phonétique international</a> et représente le son suivant:</p>
 <table>
 <thead>
 <tr>
@@ -29,8 +34,10 @@ La notation « Mîḵā’ēl » vient de l'<a href="https://fr.wikipedia.org/wi
 </tr>
 </tbody>
 </table>
+
 <h3 id="un-nom-qui-signifie-«-qui-est-comme-dieu-»" class="green">un nom qui signifie « qui est comme dieu? »</h3>
-<p>« <ruby><rb><span style="background:#f1f9f1;color:#3d8b3d;">מיכאל</span></rb><rt><span style="background:#f1f9f1;color:#3d8b3d;">Mîḵā’ēl</span></rt></ruby> » peut se décomposer comme suit:</p>
+
+<p>« <ruby><span style="background:#f1f9f1;color:#3d8b3d;">מיכאל</span><rp>(</rp><rt><span style="background:#f1f9f1;color:#3d8b3d;">Mîḵā’ēl</span></rt><rp>)</rp></ruby> » peut se décomposer comme suit:</p>
 <table>
 <thead>
 <tr>
@@ -52,12 +59,13 @@ La notation « Mîḵā’ēl » vient de l'<a href="https://fr.wikipedia.org/wi
 </tr>
 </tbody>
 </table>
-<dl>
-<dt>soit le résultat suivant：</dt>
-<dd><span style="color: #3d8b3d;">« <span style="background:#f1f9f1;color:#3d8b3d;">qui</span> <span style="background:#f1f9f1;color:#3d8b3d;">ressemble</span> à <span style="background:#f1f9f1;color:#3d8b3d;">dieu</span> ? »</span></dd>
-</dl>
+
+<p>soit le résultat suivant：</p>
+<p class="no-puce"><span style="color: #3d8b3d;">« <span style="background:#f1f9f1;color:#3d8b3d;">qui</span> <span style="background:#f1f9f1;color:#3d8b3d;">ressemble</span> à <span style="background:#f1f9f1;color:#3d8b3d;">dieu</span> ? »</span></p>
+
 <p>L'archange Michel affronte ses adversaires au nom de dieu en leur posant cette question terrible.</p>
-</div>
+
+</article>
 `;
 
   let focusEditor;
