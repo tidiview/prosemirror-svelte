@@ -5,170 +5,180 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-<div id="body-inner">
+<article>
+
+<hgroup>
 <h1 class="yellow">Persée</h1>
-<figure><picture><source media="(min-width: 959px)" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-280.webp 280w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-380.webp 380w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-480.webp 480w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-640.webp 640w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee_700x869.webp 700w" type="image/webp"><source media="(min-width: 959px)" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-280.jpg 280w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-380.jpg 380w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-480.jpg 480w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-640.jpg 640w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee_700x869.jpg 700w"><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-280.webp 280w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-380.webp 380w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-480.webp 480w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-640.webp 640w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus_700x763.webp 700w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus_700x763.jpg" alt="Jean MONIER, “Persée et Andromède”" title="Jean MONIER, “Persée et Andromède”" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-280.jpg 280w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-380.jpg 380w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-480.jpg 480w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-640.jpg 640w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus_700x763.jpg 700w"></picture><figcaption>Persée secourt Andromède enchaînée à un rocher</figcaption></figure>
+<h2 class="yellow">au Château de Cheverny</h2>
+</hgroup>
+
+<figure>
+  <picture><source media="(min-width: 959px)" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-280.webp 280w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-380.webp 380w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-480.webp 480w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-640.webp 640w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee_700x869.webp 700w" type="image/webp"><source media="(min-width: 959px)" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-280.jpg 280w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-380.jpg 380w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-480.jpg 480w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-640.jpg 640w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee_700x869.jpg 700w"><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-280.webp 280w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-380.webp 380w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-480.webp 480w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-640.webp 640w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus_700x763.webp 700w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus_700x763.jpg" alt="Jean MONIER, “Persée et Andromède”" title="Jean MONIER, “Persée et Andromède”" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-280.jpg 280w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-380.jpg 380w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-480.jpg 480w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-640.jpg 640w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus_700x763.jpg 700w"></picture><figcaption>Persée <q cite="#andromede">volant à toute allure</q> secourt Andromède enchaînée à un rocher</figcaption>
+</figure>
+
 <div class="notices yellow">
-<p>Il existe un petit texte à l'origine de l'un des tableaux représentant l'histoire de <a href="https://fr.wikipedia.org/wiki/Persée" title="https://fr.wikipedia.org/wiki/Persée">Persée</a> et <a href="https://fr.wikipedia.org/wiki/Andromède_(mythologie)" title="https://fr.wikipedia.org/wiki/Andromède">Andromède</a> peints par <a href="https://fr.wikipedia.org/wiki/Jean_Mosnier" title="https://fr.wikipedia.org/wiki/Jean Monier">Jean MONIER</a> sur le plafond de la chambre du Roi du deuxième étage du <a href="https://fr.wikipedia.org/wiki/Château_de_Cheverny" title="https://fr.wikipedia.org/wiki/Château_de_Cheverny">Château de Cheverny</a>.<br>
-Il a été écrit par <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a> , écrivain d'expression latine qui a vécu sous l'empire romain, et fait partie du livre 4 de son œuvre la plus connue, “<a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)">Les Métamorphoses</a>”.<br>
-Il raconte comment Persée, qui passait dans le ciel d'<a href="https://fr.wikipedia.org/wiki/Éthiopie" title="https://fr.wikipedia.org/wiki/Éthiopie">Éthiopie</a> à l'improviste, s'étonna de trouver une jeune fille nue enchaînée à un rocher...</p>
+<p>Il existe un petit texte à l'origine de l'un des tableaux représentant l'histoire de <a href="https://fr.wikipedia.org/wiki/Persée" title="https://fr.wikipedia.org/wiki/Persée">Persée</a> et <a href="https://fr.wikipedia.org/wiki/Andromède_(mythologie)" title="https://fr.wikipedia.org/wiki/Andromède">Andromède</a> peints par <a href="https://fr.wikipedia.org/wiki/Jean_Mosnier" title="https://fr.wikipedia.org/wiki/Jean Monier">Jean MONIER</a> sur le plafond de la chambre du Roi du deuxième étage du <a href="https://fr.wikipedia.org/wiki/Château_de_Cheverny" title="https://fr.wikipedia.org/wiki/Château_de_Cheverny">Château de Cheverny</a>.</p>
+<p>Il a été écrit par <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a> , écrivain d'expression latine qui a vécu sous l'empire romain, et fait partie du livre IV de son œuvre la plus connue, <a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"><cite>Les Métamorphoses</cite></a>.</p>
+<p>Il raconte comment Persée, qui passait dans le ciel d'<a href="https://fr.wikipedia.org/wiki/Éthiopie" title="https://fr.wikipedia.org/wiki/Éthiopie">Éthiopie</a> à l'improviste, s'étonna de trouver une jeune fille nue enchaînée à un rocher...</p>
 </div>
-<h2 class="yellow">Persée et Andromède selon “Les Métamorphoses”</h2>
-<table>
-<thead>
-<tr>
-<th></th>
-<th><span hidden>hidden</span></th>
-</tr>
-</thead>
-<tbody>
-<tr><td><sup>663</sup></td>
-<td>Le fils d'Hippotès avait enfermé les vents dans leur prison momentanée<br>
-Et, invitant au travail, le resplendissant Lucifer</td></tr>
-<tr><td><sup>665</sup></td>
-<td>Avait jailli du ciel profond. Persée, ayant repris ses ailes, les attachent<br>
-De part et d'autre de ses pied, se ceint de son épée recourbée<br>
-Et bat de ses talonnières pour fendre l'air limpide.<br>
-Après avoir laissé tout autour, au-dessous, d'innombrables nations,<br>
-Il aperçoit la population éthiopienne et les champs de Céphée,</td></tr>
-<tr><td><sup>670</sup></td>
-<td>Où l'injuste Ammon a condamné l'innocente Andromède<br>
-À être châtiée pour les paroles de sa mère.<br>
-Dès que le descendant d'Abas la voit, les bras attachés<br>
-Contre la roche dure - n'était la brise légère agitant ses cheveux<br>
-Et les larmes tièdes qui coulaient de ses yeux,</td></tr>
-<tr><td><sup>675</sup></td>
-<td>Il l'eût prise pour une œuvre de marbre -, la passion s'empare de lui<br>
-À son insu et le paralyse; saisi par l'apparition d'une telle beauté<br>
-Il en oublie presque de battre l'air de ses ailes.<br>
-À peine debout, il lui dit: «Ô toi qui ne mérites pas ces chaînes<br>
-Mais celles qui lient l'un à l'autre les amants passionnés,</td></tr>
-<tr><td><sup>680</sup></td>
-<td>Dis-moi, je t'en prie, le nom de cette terre, le tien<br>
-Et la raison de ces entraves.» La jeune fille se tait d'abord, n'osant<br>
-Adresser la parole à un homme; elle cacherait de ses mains<br>
-Son doux visage si elle n'était enchaînée;<br>
-Des larmes jaillissent - elle ne peut rien d'autre - et emplissent ses yeux.</td></tr>
-<tr><td><sup>685</sup></td>
-<td>Comme il se fait de plus en plus pressant, afin qu'il ne pense pas<br>
-Qu'elle refuse d'avouer ses fautes, elle lui dit le nom du pays<br>
-Et le sien, et combien sa mère fut trop sûre de sa beauté.<br>
-Elle n'avait pas encore tout raconté que l'eau fit un grand bruit<br>
-Et qu'un monstre arriva, menaçant, sur la mer immense,</td></tr>
-<tr><td><sup>690</sup></td>
-<td>Dominant la vaste plaine liquide de son poitrail.<br>
-La jeune fille pousse un cri; son père est là, en larmes, sa mère<br>
-Aussi, tous deux dans le malheur, celle-ci à plus juste titre;<br>
-Ils n'apportent nulle aide mais les pleurs et les gémissements<br>
-Que requiert la situation, et ils serrent son corps entravé</td></tr>
-<tr><td><sup>695</sup></td>
-<td>Quand l'étranger leur dit: «Vous pourrez vous consacrez plus tard<br>
-Au temps des larmes; pour la sauver vous n'avez qu'un instant.<br>
-Si je la demandais moi, Persée, fils de Jupiter et de celle<br>
-Qui, prisonnière, fut fécondée par une pluie d'or,<br>
-Persée, le vainqueur de la Gorgone aux cheveux vipérins,</td></tr>
-<tr><td><sup>700</sup></td>
-<td>Moi qui, battant des ailes, ai eu l'audace de traverser les airs,<br>
-Je serais sûr d'être un gendre préféré à tout autre; mais à tant de mérites<br>
-Je veux ajouter un exploit, pourvu que les dieux me l'accordent:<br>
-Qu'elle soit mienne et ma bravoure la sauvera, je le promets.»<br>
-Condition acceptée (qui donc hésiterait?); les parents le supplient</td></tr>
-<tr><td><sup>705</sup></td>
-<td>Et lui promettent, en outre, un royaume pour dot.<br>
-Alors, tout comme un bateau rapide, l'éperon de sa proue en avant,<br>
-Fend les flots sous la poussée des bras de jeunes hommes en sueur,<br>
-Ainsi fait la bête, dont le puissant poitrail écarte les eaux.<br>
-Elle n'était séparée des rochers que d'une distance égale à celle</td></tr>
-<tr><td><sup>710</sup></td>
-<td>Que traverse en plein ciel une balle de plomb lancée par un frondeur<br>
-Baléare, quand soudain le jeune homme, frappant du pied sur la terre,<br>
-S'élève jusqu'aux nuées. À peine son ombre est-elle apparue<br>
-À la surface des eaux que la bête s'acharne avec fureur sur l'ombre.<br>
-Lorsque l'oiseau de Jupiter aperçoit dans un champ dénudé</td></tr>
-<tr><td><sup>715</sup></td>
-<td>Un serpent qui présente à Phœbus son dos bleuâtre,<br>
-Il le prend par derrière et, pour l'empécher de tourner sa gueule terrible,<br>
-Il enfonce ses serres de rapace dans la nuque du reptile;<br>
-De même le descendant d'Inachus, volant à toute allure<br>
-À travers l'espace, s'abat sur le dos du monstre fou de rage</td></tr>
-<tr><td><sup>720</sup></td>
-<td>Et lui enfonce dans le flan droit sa lame courbe, jusqu'au crochet.<br>
-Grièvement blessée, la bête gigantesque tantôt se dresse dans les airs<br>
-Tantôt disparaît sous les eaux, tantôt s'agite à la façon d'un sanglier<br>
-Farouche qu'une meute de chiens hurlants encercle et terrorise.<br>
-Lui, grâce à ses ailes, esquive avec agilité les morsures voraces</td></tr>
-<tr><td><sup>725</sup></td>
-<td>Et, partout où il peut, que ce soit sur le dos couvert de coquillages vides,<br>
-Sur les flancs ou sur la queue très mince, qui se termine<br>
-Comme celle d'un poisson, frappe de son épée recourbée.<br>
-La gueule du monstre vomit un flot mêlé à un sang pourpre<br>
-Dont les éclaboussures mouillent et élourdissent les ailes</td></tr>
-<tr><td><sup>730</sup></td>
-<td>De Persée; n'osant plus se fier à ses talonnières trempées,<br>
-Il avise un rocher dont la pointe se dresse au-dessus des eaux<br>
-Calmes, mais que recouvre une mer agitée.<br>
-Le prenant pour appui et se retenant de la main gauche aux premières<br>
-Arrêtes, à trois, à quatre reprises il plonge le fer dans le ventre du monstre.</td></tr>
-<tr><td><sup>735</sup></td>
-<td>Des cris, des applaudissements emplissent le rivage<br>
-Et les demeures supérieures des dieux; Cassiopée et Céphée, le père,<br>
-Exultent, complimentent leur gendre, le déclare protecteur<br>
-Et sauveur de la famille; délivrée de ses liens,<br>
-S'avance la jeune fille, à la fois cause et récompense de l'exploit.</td></tr>
-<tr><td><sup>740</sup></td>
-<td>Persée puise de l'eau pour laver ses mains victorieuses<br>
-Et, pour que la dureté du sable ne blesse pas la tête entourée de serpents,<br>
-Il rend le sol plus doux par des feuillages, le couvre d'algues<br>
-Marines et y déposent, de face, la tête de Méduse, fille de Phorcus.<br>
-Les algues fraîches, encore vivantes et gorgées d'eau,</td></tr>
-<tr><td><sup>745</sup></td>
-<td>Subissent le pouvoir du monstre et, à son contact, durcissent,<br>
-Communiquent aux branches et aux feuilles cette rigidités inconnue.<br>
-Quant aux nymphes des eaux, elles expérimentent ce prodige<br>
-Sur plusieurs autres algues, ravies d'y parvenir<br>
-Et, comme elles en ont jeté dans l'eau des particules,</td></tr>
-<tr><td><sup>750</sup></td>
-<td>Il en résulte aujourd'hui le corail, qui a même propriété,<br>
-Durcissant au contact de l'air: ainsi, ce qui dans l'eau était<br>
-Plante souple devient hors de l'eau une pierre.<br>
-Le héros élève trois autels de gazon à trois dieux:<br>
-À gauche pour Mercure, à droite pour toi, vierge guerrière,</td></tr>
-<tr><td><sup>755</sup></td>
-<td>Et au milieu l'autel de Jupiter; il immole à Minerve une génisse,<br>
-Un veau au dieu aux pieds ailés et à toi, roi des dieux, un taureau.<br>
-Sitôt après, il prend dans ses bras Andromède - récompense,<br>
-Hormis sa dot, d'un si puissant exploit; Hyménée et Amour<br>
-Secouent leurs torches; on inonde les bûchers de parfums,<br>
-On accroche aux toits des guirlandes et partout résonnent</td></tr>
-<tr><td><sup>760</sup></td>
-<td>Les lyres, les flûtes, les chants, marques joyeuses<br>
-Du bonheur; les portes étant grandes ouvertes, apparaît<br>
-L'atrium tout doré et les nobles Céphènes prennent place<br>
-Au banquet royal devant des tables magnifiques.</td></tr>
-</tbody>
-</table>
-<p><span style="color: #df8a13;">Ovide, “Les Métamorphoses”, Livre IV, vers 663 à 764</span></p>
-</div>
+
+<h2 id="andromede" class="yellow">Persée et Andromède selon le texte du livre IV des <cite>Métamorphoses</cite></h2>
+
+<ol class="doc">
+  <li value="663">Le fils d'Hippotès avait enfermé les vents dans leur prison momentanée</li>
+  <li>Et, invitant au travail, le resplendissant Lucifer</li>
+  <li value="665">Avait jailli du ciel profond. Persée, ayant repris ses ailes, les attachent</li>
+  <li>De part et d'autre de ses pied, se ceint de son épée recourbée</li>
+  <li>Et bat de ses talonnières pour fendre l'air limpide.</li>
+  <li>Après avoir laissé tout autour, au-dessous, d'innombrables nations,</li>
+  <li>Il aperçoit la population éthiopienne et les champs de Céphée,</li>
+  <li value="670">Où l'injuste Ammon a condamné l'innocente Andromède</li>
+  <li>À être châtiée pour les paroles de sa mère.</li>
+  <li>Dès que le descendant d'Abas la voit, les bras attachés</li>
+  <li>Contre la roche dure - n'était la brise légère agitant ses cheveux</li>
+  <li>Et les larmes tièdes qui coulaient de ses yeux,</li>
+  <li value="675">Il l'eût prise pour une œuvre de marbre -, la passion s'empare de lui</li>
+  <li>À son insu et le paralyse; saisi par l'apparition d'une telle beauté</li>
+  <li>Il en oublie presque de battre l'air de ses ailes.</li>
+  <li>À peine debout, il lui dit: 
+    <p class="conversation">«Ô toi qui ne mérites pas ces chaînes</p>
+  </li>
+  <li>
+    <p class="conversation">Mais celles qui lient l'un à l'autre les amants passionnés,</p>
+  </li>
+  <li value="680">
+    <p class="conversation">Dis-moi, je t'en prie, le nom de cette terre, le tien</p>
+  </li>
+  <li>
+    <p class="conversation">Et la raison de ces entraves.»</p>
+    La jeune fille se tait d'abord, n'osant
+  </li>
+  <li>Adresser la parole à un homme; elle cacherait de ses mains</li>
+  <li>Son doux visage si elle n'était enchaînée;</li>
+  <li>Des larmes jaillissent - elle ne peut rien d'autre - et emplissent ses yeux.</li>
+  <li value="685">Comme il se fait de plus en plus pressant, afin qu'il ne pense pas</li>
+  <li>Qu'elle refuse d'avouer ses fautes, elle lui dit le nom du pays</li>
+  <li>Et le sien, et combien sa mère fut trop sûre de sa beauté.</li>
+  <li>Elle n'avait pas encore tout raconté que l'eau fit un grand bruit</li>
+  <li>Et qu'un monstre arriva, menaçant, sur la mer immense,</li>
+  <li value="690">Dominant la vaste plaine liquide de son poitrail.</li>
+  <li>La jeune fille pousse un cri; son père est là, en larmes, sa mère</li>
+  <li>Aussi, tous deux dans le malheur, celle-ci à plus juste titre;</li>
+  <li>Ils n'apportent nulle aide mais les pleurs et les gémissements</li>
+  <li>Que requiert la situation, et ils serrent son corps entravé</li>
+  <li value="695">Quand l'étranger leur dit:
+    <p class="conversation">«Vous pourrez vous consacrez plus tard</p>
+  </li>
+  <li>
+    <p class="conversation">Au temps des larmes; pour la sauver vous n'avez qu'un instant.</p>
+  </li>
+  <li>
+    <p class="conversation">Si je la demandais moi, Persée, fils de Jupiter et de celle</p>
+  </li>
+  <li>
+    <p class="conversation">Qui, prisonnière, fut fécondée par une pluie d'or,</p>
+  </li>
+  <li>
+    <p class="conversation">Persée, le vainqueur de la Gorgone aux cheveux vipérins,</p>
+  </li>
+  <li value="700">
+    <p class="conversation">Moi qui, battant des ailes, ai eu l'audace de traverser les airs,</p>
+  </li>
+  <li>
+    <p class="conversation">Je serais sûr d'être un gendre préféré à tout autre; mais à tant de mérites</p>
+  </li>
+  <li>
+    <p class="conversation">Je veux ajouter un exploit, pourvu que les dieux me l'accordent:</p>
+  </li>
+  <li><p class="conversation">Qu'elle soit mienne et ma bravoure la sauvera, je le promets.»</p>
+  </li>
+  <li>Condition acceptée (qui donc hésiterait?); les parents le supplient</li>
+  <li value="705">Et lui promettent, en outre, un royaume pour dot.</li>
+  <li>Alors, tout comme un bateau rapide, l'éperon de sa proue en avant,</li>
+  <li>Fend les flots sous la poussée des bras de jeunes hommes en sueur,</li>
+  <li>Ainsi fait la bête, dont le puissant poitrail écarte les eaux.</li>
+  <li>Elle n'était séparée des rochers que d'une distance égale à celle</li>
+  <li value="710">Que traverse en plein ciel une balle de plomb lancée par un frondeur</li>
+  <li>Baléare, quand soudain le jeune homme, frappant du pied sur la terre,</li>
+  <li>S'élève jusqu'aux nuées. À peine son ombre est-elle apparue</li>
+  <li>À la surface des eaux que la bête s'acharne avec fureur sur l'ombre.</li>
+  <li>Lorsque l'oiseau de Jupiter aperçoit dans un champ dénudé</li>
+  <li value="715">Un serpent qui présente à Phœbus son dos bleuâtre,</li>
+  <li>Il le prend par derrière et, pour l'empécher de tourner sa gueule terrible,</li>
+  <li>Il enfonce ses serres de rapace dans la nuque du reptile;</li>
+  <li>De même le descendant d'Inachus, volant à toute allure</li>
+  <li>À travers l'espace, s'abat sur le dos du monstre fou de rage</li>
+  <li value="720">Et lui enfonce dans le flan droit sa lame courbe, jusqu'au crochet.</li>
+  <li>Grièvement blessée, la bête gigantesque tantôt se dresse dans les airs</li>
+  <li>Tantôt disparaît sous les eaux, tantôt s'agite à la façon d'un sanglier</li>
+  <li>Farouche qu'une meute de chiens hurlants encercle et terrorise.</li>
+  <li>Lui, grâce à ses ailes, esquive avec agilité les morsures voraces</li>
+  <li value="725">Et, partout où il peut, que ce soit sur le dos couvert de coquillages vides,</li>
+  <li>Sur les flancs ou sur la queue très mince, qui se termine</li>
+  <li>Comme celle d'un poisson, frappe de son épée recourbée.</li>
+  <li>La gueule du monstre vomit un flot mêlé à un sang pourpre</li>
+  <li>Dont les éclaboussures mouillent et élourdissent les ailes</li>
+  <li value="730">De Persée; n'osant plus se fier à ses talonnières trempées,</li>
+  <li>Il avise un rocher dont la pointe se dresse au-dessus des eaux</li>
+  <li>Calmes, mais que recouvre une mer agitée.</li>
+  <li>Le prenant pour appui et se retenant de la main gauche aux premières</li>
+  <li>Arrêtes, à trois, à quatre reprises il plonge le fer dans le ventre du monstre.</li>
+  <li value="735">Des cris, des applaudissements emplissent le rivage</li>
+  <li>Et les demeures supérieures des dieux; Cassiopée et Céphée, le père,</li>
+  <li>Exultent, complimentent leur gendre, le déclare protecteur</li>
+  <li>Et sauveur de la famille; délivrée de ses liens,</li>
+  <li>S'avance la jeune fille, à la fois cause et récompense de l'exploit.</li>
+  <li value="740">Persée puise de l'eau pour laver ses mains victorieuses</li>
+  <li>Et, pour que la dureté du sable ne blesse pas la tête entourée de serpents,</li>
+  <li>Il rend le sol plus doux par des feuillages, le couvre d'algues</li>
+  <li>Marines et y déposent, de face, la tête de Méduse, fille de Phorcus.</li>
+  <li>Les algues fraîches, encore vivantes et gorgées d'eau,</li>
+  <li value="745">Subissent le pouvoir du monstre et, à son contact, durcissent,</li>
+  <li>Communiquent aux branches et aux feuilles cette rigidités inconnue.</li>
+  <li>Quant aux nymphes des eaux, elles expérimentent ce prodige</li>
+  <li>Sur plusieurs autres algues, ravies d'y parvenir</li>
+  <li>Et, comme elles en ont jeté dans l'eau des particules,</li>
+  <li value="750">Il en résulte aujourd'hui le corail, qui a même propriété,</li>
+  <li>Durcissant au contact de l'air: ainsi, ce qui dans l'eau était</li>
+  <li>Plante souple devient hors de l'eau une pierre.</li>
+  <li>Le héros élève trois autels de gazon à trois dieux:</li>
+  <li>À gauche pour Mercure, à droite pour toi, vierge guerrière,</li>
+  <li value="755">Et au milieu l'autel de Jupiter; il immole à Minerve une génisse,</li>
+  <li>Un veau au dieu aux pieds ailés et à toi, roi des dieux, un taureau.</li>
+  <li>Sitôt après, il prend dans ses bras Andromède - récompense,</li>
+  <li>Hormis sa dot, d'un si puissant exploit; Hyménée et Amour</li>
+  <li>Secouent leurs torches; on inonde les bûchers de parfums,</li>
+  <li>On accroche aux toits des guirlandes et partout résonnent</li>
+  <li value="760">Les lyres, les flûtes, les chants, marques joyeuses</li>
+  <li>Du bonheur; les portes étant grandes ouvertes, apparaît</li>
+  <li>L'atrium tout doré et les nobles Céphènes prennent place</li>
+  <li>Au banquet royal devant des tables magnifiques.</li>
+</ol>
+
+<footer>
+  <p><span style="color: #df8a13;">Ovide, <cite>Les Métamorphoses</cite>, Livre IV, vers 663 à 764</span></p>
+</footer>
+</article>
 `;
 
   let focusEditor;
