@@ -69,7 +69,7 @@ et nous croirions n'avoir rien fait pour leur gloire, si nous négligions de par
 <p><span style="color: #28a1c5;">L'Apothéose d'Hercule</span> fait le sujet de cette immense et magnifique composition.</p>
 <p><span style="color: #28a1c5;">François Le Moine</span>, de Paris, Professeur de l'Académie Royale de Peinture et Sculpture, Élève de M. Galoche, Professeur de la même Académie, <span style="color: #28a1c5;">y travaillait depuis quatre ans par ordre du Roy, sous la Direction du Duc d'Antin</span>, Pair de France, Chevalier des Ordres de Sa Majesté (S. M.), Gouverneur de l'Orléanais, Ministre d'État, et Directeur Général des Bâtimens du Roy, Protecteur éclairé des Beaux-Arts, et toujours attentif à ce qui peut contribuer à leur avancement.</p>
 <p><span style="color: #28a1c5;">Le Mercredi 26 Septembre</span>, jour destiné à faire paraître ce grand Ouvrage, le Salon fut, jusqu'à l'heure que le Roy le traversa pour aller à la Messe;</p>
-<p><abbr>S.M.</abbr> accompagnée des Seigneurs, du Cardinal de Fleury et des autres Ministres, et suivie d'une très nombreux foule de Loin;</p>
+<p><abbr title="Sa Majesté">S.M.</abbr> accompagnée des Seigneurs, du Cardinal de Fleury et des autres Ministres, et suivie d'une très nombreux foule de Loin;</p>
 <p>s’y arrêta longtemps, et plus encore au retour de la Messe;</p>
 <p><span style="color: #28a1c5;">le Roy</span> examina alors en détail l'ordonnance en général, les differens Groupes en particulier, le Dessein, le coloris l'effet merveilleux du tout ensemble.</p>
 <p><abbr>S.M.</abbr> dont on connaît la délicatesse du goût, et son amour pour la Peinture et pour tous les Beaux Arts,
