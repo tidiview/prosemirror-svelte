@@ -774,9 +774,9 @@ export const ExtendedThreerichTextSchema = new Schema({
     ol: {
       content: "li+",
       group: "block",
-      attrs: {start: {default: null}},
-      parseDOM: [{tag: "ol", getAttrs(dom) { return {start: dom.start} }}],
-      toDOM(node) { let {start} = node.attrs; return start == "" ?  ["ol", 0] : ["ol", {start}, 0] },
+      attrs: {start: {default: null}, classes: {default: null}},
+      parseDOM: [{tag: "ol", getAttrs(dom) { return {start: dom.start, classes: dom.getAttribute("class")} }}],
+      toDOM(node) { let {start, classes} = node.attrs; return start == "" ? classes == "" ? ["ol", 0] : start == "" ? ["ol", {"class": classes}, 0] : ["ol", {start}, 0] : ["ol", {"class": classes, start}, 0] },
     },
     ul: {
       content: "li+",
