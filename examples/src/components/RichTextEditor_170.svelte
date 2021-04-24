@@ -28,7 +28,7 @@
 
 <div class="notices yellow">
 <p>Il existe un petit texte à l'origine du tableau peint par <a href="https://fr.wikipedia.org/wiki/Jean_Mosnier" title="https://fr.wikipedia.org/wiki/Jean Monier">Jean MONIER</a> pour le dessus de cheminée représentant la mort d'Adonis exposé au deuxième étage du Château de <a href="https://fr.wikipedia.org/wiki/Château_de_Cheverny" title="https://fr.wikipedia.org/wiki/Château_de_Cheverny">Cheverny</a>.</p>
-<p>Il a été écrit par <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a>, écrivain d'expression latine qui a vécu sous l'empire romain, et fait partie du livre 10 de son œuvre la plus connue, “<a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)">Les Métamorphoses</a>”.</p>
+<p>Il a été écrit par <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a>, écrivain d'expression latine qui a vécu sous l'empire romain, et fait partie du livre X de son œuvre la plus connue, <a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"><cite>Les Métamorphoses</cite></a>.</p>
 <p>Il raconte la fin tragique d'<a href="https://fr.wikipedia.org/wiki/Adonis_(mythologie)" title="https://fr.wikipedia.org/wiki/Adonis">Adonis</a>, amant de <a href="https://fr.wikipedia.org/wiki/Vénus_(mythologie)" title="https://fr.wikipedia.org/wiki/Vénus">Vénus</a>.</p>
 <p>Le voici ci-dessous.</p>
 </div>
