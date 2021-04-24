@@ -38,13 +38,14 @@
 </figure>
 
 <div class="notices blue">
-<p>Le <time datetime="1736-09-26">26 septembre 1736</time>, <a href="https://fr.wikipedia.org/wiki/Louis_XV" title="https://fr.wikipedia.org/wiki/Louis XV">Louis XV</a> inaugurait au Palais de Versailles l'œuvre du peintre <a href="https://fr.wikipedia.org/wiki/François_Lemoyne" title="https://fr.wikipedia.org/wiki/François_Lemoyne">François LEMOYNE</a> nouvellement créée pour le Salon d'Hercule, « l'Apothéose d'Hercule » et reproduite ci-dessus.</p>
-<p>À cette occasion, le journal « <a href="https://fr.wikipedia.org/wiki/François_Lemoyne" title="https://fr.wikipedia.org/wiki/François_Lemoyne">le Mercure de France</a> » faisait paraître un texte exceptionnel parce que probablement écrit par le peintre lui-même qui nous renseigne sur les conditions qui ont présidé à cette commande ainsi sur le détail de la composition.</p>
+<p>Le <time datetime="1736-09-26">26 septembre 1736</time>, <a href="https://fr.wikipedia.org/wiki/Louis_XV" title="https://fr.wikipedia.org/wiki/Louis XV">Louis XV</a> inaugurait au Palais de Versailles l'œuvre du peintre <a href="https://fr.wikipedia.org/wiki/François_Lemoyne" title="https://fr.wikipedia.org/wiki/François_Lemoyne">François LEMOYNE</a> nouvellement créée pour le Salon d'Hercule, <cite>l'Apothéose d'Hercule</cite> et reproduite ci-dessus.</p>
+<p>À cette occasion, le journal <a href="https://fr.wikipedia.org/wiki/François_Lemoyne" title="https://fr.wikipedia.org/wiki/François_Lemoyne"><cite>Le Mercure de France</cite></a> faisait paraître un texte exceptionnel parce que probablement écrit par le peintre lui-même qui nous renseigne sur les conditions qui ont présidé à cette commande ainsi sur le détail de la composition.</p>
 <p>C'est ce texte qui se trouve reproduit ci-dessous.
 Cette œuvre de ce peintre est exceptionnelle pour de nombreuses raisons et particulièrement pour être une de ses dernières.</p>
 <p>En effet, l'artiste décidait de mettre fin à ses jours peu après l'avoir achevé, en se suicidant de plusieurs coups d'épée, dans son appartement à Paris, le <time datetime="1737-06-04">4 juin 1737</time>.</p>
 </div>
 
+<aside>
 <div class="notices green">
 <p>Afin de faciliter la compréhension du texte, des liens ont été établis entre celui-ci et les parties de l'œuvre désignées: clicquer sur le mot renvoie à la partie de l'œuvre représentée et inversement, cliquer sur une partie de l'œuvre renvoie au terme du texte en référence.</p>
 </div>
@@ -55,6 +56,7 @@ Cette œuvre de ce peintre est exceptionnelle pour de nombreuses raisons et part
 <dd>il est possible de faire apparaître le périmètre de la partie de l'image désignée dans le texte en utilisant pour lire cette page un navigateur basé sur Chrome. Toutefois, comme Chrome contient un mouchard qui piste votre navigation pour l'entreprise Google, nous vous conseillons l'excellent navigateur <a href="http://www.srware.net/en/software_srware_iron_download.php" title="http://www.srware.net/en/software_srware_iron_download.php">SRWare Iron</a> basé sur Chrome mais qui ne contient aucun mouchard. Pour les portables android, l'application SRWare Iron peut être téléchargée <a href="https://play.google.com/store/apps/details?hl=fr" title="https://play.google.com/store/apps/details?id=org.iron.srware&amp;hl=fr" id="org.iron.srware">ici...</a>.</dd>
 </dl>
 </div>
+</aside>
 
 
 <h2 id="plafond-dun-salon-du-château-de-versailles-qui-précède-celui-de" class="blue">
@@ -600,7 +602,6 @@ que celui qui est peint, paraît beaucoup plus élevé que celui qui n'est point
 <footer>
   <p class="puce">revenir au texte: <a href="#breche" title="brèche">Brèche ↑</a>  </p>
 </footer>
-
 
 </aside>
 
