@@ -40,6 +40,7 @@
 <p>Dans l'article qui suit, nous mettons directement en regard le texte de <cite>La Légende Dorée</cite> et représentations d'Hans Memling. Nous pensons qu'ainsi leur qualité ne s'en trouvera que plus éclatante.</p>
 </div>
 
+<article>
 <h2 id="les-onze-milles-vierges" class="green">Les Onze Milles Vierges</h2>
 
 <p>Voici le récit de la Passion des onze mille vierges tel qu'il a été transmis.</p>
@@ -317,6 +318,7 @@ Et comme l'abbé lui demandait ce qui se passait et que celui-ci racontait en d�
 <footer>
 <p><span style="color: #3d8b3d;">Jacques de Voragine, <cite>La Légende Dorée</cite>, Chapître 154, “Les Onze Milles Vierges”</span></p>
 </footer>
+</article>
 </article>
 `;
 
