@@ -23,7 +23,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-380.jpg 380w, 
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-480.jpg 480w, 
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg 700w"></picture><figcaption>Le Char du Soleil, conduit par Apollon, émerge d'Océan à l'aurore</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg 700w"></picture><figcaption>Le Char du Soleil, conduit par Apollon, émerge d'Océan à l'aurore<br><q cite="#apollon">D'or en était l'essieu, d'or la flèche, d'or le tour des hautes roues, et d'argent l'ensemble des rayons</q></figcaption>
 </figure>
 
 <div class="notices yellow">
@@ -35,7 +35,7 @@
 <p>C'est ainsi l'occasion d'approcher le sens que pouvait revêtir pour Louis XIV la figure de cet astre tel que le décrit ce texte.</p>
 </div>
 
-<h2 id="Apollon" class="yellow">Phaéton selon le texte du Livre II des <cite>Métamorphoses</cite></h2>
+<h2 id="apollon" class="yellow">Phaéton selon le texte du Livre II des <cite>Métamorphoses</cite></h2>
 
 <ol class="doc">
   <li value="1">Le Palais du Soleil aux hautes colonnes se dressait<br>
