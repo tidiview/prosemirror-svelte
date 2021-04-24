@@ -198,6 +198,11 @@
     margin-block-end: 1em;
   }
 
+  :global(ol.doc li p, ol.doc li p.conversation) {
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+  }
+
   :global(.puce) {
       display: list-item;
       list-style-type: disc;
