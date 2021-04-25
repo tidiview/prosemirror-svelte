@@ -67,13 +67,13 @@ mais nous n'avons jamais eu une si belle occasion que celle qui se présente auj
 et nous croirions n'avoir rien fait pour leur gloire, si nous négligions de parler du grand Ouvrage en peinture à huile qui vient d’être découvert aux yeux du Public;</p>
 <p>événement insigne, qui doit le plus illustrer notre École dans ce Siècle, et servir d'un Monument éclatant à la Postérité, pour prouver le progrès de la Peinture en France, sous le Règne de Louis XV.</p>
 <p><span style="color: #28a1c5;">L'Apothéose d'Hercule</span> fait le sujet de cette immense et magnifique composition.</p>
-<p><span style="color: #28a1c5;">François Le Moine</span>, de Paris, Professeur de l'Académie Royale de Peinture et Sculpture, Élève de M. Galoche, Professeur de la même Académie, <span style="color: #28a1c5;">y travaillait depuis quatre ans par ordre du Roy, sous la Direction du Duc d'Antin</span>, Pair de France, Chevalier des Ordres de Sa Majesté, Gouverneur de l'Orléanais, Ministre d'État, et Directeur Général des Bâtimens du Roy, Protecteur éclairé des Beaux-Arts, et toujours attentif à ce qui peut contribuer à leur avancement.</p>
+<p><span style="color: #28a1c5;">François Le Moine</span>, de Paris, Professeur de l'Académie Royale de Peinture et Sculpture, Élève de <abbr title="Monsieur">M.<abbr> Galoche, Professeur de la même Académie, <span style="color: #28a1c5;">y travaillait depuis quatre ans par ordre du Roy, sous la Direction du Duc d'Antin</span>, Pair de France, Chevalier des Ordres de Sa Majesté, Gouverneur de l'Orléanais, Ministre d'État, et Directeur Général des Bâtimens du Roy, Protecteur éclairé des Beaux-Arts, et toujours attentif à ce qui peut contribuer à leur avancement.</p>
 <p><span style="color: #28a1c5;"><time datetime="1736-09-26">Le Mercredi 26 Septembre</time></span>, jour destiné à faire paraître ce grand Ouvrage, le Salon fut, jusqu'à l'heure que le Roy le traversa pour aller à la Messe;</p>
 <p><abbr title="Sa Majesté">S.M.</abbr> accompagnée des Seigneurs, du Cardinal de Fleury et des autres Ministres, et suivie d'une très nombreux foule de Loin;</p>
 <p>s’y arrêta longtemps, et plus encore au retour de la Messe;</p>
 <p><span style="color: #28a1c5;">le Roy</span> examina alors en détail l'ordonnance en général, les differens Groupes en particulier, le Dessein, le coloris l'effet merveilleux du tout ensemble.</p>
 <p><abbr title="Sa Majesté">S.M.</abbr> dont on connaît la délicatesse du goût, et son amour pour la Peinture et pour tous les Beaux Arts,
-après avoir extrêmement loué le génie et le beau de M. Le Moine,
+après avoir extrêmement loué le génie et le beau de <abbr title="Monsieur">M.<abbr> Le Moine,
 <span style="color: #28a1c5;">le nomma sur le champ son Premier Peintre</span>, avec aplaudissement de toute la Cour, et d'un nombre infini de spectateurs que la curiosité avait attirés à Versailles,</p>
 <p>dont le concours ne diminue point, il augmente même tous les jours au même degré du point, que l'on a à voir l'exécution heureuse d'une si grande composition;</p>
 <p>car pour le dire en pas le plus grand morceau de la grande Galerie, peinte par l'illustre Le Brun, n'est pas à coup près si grand que la moitié de celui qui donne lieu à cet Article;</p>
@@ -559,9 +559,9 @@ le tout doré d'or moulu, ainsi que tous les autres ornemens de la Cheminée,
 dont le milieu est marqué par une tête d'<mark>Hercule</mark>, coiffée d'un mufle de Lyon,
 accompagnée de deux grandes feuilles d'ornemens;</p>
 <p>avec deux Cornes d'abondance, terminées au bas du Chambranle par deux têtes ou dépouilles de Lyon.</p>
-<p><span style="color: #28a1c5;">Cet Ouvrage est de feu AF. Vassé, habile Sculpteur de Toulon</span>.</p>
+<p><span style="color: #28a1c5;">Cet Ouvrage est de feu <abbr title="Antoine François">AF.<abbr> Vassé, habile Sculpteur de Toulon</span>.</p>
 <p>La bordure, du grand Tableau de P. Véronèse, incrustée dans le marbre et soutenue par quatre consoles, aussi dorées d'or moulu, est du même Sculpteur.</p>
-<p><span style="color: #28a1c5;">La bordure du Tableau de la Cheminée, les Chenets, etc. sont de AI. Verbrec, Sculpteur de l'Académie</span>.</p>
+<p><span style="color: #28a1c5;">La bordure du Tableau de la Cheminée, les Chenets, etc. sont de <abbr title="Monsieur">M.<abbr> Verbrec, Sculpteur de l'Académie</span>.</p>
 <p>Voilà le détail le plus exact et le plus méthodique que nous puissions faire, pour donner une idée de tout l'Ouvrage à ceux qui ne sont pas à portée de le voir.</p>
 <p>A l'égard du rapport des parties au tout ensemble, nous ne sçaurions y suppléer par la narration, non-plus qu'à ce qui concerne l'intelligence, la finesse et le sublime de l'Art, etc,
 jusqu'à présent nous pouvons assurer que tout a concouru unanimement pour la gloire de l'Ouvrage et de l'Auteur,
