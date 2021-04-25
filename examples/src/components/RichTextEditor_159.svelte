@@ -590,7 +590,7 @@ que celui qui est peint, paraît beaucoup plus élevé que celui qui n'est point
   <p>unité de mesure de l'Ancien Régime. 1 pied équivaut 32,48 cm. Le plafond mesure donc 20,8 × 16,6 m, pour 2,8 m de profondeur.</p>
 </div>
 <footer>
-  <p class="puce">retour au texte: <a href="#pieds" title="retour à la note « pied »">ce plafond porte 64 pieds ↑</a></p>
+  <p class="puce">retour au texte: <a href="#pieds" title="retour à la note « pied »">ce plafond porte 64 pieds ↩</a></p>
 </footer>
 
 <h4 id="note_breche" class="blue note">Brèche:</h4>
@@ -598,7 +598,7 @@ que celui qui est peint, paraît beaucoup plus élevé que celui qui n'est point
   <p>Terme de géologie. Marbre noir, mêlé de taches blanches et jaunes, qu'on tire des Pyrénées et d'autres lieux.</p>
 </div>
 <footer>
-  <p class="puce">revenir au texte: <a href="#breche" title="brèche">Brèche ↑</a>  </p>
+  <p class="puce">revenir au texte: <a href="#breche" title="brèche">Brèche ↩</a>  </p>
 </footer>
 
 </aside>
