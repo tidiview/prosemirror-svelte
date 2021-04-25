@@ -9,7 +9,7 @@
 
 <hgroup>
 <h1 class="green">place Vendôme</h1>
-<h2 class="green">aux XVII<sup>ème</sup> siècle</h2>
+<h2 class="green">au <abbr title="dix-septième">XVII<sup>ème</sup></abbr> siècle</h2>
 </hgroup>
 
 <figure>
@@ -36,7 +36,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-focus_700x415.jpg 700w"></picture><figcaption>La place Vendôme à Paris d'après le Plan de Turgot en <time datetime="1734">1734</time></figcaption>
 </figure>
 
-<h2 class="green">la place Vendôme au XVII<sup style="color:#3d8b3d;">ème</sup> siècle</h2>
+<h2 class="green">la place Vendôme au <abbr title="dix-septième">XVII<sup>ème</sup></abbr> siècle</h2>
 
 <div class="notices green">
 <p>La <a href="https://fr.wikipedia.org/wiki/Place_Vendôme" title="https://fr.wikipedia.org/wiki/Place_Vendôme">place Vendôme</a> a connu un visage très différent avant l'ouverture de la <a href="https://fr.wikipedia.org/wiki/Rue_de_Rivoli" title="https://fr.wikipedia.org/wiki/Rue_de_Rivoli">rue de Rivoli</a> (<time datetime="1801">1801</time>).</p>
@@ -73,7 +73,7 @@ Cette forme est jugée trop rigide; en <time datetime="1700">1700</time>, une pa
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-castiglione-focus-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-castiglione-focus-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-castiglione-focus-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-castiglione-focus_669x484.jpg 669w"></picture><figcaption><b><abbr title="figure">fig.</abbr> 1:</b> avant le percement de la rue Castiglione, l'accès depuis la rue Saint-Honoré (<time datetime="1734">1734</time>)</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-castiglione-focus_669x484.jpg 669w"></picture><figcaption><b>figure 1.</b> avant le percement de la rue Castiglione, l'accès depuis la rue Saint-Honoré (<time datetime="1734">1734</time>)</figcaption>
 </figure>
 
 <p>L'accès ne s'effectue que par:</p>
@@ -104,7 +104,7 @@ Cette forme est jugée trop rigide; en <time datetime="1700">1700</time>, une pa
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-paix-focus-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-paix-focus-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-paix-focus-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-paix-focus_700x447.jpg 700w"></picture><figcaption><b><abbr title="figure">fig.</abbr> 2:</b> avant le percement de la rue de la paix, l'accès depuis la rue des Capucines (<time datetime="1734">1734</time>)</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-paix-focus_700x447.jpg 700w"></picture><figcaption><b>figure 2.</b> avant le percement de la rue de la paix, l'accès depuis la rue des Capucines (<time datetime="1734">1734</time>)</figcaption>
 </figure>
 
 <p>Elle n'était donc pas traversante comme depuis le <abbr title="dix-neuvième">XIX<sup>ème</sup></abbr> siècle.  </p>
@@ -131,7 +131,7 @@ Cette forme est jugée trop rigide; en <time datetime="1700">1700</time>, une pa
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus_700x411.jpg 700w"></picture><figcaption><b><abbr title="figure">fig.</abbr> 3:</b> avant le percement de la rue de la paix, le second couvent des Capucines (<time datetime="1705">1705</time>)</figcaption></figure>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus_700x411.jpg 700w"></picture><figcaption><b>figure 3.</b> avant le percement de la rue de la paix, le second couvent des Capucines (<time datetime="1705">1705</time>)</figcaption></figure>
 
 <p><a href="https://fr.wikipedia.org/wiki/Madame_de_Pompadour" title="https://fr.wikipedia.org/wiki/Madame_de_Pompadour">Madame de Pompadour</a> a été enterrée, ainsi que sa mère et sa sœur, dans l'église.</p>
 <p>En face, côté <a href="https://fr.wikipedia.org/wiki/Jardin_des_Tuileries" title="https://fr.wikipedia.org/wiki/Jardin_des_Tuileries">Tuileries</a>, un autre portail, le portail du <a href="https://fr.wikipedia.org/wiki/Couvent_des_Feuillants" title="https://fr.wikipedia.org/wiki/Couvent_des_Feuillants">couvent des Feuillants</a> lui répondait (<a href="#feuillants"><abbr title="figure">fig.</abbr> 4</a>).</p>
@@ -157,10 +157,10 @@ Cette forme est jugée trop rigide; en <time datetime="1700">1700</time>, une pa
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-feuillants-focus-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-feuillants-focus-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-feuillants-focus-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-feuillants-focus_700x438.jpg 700w"></picture><figcaption><b><abbr title="figure">fig.</abbr> 4:</b> avant le percement de la rue de Castiglione, le portail du couvent des Feuillants (1754)</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-feuillants-focus_700x438.jpg 700w"></picture><figcaption><b>figure 4.</b> avant le percement de la rue de Castiglione, le portail du couvent des Feuillants (<time datetime="1754">1754</time>)</figcaption>
 </figure>
 
-<p>Au centre de la place, se dresse, dès </time>1699</time>, la statue de <a href="https://fr.wikipedia.org/wiki/Louis_XIV" title="https://fr.wikipedia.org/wiki/Louis_XIV">Louis XIV</a> dite de « Louis Le Grand » (<a href="#statue"><abbr title="figure">fig.</abbr> 5</a>).</p>
+<p>Au centre de la place, se dresse, dès <time datetime="1699">1699</time>, la statue de <a href="https://fr.wikipedia.org/wiki/Louis_XIV" title="https://fr.wikipedia.org/wiki/Louis_XIV">Louis XIV</a> dite de « Louis Le Grand » (<a href="#statue"><abbr title="figure">fig.</abbr> 5</a>).</p>
 <p>C'est une œuvre impressionnante de <a id="girardon" href="https://fr.wikipedia.org/wiki/François_Girardon" title="https://fr.wikipedia.org/wiki/François_Girardon">François GIRARDON</a> qui atteint, avec son piédestal, une hauteur de 17&nbspm de haut.</p>
 <p>La <a href="https://fr.wikipedia.org/wiki/Révolution_française" title="https://fr.wikipedia.org/wiki/Révolution_française">Révolution</a> la détruira mais un des énormes pieds du roi a survécu à la fonte et est exposé au Musée d'Histoire de la Ville de Paris, le <a href="https://fr.wikipedia.org/wiki/Musée_Carnavalet" title="https://fr.wikipedia.org/wiki/Musée_Carnavalet">Musée Carnavalet</a>.</p>
 
@@ -185,7 +185,7 @@ Cette forme est jugée trop rigide; en <time datetime="1700">1700</time>, une pa
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-statue-focus-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-statue-focus-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-statue-focus-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-statue-focus_700x875.jpg 700w"></picture><figcaption><b><abbr title="figure">fig.</abbr> 5:</b> au centre de la place, la statue de Louis Le Grand (<time datetime="1699">1699</time>)</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-statue-focus_700x875.jpg 700w"></picture><figcaption><b>figure 5.</b> au centre de la place, la statue de Louis Le Grand (<time datetime="1699">1699</time>)</figcaption>
 </figure>
 
 <aside>
