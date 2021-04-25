@@ -37,6 +37,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.l
 
 <p>Our admiration and love for this divine Monna Lisa del Giocondo is not new, and many passions for real people have lasted less time.</p>
 <p>We have been writing these lines for about twelve years now, perhaps a little too enthusiastic, but they accurately reflect our impression:</p>
+
 <p class="conversation">«La Joconde!</p>
 <p class="conversation"><span style="color: #3d8b3d;">Sphinx of beauty</span> who smiles so mysteriously in frame of Leonardo da Vinci and seems to offer to the admiration of centuries an enigma by them not yet solved, an invincible attraction brings every back to thee!
 Oh! indeed. Who has not long hours before that head bathed twilight half tints enveloped in transparent gauze and whose features melodiously drowned in a violet vapor appear like <span style="color: #3d8b3d;">the creation of Dream through the  black gauze of Sleep</span>!</p>
@@ -49,6 +50,7 @@ Oh! indeed. Who has not long hours before that head bathed twilight half tints e
 <p class="conversation">Believe that, if Don Juan had met Mona Lisa, he would have spared himself the trouble of writing down the names of three thousand women on his list; 
 he would have drawn but one; and the wings of his desire would have refused to carry him further.</p>
 <p class="conversation">They would have melted and become deplumed before the black sun of these sloes».</p>
+
 <p>We have seen her very often since then, that adorable Joconde, and our declaration of love does not appear to us too burning.
 She is ever there, smiling with a mocking voluptuousness upon her innumerable lovers.</p>
 <p><span style="color: #3d8b3d;">Upon her brow reposes that serenity of a woman sure of being eternally beautiful, and who feels herself superior to the ideal of all poets and of all artists.</span></p>
@@ -62,6 +64,7 @@ We do not think so.</p>
 <footer>
   <p><span style="color: #3d8b3d;"><a href="https://en.wikipedia.org/wiki/Théophile_Gautier" title="https://en.wikipedia.org/wiki/Théophile_Gautier" class="green">Théophile Gautier</a>, extract from a guidebook collective work intended for visitors to <time datetime="1867">1867</time> Universal Exhibition of Paris, guidebook by the main French writers and artists</span>, in which <a href="https://en.wikipedia.org/wiki/Alexandre_Dumas" title="https://en.wikipedia.org/wiki/Alexandre_Dumas">Dumas</a>, <a href="https://en.wikipedia.org/wiki/Charles-Augustin_Sainte-Beuve" title="https://en.wikipedia.org/wiki/Charles-Augustin_Sainte-Beuve">Sainte-Beuve</a>, <a href="https://en.wikipedia.org/wiki/Eugène_Viollet-le-Duc" title="https://en.wikipedia.org/wiki/Eugène_Viollet-le-Duc">Viollet-le-Duc</a>, <a href="https://en.wikipedia.org/wiki/George_Sand" title="https://en.wikipedia.org/wiki/George_Sand">George Sand</a>, <a href="https://en.wikipedia.org/wiki/Nadar" title="https://en.wikipedia.org/wiki/Nadar">Nadar</a>... also participated, then reprinted as a book upon the author's death under the title "amateur's Guide to the Louvre Museum".</p>
 </footer>
+
 </article>
 `;
 
