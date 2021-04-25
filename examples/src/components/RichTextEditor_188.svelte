@@ -6,7 +6,9 @@
 
   const html = `
 <article>
-<h1>The Mona Lisa according to Theophile Gautier</h1>
+
+<h1 class="green">The Mona Lisa according to Theophile Gautier</h1>
+
 <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-380.webp 380w,
@@ -30,6 +32,8 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.l
 <p>It is a crucial description for the history of this painting because it both mythologizes and diverts <a href="https://en.wikipedia.org/wiki/Leonardo_da_Vinci" title="https://en.wikipedia.org/wiki/Leonardo_da_Vinci">Leonardo da Vinci</a>'s work in the name of the mystery it seems to embody and influences many of the biased views of the work during the 20<sup>th</sup> century.</p>
 <p>We believe that if this description is misogynistic, that this misogyny is neither part of Leonardo da Vinci's work nor part of artistic emotion and that the Mona Lisa would benefit from being rid of Theophile Gautier's chimeras.</p>
 </div>
+
+<h2 class="green">The Mona Lisa according to Theophile Gautier</h2>
 
 <p>Our admiration and love for this divine Monna Lisa del Giocondo is not new, and many passions for real people have lasted less time.</p>
 <p>We have been writing these lines for about twelve years now, perhaps a little too enthusiastic, but they accurately reflect our impression:</p>
@@ -56,7 +60,7 @@ We do not think so.</p>
 <p>Now, mystery adds itself to charm, and the painting, in its freshness, was perhaps less attractive.</p>
 
 <footer>
-<p><span style="color: #3d8b3d;"><a href="https://en.wikipedia.org/wiki/Théophile_Gautier" title="https://en.wikipedia.org/wiki/Théophile_Gautier" class="green">Théophile Gautier</a>, extract from a guidebook collective work intended for visitors to <time datetime="1867">1867</time> Universal Exhibition of Paris, guidebook by the main French writers and artists</span>, in which <a href="https://en.wikipedia.org/wiki/Alexandre_Dumas" title="https://en.wikipedia.org/wiki/Alexandre_Dumas">Dumas</a>, <a href="https://en.wikipedia.org/wiki/Charles-Augustin_Sainte-Beuve" title="https://en.wikipedia.org/wiki/Charles-Augustin_Sainte-Beuve">Sainte-Beuve</a>, <a href="https://en.wikipedia.org/wiki/Eugène_Viollet-le-Duc" title="https://en.wikipedia.org/wiki/Eugène_Viollet-le-Duc">Viollet-le-Duc</a>, <a href="https://en.wikipedia.org/wiki/George_Sand" title="https://en.wikipedia.org/wiki/George_Sand">George Sand</a>, <a href="https://en.wikipedia.org/wiki/Nadar" title="https://en.wikipedia.org/wiki/Nadar">Nadar</a>... also participated, then reprinted as a book upon the author's death under the title "amateur's Guide to the Louvre Museum".</p>
+  <p><span style="color: #3d8b3d;"><a href="https://en.wikipedia.org/wiki/Théophile_Gautier" title="https://en.wikipedia.org/wiki/Théophile_Gautier" class="green">Théophile Gautier</a>, extract from a guidebook collective work intended for visitors to <time datetime="1867">1867</time> Universal Exhibition of Paris, guidebook by the main French writers and artists</span>, in which <a href="https://en.wikipedia.org/wiki/Alexandre_Dumas" title="https://en.wikipedia.org/wiki/Alexandre_Dumas">Dumas</a>, <a href="https://en.wikipedia.org/wiki/Charles-Augustin_Sainte-Beuve" title="https://en.wikipedia.org/wiki/Charles-Augustin_Sainte-Beuve">Sainte-Beuve</a>, <a href="https://en.wikipedia.org/wiki/Eugène_Viollet-le-Duc" title="https://en.wikipedia.org/wiki/Eugène_Viollet-le-Duc">Viollet-le-Duc</a>, <a href="https://en.wikipedia.org/wiki/George_Sand" title="https://en.wikipedia.org/wiki/George_Sand">George Sand</a>, <a href="https://en.wikipedia.org/wiki/Nadar" title="https://en.wikipedia.org/wiki/Nadar">Nadar</a>... also participated, then reprinted as a book upon the author's death under the title "amateur's Guide to the Louvre Museum".</p>
 </footer>
 </article>
 `;
