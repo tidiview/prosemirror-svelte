@@ -5,17 +5,21 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-<p><span>12</span><sup> </sup><i class="fa fa-calendar-o fa-2x"></i></p>
-<p>Fév.</p>
-<p><span>2020</span></p>
-<h1 class="red"><a href="/blog/fr/marivaux" rel="bookmark">Marivaux, “L'île des esclaves”</a></h1>
+<article>
+
+<p><time datetime="2020-02-12">12 Fév. 2020</time></p>
+
+<h1 class="red">Marivaux, <cite>L'île des esclaves</cite></h1>
+
 <div class="notices red">
 <p>Dans une Antiquité de fantaisie, Iphicrate, un jeune noble athénien, se retrouve jeté sur le rivage d’une île avec son serviteur Arlequin.</p>
 <p>Le maître et le valet sont rejoints par un autre duo formé d'une maîtresse, Euphrosine, et de sa suivante, Cléanthis.<br>
 Trivelin les accueille en leur expliquant les lois de l'île: les rapports de pouvoir y sont systématiquement inversés.<br>
 Les maîtres et les esclaves nouvellement arrivés doivent échanger leurs habits, leurs conditions et jusqu'à leurs noms.</p>
 </div>
-<h2>Marivaux, “L'île des esclaves”, scène 2</h2>
+
+<h2>Marivaux, <cite>L'île des esclaves</cite>, scène 2</h2>
+
 <div id="translation-text-rousi">
 <style>.list-blog-padding #translation-text-rousi tr td:first-child {color: #000;font-size: 1.25rem;text-align: right;vertical-align: top;} tr td {vertical-align: top;}</style>
 <table>
@@ -204,8 +208,12 @@ Les maîtres et les esclaves nouvellement arrivés doivent échanger leurs habit
 </tr>
 </tbody>
 </table>
+
+<footer>
 <p>[source: édition originale de 1725, consultable sur <a href="https://gallica.bnf.fr/ark:/12148/bpt6k5754427b/f12.item.texteImage">Gallica</a>, page 11]<br>[la pièce ne comporte qu'un acte]</p>
-</div>
+</footer>
+
+</article>
 `;
 
   let focusEditor;
