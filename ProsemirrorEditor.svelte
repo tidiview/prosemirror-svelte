@@ -203,6 +203,14 @@
     margin-block-end: 0px;
   }
 
+  :global(ol.doc-special li::marker) {
+    content: none;
+  }
+  
+  :global(ol.doc-special li[id]::marker) {
+    content: attr(id) ". "
+  }
+
   :global(.puce) {
       display: list-item;
       list-style-type: disc;
