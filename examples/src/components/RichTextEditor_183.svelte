@@ -6,9 +6,10 @@
 
   const html = `
 <article>
+
 <p><time datetime="2019-09-11">11<sup>th</sup> Sep. 2019</time></p>
 
-<h1><a href="/blog/en/fontenelle" rel="bookmark">first evening of the <cite>Conversations on the Plurality of Worlds</cite></a></h1>
+<h1>first evening of the <cite>Conversations on the Plurality of Worlds</cite></h1>
 
 <div class="notices red">
 <p>Published by Fontenelle when astronomy was in vogue after the comet of <time datetime="1681">1681</time>,
@@ -32,16 +33,16 @@ thirty-three editions during Fontenelle's lifetime.</p>
 <p>The aim was to promote Descartes' mechanistic philosophy, since the Opera was essentially a "machine" show (this is how the mechanical means by which the theatre or opera was produced were described, the effects that gave spectators the illusion of the wonderful. But revealing the "Opera machines" is also to desacralize the universe and demystify an earlier textuality (Aristotle, Plato...).</p>
 </div>
 
-<h2>first evening</h2>
+<h2>Excerpt from the first chapter: «first evening»</h2>
 
 <p>Thus true philosophers spend their lives not believing what they see, and trying to guess what they do not see, and this condition is not, it seems to me, too much to envy.</p>
-<p>On this I always figure that nature is a great show that resembles that of the Opera <a id="renvoi-opera" href="#opera" title="#opera"><sup>1</sup></a>.</p>
+<p>On this I always figure that nature is a great show that resembles that of the <a id="renvoi-opera" href="#opera" title="#opera">Opera</a>.</p>
 <p>From where you are at the Opera House, you do not see the theatre quite as it is; the decorations and machines have been arranged to make a pleasant effect from a distance, and these wheels and counterweights that make all the movements are hidden from your view.</p>
 <p>So don't be embarrassed to guess how all this works.</p>
-<p>There may be only a few machinists hidden in the parterre <a id="renvoi-parterre" href="#parterre" title="#parterre"><sup>2</sup></a>, who are worried about a theft that will have seemed extraordinary to him and who absolutely wants to untangle how this flight was carried out.</p>
+<p>There may be only a few machinists hidden in the <a id="renvoi-parterre" href="#parterre" title="#parterre">parterre</a>, who are worried about a theft that will have seemed extraordinary to him and who absolutely wants to untangle how this flight was carried out.</p>
 <p>You can see that this machinist is quite made like philosophers.</p>
 <p>But what makes it more difficult for philosophers is that in the machines that nature presents to us, the strings are perfectly well hidden, and they are so well hidden that we have long been guessing what caused the movements of the universe.</p>
-<p>For do you represent all the wise men at the Opera, the Pythagoras, the Plato, the Aristotle, and all those people whose names now make so much noise to our ears; suppose they saw the theft of Phaeton <a id="renvoi-phaeton" href="#phaeton" title="#phaeton"><sup>3</sup></a> that the winds remove, that they could not discover the strings, and that they did not know how the back of the theatre was arranged.</p>
+<p>For do you represent all the wise men at the Opera, the Pythagoras, the Plato, the Aristotle, and all those people whose names now make so much noise to our ears; suppose they saw the theft of <a id="renvoi-phaeton" href="#phaeton" title="#phaeton">Phaeton</a> that the winds remove, that they could not discover the strings, and that they did not know how the back of the theatre was arranged.</p>
 <p>One of them said: "It is a certain secret virtue that takes Phaeton away".</p>
 <p>The other: "Phaeton is composed of certain numbers that make it rise".</p>
 <p>The other: "Phaeton has a certain friendship for the top of the theatre; he is not at ease when he is not there".</p>

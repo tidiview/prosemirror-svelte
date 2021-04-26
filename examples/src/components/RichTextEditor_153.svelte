@@ -9,7 +9,7 @@
 
 <p><time datetime="2019-09-11">11 Sep. 2019</time></p>
 
-<h1 class="red"><a href="/blog/fr/fontenelle" rel="bookmark">Fontenelle, premier soir des <cite>entretiens sur la pluralité des mondes</cite></a></h1>
+<h1 class="red">Fontenelle, premier soir des <cite>entretiens sur la pluralité des mondes</cite></h1>
 
 <div class="notices red">
 <p>Publiés par Fontenelle en 1686 alors que l’astronomie était à la mode après le passage de la comète de 1681,
@@ -56,6 +56,29 @@ Vous voyez bien que ce machiniste-là est assez fait comme les philosophes.</p>
 <p>J'ai vu des gens qui l'en estimaient moins, depuis qu’ils l'avaient connu.</p>
 <p>Et moi, répliqua-t'elle, je l'en estime beaucoup plus, depuis que je sais qu'il ressemble à une montre.</p>
 <p>Il est surprenant que l'ordre de la nature, tout admirable qu'il est, ne roule que sur des choses si simples.</p>
+
+<aside>
+  <h3 class="yellow">Notes:</h3>
+
+  <h4 id="opera" class="yellow note">Opera</h4>
+  <p>Opera:  proper name designating the Paris Opera, founded in <time datetime="1669">1669</time>.</p>
+  <footer>
+    <p class="puce"><a href="#renvoi-opera" title="#renvoi-opera">back to text ↩</a></p>
+  <footer>
+  
+  <h4 id="parterre" class="yellow note">Parterre</h4>
+  <p>Parterre: Ground floor of a theatre where the audience was standing and where the seats were cheaper than in the dressing rooms.</p>
+  <footer>
+    <p class="puce"><a href="#renvoi-parterre" title="#renvoi-parterre">back to text ↩</a></p>
+  <footer>
+
+  <h4 id="phaeton" class="yellow note">Lulli's <cite>Phaeton</cite></h4>
+  <p><cite>Phaeton</cite>, Quinault's lyrical tragedy in five acts, Lulli's music created at the Opera in <time datetime="1683">1683</time>, and whose success was considerable. Phaeton's flight on the Sun chariot takes place in act III, scene 6.</p>
+  <footer>
+    <p class="puce"><a href="#renvoi-phaeton" title="#renvoi-phaeton">back to text ↩</a></p>
+  <footer>
+
+</aside>
 
 <footer>
 <p>[source: édition originale de <time datetime="1686">1686</time>, consultable sur <a href="https://gallica.bnf.fr/ark:/12148/btv1b86207579/f60.item">Gallica</a>, page 20]</p>
