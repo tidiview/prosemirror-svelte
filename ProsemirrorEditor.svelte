@@ -208,7 +208,32 @@
   }
   
   :global(ol.doc-special li[id]::marker) {
-    content: attr(id) ". "
+    content: attr(id) ". ";
+  }
+
+  :global(ol.doc-three-rows) {
+    padding-inline-start: 0px;
+  }
+
+  :global(ol.doc-three-rows li) {
+    margin-top: 1em;
+    margin-block-end: 1em;
+    margin-block-start: 1em;
+    margin-inline-start: 153px;
+  }
+
+  :global(ol.doc-three-rows li::marker) {
+    content: attr(data-id);
+    width: 100px;
+    font-variant-numeric: normal;
+  }
+
+  :global(ol.doc-three-rows li[id]::before) {
+    content: attr(id) ". ";
+    position: absolute;
+    left: 1em;
+    padding-top: 2px;
+    padding-bottom: 2px;
   }
 
   :global(.puce) {
