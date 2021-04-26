@@ -9,7 +9,7 @@
 
 <p><time datetime="2020-03-12">12 Mars 2020</time></p>
 
-<h1 class="yellow"><a href="/blog/fr/phedre">sur la nature de l'âme selon <cite>Phèdre</cite></a></h1>
+<h1 class="yellow"><a href="/blog/fr/phedre">Sur la nature de l'âme selon <cite>Phèdre</cite></a></h1>
 
 <div class="notices yellow">
 <p>Dans cette partie du dialogue <cite>Phèdre</cite> (246a–248c), <a href="https://fr.wikipedia.org/wiki/Platon" title="https://fr.wikipedia.org/wiki/Platon">Platon</a> décrit la nature de l'âme, comme une puissance composée par un attelage ailé céleste qui quitte sa demeure afin de participer à la marche céleste.</p>
@@ -96,6 +96,7 @@
 
 <footer>
   <p>Platon, <cite>Phèdre</cite>, paragraphes 246A à 248C.</p>
+  <p><time datetime="P5M30">5 min. 30''</time></p>
 </footer>
 </article>
 `;

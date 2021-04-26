@@ -13,7 +13,7 @@
 <h1 class="blue"><a href="/blog/en/diotime/page:1">Love according to Diotime</a></h1>
 
 <div class="notices blue">
-  <p>In Plato's <citeBanquet</cite>, a few people gathered for a social gathering exchange views on the meaning of <ruby lang="fr">love<rp>(</rp><rt lang="grc">Érôs</rt><rp>)</rp></ruby>.</p>
+  <p>In Plato's <cite>Banquet</cite>, a few people gathered for a social gathering exchange views on the meaning of <ruby lang="fr">love<rp>(</rp><rt lang="grc">Érôs</rt><rp>)</rp></ruby>.</p>
   <p>It is there that <a href="/blog/en/eros#note_socrate" title="Socrate" id="socrate">Socrates</a> declares that as a young man, the "philosophy of Love" was taught to him by <a href="/blog/en/eros#note_diotime" title="Diotime" id="diotime">Diotime</a>, priestess and prophet.</p>
   <p>Below, Socrates asks Diotime several questions about love.</p>
 </div>
