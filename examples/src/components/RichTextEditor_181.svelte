@@ -9,7 +9,7 @@
 
 <p><time datetime="2020-04-12">12<sup>th</sup> Mar. 2020</time></p>
 
-<h1><a href="/blog/en/phedre" rel="bookmark">On the nature of the soul according to <cite>Phedre</cite></a></h1>
+<h1>On the nature of the soul according to <cite>Phedre</cite></h1>
 
 <div class="notices yellow">
 <p>In this part of the dialogue <cite>Phedre</cite> (246a-248c), <a href="https://en.wikipedia.org/wiki/Plato" title="https://fr.wikipedia.org/wiki/Platon">Plato</a> describes the nature of the soul as a power composed by a celestial winged chariot that leaves its home to participate in the heavenly march.</p>
