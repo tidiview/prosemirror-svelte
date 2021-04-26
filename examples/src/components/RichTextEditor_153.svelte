@@ -4,14 +4,16 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `<p><span>11</span><sup> </sup></p>
-<p>Sep.</p>
-<p><span>2019</span></p>
-</div>
-<h1 class="red"><a href="/blog/fr/fontenelle" rel="bookmark">Fontenelle, premier soir des “entretiens sur la pluralité des mondes”</a></h1>
+  const html = `
+<article>
+
+<p><time datetime="2019-09-11">11 Sep. 2019</time></p>
+
+<h1 class="red"><a href="/blog/fr/fontenelle" rel="bookmark">Fontenelle, premier soir des <cite>entretiens sur la pluralité des mondes</cite></a></h1>
+
 <div class="notices red">
 <p>Publiés par Fontenelle en 1686 alors que l’astronomie était à la mode après le passage de la comète de 1681,
-les “entretiens sur la pluralité des mondes” sont une explication des différents systèmes du monde.</p>
+<cite>es “entretiens sur la pluralité des mondes</cite> sont une explication des différents systèmes du monde.</p>
 </div>
 
 <div class="notices red">
@@ -32,6 +34,7 @@ Il s'agit de promouvoir la philosophie mécaniste de Descartes, l'Opéra étant 
 </div>
 
 <h2 class="red">Extrait du premier chapître: «premier soir»</h2>
+
 <p>Ainsi les vrais philosophes passent leur vie à ne point croire ce qu'ils voient, et à tâcher de deviner ce qu'ils ne voient point, et cette condition n'est pas, ce me semble, trop à envier.</p>
 <p>Sur cela je me figure toujours que la nature est un grand spectacle qui ressemble à celui de l'Opéra (1 Nom propre désignant l'Opéra de Paris, fondé en 1669.).</p>
 <p>Du lieu où vous êtes à l'Opéra, vous ne voyez pas le théâtre tout à fait comme il est; on a disposé les décorations et les machines, pour faire de loin un effet agréable, et on cache à votre vue ces roues et ces contrepoids qui font tous les mouvements.</p>
@@ -53,7 +56,12 @@ Vous voyez bien que ce machiniste-là est assez fait comme les philosophes.</p>
 <p>J'ai vu des gens qui l'en estimaient moins, depuis qu’ils l'avaient connu.</p>
 <p>Et moi, répliqua-t'elle, je l'en estime beaucoup plus, depuis que je sais qu'il ressemble à une montre.</p>
 <p>Il est surprenant que l'ordre de la nature, tout admirable qu'il est, ne roule que sur des choses si simples.</p>
-<p>[source: édition originale de 1686, consultable sur <a href="https://gallica.bnf.fr/ark:/12148/btv1b86207579/f60.item">Gallica</a>, page 20]</p>
+
+<footer>
+<p>[source: édition originale de <time datetime="1686">1686</time>, consultable sur <a href="https://gallica.bnf.fr/ark:/12148/btv1b86207579/f60.item">Gallica</a>, page 20]</p>
+</footer>
+
+</article>
 `;
 
   let focusEditor;
