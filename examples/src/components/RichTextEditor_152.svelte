@@ -183,7 +183,7 @@ Qui a raconté son origine?</p>
 
 <h4 id="note_perce" class="green note">ils ont percé mes mains et mes pieds; ils ont partagé entre eux mes vêtements</h4>
 <div class="notices green">
-  <p>Psaumes, <abbr title="vingt et un">XXI</abbr>, vers 17 (seconde partie), 19:</p>
+  <p>Psaumes, <abbr title="vingt et un">XXI</abbr>, verset 17 (seconde partie), 19:</p>
   <ol class="doc">
     <li value="17">Ils me percent les mains et les pieds;</li>
     <li value="19">Ils partagent entre eux mes habits et tirent au sort mon vêtement.”</li>
@@ -195,7 +195,7 @@ Qui a raconté son origine?</p>
 
 <h4 id="note_fiel" class="green note">ils m'ont donné pour ma nourriture du fiel et dans ma soif ils m'ont abreuvé de vinaigre</h4>
 <div class="notices green">
-  <p>Psaumes, <abbr title="soixante-huit">LXVIII</abbr>, vers 22:</p>
+  <p>Psaumes, <abbr title="soixante-huit">LXVIII</abbr>, verset 22:</p>
    <p id="22" class="single-li">À mon pain, ils ont mêlé du poison; quand j'avais soif, ils m'ont donné du vinaigre.</p>
 </div>
 <footer>
@@ -204,7 +204,7 @@ Qui a raconté son origine?</p>
 
 <h4 id="note_parlebois" class="green note">le Seigneur a régné par le bois</h4>
 <div class="notices green">
-  <p>Selon Buchner (“Zehn Bacher Geschichten”, <abbr title="deux">II</abbr>, p. 11, n. 7), ces mots seraient une interpolation chrétienne qui n'aurait pas été acceptée par les auteurs de la Vulgate.</p>
+  <p>Selon Buchner (“Zehn Bacher Geschichten”, <abbr title="deux">II</abbr>, <abbr title="page">p.<abbr>&nbsp11, note 7), ces mots seraient une interpolation chrétienne qui n'aurait pas été acceptée par les auteurs de la Vulgate.</p>
 </div>
 <footer>
   <p class="puce">retour au texte: <a href="#parlebois" title="Le Seigneur a régné par le bois">(10) ↩</a></p>
@@ -212,10 +212,8 @@ Qui a raconté son origine?</p>
 
 <h4 id="note_meurtrissure" class="green note">nous avons été guéris par sa meurtrissure</h4>
 <div class="notices green">
-  <p>Isaïe, <abbr title="cinquante-trois">LIII</abbr>, vers 5:</p>
-  <ol class="doc">
-    <li value="5">“Or, c’est à cause de nos révoltes qu’il a été transpercé, à cause de nos fautes qu’il a été broyé. Le châtiment qui nous donne la paix a pesé sur lui: par ses blessures, nous sommes guéris”.</li>
-  </ol>
+  <p>Isaïe, <abbr title="cinquante-trois">LIII</abbr>, verset 5:</p>
+  <p id="5" class="single-li">“Or, c’est à cause de nos révoltes qu’il a été transpercé, à cause de nos fautes qu’il a été broyé. Le châtiment qui nous donne la paix a pesé sur lui: par ses blessures, nous sommes guéris”.</p>
 </div>
 <footer>
   <p class="puce">retour au texte: <a href="#meurtrissure" title="Nous avons été guéris par sa meurtrissure">(11) ↩</a></p>
@@ -224,7 +222,8 @@ Qui a raconté son origine?</p>
 
 <h4 id="note_commeunebrebis" class="green note">comme une brebis il a été mené à la tuerie</h4>
 <div class="notices green">
-  <p>Isaïe, <abbr title="cinquante-trois">LIII</abbr>, 7: “Maltraité, il s’humilie, il n’ouvre pas la bouche: comme un agneau conduit à l’abattoir, comme une brebis muette devant les tondeurs, il n’ouvre pas la bouche”.
+  <p>Isaïe, <abbr title="cinquante-trois">LIII</abbr>, verset 7:</p>
+  <p id="7" class="single-li">Maltraité, il s’humilie, il n’ouvre pas la bouche: comme un agneau conduit à l’abattoir, comme une brebis muette devant les tondeurs, il n’ouvre pas la bouche.</p>
 </div>
 <footer>
    <p class="puce">retour au texte: <a href="#commeunebrebis" title="Comme une brebis il a été mené à la tuerie">(12) ↩</a></p>
@@ -232,7 +231,8 @@ Qui a raconté son origine?</p>
 
 <h4 id="note_armees" class="green note">seigneur des armées est son nom</h4>
 <div class="notices green">
-  <p>Isaïe, <abbr title="cinquante-quatre">LIV</abbr>, 5: “Car ton époux, c’est Celui qui t’a faite, son nom est «Le Seigneur de l’univers». Ton rédempteur, c’est le Saint d’Israël, il s’appelle «Dieu de toute la terre»”.</p>
+  <p>Isaïe, <abbr title="cinquante-quatre">LIV</abbr>, verset 5:</p>
+  <p id="5" class="single-li">Car ton époux, c’est Celui qui t’a faite, son nom est «Le Seigneur de l’univers». Ton rédempteur, c’est le Saint d’Israël, il s’appelle «Dieu de toute la terre»”.</p>
 </div>
 <footer>
   <p class="puce">retour au texte: <a href="#armees" title="Seigneur des armées est son nom">(13) ↩</a></p>
@@ -241,10 +241,12 @@ Qui a raconté son origine?</p>
 <h4 id="note_lionceau" class="green note">les fils de ton père t'adoreront, lionceau Juda</h4>
 <div class="notices green">
   <p>Grégoire de Tours s'inspire dans sa réplique de la Génèse sans reproduire littéralement le texte.</p>
-  <p>Génèse <abbr title="quarante-quatre">XLIX</abbr>, 8-12:</p>
-  <p>“08 Juda, à toi, tes frères rendront hommage, ta main fera plier la nuque de tes ennemis et les fils de ton père se prosterneront devant toi.</p>
-  <p>09 Juda est un jeune lion. Tu remontes du carnage, mon fils. Il s’est accroupi, il s’est couché comme un lion ; ce fauve, qui le fera lever?</p>
-  <p>10 Le sceptre royal n’échappera pas à Juda, ni le bâton de commandement, à sa descendance, jusqu’à ce que vienne celui à qui le pouvoir appartient, à qui les peuples obéiront”.</p>
+  <p>Génèse <abbr title="quarante-quatre">XLIX</abbr>, versets 8 à 12:</p>
+  <ol class="doc">
+    <li value="08">Juda, à toi, tes frères rendront hommage, ta main fera plier la nuque de tes ennemis et les fils de ton père se prosterneront devant toi.</li>
+    <li value="09">Juda est un jeune lion. Tu remontes du carnage, mon fils. Il s’est accroupi, il s’est couché comme un lion ; ce fauve, qui le fera lever?</li>
+    <li value="10">Le sceptre royal n’échappera pas à Juda, ni le bâton de commandement, à sa descendance, jusqu’à ce que vienne celui à qui le pouvoir appartient, à qui les peuples obéiront”.</li>
+  </ol>
 </div>
 <footer>
   <p class="puce">retour au texte: <a href="#lionceau" title="Les fils de ton père t'adoreront, lionceau Juda">(14) ↩</a></p>
