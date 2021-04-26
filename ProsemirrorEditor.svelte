@@ -256,6 +256,19 @@
     margin-bottom: 1em;
     margin-block-end: 1em;
   }
+  
+  :global(p.single-li) {
+    display: list-item;
+    list-style-type: none;
+      margin-top: 1em;
+      margin-block-end: 1em;
+      margin-block-start: 1em;
+      margin-inline-start: 40px; 
+  }
+  
+  :global(p.single-li::marker) {
+    content: attr(id) ". "
+  }
 
 
   :global(h4.note) {
@@ -264,8 +277,8 @@
     margin-top: 1em;
     margin-block-end: 0em;
     margin-block-start: 0em;
-    margin-inline-start: 30px;
-    padding-inline-start: 10px;
+    margin-inline-start: 0px;
+    padding-inline-start: 40px;
 
   }
 
