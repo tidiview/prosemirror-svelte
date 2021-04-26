@@ -787,8 +787,8 @@ export const ExtendedThreerichTextSchema = new Schema({
     li: {
       content: "(table | block)*", /* has to be block - can be (block | inline also */
       attrs: {value: {default: null}, id: {default: null}, doc: {default: false}},
-      parseDOM: [{tag: "ol.doc li", getAttrs(dom) { return {value: dom.value, id: dom.id, doc: true} } }, {tag: "li", getAttrs(dom) { return {value: dom.value} } }],
-      toDOM(node) { let {value, id, doc} = node.attrs ; return value === 0 && doc == true ? ["li", {"style": "list-style-type:none"}, 0] : doc == true ? id == "" ? ["li", {value}, 0] : ["li", {value, id}, 0] : ["li", 0] },
+      parseDOM: [{tag: "ol.doc-special li", getAttrs(dom) { return {value: dom.value, id: dom.id, doc: true} } },{tag: "ol.doc li", getAttrs(dom) { return {value: dom.value, id: dom.id, doc: true} } }, {tag: "li", getAttrs(dom) { return {value: dom.value} } }],
+      toDOM(node) { let {value, id, doc} = node.attrs ; return value === 0 && doc == true ? id == "" ? ["li", {"style": "list-style-type:none"}, 0] : ["li", {id}, 0] : doc == true ? id == "" ? ["li", {value}, 0] : ["li", {value, id}, 0] : ["li", 0] },
     },
     ruby: {
       content: "inline*",
