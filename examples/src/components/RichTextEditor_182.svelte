@@ -7,11 +7,9 @@
   const html = `
 <article>
 <div class="list-blog-date">
-<p><span>12</span><sup>th</sup> <i class="fa fa-calendar-o fa-2x"></i></p>
-<p>Feb.</p>
-<p><span>2020</span></p>
+<p><time datetime="2020-02-12">12<sup>th</sup> Feb. 2020</time></p>
 </div>
-<h1 lang="en"><a href="/blog/en/marivaux" rel="bookmark">Marivaux, Slave island</a></h1>
+<h1 lang="en">Marivaux, <cite>Slave island</cite></h1>
 
 <div class="notices red">
 <p>In a fantasy antiquity, Iphicrate, a young Athenian nobleman, finds himself thrown on the shore of an island with his servant Harlequin.
@@ -21,6 +19,7 @@ The newly arrived masters and slaves had to exchange their clothes, conditions a
 </div>
 
 <h2>Scene 2</h2>
+
 <div id="translation-text-rousi">
 <style>.list-blog-padding #translation-text-rousi tr td:first-child {color: #000;font-size: 1.25rem;text-align: right;vertical-align: top;} tr td {vertical-align: top;}</style>
 <table>
