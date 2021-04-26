@@ -44,10 +44,13 @@ thirty-three editions during Fontenelle's lifetime.</p>
 <p>But what makes it more difficult for philosophers is that in the machines that nature presents to us, the strings are perfectly well hidden, and they are so well hidden that we have long been guessing what caused the movements of the universe.</p>
 <p>For do you represent all the wise men at the Opera, the Pythagoras, the Plato, the Aristotle, and all those people whose names now make so much noise to our ears; suppose they saw the theft of <a id="renvoi-phaeton" href="#phaeton" title="#phaeton">Phaeton</a> that the winds remove, that they could not discover the strings, and that they did not know how the back of the theatre was arranged.</p>
 <p>One of them said: "It is a certain secret virtue that takes Phaeton away".</p>
-<p>The other: "Phaeton is composed of certain numbers that make it rise".</p>
-<p>The other: "Phaeton has a certain friendship for the top of the theatre; he is not at ease when he is not there".</p>
-<p>The other: "Phaeton is not made to fly, but he prefers to fly, than to leave the top of the theatre empty? and a hundred other dreams that I am surprised that have not lost their reputation all over Antiquity.</p>
-<p>At the end Descartes, and some other modern ones came, who said: "Phaeton goes up, because he is pulled by ropes, and a heavier weight than he goes down".</p>
+<p>The other:</p>
+<p class="conversation">"Phaeton is composed of certain numbers that make it rise".</p>
+<p>The other:</p>
+<p class="conversation">"Phaeton has a certain friendship for the top of the theatre; he is not at ease when he is not there".</p>
+<p>The other:</p>
+<p class="conversation">"Phaeton is not made to fly, but he prefers to fly, than to leave the top of the theatre empty? and a hundred other dreams that I am surprised that have not lost their reputation all over Antiquity.</p>
+<p class="conversation">At the end Descartes, and some other modern ones came, who said: "Phaeton goes up, because he is pulled by ropes, and a heavier weight than he goes down".</p>
 <p>Thus we no longer believe that a body moves, if it is not pulled, or rather pushed by another body; we no longer believe that it rises or falls, if not by the effect of a counterweight or a spring; and whoever sees nature as it is, would only see the back of the opera theatre.</p>
 <p>In this respect, says the Marquise, philosophy has become quite mechanical? So mechanical, I replied, that I fear that we will soon be ashamed of it.</p>
 <p>We want the universe to be large, only what a watch is small, and everything to be driven by regulated movements that depend on the arrangement of the parts.</p>
