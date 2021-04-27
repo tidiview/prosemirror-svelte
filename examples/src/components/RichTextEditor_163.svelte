@@ -28,11 +28,11 @@
 
 <div class="notices blue">
 <p>Au <a href="https://fr.wikipedia.org/wiki/Grand_Trianon" title="https://fr.wikipedia.org/wiki/Grand_Trianon">Grand Trianon</a>, dans le Salon des Seigneurs, se trouve un tableau peint par <a href="https://fr.wikipedia.org/wiki/René-Antoine_Houasse" title="https://fr.wikipedia.org/wiki/René-Antoine HOUASSE">René-Antoine HOUASSE</a>, <cite>Minerve et Tirésias</cite>.</p>
-<p><a href="https://fr.wikipedia.org/wiki/Minerve_(mythologie)" title="https://fr.wikipedia.org/wiki/Minerve_(mythologie)">Minerve</a>, au premier plan, y rend aveugle <a href="https://fr.wikipedia.org/wiki/Tirésias" title="https://fr.wikipedia.org/wiki/Tirésias">Tirésias</a>, au centre, tel que le raconte <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a> dans le livre III de ses <a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"><cite>Métamorphoses</cite></a>.</p>
+<p><a href="https://fr.wikipedia.org/wiki/Minerve_(mythologie)" title="https://fr.wikipedia.org/wiki/Minerve_(mythologie)">Minerve</a>, au premier plan, y rend aveugle <a href="https://fr.wikipedia.org/wiki/Tirésias" title="https://fr.wikipedia.org/wiki/Tirésias">Tirésias</a>, au centre, tel que le raconte <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a> dans le livre <abbr title="trois">III</abbr> de ses <a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"><cite>Métamorphoses</cite></a>.</p>
 <p>En voici l'extrait.</p>
 </div>
 
-<h2 id="tiresias" class="blue">Tirésias selon le texte du livre III des <cite>Métamorphoses</cite></h2>
+<h2 id="tiresias" class="blue">Tirésias selon le texte du livre <abbr title="trois">III</abbr> des <cite>Métamorphoses</cite></h2>
 
 <ol class="doc">
   <li value="316">Tandis que la loi du destin s'accomplissait de la sorte sur terre</li>
@@ -77,7 +77,7 @@
 </ol>
 
 <footer>
-  <p><span style="color: #df8a13;">Ovide, <cite>Les Métamorphoses</cite>, Livre III, vers 316 à 338</span></p>
+  <p><span style="color: #df8a13;">Ovide, <cite>Les Métamorphoses</cite>, Livre <abbr title="trois">III</abbr>, vers 316 à 338</span></p>
 </footer>
 
 </article>
