@@ -24,8 +24,8 @@
 <h2 class="green">rencontre de Chilpéric et Priscus</h2>
 
 <p><span style="color: #3d8b3d;">chapître 5</span></p>
-<p>Alors le <span style="color: #3d778a;">roi Chilperic</span>, qui séjournait encore dans la <a href="#note_villa" title="villa" id="villa" class="green">susdite villa</a>, ordonne de mettre en mouvement ses équipages et se dispose à venir à Paris.</p>
-<p>Tandis que je m'approchais déjà de lui pour lui dire adieu arriva un <span style="color: #3d638a;">certain Juif nommé Priscus</span> qui était son familier parce qu'il achetait pour lui des marchandises.</p>
+<p>Alors le roi <mark>Chilperic</mark>, qui séjournait encore dans la <a href="#note_villa" title="villa" id="villa" class="green">susdite villa</a>, ordonne de mettre en mouvement ses équipages et se dispose à venir à Paris.</p>
+<p>Tandis que je m'approchais déjà de lui pour lui dire adieu arriva un <span style="color: #3d638a;">certain Juif nommé <mark>Priscus</mark></span> qui était son familier parce qu'il achetait pour lui des marchandises.</p>
 <p>Le <span style="color: #3d778a;">roi</span> lui ayant passé la main doucement dans la chevelure s'adressa à moi pour me dire:</p>
 <p class="conversation"><span style="color: #3d778a;">«Viens, évêque de Dieu, et impose lui la main».</span></p>
 <p>Comme cet <span style="color: #3d638a;">homme</span> refusait, le <span style="color: #3d778a;">roi</span> s'écria:</p>
