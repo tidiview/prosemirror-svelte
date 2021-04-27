@@ -28,18 +28,18 @@
 
 <div class="notices yellow">
 <p>Au <a href="https://fr.wikipedia.org/wiki/Grand_Trianon" title="https://fr.wikipedia.org/wiki/Grand Trianon">Grand Trianon</a> à Versailles, au-dessus de la cheminée du Salon Frais, se peut voir un tableau de <a href="https://fr.wikipedia.org/wiki/Jean_Jouvenet" title="https://fr.wikipedia.org/wiki/Jean_Jouvenet">Jean JOUVENET</a>, <a href="#flore_et_zephyr" title="Flore et Zéphyr"><cite>Flore et Zéphyr</cite></a>.</p>
-<p>Au bord d'un ruisseau, à proximité de nymphes occupées à leur toilette, devant un ange qui la couronne, dans une atmosphère indicible de printemps, Zéphyr, homme aîlé qui représente la brise de l'ouest, présente une corbeille de guirlandes de fleurs à <a href="https://fr.wikipedia.org/wiki/Flore_(mythologie)" title="https://fr.wikipedia.org/wiki/Iris_(mythologie)">Flore</a>, déesse de cette saison.</p>
-<p>Des documents établissent que ce tableau a été commandé par le roi <a href="https://fr.wikipedia.org/wiki/Louis_XIV" title="https://fr.wikipedia.org/wiki/Louis_XIV">Louis XIV</a> pour cette pièce à partir d'un récit qu'en a fait l'écrivain latin <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a> dans un passage d'une de ses œuvres, <a href="https://fr.wikipedia.org/wiki/Fastes" title="https://fr.wikipedia.org/wiki/Fastes"><cite>Les Fastes</cite></a>.</p>
+<p>Au bord d'un ruisseau, à proximité de nymphes occupées à leur toilette, devant un ange qui la couronne, dans une atmosphère indicible de printemps, <a href="https://fr.wikipedia.org/wiki/Zéphyr" title="https://fr.wikipedia.org/wiki/Zéphyr">Zéphyr</a>, homme aîlé qui représente la brise de l'ouest, présente une corbeille de guirlandes de fleurs à <a href="https://fr.wikipedia.org/wiki/Flore_(mythologie)" title="https://fr.wikipedia.org/wiki/Iris_(mythologie)">Flore</a>, déesse de cette saison.</p>
+<p>Des documents établissent que ce tableau a été commandé par le roi <a href="https://fr.wikipedia.org/wiki/Louis_XIV" title="https://fr.wikipedia.org/wiki/Louis_XIV">Louis <abbr title="quatorze">XIV</abbr></a> pour cette pièce à partir d'un récit qu'en a fait l'écrivain latin <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a> dans un passage d'une de ses œuvres, <a href="https://fr.wikipedia.org/wiki/Fastes" title="https://fr.wikipedia.org/wiki/Fastes"><cite>Les Fastes</cite></a>.</p>
 <p>L'écrivain, tout en décrivant les fêtes et événements traditionnels relatifs à l'agriculture ou à l'astrologie en fonction des saisons du <a href="https://fr.wikipedia.org/wiki/Calendrier_romain" title="https://fr.wikipedia.org/wiki/Calendrier_romain">calendrier romain</a>, y introduit un procédé littéraire original: au cours de son récit, poète, il interpelle les dieux, s'interroge en tant que prêtre et maître du calendrier du sens des choses et des mots.</p>
-<p>Le texte ci-dessous est issu du 5<sup>ème</sup> livre et correspond au mois de mai: <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a> s'adresse directement à <a href="https://fr.wikipedia.org/wiki/Flore_(mythologie)" title="https://fr.wikipedia.org/wiki/Iris_(mythologie)">Flore</a>.</p>
+<p>Le texte ci-dessous est issu du 5<sup>ème</sup> livre et correspond au mois de mai: <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a> s'adresse directement à <a href="https://fr.wikipedia.org/wiki/Flore_(mythologie)" title="https://fr.wikipedia.org/wiki/Flore_(mythologie)">Flore</a>.</p>
 <p>Dans les vers <a href="#183" id="ref_183">183 à 192</a>, il lui demande vers des précisions sur les <a href="https://fr.wikipedia.org/wiki/Jeux_floraux" title="https://fr.wikipedia.org/wiki/Jeux_floraux"><ruby lang="fr">Jeux&nbsp;Floraux<rp>(</rp><rt lang="la">Floralia</rt><rp>)</rp></ruby></a> qui se tenaient en son honneur depuis la fin du mois d'avril jusque début mai.</p>
 <p>Bien que cela n'est pas de rapport direct avec la scène représentée visuellement dans le tableau, ce passage permet de saisir le mystère et le charme de la déesse, autant que le lien avec la représentation qu'en donne <a href="https://fr.wikipedia.org/wiki/Jean_Jouvenet" title="https://fr.wikipedia.org/wiki/Jean_Jouvenet">Jean JOUVENET</a>.</p>
-<p><a href="https://fr.wikipedia.org/wiki/Flore_(mythologie)" title="https://fr.wikipedia.org/wiki/Iris_(mythologie)">Flore</a> se présente elle-même en s'identifiant à <a href="https://fr.wikipedia.org/wiki/Chloris_(nymphe)" title="https://fr.wikipedia.org/wiki/Chloris_(nymphe)">Chloris</a>, Nymphe de l'<a href="https://fr.wikipedia.org/wiki/Îles_des_Bienheureux" title="https://fr.wikipedia.org/wiki/Îles_des_Bienheureux">Île des Bienheureux</a>, dont la beauté a charmé <a href="https://fr.wikipedia.org/wiki/Zéphyr" title="https://fr.wikipedia.org/wiki/Zéphyr">Zéphyr</a>.</p>
+<p><a href="https://fr.wikipedia.org/wiki/Flore_(mythologie)" title="https://fr.wikipedia.org/wiki/Flore_(mythologie)">Flore</a> se présente elle-même en s'identifiant à <a href="https://fr.wikipedia.org/wiki/Chloris_(nymphe)" title="https://fr.wikipedia.org/wiki/Chloris_(nymphe)">Chloris</a>, Nymphe de l'<a href="https://fr.wikipedia.org/wiki/Îles_des_Bienheureux" title="https://fr.wikipedia.org/wiki/Îles_des_Bienheureux">Île des Bienheureux</a>, dont la beauté a charmé <a href="https://fr.wikipedia.org/wiki/Zéphyr" title="https://fr.wikipedia.org/wiki/Zéphyr">Zéphyr</a>.</p>
 <p>Celui-ci l'enleva, la prit pour femme, et lui donna souveraineté sur les fleurs.</p>
-<p>Dans les vers <a href="#193" id="ref_193">193 à 222</a>, elle apparaît liée au printemps, à la beauté, à la vie, entourée des <a href="https://fr.wikipedia.org/wiki/Louis_XIV" title="https://fr.wikipedia.org/wiki/Louis_XIV">Heures</a> et des <a href="https://fr.wikipedia.org/wiki/Calendrier_romain" title="https://fr.wikipedia.org/wiki/Calendrier_romain">Grâces</a>.</p>
+<p>Dans les vers <a href="#193" id="ref_193">193 à 222</a>, elle apparaît liée au printemps, à la beauté, à la vie, entourée des <a href="https://fr.wikipedia.org/wiki/Heures_(mythologie)" title="https://fr.wikipedia.org/wiki/Heures_(mythologie)">Heures</a> et des <a href="https://fr.wikipedia.org/wiki/Charites" title="https://fr.wikipedia.org/wiki/Charites">Grâces</a>.</p>
 </div>
 
-<h2 id="flore-et-zéphyr" class="yellow">Flore et Zéphyr selon le texte du livre V des <cite>Fastes</cite></h2>
+<h2 id="flore-et-zéphyr" class="yellow">Flore et Zéphyr selon le texte du livre <abbr title="cinq">V</abbr> des <cite>Fastes</cite></h2>
 
 <ol class="doc">
   <li value="183"><a href="#ref_183" id="183">Viens</a>, Mère des fleurs, toi qui doit être célébrée par des jeux plaisants.</li>
@@ -90,10 +90,10 @@
   </li>
   <li value="215">
     <p class="conversation">Dès que les feuilles ont secoué la rosée hivernale, dès que les rayons ont réchauffé les corolles multicolores,
-    <span style="color: #df8a13;">les</span> <a href="https://fr.wikipedia.org/wiki/Louis_XIV" title="https://fr.wikipedia.org/wiki/Louis_XIV"><span style="color: #df8a13;">Heures</span></a> parées de leurs robes diaprées se rassemblent et <span style="color: #df8a13;">recueillent mes dons dans leurs corbeilles légères</span>.</p>
+    <span style="color: #df8a13;">les</span> <a href="https://fr.wikipedia.org/wiki/Heures_(mythologie)" title="https://fr.wikipedia.org/wiki/Heures_(mythologie)"><span style="color: #df8a13;">Heures</span></a> parées de leurs robes diaprées se rassemblent et <span style="color: #df8a13;">recueillent mes dons dans leurs corbeilles légères</span>.</p>
   </li>
   <li>
-    <p class="conversation">Aussitôt surviennent <span style="color: #df8a13;">les</span> <a href="https://fr.wikipedia.org/wiki/Calendrier_romain" title="https://fr.wikipedia.org/wiki/Calendrier_romain"><span style="color: #df8a13;">Grâces</span></a>, qui <span style="color: #df8a13;">tressent des couronnes</p>
+    <p class="conversation">Aussitôt surviennent <span style="color: #df8a13;">les</span> <a href="https://fr.wikipedia.org/wiki/Charites" title="https://fr.wikipedia.org/wiki/Charites"><span style="color: #df8a13;">Grâces</span></a>, qui <span style="color: #df8a13;">tressent des couronnes</p>
   </li>
   <li value="220">
     <p class="conversation">et des guirlandes pour en entrelacer leurs chevelures célestes</span>».</p>
@@ -101,7 +101,7 @@
 </ol>
 
 <footer>
-  <p><span style="color: #df8a13;">Ovide, <cite>Les Fastes</cite>, Livre V, vers 183 à 220</span></p>
+  <p><span style="color: #df8a13;">Ovide, <cite>Les Fastes</cite>, Livre <abbr title="cinq">V</abbr>, vers 183 à 220</span></p>
 <footer>
 </article>
 `;
