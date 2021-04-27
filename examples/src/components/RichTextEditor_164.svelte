@@ -28,10 +28,10 @@
 
 <div class="notices green">
 <p>Dans le Salon de Famille de Louis-Philippe du <a href="https://fr.wikipedia.org/wiki/Grand_Trianon" title="https://fr.wikipedia.org/wiki/Grand Trianon">Grand Trianon</a> à Versailles, se peut voir une peinture de <a href="https://fr.wikipedia.org/wiki/René-Antoine_Houasse" title="https://fr.wikipedia.org/wiki/René-Antoine Houasse">René-Antoine Houasse</a>, <cite>Morphée s'éveillant à l'approche d'Iris</cite>, aussi appelée <cite>Iris et Morphée</cite>.</p>
-<p>À partir d'une partie du Livre XI des <a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses (Ovide)"><cite>Métamorphoses</cite></a> d'<a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a> se trouve représenté le moment où <a href="#area_iris" title="Iris" id="iris">Iris</a>, messagère de <a href="https://fr.wikipedia.org/wiki/Junon" title="https://fr.wikipedia.org/wiki/Junon">Junon</a>, entre dans la grotte de <a href="https://fr.wikipedia.org/wiki/Hypnos" title="https://fr.wikipedia.org/wiki/Hypnos">Sommeil</a> pour lui ordonner de faire rêver <a href="https://fr.wikipedia.org/wiki/Alcyone" title="https://fr.wikipedia.org/wiki/Alcyone">Alcyone</a>.</p>
+<p>À partir d'une partie du Livre <abbr title="onze">XI</abbr> des <a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses (Ovide)"><cite>Métamorphoses</cite></a> d'<a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a> se trouve représenté le moment où <a href="#area_iris" title="Iris" id="iris">Iris</a>, messagère de <a href="https://fr.wikipedia.org/wiki/Junon" title="https://fr.wikipedia.org/wiki/Junon">Junon</a>, entre dans la grotte de <a href="https://fr.wikipedia.org/wiki/Hypnos" title="https://fr.wikipedia.org/wiki/Hypnos">Sommeil</a> pour lui ordonner de faire rêver <a href="https://fr.wikipedia.org/wiki/Alcyone" title="https://fr.wikipedia.org/wiki/Alcyone">Alcyone</a>.</p>
 </div>
 
-<h2 id="iris-1" class="green">Iris dans la grotte de Sommeil selon le texte du livre XI des <cite>Métamorphoses</cite></h2>
+<h2 id="iris-1" class="green">Iris dans la grotte de Sommeil selon le texte du livre <abbr title="onze">XI</abbr> des <cite>Métamorphoses</cite></h2>
 
 <ol class="doc">
   <li value="583"">Or la déesse ne supporte pas davantage qu'on l'implore pour quelqu'un</li>
@@ -109,7 +109,7 @@
 </ol>
 
 <footer>
-  <p><span style="color: #df8a13;">Ovide, <cite>Les Métamorphoses</cite>, Livre XI, vers 583 à 632</span></p>
+  <p><span style="color: #df8a13;">Ovide, <cite>Les Métamorphoses</cite>, Livre <abbr title="onze">XI</abbr>, vers 583 à 632</span></p>
 </footer>
 
 <aside>
@@ -119,9 +119,9 @@
 <h4 id="note" class="green note">À propos de la dénomination du tableau de René-Antoine Houasse</h4>
 
 <div class="notices green">
-<p>L'œuvre de <a href="https://fr.wikipedia.org/wiki/René-Antoine_Houasse" title="https://fr.wikipedia.org/wiki/René-Antoine Houasse">René-Antoine Houasse</a> a été nommé au XVII<sup style="color:#3d8b3d;">ème</sup> siècle <cite>Morphée s'éveillant à l'approche d'Iris</cite> ou <cite>Iris et Morphée</cite>.</p>
+<p>L'œuvre de <a href="https://fr.wikipedia.org/wiki/René-Antoine_Houasse" title="https://fr.wikipedia.org/wiki/René-Antoine Houasse">René-Antoine Houasse</a> a été nommé au <abbr title="dix-septième">XVII<sup style="color:#3d8b3d;">ème</sup></abbr> siècle <cite>Morphée s'éveillant à l'approche d'Iris</cite> ou <cite>Iris et Morphée</cite>.</p>
 <p>Nous conservons cette appellation pour permettre l'identification de l'œuvre, bien que la scène représentée montre bien plutôt <a href="https://fr.wikipedia.org/wiki/Iris_(mythologie)" title="https://fr.wikipedia.org/wiki/Iris_(mythologie)">Iris</a> et <a href="#area_morpheus" title="Morphée" id="morpheus">le Sommeil</a>, aussi appelé «Somnus» dont Morphée est le fils.</p>
-<p>Ainsi que le montre la suite du récit d'Ovide dans le livre XI des <cite>Métamorphoses</cite>, après avoir reçu l'ordre d'Iris, Somnus désigne Morphée pour aller accomplir la mission d'Iris de faire rêver Alcyone.</p>
+<p>Ainsi que le montre la suite du récit d'Ovide dans le livre <abbr title="onze">XI</abbr> des <cite>Métamorphoses</cite>, après avoir reçu l'ordre d'Iris, Somnus désigne Morphée pour aller accomplir la mission d'Iris de faire rêver Alcyone.</p>
 </div>
 
 </aside>
