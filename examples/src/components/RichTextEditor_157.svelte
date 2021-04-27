@@ -31,8 +31,8 @@
 
 <div class="notices green">
 
-<p>La description de <a href="https://fr.wikipedia.org/wiki/La_Joconde" title="https://fr.wikipedia.org/wiki/La_Joconde">la Joconde</a> que nous présentons ci-dessous a été écrite par l'écrivain romantique <a href="https://fr.wikipedia.org/wiki/Théophile_Gautier" title="https://fr.wikipedia.org/wiki/Théophile_Gautier">Théophile GAUTIER</a> et publiée à Paris en 1867.</p>
-<p>C'est une description capitale pour l'histoire du tableau car elle va à la fois mythifiée et détournée l'œuvre de <a href="https://fr.wikipedia.org/wiki/Léonard_de_Vinci" title="https://fr.wikipedia.org/wiki/Léonard_de_Vinci">Léonard de Vinci</a> au nom du mystère qu'elle paraît incarner et influencer une bonne partie des regards biaisés portés sur l'œuvre au cours du XXème siècle.</p>
+<p>La description de <a href="https://fr.wikipedia.org/wiki/La_Joconde" title="https://fr.wikipedia.org/wiki/La_Joconde">la Joconde</a> que nous présentons ci-dessous a été écrite par l'écrivain romantique <a href="https://fr.wikipedia.org/wiki/Théophile_Gautier" title="https://fr.wikipedia.org/wiki/Théophile_Gautier">Théophile GAUTIER</a> et publiée à Paris en <time datetime="1867">1867</time>.</p>
+<p>C'est une description capitale pour l'histoire du tableau car elle va à la fois mythifiée et détournée l'œuvre de <a href="https://fr.wikipedia.org/wiki/Léonard_de_Vinci" title="https://fr.wikipedia.org/wiki/Léonard_de_Vinci">Léonard de Vinci</a> au nom du mystère qu'elle paraît incarner et influencer une bonne partie des regards biaisés portés sur l'œuvre au cours du <abbr title="vingtième">XX<sup>ème</sup></abbr> siècle.</p>
 <p>Nous pensons que si cette description est misogyne, que cette misogynie ne fait partie ni de l'œuvre de Léonard de Vinci encore moins de l'émotion artistique et que la Joconde gagnerait à être débarassée des chimères de Théophile Gautier.</p>
 </div>
 
