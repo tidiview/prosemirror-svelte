@@ -28,12 +28,12 @@
 
 <div class="notices red">
 <p>«Il faut ensuite aller droit sur le haut de Latone et faire une pause pour considérer Latone, les lézards, les rampes, les statues, l’allée royale, l’Apollon, le canal, et puis se tourner pour voir le parterre et le château.»</p>
-<p>Comme <a href="https://fr.wikipedia.org/wiki/Louis_XIV" title="https://fr.wikipedia.org/wiki/Louis XIV">Louis XIV</a> l'a écrit dans sa <a href="https://fr.wikisource.org/wiki/Manière_de_montrer_les_jardins_de_Versailles" title="https://fr.wikisource.org/wiki/Mani%C3%A8re_de_montrer_les_jardins_de_Versailles"><cite>Manière de montrer les jardins de Versailles</cite></a>, depuis la façade orientale du palais, suivant son axe central, après le Parterre d' Eau, tout en appréciant l'ouverture de l'horizon, le Bassin et le Parterre de Latone apparaît.</p>
+<p>Comme <a href="https://fr.wikipedia.org/wiki/Louis_XIV" title="https://fr.wikipedia.org/wiki/Louis XIV">Louis <abbr title="quatorze">XIV</abbr></a> l'a écrit dans sa <a href="https://fr.wikisource.org/wiki/Manière_de_montrer_les_jardins_de_Versailles" title="https://fr.wikisource.org/wiki/Mani%C3%A8re_de_montrer_les_jardins_de_Versailles"><cite>Manière de montrer les jardins de Versailles</cite></a>, depuis la façade orientale du palais, suivant son axe central, après le Parterre d' Eau, tout en appréciant l'ouverture de l'horizon, le Bassin et le Parterre de Latone apparaît.</p>
 <p>Voilà une représentation inspirée de l'affrontement entre <a href="https://fr.wikipedia.org/wiki/Léto" title="https://fr.wikipedia.org/wiki/Léto">Latone</a> juste après que celle-ci ait donné naissance, malgré la persécution de <a href="https://fr.wikipedia.org/wiki/Junon" title="https://fr.wikipedia.org/wiki/Junon">Junon</a>, à ses deux jumeaux, <a href="https://fr.wikipedia.org/wiki/l’Apollon" title="https://fr.wikipedia.org/wiki/Apollon">Apollon</a>, dieu du soleil, et <a href="https://fr.wikipedia.org/wiki/Diane_(mythologie)" title="https://fr.wikipedia.org/wiki/Diane_(mythologie)">Diane</a>, déesse de la Lune, et quelques paysans de <a href="https://fr.wikipedia.org/wiki/Lycie" title="https://fr.wikipedia.org/wiki/Lycie">Lycie</a>.</p>
-<p>Avec ce texte écrit par <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a> dans le livre VI des <a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"><cite>Métamorphoses</cite></a>, cet affrontement nous devient tout de suite bien plus significatif.</p>
+<p>Avec ce texte écrit par <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a> dans le livre <abbr title="six">VI</abbr> des <a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"><cite>Métamorphoses</cite></a>, cet affrontement nous devient tout de suite bien plus significatif.</p>
 </div>
 
-<h2 id="latone" class="red">Latone selon le texte du livre VI des <cite>Métamorphoses</cite></h2>
+<h2 id="latone" class="red">Latone selon le texte du livre <abbr title="six">VI</abbr> des <cite>Métamorphoses</cite></h2>
 
 <ol class="doc">
   <li value="333">C'est là que <mark>Latone</mark>, appuyée contre un palmier - ou l'arbre de Pallas-,</li>
@@ -81,7 +81,7 @@
   <li>
     <p class="conversation">Leurs petits bras.»</p>
     Les enfants, en la circonstance, tendaient les bras.</li>
-  <li value="360">Qui m'eût été touché par les mots aimables de la déesse ?</li>
+  <li value="360">Qui m'eût été touché par les mots aimables de la déesse?</li>
   <li>Or ils persistent, malgré ses prières, à lui opposer des menaces,</li>
   <li>Si elle ne s'en va pas, et ils y ajoutent, en outre, des invectives.</li>
   <li>Et cela ne leur suffit pas: ils font des pieds et des mains</li>
@@ -106,7 +106,7 @@
 </ol>
 
 <footer>
-  <p><span style="color: #df8a13;">Ovide, <cite>Les Métamorphoses</cite>, Livre VI, vers 333 à 379.</span></p>
+  <p><span style="color: #df8a13;">Ovide, <cite>Les Métamorphoses</cite>, Livre <abbr title="six">VI</abbr>, vers 333 à 379.</span></p>
 </footer>
 
 </article>
