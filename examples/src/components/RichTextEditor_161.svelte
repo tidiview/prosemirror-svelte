@@ -27,15 +27,15 @@
 </figure>
 
 <div class="notices yellow">
-<p><a href="https://fr.wikipedia.org/wiki/Louis_XIV" title="https://fr.wikipedia.org/wiki/Louis XIV">Louis XIV</a> est aussi appelé le «roi Soleil».</p>
+<p><a href="https://fr.wikipedia.org/wiki/Louis_XIV" title="https://fr.wikipedia.org/wiki/Louis XIV">Louis <abbr title="quatorze">XIV</abbr></a> est aussi appelé le «roi Soleil».</p>
 <p>Dans les <cite>Mémoires pour l'instruction du Dauphin</cite>, lui-même explique les raisons qui l'ont conduit, jeune, seul, à faire naturellement ce choix.</p>
 <p>Au Château de Versailles, le soleil est visible sous bien des formes.</p>
 <p>Parmi elles, plusieurs endroits font apparaître la figure d'<a href="https://fr.wikipedia.org/wiki/Apollon" title="https://fr.wikipedia.org/wiki/Apollon">Apollon</a>, dieu du Soleil, qui évoque la grandeur de l'empire romain, notamment celle des premières fêtes baroques qui ont eu lieu à Versailles, comme le groupe du Char du Soleil fondu par <a href="https://fr.wikipedia.org/wiki/Jean-Baptiste_Tuby" title="https://fr.wikipedia.org/wiki/Jean-Baptiste TUBY">Jean-Baptiste TUBY</a> entre <time datetime="1668">1668</time> et <time datetime="1671">1671</time> au centre du <a href="https://fr.wikipedia.org/wiki/Bassin_d'Apollon" title="https://fr.wikipedia.org/wiki/Bassin d'Apollon">Bassin d'Apollon</a> dans les Jardins.</p>
-<p>Le texte ci-dessous raconte la tragique mort de l'étrange fils d'Apollon, <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Phaéton</a>, tel qu'il apparaît dans <a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"><cite>Les Métamorphoses</cite></a> de l'écrivain de l'empire romain d'expression latine <a href="https://fr.wikipedia.org/wiki/Phaéton" title="https://fr.wikipedia.org/wiki/Phaéton">Ovide</a>, que Louis XIV connaissait intimement pour avoir chargé le soir son historiographe l'écrivain <a href="https://fr.wikipedia.org/wiki/Jean_Racine" title="https://fr.wikipedia.org/wiki/Jean Racine">Jean Racine</a> de lui en faire lecture.</p>
-<p>C'est ainsi l'occasion d'approcher le sens que pouvait revêtir pour Louis XIV la figure de cet astre tel que le décrit ce texte.</p>
+<p>Le texte ci-dessous raconte la tragique mort de l'étrange fils d'Apollon, <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Phaéton</a>, tel qu'il apparaît dans le livre <abbr title="deux">II</abbr> des <a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"><cite>Métamorphoses</cite></a> de l'écrivain de l'empire romain d'expression latine <a href="https://fr.wikipedia.org/wiki/Phaéton" title="https://fr.wikipedia.org/wiki/Phaéton">Ovide</a>, que Louis <abbr title="quatorze">XIV</abbr> connaissait intimement pour avoir chargé le soir son historiographe l'écrivain <a href="https://fr.wikipedia.org/wiki/Jean_Racine" title="https://fr.wikipedia.org/wiki/Jean Racine">Jean Racine</a> de lui en faire lecture.</p>
+<p>C'est ainsi l'occasion d'approcher le sens que pouvait revêtir pour Louis <abbr title="quatorze">XIV</abbr> la figure de cet astre tel que le décrit ce texte.</p>
 </div>
 
-<h2 id="apollon" class="yellow">Phaéton selon le texte du Livre II des <cite>Métamorphoses</cite></h2>
+<h2 id="apollon" class="yellow">Phaéton selon le texte du Livre <abbr title="deux">II</abbr> des <cite>Métamorphoses</cite></h2>
 
 <ol class="doc">
   <li value="1">Le Palais du Soleil aux hautes colonnes se dressait<br>
@@ -635,7 +635,7 @@
 </ol>
 
 <footer>
-  <p><span style="color: #df8a13;">Ovide, <cite>Les Métamorphoses</cite>, Livre II, vers 1 à 366</span></p>
+  <p><span style="color: #df8a13;">Ovide, <cite>Les Métamorphoses</cite>, Livre <abbr title="deux">II</abbr>, vers 1 à 366</span></p>
 </footer>
 
 </article>
