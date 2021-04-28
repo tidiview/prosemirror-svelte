@@ -928,11 +928,18 @@ export const ExtendedThreerichTextSchema = new Schema({
       toDOM(node) { let {styles, cite} = node.attrs ; return styles == "" ? cite == "" ? ["q", 0] : ["q", {"cite": cite}, 0] : cite == "" ? ["q", {"style": styles}, 0] : ["q", {"style": styles, "cite": cite}, 0] },
     },
     span: {
-      attrs: {styles: {default: null}, title: {default: null}},
+      attrs: {classes: {default: null}, styles: {default: null}, title: {default: null}},
       parseDOM: [{tag: "span", getAttrs(dom) {
-        return {styles: dom.getAttribute("style"), title: dom.title}
+        return {classes: dom.getAttribute("class") , styles: dom.getAttribute("style"), title: dom.title}
       }}],
-      toDOM(node) { let {styles, title} = node.attrs ; return styles == "" ? title == "" ? ["span", 0] : ["span", {"title": title}, 0] : title == "" ? ["span", {"style": styles}, 0] : ["span", {"style": styles,"title": title}, 0]  },
+      toDOM(node) { let {classes, styles, title} = node.attrs ; return styles == "" ? title == "" ? classes == "" ?
+      ["span", 0] : ["span", {"class": classes}, 0] : 
+      classes == "" ?
+      ["span", {"title": title}, 0] :  ["span", {"title": title, "class": classes}, 0] : 
+      title == "" ? classes == "" ?
+      ["span", {"style": styles}, 0] : ["span", {"style": styles, "class": classes}, 0] : 
+      classes == "" ?
+      ["span", {"style": styles,"title": title}, 0] : ["span", {"style": styles,"title": title, "class": classes}, 0]  },
     },
     pre: {
       content: "inline*",
