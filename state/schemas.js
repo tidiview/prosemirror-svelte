@@ -856,6 +856,8 @@ export const ExtendedThreerichTextSchema = new Schema({
       toDOM() { return ["dfn", 0] },
     },
     address: {
+      inline: true,
+      group: "inline",
       content: "inline*",
       parseDOM: [{tag: "address"}],
       toDOM() { return ["address", 0] },
