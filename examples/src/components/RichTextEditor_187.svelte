@@ -53,8 +53,9 @@ and indeed it may be said that it was painted in such a manner as to make every 
 
 <footer>
   <p><span style="color: #3d8b3d;">And in this work of Leonardo there was a smile so pleasing, that it was a thing more divine than human to behold, and it was held to be something marvelous, in that it was not other than alive</span>.</p>
-  <p><a href="https://en.wikipedia.org/wiki/Giorgio_Vasari" title="https://en.wikipedia.org/wiki/Giorgio_Vasari" class="green">Giorgio Vasari</a><span style="color: #3d8b3d;">, <cite>Lives of the Painters, Sculptors and Architects</cite>, book IV.</span></p>
+  <p><a href="https://en.wikipedia.org/wiki/Giorgio_Vasari" title="https://en.wikipedia.org/wiki/Giorgio_Vasari" class="green">Giorgio Vasari</a><span style="color: #3d8b3d;">, <cite>Lives of the Painters, Sculptors and Architects</cite>, book <abbr title="four">IV</abbr>.</span></p>
 </footer>
+
 </article>
 `;
 
