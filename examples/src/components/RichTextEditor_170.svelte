@@ -28,12 +28,12 @@
 
 <div class="notices yellow">
 <p>Il existe un petit texte à l'origine du tableau peint par <a href="https://fr.wikipedia.org/wiki/Jean_Mosnier" title="https://fr.wikipedia.org/wiki/Jean Monier">Jean MONIER</a> pour le dessus de cheminée représentant la mort d'Adonis exposé au deuxième étage du Château de <a href="https://fr.wikipedia.org/wiki/Château_de_Cheverny" title="https://fr.wikipedia.org/wiki/Château_de_Cheverny">Cheverny</a>.</p>
-<p>Il a été écrit par <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a>, écrivain d'expression latine qui a vécu sous l'empire romain, et fait partie du livre X de son œuvre la plus connue, <a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"><cite>Les Métamorphoses</cite></a>.</p>
+<p>Il a été écrit par <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a>, écrivain d'expression latine qui a vécu sous l'empire romain, et fait partie du livre <abbr title="dix">X</abbr> de son œuvre la plus connue, <a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"><cite>Les Métamorphoses</cite></a>.</p>
 <p>Il raconte la fin tragique d'<a href="https://fr.wikipedia.org/wiki/Adonis_(mythologie)" title="https://fr.wikipedia.org/wiki/Adonis">Adonis</a>, amant de <a href="https://fr.wikipedia.org/wiki/Vénus_(mythologie)" title="https://fr.wikipedia.org/wiki/Vénus">Vénus</a>.</p>
 <p>Le voici ci-dessous.</p>
 </div>
 
-<h2 id="adonis" class="yellow">la Mort d'Adonis selon le texte du livre X, des <cite>Métamorphoses</cite></h2>
+<h2 id="adonis" class="yellow">la Mort d'Adonis selon le texte du livre <abbr title="dix">X</abbr>, des <cite>Métamorphoses</cite></h2>
 
 <ol class="doc">
   <li value="708">Sur ce conseil, elle prend la route des airs sur son attelage</li>
@@ -88,7 +88,7 @@
 </ol>
 
 <footer>
-<p><span style="color: #df8a13;">Ovide, <cite>Les Métamorphoses</cite>, Livre X, vers 708 et suivants</span></p>
+<p><span style="color: #df8a13;">Ovide, <cite>Les Métamorphoses</cite>, Livre <abbr title="dix">X</abbr>, vers 708 et suivants</span></p>
 </footer>
 
 <aside>
