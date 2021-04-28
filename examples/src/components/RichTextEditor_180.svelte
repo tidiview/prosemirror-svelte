@@ -194,9 +194,9 @@
 </ol>
 
 <aside>
-  <p id="fn:1" class="no-puce"><i>Association of International Education, Japan</i>: association japonaise d'enseignement international, Japon&nbsp;<a href="#fnref1:1">↩</a></p>
-  <p id="fn:2" class="no-puce"><i><abbr title="Japanese Listening and Reading Test">JLRT</abbr></i>: Japanese Listening and Reading Test, en français test de compréhension orale et écrite&nbsp;<a href="#fnref1:2">↩</a></p>
-  <p id="fn:3" class="no-puce"><i><abbr title="Japanese External Trade Organization">JETRO</abbr></i>: Japanese External Trade Organization, en français Organisation Japonaise du Commerce Extérieur&nbsp;<a href="#fnref1:3">↩</a></p>
+  <p id="fn:1" class="no-puce"><dfn><i>Association of International Education, Japan</i></dfn>: association japonaise d'enseignement international, Japon&nbsp;<a href="#fnref1:1">↩</a></p>
+  <p id="fn:2" class="no-puce"><dfn><i><abbr title="Japanese Listening and Reading Test">JLRT</abbr></i></dfn>: Japanese Listening and Reading Test, en français test de compréhension orale et écrite&nbsp;<a href="#fnref1:2">↩</a></p>
+  <p id="fn:3" class="no-puce"><dfn><i><abbr title="Japanese External Trade Organization">JETRO</abbr></i></dfn>: Japanese External Trade Organization, en français Organisation Japonaise du Commerce Extérieur&nbsp;<a href="#fnref1:3">↩</a></p>
 </aside>
 
 <div class="pure-g about-div">
@@ -208,7 +208,14 @@
 <p><span style="min-width: 260px;float: left;">affi<wbr>liation: </span><wbr><a href="http://www.agij-paris.com/" title="http://www.agij-paris.com/"><abbr title="Association des Guide-Interprètes de langue Japonaise">AGIJ</abbr></a></p>
 <p><span style="width: 260px;float: left;">autres lan<wbr>gues parlées: </span><wbr>anglais, espagnol</p>
 <p><span style="width: 260px;float: left;">aire d'exer<wbr>cice: </span><wbr><a href="https://www.google.fr/maps/place/France/@46.1279326,-2.2764268,6z/data=!3m1!4b1!4m5!3m4!1s0xd60a02933785731:0x6bfd3f96c747d9f7!8m2!3d46.227638!4d2.213749" title="https://www.google.fr/maps/place/France/">France</a>, <a href="https://www.google.fr/maps/place/Bruges, Belgique/@51.2605832,3.0820626,11z/data=!3m1!4b1!4m5!3m4!1s0x47c350d0c11e420d:0x1aa2f35ac8834df7!8m2!3d51.209348!4d3.2246995" title="https://www.google.fr/maps/place/Bruges,+Belgique/">Bruges</a></p>
-<p><span style="width: 260px;float: left;">adresse: </span><wbr><a href="#map" title="#map">10, rue Théophraste Renaudot Paris <abbr title="quinze">XV</abbr></a></p>
+<p>
+  <span style="width: 260px;float: left;">adresse: </span><wbr>
+  <a href="#map" title="#map">
+    <address>
+      10, rue Théophraste Renaudot Paris <abbr title="quinze">XV</abbr>
+    </address>
+  </a>
+</p>
 <p><span style="width: 260px;float: left;">contact: </span><wbr><a href="http://www.francois-vidit.com/fr#contact" title="https://www.francois-vidit.com/fr#contact">ici</a></p>
 </div>
 </div>
