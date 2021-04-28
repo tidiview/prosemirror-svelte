@@ -189,7 +189,7 @@
   <li>
     <span class="year-width"><time datetime="2003">2003</time>:</span>&nbspAdmis au <abbr title="huitième">8<suli>ème</suli></abbr> <a href="http://www.kanken.or.jp/bjt/english/" title="http://www.kanken.or.jp/bjt/english/">Test de compétence en japonais des affaires</a> <a id="fnref1:2" href="#fn:2"><abbr title="Japanese Listening and Reading Test">JLRT</abbr></a> <a id="fnref1:3" href="#fn:3"><abbr title="Japanese External Trade Organization">JETRO</abbr></a>
   </li>
-  <li><span class="year-width"><time datetime="2011">2011</time>:</span>&nbspObtention du titre de <a href="http://www.entreprises.gouv.fr/tourisme/metiers/guide-conferencier" title="http://www.entreprises.gouv.fr/tourisme/metiers/guide-conferencier">Guide-Interprète National</a> à l'<a href="https://www.google.fr/maps/place/Université Toulouse - Jean Jaurès/@43.5779941,1.3996184,17z/data=!3m1!4b1!4m5!3m4!1s0x12aeba4c48abb62d:0xaa534804f879cf3b!8m2!3d43.5779941!4d1.4018071" title="https://www.google.fr/maps/place/Université+Toulouse+-+Jean+Jaurès"><span style="font-variant: small-caps;">Université Toulouse-Jean Jaurès</span></a>
+  <li><span class="year-width"><time datetime="2011">2011</time>:</span>&nbspObtention du titre de <a href="http://www.entreprises.gouv.fr/tourisme/metiers/guide-conferencier" title="http://www.entreprises.gouv.fr/tourisme/metiers/guide-conferencier">Guide-Interprète National</a> à l'<a href="https://www.google.fr/maps/place/Université Toulouse - Jean Jaurès/@43.5779941,1.3996184,17z/data=!3m1!4b1!4m5!3m4!1s0x12aeba4c48abb62d:0xaa534804f879cf3b!8m2!3d43.5779941!4d1.4018071" title="https://www.google.fr/maps/place/Université+Toulouse+-+Jean+Jaurès">Université Toulouse-Jean Jaurès</a>
   </li>
 </ol>
 
@@ -204,19 +204,18 @@
 
 <h2>informations pratiques</h2>
 
-<p><span style="min-width: 260px;"><abbr title="numéro">n°</abbr> d'imma<wbr>tri<wbr>cu<wbr>lation profes<wbr>sion<wbr>nelle: </span><wbr>GC1375538P</p>
-<p><span style="min-width: 260px;float: left;">affi<wbr>liation: </span><wbr><a href="http://www.agij-paris.com/" title="http://www.agij-paris.com/"><abbr title="Association des Guide-Interprètes de langue Japonaise">AGIJ</abbr></a></p>
+<p><span style="min-width: 260px;"><abbr title="numéro">n°</abbr> d'imma<wbr>tri<wbr>cu<wbr>lation profes<wbr>sion<wbr>nelle: </span><wbr><samp>GC1375538P</samp></p>
+<p><span style="min-width: 260px;float: left;">affi<wbr>liation: </span><wbr><a id="fnref1:4" href="http://www.agij-paris.com/" title="http://www.agij-paris.com/"><abbr title="Association des Guide-Interprètes de langue Japonaise">AGIJ</abbr></a></p>
 <p><span style="width: 260px;float: left;">autres lan<wbr>gues parlées: </span><wbr>anglais, espagnol</p>
 <p><span style="width: 260px;float: left;">aire d'exer<wbr>cice: </span><wbr><a href="https://www.google.fr/maps/place/France/@46.1279326,-2.2764268,6z/data=!3m1!4b1!4m5!3m4!1s0xd60a02933785731:0x6bfd3f96c747d9f7!8m2!3d46.227638!4d2.213749" title="https://www.google.fr/maps/place/France/">France</a>, <a href="https://www.google.fr/maps/place/Bruges, Belgique/@51.2605832,3.0820626,11z/data=!3m1!4b1!4m5!3m4!1s0x47c350d0c11e420d:0x1aa2f35ac8834df7!8m2!3d51.209348!4d3.2246995" title="https://www.google.fr/maps/place/Bruges,+Belgique/">Bruges</a></p>
 <p>
-  <span style="width: 260px;float: left;">adresse: </span><wbr>
-  <a href="#map" title="#map">
-    <address>
-      10, rue Théophraste Renaudot Paris <abbr title="quinze">XV</abbr>
-    </address>
-  </a>
+  <span style="width: 260px;float: left;">adresse: </span><wbr><a href="#map" title="#map">10, rue Théophraste Renaudot Paris <abbr title="quinze">XV</abbr></a>
 </p>
 <p><span style="width: 260px;float: left;">contact: </span><wbr><a href="http://www.francois-vidit.com/fr#contact" title="https://www.francois-vidit.com/fr#contact">ici</a></p>
+
+<aside>
+  <p id="fn:4" class="no-puce"><dfn><i><abbr title="Association des Guide-Interprètes de langue Japonaise">AGIJ</abbr></i></dfn>: Association des Guide-Interprètes de langue Japonaise&nbsp;<a href="#fnref1:4">↩</a></p>
+</aside>
 </div>
 </div>
 
