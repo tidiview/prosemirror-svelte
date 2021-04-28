@@ -41,7 +41,7 @@
 <p>On this occasion, the gazette <a href="https://en.wikipedia.org/wiki/Mercure_de_France" title="https://en.wikipedia.org/wiki/Mercure_de_France"><cite>Le Mercure de France</cite></a> published an exceptional text because probably written by the painter himself which tells us about the conditions that presided over this work and also of the detail of its composition.</p>
 <p>It is this text that is reproduced below.</p>
 <p>This painter's work is exceptional for many reasons and especially to be one of his last.</p>
-<p>Indeed, the artist decided to put an end to his days shortly after achieving it, by suiciding of several strokes of sword, in his apartment in Paris on <time datetime="1737-06-04">June 4th, 1737</time>.</p>
+<p>Indeed, the artist decided to put an end to his days shortly after achieving it, by suiciding of several strokes of sword, in his apartment in Paris on <time datetime="1737-06-04">June 4<sup>th</sup>, 1737</time>.</p>
 </div>
 
 <aside>
