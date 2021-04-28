@@ -228,12 +228,15 @@
     font-variant-numeric: normal;
   }
 
-  :global(ol.year li) {
+  :global(ol.year li p:first-child) {
     text-indent: -44px;
+  }
+
+  :global(ol.year li) {
     list-style-type: none;
   }
 
-  :global(span.year-related) {
+  :global(span.year-width) {
     width: 44px;
   }
 
@@ -271,8 +274,6 @@
   }
 
   :global(.no-puce) {
-      display: list-item;
-      list-style-type: none;
       margin-top: 1em;
       margin-block-end: 1em;
       margin-block-start: 1em;
