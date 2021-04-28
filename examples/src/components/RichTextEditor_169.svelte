@@ -32,7 +32,8 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire
 https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-380.jpg 380w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-480.jpg 480w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-640.jpg 640w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x798.jpg 700w"></picture><figcaption>Diane de Poitiers représentée en Diane, déesse de la Chasse</figcaption></figure>
+https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x798.jpg 700w"></picture><figcaption>Diane de Poitiers représentée en Diane, déesse de la Chasse<br>
+<q cite="#acteon">Ce fut seulement lorsque tant de blessures eurent mis fin à sa vie que fut rassasiée, dit-on, la colère de Diane au carquois.</q></figcaption></figure>
 <div class="notices green">
 
 <p>Ce portrait est une œuvre que <a href="https://fr.wikipedia.org/wiki/Le_Primatice" title="https://fr.wikipedia.org/wiki/Le_Primatice">Le Primatice</a>, peintre originaire de Bologne en Italie, invité par le roi <a href="https://fr.wikipedia.org/wiki/François_Ier_(roi_de_France)" title="https://fr.wikipedia.org/wiki/François_Ier_(roi_de_France)">François <abbr title="premier">I<sup>er</sup></abbr></a> puis devenu quasi ministre de la Culture de l'époque, a peint, en <time datetime="1556">1556</time>, au <a href="https://fr.wikipedia.org/wiki/Château_de_Chenonceau" title="https://fr.wikipedia.org/wiki/Château_de_Chenonceau">Château de Chenonceau</a>.</p>
@@ -44,7 +45,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire
 <p>Puisse ce récit des aventures de la déesse de la Chasse et d'Actéon vous plaire!</p>
 </div>
 
-<h2 class="green">Actéon selon le texte du livre <abbr title="trois">III</abbr> des <cite>Métamorphoses</cite></h2>
+<h2 id="acteon" class="green">Actéon selon le texte du livre <abbr title="trois">III</abbr> des <cite>Métamorphoses</cite></h2>
 
 <ol class="doc">
   <li value="131">Ils étaient donc à Thèbes; ton exil pouvait donc, Cadmus</li>
