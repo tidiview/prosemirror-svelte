@@ -230,6 +230,9 @@
 
   :global(ol.year li p:first-child) {
     text-indent: -44px;
+    margin-top: 1em;
+    margin-block-end: 1em;
+    margin-block-start: 1em;
   }
 
   :global(ol.year li) {
@@ -277,7 +280,7 @@
       margin-top: 1em;
       margin-block-end: 1em;
       margin-block-start: 1em;
-      margin-inline-start: 40px;  
+      margin-inline-start: 40px;
   }
 
   :global(p.no-puce:last-child) {
