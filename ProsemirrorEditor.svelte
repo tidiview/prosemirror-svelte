@@ -228,6 +228,15 @@
     font-variant-numeric: normal;
   }
 
+  :global(ol.year li) {
+    text-indent: -44px;
+    list-style-type: none;
+  }
+
+  :global(span.year-related) {
+    width: 44px;
+  }
+
   :global(ol.doc-three-rows li[id]::before) {
     content: attr(id) ". ";
     position: absolute;
