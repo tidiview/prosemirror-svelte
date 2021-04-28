@@ -47,6 +47,7 @@
     <p>english: original. © reproduction with the following mention «original translation to english from french by <a href="https://francois-vidit.com/blog/en/ikokujin" title="the stranger">François VIDIT</a>», link included, allowed.</p>
   </div>
 </aside>
+
 </article>
 `;
 
