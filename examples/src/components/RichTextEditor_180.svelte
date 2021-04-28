@@ -182,26 +182,21 @@
 <h2>Cursus professionnel</h2>
 
 <ol class="year">
-  <li><span class="year-width"><time datetime="1999">1999</time>:</span>&nbspObtention du Certificat de Compétence en Langue Japonaise <a href="http://www.jlpt.jp/e/index.html" title="http://www.jlpt.jp/e/index.html">Niveau 3</a> de l'<a id="fnref1:1" href="#fn:1">Association of International Education, Japan</a></li>
-  <li><span class="year-width"><time datetime="2003">2003</time>:</span>&nbspAdmis au <abbr title="huitième">8<suli>ème</suli></abbr> <a href="http://www.kanken.or.jp/bjt/english/" title="http://www.kanken.or.jp/bjt/english/">Test de compétence en japonais des affaires</a> <a id="fnref1:2" href="#fn:2"><abbr title="Japanese Listening and Reading Test">JLRT</abbr></a> <a id="fnref1:3" href="#fn:3"><abbr title="Japanese External Trade Organization">JETRO</abbr></a></li>
-  <li><span class="year-width"><time datetime="2011">2011</time>:</span>&nbspObtention du titre de <a href="http://www.entreprises.gouv.fr/tourisme/metiers/guide-conferencier" title="http://www.entreprises.gouv.fr/tourisme/metiers/guide-conferencier">Guide-Interprète National</a> à l'<a href="https://www.google.fr/maps/place/Université Toulouse - Jean Jaurès/@43.5779941,1.3996184,17z/data=!3m1!4b1!4m5!3m4!1s0x12aeba4c48abb62d:0xaa534804f879cf3b!8m2!3d43.5779941!4d1.4018071" title="https://www.google.fr/maps/place/Université+Toulouse+-+Jean+Jaurès"><span style="font-variant: small-caps;">Université Toulouse-Jean Jaurès</span></a></li>
+  <li>
+    <span class="year-width"><time datetime="1999">1999</time>:</span>&nbspObtention du Certificat de Compétence en Langue Japonaise <a href="http://www.jlpt.jp/e/index.html" title="http://www.jlpt.jp/e/index.html">Niveau 3</a> de l'<a id="fnref1:1" href="#fn:1">Association of International Education, Japan</a>
+  </li>
+  <li>
+    <span class="year-width"><time datetime="2003">2003</time>:</span>&nbspAdmis au <abbr title="huitième">8<suli>ème</suli></abbr> <a href="http://www.kanken.or.jp/bjt/english/" title="http://www.kanken.or.jp/bjt/english/">Test de compétence en japonais des affaires</a> <a id="fnref1:2" href="#fn:2"><abbr title="Japanese Listening and Reading Test">JLRT</abbr></a> <a id="fnref1:3" href="#fn:3"><abbr title="Japanese External Trade Organization">JETRO</abbr></a>
+  </li>
+  <li><span class="year-width"><time datetime="2011">2011</time>:</span>&nbspObtention du titre de <a href="http://www.entreprises.gouv.fr/tourisme/metiers/guide-conferencier" title="http://www.entreprises.gouv.fr/tourisme/metiers/guide-conferencier">Guide-Interprète National</a> à l'<a href="https://www.google.fr/maps/place/Université Toulouse - Jean Jaurès/@43.5779941,1.3996184,17z/data=!3m1!4b1!4m5!3m4!1s0x12aeba4c48abb62d:0xaa534804f879cf3b!8m2!3d43.5779941!4d1.4018071" title="https://www.google.fr/maps/place/Université+Toulouse+-+Jean+Jaurès"><span style="font-variant: small-caps;">Université Toulouse-Jean Jaurès</span></a>
+  </li>
 </ol>
 
-<div class="footnotes">
-<ol>
-  <li id="fn:1">
-    <p>Association of International Education, Japan: association japonaise d'enseignement international, Japon&nbsp;<a href="#fnref1:1">↩</a></p>
-  </li>
-  <li id="fn:2">
-    <p><abbr title="Japanese Listening and Reading Test">JLRT</abbr>: Japanese Listening and Reading Test, en français test de compréhension orale et écrite&nbsp;<a href="#fnref1:2">↩</a></p>
-  </li>
-  <li id="fn:3">
-    <p><abbr title="Japanese External Trade Organization">JETRO</abbr>: Japanese External Trade Organization, en français Organisation Japonaise du Commerce Extérieur&nbsp;<a href="#fnref1:3">↩</a></p>
-  </li>
-</ol>
-</div>
-</div>
-</div>
+<aside>
+  <p id="fn:1" class="no-puce"><i>Association of International Education, Japan</i>: association japonaise d'enseignement international, Japon&nbsp;<a href="#fnref1:1">↩</a></p>
+  <p id="fn:2" class="no-puce"><i><abbr title="Japanese Listening and Reading Test">JLRT</abbr></i>: Japanese Listening and Reading Test, en français test de compréhension orale et écrite&nbsp;<a href="#fnref1:2">↩</a></p>
+  <p id="fn:3" class="no-puce"><i><abbr title="Japanese External Trade Organization">JETRO</abbr></i>: Japanese External Trade Organization, en français Organisation Japonaise du Commerce Extérieur&nbsp;<a href="#fnref1:3">↩</a></p>
+</aside>
 
 <div class="pure-g about-div">
 <div id="about_hyoshiki" class="block pure-u-2-3" lang="fr">
