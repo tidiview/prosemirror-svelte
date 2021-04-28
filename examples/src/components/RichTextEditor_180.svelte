@@ -66,7 +66,10 @@
 </div>
 <div id="about_name" class="block pure-u-3-7" lang="fr">
 
-<h1><span title="Prénom" style="color:#000e5f;letter-spacing: 0px;word-break:keep-all;" lang="fr">François</span> <span style="color:#000e5f;letter-spacing: 0px;word-break:keep-all;" title="Nom" lang="fr">VIDIT</span></h1>
+<hgroup>
+<h1><span title="Prénom" style="color:#000e5f;letter-spacing: 0px;word-break:keep-all;">François</span> <span style="color:#000e5f;letter-spacing: 0px;word-break:keep-all;" title="Nom">VIDIT</span></h1>
+<h2>guide-interprète de Paris</h2>
+</hgroup>
 
 <p><span title="Prénom" lang="fr">François</span>, comme prénom, se prononce: <span title="prononciation du prénom « François »">[fʁɑ̃.swɑ]</span></p>
 <p><audio controls="1" title="prononciation du prénom « François »" alt="" id="audio0"><source src="https://francois-vidit.com/user/sites/profile/pages/01.home/02.nom/Francois.mp3">Your browser does not support the audio tag.</audio></p>
@@ -75,7 +78,7 @@
 <tr>
 <p><audio controls="1" title="prononciation du nom de famille « VIDIT »" alt="" id="audio1"><source src="https://francois-vidit.com/user/sites/profile/pages/01.home/02.nom/VIDIT.mp3">Your browser does not support the audio tag.</audio></p>
 
-<p><span style="color:#000e5f">François VIDIT est </span> <span title="Profession" style="color:#000e5f" lang="fr">interprète japonais</span><span style="color:#000e5f"> à </span><span style="color:#000e5f" lang="fr">Paris</span><span style="color:#000e5f">. Depuis plus de <time datetime="P15Y">15 ans</time>, il exerce sous diverses formes, du guidage touristique, conseil interculturel, interprétariat consécutif, à la traduction.</span></p>
+<p><span style="color:#000e5f">François VIDIT est </span> <span title="Profession" style="color:#000e5f" lang="fr">guide-interprète japonais</span><span style="color:#000e5f"> à </span><span style="color:#000e5f" lang="fr">Paris</span><span style="color:#000e5f">. Depuis plus de <time datetime="P15Y">15 ans</time>, il exerce sous diverses formes, du guidage touristique, conseil interculturel, interprétariat consécutif, à la traduction.</span></p>
 
 </div>
 </div>
@@ -178,28 +181,11 @@
 
 <h2>Cursus professionnel</h2>
 
-<table>
-<thead>
-<tr>
-<th><span hidden="">hidden</span></th>
-<th><span hidden="">hidden</span></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><time datetime="1999">1999</time></td>
-<td>Obtention du Certificat de Compétence en Langue Japonaise <a href="http://www.jlpt.jp/e/index.html" title="http://www.jlpt.jp/e/index.html">Niveau 3</a> de l'<a id="fnref1:1" href="#fn:1">Association of International Education, Japan</a></td>
-</tr>
-<tr>
-<td><time datetime="2003">2003</time></td>
-<td>Admis au <abbr title="huitième">8<sup>ème</sup></abbr> <a href="http://www.kanken.or.jp/bjt/english/" title="http://www.kanken.or.jp/bjt/english/">Test de compétence en japonais des affaires</a> <a id="fnref1:2" href="#fn:2"><abbr title="Japanese Listening and Reading Test">JLRT</abbr></a> <a id="fnref1:3" href="#fn:3"><abbr title="Japanese External Trade Organization">JETRO</abbr></a></td>
-</tr>
-<tr>
-<td><time datetime="2011">2011</time></td>
-<td>Obtention du titre de <a href="http://www.entreprises.gouv.fr/tourisme/metiers/guide-conferencier" title="http://www.entreprises.gouv.fr/tourisme/metiers/guide-conferencier">Guide-Interprète National</a> à l'<a href="https://www.google.fr/maps/place/Université Toulouse - Jean Jaurès/@43.5779941,1.3996184,17z/data=!3m1!4b1!4m5!3m4!1s0x12aeba4c48abb62d:0xaa534804f879cf3b!8m2!3d43.5779941!4d1.4018071" title="https://www.google.fr/maps/place/Université+Toulouse+-+Jean+Jaurès"><span style="font-variant: small-caps;">Université Toulouse-Jean Jaurès</span></a></td>
-</tr>
-</tbody>
-</table>
+<ol class="year">
+  <li><span class="year-width"><time datetime="1999">1999</time>:</span>&nbspObtention du Certificat de Compétence en Langue Japonaise <a href="http://www.jlpt.jp/e/index.html" title="http://www.jlpt.jp/e/index.html">Niveau 3</a> de l'<a id="fnref1:1" href="#fn:1">Association of International Education, Japan</a></li>
+  <li><span class="year-width"><time datetime="2003">2003</time>:</span>&nbspAdmis au <abbr title="huitième">8<suli>ème</suli></abbr> <a href="http://www.kanken.or.jp/bjt/english/" title="http://www.kanken.or.jp/bjt/english/">Test de compétence en japonais des affaires</a> <a id="fnref1:2" href="#fn:2"><abbr title="Japanese Listening and Reading Test">JLRT</abbr></a> <a id="fnref1:3" href="#fn:3"><abbr title="Japanese External Trade Organization">JETRO</abbr></a></li>
+  <li><span class="year-width"><time datetime="2011">2011</time>:</span>&nbspObtention du titre de <a href="http://www.entreprises.gouv.fr/tourisme/metiers/guide-conferencier" title="http://www.entreprises.gouv.fr/tourisme/metiers/guide-conferencier">Guide-Interprète National</a> à l'<a href="https://www.google.fr/maps/place/Université Toulouse - Jean Jaurès/@43.5779941,1.3996184,17z/data=!3m1!4b1!4m5!3m4!1s0x12aeba4c48abb62d:0xaa534804f879cf3b!8m2!3d43.5779941!4d1.4018071" title="https://www.google.fr/maps/place/Université+Toulouse+-+Jean+Jaurès"><span style="font-variant: small-caps;">Université Toulouse-Jean Jaurès</span></a></li>
+</ol>
 
 <div class="footnotes">
 <ol>
