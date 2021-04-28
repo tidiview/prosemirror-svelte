@@ -11,7 +11,7 @@
 
 <hgroup>
 <h1 class="green"><ruby style="color:#555;" lang="fr">La Châsse de Sainte Ursule<rt style="color:#999;" lang="nl">Het Ursulaschrijn</rt></ruby></h1>
-<h2 class="green">de l'hopital Saint Jean Musée Memling de Bruges</h2>
+<h2 class="green">hopital Saint Jean Musée Memling de Bruges</h2>
 </hgroup>
 
 <figure>
