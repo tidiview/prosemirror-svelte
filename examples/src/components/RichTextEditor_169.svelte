@@ -35,16 +35,16 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire
 https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x798.jpg 700w"></picture><figcaption>Diane de Poitiers représentée en Diane, déesse de la Chasse</figcaption></figure>
 <div class="notices green">
 
-<p>Ce portrait est une œuvre que <a href="https://fr.wikipedia.org/wiki/Le_Primatice" title="https://fr.wikipedia.org/wiki/Le_Primatice">Le Primatice</a>, peintre originaire de Bologne en Italie, invité par le roi <a href="https://fr.wikipedia.org/wiki/François_Ier_(roi_de_France)" title="https://fr.wikipedia.org/wiki/François_Ier_(roi_de_France)">François I<sup>er</sup></a> puis devenu quasi ministre de la Culture de l'époque, a peint, en <time datetime="1556">1556</time>, au <a href="https://fr.wikipedia.org/wiki/Château_de_Chenonceau" title="https://fr.wikipedia.org/wiki/Château_de_Chenonceau">Château de Chenonceau</a>.</p>
+<p>Ce portrait est une œuvre que <a href="https://fr.wikipedia.org/wiki/Le_Primatice" title="https://fr.wikipedia.org/wiki/Le_Primatice">Le Primatice</a>, peintre originaire de Bologne en Italie, invité par le roi <a href="https://fr.wikipedia.org/wiki/François_Ier_(roi_de_France)" title="https://fr.wikipedia.org/wiki/François_Ier_(roi_de_France)">François <abbr title="premier">I<sup>er</sup></abbr></a> puis devenu quasi ministre de la Culture de l'époque, a peint, en <time datetime="1556">1556</time>, au <a href="https://fr.wikipedia.org/wiki/Château_de_Chenonceau" title="https://fr.wikipedia.org/wiki/Château_de_Chenonceau">Château de Chenonceau</a>.</p>
 <p>En italien, la même personne est désignée par l'appellation “Il Primaticcio”.</p>
-<p>L'image représente la favorite du roi <a href="https://fr.wikipedia.org/wiki/Henri_II_(roi_de_France)" title="https://fr.wikipedia.org/wiki/Henri_II_(roi_de_France)">Henri II</a>, fils ayant succédé à François Ier, <a href="https://fr.wikipedia.org/wiki/Diane_de_Poitiers" title="https://fr.wikipedia.org/wiki/Diane_de_Poitiers">Diane de Poitiers</a>.</p>
+<p>L'image représente la favorite du roi <a href="https://fr.wikipedia.org/wiki/Henri_II_(roi_de_France)" title="https://fr.wikipedia.org/wiki/Henri_II_(roi_de_France)">Henri <abbr title="deux">II</abbr></a>, fils ayant succédé à François Ier, <a href="https://fr.wikipedia.org/wiki/Diane_de_Poitiers" title="https://fr.wikipedia.org/wiki/Diane_de_Poitiers">Diane de Poitiers</a>.</p>
 <p>Alors, à la cour du roi de France, elle est connue pour être d'une beauté exceptionnelle.</p>
 <p>À l'époque, comme il y avait une mode pour le “portrait paralèlle”, ici, on ne représente pas directement la personne mais la déesse de la chasse connue pour avoir le même nom <a href="https://fr.wikipedia.org/wiki/Diane_(mythologie)" title="https://fr.wikipedia.org/wiki/Diane_(mythologie)">Diane</a>.</p>
 <p>À l'origine de ce portrait parallèle, ci-dessous, un récit, qui fait apparaître Diane déesse de la Chasse, écrit par un écrivain qui a vécu à l'époque de l'Empire Romain, <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a>. Ce récit est extrait de ses œuvres: <a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"><cite>Les Métamorphoses</cite></a>.</p>
 <p>Puisse ce récit des aventures de la déesse de la Chasse et d'Actéon vous plaire!</p>
 </div>
 
-<h2 class="green">Actéon selon <cite>Les Métamorphoses</cite></h2>
+<h2 class="green">Actéon selon le texte du livre <abbr title="trois">III</abbr> des <cite>Métamorphoses</cite></h2>
 
 <ol class="doc">
   <li value="131">Ils étaient donc à Thèbes; ton exil pouvait donc, Cadmus</li>
@@ -197,8 +197,9 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire
 </ol>
 
 <footer>
-  <p><span style="color: #3d8b3d;">Ovide, <cite>Les Métamorphoses</cite>, Livre III, vers 131 à 252</span></p>
+  <p><span style="color: #3d8b3d;">Ovide, <cite>Les Métamorphoses</cite>, Livre <abbr title="trois">III</abbr>, vers 131 à 252</span></p>
 </footer>
+
 </article>
 `;
 
