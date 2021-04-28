@@ -216,6 +216,7 @@
 <aside>
   <p id="fn:4" class="no-puce"><dfn><i><abbr title="Association des Guide-Interprètes de langue Japonaise">AGIJ</abbr></i></dfn>: Association des Guide-Interprètes de langue Japonaise&nbsp;<a href="#fnref1:4">↩</a></p>
 </aside>
+
 </div>
 </div>
 
