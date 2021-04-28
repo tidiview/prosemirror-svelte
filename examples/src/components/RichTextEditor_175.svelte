@@ -11,29 +11,29 @@
 
 <div class="notices red">
 <p>Dans l'Europe chrétienne du Moyen-Âge, la Légende Dorée est l'ouvrage le plus lu après la Bible.</p>
-<p>Elle a été écrite en latin de <time datetime="1261">1261</time> à <time datetime="1266">1266</time> par un moine dominicain de l'Italie du Nord, compilateur de chroniques et également connu comme le 8<sup>ème</sup> Archevêque de Gênes, Jacques De Voragine (en latin, Jacobus de Voragine).</p>
+<p>Elle a été écrite en latin de <time datetime="1261">1261</time> à <time datetime="1266">1266</time> par un moine dominicain de l'Italie du Nord, compilateur de chroniques et également connu comme le <abbr title="huitième">8<sup>ème</sup></abbr> Archevêque de Gênes, Jacques De Voragine (en latin, Jacobus de Voragine).</p>
 <p>Présenter cet ouvrage, même de manière élémentaire, n'est pas chose aisée mais pour dire les choses, il n'y a pas d'erreur à écrire qu'en compilant plusieurs documents existants comme des vies de martyrs ou de quelques 150 saints ou groupes de saints, en incorporant dans le calendrier païen préexistant le calendrier liturgique annuel de l'église catholique, en l'uniformisant, en se servant aussi de cette occasion pour expliquer les principaux événements des vies du Christ et de la Vierge à partir des Évangiles, ce texte a de fait construit la mythologie chrétienne qui a imprégné en profondeur tous les domaines de la société de son époque, y compris par exemple sa topologie...</p>
-<p>Comme l'écrit, dans la préface de son livre «Mythologie chrétienne: fêtes, rites et mythes du Moyen âge», le médiéviste Philippe WALTER, «le souvenir immémorial imprégnaient rites, traditions venus de la mémoire sauvage qui préexistaient à l'arrivée du christianisme», on peut considérer ce texte parce qu'y apparaissent de manière sous-jacente des éléments refoulés par l'Église de l'ancien calendrier païen, comme à la fois fascinant et particulièrement digne d'intérêt.</p>
+<p>Comme l'écrit, dans la préface de son livre <cite>Mythologie chrétienne: fêtes, rites et mythes du Moyen âge</cite>, le médiéviste <a href="https://fr.wikipedia.org/wiki/Philippe_Walter" title="https://fr.wikipedia.org/wiki/Philippe_Walter">Philippe WALTER</a>, «le souvenir immémorial imprégnaient rites, traditions venus de la mémoire sauvage qui préexistaient à l'arrivée du christianisme», on peut considérer ce texte parce qu'y apparaissent de manière sous-jacente des éléments refoulés par l'Église de l'ancien calendrier païen, comme à la fois fascinant et particulièrement digne d'intérêt.</p>
 <p>Ici, je n'en présente bien sûr ci-dessous qu'une très petite partie, le seul chapître 141, parce que celle-ci se rapporte dans l'œuvre comme étant origine du Mont Saint-Michel en temps que lieu de pélerinage.</p>
 <p>Y apparaissent l'archange Michel, le taureau, et bien d'autres choses... On peut s'étonner aussi que le récit se développe sans s'arrêter et insensiblement de l'archange à un récit de la foi en les anges.</p>
 <p>Entre l'existence qu'on ne peut mesurer et celle qu'on perçoit, ce texte devrait susciter diverses pensées, indépendemment de questions relatives au fait de croire ou de ne pas croire, et donc j'incite à le lire si possible jusqu'à la fin sans s'effrayer de la forte coloration religieuse propre à l'époque.</p>
 <p>Des liens ont été établis à partir des citations pour rendre possible et facile pour ceux qui le souhaiterait, vérification des propos avancés en temps que citation.</p>
 </div>
 
-<h2 id="chap141" class="red">saint Michel selon le texte du chapître 141 de “La Légende Dorée”</h2>
+<h2 id="chap141" class="red">saint Michel selon le texte du chapître 141 de <cite>La Légende Dorée</cite></h2>
 
-<p>Michel se comprend comme «Qui, comme Dieu?» et, à ce que dit Grégoire, chaque fois qu'il s'accomplit une grande merveille, c'est Michel qui est envoyé, pour signifier, par son action et par son nom, que personne ne peut faire ce qui revient à Dieu seul: aussi attribue-t-on à Michel lui-même nombre de faits qui manifestent une puissance admirable.
-Au témoignage de Daniel <a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs">(Daniel 12, 1.)</a>, il surgira au temps de l’Antéchrist et se tiendra à côté des élus comme leur défenseur et protecteur.
-Il a combattu le dragon et ses anges <a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille">(Apocalypse 12,7-9.)</a>, les a précipités du haut du ciel, et a remporté sur eux une grande victoire.
-Il a disputé le <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_moise" title="ascension de Moïse" id="moise">corps de Moïse</a> au diable qui voulait le produire afin que le peuple juif l'adore à la place de Dieu <a href="https://www.aelf.org/bible/Jude/1" title="https://www.aelf.org/bible/Jude/1">(Jude 1, 9.)</a>.
-Il accueille les âmes des saints, et les conduit au Jardin de l'exultation <a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs">(Daniel 12, 1-2.)</a>. Il fut jadis <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_israel" title="patron d'Israël, défenseur des milices célestes" id="israel">prince de la Synagogue</a>, mais, à présent, le Seigneur l'a fait prince de l'Église .
-À ce qu'on sait, c'est <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_extrapolation" title="extrapolation de Jacques de Voragine" id="extrapolation">lui</a> qui a répandu les plaies sur l'Égypte, divisé les eaux de la mer Rouge , conduit le peuple à travers le désert, et qui l'a introduit en Terre promise. Dans l'armée des anges, il est tenu pour le porte-enseigne du Christ <a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille">(Apocalypse 12,7.)</a>.
-Sur l'ordre du Seigneur il tuera avec puissance l'Antéchrist établi sur le mont des Oliviers <a href="https://www.aelf.org/bible/Lc/22" title="https://www.aelf.org/bible/Lc/22">(Luc 22,43.)</a>.
-À la voix de l'archange Michel, les morts ressusciteront <a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs">(Daniel 12, 1-2)</a>; au jour du Jugement, il présentera la croix, les clous, la lance et la couronne d'épines.</p>
-<p>La fête sacrée de l'archange Michel porte les noms d'apparition, de dédicace, de victoire et de mémoire.</p>
+<p><mark>Michel</mark> se comprend comme «Qui, comme Dieu?» et, à ce que dit Grégoire, chaque fois qu'il s'accomplit une grande merveille, c'est <mark>Michel</mark> qui est envoyé, pour signifier, par son action et par son nom, que personne ne peut faire ce qui revient à Dieu seul: aussi attribue-t-on à <mark>Michel</mark> lui-même nombre de faits qui manifestent une puissance admirable.
+Au témoignage de Daniel [<a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs">Daniel chapître 12 verset 1</a>], il surgira au temps de l’Antéchrist et se tiendra à côté des élus comme leur défenseur et protecteur.
+Il a combattu le dragon et ses anges [<a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille">Apocalypse chapître 12, versets 7 à 9</a>], les a précipités du haut du ciel, et a remporté sur eux une grande victoire.
+Il a disputé le <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_moise" title="ascension de Moïse" id="moise">corps de Moïse</a> au diable qui voulait le produire afin que le peuple juif l'adore à la place de Dieu [<a href="https://www.aelf.org/bible/Jude/1" title="https://www.aelf.org/bible/Jude/1">lettre de Jude chapître 1 verset 9</a>].
+Il accueille les âmes des saints, et les conduit au Jardin de l'exultation [<a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs">Daniel chapître 12, versets 1 et 2</a>]. Il fut jadis <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_israel" title="patron d'Israël, défenseur des milices célestes" id="israel">prince de la Synagogue</a>, mais, à présent, le Seigneur l'a fait prince de l'Église .
+À ce qu'on sait, c'est <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_extrapolation" title="extrapolation de Jacques de Voragine" id="extrapolation">lui</a> qui a répandu les plaies sur l'Égypte, divisé les eaux de la mer Rouge , conduit le peuple à travers le désert, et qui l'a introduit en Terre promise. Dans l'armée des anges, il est tenu pour le porte-enseigne du Christ [<a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille">Apocalypse chapître 12 verset 7</a>].
+Sur l'ordre du Seigneur il tuera avec puissance l'Antéchrist établi sur le mont des Oliviers [<a href="https://www.aelf.org/bible/Lc/22" title="https://www.aelf.org/bible/Lc/22">Luc chapître 22 verset 43</a>].
+À la voix de l'archange <mark>Michel</mark>, les morts ressusciteront [<a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs">Daniel chapître 12, versets 1 et 2</a>]; au jour du Jugement, il présentera la croix, les clous, la lance et la couronne d'épines.</p>
+<p>La fête sacrée de l'archange <mark>Michel</mark> porte les noms d'apparition, de dédicace, de victoire et de mémoire.</p>
 <h3 id="apparitions" class="red">les apparitions de cet ange sont multiples</h3>
 <h4 id="mont-garganus" class="red">apparition de Garganus et du taureau</h4>
-<p>La première apparition de Michel est celle du mont Gargano.
+<p>La première apparition de <mark>Michel</mark> est celle du mont Gargano.
 Dans les Pouilles se trouve une montagne ainsi désignée, près de la cité nommée Siponto.
 Or en l'an du Seigneur 390 habitait dans cette ville de Siponto11 un homme appelé Gargano; la montagne tenait son nom de lui, ou bien, selon certains livres, c'est lui qui tenait son nom de la montagne.
 Il possédait un immense troupeau de brebis et de bœufs, et celui-ci paissait sur les flancs de la montagne, quand soudain il arriva qu'un taureau quitta les autres animaux et s'enfuit jusqu'au sommet.
@@ -41,32 +41,32 @@ Comme il ne revenait pas avec les autres bêtes, l'homme rassembla une troupe de
 Se demandant avec exaspération pourquoi il errait ainsi tout seul, il lui décocha une flèche empoisonnée, mais celle-ci, comme si le vent la renvoyait, se retourna aussitôt contre lui.
 Troublés par l'affaire, les habitants allèrent trouver l'évêque et l'interrogèrent sur ce phénomène stupéfiant.
 Ce dernier leur imposa un jeûne de trois jours, et leur prescrivit de demander l'explication à Dieu.
-Cela fait, saint Michel apparut à l'évêque et lui dit:</p>
-<p>«Sachez que c'est moi qui ai voulu que cet homme soit frappé par sa propre flèche; car je suis l'archange Michel, et j'ai décidé de préserver ce lieu, dont j'ai fait ma demeure sur terre.
+Cela fait, saint <mark>Michel</mark> apparut à l'évêque et lui dit:</p>
+<p>«Sachez que c'est moi qui ai voulu que cet homme soit frappé par sa propre flèche; car je suis l'archange <mark>Michel</mark>, et j'ai décidé de préserver ce lieu, dont j'ai fait ma demeure sur terre.
 Par ce signe j'ai voulu prouver que j'en étais l'inspecteur et le gardien.»
 Sur-le-champ, l'évêque et les habitants s'y rendirent en procession, et, n'osant pas entrer dans la grotte, ils se tinrent en prière devant l'entrée.</p>
 <h4 id="mont-tombe" class="red">apparition au mont Tombe</h4>
 <p>La seconde apparition eut lieu dans les années du Seigneur 710, à ce qu'on rapporte.
-Au lieu dit La Tombe, <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_haymon" title="Haymon" id="tumba">Tumba</a>, situé non loin du bord de mer, à six milles de la ville d'Avranches, Michel apparut à l'évêque de la cité et lui ordonna de construire une église à cet endroit, pour y célébrer la mémoire de l'archange Michel, comme sur le mont Gargano.
-L'évêque hésitant sur le lieu exact où il devait construire l'église, Michel lui dit que ce devait être à l'emplacement où il trouverait un taureau caché par des brigands.
+Au lieu dit La Tombe, <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_haymon" title="Haymon" id="tumba">Tumba</a>, situé non loin du bord de mer, à six milles de la ville d'Avranches, <mark>Michel</mark> apparut à l'évêque de la cité et lui ordonna de construire une église à cet endroit, pour y célébrer la mémoire de l'archange <mark>Michel</mark>, comme sur le mont Gargano.
+L'évêque hésitant sur le lieu exact où il devait construire l'église, <mark>Michel</mark> lui dit que ce devait être à l'emplacement où il trouverait un taureau caché par des brigands.
 Comme il s'interrogeait aussi sur les dimensions de l'église, il reçut l'ordre de lui donner la surface délimitée par la marche du taureau.
-Il y avait là deux énormes pierres qu'aucune force humaine n'aurait pu faire bouger: Michel apparut alors à un homme, lui ordonna d'aller là-bas et de prendre ces pierres.
+Il y avait là deux énormes pierres qu'aucune force humaine n'aurait pu faire bouger: <mark>Michel</mark> apparut alors à un homme, lui ordonna d'aller là-bas et de prendre ces pierres.
 Il y alla et les déplaça comme si elles ne pesaient rien du tout.
-Après avoir édifié l'église, on prit sur le mont Gargano une partie de l'ornement que saint Michel avait déposé sur l'autel et une partie de la plaque de marbre sur laquelle il s'était tenu, et on les déposa en son église.
+Après avoir édifié l'église, on prit sur le mont Gargano une partie de l'ornement que saint <mark>Michel</mark> avait déposé sur l'autel et une partie de la plaque de marbre sur laquelle il s'était tenu, et on les déposa en son église.
 Et comme il y avait pénurie d'eau, sur le conseil de l'ange on perça un trou dans un rocher: à ce qu'on dit, il s'en échappa aussitôt suffisamment d'eau pour alimenter l'endroit encore aujourd'hui.
 En ce lieu, cette apparition se célèbre solennellement le <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_tumba" title="Mont Tumba" id="calendes">dix-septième jour des calendes de novembre</a>.
 Il s'y déroula encore, dit-on, un miracle digne de mémoire.
-Le lieu est partout cerné par l'océan, mais au jour de la Saint-Michel il s'ouvre deux fois pour laisser le passage au peuple.
+Le lieu est partout cerné par l'océan, mais au jour de la Saint-<mark>Michel</mark> il s'ouvre deux fois pour laisser le passage au peuple.
 C'est à cause de la marée montante et descendante qui se produit là deux fois par jour qu'on dit qu'il s'ouvre.
 Comme une foule nombreuse se pressait vers l'église, il se trouva qu'une femme enceinte et près d'accoucher marchait au milieu d'elles.
 Voilà soudain que l'eau revint à grosses vagues, et que la foule affolée se réfugia sur le rivage, sauf la femme enceinte, qui se trouva prisonnière des flots marins.
-Mais l'archange Michel lui sauva la vie et elle accoucha d'un fils en pleine mer.
+Mais l'archange <mark>Michel</mark> lui sauva la vie et elle accoucha d'un fils en pleine mer.
 Elle le prit dans ses bras, l'allaita et, la mer lui laissant à nouveau le passage, elle en sortit toute joyeuse avec son enfant.</p>
 <h4 id="chateau-saint-ange" class="red">appartition au château saint-Ange</h4>
 <p>La troisième apparition eut lieu à Rome, à ce qu'on lit, au temps du pape Grégoire.
 Ce dernier, en effet, avait institué les litanies majeures en raison de la peste bubonique, et il priait avec dévotion pour son peuple, lorsqu'il vit, sur le château jadis appelé mausolée d'Adrien, l'ange du Seigneur en train d'essuyer son glaive et de le remettre au fourreau.
 Saint Grégoire comprit alors que ses prières avaient été exaucées, et il construisit là une église en l'honneur des anges; aussi le château est-il appelé aujourd'hui encore château Saint-Ange.
-Cette apparition est célébrée le 8 des ides de mai, en même temps que celle du mont Gargano, au jour où l'archange Michel donna la victoire aux Sipontins.</p>
+Cette apparition est célébrée le 8 des ides de mai, en même temps que celle du mont Gargano, au jour où l'archange <mark>Michel</mark> donna la victoire aux Sipontins.</p>
 <h4 id="de-hierarchia" class="red">apparition dans les hiérarchies</h4>
 <p>La quatrième apparition est celle des hiérarchies des anges eux-mêmes.
 La première hiérarchie est dite «épiphanie», c'est-a-dire apparition supérieure, la hiérarchie moyenne «hyperphanie», c'est-a-dire apparition moyenne, et la dernière hiérarchie «hypophanie», c'est-à-dire apparition inférieure.
@@ -95,11 +95,11 @@ Leur rang et leur degré de dignité apparaissent ici de façon évidente.
 Quant à leur ministère, il est triple: une partie consiste dans les œuvres, une autre dans l'enseignement, c'est-à-dire dans l'enseignement des grandes et des petites choses; le premier appartient aux vertus, le deuxième aux archanges, le troisième aux anges.</p>
 <h4 id="infirme" class="red">apparition à l'homme qui ne pouvait ni boire ni manger</h4>
 <p>La cinquième apparition est celle dont parle l'<a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_histoiretripartite" title="Histoire tripartite" id="histoiretripartite">Histoire tripartite</a>.
-En effet, près de Constantinople se trouve un lieu où était jadis honorée la déesse Vesta, et où s'élève aujourd'hui une église dédiée à saint Michel: l'endroit s'appelle d'ailleurs Michaelium.
+En effet, près de Constantinople se trouve un lieu où était jadis honorée la déesse Vesta, et où s'élève aujourd'hui une église dédiée à saint <mark>Michel</mark>: l'endroit s'appelle d'ailleurs Michaelium.
 Un homme du nom d'Aquilinus avait été atteint d'une fièvre très brûlante, provoquée par des taches rouges.
 Les médecins lui donnèrent une potion, qu'il vomit, tant et si bien qu'à partir de ce moment-là il rendit tout ce qu'il mangeait ou buvait.
-Se sentant près de mourir, il se fit conduire dans l'église Saint-Michel, dans l'idée d'y mourir ou d'y être guéri.
-Michel lui apparut, et lui dit de se préparer un mélange de miel, de vin et de poivre, et d'y tremper tous ses aliments: il recouvrerait ainsi sa pleine santé.
+Se sentant près de mourir, il se fit conduire dans l'église Saint-<mark>Michel</mark>, dans l'idée d'y mourir ou d'y être guéri.
+<mark>Michel</mark> lui apparut, et lui dit de se préparer un mélange de miel, de vin et de poivre, et d'y tremper tous ses aliments: il recouvrerait ainsi sa pleine santé.
 Il le fit, et se trouva totalement guéri, bien que la médecine semble déconseiller de donner aux colériques des potions qui échauffent.
 Voilà ce que dit l'Histoire tripartite.</p>
 
@@ -114,7 +114,7 @@ Voilà ce que dit l'Histoire tripartite.</p>
 
 <h3 id="note_moise" class="red">ascension de Moïse</h3>
   <div class="notices red">
-    <p>Le récit intitulé «Ascension de Moïse» est un texte apocryphe du 1er siècle ap. J.-C.; la lettre de Jude a parfois elle aussi été considérée comme apocryphe.</p>
+    <p>Le récit intitulé «Ascension de Moïse» est un texte apocryphe du <abbr title="premier">1<sup>er</sup></abbr> siècle <abbr title="après Jésus-Christ">ap. J.-C.</abbr>; la lettre de Jude a parfois elle aussi été considérée comme apocryphe.</p>
   </div>
 <footer>
   <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#moise" title="ascension de Moïse">Il a disputé le corps de Moïse ↩</a></p>
@@ -122,7 +122,7 @@ Voilà ce que dit l'Histoire tripartite.</p>
 
 <h3 id="note_israel" class="red">patron d'Israël, défenseur des milices célestes</h3>
   <div class="notices red">
-    <p>Michel est mentionné comme le patron d'Israël en Daniel 12, 1, et dans Apocalypse 12, 7 il est le défenseur des milices célestes.</p>
+    <p>Michel est mentionné comme le patron d'Israël en Daniel 12, 1, et dans Apocalypse chapître 12, verset 7 il est le défenseur des milices célestes.</p>
   </div>
 <footer>
   <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#israel" title="patron d'Israël, défenseur des milices célestes">Il fut jadis prince de la Synagogue ↩</a></p>
@@ -130,7 +130,7 @@ Voilà ce que dit l'Histoire tripartite.</p>
 
 <h3 id="note_extrapolation" class="red">extrapolation de Jacques de Voragine</h3>
 <div class="notices red">
-  <p>Jacques de Voragine identifie Michel avec l'ange du Seigneur dont parle Exode 23, 20-23. et qui a joué un rôle dans les sept plaies d'Égypte (Exode 7-12) et dans la traversée de la mer Rouge (Exode 14), mais Le livre de l'Exode ne le mentionne pas explicitement.</p>
+  <p>Jacques de Voragine identifie Michel avec l'ange du Seigneur dont parle Exode chapître 23, versets 20 à 23. et qui a joué un rôle dans les sept plaies d'Égypte (Exode chapître 7 à 12) et dans la traversée de la mer Rouge (Exode chapître 14), mais Le livre de l'Exode ne le mentionne pas explicitement.</p>
 </div>
 <footer>
   <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#extrapolation" title="extrapolation de Jacques de Voragine">lui qui a répandu les plaies sur l'Égypte ↩</a></p>
@@ -163,7 +163,7 @@ Voilà ce que dit l'Histoire tripartite.</p>
 
 <h3 id="note_gregoire" class="red">Grégoire le Grand</h3>
   <div class="notices red">
-    <p><a href="https://fr.wikipedia.org/wiki/Grégoire_Ier" title="https://fr.wikipedia.org/wiki/Grégoire_Ier">Grégoire Ier, dit le Grand</a>, auteur des Dialogues (né vers <time datetime="540">540</time>, mort le <time datetime="604-03-12">12 mars 604</time>), devient le 64e pape en <time datetime="590">590</time>.</p>
+    <p><a href="https://fr.wikipedia.org/wiki/Grégoire_Ier" title="https://fr.wikipedia.org/wiki/Grégoire_Ier">Grégoire Ier, dit le Grand</a>, auteur des Dialogues (né vers <time datetime="540">540</time>, mort le <time datetime="604-03-12">12 mars 604</time>), devient le <abbr title="soixante-quatre">64<sup>ème</sup></abbr> pape en <time datetime="590">590</time>.</p>
     <p>Docteur de l'Église, il est l'un des quatre Pères de l'Église d'Occident, avec saint Ambroise, saint Augustin et saint Jérôme. Son influence durant le Moyen Âge fut considérable.</p>
     <p>C'est en son honneur que, deux siècles après sa mort, le chant élaboré dans les abbayes du diocèse de Metz est appelé «chant grégorien» (sans que l'on sache avec certitude son rôle dans l'évolution et la diffusion du chant liturgique).</p>
   </div>
@@ -175,8 +175,8 @@ Voilà ce que dit l'Histoire tripartite.</p>
   <div class="notices red">
     <p><a href="https://fr.wikipedia.org/wiki/Bernard_de_Clairvaux" title="Bernard de Clairvaux">Bernard de Fontaine, abbé de Clairvaux</a>, né en <time datetime="1090">1090</time> à Fontaine-lès-Dijon et mort le <time datetime="1153-08-20">20 août 1153</time> à l'abbaye de Clairvaux, est un moine bourguignon, réformateur de la vie religieuse catholique.</p>
     <p>Directeur de conscience et important promoteur de l'ordre cistercien (ou ordre de Cîteaux), il recherche l'amour du Christ par la mortification la plus dure. Bernard de Fontaine fait preuve, toute sa vie, d'une activité inlassable pour instruire ses moines de Clairvaux, pour émouvoir et entraîner les foules, pour allier son ordre avec la papauté et pour élaborer un dogme militant que son ordre et toute l'Église catholique mettront en œuvre.</p>
-    <p>C'est aussi un conservateur, qui fustige les mutations de son époque (la «Renaissance du xiie siècle»), marquée par une profonde transformation de l'économie, de la société et du pouvoir politique.</p>
-    <p>Mort en <time datetime="1153">1153</time>, il est canonisé dès <time datetime="1175">1174</time> et devient ainsi saint Bernard de Clairvaux. Il est déclaré Docteur de l'Église catholique en <time datetime="1830">1830</time> par le pape Pie VIII.</p>
+    <p>C'est aussi un conservateur, qui fustige les mutations de son époque (la «Renaissance du <abbr title="douzième">XII<sup>ème</sup></abbr> siècle»), marquée par une profonde transformation de l'économie, de la société et du pouvoir politique.</p>
+    <p>Mort en <time datetime="1153">1153</time>, il est canonisé dès <time datetime="1175">1174</time> et devient ainsi saint Bernard de Clairvaux. Il est déclaré Docteur de l'Église catholique en <time datetime="1830">1830</time> par le pape Pie <abbr title="huit">VIII</abbr>.</p>
   </div>
 <footer>
   <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#bernard" title="Bernard de Clairvaux">Pour la répartition des ordres de la première hiérarchie ↩</a></p>
@@ -184,7 +184,7 @@ Voilà ce que dit l'Histoire tripartite.</p>
 
 <h3 id="note_histoiretripartite" class="red">Histoire tripartite</h3>
   <div class="notices red">
-    <p>chronique ecclésiastique de Constantin à Théodose II (<time datetime="313">313</time> à <time datetime="439">439</time>) en quatre livres, dans laquelle Théodore reprend les œuvres de trois historiens du Ve siècle, Socrate le Scolastique, Sozomène et Théodoret de Cyr, avec notes et comparaisons. Elle a été partiellement traduite en latin en <time datetime="560">560</time> par le moine Épiphane à la demande de Cassiodore. Certaines parties sont assez fidèles, tandis que d'autres sont une adaptation libre.</p>
+    <p>chronique ecclésiastique de Constantin à Théodose <abbr title="deux">II</abbr> (<time datetime="313">313</time> à <time datetime="439">439</time>) en quatre livres, dans laquelle Théodore reprend les œuvres de trois historiens du <abbr title="cinquième">V<sup>ème</sup></abbr> siècle, Socrate le Scolastique, Sozomène et Théodoret de Cyr, avec notes et comparaisons. Elle a été partiellement traduite en latin en <time datetime="560">560</time> par le moine Épiphane à la demande de Cassiodore. Certaines parties sont assez fidèles, tandis que d'autres sont une adaptation libre.</p>
   </div>
 <footer>
   <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#histoiretripartite" title="Histoire tripartite">Histoire tripartite ↩</a></p>
@@ -192,7 +192,7 @@ Voilà ce que dit l'Histoire tripartite.</p>
 
 <h3 id="note_haymon" class="red">Haymon</h3>
   <div class="notices red">
-    <p><a href="https://fr.wikipedia.org/wiki/Haymon_d'Halberstadt" title="https://fr.wikipedia.org/wiki/Haymon_d'Halberstadt">Haymon d'Halberstadt</a>, dit aussi Haymon de Fulda (en latin Haimo Halberstatensis), est un moine bénédictin, puis évêque, de l'époque carolingienne, né vers <time datetime="780">780</time>, mort le <time datetime="853-03-26">26 mars 853<time datetime="780">.</p>
+    <p><a href="https://fr.wikipedia.org/wiki/Haymon_d'Halberstadt" title="https://fr.wikipedia.org/wiki/Haymon_d'Halberstadt">Haymon d'Halberstadt</a>, dit aussi Haymon de Fulda (en latin: «Haimo Halberstatensis»), est un moine bénédictin, puis évêque, de l'époque carolingienne, né vers <time datetime="780">780</time>, mort le <time datetime="853-03-26">26 mars 853<time datetime="780">.</p>
   </div>
 <footer>
   <p class="puce">retour au texte:<a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#haymon" title="Haymon">↩</a></p>
