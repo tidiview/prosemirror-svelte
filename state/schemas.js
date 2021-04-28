@@ -798,6 +798,33 @@ export const ExtendedThreerichTextSchema = new Schema({
       parseDOM: [{tag: "ruby", getAttrs(dom) { return {lang: dom.lang, color: dom.style["color"]} }}, {tag: "rp", ignore: true}],
       toDOM(node) { let {lang, color} = node.attrs; return lang == "" ? color == "" ? ["ruby", 0] : lang == "" ? ["ruby", {"style": "color:" + color}, 0] : ["ruby", {lang}, 0] : ["ruby", {lang, "style": "color:" + color}, 0] },
     },
+    code: {
+      content: "text*",
+      parseDOM: [{tag: "code"}],
+      toDOM() { return ["code", 0] },
+    },
+    dfn: {
+      inline: true,
+      group: "inline",
+      content: "text*",
+      parseDOM: [{tag: "dfn"}],
+      toDOM() { return ["dfn", 0] },
+    },
+    address: {
+      inline: true,
+      group: "inline",
+      content: "text*",
+      parseDOM: [{tag: "address"}],
+      toDOM() { return ["address", 0] },
+    },
+    time: {
+      inline: true,
+      group: "inline",
+      content: "text*",
+      attrs: {datetime: {default: null}},
+      parseDOM: [{tag: "time", getAttrs(dom) { return {datetime: dom.getAttribute("datetime")}} }],
+      toDOM(node) { let {datetime} = node.attrs ; return ["time", {datetime}, 0] },
+    },
     text: {
       inline: true,
       group: "inline"
@@ -829,13 +856,6 @@ export const ExtendedThreerichTextSchema = new Schema({
       parseDOM: [{tag: "hr"}],
       toDOM() {return ["hr"]}
     },
-    br: {
-      inline: true,
-      group: "inline",
-      selectable: false,
-      parseDOM: [{tag: "br"}],
-      toDOM() {return ["br"]}
-    },
     wbr: {
       inline: true,
       group: "inline",
@@ -843,32 +863,12 @@ export const ExtendedThreerichTextSchema = new Schema({
       parseDOM: [{tag: "wbr"}],
       toDOM() {return ["wbr"]}
     },
-    code: {
-      content: "inline*",
-      parseDOM: [{tag: "code"}],
-      toDOM() { return ["code", 0] },
-    },
-    dfn: {
+    br: {
       inline: true,
       group: "inline",
-      content: "inline*",
-      parseDOM: [{tag: "dfn"}],
-      toDOM() { return ["dfn", 0] },
-    },
-    address: {
-      inline: true,
-      group: "inline",
-      content: "inline*",
-      parseDOM: [{tag: "address"}],
-      toDOM() { return ["address", 0] },
-    },
-    time: {
-      inline: true,
-      group: "inline",
-      content: "inline*",
-      attrs: {datetime: {default: null}},
-      parseDOM: [{tag: "time", getAttrs(dom) { return {datetime: dom.getAttribute("datetime")}} }],
-      toDOM(node) { let {datetime} = node.attrs ; return ["time", {datetime}, 0] },
+      selectable: false,
+      parseDOM: [{tag: "br"}],
+      toDOM() {return ["br"]}
     },
   },
   marks: {
@@ -939,13 +939,13 @@ export const ExtendedThreerichTextSchema = new Schema({
       parseDOM: [{tag: "span", getAttrs(dom) {
         return {classes: dom.getAttribute("class") , styles: dom.getAttribute("style"), title: dom.title}
       }}],
-      toDOM(node) { let {classes, styles, title} = node.attrs ; return styles == "" ? title == "" ? classes == "" ?
+      toDOM(node) { let {classes, styles, title} = node.attrs ; return styles == "" ? title == "" ? classes == "" ? 
       ["span", 0] : ["span", {"class": classes}, 0] : 
-      classes == "" ?
-      ["span", {"title": title}, 0] :  ["span", {"title": title, "class": classes}, 0] : 
+      classes == "" ? 
+      ["span", {"title": title}, 0] : ["span", {"title": title, "class": classes}, 0] : 
       title == "" ? classes == "" ?
       ["span", {"style": styles}, 0] : ["span", {"style": styles, "class": classes}, 0] : 
-      classes == "" ?
+      classes == "" ? 
       ["span", {"style": styles,"title": title}, 0] : ["span", {"style": styles,"title": title, "class": classes}, 0]  },
     },
     pre: {
