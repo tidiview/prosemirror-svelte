@@ -913,9 +913,13 @@ export const ExtendedThreerichTextSchema = new Schema({
       parseDOM: [{tag: "cite"}],
       toDOM() { return ["cite", 0]},
     },
-    b: {
-      parseDOM: [{tag: "b"}],
-      toDOM() { return ["b", 0]},
+    em: {
+      parseDOM: [{tag: "em"}],
+      toDOM() { return ["em", 0] },
+    },
+    i: {
+      parseDOM: [{tag: "i"}],
+      toDOM() { return ["i", 0]},
     },
     q: {
       attrs: {styles: {default: null}, cite: {default: null}},
