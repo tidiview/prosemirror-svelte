@@ -6,17 +6,26 @@
 
   const html = `
 <article>
-<h1 class="yellow">Autres sources</h1>
+<hgroup>
+<h1 class="yellow">Autres sources:</h1>
+<h2 class="yellow">Saint-Michel selon l'Ancien ou le Nouveau Testatment</h2>
+</hgroup>
 
-<h2 id="daniel-dn-12-1-3" class="yellow">Livre de Daniel, chapître 12, verset 1 à 3 [Dn 12, 1-3]</h2>
+<hgroup>
+<h2 id="daniel-dn-12-1-3" class="yellow">Livre de Daniel, chapître 12, versets 1 à 3</h2>
+<h3 class="yellow">[Dn 12, 1-3]</h3>
+</hgroup>
 
 <ol class="doc">
-  <li value="01">En ce temps-là se lèvera <span style="color: #df8a13;">Michel</span>, le chef des anges, celui qui se tient auprès des fils de ton peuple. Car ce sera un temps de détresse comme il n’y en a jamais eu depuis que les nations existent, jusqu’à ce temps-ci. Mais en ce temps-ci, ton peuple sera délivré, tous ceux qui se trouveront inscrits dans le Livre.</li>
+  <li value="01">En ce temps-là se lèvera <mark>Michel</mark>, le chef des anges, celui qui se tient auprès des fils de ton peuple. Car ce sera un temps de détresse comme il n’y en a jamais eu depuis que les nations existent, jusqu’à ce temps-ci. Mais en ce temps-ci, ton peuple sera délivré, tous ceux qui se trouveront inscrits dans le Livre.</li>
   <li value="02">Beaucoup de gens qui dormaient dans la poussière de la terre s’éveilleront, les uns pour la vie éternelle, les autres pour la honte et la déchéance éternelles.</li>
   <li value="03">Ceux qui ont l’intelligence resplendiront comme la splendeur du firmament, et ceux qui sont des maîtres de justice pour la multitude brilleront comme les étoiles pour toujours et à jamais.</li>
 </ol>
 
-<h2 id="daniel-dn-10" class="yellow">Livre de Daniel, chapître 10, versets 1 à 21 [Dn 10]</h2>
+<hgroup>
+<h2 id="daniel-dn-10" class="yellow">Livre de Daniel, chapître 10, versets 1 à 21</h2>
+<h3 class="yellow">[Dn 10]</h3>
+</hgroup>
 
 <ol class="doc">
   <li value="01">La troisième année du règne de Cyrus, roi de Perse, une parole fut révélée à Daniel, surnommé Beltassar: parole vraie et grand combat. Il comprit la parole: la compréhension lui vint dans une vision.</li>
@@ -37,7 +46,7 @@
     <p class="conversation">«N’aie pas peur, Daniel. Dès le premier jour où tu as eu à cœur de comprendre et de t’humilier devant ton Dieu, tes paroles ont été entendues: c’est à cause de tes paroles que je suis venu.</p>
   </li>
   <li value="13">
-    <p class="conversation">L’ange du royaume de Perse m’a résisté pendant vingt et un jours, mais <span style="color: #df8a13;">Michel</span>, l’un des premiers anges, est venu à mon aide. Moi, je l’ai laissé avec l’ange des rois de Perse.</p>
+    <p class="conversation">L’ange du royaume de Perse m’a résisté pendant vingt et un jours, mais <mark>Michel</mark>, l’un des premiers anges, est venu à mon aide. Moi, je l’ai laissé avec l’ange des rois de Perse.</p>
   </li>
   <li value="14">
     <p class="conversation">Alors, je suis venu pour t’expliquer ce qui arrivera à ton peuple à la fin des jours. Voici une nouvelle vision pour ces jours-là.»</p>
@@ -59,24 +68,33 @@
     <p class="conversation">«Sais-tu pourquoi je suis venu vers toi? Maintenant, je vais retourner combattre l’ange de la Perse. À l’issue de ce combat, l’ange de la Grèce viendra.</p>
   </li>
   <li value="21">
-    <p class="conversation">Personne ne me prête main-forte contre ceux-ci, sauf Michel, votre ange. Mais je t’annonce ce qui est inscrit dans le livre de vérité.»</p>
+    <p class="conversation">Personne ne me prête main-forte contre ceux-ci, sauf <mark>Michel</mark>, votre ange. Mais je t’annonce ce qui est inscrit dans le livre de vérité.»</p>
   </li>
 </ol>
 
-<h2 id="épître-de-jude-verset-9" class="yellow">Épître de Jude, verset 9 [Jd 1,9]</h2>
+<hgroup>
+<h2 id="épître-de-jude-verset-9" class="yellow">Épître de Jude, verset 9</h2>
+<h3 class="yellow">[Jd 1,9]</h3>
+</hgroup>
 
 <ol class="doc">
-  <li value="09">Or l’archange Michel, discutant avec le démon dans la querelle au sujet du corps de Moïse, n’osa pas porter contre lui un jugement qui l’outrage; il lui dit seulement:
+  <li value="09">Or <mark>l’archange Michel</mark>, discutant avec le démon dans la querelle au sujet du corps de Moïse, n’osa pas porter contre lui un jugement qui l’outrage; il lui dit seulement:
     <p class="conversation">«Que le Seigneur te blâme!»</p>
   </li>
 </ol>
 
-<h2 id="1th-chapître-4-verset-16" class="yellow">Première Épître aux Thessalonissiens, chapître 4 verset 16 [1Th. 4-6]</h2>
+<hgroup>
+<h2 id="1th-chapître-4-verset-16" class="yellow">Première Épître aux Thessalonissiens, chapître 4 verset 16</h2>
+<h3 class="yellow">[1Th. 4-6]</h3>
+</hgroup>
 
 <ol class="doc">
-  <li value="16">Au signal donné par la voix de <span style="color: #df8a13;">l’archange</span>, et par la trompette divine, le Seigneur lui-même descendra du ciel, et ceux qui sont morts dans le Christ ressusciteront d’abord.</li>
+  <li value="16">Au signal donné par la voix de <mark>l’archange</mark>, et par la trompette divine, le Seigneur lui-même descendra du ciel, et ceux qui sont morts dans le Christ ressusciteront d’abord.</li>
 </ol>
+
+<footer>
 <p><span style="color: #df8a13;">Traduction liturgique de l'Ancien Testament</span></p>
+</footer>
 
 </article>
 `;
