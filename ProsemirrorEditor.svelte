@@ -328,4 +328,8 @@
   :global(h3) {
     counter-reset: h4;
   }
+
+  :global(address) {
+    display: inline;
+  }
 </style>
