@@ -9,7 +9,10 @@
 
 <article>
 
+<hgroup>
 <h1 class="green"><cite><ruby style="color:#555;" lang="fr">Diptyque de Maarten van Nieuwenhove<rt style="color:#999;" lang="nl">Diptiek van Maarten van Nieuwenhove</rt></ruby></cite></h1>
+<h2 class="green">hopital Saint Jean Musée Memling de Bruges</h2>
+</hgroup>
 
 <figure>
   <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
