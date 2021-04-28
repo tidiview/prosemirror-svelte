@@ -9,7 +9,10 @@
 
 <article>
 
+<hgroup>
 <h1 class="green"><ruby style="color:#555;" lang="fr">La Châsse de Sainte Ursule<rt style="color:#999;" lang="nl">Het Ursulaschrijn</rt></ruby></h1>
+<h2 class="green">de l'hopital Saint Jean Musée Memling de Bruges</h2>
+</hgroup>
 
 <figure>
   <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -21,7 +24,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-840.webp 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1280.webp 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1_700x1037.jpg" title="Châsse de Sainte Ursule, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Châsse de Sainte Ursule, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1_700x1037.jpg" title="Châsse de Sainte Ursule, vue générale, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Châsse de Sainte Ursule, vue générale, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-280.jpg 280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-480.jpg 480w,
@@ -30,7 +33,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1920.jpg 1920w"></picture><figcaption>Châsse de Sainte Ursule</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1920.jpg 1920w"></picture><figcaption>Châsse de Sainte Ursule, vue générale</figcaption>
 </figure>
 
 <div class="notices green">
@@ -129,7 +132,8 @@ Enfin, après qu'Ursule eut converti toutes les jeunes filles à la foi, après 
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule3-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule3-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule3-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule3-1920.jpg 1920w"></picture><figcaption>“Arrivée à Cologne”</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule3-1920.jpg 1920w"></picture><figcaption>“Arrivée à Cologne”<br>
+  <q cite="#les-onze-milles-vierges">où un ange du Seigneur apparut à Ursule et lui prédit qu'elles reviendraient toutes ensemble en ce lieu et que c'est là qu'elles recevraient la couronne du martyre.</q></figcaption>
 </figure>
 
 <p>Alors, sur l'avis de l'ange, elles se dirigèrent vers Rome; abordant à Bâle, elles y laissèrent leur bateau et allèrent à Rome à pied.</p>
@@ -153,10 +157,10 @@ Enfin, après qu'Ursule eut converti toutes les jeunes filles à la foi, après 
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule4-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule4-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule4-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule4-1920.jpg 1920w"></picture><figcaption>“Arrivée à Bâle”</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule4-1920.jpg 1920w"></picture><figcaption>“Arrivée à Bâle”<br><q cite="#les-onze-milles-vierges">elles y laissèrent leur bateau et allèrent à Rome à pied.</q></figcaption>
 </figure>
 
-<p>A leur arrivée, le pape Cyriaque fut tout joyeux, parce que lui-même était originaire de Bretagne et qu'il avait beaucoup de parentes parmi elles;</p>
+<p>À leur arrivée, le pape Cyriaque fut tout joyeux, parce que lui-même était originaire de Bretagne et qu'il avait beaucoup de parentes parmi elles;</p>
 
 <figure>
   <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -177,7 +181,7 @@ Enfin, après qu'Ursule eut converti toutes les jeunes filles à la foi, après 
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule5-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule5-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule5-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule5-1920.jpg 1920w"></picture><figcaption>“Arrivée à Rome”</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule5-1920.jpg 1920w"></picture><figcaption>“Arrivée à Rome”<br><q cite="#les-onze-milles-vierges">À leur arrivée, le pape Cyriaque fut tout joyeux, parce que lui-même était originaire de Bretagne et qu'il avait beaucoup de parentes parmi elles; il les reçut en grande pompe avec tout son clergé.</q></figcaption>
 </figure>
 
 <p>il les reçut en grande pompe avec tout son clergé.
@@ -275,10 +279,10 @@ Quand elles furent toutes égorgées, on en vint à sainte Ursule.</p>
 Mais comme elle avait résolument repoussé cette idée, ce dernier, se voyant outragé, la transperça aussitôt d'une flèche, et c'est ainsi qu'elle accomplit son martyre.
 Une autre vierge, qui s'appelait Cordula, prise d'une peur très violente, se cacha cette nuit-là dans un navire, mais au matin elle s'offrit d'elle-même à la mort et reçut la couronne du martyre.
 Mais parce qu'on ne célébrait pas sa fête, au motif qu'elle n'avait pas souffert avec les autres, elle apparut bien plus tard à une recluse et lui ordonna que son jour de fête soit célébré le lendemain de la fête des vierges.
-Elles souffrirent en l'an du Seigneur 238.
+Elles souffrirent en l'an du Seigneur <time datetime="238">238</time>.
 Toutefois, d'après certains, le calcul chronologique ne permet pas de soutenir que ces faits se soient déroulés à cette époque.
 En effet ni la Sicile ni Constantinople n'étaient alors des royaumes, alors qu'on dit que les «reines» de ces pays se trouvaient avec les vierges.
-Il y a de meilleures raisons de croire que ce martyre se déroula après l'empereur Constantin, à ce qu'on lit dans une chronique, quand les Huns et les Goths sévissaient, c'est-à-dire à l'époque de l'empereur Marcien, qui régna en l'an du Seigneur 452.</p>
+Il y a de meilleures raisons de croire que ce martyre se déroula après l'empereur Constantin, à ce qu'on lit dans une chronique, quand les Huns et les Goths sévissaient, c'est-à-dire à l'époque de l'empereur Marcien, qui régna en l'an du Seigneur <time datetime="452">452</time>.</p>
 
 <figure>
   <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
