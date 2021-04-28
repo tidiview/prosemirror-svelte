@@ -5,6 +5,8 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
+<article>
+
 <div id="aboutmainblock">
 <div class="pure-g about-div">
 <div id="about_photo" class="block pure-u-4-7 size-4-7 responsive-container" lang="fr">
@@ -63,54 +65,25 @@
 
 </div>
 <div id="about_name" class="block pure-u-3-7" lang="fr">
+
 <h1><span title="Prénom" style="color:#000e5f;letter-spacing: 0px;word-break:keep-all;" lang="fr">François</span> <span style="color:#000e5f;letter-spacing: 0px;word-break:keep-all;" title="Nom" lang="fr">VIDIT</span></h1>
-<table>
-<thead>
+
+<p><span title="Prénom" lang="fr">François</span>, comme prénom, se prononce: <span title="prononciation du prénom « François »">[fʁɑ̃.swɑ]</span></p>
+<p><audio controls="1" title="prononciation du prénom « François »" alt="" id="audio0"><source src="https://francois-vidit.com/user/sites/profile/pages/01.home/02.nom/Francois.mp3">Your browser does not support the audio tag.</audio></p>
+
+<p><span title="Nom" lang="fr">VIDIT</span>, ici le nom, se prononce: <span title="prononciation du nom de famille « VIDIT »">[vidi]</span></p>
 <tr>
-<th><span hidden="">hidden</span></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><span title="Prénom" lang="fr">François</span>, comme prénom, se prononce: <span title="prononciation du prénom « François »">[fʁɑ̃.swɑ]</span></td>
-</tr>
-<tr>
-<td><audio controls="1" title="prononciation du prénom « François »" alt="" id="audio0"><source src="https://francois-vidit.com/user/sites/profile/pages/01.home/02.nom/Francois.mp3">Your browser does not support the audio tag.</audio></td>
-</tr>
-</tbody>
-</table>
-<table>
-<thead>
-<tr>
-<th><span hidden="">hidden</span></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><span title="Nom" lang="fr">VIDIT</span>, ici le nom, se prononce: <span title="prononciation du nom de famille « VIDIT »">[vidi]</span></td>
-</tr>
-<tr>
-<td><audio controls="1" title="prononciation du nom de famille « VIDIT »" alt="" id="audio1"><source src="https://francois-vidit.com/user/sites/profile/pages/01.home/02.nom/VIDIT.mp3">Your browser does not support the audio tag.</audio></td>
-</tr>
-</tbody>
-</table>
-<table>
-<thead>
-<tr>
-<th><span hidden="">hidden</span></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><span style="color:#000e5f">François VIDIT est </span> <span title="Profession" style="color:#000e5f" lang="fr">interprète japonais</span><span style="color:#000e5f"> à </span><span style="color:#000e5f" lang="fr">Paris</span><span style="color:#000e5f">. Depuis plus de <time datetime="P15Y">15 ans</time>, il exerce sous diverses formes, du guidage touristique, conseil interculturel, interprétariat consécutif, à la traduction.</span></td>
-</tr>
-</tbody>
-</table>
+<p><audio controls="1" title="prononciation du nom de famille « VIDIT »" alt="" id="audio1"><source src="https://francois-vidit.com/user/sites/profile/pages/01.home/02.nom/VIDIT.mp3">Your browser does not support the audio tag.</audio></p>
+
+<p><span style="color:#000e5f">François VIDIT est </span> <span title="Profession" style="color:#000e5f" lang="fr">interprète japonais</span><span style="color:#000e5f"> à </span><span style="color:#000e5f" lang="fr">Paris</span><span style="color:#000e5f">. Depuis plus de <time datetime="P15Y">15 ans</time>, il exerce sous diverses formes, du guidage touristique, conseil interculturel, interprétariat consécutif, à la traduction.</span></p>
+
 </div>
 </div>
+
 <div class="pure-g about-div">
 <div id="about_age" class="block pure-u-1-6 size-1-6" style="border-style: none;padding-top: 0px;margin-bottom: 0px;" lang="fr">     
 </div>
+
 <div id="about_parisien" class="block pure-u-5-6" lang="fr">
 
 <h2>Un Parisien ayant fait escale à Tōkiō</h2>
@@ -290,6 +263,8 @@
 </div>
 </div>
 </div>
+
+</article>
 `;
 
   let focusEditor;
