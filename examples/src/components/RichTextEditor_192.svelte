@@ -19,11 +19,11 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-380.jpg 380w, 
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-480.jpg 480w, 
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg 700w"></picture><figcaption>The Chariot of the Sun, driven by Apollo, coming out of Ocean at dawn<br><q cite="#phaeton">It had an axle of gold, and a gold chariot pole, wheels with golden rims, and circles of silver spokes.</q>, <cite>The Metamorphoses</cite> Book II, verses 1 to 365</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg 700w"></picture><figcaption>The Chariot of the Sun, driven by Apollo, coming out of Ocean at dawn<br><q cite="#phaeton">It had an axle of gold, and a gold chariot pole, wheels with golden rims, and circles of silver spokes.</q>, <cite>The Metamorphoses</cite> Book <abbr title="two">II</abbr>, verses 1 to 365</figcaption>
 </figure>
 
 <div class="notices yellow">
-<p><a href="https://en.wikipedia.org/wiki/Louis_XIV_of_France" title="https://en.wikipedia.org/wiki/Louis XIV of France">Louis XIV</a> is also called the “Sun King”.</p>
+<p><a href="https://en.wikipedia.org/wiki/Louis_XIV_of_France" title="https://en.wikipedia.org/wiki/Louis XIV of France">Louis <abbr title="the fourteenth">XIV</abbr></a> is also called the “Sun King”.</p>
 <p>In the <a href="https://www.amazon.com/Memoires-Instruction-Dauphin-Louis-XIV/dp/0029301300" title="https://www.amazon.com/Memoires-Instruction-Dauphin-Louis-XIV/dp/0029301300"><cite>Memoires for the instruction of the Dauphin</cite></a>, he himself explained the reasons that led him, young, alone, to make this choice naturally.</p>
 <p>At the <a href="https://en.wikipedia.org/wiki/Palace_of_Versailles" title="https://en.wikipedia.org/wiki/Palace of Versailles">Palace of Versailles</a>, the sun is visible in many forms.</p>
 <p>Among them, several places reveal the figure of <a href="https://en.wikipedia.org/wiki/Apollo" title="https://en.wikipedia.org/wiki/Apollo">Apollo</a>, God of the Sun, which evokes the grandeur of the Roman Empire, particularly those of the first baroque fests that took place in Versailles, such as the group of the Chariot of the Sun carried out by <a href="https://en.wikipedia.org/wiki/Jean-Baptiste_Tuby" title="https://en.wikipedia.org/wiki/Jean-Baptiste Tuby">Jean-Baptiste TUBY</a> between <time datetime="1668">1668</time> and <time datetime="1671">1671</time> in the center of the <a href="https://en.wikipedia.org/wiki/Bassin_d'Apollo" title="https://en.wikipedia.org/wiki/Bassin d'Apollon">Pond of Apollo</a> in the <a href="https://en.wikipedia.org/wiki/Gardens_of_Versailles" title="https://en.wikipedia.org/wiki/Gardens of Versailles">Gardens</a>.</p>
@@ -31,7 +31,7 @@
 <p>This is the opportunity to approach the meaning of the figure of this star to Louis XIV as described by this text.</p>
 </div>
 
-<h2 id="phaeton" class="yellow">Phaethon according to <cite>The Metamorphoses</cite></h2>
+<h2 id="phaeton" class="yellow">Phaethon according to text of book <abb title="two">II</abbr> <cite>The Metamorphoses</cite></h2>
 
 <ol class="doc">
   <li value="1">The palace of the Sun towered up with raised columns, bright with glittering gold, and gleaming bronze like fire.</li>
