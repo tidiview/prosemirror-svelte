@@ -28,10 +28,10 @@
 <p>At the <a href="https://en.wikipedia.org/wiki/Palace_of_Versailles" title="https://en.wikipedia.org/wiki/Palace of Versailles">Palace of Versailles</a>, the sun is visible in many forms.</p>
 <p>Among them, several places reveal the figure of <a href="https://en.wikipedia.org/wiki/Apollo" title="https://en.wikipedia.org/wiki/Apollo">Apollo</a>, God of the Sun, which evokes the grandeur of the Roman Empire, particularly those of the first baroque fests that took place in Versailles, such as the group of the Chariot of the Sun carried out by <a href="https://en.wikipedia.org/wiki/Jean-Baptiste_Tuby" title="https://en.wikipedia.org/wiki/Jean-Baptiste Tuby">Jean-Baptiste TUBY</a> between <time datetime="1668">1668</time> and <time datetime="1671">1671</time> in the center of the <a href="https://en.wikipedia.org/wiki/Bassin_d'Apollo" title="https://en.wikipedia.org/wiki/Bassin d'Apollon">Pond of Apollo</a> in the <a href="https://en.wikipedia.org/wiki/Gardens_of_Versailles" title="https://en.wikipedia.org/wiki/Gardens of Versailles">Gardens</a>.</p>
 <p>The text below tells the tragic death of Apollo's strange son, <a href="https://en.wikipedia.org/wiki/Phaethon" title="https://en.wikipedia.org/wiki/Phaethon">Phaethon</a>, as it appears in <a href="https://en.wikipedia.org/wiki/Metamorphoses" title="https://en.wikipedia.org/wiki/Metamorphoses"><cite>The Metamorphoses</cite></a> of the Latin-speaking Roman Empire writer <a href="https://en.wikipedia.org/wiki/Ovid" title="https://en.wikipedia.org/wiki/Ovid">Ovid</a>, whom Louis XIV knew intimately for having apointed the writer <a href="https://en.wikipedia.org/wiki/Jean_Racine" title="https://en.wikipedia.org/wiki/Jean Racine">Jean Racine</a> of a particular reading of that work in the evening.</p>
-<p>This is the opportunity to approach the meaning of the figure of this star to Louis XIV as described by this text.</p>
+<p>This is the opportunity to approach the meaning of the figure of this star to Louis <abbr title="the fourteenth">XIV</abbr> as described by this text.</p>
 </div>
 
-<h2 id="phaeton" class="yellow">Phaethon according to text of book <abb title="two">II</abbr> <cite>The Metamorphoses</cite></h2>
+<h2 id="phaeton" class="yellow">Phaethon according to text of book <abbr title="two">II</abbr> <cite>The Metamorphoses</cite></h2>
 
 <ol class="doc">
   <li value="1">The palace of the Sun towered up with raised columns, bright with glittering gold, and gleaming bronze like fire.</li>
@@ -268,7 +268,7 @@
 </ol>
 
 <footer>
-  <p><span style="color: #df8a13;">Ovid, <cite>The Metamorphoses</cite>, Book 6, verses 1 to 365.</span></p>
+  <p><span style="color: #df8a13;">Ovid, <cite>The Metamorphoses</cite>, Book <abbr title="six">VI</abbr>, verses 1 to 365.</span></p>
 </footer>
 </article>
 `;
