@@ -6,7 +6,7 @@
 
   const html = `
 <div id="body-inner">
-<h1 class="green"><ruby style="color:#555;" lang="en">St. Ursula Shrine<rt style="color:#999;" lang="nl">Het Ursulaschrijn</rt></ruby></h1>
+<h1 class="green"><ruby style="color:#555;" lang="en"><abbr title="Saint">St.</abbr> Ursula Shrine<rt style="color:#999;" lang="nl">Het Ursulaschrijn</rt></ruby></h1>
 <figure>
   <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-280.webp 280w,
@@ -26,9 +26,18 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1920.jpg 1920w"></picture><figcaption>St. Ursula Shrine</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1920.jpg 1920w"></picture><figcaption><abbr title="Saint">St.</abbr> Ursula Shrine</figcaption>
 </figure>
+
+<div class="notices green">
+  <p>The <cite>Saint Ursula's Shrine</cite> is a <a href="https://en.wikipedia.org/wiki/Chasse_(casket) title="Chasse_(casket)">shrine</a> intended to preserve the relics of the Eleven Thousand Virgins and a number of saints, as well as some memorabilia brought back from the Holy Land, of which the painter <a href="https://en.wikipedia.org/wiki/Hans_Memling" title="Hans Memling">Hans Memling</a> decorated the four sides with a set of paintings, and six medallions on the roof.</p>
+  <p>The paintings tell the story of <a href="https://en.wikipedia.org/wiki/Saint_Ursula" title="Saint Ursula"><abbr title="Saint">St.</abbr> Ursula</a>. It is one of the great compositions of the painter "&nbsp;miniaturist&nbsp;". The work dates from <time datetime="1489">1489</time>. The shrine was designed and was preserved for <a href="https://en.wikipedia.org/wiki/Old_St._John's_Hospital" title="Old_St._John's_Hospital"><abbr title="Saint">St.</abbr> John's Hospital Memling Museum</a>, of <a href="https://en.wikipedia.org/wiki/Bruges" title="Bruges">Bruges</a>.</p>
+  <p>Memling follows step by step the narrative <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="Golden Legend"><cite>The Golden Legend</cite></a> by <a href="https://en.wikipedia.org/wiki/Jacobus_de_Varagine" title="Jacobus de Varagine">Jacobus de Varagine</a>, a translation of which appeared in <time datetime="1478">1478</time></sup>.</p>
+  <p>In the following article, we directly contrast the text of <cite>The Golden Legend</cite> with representations by Hans Memling. We believe that in this way their quality will only become more striking.</p> <p>The following article is a direct comparison of the text of <cite>The Golden Legend</cite> and Hans Memling's representations.</p>
+</div>
+
 <h2 id="the-eleven-thousand-virgins" class="green">the Eleven Thousand Virgins</h2>
+
 <p>The passion of eleven thousand virgins was hallowed in this manner.<br>
 In Britain was a christian king named Notus or Maurus, which engendered a daughter named Ursula.
 This daughter shone full of marvellous honesty, wisdom, and beauty, and her fame and renomee was borne all about.
@@ -36,6 +45,7 @@ And the king of England which then was right mighty, and subdued many nations to
 And the young man had great desire and will to have her.
 And there was a solemn embassy to the father of Ursula, and promised great promises, and said many fair words for to have her; and also made many menaces if they returned vainly to their lord.
 And then the king of Britain began to be much anxious, because that she that was ennobled in the faith of Jesu Christ should be wedded to him that adored idols, because that he wist well she would not consent in no manner, and also because he doubted much the cruelty of the king.</p>
+
 <figure>
   <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-280.webp 280w,
@@ -75,7 +85,7 @@ And then the king of Britain began to be much anxious, because that she that was
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-1920.jpg 1920w"></picture><figcaption>“St. Ursula, protectress”</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-1920.jpg 1920w"></picture><figcaption>“<abbr title="Saint">St.</abbr> Ursula, protectress”</figcaption>
 </figure>
 
 <p>But this youngling received this condition gladly, and hasted his father and was baptized and commanded all that Ursula had required should be done.
@@ -196,7 +206,7 @@ And all the grace that he had gotten in his time, this holy company of women mad
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-1920.jpg 1920w"></picture><figcaption>“Return from Basel”, “Martyr of the Eleven Thousand Virgins”, “Martyr of St. Ursula”</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-1920.jpg 1920w"></picture><figcaption>“Return from Basel”, “Martyr of the Eleven Thousand Virgins”, “Martyr of <abbr title="Saint">St.</abbr> Ursula”</figcaption>
 </figure>
 
 <p>And then two felon princes of the chivalry of Rome, Maximus and Africanus, saw this great company of virgins, and that many men and women assembled to them, doubted that christian religion should much be increased by them, wherefore they required diligently of their voyage.
@@ -251,7 +261,7 @@ And when they were all beheaded, they came to the blessed Ursula.</p>
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule8-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule8-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule8-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule8-1920.jpg 1920w"></picture><figcaption>“Martyr of the Eleven Thousand Virgins”, “Martyr of St. Ursula”</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule8-1920.jpg 1920w"></picture><figcaption>“Martyr of the Eleven Thousand Virgins”, “Martyr of <abbr title="Saint">St.</abbr> Ursula”</figcaption>
 </figure>
 
 <p>The prince of them, seeing her beauty so marvellous, was abashed, and began to comfort her upon the death of the virgins, and promised to her to take her to his wife.
