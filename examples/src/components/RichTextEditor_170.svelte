@@ -23,7 +23,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/01.adonis/adonis_700x676.jpg 700w"></picture><figcaption>Vénus <q cite="#adonis">aperçut, du haut du ciel, le corps inconscient secoué de spasmes dans son propre sang, elle sauta à terre</q>: Adonis vient d'être tué par un sanglier.</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/01.adonis/adonis_700x676.jpg 700w"></picture><figcaption>Vénus <q cite="#adonis">aperçut, du haut du ciel, le corps inconscient secoué de spasmes dans son propre sang, elle sauta à terre</q>: Adonis vient d'être tué par un sanglier. <cite>Les Métamorphoses</cite>, Livre <abbr title="dix">X</abbr>, vers 717</figcaption>
 </figure>
 
 <div class="notices yellow">
@@ -45,7 +45,7 @@
   <li>Secoue l'épieu trempé de sang et poursuit Adonis éperdu</li>
   <li value="715">À la recherche d'un abri; ses crocs s'enfoncent dans son ventre</li>
   <li>Et le laissent moribond sur le sable d'or.</li>
-  <li>Cythérée, qui traversait les airs sur son char rapide</li>
+  <li value="717">Cythérée, qui traversait les airs sur son char rapide</li>
   <li>Aux ailes de cygnes, n'était pas encore parvenue à Chypre;</li>
   <li>Elle reconnut de loin la plainte du mourant et dirigea vers lui</li>
   <li value="720">Ses oiseaux blancs; lorsqu'elle aperçut, du haut du ciel,</li>
@@ -88,7 +88,7 @@
 </ol>
 
 <footer>
-<p><span style="color: #df8a13;">Ovide, <cite>Les Métamorphoses</cite>, Livre <abbr title="dix">X</abbr>, vers 708 et suivants</span></p>
+<p><span style="color: #df8a13;">Ovide, <cite>Les Métamorphoses</cite>, Livre <abbr title="dix">X</abbr>, vers 708 à 739</span></p>
 </footer>
 
 <aside>
