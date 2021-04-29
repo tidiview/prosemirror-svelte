@@ -6,61 +6,58 @@
 
   const html = `
 <article>
+
+<hgroup>
 <h1 class="green">name of the archangel Michael</h1>
+<h2 class="green">etymology in hebrew</h2>
+</hgroup>
 
   <div class="notices green">
   <p>In hebrew, the name of the <a href="https://en.wikipedia.org/wiki/Michael_(archangel)" title="https://en.wikipedia.org/wiki/Michael (archangel)">archangel « <span style="color:#3d8b3d;">Michael</span> »</a> writes « <span style="color:#3d8b3d;" lang="he">מיכאל</span> ».</p>
-  <p>
-  The pronunciation of it in hebrew is between the "Michel" in french and the "Michael" of english.</p>
-  <p>
-  Below is a recording of this name in hebrew, as well as a brief analysis of the ethymology of this name from its denomination in hebrew.</p>
+  <p>The pronunciation of it in hebrew is between the "Michel" in french and the "Michael" of english.</p>
+  <p>Below is a recording of this name in hebrew, as well as a brief analysis of the ethymology of this name from its denomination in hebrew.</p>
   </div>
 
   
     <h2 class="green">on the meaning and pronunciation of the name of the archangel Michael in hebrew</h2>
+
     <h3 class="green">meaning in hebrew</h3>
     <p>In the original text of the Bible in hebrew, the name of the archangel « Michael » in english is: <ruby lang="he"><span style="background:#f1f9f1;color:#3d8b3d;" lang="he">מיכאל</span><rt><span style="background:#f1f9f1;color:#3d8b3d;">Mîḵā'ēl</span></rt></ruby>.</p>
   
   
     <h3 class="green">pronunciation in hebrew</h3>
     <p>The notation « Mîḵā'ēl » comes from the <a href="https://en.wikipedia.org/wiki/International_Phonetic_Alphabet" title="https://en.wikipedia.org/wiki/International_Phonetic_Alphabet">international phonetic alphabet</a> and represents the following sound:</p>
-    <ul>
-    <li list-style-type: none;><audio controls="1" title="Pronunciation of מיכאל in hebrew" alt=""><source src="/user/sites/docs/pages/01.home/05.mont-saint-michel/01.arch-michel/01.nom/prononciation_mihael.mp3">Your browser does not support the audio tag.</audio></li>
-    </ul>
-  
+    <p class="no-puce"><audio controls="1" title="Pronunciation of מיכאל in hebrew" alt=""><source src="/user/sites/docs/pages/01.home/05.mont-saint-michel/01.arch-michel/01.nom/prononciation_mihael.mp3">Your browser does not support the audio tag.</audio></p>
+
   
     <h2 class="green">a name that means: « who is like god? »</h2>
+
     <h3 class="green">analysis</h3>
+
     <p>« <ruby lang="he"><span style="background:#f1f9f1;color:#3d8b3d;">מיכאל</span><rt><span style="background:#f1f9f1;color:#3d8b3d;">Mîḵā’ēl</span></rt></ruby> » may decompose as follows:</p>
-    <table>
-    <thead>
-    <tr>
-    <th><span hidden="">hidden</span></th>
-    <th><span hidden="">hidden</span></th>
-    <th><span hidden="">hidden</span></th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr>
-    <td><span style="background:#f1f9f1;color:#3d8b3d;">mî</span></td>
-    <td><span style="background:#f1f9f1;color:#3d8b3d;">ḵā’</span></td>
-    <td><span style="background:#f1f9f1;color:#3d8b3d;">ēl</span></td>
-    </tr>
-    <tr>
-    <td><span style="background:#f1f9f1;color:#3d8b3d;">who</span></td>
-    <td><span style="background:#f1f9f1;color:#3d8b3d;">is like</span></td>
-    <td><span style="background:#f1f9f1;color:#3d8b3d;">god</span></td>
-    </tr>
-    </tbody>
-    </table>
-  
+    <p>
+      <span style="background:#f1f9f1;color:#3d8b3d;width:30px;float:left;text-align:center;">mî</span>
+      <span style="background:#fff;width:10px;float:left;">&nbsp</span>
+      <span style="background:#f1f9f1;color:#3d8b3d;width:45px;float:left;text-align:center;">ḵā’</span>
+      <span style="background:#fff;width:10px;float:left;">&nbsp</span>
+      <span style="background:#f1f9f1;color:#3d8b3d;width:30px;float:left;text-align:center;">ēl</span>
+    </p>
+    <p>
+      <span style="background:#f1f9f1;color:#3d8b3d;width:30px;float:left;text-align:center;">who</span>
+      <span style="background:#fff;width:10px;float:left;">&nbsp</span>
+      <span style="background:#f1f9f1;color:#3d8b3d;width:45px;float:left;text-align:center;">is like</span>
+      <span style="background:#fff;width:10px;float:left;">&nbsp</span>
+      <span style="background:#f1f9f1;color:#3d8b3d;width:30px;float:left;text-align:center;">god</span>
+    </p>  
   
     <h3 class="green">result</h3>
+
     <p>therefore the following result：</p>
     <p><span style="color: #3d8b3d;">« <span style="background:#f1f9f1;color:#3d8b3d;">who</span> <span style="background:#f1f9f1;color:#3d8b3d;">is like</span> <span style="background:#f1f9f1;color:#3d8b3d;">god</span> ? »</span></p>
   
   
     <h3 class="green">conclusion</h3>
+
     <p>The archangel Michael confronts his opponents in the name of god by asking them this terrible question.</p>
 
 </article>
