@@ -6,7 +6,11 @@
 
   const html = `
 <article>
+
+<hgroup>
 <h1 class="red">Latona</h1>
+<h2 class="red">in the gardens of the Palace of Versailles</h2>
+</hgroup>
 
 <figure>
   <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
