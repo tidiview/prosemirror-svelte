@@ -26,7 +26,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/04.marly/01.pierre-denis-martin/01.pierre-denis-martin_1/marly1724-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/04.marly/01.pierre-denis-martin/01.pierre-denis-martin_1/marly1724-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/04.marly/01.pierre-denis-martin/01.pierre-denis-martin_1/marly1724-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/04.marly/01.pierre-denis-martin/01.pierre-denis-martin_1/marly1724-1920.jpg 1920w"></picture><figcaption>Pierre-Denis MARTIN, General View of Chateau de Marly, seen from the watering pool (1724)</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/04.marly/01.pierre-denis-martin/01.pierre-denis-martin_1/marly1724-1920.jpg 1920w"></picture><figcaption>Pierre-Denis MARTIN, General View of Chateau de Marly, seen from the watering pool (<time datetime="1724">1724</time>)</figcaption>
 </figure>
 
 <!-- Page 2 -->
@@ -48,7 +48,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/04.marly/01.pierre-denis-martin/02.pierre-denis-martin_2/marly1723-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/04.marly/01.pierre-denis-martin/02.pierre-denis-martin_2/marly1723-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/04.marly/01.pierre-denis-martin/02.pierre-denis-martin_2/marly1723-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/04.marly/01.pierre-denis-martin/02.pierre-denis-martin_2/marly1723-1920.jpg 1920w"></picture><figcaption>Pierre-Denis MARTIN, Vue générale du Château de Marly, prise de l’abreuvoir (1723)</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/04.marly/01.pierre-denis-martin/02.pierre-denis-martin_2/marly1723-1920.jpg 1920w"></picture><figcaption>Pierre-Denis MARTIN, Vue générale du Château de Marly, prise de l’abreuvoir (<time datetime="1723">1723</time>)</figcaption>
 </figure>
 
 </article>
