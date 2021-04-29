@@ -8,7 +8,10 @@
 <article>
 <h1 class="yellow">Archangel Michael according to other sources</h1>
 
-<h2 id="daniel-dn-12-1-3" class="yellow">Archangel Michael according to chapter 12 of <cite>the book of Daniel</cite> [Dn 12,1-3]</h2>
+<hgroup>
+<h2 id="daniel-dn-12-1-3" class="yellow">Archangel Michael according to chapter 12 of <cite>the book of Daniel</cite>, verses 1 to 3</h2>
+<h3 class="yellow">[Dn 12, 1-3]</h3>
+</hgroup>
 
 <ol class="doc">
   <li value="01">At that time there shall arise <mark>Michael</mark>, the great prince, guardian of your people;</li>
@@ -19,7 +22,11 @@
   <li value="03">But those with insight shall shine brightly like the splendor of the firmament,</li>
   <li>And those who lead the many to justice shall be like the stars forever.</li>
 </ol>
-<p style="color: #df8a13;"><cite>Book of Daniel</cite>, chapter 12, verse 01 to 03, Liturgical Translation of the New Testament</p>
+
+<footer>
+  <p style="color: #df8a13;"><cite>Book of Daniel</cite>, chapter 12, verses 1 to 3, Liturgical Translation of the New Testament</p>
+</footer>
+
 </article>
 `;
 
