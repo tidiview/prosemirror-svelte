@@ -787,8 +787,17 @@ export const ExtendedThreerichTextSchema = new Schema({
     li: {
       content: "(table | block)*", /* has to be block - can be (block | inline also */
       attrs: {value: {default: null}, id: {default: null}, dataid: {default: null}, classes: {default: null}, doc: {default: false}},
-      parseDOM: [{tag: "ol.year", getAttrs(dom) { return {value: dom.value} } },{tag: "ol.doc-three-rows li", getAttrs(dom) { return {value: dom.value, id: dom.id, dataid: dom.getAttribute("data-id"), doc: true} } },{tag: "ol.doc-special li", getAttrs(dom) { return {value: dom.value, id: dom.id, doc: true} } },{tag: "ol.doc li", getAttrs(dom) { return {value: dom.value, id: dom.id, classes: dom.getAttribute("class"), doc: true} } }, {tag: "li", getAttrs(dom) { return {value: dom.value} } }],
-      toDOM(node) { let {value, id, dataid, classes, doc} = node.attrs ; return value === 0 && doc == true ? id == "" ? dataid == "" ? ["li", {"style": "list-style-type:none"}, 0] : ["li", {"data-id": dataid, "style": "list-style-type:none", "class": classes}, 0] : dataid == "" ? ["li", {id}, 0] : ["li", {id, "data-id": dataid}, 0] : doc == true ? id == "" ? ["li", {value}, 0] : ["li", {value, id}, 0] : ["li", 0] },
+      parseDOM: [
+        {tag: "ol.year", getAttrs(dom) { return {value: dom.value} } },
+        {tag: "ol.doc-three-rows li", getAttrs(dom) { return {value: dom.value, id: dom.id, dataid: dom.getAttribute("data-id"), doc: true} } },
+        {tag: "ol.doc-special li", getAttrs(dom) { return {value: dom.value, id: dom.id, doc: true} } },
+        {tag: "ol.doc li", getAttrs(dom) { return {value: dom.value, id: dom.id, classes: dom.getAttribute("class"), doc: true} } },
+        {tag: "li", getAttrs(dom) { return {value: dom.value} } }],
+      toDOM(node) { let {value, id, dataid, classes, doc} = node.attrs ; return value === 0 && doc == true ? id == "" ? dataid == "" ? 
+      ["li", {"style": "list-style-type:none"}, 0] : ["li", {"data-id": dataid, "style": "list-style-type:none", "class": classes}, 0] : 
+      dataid == "" ? 
+      ["li", {id}, 0] : ["li", {id, "data-id": dataid}, 0] : 
+      doc == true ? id == "" ? classes == "" ? ["li", {value}, 0] : ["li", {value, "class": classes}, 0] : ["li", {value, id}, 0] : ["li", 0] },
     },
     ruby: {
       content: "inline*",
