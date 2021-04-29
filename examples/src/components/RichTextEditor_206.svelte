@@ -6,25 +6,24 @@
 
   const html = `
   <article>
-    <h1 class="red">Saint Michael according to <cite>the Golden Legend</cite></h1>
-    <div class="notices red">
+    <h1 class="red">Saint Michael according to <cite>Legenda Aurea</cite></h1>
 
-    <p>In the Christian Europe of the Middle Ages, <cite>The Golden Legend</cite> also called Legenda Aurea is known as the most read book after the Bible.</p>
-    <p>It was written in Latin from <time datetime="1261">1261</time> to <time datetime="1266">1266</time> by a Dominican monk from Northern Italy, a chronicles compilor and also known as the 8<sup>th</sup> Archbishop of Genoa, Jacobus da Varagine.</p>
+    <div class="notices red">
+    <p>In the Christian Europe of the Middle Ages, <cite>Legenda Aurea</cite> also called The Golden Legend is known as the most read book after the Bible.</p>
+    <p>It was written in Latin from <time datetime="1261">1261</time> to <time datetime="1266">1266</time> by a Dominican monk from Northern Italy, a chronicles compilor and also known as the <abbr title="eighth">8<sup>th</sup></abbr> Archbishop of Genoa, Jacobus da Varagine.</p>
     <p>Presenting this book, even in a rudimentary way, is not easy, but to say things, there is no mistake to write that by compiling several existing documents like 150 lives of martyrs or some saints or groups of saints, by incorporating in the pre-existing pagan calendar the annual liturgical calendar of the Catholic Church, by unifying it, using also, of this opportunity to explain the main events of Christ's and the Virgin's lives from the Gospels, this text actually constructed a Christian mythology that has deeply permeated all areas of the society of its time, including, for example, its topology…</p>
     <p>As written in the preface to his book <cite>Christian Mythology: feasts, rites and myths of the Middle Ages</cite>, medievalist Philippe WALTER, <q>remembrance endured would appear in rites, traditions from the savage memory before the arrival of Christianity</q>, one can consider this text because it appears in the underlying way of the Church's repressed back elements, as both fascinating and particularly worthy of interest.</p>
     <p>Here, of course, I present below only a very small part, the only chapter 145, because it is given in the work as the origin of Mont Saint-Michel as a place of pilgrimage.</p>
-    <p>Appear the <mark>archangel Michael</mark>, the Bull, and many other things… It is also surprising that the narrative develops without stopping and imperceptibly from the Archangel to a narrative of faith in angels.</p>
+    <p>Appear the archangel Michael, the Bull, and many other things… It is also surprising that the narrative develops without stopping and imperceptibly from the Archangel to a narrative of faith in angels.</p>
     <p>Between the existence that we can't measure and the one we perceive, this text should evoke various thoughts, independently of questions about believing or not believing, and therefore I urge to read it if possible until the end without fear of the strong religious colour of the time.</p>
     </div>
-  </article>
 
   <article>
-      <h2 id="chap145">Text of Chapter 145 of <cite>The Golden Legend</cite> presenting archangel Michael</h2>
+      <h2 id="chap145">Text of Chapter 145 of <cite>Legenda Aurea</cite> presenting archangel Michael</h2>
 
-      <h3 id="name" class="red">The Name of St. Michael</h3>
+      <h3 id="name" class="red">The Name of <abbr title="Saint">St.</abbr> Michael</h3>
 
-      <p>“<mark>Michael</mark>” is expounded sometimes as “Who, [is] like God?” And oft-times, as St. Gregory saith, when a thing of marvellous virtue is done, <mark>Michael</mark> is sent forth, so that he, by the deed and the name, be given to understand that none may do that God may do, and therefore be attributed to him many things of marvellous virtue.</p>
+      <p>“<mark>Michael</mark>” is expounded sometimes as “Who, [is] like God?” And oft-times, as <abbr title="Saint">St.</abbr> Gregory saith, when a thing of marvellous virtue is done, <mark>Michael</mark> is sent forth, so that he, by the deed and the name, be given to understand that none may do that God may do, and therefore be attributed to him many things of marvellous virtue.</p>
       <p>For like as Daniel witnesseth, he shall arise and address in the time of Antichrist against him, and shall stand as a defender and keeper for them that be chosen.</p>
       <p>He also fought with the dragon and his angels, and casting them out of heaven, had a great victory.</p>
       <p>He also had a great plea and altercation with the devil for the body of Moses, because he would not show it; for the children of Israel should have adored and worshipped it.</p>
@@ -34,10 +33,10 @@
       <p>And bearing the sign of our Lord, he shall slay by the commandment of God, right puissantly, Antichrist that shall be in the Mount of Olivet.
       And dead men shall arise at the voice of this same archangel.
       And he shall show at the day of judgment the cross, the spear, the nails and the crown of thorns of JesusChrist.</p>
-      <p>The holy solemnity of <mark>St. Michael</mark> is said, appearing, dedication, victory and memory.</p>
+      <p>The holy solemnity of <mark><abbr title="Saint">St.</abbr> Michael</mark> is said, appearing, dedication, victory and memory.</p>
 
 
-      <h3 id="apparitions" class="red">The Apparitions of St. Michael</h3>
+      <h3 id="apparitions" class="red">The Apparitions of <abbr title="Saint">St.</abbr> Michael</h3>
 
       <h4 id="garganus" class="red">The Apparition of Garganus and the Bull</h4>
 
@@ -51,7 +50,7 @@
       And anon the arrow returned with the wind and smote him that had shot it.</p>
       <p>Wherewith they of the city were troubled with this thing, and went to the bishop and inquired of him what was to be done in this thing, that was so wonderful.
       And then he commanded them to fast three days and to pray unto God.
-      And when this was done <mark>St. Michael</mark> appeared to the bishop, saying: Know ye that this man is so hurt by my will.
+      And when this was done <mark><abbr title="Saint">St.</abbr> Michael</mark> appeared to the bishop, saying: Know ye that this man is so hurt by my will.
       I am <mark>Michael</mark> the archangel, which will that this place be worshipped in earth, and will have it surely kept.
       And therefore I have proved that I am keeper of this place by the demonstrance and showing of this thing.</p>
       <p>And then anon the bishop and they of the city went with procession unto that place, and durst not enter into it, but made their prayers withoutforth.</p>
@@ -59,18 +58,18 @@
 
       <h4 id="mont-tombe" class="red">The Apparition at Mount Tumba</h4>
 
-      <p>The second apparition was in the year of our Lord seven hundred and ten, in a place which was named Tumba, by the seaside, six miles from the city of Apricens. <mark>St. Michael</mark> appeared to the bishop of that city and commanded him to do make a church in the foresaid place, like as it was made in the mount of Gargan, and in like wise should hallow the memory of <mark>St. Michael</mark> there.</p>
+      <p>The second apparition was in the year of our Lord seven hundred and ten, in a place which was named Tumba, by the seaside, six miles from the city of Apricens. <mark><abbr title="Saint">St.</abbr> Michael</mark> appeared to the bishop of that city and commanded him to do make a church in the foresaid place, like as it was made in the mount of Gargan, and in like wise should hallow the memory of <mark><abbr title="Saint">St.</abbr> Michael</mark> there.</p>
       <p>And the bishop doubted in what place it should be made.
-      And <mark>St. Michael</mark> said to him in the place where he should find a bull hid of thieves.
-      And yet he doubted of the largeness of the place, and <mark>St. Michael</mark> appeared to him, and said that he should make it of the brede that he should find that the bull had trodden and traced with his feet.</p>
+      And <mark><abbr title="Saint">St.</abbr> Michael</mark> said to him in the place where he should find a bull hid of thieves.
+      And yet he doubted of the largeness of the place, and <mark><abbr title="Saint">St.</abbr> Michael</mark> appeared to him, and said that he should make it of the brede that he should find that the bull had trodden and traced with his feet.</p>
       <p>And there were two rocks which no man's power might remove.
-      Then <mark>St. Michael</mark> appeared to a man and commanded him that he should go to that same place and take away the two rocks.
+      Then <mark><abbr title="Saint">St.</abbr> Michael</mark> appeared to a man and commanded him that he should go to that same place and take away the two rocks.
       And when he came, he removed the two rocks as lightly as they had weighed nothing.</p>
       <p>And when the church was edified there, <mark>Michael</mark> set a piece of stone of marble there, upon which he stood, and a part of the pall that he had laid on the altar of that other church he brought thither to this church. And because they had great penury and need of water, they made, by the admonishment of the angel, a hole in a stone of marble, and anon there flowed out so much water that unto this day they be sustained by the benefit thereof. And this apparition is solemnly hallowed the seventeenth kalends of November in that place.</p>
       <p>And there happed in the same place a miracle worthy to be put in remembrance.
-      This mountain is environed about with the sea-ocean, but on <mark>St. Michael</mark>'s day it avoideth twice and giveth way to the people.
+      This mountain is environed about with the sea-ocean, but on <mark><abbr title="Saint">St.</abbr> Michael</mark>'s day it avoideth twice and giveth way to the people.
       And as a great company of people went to the church, it happed that a woman great with child, nigh her time of deliverance, was in the company, and when they returned, the waves and water came with great force, so that the company for dread fled to the rivage.
-      And the woman great with child might not flee, but was taken and wrapped in the floods of the sea, but <mark>St. Michael</mark> kept the wife all whole, and she was delivered and childed among the waves in the middle of the sea.
+      And the woman great with child might not flee, but was taken and wrapped in the floods of the sea, but <mark><abbr title="Saint">St.</abbr> Michael</mark> kept the wife all whole, and she was delivered and childed among the waves in the middle of the sea.
       And she took the child between her arms and gave it suck, and after, when the sea was withdrawn, she went a-land all whole with her child.</p>
 
 
@@ -78,7 +77,7 @@
 
       <p>The third apparition happed in the time of Gregory the pope.
       For when the said pope had established the litanies for the pestilence that was that time, and prayed devoutly for the people, he saw upon the castle which was said sometime, “The memory of Adrian, the angel of God, which wiped and made clean a bloody sword, and put it into a sheath.” And thereby he understood that his prayers were heard.
-      Then he did do make there a church in the honour of <mark>St. Michael</mark>, and that castle is yet named the Castle Angel.</p>
+      Then he did do make there a church in the honour of <mark><abbr title="Saint">St.</abbr> Michael</mark>, and that castle is yet named the Castle Angel.</p>
       <p>And yet another apparition was in the Mount of Gargan when he appeared and gave victory to them of Syponte, which is hallowed the eighth ides of July.</p>
 
 
@@ -87,7 +86,7 @@
       <p>The fourth apparition is that which is in the “Gerarchy” of the same angels.
       For the first apparition is said “Epiphany,” that is, the apparition of sovereigns, the second is said “Hyperphania,” that is, the mean apparition, and that other is said “Hypophania,” that is, the most low apparition.
       And “Gerarchia” is said of gerar, that is, holy, and of archos, that is, a prince, and so “Gerarchia” is to say a holy principate, and every Gerarchia containeth three orders of angels.</p>
-      <p>For the sovereign Gerarchia after the assignation of St. Denis containeth Cherubim, Seraphim, and the thrones: the middle containeth the dominations, the virtues, and the potestates; and the last containeth the principates, angels, and archangels.
+      <p>For the sovereign Gerarchia after the assignation of <abbr title="Saint">St.</abbr> Denis containeth Cherubim, Seraphim, and the thrones: the middle containeth the dominations, the virtues, and the potestates; and the last containeth the principates, angels, and archangels.
       And the ordinance and disposition of them may be seen by semblable and like in earthly principates.
       For of the ministers that be about a king, some work immediately about the person of the king, as cubiculers, counsellors, and the assistants, and they be like unto the order of the first Gerarchia.
       Some there be that have the rule of the realm, some in one province, some in another, as be lieutenants, captains of chivalry, and judges, and they be like unto the second Gerarchia.
@@ -118,11 +117,15 @@
       <h4 id="infirme" class="red">The Apparition to The Man Who Could Not Eat Or Drink</h4>
 
       <p>The fifth apparition is it which is read in the History Tripartite.
-      There is a place beside Constantinople whereas sometime the goddess Vesta was worshipped, but now there is builded a church in the honour of <mark>St. Michael</mark>, and is named <mark>Michael</mark>'s place.
+      There is a place beside Constantinople whereas sometime the goddess Vesta was worshipped, but now there is builded a church in the honour of <mark><abbr title="Saint">St.</abbr> Michael</mark>, and is named <mark>Michael</mark>'s place.
       There a man that was named Aquiline was taken with a right great fever, moved of red colour, and the physicians gave to him, so burning in an ague, a drink, which anon he vomited out at his mouth, and what he ate or drank always he vomited and casted out, so that he was nigh dead, and did him to be borne to that place, and supposed well there to be soon dead or healed.
-      And then <mark>St. Michael</mark> appeared to him and said to him that he should make a confection of honey and wine and pepper, and whatsomever he ate he should wet therein, and so should he have plein [full] health.
+      And then <mark><abbr title="Saint">St.</abbr> Michael</mark> appeared to him and said to him that he should make a confection of honey and wine and pepper, and whatsomever he ate he should wet therein, and so should he have plein [full] health.
       Which thing he did, and anon he was delivered from his malady, how well that after the judgment of the physicians that drink or medicine was contrary to them that be choleric.
       This is had in the History Tripartite.</p>
+
+<footer>
+  <p class="red">Jacobus da Varagine, <cite>Legenda Aurea</cite>, chapter 145.</p>
+</footer>
 
   </article>
 `;
