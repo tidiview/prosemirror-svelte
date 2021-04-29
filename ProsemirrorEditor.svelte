@@ -332,4 +332,8 @@
   :global(address) {
     display: inline;
   }
+
+  :global(.top-space) {
+    margin-top: 1em;
+  }
 </style>
