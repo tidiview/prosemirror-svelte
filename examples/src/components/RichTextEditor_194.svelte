@@ -7,7 +7,10 @@
   const html = `
 <article>
 
+<hgroup>
 <h1 class="blue">Tiresias</h1>
+<h2 class="blue">at the Grand Trianon</h2>
+</hgroup>
 
 <figure>
   <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -20,16 +23,16 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg 700w"></picture><figcaption>Minerve at first ground makes Tiresias in the center becoming blind</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg 700w"></picture><figcaption>Minerve at first ground <q cite="#tiresias">enraged, decreed eternal night should seal</q> Tiresias in the center</figcaption>
 </figure>
 
   <div class="notices blue">
   <p>At the <a href="https://en.wikipedia.org/wiki/Grand_Trianon" title="https://en.wikipedia.org/wiki/Grand_Trianon">Grand Trianon</a>, in the Salon des Seigneurs, is a painting by <a href="https://en.wikipedia.org/wiki/René-Antoine_Houasse" title="https://en.wikipedia.org/wiki/René-Antoine_Houasse">René-Antoine HOUASSE</a>, <cite>Minerva and Tiresias</cite>.</p>
-  <p><a href="https://en.wikipedia.org/wiki/Minerva" title="https://en.wikipedia.org/wiki/Minerva">Minerva</a> at first ground makes Tiresias in the center becoming blind, as <a href="https://en.wikipedia.org/wiki/Ovid" title="https://en.wikipedia.org/wiki/Ovid">Ovid</a> tells in Book III of <a href="https://en.wikipedia.org/wiki/Metamorphoses" title="https://en.wikipedia.org/wiki/Metamorphoses"><cite>The Metamorphoses</cite></a>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/Minerva" title="https://en.wikipedia.org/wiki/Minerva">Minerva</a> at first ground makes Tiresias in the center becoming blind, as <a href="https://en.wikipedia.org/wiki/Ovid" title="https://en.wikipedia.org/wiki/Ovid">Ovid</a> tells in Book <abbr title="three">III</abbr> of <a href="https://en.wikipedia.org/wiki/Metamorphoses" title="https://en.wikipedia.org/wiki/Metamorphoses"><cite>The Metamorphoses</cite></a>.</p>
   <p>Here's the text.</p>
   </div>
 
-<h2 class="blue">Tiresias according to <cite>The Metamorphoses</cite></h2>
+<h2 id="tiresias" class="blue">Tiresias according to text of book <abbr title="three">III</abbr> <cite>The Metamorphoses</cite></h2>
 
 <ol class="doc">
   <li value="316">While these events according to the laws</li>
@@ -52,8 +55,12 @@
   <li>while seven autumns passed. When eight were told,</li>
   <li>again he saw them in their former plight,</li>
   <li>and thus he spoke; 
-    <p class="conversation">“Since such a power was wrought,<br>by one stroke of a staff my sex was changed—<br>again I strike!”</p>
-    And even as he struck</li>
+    <p class="conversation">“Since such a power was wrought,</p>
+  </li>
+  <li>
+    <p class="conversation">by one stroke of a staff my sex was changed—<br>again I strike!”</p>
+    And even as he struck
+  </li>
   <li>the same two snakes, his former sex returned;</li>
   <li>his manhood was restored.—</li>
   <li>as both agreed</li>
@@ -69,7 +76,7 @@
 </ol>
 
 <footer>
-  <p><span style="color: #28a1c5;">Ovid, <cite>“The Metamorphoses</cite>, Book III, verses 316 and followings.</span></p>
+  <p><span style="color: #28a1c5;">Ovid, <cite>“The Metamorphoses</cite>, Book <abbr title="three">III</abbr>, verses 316 and followings.</span></p>
 </footer>
 </article>
 `;
