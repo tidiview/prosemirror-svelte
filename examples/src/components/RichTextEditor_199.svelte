@@ -6,15 +6,18 @@
 
   const html = `
 <article>
-<div id="body-inner">
+
+<hgroup>
 <h1 class="green">Saint Remigius</h1>
+<h2 class="green">according to <cite>Legenda Aurea</cite></h2>
+</hgroup>
 
 <div class="notices green">
-<p>The Baptism of the King of the Franks, Clovis in French, or “Clodovechus” from Latin by Saint Remi in French or sanctus Remigius in Latin in historical documents is told by Jacobus da Varagine in chapter 16 of <cite>Legenda Aurea</cite>, which can be said to be the main Christian book in the Middle Ages.</p>
+<p>The Baptism of the King of the Franks, <i>Clovis</i> in french, or “Clodovechus” from Latin by <i>Saint Remi</i> in French or <i>sanctus Remigius</i> in Latin in historical documents is told by Jacobus da Varagine in chapter 16 of <cite>Legenda Aurea</cite>, which can be said to be the main Christian book in the Middle Ages.</p>
 </div>
 
 <article>
-<h2 id="chapter-16-st-remigius" class="green">Text of chapter 16 of <cite>The Golden Legend</cite>: St. Remigius</h2>
+<h2 id="chapter-16-st-remigius" class="green">Text of chapter 16 of <cite>Legenda Aurea</cite>: St. Remigius</h2>
 
 <h3 id="first-the-interpretation-of-his-name" class="green">first the interpretation of his name</h3>
 
@@ -100,7 +103,7 @@ and at the last <mark>St. Remigius</mark>, after that God had shown many miracle
 </div>
 
 <footer>
-  <p><span style="color: #3d8b3d;">Jacobus da Varagine, <cite>Legenda Aurea</cite>, chapter 16</span></p>
+  <p><span style="color: #3d8b3d;">Jacobus da Varagine, <cite>Legenda Aurea</cite>, chapter 16.</span></p>
 </footer>
 </article>
 </article>
