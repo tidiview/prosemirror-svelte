@@ -23,7 +23,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/01.latone/latone-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/01.latone/latone-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/01.latone/latone-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/01.latone/latone_700x525.jpg 700w"></picture><figcaption>Lycian peasants transformed into mud-pool animals by Latona's anger<br><q cite="#latona">The curse as soon as uttered took effect, and every one of them began to swim beneath the water, and to leap and plunge deep in the pool</q>, <cite>The Metamorphoses</cite>, Book <abbr title="six">VI</abbr>, verses 333 and followings.</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/01.latone/latone_700x525.jpg 700w"></picture><figcaption>Lycian peasants transformed into mud-pool animals by Latona's anger<br><q cite="#latona">The curse as soon as uttered took effect, and every one of them began to swim beneath the water, and to leap and plunge deep in the pool</q>, <cite>The Metamorphoses</cite>, Book <abbr title="six">VI</abbr>, verses 333 to 381.</figcaption>
 </figure>
 
 <div class="notices red">
@@ -33,7 +33,7 @@
 <p>With the text written by <a href="https://en.wikipedia.org/wiki/Ovid" title="https://en.wikipedia.org/wiki/Ovid">Ovid</a> in <a href="https://en.wikipedia.org/wiki/Metamorphoses" title="https://en.wikipedia.org/wiki/Metamorphoses"><cite>The Metamorphoses</cite></a>, this opposition should probably comes closer to us.</p>
 </div>
 
-<h2 id="latona" class="red">Latona according to <cite>The Metamorphoses</cite></h2>
+<h2 id="latona" class="red">Latona according to text of Book <abbr title="six">VI</abbr> of the <cite>The Metamorphoses</cite></h2>
 
 <ol class="doc">
   <li value="333">There <mark>Latona</mark>, as she leaned<li>
@@ -43,20 +43,23 @@
   <li>to interfere.—And from the island forced<li>
   <li>to fly by jealous Juno, on her breast<li>
   <li>she bore her children, twin Divinities.</li>
-  <li>At last, outwearied with the toil, and parched<li>
+
+  <li class="top-space">At last, outwearied with the toil, and parched<li>
   <li>with thirst—long-wandering in those heated days<li>
   <li>over the arid land of Lycia, where<li>
   <li>was bred the dire Chimaera— at the time<li>
   <li>her parching breasts were drained, she saw this pool<li>
   <li>of crystal water, shimmering in the vale.</li>
-  <li>Some countrymen were there to gather reeds,<li>
+
+  <li class="top-space">Some countrymen were there to gather reeds,<li>
   <li>and useful osiers, and the bulrush, found<li>
   <li>with sedge in fenny pools. To them approached<li>
   <li><mark>Latona</mark>, and she knelt upon the merge<li>
   <li>to cool her thirst, with some refreshing water.<li>
   <li>But those clowns forbade her and the goddess cried,<li>
   <li>as they so wickedly opposed her need:</li>
-  <li><p class="conversation">“Why do you so resist my bitter thirst?</p><li>
+
+  <li class="top-space"><p class="conversation">“Why do you so resist my bitter thirst?</p><li>
   <li><p class="conversation">The use of water is the sacred right</p><li>
   <li><p class="conversation">of all mankind, for Nature has not made</p><li>
   <li><p class="conversation">the sun and air and water, for the sole</p><li>
@@ -76,7 +79,8 @@
   <li>it chanced the children did stretch out their arms<li>
   <li>and who would not be touched to hear such words,<li>
   <li>as spoken by this goddess, and refuse?</li>
-  <li>But still those clowns persisted in their wrong<li>
+
+  <li class="top-space">But still those clowns persisted in their wrong<li>
   <li>against the goddess; for they hindered her,<li>
   <li>and threatened with their foul, abusive tongues<li>
   <li>to frighten her away—and, worse than all,<li>
@@ -89,7 +93,8 @@
   <li>the outraged majesty of her high state,<li>
   <li>she raised her hands to Heaven, and exclaimed,<li>
   <li><p class="conversation">“Forever may you live in that mud-pool!”</p><li>
-  <li>The curse as soon as uttered took effect,<li>
+
+  <li class="top-space">The curse as soon as uttered took effect,<li>
   <li>and every one of them began to swim<li>
   <li>beneath the water, and to leap and plunge<li>
   <li>deep in the pool.—Now, up they raise their heads,<li>
@@ -99,19 +104,22 @@
   <li>And, ever and again, with croaking throats,<li>
   <li>indulge offensive strife upon the banks,<li>
   <li>or even under water, boom abuse.</li>
-  <li>Their ugly voices cause their bloated necks<li>
+
+  <li class="top-space">Their ugly voices cause their bloated necks<li>
   <li>to puff out; and their widened jaws are made<li>
   <li>still wider in the venting of their spleen.</li>
-  <li>Their backs, so closely fastened to their heads,<li>
+
+  <li class="top-space">Their backs, so closely fastened to their heads,<li>
   <li>make them appear as if their shrunken necks<li>
   <li>have been cut off. Their backbones are dark green;<li>
   <li>white are their bellies, now their largest part.—</li>
-  <li>Forever since that time, the foolish frogs<li>
-  <li>muddy their own pools, where they leap and dive.</li>
+
+  <li class="top-space">Forever since that time, the foolish frogs<li>
+  <li value="381">muddy their own pools, where they leap and dive.</li>
 </ol>
 
 <footer>
-  <p><span style="color: #b52b27;">Ovid, <cite>The Metamorphoses</cite>, Book <abbr title="six">VI</abbr>, verses 333 and followings.</span></p>
+  <p><span style="color: #b52b27;">Ovid, <cite>The Metamorphoses</cite>, Book <abbr title="six">VI</abbr>, verses 333 to 381.</span></p>
 </footer>
 </article>
 `;
