@@ -797,7 +797,8 @@ export const ExtendedThreerichTextSchema = new Schema({
       ["li", {"style": "list-style-type:none"}, 0] : ["li", {"data-id": dataid, "style": "list-style-type:none", "class": classes}, 0] : 
       dataid == "" ? 
       ["li", {id}, 0] : ["li", {id, "data-id": dataid}, 0] : 
-      doc == true ? id == "" ? classes == "" ? ["li", {value}, 0] : ["li", {value, "class": classes}, 0] : ["li", {value, id}, 0] : ["li", 0] },
+      doc == true ? id == "" ? classes == "" ? ["li", {value}, 0] : ["li", {value, "class": classes}, 0] : 
+      classes == "" ? ["li", {value, id}, 0] : ["li", {value, id, "class": classes}, 0] : ["li", 0] },
     },
     ruby: {
       content: "inline*",
