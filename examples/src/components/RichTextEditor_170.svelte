@@ -23,7 +23,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/01.adonis/adonis_700x676.jpg 700w"></picture><figcaption>Vénus <q cite="#adonis">aperçut, du haut du ciel, le corps inconscient secoué de spasmes dans son propre sang, elle sauta à terre</q>: Adonis vient d'être tué par un sanglier. <cite>Les Métamorphoses</cite>, Livre <abbr title="dix">X</abbr>, vers 717</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/01.adonis/adonis_700x676.jpg 700w"></picture><figcaption>Vénus <q cite="#adonis">aperçut, du haut du ciel, le corps inconscient secoué de spasmes dans son propre sang, elle sauta à terre</q>: Adonis vient d'être tué par un sanglier. <cite>Les Métamorphoses</cite>, Livre <abbr title="dix">X</abbr>, vers 717.</figcaption>
 </figure>
 
 <div class="notices yellow">
