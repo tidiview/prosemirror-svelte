@@ -5,8 +5,13 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-<div id="body-inner">
+<article>
+
+<hgroup>
 <h1 class="green"><ruby style="color:#555;" lang="en"><abbr title="Saint">St.</abbr> Ursula Shrine<rt style="color:#999;" lang="nl">Het Ursulaschrijn</rt></ruby></h1>
+<h2 class="green"><abbr title="Saint">St.</abbr> John's Hospital Memling Museum of Bruges</h2>
+</hgroup>
+
 <figure>
   <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-280.webp 280w,
@@ -31,9 +36,9 @@
 
 <div class="notices green">
   <p>The <cite>Saint Ursula's Shrine</cite> is a <a href="https://en.wikipedia.org/wiki/Chasse_(casket) title="Chasse_(casket)">shrine</a> intended to preserve the relics of the Eleven Thousand Virgins and a number of saints, as well as some memorabilia brought back from the Holy Land, of which the painter <a href="https://en.wikipedia.org/wiki/Hans_Memling" title="Hans Memling">Hans Memling</a> decorated the four sides with a set of paintings, and six medallions on the roof.</p>
-  <p>The paintings tell the story of <a href="https://en.wikipedia.org/wiki/Saint_Ursula" title="Saint Ursula"><abbr title="Saint">St.</abbr> Ursula</a>. It is one of the great compositions of the painter "&nbsp;miniaturist&nbsp;". The work dates from <time datetime="1489">1489</time>. The shrine was designed and was preserved for <a href="https://en.wikipedia.org/wiki/Old_St._John's_Hospital" title="Old_St._John's_Hospital"><abbr title="Saint">St.</abbr> John's Hospital Memling Museum</a>, of <a href="https://en.wikipedia.org/wiki/Bruges" title="Bruges">Bruges</a>.</p>
-  <p>Memling follows step by step the narrative <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="Golden Legend"><cite>The Golden Legend</cite></a> by <a href="https://en.wikipedia.org/wiki/Jacobus_de_Varagine" title="Jacobus de Varagine">Jacobus de Varagine</a>, a translation of which appeared in <time datetime="1478">1478</time></sup>.</p>
-  <p>In the following article, we directly contrast the text of <cite>The Golden Legend</cite> with representations by Hans Memling. We believe that in this way their quality will only become more striking.</p> <p>The following article is a direct comparison of the text of <cite>The Golden Legend</cite> and Hans Memling's representations.</p>
+  <p>The paintings tell the story of <a href="https://en.wikipedia.org/wiki/Saint_Ursula" title="Saint Ursula"><abbr title="Saint">St.</abbr> Ursula</a>. It is one of the great compositions of the painter miniaturist. The work dates from <time datetime="1489">1489</time>. The shrine was designed and was preserved for <a href="https://en.wikipedia.org/wiki/Old_St._John's_Hospital" title="Old_St._John's_Hospital"><abbr title="Saint">St.</abbr> John's Hospital Memling Museum</a>, of <a href="https://en.wikipedia.org/wiki/Bruges" title="Bruges">Bruges</a>.</p>
+  <p>Memling follows step by step the narrative <a href="https://en.wikipedia.org/wiki/Golden_Legend" title="Golden Legend"><cite>Legenda Aurea</cite></a> by <a href="https://en.wikipedia.org/wiki/Jacobus_de_Varagine" title="Jacobus de Varagine">Jacobus de Varagine</a>, a translation of which appeared in <time datetime="1478">1478</time></sup>.</p>
+  <p>In the following article, we directly contrast the text of <cite>Legenda Aurea</cite> with representations by Hans Memling. We believe that in this way their quality will only become more striking.</p> <p>The following article is a direct comparison of the text of <cite>Legenda Aurea</cite> and Hans Memling's representations.</p>
 </div>
 
 <h2 id="the-eleven-thousand-virgins" class="green">the Eleven Thousand Virgins</h2>
@@ -305,8 +310,12 @@ And he accomplished her request as soon as he might, and anon after he did do ca
 And as they anointed him he cried suddenly: Make ye place to the holy virgins, and go out of the way that they may come to me.
 And when the abbot demanded him what it was, and what he meant, he told to him by order the promise of the virgin. Then all they withdrew them a little after, and soon came again and found him departed out of this world unto our Lord.
 Then let us devoutly give laud and praising unto the blessed Trinity and pray him that by the merits of this great multitude of martyrs he will forgive and pardon us of our sins, that after this life we may come unto this holy company in heaven.</p>
-<p><strong><span style="color: #3d8b3d;">Jacobus de Voragine, “The Golden Legend”, Chapter 158 “the Eleven Thousand Virgins”</span></strong></p>
-</div>
+
+<footer>
+  <p><span style="color: #3d8b3d;">Jacobus de Varagine, <cite>Legenda Aurea</cite>, Chapter 158 “the Eleven Thousand Virgins”.</span></p>
+</footer>
+
+</article>
 `;
 
   let focusEditor;
