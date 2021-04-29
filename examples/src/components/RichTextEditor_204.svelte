@@ -6,9 +6,9 @@
 
   const html = `
 <article>
-<h1 class="yellow">Archangel Michael in the Apocalypse</h1>
+<h1 class="yellow">Archangel Michael in <cite>the Apocalypse</cite></h1>
 
-  <h2 id="renvoi_bataille" class="yellow">Archangel Michael according to chapter 12 of the Apocalypse</h2>
+  <h2 id="renvoi_bataille" class="yellow">Archangel Michael according to chapter 12 of <cite>the Apocalypse</cite></h2>
 
   <ol class="doc">
     <li value="01">Now a great sign appeared in heaven: a woman, robed with the sun, standing on the moon, and on her head a crown of twelve stars.</li>
@@ -20,9 +20,16 @@
     <li value="07">And now <a id="bataille" href="#renvoi_bataille" title="war broke out in heaven">war broke out in heaven</a>, when Michael with his angels attacked the dragon. The dragon fought back with his angels,</li>
     <li value="08">but they were defeated and driven out of heaven.</li>
     <li value="09">The great dragon, the primeval serpent, known as the devil or Satan, who had led all the world astray, was hurled down to the earth and his angels were hurled down with him.</li>
-    <li value="10">Then I heard a voice shout from heaven, 'Salvation and power and empire for ever have been won by our God, and all authority for his Christ, now that the accuser, who accused our brothers day and night before our God, has been brought down.</li>
-    <li value="11">They have triumphed over him by the blood of the Lamb and by the word to which they bore witness, because even in the face of death they did not cling to life.</li>
-    <li value="12">So let the heavens rejoice and all who live there; but for you, earth and sea, disaster is coming -- because the devil has gone down to you in a rage, knowing that he has little time left.'</li>
+    <li value="10">
+      Then I heard a voice shout from heaven,
+      <p class="conversation">'Salvation and power and empire for ever have been won by our God, and all authority for his Christ, now that the accuser, who accused our brothers day and night before our God, has been brought down.</p>
+    </li>
+    <li value="11">
+      <p class="conversation">They have triumphed over him by the blood of the Lamb and by the word to which they bore witness, because even in the face of death they did not cling to life.</p>
+    </li>
+    <li value="12">
+      <p class="conversation">So let the heavens rejoice and all who live there; but for you, earth and sea, disaster is coming -- because the devil has gone down to you in a rage, knowing that he has little time left.'</p>
+    </li>
     <li value="13">As soon as the dragon found himself hurled down to the earth, he sprang in pursuit of the woman, the mother of the male child,</li>
     <li value="14">but she was given a pair of the great eagle's wings to fly away from the serpent into the desert, to the place where she was to be looked after for a time, two times and half a time.</li>
     <li value="15">So the serpent vomited water from his mouth, like a river, after the woman, to sweep her away in the current,</li>
@@ -32,7 +39,7 @@
   </ol>
 
 <footer>
-  <p style="color: #df8a13;">Liturgical Translation of the New Testament, chapter 12 of the Apocalypse [Ap. 12-7]</p>
+  <p style="color: #df8a13;">Liturgical Translation of the New Testament, chapter 12 of <cite>the Apocalypse</cite> [Ap. 12-7]</p>
 </footer>
 </article>
 `;
