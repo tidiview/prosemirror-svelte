@@ -6,22 +6,21 @@
 
   const html = `
 <article>
-<div id="body-inner">
 
 <h1 class="green">The Remi according to Cesar</h1>
 
 <div class="notices green">
-<p>The «Commentaries on the Gallic War», which is said to have been written by Julius Caesar himself, count as a written historical document concerning the past of France as one of the oldest.</p>
-<p>There would be much to say about this exceptional work, but here it is not so much the whole work as the short part, first half of Book II, where the tribe of the Remi, at the origins of the name of the current Reims, appears, that keeps our attention.</p>
-<p>The extract of the text below is limited to this and to the « Battle of the Aisne river ».</p>
-<p>The <a href="#1chap" title="Chapter 1, Turmoil in Belgium">1<sup>st</sup></a> and <a href="#2chap" title="Chapter 2, Measures of Caesar">2<sup>nd</sup></a> chapter describe the resulting situation of the progression of the Roman army in Gaul.</p>
-<p>During the <a href="#3chap" title="Chapter 3, The Remi are declaring themselves for the Romans">3<sup>rd</sup> chapter</a>, the chiefs of the Remi think fowards and send to Caesar a delegation to ally with Rome.</p>
-<p>From the <a href="#4chap" title="Chapter 4, Enumeration of enemy forces">4<sup>th</sup> chapter</a>, is the « <a href="#8chap" title="Chapter 8, Battle of the Aisne">Battle of the Aisne river</a> » that sees the victory of the roman army.</p>
+<p>The <cite>Commentaries on the Gallic War</cite>, which is said to have been written by Julius Caesar himself, count as a written historical document concerning the past of France as one of the oldest.</p>
+<p>There would be much to say about this exceptional work, but here it is not so much the whole work as the short part, first half of Book <abbr title="two">II</abbr>, where the tribe of the Remi, at the origins of the name of the current Reims, appears, that keeps our attention.</p>
+<p>The extract of the text below is limited to this and to the «Battle of the Aisne river».</p>
+<p>The <a href="#1chap" title="Chapter 1, Turmoil in Belgium">first</a> and <a href="#2chap" title="Chapter 2, Measures of Caesar">second chapter</a> describe the resulting situation of the progression of the Roman army in Gaul.</p>
+<p>During the <a href="#3chap" title="Chapter 3, The Remi are declaring themselves for the Romans">third chapter</a>, the chiefs of the Remi think fowards and send to Caesar a delegation to ally with Rome.</p>
+<p>From the <a href="#4chap" title="Chapter 4, Enumeration of enemy forces">quarth chapter</a>, is the «<a href="#8chap" title="Chapter 8, Battle of the Aisne">Battle of the Aisne river</a>» that sees the victory of the roman army.</p>
 <p>The Remi were to be rewarded notabily by the recognition of Reims as capital city of roman province of Second Belgium.</p>
 </div>
 
 <article>
-<h2 id="commentaries-on-the-gallic-war-book-2" class="green">Commentaries on the Gallic War, Book 2</h2>
+<h2 id="commentaries-on-the-gallic-war-book-2" class="green"><cite>Commentaries on the Gallic War</cite>, Book <abbr title="two">II</abbr></h2>
 
 <h3 class="green">Turmoil in Belgium</h3>
 
@@ -161,9 +160,9 @@
 </ol>
 
 <footer>
-<p><span style="color: #3d8b3d;">Julius Caesar, “Commentaries on the Gallic War”, Book II, chapters 1 and followings</span></p>
+<p><span style="color: #3d8b3d;">Julius Caesar, <cite>Commentaries on the Gallic War</cite>, Book <abbr title="two">II</abbr>, chapters 1 to 12.</span></p>
 </footer>
-</div>
+
 </article>
 </article>
 `;
