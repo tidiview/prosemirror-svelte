@@ -48,11 +48,11 @@
 
     <ol class="doc"><li>Aeolus, son of Hippotas, had confined the winds in their prison under Mount Etna, and Lucifer, who exhorts us to work, shone brightest of all</li>
       <li value="665">in the depths of the eastern sky.</li>
-      <li>Perseus strapped the winged sandals he had put to one side to his feet, armed himself with his curved sword, and cut through the clear air on beating pinions.</li>
+      <li><mark>Perseus</mark> strapped the winged sandals he had put to one side to his feet, armed himself with his curved sword, and cut through the clear air on beating pinions.</li>
       <li>Leaving innumerable nations behind, below and around him, he came in sight of the Ethiopian peoples, and the fields of Cepheus.</li>
       <li value="670">There Jupiter Ammon had unjustly ordered the innocent Andromeda to pay the penalty for her mother Cassiopeia’s words.</li>
 
-      <li class="top-space">As soon as Perseus, great-grandson of Abas, saw her fastened by her arms to the hard rock,</li>
+      <li class="top-space">As soon as <mark>Perseus</mark>, great-grandson of Abas, saw her fastened by her arms to the hard rock,</li>
       <li value="675">he would have thought she was a marble statue, except that a light breeze stirred her hair, and warm tears ran from her eyes.</li>
       <li>He took fire without knowing it and was stunned, and seized by the vision of the form he saw, he almost forgot to flicker his wings in the air.</li>
       <li>As soon as he had touched down, he said
@@ -73,7 +73,7 @@
         <p class="conversation">‘There will be plenty of time left for tears, but only a brief hour is given us to work.</p>
       </li>
       <li>
-        <p class="conversation">If I asked for this girl as Perseus, son of Jupiter and that Danaë, imprisoned in the brazen tower, whom Jupiter filled with his rich golden shower; Perseus conqueror of the Gorgon with snakes for hair, he who dared to fly, driven through the air,</p>
+        <p class="conversation">If I asked for this girl as <mark>Perseus</mark>, son of Jupiter and that Danaë, imprisoned in the brazen tower, whom Jupiter filled with his rich golden shower; <mark>Perseus</mark> conqueror of the Gorgon with snakes for hair, he who dared to fly, driven through the air,</p>
       </li>
       <li value="700">
         <p class="conversation">on soaring wings, then surely I should be preferred to all other suitors as a son-in-law.</p>
@@ -93,7 +93,7 @@
       <li value="715">As Jupiter’s eagle, when it sees a snake, in an open field, showing its livid body to the sun, takes it from behind, and fixes its eager talons in the scaly neck, lest it twists back its cruel fangs, so the descendant of Inachus hurling himself headlong, in swift flight, through empty space, attacked the creature’s back, and, as it roared, buried his sword, to the end of the curved blade,</li>
       <li value="720">in the right side of its neck.</li>
       <li>Hurt by the deep wound, now it reared high in the air, now it dived underwater, or turned now, like a fierce wild boar, when the dogs scare him, and the pack is baying around him.</li>
-      <li value="725">Perseus evades the eager jaws on swift wings, and strikes with his curved sword wherever the monster is exposed, now at the back encrusted with barnacles, now at the sides of the body, now where the tail is slenderest, ending fishlike.</li>
+      <li value="725"><mark>Perseus</mark> evades the eager jaws on swift wings, and strikes with his curved sword wherever the monster is exposed, now at the back encrusted with barnacles, now at the sides of the body, now where the tail is slenderest, ending fishlike.</li>
       <li>The beast vomits seawater mixed with purplish blood.</li>
       <li value="730"> The pinions grow heavy, soaked with spray.</li>
       <li>Not daring to trust his drenched wings any further, he sees a rock whose highest point stands above quiet water, hidden by rough seas.</li>
