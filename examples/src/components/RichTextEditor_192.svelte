@@ -270,6 +270,7 @@
 <footer>
   <p><span style="color: #df8a13;">Ovid, <cite>The Metamorphoses</cite>, Book <abbr title="six">VI</abbr>, verses 1 to 365.</span></p>
 </footer>
+
 </article>
 `;
 
