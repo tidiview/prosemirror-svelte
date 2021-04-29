@@ -7,7 +7,10 @@
   const html = `
 <article>
 
+<hgroup>
 <h1 class="red">Arachne</h1>
+<h2 class="blue">at the Grand Trianon</h2>
+</hgroup>
 
   <figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/01.arachnee/arachnee-280.webp 280w,
