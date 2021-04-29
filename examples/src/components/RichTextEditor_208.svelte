@@ -66,7 +66,7 @@ And then the king of Britain began to be much anxious, because that she that was
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-640.jpg 640w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule_700x395.jpg 700w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-840.jpg 840w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-1280.jpg 1280w"></picture><figcaption>“Arrival at Koln”, “Arrival at Basel”, “Arrival at Rome”</figcaption
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-1280.jpg 1280w"></picture><figcaption>“Arrival at Koln”, “Arrival at Basel”, “Arrival at Rome”</figcaption>
 </figure>
 
 <p>And she, that was divinely inspired, did so much to her father that she consented to the marriage by such a condition, that for to solace her he should send to her father ten virgins, and to herself, and to those ten other virgins, he should send to each a thousand virgins, and should give to her space of three years for to dedicate her virginity, and the young man should be baptized, and in these three years he should be informed in the faith sufficiently, so that by wise counsel, and by virtue of the condition made, he should withdraw from her his courage.</p>
@@ -98,9 +98,8 @@ And the father of the virgin ordained that his daughter, whom he most loved, and
 <p>Then virgins came from all parts, and men came for to see this great company, and many bishops came for to go with them in their pilgrimage, among whom was Pantulus, bishop of Basle, which went with them to Rome, and returned from thence with them and received martyrdom.
 S. Gerasine, queen of Sicily, which had made of her husband that was a cruel tyrant a meek lamb, and was sister of Maurice the bishop, and of Daria, mother of S. Ursula, to whom the father of S. Ursula had signified by secret letters.
 She, by the inspiration of God, put herself in the way with her four daughters, Babilla, Juliana, Victoria and Aurea, and her little son Adrian, which, for love of his sisters, went in the same pilgrimage, and left all in the hands of his own son, and came into Britain, and sailed over sea into England.</p>
-</div>
 
-<!-- Page 2 --><hr>
+<!-- Page 2 -->
 
 <div id="body-inner">
 <p>And by the counsel of this queen the virgins were gathered together from divers realms, and she was leader of them, and at the last she suffered martyrdom with them.
@@ -129,7 +128,7 @@ And the barons and great lords assembled them to see the fair games and disports
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule3-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule3-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule3-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule3-1920.jpg 1920w"></picture><figcaption>“Arrival at Koln”</figcaption
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule3-1920.jpg 1920w"></picture><figcaption>“Arrival at Koln”</figcaption>
 </figure>
 
 <p>And from thence, by the monition of the angel, they went towards Rome.
@@ -183,9 +182,9 @@ And when they came to Basle they left there their ships and went to Rome afoot.<
 
 <p>And that same night it was showed to the pope that he should receive with them the crown of martyrdom, which thing he hid in himself, and baptized many of them that were not then baptized.
 And when he saw time convenable, when he had governed the church one year and eleven weeks, and was the nineteenth pope after Peter, he purposed tofore all the people, and showed to them his purpose, and resigned his office and his dignity.</p>
-</div>
 
-<!-- Page 3 --><hr>
+
+<!-- Page 3 -->
 
 <div id="body-inner">
 <p>But all men gainsaid it, and especially the cardinals, which supposed that he trespassed, leaving the glory of the papacy and would go after these foolish virgins, but he would not agree to abide, but ordained an holy man to occupy in his place, which was named Ametus.
