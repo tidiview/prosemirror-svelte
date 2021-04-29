@@ -23,7 +23,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg 700w"></picture><figcaption>Minerve at first ground <q cite="#tiresias">enraged, decreed eternal night should seal</q> Tiresias in the center</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg 700w"></picture><figcaption>Minerve at first ground <q cite="#tiresias">enraged, decreed eternal night should seal</q> Tiresias in the center, <cite>The Metamorphoses</cite>, Book <abbr title="three">III</abbr>, verse 336.</figcaption>
 </figure>
 
   <div class="notices blue">
@@ -32,7 +32,7 @@
   <p>Here's the text.</p>
   </div>
 
-<h2 id="tiresias" class="blue">Tiresias according to text of book <abbr title="three">III</abbr> <cite>The Metamorphoses</cite></h2>
+<h2 id="tiresias" class="blue">Tiresias according to text of Book <abbr title="three">III</abbr> of <cite>The Metamorphoses</cite></h2>
 
 <ol class="doc">
   <li value="316">While these events according to the laws</li>
@@ -42,7 +42,8 @@
   <li>indulged too freely in the nectar cup;</li>
   <li>and having laid aside all weighty cares,</li>
   <li>jested with Juno as she idled by.</li>
-  <li value="320">Freely the god began;
+
+  <li value="320" class="top-space">Freely the god began;
     <p class="conversation">“Who doubts the truth?<br>The female's pleasure is a great delight,<br>much greater than the pleasure of a male.”</p></li>
   <li>Juno denied it; wherefore 'twas agreed</li>
   <li>to ask <mark>Tiresias</mark> to declare the truth,</li>
@@ -58,12 +59,14 @@
     <p class="conversation">“Since such a power was wrought,</p>
   </li>
   <li>
-    <p class="conversation">by one stroke of a staff my sex was changed—<br>again I strike!”</p>
+    <p class="conversation">by one stroke of a staff my sex was changed—</p>
+    <p class="conversation">again I strike!”</p>
     And even as he struck
   </li>
   <li>the same two snakes, his former sex returned;</li>
   <li>his manhood was restored.—</li>
-  <li>as both agreed</li>
+
+  <li class="top-space">as both agreed</li>
   <li>to choose him umpire of the sportive strife,</li>
   <li>he gave decision in support of Jove;</li>
   <li>from this the disappointment Juno felt</li>
@@ -72,11 +75,11 @@
   <li value="337">immortal Deities may never turn</li>
   <li>decrees and deeds of other Gods to naught,</li>
   <li>but Jove, to recompense his loss of sight,</li>
-  <li>endowed him with the gift of prophecy.</li>
+  <li value="340">endowed him with the gift of prophecy.</li>
 </ol>
 
 <footer>
-  <p><span style="color: #28a1c5;">Ovid, <cite>“The Metamorphoses</cite>, Book <abbr title="three">III</abbr>, verses 316 and followings.</span></p>
+  <p><span style="color: #28a1c5;">Ovid, <cite>The Metamorphoses</cite>, Book <abbr title="three">III</abbr>, verses 316 to 340.</span></p>
 </footer>
 </article>
 `;
