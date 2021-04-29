@@ -6,9 +6,9 @@
 
   const html = `
 <article>
-<h1 class="yellow">Archangel Michael in <cite>the Apocalypse</cite></h1>
+<h1 class="yellow">Archangel <mark> in <cite>the Apocalypse</cite></h1>
 
-  <h2 id="renvoi_bataille" class="yellow">Archangel Michael according to chapter 12 of <cite>the Apocalypse</cite></h2>
+  <h2 id="renvoi_bataille" class="yellow">Archangel <mark> according to chapter 12 of <cite>the Apocalypse</cite></h2>
 
   <ol class="doc">
     <li value="01">Now a great sign appeared in heaven: a woman, robed with the sun, standing on the moon, and on her head a crown of twelve stars.</li>
@@ -17,7 +17,7 @@
     <li value="04">Its tail swept a third of the stars from the sky and hurled them to the ground, and the dragon stopped in front of the woman as she was at the point of giving birth, so that it could eat the child as soon as it was born.</li>
     <li value="05">The woman was delivered of a boy, the son who was to rule all the nations with an iron sceptre, and the child was taken straight up to God and to his throne,</li>
     <li value="06">while the woman escaped into the desert, where God had prepared a place for her to be looked after for twelve hundred and sixty days.</li>
-    <li value="07">And now <a id="bataille" href="#renvoi_bataille" title="war broke out in heaven">war broke out in heaven</a>, when Michael with his angels attacked the dragon. The dragon fought back with his angels,</li>
+    <li value="07">And now <a id="bataille" href="#renvoi_bataille" title="war broke out in heaven">war broke out in heaven</a>, when <mark>Michael</mark> with his angels attacked the dragon. The dragon fought back with his angels,</li>
     <li value="08">but they were defeated and driven out of heaven.</li>
     <li value="09">The great dragon, the primeval serpent, known as the devil or Satan, who had led all the world astray, was hurled down to the earth and his angels were hurled down with him.</li>
     <li value="10">
