@@ -50,7 +50,7 @@
       <li value="665">in the depths of the eastern sky.</li>
       <li><mark>Perseus</mark> strapped the winged sandals he had put to one side to his feet, armed himself with his curved sword, and cut through the clear air on beating pinions.</li>
       <li>Leaving innumerable nations behind, below and around him, he came in sight of the Ethiopian peoples, and the fields of Cepheus.</li>
-      <li value="670">There Jupiter Ammon had unjustly ordered the innocent Andromeda to pay the penalty for her mother Cassiopeia’s words.</li>
+      <li value="670">There Jupiter Ammon had unjustly ordered the innocent <mark>Andromeda</mark> to pay the penalty for her mother Cassiopeia’s words.</li>
 
       <li class="top-space">As soon as <mark>Perseus</mark>, great-grandson of Abas, saw her fastened by her arms to the hard rock,</li>
       <li value="675">he would have thought she was a marble statue, except that a light breeze stirred her hair, and warm tears ran from her eyes.</li>
@@ -112,7 +112,7 @@
       <li class="top-space">To the three gods, he builds the same number of altars out of turf, to you Mercury on the left, to you Minerva, warlike virgin, on the right,</li>
       <li value="755"> and an altar of Jupiter in the centre.</li>
       <li>He sacrifices a cow to Minerva, a calf to the wing-footed god, and a bull to you, greatest of the gods.</li>
-      <li>Then he claims Andromeda, without a dowry, valuing her as the worthiest prize.</li>
+      <li>Then he claims <mark>Andromeda</mark>, without a dowry, valuing her as the worthiest prize.</li>
       <li>Hymen and Amor wave the marriage torch, the fires are saturated with strong perfumes, garlands hang from the rafters,</li>
       <li value="760"> and everywhere flutes and pipes, and singing, sound out, the happy evidence of joyful hearts.</li>
       <li>The doors fold back to show the whole of the golden hall, and the noble Ethiopian princes enter to a richly prepared banquet already set out for them.</li>
