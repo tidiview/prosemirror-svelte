@@ -33,7 +33,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x798.jpg 700w"></picture><figcaption>Diana of Poitiers represented in Diana, goddess of Hunting</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x798.jpg 700w"></picture><figcaption>Diana of Poitiers represented in Diana, goddess of Hunting<br><q cite="#acteon">They say Diana the Quiver-bearer’s anger was not appeased, until his life had ended in innumerable wounds.</q></figcaption>
 </figure>
 
 <div class="notices green">
@@ -47,7 +47,7 @@
 </div>
 
 <article>
-<h2 class="green">Actæon according to text of Book <abbr title="three">III</abbr> of <cite>The Metamorphoses</cite></h2>
+<h2 id="acteon" class="green">Actæon according to text of Book <abbr title="three">III</abbr> of <cite>The Metamorphoses</cite></h2>
 
 <ol class="doc">
   <li value="131">Now Thebes stands, and now you might be seen as happy, in your exile, Cadmus.</li>
@@ -140,7 +140,7 @@
   <li value="245">(he turning his head at the sound of his name) complaining he is not there, and through his slowness is missing the spectacle offered by their prey.</li>
   <li>He might wish to be absent it’s true, but he is here: he might wish to see and not feel the fierce doings of his own hounds.</li>
   <li value="250">They surround him on every side, sinking their jaws into his flesh, tearing their master to pieces in the deceptive shape of the deer.</li>
-  <li value="252">They say <mark>Diana</mark> the Quiver-bearer’s anger was not appeased, until his life had ended in innumerable wounds.</li>
+  <li value="252"><span style="color: #3d8b3d;">They say <mark>Diana</mark> the Quiver-bearer’s anger was not appeased, until his life had ended in innumerable wounds.</span></li>
 </ol>
 
 <footer>
