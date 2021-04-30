@@ -6,21 +6,47 @@
 
   const html = `
 <div id="home"></div>
-<div id="bubblecontainer" class="curtain-image flush-top-curtain">
-<div class="curtain-image-image">
-<div class="curtain-meta">
-<p id="curtain-button"><a href="/ja" class="curtain-button-side" rel="nofollow bookmark"><span title="japonais"><ruby lang="ja">日本語<rt lang="en">japanese</rt></ruby></span></a> <a class="curtain-button-center" href="#topofpage" rel="nofollow"><ruby lang="ja"><span title="英語">english</span><rt lang="fr">anglais</rt></ruby></a> <a class="curtain-button-side" href="/fr" rel="nofollow bookmark"><ruby lang="fr"><span title="フランス語">français</span><rt lang="en">french</rt></ruby></a></p>
-<div style="text-align:center;width:42px;height:64px;margin:auto;">
-<a href="#topofpage" class="topofpage" rel="nofollow"><svg class="svg-topofpage" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 64"><path d="M3.55 16.627l17.413 19.215.037-.04.037.04L38.45 16.627 21 35.764 3.55 16.627z" fill="none" stroke="#fff" opacity="0.6" stroke-width="5.145" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
-</div>
-</div>
-</div></div></div>
-<span id="topofpage" class="curtain-content"></span>
-<p style="line-height: 5vh;font-size: 4vh; text-align: center;max-height: 5vh;min-height: 3vh;max-width: 25vw;min-width: 15vw;margin-top: 3vh;margin-right: auto;margin-bottom: 2vh;margin-left: auto;display: block;color:#E7E7E8;">it's</p>
-<a href= "/blog/en" rel="bookmark preload"><p style="max-width: 7vh;height: 7vh;line-height: 6.75vh;font-size: 4vh;text-align: center;margin-left: auto;margin-right: auto;margin-top: 6vh;border: none; background-color: crimson;border-radius: 50%;color:#E7E7E8;">a</p></a>
+  <div id="bubblecontainer" class="curtain-image flush-top-curtain">
+    <div class="curtain-image-image">
+      <div class="curtain-meta">
+        <p id="curtain-button">
+          <a href="/ja" class="curtain-button-side" rel="nofollow bookmark">
+            <span title="japonais">
+              <ruby lang="ja">日本語<rp>(</rp><rt lang="en">japanese</rt><rp>)</rp></ruby>
+            </span>
+          </a> 
+          <a class="curtain-button-center" href="#topofpage" rel="nofollow">
+            <ruby lang="ja">
+              <span title="英語">english</span>
+              <rp>(</rp><rt lang="fr">anglais</rt><rp>)</rp>
+            </ruby>
+          </a> 
+          <a class="curtain-button-side" href="/fr" rel="nofollow bookmark">
+            <ruby lang="fr">
+              <span title="フランス語">français</span>
+              <rp>(</rp><rt lang="en">french</rt><rp>)</rp>
+            </ruby>
+          </a>
+        </p>
+        <div style="text-align:center;width:42px;height:64px;margin:auto;">
+        <a href="#topofpage" class="topofpage" rel="nofollow">
+          <svg class="svg-topofpage" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 64"><path d="M3.55 16.627l17.413 19.215.037-.04.037.04L38.45 16.627 21 35.764 3.55 16.627z" fill="none" stroke="#fff" opacity="0.6" stroke-width="5.145" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </a>
+      </div>
+    </div>
+  </div></div></div>
+
+  <span id="topofpage" class="curtain-content"></span>
+
+  <p style="line-height: 5vh;font-size: 4vh; text-align: center;max-height: 5vh;min-height: 3vh;max-width: 25vw;min-width: 15vw;margin-top: 3vh;margin-right: auto;margin-bottom: 2vh;margin-left: auto;display: block;color:#E7E7E8;">it's</p>
+
+  <a href= "/blog/en" rel="bookmark preload">
+    <p style="max-width: 7vh;height: 7vh;line-height: 6.75vh;font-size: 4vh;text-align: center;margin-left: auto;margin-right: auto;margin-top: 6vh;border: none; background-color: crimson;border-radius: 50%;color:#E7E7E8;">a</p>
+  </a>
 </div>
 
 <div id="docs"></div>
+
 <div id="curtain-docs" class="modular-row showcase" style="
 width: 100%;
 margin-top: -0.8rem;
@@ -35,10 +61,11 @@ background-color: #efc94d;
 align-items: center;
 justify-content: center;
 text-align: center;">
-<a href="/docs/en" rel="bookmark preload"><p style="max-width: 7vh;height: 7vh;line-height: 6.75vh;font-size: 4vh;text-align: center;margin-left: auto;margin-right: auto;margin-top: 2vh;border: none; background-color: crimson;border-radius: 50%;color:#efc94d;"> </p></a>
+  <a href="/docs/en" rel="bookmark preload"><p style="max-width: 7vh;height: 7vh;line-height: 6.75vh;font-size: 4vh;text-align: center;margin-left: auto;margin-right: auto;margin-top: 2vh;border: none; background-color: crimson;border-radius: 50%;color:#efc94d;"> </p></a>
 </div>
 
 <div id="profile"></div>
+
 <div id="curtain-profil" class="modular-row showcase" style="
 width: 100%;
 margin-top: -0.8rem;
@@ -53,58 +80,69 @@ background-color: #B7E2E6;
 align-items: center;
 justify-content: center;
 text-align: center;">
-<a href= "/profile/en" rel="author me bookmark"><p style="max-width: 7vh;height: 7vh;line-height: 6.75vh;font-size: 4vh;text-align: center;margin-left: auto;margin-right: auto;margin-top: 2vh;border: none; background-color: crimson;border-radius: 50%;color:#E7E7E8;">a</p></a>
+  <a href= "/profile/en" rel="author me bookmark"><p style="max-width: 7vh;height: 7vh;line-height: 6.75vh;font-size: 4vh;text-align: center;margin-left: auto;margin-right: auto;margin-top: 2vh;border: none; background-color: crimson;border-radius: 50%;color:#E7E7E8;">a</p></a>
 </div>
 
 <div id="real_time_schedule"></div>
-<div id="contact"></div>
-<div id="curtain-contact" class="modular-row showcase" style="padding-bottom: 20rem;">
-<p>This is a contact form for my site:</p>
-<form name="contact2"
-action="/en/home"
-method="POST"
-id="contact2">
-<div class="form-field">
-<div class="form-label">
-<label class="inline" for="name">Name<span class="required">*</span></label>
-</div>
-<div class="form-data" data-grav-field="text" data-grav-disabled="true" data-grav-default="null">
-<div class="form-input-wrapper">
-<input name="data[name]" value="" type="text" class="curtain-contact-form" id="name" placeholder="Enter your name" autocomplete="on" required="required" />
-</div>
-</div>
-</div>
 
-<div class="form-field">
-<div class="form-label"><label class="inline" for="email">Email<span class="required">*</span></label>
-</div>
-<div class="form-data" data-grav-field="email" data-grav-disabled="true" data-grav-default="null">
-<div class="form-input-wrapper">
-<input name="data[email]" value="" type="email" class="curtain-contact-form" id="email"placeholder="Enter your email address"required="required" />
-</div>
-</div>
-</div>
-<div class="form-field">
-<div class="form-label">
-<label class="inline" for="message">Message<span class="required">*</span></label>
-</div>
-<div class="form-data "
-data-grav-field="textarea"
-data-grav-disabled="true"
-data-grav-default="null"
->
-<div class="form-textarea-wrapper ">
-<textarea name="data[message]" class="curtain-contact-form" id="message"    placeholder="Enter your message" required="required"></textarea>
-</div>
-</div>
-</div>
-<input type="hidden" name="__form-name__" value="contact2" />
-<div class="buttons">
-<button class="button" type="submit">Submit</button>
-<button class="button" type="reset">Reset</button>
-</div>
-<input type="hidden" name="__unique_form_id__" value="gQr8PkME1zet2BY7w9GL" />  <input type="hidden" name="form-nonce" value="f86f4ca5eafdd0a96009549d26916d7b" />
-</form>
+<div id="contact"></div>
+
+<div id="curtain-contact" class="modular-row showcase" style="padding-bottom: 20rem;">
+  <p>This is a contact form for my site:</p>
+  <form name="contact2"
+  action="/en/home"
+  method="POST"
+  id="contact2">
+    <div class="form-field">
+      <div class="form-label">
+        <label class="inline" for="name">Name<span class="required">*</span></label>
+      </div>
+
+      <div class="form-data" data-grav-field="text" data-grav-disabled="true" data-grav-default="null">
+        <div class="form-input-wrapper">
+          <input name="data[name]" value="" type="text" class="curtain-contact-form" id="name" placeholder="Enter your name" autocomplete="on" required="required" />
+        </div>
+      </div>
+    </div>
+
+    <div class="form-field">
+      <div class="form-label"><label class="inline" for="email">Email<span class="required">*</span></label>
+      </div>
+      <div class="form-data" data-grav-field="email" data-grav-disabled="true" data-grav-default="null">
+        <div class="form-input-wrapper">
+          <input name="data[email]" value="" type="email" class="curtain-contact-form" id="email"placeholder="Enter your email address"required="required" />
+        </div>
+      </div>
+    </div>
+
+    <div class="form-field">
+
+      <div class="form-label">
+        <label class="inline" for="message">Message<span class="required">*</span></label>
+      </div>
+
+      <div class="form-data "
+      data-grav-field="textarea"
+      data-grav-disabled="true"
+      data-grav-default="null"
+      >
+        <div class="form-textarea-wrapper ">
+          <textarea name="data[message]" class="curtain-contact-form" id="message"    placeholder="Enter your message" required="required"></textarea>
+        </div>
+      </div>
+
+    </div>
+
+    <input type="hidden" name="__form-name__" value="contact2" />
+
+    <div class="buttons">
+      <button class="button" type="submit">Submit</button>
+      <button class="button" type="reset">Reset</button>
+    </div>
+
+    <input type="hidden" name="__unique_form_id__" value="gQr8PkME1zet2BY7w9GL" />  <input type="hidden" name="form-nonce" value="f86f4ca5eafdd0a96009549d26916d7b" />
+
+  </form>
 </div>
 `;
 
