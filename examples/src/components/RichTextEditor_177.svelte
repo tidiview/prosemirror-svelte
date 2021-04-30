@@ -5,12 +5,12 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-<!-- Page 1 -->
+<!-- Page 1 JA:144 -->
 
 <article>
 
 <hgroup>
-<h1 class="green"><ruby style="color:#555;" lang="fr">La Châsse de Sainte Ursule<rt style="color:#999;" lang="nl">Het Ursulaschrijn</rt></ruby></h1>
+<h1 class="green"><cite><ruby style="color:#555;" lang="fr">La Châsse de Sainte Ursule<rp>(</rp><rt style="color:#999;" lang="nl">Het Ursulaschrijn</rt><rp>)</rp></ruby></cite></h1>
 <h2 class="green">hopital Saint Jean Musée Memling de Bruges</h2>
 </hgroup>
 
@@ -33,7 +33,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1920.jpg 1920w"></picture><figcaption>Châsse de Sainte Ursule, vue générale</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1920.jpg 1920w"></picture><figcaption><cite>Châsse de Sainte Ursule</cite>, vue générale</figcaption>
 </figure>
 
 <div class="notices green">
@@ -188,6 +188,7 @@ Cependant, au cours de la nuit suivante, le pape eut la révélation divine qu'i
 Tenant cela caché au fond de lui, il baptisa beaucoup de ces jeunes filles qui ne l'avaient pas encore été.
 Mais, quand il vit que le moment était venu, après avoir dirigé l'Église pendant un an et onze semaines, comme dix-neuvième successeur de Pierre, il découvrit son projet publiquement, et devant tous renonça à sa dignité et à son office.</p>
 
+
 <!-- Page 3 -->
 
 
@@ -319,7 +320,7 @@ Et alors qu'il recevait l'onction, soudain il cria aux gens qui se trouvaient l�
 Et comme l'abbé lui demandait ce qui se passait et que celui-ci racontait en détailla la promesse de la vierge à son égard, tous se retirèrent; ils revinrent peu après et constatèrent qu'il était parti vers le Seigneur.</p>
 
 <footer>
-<p><span style="color: #3d8b3d;">Jacques de Voragine, <cite>La Légende Dorée</cite>, Chapître 154, “Les Onze Milles Vierges”</span></p>
+  <p><span style="color: #3d8b3d;">Jacques de Voragine, <cite>La Légende Dorée</cite>, Chapître 154, “Les Onze Milles Vierges”</span></p>
 </footer>
 
 </article>
