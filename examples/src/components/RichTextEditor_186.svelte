@@ -11,8 +11,7 @@
   <p><time datetime="2016-09-09">9<sup>th</sup> Sep. 2016</time></p>
 </div>
 
-
-<h1 lang="en"><a href="/blog/en/ihoujin">the stranger</a></h1>
+<h1><cite>the stranger<cite></h1>
 
 <div class="notices green">
   <p>A stranger is ordinarily a person that is coming from another country.<br>
