@@ -5,6 +5,8 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
+<!-- Page 1 -->
+
 <article>
 
 <hgroup>
@@ -31,7 +33,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1920.jpg 1920w"></picture><figcaption><abbr title="Saint">St.</abbr> Ursula Shrine</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1920.jpg 1920w"></picture><figcaption><abbr title="Saint">St.</abbr> Ursula Shrine, overview</figcaption>
 </figure>
 
 <div class="notices green">
@@ -152,7 +154,7 @@ And when they came to Basle they left there their ships and went to Rome afoot.<
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule4-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule4-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule4-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule4-1920.jpg 1920w"></picture><figcaption>“Arrival at Basel”</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule4-1920.jpg 1920w"></picture><figcaption>“Arrival at Basel”<br><q cite="#les-onze-milles-vierges">they left there their ships and went to Rome afoot.</q></figcaption>
 </figure>
 
 <p>At the coming of whom the pope Ciriacus was much glad, because he was born in Britain and had many cousins among them, and he with his clerks received them with all honour.</p>
@@ -176,7 +178,7 @@ And when they came to Basle they left there their ships and went to Rome afoot.<
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule5-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule5-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule5-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule5-1920.jpg 1920w"></picture><figcaption>“Arrival at Rome”</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule5-1920.jpg 1920w"></picture><figcaption>“Arrival at Rome”<br><q cite="#les-onze-milles-vierges">At the coming of whom the pope Ciriacus was much glad, because he was born in Britain and had many cousins among them, and he with his clerks received them with all honour.</q></figcaption>
 </figure>
 
 <p>And that same night it was showed to the pope that he should receive with them the crown of martyrdom, which thing he hid in himself, and baptized many of them that were not then baptized.
