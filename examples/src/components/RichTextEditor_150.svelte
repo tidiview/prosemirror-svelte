@@ -5,78 +5,47 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-<div class="notices red">
-<p>Un étranger est d'ordinaire une personne qui vient d'un autre pays.<br>
-Dans les question-réponses qui suivent, tout se déroule comme si celui qui répond n'est l'étranger <em>de</em> personne d'autre.</p>
+<article>
+
+<div class="list-blog-date">
+  <p><time datetime="2016-09-09">9 Sep. 2016</time></p>
 </div>
-<p>À apprécier avec modération! (l'auteur est une surprise, mais ... chut!)</p>
+
+<h1><cite>l'étranger</cite></h1>
+
+<div class="notices red">
+  <p>Un étranger est d'ordinaire une personne qui vient d'un autre pays.</p>
+  <p>Dans les question-réponses qui suivent, tout se déroule comme si celui qui répond n'est l'étranger <em>de</em> personne d'autre.</p>
+  <p>À apprécier avec modération! (l'auteur est une surprise, mais ... chut!)</p>
+</div>
+
+<h2 class="yellow">Texte de <cite>l'étranger</cite></h2>
+
 <div id="translation-text-rousi">
-<table>
-<thead>
-<tr>
-<th></th>
-<th><span hidden>hidden</span></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><sup>1</sup></td>
-<td>- Qui aimes-tu le mieux, homme énigmatique, dis? ton père, ta mère, ta sœur ou ton frère?</td>
-</tr>
-<tr>
-<td></td>
-<td>- Je n'ai ni père, ni mère, ni sœur, ni frère.</td>
-</tr>
-<tr>
-<td></td>
-<td>- Tes amis?</td>
-</tr>
-<tr>
-<td></td>
-<td>- Vous vous servez là d'une parole dont le sens m'est resté jusqu'à ce jour inconnu.</td>
-</tr>
-<tr>
-<td><sup>5</sup></td>
-<td>- Ta patrie?</td>
-</tr>
-<tr>
-<td></td>
-<td>- J'ignore sous quelle latitude elle est située.</td>
-</tr>
-<tr>
-<td></td>
-<td>- La beauté?</td>
-</tr>
-<tr>
-<td></td>
-<td>- Je l'aimerais volontiers, déesse et immortelle.</td>
-</tr>
-<tr>
-<td></td>
-<td>- L'or?</td>
-</tr>
-<tr>
-<td><sup>10</sup></td>
-<td>- Je le hais comme vous haïssez Dieu.</td>
-</tr>
-<tr>
-<td></td>
-<td>- Eh! qu'aimes-tu donc, extraordinaire étranger?</td>
-</tr>
-<tr>
-<td><sup>12</sup></td>
-<td>- J'aime les nuages... les nuages qui passent... là-bas... là-bas... les merveilleux nuages!</td>
-</tr>
-</tbody>
-</table>
+<ol class="doc">
+  <li value="1">- Qui aimes-tu le mieux, homme énigmatique, dis? ton père, ta mère, ta sœur ou ton frère?</li>
+  <li>- Je n'ai ni père, ni mère, ni sœur, ni frère.</li>
+  <li>- Tes amis?</li>
+  <li>- Vous vous servez là d'une parole dont le sens m'est resté jusqu'à ce jour inconnu.</li>
+  <li value="5">- Ta patrie?</li>
+  <li>- J'ignore sous quelle latitude elle est située.</li>
+  <li>- La beauté?</li>
+  <li>- Je l'aimerais volontiers, déesse et immortelle.</li>
+  <li>- L'or?</li>
+  <li value="1">- Je le hais comme vous haïssez Dieu.</li>
+  <li>- Eh! qu'aimes-tu donc, extraordinaire étranger?</li>
+  <li value="1">- J'aime les nuages... les nuages qui passent... là-bas... là-bas... les merveilleux nuages!</li>
+</ol>
 </div>
-<div class="notices red">
-<dl>
-<dt>Texte：</dt>
-<dd><a href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" title="https://fr.wikipedia.org/wiki/Charles_Baudelaire">Charles Baudelaire</a>, "l'étranger".</dd>
-</dl>
-<p>Ce poème a été mis en musique et interprété par <a href="https://fr.wikipedia.org/wiki/Léo_Ferré" title="https://fr.wikipedia.org/wiki/L%C3%A9o_Ferr%C3%A9">Léo Ferré</a> en 1967 sur son album <a href="https://fr.wikipedia.org/wiki/Léo_Ferré_chante_Baudelaire" title="https://fr.wikipedia.org/wiki/L%C3%A9o_Ferr%C3%A9_chante_Baudelaire">Léo Ferré chante Baudelaire</a>.  </p>
-</div
+
+<aside>
+  <div class="notices red">
+    <p>texte：<a href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" title="https://fr.wikipedia.org/wiki/Charles_Baudelaire">Charles Baudelaire</a>, "l'étranger".</p>
+    <p>Ce poème a été mis en musique et interprété par <a href="https://fr.wikipedia.org/wiki/Léo_Ferré" title="https://fr.wikipedia.org/wiki/Léo_Ferré">Léo Ferré</a> en 1967 sur son album <a href="https://fr.wikipedia.org/wiki/Léo_Ferré_chante_Baudelaire" title="https://fr.wikipedia.org/wiki/Léo_Ferré_chante_Baudelaire">Léo Ferré chante Baudelaire</a>.</p>
+  </div>
+</aside>
+
+</article>
 `;
 
   let focusEditor;
