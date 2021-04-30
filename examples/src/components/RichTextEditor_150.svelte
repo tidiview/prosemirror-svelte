@@ -32,16 +32,16 @@
   <li>- La beauté?</li>
   <li>- Je l'aimerais volontiers, déesse et immortelle.</li>
   <li>- L'or?</li>
-  <li value="1">- Je le hais comme vous haïssez Dieu.</li>
+  <li value="10">- Je le hais comme vous haïssez Dieu.</li>
   <li>- Eh! qu'aimes-tu donc, extraordinaire étranger?</li>
-  <li value="1">- J'aime les nuages... les nuages qui passent... là-bas... là-bas... les merveilleux nuages!</li>
+  <li value="12">- J'aime les nuages... les nuages qui passent... là-bas... là-bas... les merveilleux nuages!</li>
 </ol>
 </div>
 
 <aside>
   <div class="notices red">
     <p>texte：<a href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" title="https://fr.wikipedia.org/wiki/Charles_Baudelaire">Charles Baudelaire</a>, "l'étranger".</p>
-    <p>Ce poème a été mis en musique et interprété par <a href="https://fr.wikipedia.org/wiki/Léo_Ferré" title="https://fr.wikipedia.org/wiki/Léo_Ferré">Léo Ferré</a> en 1967 sur son album <a href="https://fr.wikipedia.org/wiki/Léo_Ferré_chante_Baudelaire" title="https://fr.wikipedia.org/wiki/Léo_Ferré_chante_Baudelaire">Léo Ferré chante Baudelaire</a>.</p>
+    <p>Ce poème a été mis en musique et interprété par <a href="https://fr.wikipedia.org/wiki/Léo_Ferré" title="https://fr.wikipedia.org/wiki/Léo_Ferré">Léo Ferré</a> en <time datetime="1967">1967</time> sur son album <a href="https://fr.wikipedia.org/wiki/Léo_Ferré_chante_Baudelaire" title="https://fr.wikipedia.org/wiki/Léo_Ferré_chante_Baudelaire">Léo Ferré chante Baudelaire</a>.</p>
   </div>
 </aside>
 
