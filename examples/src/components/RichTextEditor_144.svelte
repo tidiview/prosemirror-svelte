@@ -5,27 +5,37 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
-<div id="body-inner">
-<h1 class="notices green"><ruby lang="ja" style="color:#555;">聖ウルスラの<wbr>聖遺物箱<rt lang="nl" style="color:#999;">Het Ursulaschrijn</rt></ruby></h1>
-<figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-280.webp 280w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-380.webp 380w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-480.webp 480w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-640.webp 640w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1_700x1037.webp 700w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-840.webp 840w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1280.webp 1280w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1600.webp 1600w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1_700x1037.jpg" title="聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-280.jpg 280w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-380.jpg 380w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-480.jpg 480w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-640.jpg 640w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1_700x1037.jpg 700w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-840.jpg 840w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1280.jpg 1280w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1600.jpg 1600w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1920.jpg 1920w"></picture><figcaption>《聖ウルスラの聖遺物箱》</figcaption></figure>
+<!-- Page 1 FR:177 -->
+
+<article>
+
+<hgroup>
+<h1 class="notices green"><cite><ruby lang="ja" style="color:#555;">聖ウルスラの<wbr>聖遺物箱<rp>（</rp><rt lang="nl" style="color:#999;">Het Ursulaschrijn</rt><rp>）</rp></ruby></cite></h1>
+<h2 class="green">メムリンク美術館、聖ヨハネ施療院、ブルージュ</h2>
+</hgroup>
+
+<figure>
+  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-280.webp 280w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-380.webp 380w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-480.webp 480w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-640.webp 640w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1_700x1037.webp 700w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-840.webp 840w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1280.webp 1280w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1600.webp 1600w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1_700x1037.jpg" title="聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-280.jpg 280w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-380.jpg 380w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-480.jpg 480w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-640.jpg 640w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1_700x1037.jpg 700w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-840.jpg 840w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1280.jpg 1280w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1600.jpg 1600w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1920.jpg 1920w"></picture><figcaption>《聖ウルスラの聖遺物箱》</figcaption>
+</figure>
+
 <div class="notices green">
 <p><a href="#note_bruges" title="ブルージュ" id="bruges"><ruby lang="ja">ブルージュ<rp>(</rp><rt lang="fr">Bruges</rt><rp>)</rp></ruby lang="ja"></a>の<ruby lang="ja">聖<rp>(</rp><rt lang="nl">Sint</rt><rp>)</rp>ヨハネ<rp>(</rp><rt lang="nl">Jans</rt><rp>)</rp>施療院<rp>(</rp><rt lang="nl">hospitaal</rt><rp>)</rp></ruby lang="ja">だった<ruby>メムリンク<rp>(</rp><rt>Memling</rt><rp>)</rp></ruby>美術館に、<ruby lang="ja">聖ウルスラの聖遺物箱<rp>(</rp><rt lang="nl">Het&#160;Ursulaschrijn</rt><rp>)</rp></ruby lang="ja">が展示されている。<br>
 初期フランドル派の巨匠のひとりである<a href="https://ja.wikipedia.org/wiki/ハンス・メムリンク" title="https://ja.wikipedia.org/wiki/ハンス・メムリンク"><ruby lang="ja">ハンス<rp>(</rp><rt lang="en">Hans</rt><rp>)</rp>・<rp>(</rp><rt lang="en"></rt><rp>)</rp>メムリンク<rp>(</rp><rt lang="en">MEMLING</rt><rp>)</rp></ruby lang="ja"></a>の作品で、１４８９年に祝福儀式を証明する史料が残っているため、ちょっと前に製作されたと断言できる。<br>
@@ -34,7 +44,9 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 １５世紀だと、聖ウルスラ伝説はキリスト教の主な著書といえる<a href="https://ja.wikipedia.org/wiki/ヤコブス・デ・ヴォラギネ" title="https://ja.wikipedia.org/wiki/ヤコブス・デ・ヴォラギネ"><ruby lang="ja">ヤコブス<rp>(</rp><rt lang="la">Jacobus</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>デ<rp>(</rp><rt lang="la">de</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>ヴォラギネ<rp>(</rp><rt lang="la">Voragine</rt><rp>)</rp></ruby lang="ja"></a>が著した『<a href="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" title="https://ja.wikipedia.org/wiki/レゲンダ・アウレア"><ruby>黄金伝説<rp>(</rp><rt>レゲンダ・アウレア</rt><rp>)</rp></ruby></a>』の「一万一千処女」章で知られているため、メムリンクがこの作品のため、この文書に基づいたとも断言するのは可笑しくありません。<br>
 聖遺物箱では、たった六つの細密画だけで伝説が正確に見事に物語られていて、よりよく評価するよう、以下、写真と文書を対照的に提供している。</p>
 </div>
-<h2 class="green">一万一千処女</strong></h2>
+
+<h2 class="green">一万一千処女</h2>
+
 <p>一万一千人の乙女たちが殉教したいきさつは、以下のとおりである。<br>
 昔<ruby lang="ja">ブリタニア<rp>(</rp><rt lang="la">Britannia</rt><rp>)</rp></ruby lang="ja">に<ruby lang="ja">ノトゥス<rp>(</rp><rt lang="la">Nothus</rt><rp>)</rp></ruby lang="ja">もしくは<ruby lang="ja">マウルス<rp>(</rp><rt lang="la">Maurus</rt><rp>)</rp></ruby lang="ja">という名の<ruby>敬<rp>(</rp><rt>けい</rt><rp>)</rp>度<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>なキリスト教徒の王がいた。王には娘がひとりあって、その名を<ruby>ウルスラ<rp>(</rp><rt>Ursula</rt><rp>)</rp></ruby>といった。
 品行ただしく、聡明で、みめかたちも美しかったので、その評判は、津々浦々にまで聞こえていた。<br>
@@ -47,43 +59,51 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 ブリタニアの王は、使者の口上を聞いて、困ったことになったものだと頭をかかえこんだ。
 というのは、キリストの教えを信仰しているわが娘を偽神の崇拝者にあたえる気にはなれなかったからである。
 それに、娘がこの結婚にけっして同意しないであろうことも、おおよそ見当がついていた。</p>
-<figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-280.webp 280w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-380.webp 380w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-480.webp 480w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-640.webp 640w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule_700x395.webp 700w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-840.webp 840w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-1280.webp 1280w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-1600.webp 1600w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule_700x395.jpg" title="《ケルンでの到着》、《バーゼルでの到着》、《ローマでの到着》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="《ケルンでの到着》、《バーゼルでの到着》、《ローマでの到着》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-280.jpg 280w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-380.jpg 380w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-480.jpg 480w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-640.jpg 640w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule_700x395.jpg 700w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-840.jpg 840w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-1280.jpg 1280w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-1600.jpg 1600w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-1920.jpg 1920w"></picture><figcaption>《<ruby lang="ja">ケルン<rt lang="la">Colonia</rt></ruby>での到着》、《<ruby lang="ja">バーゼル<rt lang="la">Basilea</rt></ruby>での到着》、《<ruby lang="ja">ローマ<rt lang="la">Roma</rt></ruby>での到着》</figcaption></figure>
+
+<figure>
+  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-280.webp 280w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-380.webp 380w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-480.webp 480w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-640.webp 640w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule_700x395.webp 700w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-840.webp 840w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-1280.webp 1280w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-1600.webp 1600w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule_700x395.jpg" title="《ケルンでの到着》、《バーゼルでの到着》、《ローマでの到着》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="《ケルンでの到着》、《バーゼルでの到着》、《ローマでの到着》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-280.jpg 280w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-380.jpg 380w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-480.jpg 480w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-640.jpg 640w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule_700x395.jpg 700w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-840.jpg 840w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-1280.jpg 1280w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-1600.jpg 1600w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-1920.jpg 1920w"></picture><figcaption>《<ruby lang="ja">ケルン<rt lang="la">Colonia</rt></ruby>での到着》、《<ruby lang="ja">バーゼル<rt lang="la">Basilea</rt></ruby>での到着》、《<ruby lang="ja">ローマ<rt lang="la">Roma</rt></ruby>での到着》</figcaption>
+</figure>
+
 <p>他方では、イングランド王の<ruby>兇<rp>(</rp><rt>きょう</rt><rp>)</rp>死<rp>(</rp><rt>し</rt><rp>)</rp>暴<rp>(</rp><rt>ぼう</rt><rp>)</rp></ruby>さがおそろしかった。
 けれども、ウルスラは、天主のおさとしがあったのであろうか、イングランド王の申し出をお受けなさいと父王にすすめた。
 ただし、イングランド王とお父さまで十人の乙女を<ruby>選<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>りすぐって、わたしの道づれにつけ、わたしと乙女たちにそれぞれ侍女を千人ずつあたえてください、そして、わたしたちが乗る船を何<ruby>艘<rp>(</rp><rt>そう</rt><rp>)</rp></ruby>か用意してください、それから、わたしが純潔をささげるまでに三年間の<ruby>猶<rp>(</rp><rt>ゆ</rt><rp>)</rp>予<rp>(</rp><rt>うよ</rt><rp>)</rp></ruby>をみとめてください、そのあいだにイングランドの王子は洗礼を受け、キリスト教の教義を三年間勉強してくださらなくてはなりません、これがわたしの条件です――ウルスラは、父親にそう言った。</p>
-<figure><picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-280.webp 280w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-380.webp 380w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-480.webp 480w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-640.webp 640w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2_700x1071.webp 700w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-840.webp 840w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-1280.webp 1280w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-1600.webp 1600w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2_700x1071.jpg" title="《守護者である聖ウルスラ》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="《守護者である聖ウルスラ》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-280.jpg 280w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-380.jpg 380w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-480.jpg 480w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-640.jpg 640w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2_700x1071.jpg 700w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-840.jpg 840w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-1280.jpg 1280w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-1600.jpg 1600w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-1920.jpg 1920w"></picture><figcaption>《守護者である聖ウルスラ》</figcaption></figure>
+
+<figure>
+  <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-280.webp 280w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-380.webp 380w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-480.webp 480w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-640.webp 640w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2_700x1071.webp 700w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-840.webp 840w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-1280.webp 1280w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-1600.webp 1600w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2_700x1071.jpg" title="《守護者である聖ウルスラ》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="《守護者である聖ウルスラ》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-280.jpg 280w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-380.jpg 380w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-480.jpg 480w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-640.jpg 640w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2_700x1071.jpg 700w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-840.jpg 840w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-1280.jpg 1280w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-1600.jpg 1600w,
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-1920.jpg 1920w"></picture><figcaption>《守護者である聖ウルスラ》</figcaption>
+</figure>
+
 <p>これは、たしかに名案であった。
 この難題をつきつければ、イングランドの王子もその野望を思いとどまるだろう、思いとどまってくれなければ、自分とこれらの大勢の乙女たちを天主にささげようというのが、ウルスラのひそかな念願であった。
 ところが、王子のほうは、なにひとつ文句をつけずにウルスラの条件をのみ、みずから父のイングランド王を熱心に説きふせた。
@@ -102,19 +122,25 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <p>
 </div>
 
-<hr>
 
-<div id="body-inner">
-<h2 id="commentaires" class="green">註釈</strong></h2>
-<h3 id="note_bruges" class="green">ブルージュ</h3>
+
+<aside>
+
+<h3 id="commentaires" class="green">註釈</strong></h3>
+
+<h4 id="note_bruges" class="green note">ブルージュ</h4>
+
 <div class="notices green">
-<p><ruby lang="ja">ブルージュ<rp>(</rp><rt lang="fr">Bruges</rt><rp>)</rp></ruby lang="ja"> は、フランス語から由来している歴史的な呼称で、現在、フラマン語での <a href="https://ja.wikipedia.org/wiki/ブルッヘ" title="https://ja.wikipedia.org/wiki/ブルッヘ"><ruby lang="ja">ブルッヘ<rp>(</rp><rt lang="nl">Brugge</rt><rp>)</rp></ruby lang="ja"></a> のほうに改める推薦もある。</p>
-<hr>
-<p>註に戻る：　<a href="#bruges" title="ブルージュ">↑</a></p>
-</div>
+  <p><ruby lang="ja">ブルージュ<rp>(</rp><rt lang="fr">Bruges</rt><rp>)</rp></ruby lang="ja"> は、フランス語から由来している歴史的な呼称で、現在、フラマン語での <a href="https://ja.wikipedia.org/wiki/ブルッヘ" title="https://ja.wikipedia.org/wiki/ブルッヘ"><ruby lang="ja">ブルッヘ<rp>(</rp><rt lang="nl">Brugge</rt><rp>)</rp></ruby lang="ja"></a> のほうに改める推薦もある。</p>
 </div>
 
-<!-- Page 2 --><hr>
+<footer>
+  <p>註に戻る：　<a href="#bruges" title="ブルージュ">↑</a></p>
+</footer>
+
+</aside>
+
+<!-- Page 2 -->
 
 <div id="body-inner">
 				<p>国の政治は、あとに残った王子のひとりが引き受けることになっていた。
@@ -196,26 +222,26 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 聖<ruby lang="ja">ペトロ<rp>(</rp><rt lang="la">Petro</rt><rp>)</rp></ruby lang="ja">からかぞえて十九代目の教皇として彼が教会を統治した期間は、一年と十一週間であった。</p>
 </div>
 
-<hr>
 
-<div id="body-inner">
-<h2 id="commentaires" class="green">註釈</strong></h2>
-<h3 id="note_tyella" class="green">テュエラ</h3>
+
+<aside>
+<h3 id="commentaires" class="green">註釈</strong></h3>
+<h4 id="note_tyella" class="green note">テュエラ</h4>
 <div class="notices green">
 <p><ruby lang="ja">テュエラ<rp>(</rp><rt lang="la">Tyella</rt><rp>)</rp></ruby lang="ja"> というところは北海海岸海岸であろうが、未詳。
 海上で嵐に流され、オランダのワール川（ライン川下流の分流）の河口東岸に漂着し、ここからライン川をさかのぼってケルンにいたったのであろう。</p>
-<hr>
+
 <p>註に戻る：　<a href="#tyella" title="テュエラ">↑</a></p>
 </div>
 <h3 id="note_cyriacus" class="green">キュリアクス</h3>
 <div class="notices green">
 <p>歴代教皇表にこの名の教皇はありません、実在はいまだに不明です。</p>
-<hr>
+
 <p>註に戻る：　<a href="#cyriacus" title="キュリアクス">↑</a></p>
 </div>
-</div>
+</aside>
 
-<!-- Page 3 --><hr>
+<!-- Page 3 -->
 
 <div id="body-inner">
 <p>これを聞いた人びとは、こぞって異議を申し立てた。
@@ -353,7 +379,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <p>
 </div>
 
-<hr>
+
 
 <div id="body-inner">
 				</p>
@@ -365,13 +391,13 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <ruby>オロンテス<rp>(</rp><rt>Orontes</rt><rp>)</rp></ruby>川にのぞみ、現在はトルコ東南部、シリアとの国境に近い小都市<ruby>アンタキヤ<rp>(</rp><rt>Antakya</rt><rp>)</rp></ruby>であるが、ローマ帝国時代にはローマ、<ruby>アレクサンドリア<rp>(</rp><rt>Alexandria</rt><rp>)</rp></ruby>につぐ地中海第三の大都市であった。
 <ruby>イエルサレム<rp>(</rp><rt>Orontes</rt><rp>)</rp></ruby> につぐ初代キリスト教会の中心地、 パウロを中心とする異邦人伝道の一大拠点。
 また、３～５世紀には一連のすぐれた神学思想家をうみ、いわゆる〈アンティオケイア学派〉を形成した。</p>
-<hr>
+
 <p>註に戻る：　<a href="#antioche" title="アンティオケイア">↑</a></p>
 </div>
 <h3 id="note_luca" class="green">ルッカ</h3>
 <div class="notices green">
 <p><a href="https://ja.wikipedia.org/wiki/ルッカ" title="https://ja.wikipedia.org/wiki/ルッカ"><ruby lang="ja">ルッカ<rp>(</rp><rt lang="it">Lucca</rt><rp>)</rp></ruby lang="ja"></a>はイタリア中部、フィレンツェの西北西７３キロにある町。</p>
-<hr>
+
 <p>註に戻る：　<a href="#luca" title="ルッカ">↑</a></p>
 </div>
 <h3 id="note_cordula" class="green">コルドゥラ</h3>
@@ -379,7 +405,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <p><ruby lang="ja">コルドゥラ<rp>(</rp><rt lang="la">Cordula</rt><rp>)</rp></ruby lang="ja">は聖女。
 祝日は、一万一千処女の祝日の翌日にあたる１０・２２。<br>
 この聖女の名前と聖伝は、ノイエンへーアゼ（ドイツ中部、ケルンとカッセルの両市の中間に位置する山村）の聖へルムトルディス（またはへルムトルーデ、没９５０年ごろ、祝５・３１）という隠修女が見たという幻視にもとづいている。</p>
-<hr>
+
 <p>註に戻る：　<a href="#cordula" title="コルドゥラ">↑</a></p>
 </div>
 <h3 id="note_constantinus" class="green">コンスタンティヌス</h3>
@@ -388,7 +414,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 キリスト教の最初の公認者、その保護・育成につとめ、みずから〈十三人目の使徒〉をもって任じ、第一回ニカイア公会議によってアリウス派を異端とした。
 ３３０年都をローマからビザンティウムに移し、これをコンスタンティノポリスと改名。</p>
 <p>自身はずっと<ruby>常勝太陽神<rp>(</rp><rt>ソル・インウイクトウス</rt><rp>)</rp></ruby>の信者であったが、臨終の床で受洗した。</p>
-<hr>
+
 <p>註に戻る：　<a href="#constantinus" title="ブルージュ">↑</a></p>
 </div>
 <h3 id="note_marcianus" class="green">マルキアヌス</h3>
@@ -396,7 +422,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <p>ラテン名はフラウィアヌス。
 コンスタンティノポリスの総大司教（位４４６～４４９）。
 正統信仰の護持者として当時のキリスト単性論論争に重要な役割をはたした。</p>
-<hr>
+
 <p>註に戻る：　<a href="#marcianus" title="マルキアヌス">↑</a></p>
 </div>
 <h3 id="note_notrepere" class="green">主の祈り</h3>
@@ -437,7 +463,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <td>悪からお救いください。』</td></tr>
 </tbody>
 </table>
-<hr>
+
 <p>註に戻る：　<a href="#notrepere" title="主の祈り">↑</a></p>
 </div>
 <h3 id="note_sacrement" class="green">終油の秘蹟</h3>
@@ -445,10 +471,11 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-sa
 <p>司祭が重い病人の眼、鼻、耳、ロ、手足に油で十字架をしるしながら罪の赦しと聖寵を祈ることを〈終油の秘蹟〉という。
 用いられる油は、聖別されたオリヴ油である。
 ここでは臨終を迎えている意。</p>
-<hr>
+
 <p>註に戻る：　<a href="#sacrement" title="終油の秘蹟">↑</a></p>
 </div>
-</div>
+
+</article>
 `;
 
 
