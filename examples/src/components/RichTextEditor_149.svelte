@@ -5,102 +5,73 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
+<article><!-- JA:108 -->
+
 <div class="list-blog-date">
-<p><span>17</span><sup> </sup><i class="fa fa-calendar-o fa-2x"></i></p>
-<p>Déc.</p>
-<p><span>2015</span></p>
+<p><time datetime="2015-12-17">17 Déc. 2015</time></p>
 </div>
-<h1 class="green"><a href="/blog/fr/rousi" rel="bookmark">qui triomphe de lui-même a la force de l'âme</a></h1>
-</div>
-<div class="list-blog-padding lang-font" lang="fr">  
+
+<hgroup>
+<h1 class="green">qui triomphe de lui-même a la force de l'âme</h1>
+<h2 class="green">Lao-Tseu, <cite><ruby>Dao&#160de&#160jing<rp>(</rp><rt>livre&#160de&#160la&#160voie&#160et&#160de&#160la&#160vertu</rt><rp>)</rp></ruby></cite>,  <abbr>33<sup>ème</sup></abbr> chapître</h2>
+</hgroup>
+
+<div class="list-blog-padding lang-font">
+
 <div class="notices green">
 <p>Quelle leçon que ce chapître 33!</p>
 </div>
-<h2 class="green"><a href="https://fr.wikipedia.org/wiki/Lao_Tseu" title="https://fr.wikipedia.org/wiki/Lao_Tseu"><ruby lang="ja">老<rt lang="fr">Lao</rt lang="fr">&#160<rt lang="fr">-</rt lang="fr">子<rt lang="fr">Tseu</rt></ruby></a>, chapître 33</h2>
+
+<h2 class="green">
+  <a href="https://fr.wikipedia.org/wiki/Lao_Tseu" title="https://fr.wikipedia.org/wiki/Lao_Tseu">
+    <ruby lang="ja">老
+      <rp>(</rp><rt lang="fr">Lao</rt><rp>)</rp>
+      &#160
+      <rp>(</rp><rt lang="fr">-</rt><rp>)</rp>
+      子
+      <rp>(</rp><rt lang="fr">Tseu</rt><rp>)</rp>
+    </ruby>
+  </a>
+  <cite><ruby lang="ja">道徳経<rp>（</rp><rt lang="fr">Dao&#160de&#160jing</rt><rp>）</rp></ruby></cite>
+  <ruby lang="ja">第三十三<rp>（</rp><rt lang="fr">trente-troisième</rt><rp>）</rp>&nbsp<rp>（</rp><rt lang="fr">&nbsp</rt><rp>）</rp>章<rp>（</rp><rt lang="fr">chapître</rt><rp>）</rp></ruby>
+</h2>
+
 <div id="display-text-rousi">
 <div id="display-sub-text-rousi">
-<table>
-<thead>
-<tr>
-<th></th>
-<th><span hidden>hidden</span></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><sup>１</sup></td>
-<td>知人者智、</td>
-</tr>
-<tr>
-<td><sup>２</sup></td>
-<td>自知者明、</td>
-</tr>
-<tr>
-<td><sup>３</sup></td>
-<td>勝人者有力、</td>
-</tr>
-<tr>
-<td><sup>４</sup></td>
-<td> 自勝者強、</td>
-</tr>
-<tr>
-<td><sup>５</sup></td>
-<td>知足者富強行者有志、</td>
-</tr>
-<tr>
-<td><sup>６</sup></td>
-<td>不失其所者久、</td>
-</tr>
-<tr>
-<td><sup>７</sup></td>
-<td>死而不亡者寿、</td>
-</tr>
-</tbody>
-</table>
+
+<ol class="doc">
+  <li value="1">知人者智、</li>
+  <li value="2">自知者明、</li>
+  <li value="3">勝人者有力、</li>
+  <li value="4">自勝者強、</li>
+  <li value="5">知足者富強行者有志、</li>
+  <li value="6">不失其所者久、</li>
+  <li value="7">死而不亡者寿、</li>
+</ol>
+
 </div>
+
 <div id="translation-text-rousi">
 <h6 class="left" class="green">traduction</h6>
-<table>
-<thead>
-<tr>
-<th></th>
-<th><span hidden>hidden</span></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>Qui connaît les hommes est clairvoyant</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Qui se connaît est éclairé</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Qui triomphe des hommes a de la force</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Qui triomphe de lui-même est fort</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Qui connaît les limites de son entendement est riche, qui sait se tenir a de la volonté</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Qui ne s'est pas trompé de lieu est éternel</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Même lorsqu'il meurt sa mémoire demeure</td>
-</tr>
-</tbody>
-</table>
+
+<ol class="doc">
+<li value="1">Qui connaît les hommes est clairvoyant</li>
+<li value="2">Qui se connaît est éclairé</li>
+<li value="3">Qui triomphe des hommes a de la force</li>
+<li value="4">Qui triomphe de lui-même est fort</li>
+<li value="5">Qui connaît les limites de son entendement est riche, qui sait se tenir a de la volonté</li>
+<li value="6">Qui ne s'est pas trompé de lieu est éternel</li>
+<li value="7">Même lorsqu'il meurt sa mémoire demeure</li>
+</ol>
+
 </div>
 </div>
-<p><span style="color: #3d8b3d;">source:  traduction originale</span></p></div>
+
+<footer>
+  <p><span style="color: #3d8b3d;">source:  traduction originale</span></p></div>
+</footer>
+
+</article>
 `;
 
   let focusEditor;
