@@ -220,7 +220,7 @@
 <p><span style="width: 260px;float: left;">contact: </span><wbr><a href="http://www.francois-vidit.com/fr#contact" title="https://www.francois-vidit.com/fr#contact">ici</a></p>
 
 <aside>
-  <p id="fn:4" class="no-puce"><dfn><i><abbr title="Association des Guide-Interprètes de langue Japonaise">AGIJ</abbr></i></dfn>: Association des Guide-Interprètes de langue Japonaise&nbsp;<a href="#fnref1:4">↩</a></p>
+  <p id="fn:4" class="no-puce"><dfn><i><abbr title="Association des Guide-Interprètes de langue Japonaise">AGIJ</abbr></i></dfn>: <a href="#fnref1:4"" title="#fnref1:4"> Association des Guide-Interprètes de langue Japonaise&nbsp;↩</a></p>
 </aside>
 
 </div>
