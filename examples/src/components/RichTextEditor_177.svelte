@@ -103,7 +103,6 @@ De toutes parts, donc, des jeunes filles affluent, de toutes parts des hommes ac
 Et beaucoup d'évêques les rejoignirent pour partir avec elles: parmi eux se trouvait Pantulus, évêque de Bâle, qui les conduisit jusqu'à Rome et qui, à son retour, reçut avec elles le martyre.</p>
 <p>Il y avait aussi sainte Gérasine, reine de Sicile qui, de loup qu’il était, avait, pour ainsi dire, transformé en agneau son mari, un roi très cruel; elle était la sœur de l'évêque Macirisius et de Darie, mère de sainte Ursule.
 Informée en secret par une lettre du père de sainte Ursule, suivant l'inspiration divine, elle laissa immédiatement son royaume aux mains d'un de ses fils et navigua jusqu'en Bretagne avec ses quatre filles, Babille, Julienne, Victoire et Aurée, et aussi avec son petit Adrien, qui par amour de ses soeurs s'était joint de lui-meme au pèlerinage.</p>
-</div>
 
 <!-- Page 2 -->
 
@@ -322,7 +321,7 @@ Et comme l'abbé lui demandait ce qui se passait et que celui-ci racontait en d�
 <footer>
 <p><span style="color: #3d8b3d;">Jacques de Voragine, <cite>La Légende Dorée</cite>, Chapître 154, “Les Onze Milles Vierges”</span></p>
 </footer>
-</article>
+
 </article>
 `;
 
