@@ -101,7 +101,6 @@ She, by the inspiration of God, put herself in the way with her four daughters, 
 
 <!-- Page 2 -->
 
-<div id="body-inner">
 <p>And by the counsel of this queen the virgins were gathered together from divers realms, and she was leader of them, and at the last she suffered martyrdom with them.
 And then, the condition made, all things were made ready.
 Then the queen showed her counsel to the knights of her company, and made them all to swear this new chivalry; and then began they to make divers plays and games of battle, as to run here and there, and feigned many manner of plays.
@@ -186,7 +185,7 @@ And when he saw time convenable, when he had governed the church one year and el
 
 <!-- Page 3 -->
 
-<div id="body-inner">
+
 <p>But all men gainsaid it, and especially the cardinals, which supposed that he trespassed, leaving the glory of the papacy and would go after these foolish virgins, but he would not agree to abide, but ordained an holy man to occupy in his place, which was named Ametus.
 And because he left the see apostolic against the will of the clergy, the clerks put out his name of the catalogue of popes.
 And all the grace that he had gotten in his time, this holy company of women made him for to leave it.</p>
