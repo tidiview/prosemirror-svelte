@@ -141,7 +141,7 @@ text-align: center;">
          
   <div class="form-field">
     <div class="form-label">
-      <label class="inline" for="message">伝言<span class="required">*</span>/label>
+      <label class="inline" for="message">伝言<span class="required">*</span></label>
     </div>
     <div class="form-data" data-grav-field="textarea" data-grav-disabled="true" data-grav-default="null">
       <div class="form-textarea-wrapper">
