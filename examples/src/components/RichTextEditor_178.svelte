@@ -51,7 +51,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin1-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin1-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin1-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin1-1920.jpg 1920w"></picture><figcaption>“Diptyque de Maarten van Nieuwenhove”, vue d'ensemble du dispositif d'exposition</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin1-1920.jpg 1920w"></picture><figcaption><cite>Diptyque de Maarten van Nieuwenhove</cite>, vue d'ensemble du dispositif d'exposition</figcaption>
 </figure>
 
 <figure>
@@ -71,7 +71,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin2-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin2-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin2-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin2-1920.jpg1920w"></picture><figcaption>“Diptyque de Maarten van Nieuwenhove”, vue générale</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin2-1920.jpg1920w"></picture><figcaption><cite>Diptyque de Maarten van Nieuwenhove</cite>, vue générale</figcaption>
 </figure>
 
 
@@ -95,7 +95,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin3-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin3-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin3-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin3-1920.jpg 1920w"></picture><figcaption>“Diptyque de Maarten van Nieuwenhove”</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin3-1920.jpg 1920w"></picture><figcaption><cite>Diptyque de Maarten van Nieuwenhove</cite></figcaption>
 </figure>
 
 <figure>
@@ -185,8 +185,9 @@
 </figure>
 
 <footer>
-<p><span style="color: #3d8b3d;">Hans MEMLING, <cite>Diptyque de Maarten van Nieuwenhove</cite></span></p>
+  <p><span style="color: #3d8b3d;">Hans MEMLING, <cite>Diptyque de Maarten van Nieuwenhove</cite></span></p>
 </footer>
+
 </article>
 `;
 
