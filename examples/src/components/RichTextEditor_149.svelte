@@ -8,7 +8,7 @@
 <article><!-- JA:108 -->
 
 <div class="list-blog-date">
-<p><time datetime="2015-12-17">17 Déc. 2015</time></p>
+<p><time datetime="2015-12-17">17 <abbr title="décembre">Déc.</abbr> 2015</time></p>
 </div>
 
 <hgroup>
