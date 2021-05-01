@@ -13,8 +13,8 @@
     "LICENSE"
   ],
   "scripts": {
-    "dev": "svite",
-    "build": "svite build"
+    "dev": "vite",
+    "build": "vite build"
   },
   "repository": "https://github.com/christianheine/prosemirror-svelte",
   "bugs": {
@@ -26,6 +26,7 @@
     "editor"
   ],
   "dependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.9",
     "prosemirror-commands": "^1.1.2",
     "prosemirror-dropcursor": "^1.3.2",
     "prosemirror-gapcursor": "^1.1.2",
@@ -36,11 +37,11 @@
     "prosemirror-schema-basic": "^1.1.2",
     "prosemirror-schema-list": "^1.1.2",
     "prosemirror-state": "^1.3.2",
-    "prosemirror-view": "^1.13.7"
+    "prosemirror-view": "^1.13.7",
+    "vite": "2"
   },
   "devDependencies": {
     "svelte": "^3.29.7",
-    "svelte-hmr": "0.12.2",
-    "svite": "latest"
+    "svelte-hmr": "0.14.3"
   }
 }
