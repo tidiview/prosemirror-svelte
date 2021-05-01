@@ -45,7 +45,7 @@
 <p>聖遺物箱では、たった六つの細密画だけで伝説が正確に見事に物語られていて、よりよく評価するよう、以下、写真と文書を対照的に提供している。</p>
 </div>
 
-<h2 class="green">一万一千処女</h2>
+<h2 id="les-onze-milles-vierges" class="green">一万一千処女</h2>
 
 <p>一万一千人の乙女たちが殉教したいきさつは、以下のとおりである。</p>
 <p>昔<ruby lang="ja">ブリタニア<rp>（</rp><rt lang="la">Britannia</rt><rp>）</rp></ruby>に<ruby lang="ja">ノトゥス<rp>（</rp><rt lang="la">Nothus</rt><rp>）</rp></ruby>もしくは<ruby lang="ja">マウルス<rp>（</rp><rt lang="la">Maurus</rt><rp>）</rp></ruby>という名の<ruby>敬<rp>（</rp><rt>けい</rt><rp>）</rp>度<rp>（</rp><rt>けん</rt><rp>）</rp></ruby>なキリスト教徒の王がいた。王には娘がひとりあって、その名を<ruby>ウルスラ<rp>（</rp><rt>Ursula</rt><rp>）</rp></ruby>といった。
@@ -156,7 +156,8 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule3-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule3-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule3-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule3-1920.jpg 1920w"></picture><figcaption>《<ruby><rb>ケルン</rb><rt>Colonia</rt></ruby>での到着》</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule3-1920.jpg 1920w"></picture><figcaption>《<ruby>ケルンby<rt>Colonia</rt>by</ruby>での到着》<br>
+  <q cite="#les-onze-milles-vierges">ここで主の<ruby>御<rp>（</rp><rt>み</rt><rp>）</rp>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>いがウルスラにあらわれ、あなたがたはもう一度いっしょにこのケルンに帰ってきて、ここで殉教の栄冠を受けるでしょう、と告げた。</q></figcaption>
 </figure>
 
 <p>ここで主の<ruby>御<rp>（</rp><rt>み</rt><rp>）</rp>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>いがウルスラにあらわれ、あなたがたはもう一度いっしょにこのケルンに帰ってきて、ここで殉教の栄冠を受けるでしょう、と告げた。
@@ -181,7 +182,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule4-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule4-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule4-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule4-1920.jpg 1920w"></picture><figcaption>《<ruby><rb>バーゼル</rb><rt>Basilea</rt></ruby>での到着》</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule4-1920.jpg 1920w"></picture><figcaption>《<ruby>バーゼル<rp>（</rp><rt>Basilea</rt><rp>）</rp></ruby>での到着》<br><q cite="#les-onze-milles-vierges">ここで船を降りて、徒歩でローマにむかった。</q></figcaption>
 </figure>
 
 <p>教皇<a href="#note_cyriacus" title="キュリアクス" id="cyriacus"><ruby lang="ja">キュリアクス<rp>（</rp><rt lang="la">Cyriacus</rt><rp>）</rp></ruby></a>は、一行の到着をよろこんで迎えた。
@@ -206,7 +207,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule5-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule5-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule5-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule5-1920.jpg 1920w"></picture><figcaption>《<ruby><rb>ローマ</rb><rt>Roma</rt></ruby>での到着》</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule5-1920.jpg 1920w"></picture><figcaption>《<ruby>ローマ<rp>（</rp><rt>Roma</rt><rp>）</rp></ruby>での到着》<br><q cite="#les-onze-milles-vierges">教皇<a href="#note_cyriacus" title="キュリアクス" id="cyriacus"><ruby lang="ja">キュリアクス<rp>（</rp><rt lang="la">Cyriacus</rt><rp>）</rp></ruby></a>は、一行の到着をよろこんで迎えた。というのは、教皇自身も、ブリタニアの生まれで、一行のなかに親類縁者も多かったからである。そういうわけで彼は、すべての聖職者ともども乙女たちをてあつくもてなした。</q></figcaption>
 </figure>
 
 <p>そういうわけで彼は、すべての聖職者ともども乙女たちをてあつくもてなした。
@@ -243,7 +244,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-1920.jpg 1920w"></picture><figcaption>《<ruby><rb>バーゼル</rb><rt>Basilea</rt></ruby>での帰り》、《一万一千処女の殉教》、《聖ウルスラの殉教》</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-1920.jpg 1920w"></picture><figcaption>《<ruby>バーゼル<rp>（</rp><rt>Basilea</rt><rp>）</rp></ruby>での帰り》、《一万一千処女の殉教》、《聖ウルスラの殉教》</figcaption>
 </figure>
 
 <p>しかし、聖職者たちの意向を無視して教皇の座を棄てたからというので、彼の名前は、歴代教皇表から抹殺され、清らかな乙女たちも、それまでローマ教会で受けていた好意をすっかり失ってしまった。
@@ -278,7 +279,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule7-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule7-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule7-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule7-1920.jpg 1920w"></picture><figcaption>《<ruby><rb>バーゼル</rb><rt>Basilea</rt></ruby>での帰り》</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule7-1920.jpg 1920w"></picture><figcaption>《<ruby>バーゼル<rp>（</rp><rt>Basilea</rt><rp>）</rp></ruby>での帰り》</figcaption>
 </figure>
 
 <p>ところで、ウルスラの婚約者<ruby lang="ja">アエテレウス<rp>（</rp><rt lang="la">Etherus</rt><rp>）</rp></ruby>は、ずっとブリタニアにとどまっていたが、ある日、ひとりの天使が夢にあらわれて、キリスト教徒になるよう母を説得しなさいと命じた。
@@ -372,7 +373,6 @@
 </footer>
 
 
-
 <aside>
 
 <h3 id="commentaires" class="green">註釈</strong></h3>
@@ -384,7 +384,7 @@
 </div>
 
 <footer>
-  <p>註に戻る：　<a href="#bruges" title="ブルージュ">↑</a></p>
+  <p class="puce"><a href="#bruges" title="ブルージュ">文書に戻る　↩</a></p>
 </footer>
 
 <h4 id="note_tyella" class="green note">テュエラ</h4>
@@ -395,7 +395,7 @@
 </div>
 
 <footer>
-  <p>註に戻る：　<a href="#tyella" title="テュエラ">↑</a></p>
+  <p class="puce"><a href="#tyella" title="テュエラ">文書に戻る　↩</a></p>
 </footer>
 
 <h4 id="note_cyriacus" class="green note">キュリアクス</h4>
@@ -405,7 +405,7 @@
 </div>
 
 <footer>
-  <p>註に戻る：　<a href="#cyriacus" title="キュリアクス">↑</a></p>
+  <p class="puce"><a href="#cyriacus" title="キュリアクス">文書に戻る　↩</a></p>
 </footer>
 
 <h4 id="note_antioche" class="green note">アンティオケイア</h4>
@@ -419,7 +419,7 @@
 </div>
 
 <footer>
-  <p>註に戻る：　<a href="#antioche" title="アンティオケイア">↑</a></p>
+  <p class="puce"><a href="#antioche" title="アンティオケイア">文書に戻る　↩</a></p>
 </footer>
 
 <h4 id="note_luca" class="green note">ルッカ</h4>
@@ -429,7 +429,7 @@
 </div>
 
 <footer>
-  <p>註に戻る：　<a href="#luca" title="ルッカ">↑</a></p>
+  <p class="puce"><a href="#luca" title="ルッカ">文書に戻る　↩</a></p>
 </footer>
 
 <h4 id="note_cordula" class="green note">コルドゥラ</h4>
@@ -441,7 +441,7 @@
 </div>
 
 <footer>
-  <p>註に戻る：　<a href="#cordula" title="コルドゥラ">↑</a></p>
+  <p class="puce"><a href="#cordula" title="コルドゥラ">文書に戻る　↩</a></p>
 </footer>
 
 <h4 id="note_constantinus" class="green note">コンスタンティヌス</h4>
@@ -454,7 +454,7 @@
 </div>
 
 <footer>
-  <p>註に戻る：　<a href="#constantinus" title="ブルージュ">↑</a></p>
+  <p class="puce"><a href="#constantinus" title="ブルージュ">文書に戻る　↩</a></p>
 </footer>
 
 <h4 id="note_marcianus" class="green note">マルキアヌス</h4>
@@ -466,7 +466,7 @@
 </div>
 
 <footer>
-  <p>註に戻る：　<a href="#marcianus" title="マルキアヌス">↑</a></p>
+  <p class="puce"><a href="#marcianus" title="マルキアヌス">文書に戻る　↩</a></p>
 </footer>
 
 <h4 id="note_notrepere" class="green note">主の祈り</h4>
@@ -491,7 +491,7 @@
 </div>
 
 <footer>
-  <p>註に戻る：　<a href="#notrepere" title="主の祈り">↑</a></p>
+  <p class="puce"><a href="#notrepere" title="主の祈り">文書に戻る　↩</a></p>
 </footer>
 
 <h4 id="note_sacrement" class="green note">終油の秘蹟</h4>
@@ -503,7 +503,7 @@
 </div>
 
 <footer>
-  <p>註に戻る：　<a href="#sacrement" title="終油の秘蹟">↑</a></p>
+  <p class="puce"><a href="#sacrement" title="終油の秘蹟">文書に戻る　↩</a></p>
 </footer>
 
 </aside>
