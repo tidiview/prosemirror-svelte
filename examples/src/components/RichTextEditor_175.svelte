@@ -4,7 +4,7 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
+  const html = `<!-- JA:142 -->
 <article>
 
 <h1 class="red">Saint-Michel dans <cite>La Légende Dorée</cite></h1>
@@ -22,67 +22,128 @@
 
 <h2 id="chap141" class="red">saint Michel selon le texte du chapître 141 de <cite>La Légende Dorée</cite></h2>
 
-<p><mark>Michel</mark> se comprend comme «Qui, comme Dieu?» et, à ce que dit Grégoire, chaque fois qu'il s'accomplit une grande merveille, c'est <mark>Michel</mark> qui est envoyé, pour signifier, par son action et par son nom, que personne ne peut faire ce qui revient à Dieu seul: aussi attribue-t-on à <mark>Michel</mark> lui-même nombre de faits qui manifestent une puissance admirable.
-Au témoignage de Daniel [<a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs">Daniel chapître 12 verset 1</a>], il surgira au temps de l’Antéchrist et se tiendra à côté des élus comme leur défenseur et protecteur.
+<p><mark>Michel</mark> se comprend comme «Qui, comme Dieu?» et, à ce que dit Grégoire, chaque fois qu'il s'accomplit une grande merveille, c'est <mark>Michel</mark> qui est envoyé, pour signifier, par son action et par son nom, que personne ne peut faire ce qui revient à Dieu seul: aussi attribue-t-on à <mark>Michel</mark> lui-même nombre de faits qui manifestent une puissance admirable.</p>
+<p>Au témoignage de Daniel [<a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs">Daniel chapître 12 verset 1</a>], il surgira au temps de l’Antéchrist et se tiendra à côté des élus comme leur défenseur et protecteur.
 Il a combattu le dragon et ses anges [<a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille">Apocalypse chapître 12, versets 7 à 9</a>], les a précipités du haut du ciel, et a remporté sur eux une grande victoire.
-Il a disputé le <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_moise" title="ascension de Moïse" id="moise">corps de Moïse</a> au diable qui voulait le produire afin que le peuple juif l'adore à la place de Dieu [<a href="https://www.aelf.org/bible/Jude/1" title="https://www.aelf.org/bible/Jude/1">lettre de Jude chapître 1 verset 9</a>].
-Il accueille les âmes des saints, et les conduit au Jardin de l'exultation [<a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs">Daniel chapître 12, versets 1 et 2</a>]. Il fut jadis <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_israel" title="patron d'Israël, défenseur des milices célestes" id="israel">prince de la Synagogue</a>, mais, à présent, le Seigneur l'a fait prince de l'Église .
-À ce qu'on sait, c'est <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_extrapolation" title="extrapolation de Jacques de Voragine" id="extrapolation">lui</a> qui a répandu les plaies sur l'Égypte, divisé les eaux de la mer Rouge , conduit le peuple à travers le désert, et qui l'a introduit en Terre promise. Dans l'armée des anges, il est tenu pour le porte-enseigne du Christ [<a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille">Apocalypse chapître 12 verset 7</a>].
-Sur l'ordre du Seigneur il tuera avec puissance l'Antéchrist établi sur le mont des Oliviers [<a href="https://www.aelf.org/bible/Lc/22" title="https://www.aelf.org/bible/Lc/22">Luc chapître 22 verset 43</a>].
+Il a disputé le <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_moise" title="ascension de Moïse" id="moise">corps de Moïse</a> au diable qui voulait le produire afin que le peuple juif l'adore à la place de Dieu [<a href="https://www.aelf.org/bible/Jude/1" title="https://www.aelf.org/bible/Jude/1">lettre de Jude chapître 1 verset 9</a>].</p>
+<p>Il accueille les âmes des saints, et les conduit au Jardin de l'exultation [<a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs">Daniel chapître 12, versets 1 et 2</a>]. Il fut jadis <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_israel" title="patron d'Israël, défenseur des milices célestes" id="israel">prince de la Synagogue</a>, mais, à présent, le Seigneur l'a fait prince de l'Église .</p>
+<p>À ce qu'on sait, c'est <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_extrapolation" title="extrapolation de Jacques de Voragine" id="extrapolation">lui</a> qui a répandu les plaies sur l'Égypte, divisé les eaux de la mer Rouge , conduit le peuple à travers le désert, et qui l'a introduit en Terre promise. Dans l'armée des anges, il est tenu pour le porte-enseigne du Christ [<a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille">Apocalypse chapître 12 verset 7</a>].</p>
+<p>Sur l'ordre du Seigneur il tuera avec puissance l'Antéchrist établi sur le mont des Oliviers [<a href="https://www.aelf.org/bible/Lc/22" title="https://www.aelf.org/bible/Lc/22">Luc chapître 22 verset 43</a>].
 À la voix de l'archange <mark>Michel</mark>, les morts ressusciteront [<a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs">Daniel chapître 12, versets 1 et 2</a>]; au jour du Jugement, il présentera la croix, les clous, la lance et la couronne d'épines.</p>
 <p>La fête sacrée de l'archange <mark>Michel</mark> porte les noms d'apparition, de dédicace, de victoire et de mémoire.</p>
+
 <h3 id="apparitions" class="red">les apparitions de cet ange sont multiples</h3>
+
 <h4 id="mont-garganus" class="red">apparition de Garganus et du taureau</h4>
-<p>La première apparition de <mark>Michel</mark> est celle du mont Gargano.
-Dans les Pouilles se trouve une montagne ainsi désignée, près de la cité nommée Siponto.
-Or en l'an du Seigneur 390 habitait dans cette ville de Siponto11 un homme appelé Gargano; la montagne tenait son nom de lui, ou bien, selon certains livres, c'est lui qui tenait son nom de la montagne.
-Il possédait un immense troupeau de brebis et de bœufs, et celui-ci paissait sur les flancs de la montagne, quand soudain il arriva qu'un taureau quitta les autres animaux et s'enfuit jusqu'au sommet.
-Comme il ne revenait pas avec les autres bêtes, l'homme rassembla une troupe de serviteurs, se mit à explorer tous les recoins, et finit par le trouver au sommet de la montagne, près de l'ouverture d'une grotte.
-Se demandant avec exaspération pourquoi il errait ainsi tout seul, il lui décocha une flèche empoisonnée, mais celle-ci, comme si le vent la renvoyait, se retourna aussitôt contre lui.
-Troublés par l'affaire, les habitants allèrent trouver l'évêque et l'interrogèrent sur ce phénomène stupéfiant.
-Ce dernier leur imposa un jeûne de trois jours, et leur prescrivit de demander l'explication à Dieu.
-Cela fait, saint <mark>Michel</mark> apparut à l'évêque et lui dit:</p>
-<p>«Sachez que c'est moi qui ai voulu que cet homme soit frappé par sa propre flèche; car je suis l'archange <mark>Michel</mark>, et j'ai décidé de préserver ce lieu, dont j'ai fait ma demeure sur terre.
-Par ce signe j'ai voulu prouver que j'en étais l'inspecteur et le gardien.»
-Sur-le-champ, l'évêque et les habitants s'y rendirent en procession, et, n'osant pas entrer dans la grotte, ils se tinrent en prière devant l'entrée.</p>
+
+<p>La première apparition de <mark>Michel</mark> est celle du mont Gargano.</p>
+<p>Dans les Pouilles se trouve une montagne ainsi désignée, près de la cité nommée Siponto.
+Or en l'an du Seigneur <time datetime="390">390</time> habitait dans cette ville de Siponto un homme appelé Gargano; la montagne tenait son nom de lui, ou bien, selon certains livres, c'est lui qui tenait son nom de la montagne.</p>
+<p>Il possédait un immense troupeau de brebis et de bœufs, et celui-ci paissait sur les flancs de la montagne, quand soudain il arriva qu'un taureau quitta les autres animaux et s'enfuit jusqu'au sommet.</p>
+<p>Comme il ne revenait pas avec les autres bêtes, l'homme rassembla une troupe de serviteurs, se mit à explorer tous les recoins, et finit par le trouver au sommet de la montagne, près de l'ouverture d'une grotte.</p>
+<p>Se demandant avec exaspération pourquoi il errait ainsi tout seul, il lui décocha une flèche empoisonnée, mais celle-ci, comme si le vent la renvoyait, se retourna aussitôt contre lui.</p>
+<p>Troublés par l'affaire, les habitants allèrent trouver l'évêque et l'interrogèrent sur ce phénomène stupéfiant.</p>
+<p>Ce dernier leur imposa un jeûne de <time datetime="P3D">trois jours</time>, et leur prescrivit de demander l'explication à Dieu.</p>
+<p>Cela fait, saint <mark>Michel</mark> apparut à l'évêque et lui dit:</p>
+<p class="conversation">«Sachez que c'est moi qui ai voulu que cet homme soit frappé par sa propre flèche; car je suis l'archange <mark>Michel</mark>, et j'ai décidé de préserver ce lieu, dont j'ai fait ma demeure sur terre.
+Par ce signe j'ai voulu prouver que j'en étais l'inspecteur et le gardien.»</p>
+<p>Sur-le-champ, l'évêque et les habitants s'y rendirent en procession, et, n'osant pas entrer dans la grotte, ils se tinrent en prière devant l'entrée.</p>
+
 <h4 id="mont-tombe" class="red">apparition au mont Tombe</h4>
-<p>La seconde apparition eut lieu dans les années du Seigneur 710, à ce qu'on rapporte.
-Au lieu dit La Tombe, <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_haymon" title="Haymon" id="tumba">Tumba</a>, situé non loin du bord de mer, à six milles de la ville d'Avranches, <mark>Michel</mark> apparut à l'évêque de la cité et lui ordonna de construire une église à cet endroit, pour y célébrer la mémoire de l'archange <mark>Michel</mark>, comme sur le mont Gargano.
-L'évêque hésitant sur le lieu exact où il devait construire l'église, <mark>Michel</mark> lui dit que ce devait être à l'emplacement où il trouverait un taureau caché par des brigands.
-Comme il s'interrogeait aussi sur les dimensions de l'église, il reçut l'ordre de lui donner la surface délimitée par la marche du taureau.
-Il y avait là deux énormes pierres qu'aucune force humaine n'aurait pu faire bouger: <mark>Michel</mark> apparut alors à un homme, lui ordonna d'aller là-bas et de prendre ces pierres.
-Il y alla et les déplaça comme si elles ne pesaient rien du tout.
-Après avoir édifié l'église, on prit sur le mont Gargano une partie de l'ornement que saint <mark>Michel</mark> avait déposé sur l'autel et une partie de la plaque de marbre sur laquelle il s'était tenu, et on les déposa en son église.
-Et comme il y avait pénurie d'eau, sur le conseil de l'ange on perça un trou dans un rocher: à ce qu'on dit, il s'en échappa aussitôt suffisamment d'eau pour alimenter l'endroit encore aujourd'hui.
-En ce lieu, cette apparition se célèbre solennellement le <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_tumba" title="Mont Tumba" id="calendes">dix-septième jour des calendes de novembre</a>.
-Il s'y déroula encore, dit-on, un miracle digne de mémoire.
-Le lieu est partout cerné par l'océan, mais au jour de la Saint-<mark>Michel</mark> il s'ouvre deux fois pour laisser le passage au peuple.
-C'est à cause de la marée montante et descendante qui se produit là deux fois par jour qu'on dit qu'il s'ouvre.
-Comme une foule nombreuse se pressait vers l'église, il se trouva qu'une femme enceinte et près d'accoucher marchait au milieu d'elles.
-Voilà soudain que l'eau revint à grosses vagues, et que la foule affolée se réfugia sur le rivage, sauf la femme enceinte, qui se trouva prisonnière des flots marins.
-Mais l'archange <mark>Michel</mark> lui sauva la vie et elle accoucha d'un fils en pleine mer.
-Elle le prit dans ses bras, l'allaita et, la mer lui laissant à nouveau le passage, elle en sortit toute joyeuse avec son enfant.</p>
+
+<p>La seconde apparition eut lieu dans les années du Seigneur <time datetime="710">710</time>, à ce qu'on rapporte.</p>
+<p>Au lieu dit La Tombe, <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_haymon" title="Haymon" id="tumba">Tumba</a>, situé non loin du bord de mer, à six milles de la ville d'Avranches, <mark>Michel</mark> apparut à l'évêque de la cité et lui ordonna de construire une église à cet endroit, pour y célébrer la mémoire de l'archange <mark>Michel</mark>, comme sur le mont Gargano.</p>
+<p>L'évêque hésitant sur le lieu exact où il devait construire l'église, <mark>Michel</mark> lui dit que ce devait être à l'emplacement où il trouverait un taureau caché par des brigands.</p>
+<p>Comme il s'interrogeait aussi sur les dimensions de l'église, il reçut l'ordre de lui donner la surface délimitée par la marche du taureau.</p>
+<p>Il y avait là deux énormes pierres qu'aucune force humaine n'aurait pu faire bouger: <mark>Michel</mark> apparut alors à un homme, lui ordonna d'aller là-bas et de prendre ces pierres.</p>
+<p>Il y alla et les déplaça comme si elles ne pesaient rien du tout.</p>
+<p>Après avoir édifié l'église, on prit sur le mont Gargano une partie de l'ornement que saint <mark>Michel</mark> avait déposé sur l'autel et une partie de la plaque de marbre sur laquelle il s'était tenu, et on les déposa en son église.</p>1
+<p>Et comme il y avait pénurie d'eau, sur le conseil de l'ange on perça un trou dans un rocher: à ce qu'on dit, il s'en échappa aussitôt suffisamment d'eau pour alimenter l'endroit encore aujourd'hui.</p>
+<p>En ce lieu, cette apparition se célèbre solennellement le <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_tumba" title="Mont Tumba" id="calendes">dix-septième jour des calendes de novembre</a>.</p>
+<p>Il s'y déroula encore, dit-on, un miracle digne de mémoire.</p>
+<p>Le lieu est partout cerné par l'océan, mais au jour de la Saint-<mark>Michel</mark> il s'ouvre deux fois pour laisser le passage au peuple.</p>
+<p>C'est à cause de la marée montante et descendante qui se produit là deux fois par jour qu'on dit qu'il s'ouvre.</p>
+<p>Comme une foule nombreuse se pressait vers l'église, il se trouva qu'une femme enceinte et près d'accoucher marchait au milieu d'elles.</p>
+<p>Voilà soudain que l'eau revint à grosses vagues, et que la foule affolée se réfugia sur le rivage, sauf la femme enceinte, qui se trouva prisonnière des flots marins.</p>
+<p>Mais l'archange <mark>Michel</mark> lui sauva la vie et elle accoucha d'un fils en pleine mer.</p>
+<p>Elle le prit dans ses bras, l'allaita et, la mer lui laissant à nouveau le passage, elle en sortit toute joyeuse avec son enfant.</p>
+
 <h4 id="chateau-saint-ange" class="red">appartition au château saint-Ange</h4>
-<p>La troisième apparition eut lieu à Rome, à ce qu'on lit, au temps du pape Grégoire.
-Ce dernier, en effet, avait institué les litanies majeures en raison de la peste bubonique, et il priait avec dévotion pour son peuple, lorsqu'il vit, sur le château jadis appelé mausolée d'Adrien, l'ange du Seigneur en train d'essuyer son glaive et de le remettre au fourreau.
-Saint Grégoire comprit alors que ses prières avaient été exaucées, et il construisit là une église en l'honneur des anges; aussi le château est-il appelé aujourd'hui encore château Saint-Ange.
-Cette apparition est célébrée le 8 des ides de mai, en même temps que celle du mont Gargano, au jour où l'archange <mark>Michel</mark> donna la victoire aux Sipontins.</p>
+
+<p>La troisième apparition eut lieu à Rome, à ce qu'on lit, au temps du pape Grégoire.</p>
+<p>Ce dernier, en effet, avait institué les litanies majeures en raison de la peste bubonique, et il priait avec dévotion pour son peuple, lorsqu'il vit, sur le château jadis appelé mausolée d'Adrien, l'ange du Seigneur en train d'essuyer son glaive et de le remettre au fourreau.</p>
+<p>Saint Grégoire comprit alors que ses prières avaient été exaucées, et il construisit là une église en l'honneur des anges; aussi le château est-il appelé aujourd'hui encore château Saint-Ange.</p>
+<p>Cette apparition est célébrée le 8 des ides de mai, en même temps que celle du mont Gargano, au jour où l'archange <mark>Michel</mark> donna la victoire aux Sipontins.</p>
+
 <h4 id="de-hierarchia" class="red">apparition dans les hiérarchies</h4>
-<p>La quatrième apparition est celle des hiérarchies des anges eux-mêmes.
-La première hiérarchie est dite «épiphanie», c'est-a-dire apparition supérieure, la hiérarchie moyenne «hyperphanie», c'est-a-dire apparition moyenne, et la dernière hiérarchie «hypophanie», c'est-à-dire apparition inférieure.
-Le mot «hiérarchie» vient de ierar, «sacré», et de archos, «prince», et signifie «principauté sacrée».
-Chaque hiérarchie comprend trois ordres: la hiérarchie supérieure comprend les séraphins, les chérubins et les trônes, la hiérarchie moyenne, selon la répartition de <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_denis" title="Pseudo-Denis" id="denis">Denis</a>, les dominations, les vertus et les puissances, et la dernière, toujours selon Denis, les principautés, les anges et les archanges.
-Leur ordonnancement et leur répartition peuvent se saisir par comparaison avec les puissances terrestres.
-En effet, parmi les ministres soumis à un monarque, les uns, comme les chambellans, les conseillers et les assesseurs, s'occupent directement de la personne du roi; les ordres de la première hiérarchie leur sont comparables.
-D'autres, pour administrer le royaume, ont des charges générales, et ne sont pas préposés à une province déterminée: c'est le cas des chefs de l'armée et des juges de la cour; les ordres de la deuxième hiérarchie leur sont comparables.
-D'autres enfin, comme les prévôts, les baillis et autres officiers de rangs inférieurs du même type, sont préposés au gouvernement d'une partie du royaume: ceux-là ont pour équivalents les ordres de la troisième hiérarchie.
-Les trois ordres de la première hiérarchie sont donc constitués pour assister Dieu et se tourner vers lui.
-Pour cela, trois qualités leur sont nécessaires: un amour sans bornes, et c'est là le propre des Séraphins, dont le nom se comprend comme «les ardents»; une connaissance parfaite, et c'est là le propre des chérubins, dont le nom se comprend comme «plénitude de la science»; une perpetuelle possession ou jouissance, et c'est là le propre des trônes, dont le nom se comprend comme «siège», parce que Dieu Siège et repose en eux tout en les faisant reposer en lui.
-Les trois ordres de la hiérarchie moyenne sont constitues pour commander et administrer l’univers des hommes en général.
-Ce gouvernement consiste en trois choses: d'abord à les diriger ou les commander, et c'est là le propre des dominations, qui ont pour rôle de régir les anges inférieurs, de les diriger dans tous les ministères divins, et de leur transmettre tous les commandements, ainsi que l'affirme Zacharie, où un ange dit à l'autre: «Cours vite parler à cet enfant» <a href="https://www.aelf.org/bible/Za/2" title="https://www.aelf.org/bible/Za/2">(Zacharie 2, 8.)</a>...
-Deuxièmement, ce gouvernement consiste à agir, et c'est là le propre des vertus, pour qui aucun commandement n'est impossible à exécuter, car il leur a été donné tout pouvoir sur les difficultés du ministère divin, et c'est la raison pour laquelle on leur attribue le pouvoir de faire des miracles.
-Troisièmement, ce gouvernement consiste à repousser, c'est-à-dire à repousser les obstacles et les hostilités, et c'est là le propre des puissances, qui ont le pouvoir de réduire les puissances contraires.
-Cela est signifié dans Tobie, où il est dit que Raphaël enchaîna un démon dans le désert de la Haute-Egypte <a href="https://www.aelf.org/bible/Tb/8" title="https://www.aelf.org/bible/Tb/8">(Tobie 8, 3.)</a>.</p>
+
+<p>La quatrième apparition est celle des hiérarchies des anges eux-mêmes.</p>
+<p>La première hiérarchie est dite «épiphanie», c'est-a-dire apparition supérieure, la hiérarchie moyenne «hyperphanie», c'est-a-dire apparition moyenne, et la dernière hiérarchie «hypophanie», c'est-à-dire apparition inférieure.</p>
+<p>Le mot «hiérarchie» vient de <i>ierar</i>, «sacré», et de <i>archos</i>, «prince», et signifie «principauté sacrée».</p>
+<p>Chaque hiérarchie comprend trois ordres:</p>
+<ol>
+  <li>la hiérarchie supérieure comprend
+    <ol>
+      <li>les séraphins,</li>
+      <li>les chérubins</li>
+      <li>et les trônes,</li>
+    </ol>
+  <li>la hiérarchie moyenne, selon la répartition de <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_denis" title="Pseudo-Denis" id="denis">Denis</a>,
+    <ol>
+      <li>les dominations,</li>
+      <li>les vertus</li>
+      <li>et les puissances,</li>
+    </ol>
+  <li>et la dernière, toujours selon Denis,
+    <ol>
+      <li>les principautés,</li>
+      <li>les anges</li>
+      <li>et les archanges.</li>
+    </ol>
+  </li>
+</ol>
+<p>Leur ordonnancement et leur répartition peuvent se saisir par comparaison avec les puissances terrestres.</p>
+<p>En effet, parmi les ministres soumis à un monarque, les uns, comme </p>
+  <ul>
+    <li>les chambellans, </li>
+    <li>les conseillers </li>
+    <li>et les assesseurs, </li>
+  </ul>
+<p>s'occupent directement de la personne du roi; les ordres de la première hiérarchie leur sont comparables.</p>
+<p>D'autres, pour administrer le royaume, ont des charges générales, et ne sont pas préposés à une province déterminée: c'est le cas </p>
+  <ul>
+    <li>des chefs de l'armée </li>
+    <li>et des juges de la cour; </li>
+  </ul>
+<p>les ordres de la deuxième hiérarchie leur sont comparables.</p>
+<p>D'autres enfin, comme </p>
+  <ul>
+    <li>les prévôts, </li>
+    <li>les baillis </li>
+    <li>et autres officiers de rangs inférieurs du même type, </li>
+  </ul>
+<p>sont préposés au gouvernement d'une partie du royaume: ceux-là ont pour équivalents les ordres de la troisième hiérarchie.</p>
+<p>Les trois ordres de la première hiérarchie sont donc constitués pour assister Dieu et se tourner vers lui.</p>
+<p>Pour cela, trois qualités leur sont nécessaires: </p>
+  <ol>
+    <li>un amour sans bornes, et c'est là le propre des Séraphins, dont le nom se comprend comme «les ardents»; </li>
+    <li>une connaissance parfaite, et c'est là le propre des chérubins, dont le nom se comprend comme «plénitude de la science»; </li>
+    <li>une perpetuelle possession ou jouissance, et c'est là le propre des trônes, dont le nom se comprend comme «siège», parce que Dieu Siège et repose en eux tout en les faisant reposer en lui.</li>
+  </ol>
+<p>Les trois ordres de la hiérarchie moyenne sont constitués pour commander et administrer l’univers des hommes en général.</p>
+<p>Ce gouvernement consiste en trois choses: </p>
+  <ol>
+    <li>
+      d'abord à les diriger ou les commander, et c'est là le propre des dominations, qui ont pour rôle de régir les anges inférieurs, de les diriger dans tous les ministères divins, et de leur transmettre tous les commandements, ainsi que l'affirme Zacharie, où un ange dit à l'autre: 
+      <p class="conversation">«Cours vite parler à cet enfant» <a href="https://www.aelf.org/bible/Za/2" title="https://www.aelf.org/bible/Za/2">(Zacharie 2, 8.)</a>...</p>
+    </li>
+    <li>
+      Deuxièmement, ce gouvernement consiste à agir, et c'est là le propre des vertus, pour qui aucun commandement n'est impossible à exécuter, car il leur a été donné tout pouvoir sur les difficultés du ministère divin, et c'est la raison pour laquelle on leur attribue le pouvoir de faire des miracles.
+    </li>
+    <li>
+      Troisièmement, ce gouvernement consiste à repousser, c'est-à-dire à repousser les obstacles et les hostilités, et c'est là le propre des puissances, qui ont le pouvoir de réduire les puissances contraires. Cela est signifié dans Tobie, où il est dit que Raphaël enchaîna un démon dans le désert de la Haute-Egypte <a href="https://www.aelf.org/bible/Tb/8" title="https://www.aelf.org/bible/Tb/8">(Tobie 8, 3.)</a>.
+    </li>
+  </ol>
 <p>Les trois ordres de la dernière hiérarchie sont constitués pour des fonctions déterminées et limitées.
 Certains d'entre eux sont à la tête d'une seule province: ce sont ceux qui appartiennent à l'ordre des principautés, à l'image de ce qu'était le prince des Perses, qui dirigeait les Perses, dont parle Daniel <a href="https://www.aelf.org/bible/Dn/10" title="https://www.aelf.org/bible/Dn/10">(Daniel 10, 13.)</a>.
 Certains sont préposés au ministère d'un groupe, par exemple une cité, et on les appelle «archanges», d'autres à celui d'un particulier, et on les appelle «anges».
