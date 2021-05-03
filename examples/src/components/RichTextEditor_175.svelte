@@ -82,7 +82,17 @@ Par ce signe j'ai voulu prouver que j'en étais l'inspecteur et le gardien.»</p
 <h4 id="de-hierarchia" class="red">apparition dans les hiérarchies</h4>
 
 <p>La quatrième apparition est celle des hiérarchies des anges eux-mêmes.</p>
-<p>La première hiérarchie est dite «épiphanie», c'est-a-dire apparition supérieure, la hiérarchie moyenne «hyperphanie», c'est-a-dire apparition moyenne, et la dernière hiérarchie «hypophanie», c'est-à-dire apparition inférieure.</p>
+<ol>
+  <li>
+    <p>La première hiérarchie est dite «épiphanie», c'est-a-dire apparition supérieure, </p>
+  </li>
+  <li>
+    <p>la hiérarchie moyenne «hyperphanie», c'est-a-dire apparition moyenne, </p>
+  </li>
+  <li>
+    <p>et la dernière hiérarchie «hypophanie», c'est-à-dire apparition inférieure.</p>
+  </li>
+</ol>
 <p>Le mot «hiérarchie» vient de <i>ierar</i>, «sacré», et de <i>archos</i>, «prince», et signifie «principauté sacrée».</p>
 <p>Chaque hiérarchie comprend trois ordres:</p>
 <ol>
@@ -151,8 +161,8 @@ Par ce signe j'ai voulu prouver que j'en étais l'inspecteur et le gardien.»</p
       <p>et des juges de la cour; </p>
     </li>
   </ol>
-<p>les ordres de la deuxième hiérarchie leur sont comparables.</p>
-<p>D'autres enfin, comme </p>
+<p>les ordres de la deuxième hiérarchie leur sont comparables.
+D'autres enfin, comme </p>
   <ol>
     <li>
       <p>les prévôts, </p>
@@ -165,8 +175,8 @@ Par ce signe j'ai voulu prouver que j'en étais l'inspecteur et le gardien.»</p
     </li>
   </ol>
 <p>sont préposés au gouvernement d'une partie du royaume: ceux-là ont pour équivalents les ordres de la troisième hiérarchie.</p>
-<p>Les trois ordres de la première hiérarchie sont donc constitués pour assister Dieu et se tourner vers lui.</p>
-<p>Pour cela, trois qualités leur sont nécessaires: </p>
+<p>Les trois ordres de la première hiérarchie sont donc constitués pour assister Dieu et se tourner vers lui.
+Pour cela, trois qualités leur sont nécessaires: </p>
   <ol>
     <li>
       <p>un amour sans bornes, et c'est là le propre des Séraphins, dont le nom se comprend comme «les ardents»; </p>
@@ -178,8 +188,8 @@ Par ce signe j'ai voulu prouver que j'en étais l'inspecteur et le gardien.»</p
       <p>une perpetuelle possession ou jouissance, et c'est là le propre des trônes, dont le nom se comprend comme «siège», parce que Dieu Siège et repose en eux tout en les faisant reposer en lui.</p>
     </li>
   </ol>
-<p>Les trois ordres de la hiérarchie moyenne sont constitués pour commander et administrer l’univers des hommes en général.</p>
-<p>Ce gouvernement consiste en trois choses: </p>
+<p>Les trois ordres de la hiérarchie moyenne sont constitués pour commander et administrer l’univers des hommes en général.
+Ce gouvernement consiste en trois choses: </p>
   <ol>
     <li>
       <p>d'abord à les diriger ou les commander, et c'est là le propre des dominations, qui ont pour rôle de régir les anges inférieurs, de les diriger dans tous les ministères divins, et de leur transmettre tous les commandements, ainsi que l'affirme Zacharie, où un ange dit à l'autre: </p>
@@ -218,8 +228,8 @@ Par ce signe j'ai voulu prouver que j'en étais l'inspecteur et le gardien.»</p
   </li>
 </ol>
 <p>Mais pour ce qui concerne la répartition des rôles dans deux ordres des hiérarchies moyenne et inférieure, à savoir les principautés et les vertus, ces auteurs divergent.</p>
-<p>En effet le point de vue de Grégoire et Bernard est le suivant: la hiérarchie moyenne possède la prééminence, la hiérarchie inférieure le ministère.</p>
-<p>Dans l'ordre des anges, la prééminence est triple:</p>
+<p>En effet le point de vue de Grégoire et Bernard est le suivant: la hiérarchie moyenne possède la prééminence, la hiérarchie inférieure le ministère.
+Dans l'ordre des anges, la prééminence est triple:</p>
   <ol>
     <li>
       <p>certains l'exercent sur les esprits angéliques, et on les appelle «dominations», </p>
@@ -231,8 +241,8 @@ Par ce signe j'ai voulu prouver que j'en étais l'inspecteur et le gardien.»</p
       <p>d'autres sur les démons, et on les appelle «puissances».</p>
     </li>
   </ol>
-<p>Leur rang et leur degré de dignité apparaissent ici de façon évidente.</p>
-<p>Quant à leur ministère, il est triple: </p>
+<p>Leur rang et leur degré de dignité apparaissent ici de façon évidente.
+Quant à leur ministère, il est triple: </p>
   <ol>
     <li>
       <p>une partie consiste dans les œuvres, </p>
@@ -512,7 +522,7 @@ Ils nous en délivrent de trois façons.</p>
         <p class="conversation">il en est qui ont le privilège de concevoir la totalité des secrets célestes et de les annoncer: ils sont avec les Archanges; </p>
       </li>
       <li>
-        i<p class="conversation">l en est qui font des miracles prodigieux et qui manifestent ainsi leur puissance: ils sont avec les Vertus; </p>
+        <p class="conversation">il en est qui font des miracles prodigieux et qui manifestent ainsi leur puissance: ils sont avec les Vertus; </p>
       </li>
     </ol>
   </li>
@@ -527,7 +537,7 @@ Ils nous en délivrent de trois façons.</p>
       <li>
         <p class="conversation">il en est qui, en eux, dominent tous les vices, en sorte que ce privilège de pureté leur vaut le nom de dieux parmi les hommes; aussi est-il dit à Moïse: </p>
         <p class="conversation">Voici que je t'ai établi comme le dieu de Pharaon <a href="https://www.aelf.org/bible/Ex/7" title="https://www.aelf.org/bible/Ex/7">(Exode 7, 1.)</a>; </p>
-        <p>ceux-ci sont avec les Dominations; </p>
+        <p>ceux-ci sont avec les Dominations.</p>
       </li>
     </ol>
   </li>
@@ -704,7 +714,7 @@ Ils nous en délivrent de trois façons.</p>
 
 <h4 id="note_gregoire" class="red notes">Grégoire le Grand</h4>
   <div class="notices red">
-    <p><a href="https://fr.wikipedia.org/wiki/Grégoire_Ier" title="https://fr.wikipedia.org/wiki/Grégoire_Ier">Grégoire Ier, dit le Grand</a>, auteur des Dialogues (né vers <time datetime="540">540</time>, mort le <time datetime="604-03-12">12 mars 604</time>), devient le <abbr title="soixante-quatre">64<sup>ème</sup></abbr> pape en <time datetime="590">590</time>.</p>
+    <p><a href="https://fr.wikipedia.org/wiki/Grégoire_Ier" title="https://fr.wikipedia.org/wiki/Grégoire_Ier">Grégoire <abbr title="premier">I<sup>er</sup><abbr>, dit le Grand</a>, auteur des Dialogues (né vers <time datetime="540">540</time>, mort le <time datetime="604-03-12">12 mars 604</time>), devient le <abbr title="soixante-quatre">64<sup>ème</sup></abbr> pape en <time datetime="590">590</time>.</p>
     <p>Docteur de l'Église, il est l'un des quatre Pères de l'Église d'Occident, avec saint Ambroise, saint Augustin et saint Jérôme. Son influence durant le Moyen Âge fut considérable.</p>
     <p>C'est en son honneur que, deux siècles après sa mort, le chant élaboré dans les abbayes du diocèse de Metz est appelé «chant grégorien» (sans que l'on sache avec certitude son rôle dans l'évolution et la diffusion du chant liturgique).</p>
   </div>
