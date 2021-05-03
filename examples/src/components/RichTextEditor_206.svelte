@@ -124,7 +124,8 @@
       <p>and they be like unto the order of the first Gerarchia.</p>
       <p>Some there be that have the rule of the realm, some in one province, some in another, as </p>
         <ul>
-          <li>be lieutenants, captains of chivalry, </li>
+          <li>be lieutenants, </li>
+          <li>captains of chivalry, </li>
           <li>and judges, </li>
         </ul>
       <p>and they be like unto the second Gerarchia.</p>
@@ -206,30 +207,33 @@
 
 <!-- page 2 -->
 
-      <h3 id="victoire-michel" class="red">The Victories of St. Michael</h3>
+      <h3 id="victoire-michel" class="red">The Victories of <abbr title="Saint">St.</abbr> Michael</h3>
 
-      <p>Secondly, this solemnity of St. Michael is said victory, and the victory of St. Michael is manifold.
+      <p>Secondly, this solemnity of <mark><abbr title="Saint">St.</abbr> Michael</mark> is said victory, and the victory of <mark><abbr title="Saint">St.</abbr> Michael</mark> is manifold.
       And also of other angels.</p>
 
       <h4 id="victoire-sipontus" class="red"> The Victory of the Christians of Sipontus</h4>
       
-      <p>The first is that St. Michael gave to them of Syponte in this manner.
-      After a certain time that the place was found, they of Naples were yet paynims [pagans], and ordained their host for to fight against them of Syponte and Benevento.
-      And by the counsel of the bishop, the Christian men took truce for three days that they might fast those three days and require their patron St. Michael unto their aid and help.</p>
-      <p>In the third night the holy St. Michael appeared to the said bishop and said that their prayers were heard, and promised them to have victory, and commanded them to run on their enemies at the fourth hour of the day without more tarrying.</p>
-      <p>And when they ran against them the mountain of Gargan began strongly to tremble and a great tempest arose, so that lightning flew about and a dark cloud covered the mountain, so that six hundred of their adversaries died of the fiery arrows which came from the air.
-      And all the residue of them that were not slain left their idolatry and submitted them anon to the Christian faith.</p>
+      <p>The first is that <mark><abbr title="Saint">St.</abbr> Michael</mark> gave to them of Syponte in this manner.</p>
+      <p>After a certain time that the place was found, they of Naples were yet paynims [pagans], and ordained their host for to fight against them of Syponte and Benevento.</p>
+      <p>And by the counsel of the bishop, the Christian men took truce for three days that they might fast those three days and require their patron <mark><abbr title="Saint">St.</abbr> Michael</mark> unto their aid and help.</p>
+      <p>In the third night the holy <mark><abbr title="Saint">St.</abbr> Michael</mark> appeared to the said bishop and said that their prayers were heard, and promised them to have victory, and commanded them to run on their enemies at the fourth hour of the day without more tarrying.</p>
+      <p>And when they ran against them the mountain of Gargan began strongly to tremble and a great tempest arose, so that lightning flew about and a dark cloud covered the mountain, so that six hundred of their adversaries died of the fiery arrows which came from the air.</p>
+      <p>And all the residue of them that were not slain left their idolatry and submitted them anon to the Christian faith.</p>
 
-      <h4 id="victoire-lucifer" class="red">St. Michael’s Victory over Lucifer</h4>
+      <h4 id="victoire-lucifer" class="red"><abbr title="Saint">St.</abbr> Michael’s Victory over Lucifer</h4>
       
-      <p>The second victory of St. Michael was when he put out of heaven the dragon Lucifer with all his followers.
-      Of which is said in the Apocalypse: Factum est prelium magnum, Apocalypsis duodecimo [“A great battle was made,” Revelation 12].
-      For when Lucifer coveted to be like to God, the archangel which bare the banner of the celestial host, came and chased Lucifer out of heaven with all them that followed him, and hath inclosed them in dark air unto the day of doom.</p>
-      <p>For they be not suffered to dwell in heaven, neither in the upper part of the air, because that place is clear and delectable, ne yet to be in earth with us, to the end that they should not overmuch tempt ne torment us.
-      But they be in the air between heaven and earth, so that when they look upward they may behold the joy that they have lost, and have thereof great sorrow, and when they look downward they may see the men mount up to heaven from whence they fell.</p>
+      <p>The second victory of <mark><abbr title="Saint">St.</abbr> Michael</mark> was when he put out of heaven the dragon Lucifer with all his followers.</p>
+      <p>Of which is said in the Apocalypse: </p>
+      <p class="conversation">Factum est prelium magnum, </p>
+      <p class="conversation">[“A great battle was made,” Revelation 12].</p>
+      <p>For when Lucifer coveted to be like to God, the archangel which bare the banner of the celestial host, came and chased Lucifer out of heaven with all them that followed him, and hath inclosed them in dark air unto the day of doom.</p>
+      <p>For they be not suffered to dwell in heaven, neither in the upper part of the air, because that place is clear and delectable, ne yet to be in earth with us, to the end that they should not overmuch tempt ne torment us.</p>
+      <p>But they be in the air between heaven and earth, so that when they look upward they may behold the joy that they have lost, and have thereof great sorrow, and when they look downward they may see the men mount up to heaven from whence they fell.</p>
       <p>Notwithstanding, by the divine dispensation they descend oft unto us in earth, as like it hath been showed to some holy men.
-      They fly about us as flies, they be innumerable, and like flies they fill the air without number.
-      Whereof saith Haymo: “As the philosophers said, and doctors have opinion, this air is also full of devils and of wicked spirits as the sunbeams be full of small motes,” which is small dust or powder.</p>
+      They fly about us as flies, they be innumerable, and like flies they fill the air without number.</p>
+      <p>Whereof saith Haymo: </p>
+      <p class="conversation">“As the philosophers said, and doctors have opinion, this air is also full of devils and of wicked spirits as the sunbeams be full of small motes, which is small dust or powder.”</p>
       <p>And how well that they be so many, nevertheless after the sentence of Origen, their power ne strength is but right little, and that we may overcome them here.
       And if any of them be overcome of any holy man, he may never after tempt a man of that vice of which he is overcome.</p>
 
@@ -237,129 +241,341 @@
       
       <p>The third victory is that angels have every day of the devils when they fight for us against them, and deliver us from their temptations.
       And they deliver us in three manners.</p>
-      <p><span style="color: #b52b27;">First</span>,
-      in refraining the power of the devil, like as it is said (Apocalypsis vicesimo [Revelation 20]), of the angel that bound the devil and sent him into abysm, that is the pit of hell; and Tobit, which saith that the angel Raphael bound the devil in the outerest desert.
-      And this binding is none other thing but the refraining of his puissance and might.</p>
-      <p><span style="color: #b52b27;">Secondly</span>,
-      he delivereth us in refraining our covetise, the which thing is in Genesis xxxii. chap[ter], there where he saith that the angel took the sinew of Jacob, and anon it dried up.</p>
-      <p><span style="color: #b52b27;">Thirdly</span>,
-      in impressing in our hearts the memory of the passion of our Lord, this is signified Apocalypsis vii, where it is said, “Ne will ye not grieve ne noye [harm] in the earth ne in the sea, ne the trees, till we have marked them.” Ezechiel saith, “The sign of Thau [i.e. τ] be in the foreheads of the people.” Thau is made like a headless cross, and they that be marked therewith dread not the angel smiting, whereof is said: “Upon whom ye see Thau, slay them not.”</p>
+      <ul>
+        <li>
+          <p><span style="color: #b52b27;">First</span>,
+          in refraining the power of the devil, like as it is said (Apocalypsis vicesimo [Revelation 20]), of the angel that bound the devil and sent him into abysm, that is the pit of hell; and Tobit, which saith that the angel Raphael bound the devil in the outerest desert.</p>
+          <p>And this binding is none other thing but the refraining of his puissance and might.</p>
+        </li>
+        <li>
+          <p><span style="color: #b52b27;">Secondly</span>,
+          he delivereth us in refraining our covetise, the which thing is in Genesis xxxii. chap[ter], there where he saith that the angel took the sinew of Jacob, and anon it dried up.</p>
+        </li>
+        <li>
+          <p><span style="color: #b52b27;">Thirdly</span>,
+          in impressing in our hearts the memory of the passion of our Lord, this is signified Apocalypsis vii, where it is said, </p>
+          <p class="conversation">“Ne will ye not grieve ne noye [harm] in the earth ne in the sea, ne the trees, till we have marked them.” </p>
+          <p>Ezechiel saith, </p>
+          <p class="conversation">“The sign of Thau [i.e. τ] be in the foreheads of the people.” </p>
+          <p>Thau is made like a headless cross, and they that be marked therewith dread not the angel smiting, whereof is said: </p>
+          <p class="conversation">“Upon whom ye see Thau, slay them not.”</p>
+        </li>
+      </ul>
 
-      <h4 id="victoire-antechrist" class="red">St. Michael’s Final Victory over the Antichrist</h4>
+      <h4 id="victoire-antechrist" class="red"><mark><abbr title="Saint">St.</abbr> Michael</mark>’s Final Victory over the Antichrist</h4>
       
-      <p>The fourth victory is that the archangel Michael shall have of Antichrist when he shall slay him.
-      Then Michael, the great prince, shall arise, as it is said Danielis xii.: “He shall arise for them that be chosen as a helper and a protector, and shall strongly stand against Antichrist.” And after, as the Gloss saith: “Antichrist shall feign him to be dead, and shall hide him three days,” and after, he shall appear saying that he is risen from death to life, and the devils shall bear him by art magic, and shall mount up into the air, and all the people shall marvel and worship him.
-      And at the last he shall mount up on the Mount of Olivet, and when he shall be in a pavilion, in his siege [seat], entered into that place where our Lord ascended, Michael shall come and shall slay him.
-      Of which victory is understood, after St. Gregory, that which is said in the Apocalypse.
-      The battle is made in heaven.</p>
-      <p>This word of the treble battle in heaven is expounded of the battle that he had with Lucifer when he expulsed him out of heaven, and of the battle that he had with the devils that torment us.</p>
+      <p>The fourth victory is that the archangel Michael shall have of Antichrist when he shall slay him.</p>
+      <p>Then <mark>Michael</mark>, the great prince, shall arise, as it is said Danielis xii.: </p>
+      <p class="conversation">“He shall arise for them that be chosen as a helper and a protector, and shall strongly stand against Antichrist.” </p>
+      <p>And after, as the Gloss saith: </p>
+      <p class="conversation">“Antichrist shall feign him to be dead, and shall hide him three days,” </p>
+      <p>and after, </p>
+      <p class="conversation">he shall appear saying that he is risen from death to life, and the devils shall bear him by art magic, and shall mount up into the air, and all the people shall marvel and worship him.</p>
+      <p class="conversation">And at the last he shall mount up on the Mount of Olivet, and when he shall be in a pavilion, in his siege [seat], entered into that place where our Lord ascended, <mark>Michael</mark> shall come and shall slay him.</p>
+      <p>Of which victory is understood, after St. Gregory, that which is said in the Apocalypse.</p<
+      <p class="conversation">The battle is made in heaven.</p>
+      <p>This word of the treble battle in heaven is </p>
+      <ol>
+        <li>expounded of the battle that he had with Lucifer when he expulsed him out of heaven, </li>
+        <li>and of the battle that he had with the devils that torment us, </li>
+        <li> and of the one that we just saw.</li>
+      </ol>
 
       <h3 id="dedicace" class="red">Dedication</h3>
       
-      <p>And of this last solemnity is said dedication, because on this day the said place in the Mount Gargan was dedicate and hallowed of him by revelation.
-      For when they of Syponte were returned from the occision of their adversaries, and had so noble victory, yet doubted they to enter into the said place and hallow it to the archangel.
-      Then the bishop went and asked counsel of Pope Pelagius, and he answered: If the church ought to be dedicated, that ought to be on that day that the victory was done, and if it please otherwise to St. Michael, men ought to require his will thereof.</p>
-      <p>And then the pope, the bishop, and the men of the city, fasted three days, and St. Michael appeared to the bishop and said: It is no need to you to dedicate and hallow that I have hallowed, and commanded that he should enter into that place the next day with the people, and should frequent it with prayers, and they should feel that he should be a special patron to them.</p>
-      <p>And he gave to them a sign of consecration – that was that they should go up thereto by a postern towards the east, and they should find there the steps of a man impressed in a marble stone.
-      Then the bishop on the morn, and much great people, came to the place and entered in, and found a great cave and three altars of which two were set toward the south, and the third toward the east much honourably, and was covered all about with a red mantle.
-      And when the solemnities of the masses were done, and the people had taken holy communion, all returned to their proper places, and the bishop left there priests and clerks for to sing and say goodly the divine office.
+      <p>And of this last solemnity is said dedication, because on this day the said place in the Mount Gargan was dedicate and hallowed of him by revelation.</p>
+      <p>For when they of Syponte were returned from the occision of their adversaries, and had so noble victory, yet doubted they to enter into the said place and hallow it to the archangel.</p>
+      <p>Then the bishop went and asked counsel of Pope Pelagius, and he answered: </p>
+      <p class="conversation">If the church ought to be dedicated, that ought to be on that day that the victory was done, and if it please otherwise to <mark><abbr title="Saint">St.</abbr> Michael</mark>, men ought to require his will thereof.</p>
+      <p>And then the pope, the bishop, and the men of the city, fasted <time datetime="P3D">three days</time>, and <mark><abbr title="Saint">St.</abbr> Michael</mark> appeared to the bishop and said: </p>
+      <p class="conversation">It is no need to you to dedicate and hallow that I have hallowed, </p>
+      <p>and commanded that he should enter into that place the next day with the people, and should frequent it with prayers, and they should feel that he should be a special patron to them.</p>
+      <p>And he gave to them a sign of consecration – that was that they should go up thereto by a postern towards the east, and they should find there the steps of a man impressed in a marble stone.</p>
+      <p>Then the bishop on the morn, and much great people, came to the place and entered in, and found a great cave and three altars of which two were set toward the south, and the third toward the east much honourably, and was covered all about with a red mantle.</p>
+      <p>And when the solemnities of the masses were done, and the people had taken holy communion, all returned to their proper places, and the bishop left there priests and clerks for to sing and say goodly the divine office.
       And within the said church sourdeth clear water and sweet, which the common people drinketh and be healed thereby of many diverse maladies.</p>
-      <p>And when the pope heard these things he established to hallow this day in the honour of St. Michael and of all the holy angels, and to be kept holy through all the world.</p>
+      <p>And when the pope heard these things he established to hallow this day in the honour of <mark><abbr title="Saint">St.</abbr> Michael</mark> and of all the holy angels, and to be kept holy through all the world.</p>
 
 <!-- page 3 -->
 
       <h3 id="memoire-saint-michel" class="red">Memory: Laud, Praise, and Honour</h3>
       
-      <p>Fourthly, this solemnity is said the Memory of St. Michael, how well that we all solemnise this feast in the honour of all the archangels of our Lord.
-      We do the memory and the honours generally, and it appertaineth, and is behoveful to us, to give to them laud, praising, and honour, by manifold reasons expert, that is to wit, for they be our keepers, our ministers, our brethren, our neighbours, the bearers of our souls into heaven, and representers of our prayers unto God, right noble knights of the king of heaven, and perdurable comforters of them that be in heaviness and tribulations.</p>
+      <p>Fourthly, this solemnity is said the Memory of <mark><abbr title="Saint">St.</abbr> Michael</mark>, how well that we all solemnise this feast in the honour of all the archangels of our Lord.</p>
+      <p>We do the memory and the honours generally, and it appertaineth, and is behoveful to us, to give to them laud, praising, and honour, by manifold reasons expert, that is to wit, </p>
+      <ul>
+        <li>for they be our keepers, </li>
+        <li>our ministers, </li>
+        <li>our brethren, </li>
+        <li>our neighbours, </li>
+        <li>the bearers of our souls into heaven, </li>
+        <li>and representers of our prayers unto God, </li>
+        <li>right noble knights of the king of heaven, </li>
+        <li>and perdurable comforters of them that be in heaviness and tribulations.</li>
+      </ul>
 
-      <h4 id="anges-gardiens">Because They Be Our Keepers</h4>
+      <h4 id="anges-gardiens" class="red">Because They Be Our Keepers</h4>
       
-      <p>And first we ought to honour them for they be our keepers, wherefore we ought to worship them.
-      To every man be given two angels, one evil, or to stir him to ill, and one good, to keep him.
-      The good angels be deputed to the keeping of men in their birth, and after the nativity also, and be always with them when they be full grown. And in these three estates is an angel necessary to a man.
-      For when he is yet little in the womb he may be dead and be damned.
-      When he is out of the womb before he be grown, he may be let from baptism, and when he is grown he may be drawn to divers sins.
-      The devil deceiveth them that be grown, by fallacy and by hearkening.
-      He flattereth them by delices and blandishes, and oppresseth virtue by violence.
-      Therefore it is need that a good angel be deputed to the keeping of a man to the end that he address and induce man against the fallacy, that he exhort, and summon him to do good against fiattering and blandishes, and that he defend him from oppression against violence.</p>
+      <p>And first we ought to honour them for they be our keepers, wherefore we ought to worship them.</p>
+      <p>To every man be given two angels, one evil, or to stir him to ill, and one good, to keep him.</p>
+      <p>The good angels be deputed to the keeping of men in their birth, and after the nativity also, and be always with them when they be full grown. And in these three estates is an angel necessary to a man.</p>
+      <ul>
+        <li>
+          <p>For when he is yet little in the womb he may be dead and be damned.</p>
+        </li>
+        <li>
+          <p>When he is out of the womb before he be grown, he may be let from baptism, </p>
+        </li>
+        <li>
+          <p>and when he is grown he may be drawn to divers sins.</p>
+        </li>
+      </ul>
+      <p>The devil deceiveth them that be grown, by fallacy and by hearkening.
+      He flattereth them by delices and blandishes, and oppresseth virtue by violence.</p>
+      <p>Therefore it is need that a good angel be deputed to the keeping of a man to the end that he address and induce man against the fallacy, that he exhort, and summon him to do good against fiattering and blandishes, and that he defend him from oppression against violence.</p>
       <p>And the profit of the keeping of the angel to a man may be assigned in four manners.</p>
-      <p>The first, that the soul may profit in the weal and good of grace, and this doth the angel to the soul in three manners.
-      And the first is in to removing all letting [all hindrances] to do well and good, and that is signified in Exodi duodecimo, where the angel smote all the first begotten of Egypt Secondly, in awaking or exciting from sloth and that is signified Zachariæ quarto: “The angel of the Lord hath aroused me as a man that is waked out of his sleep.” Thirdly, in leading a man in the way of penance and bringing again, and this is signified in Tobit, in the fifth chapter in the angel that led him and brought him again.</p>
-      <p>The second profit that the angel doth, is that he fall not into sin, and this doth the angel in three manners.
-      First, in letting [preventing] the evil to be done that it be not done, and this is signified in the book of Numbers in the twenty-second chapter. For Balaam, which went for to curse Israel, was let of the angel.
-      Secondly, in blaming the sin past, that man depart from it, and that is signified in the book of Judges in the second chapter, how the angels blamed the children of Israel for breaking of the law, wherefor they wept.
-      Thirdly in bringing strength for to take away the sin present, and this is signified in Lot, when he was led out by force, he, his wife, and his daughters from the city of Sodom, that is to wit, from the customance of sin.</p>
-      <p>The third effect and profit is that if he fall, that he arise anon again, and this doth the angel in three manners.
-      First, in moving a man to contrition, and this is signified in Tobit, in the twelfth chapter, where, as he taught Tobias to anoint the eyes of his father with gall, that is to understand, contrition of the heart anointeth the eyes of the heart.
-      Secondly, in purging lips by confession, and that this is signified in Isaiah, the fifth chapter, where the angel purged the lips of Isaiah.
-      Thirdly, in enjoying to satisfaction, and that is signified in Luke, fifteenth chapter, that saith that greater joy is in heaven of a sinner doing penance than of ninety-nine rightful men which need no penance.</p>
-      <p>The fourth profit is that man fall not so oft into sin as the devil inciteth him thereto, and this doth he in three manners, that is to wit, in refraining the puissance and might of the devil, in affeebling the covetise and desire of sin, and in imprinting in our minds the passion of our Lord Jesu Christ, of which things it is said tofore.</p>
+      <p>The first, that the soul may profit in the weal and good of grace, and this doth the angel to the soul in three manners.</p>
+      <ul>
+        <li>
+          <p>And the first is in to removing all letting [all hindrances] to do well and good, and that is signified in Exodi duodecimo, where the angel smote all the first begotten of Egypt </p>
+        </li>
+        <li>
+          <p>Secondly, in awaking or exciting from sloth and that is signified Zachariæ quarto: </p>
+          <p class="conversation">“The angel of the Lord hath aroused me as a man that is waked out of his sleep.” </p>
+        </li>
+        <li>
+          <p>Thirdly, in leading a man in the way of penance and bringing again, and this is signified in Tobit, in the fifth chapter in the angel that led him and brought him again.</p>
+        </li>
+      </ul>
+      <p>The second profit that the angel doth, is that he fall not into sin, and this doth the angel in three manners.</p>
+      <ul>
+        <li>
+          <p>First, in letting [preventing] the evil to be done that it be not done, and this is signified in the book of Numbers in the twenty-second chapter. For Balaam, which went for to curse Israel, was let of the angel.</p>
+        </li>
+        <li>
+          <p>Secondly, in blaming the sin past, that man depart from it, and that is signified in the book of Judges in the second chapter, how the angels blamed the children of Israel for breaking of the law, wherefor they wept.</p>
+        </li>
+        <li>
+          <p>Thirdly in bringing strength for to take away the sin present, and this is signified in Lot, when he was led out by force, he, his wife, and his daughters from the city of Sodom, that is to wit, from the customance of sin.</p>
+        </li>
+      </ul>
+      <p>The third effect and profit is that if he fall, that he arise anon again, and this doth the angel in three manners.</p>
+      <ul>
+        <li>
+          <p>First, in moving a man to contrition, and this is signified in Tobit, in the twelfth chapter, where, as he taught Tobias to anoint the eyes of his father with gall, that is to understand, contrition of the heart anointeth the eyes of the heart.</p>
+        </li>
+        <li>
+          <p>Secondly, in purging lips by confession, and that this is signified in Isaiah, the fifth chapter, where the angel purged the lips of Isaiah.</p>
+        </li>
+        <li>
+          <p>Thirdly, in enjoying to satisfaction, and that is signified in Luke, fifteenth chapter, that saith that greater joy is in heaven of a sinner doing penance than of ninety-nine rightful men which need no penance.</p>
+        </li>
+      </ul>
+      <p>The fourth profit is that man fall not so oft into sin as the devil inciteth him thereto, and this doth he in three manners, that is to wit, </p>
+      <ul>
+        <li>
+          <p>in refraining the puissance and might of the devil, </p>
+        </li>
+        <li>
+          <p>in affeebling the covetise and desire of sin, </p>
+        </li>
+        <li>
+          <p>and in imprinting in our minds the passion of our Lord Jesu Christ, of which things it is said tofore.</p>
+        </li>
+      </ul>
 
       <h4 id="anges-servants">Because They Be Our Administrators</h4>
       
-      <p>We ought to honour them, secondly, for they be our administrators, like as the apostle saith, ad Hebreos x, “They be spirits of administration, all spirits be sent for us.”</p>
-      <p>The superiors be sent to the moyens [middling ones], the moyens be sent to the lowest, and the lowest be sent to us, and this sending cometh of the divine bounty.
-      And in this sending appeareth how much the divine bounty appertaineth to the love of our health.</p>
-      <p>Secondly, of the charity of the angel; for this sending appertaineth that it be of ardent charity specially to desire the health of others, wherefore Isaiah saith, “Lo! I am here Lord, send me forth.” And the angels may help us because they see that we have need of them, and may well overcome the evil spirits and angels, and therefore the law of charity angelic requireth that they be sent to us.</p>
-      <p>Thirdly, this sending is needful to the need of man, for they be sent to inflame our affection to love, wherefore, in sign hereof, it is read that they were sent in a fiery chair.
-      Secondly, they be sent to enlumine to understanding unto knowledge, and this is signified Apocalypsis x.
-      in the angel which had a book open in his hand.
-      Thirdly, they be sent for to strengthen in us all our perfection unto the end, and that is signified I Regum xix, where the angel brought to Elijah a loaf of bread baked under ashes and a vessel of water, and he ate and walked in the strength of that meat unto the mount of God, Oreb.</p>
+      <p>We ought to honour them, secondly, for they be our administrators, </p>
+      <p>like as the apostle saith, ad Hebreos x, </p>
+      <p class="conversation">“They be spirits of administration, all spirits be sent for us.”</p>
+      <ol>
+        <li>
+          <p>The superiors be sent to the moyens [middling ones], </p>
+        </li>
+        <li>
+          <p>the moyens be sent to the lowest, </p>
+        </li>
+        <li>
+          <p>and the lowest be sent to us, </p>
+        </li>
+      </ol>
+      <p>and this sending cometh of the divine bounty.</p>
+      <ol>
+        <li>
+          <p>And in this sending appeareth how much the divine bounty appertaineth to the love of our health.</p>
+        </li>
+        <li>
+          <p>Secondly, of the charity of the angel; for this sending appertaineth that it be of ardent charity specially to desire the health of others, wherefore Isaiah saith, </p>
+          <p class="conversation">“Lo! I am here Lord, send me forth.” </p>
+          <p>And the angels may help us because they see that we have need of them, and may well overcome the evil spirits and angels, and therefore the law of charity angelic requireth that they be sent to us.</p>
+        </li>
+        <li>
+          <p>Thirdly, this sending is needful to the need of man, </p>
+          <ol>
+            <li>
+              <p>for they be sent to inflame our affection to love, wherefore, in sign hereof, it is read that they were sent in a fiery chair.</p>
+            </li>
+            <li>
+              <p>Secondly, they be sent to enlumine to understanding unto knowledge, and this is signified Apocalypsis x.
+              in the angel which had a book open in his hand.</p>
+            </li>
+            <li>
+              <p>Thirdly, they be sent for to strengthen in us all our perfection unto the end, and that is signified I Regum xix, where the angel brought to Elijah a loaf of bread baked under ashes and a vessel of water, and he ate and walked in the strength of that meat unto the mount of God, Oreb.</p>
+            </li>
+          </ol>
+        </li>
+      </ol>
 
       <h4 id="anges-freres">Because They Be Our Brethren and Our Neighbours</h4>
       
-      <p>Thirdly, they ought to be honoured for they be our brethren and our neighbours, for all they that be chosen be taken to the orders of angels, the some unto the overest, and some to the lowest, and some to the middle, for the diversity of their merits.
+      <p>Thirdly, they ought to be honoured for they be our brethren and our neighbours, for all they that be chosen be taken to the orders of angels, </p>
+      <ol>
+        <li>the some unto the overest, </li>
+        <li>and some to the lowest, </li>
+        <li>and some to the middle, </li>
+      </ol>
+      <p>for the diversity of their merits.
       And howbeit that the Blessed Virgin be above all, like as St. Gregory showeth in his homily.
       For he saith:</p>
-      <p>There be some that take the small things, but yet they leave not to show it to the brethren, and they run in the number of Angels.
-      And there be they that may take the sovereignties of the secrets celestial and show it to others, and these be [with] the Archangels celestial.
-      And [there] be they that make marvellous signs and works puissantly, and these be they that with Virtues work.
-      And some there be that chase away the wicked spirits by the virtue of prayer and by strength of their power received of God, and these have their merits with the Potestates.
-      And there be some that by their virtues mount above the merits of them that be chosen, and dominate over the brethren, and sort their merit with the Principates.
-      And there be some that overcome and dominate over all vices in themselves, and they by right be called of the world, gods among men (like as God said to Moses, “Lo! I have established the god of Pharaoh”) and these be with the Dominations.
-      And there be some that sit in the thrones like presidents and examine the works and deeds of others, by whom when Holy Church is governed, all they that be chosen be judged, and these be with the Thrones.
-      And [there] be they that with the charity and love of God and their neighbour before others be full, and these by their merits have taken their sort in the number of Cherubim, for cherubim is said “the plenitude of science,” and as Paul saith, the plenitude of the law is love and charity.
-      And there be they that, embraced in the burning love of supernal contemplation, wish only to be in the desire of their maker.
-      They desire nothing of this world, but only be fed in the love of the Lord perdurable, they eschew all earthly things, and overpass by thought all temporal things.
-      They love, they burn, and rest in that burning love, they burn in loving and be inflamed in speaking, and all that ever they touch in any manner by word, they make them anon to burn in the love of God.
-      And where shall these take their sort but among the number of Seraphim?</p>
+      <ol>
+        <li>
+          <ol>
+            <li>
+              <p class="conversation">There be some that take the small things, but yet they leave not to show it to the brethren, and they run in the number of Angels.</p>
+            </li>
+            <li>
+              <p class="conversation">And there be they that may take the sovereignties of the secrets celestial and show it to others, and these be [with] the Archangels celestial.</p>
+            </li>
+            <li>
+              <p>And [there] be they that make marvellous signs and works puissantly, and these be they that with Virtues work.</p>
+            </li>
+          </ol>
+        </li>
+        <li>
+          <ol>
+            <li>
+              <p>And some there be that chase away the wicked spirits by the virtue of prayer and by strength of their power received of God, and these have their merits with the Potestates.</p>
+            </li>
+            <li>
+              <p>And there be some that by their virtues mount above the merits of them that be chosen, and dominate over the brethren, and sort their merit with the Principates.</p>
+            </li>
+            <li>
+              <p>And there be some that overcome and dominate over all vices in themselves, and they by right be called of the world, gods among men (like as God said to Moses, </p>
+              <p class="conversation">“Lo! I have established the god of Pharaoh”) </p>
+              <p>and these be with the Dominations.</p>
+            </li>
+          </ol>
+        </li>
+        <li>
+          <ol>
+            <li>
+              <p>And there be some that sit in the thrones like presidents and examine the works and deeds of others, by whom when Holy Church is governed, all they that be chosen be judged, and these be with the Thrones.</p>
+            </li>
+            <li>
+              <p>And [there] be they that with the charity and love of God and their neighbour before others be full, and these by their merits have taken their sort in the number of Cherubim, for cherubim is said “the plenitude of science,” and as Paul saith, the plenitude of the law is love and charity.</p>
+            </li>
+            <li>
+              <p>And there be they that, embraced in the burning love of supernal contemplation, wish only to be in the desire of their maker.
+              They desire nothing of this world, but only be fed in the love of the Lord perdurable, they eschew all earthly things, and overpass by thought all temporal things.
+              They love, they burn, and rest in that burning love, they burn in loving and be inflamed in speaking, and all that ever they touch in any manner by word, they make them anon to burn in the love of God.
+              And where shall these take their sort but among the number of Seraphim?</p>
+            </li>
+          </ol>
+        </li>
+      </ol>
       <p>Hæc Gregorius; this saith St. Gregory.</p>
 
       <h4 id="anges-guides">Because They Be Bearers of Our Souls Into Paradise</h4>
 
       <p>Fourthly, they ought to be honoured because that they be bearers of our souls into Paradise, and this do they in three manners.</p>
-      <p>The first, in making ready the way, as Malachi saith in the third chapter, “Lo! here I send mine angel which shall make ready thy way tofore thy face.”</p>
-      <p>Secondly, in bearing them to heaven by the way made ready, like as it is said in Exodus the four and twentieth chapter, “I send to thee mine angel which shall keep thee in thy way, and shall bring thee to the land which I have promised to thy fathers.”</p>
-      <p>Thirdly, in setting them in heaven, and hereof saith Luke, cap. xvi, “It was done when the beggar died, his soul was borne of angels into Abraham's bosom.”</p>
+      <ol>
+        <li>
+          <p>The first, in making ready the way, as Malachi saith in the third chapter, </p>
+          <p class="conversation">“Lo! here I send mine angel which shall make ready thy way tofore thy face.”</p>
+        </li>
+        <li>
+          <p>Secondly, in bearing them to heaven by the way made ready, like as it is said in Exodus the four and twentieth chapter, </p>
+          <p class="conversation">“I send to thee mine angel which shall keep thee in thy way, and shall bring thee to the land which I have promised to thy fathers.”</p>
+        </li>
+        <li>
+          <p>Thirdly, in setting them in heaven, and hereof saith Luke, cap. xvi, <p class="conversation">“It was done when the beggar died, his soul was borne of angels into Abraham's bosom.”</p>
+        </li>
+      </ol>
       
       <h4 id="anges-intercesseurs">Because They Be Representers of Our Souls Tofore God</h4>
       
       <p>Fifthly, they ought to be honoured because they be representers of our souls tofore God, and this representation is in three manners.</p>
-      <p>First, they represent our prayers tofore God, and this saith Tobit the xii chapter, “When thou prayedest with tears and buryedest the dead men, I offered thy prayer to our Lord.”</p>
-      <p>Secondly, they allege [mitigate]for us tofore our Lord, and hereof saith Job, the xxxiii chapter, “If there were an angel speaking for him and said one of a thousand, that he show the equity of the man, our Lord should have mercy and pity on him.”
-      Also Zechariah primo, “And the angel of our Lord answered and said: ‘O Lord of all strengths, shalt not thou have pity of Jerusalem and of the cities of Judah to whom thou art wroth? This is the seventieth year.’”</p>
-      <p>Thirdly, they show the sentence of God, as it is said in Daniel that the angel Gabriel flying said, “Sith [since] the beginning of the prayers the word issued out,” that is to wit, the sentence of God, and I am come for to show it to thee, for thou art a man of desires.
-      Of these three things saith Bernard upon the Canticles.
-      The angel seeketh moyen between the love and the lover in offering the desires and bringing gifts, and moveth her and pleaseth him.</p>
+      <ol>
+        <li>
+          <p>First, they represent our prayers tofore God, and this saith Tobit the xii chapter, </p>
+          <p class="conversation">“When thou prayedest with tears and buryedest the dead men, I offered thy prayer to our Lord.”</p>
+        </li>
+        <li>
+          <p>Secondly, they allege [mitigate]for us tofore our Lord, and hereof saith Job, the xxxiii chapter, </p>
+          <p class="conversation">“If there were an angel speaking for him and said one of a thousand, that he show the equity of the man, our Lord should have mercy and pity on him.”</p>
+          <p>Also Zechariah primo, </p>
+          <p class="conversation">“And the angel of our Lord answered and said: ‘O Lord of all strengths, shalt not thou have pity of Jerusalem and of the cities of Judah to whom thou art wroth? This is the seventieth year.’”</p>
+        </li>
+        <li>
+          <p>Thirdly, they show the sentence of God, as it is said in Daniel that the angel Gabriel flying said, </p>
+          <p class="conversation">“Sith [since] the beginning of the prayers the word issued out,” that is to wit, the sentence of God, and I am come for to show it to thee, for thou art a man of desires.”</p>
+        </li>
+      </ol>
+      <p>Of these three things saith Bernard upon the Canticles.</p>
+      <p class="conversation">“The angel seeketh moyen between the love and the lover in offering the desires and bringing gifts, and moveth her and pleaseth him.”</p>
 
       <h4 id="anges-chevaliers">Because They Be Right Noble Knights</h4>
       
-      <p>Sixthly, they ought to be honoured, for they be the right noble knights of the king perdurable, after that Job saith in the twenty-fifth chapter, “Is not this the noble number of his knights?”
-      For as we see in the knights of some king, that some of them dwell always in the hall of the king, and accompany the king, and sing honour and solace to the king, and some others keep the cities and castles of the king, and others fight against the enemies of the king, thus is it of the knights of Christ.</p>
-      <p>Some be in the hall royal, that is to say in the heaven imperial, and accompany always the king of kings, and sing always songs and gladness to his honour and glory, saying, “Sanctus, sanctus, sanctus, blessing, and clearness, and wisdom.”</p>
-      <p>And the others keep the cities, the towns, the castles, and the faubourgs [suburbs], they be deputed to the keeping of us, keeping the state of virgins, of continents, of married people, and the castles of religion.
-      Whereof Isaiah saith, “Upon the walls of Jerusalem I have established keepers.”
-      Others there be that fight and vanquish the enemies of God, of whom it is said in the Apocalypse, “There is a battle made in heaven,” that is, after some exposition in the church militant, Michael and his angels fought with the dragon.</p>
+      <p>Sixthly, they ought to be honoured, for they be the right noble knights of the king perdurable, after that Job saith in the twenty-fifth chapter, </p>
+      <p class="conversation">“Is not this the noble number of his knights?”</p>
+      <p>For as we see in the knights of some king, </p>
+      <ol>
+        <li>
+          <p>that some of them dwell always in the hall of the king, and accompany the king, and sing honour and solace to the king, </p>
+        </li>
+        <li>
+          <p>and some others keep the cities and castles of the king, </p>
+        </li>
+        <li>
+          <p>and others fight against the enemies of the king, thus is it of the knights of Christ.</p>
+        </li>
+      </ol>
+      <ol>
+        <li>
+          <p>Some be in the hall royal, that is to say in the heaven imperial, and accompany always the king of kings, and sing always songs and gladness to his honour and glory, saying, </p>
+          <p class="conversation">“Sanctus, sanctus, sanctus, blessing, and clearness, and wisdom.”</p>
+        </li>
+        <li>
+          <p>And the others keep the cities, the towns, the castles, and the faubourgs [suburbs], they be deputed to the keeping of us, keeping the state of virgins, of continents, of married people, and the castles of religion.
+          Whereof Isaiah saith, </p>
+          <p class="conversation">“Upon the walls of Jerusalem I have established keepers.”</p>
+        </li>
+        <li>
+          <p>Others there be that fight and vanquish the enemies of God, of whom it is said in the Apocalypse, </p>
+          <p class="conversation">“There is a battle made in heaven,” </p>
+          <p>that is, after some exposition in the church militant, <mark>Michael</mark> and his angels fought with the dragon.</p>
+        </li>
+      </ol>
 
       <h4 id="anges-consolateurs">Because They Be Comforters of Them that Be in Tribulation</h4>
       
-      <p>The seventh and the last they ought to be honoured, because they be comforters of them that be in tribulation, and hereof saith Zechariah in the first chapter, “The angel that spake to me good words were words of comfort.” And this do they in three manners.</p>
-      <p>First, in comforting and strengthening, Danielis decimo.
-      For whereas Daniel fell, the angel of our Lord touched him and said, “Be not afeard ne dread thee nothing, peace be to thee, comfort thyself and be boystous.”</p>
-      <p>Secondly, in keeping from impatience, and this saith David, “He hath commanded his angels to keep thee in all thy ways.”</p>
-      <p>Thirdly, in refreshing and lessing that tribulation, and that is signified in Daniel, the third chapter, there whereas the angel of our Lord descended in the furnace with three children, and made the middle of the furnace as it had been a wind blowing with a soft dew.</p>
-
+      <p>The seventh and the last they ought to be honoured, because they be comforters of them that be in tribulation, and hereof saith Zechariah in the first chapter, </p>
+      <p class="conversation">“The angel that spake to me good words were words of comfort.” </p>
+      <p>And this do they in three manners.</p>
+      <ol>
+        <li>
+          <p>First, in comforting and strengthening, Danielis decimo.
+          For whereas Daniel fell, the angel of our Lord touched him and said, </p>
+          <p class="conversation">“Be not afeard ne dread thee nothing, peace be to thee, comfort thyself and be boystous.”</p>
+        </li>
+        <li>
+          <p>Secondly, in keeping from impatience, and this saith David, </p>
+          <p class="conversation">“He hath commanded his angels to keep thee in all thy ways.”</p>
+        </li>
+        <li>
+          <p>Thirdly, in refreshing and lessing that tribulation, and that is signified in Daniel, the third chapter, there whereas the angel of our Lord descended in the furnace with three children, and made the middle of the furnace as it had been a wind blowing with a soft dew.</p>
+        </li>
+      </ol>
 
 <footer>
   <p class="red">Jacobus da Varagine, <cite>The Golden Legend</cite>, chapter 145.</p>
