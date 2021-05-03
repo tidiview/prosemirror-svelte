@@ -24,7 +24,7 @@
 
 <h2 id="chap141" class="red">saint Michel selon le texte du chapître 141 de <cite>La Légende Dorée</cite></h2>
 
-<h3 id="name" class="red"><le nom de Saint Michael</h3>
+<h3 id="name" class="red">le nom de Saint Michael</h3>
 
 <p><mark>Michel</mark> se comprend comme «Qui, comme Dieu?» et, à ce que dit Grégoire, chaque fois qu'il s'accomplit une grande merveille, c'est <mark>Michel</mark> qui est envoyé, pour signifier, par son action et par son nom, que personne ne peut faire ce qui revient à Dieu seul: aussi attribue-t-on à <mark>Michel</mark> lui-même nombre de faits qui manifestent une puissance admirable.</p>
 <p>Au témoignage de Daniel [<a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs">Daniel chapître 12 verset 1</a>], il surgira au temps de l’Antéchrist et se tiendra à côté des élus comme leur défenseur et protecteur.
@@ -38,7 +38,7 @@ Il a disputé le <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#n
 
 <h3 id="apparitions" class="red">les apparitions de cet ange sont multiples</h3>
 
-<h4 id="mont-garganus" class=" notesred">apparition de Garganus et du taureau</h4>
+<h4 id="mont-garganus" class="red">apparition de Garganus et du taureau</h4>
 
 <p>La première apparition de <mark>Michel</mark> est celle du mont Gargano.</p>
 <p>Dans les Pouilles se trouve une montagne ainsi désignée, près de la cité nommée Siponto.
@@ -53,7 +53,7 @@ Or en l'an du Seigneur <time datetime="390">390</time> habitait dans cette ville
 Par ce signe j'ai voulu prouver que j'en étais l'inspecteur et le gardien.»</p>
 <p>Sur-le-champ, l'évêque et les habitants s'y rendirent en procession, et, n'osant pas entrer dans la grotte, ils se tinrent en prière devant l'entrée.</p>
 
-<h4 id="mont-tombe" class=" notesred">apparition au mont Tombe</h4>
+<h4 id="mont-tombe" class="red">apparition au mont Tombe</h4>
 
 <p>La seconde apparition eut lieu dans les années du Seigneur <time datetime="710">710</time>, à ce qu'on rapporte.</p>
 <p>Au lieu dit La Tombe, <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_haymon" title="Haymon" id="tumba">Tumba</a>, situé non loin du bord de mer, à six milles de la ville d'Avranches, <mark>Michel</mark> apparut à l'évêque de la cité et lui ordonna de construire une église à cet endroit, pour y célébrer la mémoire de l'archange <mark>Michel</mark>, comme sur le mont Gargano.</p>
@@ -61,7 +61,7 @@ Par ce signe j'ai voulu prouver que j'en étais l'inspecteur et le gardien.»</p
 <p>Comme il s'interrogeait aussi sur les dimensions de l'église, il reçut l'ordre de lui donner la surface délimitée par la marche du taureau.</p>
 <p>Il y avait là deux énormes pierres qu'aucune force humaine n'aurait pu faire bouger: <mark>Michel</mark> apparut alors à un homme, lui ordonna d'aller là-bas et de prendre ces pierres.</p>
 <p>Il y alla et les déplaça comme si elles ne pesaient rien du tout.</p>
-<p>Après avoir édifié l'église, on prit sur le mont Gargano une partie de l'ornement que saint <mark>Michel</mark> avait déposé sur l'autel et une partie de la plaque de marbre sur laquelle il s'était tenu, et on les déposa en son église.</p>1
+<p>Après avoir édifié l'église, on prit sur le mont Gargano une partie de l'ornement que saint <mark>Michel</mark> avait déposé sur l'autel et une partie de la plaque de marbre sur laquelle il s'était tenu, et on les déposa en son église.</p>
 <p>Et comme il y avait pénurie d'eau, sur le conseil de l'ange on perça un trou dans un rocher: à ce qu'on dit, il s'en échappa aussitôt suffisamment d'eau pour alimenter l'endroit encore aujourd'hui.</p>
 <p>En ce lieu, cette apparition se célèbre solennellement le <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_tumba" title="Mont Tumba" id="calendes">dix-septième jour des calendes de novembre</a>.</p>
 <p>Il s'y déroula encore, dit-on, un miracle digne de mémoire.</p>
@@ -72,14 +72,14 @@ Par ce signe j'ai voulu prouver que j'en étais l'inspecteur et le gardien.»</p
 <p>Mais l'archange <mark>Michel</mark> lui sauva la vie et elle accoucha d'un fils en pleine mer.</p>
 <p>Elle le prit dans ses bras, l'allaita et, la mer lui laissant à nouveau le passage, elle en sortit toute joyeuse avec son enfant.</p>
 
-<h4 id="chateau-saint-ange" class notes="red">appartition au château saint-Ange</h4>
+<h4 id="chateau-saint-ange" class="red">appartition au château saint-Ange</h4>
 
 <p>La troisième apparition eut lieu à Rome, à ce qu'on lit, au temps du pape Grégoire.</p>
 <p>Ce dernier, en effet, avait institué les litanies majeures en raison de la peste bubonique, et il priait avec dévotion pour son peuple, lorsqu'il vit, sur le château jadis appelé mausolée d'Adrien, l'ange du Seigneur en train d'essuyer son glaive et de le remettre au fourreau.</p>
 <p>Saint Grégoire comprit alors que ses prières avaient été exaucées, et il construisit là une église en l'honneur des anges; aussi le château est-il appelé aujourd'hui encore château Saint-Ange.</p>
 <p>Cette apparition est célébrée le 8 des ides de mai, en même temps que celle du mont Gargano, au jour où l'archange <mark>Michel</mark> donna la victoire aux Sipontins.</p>
 
-<h4 id="de-hierarchia" class=" notesred">apparition dans les hiérarchies</h4>
+<h4 id="de-hierarchia" class="red">apparition dans les hiérarchies</h4>
 
 <p>La quatrième apparition est celle des hiérarchies des anges eux-mêmes.</p>
 <p>La première hiérarchie est dite «épiphanie», c'est-a-dire apparition supérieure, la hiérarchie moyenne «hyperphanie», c'est-a-dire apparition moyenne, et la dernière hiérarchie «hypophanie», c'est-à-dire apparition inférieure.</p>
@@ -88,45 +88,82 @@ Par ce signe j'ai voulu prouver que j'en étais l'inspecteur et le gardien.»</p
 <ol>
   <li>la hiérarchie supérieure comprend
     <ol>
-      <li>les séraphins,</li>
-      <li>les chérubins</li>
-      <li>et les trônes,</li>
+      <li>
+        <p>les séraphins,</p>
+      </li>
+      <li>
+        <p>les chérubins</p>
+      </li>
+      <li>
+        <p>et les trônes,</p>
+      </li>
     </ol>
   </li>
   <li>la hiérarchie moyenne, selon la répartition de <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_denis" title="Pseudo-Denis" id="denis">Denis</a>,
     <ol>
-      <li>les dominations,</li>
-      <li>les vertus</li>
-      <li>et les puissances,</li>
+      <li>
+        <p>les dominations,</p>
+      </li>
+      <li>
+        <p>les vertus</p>
+      </li>
+      <li>
+        <p>et les puissances,</p>
+      </li>
     </ol>
   <li>et la dernière, toujours selon Denis,
     <ol>
-      <li>les principautés,</li>
-      <li>les anges</li>
-      <li>et les archanges.</li>
+      <li>
+        <p>les principautés,</p>
+      </li>
+      <li>
+        <p>les anges</p>
+      </li>
+      <li>
+        <p>et les archanges.</p>
+      </li>
     </ol>
   </li>
 </ol>
 <p>Leur ordonnancement et leur répartition peuvent se saisir par comparaison avec les puissances terrestres.</p>
 <p>En effet, parmi les ministres soumis à un monarque, les uns, comme </p>
-  <ul>
-    <li>les chambellans, </li>
-    <li>les conseillers </li>
-    <li>et les assesseurs, </li>
-  </ul>
+  <ol>
+    <li>
+      <p>les chambellans, </p>
+    </li>
+    <li>
+      <p>les conseillers </p>
+    </li>
+    <li>
+      <p>et les assesseurs, </p>
+    </li>
+  </ol>
 <p>s'occupent directement de la personne du roi; les ordres de la première hiérarchie leur sont comparables.</p>
 <p>D'autres, pour administrer le royaume, ont des charges générales, et ne sont pas préposés à une province déterminée: c'est le cas </p>
-  <ul>
-    <li>des chefs de l'armée </li>
-    <li>et des juges de la cour; </li>
-  </ul>
+  <ol>
+    <li>
+      <p>des lieutenants, </p>
+    </li>
+    <li>
+      <p>des capitaines de l'armée </p>
+    </li>
+    <li>
+      <p>et des juges de la cour; </p>
+    </li>
+  </ol>
 <p>les ordres de la deuxième hiérarchie leur sont comparables.</p>
 <p>D'autres enfin, comme </p>
-  <ul>
-    <li>les prévôts, </li>
-    <li>les baillis </li>
-    <li>et autres officiers de rangs inférieurs du même type, </li>
-  </ul>
+  <ol>
+    <li>
+      <p>les prévôts, </p>
+    </li>
+    <li>
+      <p>les baillis </p>
+    </li>
+    <li>
+      <p>et autres officiers de rangs inférieurs du même type, </p>
+    </li>
+  </ol>
 <p>sont préposés au gouvernement d'une partie du royaume: ceux-là ont pour équivalents les ordres de la troisième hiérarchie.</p>
 <p>Les trois ordres de la première hiérarchie sont donc constitués pour assister Dieu et se tourner vers lui.</p>
 <p>Pour cela, trois qualités leur sont nécessaires: </p>
@@ -158,35 +195,66 @@ Par ce signe j'ai voulu prouver que j'en étais l'inspecteur et le gardien.»</p
 <p>Les trois ordres de la dernière hiérarchie sont constitués pour des fonctions déterminées et limitées.</p>
   <ol>
     <li>
-      Certains d'entre eux sont à la tête d'une seule province: ce sont ceux qui appartiennent à l'ordre des principautés, à l'image de ce qu'était le prince des Perses, qui dirigeait les Perses, dont parle Daniel <a href="https://www.aelf.org/bible/Dn/10" title="https://www.aelf.org/bible/Dn/10">(Daniel 10, 13.)</a>.
+      <p>Certains d'entre eux sont à la tête d'une seule province: ce sont ceux qui appartiennent à l'ordre des principautés, à l'image de ce qu'était le prince des Perses, qui dirigeait les Perses, dont parle Daniel <a href="https://www.aelf.org/bible/Dn/10" title="https://www.aelf.org/bible/Dn/10">(Daniel 10, 13.)</a>.</p>
     </li>
     <li>
-      Certains sont préposés au ministère d'un groupe, par exemple une cité, et on les appelle «archanges», d'autres à celui d'un particulier, et on les appelle «anges».
+      <p>Certains sont préposés au ministère d'un groupe, par exemple une cité, et on les appelle «archanges», d'autres à celui d'un particulier, et on les appelle «anges».
       On dit que ces derniers font les annonces de moindre importance, car leur ministère est limité à un seul homme; </p>
     </li>
     <li>
       <p>mais on dit que les archanges font des annonces majeures, car le bien d'un groupe a plus de valeur que celui d'un seul homme.</p>
     </li>
   </ol>
-<p>Pour la répartition des ordres de la première hiérarchie, <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_gregoire" title="Grégoire le Grand" id="gregoire">Grégoire</a> et <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_bernard" title="Bernard de Clairvaux" id="bernard">Bernard</a> s'accordent avec <a href="https://www.aelf.org/bible/Tb/8" title="https://www.aelf.org/bible/Tb/8" id="denis2">Denis</a>, car cette hiérarchie est constituée autour de la jouissance qui leur est accordée et qui consiste en l'amour fervent, pour les Séraphins, la connaissance profonde, pour les chérubins, et la possession perpétuelle, pour les trônes.</p>
+<p>Pour la répartition des ordres de la première hiérarchie, <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_gregoire" title="Grégoire le Grand" id="gregoire">Grégoire</a> et <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_bernard" title="Bernard de Clairvaux" id="bernard">Bernard</a> s'accordent avec <a href="https://www.aelf.org/bible/Tb/8" title="https://www.aelf.org/bible/Tb/8" id="denis2">Denis</a>, car cette hiérarchie est constituée autour </p>
+<ol>
+  <li>
+    <p>de la jouissance qui leur est accordée et qui consiste en l'amour fervent, pour les Séraphins, </p>
+  </li>
+  <li>
+    <p>la connaissance profonde, pour les chérubins, </p>
+  </li>
+  <li>
+    <p>et la possession perpétuelle, pour les trônes.</p>
+  </li>
+</ol>
 <p>Mais pour ce qui concerne la répartition des rôles dans deux ordres des hiérarchies moyenne et inférieure, à savoir les principautés et les vertus, ces auteurs divergent.</p>
 <p>En effet le point de vue de Grégoire et Bernard est le suivant: la hiérarchie moyenne possède la prééminence, la hiérarchie inférieure le ministère.</p>
 <p>Dans l'ordre des anges, la prééminence est triple:</p>
   <ol>
-    <li>certains l'exercent sur les esprits angéliques, et on les appelle «dominations», </li>
-    <li>d'autres sur les hommes de bien, et on les appelle «principautés», </li>
-    <li>d'autres sur les démons, et on les appelle «puissances».</li>
+    <li>
+      <p>certains l'exercent sur les esprits angéliques, et on les appelle «dominations», </p>
+    </li>
+    <li>
+      <p>d'autres sur les hommes de bien, et on les appelle «principautés», </p>
+    </li>
+    <li>
+      <p>d'autres sur les démons, et on les appelle «puissances».</p>
+    </li>
   </ol>
 <p>Leur rang et leur degré de dignité apparaissent ici de façon évidente.</p>
 <p>Quant à leur ministère, il est triple: </p>
   <ol>
-    <li>une partie consiste dans les œuvres, </li>
     <li>
-      une autre dans l'enseignement, c'est-à-dire dans l'enseignement des grandes
+      <p>une partie consiste dans les œuvres, </p>
     </li>
-    <li>et des petites choses; </li>
+    <li>
+      <p>une autre dans l'enseignement, c'est-à-dire dans l'enseignement des grandes</p>
+    </li>
+    <li>
+      <p>et des petites choses; </p>
+    </li>
   </ol>
-<p>le premier appartient aux vertus, le deuxième aux archanges, le troisième aux anges.</p>
+  <ol>
+    <li>
+      <p>le premier appartient aux vertus, </p>
+    </li>
+    <li>
+      <p>le deuxième aux archanges, </p>
+    </li>
+    <li>
+      <p>le troisième aux anges.</p>
+    </li>
+  </ol>
 
 <h4 id="infirme" class="red">apparition à l'homme qui ne pouvait ni boire ni manger</h4>
 
@@ -212,8 +280,8 @@ On connaît bien des victoires de l'archange <mark>Michel</mark> et des autres a
 
 <p>La première est celle qu'il accorda aux Sipontins, de la façon que voici.</p>
 <p>Peu de temps après la découverte du lieu dont il a été question plus haut, les Napolitains, encore païens, entreprirent de livrer une bataille rangée contre les Sipontins et les Bénéventins, qui habitent à cinquante milles environ de Siponte.</p>
-<p>Sur les conseils de leur évêque, les Sipontins demandèrent une trêve de trois jours, afin de pouvoir se livrer à un jeûne de cette durée avant d'implorer le secours de leur patron <mark>Michel</mark>.</p>
-<p>La troisième nuit, <mark>Michel</mark> apparut à l'évêque, dit que leurs prières avaient été entendues, et il leur promit la victoire, en leur recommandant de donner l'assaut aux ennemis à la quatrième heure du jour.</p>
+<p>Sur les conseils de leur évêque, les Sipontins demandèrent une trêve de trois jours, afin de pouvoir se livrer à un jeûne de cette durée avant d'implorer le secours de leur patron <mark>Michel</mark>.
+La troisième nuit, <mark>Michel</mark> apparut à l'évêque, dit que leurs prières avaient été entendues, et il leur promit la victoire, en leur recommandant de donner l'assaut aux ennemis à la quatrième heure du jour.</p>
 <p>Au moment de l'attaque, le mont Gargano retentit d'un immense tremblement, il se fit une pluie d'éclairs, et un brouillard cacha à la vue tout le sommet de la montagne, au point que du côté adverse six cents hommes tombèrent tant sous les traits de l'ennemi que sous ceux de la foudre.</p>
 <p>Quant aux autres, reconnaissant la puissance de l’archange, ils abandonnèrent l'erreur de l'idolâtrie et se soumirent sans plus tarder à la foi chrétienne.</p>
 
@@ -247,7 +315,9 @@ Ils nous en délivrent de trois façons.</p>
     <li>
       <p><span style="color: #b52b27;">Troisièmement,</span>
       ils nous délivrent en imprimant dans nos esprits la mémoire de la Passion du seigneur, ce qui est signifié dans l'Apocalypse, où on lit: Ne nuisez ni à la mer, ni à la terre, ni aux arbres, avant que nous ayons marqué <a href="https://www.aelf.org/bible/Ap/7" title="https://www.aelf.org/bible/Ap/7">(Apocalypse 7, 3.)</a>...</p>
-      <p>De même Ezéchiel: Mets le signe du Tau sur le front des hommes qui gémissent (Ézéchiel 9, 4.), car la lettre Tau a été faite sur le modèle de la croix, et ceux qui en portent le signe ne craignent pas l'ange exterminateur.</p>
+      <p>De même Ezéchiel: </p>
+      <p class="conversation">Mets le signe du Tau sur le front des hommes qui gémissent (Ézéchiel 9, 4.), </p>
+      <p>car la lettre Tau a été faite sur le modèle de la croix, et ceux qui en portent le signe ne craignent pas l'ange exterminateur.</p>
       <p>Aussi lit-on encore dans Ezéchiel: </p>
       <p class="conversation">Ne tuez pas celui sur lequel vous aurez vu le signe du <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree/page:2#note_tau" title="signe du Tau" id="tau">Tau</a> (Ezéchiel 9, 6.).</p>
     </li>
@@ -256,11 +326,14 @@ Ils nous en délivrent de trois façons.</p>
 <h4 id="victoire-antechrist" class="red">victoire finale sur l'antéchrist</h4>
 
 <p>La quatrième victoire est celle que l'archange <mark>Michel</mark> remportera sur l'antéchrist à l'heure où il le tuera.</p>
-<p>Alors, à ce que dit Daniel, le grand prince <mark>Michel</mark> se lèvera et, en soutien et protecteur des élus, il opposera sa puissance à l'antéchrist <a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs">(Daniel 12, 1.)</a>.</p>
-<p>Alors l'antéchrist, d'après la Glose sur l'Apocalypse (J'ai vu l'une des têtes de la bête blessée à mort <a href="https://www.aelf.org/bible/Ap/13" title="https://www.aelf.org/bible/Ap/13">(Apocalypse 13, 3.)</a>...), feindra d'être mort, se cachera <time datetime="P3D">durant trois jours</time>, et réapparaîtra en disant qu'il est ressuscité; par l'art magique, les démons transporteront son corps dans les airs, et avec admiration tous l'adoreront.</p>
-<p>Enfin, il gravira le mont des Oliviers, à ce que dit la Glose de II Thessaloniciens (II): (Lui que le seigneur Jésus mettra à mort <a href="https://www.aelf.org/bible/2Th/2" title="https://www.aelf.org/bible/2Th/2">(II Thessaloniciens 2, 8.)</a>...), et tandis qu'il y siégera sous son pavillon, sur son trône, à l'endroit vers lequel était monté le seigneur, <mark>Michel</mark> arrivera et le tuera.</p>
-<p>Par ce combat et cette victoire, on comprend, selon Grégoire, ce qui est dit dans l'Apocalypse: Il y eut un combat dans le ciel.</p>
-<p><mark>Michel</mark> <a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille">(Apocalypse 12, 7.)</a>....</p>
+<p>Alors, à ce que dit Daniel, </p>
+<p class="conversation">le grand prince <mark>Michel</mark> se lèvera et, en soutien et protecteur des élus, il opposera sa puissance à l'antéchrist <a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs">(Daniel 12, 1.)</a>.</p>
+<p>Alors l'antéchrist, d'après la Glose sur l'Apocalypse (J'ai vu l'une des têtes de la bête blessée à mort <a href="https://www.aelf.org/bible/Ap/13" title="https://www.aelf.org/bible/Ap/13">(Apocalypse 13, 3.)</a>...), </p>
+<p class="conversation">feindra d'être mort, se cachera <time datetime="P3D">durant trois jours</time>, et réapparaîtra en disant qu'il est ressuscité; par l'art magique, les démons transporteront son corps dans les airs, et avec admiration tous l'adoreront.</p>
+<p class="conversation">Enfin, il gravira le mont des Oliviers, à ce que dit la Glose de II Thessaloniciens (II): </p>
+<p class="conversation">Lui que le seigneur Jésus mettra à mort <a href="https://www.aelf.org/bible/2Th/2" title="https://www.aelf.org/bible/2Th/2">(II Thessaloniciens 2, 8.)</a>...), et tandis qu'il y siégera sous son pavillon, sur son trône, à l'endroit vers lequel était monté le seigneur, <mark>Michel</mark> arrivera et le tuera.</p>
+<p>Par ce combat et cette victoire, on comprend, selon Grégoire, ce qui est dit dans l'Apocalypse: </p>
+<p class="conversation">Il y eut un combat dans le ciel. <mark>Michel</mark> <a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille">(Apocalypse 12, 7.)</a>....</p>
 <p>Ce passage s'entend en effet du triple combat de <mark>Michel</mark>: </p>
 <ol>
   <li>celui qu'il a livré contre Lucifer, quand il l'a chassé du ciel, </li>
@@ -282,9 +355,7 @@ Ils nous en délivrent de trois façons.</p>
 <p>Dans cette grotte coule une eau limpide et très agréable au goût, que le peuple boit après la communion, et qui guérit diverses maladies.</p>
 <p>L'ayant appris, le pape décida que ce jour serait célébré en l'honneur de saint <mark>Michel</mark> et de toutes les saintes créatures spirituelles.</p>
 
-
 <!-- page 3 -->
-
 
 <h3 id="memoire-saint-michel" class="red">mémoire de saint Michel</h3>
 
@@ -307,87 +378,173 @@ Ils nous en délivrent de trois façons.</p>
 <p>Chaque homme se voit en effet donner deux anges, un mauvais qui le met à l'épreuve, et un bon qui veille sur lui.</p>
 <p>L'homme jouit de la garde de son bon ange au cours de sa venue au monde, quand il est encore dans le ventre de sa mère, tout de suite après sa naissance, quand il est hors du ventre de sa mère, et durant toute sa vie d'adulte.</p>
 <p>Car dans chacun de ces trois états, il a besoin de la garde de l'ange: </p>
-<ul>
+<ol>
   <li>
-    quand il est tout petit et encore dans le ventre de sa mère, il peut mourir et être damné; 
+    <p>quand il est tout petit et encore dans le ventre de sa mère, il peut mourir et être damné; </p>
   </li>
   <li>
-    avant l'âge adulte, et quand il est hors du ventre de sa mère, il peut être empêché d'accéder au baptême; 
+    <p>avant l'âge adulte, et quand il est hors du ventre de sa mère, il peut être empêché d'accéder au baptême; </p>
   </li>
   <li>
-    à l'âge adulte, il peut être séduit par différents péchés.
+    <p>à l'âge adulte, il peut être séduit par différents péchés.</p>
   </li>
-</ul>
+</ol>
 <p>Chez l'adulte, en effet, le diable égare la raison par ses ruses, flatte la volonté par ses séductions, et écrase la vertu par sa violence.</p>
 <p>Aussi était-il nécessaire qu'un bon ange soit délégué à ses côtés pour l'instruire et lui montrer la voie contre ces tromperies, pour l'exhorter et l'inciter au bien à l'encontre de ces séductions, et le défendre de l'oppresseur en s'opposant à cette violence.</p>
 <p>L'effet de la garde que l'ange assure chez l'homme peut prendre quatre formes.</p>
 <p>Premièrement, elle vise à ce que l'âme progresse vers le bienfait de la grâce, chose que l'ange accomplit de trois façons: </p>
-<ul>
-  <li>d'abord en supprimant en l'âme tout obstacle vers ce bienfait, ce qui est signifié dans le livre de l'Exode, quand l'ange a frappé les premiers-nés d'Egypte <a href="https://www.aelf.org/bible/Ex/12" title="https://www.aelf.org/bible/Ex/12">(Exode 12, 29.)</a>; </li>
-  <li>deuxièmement, en secouant sa paresse, ce qui est signifié dans Zacharie, où il est dit: L'ange du Seigneur m'a réveillé comme un homme qui sort du sommeil <a href="https://www.aelf.org/bible/Za/4" title="https://www.aelf.org/bible/Za/4">(Zacharie 4, 1.)</a>; </li>
-  <li>troisièmement, en la conduisant et la reconduisant sur la voie de la pénitence, ce qui est signifié dans Tobie par l'ange qui la conduit et la reconduit <a href="https://www.aelf.org/bible/Tb/5" title="https://www.aelf.org/bible/Tb/5">(Tobie 5, 20.)</a>.</li>
-</ul>
+<ol>
+  <li>
+    <p>d'abord en supprimant en l'âme tout obstacle vers ce bienfait, ce qui est signifié dans le livre de l'Exode, quand l'ange a frappé les premiers-nés d'Egypte <a href="https://www.aelf.org/bible/Ex/12" title="https://www.aelf.org/bible/Ex/12">(Exode 12, 29.)</a>; </p>
+  </li>
+  <li>
+    <p>deuxièmement, en secouant sa paresse, ce qui est signifié dans Zacharie, où il est dit: L'ange du Seigneur m'a réveillé comme un homme qui sort du sommeil <a href="https://www.aelf.org/bible/Za/4" title="https://www.aelf.org/bible/Za/4">(Zacharie 4, 1.)</a>; </p>
+  </li>
+  <li>
+    <p>troisièmement, en la conduisant et la reconduisant sur la voie de la pénitence, ce qui est signifié dans Tobie par l'ange qui la conduit et la reconduit <a href="https://www.aelf.org/bible/Tb/5" title="https://www.aelf.org/bible/Tb/5">(Tobie 5, 20.)</a>.</p>
+  </li>
+</ol>
 <p>Deuxièmement, la garde de l'ange vise à épargner à l'homme la chute dans le péché, ce que l'ange accomplit de trois façons: </p>
-<ul>
-  <li>d'abord, en lui évitant de commettre le mal dans le futur, ce qui est signifié dans Nombres, à travers Balaam qui, allant maudire Israël, en fut empêché par un ange <a href="https://www.aelf.org/bible/Nb/22" title="https://www.aelf.org/bible/Nb/22">(Nombres 22, 12-31.)</a>; </li>
-  <li>deuxièmement, en lui faisant des reproches sur son péché passé, ce qui est signifié dans Juges, où, après avoir été réprimandés pour leur transgression, les fils d'Israël élevèrent leurs clameurs et pleurèrent <a href="https://www.aelf.org/bible/Jg/2" title="https://www.aelf.org/bible/Jg/2">(Juges 2, 1-4.)</a>; </li>
-  <li>troisièmement, en lui faisant violence pour le tirer du péché présent, ce qui est signifié par la violence avec laquelle Loth et sa femme furent chassés de Sodome, c'est-à-dire de l'habitude du péché <a href="https://www.aelf.org/bible/Gn/19" title="https://www.aelf.org/bible/Gn/19">(Genèse 19, 15-17.)</a>.</li>
-</ul>
+<ol>
+  <li>
+    <p>d'abord, en lui évitant de commettre le mal dans le futur, ce qui est signifié dans Nombres, à travers Balaam qui, allant maudire Israël, en fut empêché par un ange <a href="https://www.aelf.org/bible/Nb/22" title="https://www.aelf.org/bible/Nb/22">(Nombres 22, 12-31.)</a>; </p>
+  </li>
+  <li>
+    <p>deuxièmement, en lui faisant des reproches sur son péché passé, ce qui est signifié dans Juges, où, après avoir été réprimandés pour leur transgression, les fils d'Israël élevèrent leurs clameurs et pleurèrent <a href="https://www.aelf.org/bible/Jg/2" title="https://www.aelf.org/bible/Jg/2">(Juges 2, 1-4.)</a>; </p>
+  </li>
+  <li>
+    <p>troisièmement, en lui faisant violence pour le tirer du péché présent, ce qui est signifié par la violence avec laquelle Loth et sa femme furent chassés de Sodome, c'est-à-dire de l'habitude du péché <a href="https://www.aelf.org/bible/Gn/19" title="https://www.aelf.org/bible/Gn/19">(Genèse 19, 15-17.)</a>.</p>
+  </li>
+</ol>
 <p>Son troisième effet est de le relever dans le cas où il tombe, ce que l'ange accomplit de trois façons:</p>
-<ul>
-  <li>d'abord, en l'amenant à la contrition, comme il est signifié dans Tobie, où, suivant l'enseignement de l'ange, Tobie enduit de fiel — symbole de la contrition — les yeux de son père, c'est-à-dire ceux de son cœur <a href="https://www.aelf.org/bible/Tb/11" title="https://www.aelf.org/bible/Tb/11">(Tobie 11, 7.)</a>;</li>
-  <li>deuxièmement, en lui purifiant les lèvres en vue de la confession, ce qui est signifié dans Isaïe, où les lèvres d'Isaïe sont purifiées par un ange <a href="https://www.aelf.org/bible/Tb/11" title="https://www.aelf.org/bible/Tb/11">(Isaïe 6, 6-7.)</a>;</li>
-  <li>troisièmement, en se réjouissant de sa résipiscence car, comme il est dit dans Luc: Il y aura plus de joie dans le ciel pour un seul pécheur <a href="https://www.aelf.org/bible/Lc/15" title="https://www.aelf.org/bible/Lc/15">(Luc 15,7.)</a> …</li>
-</ul>
-<p>Le quatrième effet est de l'empêcher de tomber dans autant de maux qu'il existe d'incitations de la part du diable, ce que l'ange fait de trois manières: en refrénant la puissance du diable, en affaiblissant la concupiscence, en imprimant dans nos cœurs la mémoire de la Passion du Seigneur, comme nous l'avons dit plus haut.</p>
+<ol>
+  <li>
+    <p>d'abord, en l'amenant à la contrition, comme il est signifié dans Tobie, où, suivant l'enseignement de l'ange, Tobie enduit de fiel — symbole de la contrition — les yeux de son père, c'est-à-dire ceux de son cœur <a href="https://www.aelf.org/bible/Tb/11" title="https://www.aelf.org/bible/Tb/11">(Tobie 11, 7.)</a>;</p>
+  </li>
+  <li>
+    <p>deuxièmement, en lui purifiant les lèvres en vue de la confession, ce qui est signifié dans Isaïe, où les lèvres d'Isaïe sont purifiées par un ange <a href="https://www.aelf.org/bible/Tb/11" title="https://www.aelf.org/bible/Tb/11">(Isaïe 6, 6-7.)</a>;</p>
+  </li>
+  <li>
+    <p>troisièmement, en se réjouissant de sa résipiscence car, comme il est dit dans Luc: Il y aura plus de joie dans le ciel pour un seul pécheur <a href="https://www.aelf.org/bible/Lc/15" title="https://www.aelf.org/bible/Lc/15">(Luc 15,7.)</a> …</p>
+  </li>
+</ol>
+<p>Le quatrième effet est de l'empêcher de tomber dans autant de maux qu'il existe d'incitations de la part du diable, ce que l'ange fait de trois manières: </p>
+<ol>
+  <li>
+    <p>en refrénant la puissance du diable, </p>
+  </li>
+  <li>
+    <p>en affaiblissant la concupiscence, </p>
+  </li>
+  <li>
+    <p>en imprimant dans nos cœurs la mémoire de la Passion du Seigneur, comme nous l'avons dit plus haut.</p>
+  </li>
+</ol>
 
 <h4 id="anges-servants" class="red">parce que les anges nous assistent</h4>
 
 <p>Deuxièmement, nous devons honorer les anges parce qu'ils sont nos assistants.</p>
-<p>Tous, en effet, comme le dit l'Épître aux Hébreux, sont des esprits qui nous assistent <a href="https://www.aelf.org/bible/He/1" title="https://www.aelf.org/bible/He/1">(Hébreux I, 14.)</a>.</p>
-<p>Car ils sont tous envoyés pour nous: les anges supérieurs sont envoyés vers les anges de second rang, les anges de second rang vers les anges inférieurs, et les anges inférieurs vers nous.</p>
-<p>Cet envoi convient à la bonté de Dieu, qui se manifeste en tant qu'elle aime faire notre salut, en y préposant les esprits les plus nobles, qui lui sont unis par une intime charité.</p>
-<p>Deuxièmement, il convient à la charité des anges, car c'est leur charité ardente qui les pousse à désirer au plus haut point le salut d'autrui, et c'est pourquoi Isaïe dit: </p>
-<p class="conversation">Me voici, Seigneur, envoie-moi <a href="https://www.aelf.org/bible/Tb/11" title="https://www.aelf.org/bible/Tb/11">(Isaïe 6, 8.)</a>! </p>
-<p>Or les anges peuvent nous aider en ce qu'ils voient que nous avons besoin de leur secours, et que nous sommes en proie aux attaques des mauvais anges: aussi la loi de la charité angélique exige-t-elle qu'ils nous soient envoyés.</p>
-<p>Troisièmement, cet envoi convient à l'indigence humaine, car les bons anges ont été envoyés pour enflammer nos sentiments en les guidant vers l'amour, chose que l’on symbolise en disant qu'ils ont été envoyés dans un char de feu;</p>
-<p>deuxièmement, ils ont été envoyés pour illuminer notre intellect en le guidant vers la connaissance, chose qui est signifiée dans l'Apocalypse, par l'ange qui tient à la main un livre ouvert <a href="https://www.aelf.org/bible/Ap/10" title="https://www.aelf.org/bible/Ap/10">(Apocalypse 10, 2.- 8.)</a>;</p>
-<p>troisièmement, ils ont été envoyés pour affermir en nous jusqu'à la fin ce qui est encore inachevé, chose qui est signifiée en I Rois, où l'ange apporta à Elie un pain cuit sous la cendre et un vase rempli d'eau: il mangea et, fortifié par cette nourriture, alla jusqu'à l'Oreb, la montagne de Dieu <a href="https://www.aelf.org/bible/1R/19" title="https://www.aelf.org/bible/1R/19">(I Rois 19, 6-8.)</a>.</p>
+<p>Tous, en effet, comme le dit l'Épître aux Hébreux, </p>
+<p class="conversation">sont des esprits qui nous assistent</p>
+<p class="conversation">Car ils sont tous envoyés pour nous <a href="https://www.aelf.org/bible/He/1" title="https://www.aelf.org/bible/He/1">(Hébreux I, 14.)</a>: </p>
+<ol>
+  <li>
+    <p>les anges supérieurs sont envoyés vers les anges de second rang, </p>
+  </li>
+  <li>
+    <p>les anges de second rang vers les anges inférieurs, </p>
+  </li>
+  <li>
+    <p>et les anges inférieurs vers nous.</p>
+  </li>
+</ol>
+<p>Cet envoi convient </p>
+<ol>
+  <li>
+    <p>à la bonté de Dieu, qui se manifeste en tant qu'elle aime faire notre salut, en y préposant les esprits les plus nobles, qui lui sont unis par une intime charité.</p>
+  </li>
+  <li>
+    <p>Deuxièmement, il convient à la charité des anges, car c'est leur charité ardente qui les pousse à désirer au plus haut point le salut d'autrui, et c'est pourquoi Isaïe dit: </p>
+    <p class="conversation">Me voici, Seigneur, envoie-moi <a href="https://www.aelf.org/bible/Tb/11" title="https://www.aelf.org/bible/Tb/11">(Isaïe 6, 8.)</a>! </p>
+    <p>Or les anges peuvent nous aider en ce qu'ils voient que nous avons besoin de leur secours, et que nous sommes en proie aux attaques des mauvais anges: aussi la loi de la charité angélique exige-t-elle qu'ils nous soient envoyés.</p>
+  </li>
+  <li>
+    <p>Troisièmement, cet envoi convient à l'indigence humaine, </p>
+    <ol>
+      <li>
+        <p>car les bons anges ont été envoyés pour enflammer nos sentiments en les guidant vers l'amour, chose que l’on symbolise en disant qu'ils ont été envoyés dans un char de feu;</p>
+      </li>
+      <li>
+        <p>deuxièmement, ils ont été envoyés pour illuminer notre intellect en le guidant vers la connaissance, chose qui est signifiée dans l'Apocalypse, par l'ange qui tient à la main un livre ouvert <a href="https://www.aelf.org/bible/Ap/10" title="https://www.aelf.org/bible/Ap/10">(Apocalypse 10, 2.- 8.)</a>;</p>
+      </li>
+      <li>
+        <p>troisièmement, ils ont été envoyés pour affermir en nous jusqu'à la fin ce qui est encore inachevé, chose qui est signifiée en I Rois, où l'ange apporta à Elie un pain cuit sous la cendre et un vase rempli 
+        d'eau: il mangea et, fortifié par cette nourriture, alla jusqu'à l'Oreb, la montagne de Dieu <a href="https://www.aelf.org/bible/1R/19" title="https://www.aelf.org/bible/1R/19">(I Rois 19, 6-8.)</a>.</p>
+      </li>
+    </ol>
+  </li>
+</ol>
 
 <h4 id="anges-freres" class="red">parce que les anges sont nos frères et nos concitoyens</h4>
 
 <p>Troisièmement, nous devons les honorer parce que ce sont nos frères et nos concitoyens.</p>
-<p>Tous les élus, en effet, rejoignent les ordres des anges, certains les ordres supérieurs, d'autres les ordres inférieurs, ou les ordres intermédiaires, selon la diversité de leurs mérites, la sainte Vierge étant au-dessus de tous.</p>
+<p>Tous les élus, en effet, rejoignent les ordres des anges, </p>
+<ol>
+  <li>
+    <p>certains les ordres supérieurs, </p>
+  </li>
+  <li>
+    <p>d'autres les ordres inférieurs, </p>
+  </li>
+  <li>
+    <p>ou les ordres intermédiaires, </p>
+  </li>
+</ol>
+<p>selon la diversité de leurs mérites, la sainte Vierge étant au-dessus de tous.</p>
 <p>C'est ce que semble suggérer saint Grégoire dans l'homélie où il dit:</p>
-<ul>
+<ol>
   <li>
-    <p class="conversation">«Certains saisissent peu de choses, mais ils ne laissent pas de les annoncer à leurs frères: ils sont au nombre des Anges; <p>
+    <ol>
+      <li>
+        <p class="conversation">«Certains saisissent peu de choses, mais ils ne laissent pas de les annoncer à leurs frères: ils sont au nombre des Anges; <p>
+      </li>
+      <li>
+        <p class="conversation">il en est qui ont le privilège de concevoir la totalité des secrets célestes et de les annoncer: ils sont avec les Archanges; </p>
+      </li>
+      <li>
+        i<p class="conversation">l en est qui font des miracles prodigieux et qui manifestent ainsi leur puissance: ils sont avec les Vertus; </p>
+      </li>
+    </ol>
   </li>
   <li>
-    <p class="conversation">il en est qui ont le privilège de concevoir la totalité des secrets célestes et de les annoncer: ils sont avec les Archanges; </p>
+    <ol>
+      <li>
+        <p class="conversation">il en est qui, par la vertu de leur prière et l'efficacité de la puissance qu'ils ont reçue, sont capables de mettre en fuite les esprits malins: ils sont avec les Puissances; </p>
+      </li>
+      <li>
+        <p class="conversation">il en est qui, par les vertus qu'ils ont reçues, transcendent les mérites des élus et sont les princes des élus leurs frères: ils partagent le mérite des Principautés; </p>
+      </li>
+      <li>
+        <p class="conversation">il en est qui, en eux, dominent tous les vices, en sorte que ce privilège de pureté leur vaut le nom de dieux parmi les hommes; aussi est-il dit à Moïse: </p>
+        <p class="conversation">Voici que je t'ai établi comme le dieu de Pharaon <a href="https://www.aelf.org/bible/Ex/7" title="https://www.aelf.org/bible/Ex/7">(Exode 7, 1.)</a>; </p>
+        <p>ceux-ci sont avec les Dominations; </p>
+      </li>
+    </ol>
   </li>
   <li>
-    i<p class="conversation">l en est qui font des miracles prodigieux et qui manifestent ainsi leur puissance: ils sont avec les Vertus; </p>
+    <ol>
+      <li>
+        <p class="conversation">il en est en qui le Seigneur préside comme sur son trône pour juger, les actions des autres, et ce sont eux qui, en dirigeant la sainte Église, ont généralement à juger de la faiblesse des actes des autres élus: ils sont avec les Trônes; </p>
+      </li>
+      <li>
+        <p class="conversation">il en est qui, plus que les autres, sont remplis de l'amour de Dieu et du prochain, et leurs mérites leur valent de figurer au nombre des chérubins, car «chérubin» signifie «plenitude de la science »; or d'après Paul, la plénitude de la loi, c'est l'amour <a href="https://www.aelf.org/bible/Rm/13" title="https://www.aelf.org/bible/Rm/13">(Romains 13, 10.)</a>; </p>
+      </li>
+      <li>
+        <p class="conversation">il en est qui, embrasés par l'amour de la contemplation suprême, n'aspirent qu'à rejoindre leur créateur, ne désirent plus rien en ce monde, se nourrissent du seul amour de l'éternité, rejettent toute préoccupation terrestre, transcendent en esprit tout ce qui est éphémère, aiment et brûlent, et trouvent le repos dans cet embrasement même, brûlent en aimant, enflamment en parlant, et, dès qu'ils s'adressent à quelqu'un, le font aussitôt brûler d'amour pour Dieu: ceux-là ne peuvent avoir été appelés qu'au nombre des Séraphins».</p>
+      </li>
+    </ol>
   </li>
-  <li>
-    <p class="conversation">il en est qui, par la vertu de leur prière et l'efficacité de la puissance qu'ils ont reçue, sont capables de mettre en fuite les esprits malins: ils sont avec les Puissances; </p>
-  </li>
-  <li>
-    <p class="conversation">il en est qui, par les vertus qu'ils ont reçues, transcendent les mérites des élus et sont les princes des élus leurs frères: ils partagent le mérite des Principautés; </p>
-  </li>
-  <li>
-    <p class="conversation">il en est qui, en eux, dominent tous les vices, en sorte que ce privilège de pureté leur vaut le nom de dieux parmi les hommes; aussi est-il dit à Moïse: Voici que je t'ai établi comme le dieu de Pharaon <a href="https://www.aelf.org/bible/Ex/7" title="https://www.aelf.org/bible/Ex/7">(Exode 7, 1.)</a>; ceux-ci sont avec les Dominations; </p>
-  </li>
-  <li>
-    <p class="conversation">il en est en qui le Seigneur préside comme sur son trône pour juger, les actions des autres, et ce sont eux qui, en dirigeant la sainte Église, ont généralement à juger de la faiblesse des actes des autres élus: ils sont avec les Trônes; </p>
-  </li>
-  <li>
-    <p class="conversation">il en est qui, plus que les autres, sont remplis de l'amour de Dieu et du prochain, et leurs mérites leur valent de figurer au nombre des chérubins, car «chérubin» signifie «plenitude de la science »; or d'après Paul, la plénitude de la loi, c'est l'amour <a href="https://www.aelf.org/bible/Rm/13" title="https://www.aelf.org/bible/Rm/13">(Romains 13, 10.)</a>; </p>
-  </li>
-  <li>
-    <p class="conversation">il en est qui, embrasés par l'amour de la contemplation suprême, n'aspirent qu'à rejoindre leur créateur, ne désirent plus rien en ce monde, se nourrissent du seul amour de l'éternité, rejettent toute préoccupation terrestre, transcendent en esprit tout ce qui est éphémère, aiment et brûlent, et trouvent le repos dans cet embrasement même, brûlent en aimant, enflamment en parlant, et, dès qu'ils s'adressent à quelqu'un, le font aussitôt brûler d'amour pour Dieu: ceux-là ne peuvent avoir été appelés qu'au nombre des Séraphins».</p>
-  </li>
-</ul>
+</ol>
 <p>Voilà ce que dit <a href="https://www.aelf.org/bible/Ex/23" title="https://www.aelf.org/bible/Ex/23" id="gregoire2">Grégoire</a>.</p>
 
 <h4 id="anges-guides" class="red">parce que les anges portent nos âmes vers le ciel</h4>
@@ -403,7 +560,8 @@ Ils nous en délivrent de trois façons.</p>
     <p class="conversation">«Voici que j'enverrai mon ange, qui te gardera en route et t'introduira dans la terre que j'ai promise à tes pères» <a href="https://www.aelf.org/bible/Ex/23" title="https://www.aelf.org/bible/Ex/23">(Exode 23, 20.)</a>;</p>
   </li>
   <li>
-    <p>troisièmement, en les plaçant dans le ciel, selon Luc: «Il se fit que le mendiant mourut et qu'il fut porté par un ange dans le sein d'Abraham» <a href="https://www.aelf.org/bible/Lc/16" title="https://www.aelf.org/bible/Lc/16">(Luc 16, 22.)</a>.</p>
+    <p>troisièmement, en les plaçant dans le ciel, selon Luc: </p>
+    <p class="conversation">«Il se fit que le mendiant mourut et qu'il fut porté par un ange dans le sein d'Abraham» <a href="https://www.aelf.org/bible/Lc/16" title="https://www.aelf.org/bible/Lc/16">(Luc 16, 22.)</a>.</p>
   </li>
 </ol>
 
@@ -433,21 +591,36 @@ Ils nous en délivrent de trois façons.</p>
 
 <p>Sixièmement, nous devons honorer les anges parce qu'ils sont les plus nobles soldats du Roi éternel, à ce գue dit Job: </p>
 <p class="conversation">«Peut-on compter le nombre de ses soldats?» <a href="https://www.aelf.org/bible/Jb/25" title="https://www.aelf.org/bible/Jb/25">(Job 25, 3)</a>. </p>
-<p><Et tout comme, parmi les soldats d'un roi, nous en voyons certains demeurer à la Cour, accompagner le roi, chanter pour le glorifier ou le distraire, tandis que d'autres gardent ses cités et ses châteaux, ou bien que d'autres repoussent ses ennemis, </p>
-<ul>
-  <li>de même parmi ces soldats du Christ certains restent toujours à la cour — c'est-à-dire dans l'empyrée — toujours aux côtés du Roi des rois, et toujours chantent des cantiques de joie et de louange, en disant: </p>
+<p><Et tout comme, parmi les soldats d'un roi, </p>
+<ol>
+  <li>
+    <p>nous en voyons certains demeurer à la Cour, accompagner le roi, chanter pour le glorifier ou le distraire, </p>
+  </li>
+  <li>
+    <p>tandis que d'autres gardent ses cités et ses châteaux, </p>
+  </li>
+  <li>
+    <p>ou bien que d'autres repoussent ses ennemis, </p>
+  </li>
+</ol>
+<ol>
+  <li>
+    <p>de même parmi ces soldats du Christ certains restent toujours à la cour — c'est-à-dire dans l'empyrée — toujours aux côtés du Roi des rois, et toujours chantent des cantiques de joie et de louange, en disant: </p>
     <p class="conversation">«Saint, saint, trois fois saint <a href="https://www.aelf.org/bible/Is/6" title="https://www.aelf.org/bible/Is/6">(Isaie 6, 3.)</a>...», </p>
     <p>et: </p>
     <p class="conversation">«Bénédiction, clarté, sagesse <a href="https://www.aelf.org/bible/Ap/7" title="https://www.aelf.org/bible/Ap/7">(Apocalypse 7, 12.)</a>...»; </p>
   </li>
   <li>
     <p>d'autres gardent cités, faubourgs, villages, domaines et châteaux: ce sont eux qui ont été préposés à notre garde, qui protègent la condition des vierges, des continents, des époux, et les demeures des hommes de Dieu, selon Isaïe <a href="https://www.aelf.org/bible/Is/62" title="https://www.aelf.org/bible/Is/62">(Isaïe 62, 6.)</a>: </p>
-    <p class="conversation">«Sur les murs, Jérusalem, j'ai établi des gardes; d'autres repoussent les ennemis de Dieu, c'est-à-dire les démons», </p>
+    <p class="conversation">«Sur les murs, Jérusalem, j'ai établi des gardes; </p>
+  </li>
+  <li>
+    <p>d'autres repoussent les ennemis de Dieu, c'est-à-dire les démons», </p>
     <p>selon l'Apocalypse: </p>
     <p class="conversation">«Et il se fit un combat dans le ciel», </p>
     <p>c'est-à-dire, d'après un commentaire, dans l'Eglise militante, Michel et ses anges combattaient le dragon <a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille">(Apocalypse 12,7.)</a>.</p>
   </li>
-</ul>
+</ol>
 
 <h4 id="anges-consolateurs" class="red">parce que les anges nous consolent dans nos tribulations></h4>
 
@@ -567,6 +740,8 @@ Ils nous en délivrent de trois façons.</p>
 </footer>
 
 </aside>
+
+</article>
 
 </article>
 `;
