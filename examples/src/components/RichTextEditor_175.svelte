@@ -4,7 +4,7 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `<!-- JA:142 -->
+  const html = `<!-- JA:142 EN:206 -->
 <article>
 
 <h1 class="red">Saint-Michel dans <cite>La Légende Dorée</cite></h1>
@@ -20,7 +20,11 @@
 <p>Des liens ont été établis à partir des citations pour rendre possible et facile pour ceux qui le souhaiterait, vérification des propos avancés en temps que citation.</p>
 </div>
 
+<article>
+
 <h2 id="chap141" class="red">saint Michel selon le texte du chapître 141 de <cite>La Légende Dorée</cite></h2>
+
+<h3 id="name" class="red"><le nom de Saint Michael</h3>
 
 <p><mark>Michel</mark> se comprend comme «Qui, comme Dieu?» et, à ce que dit Grégoire, chaque fois qu'il s'accomplit une grande merveille, c'est <mark>Michel</mark> qui est envoyé, pour signifier, par son action et par son nom, que personne ne peut faire ce qui revient à Dieu seul: aussi attribue-t-on à <mark>Michel</mark> lui-même nombre de faits qui manifestent une puissance admirable.</p>
 <p>Au témoignage de Daniel [<a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs">Daniel chapître 12 verset 1</a>], il surgira au temps de l’Antéchrist et se tiendra à côté des élus comme leur défenseur et protecteur.
@@ -88,6 +92,7 @@ Par ce signe j'ai voulu prouver que j'en étais l'inspecteur et le gardien.»</p
       <li>les chérubins</li>
       <li>et les trônes,</li>
     </ol>
+  </li>
   <li>la hiérarchie moyenne, selon la répartition de <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_denis" title="Pseudo-Denis" id="denis">Denis</a>,
     <ol>
       <li>les dominations,</li>
@@ -127,27 +132,27 @@ Par ce signe j'ai voulu prouver que j'en étais l'inspecteur et le gardien.»</p
 <p>Pour cela, trois qualités leur sont nécessaires: </p>
   <ol>
     <li>
-      un amour sans bornes, et c'est là le propre des Séraphins, dont le nom se comprend comme «les ardents»; 
+      <p>un amour sans bornes, et c'est là le propre des Séraphins, dont le nom se comprend comme «les ardents»; </p>
     </li>
     <li>
-      une connaissance parfaite, et c'est là le propre des chérubins, dont le nom se comprend comme «plénitude de la science»; 
+      <p>une connaissance parfaite, et c'est là le propre des chérubins, dont le nom se comprend comme «plénitude de la science»; </p>
     </li>
     <li>
-      une perpetuelle possession ou jouissance, et c'est là le propre des trônes, dont le nom se comprend comme «siège», parce que Dieu Siège et repose en eux tout en les faisant reposer en lui.
+      <p>une perpetuelle possession ou jouissance, et c'est là le propre des trônes, dont le nom se comprend comme «siège», parce que Dieu Siège et repose en eux tout en les faisant reposer en lui.</p>
     </li>
   </ol>
 <p>Les trois ordres de la hiérarchie moyenne sont constitués pour commander et administrer l’univers des hommes en général.</p>
 <p>Ce gouvernement consiste en trois choses: </p>
   <ol>
     <li>
-      d'abord à les diriger ou les commander, et c'est là le propre des dominations, qui ont pour rôle de régir les anges inférieurs, de les diriger dans tous les ministères divins, et de leur transmettre tous les commandements, ainsi que l'affirme Zacharie, où un ange dit à l'autre: 
+      <p>d'abord à les diriger ou les commander, et c'est là le propre des dominations, qui ont pour rôle de régir les anges inférieurs, de les diriger dans tous les ministères divins, et de leur transmettre tous les commandements, ainsi que l'affirme Zacharie, où un ange dit à l'autre: </p>
       <p class="conversation">«Cours vite parler à cet enfant» <a href="https://www.aelf.org/bible/Za/2" title="https://www.aelf.org/bible/Za/2">(Zacharie 2, 8.)</a>...</p>
     </li>
     <li>
-      Deuxièmement, ce gouvernement consiste à agir, et c'est là le propre des vertus, pour qui aucun commandement n'est impossible à exécuter, car il leur a été donné tout pouvoir sur les difficultés du ministère divin, et c'est la raison pour laquelle on leur attribue le pouvoir de faire des miracles.
+      <p>Deuxièmement, ce gouvernement consiste à agir, et c'est là le propre des vertus, pour qui aucun commandement n'est impossible à exécuter, car il leur a été donné tout pouvoir sur les difficultés du ministère divin, et c'est la raison pour laquelle on leur attribue le pouvoir de faire des miracles.</p>
     </li>
     <li>
-      Troisièmement, ce gouvernement consiste à repousser, c'est-à-dire à repousser les obstacles et les hostilités, et c'est là le propre des puissances, qui ont le pouvoir de réduire les puissances contraires. Cela est signifié dans Tobie, où il est dit que Raphaël enchaîna un démon dans le désert de la Haute-Egypte <a href="https://www.aelf.org/bible/Tb/8" title="https://www.aelf.org/bible/Tb/8">(Tobie 8, 3.)</a>.
+      <p>Troisièmement, ce gouvernement consiste à repousser, c'est-à-dire à repousser les obstacles et les hostilités, et c'est là le propre des puissances, qui ont le pouvoir de réduire les puissances contraires. Cela est signifié dans Tobie, où il est dit que Raphaël enchaîna un démon dans le désert de la Haute-Egypte <a href="https://www.aelf.org/bible/Tb/8" title="https://www.aelf.org/bible/Tb/8">(Tobie 8, 3.)</a>.</p>
     </li>
   </ol>
 <p>Les trois ordres de la dernière hiérarchie sont constitués pour des fonctions déterminées et limitées.</p>
@@ -157,7 +162,10 @@ Par ce signe j'ai voulu prouver que j'en étais l'inspecteur et le gardien.»</p
     </li>
     <li>
       Certains sont préposés au ministère d'un groupe, par exemple une cité, et on les appelle «archanges», d'autres à celui d'un particulier, et on les appelle «anges».
-      On dit que ces derniers font les annonces de moindre importance, car leur ministère est limité à un seul homme; mais on dit que les archanges font des annonces majeures, car le bien d'un groupe a plus de valeur que celui d'un seul homme.
+      On dit que ces derniers font les annonces de moindre importance, car leur ministère est limité à un seul homme; </p>
+    </li>
+    <li>
+      <p>mais on dit que les archanges font des annonces majeures, car le bien d'un groupe a plus de valeur que celui d'un seul homme.</p>
     </li>
   </ol>
 <p>Pour la répartition des ordres de la première hiérarchie, <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_gregoire" title="Grégoire le Grand" id="gregoire">Grégoire</a> et <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_bernard" title="Bernard de Clairvaux" id="bernard">Bernard</a> s'accordent avec <a href="https://www.aelf.org/bible/Tb/8" title="https://www.aelf.org/bible/Tb/8" id="denis2">Denis</a>, car cette hiérarchie est constituée autour de la jouissance qui leur est accordée et qui consiste en l'amour fervent, pour les Séraphins, la connaissance profonde, pour les chérubins, et la possession perpétuelle, pour les trônes.</p>
@@ -174,25 +182,22 @@ Par ce signe j'ai voulu prouver que j'en étais l'inspecteur et le gardien.»</p
   <ol>
     <li>une partie consiste dans les œuvres, </li>
     <li>
-      une autre dans l'enseignement, c'est-à-dire dans l'enseignement 
-      <ul>
-        <li>des grandes </li>
-        <li>et des petites choses; </li>
-      </ul>
-      le premier appartient aux vertus, le deuxième aux archanges, le troisième aux anges.
+      une autre dans l'enseignement, c'est-à-dire dans l'enseignement des grandes
     </li>
+    <li>et des petites choses; </li>
   </ol>
+<p>le premier appartient aux vertus, le deuxième aux archanges, le troisième aux anges.</p>
 
 <h4 id="infirme" class="red">apparition à l'homme qui ne pouvait ni boire ni manger</h4>
 
 <p>La cinquième apparition est celle dont parle l'<a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_histoiretripartite" title="Histoire tripartite" id="histoiretripartite">Histoire tripartite</a>.
-En effet, près de Constantinople se trouve un lieu où était jadis honorée la déesse Vesta, et où s'élève aujourd'hui une église dédiée à saint <mark>Michel</mark>: l'endroit s'appelle d'ailleurs Michaelium.
-Un homme du nom d'Aquilinus avait été atteint d'une fièvre très brûlante, provoquée par des taches rouges.
+En effet, près de Constantinople se trouve un lieu où était jadis honorée la déesse Vesta, et où s'élève aujourd'hui une église dédiée à saint <mark>Michel</mark>: l'endroit s'appelle d'ailleurs Michaelium.</p>
+<p>Un homme du nom d'Aquilinus avait été atteint d'une fièvre très brûlante, provoquée par des taches rouges.
 Les médecins lui donnèrent une potion, qu'il vomit, tant et si bien qu'à partir de ce moment-là il rendit tout ce qu'il mangeait ou buvait.
-Se sentant près de mourir, il se fit conduire dans l'église Saint-<mark>Michel</mark>, dans l'idée d'y mourir ou d'y être guéri.
-<mark>Michel</mark> lui apparut, et lui dit de se préparer un mélange de miel, de vin et de poivre, et d'y tremper tous ses aliments: il recouvrerait ainsi sa pleine santé.
-Il le fit, et se trouva totalement guéri, bien que la médecine semble déconseiller de donner aux colériques des potions qui échauffent.
-Voilà ce que dit l'Histoire tripartite.</p>
+Se sentant près de mourir, il se fit conduire dans l'église Saint-<mark>Michel</mark>, dans l'idée d'y mourir ou d'y être guéri.</p>
+<p><mark>Michel</mark> lui apparut, et lui dit de se préparer un mélange de miel, de vin et de poivre, et d'y tremper tous ses aliments: il recouvrerait ainsi sa pleine santé.</p>
+<p>Il le fit, et se trouva totalement guéri, bien que la médecine semble déconseiller de donner aux colériques des potions qui échauffent.</p>
+<p>Voilà ce que dit l'Histoire tripartite.</p>
 
 
 <!-- page 2 -->
