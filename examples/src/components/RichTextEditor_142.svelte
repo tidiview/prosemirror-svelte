@@ -88,14 +88,23 @@
 <p>というのは、教皇が俗に〈よこね〉とよばれているペストの流行を終わらせるために大がかりな祈願行列をくりだし、人びとの救霊のために祈っていたとき、ハドリアヌス霊廟とよばれていた城のうえにひとりの天使が立っているのが見えた。</p>
 <p>天使は、血にぬれた剣をぬぐい、<ruby>鞘<rp>(</rp><rt>さや</rt><rp>)</rp></ruby>におさめた。</p>
 <p>教皇は、これを見て、神が自分の祈りを聞きとどけてくださったのだと理解し、その場所に天使をたたえて教会を建てた。それにちなんで、この城も、今日にいたるまで 〈<a href="#note-saintange" title="聖天使城" id="saintange2"><ruby lang="ja">聖天使城<rp>(</rp><rt lang="it">Castel&#160;Sant'Angelo</rt><rp>)</rp></ruby></a>〉 とよばれている。</p>
-<p>この出現は、聖<mark>ミカエル</mark>がガルガーノの山にあらわれて、シポントゥムの町の人たちに勝利をあたえた出現とおなじく、５月８日に祝われる。</p>
+<p>この出現は、聖<mark>ミカエル</mark>がガルガーノの山にあらわれて、シポントゥムの町の人たちに勝利をあたえた出現とおなじく、<time datetime="05-08">５月８日</time>に祝われる。</p>
 
 <h4 id="de-hierarchia" class="red">天上位階での出現</h4>
 
 <p>第四の出現は、天使たちの<a href="#note-hierarchia" title="階級秩序" id="hierarchia">階級秩序</a>のなかにある。</p>
-<p>第一の階級は、〈<ruby lang="ja">エピパニア<rp>(</rp><rt lang="la">epiphania</rt><rp>)</rp></ruby>〉すなわち上級の出現とよばれる。</p>
-<p>第二の階級は、〈<ruby lang="ja">ヒュポパニア<rp>(</rp><rt lang="la">hyperphania</rt><rp>)</rp></ruby>〉すなわち中級の出現とよばれ、第三の階級は、〈<ruby lang="ja">ヒュポパニア<rp>(</rp><rt lang="la">hypophania</rt><rp>)</rp></ruby>〉すなわち下級の出現と言われる。</p>
-<p><ruby>階級秩序<rp>(</rp><rt>hierarchia</rt><rp>)</rp></ruby>という語は、〈神聖な〉の意の<ruby lang="ja">イエラル<rp>(</rp><rt lang="la">hierar</rt><rp>)</rp></ruby>と〈王君〉の意の<ruby lang="ja">アルコス<rp>(</rp><rt lang="la">archos</rt><rp>)</rp></ruby>とから来ていて、〈聖王国〉という意味である。</p>
+<ol>
+  <li>
+    <p>第一の階級は、〈<ruby lang="ja">エ<rp>(</rp><rt lang="la">e</rt><rp>)</rp>ピ<rp>(</rp><rt lang="la">pi</rt><rp>)</rp>パ<rp>(</rp><rt lang="la">pha</rt><rp>)</rp>ニア<rp>(</rp><rt lang="la">nia</rt><rp>)</rp></ruby>〉すなわち上級の出現とよばれる。</p>
+  </li>
+  <li>
+    <p>第二の階級は、〈<ruby lang="ja">ヒュ<rp>(</rp><rt lang="la">hy</rt><rp>)</rp>ペル<rp>(</rp><rt lang="la">per</rt><rp>)</rp>パ<rp>(</rp><rt lang="la">pha</rt><rp>)</rp>ニア<rp>(</rp><rt lang="la">nia</rt><rp>)</rp></ruby>〉すなわち中級の出現とよばれ、</p>
+  </li>
+  <li>
+    <p>第三の階級は、〈<ruby lang="ja">ヒュ<rp>(</rp><rt lang="la">hy</rt><rp>)</rp>ポ<rp>(</rp><rt lang="la">po</rt><rp>)</rp>パ<rp>(</rp><rt lang="la">pha</rt><rp>)</rp>ニア<rp>(</rp><rt lang="la">nia</rt><rp>)</rp></ruby>〉すなわち下級の出現と言われる。</p>
+  </li>
+</ol>
+<p><ruby>階級秩序<rp>(</rp><rt>hierarchia</rt><rp>)</rp></ruby>という語は、〈神聖な〉の意の<ruby lang="ja">イエ<rp>(</rp><rt lang="la">hie</rt><rp>)</rp>ラル<rp>(</rp><rt lang="la">rar</rt><rp>)</rp></ruby>と〈王君〉の意の<ruby lang="ja">アル<rp>(</rp><rt lang="la">ar</rt><rp>)</rp>コス<rp>(</rp><rt lang="la">chos</rt><rp>)</rp></ruby>とから来ていて、〈聖王国〉という意味である。</p>
 <p>これら三級には、それぞれ三隊がある。</p>
 <ol>
   <li>上級には
@@ -112,7 +121,7 @@
     </ol>
     の三隊がある。
   </li>
-  <li>中級には、<a href="#note-denis" title="ディオニュシウス" id="denis">ディオニュシウス¹</a>によると、
+  <li>中級には、<a href="#note-denis" title="ディオニュシウス" id="denis">ディオニュシウス</a>によると、
     <ol>
       <li>
         <p><ruby>主天使<rp>(</rp><rt>ドミナテイオネス</rt><rp>)</rp></ruby>、</p>
@@ -126,7 +135,7 @@
     </ol>
     の三隊がある。
   </li>
-  <li>下級には、おなじく<a href="#note-denis" title="ディオニュシウス" id="denis2">ディオニュシウス²</a>によると、
+  <li>下級には、おなじく<a href="#note-denis" title="ディオニュシウス" id="denis2">ディオニュシウス</a>によると、
     <ol>
       <li>
         <p><ruby>権天使<rp>(</rp><rt>プリンキパトウス</rt><rp>)</rp></ruby>、</p>
@@ -139,26 +148,26 @@
       </li>
     </ol>
     の三隊がある。
-  </ol>
+  </li>
 </ol>
 <p>地上の王君に仕える家来たちとおなじく、これらの<ruby>聖<rp>(</rp><rt>せい</rt><rp>)</rp>秩<rp>(</rp><rt>ちつ</rt><rp>)</rp></ruby>にも、それぞれ位格と職能に違いがある。</p>
-<p>というのは、ひとりの王に仕える家来たちのなかには、侍従や顧問や近侍のように直接王個人に仕える者がいる。</p>
-<p>上級の三隊は、これに似ている。</p>
-<p>また、</p>
+<p>というのは、ひとりの王に仕える家来たちのなかには、侍従や顧問や近侍のように直接王個人に仕える者がいる。
+上級の三隊は、これに似ている。
+また、</p>
   <ol>
     <li>
-      <p>軍司の軍中尉や</p>
+      <p>侍従長や</p>
     </li>
     <li>
-      <p>大尉</p>
+      <p>参事官</p>
     </li>
     <li>
       <p>宮廷判事のように、</p>
     </li>
   </ol>
-<p>国政全般にたずさわり、個々の地域に配属されない官僚たちもいる。</p>
-<p>中級の三隊は、これに相当する。</p>
-<p>さらに、</p>
+<p>国政全般にたずさわり、個々の地域に配属されない官僚たちもいる。
+中級の三隊は、これに相当する。
+さらに、</p>
   <ol>
     <li>
       <p>代官や</p>
@@ -170,10 +179,10 @@
       <p>その他の下級役人のように、</p>
     </li>
   </ol>
-<p>国内の一地域を受けもつ者もいる。</p>
-<p>下級の三隊は、これに似ている。</p>
-<p>上級三隊は、神のおそばにいて、神と一家をなしている。</p>
-<p>このためには、三つのことが必要である。</p>
+<p>国内の一地域を受けもつ者もいる。
+下級の三隊は、これに似ている。</p>
+<p>上級三隊は、神のおそばにいて、神と一家をなしている。
+このためには、三つのことが必要である。</p>
   <ol>
     <li>
       <p>まず第一は、至高の愛である。
@@ -186,17 +195,18 @@
       <ruby>智天使<rp>(</rp><rt>ケルビム</rt><rp>)</rp></ruby>と言われるのは、そのためである。</p>
     </li>
     <li>
-      <p>必要な第三のものは、不断の把握と享受である。</p>
+      <p>必要な第三のものは、不断の把握と享受である。
+      これは、トロネがもっている。
+      <ruby>座天使<rp>(</rp><rt>トロネ</rt><rp>)</rp></ruby>とよばれるのは、そのためである。</p>
     </li>
   </ol>
-<p>これは、トロネがもっている。<ruby>座天使<rp>(</rp><rt>トロネ</rt><rp>)</rp></ruby>とよばれるのは、そのためである。</p>
 <p>主は、彼らをご自身のなかにやすらわせる一方で、彼らのうえに座し、やすらわれるからである。</p>
-<p>中級三隊は、人間全般にかかわることをつかさどっている。</p>
-<p>この仕事は、三つのことから成っている。</p>
-<p>第一は、指図や命令をあたえることである。</p>
+<p>中級三隊は、人間全般にかかわることをつかさどっている。
+この仕事は、三つのことから成っている。</p>
   <ol>
     <li>
-      <p>これをおこなうのは、ドミナティオネスすなわち<ruby>主天使<rp>(</rp><rt>dominationes</rt><rp>)</rp></ruby>である。
+      <p>第一は、指図や命令をあたえることである。
+      これをおこなうのは、ドミナティオネスすなわち<ruby>主天使<rp>(</rp><rt>dominationes</rt><rp>)</rp></ruby>である。
       主天使たちは、下級の天使たちを支配する権限をもち、彼らが神のために勤めるのを指揮し、あらゆる命令をあたえる。
       たとえば、『ザカリア書』（２・４）で、ひとりの天使がべつの天使にむかって、</p>
       <p class="conversation">「走っていって、あの若者に伝えなさい」と言うのがそれである。</p>
@@ -224,16 +234,18 @@
     </li>
     <li>
       <p>また、ひとつの町のようなある集団のうえにだけ君臨している天使もいる。
-      これが、アルカンゲリすなわち大天使である。
-      さらに、個々の人間を守護してくれる天使もある。
+      これが、アルカンゲリすなわち大天使である。</p>
+    </li>
+    <li>
+      <p>さらに、個々の人間を守護してくれる天使もある。
       これは、たんに<ruby>天使<rp>(</rp><rt>アンゲリ</rt><rp>)</rp></ruby>とのみよばれる。
       たんなる<ruby>天使<rp>(</rp><rt>アンゲリ</rt><rp>)</rp></ruby>たちは、ひとりの人間にだけかかわるから小事を伝えるとされている。
       これにたいして、<ruby>大天使<rp>(</rp><rt>アルカンゲリ</rt><rp>)</rp></ruby>は、大事を伝えるとされている。
       というのは、個人の救済よりも多くの人たちの救済のほうが大事だからである。</p>
     </li>
   </ol>
-<p>上級三隊の決めかたについては、<a href="#note-gregorius" title="聖グレゴリウス" id="gregorius2">聖グレゴリウス</a>と<a href="#note-saintbernard" title="聖ベルナルドゥス" id="saintbernard">聖ベルナルドゥス</a>も、上述の<a href="#note-denis" title="ディオニュシウス" id="denis3">ディオニュシウス³</a>の見解と一致している。</p>
-<p>というのは、このふたりの聖人も、</p>
+<p>上級三隊の決めかたについては、<a href="#note-gregorius" title="聖グレゴリウス" id="gregorius2">聖グレゴリウス</a>と<a href="#note-saintbernard" title="聖ベルナルドゥス" id="saintbernard">聖ベルナルドゥス</a>も、上述の<a href="#note-denis" title="ディオニュシウス" id="denis3">ディオニュシウス</a>の見解と一致している。
+というのは、このふたりの聖人も、</p>
 <ol>
   <li>
     <p><ruby>熾天使<rp>(</rp><rt>セラピム</rt><rp>)</rp></ruby>は神を喜びとすること、すなわち熾烈な愛を意味し、</p>
@@ -245,10 +257,10 @@
     <p><ruby>座天使<rp>(</rp><rt>トロネ</rt><rp>)</rp></ruby>は神のなかにやすらうことをあらわすと言っているからである。</p>
   </li>
 </ol>
-<p>ところが、中級と下級の決めかたになると、ニつの隊にかんして<a href="#note-denis" title="ディオニュシウス" id="denis4">ディオニュシウス⁴</a>と意見が食いちがっているようにおもわれる。</p>
+<p>ところが、中級と下級の決めかたになると、ニつの隊にかんして<a href="#note-denis" title="ディオニュシウス" id="denis4">ディオニュシウス</a>と意見が食いちがっているようにおもわれる。</p>
 <p>それは、<ruby>権天使<rp>(</rp><rt>プリンキパトウス</rt><rp>)</rp></ruby>と<ruby>力天使<rp>(</rp><rt>ウイルトウテス</rt><rp>)</rp></ruby>のニ隊についてである。</p>
-<p>というのは、グレゴリウスとベルナルドゥスは、<a href="#note-denis" title="ディオニュシウス" id="denis5">ディオニュシウス⁵</a>と見解が異なり、中級の隊は支配統治をつかさどり、下級の隊は奉仕することが任務であると述べているからである。</p>
-<p>そして、天使たちは、三つにわかれて支配する。</p>
+<p>というのは、グレゴリウスとベルナルドゥスは、<a href="#note-denis" title="ディオニュシウス" id="denis5">ディオニュシウス</a>と見解が異なり、中級の隊は支配統治をつかさどり、下級の隊は奉仕することが任務であると述べているからである。
+そして、天使たちは、三つにわかれて支配する。</p>
   <ol>
     <li>
       <p>善霊を支配する者、これが<ruby>主天使<rp>(</rp><rt>ドミナテイオネス</rt><rp>)</rp></ruby>である。</p>
@@ -260,8 +272,8 @@
       <p>悪霊を支配するのが、<ruby>能天使<rp>(</rp><rt>ポテスタテス</rt><rp>)</rp></ruby>である。</p>
     </li>
   </ol>
-<p>ここから中級天使たちの序列が明らかになる。</p>
-<p>奉仕にも三段階がある。</p>
+<p>ここから中級天使たちの序列が明らかになる。
+奉仕にも三段階がある。</p>
   <ol>
     <li>
       <p>奇跡をおこなうこと、</p>
@@ -607,15 +619,15 @@
         主がモーセにむかって、〈わたしは、あなたをファラオにたいして神のごときものとする〉（『出エ』７・１）と言われた言葉にふさわしいような人たち。
         こういう人たちは、<ruby>主天使<rp>(</rp><rt>ドミナテイオネス</rt><rp>)</rp></ruby>とともに住む。</p>
       </li>
+    </ol>
+  </li>
+  <li>
+    <ol>
       <li>
         <p class="conversation">主が<ruby>御<rp>(</rp><rt>み</rt><rp>)</rp>座<rp>(</rp><rt>ざ</rt><rp>)</rp></ruby>にすわるようにその内部にやどって、人びとの行為をお裁きになる人たち。
         聖会を治め、すべての信者たちの弱きわざを裁く人たち。
         この人たちは、<ruby>座天使<rp>(</rp><rt>トロネ</rt><rp>)</rp></ruby>のもとに行く。</p>
       </li>
-    </ol>
-  </li>
-  <li>
-    <ol>
       <li>
         <p class="conversation">ほかのすべての人びとにまさって神と隣人にたいする愛にみちみちている人たち。
         彼らは、<ruby>智天使<rp>(</rp><rt>ケルビム</rt><rp>)</rp></ruby>のなかに加えられる。
@@ -773,7 +785,7 @@
 
 <footer>
   <p class="puce">文書に戻る：<a href="#gregorius" title="聖グレゴリウス">聖グレゴリウスは、こう書いている。 ↩</a></li>
-  <p class="puce">文書に戻る：<a href="#gregorius2" title="聖グレゴリウス²">上級三隊の決めかたについては、聖グレゴリウスと聖ベルナルドゥス　↩</a></p>
+  <p class="puce">文書に戻る：<a href="#gregorius2" title="聖グレゴリウス">上級三隊の決めかたについては、聖グレゴリウスと聖ベルナルドゥス　↩</a></p>
 </footer>
 
 <h4 id="note-daniel" class="red note">ダニエル書</h4>
@@ -784,8 +796,8 @@
 </div>
 
 <footer>
-  <p class="puce"><a href="#daniel" title="ダニエル書">文書に戻るダニエルが書いているように、ミカエルは、　↩</a></li>
-  <p class="puce"><a href="#daniel2" title="ダニェル書²">文書に戻る「ダニェル書」に出てくる「ペルシアの国の<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>」とは、　↩</a></p>
+  <p class="puce">文書に戻る：<a href="#daniel" title="ダニエル書">ダニエルが書いているように、ミカエルは、　↩</a></li>
+  <p class="puce">文書に戻る：<a href="#daniel2" title="ダニェル書">「ダニェル書」に出てくる「ペルシアの国の<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>」とは、　↩</a></p>
 </footer>
 
 <h4 id="note-antechrist" class="red note">反キリスト</h4>
@@ -798,7 +810,7 @@
 
 <footer>
   <p class="puce">文書に戻る：<a href="#antechrist" title="破壊者、反キリスト">ミカエルは、「憎むべき破壊者　↩</a></li>
-  <p class="puce">文書に戻る：<a href="#antechrist2" title="反キリスト²">オリヴ山上で反キリスト　↩</a></p>
+  <p class="puce">文書に戻る：<a href="#antechrist2" title="反キリスト">オリヴ山上で反キリスト　↩</a></p>
 </footer>
 
 <h4 id="note-moise" class="red note"><ruby lang="ja">モーセ<rp>(</rp><rt lang="la">Moses</rt><rp>)</rp></ruby>の遺体</h4>
@@ -900,11 +912,11 @@
 </div>
 
 <footer>
-  <p class="puce">文書に戻る：<a href="#denis" title="ディオニュシウス¹">中級には、ディオニュシウス¹ によると、<ruby>主天使<rp>(</rp><rt>ドミナテイオネス</rt><rp>)</rp></ruby>　↩</a></li>
-  <p class="puce">文書に戻る：<a href="#denis2" title="ディオニュシウス²">下級には、おなじくディオニュシウス² によると、<ruby>権天使<rp>(</rp><rt>プリンキパトウス</rt><rp>)</rp></ruby>　↩</a></li>
-  <p class="puce">文書に戻る：<a href="#denis3" title="ディオニュシウス³">聖グレゴリウスと聖ベルナルドゥスも、上述のディオニュシウス³の見解と一致している ↩</a></li>
-  <p class="puce">文書に戻る：<a href="#denis4" title="ディオニュシウス⁴">ふたつの隊にかんしてディオニュシウス⁴と意見が食いちがっている　↩</a></li>
-  <p class="puce">文書に戻る：<a href="#denis5" title="ディオニュシウス⁵">ディオニュシウス⁵ と見解が異なり、中級の隊は支配統治をつかさどり　↩</a></p>
+  <p class="puce">文書に戻る：<a href="#denis" title="ディオニュシウス">中級には、ディオニュシウス¹ によると、<ruby>主天使<rp>(</rp><rt>ドミナテイオネス</rt><rp>)</rp></ruby>　↩</a></li>
+  <p class="puce">文書に戻る：<a href="#denis2" title="ディオニュシウス">下級には、おなじくディオニュシウス によると、<ruby>権天使<rp>(</rp><rt>プリンキパトウス</rt><rp>)</rp></ruby>　↩</a></li>
+  <p class="puce">文書に戻る：<a href="#denis3" title="ディオニュシウス">聖グレゴリウスと聖ベルナルドゥスも、上述のディオニュシウスの見解と一致している ↩</a></li>
+  <p class="puce">文書に戻る：<a href="#denis4" title="ディオニュシウス">ふたつの隊にかんしてディオニュシウスと意見が食いちがっている　↩</a></li>
+  <p class="puce">文書に戻る：<a href="#denis5" title="ディオニュシウス">ディオニュシウス⁵ と見解が異なり、中級の隊は支配統治をつかさどり　↩</a></p>
 </footer>
 
 <h4 id="note-saintbernard" class="red note">聖ベルナルドゥス</h4>
@@ -979,6 +991,7 @@
 </footer>
 
 <h4 id="note-haymon" class="red note">ハイモ</h4>
+
 <div class="notices red">
 <p><time datetime="800">九世紀</time>の<ruby lang="ja">オセール<rp>(</rp><rt lang="fr">Auxerre</rt><rp>)</rp></ruby>（中部フランスの町）のベネディクト会士。<time datetime="865">８６５年</time>没。</p>
 </div>
