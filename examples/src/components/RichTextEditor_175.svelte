@@ -284,23 +284,56 @@ Ils nous en délivrent de trois façons.</p>
 <h3 id="memoire-saint-michel" class="red">mémoire de saint Michel</h3>
 
 <p>Quatrièmement, cette fête s'appelle mémoire de saint Michel, bien que nous y fassions mémoire de tous les anges, et que nous les honorions collectivement.</p>
-<p>Il convient en effet que nous leur rendions louange et gloire pour plusieurs raisons: ils sont nos gardiens, nos assistants, nos frères et nos concitoyens, les porteurs de nos âmes vers le ciel, les ambassadeurs de nos prières auprès de Dieu, les plus nobles soldats du Roi éternel, et les consolateurs de nos tribulations.</p>
+<p>Il convient en effet que nous leur rendions louange et gloire pour plusieurs raisons: </p>
+<ul>
+  <li>ils sont nos gardiens, </li>
+  <li>nos assistants, </li>
+  <li>nos frères </li>
+  <li>et nos concitoyens, </li>
+  <li>les porteurs de nos âmes vers le ciel, </li>
+  <li>les ambassadeurs de nos prières auprès de Dieu, </li>
+  <li>les plus nobles soldats du Roi éternel, </li>
+  <li>et les consolateurs de nos tribulations.</li>
+</ul>
 
 <h4 id="anges-gardiens" class="red">parce que les anges nous gardent</h4>
 
 <p>Nous devons donc les honorer d'abord parce qu'ils sont nos gardiens.</p>
 <p>Chaque homme se voit en effet donner deux anges, un mauvais qui le met à l'épreuve, et un bon qui veille sur lui.</p>
-<p>L'homme jouit de la garde de son bon ange au cours de sa venue au monde, quand il est encore dans le ventre de sa mère, tout de suite après sa naissance, quand il est hors du ventre de sa mère, et durant toute sa vie d'adulte.
-Car dans chacun de ces trois états, il a besoin de la garde de l'ange: quand il est tout petit et encore dans le ventre de sa mère, il peut mourir et être damné; avant l'âge adulte, et quand il est hors du ventre de sa mère, il peut être empêché d'accéder au baptême; à l'âge adulte, il peut être séduit par différents péchés.</p>
+<p>L'homme jouit de la garde de son bon ange au cours de sa venue au monde, quand il est encore dans le ventre de sa mère, tout de suite après sa naissance, quand il est hors du ventre de sa mère, et durant toute sa vie d'adulte.</p>
+<p>Car dans chacun de ces trois états, il a besoin de la garde de l'ange: </p>
+<ul>
+  <li>
+    quand il est tout petit et encore dans le ventre de sa mère, il peut mourir et être damné; 
+  </li>
+  <li>
+    avant l'âge adulte, et quand il est hors du ventre de sa mère, il peut être empêché d'accéder au baptême; 
+  </li>
+  <li>
+    à l'âge adulte, il peut être séduit par différents péchés.
+  </li>
+</ul>
 <p>Chez l'adulte, en effet, le diable égare la raison par ses ruses, flatte la volonté par ses séductions, et écrase la vertu par sa violence.</p>
 <p>Aussi était-il nécessaire qu'un bon ange soit délégué à ses côtés pour l'instruire et lui montrer la voie contre ces tromperies, pour l'exhorter et l'inciter au bien à l'encontre de ces séductions, et le défendre de l'oppresseur en s'opposant à cette violence.</p>
 <p>L'effet de la garde que l'ange assure chez l'homme peut prendre quatre formes.</p>
-<p>Premièrement, elle vise à ce que l'âme progresse vers le bienfait de la grâce, chose que l'ange accomplit de trois façons: d'abord en supprimant en l'âme tout obstacle vers ce bienfait, ce qui est signifié dans le livre de l'Exode, quand l'ange a frappé les premiers-nés d'Egypte <a href="https://www.aelf.org/bible/Ex/12" title="https://www.aelf.org/bible/Ex/12">(Exode 12, 29.)</a>; deuxièmement, en secouant sa paresse, ce qui est signifié dans Zacharie, où il est dit: L'ange du Seigneur m'a réveillé comme un homme qui sort du sommeil <a href="https://www.aelf.org/bible/Za/4" title="https://www.aelf.org/bible/Za/4">(Zacharie 4, 1.)</a>; troisièmement, en la conduisant et la reconduisant sur la voie de la pénitence, ce qui est signifié dans Tobie par l'ange qui la conduit et la reconduit <a href="https://www.aelf.org/bible/Tb/5" title="https://www.aelf.org/bible/Tb/5">(Tobie 5, 20.)</a>.</p>
-<p>Deuxièmement, la garde de l'ange vise à épargner à l'homme la chute dans le péché, ce que l'ange accomplit de trois façons: d'abord, en lui évitant de commettre le mal dans le futur, ce qui est signifié dans Nombres, à travers Balaam qui, allant maudire Israël, en fut empêché par un ange <a href="https://www.aelf.org/bible/Nb/22" title="https://www.aelf.org/bible/Nb/22">(Nombres 22, 12-31.)</a>; deuxièmement, en lui faisant des reproches sur son péché passé, ce qui est signifié dans Juges, où, après avoir été réprimandés pour leur transgression, les fils d'Israël élevèrent leurs clameurs et pleurèrent <a href="https://www.aelf.org/bible/Jg/2" title="https://www.aelf.org/bible/Jg/2">(Juges 2, 1-4.)</a>; troisièmement, en lui faisant violence pour le tirer du péché présent, ce qui est signifié par la violence avec laquelle Loth et sa femme furent chassés de Sodome, c'est-à-dire de l'habitude du péché <a href="https://www.aelf.org/bible/Gn/19" title="https://www.aelf.org/bible/Gn/19">(Genèse 19, 15-17.)</a>.</p>
+<p>Premièrement, elle vise à ce que l'âme progresse vers le bienfait de la grâce, chose que l'ange accomplit de trois façons: </p>
+<ul>
+  <li>d'abord en supprimant en l'âme tout obstacle vers ce bienfait, ce qui est signifié dans le livre de l'Exode, quand l'ange a frappé les premiers-nés d'Egypte <a href="https://www.aelf.org/bible/Ex/12" title="https://www.aelf.org/bible/Ex/12">(Exode 12, 29.)</a>; </li>
+  <li>deuxièmement, en secouant sa paresse, ce qui est signifié dans Zacharie, où il est dit: L'ange du Seigneur m'a réveillé comme un homme qui sort du sommeil <a href="https://www.aelf.org/bible/Za/4" title="https://www.aelf.org/bible/Za/4">(Zacharie 4, 1.)</a>; </li>
+  <li>troisièmement, en la conduisant et la reconduisant sur la voie de la pénitence, ce qui est signifié dans Tobie par l'ange qui la conduit et la reconduit <a href="https://www.aelf.org/bible/Tb/5" title="https://www.aelf.org/bible/Tb/5">(Tobie 5, 20.)</a>.</li>
+</ul>
+<p>Deuxièmement, la garde de l'ange vise à épargner à l'homme la chute dans le péché, ce que l'ange accomplit de trois façons: </p>
+<ul>
+  <li>d'abord, en lui évitant de commettre le mal dans le futur, ce qui est signifié dans Nombres, à travers Balaam qui, allant maudire Israël, en fut empêché par un ange <a href="https://www.aelf.org/bible/Nb/22" title="https://www.aelf.org/bible/Nb/22">(Nombres 22, 12-31.)</a>; </li>
+  <li>deuxièmement, en lui faisant des reproches sur son péché passé, ce qui est signifié dans Juges, où, après avoir été réprimandés pour leur transgression, les fils d'Israël élevèrent leurs clameurs et pleurèrent <a href="https://www.aelf.org/bible/Jg/2" title="https://www.aelf.org/bible/Jg/2">(Juges 2, 1-4.)</a>; </li>
+  <li>troisièmement, en lui faisant violence pour le tirer du péché présent, ce qui est signifié par la violence avec laquelle Loth et sa femme furent chassés de Sodome, c'est-à-dire de l'habitude du péché <a href="https://www.aelf.org/bible/Gn/19" title="https://www.aelf.org/bible/Gn/19">(Genèse 19, 15-17.)</a>.</li>
+</ul>
 <p>Son troisième effet est de le relever dans le cas où il tombe, ce que l'ange accomplit de trois façons:</p>
-<p>d'abord, en l'amenant à la contrition, comme il est signifié dans Tobie, où, suivant l'enseignement de l'ange, Tobie enduit de fiel — symbole de la contrition — les yeux de son père, c'est-à-dire ceux de son cœur <a href="https://www.aelf.org/bible/Tb/11" title="https://www.aelf.org/bible/Tb/11">(Tobie 11, 7.)</a>;</p>
-<p>deuxièmement, en lui purifiant les lèvres en vue de la confession, ce qui est signifié dans Isaïe, où les lèvres d'Isaïe sont purifiées par un ange <a href="https://www.aelf.org/bible/Tb/11" title="https://www.aelf.org/bible/Tb/11">(Isaïe 6, 6-7.)</a>;</p>
-<p>troisièmement, en se réjouissant de sa résipiscence car, comme il est dit dans Luc: Il y aura plus de joie dans le ciel pour un seul pécheur <a href="https://www.aelf.org/bible/Lc/15" title="https://www.aelf.org/bible/Lc/15">(Luc 15,7.)</a> …</p>
+<ul>
+  <li>d'abord, en l'amenant à la contrition, comme il est signifié dans Tobie, où, suivant l'enseignement de l'ange, Tobie enduit de fiel — symbole de la contrition — les yeux de son père, c'est-à-dire ceux de son cœur <a href="https://www.aelf.org/bible/Tb/11" title="https://www.aelf.org/bible/Tb/11">(Tobie 11, 7.)</a>;</li>
+  <li>deuxièmement, en lui purifiant les lèvres en vue de la confession, ce qui est signifié dans Isaïe, où les lèvres d'Isaïe sont purifiées par un ange <a href="https://www.aelf.org/bible/Tb/11" title="https://www.aelf.org/bible/Tb/11">(Isaïe 6, 6-7.)</a>;</li>
+  <li>troisièmement, en se réjouissant de sa résipiscence car, comme il est dit dans Luc: Il y aura plus de joie dans le ciel pour un seul pécheur <a href="https://www.aelf.org/bible/Lc/15" title="https://www.aelf.org/bible/Lc/15">(Luc 15,7.)</a> …</li>
+</ul>
 <p>Le quatrième effet est de l'empêcher de tomber dans autant de maux qu'il existe d'incitations de la part du diable, ce que l'ange fait de trois manières: en refrénant la puissance du diable, en affaiblissant la concupiscence, en imprimant dans nos cœurs la mémoire de la Passion du Seigneur, comme nous l'avons dit plus haut.</p>
 
 <h4 id="anges-servants" class="red">parce que les anges nous assistent</h4>
@@ -309,9 +342,10 @@ Car dans chacun de ces trois états, il a besoin de la garde de l'ange: quand il
 <p>Tous, en effet, comme le dit l'Épître aux Hébreux, sont des esprits qui nous assistent <a href="https://www.aelf.org/bible/He/1" title="https://www.aelf.org/bible/He/1">(Hébreux I, 14.)</a>.</p>
 <p>Car ils sont tous envoyés pour nous: les anges supérieurs sont envoyés vers les anges de second rang, les anges de second rang vers les anges inférieurs, et les anges inférieurs vers nous.</p>
 <p>Cet envoi convient à la bonté de Dieu, qui se manifeste en tant qu'elle aime faire notre salut, en y préposant les esprits les plus nobles, qui lui sont unis par une intime charité.</p>
-<p>Deuxièmement, il convient à la charité des anges, car c'est leur charité ardente qui les pousse à désirer au plus haut point le salut d'autrui, et c'est pourquoi Isaïe dit: Me voici, Seigneur, envoie-moi <a href="https://www.aelf.org/bible/Tb/11" title="https://www.aelf.org/bible/Tb/11">(Isaïe 6, 8.)</a>! Or les anges peuvent nous aider en ce qu'ils voient que nous avons besoin de leur secours, et que nous sommes en proie aux attaques des mauvais anges: aussi la loi de la charité angélique exige-t-elle qu'ils nous soient envoyés.</p>
-<p>Troisièmement, cet envoi convient à l'indigence humaine, car</p>
-<p>les bons anges ont été envoyés pour enflammer nos sentiments en les guidant vers l'amour, chose que l’on symbolise en disant qu'ils ont été envoyés dans un char de feu;</p>
+<p>Deuxièmement, il convient à la charité des anges, car c'est leur charité ardente qui les pousse à désirer au plus haut point le salut d'autrui, et c'est pourquoi Isaïe dit: </p>
+<p class="conversation">Me voici, Seigneur, envoie-moi <a href="https://www.aelf.org/bible/Tb/11" title="https://www.aelf.org/bible/Tb/11">(Isaïe 6, 8.)</a>! </p>
+<p>Or les anges peuvent nous aider en ce qu'ils voient que nous avons besoin de leur secours, et que nous sommes en proie aux attaques des mauvais anges: aussi la loi de la charité angélique exige-t-elle qu'ils nous soient envoyés.</p>
+<p>Troisièmement, cet envoi convient à l'indigence humaine, car les bons anges ont été envoyés pour enflammer nos sentiments en les guidant vers l'amour, chose que l’on symbolise en disant qu'ils ont été envoyés dans un char de feu;</p>
 <p>deuxièmement, ils ont été envoyés pour illuminer notre intellect en le guidant vers la connaissance, chose qui est signifiée dans l'Apocalypse, par l'ange qui tient à la main un livre ouvert <a href="https://www.aelf.org/bible/Ap/10" title="https://www.aelf.org/bible/Ap/10">(Apocalypse 10, 2.- 8.)</a>;</p>
 <p>troisièmement, ils ont été envoyés pour affermir en nous jusqu'à la fin ce qui est encore inachevé, chose qui est signifiée en I Rois, où l'ange apporta à Elie un pain cuit sous la cendre et un vase rempli d'eau: il mangea et, fortifié par cette nourriture, alla jusqu'à l'Oreb, la montagne de Dieu <a href="https://www.aelf.org/bible/1R/19" title="https://www.aelf.org/bible/1R/19">(I Rois 19, 6-8.)</a>.</p>
 
@@ -320,40 +354,120 @@ Car dans chacun de ces trois états, il a besoin de la garde de l'ange: quand il
 <p>Troisièmement, nous devons les honorer parce que ce sont nos frères et nos concitoyens.</p>
 <p>Tous les élus, en effet, rejoignent les ordres des anges, certains les ordres supérieurs, d'autres les ordres inférieurs, ou les ordres intermédiaires, selon la diversité de leurs mérites, la sainte Vierge étant au-dessus de tous.</p>
 <p>C'est ce que semble suggérer saint Grégoire dans l'homélie où il dit:</p>
-<p>«Certains saisissent peu de choses, mais ils ne laissent pas de les annoncer à leurs frères: ils sont au nombre des Anges; il en est qui ont le privilège de concevoir la totalité des secrets célestes et de les annoncer: ils sont avec les Archanges; il en est qui font des miracles prodigieux et qui manifestent ainsi leur puissance: ils sont avec les Vertus; il en est qui, par la vertu de leur prière et l'efficacité de la puissance qu'ils ont reçue, sont capables de mettre en fuite les esprits malins: ils sont avec les Puissances; il en est qui, par les vertus qu'ils ont reçues, transcendent les mérites des élus et sont les princes des élus leurs frères: ils partagent le mérite des Principautés; il en est qui, en eux, dominent tous les vices, en sorte que ce privilège de pureté leur vaut le nom de dieux parmi les hommes; aussi est-il dit à Moïse: Voici que je t'ai établi comme le dieu de Pharaon <a href="https://www.aelf.org/bible/Ex/7" title="https://www.aelf.org/bible/Ex/7">(Exode 7, 1.)</a>; ceux-ci sont avec les Dominations; il en est en qui le Seigneur préside comme sur son trône pour juger, les actions des autres, et ce sont eux qui, en dirigeant la sainte Église, ont généralement à juger de la faiblesse des actes des autres élus: ils sont avec les Trônes; il en est qui, plus que les autres, sont remplis de l'amour de Dieu et du prochain, et leurs mérites leur valent de figurer au nombre des chérubins, car «chérubin» signifie «plenitude de la science »; or d'après Paul, la plénitude de la loi, c'est l'amour <a href="https://www.aelf.org/bible/Rm/13" title="https://www.aelf.org/bible/Rm/13">(Romains 13, 10.)</a>; il en est qui, embrasés par l'amour de la contemplation suprême, n'aspirent qu'à rejoindre leur créateur, ne désirent plus rien en ce monde, se nourrissent du seul amour de l'éternité, rejettent toute préoccupation terrestre, transcendent en esprit tout ce qui est éphémère, aiment et brûlent, et trouvent le repos dans cet embrasement même, brûlent en aimant, enflamment en parlant, et, dès qu'ils s'adressent à quelqu'un, le font aussitôt brûler d'amour pour Dieu: ceux-là ne peuvent avoir été appelés qu'au nombre des Séraphins».</p>
+<ul>
+  <li>
+    <p class="conversation">«Certains saisissent peu de choses, mais ils ne laissent pas de les annoncer à leurs frères: ils sont au nombre des Anges; <p>
+  </li>
+  <li>
+    <p class="conversation">il en est qui ont le privilège de concevoir la totalité des secrets célestes et de les annoncer: ils sont avec les Archanges; </p>
+  </li>
+  <li>
+    i<p class="conversation">l en est qui font des miracles prodigieux et qui manifestent ainsi leur puissance: ils sont avec les Vertus; </p>
+  </li>
+  <li>
+    <p class="conversation">il en est qui, par la vertu de leur prière et l'efficacité de la puissance qu'ils ont reçue, sont capables de mettre en fuite les esprits malins: ils sont avec les Puissances; </p>
+  </li>
+  <li>
+    <p class="conversation">il en est qui, par les vertus qu'ils ont reçues, transcendent les mérites des élus et sont les princes des élus leurs frères: ils partagent le mérite des Principautés; </p>
+  </li>
+  <li>
+    <p class="conversation">il en est qui, en eux, dominent tous les vices, en sorte que ce privilège de pureté leur vaut le nom de dieux parmi les hommes; aussi est-il dit à Moïse: Voici que je t'ai établi comme le dieu de Pharaon <a href="https://www.aelf.org/bible/Ex/7" title="https://www.aelf.org/bible/Ex/7">(Exode 7, 1.)</a>; ceux-ci sont avec les Dominations; </p>
+  </li>
+  <li>
+    <p class="conversation">il en est en qui le Seigneur préside comme sur son trône pour juger, les actions des autres, et ce sont eux qui, en dirigeant la sainte Église, ont généralement à juger de la faiblesse des actes des autres élus: ils sont avec les Trônes; </p>
+  </li>
+  <li>
+    <p class="conversation">il en est qui, plus que les autres, sont remplis de l'amour de Dieu et du prochain, et leurs mérites leur valent de figurer au nombre des chérubins, car «chérubin» signifie «plenitude de la science »; or d'après Paul, la plénitude de la loi, c'est l'amour <a href="https://www.aelf.org/bible/Rm/13" title="https://www.aelf.org/bible/Rm/13">(Romains 13, 10.)</a>; </p>
+  </li>
+  <li>
+    <p class="conversation">il en est qui, embrasés par l'amour de la contemplation suprême, n'aspirent qu'à rejoindre leur créateur, ne désirent plus rien en ce monde, se nourrissent du seul amour de l'éternité, rejettent toute préoccupation terrestre, transcendent en esprit tout ce qui est éphémère, aiment et brûlent, et trouvent le repos dans cet embrasement même, brûlent en aimant, enflamment en parlant, et, dès qu'ils s'adressent à quelqu'un, le font aussitôt brûler d'amour pour Dieu: ceux-là ne peuvent avoir été appelés qu'au nombre des Séraphins».</p>
+  </li>
+</ul>
 <p>Voilà ce que dit <a href="https://www.aelf.org/bible/Ex/23" title="https://www.aelf.org/bible/Ex/23" id="gregoire2">Grégoire</a>.</p>
 
 <h4 id="anges-guides" class="red">parce que les anges portent nos âmes vers le ciel</h4>
 
 <p>Quatrièmement, nous devons honorer les anges parce qu'ils portent nos âmes vers le ciel; et ils le font de trois manières:</p>
-<p>premièrement, en leur préparant la voie, selon Malachie: «Voici que j'enverrai mon ange, qui préparera ma voie devant ta face» <a href="https://www.aelf.org/bible/Ml/3" title="https://www.aelf.org/bible/Ml/3">(Malachie 3, 1.)</a>;</p>
-<p>deuxièmement, en les portant au ciel sur la voie qu'ils ont préparée, selon le livre de l'Exode: «Voici que j'enverrai mon ange, qui te gardera en route et t'introduira dans la terre que j'ai promise à tes pères» <a href="https://www.aelf.org/bible/Ex/23" title="https://www.aelf.org/bible/Ex/23">(Exode 23, 20.)</a>;</p>
-<p>troisièmement, en les plaçant dans le ciel, selon Luc: «Il se fit que le mendiant mourut et qu'il fut porté par un ange dans le sein d'Abraham» <a href="https://www.aelf.org/bible/Lc/16" title="https://www.aelf.org/bible/Lc/16">(Luc 16, 22.)</a>.</p>
+<ol>
+  <li>
+    <p>premièrement, en leur préparant la voie, selon Malachie: </p>
+    <p class="conversation">«Voici que j'enverrai mon ange, qui préparera ma voie devant ta face» <a href="https://www.aelf.org/bible/Ml/3" title="https://www.aelf.org/bible/Ml/3">(Malachie 3, 1.)</a>;</p>
+  </li>
+  <li>
+    <p>deuxièmement, en les portant au ciel sur la voie qu'ils ont préparée, selon le livre de l'Exode: </p>
+    <p class="conversation">«Voici que j'enverrai mon ange, qui te gardera en route et t'introduira dans la terre que j'ai promise à tes pères» <a href="https://www.aelf.org/bible/Ex/23" title="https://www.aelf.org/bible/Ex/23">(Exode 23, 20.)</a>;</p>
+  </li>
+  <li>
+    <p>troisièmement, en les plaçant dans le ciel, selon Luc: «Il se fit que le mendiant mourut et qu'il fut porté par un ange dans le sein d'Abraham» <a href="https://www.aelf.org/bible/Lc/16" title="https://www.aelf.org/bible/Lc/16">(Luc 16, 22.)</a>.</p>
+  </li>
+</ol>
 
 <h4 id="anges-intercesseurs" class="red">Parce que les anges sont les ambassadeurs de nos prières auprès de Dieu</h4>
 
-<p>Cinquièmement, nous devons honorer les anges parce qu'ils sont les ambassadeurs de nos prières auprès de Dieu.
-Premièrement, ils présentent nos prières à Dieu, selon Tobie: «Quand tu priais en versant des larmes et que tu enterrait tes morts, j'ai présenté ta prière au Seigneur» <a href="https://www.aelf.org/bible/Tb/12" title="https://www.aelf.org/bible/Tb/12">(Tobie 12, 12.)</a>;</p>
-<p>deuxièmement, ils interviennent pour nous, selon Job: «S'il se trouve un seul ange parmi ses semblables pour proclamer l'équité d'un bomme, Dieu aura pitié de lui» <a href="https://www.aelf.org/bible/Jb/33" title="https://www.aelf.org/bible/Jb/33">(Job 33, 23-24.)</a>, et selon Zacharie: «L'ange du Seigneur répondit en disant: «Seigneur des armées, jusqu'à quand refusera-tu ta pitié à Jérusalem et aux villes de Juda, contre lesquelles tu es irrité? Voici déjà la soixante-dixième année» <a href="https://www.aelf.org/bible/Za/1" title="https://www.aelf.org/bible/Za/1">(Zacharie 1, 12.)</a>;</p>
-<p>troisièmement, ils viennent nous annoncer la sentence divine, selon Daniel, où il est dit que Gabriel vola vers Daniel et dit: «Dès le début de ta prière, cette parole s'est fait entendre» (Glose: «C'est la sentence de Dieu »); et il poursuivit: «Et je suis venu pour t'instruire, car tu es un homme rempli de désirs» <a href="https://www.aelf.org/bible/Dn/9" title="https://www.aelf.org/bible/Dn/9">(Daniel 9, 23.)</a>.</p>
-<p>De ces trois fonctions, Bernard dit dans son commentaire sur le Cantique des cantiques: «L’ange court du bien-aimé à la bien-aimée, présentant les demandes, rapportant les présents, enflammant celle-ci et apaisant celui-là».</p>
+<p>Cinquièmement, nous devons honorer les anges parce qu'ils sont les ambassadeurs de nos prières auprès de Dieu.</p>
+<ol>
+  <li>
+    <p>Premièrement, ils présentent nos prières à Dieu, selon Tobie: </p>
+    <p class="conversation">«Quand tu priais en versant des larmes et que tu enterrait tes morts, j'ai présenté ta prière au Seigneur» <a href="https://www.aelf.org/bible/Tb/12" title="https://www.aelf.org/bible/Tb/12">(Tobie 12, 12.)</a>;</p>
+  </li>
+  <li>
+    <p>deuxièmement, ils interviennent pour nous, selon Job: </p>
+    <p class="conversation">«S'il se trouve un seul ange parmi ses semblables pour proclamer l'équité d'un bomme, Dieu aura pitié de lui» <a href="https://www.aelf.org/bible/Jb/33" title="https://www.aelf.org/bible/Jb/33">(Job 33, 23-24.)</a>, </p>
+    <p>et selon Zacharie: </p>
+    <p class="conversation">«L'ange du Seigneur répondit en disant: «Seigneur des armées, jusqu'à quand refusera-tu ta pitié à Jérusalem et aux villes de Juda, contre lesquelles tu es irrité? Voici déjà la soixante-dixième année» <a href="https://www.aelf.org/bible/Za/1" title="https://www.aelf.org/bible/Za/1">(Zacharie 1, 12.)</a>;</p>
+  </li>
+  <li>
+    <p>troisièmement, ils viennent nous annoncer la sentence divine, selon Daniel, où il est dit que Gabriel vola vers Daniel et dit: </p>
+    <p class="conversation">«Dès le début de ta prière, cette parole s'est fait entendre» (Glose: «C'est la sentence de Dieu »); et il poursuivit: «Et je suis venu pour t'instruire, car tu es un homme rempli de désirs» <a href="https://www.aelf.org/bible/Dn/9" title="https://www.aelf.org/bible/Dn/9">(Daniel 9, 23.)</a>.</p>
+  </li>
+</ol>
+<p>De ces trois fonctions, Bernard dit dans son commentaire sur le Cantique des cantiques: </p>
+<p class="conversation">«L’ange court du bien-aimé à la bien-aimée, présentant les demandes, rapportant les présents, enflammant celle-ci et apaisant celui-là».</p>
 
 <h4 id="anges-chevaliers" class="red">parce que les anges sont les plus nobles soldats du Roi éternel</h4>
 
-<p>Sixièmement, nous devons honorer les anges parce qu'ils sont les plus nobles soldats du Roi éternel, à ce գue dit Job: «Peut-on compter le nombre de ses soldats?» <a href="https://www.aelf.org/bible/Jb/25" title="https://www.aelf.org/bible/Jb/25">(Job 25, 3.)</a> Et tout comme, parmi les soldats d'un roi, nous en voyons certains demeurer à la Cour, accompagner le roi, chanter pour le glorifier ou le distraire, tandis que d'autres gardent ses cités et ses châteaux, ou bien que d'autres repoussent ses ennemis, de même parmi ces soldats du Christ certains restent toujours à la cour — c'est-à-dire dans l'empyrée — toujours aux côtés du Roi des rois, et toujours chantent des cantiques de joie et de louange, en disant: «Saint, saint, trois fois saint <a href="https://www.aelf.org/bible/Is/6" title="https://www.aelf.org/bible/Is/6">(Isaie 6, 3.)</a>...», et: «Bénédiction, clarté, sagesse <a href="https://www.aelf.org/bible/Ap/7" title="https://www.aelf.org/bible/Ap/7">(Apocalypse 7, 12.)</a>...»; d'autres gardent cités, faubourgs, villages, domaines et châteaux: ce sont eux qui ont été préposés à notre garde, qui protègent la condition des vierges, des continents, des époux, et les demeures des hommes de Dieu, selon Isaïe <a href="https://www.aelf.org/bible/Is/62" title="https://www.aelf.org/bible/Is/62">(Isaïe 62, 6.)</a>: «Sur les murs, Jérusalem, j'ai établi des gardes; d'autres repoussent les ennemis de Dieu, c'est-à-dire les démons», selon l'Apocalypse: «Et il se fit un combat dans le ciel», c'est-à-dire, d'après un commentaire, dans l'Eglise militante, Michel et ses anges combattaient le dragon <a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille">(Apocalypse 12,7.)</a>.</p>
+<p>Sixièmement, nous devons honorer les anges parce qu'ils sont les plus nobles soldats du Roi éternel, à ce գue dit Job: </p>
+<p class="conversation">«Peut-on compter le nombre de ses soldats?» <a href="https://www.aelf.org/bible/Jb/25" title="https://www.aelf.org/bible/Jb/25">(Job 25, 3)</a>. </p>
+<p><Et tout comme, parmi les soldats d'un roi, nous en voyons certains demeurer à la Cour, accompagner le roi, chanter pour le glorifier ou le distraire, tandis que d'autres gardent ses cités et ses châteaux, ou bien que d'autres repoussent ses ennemis, </p>
+<ul>
+  <li>de même parmi ces soldats du Christ certains restent toujours à la cour — c'est-à-dire dans l'empyrée — toujours aux côtés du Roi des rois, et toujours chantent des cantiques de joie et de louange, en disant: </p>
+    <p class="conversation">«Saint, saint, trois fois saint <a href="https://www.aelf.org/bible/Is/6" title="https://www.aelf.org/bible/Is/6">(Isaie 6, 3.)</a>...», </p>
+    <p>et: </p>
+    <p class="conversation">«Bénédiction, clarté, sagesse <a href="https://www.aelf.org/bible/Ap/7" title="https://www.aelf.org/bible/Ap/7">(Apocalypse 7, 12.)</a>...»; </p>
+  </li>
+  <li>
+    <p>d'autres gardent cités, faubourgs, villages, domaines et châteaux: ce sont eux qui ont été préposés à notre garde, qui protègent la condition des vierges, des continents, des époux, et les demeures des hommes de Dieu, selon Isaïe <a href="https://www.aelf.org/bible/Is/62" title="https://www.aelf.org/bible/Is/62">(Isaïe 62, 6.)</a>: </p>
+    <p class="conversation">«Sur les murs, Jérusalem, j'ai établi des gardes; d'autres repoussent les ennemis de Dieu, c'est-à-dire les démons», </p>
+    <p>selon l'Apocalypse: </p>
+    <p class="conversation">«Et il se fit un combat dans le ciel», </p>
+    <p>c'est-à-dire, d'après un commentaire, dans l'Eglise militante, Michel et ses anges combattaient le dragon <a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille">(Apocalypse 12,7.)</a>.</p>
+  </li>
+</ul>
 
 <h4 id="anges-consolateurs" class="red">parce que les anges nous consolent dans nos tribulations></h4>
 
-<p>Septièmement, enfin, nous devons honorer les anges parce qu'ils nous consolent dans nos tribulations, selon Zacharie: «L'ange qui m'adressait de bonnes et consolantes paroles» <a href="https://www.aelf.org/bible/Za/1" title="https://www.aelf.org/bible/Za/1">(Zacharie 1, 13.)</a>, et Tobie: «Ayez bon courage» (Tobie 5, 13.)...</p>
+<p>Septièmement, enfin, nous devons honorer les anges parce qu'ils nous consolent dans nos tribulations, selon Zacharie: </p>
+<p class="conversation">«L'ange qui m'adressait de bonnes et consolantes paroles» <a href="https://www.aelf.org/bible/Za/1" title="https://www.aelf.org/bible/Za/1">(Zacharie 1, 13.)</a>, </p>
+<p>et Tobie: </p>
+<p class="conversation">«Ayez bon courage» (Tobie 5, 13.)...</p>
 <p>Et ils le font de trois façons:</p>
-<p>d'abord en nous donnant force et vigueur, selon Daniel, où, alors que Daniel était tombé, l'ange le toucha et lui dit: «N'aie pas peur, la paix soit avec toi, reprends force et sois vigoureux!» <a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs">(Daniel 10, 19.)</a>;</p>
-<p>deuxièmement, en nous préservant du manque d'endurance, selon les Psaumes: «Dieu posa des questions à ses anges sur toi!…
-Ils te porteront dans leurs bras…» <a href="https://www.aelf.org/bible/Ps/90" title="https://www.aelf.org/bible/Ps/90">(Psaumes 90, 11-12.)</a>;</p>
-<p>troisièmement, en adoucissant et en diminuant nos tribulations, ce qui est signifié dans Daniel, où l'ange du Seigneur, descendant dans la fournaise avec les trois enfants fit se lever au milieu d'elle comme «un souffe de rosée» <a href="https://www.aelf.org/bible/Dn/3" title="https://www.aelf.org/bible/Dn/3">(Daniel 3, 50.)</a>.</p>
-
+<ol>
+  <li>
+    <p>d'abord en nous donnant force et vigueur, selon Daniel, où, alors que Daniel était tombé, l'ange le toucha et lui dit: </p>
+    <p class="conversation">«N'aie pas peur, la paix soit avec toi, reprends force et sois vigoureux!» <a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs">(Daniel 10, 19.)</a>;</p>
+  </li>
+  <li>
+    <p>deuxièmement, en nous préservant du manque d'endurance, selon les Psaumes: </p>
+    <p class="conversation">«Dieu posa des questions à ses anges sur toi!…
+    Ils te porteront dans leurs bras…» <a href="https://www.aelf.org/bible/Ps/90" title="https://www.aelf.org/bible/Ps/90">(Psaumes 90, 11-12.)</a>;</p>
+  </li>
+  <li>
+    <p>troisièmement, en adoucissant et en diminuant nos tribulations, ce qui est signifié dans Daniel, où l'ange du Seigneur, descendant dans la fournaise avec les trois enfants fit se lever au milieu d'elle comme «un souffe de rosée» <a href="https://www.aelf.org/bible/Dn/3" title="https://www.aelf.org/bible/Dn/3">(Daniel 3, 50.)</a>.</p>
+  </li>
+</ol>
 
 <footer>
-  <p class="puce"><span style="color: #b52b27;">Jacques De Voragine, <cite>La Légende Dorée</cite>, chapître 141.</span></p>
+  <p><span style="color: #b52b27;">Jacques De Voragine, <cite>La Légende Dorée</cite>, chapître 141.</span></p>
 </footer>
 
 
