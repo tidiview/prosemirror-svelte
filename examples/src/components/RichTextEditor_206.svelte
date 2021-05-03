@@ -461,7 +461,7 @@
             </li>
             <li>
               <p>And there be some that overcome and dominate over all vices in themselves, and they by right be called of the world, gods among men (like as God said to Moses, </p>
-              <p class="conversation">“Lo! I have established the god of Pharaoh”) </p>
+              <p class="conversation">“Lo! I have established the god of Pharaoh” </p>
               <p>and these be with the Dominations.</p>
             </li>
           </ol>
