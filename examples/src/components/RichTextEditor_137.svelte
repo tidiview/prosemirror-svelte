@@ -97,7 +97,7 @@
 </ol>
 
 <footer>
-  <p><span style="color: #3d8b3d;">オウィディウス、<cite>変身物語</cite>、第３巻、１３４節から２５２節まで。</span>  </p>
+  <p><span style="color: #3d8b3d;">オウィディウス、<cite>変身物語</cite>、第３巻、１３４節から２５２節まで。</span></p>
 </footer>
 
 </article>
