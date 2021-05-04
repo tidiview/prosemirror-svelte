@@ -7,7 +7,10 @@
   const html = `<!-- JA:142 EN:206 -->
 <article>
 
+<hgroup>
 <h1 class="red">Saint-Michel dans <cite>La Légende Dorée</cite></h1>
+<h2 class="red">Nom, Apparitions, Victoires, Dédicace, Mémoire</h2>
+</hgroup>
 
 <div class="notices red">
 <p>Dans l'Europe chrétienne du Moyen-Âge, la Légende Dorée est l'ouvrage le plus lu après la Bible.</p>
@@ -26,7 +29,8 @@
 
 <h3 id="name" class="red">le nom de Saint Michael</h3>
 
-<p><mark>Michel</mark> se comprend comme «Qui, comme Dieu?» et, à ce que dit Grégoire, chaque fois qu'il s'accomplit une grande merveille, c'est <mark>Michel</mark> qui est envoyé, pour signifier, par son action et par son nom, que personne ne peut faire ce qui revient à Dieu seul: aussi attribue-t-on à <mark>Michel</mark> lui-même nombre de faits qui manifestent une puissance admirable.</p>
+<p><mark>Michel</mark> se comprend comme «Qui, comme Dieu?» et, à ce que dit Grégoire: </p>
+<p class="conversation">«chaque fois qu'il s'accomplit une grande merveille, c'est <mark>Michel</mark> qui est envoyé, pour signifier, par son action et par son nom, que personne ne peut faire ce qui revient à Dieu seul: aussi attribue-t-on à <mark>Michel</mark> lui-même nombre de faits qui manifestent une puissance admirable.»</p>
 <p>Au témoignage de Daniel [<a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs">Daniel chapître 12 verset 1</a>], il surgira au temps de l’Antéchrist et se tiendra à côté des élus comme leur défenseur et protecteur.
 Il a combattu le dragon et ses anges [<a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille">Apocalypse chapître 12, versets 7 à 9</a>], les a précipités du haut du ciel, et a remporté sur eux une grande victoire.
 Il a disputé le <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_moise" title="ascension de Moïse" id="moise">corps de Moïse</a> au diable qui voulait le produire afin que le peuple juif l'adore à la place de Dieu [<a href="https://www.aelf.org/bible/Jude/1" title="https://www.aelf.org/bible/Jude/1">lettre de Jude chapître 1 verset 9</a>].</p>
