@@ -4,9 +4,15 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
-<div id="body-inner">
+  const html = `<!-- FR:167 EN:198  -->
+
+<article>
+
+<hgroup>
+<h2 class="green">ガリア戦記での</h2>
 <h1 class="green">カエサルによるレミ族</h1>
+</hgroup>
+
 <div class="notices green">
 <p><ruby lang="ja">ユリウス<rp>(</rp><rt lang="la">Iulius</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>カエサル<rp>(</rp><rt lang="la">Caesar</rt><rp>)</rp></ruby lang="ja">が自ら書いたとされている「<ruby lang="ja">ガリア戦記<rp>(</rp><rt lang="la">Commentarii&#160;de&#160;Bello&#160;Gallico</rt><rp>)</rp></ruby lang="ja">」は現在フランスの過去に関して文字で書かれた史料として一番古いの中に数えられている。<br>
 この素晴らしい作品について、いろいろいうべきことがあろうが、ここでは作品全体としてではなく、現代の<ruby lang="ja">ランス<rp>(</rp><rt lang="fr">Reims</rt><rp>)</rp></ruby lang="ja">市の名の元になっている<ruby lang="ja">レミ<rp>(</rp><rt lang="la">Remi</rt><rp>)</rp></ruby lang="ja">族が現れる第２巻の前半の部分にだけ関心を寄せています。<br>
@@ -570,7 +576,8 @@
 <li>註に戻る：<a href="#mantelets" title="作業小屋">作業小屋 &#11105;</a></li>
 </ul>
 </div>
-</div>
+
+</article>
 `;
 
 
