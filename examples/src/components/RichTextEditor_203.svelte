@@ -35,18 +35,18 @@
 
   <p>« <ruby lang="he"><span style="background:#f1f9f1;color:#3d8b3d;">מיכאל</span><rt><span style="background:#f1f9f1;color:#3d8b3d;">Mîḵā’ēl</span></rt></ruby> » may decompose as follows:</p>
   <p>
-    <span style="background:#f1f9f1;color:#3d8b3d;width:30px;float:left;text-align:center;">mî</span>
-    <span style="background:#fff;width:10px;float:left;">&nbsp</span>
-    <span style="background:#f1f9f1;color:#3d8b3d;width:45px;float:left;text-align:center;">ḵā’</span>
-    <span style="background:#fff;width:10px;float:left;">&nbsp</span>
-    <span style="background:#f1f9f1;color:#3d8b3d;width:30px;float:left;text-align:center;">ēl</span>
+    <span style="background:#f1f9f1;color:#3d8b3d;min-width:30px;float:left;text-align:center;">mî</span>
+    <span style="background:#fff;min-width:10px;float:left;">&nbsp</span>
+    <span style="background:#f1f9f1;color:#3d8b3d;min-width:45px;float:left;text-align:center;">ḵā’</span>
+    <span style="background:#fff;min-width:10px;float:left;">&nbsp</span>
+    <span style="background:#f1f9f1;color:#3d8b3d;min-width:30px;float:left;text-align:center;">ēl</span>
   </p>
   <p>
-    <span style="background:#f1f9f1;color:#3d8b3d;width:30px;float:left;text-align:center;">who</span>
-    <span style="background:#fff;width:10px;float:left;">&nbsp</span>
-    <span style="background:#f1f9f1;color:#3d8b3d;width:45px;float:left;text-align:center;">is like</span>
-    <span style="background:#fff;width:10px;float:left;">&nbsp</span>
-    <span style="background:#f1f9f1;color:#3d8b3d;width:30px;float:left;text-align:center;">god</span>
+    <span style="background:#f1f9f1;color:#3d8b3d;min-width:30px;float:left;text-align:center;">who</span>
+    <span style="background:#fff;min-width:10px;float:left;">&nbsp</span>
+    <span style="background:#f1f9f1;color:#3d8b3d;min-width:45px;float:left;text-align:center;">is like</span>
+    <span style="background:#fff;min-width:10px;float:left;">&nbsp</span>
+    <span style="background:#f1f9f1;color:#3d8b3d;min-width:30px;float:left;text-align:center;">god</span>
   </p>  
 
   <h3 class="green">result</h3>
