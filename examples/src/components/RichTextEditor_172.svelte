@@ -40,18 +40,18 @@
 <p>« <ruby><span style="background:#f1f9f1;color:#3d8b3d;">מיכאל</span><rp>(</rp><rt><span style="background:#f1f9f1;color:#3d8b3d;">Mîḵā’ēl</span></rt><rp>)</rp></ruby> » peut se décomposer comme suit:</p>
 
 <p>
-  <span style="background:#f1f9f1;color:#3d8b3d;width:30px;float:left;text-align:center;">mî</span>
-  <span style="background:#fff;width:10px;float:left;">&nbsp</span>
-  <span style="background:#f1f9f1;color:#3d8b3d;width:90px;float:left;text-align:center;">ḵā’</span>
-  <span style="background:#fff;width:10px;float:left;">&nbsp</span>
-  <span style="background:#f1f9f1;color:#3d8b3d;width:40px;float:left;text-align:center;">ēl</span>
+  <span style="background:#f1f9f1;color:#3d8b3d;min-width:30px;float:left;text-align:center;">mî</span>
+  <span style="background:#fff;min-width:10px;float:left;">&nbsp</span>
+  <span style="background:#f1f9f1;color:#3d8b3d;min-width:90px;float:left;text-align:center;">ḵā’</span>
+  <span style="background:#fff;min-width:10px;float:left;">&nbsp</span>
+  <span style="background:#f1f9f1;color:#3d8b3d;min-width:40px;float:left;text-align:center;">ēl</span>
 </p>
 <p>
-  <span style="background:#f1f9f1;color:#3d8b3d;width:30px;float:left;text-align:center;">qui</span>
-  <span style="background:#fff;width:10px;float:left;">&nbsp</span>
-  <span style="background:#f1f9f1;color:#3d8b3d;width:90px;float:left;text-align:center;">ressemble</span>
-  <span style="background:#fff;width:10px;float:left;">&nbsp</span>
-  <span style="background:#f1f9f1;color:#3d8b3d;width:40px;float:left;text-align:center;">dieu</span>
+  <span style="background:#f1f9f1;color:#3d8b3d;min-width:30px;float:left;text-align:center;">qui</span>
+  <span style="background:#fff;min-width:10px;float:left;">&nbsp</span>
+  <span style="background:#f1f9f1;color:#3d8b3d;min-width:90px;float:left;text-align:center;">ressemble</span>
+  <span style="background:#fff;min-width:10px;float:left;">&nbsp</span>
+  <span style="background:#f1f9f1;color:#3d8b3d;min-width:40px;float:left;text-align:center;">dieu</span>
 </p>
 
 <h3>résultat</h3>
