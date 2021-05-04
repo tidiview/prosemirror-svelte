@@ -7,7 +7,10 @@
   const html = `<!-- JA:142 FR:175 -->
   <article>
   
-  <h1 class="red">Saint Michael according to <cite>The Golden Legend</cite></h1>
+<hgroup>
+<h1 class="red">Saint Michael according to <cite>The Golden Legend</cite></h1>
+<h2 class="red">Name, Apparitions, Victories, Dedication, Memory</h2>
+</hgroup>
 
     <div class="notices red">
     <p>In the Christian Europe of the Middle Ages, <cite>The Golden Legend</cite> also called <cite>Legenda Aurea</cite> from latin is known as the most read book after the Bible.</p>
@@ -24,7 +27,8 @@
 
       <h3 id="name" class="red">The Name of <abbr title="Saint">St.</abbr> Michael</h3>
 
-      <p>“<mark>Michael</mark>” is expounded sometimes as “Who, [is] like God?” And oft-times, as <abbr title="Saint">St.</abbr> Gregory saith, when a thing of marvellous virtue is done, <mark>Michael</mark> is sent forth, so that he, by the deed and the name, be given to understand that none may do that God may do, and therefore be attributed to him many things of marvellous virtue.</p>
+      <p>“<mark>Michael</mark>” is expounded sometimes as “Who, [is] like God?” And oft-times, as <abbr title="Saint">St.</abbr> Gregory saith, </p>
+      <p class="conversation">«when a thing of marvellous virtue is done, <mark>Michael</mark> is sent forth, so that he, by the deed and the name, be given to understand that none may do that God may do, and therefore be attributed to him many things of marvellous virtue.»</p>
       <p>For like as Daniel witnesseth, he shall arise and address in the time of Antichrist against him, and shall stand as a defender and keeper for them that be chosen.</p>
       <p>He also fought with the dragon and his angels, and casting them out of heaven, had a great victory.</p>
       <p>He also had a great plea and altercation with the devil for the body of Moses, because he would not show it; for the children of Israel should have adored and worshipped it.</p>
