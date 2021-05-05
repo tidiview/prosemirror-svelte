@@ -4,8 +4,9 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
-<div id="body-inner">
+  const html = `<!-- FR:165 EN:196  -->
+
+<article>
 
 <hgroup>
 <h1 class="yellow">Flore</h1>
@@ -103,6 +104,7 @@
 <footer>
   <p><span style="color: #df8a13;">Ovide, <cite>Les Fastes</cite>, Livre <abbr title="cinq">V</abbr>, vers 183 à 220</span></p>
 <footer>
+
 </article>
 `;
 
