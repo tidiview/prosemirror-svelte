@@ -23,7 +23,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore_700x1152.jpg 700w" id="flore_et_zephyr"></picture><figcaption>Zéphyr propose <q cite="#flore-et-zéphyr" style="quotes:'' ''">une multitude de nobles fleurs</q> à Flore:<br><q cite="#flore-et-zéphyr">À toi, Déesse, la souveraineté des fleurs.</q></figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore_700x1152.jpg 700w" id="flore_et_zephyr"></picture><figcaption>Zéphyr propose <q cite="#flore-et-zéphyr" style="quotes:'' ''">une multitude de nobles fleurs</q> à Flore:<br><q cite="#flore-et-zephyr">À toi, Déesse, la souveraineté des fleurs.</q></figcaption>
 </figure>
 
 <div class="notices yellow">
@@ -39,7 +39,7 @@
 <p>Dans les vers <a href="#193" id="ref_193">193 à 222</a>, elle apparaît liée au printemps, à la beauté, à la vie, entourée des <a href="https://fr.wikipedia.org/wiki/Heures_(mythologie)" title="https://fr.wikipedia.org/wiki/Heures_(mythologie)">Heures</a> et des <a href="https://fr.wikipedia.org/wiki/Charites" title="https://fr.wikipedia.org/wiki/Charites">Grâces</a>.</p>
 </div>
 
-<h2 id="flore-et-zéphyr" class="yellow">Flore et Zéphyr selon le texte du livre <abbr title="cinq">V</abbr> des <cite>Fastes</cite></h2>
+<h2 id="flore-et-zephyr" class="yellow">Flore et Zéphyr selon le texte du livre <abbr title="cinq">V</abbr> des <cite>Fastes</cite></h2>
 
 <ol class="doc">
   <li value="183"><a href="#ref_183" id="183">Viens</a>, Mère des fleurs, toi qui doit être célébrée par des jeux plaisants.</li>
