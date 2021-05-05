@@ -7,7 +7,10 @@
   const html = `
 <article>
 
+<hgroup>
 <h1 class="green">les Rèmes selon César</h1>
+<h2 class="green"><cite>Commentaires sur la Guerre des Gaules</cite></h2>
+</hgroup>
 
 <div class="notices green">
 <p>Les <cite>Commentaires sur la Guerre des Gaules</cite> dont on dit qu'ils ont été écrits par Jules César lui-même comptent, comme document historique écrit relatif au passé de la France actuelle comme l'un des plus anciens.</p>
