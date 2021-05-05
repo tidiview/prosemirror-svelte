@@ -109,7 +109,7 @@
 </ol>
 
 <footer>
-  <p><span style="color: #df8a13;">Ovide, <cite>Les Métamorphoses</cite>, Livre <abbr title="onze">XI</abbr>, vers 583 à 632</span></p>
+  <p><span style="color: #df8a13;">Ovide, <cite>Les Métamorphoses</cite>, Livre <abbr title="onze">XI</abbr>, vers 583 à 632.</span></p>
 </footer>
 
 <aside>
