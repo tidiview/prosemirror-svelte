@@ -26,29 +26,35 @@
 
 <h2 class="green">ガリア戦記、第ニ巻</h2>
 
-<h4 class="green" id="1chap">第一章：ベルギー全土が混乱</h4>
+<h3 class="green">第一章：ベルギー全土が混乱</h3>
+
+<h4 class="green" id="1chap">第一章</h4>
 
 <ol class="doc">
-  <li value="1">内ガリアにいた<span style="color: #3d8b3d;">カエサル</span>のもとにも何度となく噂は届いてい<a href="#note_labienus" title="ラビエヌス" id="labienus"><ruby lang="ja">ラビエヌス<rp>(</rp><rt lang="la">Labienus</rt><rp>)</rp></ruby></a>が手紙でこのようなことを知らせてきた。
+  <li value="1">内ガリアにいた<mark>カエサル</mark>のもとにも何度となく噂は届いてい<a href="#note_labienus" title="ラビエヌス" id="labienus"><ruby lang="ja">ラビエヌス<rp>(</rp><rt lang="la">Labienus</rt><rp>)</rp></ruby></a>が手紙でこのようなことを知らせてきた。
   <a href="#note_gallia_citerior" title="ガリア・キテリオル" id="tertiam_galliae_partem">ガリアの第三の地域</a>にあたると前述したべルガエ人たちがこぞってローマ人に対する反乱を企て、人質をやりとりしている。</li>
   <li value="2">反乱を企てている理由はこうである。まず、ガリア全域が平和になったので次は自分たちのもとに準備してくるもではないかと思ったため。</li>
   <li value="3">次に、一部のガリア人のそそのかされたため、一部の者はゲルマニ人がこれ以上ガリアに来るのは望ましくないと思っていたのと同じ理屈で、ローマ軍がガリアで冬営して古顔になっていくのも不愉快だと思っていたし、気まぐれや浅はかな思いから新しい支配者を求めていた者もいたのである。</li>
   <li value="4">また、ガリアでは他人より力のある者、人を集める力のある者が一般に権力を握ってきたが、ローマ人に支配されてはそういうわけにはいかなくなるぞ、とそそのかす者もなくはなかった。</li>
 </ol>
 
-<h4 id="2chap" class="green">第ニ章：カエサルの措置</h4>
+<h3 class="green">カエサルの措置</h3>
+
+<h4 id="2chap" class="green">第ニ章</h4>
 
 <ol class="doc">
-  <li value="1">そのような噂や手紙に心動かされた<span style="color: #3d8b3d;">カエサル</span>は、<a href="#note_gallia_citerior" title="ガリア・キテリオル" id="gallia_citerior">ガリア・キテリオル</a>で新たにニ個軍団を徴集すると、戦争ができる季節になるや、そのニ個軍団を<a href="#note_gallia_ulterior" title="ガリア・ウルテリオル" id="gallia_ulterior">ガリア・ウルテリオル</a>へ移動させるために<a href="#note_quintus_pedius" title="クィントッス・ペディウス" id="quintus_pedius"><ruby lang="ja">クィントゥス<rp>(</rp><rt lang="la">Quintus</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>ペディウス<rp>(</rp><rt lang="la">Pedius</rt><rp>)</rp></ruby></a>副司令を派遣した。</li>
+  <li value="1">そのような噂や手紙に心動かされた<mark>カエサル</mark>は、<a href="#note_gallia_citerior" title="ガリア・キテリオル" id="gallia_citerior">ガリア・キテリオル</a>で新たにニ個軍団を徴集すると、戦争ができる季節になるや、そのニ個軍団を<a href="#note_gallia_ulterior" title="ガリア・ウルテリオル" id="gallia_ulterior">ガリア・ウルテリオル</a>へ移動させるために<a href="#note_quintus_pedius" title="クィントッス・ペディウス" id="quintus_pedius"><ruby lang="ja">クィントゥス<rp>(</rp><rt lang="la">Quintus</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>ペディウス<rp>(</rp><rt lang="la">Pedius</rt><rp>)</rp></ruby></a>副司令を派遣した。</li>
   <li value="2">自分も<ruby>糧<rp>(</rp><rt>りょう</rt><rp>)</rp>秣<rp>(</rp><rt>まつ</rt><rp>)</rp></ruby>の手配をするとすぐに軍のもとに行き、</li>
   <li value="3"><a href="#note_senones" title="セノネス族" id="senones">セノネス族</a>などべルガエ人の近くにいるガリア人に指示して、ベルガエ人のもとで起こってい ることを調べて報告させた。</li>
   <li value="4">全員が同じように、人手がかき集められ、軍が一所に集結していると報告してきたので、かくなるうえは晴踏せずべルガエ人のもとに行くべきだと思い、<ruby>兵<rp>(</rp><rt>ひょう</rt><rp>)</rp>糧<rp>(</rp><rt>ろう</rt><rp>)</rp></ruby>の準備を整えると陣地を移動して、<time datetime="P15D">十五日</time>ほどでべルガエ人の領土に到着した。</li>
 </ol>
 
-<h4 id="3chap" class="green">第三章：レミ族は自分をローマの味方と宣言する</h4>
+<h3 class="green">レミ族は自分をローマの味方と宣言する</h3>
+
+<h4 id="3chap" class="green">第三章</h4>
 
 <ol class="doc">
-  <li value="1"><span style="color: #3d8b3d;">カエサル</span>が意表をついて誰も予想していなかったほど早く来たので、<span style="color: #3d8b3d;"><a href="#note_remi" title="レミ族" id="remi">レミ族</a></span>というべルガエ人の中でもっともガリアに近い部族が、カエサルに使節として<a href="#note_iccius" title="イッキウス" id="iccius"><ruby lang="ja">イッキウス<rp>(</rp><rt lang="la">Iccius</rt><rp>)</rp></ruby></a>と<ruby lang="ja">アンデコンボギウス<rp>(</rp><rt lang="la">Andecombogius</rt><rp>)</rp></ruby>という部族の第一人者を寄越して、こう言ってきた。</li>
+  <li value="1"><mark>カエサル</mark>が意表をついて誰も予想していなかったほど早く来たので、<span style="color: #3d8b3d;"><a href="#note_remi" title="レミ族" id="remi">レミ族</a></span>というべルガエ人の中でもっともガリアに近い部族が、カエサルに使節として<a href="#note_iccius" title="イッキウス" id="iccius"><ruby lang="ja">イッキウス<rp>(</rp><rt lang="la">Iccius</rt><rp>)</rp></ruby></a>と<ruby lang="ja">アンデコンボギウス<rp>(</rp><rt lang="la">Andecombogius</rt><rp>)</rp></ruby>という部族の第一人者を寄越して、こう言ってきた。</li>
   <li value="2">自分たちの身柄や財産はすべてローマ人の<ruby>肥<rp>(</rp><rt>ひ</rt><rp>)</rp>護<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>に<ruby>委<rp>(</rp><rt>ゆだ</rt><rp>)</rp></ruby>ねる。
   自分たちはほかのべルガエ人と結託したことはないし、ローマ人に対する反乱を企てたこともない。</li>
   <li value="3">人質を差し出す用意はあるし、命令に従い、街への受け入れや兵糧などの援助もしよう。</li>
@@ -56,7 +62,9 @@
   <li value="5"><a href="#note_rhenus" title="レヌス川" id="rhenus"><ruby lang="ja">レヌス<rp>(</rp><rt lang="la">Rhenus</rt><rp>)</rp></ruby>河</a>のこちら側に住んでいる<a href="#note_germani" title="ゲルマニ人" id="germani"><ruby lang="ja">ゲルマニ<rp>(</rp><rt lang="la">Germani</rt><rp>)</rp></ruby></a>人とも共謀しているのだが、全員頭に血が上っているため、<a href="#note_suessiones" title="スエシオネス族" id="suessiones"><ruby lang="ja">スエシオネス<rp>(</rp><rt lang="la">Suessiones</rt><rp>)</rp></ruby>族</a>という自分たちの兄弟親戚にあたる（同じ掟、同じ法を使い、同じ支配者同じ<ruby>領<rp>(</rp><rt>りょう</rt><rp>)</rp>袖<rp>(</rp><rt>しゅう</rt><rp>)</rp></ruby>を共有する間柄の）部族を思いとどまらせて結託しないようにすることすらできなかった。</li>
 </ol>
 
-<h4 id="4chap" class="green">第４章：敵軍の列挙</h4>
+<h3 class="green">敵軍の列挙</h3>
+
+<h4 id="4chap" class="green">第四章</h4>
 
 <ol class="doc">
   <li value="1"><span style="color: #3d8b3d;">レミ族</span>にどの部族がどの程度武器を取れるのか、また戦争になったときの力はどうか<ruby>訊<rp>(</rp><rt>たず</rt><rp>)</rp></ruby>ねたところ、このようなことがわかった。
@@ -82,10 +90,12 @@
   <picture><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/03.reims/01.remes/gallia.svg" title="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《ミネルヴァとテイレシアス》絵画" alt="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《ミネルヴァとテイレシアス》絵画" class="class-diane-img"></picture><figcaption>手前に見えるミネルヴァが真ん中にいるテイレシアスを見えなくさせている</figcaption>
 </figure>
 
-<h4 class="green">第５章：ディウィキアクスはべロウァキ族を攻撃する。カエサルはエーヌ川を渡る</h4>
+<h3 class="green">ディウィキアクスはべロウァキ族を攻撃する。カエサルはエーヌ川を渡る</h3>
+
+<h4 class="green">第五章</h4>
 
 <ol class="doc">
-  <li value="1"><span style="color: #3d8b3d;">カエサル</span>は<span style="color: #3d8b3d;">レミ族</span>を勇気づけ、寛大な言葉をかけると、長老を全員呼びつけ有力者の子供を人質として差し出すよう命じた（これは万事抜かりなく期日までに行われた）。</li>
+  <li value="1"><mark>カエサル</mark>は<span style="color: #3d8b3d;">レミ族</span>を勇気づけ、寛大な言葉をかけると、長老を全員呼びつけ有力者の子供を人質として差し出すよう命じた（これは万事抜かりなく期日までに行われた）。</li>
   <li value="2">また、自らハエドウイー族のディウィキアクスをしっかり激励しながら、こう言った。
   ローマのみならず全員の安全のために重要なのは敵の軍隊を分散させることである。
   これほどの大軍と一度に衝突することがないようにしなければならない。</li>
@@ -97,32 +107,32 @@
   また陣地は高さ一二フィートの土塁と一八フィートの壕で囲むようじた。</li>
 </ol>
 
-<h4 class="green">第６章と第７章：ビブラクスの包囲を解かさせる</h4>
+<h3 class="green">ビブラクスの包囲を解かさせる</h3>
 
-<h5 class="green">第６章</h5>
+<h4 class="green">第六章</h4>
 
 <ol class="doc">
   <li value="1">この陣地から<span style="color: #3d8b3d;">レミ族</span>の<a href="#note_bibrax" title="ビブラクス" id="bibrax"><ruby lang="ja">ビブラクス<rp>(</rp><rt lang="la">Bibrax</rt><rp>)</rp></ruby></a>という街までは八マイルの距離だったのだが、べルガエ人は道すがらその街に猛攻撃をかけ始めた（かろうじてその日は持ちこたえた）。</li>
   <li value="2">ガリア人もべルガエ人も街の攻め方は同じで、大勢の者で防壁をぐるりと取り囲むと石を投げ始め、防壁から守備隊を一掃すると<a href="#note_tortue" title="亀甲陣" id="tortue">亀甲陣</a>を作って門を乗り越え、あるいは壁の下を掘り進むのだが、</li>
   <li value="3">今回あっけなく守りを崩されたのはあまりにも多くの者が石や飛び道具を投げてきたので、防壁の上に留まっていられる者がいなかったためである。</li>
-  <li value="4">夜が来て攻撃が終わると、<span style="color: #3d8b3d;">レミ族</span>でもっとも家柄がよく声望もある人物で、当時のビブラクス総督であり、<span style="color: #3d8b3d;">カエサル</span>のもとに講和の使節として来た者の一人でもある<a href="#note_iccius" title="イッキウス" id="iccius_2">イッキウス</a>が<span style="color: #3d8b3d;">カエサル</span>に使者を寄越した。
+  <li value="4">夜が来て攻撃が終わると、<span style="color: #3d8b3d;">レミ族</span>でもっとも家柄がよく声望もある人物で、当時のビブラクス総督であり、<mark>カエサル</mark>のもとに講和の使節として来た者の一人でもある<a href="#note_iccius" title="イッキウス" id="iccius_2">イッキウス</a>が<mark>カエサル</mark>に使者を寄越した。
   援軍を送ってもらえなければもう持ちこたえられそうにないとのことだったので、</li>
 </ol>
 
-<h5 class="green">第６章</h5>
+<h4 id="7chap" class="green">第七章</h4>
 
 <ol class="doc">
   <li value="1">夜のうちにイッキウスが使者として送ってきた者たちを道案内として、<a href="#note_numidie" title="ヌミディア人" id="numidie"><ruby lang="ja">ヌミディア<rp>(</rp><rt lang="la">Numidia</rt><rp>)</rp></ruby>人</a>や<a href="#note_crete" title="クレタ人" id="crete"><ruby lang="ja">クレタ<rp>(</rp><rt lang="la">Creta</rt><rp>)</rp></ruby>人</a>の弓兵と、<a href="#note_baleares" title="バレアレス人" id="baleares"><ruby lang="ja">バレアレス<rp>(</rp><rt lang="la">Baleares</rt><rp>)</rp></ruby>人</a>の投石兵を住民の救助に向かわせた。</li>
-  <li value="2">援軍が到着すると、<span style="color: #3d8b3d;">レミ族</span>は守り切れる希望がわいたので士気が上がり、敵の方は同じ理由から街を奪いとれる希望がなくなったので、しばし街の近辺に留まって<span style="color: #3d8b3d;">レミ族</span>の畑を荒らし、手当たり次第に村や建物を焼いてから、全軍で<span style="color: #3d8b3d;">カエサル</span>の陣地に向かい、二マイルも離れていないところに陣地を築いた</li>
+  <li value="2">援軍が到着すると、<span style="color: #3d8b3d;">レミ族</span>は守り切れる希望がわいたので士気が上がり、敵の方は同じ理由から街を奪いとれる希望がなくなったので、しばし街の近辺に留まって<span style="color: #3d8b3d;">レミ族</span>の畑を荒らし、手当たり次第に村や建物を焼いてから、全軍で<mark>カエサル</mark>の陣地に向かい、二マイルも離れていないところに陣地を築いた</li>
   <li value="3">この陣地は煙や火から判断すると八マイル以上もの長さがあった。</li>
 </ol>
 
-<h4 id="8chap"  class="green">第８、９、１０と１１章：エーヌ川の戦い</h4>
+<h3 class="green">エーヌ川の戦い</h3>
 
-<h5 class="green">第８章</h5>
+<h4 id="8chap" class="green">第八章</h4>
 
 <ol class="doc">
-  <li value="1"><span style="color: #3d8b3d;">カエサル</span>は当初敵も多いし並々ならぬ武勇の噂も聞いていたので戦闘を差し控えることにしたのだが、</li>
+  <li value="1"><mark>カエサル</mark>は当初敵も多いし並々ならぬ武勇の噂も聞いていたので戦闘を差し控えることにしたのだが、</li>
   <li value="2">それでも毎日騎兵戦をして、敵の武勇がどれほどのものか、またローマ軍がどこまでできるか試しているうちに、ローマ軍も劣っているわけではないことがわかった。</li>
   <li value="3">陣地の前の地形が布陣するのに適していたので（陣地を築いた丘はまわりの平地から少々高くなっていたのだが、正面には布陣した軍を収容できるほどの幅があったし、両側は急な坂になっていたものの、正面の傾斜はゆるやかでなだらかに平野へと降っていたのである）、丘の両側からそれぞれ直角に４００複歩ほどの壕を掘ると、</li>
   <li value="4">その壕の終端には砦を作って<ruby>射<rp>(</rp><rt>しゃ</rt><rp>)</rp>出<rp>(</rp><rt>しゅつ</rt><rp>)</rp>機<rp>(</rp><rt>き</rt><rp>)</rp></ruby>を設置し、布陣したとき、数の多さを頼りに側面から襲いかかる敵に包囲されてしまうことのないようにした。</li>
@@ -130,22 +140,22 @@
   敵も同様に軍を陣地から出して隊形を整えた。</li>
 </ol>
 
-<h5 class="green">第９章</h5>
+<h4 id="9chap" class="green">第九章</h4>
 
 <ol class="doc">
   <li value="1">両軍の間には大きくはないが沼があった。
   敵はここをローマ軍が渡ってくるものと思って待ちかまえていたし、ローマ軍も敵が渡り始めて身動きがとれなくなったところで襲いかかろうと武器を構えて準備していたのだが、それを尻目とも沼を渡ろうとはしなかったし、</li>
-  <li value="2">騎兵戦はローマ軍が優勢だったので<span style="color: #3d8b3d;">カエサル</span>が軍を陣地に引き上げると、</li>
+  <li value="2">騎兵戦はローマ軍が優勢だったので<mark>カエサル</mark>が軍を陣地に引き上げると、</li>
   <li value="3">敵はすぐにそこから前述の通りローマ軍の陣地の裏手にあるアクソナ川の方へと急ぎ</li>
   <li value="4">浅瀬を見つけると軍の一部を渡らせようとした。
   これは、できればクィントゥス・ティトゥリウス副司令が指揮する砦を襲って橋を壊し、</li>
   <li value="5">それが無理なら<span style="color: #3d8b3d;">レミ族</span>の畑を荒らし、物資を遮断したかったためだが、</li>
 </ol>
 
-<h5 class="green">第１０章</h5>
+<h4 id="10chap" class="green">第十章</h4>
 
 <ol class="doc">
-  <li value="1"><span style="color: #3d8b3d;">カエサル</span>は<a href="#note_titurius" title="ティトゥリウス" id="titurius"><ruby lang="ja">ティトゥリウス<rp>(</rp><rt lang="la">Titurius</rt><rp>)</rp></ruby></a>から報告を受けると、すべての騎兵、ヌミダの軽装兵、投石兵、弓兵に橋を渡らせて敵のもとへ急いだ。</li>
+  <li value="1"><mark>カエサル</mark>は<a href="#note_titurius" title="ティトゥリウス" id="titurius"><ruby lang="ja">ティトゥリウス<rp>(</rp><rt lang="la">Titurius</rt><rp>)</rp></ruby></a>から報告を受けると、すべての騎兵、ヌミダの軽装兵、投石兵、弓兵に橋を渡らせて敵のもとへ急いだ。</li>
   <li value="2">激戦になったが、ローマ軍は河で身動きのとれなくなっていた敵を攻撃して多数を殺し、</li>
   <li value="3">大胆きわまりないことにその屍を乗り越えて渡ろうとする者たちは多数の飛び道具で撃退した。
   また、先に渡り終えていた者は騎兵で取り囲んで殺した。</li>
@@ -157,27 +167,33 @@
   <li value="5">そのような結論に至ったのは、ディウィキアクスが率いるハエドゥイ族がべロウァキ族の領土に向かっていると知り、もっと粘ろう、仲間を助けに行くのはよそうというわけにはいかなくなったからでもある。</li>
 </ol>
 
-<h5 class="green">第１１章</h5>
+<h4 id="11chap" class="green">第十一章</h4>
 
 <ol class="doc">
   <li value="1">そう決まると、敵は第二夜警時に騒々しい物音を立てながら<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp>慌<rp>(</rp><rt>あわ</rt><rp>)</rp></ruby>てで陣地を出ていった。
   ろくに統制もとれておらず、誰もが我先にと故郷に向かったのでまるで夜逃げのようだったし、</li>
-  <li value="2">その様子は<span style="color: #3d8b3d;">カエサル</span>も<ruby>斥候<rp>(</rp><rt>せっこう</rt><rp>)</rp></ruby>を通じてすぐに知ったのだが、伏兵の恐れもあったので（なぜ退却するのかはまだわかっていなかったのである）、軍も騎兵も陣地に留めておいた。</li>
+  <li value="2">その様子は<mark>カエサル</mark>も<ruby>斥候<rp>(</rp><rt>せっこう</rt><rp>)</rp></ruby>を通じてすぐに知ったのだが、伏兵の恐れもあったので（なぜ退却するのかはまだわかっていなかったのである）、軍も騎兵も陣地に留めておいた。</li>
   <li value="3">夜が明けて、<ruby>斥候<rp>(</rp><rt>せっこう</rt><rp>)</rp></ruby>を通じて事情を確認すると、敵のしんがりを足止めするべく騎兵の全軍を先発させ(これはッィットッス・ペディウス、ルーキウス・アウルシクレイウス・コッタ両副司令 に任せた)、ティトッス・ラビェーヌス副司令にも三個軍団を連れて後を追うよう命じた。</li>
   <li value="4">この者たちは敵のしんがりに襲いかかると、何マイルも追撃して、逃げ出した敵を大勢殺した。狙われた敵軍のしんがりは立ち止まってローマ軍の攻撃に勇敢に立ち向かったのだが、</li>
   <li value="5">先行していたおかげでまだ大丈夫だと思い込み、必要に迫られたり命令を受けることもなく統制がとれていなかった者たちは、<ruby>喊<rp>(</rp><rt>かん</rt><rp>)</rp>声<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>が聞こえてくると列を乱し、逃げて身を守ろうとしたので、</li>
   <li value="6">ローマ軍は何の危険を感じることもなく日の出ている間に大勢の敵を殺せたのである(彼らは日没になると追撃をやめて、命じられていた通りに陣地に戻ってきた)。</li>
 </ol>
 
-<h4 class="green">第１２章：スエシオネス族、ベロヴァキ族、アンビアニ族が服従して、カエサルがネルウィイ族の地へと渡る</h4>
+<h3 class="green">スエシオネス族、ベロヴァキ族、アンビアニ族が服従して、カエサルがネルウィイ族の地へと渡る</h3>
+
+<h4 id="12chap" class="green">第十二章</h4>
 
 <ol class="doc">
   <li value="1">翌日、カェサルは敵が恐怖心や敗走の痛手から立ち直る前に<span style="color: #3d8b3d;">レミ族</span>の隣人であるスェシオネス族の領土に軍を移動し、強行軍で<a href="#note_noviodunum" title="ノウィオドゥヌム" id="noviodunum"><ruby lang="ja">ノウィオドゥヌム<rp>(</rp><rt lang="la">Noviodunum</rt><rp>)</rp></ruby></a>という街に向かった。</li>
   <li value="2">行軍を終えると守備隊がいないと聞いていたのであるから、街を攻略しようとしたのだが、壕が広く防壁も高かったため、守備隊が少なかったにもかかわらず街を落とせなかったので、</li>
   <li value="3">陣地を築くと、作業小屋を移動させながら攻城戦に使うものの準備を始めた。</li>
   <li value="4">そうこうしているうちに逃げ出していたスエシオネス族が全員その夜のうちに街に戻ってきていたのだが、</li>
-  <li value="5">あっという間に<a href="#note_mantelets" title="作業小屋" id="mantelets">作業小屋</a>が街へと押し寄せ、攻城用の土手をかけられ、檜が組まれるという工事の大がかりさ（ガリア人には見たことも聞いたこともないほどの工事だったのである）とローマ人の手早さに動転して、<span style="color: #3d8b3d;">カエサル</span>のもとに降伏の使節を送ってきた（この者たちは<span style="color: #3d8b3d;">レミ族</span>の仲介があったので存続を許された）。</li>
+  <li value="5">あっという間に<a href="#note_mantelets" title="作業小屋" id="mantelets">作業小屋</a>が街へと押し寄せ、攻城用の土手をかけられ、檜が組まれるという工事の大がかりさ（ガリア人には見たことも聞いたこともないほどの工事だったのである）とローマ人の手早さに動転して、<mark>カエサル</mark>のもとに降伏の使節を送ってきた（この者たちは<span style="color: #3d8b3d;">レミ族</span>の仲介があったので存続を許された）。</li>
 </ol>
+
+<footer>
+  <p>ユリウス・カエサル、<cite>ガリア戦記</cite>、第二巻、第一章から第十二章まで</p>
+</footer>
 
 <aside>
 
