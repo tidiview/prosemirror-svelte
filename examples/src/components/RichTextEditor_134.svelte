@@ -28,7 +28,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/04.marly/01.pierre-denis-martin/01.pierre-denis-martin_1/marly1724-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/04.marly/01.pierre-denis-martin/01.pierre-denis-martin_1/marly1724-1600.jpg 1600w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/04.marly/01.pierre-denis-martin/01.pierre-denis-martin_1/marly1724-1920.jpg 1920w"></picture><figcaption><ruby lang="ja">
-  ピエル<rp>(</rp><rt lang="fr">Pierre</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>ドニ<rp>(</rp><rt lang="fr">Denis</rt><rp>)</rp>・<rp>(</rp><rt lang="fr"></rt><rp>)</rp>マルタン<rp>(</rp><rt lang="fr">Martin</rt><rp>)</rp></ruby>筆、《<ruby lang="ja">水飲み場から眺めた、マルリー宮殿の全体景観<rp>(</rp><rt lang="fr">Vue générale du Château de Marly, prise de l’abreuvoir</rt><rp>)</rp></ruby>》絵画（１７２４年）</figcaption>
+  ピエル<rp>(</rp><rt lang="fr">Pierre</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>ドニ<rp>(</rp><rt lang="fr">Denis</rt><rp>)</rp>・<rp>(</rp><rt lang="fr"></rt><rp>)</rp>マルタン<rp>(</rp><rt lang="fr">Martin</rt><rp>)</rp></ruby>筆、《<ruby lang="ja">水飲み場から眺めた、マルリー宮殿の全体景観<rp>(</rp><rt lang="fr">Vue générale du Château de Marly, prise de l’abreuvoir</rt><rp>)</rp></ruby>》絵画（<time datetime="1724">１７２４年</time>）</figcaption>
 </figure>
 
 
@@ -52,7 +52,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/04.marly/01.pierre-denis-martin/02.pierre-denis-martin_2/marly1723-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/04.marly/01.pierre-denis-martin/02.pierre-denis-martin_2/marly1723-1600.jpg 1600w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/04.marly/01.pierre-denis-martin/02.pierre-denis-martin_2/marly1723-1920.jpg 1920w"></picture><figcaption><ruby lang="ja">
-  ピエル<rp>(</rp><rt lang="fr">Pierre</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>ドニ<rp>(</rp><rt lang="fr">Denis</rt><rp>)</rp>・<rp>(</rp><rt lang="fr"></rt><rp>)</rp>マルタン<rp>(</rp><rt lang="fr">Martin</rt><rp>)</rp></ruby>筆、《<ruby lang="ja">水飲み場から眺めた、マルリー宮殿の全体景観<rp>(</rp><rt lang="fr">Vue générale du Château de Marly, prise de l’abreuvoir</rt><rp>)</rp></ruby>》絵画（１７２３年）</figcaption>
+  ピエル<rp>(</rp><rt lang="fr">Pierre</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>ドニ<rp>(</rp><rt lang="fr">Denis</rt><rp>)</rp>・<rp>(</rp><rt lang="fr"></rt><rp>)</rp>マルタン<rp>(</rp><rt lang="fr">Martin</rt><rp>)</rp></ruby>筆、《<ruby lang="ja">水飲み場から眺めた、マルリー宮殿の全体景観<rp>(</rp><rt lang="fr">Vue générale du Château de Marly, prise de l’abreuvoir</rt><rp>)</rp></ruby>》絵画（<time datetime="1723">１７２３年</time>）</figcaption>
 </figure>
 
 </article>
