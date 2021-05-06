@@ -22,14 +22,15 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.triano
 https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/01.arachnee/arachnee-380.jpg 380w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/01.arachnee/arachnee-480.jpg 480w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/01.arachnee/arachnee-640.jpg 640w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/01.arachnee/arachnee_700x520.jpg 700w"></picture><figcaption>Minerve au premier plan <q cite="#arachnee">tenant à la main sa navette du mont Cytore, Elle en frappe trois, quatre fois au front</q> Arachnée la Méonienne, au centre</figcaption></figure>
+https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/01.arachnee/arachnee_700x520.jpg 700w"></picture><figcaption>Minerve au premier plan <q cite="#arachnee">tenant à la main sa navette du mont Cytore, Elle en frappe trois, quatre fois au front</q> Arachnée la Méonienne, au centre. <cite>les Métamorphoses</cite>, Livre <abbr title="six">VI</abbr>, vers 130.</figcaption></figure>
 
 <div class="notices red">
 <p>Au <a href="https://fr.wikipedia.org/wiki/Grand_Trianon" title="https://fr.wikipedia.org/wiki/Grand_Trianon">Grand Trianon</a>, dans le Salon des Seigneurs, se trouve un tableau peint par <a href="https://fr.wikipedia.org/wiki/René-Antoine_Houasse" title="https://fr.wikipedia.org/wiki/René-Antoine HOUASSE">René-Antoine HOUASSE</a>, <cite>Minerve et Arachnée</cite>.</p>
+<p>Cette peinture fait partie d'une série appelée <cite>Histoire de Minerve</cite>, comme <a href="https://francois-vidit.com/docs/fr/versailles/trianon/tiresias" title="https://francois-vidit.com/docs/fr/versailles/trianon/tiresias"><cite>Minerve et Tirésias</cite></a>.</p>
 <p>Il raconte la terrible fin d'<a href="https://fr.wikipedia.org/wiki/Arachné" title="https://fr.wikipedia.org/wiki/Arachnée">Arachnée</a>, femme de Méonie, qui se trouve au centre et est représentée se défendant.</p>
 <p>Elle se trouve frappée par <a href="https://fr.wikipedia.org/wiki/Minerve_(mythologie)" title="https://fr.wikipedia.org/wiki/Minerve_(mythologie)">Minerve</a>, ici déesse de l'art de tisser qui apparaît au premier plan, parce qu'elle refusait de lui reconnaître toute supériorité du fait de sa seule divinité.</p>
-<p>Sa vie durant, elle n'a en effet eu de cesse de lui disputer l'excellence de cet art, ainsi que le raconte <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a> dans le livre <abbr title="six">VI</abbr> des <a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"><cite>Métamorphoses</cite></a>.</p>
-<p>En voici le texte ci-dessous.</p>
+<p>Sa vie durant, elle n'a en effet eu de cesse de lui disputer l'excellence de cet art, ainsi que le raconte l'écrivain d'expression latine <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a>,dans le livre <abbr title="six">VI</abbr> des <a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"><cite>Métamorphoses</cite></a>.</p>
+<p>En voici le texte ci-dessous: Minerve y est appelée par Ovide selon sa dénomination latine, Pallas.</p>
 </div>
 
 <h2 id="arachnee" class="red">Arachnée selon le texte du livre <abbr title="six">VI</abbr> des <cite>Métamorphoses</cite></h2>
@@ -46,7 +47,8 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.triano
   <li value="5">Elle décide de perdre <mark>Arachnée</mark> la Méonienne</li>
   <li>Qui ne s'incline pas, lui a-t-on rapporté, devant son art</li>
   <li>Du tissage. Celle-ci ne s'est illustrée ni par son rang</li>
-  <li>Ni par ses origines mais par cet art; son père, Idmon de Colophon,</li>
+
+  <li class="top-space">Ni par ses origines mais par cet art; son père, Idmon de Colophon,</li>
   <li>Teignait la laine en la trempant dans la pourpre de Phocée;</li>
   <li value="10">Elle a perdu sa mère qui, comme son mari,</li>
   <li>Était issue du peuple. Or, elle s'est appliquée à se faire</li>
@@ -56,18 +58,21 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.triano
   <li value="15">Les nymphes du Tmolus ont délaissé leurs vignes,</li>
   <li>Les nymphes du Pactoles ont délaissé leurs eaux.</li>
   <li>Elles aimaient non seulement contempler les vêtements finis</li>
-  <li>Mais aussi la voir faire, tant elle réalisait avec grâce :</li>
+
+  <li class="top-space">Mais aussi la voir faire, tant elle réalisait avec grâce :</li>
   <li>La voir mettre en pelote la laine non encore travaillée,</li>
   <li value="20">La voir du doigt lisser son ouvrage et tirer longuement sur les flocons</li>
   <li>De laine pour les assouplir, les rendant aussi doux que nuages,</li>
   <li>La voir légèrement tourner du pouce le délicat fuseau,</li>
-  <li>La voir broder; on y reconnaissait l'élève de Pallas.</li>
+
+  <li class="top-space">La voir broder; on y reconnaissait l'élève de <mark>Pallas</mark>.</li>
   <li>Or, elle nie cela et, refusant l'idée d'une enseignante aussi illustre,</li>
   <li value="25">Elle a dit: </li>
   <li>
     <p class="conversation">«Qu'elle se mesure à moi; si je perds, je me soumettrai.»</p>
   </li>
-  <li>Pallas se déguise en vieille femme, met de faux cheveux blancs</li>
+
+  <li class="top-space"><mark>Pallas</mark> se déguise en vieille femme, met de faux cheveux blancs</li>
   <li>À ses temps et son corps faible d'appuie même sur une canne.</li>
   <li>Puis, elle s'adresse à elle en ces termes: </li>
   <li>
@@ -87,9 +92,10 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.triano
   </li>
   <li><p class="conversation">D'une voix suppliante, pour tes propos; si tu la prie, elle pardonnera.»</p>
   </li>
-  <li>La regardant de travers, <mark>Arachnée</mark> laisse le tissu commencé</li>
+
+  <li class="top-space">La regardant de travers, <mark>Arachnée</mark> laisse le tissu commencé</li>
   <li value="35">Et, retenant sa main avec peine, le visage marqué par la colère,</li>
-  <li>C'est ainsi qu'elle répond à Pallas méconnaissable:</li>
+  <li>C'est ainsi qu'elle répond à <mark>Pallas</mark> méconnaissable:</li>
   <li>
     <p class="conversation">«Tu n'as plus ta tête; ta vieillesse prolongée t'a profondément amoindrie;</p>
   </li>
@@ -108,21 +114,25 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.triano
   <li>
     <p class="conversation">Pourquoi ne vient-elle pas? Pourquoi évite-t-elle l'affrontement?»</p>
   </li>
-  <li>Alors la déesse dit:</li>
+
+  <li class="top-space">Alors la déesse dit:</li>
   <li>
     <p class="conversation">«La voici»,</p>
   </li>
   <li>et elle se défait de son aspect</li>
-  <li>De vieille, et Pallas apparaît. Nymphes et Mygdoniennes</li>
+
+  <li class="top-space">De vieille, et <mark>Pallas</mark> apparaît. Nymphes et Mygdoniennes</li>
   <li value="45">Révèrent sa puissance: seule, la jeune fille n'a pas peur.</li>
   <li>Pourtant elle a rougi et la rougeur qui, malgré elle, a marqué</li>
   <li>Son visage, s'est aussitôt estompée, de même que le ciel</li>
   <li>Se colore de pourpre dès que l'aurore se met en marche</li>
   <li>Et, au lever du soleil, redevient très rapidement blanc.</li>
-  <li value="50">Elle s'obstine dons son projet et ce désir stupidede remporter</li>
+
+  <li value="50" class="top-space">Elle s'obstine dons son projet et ce désir stupide de remporter</li>
   <li>La palme la fait courir à sa perte; car la fille de Jupiter</li>
   <li>Ne se dérobe pas, ne conseille plus rien et ne diffère plus la joute.</li>
-  <li>Sans retard, toutes deux installent, à l'opposée l'une de l'autre,</li>
+
+  <li class="top-space">Sans retard, toutes deux installent, à l'opposée l'une de l'autre,</li>
   <li>Deux métiers à tisser et y tendent les minces fils de la chaîne;</li>
   <li value="55">Une traverse en relie les montants, un roseau en sépare les fils,</li>
   <li>De fines navettes y font courir la trame</li>
@@ -130,7 +140,8 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.triano
   <li>Et que viennent frapper les dents qui composent le peigne.</li>
   <li>Elles se hâtent toutes deux et, manches retroussées jusqu'au buste,</li>
   <li value="60">Leurs bras s'activent avec habileté et une ardeur qui trompe la fatigue.</li>
-  <li>Le tissage s'élabore à partir de la pourpre macérée dans des chaudrons</li>
+
+  <li class="top-space">Le tissage s'élabore à partir de la pourpre macérée dans des chaudrons</li>
   <li>Tyriens, ainsi que de subtiles teintes aux nuances très proches,</li>
   <li>Semblables à l'arc dont la courbe immense, quand la pluie</li>
   <li>Frappe les rayons du soleil, s'étire dans tout le ciel :</li>
@@ -139,24 +150,28 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.triano
   <li>À leur point de jonction alors qu'elles sont distinctes à leurs extrémités.</li>
   <li>Un fil d'or souple se même ici à la trame</li>
   <li>Et vient broder sur le tissu des scènes d'autrefois.</li>
-  <li value="70">Pallas dépeint le rocher de Mars, sur les hauteurs d'Athènes,</li>
+
+  <li value="70" class="top-space"><mark>Pallas</mark> dépeint le rocher de Mars, sur les hauteurs d'Athènes,</li>
   <li>Et le débat de jadis au sujet du nom de cette terre.</li>
   <li>Les douze dieux du ciel, autour de Jupiter siègent sur trônes élevés,</li>
   <li>Avec une solennité auguste; chacun des dieux est représenté</li>
   <li>Avec ses attributs distinctifs: le portrait de Jupiter est d'un roi.</li>
-  <li value="75">Le dieu des eaux est montré debout, frappant d'âpres rochers</li>
+
+  <li value="75" class="top-space">Le dieu des eaux est montré debout, frappant d'âpres rochers</li>
   <li>De son long trident et, de la brèche ainsi ouverte,</li>
   <li>Faisant jaillir une mer, enjeu par lequel il revendique la ville.</li>
-  <li>Pallas se donne un bouclier, une lance à la pointe aigüe,</li>
+  <li><mark>Pallas</mark> se donne un bouclier, une lance à la pointe aigüe,</li>
   <li>Pose un casque sur sa tête, protège sa poitrine par une égide</li>
   <li value="80">Et dessine la terre, frappée de sa lance,</li>
   <li>Donnant naissance à l'olivier adulte chargé de fruits,</li>
   <li>Devant les dieux saisis d'admiration: la Victoire termine son ouvrage.</li>
   <li>Toutefois, pour que celle qui prétend à sa gloire comprenne par l'exemple</li>
-  <li>Quelle récompense elle peut attendre d'une si folle audace,</li>
+
+  <li class="top-space">Quelle récompense elle peut attendre d'une si folle audace,</li>
   <li value="85">Elle ajoute aux quatre coins quatre défis lancés,</li>
   <li>Éclatants de couleur mais de petites dimensions par rapport au premier.</li>
-  <li>Dans l'un des angles, il y a le Rhodope de Thrace et l'Hémus,</li>
+
+  <li class="top-space">Dans l'un des angles, il y a le Rhodope de Thrace et l'Hémus,</li>
   <li>Aujourd'hui monts glacés, naguère êtres humains</li>
   <li>Qui usurpèrent les noms des plus grands dieux.</li>
   <li value="90">Un autre retrace la mère des Pygmées le destin pathétique :</li>
@@ -172,39 +187,47 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.triano
   <li value="100">À savoir les corps de ses filles, et, allongé sur la pierre, pleurer.</li>
   <li>Des rameaux d'olivier, emblème de la paix, forment une bordure :</li>
   <li>Façon de terminer l'ouvrage par son arbre préféré.</li>
-  <li>La Méonnienne dessine Europe abusée par un simulacre</li>
+
+  <li class="top-space">La Méonnienne dessine Europe abusée par un simulacre</li>
   <li>De taureau; on croirait voir un vrai taureau, une vraie mer.</li>
   <li value="105">La jeune fille semble regarder la terre qu'elle laisse,</li>
   <li>Appeler ses compagnes et, de crainte d'être touchée</li>
   <li>Par la vague agressive, relever ses pieds avec appréhension.</li>
-  <li><mark>Arachnée</mark> montre encore Astérie aux prises avec un aigle</li>
+
+  <li class="top-space"><mark>Arachnée</mark> montre encore Astérie aux prises avec un aigle</li>
   <li>Qui la domine, Léda étendue sous les ailes d'un cygne;</li>
-  <li value="110">Elle y ajoute Jupiter caché sous l'aspect d'un satyre</li>
+
+  <li value="110" class="top-space">Elle y ajoute Jupiter caché sous l'aspect d'un satyre</li>
   <li>Et faisant deux jumeaux à la splendide fille de Nyctée,</li>
   <li>Puis, sous les traits d'Amphitryon te prenant, reine de Tirynthe,</li>
   <li>Et pluie d'or pour tromper Danaé, flamme pour Égine,</li>
   <li>Berger pour Mnémosyne, serpent moucheté pour la fille de Déo.</li>
-  <li value="115">Elle te montre aussi, Neptune, changé en farouche taureau</li>
+
+  <li value="115" class="top-space">Elle te montre aussi, Neptune, changé en farouche taureau</li>
   <li>Pour la vierge d'Éolie, sous l'apparence d'Énipée quand tu engendras</li>
   <li>Les Aloïdes, ou du bélier quand tu séduisis la fille de Bisalte.</li>
   <li>Cheval, tu fis jouir la très généreuse mère des moissons,</li>
   <li>Celle aux cheveux dorés; oiseau, celle à la chevelure de serpents,</li>
   <li value="120">La mère du cheval ailé; dauphin, tu fis jouir Mélantho.</li>
-  <li>Chacun des personnages, chacun des lieux est parfaitement</li>
+
+  <li class="top-space">Chacun des personnages, chacun des lieux est parfaitement</li>
   <li>Représenté: il y a là Phœbus sous les traits d'un paysan,</li>
   <li>Revêtu tantôt des plumes d'un épervier, tantôt d'une peau de lion,</li>
   <li>ou encore berger pour séduire Issa, fille de Macarée;</li>
   <li>Puis Liber déguisé en grappe de raisin pour abuser Érigoné,</li>
   <li value="125">Puis Saturne en cheval pour engendrer Chiron au corps double.</li>
-  <li>Le bord de la toile, entouré d'une légère frange,</li>
+
+  <li class="top-space">Le bord de la toile, entouré d'une légère frange,</li>
   <li>Comporte des entrelacs de fleurs et de branches de lierre.</li>
-  <li>Ni Pallas, ni l'Envie ne pourraient critiquer cet ouvrage;</li>
+
+  <li class="top-space">Ni <mark>Pallas</mark>, ni l'Envie ne pourraient critiquer cet ouvrage;</li>
   <li>La blonde guerrière, tout au dépit de cette réussite,</li>
   <li>Déchire le tissu coloré et ses adultères divins</li>
-  <li value="130">Et, tenant à la main sa navette du mont Cytore,</li>
+
+  <li value="130" class="top-space">Et, tenant à la main sa navette du mont Cytore,</li>
   <li>Elle en frappe trois, quatre fois au front la fille d'Idmon, <mark>Arachnée</mark>.</li>
   <li>La malheureuse ne le supporte pas et, fièrement, entoure son cou</li>
-  <li>D'un lacet. La voyant pendue, Pallas allège sa souffrance</li>
+  <li>D'un lacet. La voyant pendue, <mark>Pallas</mark> allège sa souffrance</li>
   <li>En disant: </li>
   <li>
     <p class="conversation">«Vis donc, mais reste pendue, impudente,</p>
@@ -215,7 +238,8 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.triano
   <li>
     <p class="conversation">Sur toute ta race jusqu'à tes plus loins descendants.»</p>
   </li>
-  <li>Après quoi, en partant, elle l'arrose d'une décoction de plantes</li>
+
+  <li class="top-space">Après quoi, en partant, elle l'arrose d'une décoction de plantes</li>
   <li>Créée par Hécate; aussitôt, touchés par ce funeste onguent,</li>
   <li>Ses cheveux tombent et avec eux, son nez et ses oreilles,</li>
   <li value="145">Sa tête se rapetisse, son corps tout entier se réduit;</li>
