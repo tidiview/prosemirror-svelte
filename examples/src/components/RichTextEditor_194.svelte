@@ -27,7 +27,8 @@
 </figure>
 
   <div class="notices blue">
-  <p>At the <a href="https://en.wikipedia.org/wiki/Grand_Trianon" title="https://en.wikipedia.org/wiki/Grand_Trianon">Grand Trianon</a>, in the Salon des Seigneurs, is a painting by <a href="https://en.wikipedia.org/wiki/René-Antoine_Houasse" title="https://en.wikipedia.org/wiki/René-Antoine_Houasse">René-Antoine HOUASSE</a>, <cite>Minerva and Tiresias</cite>. This painting is a part of a serie called <cite>History of Minerva</cite>.</p>
+  <p>At the <a href="https://en.wikipedia.org/wiki/Grand_Trianon" title="https://en.wikipedia.org/wiki/Grand_Trianon">Grand Trianon</a>, in the Salon des Seigneurs, is a painting by <a href="https://en.wikipedia.org/wiki/René-Antoine_Houasse" title="https://en.wikipedia.org/wiki/René-Antoine_Houasse">René-Antoine HOUASSE</a>, <cite>Minerva and Tiresias</cite>.</p>
+  <p>This painting is a part of a serie called <cite>History of Minerva</cite> as <a href="https://francois-vidit.com/docs/en/versailles/trianon/arachnee" title="https://francois-vidit.com/docs/en/versailles/trianon/arachnee"><cite>Minerva and Arachne</cite></a>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Minerva" title="https://en.wikipedia.org/wiki/Minerva">Minerva</a> at first ground makes Tiresias in the center becoming sightless, as <a href="https://en.wikipedia.org/wiki/Bibliotheca_(Pseudo-Apollodorus)#Pseudo-Apollodorus" title="https://en.wikipedia.org/wiki/Bibliotheca_(Pseudo-Apollodorus)#Pseudo-Apollodorus">Pseudo-Apollodorus</a> tells in Book <abbr title="three">III</abbr> of the <a href="https://en.wikipedia.org/wiki/Bibliotheca_(Pseudo-Apollodorus)" title="https://en.wikipedia.org/wiki/Bibliotheca_(Pseudo-Apollodorus)"><cite>Bibliotheca</cite></a>.</p>
   <p>Here's the text.</p>
   </div>
