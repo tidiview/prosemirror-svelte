@@ -4,7 +4,7 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
+  const html = `<!-- JA:131 EN:194  -->
 <article>
 
 <hgroup>
@@ -23,7 +23,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg 700w"></picture><figcaption>Minerve au premier plan condamne les yeux de Tirésias, au centre, <q cite="#tiresias">à la nuit éternelle</q></figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg 700w"></picture><figcaption><cite>Minerve et Tirésias</cite><br>Minerve au premier plan condamne les yeux de Tirésias, au centre, <q cite="#tiresias">à la nuit éternelle</q></figcaption>
 </figure>
 
 <div class="notices blue">
@@ -32,7 +32,7 @@
 <p>En voici l'extrait.</p>
 </div>
 
-<h2 id="tiresias" class="blue">Tirésias selon le texte du livre <abbr title="trois">III</abbr> des <cite>Métamorphoses</cite></h2>
+<h2 id="tiresias" class="blue"><cite>Minerve et Tirésias</cite> selon le texte du livre <abbr title="trois">III</abbr> des <cite>Métamorphoses</cite></h2>
 
 <ol class="doc">
   <li value="316">Tandis que la loi du destin s'accomplissait de la sorte sur terre</li>
