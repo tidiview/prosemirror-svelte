@@ -22,7 +22,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/01.arachnee/arachnee-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/01.arachnee/arachnee-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/01.arachnee/arachnee-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/01.arachnee/arachnee_700x520.jpg 700w"></picture><figcaption>Minerva at first ground beats Arachne the Meonian in the center<br><q cite="#arachne">with her boxwood shuttle in her hand, struck the unhappy mortal on her head,—struck sharply thrice, and even once again.</q></figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/01.arachnee/arachnee_700x520.jpg 700w"></picture><figcaption>Minerva at first ground beats Arachne the Meonian in the center<br><q cite="#arachnee">with her boxwood shuttle in her hand, struck the unhappy mortal on her head,—struck sharply thrice, and even once again, <cite>The Metamorphoses</cite>, Book VI, verses 130.</q></figcaption>
 </figure>
 
 <div class="notices red">
@@ -31,18 +31,20 @@
 <p>Below is the referencing text.</p>
 </div>
 
-<h2 id="arachne" class="red">Arachne according to <cite>The Metamorphoses</cite></h2>
+<h2 id="arachnee" class="red">Arachne according to <cite>The Metamorphoses</cite></h2>
 
 <ol class="doc">
-  <li value="1">All this Minerva heard; and she approved</li>
+  <li value="1">All this <mark>Minerva</mark> heard; and she approved</li>
   <li>their songs and their resentment; but her heart</li>
-  <li>was brooding thus,
+  <li>
+    <p>was brooding thus,</p>
     <p class="conversation">“It is an easy thing</p>
     <p class="conversation">to praise another, I should do as they:</p>
     <p class="conversation">no creature of the earth should ever slight</p>
     <p class="conversation">the majesty that dwells in me,—without</p>
       just retribution.”</p>
-    —So her thought was turned</li>
+    <p>—So her thought was turned</p>
+  </li>
   <li>upon the fortune of <mark>Arachne</mark> — proud,</li>
   <li>who would not ever yield to her the praise</li>
   <li>won by the art of deftly weaving wool,</li>
@@ -71,55 +73,58 @@
   <li>or if with needle she embroidered cloth;—</li>
 
   <li class="top-space">in all her motions one might well perceive</li>
-  <li>how much Minerva had instructed her:</li>
+  <li>how much <mark>Minerva</mark> had instructed her:</li>
   <li>but this she ever would deny, displeased</li>
   <li>to share her fame; and said,
-    <p class="conversation">“Let her contend<br>
-      in art with me; and if her skill prevails,<br>
-      I then will forfeit all!”</p>
+    <p class="conversation">“Let her contend</p>
+    <p class="conversation">in art with me; and if her skill prevails,</p>
+    <p class="conversation">I then will forfeit all!”</p>
   </li>
 
-  <li class="top-space">Minerva heard,</li>
+  <li class="top-space"><mark>Minerva</mark> heard,</li>
   <li>and came to her, disguised with long grey hair,</li>
   <li>and with a staff to steady her weak limbs.</li>
   <li>She seemed a feeble woman, very old,</li>
   <li>and quavered as she said,
-    <p class="conversation">“Old age is not<br>
-    the cause of every ill; experience comes<br>
-    with lengthened years; and, therefore, you should not<br>
-    despise my words. It is no harm in you<br>
-    to long for praise of mortals, when<br>
-    your nimble hands are spinning the soft wool,—<br>
-    but you should not deny Minerva's art—<br>
-    and you should pray that she may pardon you,<br>
-    for she will grant you pardon if you ask.”</p>
+    <p class="conversation">“Old age is not</p>
+    <p class="conversation">the cause of every ill; experience comes</p>
+    <p class="conversation">with lengthened years; and, therefore, you should not</p>
+    <p class="conversation">despise my words. It is no harm in you</p>
+    <p class="conversation">to long for praise of mortals, when</p>
+    <p class="conversation">your nimble hands are spinning the soft wool,—</p>
+    <p class="conversation">but you should not deny <mark>Minerva</mark>'s art—</p>
+    <p class="conversation">and you should pray that she may pardon you,</p>
+    <p class="conversation">for she will grant you pardon if you ask.”</p>
   </li>
 
   <li class="top-space"><mark>Arachne</mark>, scowling with an evil face.</li>
   <li>Looked at the goddess, as she dropped her thread.</li>
   <li>She hardly could restrain her threatening hand,</li>
   <li>and, trembling in her anger, she replied</li>
-  <li>to you, disguised Minerva:</li>
+  <li>to you, disguised <mark>Minerva</mark>:</li>
 
-  <li class="top-space"><p class="conversation">“Silly fool,—<br>
-    worn out and witless in your palsied age,<br>
-    a great age is your great misfortune!— Let<br>
-    your daughter and your son's wife—if the Gods<br>
-    have blessed you—let them profit by your words;<br>
-    within myself, my knowledge is contained<br>
-    sufficient; you need not believe that your<br>
-    advice does any good; for I am quite<br>
-    unchanged in my opinion. Get you gone,—<br>
-    advise your goddess to come here herself,<br>
-    and not avoid the contest!”</p></li>
+  <li class="top-space">
+    <p class="conversation">“Silly fool,—</p>
+    <p class="conversation">worn out and witless in your palsied age,</p>
+    <p class="conversation">a great age is your great misfortune!— Let</p>
+    <p class="conversation">your daughter and your son's wife—if the Gods</p>
+    <p class="conversation">have blessed you—let them profit by your words;</p>
+    <p class="conversation">within myself, my knowledge is contained</p>
+    <p class="conversation">sufficient; you need not believe that your</p>
+    <p class="conversation">advice does any good; for I am quite</p>
+    <p class="conversation">unchanged in my opinion. Get you gone,—</p>
+    <p class="conversation">advise your goddess to come here herself,</p>
+    <p class="conversation">and not avoid the contest!”</p>
+  </li>
 
   <li class="top-space">Instantly,</li>
-  <li>the goddess said,
-    <p class="conversation">“Minerva comes to you!”</p>
+  <li>
+    <p>the goddess said,</p>
+    <p class="conversation">“<mark>Minerva</mark> comes to you!”</p>
   </li>
   <li>And with those brief words, put aside the shape</li>
   <li>of the old woman, and revealed herself,</li>
-  <li>Minerva, goddess.</li>
+  <li><mark>Minerva</mark>, goddess.</li>
 
   <li class="top-space">All the other Nymphs</li>
   <li>and matrons of Mygdonia worshiped her;</li>
@@ -162,7 +167,7 @@
   <li>and there, depicted in those shining webs,</li>
   <li>were shown the histories of ancient days:—</li>
 
-  <li class="top-space">Minerva worked the Athenian Hill of Mars,</li>
+  <li class="top-space"><mark>Minerva</mark> worked the Athenian Hill of Mars,</li>
   <li>where ancient Cecrops built his citadel,</li>
   <li>and showed the old contention for the name</li>
   <li>it should be given.—Twelve celestial Gods</li>
@@ -172,7 +177,7 @@
   <li>appeared as monarch of those judging Gods.</li>
 
   <li class="top-space">There Neptune, guardian of the sea, was shown</li>
-  <li>contending with Minerva. As he struck</li>
+  <li>contending with <mark>Minerva</mark>. As he struck</li>
   <li>the Rock with his long trident, a wild horse</li>
   <li>sprang forth which he bequeathed to man. He claimed</li>
   <li>his right to name the city for that gift.</li>
@@ -191,7 +196,7 @@
   <li>might learn the folly of her mad attempt,</li>
   <li>from the great deeds of ancient histories,</li>
   <li>and what award presumption must expect,</li>
-  <li>Minerva wove four corners with life scenes</li>
+  <li><mark>Minerva</mark> wove four corners with life scenes</li>
   <li>of contest, brightly colored, but of size</li>
   <li value="86">diminutive.</li>
 
@@ -214,7 +219,7 @@
   <li>Despite the powers of Ilion and her sire</li>
   <li>Laomedon, her shoulders fledged white wings.</li>
   <li>And so, the third part finished, there was left</li>
-  <li>one corner, where Minerva deftly worked</li>
+  <li>one corner, where <mark>Minerva</mark> deftly worked</li>
   <li>the story of the father, Cinyras;—</li>
   <li>as he was weeping on the temple steps,</li>
   <li>which once had been his daughter's living limbs.</li>
@@ -268,7 +273,6 @@
   <li>he wore hawk-wings, and then the tawny skin</li>
   <li>of a great lion; and once more when he</li>
   <li>deluded Isse, as a shepherd lad.</li>
-  <li></li>
   <li>And there was Bacchus, when he was disguised</li>
   <li>as a large cluster of fictitious grapes;</li>
   <li>deluding by that wile the beautiful</li>
@@ -279,7 +283,7 @@
   <li>wove all around the web a patterned edge</li>
   <li>of interlacing flowers and ivy leaves.</li>
 
-  <li class="top-space">Minerva could not find a fleck or flaw—</li>
+  <li class="top-space"><mark>Minerva</mark> could not find a fleck or flaw—</li>
   <li>even Envy can not censure perfect art—</li>
   <li>enraged because Arachne had such skill</li>
   <li>she ripped the web, and ruined all the scenes</li>
@@ -292,7 +296,7 @@
   <li>such insult, brooded on it, till she tied</li>
   <li>a cord around her neck, and hung herself.</li>
 
-  <li class="top-space">Minerva, moved to pity at the sight,</li>
+  <li class="top-space"><mark>Minerva</mark>, moved to pity at the sight,</li>
   <li>sustained and saved her from that bitter death;</li>
   <li>but, angry still, pronounced another doom:</li>
   <li><p class="conversation">“Although I grant you life, most wicked one,</p></li>
