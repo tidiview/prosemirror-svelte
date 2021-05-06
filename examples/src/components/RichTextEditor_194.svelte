@@ -4,7 +4,7 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
+  const html = `<!-- FR:163 JA:131  -->
 <article>
 
 <hgroup>
@@ -18,12 +18,12 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-380.webp 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-480.webp 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias_700x501.webp 700w" type="image/webp"><img sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" src="https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg" title="Peinture de René-Antoine HOUASSE, “Minerve and Tiresias”, qui se trouve au Grand Trianon au Château de Versailles" alt="Peinture de René-Antoine HOUASSE, “Minerve and Tiresias”, qui se trouve au Grand Trianon au Château de Versailles" class="class-diane-img" srcset="
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias_700x501.webp 700w" type="image/webp"><img sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" src="https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg" title="Peinture de René-Antoine HOUASSE, “Minerva and Tiresias”, qui se trouve au Grand Trianon au Château de Versailles" alt="Peinture de René-Antoine HOUASSE, “Minerva and Tiresias”, qui se trouve au Grand Trianon au Château de Versailles" class="class-diane-img" srcset="
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-280.jpg 280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg 700w"></picture><figcaption>Minerve at first ground <q cite="#tiresias">enraged, decreed eternal night should seal</q> Tiresias in the center, <cite>The Metamorphoses</cite>, Book <abbr title="three">III</abbr>, verse 336.</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg 700w"></picture><figcaption><cite>Minerva and Tiresias</cite><br>Minerva at first ground <q cite="#tiresias">enraged, decreed eternal night should seal</q> Tiresias in the center, <cite>The Metamorphoses</cite>, Book <abbr title="three">III</abbr>, verse 336.</figcaption>
 </figure>
 
   <div class="notices blue">
@@ -32,7 +32,7 @@
   <p>Here's the text.</p>
   </div>
 
-<h2 id="tiresias" class="blue">Tiresias according to text of Book <abbr title="three">III</abbr> of <cite>The Metamorphoses</cite></h2>
+<h2 id="tiresias" class="blue"><cite>Minerva and Tiresias</cite> according to text of Book <abbr title="three">III</abbr> of <cite>The Metamorphoses</cite></h2>
 
 <ol class="doc">
   <li value="316">While these events according to the laws</li>
@@ -44,7 +44,8 @@
   <li>jested with Juno as she idled by.</li>
 
   <li value="320" class="top-space">Freely the god began;
-    <p class="conversation">“Who doubts the truth?<br>The female's pleasure is a great delight,<br>much greater than the pleasure of a male.”</p></li>
+    <p class="conversation">“Who doubts the truth?<br>The female's pleasure is a great delight,<br>much greater than the pleasure of a male.”</p>
+  </li>
   <li>Juno denied it; wherefore 'twas agreed</li>
   <li>to ask <mark>Tiresias</mark> to declare the truth,</li>
   <li>than whom none knew both male and female joys:</li>
@@ -61,7 +62,7 @@
   <li>
     <p class="conversation">by one stroke of a staff my sex was changed—</p>
     <p class="conversation">again I strike!”</p>
-    And even as he struck
+    <p>And even as he struck</p>
   </li>
   <li>the same two snakes, his former sex returned;</li>
   <li>his manhood was restored.—</li>
@@ -75,7 +76,7 @@
   <li value="337">immortal Deities may never turn</li>
   <li>decrees and deeds of other Gods to naught,</li>
   <li>but Jove, to recompense his loss of sight,</li>
-  <li value="340">endowed him with the gift of prophecy.</li>
+  <li value="338">endowed him with the gift of prophecy.</li>
 </ol>
 
 <footer>
