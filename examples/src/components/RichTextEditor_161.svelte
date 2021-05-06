@@ -4,7 +4,7 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
+  const html = `<!-- JA:129 EN:192  -->
 <article>
 
 <hgroup>
@@ -73,10 +73,15 @@
   <li>Il y avait l'Été nu, portant des guirlandes d'épis,</li>
   <li>Et il y avait aussi l'Automne, éclaboussé de raisins piétinés,</li>
   <li value="30">Et le glacial Hiver aux cheveux blancs hirsutes.</li>
-  <li>De sa position centrale, le Soleil, dont les yeux perçoivent toutes choses,</li>
+
+  <li class="top-space">De sa position centrale, le Soleil, dont les yeux perçoivent toutes choses,</li>
   <li>Vit le trouble du jeune homme devant cette étrangeté et lui dit:</li>
-  <li>« Quelle est la raison de ta venue? Que cherches-tu sur ces hauteurs?</li>
-  <li><mark>Phaéton</mark> mon enfant, toi que ton père ne saurait renier? »</li>
+  <li>
+    <p class="conversation">« Quelle est la raison de ta venue? Que cherches-tu sur ces hauteurs?</p>
+  </li>
+  <li>
+    <p class="conversation"><mark>Phaéton</mark> mon enfant, toi que ton père ne saurait renier?»</p>
+  </li>
   <li value="35">Celui-ci répondit:</li>
   <li>
     <p class="conversation">«Ô lumière du monde, commune à l'immensité,</p>
@@ -93,7 +98,7 @@
   <li>
     <p class="conversation">De ta lignée et délivre mon esprit de ce doute.»</p>
   </li>
-  <li value="40">À ces mots, le père se débarrassa de ces rayons éblouissants</li>
+  <li value="40" class="top-space">À ces mots, le père se débarrassa de ces rayons éblouissants</li>
   <li>Qui couronnaient sa tête et lui ordonna d'approcher</li>
   <li>Puis, l'ayant serré dans ses bras, lui dit:
     <p class="conversation">«<cite>Tu n'as pas mérité</p>
