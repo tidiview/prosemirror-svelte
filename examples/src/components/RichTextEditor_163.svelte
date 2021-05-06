@@ -28,7 +28,8 @@
 </figure>
 
 <div class="notices blue">
-<p>Au <a href="https://fr.wikipedia.org/wiki/Grand_Trianon" title="https://fr.wikipedia.org/wiki/Grand_Trianon">Grand Trianon</a>, dans le Salon des Seigneurs, se trouve un tableau peint par <a href="https://fr.wikipedia.org/wiki/René-Antoine_Houasse" title="https://fr.wikipedia.org/wiki/René-Antoine HOUASSE">René-Antoine HOUASSE</a>, <cite>Minerve et Tirésias</cite>. Cette peinture fait partie d'une série appelée <cite>Histoire de Minerve</cite>.</p>
+<p>Au <a href="https://fr.wikipedia.org/wiki/Grand_Trianon" title="https://fr.wikipedia.org/wiki/Grand_Trianon">Grand Trianon</a>, dans le Salon des Seigneurs, se trouve un tableau peint par <a href="https://fr.wikipedia.org/wiki/René-Antoine_Houasse" title="https://fr.wikipedia.org/wiki/René-Antoine HOUASSE">René-Antoine HOUASSE</a>, <cite>Minerve et Tirésias</cite>.</p>
+<p>Cette peinture fait partie d'une série appelée <cite>Histoire de Minerve</cite>, comme <a href="https://francois-vidit.com/docs/fr/versailles/trianon/arachnee" title="https://francois-vidit.com/docs/fr/versailles/trianon/arachnee"><cite>Minerve et Arachnée</cite></a>.</p>
 <p><a href="https://fr.wikipedia.org/wiki/Minerve_(mythologie)" title="https://fr.wikipedia.org/wiki/Minerve_(mythologie)">Minerve</a>, au premier plan, y rend aveugle <a href="https://fr.wikipedia.org/wiki/Tirésias" title="https://fr.wikipedia.org/wiki/Tirésias">Tirésias</a>, au centre, tel que le raconte <a href="https://fr.wikipedia.org/wiki/Pseudo-Apollodore" title="https://fr.wikipedia.org/wiki/Pseudo-Apollodore">Pseudo-Apollodore</a> dans le livre <abbr title="trois">III</abbr> de sa <a href="https://fr.wikipedia.org/wiki/Bibliothèque_(Pseudo-Apollodore)" title="https://fr.wikipedia.org/wiki/Bibliothèque_(Pseudo-Apollodore)"><cite>Bibliothèque</cite></a>.</p>
 <p>En voici l'extrait.</p>
 </div>
