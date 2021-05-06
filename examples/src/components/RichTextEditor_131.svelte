@@ -27,7 +27,8 @@
 </figure>
 
 <div class="notices blue">
-<p><a href="https://ja.wikipedia.org/wiki/大トリアノン宮殿" title="https://ja.wikipedia.org/wiki/大トリアノン宮殿"><ruby lang="ja">大トリアノン宮殿<rp>（</rp><rt lang="fr">le&#160;Grand&#160;Trianon</rt><rp>）</rp></ruby></a>に展示されている <a href="https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス" title="https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス"><ruby lang="ja">ルネ<rp>（</rp><rt lang="fr">René</rt><rp>）</rp>＝<rp>（</rp><rt lang="fr">-</rt><rp>）</rp>アントワーヌ<rp>（</rp><rt lang="fr">Antoine</rt><rp>）</rp>・<rp>（</rp><rt lang="fr"></rt><rp>）</rp>ウアス<rp>（</rp><rt lang="fr">Houasse</rt><rp>）</rp></ruby></a>が描いた《<ruby lang="ja">ミネルヴァ<rp>（</rp><rt lang="fr">Minerve</rt><rp>）</rp>と<rp>（</rp><rt lang="fr">et</rt><rp>）</rp>ティレシアス<rp>（</rp><rt lang="fr">Tirésias</rt><rp>）</rp></ruby>》絵画が<ruby lang="ja">領主たちの控えの間<rp>（</rp><rt lang="fr">le&#160;Salon&#160;des&#160;Seigneurs</rt><rp>）</rp></ruby>に見られます。この絵画は、<cite>ミネルヴァ伝</cite>というシリーズの一部です。</p>
+<p><a href="https://ja.wikipedia.org/wiki/大トリアノン宮殿" title="https://ja.wikipedia.org/wiki/大トリアノン宮殿"><ruby lang="ja">大トリアノン宮殿<rp>（</rp><rt lang="fr">le&#160;Grand&#160;Trianon</rt><rp>）</rp></ruby></a>に展示されている <a href="https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス" title="https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス"><ruby lang="ja">ルネ<rp>（</rp><rt lang="fr">René</rt><rp>）</rp>＝<rp>（</rp><rt lang="fr">-</rt><rp>）</rp>アントワーヌ<rp>（</rp><rt lang="fr">Antoine</rt><rp>）</rp>・<rp>（</rp><rt lang="fr"></rt><rp>）</rp>ウアス<rp>（</rp><rt lang="fr">Houasse</rt><rp>）</rp></ruby></a>が描いた《<ruby lang="ja">ミネルヴァ<rp>（</rp><rt lang="fr">Minerve</rt><rp>）</rp>と<rp>（</rp><rt lang="fr">et</rt><rp>）</rp>ティレシアス<rp>（</rp><rt lang="fr">Tirésias</rt><rp>）</rp></ruby>》絵画が<ruby lang="ja">領主たちの控えの間<rp>（</rp><rt lang="fr">le&#160;Salon&#160;des&#160;Seigneurs</rt><rp>）</rp></ruby>に見られます。</p>
+<p>この絵画は、<a href="https://francois-vidit.com/docs/ja/versailles/trianon/arachnee" title="https://francois-vidit.com/docs/ja/versailles/trianon/arachnee">《<cite><ruby lang="ja">ミネルヴァ<rp>（</rp><rt lang="fr">Minerve</rt><rp>）</rp>と<rp>（</rp><rt lang="fr">et</rt><rp>）</rp>アラクネ<rp>（</rp><rt lang="fr">Arachnée</rt><rp>）</rp></ruby></cite>》</a>と同様に、「<cite>ミネルヴァ伝</cite>」というシリーズの一部です。</p>
 <p><a href="https://ja.wikipedia.org/wiki/アポロドーロス" title="https://ja.wikipedia.org/wiki/アポロドーロス"><ruby lang="ja">アポロドーロス<rp>（</rp><rt lang="la">Apollodoros</rt><rp>）</rp></ruby></a>が書いた「<a href="https://ja.wikipedia.org/wiki/ビブリオテーケー" title="https://ja.wikipedia.org/wiki/ビブリオテーケー"><cite><ruby lang="ja">ビブリオテーケー<rp>（</rp><rt lang="la">Biblioteke</rt><rp>）</rp></ruby></cite></a>」に出て来る、賢くさの女神である<a href="https://ja.wikipedia.org/wiki/ミネルウァ" title="https://ja.wikipedia.org/wiki/ミネルウァ"><ruby lang="ja">ミネルヴァ<rp>（</rp><rt lang="la">Minerva</rt><rp>）</rp></ruby></a>と<a href="https://ja.wikipedia.org/wiki/テイレシアース" title="https://ja.wikipedia.org/wiki/テイレシアース"><ruby lang="ja">ティレシアス<rp>（</rp><rt lang="la">Tiresias</rt><rp>）</rp></ruby></a>との不思議な関係性が語られている。</p>
 </div>
 
@@ -38,11 +39,11 @@
   <li>この女神はとてもカリクロ<ruby>妖精<rp>(</rp><rt>ニンフ</rt><rp>)</rp></ruby>が好きでした。</li>
   <li>ティレシアスがいて、</li>
   <li>［二人とも入浴していたら］</li>
-  <li>彼は女神を全裸のまま直撃した。</li>
-  <li>ミネルヴァは目の上に手を置いて、</li>
+  <li>彼は女神を全裸のまま直視した。</li>
+  <li>ミネルヴァは彼の目の上に手を伸びて、</li>
   <li>すぐさまに盲目にさせた。</li>
   <li>カリクロ<ruby>妖精<rp>(</rp><rt>ニンフ</rt><rp>)</rp></ruby>が彼女に視覚を返すことを願った。</li>
-  <li>が、女神は出来なくて、</li>
+  <li>が、女神はそれを出来なくて、</li>
   <li>鳥の鳴き声が通じるように彼の耳を洗って、</li>
   <li>ナナカマドの木の杖を上げた。</li>
   <li>その杖で目が見えている方々と同じように歩けていた。</li>
