@@ -23,65 +23,35 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg 700w"></picture><figcaption><cite>Minerva and Tiresias</cite><br>Minerva at first ground <q cite="#tiresias">enraged, decreed eternal night should seal</q> Tiresias in the center, <cite>The Metamorphoses</cite>, Book <abbr title="three">III</abbr>, verse 336.</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg 700w"></picture><figcaption><cite>Minerva and Tiresias</cite><br>Minerva at first ground, rendered Tiresias in the center, <q cite="#tiresias">sightless</q>, <cite>Bibliotheca</cite>, Book <abbr title="three">III</abbr>, chapter 6 paragraph 7.</figcaption>
 </figure>
 
   <div class="notices blue">
-  <p>At the <a href="https://en.wikipedia.org/wiki/Grand_Trianon" title="https://en.wikipedia.org/wiki/Grand_Trianon">Grand Trianon</a>, in the Salon des Seigneurs, is a painting by <a href="https://en.wikipedia.org/wiki/René-Antoine_Houasse" title="https://en.wikipedia.org/wiki/René-Antoine_Houasse">René-Antoine HOUASSE</a>, <cite>Minerva and Tiresias</cite>.</p>
-  <p><a href="https://en.wikipedia.org/wiki/Minerva" title="https://en.wikipedia.org/wiki/Minerva">Minerva</a> at first ground makes Tiresias in the center becoming blind, as <a href="https://en.wikipedia.org/wiki/Ovid" title="https://en.wikipedia.org/wiki/Ovid">Ovid</a> tells in Book <abbr title="three">III</abbr> of <a href="https://en.wikipedia.org/wiki/Metamorphoses" title="https://en.wikipedia.org/wiki/Metamorphoses"><cite>The Metamorphoses</cite></a>.</p>
+  <p>At the <a href="https://en.wikipedia.org/wiki/Grand_Trianon" title="https://en.wikipedia.org/wiki/Grand_Trianon">Grand Trianon</a>, in the Salon des Seigneurs, is a painting by <a href="https://en.wikipedia.org/wiki/René-Antoine_Houasse" title="https://en.wikipedia.org/wiki/René-Antoine_Houasse">René-Antoine HOUASSE</a>, <cite>Minerva and Tiresias</cite>. This painting is a part of a serie called <cite>History of Minerva</cite>.</p>
+  <p><a href="https://en.wikipedia.org/wiki/Minerva" title="https://en.wikipedia.org/wiki/Minerva">Minerva</a> at first ground makes Tiresias in the center becoming sightless, as <a href="https://en.wikipedia.org/wiki/Bibliotheca_(Pseudo-Apollodorus)#Pseudo-Apollodorus" title="https://en.wikipedia.org/wiki/Bibliotheca_(Pseudo-Apollodorus)#Pseudo-Apollodorus">Pseudo-Apollodorus</a> tells in Book <abbr title="three">III</abbr> of the <a href="https://en.wikipedia.org/wiki/Bibliotheca_(Pseudo-Apollodorus)" title="https://en.wikipedia.org/wiki/Bibliotheca_(Pseudo-Apollodorus)"><cite>Bibliotheca</cite></a>.</p>
   <p>Here's the text.</p>
   </div>
 
-<h2 id="tiresias" class="blue"><cite>Minerva and Tiresias</cite> according to text of Book <abbr title="three">III</abbr> of <cite>The Metamorphoses</cite></h2>
+<h2 id="tiresias" class="blue"><cite>Minerva and Tiresias</cite> according to text of Book <abbr title="three">III</abbr> of the <cite>Bibliotheca</cite></h2>
 
 <ol class="doc">
-  <li value="316">While these events according to the laws</li>
-  <li>of destiny occurred, and while the child,</li>
-  <li>the twice-born Bacchus, in his cradle lay,</li>
-  <li>'Tis told that Jupiter, a careless hour,</li>
-  <li>indulged too freely in the nectar cup;</li>
-  <li>and having laid aside all weighty cares,</li>
-  <li>jested with Juno as she idled by.</li>
-
-  <li value="320" class="top-space">Freely the god began;
-    <p class="conversation">“Who doubts the truth?<br>The female's pleasure is a great delight,<br>much greater than the pleasure of a male.”</p>
-  </li>
-  <li>Juno denied it; wherefore 'twas agreed</li>
-  <li>to ask <mark>Tiresias</mark> to declare the truth,</li>
-  <li>than whom none knew both male and female joys:</li>
-  <li>for wandering in a green wood he had seen</li>
-  <li>two serpents coupling; and he took his staff</li>
-  <li>and sharply struck them, till they broke and fled.</li>
-  <li>'Tis marvelous, that instant he became</li>
-  <li>a woman from a man, and so remained</li>
-  <li>while seven autumns passed. When eight were told,</li>
-  <li>again he saw them in their former plight,</li>
-  <li>and thus he spoke; 
-    <p class="conversation">“Since such a power was wrought,</p>
-  </li>
-  <li>
-    <p class="conversation">by one stroke of a staff my sex was changed—</p>
-    <p class="conversation">again I strike!”</p>
-    <p>And even as he struck</p>
-  </li>
-  <li>the same two snakes, his former sex returned;</li>
-  <li>his manhood was restored.—</li>
-
-  <li class="top-space">as both agreed</li>
-  <li>to choose him umpire of the sportive strife,</li>
-  <li>he gave decision in support of Jove;</li>
-  <li>from this the disappointment Juno felt</li>
-  <li>surpassed all reason, and enraged, decreed</li>
-  <li>eternal night should seal <mark>Tiresias</mark>' eyes.—</td></td>
-  <li value="337">immortal Deities may never turn</li>
-  <li>decrees and deeds of other Gods to naught,</li>
-  <li>but Jove, to recompense his loss of sight,</li>
-  <li value="338">endowed him with the gift of prophecy.</li>
+  <li value="7">But Pherecydes says that he was blinded by Minerva;</li>
+  <li>for Chariclo was dear to Minerva...</li>
+  <li>[as they were at the bath together]</li>
+  <li>and Tiresias saw the goddess stark naked,</li>
+  <li>and she covered his eyes with her hands,</li>
+  <li>and so rendered him sightless.</li>
+  <li>And when Chariclo asked her to restore his sight,</li>
+  <li>she could not do so,</li>
+  <li>but by cleansing his ears she caused him to understand every note of birds;</li>
+  <li>and she gave him a staff of cornel-wood,</li>
+  <li>wherewith he walked like those who see.</li>
 </ol>
 
 <footer>
-  <p><span style="color: #28a1c5;">Ovid, <cite>The Metamorphoses</cite>, Book <abbr title="three">III</abbr>, verses 316 to 340.</span></p>
+  <p><span style="color: #28a1c5;">Pseudo-Apollodorus, <cite>Bibliotheca</cite>, Book <abbr title="three">III</abbr>, chapter 6 paragraph 7.</span></p>
 </footer>
+
 </article>
 `;
 
