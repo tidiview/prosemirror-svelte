@@ -5,6 +5,7 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `<!-- JA:131 EN:194  -->
+
 <article>
 
 <hgroup>
@@ -23,61 +24,34 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg 700w"></picture><figcaption><cite>Minerve et Tirésias</cite><br>Minerve au premier plan condamne les yeux de Tirésias, au centre, <q cite="#tiresias">à la nuit éternelle</q></figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg 700w"></picture><figcaption><cite>Minerve et Tirésias</cite><br>Minerve au premier plan rend Tirésias, au centre, <q cite="#tiresias">aveugle sur-le-champ</q>, <cite>Bibliothèque</cite>, Livre <abbr title="trois">III</abbr>, chapître 6 paragraphe 7.</figcaption>
 </figure>
 
 <div class="notices blue">
-<p>Au <a href="https://fr.wikipedia.org/wiki/Grand_Trianon" title="https://fr.wikipedia.org/wiki/Grand_Trianon">Grand Trianon</a>, dans le Salon des Seigneurs, se trouve un tableau peint par <a href="https://fr.wikipedia.org/wiki/René-Antoine_Houasse" title="https://fr.wikipedia.org/wiki/René-Antoine HOUASSE">René-Antoine HOUASSE</a>, <cite>Minerve et Tirésias</cite>.</p>
-<p><a href="https://fr.wikipedia.org/wiki/Minerve_(mythologie)" title="https://fr.wikipedia.org/wiki/Minerve_(mythologie)">Minerve</a>, au premier plan, y rend aveugle <a href="https://fr.wikipedia.org/wiki/Tirésias" title="https://fr.wikipedia.org/wiki/Tirésias">Tirésias</a>, au centre, tel que le raconte <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a> dans le livre <abbr title="trois">III</abbr> de ses <a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"><cite>Métamorphoses</cite></a>.</p>
+<p>Au <a href="https://fr.wikipedia.org/wiki/Grand_Trianon" title="https://fr.wikipedia.org/wiki/Grand_Trianon">Grand Trianon</a>, dans le Salon des Seigneurs, se trouve un tableau peint par <a href="https://fr.wikipedia.org/wiki/René-Antoine_Houasse" title="https://fr.wikipedia.org/wiki/René-Antoine HOUASSE">René-Antoine HOUASSE</a>, <cite>Minerve et Tirésias</cite>. Cette peinture fait partie d'une série appelée <cite>Histoire de Minerve</cite>.</p>
+<p><a href="https://fr.wikipedia.org/wiki/Minerve_(mythologie)" title="https://fr.wikipedia.org/wiki/Minerve_(mythologie)">Minerve</a>, au premier plan, y rend aveugle <a href="https://fr.wikipedia.org/wiki/Tirésias" title="https://fr.wikipedia.org/wiki/Tirésias">Tirésias</a>, au centre, tel que le raconte <a href="https://fr.wikipedia.org/wiki/Pseudo-Apollodore" title="https://fr.wikipedia.org/wiki/Pseudo-Apollodore">Pseudo-Apollodore</a> dans le livre <abbr title="trois">III</abbr> de sa <a href="https://fr.wikipedia.org/wiki/Bibliothèque_(Pseudo-Apollodore)" title="https://fr.wikipedia.org/wiki/Bibliothèque_(Pseudo-Apollodore)"><cite>Bibliothèque</cite></a>.</p>
 <p>En voici l'extrait.</p>
 </div>
 
-<h2 id="tiresias" class="blue"><cite>Minerve et Tirésias</cite> selon le texte du livre <abbr title="trois">III</abbr> des <cite>Métamorphoses</cite></h2>
+<h2 id="tiresias" class="blue"><cite>Minerve et Tirésias</cite> selon le texte du livre <abbr title="trois">III</abbr> de la <cite>Bibliothèque</cite></h2>
 
 <ol class="doc">
-  <li value="316">Tandis que la loi du destin s'accomplissait de la sorte sur terre</li>
-  <li>Et que le berceau du petit Bacchus, né deux fois, était en sûreté,</li>
-  <li>Jupiter, que le nectar, nous dit-on, avait un jour détendu,</li>
-  <li>Mit de côté les occupations sérieuses pour se distraire</li>
-  <li value="320">Avec Junon et badiner en toute quiétude: </li>
-  <li>
-    <p class="conversation">«Je parie</p>
-  </li>
-  <li>
-    <p class="conversation">Que votre plaisir est plus grand que celui qu'éprouvent</p>
-  </li>
-  <li>
-    <p class="conversation">Les mâles»,</p>
-  </li>
-  <li>affirma-t-il. Elle n'était pas d'accord. Ils résolurent</li>
-  <li>De demander l'avis du sage <mark>Tirésias</mark>. Celui-ci connaissait le plaisir</li>
-  <li>Des deux sexes car après avoir profané d'un coup de baton,</li>
-  <li value="325">Dans une forêt verdoyante, le coît de deux grand serpents,</li>
-  <li>Il avait été changé (stupeur!) d'homme en femme</li>
-  <li>Durant sept automnes; au huitième, les ayant revus,</li>
-  <li>Il avait dit:</li>
-  <li>
-    <p class="conversation">«Puisqu'un coup reçu vous donne le pouvoir</p>
-  </li>
-  <li>
-    <p class="conversation">De changer le sexe de son auteur, je vais vous frapper</p>
-  </li>
-  <li value="330">
-    <p class="conversation">À nouveau.»</p>
-  </li>
-  <li>Les deux serpents sont frappés, il avait repris</li>
-  <li>Sa forme première et son aspect naturel.</li>
-  <li>Donc, choisi comme arbitre dans cette querelle pour rire,</li>
-  <li>Il donna raison à Jupiter. La fille de Saturne, dit-on,</li>
-  <li>Le prit beaucoup plus mal que la chose n'en valait la peine</li>
-  <li value="335">et condamna les yeux de son juge à la nuit éternelle.</li>
-  <li>Mais le père tout-puissant (aucun dieu n'a le droit, en effet, d'annuler</li>
-  <li>Les décisions d'un autre dieu) lui donna, pour pallier sa cécité, la prescience</li>
-  <li value="338">De l'avenir et adoucit sa peine en lui témoignant son estime.</li>
+  <li value="7">Suivant Phérécyde, ce fut Minerve qui l'en priva.</li>
+  <li>cette déesse aimait beaucoup Chariclo:</li>
+  <li>Tirésias étant survenu,</li>
+  <li>[comme elles étaient au bain ensemble]</li>
+  <li>vit la déesse absolument nue.</li>
+  <li>Minerve alors lui mit les mains sur les yeux,</li>
+  <li>et le rendit aveugle sur-le-champ.</li>
+  <li>Chariclo la pria de lui rendre la vue;</li>
+  <li>mais la déesse ne le pouvant pas,</li>
+  <li>lui nettoya l'ouïe de manière à ce qu'il entendit le langage des oiseaux,</li>
+  <li>et elle lui donna un bâton de cormier,</li>
+  <li>avec lequel il se conduisait aussi sûrement que ceux qui voyaient.</li>
 </ol>
 
 <footer>
-  <p><span style="color: #df8a13;">Ovide, <cite>Les Métamorphoses</cite>, Livre <abbr title="trois">III</abbr>, vers 316 à 338</span></p>
+  <p><span style="color: #df8a13;">Ovide, <cite>Bibliothèque</cite>, Livre <abbr title="trois">III</abbr>, chapître 6 paragraphe 7.</span></p>
 </footer>
 
 </article>
