@@ -4,7 +4,7 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
+  const html = `<!-- FR:161 JA:129  -->
 <article>
 
 <hgroup>
@@ -23,7 +23,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-380.jpg 380w, 
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-480.jpg 480w, 
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg 700w"></picture><figcaption>The Chariot of the Sun, driven by Apollo, coming out of Ocean at dawn<br><q cite="#phaeton">It had an axle of gold, and a gold chariot pole, wheels with golden rims, and circles of silver spokes.</q>, <cite>The Metamorphoses</cite> Book <abbr title="two">II</abbr>, verses 1 to 365</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg 700w"></picture><figcaption>The Chariot of the Sun, driven by Apollo, coming out of Ocean at dawn<br><q cite="#phaeton">It had an axle of gold, and a gold chariot pole, wheels with golden rims, and circles of silver spokes.</q>, <cite>The Metamorphoses</cite> Book <abbr title="two">II</abbr>, verse 106</figcaption>
 </figure>
 
 <div class="notices yellow">
@@ -59,63 +59,148 @@
   <li>Young Spring stood there circled with a crown of flowers, naked Summer wore a garland of ears of corn, Autumn was stained by the trodden grapes, and</li>
   <li value="30">icy Winter had white, bristling hair.</li>
 
-  <li class="top-space">The Sun, seated in the middle of them, looked at the boy, who was fearful of the strangeness of it all, with eyes that see everything, and said
-    <p class="conversation">What reason brings you here?</p></li>
-  <li><p class="conversation">What do you look for on these heights, <mark>Phaethon</mark>, son that no father need deny?</p></li>
-  <li value="35"><mark>Phaethon</mark> replied
-    <p class="conversation">Universal light of the great world, Phoebus, father, if you let me use that name, if Clymene is not hiding some fault behind false pretence, give me proof father, so they will believe I am your true offspring, and take away this uncertainty from my mind!</p></li>
+  <li class="top-space">
+    <p>The Sun, seated in the middle of them, looked at the boy, who was fearful of the strangeness of it all, with eyes that see everything, and said</p>
+    <p class="conversation">What reason brings you here?</p>
+  </li>
+  <li>
+    <p class="conversation">What do you look for on these heights, <mark>Phaethon</mark>, son that no father need deny?</p>
+  </li>
+  <li value="35">
+    <p><mark>Phaethon</mark> replied</p>
+    <p class="conversation">Universal light of the great world, Phoebus, father, if you let me use that name, if Clymene is not hiding some fault behind false pretence, give me proof father, so they will believe I am your true offspring, and take away this uncertainty from my mind!</p>
+  </li>
   <li value="40">He spoke, and his father removed the crown of glittering rays from his head and ordered him to come nearer.</li>
 
-  <li>Embracing him, he said
-    <p class="conversation">It is not to be denied you are worthy to be mine, and Clymene has told you the truth of your birth.</p></li>
-  <li value="45"><p class="conversation">So that you can banish doubt, ask for any favour, so that I can grant it to you.</p></li>
-  <li><p class="conversation">May the Stygian lake, that my eyes have never seen, by which the gods swear, witness my promise.</p></li>
-  
+  <li>
+    <p>Embracing him, he said</p>
+    <p class="conversation">It is not to be denied you are worthy to be mine, and Clymene has told you the truth of your birth.</p>
+  </li>
+  <li value="45">
+    <p class="conversation">So that you can banish doubt, ask for any favour, so that I can grant it to you.</p>
+    </li>
+  <li>
+    <p class="conversation">May the Stygian lake, that my eyes have never seen, by which the gods swear, witness my promise.</p>
+  </li>
   <li>Hardly had he settled back properly in his seat when the boy asked for his father’s chariot and the right to control his wing-footed horses for a day.</li>
 
   <li class="top-space">His father regretted his oath.</li>
   <li>Three times, and then a fourth,</li>
 
-  <li value="50">shaking his bright head, he said
-    <p class="conversation">Your words show mine were rash; if only it were right to retract my promise!</p></li>
-  <li><p class="conversation">I confess my boy I would only refuse you this one thing.</p></li>
-  <li><p class="conversation">It is right to dissuade you.</p></li>
-  <li><p class="conversation">What you want is unsafe.</p></li>
-  <li><p class="conversation"><mark>Phaethon</mark> you ask too great a favour, and one that is unfitting for your strength and boyish years.</p></li>
-  <li value="55"><p class="conversation">Your fate is mortal: it is not mortal what you ask.</p></li>
-  <li><p class="conversation">Unknowingly you aspire to more than the gods can share.</p></li>
-  <li><p class="conversation">Though each deity can please themselves, within what is allowed,</p></li>
-  <li value="60"><p class="conversation">no one except myself has the power to occupy the chariot of fire.</p></li>
-  <li><p class="conversation">Even the lord of mighty Olympus, who hurls terrifying lightning-bolts from his right hand, cannot drive this team, and who is greater than Jupiter?</p></li>
+  <li value="50">
+    <p>shaking his bright head, he said</p>
+    <p class="conversation">Your words show mine were rash; if only it were right to retract my promise!</p>
+  </li>
+  <li>
+    <p class="conversation">I confess my boy I would only refuse you this one thing.</p>
+  </li>
+  <li>
+    <p class="conversation">It is right to dissuade you.</p>
+  </li>
+  <li>
+    <p class="conversation">What you want is unsafe.</p>
+  </li>
+  <li>
+    <p class="conversation"><mark>Phaethon</mark> you ask too great a favour, and one that is unfitting for your strength and boyish years.</p>
+  </li>
+  <li value="55">
+    <p class="conversation">Your fate is mortal: it is not mortal what you ask.</p>
+  </li>
+  <li>
+    <p class="conversation">Unknowingly you aspire to more than the gods can share.</p>
+  </li>
+  <li>
+    <p class="conversation">Though each deity can please themselves, within what is allowed,</p>
+  </li>
+  <li value="60">
+    <p class="conversation">no one except myself has the power to occupy the chariot of fire.</p>
+  </li>
+  <li>
+    <p class="conversation">Even the lord of mighty Olympus, who hurls terrifying lightning-bolts from his right hand, cannot drive this team, and who is greater than Jupiter?</p>
+  </li>
 
-  <li class="top-space"><p class="conversation">The first part of the track is steep, and one that my fresh horses at dawn can hardly climb.</p></li>
-  <li value="65"><p class="conversation">In mid-heaven it is highest, where to look down on earth and sea often alarms even me, and makes my heart tremble with awesome fear.</p></li>
-  <li><p class="conversation">The last part of the track is downwards and needs sure control.</p></li>
-  <li><p class="conversation">Then even Tethys herself, who receives me in her submissive waves, is accustomed to fear that I might dive headlong.</p></li>
-  <li value="70"><p class="conversation">Moreover the rushing sky is constantly turning, and drags along the remote stars, and whirls them in rapid orbits.</p></li>
-  <li><p class="conversation">I move the opposite way, and its momentum does not overcome me as it does all other things, and I ride contrary to its swift rotation.</p></li>
-  <li><p class="conversation">Suppose you are given the chariot.</p></li>
-  <li value="75"><p class="conversation">What will you do? Will you be able to counter the turning poles so that the swiftness of the skies does not carry you away?</p></li>
-  <li><p class="conversation">Perhaps you conceive in imagination that there are groves there and cities of the gods and temples with rich gifts.</p></li>
-  <li><p class="conversation">The way runs through ambush, and apparitions of wild beasts!</p></li>
-  <li><p class="conversation">Even if you keep your course, and do not steer awry,</p></li>
-  <li value="80"><p class="conversation">you must still avoid the horns of Taurus the Bull, Sagittarius the Haemonian Archer, raging Leo and the Lion’s jaw, Scorpio’s cruel pincers sweeping out to encircle you from one side, and Cancer’s crab-claws reaching out from the other.</p></li>
-  <li><p class="conversation">You will not easily rule those proud horses,</p></li>
-  <li value="85"><p class="conversation">breathing out through mouth and nostrils the fires burning in their chests.</p></li>
-  <li><p class="conversation">They scarcely tolerate my control when their fierce spirits are hot, and their necks resist the reins.</p></li>
-  <li><p class="conversation">Beware my boy, that I am not the source of a gift fatal to you, while something can still be done to set right your request!</p></li>
+  <li class="top-space">
+    <p class="conversation">The first part of the track is steep, and one that my fresh horses at dawn can hardly climb.</p>
+  </li>
+  <li value="65">
+    <p class="conversation">In mid-heaven it is highest, where to look down on earth and sea often alarms even me, and makes my heart tremble with awesome fear.</p>
+  </li>
+  <li>
+    <p class="conversation">The last part of the track is downwards and needs sure control.</p>
+  </li>
+  <li>
+    <p class="conversation">Then even Tethys herself, who receives me in her submissive waves, is accustomed to fear that I might dive headlong.</p>
+  </li>
+  <li value="70">
+    <p class="conversation">Moreover the rushing sky is constantly turning, and drags along the remote stars, and whirls them in rapid orbits.</p>
+  </li>
+  <li>
+    <p class="conversation">I move the opposite way, and its momentum does not overcome me as it does all other things, and I ride contrary to its swift rotation.</p>
+  </li>
+  <li>
+    <p class="conversation">Suppose you are given the chariot.</p>
+  </li>
+  <li value="75">
+    <p class="conversation">What will you do? Will you be able to counter the turning poles so that the swiftness of the skies does not carry you away?</p>
+  </li>
+  <li>
+    <p class="conversation">Perhaps you conceive in imagination that there are groves there and cities of the gods and temples with rich gifts.</p>
+  </li>
+  <li>
+    <p class="conversation">The way runs through ambush, and apparitions of wild beasts!</p>
+  </li>
+  <li>
+    <p class="conversation">Even if you keep your course, and do not steer awry,</p>
+  </li>
+  <li value="80">
+    <p class="conversation">you must still avoid the horns of Taurus the Bull, Sagittarius the Haemonian Archer, raging Leo and the Lion’s jaw, Scorpio’s cruel pincers sweeping out to encircle you from one side, and Cancer’s crab-claws reaching out from the other.</p>
+  </li>
+  <li>
+    <p class="conversation">You will not easily rule those proud horses,</p>
+  </li>
+  <li value="85">
+    <p class="conversation">breathing out through mouth and nostrils the fires burning in their chests.</p>
+  </li>
+  <li>
+    <p class="conversation">They scarcely tolerate my control when their fierce spirits are hot, and their necks resist the reins.</p>
+  </li>
+  <li>
+    <p class="conversation">Beware my boy, that I am not the source of a gift fatal to you, while something can still be done to set right your request!</p>
+  </li>
 
-  <li value="90" class="top-space"><p class="conversation">No doubt, since you ask for a certain sign to give you confidence in being born of my blood, I give you that sure sign by fearing for you, and show myself a father by fatherly anxiety.</p></li>
-  <li><p class="conversation">Look at me.</p></li>
-  <li><p class="conversation">If only you could look into my heart, and see a father’s concern from within!</p></li>
-  <li><p class="conversation">Finally,</p></li>
-  <li value="95"><p class="conversation">Look around you, at the riches the world holds, and ask for anything from all of the good things in earth, sea, and sky.</p></li>
-  <li><p class="conversation">I can refuse you nothing.</p></li>
-  <li><p class="conversation">Only this one thing I take exception to, which would truly be a punishment and not an honour.</p></li>
-  <li><p class="conversation"><mark>Phaethon</mark>, you ask for punishment as your reward!</p></li>
-  <li value="100"><p class="conversation">Why do you unknowingly throw your coaxing arms around my neck?</p></li>
-  <li><p class="conversation">Have no doubt!</p></li>
-  <li><p class="conversation">Whatever you ask will be given, I have sworn it by the Stygian streams, but make a wiser choice!</p></li>
+  <li value="90" class="top-space">
+    <p class="conversation">No doubt, since you ask for a certain sign to give you confidence in being born of my blood, I give you that sure sign by fearing for you, and show myself a father by fatherly anxiety.</p>
+  </li>
+  <li>
+    <p class="conversation">Look at me.</p>
+  </li>
+  <li>
+    <p class="conversation">If only you could look into my heart, and see a father’s concern from within!</p>
+  </li>
+  <li>
+    <p class="conversation">Finally,</p>
+  </li>
+  <li value="95">
+    <p class="conversation">Look around you, at the riches the world holds, and ask for anything from all of the good things in earth, sea, and sky.</p>
+  </li>
+  <li>
+    <p class="conversation">I can refuse you nothing.</p>
+  </li>
+  <li>
+    <p class="conversation">Only this one thing I take exception to, which would truly be a punishment and not an honour.</p>
+  </li>
+  <li>
+    <p class="conversation"><mark>Phaethon</mark>, you ask for punishment as your reward!</p>
+  </li>
+  <li value="100">
+    <p class="conversation">Why do you unknowingly throw your coaxing arms around my neck?</p>
+  </li>
+  <li>
+    <p class="conversation">Have no doubt!</p>
+  </li>
+  <li>
+    <p class="conversation">Whatever you ask will be given, I have sworn it by the Stygian streams, but make a wiser choice!</p>
+  </li>
 
   <li class="top-space">The warning ended, but <mark>Phaethon</mark> still rejected his words, and pressed his purpose, blazing with desire to drive the chariot.</li>
   <li value="105">So, as he had the right, his father led the youth to the high chariot, Vulcan’s work.</li>
@@ -132,22 +217,52 @@
   <li>Then the father rubbed his son’s face with a sacred ointment, and made it proof against consuming flames, and placed his rays amongst his hair, and foreseeing tragedy,</li>
   <li value="125">and fetching up sighs from his troubled heart, said
     <p class="conversation">If you can at least obey your father’s promptings, spare the whip, boy, and rein them in more strongly!</p></li>
-  <li><p class="conversation">They run swiftly of their own accord.</p></li>
-  <li><p class="conversation">It is a hard task to check their eagerness.</p></li>
-  <li><p class="conversation">And do not please yourself, taking a path straight through the five zones of heaven!</p></li>
-  <li value="130"><p class="conversation">The track runs obliquely in a wide curve, and bounded by the three central regions, avoids the southern pole and the Arctic north.</p></li>
-  <li><p class="conversation">This is your road, you will clearly see my wheel-marks, and so that heaven and earth receive equal warmth,</p></li>
-  <li value="135"><p class="conversation">do not sink down too far or heave the chariot into the upper air! Too high and you will scorch the roof of heaven: too low, the earth.</p></li>
-  <li><p class="conversation">The middle way is safest.</p></li>
+  <li>
+    <p class="conversation">They run swiftly of their own accord.</p>
+  </li>
+  <li>
+    <p class="conversation">It is a hard task to check their eagerness.</p>
+  </li>
+  <li>
+    <p class="conversation">And do not please yourself, taking a path straight through the five zones of heaven!</p>
+  </li>
+  <li value="130">
+    <p class="conversation">The track runs obliquely in a wide curve, and bounded by the three central regions, avoids the southern pole and the Arctic north.</p>
+  </li>
+  <li>
+    <p class="conversation">This is your road, you will clearly see my wheel-marks, and so that heaven and earth receive equal warmth,</p>
+  </li>
+  <li value="135">
+    <p class="conversation">do not sink down too far or heave the chariot into the upper air! Too high and you will scorch the roof of heaven: too low, the earth.</p>
+  </li>
+  <li>
+    <p class="conversation">The middle way is safest.</p>
+  </li>
 
-  <li class="top-space"><p class="conversation">Nor must you swerve too far right towards writhing Serpens, nor lead your wheels too far left towards sunken Ara.</p></li>
-  <li value="140"><p class="conversation">Hold your way between them!</p></li>
-  <li><p class="conversation">I leave the rest to Fortune, I pray she helps you, and takes better care of you than you do yourself.</p></li>
-  <li><p class="conversation">While I have been speaking, dewy night has touched her limit on Hesperus’s far western shore.</p></li>
-  <li><p class="conversation">We have no time for freedom!</p></li>
-  <li><p class="conversation">We are needed: Aurora, the dawn, shines, and the shadows are gone.</p></li>
-  <li value="145"><p class="conversation">Seize the reins in your hand, or if your mind can be changed, take my counsel, do not take my horses!</p></li>
-  <li><p class="conversation">While you can, while you still stand on solid ground, before unknowingly you take to the chariot you have unluckily chosen, let me light the world, while you watch in safety!</p></li>
+  <li class="top-space">
+    <p class="conversation">Nor must you swerve too far right towards writhing Serpens, nor lead your wheels too far left towards sunken Ara.</p>
+  </li>
+  <li value="140">
+    <p class="conversation">Hold your way between them!</p>
+  </li>
+  <li>
+    <p class="conversation">I leave the rest to Fortune, I pray she helps you, and takes better care of you than you do yourself.</p>
+  </li>
+  <li>
+    <p class="conversation">While I have been speaking, dewy night has touched her limit on Hesperus’s far western shore.</p>
+  </li>
+  <li>
+    <p class="conversation">We have no time for freedom!</p>
+  </li>
+  <li>
+    <p class="conversation">We are needed: Aurora, the dawn, shines, and the shadows are gone.</p>
+  </li>
+  <li value="145">
+    <p class="conversation">Seize the reins in your hand, or if your mind can be changed, take my counsel, do not take my horses!</p>
+  </li>
+  <li>
+    <p class="conversation">While you can, while you still stand on solid ground, before unknowingly you take to the chariot you have unluckily chosen, let me light the world, while you watch in safety!</p>
+  </li>
 </ol>
 
 <h3 class="yellow">the flight of Phaethon</h3>
@@ -229,22 +344,50 @@
   <li>Three times Neptune tried to lift his fierce face and arms above the waters. Three times he could not endure the burning air.</li>
 
   <li value="275" class="top-space">Nevertheless, kindly Earth, surrounded as she was by sea, between the open waters and the dwindling streams that had buried themselves in their mother’s dark womb, lifted her smothered face.</li>
-  <li>Putting her hand to her brow, and shaking everything with her mighty tremors, she sank back a little lower than she used to be, and spoke in a faint voice
-    <p class="conversation">If this pleases you, if I have deserved it,</p></li>
-  <li value="280"><p class="conversation">Ô king of the gods, why delay your lightning bolts?</p></li>
-  <li><p class="conversation">If it is right for me to die through the power of fire, let me die by your fire and let the doer of it lessen the pain of the deed!</p></li>
-  <li><p class="conversation">I can hardly open my lips to say these words (the heat was choking her).</p></li>
-  <li><p class="conversation">Look at my scorched hair and the ashes in my eyes, the ashes over my face!</p></li>
-  <li value="285"><p class="conversation">Is this the honour and reward you give me for my fruitfulness and service, for carrying wounds from the curved plough and the hoe, for being worked throughout the year, providing herbage and tender grazing for the flocks, produce for the human race and incense to minister to you gods?</p></li>
+  <li>
+    <p>Putting her hand to her brow, and shaking everything with her mighty tremors, she sank back a little lower than she used to be, and spoke in a faint voice</p>
+    <p class="conversation">If this pleases you, if I have deserved it,</p>
+  </li>
+  <li value="280">
+    <p class="conversation">Ô king of the gods, why delay your lightning bolts?</p>
+  </li>
+  <li>
+    <p class="conversation">If it is right for me to die through the power of fire, let me die by your fire and let the doer of it lessen the pain of the deed!</p>
+  </li>
+  <li>
+    <p class="conversation">I can hardly open my lips to say these words (the heat was choking her).</p>
+  </li>
+  <li>
+    <p class="conversation">Look at my scorched hair and the ashes in my eyes, the ashes over my face!</p>
+  </li>
+  <li value="285">
+    <p class="conversation">Is this the honour and reward you give me for my fruitfulness and service, for carrying wounds from the curved plough and the hoe, for being worked throughout the year, providing herbage and tender grazing for the flocks, produce for the human race and incense to minister to you gods?</p>
+  </li>
 
-  <li value="290" class="top-space"><p class="conversation">Even if you find me deserving of ruin, what have the waves done, why does your brother deserve this?</p></li>
-  <li><p class="conversation">Why are the waters that were his share by lot diminished and so much further from the sky?</p></li>
-  <li><p class="conversation">If neither regard for me or for your brother moves you pity at least your own heavens!</p></li>
-  <li value="295"><p class="conversation">Look around you on either side: both the poles are steaming!</p></li>
-  <li><p class="conversation">If the fire should melt them, your own palace will fall!</p></li>
-  <li><p class="conversation">Atlas himself is suffering, and can barely hold up the white-hot sky on his shoulders!</p></li>
-  <li>If the sea and the land and the kingdom of the heavens are destroyed, we are lost in ancient chaos!</p></li>
-  <li value="300"><p class="conversation">Save whatever is left from the flames, and think of our common interest!</p></li>
+  <li value="290" class="top-space">
+    <p class="conversation">Even if you find me deserving of ruin, what have the waves done, why does your brother deserve this?</p>
+  </li>
+  <li>
+    <p class="conversation">Why are the waters that were his share by lot diminished and so much further from the sky?</p>
+  </li>
+  <li>
+    <p class="conversation">If neither regard for me or for your brother moves you pity at least your own heavens!</p>
+  </li>
+  <li value="295">
+    <p class="conversation">Look around you on either side: both the poles are steaming!</p>
+  </li>
+  <li>
+    <p class="conversation">If the fire should melt them, your own palace will fall!</p>
+  </li>
+  <li>
+    <p class="conversation">Atlas himself is suffering, and can barely hold up the white-hot sky on his shoulders!</p>
+  </li>
+  <li>
+    <p class="conversation">If the sea and the land and the kingdom of the heavens are destroyed, we are lost in ancient chaos!</p>
+  </li>
+  <li value="300">
+    <p class="conversation">Save whatever is left from the flames, and think of our common interest!</p>
+  </li>
 
   <li class="top-space">So the Earth spoke, and unable to tolerate the heat any longer or speak any further, she withdrew her face into her depths closer to the caverns of the dead.</li>
   <li>But the all-powerful father of the gods climbs to the highest summit of heaven, from where he spreads his clouds over the wide earth, from where he moves the thunder and hurls his quivering lightning bolts, calling on the gods,</li>
@@ -259,8 +402,12 @@
   <li value="320" class="top-space">But <mark>Phaethon</mark>, flames ravaging his glowing hair, is hurled headlong, leaving a long trail in the air, as sometimes a star does in the clear sky, appearing to fall although it does not fall.</li>
   <li>Far from his own country, in a distant part of the world, the river god Eridanus takes him from the air, and bathes his smoke-blackened face.</li>
   <li value="325">There the Italian nymphs consign his body, still smoking from that triple-forked flame, to the earth, and they also carve a verse in the rock:</li>
-  <li><p class="conversation">HERE PHAETHON LIES WHO THE SUN’S JOURNEY MADE</p></li>
-  <li><p class="conversation">DARED ALL THOUGH HE BY WEAKNESS WAS BETRAYED</p></li>
+  <li>
+    <p class="conversation">HERE PHAETHON LIES WHO THE SUN’S JOURNEY MADE</p>
+  </li>
+  <li>
+    <p class="conversation">DARED ALL THOUGH HE BY WEAKNESS WAS BETRAYED</p>
+  </li>
 
   <li class="top-space">Now the father, pitiful, ill with grief,</li>
   <li value="330">hid his face, and, if we can believe it, a whole day went by without the sun.</li>
@@ -282,10 +429,15 @@
   <li>She tries to pull the bark from their bodies and break off new branches with her hands,</li>
   <li value="360">but drops of blood are left behind like wounds.</li>
   <li>
-    <p class="conversation">Stop, mother, please</p> cries out whichever one she hurts,</li>
-  <li><p class="conversation">Please stop: It is my body in the tree you are tearing.</p></li>
-  <li><p class="conversation">Now, farewell.</p>
-    and the bark closed over her with her last words.</li>
+    <p class="conversation">Stop, mother, please</p> cries out whichever one she hurts,</p>
+  </li>
+  <li>
+    <p class="conversation">Please stop: It is my body in the tree you are tearing.</p>
+  </li>
+  <li>
+    <p class="conversation">Now, farewell.</p>
+    <p>and the bark closed over her with her last words.</p>
+  </li>
   <li>Their tears still flow, and hardened by the sun, fall as</li>
   <li value="365">mber from the virgin branches, to be taken by the bright river and sent onwards to adorn Roman brides.</li>
 </ol>
