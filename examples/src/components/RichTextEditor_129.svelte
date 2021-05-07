@@ -24,7 +24,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-380.jpg 380w, 
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-480.jpg 480w, 
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg 700w"></picture><figcaption>アポロンに運転されている太陽の<ruby><rb>車駕</rb><rt>しゃが</rt></ruby>が曙に洋から出始まっている<br><q cite="#phaeton">It had an axle of gold, and a gold chariot pole, wheels with golden rims, and circles of silver spokes.</q>、<cite>変身物語</cite>、第ニ巻１０６節より</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg 700w"></picture><figcaption>アポロンに運転されている太陽の<ruby><rb>車駕</rb><rt>しゃが</rt></ruby>が曙に洋から出始まっている<br><q cite="#phaeton">車軸も<ruby>轅<rp>（</rp><rt>ながえ</rt><rp>）</rp></ruby>も金製で、車輪の<ruby>外<rp>（</rp><rt>そと</rt><rp>）</rp>縁<rp>（</rp><rt>ぶち</rt><rp>）</rp></ruby>も金だったが、ハ方にひろがる<ruby>輻<rp>（</rp><rt>や</rt><rp>）</rp></ruby>は銀製だった。</q>、<cite>変身物語</cite>、第ニ巻１０６節より</figcaption>
 </figure>
 
 <div class="notices yellow">
@@ -37,7 +37,7 @@
 <p>このページを読んで下さっている方々にも、こういった神秘的な何かが太陽の光によって見えて来るようにと願っています…　お楽しみに☆</p>
 </div>
 
-<h2 id"phaeton" class="yellow">「<cite>変身物語</cite>」の第ニ巻の文書においてのパエトン</h2>
+<h2 id="phaeton" class="yellow">「<cite>変身物語</cite>」の第ニ巻の文書においてのパエトン</h2>
 
 <ol class="doc">
   <li value="01">大陽神の宮殿は、そそり立つ列柱に支えられて、高々とそびえ、きらめく黄金と、燃えるような<ruby>赤<rp>（</rp><rt>しゃく</rt><rp>）</rp>銅<rp>（</rp><rt>どう</rt><rp>）</rp></ruby>とで<ruby>燦<rp>（</rp><rt>さん</rt><rp>）</rp>爛<rp>（</rp><rt>らん</rt><rp>）</rp></ruby>と輝いていた。</li>
@@ -101,143 +101,144 @@
   <li>父は、誓ったことを後悔した。</li>
   <li>その輝しい頭を三度、四度とうち振りながら、こういった。</li>
   <li>
-    <p class="conversation>「そういわれてみて、わたしの言葉が軽率であったとがわかった。</li>
+    <p class="conversation">「そういわれてみて、わたしの言葉が軽率であったとがわかった。</li>
   <li>
-    <p class="conversation>約束をひっこめることができればな！</li>
+    <p class="conversation">約束をひっこめることができればな！</li>
   <li>
-    <p class="conversation>じつをいえば、それだけは断わりたいところだ。</li>
+    <p class="conversation">じつをいえば、それだけは断わりたいところだ。</li>
   <li>
-    <p class="conversation>ともかく、わたしの勧めを聞きいれて、思いとどまってくれればさいわいだ。</li>
+    <p class="conversation">ともかく、わたしの勧めを聞きいれて、思いとどまってくれればさいわいだ。</li>
   <li>
-    <p class="conversation>よいか、おまえの願いは危険をはらんでいる。</li>
+    <p class="conversation">よいか、おまえの願いは危険をはらんでいる。</li>
   <li>
-    <p class="conversation><mark>パエトン</mark>よ、おまえは大それたことを求めているのだ。</p>
+    <p class="conversation"><mark>パエトン</mark>よ、おまえは大それたことを求めているのだ。</p>
   </li>
   <li>
-    <p class="conversation>おまえの力では、まだ子供っぽいおまえの年齢では、とても無理な注文なのだ。</p>
+    <p class="conversation">おまえの力では、まだ子供っぽいおまえの年齢では、とても無理な注文なのだ。</p>
   </li>
   <li>
-    <p class="conversation>おまえは、人間として生まれていながら、人間には不相応なことを要求している。</p>
+    <p class="conversation">おまえは、人間として生まれていながら、人間には不相応なことを要求している。</p>
   </li>
   <li>
-    <p class="conversation>そうだ、天上の神々にさえ許されえないようなことを、わけもわからずに望んでいるのだ。</p>
+    <p class="conversation">そうだ、天上の神々にさえ許されえないようなことを、わけもわからずに望んでいるのだ。</p>
   </li>
   <li>
-    <p class="conversation>神々なら、みんな、自分の能力に自信をもってはいるだろうが、しかし、わたし以外にはどの神も。燃える火日を運ぶ車を乗りこなすことはできはしない。</p>
+    <p class="conversation">神々なら、みんな、自分の能力に自信をもってはいるだろうが、しかし、わたし以外にはどの神も。燃える火日を運ぶ車を乗りこなすことはできはしない。</p>
   </li>
   <li value="60">
-    <p class="conversation>広大なオリュムポスの支配者であり、恐ろしい右手ではげしい雷電を投げつけるユピテルでさえも、そうなのだ。</p>
+    <p class="conversation">広大なオリュムポスの支配者であり、恐ろしい右手ではげしい雷電を投げつけるユピテルでさえも、そうなのだ。</p>
   </li>
 
   <li class="top-space">
-    <p class="conversation>よいが、前半の進路は、険しい上り坂で、早朝の英気に充ちている馬たちも、進むのに手こずるのだ。</p>
+    <p class="conversation">よいが、前半の進路は、険しい上り坂で、早朝の英気に充ちている馬たちも、進むのに手こずるのだ。</p>
   </li>
   <li>
-    <p class="conversation>ようやく中央にさしかかると、ここは大そう高いところだ。</li>
+    <p class="conversation">ようやく中央にさしかかると、ここは大そう高いところだ。</li>
   <li>
-    <p class="conversation>海と陸とを見下ろすと、このわたしでさえ恐怖をおぼえることがしばしばで、ぞっとするような<ruby>怖<rp>（</rp><rt>こわ</rt><rp>）</rp></ruby>さに、胸が騒ぐ。</p>
+    <p class="conversation">海と陸とを見下ろすと、このわたしでさえ恐怖をおぼえることがしばしばで、ぞっとするような<ruby>怖<rp>（</rp><rt>こわ</rt><rp>）</rp></ruby>さに、胸が騒ぐ。</p>
   </li>
   <li>
-    <p class="conversation>後半の道は、<ruby>急<rp>（</rp><rt>きゅう</rt><rp>）</rp>勾<rp>（</rp><rt>こう</rt><rp>）</rp>配<rp>（</rp><rt>ばい</rt><rp>）</rp></ruby>の<ruby>下<rp>（</rp><rt>くだ</rt><rp>）</rp></ruby>りとなり、確実な手綱さばきが必要だ。</p>
+    <p class="conversation">後半の道は、<ruby>急<rp>（</rp><rt>きゅう</rt><rp>）</rp>勾<rp>（</rp><rt>こう</rt><rp>）</rp>配<rp>（</rp><rt>ばい</rt><rp>）</rp></ruby>の<ruby>下<rp>（</rp><rt>くだ</rt><rp>）</rp></ruby>りとなり、確実な手綱さばきが必要だ。</p>
   </li>
   <li>
-    <p class="conversation>この時は、下方にひろがる波間にわたしを迎えてくれるテテュス女神でさえ、わたしがまっ逆さまに墜落しはしないかと、不安にかられるのが常だ。</p>
+    <p class="conversation">この時は、下方にひろがる波間にわたしを迎えてくれるテテュス女神でさえ、わたしがまっ逆さまに墜落しはしないかと、不安にかられるのが常だ。</p>
   </li>
   <li>
-    <p class="conversation>そのうえ、こんなこともある。</p>
+    <p class="conversation">そのうえ、こんなこともある。</p>
   </li>
   <li>
-    <p class="conversation>天空というのは、不断とぐるぐると回っていて、いや高い星々を道連れに、これらをも急回転させている。</p>
+    <p class="conversation">天空というのは、不断とぐるぐると回っていて、いや高い星々を道連れに、これらをも急回転させている。</p>
   </li>
   <li>
-    <p class="conversation>わたしは、これに逆って進み、ほかのものすべてを巻きこんでいるこの猛烈な動きにも負けはしないで、この急旋回の反対方向に進んで行くのだ。</p>
+    <p class="conversation">わたしは、これに逆って進み、ほかのものすべてを巻きこんでいるこの猛烈な動きにも負けはしないで、この急旋回の反対方向に進んで行くのだ。</p>
   </li>
   <li>
-    <p class="conversation>が、馬車を前にあずけたとしよう。</p>
+    <p class="conversation">が、馬車を前にあずけたとしよう。</p>
   </li>
   <li>
-    <p class="conversation>おまえは、どうするだろう？</p>
+    <p class="conversation">おまえは、どうするだろう？</p>
   </li>
   <li>
-    <p class="conversation>天極の回転に、対面進行ができるだろうか？</p>
+    <p class="conversation">天極の回転に、対面進行ができるだろうか？</p>
   </li>
   <li>
-    <p class="conversation>迅速な天軸に引きさらわれないですむだろうか？</p>
+    <p class="conversation">迅速な天軸に引きさらわれないですむだろうか？</p>
   </li>
   <li>
-    <p class="conversation>おまえは、天にも、森や、神々の都市や、どっさりと供物をささげられた社などがあると思っているのだろう。</p>
+    <p class="conversation">おまえは、天にも、森や、神々の都市や、どっさりと供物をささげられた社などがあると思っているのだろう。</p>
   </li>
   <li>
-    <p class="conversation>とんでもない、隠れた危険や<ruby>異<rp>（</rp><rt>い</rt><rp>）</rp>形<rp>（</rp><rt>ぎょう</rt><rp>）</rp></ruby>の獣たちのあいだを通って行かねばならないのだ。</p>
+    <p class="conversation">とんでもない、隠れた危険や<ruby>異<rp>（</rp><rt>い</rt><rp>）</rp>形<rp>（</rp><rt>ぎょう</rt><rp>）</rp></ruby>の獣たちのあいだを通って行かねばならないのだ。</p>
   </li>
   <li>
-    <p class="conversation>正しい進路を守り、横にそれないで行ったとしても、</p>
+    <p class="conversation">正しい進路を守り、横にそれないで行ったとしても、</p>
   </li>
   <li value="80">
-    <p class="conversation>しかし、立ちはだかる『雄牛』の<ruby>角<rp>（</rp><rt>つの</rt><rp>）</rp></ruby>や、テッサリアの『射手』や、荒々しい『獅子』の<ruby>腭<rp>（</rp><rt>あぎと</rt><rp>）</rp></ruby>や、長々と腕を彎曲させた『蠍』や、同じ別方向に腕を曲げている『蟹』などを、越えて行かなければならない。</p>
+    <p class="conversation">しかし、立ちはだかる『<ruby>雄<rp>（</rp><rt>おう</rt><rp>）</rp>牛<rp>（</rp><rt>し</rt><rp>）</rp></ruby>』の<ruby>角<rp>（</rp><rt>つの</rt><rp>）</rp></ruby>や、テッサリアの『射手』や、荒々しい『獅子』の<ruby>腭<rp>（</rp><rt>あぎと</rt><rp>）</rp></ruby>や、長々と腕を<ruby>彎<rp>（</rp><rt>わん</rt><rp>）</rp>曲<rp>（</rp><rt>きょく</rt><rp>）</rp></ruby>させた『<ruby>蠍<rp>（</rp><rt>さそり</rt><rp>）</rp></ruby>』や、同じ別方向に腕を曲げている『<ruby>蟹<rp>（</rp><rt>かに</rt><rp>）</rp></ruby>』などを、越えて行かなければならない。</p>
   </li>
   <li>
-    <p class="conversation>胸のうちで養われ、口と鼻から吐き出されるあの炎によっていきりたった馬たちを御することも、おまえには容易なことではない。</p>
-  </li>
-  <li>はげしい高ぶりを<ruby>灼<rp>（</rp><rt>やく</rt><rp>）</rp>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>させ、頸で手綱にはかってくれば、わたしのいうことをさえ聞こうとしない馬たちなのだ。</p>
+    <p class="conversation">胸のうちで養われ、口と鼻から吐き出されるあの炎によっていきりたった馬たちを御することも、おまえには容易なことではない。</p>
   </li>
   <li>
-    <p class="conversation>よいか、気をつけるのだ、わたしに危険な贈り物をさせないようにな！</p>
+    <p class="conversation">はげしい高ぶりを<ruby>灼<rp>（</rp><rt>やく</rt><rp>）</rp>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>させ、頸で手綱にはかってくれば、わたしのいうことをさえ聞こうとしない馬たちなのだ。</p>
   </li>
   <li>
-    <p class="conversation>手おくれにならないうちに、望みを訂正することだ。</p>
+    <p class="conversation">よいか、気をつけるのだ、わたしに危険な贈り物をさせないようにな！</p>
+  </li>
+  <li>
+    <p class="conversation">手おくれにならないうちに、望みを訂正することだ。</p>
   </li>
 
   <li class="top-space">
-    <p class="conversation>確かな証拠がほしいというのは、きっと、わたしの孑だ信じたいからだろう。</p>
+    <p class="conversation">確かな証拠がほしいというのは、きっと、わたしの孑だ信じたいからだろう。</p>
   </li>
   <li>
-    <p class="conversation>わたしはこんなに心配していることが、その確かな証拠ではないか。</p>
+    <p class="conversation">わたしはこんなに心配していることが、その確かな証拠ではないか。</p>
   </li>
   <li>
-    <p class="conversation>父親らしいこの不安によって、わたしが父親であることが証明されている。</p>
+    <p class="conversation">父親らしいこの不安によって、わたしが父親であることが証明されている。</p>
   </li>
   <li>
-    <p class="conversation>そら、わたしの顔を見るがよい！</p>
+    <p class="conversation">そら、わたしの顔を見るがよい！</p>
   </li>
   <li>
-    <p class="conversation>いやそれよりも、この胸の中をのぞきこんで、内心の苦悩をわかってもらえたらなあ！</p>
+    <p class="conversation">いやそれよりも、この胸の中をのぞきこんで、内心の苦悩をわかってもらえたらなあ！</p>
   </li>
   <li>
-    <p class="conversation>さあ、これが最後だ。</p>
+    <p class="conversation">さあ、これが最後だ。</p>
   </li>
   <li>
-    <p class="conversation>この豊かな世界が持っているすべてのものを見回して、天、海のおびただしい宝のなかから、何なりと望むがよい。</p>
+    <p class="conversation">この豊かな世界が持っているすべてのものを見回して、天、海のおびただしい宝のなかから、何なりと望むがよい。</p>
   </li>
   <li>
-    <p class="conversation>拒否を受けることは、ありはしない。</p>
+    <p class="conversation">拒否を受けることは、ありはしない。</p>
   </li>
   <li>
-    <p class="conversation>ただ、先ほどの願いだけは困るのだ。</p>
+    <p class="conversation">ただ、先ほどの願いだけは困るのだ。</p>
   </li>
   <li>
-    <p class="conversation>本当にいえば、あれは刑罰ともいうべきものであって、恩恵にはならないからだ。</p>
+    <p class="conversation">本当にいえば、あれは刑罰ともいうべきものであって、恩恵にはならないからだ。</p>
   </li>
   <li>
-    <p class="conversation><mark>パエトン</mark>よ、おまえは贈り物のかわりに刑罰を求めているのだ。</p>
+    <p class="conversation"><mark>パエトン</mark>よ、おまえは贈り物のかわりに刑罰を求めているのだ。</p>
   </li>
   <li value="100">
-    <p class="conversation>おや、どうしたのだ、おばかさん？</p>
+    <p class="conversation">おや、どうしたのだ、おばかさん？</p>
   </li>
   <li>
-    <p class="conversation>甘えたようにわたしの頸に抱きついたりして。</p>
+    <p class="conversation">甘えたようにわたしの頸に抱きついたりして。</p>
   </li>
   <li>
-    <p class="conversation>なにも、疑うことはない。</p>
+    <p class="conversation">なにも、疑うことはない。</p>
   </li>
   <li>
-    <p class="conversation>おまえが望んだものなら、何なりと与えよう。</p>
+    <p class="conversation">おまえが望んだものなら、何なりと与えよう。</p>
   </li>
   <li>
-    <p class="conversation>冥府の河にも、誓ったのだから。</p>
+    <p class="conversation">冥府の河にも、誓ったのだから。</p>
   </li>
   <li>
-    <p class="conversation>しかし、もっと賢明な望みであってほしいのだ！」</p>
+    <p class="conversation">しかし、もっと賢明な望みであってほしいのだ！」</p>
   </li>
   <li>父親は、忠告を終えた。</li>
 
@@ -245,7 +246,7 @@
   <li>馬車をあやつってみたいという欲望に、燃えているのだ。</li>
   <li>やむをえず、父親は、できるかぎり時間をひきのばしたあと、ついに、若者をそびえ立つ馬車のもとへと連れて行った。</li>
   <li><ruby>鍛<rp>（</rp><rt>か</rt><rp>）</rp>冶<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>の神ウルカヌスから贈られた車だ。</li>
-  <li>車軸も<ruby>轅<rp>（</rp><rt>ながえ</rt><rp>）</rp></ruby>も金製で、車輪の<ruby>外<rp>（</rp><rt>そと</rt><rp>）</rp>縁<rp>（</rp><rt>ぶち</rt><rp>）</rp></ruby>も金だったが、ハ方にひろがる<ruby>輻<rp>（</rp><rt>や</rt><rp>）</rp></ruby>は銀製だった。</li>
+  <li value="106">車軸も<ruby>轅<rp>（</rp><rt>ながえ</rt><rp>）</rp></ruby>も金製で、車輪の<ruby>外<rp>（</rp><rt>そと</rt><rp>）</rp>縁<rp>（</rp><rt>ぶち</rt><rp>）</rp></ruby>も金だったが、ハ方にひろがる<ruby>輻<rp>（</rp><rt>や</rt><rp>）</rp></ruby>は銀製だった。</li>
 
   <li class="top-space"><ruby>軛<rp>（</rp><rt>くびき</rt><rp>）</rp></ruby>に沿ってはめこまれた黄玉と、やはりそこにちりばめられているいろんな宝石が、太陽神の輝く光をはね返している。</li>
   <li><mark>パエトン</mark>は、胸をふくらせて、これらの細工に目を見張っていた。</li>
