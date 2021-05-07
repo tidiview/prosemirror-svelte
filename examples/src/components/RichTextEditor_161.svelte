@@ -98,6 +98,7 @@
   <li>
     <p class="conversation">De ta lignée et délivre mon esprit de ce doute.»</p>
   </li>
+
   <li value="40" class="top-space">À ces mots, le père se débarrassa de ces rayons éblouissants</li>
   <li>Qui couronnaient sa tête et lui ordonna d'approcher</li>
   <li>Puis, l'ayant serré dans ses bras, lui dit:
@@ -150,7 +151,8 @@
   <li>
     <p class="conversation">Ne saurait conduire mon char; Et y a-t-il plus grand que Jupiter?</p>
   </li>
-  <li>
+
+  <li class="top-space">
     <p class="conversation">La première partie du chemin est difficile et mes chevaux,</p>
   </li>
   <li>
@@ -231,7 +233,8 @@
   <li>
     <p class="conversation">D'une faveur funeste et, pendant qu'il est temps, modifie ton souhait.</p>
   </li>
-  <li value="90">
+
+  <li value="90" class="top-space">
     <p class="conversation">Apparemment, pour te convaincre que tu es bien né de mon sang,</p>
   </li>
   <li>
@@ -271,13 +274,15 @@
     <p class="conversation">Te sera accordé; mais fais un vœu plus raisonnable.»</p>
   </li>
   <li>Sa mise en garde était finie et, cependant, rétif à ses paroles,</li>
-  <li>Le jeune homme s'entêta dans son projet: l'envie de ce char le brûlait.</li>
+
+  <li class="top-space">Le jeune homme s'entêta dans son projet: l'envie de ce char le brûlait.</li>
   <li value="105">Alors son père, après avoir temportisé autant qu'il lui était possible,</li>
   <li>Le conduisit vers le char majestueux, cadeau de Vulcain.</li>
   <li>D'or en était l'essieu, d'or la flèche, d'or le tour</li>
   <li>Des hautes roues, et d'argent l'ensemble des rayons;</li>
   <li>Des topazes et des pierreries régulièrement disposées sur tout l'attelage</li>
-  <li value="110">Dans lequel Phœbus se réfléchissait lui renvoyaient une lumière intense.</li>
+
+  <li value="110" class="top-space">Dans lequel Phœbus se réfléchissait lui renvoyaient une lumière intense.</li>
   <li>Et tandis que le noble <mark>Phaéton</mark>, examinant tout cela, admire</li>
   <li>L'ouvrage, voici que dans l'éclat du levant l'Aurore vigilante</li>
   <li>Montre ses portes rougeoyantes et ses entrées couvertes de roses;</li>
@@ -285,7 +290,8 @@
   <li value="115">Quittant le dernier le poste céleste.</li>
   <li>Dès qu'il le voit atteindre la terre, voit le firmanment s'empourprer</li>
   <li>Et comme s'évanouir le bout des cornes de la lune,</li>
-  <li>Le Titan commande aux Heures prestes d'atteler ses chevaux.</li>
+
+  <li class="top-space">Le Titan commande aux Heures prestes d'atteler ses chevaux.</li>
   <li>Les déesses exécutent ses ordres avec célérité: elles amènent</li>
   <li>Des vastes écuries les coursiers qui crachent le feu,</li>
   <li value="120">Rassasiés d'ambroisie, et, dans un cliquetis, leur placent le mors.</li>
@@ -329,7 +335,8 @@
   <li>
     <p class="conversation">Si tu descend trop bas, les terres; le plus sûr est d'avancer au milieu.</p>
   </li>
-  <li>
+
+  <li class="top-space">
     <p class="conversation">Trop à droite, tes roues risquent de dévier vers les anneaux du Serpent,</p>
   </li>
   <li>
@@ -373,7 +380,8 @@
   <li value="150">Le garçon au corps juvénile grimpe sur le char léger et, debout,</li>
   <li>Tout joyeux de sentir dans ses mains le contact lisse des rênes,</li>
   <li>Remercie son père, qui a agi bien magré lui.</li>
-  <li>Pendant ce temps, les chevaux ailés du Soleil: Pirois, Eous, Æthon</li>
+
+  <li class="top-space">Pendant ce temps, les chevaux ailés du Soleil: Pirois, Eous, Æthon</li>
   <li>Et le quatrième, Phlégon, emplissent l'air de hennissements</li>
   <li value="155">Impétueux et piaffent contre les clôtures.</li>
   <li>Sitôt que Téthys, ignorant le destin de son petit-fils,</li>
@@ -387,7 +395,8 @@
   <li>Chavirent, déstabilisés par leur trop grande légèreté, et sont emportés</li>
   <li value="165">Par les flots, ainsi privé de son poids coutumier, le char</li>
   <li>Bondit vainement dans les airs et, profondément secoué, semble vide.</li>
-  <li>Dès que le quadrige sent cela, il s'emballe, délaisse la piste tracée</li>
+
+  <li class="top-space">Dès que le quadrige sent cela, il s'emballe, délaisse la piste tracée</li>
   <li>Pour suivre une toute autre direction. Affolé, <mark>Phaéton</mark> ne sait</li>
   <li>De quel côté tirer les rênes à lui confiées, ni comment retrouver sa route,</li>
   <li value="170">Incapable, même s'il le savait, de maîtriser les chevaux.</li>
@@ -398,7 +407,8 @@
   <li value="175">S'enflamme et puise dans cette effervescence une fureur nouvelle.</li>
   <li>Toi aussi, Bouvier, on a dit qu'un trouble t'avait fait fuir</li>
   <li>En dépit de ta lenteur et du Chariot qui te retenait.</li>
-  <li>Lorsque l'infortuné <mark>Phaéton</mark>, du haut des airs, a vu la terre</li>
+
+  <li class="top-space">Lorsque l'infortuné <mark>Phaéton</mark>, du haut des airs, a vu la terre</li>
   <li>Qui s'étendait si bas, si bas au-dessous de lui,</li>
   <li value="180">Il a pali et l'angoisse a soudain fait trembler ses genoux;</li>
   <li>La lumière aveuglante a plongé ses yeux dans les ténèbres.</li>
@@ -421,7 +431,8 @@
   <li>Lorsque l'enfant l'aperçoit, exsudant un venin moite et noir</li>
   <li>Et menaçant d'attaquer avec son dard crochu,</li>
   <li value="200">Il perd la tête et, glacé de terreur, lâche les rênes.</li>
-  <li>Dès qu'elles sont retombées et flottent sur leur croupe,</li>
+
+  <li class="top-space">Dès qu'elles sont retombées et flottent sur leur croupe,</li>
   <li>Les chevaux que plus rien rien n'arrête s'élancent dans l'espace</li>
   <li>Sans savoir où ils vont, au gré de leur impétuosité,</li>
   <li>Galopent en tous sens et se jettent contre les étoiles accrochées à la voûte</li>
@@ -447,14 +458,16 @@
   <li>La Scythie n'est pas protégée par ses glaces; s'embrase le Caucase</li>
   <li value="225">Et puis l'Ossa et le Pinde et l'Olympe, plus élevé qu'eux,</li>
   <li>Et les Alpes aériennes et l'Apenin orageux.</li>
-  <li>Alors <mark>Phaéton</mark> regarde le monde incendié en toutes</li>
+
+  <li class="top-space">Alors <mark>Phaéton</mark> regarde le monde incendié en toutes</li>
   <li>Ses parties et ne peut tenir contre une chaleur si violente;</li>
   <li>Sa bouche aspire un bouillonnement d'air comme sorti du fond</li>
   <li value="230">D'une fournaise et son char, il le sent, devient incandescent;</li>
   <li>Il ne supporte plus les projections de cendres et de poussière chaude,</li>
   <li>Une fumée brûlante l'enveloppe de tous côtés.</li>
   <li>Où va-t-il, où est-il, couvert d'une épaisse cousse de poix?</li>
-  <li>Il ne sait, et les chevaux ailés l'emportent à leur gré.</li>
+
+  <li class="top-space">Il ne sait, et les chevaux ailés l'emportent à leur gré.</li>
   <li value="235">C'est de là, pense-t-on, que les peuples de l'Éthiopie tirent leur couleur</li>
   <li>Noire, le sang ayant afflué à la surface de leurs corps;</li>
   <li>De là que la Libye, privée d'humidité par la chaleur intense,</li>
@@ -477,7 +490,8 @@
   <li>Le Nil épouvanté fuit jusqu'au bout du monde</li>
   <li value="255">Pour y cacher sa source, qui nous est encore inconnue; ses sept</li>
   <li>embouchures, taries, sont ensablées, ses sept vallées non irriguées.</li>
-  <li>Un même sort assèche l'Hèbre et le Strymon de Thrace</li>
+
+  <li class="top-space">Un même sort assèche l'Hèbre et le Strymon de Thrace</li>
   <li>Ainsi que le Rhin, le Rhône et le Pô d'Hespérie</li>
   <li>Et le Tibre, à qui fut promis l'empire du monde.</li>
   <li value="260">Partout le sol se fend et, par les fissures, la lumières pénètre</li>
@@ -495,7 +509,8 @@
   <li>Cependant, la Terre nourricière qui se trouvait entourée d'eaux -</li>
   <li>Qu'il s'agit de celles de la mer ou des sources partout raréfiées</li>
   <li>Qui se dissimulaient dans l'opacité des entrailles maternelles -,</li>
-  <li value="275">La Terre aride présenta jusqu'au cou un visage accablé,</li>
+
+  <li value="275" class="top-space">La Terre aride présenta jusqu'au cou un visage accablé,</li>
   <li>Posa une main sur son front et, dans un grand tressaillement</li>
   <li>Qui ébranla toutes choses, s'affaissa quelque peu au-dessous</li>
   <li>De son niveau normal puis, de sa voix sacrée, parla en ces termes:</li>
@@ -532,7 +547,8 @@
   <li>
     <p class="conversation">Pour les humains et même de l'encens pour vous?</p>
   </li>
-  <li value="290">
+
+  <li value="290" class="top-space">
     <p class="conversation">Mais admettons que j'ai mérité cette ruine: qu'en est-il des eaux,</p>
   </li>
   <li>
@@ -565,7 +581,8 @@
   <li value="300">
     <p class="conversation">Ce qui peut l'être encore et veille au salut de l'univers.»</p>
   </li>
-  <li>La Terre se tut, ne pouvant plus longtemps supporter</li>
+
+  <li class="top-space">La Terre se tut, ne pouvant plus longtemps supporter</li>
   <li>La fumée ni parler davantage, et sa tête rentra</li>
   <li>En elle-même, dans des lieux caverneux plus proches des ânes.</li>
   <li>Alors le père tout puissant, ayant convaincu les dieux - y compris</li>
@@ -583,7 +600,8 @@
   <li>Les rênes gisent ici, là, l'essieu détaché de la flèche;</li>
   <li>Plus loin les rayons des roues déchiquetées et les restes</li>
   <li>Du char mis en pièces sont sur un large espace éparpillés.</li>
-  <li>Quant à <mark>Phaéton</mark>, la chevelure en feu dans l'incedie dévastateur,</li>
+
+  <li class="top-space">Quant à <mark>Phaéton</mark>, la chevelure en feu dans l'incedie dévastateur,</li>
   <li value="320">Il tombe en tournoyant, suivi dans les airs d'une longue trainée</li>
   <li>Comme parfois une étoile filante dans un ciel serein</li>
   <li>Peut paraître tomber alors qu'il n'en est rien.</li>
@@ -598,7 +616,8 @@
   <li>
     <p class="conversation">S'il est vrai qu'il ne l'a pas retenu, c'est sa témérité qui l'a perdu.»</p>
   </li>
-  <li>De fait, son père, que cette mort a plongé dans la douleur,</li>
+
+  <li class="top-space">De fait, son père, que cette mort a plongé dans la douleur,</li>
   <li value="330">S'est retiré en se voilant la face et, si l'on en croit la légende,</li>
   <li>Un jour entier s'est écoulé sans soleil; l'incendie, en éclairant</li>
   <li>Le monde, aura au moins, dans ce malheur, en larmes, éperdue et le sien</li>
@@ -609,7 +628,8 @@
   <li>L'arrosa de ses larmes et le réchauffa de sa poitrine nue.</li>
   <li value="340">Les Héliades ne pleurèrent pas moins et, faisant à la mort</li>
   <li>L'offrande vaine de leurs larmes et se frappant la poitrine,</li>
-  <li>Nuit et jour appelèrent <mark>Phaéton</mark>, qui ne pouvait entendre</li>
+
+  <li class="top-space">Nuit et jour appelèrent <mark>Phaéton</mark>, qui ne pouvait entendre</li>
   <li>Leurs douloureuses plaintes, et se couchèrent près du tombeau.</li>
   <li value="345">Elles à leurs habitudes (habitude créée par le ressassement),</li>
   <li>S'étaient abandonnées à leurs lamentations. Phaétuse,</li>
