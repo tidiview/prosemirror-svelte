@@ -9,7 +9,7 @@
 <article>
 
 <hgroup>
-<h2 class="yellow"><ruby lang="ja">大トリアノン宮殿<rp>（</rp><rt lang="fr">le&#160;Grand&#160;Trianon</rt><rp>）</rp></ruby>での</h2>
+<h2 class="yellow"><ruby lang="ja">ヴェルサイユ宮殿の庭園<rp>（</rp><rt lang="fr">les&#160;Jardins&#160;du&#160;Palais&#160;de&#160;Versailles</rt><rp>）</rp></ruby>での</h2>
 <h1 class="yellow">パエトン</h1>
 </hgroup>
 
@@ -24,7 +24,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-380.jpg 380w, 
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-480.jpg 480w, 
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg 700w"></picture><figcaption>アポロンに運転されている太陽の<ruby><rb>車駕</rb><rt>しゃが</rt></ruby>が曙に洋から出始まっている<br><q cite="#phaeton">車軸も<ruby>轅<rp>（</rp><rt>ながえ</rt><rp>）</rp></ruby>も金製で、車輪の<ruby>外<rp>（</rp><rt>そと</rt><rp>）</rp>縁<rp>（</rp><rt>ぶち</rt><rp>）</rp></ruby>も金だったが、ハ方にひろがる<ruby>輻<rp>（</rp><rt>や</rt><rp>）</rp></ruby>は銀製だった。</q>、<cite>変身物語</cite>、第ニ巻１０７節から１０８節までより</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg 700w"></picture><figcaption>アポロンに運転されている太陽の<ruby><rb>車駕</rb><rt>しゃが</rt></ruby>が曙に洋から出始まっている<br><q cite="#phaeton" style="quotes:'「' '」'">車軸も<ruby>轅<rp>（</rp><rt>ながえ</rt><rp>）</rp></ruby>も金製で、車輪の<ruby>外<rp>（</rp><rt>そと</rt><rp>）</rp>縁<rp>（</rp><rt>ぶち</rt><rp>）</rp></ruby>も金だったが、ハ方にひろがる<ruby>輻<rp>（</rp><rt>や</rt><rp>）</rp></ruby>は銀製だった。</q>、<cite>変身物語</cite>、第ニ巻１０７節から１０８節までより</figcaption>
 </figure>
 
 <div class="notices yellow">
