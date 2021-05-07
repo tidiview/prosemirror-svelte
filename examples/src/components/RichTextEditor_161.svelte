@@ -37,6 +37,8 @@
 
 <h2 id="apollon" class="yellow">Phaéton selon le texte du Livre <abbr title="deux">II</abbr> des <cite>Métamorphoses</cite></h2>
 
+<h3 class="yellow">Le Palais du Soleil</h3>
+
 <ol class="doc">
   <li value="01">Le Palais du Soleil aux hautes colonnes se dressait<br>
   Dans la splendeur rutilante de l'or et des flamboiements du pyrope;<br>
