@@ -4,7 +4,7 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
+  const html = `<!-- JA:128 EN:191  -->
 <article>
 
 <hgroup>
@@ -23,7 +23,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/01.latone/latone-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/01.latone/latone-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/01.latone/latone-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/01.latone/latone_700x525.jpg 700w"></picture><figcaption>Les Paysans de Lycie transformés en animaux des étangs par la colère de Latone<br><q cite="#latone">Le vœu divin est exaucé: ils sont ravis d'être sous l'eau, de tantôt enfuir leur corps tout entier au creux du marécage puis de montrer leur tête, tantôt de se laisser flotter à la surface, et que je me poste au bord de l'étang, et que je saute à nouveau dans les eaux fraîches.</q></figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/01.latone/latone_700x525.jpg 700w"></picture><figcaption>Les Paysans de Lycie transformés en animaux des étangs par la colère de Latone<br><q cite="#latone">Le vœu divin est exaucé: ils sont ravis d'être sous l'eau, de tantôt enfuir leur corps tout entier au creux du marécage puis de montrer leur tête, tantôt de se laisser flotter à la surface, et que je me poste au bord de l'étang, et que je saute à nouveau dans les eaux fraîches.</q>, <cite>Les Métamorphoses</cite>, Livre <abbr title="six">VI</abbr>, vers 370 à 374.</figcaption>
 </figure>
 
 <div class="notices red">
@@ -40,17 +40,20 @@
   <li>Donna le jour à des jumeaux, contre le gré de leur belle-mère.</li>
   <li>On raconte aussi que la jeune accouchée dut fuir Junon</li>
   <li>En emportant contre son sein des deux divins nouveau-nés.</li>
-  <li>Déjà aux frontières de la Lycie, patrie de la Chimère,</li>
+
+  <li class="top-space">Déjà aux frontières de la Lycie, patrie de la Chimère,</li>
   <li value="340">Alors qu'un soleil de plomb brûlait les champs, la déesse, épuisée</li>
   <li>Par une longue marche sous une chaleur torride, eut soif;</li>
   <li>Ses nourrissons affamés avaient tari le lait de sa poitrine.</li>
-  <li>Elle vit par hasard devant elle, au fond de la vallée,</li>
+
+  <li class="top-space">Elle vit par hasard devant elle, au fond de la vallée,</li>
   <li>Un étang de petite étendue; des paysans cueillaient là de l'osier</li>
   <li>Buissonneux, des joncs, et de l'ulve appréciée des marais.</li>
   <li value="345">La fille du Titan s'approcha et, se mettant à genoux,</li>
   <li>Se pencha vers la terre afin de ses désaltérer dans cette eau fraîche.</li>
   <li>Le groupe de cultivateurs s'y opposa; devant ce refus, la déesse leur dit :</li>
-  <li>
+
+  <li class="top-space">
     <p class="conversation">«Pourquoi m'interdire cette eau? L'eau appartient à tout le monde</p>
   </li>
   <li value="350">
@@ -80,9 +83,11 @@
   <li><p class="conversation">Laissez-vous toucher par eux qui, près ede mon sein, tendent vers vous</p></li>
   <li>
     <p class="conversation">Leurs petits bras.»</p>
-    Les enfants, en la circonstance, tendaient les bras.</li>
+    <p>Les enfants, en la circonstance, tendaient les bras.</p>
+  </li>
   <li value="360">Qui m'eût été touché par les mots aimables de la déesse?</li>
-  <li>Or ils persistent, malgré ses prières, à lui opposer des menaces,</li>
+
+  <li class="top-space">Or ils persistent, malgré ses prières, à lui opposer des menaces,</li>
   <li>Si elle ne s'en va pas, et ils y ajoutent, en outre, des invectives.</li>
   <li>Et cela ne leur suffit pas: ils font des pieds et des mains</li>
   <li value="365">Pour troubler l'eau de l'étang et méchamment sautent de-ci de-là</li>
@@ -90,19 +95,21 @@
   <li>La colère a pris le pas sur la soif et, désormais, la fille de Céus</li>
   <li>N'a plus de prières pour ces êtres indignes, la déesse ne supporte plus</li>
   <li>De s'humilier davantage en paroles; levant les mains vers les étoiles,</li>
-  <li value="370">Elle dit:
+  <li>Elle dit:
     <p class="conversation">«Vivez donc pour l'éternité dans votre étang!»</p>
   </li>
-  <li>Le vœu divin est exaucé: ils sont ravis d'être sous l'eau,</li>
+
+  <li value="370" class="top-space">Le vœu divin est exaucé: ils sont ravis d'être sous l'eau,</li>
   <li>De tantôt enfuir leur corps tout entier au creux du marécage</li>
   <li>Puis de montrer leur tête, tantôt de se laisser flotter à la surface,</li>
   <li>Et que je me poste au bord de l'étang, et que je saute à nouveau</li>
   <li>Dans les eaux fraîches. Mais leurs langues mauvaises n'ont de cesse</li>
   <li value="375">De récriminer et, sans aucune retenue, bien qu'ils soient sous les eaux,</li>
   <li>Sous les eaux ils tentent de lancer des injures.</li>
-  <li>Leur voix est devenue rauque, leur cou semblent s'être effacés,</li>
+
+  <li class="top-space">Leur voix est devenue rauque, leur cou semblent s'être effacés,</li>
   <li>Leur dos verdit, leur ventre, partie principale de leur corps, blanchit</li>
-  <li>Et dans le bassin fangeux sautent ces nouvelles grenouilles.</li>
+  <li value="379">Et dans le bassin fangeux sautent ces nouvelles grenouilles.</li>
 </ol>
 
 <footer>
