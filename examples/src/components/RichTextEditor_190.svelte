@@ -559,7 +559,7 @@ on the other side is <a href="#area_nessus" title="the Centaur Nessus" id="nessu
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/06.hercule_6/hercule15-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/06.hercule_6/hercule15-1600.jpg 1600w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/06.hercule_6/hercule15-1920.jpg 1920w"></picture>
-  <figcaption>Cartel of <q cite="#labiche" style="quotes:'' ''">Mascot to the Golden Horns style="quotes:'' ''" and Cacus</figcaption>
+  <figcaption>Cartel of <q cite="#labiche" style="quotes:'' ''">Mascot to the Golden Horns</q> and Cacus</figcaption>
   <map name="img_hercule15" id="img_hercule15"><area id="area_labiche" alt="the Mascot to the Golden Horns" title="the Mascot to the Golden Horns" href="#labiche" shape="poly" coords="284,199,287,211,290,219,283,237,340,241,347,238,353,238,358,241,370,243,373,235,380,229,382,219,389,217,407,220,416,216,427,192,418,195,421,190,415,178,407,183,404,192,406,201,398,208,380,211,386,192,382,178,380,174,391,163,382,154,373,159,364,177,365,187,365,195,361,198,347,189,349,199,338,201,325,213,323,217,311,217,331,190,328,186,325,187,314,180,304,181,298,192,293,199"><area id="area_cacus" alt="Cacus suffocated by Alcide" title="Cacus suffocated by Alcide" href="#cacus" shape="poly" coords="612,237,612,232,602,231,597,228,596,222,612,204,624,181,620,169,609,166,590,174,597,160,599,148,593,138,599,138,602,123,591,112,579,111,576,120,572,121,561,115,551,118,549,123,539,124,534,132,519,145,519,171,542,169,528,181,533,184,528,189,536,189,525,198,533,199,528,208,530,225,518,228,515,241,540,249,558,249,573,238"></map>
 </figure>
 
@@ -615,7 +615,7 @@ that the one which is painted, seems much higher than the one that is not, and w
 <p>We believe that this oposition and contrast that one can observe here very conveniently in two adjoining salons and high to an equal height deserves special attention from the Connoisseurs.</p>
 
 <footer>
-  <p><cite>Le Mercure de France</cite></p>
+  <p>Probably written by François LEMOYNE, published in <cite>Le Mercure de France</cite>, <time dateime="1736-09-26">september, <abbr title="the twenty-sixth">26<sup>th</sup></abbr>, 1736</time>.</p>
   <p>Original translation from french. Reproduction possible with quotation.</p>
 </footer>
 </article>
