@@ -24,7 +24,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-380.jpg 380w, 
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-480.jpg 480w, 
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg 700w"></picture><figcaption>アポロンに運転されている太陽の<ruby><rb>車駕</rb><rt>しゃが</rt></ruby>が曙に洋から出始まっている<br><q cite="#phaeton">車軸も<ruby>轅<rp>（</rp><rt>ながえ</rt><rp>）</rp></ruby>も金製で、車輪の<ruby>外<rp>（</rp><rt>そと</rt><rp>）</rp>縁<rp>（</rp><rt>ぶち</rt><rp>）</rp></ruby>も金だったが、ハ方にひろがる<ruby>輻<rp>（</rp><rt>や</rt><rp>）</rp></ruby>は銀製だった。</q>、<cite>変身物語</cite>、第ニ巻１０６節より</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg 700w"></picture><figcaption>アポロンに運転されている太陽の<ruby><rb>車駕</rb><rt>しゃが</rt></ruby>が曙に洋から出始まっている<br><q cite="#phaeton">車軸も<ruby>轅<rp>（</rp><rt>ながえ</rt><rp>）</rp></ruby>も金製で、車輪の<ruby>外<rp>（</rp><rt>そと</rt><rp>）</rp>縁<rp>（</rp><rt>ぶち</rt><rp>）</rp></ruby>も金だったが、ハ方にひろがる<ruby>輻<rp>（</rp><rt>や</rt><rp>）</rp></ruby>は銀製だった。</q>、<cite>変身物語</cite>、第ニ巻１０７節から１０８節までより</figcaption>
 </figure>
 
 <div class="notices yellow">
@@ -248,7 +248,7 @@
   <li>馬車をあやつってみたいという欲望に、燃えているのだ。</li>
   <li>やむをえず、父親は、できるかぎり時間をひきのばしたあと、ついに、若者をそびえ立つ馬車のもとへと連れて行った。</li>
   <li><ruby>鍛<rp>（</rp><rt>か</rt><rp>）</rp>冶<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>の神ウルカヌスから贈られた車だ。</li>
-  <li value="106">車軸も<ruby>轅<rp>（</rp><rt>ながえ</rt><rp>）</rp></ruby>も金製で、車輪の<ruby>外<rp>（</rp><rt>そと</rt><rp>）</rp>縁<rp>（</rp><rt>ぶち</rt><rp>）</rp></ruby>も金だったが、ハ方にひろがる<ruby>輻<rp>（</rp><rt>や</rt><rp>）</rp></ruby>は銀製だった。</li>
+  <li value="107">車軸も<ruby>轅<rp>（</rp><rt>ながえ</rt><rp>）</rp></ruby>も金製で、車輪の<ruby>外<rp>（</rp><rt>そと</rt><rp>）</rp>縁<rp>（</rp><rt>ぶち</rt><rp>）</rp></ruby>も金だったが、ハ方にひろがる<ruby>輻<rp>（</rp><rt>や</rt><rp>）</rp></ruby>は銀製だった。</li>
 
   <li class="top-space"><ruby>軛<rp>（</rp><rt>くびき</rt><rp>）</rp></ruby>に沿ってはめこまれた黄玉と、やはりそこにちりばめられているいろんな宝石が、太陽神の輝く光をはね返している。</li>
   <li><mark>パエトン</mark>は、胸をふくらせて、これらの細工に目を見張っていた。</li>
