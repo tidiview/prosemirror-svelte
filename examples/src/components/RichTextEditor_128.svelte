@@ -59,7 +59,7 @@
   <li class="top-space">
     <p class="conversation">「どうして、わたしに水を飲ませないのですか。</p>
   </li>
-  <li>
+  <li value="350">
     <p class="conversation">水は、万人に共有の<ruby>賜<rp>（</rp><rt>たま</rt><rp>）</rp>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>です。</p>
   </li>
   <li>
