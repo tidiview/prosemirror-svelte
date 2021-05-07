@@ -86,7 +86,6 @@
 
   <li class="top-space">His father regretted his oath.</li>
   <li>Three times, and then a fourth,</li>
-
   <li value="50">
     <p>shaking his bright head, he said</p>
     <p class="conversation">Your words show mine were rash; if only it were right to retract my promise!</p>
