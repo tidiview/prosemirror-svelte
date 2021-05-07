@@ -37,6 +37,8 @@
 
 <h2 id="phaeton" class="yellow">Phaethon according to text of book <abbr title="two">II</abbr> of <cite>The Metamorphoses</cite></h2>
 
+<h3 class="yellow">the Palace of the Sun</h3>
+
 <ol class="doc">
   <li value="1">The palace of the Sun towered up with raised columns, bright with glittering gold, and gleaming bronze like fire.</li>
   <li>Shining ivory crowned the roofs, and the twin doors radiated light from polished silver.</li>
@@ -49,7 +51,7 @@
   <li>Above them was an image of the glowing sky, with six signs of the zodiac on the right hand door and the same number on the left.</li>
 </ol>
 
-<h3 class="yellow">Phaethon</h3>
+<h3 class="yellow">Phaethon in front of the Sun</h3>
 
 <ol class="doc">
   <li>As soon as Clymene’s son had climbed the steep path there,</li>
