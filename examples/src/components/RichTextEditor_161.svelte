@@ -38,7 +38,7 @@
 <h2 id="apollon" class="yellow">Phaéton selon le texte du Livre <abbr title="deux">II</abbr> des <cite>Métamorphoses</cite></h2>
 
 <ol class="doc">
-  <li value="1">Le Palais du Soleil aux hautes colonnes se dressait<br>
+  <li value="01">Le Palais du Soleil aux hautes colonnes se dressait<br>
   Dans la splendeur rutilante de l'or et des flamboiements du pyrope;<br>
   Son toit était couvert d'ivoire luminescent,</li>
   <li>Ses portes à double battant diffractaient une lumière argentée:</li>
