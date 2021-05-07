@@ -23,7 +23,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-380.jpg 380w, 
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-480.jpg 480w, 
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg 700w"></picture><figcaption>Le Char du Soleil, conduit par Apollon, émerge d'Océan à l'aurore<br><q cite="#apollon">D'or en était l'essieu, d'or la flèche, d'or le tour des hautes roues, et d'argent l'ensemble des rayons</q></figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg 700w"></picture><figcaption>Le Char du Soleil, conduit par Apollon, émerge d'Océan à l'aurore<br><q cite="#apollon">D'or en était l'essieu, d'or la flèche, d'or le tour des hautes roues, et d'argent l'ensemble des rayons</q>, <cite>Les Métamorphoses</cite>, Livre <abbr title="deux">II</abbr>, vers 107 à 108 </figcaption>
 </figure>
 
 <div class="notices yellow">
@@ -280,7 +280,7 @@
   <li class="top-space">Le jeune homme s'entêta dans son projet: l'envie de ce char le brûlait.</li>
   <li value="105">Alors son père, après avoir temportisé autant qu'il lui était possible,</li>
   <li>Le conduisit vers le char majestueux, cadeau de Vulcain.</li>
-  <li>D'or en était l'essieu, d'or la flèche, d'or le tour</li>
+  <li value="107">D'or en était l'essieu, d'or la flèche, d'or le tour</li>
   <li>Des hautes roues, et d'argent l'ensemble des rayons;</li>
   <li>Des topazes et des pierreries régulièrement disposées sur tout l'attelage</li>
 
@@ -662,7 +662,7 @@
 </ol>
 
 <footer>
-  <p><span style="color: #df8a13;">Ovide, <cite>Les Métamorphoses</cite>, Livre <abbr title="deux">II</abbr>, vers 1 à 366</span></p>
+  <p><span style="color: #df8a13;">Ovide, <cite>Les Métamorphoses</cite>, Livre <abbr title="deux">II</abbr>, vers 1 à 366.</span></p>
 </footer>
 
 </article>
