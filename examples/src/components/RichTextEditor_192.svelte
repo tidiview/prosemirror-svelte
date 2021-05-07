@@ -23,7 +23,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-380.jpg 380w, 
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-480.jpg 480w, 
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg 700w"></picture><figcaption>The Chariot of the Sun, driven by Apollo, coming out of Ocean at dawn<br><q cite="#phaeton">It had an axle of gold, and a gold chariot pole, wheels with golden rims, and circles of silver spokes.</q>, <cite>The Metamorphoses</cite> Book <abbr title="two">II</abbr>, verse 106</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg 700w"></picture><figcaption>The Chariot of the Sun, driven by Apollo, coming out of Ocean at dawn<br><q cite="#phaeton">It had an axle of gold, and a gold chariot pole, wheels with golden rims, and circles of silver spokes.</q>, <cite>The Metamorphoses</cite> Book <abbr title="two">II</abbr>, verses 107 to 108.</figcaption>
 </figure>
 
 <div class="notices yellow">
@@ -205,7 +205,7 @@
 
   <li class="top-space">The warning ended, but <mark>Phaethon</mark> still rejected his words, and pressed his purpose, blazing with desire to drive the chariot.</li>
   <li value="105">So, as he had the right, his father led the youth to the high chariot, Vulcan’s work.</li>
-  <li>It had an axle of gold, and a gold chariot pole, wheels with golden rims, and circles of silver spokes.</li>
+  <li value="107">It had an axle of gold, and a gold chariot pole, wheels with golden rims, and circles of silver spokes.</li>
   <li value="110">Along the yoke chrysolites and gemstones, set in order, glowed with brilliance reflecting Phoebus’s own light.</li>
 
   <li class="top-space">Now while brave <mark>Phaethon</mark> is gazing in wonder at the workmanship, see, Aurora, awake in the glowing east, opens wide her bright doors, and her rose-filled courts.</li>
