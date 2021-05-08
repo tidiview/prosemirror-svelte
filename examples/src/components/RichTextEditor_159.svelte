@@ -606,7 +606,7 @@ que celui qui est peint, paraît beaucoup plus élevé que celui qui n'est point
   <p>Terme de géologie. Marbre noir, mêlé de taches blanches et jaunes, qu'on tire des Pyrénées et d'autres lieux.</p>
 </div>
 <footer>
-  <p class="puce">revenir au texte: <a href="#breche" title="brèche">Brèche ↩</a>  </p>
+  <p class="puce">revenir au texte: <a href="#breche" title="brèche">Brèche ↩</a></p>
 </footer>
 
 </aside>
