@@ -4,7 +4,7 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
+  const html = `<!-- JA:126 EN:189  -->
 <article>
 
 <hgroup>
@@ -39,7 +39,7 @@
 <h2 class="green">la place Vendôme au <abbr title="dix-septième">XVII<sup>ème</sup></abbr> siècle</h2>
 
 <div class="notices green">
-<p>La <a href="https://fr.wikipedia.org/wiki/Place_Vendôme" title="https://fr.wikipedia.org/wiki/Place_Vendôme">place Vendôme</a> a connu un visage très différent avant l'ouverture de la <a href="https://fr.wikipedia.org/wiki/Rue_de_Rivoli" title="https://fr.wikipedia.org/wiki/Rue_de_Rivoli">rue de Rivoli</a> (<time datetime="1801">1801</time>).</p>
+<p>La <a href="https://fr.wikipedia.org/wiki/Place_Vendôme" title="https://fr.wikipedia.org/wiki/Place_Vendôme">place Vendôme</a> a connu un visage très différent avant l'ouverture de la <a href="https://fr.wikipedia.org/wiki/Rue_de_Rivoli" title="https://fr.wikipedia.org/wiki/Rue_de_Rivoli">rue de Rivoli</a> en <time datetime="1801">1801</time>.</p>
 </div>
 
 <p>La place a d'abord été édifiée selon une forme carrée.<br>
@@ -47,8 +47,8 @@ Cette forme est jugée trop rigide; en <time datetime="1700">1700</time>, une pa
 <p>À regarder de près le <a href="https://fr.wikipedia.org/wiki/Plan_de_Turgot" title="https://fr.wikipedia.org/wiki/Plan_de_Turgot">plan de Turgot</a> de <time datetime="1734">1734</time>, la place apparaît bien plus calme:</p>
 
 <ul>
-  <li>côté <a href="https://fr.wikipedia.org/wiki/Jardin_des_Tuileries" title="https://fr.wikipedia.org/wiki/Jardin_des_Tuileries">Tuileries</a>, la <a href="https://fr.wikipedia.org/wiki/Rue_de_Castiglione" title="https://fr.wikipedia.org/wiki/Rue_de_Castiglione">rue de Castiglione</a> (<a href="#castiglione"><abbr title="figure">fig.</abbr> 1</a>),</li>
-  <li>côté <a href="https://fr.wikipedia.org/wiki/Opéra_de_Paris" title="https://fr.wikipedia.org/wiki/Opéra_de_Paris">Opéra</a>, la <a href="https://fr.wikipedia.org/wiki/Rue_de_la_Paix_(Paris)" title="https://fr.wikipedia.org/wiki/Rue_de_la_Paix_(Paris)">rue de la Paix</a> (<a href="#paix"><abbr title="figure">fig.</abbr> 2</a>),
+  <li>côté <a href="https://fr.wikipedia.org/wiki/Jardin_des_Tuileries" title="https://fr.wikipedia.org/wiki/Jardin_des_Tuileries">Tuileries</a>, la <a href="https://fr.wikipedia.org/wiki/Rue_de_Castiglione" title="https://fr.wikipedia.org/wiki/Rue_de_Castiglione">rue de Castiglione</a> (<a href="#castiglione"><abbr title="figure">fig.</abbr>&nbsp1</a>),</li>
+  <li>côté <a href="https://fr.wikipedia.org/wiki/Opéra_de_Paris" title="https://fr.wikipedia.org/wiki/Opéra_de_Paris">Opéra</a>, la <a href="https://fr.wikipedia.org/wiki/Rue_de_la_Paix_(Paris)" title="https://fr.wikipedia.org/wiki/Rue_de_la_Paix_(Paris)">rue de la Paix</a> (<a href="#paix"><abbr title="figure">fig.</abbr>&nbsp2</a>),
   n'ont pas encore été percées.</li>
 </ul>
 
@@ -73,14 +73,14 @@ Cette forme est jugée trop rigide; en <time datetime="1700">1700</time>, une pa
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-castiglione-focus-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-castiglione-focus-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-castiglione-focus-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-castiglione-focus_669x484.jpg 669w"></picture><figcaption><b>figure 1.</b> avant le percement de la rue Castiglione, l'accès depuis la rue Saint-Honoré (<time datetime="1734">1734</time>)</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-castiglione-focus_669x484.jpg 669w"></picture><figcaption><b>figure 1.</b> avant le percement de la rue Castiglione, l'accès depuis la rue Saint-Honoré en <time datetime="1734">1734</time>.</figcaption>
 </figure>
 
 <p>L'accès ne s'effectue que par:</p>
 
 <ul>
-  <li>la <a href="https://fr.wikipedia.org/wiki/Rue_Saint-Honoré" title="https://fr.wikipedia.org/wiki/Rue_Saint-Honoré">rue Saint-Honoré</a> côté <a href="https://fr.wikipedia.org/wiki/Jardin_des_Tuileries" title="https://fr.wikipedia.org/wiki/Jardin_des_Tuileries">Tuileries</a> (<a href="#castiglione"><abbr title="figure">fig.</abbr> 1</a>),</li>
-  <li>et la <a href="https://fr.wikipedia.org/wiki/Rue_des_Capucines_(Paris)" title="https://fr.wikipedia.org/wiki/Rue_des_Capucines_(Paris)">rue des Capucines</a> côté <a href="https://fr.wikipedia.org/wiki/Opéra_de_Paris" title="https://fr.wikipedia.org/wiki/Opéra_de_Paris">Opéra</a> (<a href="#paix"><abbr title="figure">fig.</abbr> 2</a>).</li>
+  <li>la <a href="https://fr.wikipedia.org/wiki/Rue_Saint-Honoré" title="https://fr.wikipedia.org/wiki/Rue_Saint-Honoré">rue Saint-Honoré</a> côté <a href="https://fr.wikipedia.org/wiki/Jardin_des_Tuileries" title="https://fr.wikipedia.org/wiki/Jardin_des_Tuileries">Tuileries</a> (<a href="#castiglione"><abbr title="figure">fig.</abbr>&nbsp1</a>),</li>
+  <li>et la <a href="https://fr.wikipedia.org/wiki/Rue_des_Capucines_(Paris)" title="https://fr.wikipedia.org/wiki/Rue_des_Capucines_(Paris)">rue des Capucines</a> côté <a href="https://fr.wikipedia.org/wiki/Opéra_de_Paris" title="https://fr.wikipedia.org/wiki/Opéra_de_Paris">Opéra</a> (<a href="#paix"><abbr title="figure">fig.</abbr>&nbsp2</a>).</li>
 </ul>
 
 <figure>
@@ -104,11 +104,11 @@ Cette forme est jugée trop rigide; en <time datetime="1700">1700</time>, une pa
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-paix-focus-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-paix-focus-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-paix-focus-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-paix-focus_700x447.jpg 700w"></picture><figcaption><b>figure 2.</b> avant le percement de la rue de la paix, l'accès depuis la rue des Capucines (<time datetime="1734">1734</time>)</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-paix-focus_700x447.jpg 700w"></picture><figcaption><b>figure 2.</b> avant le percement de la rue de la paix, l'accès depuis la rue des Capucines en <time datetime="1734">1734</time>.</figcaption>
 </figure>
 
 <p>Elle n'était donc pas traversante comme depuis le <abbr title="dix-neuvième">XIX<sup>ème</sup></abbr> siècle.  </p>
-<p>Côté <a href="https://fr.wikipedia.org/wiki/Opéra_de_Paris" title="https://fr.wikipedia.org/wiki/Opéra_de_Paris">Opéra</a>, à l'emplacement de l'actuelle <a href="https://fr.wikipedia.org/wiki/Rue_de_la_Paix_(Paris)" title="https://fr.wikipedia.org/wiki/Rue_de_la_Paix_(Paris)">rue de la Paix</a>, se trouvait le <a href="https://fr.wikipedia.org/wiki/Couvent_des_Capucines" title="https://fr.wikipedia.org/wiki/Couvent_des_Capucines">couvent des Capucines</a> (<a href="#couvent"><abbr title="figure">fig.</abbr> 3</a>).</p>
+<p>Côté <a href="https://fr.wikipedia.org/wiki/Opéra_de_Paris" title="https://fr.wikipedia.org/wiki/Opéra_de_Paris">Opéra</a>, à l'emplacement de l'actuelle <a href="https://fr.wikipedia.org/wiki/Rue_de_la_Paix_(Paris)" title="https://fr.wikipedia.org/wiki/Rue_de_la_Paix_(Paris)">rue de la Paix</a>, se trouvait le <a href="https://fr.wikipedia.org/wiki/Couvent_des_Capucines" title="https://fr.wikipedia.org/wiki/Couvent_des_Capucines">couvent des Capucines</a> (<a href="#couvent"><abbr title="figure">fig.</abbr>&nbsp3</a>).</p>
 
 <figure>
   <picture><source media="(min-width: 959px)" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -131,10 +131,10 @@ Cette forme est jugée trop rigide; en <time datetime="1700">1700</time>, une pa
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus_700x411.jpg 700w"></picture><figcaption><b>figure 3.</b> avant le percement de la rue de la paix, le second couvent des Capucines (<time datetime="1705">1705</time>)</figcaption></figure>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus_700x411.jpg 700w"></picture><figcaption><b>figure 3.</b> avant le percement de la rue de la paix, le second couvent des Capucines en <time datetime="1705">1705</time>.</figcaption></figure>
 
 <p><a href="https://fr.wikipedia.org/wiki/Madame_de_Pompadour" title="https://fr.wikipedia.org/wiki/Madame_de_Pompadour">Madame de Pompadour</a> a été enterrée, ainsi que sa mère et sa sœur, dans l'église.</p>
-<p>En face, côté <a href="https://fr.wikipedia.org/wiki/Jardin_des_Tuileries" title="https://fr.wikipedia.org/wiki/Jardin_des_Tuileries">Tuileries</a>, un autre portail, le portail du <a href="https://fr.wikipedia.org/wiki/Couvent_des_Feuillants" title="https://fr.wikipedia.org/wiki/Couvent_des_Feuillants">couvent des Feuillants</a> lui répondait (<a href="#feuillants"><abbr title="figure">fig.</abbr> 4</a>).</p>
+<p>En face, côté <a href="https://fr.wikipedia.org/wiki/Jardin_des_Tuileries" title="https://fr.wikipedia.org/wiki/Jardin_des_Tuileries">Tuileries</a>, un autre portail, le portail du <a href="https://fr.wikipedia.org/wiki/Couvent_des_Feuillants" title="https://fr.wikipedia.org/wiki/Couvent_des_Feuillants">couvent des Feuillants</a> lui répondait (<a href="#feuillants"><abbr title="figure">fig.</abbr>&nbsp4</a>).</p>
 
 <figure>
   <picture><source media="(min-width: 959px)" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -157,10 +157,10 @@ Cette forme est jugée trop rigide; en <time datetime="1700">1700</time>, une pa
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-feuillants-focus-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-feuillants-focus-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-feuillants-focus-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-feuillants-focus_700x438.jpg 700w"></picture><figcaption><b>figure 4.</b> avant le percement de la rue de Castiglione, le portail du couvent des Feuillants (<time datetime="1754">1754</time>)</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-feuillants-focus_700x438.jpg 700w"></picture><figcaption><b>figure 4.</b> avant le percement de la rue de Castiglione, le portail du couvent des Feuillants en <time datetime="1754">1754</time>.</figcaption>
 </figure>
 
-<p>Au centre de la place, se dresse, dès <time datetime="1699">1699</time>, la statue de <a href="https://fr.wikipedia.org/wiki/Louis_XIV" title="https://fr.wikipedia.org/wiki/Louis_XIV">Louis XIV</a> dite de « Louis Le Grand » (<a href="#statue"><abbr title="figure">fig.</abbr> 5</a>).</p>
+<p>Au centre de la place, se dresse, dès <time datetime="1699">1699</time>, la statue de <a href="https://fr.wikipedia.org/wiki/Louis_XIV" title="https://fr.wikipedia.org/wiki/Louis_XIV">Louis <abbr title="quatorze">XIV</abbr></a> dite de « Louis Le Grand » (<a href="#statue"><abbr title="figure">fig.</abbr>&nbsp5</a>).</p>
 <p>C'est une œuvre impressionnante de <a id="girardon" href="https://fr.wikipedia.org/wiki/François_Girardon" title="https://fr.wikipedia.org/wiki/François_Girardon">François GIRARDON</a> qui atteint, avec son piédestal, une hauteur de 17&nbspm de haut.</p>
 <p>La <a href="https://fr.wikipedia.org/wiki/Révolution_française" title="https://fr.wikipedia.org/wiki/Révolution_française">Révolution</a> la détruira mais un des énormes pieds du roi a survécu à la fonte et est exposé au Musée d'Histoire de la Ville de Paris, le <a href="https://fr.wikipedia.org/wiki/Musée_Carnavalet" title="https://fr.wikipedia.org/wiki/Musée_Carnavalet">Musée Carnavalet</a>.</p>
 
@@ -185,14 +185,14 @@ Cette forme est jugée trop rigide; en <time datetime="1700">1700</time>, une pa
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-statue-focus-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-statue-focus-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-statue-focus-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-statue-focus_700x875.jpg 700w"></picture><figcaption><b>figure 5.</b> au centre de la place, la statue de Louis Le Grand (<time datetime="1699">1699</time>)</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-statue-focus_700x875.jpg 700w"></picture><figcaption><b>figure 5.</b> au centre de la place, la statue de Louis Le Grand en <time datetime="1699">1699</time>.</figcaption>
 </figure>
 
 <aside>
 <h3 class="green">Note:</h3>
 <h4 class="green note">François GIRARDON, statue de Louis XIV dite de «Louis Le Grand»</h4>
 <div class="notices green">
-<p>Pour plus d'information sur l'œuvre de <a href="https://fr.wikipedia.org/wiki/François_Girardon" title="https://fr.wikipedia.org/wiki/François_Girardon">François GIRARDON</a>, consultez la <a href="http://www.louvre.fr/oeuvre-notices/louis-xiv-cheval" title="http://www.louvre.fr/oeuvre-notices/louis-xiv-cheval">notice de l'œuvre</a> sur le site du <a href="http://www.louvre.fr/oeuvre-notices/louis-xiv-cheval" title="http://www.louvre.fr/oeuvre-notices/louis-xiv-cheval">Musée du Louvre</a>.  </p>
+<p>Pour plus d'information sur l'œuvre de <a href="https://fr.wikipedia.org/wiki/François_Girardon" title="https://fr.wikipedia.org/wiki/François_Girardon">François GIRARDON</a>, consultez la <a href="http://www.louvre.fr/oeuvre-notices/louis-xiv-cheval" title="http://www.louvre.fr/oeuvre-notices/louis-xiv-cheval">notice de l'œuvre</a> sur le site du <a href="http://www.louvre.fr/oeuvre-notices/louis-xiv-cheval" title="http://www.louvre.fr/oeuvre-notices/louis-xiv-cheval">Musée du Louvre</a>.</p>
 </div>
 <footer>
   <p class="puce"><a href="#girardon">retour au texte: ↩</a></p>
