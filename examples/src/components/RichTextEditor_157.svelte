@@ -39,7 +39,7 @@
 <h2 class="green">La Joconde selon le texte de Théophile Gautier extrait du <cite>guide par les principaux écrivains et artistes de France</cite></h2>
 
 <p>Notre admiration et notre amour pour cette divine Monna Lisa del Giocondo ne datent pas d'hier, et bien des passions pour des êtres réels ont duré moins longtemps.</p>
-<p>Il y a une douzaine d'années que nous écrivions ces lignes un peu trop enthousiastes peut-être, mais qui rendent fidèlement notre impression:</p>
+<p>Il y a <time datetime="P12Y">une douzaine d'années</time> que nous écrivions ces lignes un peu trop enthousiastes peut-être, mais qui rendent fidèlement notre impression:</p>
 
 <p class="conversation">«La Joconde!</p>
 <p class="conversation"><span style="color: #3d8b3d;">Sphinx de beauté</span> qui souris si mystérieusement dans le cadre de Léonard de Vinci et sembles proposer à l'admiration des siècles une énigme qu'ils n'ont pas encore résolue, un attrait invincible ramène toujours vers toi!</p>
