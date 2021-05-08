@@ -73,7 +73,7 @@
 <h3 class="green">注釈：</h3>
 <h4 id="paris-guide" class="green note">出版名について</h4>
 
-<p><cite><ruby lang="ja" style="letter-spacing: 2px;color:#3d8b3d;">パリ<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">Paris</rt><rp>)</rp>・<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">&#160</rt><rp>)</rp>ギード<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">Guide</rt><rp>)</rp></ruby></cite>というニ巻の大著作はフランス政府が様々な専門家パリ<time datetime="1867">１８６７年</time>博覧会の開催を切っ掛けに依頼した解題作であります。</p>
+<p><cite><ruby lang="ja" style="letter-spacing: 2px;color:#3d8b3d;">パリ<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">Paris</rt><rp>)</rp>・<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">&#160</rt><rp>)</rp>ギード<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">Guide</rt><rp>)</rp></ruby></cite>というニ巻の大著作はフランス政府が様々な専門家たちにパリ<time datetime="1867">１８６７年</time>博覧会の開催を切っ掛けに依頼した解題作であります。</p>
 <p><a href="https://ja.wikipedia.org/wiki/アレクサンドル・デュマ・フィス" title="https://ja.wikipedia.org/wiki/アレクサンドル・デュマ・フィス">デュマ</a>、<a href="https://ja.wikipedia.org/wiki/シャルル＝オーギュスタン・サント＝ブーヴ" title="https://ja.wikipedia.org/wiki/シャルル＝オーギュスタン・サント＝ブーヴ">サント＝ブーヴ</a>、<a href="https://ja.wikipedia.org/wiki/ウジェーヌ・エマニュエル・ヴィオレ・ル・デュク" title="https://ja.wikipedia.org/wiki/ウジェーヌ・エマニュエル・ヴィオレ・ル・デュク">ヴィオレ・ル・デュク</a>、<a href="https://ja.wikipedia.org/wiki/ジョルジュ・サンド" title="https://ja.wikipedia.org/wiki/ジョルジュ・サンド">ジョルジュ・サンド</a>、<a href="https://ja.wikipedia.org/wiki/ナダール" title="https://ja.wikipedia.org/wiki/ナダール">ナダール</a>なども参加したフランスの主な作家と芸術家によって書かれて、その後、<time datetime="1882">１８８２年</time>、ゴーティエの死後、「ルーブル美術館での素人のガイドブック」題名で再板された。</p>
 
 <footer>
