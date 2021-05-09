@@ -4,7 +4,8 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
+  const html = `<!-- FR:155 JA:124  -->
+
 <article>
 
 <h1><cite>The Mona Lisa</cite> according to Giorgio Vasari</h1>
@@ -37,7 +38,7 @@
 <p>But moreover, it allows us to get what was making its value in the eyes of Vasari.</p>
 </div>
 
-<h2 id="vasari" class="yellow"><cite>The Mona Lisa</cite> according to text of Giogio Vasari, <cite>Lives of the Painters, Sculptors and Architects</cite></h2>
+<h2 id="vasari" class="yellow"><cite>The Mona Lisa</cite> according to text of Giorgio Vasari, <cite>Lives of the Painters, Sculptors and Architects</cite></h2>
 
 <p>Leonardo undertook to execute, for Francesco del Giocondo, the portrait of <mark>Mona Lisa</mark>, his wife, and after he had lingered over it for four years, he left it unfinished;
 “and the work is today in the possession of King Francis of France, at Fontainebleau.</p>
