@@ -4,7 +4,8 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
+  const html = `<!-- JA:124 EN:187  -->
+
 <article>
 
 <h1 class="green">La Joconde selon Giorgio Vasari</h1>
@@ -53,7 +54,7 @@ et l'on peut dire avec vérité que ce portrait étoit peint de manière à fair
 <p><span style="color: #3d8b3d;">Le sourire de celui-ci séduisoit au point qu’on l’eût jugé être de la main d’un dieu on étoit enfin frappé d’étonnement l’art ayant su lui donner la vie et rivaliser avec la nature</span>.</p>
 
 <footer>
-  <p><a href="https://fr.wikipedia.org/wiki/Giorgio_Vasari" title="https://fr.wikipedia.org/wiki/Giorgio_Vasari" class="green">Giorgio Vasari</a><span style="color: #3d8b3d;">, “Vies des peintres, sculpteurs et architectes les plus célèbres”, livre IV, Chez Boiste, <time datetime="1803">1803</time>, pages 27-28</span></p></article>
+  <p><a href="https://fr.wikipedia.org/wiki/Giorgio_Vasari" title="https://fr.wikipedia.org/wiki/Giorgio_Vasari" class="green">Giorgio Vasari</a><span style="color: #3d8b3d;">, “Vies des peintres, sculpteurs et architectes les plus célèbres”, livre IV, Chez Boiste, <time datetime="1803">1803</time>, pages 27 à 28</span></p></article>
 </footer>
 
 </article>
