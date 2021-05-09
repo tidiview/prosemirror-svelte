@@ -63,7 +63,7 @@ This work is now in the possession of King François of France at Fontainebleau.
 
 <article>
 
-<h2 id="vasari" class="yellow"><cite>The Mona Lisa</cite> according to text of Giorgio Vasari, <cite>Lives of the Painters, Sculptors and Architects</cite></h2>
+<h2 id="vasari" class="yellow"><cite>The Mona Lisa</cite> according to text of <time datetime="1568">1568</time> edition of Giorgio Vasari's <cite>Lives of the Painters, Sculptors and Architects</cite></h2>
 
 <p>Leonardo undertook to execute, for Francesco del Giocondo, the portrait of <mark>Mona Lisa</mark>, his wife, and after he had lingered over it for four years, he left it unfinished;
 “and the work is today in the possession of King Francis of France, at Fontainebleau.</p>
@@ -79,7 +79,7 @@ and indeed it may be said that it was painted in such a manner as to make every 
 <p><span style="color: #3d8b3d;">And in this work of Leonardo there was a smile so pleasing, that it was a thing more divine than human to behold, and it was held to be something marvelous, in that it was not other than alive</span>.</p>
 
 <footer>
-  <p><a href="https://en.wikipedia.org/wiki/Giorgio_Vasari" title="https://en.wikipedia.org/wiki/Giorgio_Vasari" class="green">Giorgio Vasari</a><span style="color: #3d8b3d;">, <cite>Lives of the Painters, Sculptors and Architects</cite>, book <abbr title="four">IV</abbr>.</span></p>
+  <p><a href="https://en.wikipedia.org/wiki/Giorgio_Vasari" title="https://en.wikipedia.org/wiki/Giorgio_Vasari" class="green">Giorgio Vasari</a><span style="color: #3d8b3d;">, <cite>Lives of the Painters, Sculptors and Architects</cite>, Book <abbr title="four">IV</abbr>.</span></p>
 </footer>
 
 </article>
