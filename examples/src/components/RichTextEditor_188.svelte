@@ -4,7 +4,8 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
+  const html = `<!-- FR:157 JA:125  -->
+
 <article>
 
 <h1 class="green">The Mona Lisa according to Theophile Gautier</h1>
