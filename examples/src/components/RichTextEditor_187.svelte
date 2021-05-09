@@ -38,6 +38,31 @@
 <p>But moreover, it allows us to get what was making its value in the eyes of Vasari.</p>
 </div>
 
+<article>
+
+<h2 class="yellow"><cite>The Mona Lisa</cite> according to text of <time datetime="1550">1550</time> edition of Giorgio Vasari's <cite>Lives of the Painters, Sculptors and Architects</cite></h2>
+
+<p>Leonardo da Vinci undertook the portrait of his wife <mark>Mona Lisa</mark> for Francesco del Giocondo.
+And after struggling for four years, he left it unfinished.
+This work is now in the possession of King François of France at Fontainebleau.</p>
+<p>In this head, whoever wanted to see how easily art knows how to imitate nature, <span style="color: #3d8b3d;">could easily understand it, for there was a counterfeit of all the finest details that could be painted with finesse.</span></p>
+<p>For the eyes had that luster, that water that one always sees in the living.</p>
+<p>And around them were all those bluish roses, the eyelashes, which cannot be done without the greatest finesse.</p>
+<p>The eyebrows, for having made there the way in which the hairs arise from the flesh, sometimes thicker, sometimes sparser, and the way in which they curve according to the pores of the skin. All this could not be more natural.</p>
+<p>The nose, with its beautiful openings, pink and tender, seemed to be alive.</p>
+<p>The mouth was that slit, with the limits united by the red of the lips to the incarnation of the face, which did not appear to be colour but truly flesh.</p>
+<p>In the hollow of the bosom, anyone who looked very carefully could see the pulse beating, and it can truly be said that this work was painted in such a way as to make any valiant artist tremble and fear.</p>
+<p>He used this artifice again, <span style="color: #3d8b3d;"><mark>Mona Lisa</mark> being very beautiful, that while he was portraying her, he had her played or sung and continually had recourse to jesters to keep her cheerful, in order to chase away the melancholy that painting is wont to give to portraits when they are made.</span>.</p>
+<p><span style="color: #3d8b3d;">And in Leonardo's was such a pleasant smile, that it was work more divine than human to see, and was held to be a marvel, for that which life does not present itself otherwise.</span></P>
+
+<footer>
+  <p><a href="https://en.wikipedia.org/wiki/Giorgio_Vasari" title="https://en.wikipedia.org/wiki/Giorgio_Vasari" class="green">Giorgio Vasari</a><span style="color: #3d8b3d;">, <cite>Lives of the Painters, Sculptors and Architects</cite>, Book <abbr title="two">II</abbr>, part 3, pages 570 to 571.</span></p>
+</footer>
+
+</article>
+
+<article>
+
 <h2 id="vasari" class="yellow"><cite>The Mona Lisa</cite> according to text of Giorgio Vasari, <cite>Lives of the Painters, Sculptors and Architects</cite></h2>
 
 <p>Leonardo undertook to execute, for Francesco del Giocondo, the portrait of <mark>Mona Lisa</mark>, his wife, and after he had lingered over it for four years, he left it unfinished;
@@ -51,11 +76,17 @@ and around them were the lashes and all those rosy and pearly tints that demand 
 <p>In the pit of the throat, if one gazed upon it intently, could be seen the beating of the pulse:
 and indeed it may be said that it was painted in such a manner as to make every brave artificer, be he who he may, tremble and lose courage.</p>
 <p>He employed also this device: <span style="color: #3d8b3d;"><mark>Mona Lisa</mark> being very beautiful, while he was painting her portrait, he retained those who played or sang, and continually jested, who would make her to remain merry, in order to take away that melancholy which painters are often wont to give to their portraits</span>.</p>
+<p><span style="color: #3d8b3d;">And in this work of Leonardo there was a smile so pleasing, that it was a thing more divine than human to behold, and it was held to be something marvelous, in that it was not other than alive</span>.</p>
 
 <footer>
-  <p><span style="color: #3d8b3d;">And in this work of Leonardo there was a smile so pleasing, that it was a thing more divine than human to behold, and it was held to be something marvelous, in that it was not other than alive</span>.</p>
   <p><a href="https://en.wikipedia.org/wiki/Giorgio_Vasari" title="https://en.wikipedia.org/wiki/Giorgio_Vasari" class="green">Giorgio Vasari</a><span style="color: #3d8b3d;">, <cite>Lives of the Painters, Sculptors and Architects</cite>, book <abbr title="four">IV</abbr>.</span></p>
 </footer>
+
+</article>
+
+<aside>
+  <p></p>
+</aside>
 
 </article>
 `;
