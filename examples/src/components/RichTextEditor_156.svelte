@@ -32,17 +32,17 @@
 </figure>
 
 <div class="notices green">
-<p>La description de <a href="https://fr.wikipedia.org/wiki/La_Joconde" title="https://fr.wikipedia.org/wiki/La_Joconde">la Joconde</a> que nous présentons ci-dessous a été écrite par <a href="https://fr.wikipedia.org/wiki/Giorgio_Vasari" title="https://fr.wikipedia.org/wiki/Giorgio_Vasari">Giorgio VASARI</a> et publiée à Florence en <time datetime="1550">1550</time>.</p>
-<p>Elle en est à ce jour à la fois la plus connue, la plus ancienne et la plus digne de foi.</p>
-<p>À ce titre, elle a influencé la plupart des descriptions ultérieures.</p>
-<p>Vasari décrit un tableau qu'il n'a pas lui-même vu car le tableau se trouve alors à Fontainebleau où Vasari ne se rendit jamais.</p>
-<p>La description nous renseigne sur la réputation de l'œuvre: elle a été exécutée à Florence en <time datetime="1503">1503</time>, <a href="https://fr.wikipedia.org/wiki/Léonard_de_Vinci" title="https://fr.wikipedia.org/wiki/Léonard_de_Vinci">Léonard de Vinci</a> y a travaillé pendant <time datetime="P4Y">4 ans</time>, elle représente l'épouse de Francesco Del Giocondo, désignée comme «M[ad]on[n]a Lisa», “Madame Lise”.</p>
-<p>Elle nous permet surtout de saisir ce qui en constituait la valeur aux yeux de Vasari.</p>
+<p>Les deux descriptions de <a href="https://fr.wikipedia.org/wiki/La_Joconde" title="https://fr.wikipedia.org/wiki/La_Joconde">la Joconde</a> que nous présentons ci-dessous a été écrite par <a href="https://fr.wikipedia.org/wiki/Giorgio_Vasari" title="https://fr.wikipedia.org/wiki/Giorgio_Vasari">Giorgio VASARI</a> et publiée à Florence en <time datetime="1550">1550</time> puis augmentée en <time datetime="1568">1568</time>.</p>
+<p>Elles sont à ce jour à la fois les plus connues, les plus anciennes et les plus dignes de foi.</p>
+<p>À ce titre, elles ont influencé la plupart des descriptions ultérieures.</p>
+<p>Vasari décrit une œuvre qu'il n'a pas lui-même vue car le tableau se trouve alors à Fontainebleau où il ne se rendit jamais.</p>
+<p>Les descriptions nous renseignent sur la réputation du portrait: il a été exécutée à Florence vers <time datetime="1503">1503</time>, <a href="https://fr.wikipedia.org/wiki/Léonard_de_Vinci" title="https://fr.wikipedia.org/wiki/Léonard_de_Vinci">Léonard de Vinci</a> y a travaillé pendant <time datetime="P4Y">4 ans</time>, il représente l'épouse de Francesco DEL GIOCONDO, désignée comme «M[ad]on[n]a Lisa», “Madame Lise”.</p>
+<p>Elles nous permettent surtout de saisir ce qui en constituait la valeur aux yeux de Vasari, en même temps que de mesurer les subtiles différences d'appréciation entre deux éditions que <time datetime="P18Y">18 années</time> séparent.</p>
 </div>
 
 <article>
 
-<h2 class="yellow"><cite>La Joconde</cite> selon le texte du livre <abbr title="quatre">IV</abbr> de l'édition de <time datetime="1550">1550</time> des <cite>Vies des peintres, sculpteurs et architectes les plus célèbres</cite></h2>
+<h2 class="yellow"><cite>La Joconde</cite> selon le texte du livre <abbr title="deux">II</abbr> de l'édition de <time datetime="1550">1550</time> des <cite>Vies des peintres, sculpteurs et architectes les plus célèbres</cite></h2>
 
 <p>Léonard De Vinci entreprit pour Francesco del Giocondo le portrait de Mona Lisa, son épouse. Et après y avoir peiné <time datetime="P4Y">quatre ans</time>, le laissa inachevé. Cet ouvrage est aujourd’hui chez le roi François de France à Fontainebleau.</p>
 <p>En cette tête, qui voulait voir <span style="color: #3d8b3d;">combien l’art sait aisément imiter la nature, le pouvait aisément comprendre, car s’y trouvait contrefait tous les plus petits détails que l’on pouvait peindre avec finesse.</span>.</p>
@@ -56,7 +56,7 @@ Et autour d’eux, étaient tous ces roses bleutés, les cils, qui ne se peuvent
 <p><span style="color: #3d8b3d;">Et en celui de Leonardo était un sourire si plaisant, que c’était œuvre à voir plus divine qu’humaine, et qu’elle était tenue pour merveille, pour ce que la vie, ne se présente pas autrement.</span>.</p>
 
 <footer>
-  <p><a href="https://fr.wikipedia.org/wiki/Giorgio_Vasari" title="https://fr.wikipedia.org/wiki/Giorgio_Vasari" class="green">Giorgio Vasari</a><span style="color: #3d8b3d;">, Édition de <time datetime="1550">1550</time> <cite>Vies des peintres, sculpteurs et architectes les plus célèbres</cite>, livre II, partie 3, pages <a href="https://gallica.bnf.fr/ark:/12148/bpt6k1232563/f18.item" title="https://gallica.bnf.fr/ark:/12148/bpt6k1232563/f18.item">570 à 571</a>, édition de <time datetime="1550">1550</time> dite la «Torrentiniana».</span></p>
+  <p><a href="https://fr.wikipedia.org/wiki/Giorgio_Vasari" title="https://fr.wikipedia.org/wiki/Giorgio_Vasari" class="green">Giorgio Vasari</a><span style="color: #3d8b3d;">, Édition de <time datetime="1550">1550</time> <cite>Vies des peintres, sculpteurs et architectes les plus célèbres</cite>, livre <abbr title="deux">II</abbr>, partie 3, pages <a href="https://gallica.bnf.fr/ark:/12148/bpt6k1232563/f18.item" title="https://gallica.bnf.fr/ark:/12148/bpt6k1232563/f18.item">570 à 571</a>, édition de <time datetime="1550">1550</time> dite la «Torrentiniana».</span></p>
 </footer>
 
 </article>
@@ -79,7 +79,7 @@ et l'on peut dire avec vérité que ce portrait étoit peint de manière à fair
 <p><span style="color: #3d8b3d;">Le sourire de celui-ci séduisoit au point qu’on l’eût jugé être de la main d’un dieu on étoit enfin frappé d’étonnement l’art ayant su lui donner la vie et rivaliser avec la nature</span>.</p>
 
 <footer>
-  <p><a href="https://fr.wikipedia.org/wiki/Giorgio_Vasari" title="https://fr.wikipedia.org/wiki/Giorgio_Vasari" class="green">Giorgio Vasari</a><span style="color: #3d8b3d;">, <cite>Vies des peintres, sculpteurs et architectes les plus célèbres</cite>, livre IV, Chez Boiste, <time datetime="1803">1803</time>, pages 27 à 28.</span></p>
+  <p><a href="https://fr.wikipedia.org/wiki/Giorgio_Vasari" title="https://fr.wikipedia.org/wiki/Giorgio_Vasari" class="green">Giorgio Vasari</a><span style="color: #3d8b3d;">, <cite>Vies des peintres, sculpteurs et architectes les plus célèbres</cite>, livre IV, Chez Boiste, <time datetime="1803">1803</time>, pages 27 à 28, édition de <time datetime="1568">1568</time> dite la «giuntina».</span></p>
 </footer>
 
 </article>
