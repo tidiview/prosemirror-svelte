@@ -4,7 +4,7 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `<!-- JA:124 EN:187  -->
+  const html = `<!-- JA:124 EN:187 -->
 
 <article>
 
@@ -40,11 +40,36 @@
 <p>Elle nous permet surtout de saisir ce qui en constituait la valeur aux yeux de Vasari.</p>
 </div>
 
-<p>Ensuite il commença pour François del Giocondo le portrait de Mona Lisa sa femme, auquel il travailla pendant quatre ans, le laissant imparfait.</p>
-<p>Ce tableau appartient aujourd hui à François Ier et est placé à Fontainebleau.</p>
+<article>
+
+<h2 class="yellow"><cite>La Joconde</cite> selon le texte du livre <abbr title="quatre">IV</abbr> de l'édition de <time datetime="1550">1550</time> des <cite>Vies des peintres, sculpteurs et architectes les plus célèbres</cite></h2>
+
+<p>Léonard De Vinci entreprit pour Francesco del Giocondo le portrait de Mona Lisa, son épouse. Et après y avoir peiné <time datetime="P4Y">quatre ans</time>, le laissa inachevé. Cet ouvrage est aujourd’hui chez le roi François de France à Fontainebleau.</p>
+<p>En cette tête, qui voulait voir <span style="color: #3d8b3d;">combien l’art sait aisément imiter la nature, le pouvait aisément comprendre, car s’y trouvait contrefait tous les plus petits détails que l’on pouvait peindre avec finesse.</span>.</p>
+<p>Car les yeux avaient ce lustre, cette eau que l’on voit toujours chez les vivants.
+Et autour d’eux, étaient tous ces roses bleutés, les cils, qui ne se peuvent faire sans la plus grande finesse.</p>
+<p>Les sourcils, pour y avoir fait la manière dont les poils naissent de la chair, tantôt plus épais, tantôt plus rare, et celle dont ils se courbent selon les pores de la peau. Tout cela ne pouvait être plus naturel.</p>
+<p>Le nez, aux belles ouvertures, rose et tendre, semblait être vivant.</p>
+<p>La bouche était cette fente aux limites unies par le rouge des lèvres à l’incarnat du visage qui ne paraissait point couleur mais véritablement chair.</p>
+<p>Au creux de la gorge, quiconque regardait très attentivement voyait battre le pouls et l’on peut dire en vérité que cette œuvre fut peinte de manière à faire trembler et craindre tout valeureux artiste, quel qu’il fut.</p>
+<p>Il usa de cet artifice encore, Mona Lisa étant fort belle, que tandis qu’il la portraiyais, <span style="color: #3d8b3d;">il faisait jouer ou chanter et avait continuel recours à des bouffons qu’ils la fissent demeurer gaie, afin de chasser la mélancolie que la peinture a coutume de donner aux portaits lorsqu’on les fait.</span>.</p>
+<p><span style="color: #3d8b3d;">Et en celui de Leonardo était un sourire si plaisant, que c’était œuvre à voir plus divine qu’humaine, et qu’elle était tenue pour merveille, pour ce que la vie, ne se présente pas autrement.</span>.</p>
+
+<footer>
+  <p><a href="https://fr.wikipedia.org/wiki/Giorgio_Vasari" title="https://fr.wikipedia.org/wiki/Giorgio_Vasari" class="green">Giorgio Vasari</a><span style="color: #3d8b3d;">, Édition de <time datetime="1550">1550</time> <cite>Vies des peintres, sculpteurs et architectes les plus célèbres</cite>, livre II, partie 3, pages <a href="https://gallica.bnf.fr/ark:/12148/bpt6k1232563/f18.item" title="https://gallica.bnf.fr/ark:/12148/bpt6k1232563/f18.item">570 à 571</a>, édition de <time datetime="1550">1550</time> dite la «Torrentiniana».</span></p>
+</footer>
+
+</article>
+
+<article>
+
+<h2 id="vasari" class="yellow"><cite>La Joconde</cite> selon le texte du livre <abbr title="quatre">IV</abbr> de l'édition de <time datetime="1568">1568</time> des <cite>Vies des peintres, sculpteurs et architectes les plus célèbres</cite></h2>
+
+<p>Ensuite il commença pour François del Giocondo le portrait de Mona Lisa sa femme, auquel il travailla pendant <time datetime="P4Y">quatre ans</time>, le laissant imparfait.</p>
+<p>Ce tableau appartient aujourd hui à François <abbr title="premier">I<sup>er</sup></abbr> et est placé à Fontainebleau.</p>
 <p>Celui qui désiroit se convaincre <span style="color: #3d8b3d;">jusqu'à quel point l'art peut imiter la nature, le pouvoit d'autant plus, que les moindres choses sont rendues dans cette tête avec la plus grande finesse</span>.</p>
 <p>Les yeux avoient ce brillant, cette humidité qui existent sans cesse dans la nature,
-et étoient entourés de ces rouges pâles, et des paupières qui ne peuvent s'exécuter qu'avec une très-grande subtilité.</p>
+et étoient entourés de ces rouges pâles, et des paupières qui ne peuvent s'exécuter qu'avec une très grande subtilité.</p>
 <p>On voyoit la manière dont naissent les sourcils dans la chair, qui tantôt plus épais, tantôt plus clairs, tournoient selon les pores qu'indique la nature.</p>
 <p>Le nez étroit n'étoit pas moins bien rendu, et toutes ces belles ouvertures rougeâtres et délicates.</p>
 <p>La bouche vermeille et ses extrémités se fondoient tellement avec la carnation du visage, que l'on croyoit plutôt y voir la chair que la couleur.</p>
@@ -54,8 +79,14 @@ et l'on peut dire avec vérité que ce portrait étoit peint de manière à fair
 <p><span style="color: #3d8b3d;">Le sourire de celui-ci séduisoit au point qu’on l’eût jugé être de la main d’un dieu on étoit enfin frappé d’étonnement l’art ayant su lui donner la vie et rivaliser avec la nature</span>.</p>
 
 <footer>
-  <p><a href="https://fr.wikipedia.org/wiki/Giorgio_Vasari" title="https://fr.wikipedia.org/wiki/Giorgio_Vasari" class="green">Giorgio Vasari</a><span style="color: #3d8b3d;">, “Vies des peintres, sculpteurs et architectes les plus célèbres”, livre IV, Chez Boiste, <time datetime="1803">1803</time>, pages 27 à 28</span></p></article>
+  <p><a href="https://fr.wikipedia.org/wiki/Giorgio_Vasari" title="https://fr.wikipedia.org/wiki/Giorgio_Vasari" class="green">Giorgio Vasari</a><span style="color: #3d8b3d;">, <cite>Vies des peintres, sculpteurs et architectes les plus célèbres</cite>, livre IV, Chez Boiste, <time datetime="1803">1803</time>, pages 27 à 28.</span></p>
 </footer>
+
+</article>
+
+<aside>
+  <p></p>
+</aside>
 
 </article>
 `;
