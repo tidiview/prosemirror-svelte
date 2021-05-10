@@ -10,6 +10,8 @@
 
 <p><time datetime="2020-02-11">11 Fév. 2020</time></p>
 
+<h1 class="green">rencontre du roi Chilpéric et Priscus selon Grégoire de Tours</h1>
+
 <div class="notices green">
 <p>Cet extrait du chapître 5 du Livre <abbr title="sixième">VI</abbr> de l' <cite>Histoire des Francs</cite> de <a href="https://fr.wikipedia.org/wiki/Grégoire_de_Tours" title="https://fr.wikipedia.org/wiki/Grégoire_de_Tours">Grégoire de Tours</a> relate la rencontre du roi <a href="https://fr.wikipedia.org/wiki/Chilpéric_Ier_(roi_des_Francs)" title="https://fr.wikipedia.org/wiki/Chilpéric_Ier_(roi_des_Francs)">Chilpéric</a> et d'un de ses sujets de religion juive nommé Priscus telle qu'en a été témoin l'auteur. </p>
 </div>
@@ -54,7 +56,7 @@
 <p class="conversation">Écoute donc ton prophète dire que Dieu devait devenir homme:</p>
 <p class="conversation"><a href="#note_ecoute" title="Dieu devait devenir homme" id="ecoute" class="green">“Il est à la fois Dieu et homme, et qui l'a connu?”</a></p>
 <p class="conversation">Il dit ailleurs:</p>
-<p class="conversation"><a href="#note_luinotredieu" title="Dieu devait devenir homme" id="luinotredieu" class="green">“C'est lui qui est notre Dieu et l'on n'en reconnaîtra pas d'autre que lui;</a></p>
+<p class="conversation"><a href="#note_luinotredieu" title="C'est lui qui est notre Dieu" id="luinotredieu" class="green">“C'est lui qui est notre Dieu et l'on n'en reconnaîtra pas d'autre que lui;</a></p>
 <p class="conversation"><a href="#note_luinotredieu" title="Dieu devait devenir homme" class="green">il a trouvé tout le chemin de la science et il l'a donnée à Jacob son serviteur et à Israël son bien-aimé.</a></p>
 <p class="conversation"><a href="#note_luinotredieu" title="Dieu devait devenir homme" class="green">Après cela il a apparu sur la terre et il a conversé avec les hommes”</a>.</p>
 <p class="conversation">Quant à sa naissance d'une vierge, écoute également ce que dit ton prophète:</p>
@@ -65,7 +67,7 @@
 <p class="conversation"><a href="#note_fiel" title="Ils m'ont donné pour ma nourriture du fiel et dans ma soif ils m'ont abreuvé de vinaigre" id="fiel" class="green">“Ils m'ont donné pour ma nourriture du fiel et dans ma soif ils m'ont abreuvé de vinaigre”</a>.</p>
 <p class="conversation">Et c'est le même David qui a déclaré qu'il a ramené dans son royaume par le gibet même de la croix le monde déchu et soumis à la domination du diable:</p>
 <p class="conversation"><a href="#note_parlebois" title="Le Seigneur a régné par le bois" id="parlebois" class="green">“Le Seigneur, dit-il, a régné par le bois.</a></p>
-<p class="conversation"><a href="#note_parlebois" title="Le Seigneur a régné par le bois" id="parlebois" class="green">Non pas qu'il ne régnât pas auparavant chez le Père, mais il a reçu un nouveau royaume pour régner sur le peuple qu'il avait délivré de l'esclavage du diable”»</a>.</span></p>
+<p class="conversation"><a href="#note_parlebois" title="Le Seigneur a régné par le bois" class="green">Non pas qu'il ne régnât pas auparavant chez le Père, mais il a reçu un nouveau royaume pour régner sur le peuple qu'il avait délivré de l'esclavage du diable”»</a>.</span></p>
 <p>À cela le <span style="color: #3d638a;">Juif</span> répliqua:</p>
 <p class="conversation"><span style="color: #3d638a;">«Quel besoin Dieu avait-il de souffrir toutes ces choses?».</span></p>
 <p><span style="color: #503d8a;">Je</span> lui répondis:</p>
@@ -100,7 +102,7 @@ Qui a raconté son origine?</p>
 <p>Alors devant son silence le <span style="color: #3d778a;">roi</span> qui voyait qu'<span style="color: #3d638a;">il</span> n'avait pas été touché par ces sermons, se tourne vers <span style="color: #503d8a;">moi</span> et demande à prendre congé après avoir reçu une bénédiction.</p>
 <p><span style="color: #3d778a;">Il</span> s'exprima ainsi:</p>
 <p class="conversation"><span style="color: #3d778a;">«Je te dirai, ô évêque, ce que Jacob a dit à l'ange qui lui parlait:</p>
-<p class="conversation"><a href="#note_benir" title="J'ai le pouvoir de quitter la vie..." id="benir" class="green">“Je ne te laisserai pas partir si tu ne me bénis pas”</a>.</p>
+<p class="conversation"><a href="#note_benir" title="Je ne te laisserai pas partir si tu ne me bénis pas" id="benir" class="green">“Je ne te laisserai pas partir si tu ne me bénis pas”</a>.</p>
 <p>Et en disant ces mots, il se fait présenter de l'eau pour les mains.</span></p>
 <p>Les ablutions achevées, la prière faite, on reçut du pain, puis ayant rendu grâce à Dieu, <span style="color: #503d8a;">j</span>'en pris moi-même et en offris au <span style="color: #3d778a;">roi</span>, et après avoir bu du vin pur, nous nous séparâmes en nous disant adieu.</p>
 <p>Ensuite le <span style="color: #3d778a;">roi</span>, étant monté à cheval, rentra à Paris avec sa femme et sa fille ainsi que toute sa suite.</p>
@@ -127,7 +129,7 @@ Qui a raconté son origine?</p>
 
 <h4 id="note_engendre" class="green note">je t'ai enfanté de mon sein avant l'aurore</h4>
 <div class="notices green">
-  <p>Cette citation est un emprunt fait à la traduction par la Vulgate du Psaume <abbr title="cinquante-neuf">CIX</abbr>, 3 qui n’existe pas dans le texte original hébreu.</p>
+  <p>Cette citation est un emprunt fait à la traduction par la Vulgate du Psaume <abbr title="cent-neuf">CIX</abbr>, 3 qui n’existe pas dans le texte original hébreu.</p>
 </div>
 <footer>
   <p class="puce"><a href="#engendre" title="Je t'ai enfanté de mon sein avant l'aurore">retour au texte ↩</a></p>
@@ -135,7 +137,7 @@ Qui a raconté son origine?</p>
 
 <h4 id="note_verbe" class="green note">Il a envoyé son Verbe et il les a guéris</h4>
 <div class="notices green">
-  <p>Livre des Psaumes, <abbr title="cinquante-sept">CVII</abbr>, verset 20.</p>
+  <p>Livre des Psaumes, <abbr title="cent-sept">CVII</abbr>, verset 20.</p>
   <p id="20" class="single-li">il envoie sa parole, il les guérit, il arrache leur vie à la fosse.</p>
 </div>
 <footer>
@@ -153,7 +155,7 @@ Qui a raconté son origine?</p>
 
 <h4 id="note_ecoute" class="green note">dieu devait devenir homme</h4>
 <div class="notices green">
-  <p>R. Buchner (“Zehn Bacher Geschichten”, <abbr title="deux">II</abbr>, <abbr title="page">p.</abbr>&nbsp10, note 1, rapproche cette allusion d'un verset de Jérémie (chapître <abbr title="dix-sept">XVII</abbr>, verset 9) que Grégoire aurait emprunté à un texte autre que celui de la Vulgate.</p>
+  <p><abbr title="Rudolf">R.</abbr Buchner, “Zehn Bacher Geschichten”, <abbr title="deux">II</abbr>, <abbr title="page">p.</abbr>&nbsp10, note 1, rapproche cette allusion d'un verset de Jérémie, chapître <abbr title="dix-sept">XVII</abbr>, verset 9, que Grégoire aurait emprunté à un texte autre que celui de la Vulgate.</p>
   <p>verset de Jérémie <abbr title="dix-sept">XVII</abbr>, verset 9:</p>
   <p id="9" class="single-li">“Rien n’est plus faux que le cœur de l’homme, il est incurable. Qui peut le connaître?”.</p>
 </div>
@@ -244,7 +246,7 @@ Qui a raconté son origine?</p>
 <h4 id="note_lionceau" class="green note">les fils de ton père t'adoreront, lionceau Juda</h4>
 <div class="notices green">
   <p>Grégoire de Tours s'inspire dans sa réplique de la Génèse sans reproduire littéralement le texte.</p>
-  <p>Génèse, chapître <abbr title="quarante-quatre">XLIX</abbr>, versets 8 à 12:</p>
+  <p>Génèse, chapître <abbr title="quarante-quatre">XLIX</abbr>, versets 8 à 10:</p>
   <ol class="doc">
     <li value="8">Juda, à toi, tes frères rendront hommage, ta main fera plier la nuque de tes ennemis et les fils de ton père se prosterneront devant toi.</li>
     <li value="9">Juda est un jeune lion. Tu remontes du carnage, mon fils. Il s’est accroupi, il s’est couché comme un lion ; ce fauve, qui le fera lever?</li>
@@ -280,14 +282,17 @@ Qui a raconté son origine?</p>
 <div class="notices green">
   <p>Génèse, chapître <abbr title="trente-deux">XXXII</abbr>,  versets 25 à 27:</p>
   <ol class="doc">
-    <li value="25"> Jacob resta seul. Or, quelqu’un lutta avec lui jusqu’au lever de l’aurore.</p>
+    <li value="25">Jacob resta seul. Or, quelqu’un lutta avec lui jusqu’au lever de l’aurore.</li>
     <li value="26">L’homme, voyant qu’il ne pouvait rien contre lui, le frappa au creux de la hanche, et la hanche de Jacob se démit pendant ce combat.</li>
-    <li value="27">L’homme dit:<p class="conversation">«Lâche-moi, car l’aurore s’est levée.»</p>Jacob répondit:<p class="conversation">«Je ne te lâcherai que si tu me bénis».”</p>
+    <li value="27">L’homme dit:
+      <p class="conversation">«Lâche-moi, car l’aurore s’est levée.»</p>
+      <p>Jacob répondit:</p>
+      <p class="conversation">«Je ne te lâcherai que si tu me bénis».”</p>
     </li>
   </ol>
 </div>
 <footer>
-  <p class="puce"><a href="#benir" title="J'ai le pouvoir de quitter la vie">retour au texte ↩</a></p>
+  <p class="puce"><a href="#benir" title="Je ne te laisserai pas partir si tu ne me bénis pas">retour au texte ↩</a></p>
 </footer>
 
 </aside>
