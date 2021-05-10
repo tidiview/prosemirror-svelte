@@ -5,6 +5,7 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
+  
 <article>
 
 <p><time datetime="2019-09-11">11 Sep. 2019</time></p>
@@ -33,7 +34,7 @@ trente-trois éditions du vivant de Fontenelle!</p>
 <p>Il s'agit de promouvoir la philosophie mécaniste de Descartes, l'Opéra étant alors essentiellement un spectacle à «machines» (c'est ainsi qu’on désignait les moyens mécaniques par lesquels étaient produits, au théâtre ou à l'opéra, les effets qui donnant aux spectateurs l'illusion du merveilleux. Mais dévoiler les «machines de l'Opéra», c'est aussi pour Fontenelle désacraliser l'univers et démystifier une textualité antérieure (Aristote, Platon...).</p>
 </div>
 
-<h2 class="red">Extrait du premier chapître: «premier soir»</h2>
+<h2 class="red">Texte extrait du premier chapître «premier soir»</h2>
 
 <p>Ainsi les vrais philosophes passent leur vie à ne point croire ce qu'ils voient, et à tâcher de deviner ce qu'ils ne voient point, et cette condition n'est pas, ce me semble, trop à envier.</p>
 <p>Sur cela je me figure toujours que la nature est un grand spectacle qui ressemble à celui de l'<a id="renvoi-opera" href="#opera" title="#opera">Opéra</a>.</p>
@@ -61,7 +62,13 @@ Vous voyez bien que ce machiniste-là est assez fait comme les philosophes.</p>
 <p>Et moi, répliqua-t'elle, je l'en estime beaucoup plus, depuis que je sais qu'il ressemble à une montre.</p>
 <p>Il est surprenant que l'ordre de la nature, tout admirable qu'il est, ne roule que sur des choses si simples.</p>
 
+<footer>
+  <p>Fontenelle, premier soir du chapître 1 des <cite>Entretiens sur la pluralité des mondes</cite>, page 20.</p>
+  <p class="puce">consulter l'édition originale de <time datetime="1686">1686</time> sur <a href="https://gallica.bnf.fr/ark:/12148/btv1b86207579/f60.item">Gallica</a>.</p>
+</footer>
+
 <aside>
+
   <h3 class="yellow">Notes:</h3>
 
   <h4 id="opera" class="yellow note">Opéra</h4>
@@ -83,10 +90,6 @@ Vous voyez bien que ce machiniste-là est assez fait comme les philosophes.</p>
   <footer>
 
 </aside>
-
-<footer>
-<p>[source: édition originale de <time datetime="1686">1686</time>, consultable sur <a href="https://gallica.bnf.fr/ark:/12148/btv1b86207579/f60.item">Gallica</a>, page 20]</p>
-</footer>
 
 </article>
 `;
