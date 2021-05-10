@@ -4,7 +4,8 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
+  const html = `<!-- JA:121 EN:184 -->
+
 <article>
 
 <p><time datetime="2020-02-11">11 Fév. 2020</time></p>
@@ -21,7 +22,7 @@
 <p>Passionnant!</p>
 </div>
 
-<h2 class="green">rencontre de Chilpéric et Priscus</h2>
+<h2 class="green">texte de la rencontre de Chilpéric et Priscus</h2>
 
 <p><span style="color: #3d8b3d;">chapître 5</span></p>
 <p>Alors le roi <mark>Chilperic</mark>, qui séjournait encore dans la <a href="#note_villa" title="villa" id="villa" class="green">susdite villa</a>, ordonne de mettre en mouvement ses équipages et se dispose à venir à Paris.</p>
@@ -33,8 +34,8 @@
 <p>À ces mots le <span style="color: #3d638a;">Juif</span> s'écria:</p>
 <p class="conversation"><span style="color: #3d638a;">«Dieu n'a pas contracté mariage, il n'est pas chargé de postérité et il ne souffre pas que personne partage son royaume, lui qui dit par la bouche de Moïse:</p>
 <p class="conversation"><a href="#note_deuteronome" title="Deuteronome, XXXII, 39" id="deuteronome" class="green">“Voyez, voyez, je suis le Seigneur et en dehors de moi il n'y a pas de Dieu.</a></p>
-<p class="conversation"><a href="#note_deuteronome" title="Deuteronome, XXXII, 39" id="deuteronome" class="green">C'est moi qui tuerai et qui ferai vivre;</a></p>
-<p class="conversation"><a href="#note_deuteronome" title="Deuteronome, XXXII, 39" id="deuteronome" class="green">je frapperai et c'est moi qui guérirai”</span></a>.</p>
+<p class="conversation"><a href="#note_deuteronome" title="Deuteronome, XXXII, 39" class="green">C'est moi qui tuerai et qui ferai vivre;</a></p>
+<p class="conversation"><a href="#note_deuteronome" title="Deuteronome, XXXII, 39" class="green">je frapperai et c'est moi qui guérirai”</span></a>.</p>
 <p>À cela le <span style="color: #3d778a;">roi</span> répliqua:</p>
 <p class="conversation"><span style="color: #3d778a;">«Dieu a enfanté de son sein spirituel un fils éternel qui n'est ni plus jeune d'âge que lui, ni moindre en puissance.</p>
 <p class="conversation">C'est de lui qu'il a dit lui-même:</p>
