@@ -28,15 +28,15 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1920.jpg 1920w" id="joconde_selon_vasari"></picture><figcaption>Portrait de Lisa Gherardini, épouse de Francesco del Giocondo, dite «Monna Lisa, la Gioconda» ou «la Joconde»</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1920.jpg 1920w" id="joconde_selon_vasari"></picture><figcaption>Portrait de Lisa Gherardini, épouse de Francesco del Giocondo, dite «Monna Lisa, la Gioconda» de l'italien ou «la Joconde» du français.</figcaption>
 </figure>
 
 <div class="notices green">
-<p>Les deux descriptions de <a href="https://fr.wikipedia.org/wiki/La_Joconde" title="https://fr.wikipedia.org/wiki/La_Joconde">la Joconde</a> que nous présentons ci-dessous a été écrite par <a href="https://fr.wikipedia.org/wiki/Giorgio_Vasari" title="https://fr.wikipedia.org/wiki/Giorgio_Vasari">Giorgio VASARI</a> et publiée à Florence en <time datetime="1550">1550</time> puis augmentée en <time datetime="1568">1568</time>.</p>
+<p>Les deux descriptions de <a href="https://fr.wikipedia.org/wiki/La_Joconde" title="https://fr.wikipedia.org/wiki/La_Joconde">la Joconde</a> que nous présentons ci-dessous a été écrite par <a href="https://fr.wikipedia.org/wiki/Giorgio_Vasari" title="https://fr.wikipedia.org/wiki/Giorgio_Vasari">Giorgio Vasari</a> et publiée à Florence en <time datetime="1550">1550</time> puis augmentée en <time datetime="1568">1568</time>.</p>
 <p>Elles sont à ce jour à la fois les plus connues, les plus anciennes et les plus dignes de foi.</p>
 <p>À ce titre, elles ont influencé la plupart des descriptions ultérieures.</p>
 <p>Vasari décrit une œuvre qu'il n'a pas lui-même vue car le tableau se trouve alors à Fontainebleau où il ne se rendit jamais.</p>
-<p>Les descriptions nous renseignent sur la réputation du portrait: il a été exécutée à Florence vers <time datetime="1503">1503</time>, <a href="https://fr.wikipedia.org/wiki/Léonard_de_Vinci" title="https://fr.wikipedia.org/wiki/Léonard_de_Vinci">Léonard de Vinci</a> y a travaillé pendant <time datetime="P4Y">4 ans</time>, il représente l'épouse de Francesco DEL GIOCONDO, désignée comme «M[ad]on[n]a Lisa», “Madame Lise”.</p>
+<p>Les descriptions nous renseignent sur la réputation du portrait: il a été exécutée à Florence vers <time datetime="1503">1503</time>, <a href="https://fr.wikipedia.org/wiki/Léonard_de_Vinci" title="https://fr.wikipedia.org/wiki/Léonard_de_Vinci">Léonard de Vinci</a> y a travaillé pendant <time datetime="P4Y">quatre ans</time>, il représente l'épouse de Francesco Del Giocondo, désignée comme «M[ad]on[n]a Lisa», “Madame Lise”.</p>
 <p>Elles nous permettent surtout de saisir ce qui en constituait la valeur aux yeux de Vasari, en même temps que de mesurer les subtiles différences d'appréciation entre deux éditions que <time datetime="P18Y">18 années</time> séparent.</p>
 </div>
 
