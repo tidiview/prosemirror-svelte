@@ -4,10 +4,9 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
-<article>
+  const html = `<!-- Page 1 FR:176 ANG:207 -->
 
-<!-- Page 1 FR:176 ANG:207 -->
+<article>
 
 <hgroup>
   <h1 class="yellow"><cite><ruby lang="ja" style="color:#555;">洗礼者<wbr>ヨハネと<wbr>福音書記者<wbr>ヨハネの<wbr>三連画<rp>（</rp><rt lang="nl" style="color:#999;">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>）</rp></ruby></cite></h1>
