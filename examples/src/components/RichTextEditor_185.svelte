@@ -126,7 +126,7 @@
 </div>
 
 <footer>
-  <p>Extract from Plato, <cite>Banquet</cite>, from paragraphs 203a to 203e.</p>
+  <p>Plato, <cite>Banquet</cite>, paragraphs 203a to 203e.</p>
   <p><time datetime="P2M">2 min</time>.</p>
 </footer>
 
