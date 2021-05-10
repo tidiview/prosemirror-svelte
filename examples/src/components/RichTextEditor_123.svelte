@@ -97,8 +97,8 @@
 </ol>
 
 <footer>
-  <p><ruby lang="ja">マリヴォー<rp>（</rp><rt lang="fr">Marivaux</rt><rp>）</rp></ruby>、<cite><ruby lang="ja">奴隷の島<rp>（</rp><rt lang="fr">L'île&#160aux&#160esclaves</rt><rp>）</rp></ruby></cite>、第二場、１１項</p>
-  <p>［劇作文書は一幕構成です］</p>
+  <p><ruby lang="ja">マリヴォー<rp>（</rp><rt lang="fr">Marivaux</rt><rp>）</rp></ruby>、<cite><ruby lang="ja">奴隷の島<rp>（</rp><rt lang="fr">L'île&#160aux&#160esclaves</rt><rp>）</rp></ruby></cite>、第二場、１１項。</p>
+  <p>［劇作文書は一幕構成です。］</p>
 </footer>
 
 </article>
