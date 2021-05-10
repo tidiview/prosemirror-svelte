@@ -4,7 +4,8 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
+  const html = `<!-- FR:152 JA:121 -->
+
 <article>
 
 <p><time datetime="2018-08-07">7<sup>th</sup> Aug. 2018</time></p>
