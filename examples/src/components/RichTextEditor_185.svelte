@@ -4,13 +4,13 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
+  const html = `<!-- FR:151 JA:112 -->
+
 <article>
 
-<p><time datetime="2020-02-12">12<sup>th</sup> Feb. 2020</time></p>
+<p><time datetime="2020-02-12">2020 <abbr title="february">Feb.</abbr> <abbr title="the twelveth">12<sup>th</sup></abbr></time></p>
 
-
-<h1 class="blue"><a href="/blog/en/diotime/page:1">Love according to Diotime</a></h1>
+<h1 class="blue">Love according to Diotime</h1>
 
 <div class="notices blue">
   <p>In Plato's <cite>Banquet</cite>, a few people gathered for a social gathering exchange views on the meaning of <ruby lang="fr">love<rp>(</rp><rt lang="grc">Érôs</rt><rp>)</rp></ruby>.</p>
@@ -124,7 +124,6 @@
   </tbody>
   </table>
 </div>
-
 
 <footer>
   <p>Extract from Plato, <cite>Banquet</cite>, from paragraphs 203a to 203e.</p>
