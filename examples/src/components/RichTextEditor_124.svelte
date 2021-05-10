@@ -27,7 +27,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1920.jpg 1920w" id="la_joconde_selon_vasari"></picture><figcaption>フランス語で「<ruby lang="ja">ラ<rp>（</rp><rt lang="fr">La</rt><rp>）</rp>・<rp>（</rp><rt lang="fr">&#160;</rt><rp>）</rp>ジョコンデュ<rp>（</rp><rt lang="it">Joconde</rt><rp>）</rp></ruby>」やイタリア語で「ジョコンダ婦人、モナ・リザ」と言われている<ruby lang="ja">フランテスコ<rp>（</rp><rt lang="it">Francesco</rt><rp>）</rp>・<rp>（</rp><rt lang="it">&#160;</rt><rp>）</rp>デル<rp>（</rp><rt lang="it">del</rt><rp>）</rp>・<rp>（</rp><rt lang="it">&#160;</rt><rp>）</rp>ジョコンド<rp>（</rp><rt lang="it">Giocondo</rt><rp>）</rp></ruby>妻である<ruby lang="ja">リザ<rp>（</rp><rt lang="it">Lisa</rt><rp>）</rp>・<rp>（</rp><rt lang="it">&#160;</rt><rp>）</rp>ジェラルディニー<rp>（</rp><rt lang="it">Gherardini</rt><rp>）</rp></ruby>の肖像画。</figcaption>
+https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1920.jpg 1920w" id="la_joconde_selon_vasari"></picture><figcaption>フランス語で「<ruby lang="ja">ラ<rp>（</rp><rt lang="fr">La</rt><rp>）</rp>・<rp>（</rp><rt lang="fr">&#160;</rt><rp>）</rp>ジョコンデュ<rp>（</rp><rt lang="it">Joconde</rt><rp>）</rp></ruby>」やイタリア語で「ジョコンダ婦人、モナ・リザ」と言われている<ruby lang="ja">フランテスコ<rp>（</rp><rt lang="it">Francesco</rt><rp>）</rp>・<rp>（</rp><rt lang="it">&#160;</rt><rp>）</rp>デル<rp>（</rp><rt lang="it">del</rt><rp>）</rp>・<rp>（</rp><rt lang="it">&#160;</rt><rp>）</rp>ジョコンド<rp>（</rp><rt lang="it">Giocondo</rt><rp>）</rp></ruby>の妻である<ruby lang="ja">リザ<rp>（</rp><rt lang="it">Lisa</rt><rp>）</rp>・<rp>（</rp><rt lang="it">&#160;</rt><rp>）</rp>ジェラルディニー<rp>（</rp><rt lang="it">Gherardini</rt><rp>）</rp></ruby>の肖像画。</figcaption>
 </figure>
 
 <div class="notices green">
@@ -83,10 +83,6 @@
 </footer>
 
 </article>
-
-<aside>
-  <p></p>
-</aside>
 
 </article>
 `;
