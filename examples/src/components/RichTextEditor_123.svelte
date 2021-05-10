@@ -4,11 +4,11 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `<!-- FR:154 EN:182  -->
+  const html = `<!-- FR:154 EN:182 -->
 
 <article>
 
-<p><time datetime="2020-02-12">１２日２月２０２０年</time></p>
+<p><time datetime="2020-02-12">２０２０年２月１２日</time></p>
 
 <h1 class="red">マリヴォー、<cite>奴隷の島</cite></h1>
 
@@ -97,8 +97,8 @@
 </ol>
 
 <footer>
-  <p>［出典：<time datetime="1725">１７２５年</time>の初板。<a href="https://gallica.bnf.fr/ark:/12148/bpt6k5754427b/f12.item.texteImage" title="https://gallica.bnf.fr/ark:/12148/bpt6k5754427b/f12.item.texteImage"><ruby lang="ja">ガリカ<rp>（</rp><rt lang="fr">Gallica</rt><rp>）</rp></ruby></a>、１１項］</p>
-  <p>［劇作書は一幕構成］</p>
+  <p><ruby lang="ja">マリヴォー<rp>（</rp><rt lang="fr">Marivaux</rt><rp>）</rp></ruby>、<cite><ruby lang="ja">奴隷の島<rp>（</rp><rt lang="fr">L'île&#160aux&#160esclaves</rt><rp>）</rp></ruby></cite>、第二場、１１項</p>
+  <p>［劇作文書は一幕構成です］</p>
 </footer>
 
 </article>
