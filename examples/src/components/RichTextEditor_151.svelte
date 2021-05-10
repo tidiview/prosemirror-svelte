@@ -56,7 +56,7 @@
 </ol>
 
 <footer>
-  <p>Extrait de Platon, <cite>Le Banquet</cite>, des paragraphes 203a à 203e.</p>
+  <p>Platon, <cite>Le Banquet</cite>, paragraphes 203a à 203e.</p>
   <p><time datetime="P2M">2&nbspmin</time>.</p>
 </footer>
 
