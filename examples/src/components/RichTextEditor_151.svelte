@@ -4,18 +4,20 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
+  const html = `<!-- JA:112 EN:185 -->
+
 <article>
 
-<p><time datetime="2020-02-12">12 Fév. 2020</time></p>
+<p><time datetime="2020-02-12">12 <abbr title="février">Fév.</abbr> 2020</time></p>
+
+<h1 class="blue">l'amour selon Diotime</h1>
 
 <div class="notices blue">
-<p>Dans “le Banquet” de Platon, quelques personnes assemblées à l'occasion d'une fête mondaine, échangent leurs vues sur le sens de l'<ruby lang="fr">amour<rp>(</rp><rt lang="grc">Érôs</rt><rp>)</rp></ruby lang="fr">.<br>
-C'est là que <a href="/blog/fr/eros#note_socrate" title="Socrate" id="socrate">Socrate</a> déclare qu'étant jeune, la "philosophie de l'Amour" lui fut enseigné par <a href="/blog/fr/eros#note_diotime" title="Diotime" id="diotime">Diotime</a>, prétresse et prophète.<br>
-Ci-dessous, Socrate pose plusieurs questions à Diotime à propos de l'amour.</p>
+<p>Dans “le Banquet” de Platon, quelques personnes assemblées à l'occasion d'une fête mondaine, échangent leurs vues sur le sens de l'<ruby lang="fr">amour<rp>(</rp><rt lang="grc">Érôs</rt><rp>)</rp></ruby lang="fr">.</p>
+<p>C'est là que <a href="/blog/fr/eros#note_socrate" title="Socrate" id="socrate">Socrate</a> déclare qu'étant jeune, la "philosophie de l'Amour" lui fut enseigné par <a href="/blog/fr/eros#note_diotime" title="Diotime" id="diotime">Diotime</a>, prétresse et prophète.</p>
+<p>Ci-dessous, Socrate pose plusieurs questions à Diotime à propos de l'amour.</p>
 </div>
 
-<div id="translation-text-rousi">
 <ol class="doc-three-rows">
   <li data-id="【SOCRATE】">— Quel est son père, repris-je, et quelle est sa mère?</li>
   <li id="203b" data-id="【DIOTIME】">— C'est une assez longue histoire, répondit-elle. Je vais pourtant te la raconter.</li>
@@ -52,7 +54,71 @@ Ci-dessous, Socrate pose plusieurs questions à Diotime à propos de l'amour.</p
   <li>Et de fait ce qui attire l'amour, c'est ce qui est réellement beau, délicat, parfait, c'est-à- dire ce qui dispense le bonheur le plus grand.</li>
   <li>Mais autre est la nature de ce qui aime, et je t'ai exposé ce qu'elle est.</li>
 </ol>
+
+<footer>
+  <p>Extrait de Platon, <cite>Le Banquet</cite>, des paragraphes 203a à 203e.</p>
+  <p><time datetime="P2M">2&nbspmin</time>.</p>
+</footer>
+
+<aside>
+
+<h3 class="blue">Notes</h3>
+  
+<h4 id="note_socrate" class="blue note">Socrate</h4>
+
+<div class="notices blue">
+<p><a href="/blog/fr/eros#socrate" title="Socrate"><ruby lang="fr">Socrate<rp>(</rp><rt lang="grc">Σωκράτης</rt><rp>)</rp></ruby></a> est un philosophe de l'Antiquité grecque mais Socrate lui-même n'a pas écrit, donc ici c'est un personnage dans l'œuvre de son disciple, le philosophe Platon.</p>
 </div>
+<footer>
+  <p class="puce"><a href="/blog/fr/eros#socrate" title="Socrate">retour au texte&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_diotime" class="blue note">Diotime</h4>
+
+<div class="notices blue">
+<p>Il n’existe pas d’autre source mentionnant le nom de <ruby lang="fr">Diotime<rp>(</rp><rt lang="grc">Διοτίμα</rt><rp>)</rp></ruby> en dehors du Banquet, où elle apparaît comme est une prêtresse et une prophétesse originaire de la ville de Mantinée. Avec <i>Diotime</i>, c’est la philosophie qui entre en scène dans le dialogue qui selon les mots de Luc Brisson «ouvre alors sur une dimension nouvelle, celle de l’intelligible». Socrate dit d'elle qu'elle l'a «instruit des choses concernant l'amour».</p>
+<p>Son nom signifie «honorée par Zeus» ou «honorant Zeus».</p>
+<p>Mantinée, qui était considérée comme son lieu de naissance, était une ville d'Arcadia, une ancienne ville grecque, située sur la péninsule du Péloponnèse. Le nom de Mantinée s'apparente au mot mántis, qui signifie en grec ancien «le devin».</p>
+</div>
+<footer>
+  <p class="puce"><a href="/blog/fr/eros#diotime" title="Diotime">retour au texte&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_poros" class="blue note">Poros</h4>
+
+<div class="notices blue">
+<p><i><ruby lang="fr">Poros<rp>(</rp><rt lang="grc">Πόρος</rt><rp>)</rp></ruby></i>, en grec, signifie «passage», d'où «ressource», «expédient».</p>
+</div>
+<footer>
+  <p class="puce"><a href="/blog/fr/eros#poros" title="Poros">retour au texte&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_penia" class="blue note">Penia</h4>
+
+<div class="notices blue">
+<p><i><ruby lang="fr">Penia<rp>(</rp><rt lang="grc">Πενία</rt><rp>)</rp></ruby></i>, c'est-à-dire, en grec, la Pauvreté.</p>
+</div>
+<footer>
+  <p class="puce"><a href="/blog/fr/eros#penia" title="Pénia">retour au texte&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_nectar" class="blue note">nectar</h4>
+
+<div class="notices blue">
+<p>Le <i>nectar</i> est la boisson des dieux, source de leur immortalité. retour à la note ↑</p>
+</div>
+<footer>
+  <p class="puce"><a href="/blog/fr/eros#nectar" title="nectar">retour au texte&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_philosopher" class="blue note">philosopher</h4>
+
+<div class="notices blue">
+<p><i>Philosopher</i>, c'est-à-dire aussi littéralement à «aimer la sagesse». </p>
+<footer>
+  <p class="puce"><a href="/blog/fr/eros#philosopher" title="Philosopher">retour au texte&nbsp↩</
+
+</aside>
 
 </article>
 `;
