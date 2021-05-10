@@ -27,14 +27,14 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-840.jpg 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1280.jpg 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1600.jpg 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1920.jpg 1920w"></picture><figcaption>Portrait of Lisa Gerardini, spouse of Francesco del Giocondo said «Mona Lisa, la Gioconda» or «the Joconde»</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1920.jpg 1920w"></picture><figcaption>Portrait of Lisa Gerardini, spouse of Francesco del Giocondo said «Mona Lisa, la Gioconda» from italian and «la Joconde» from french.</figcaption>
 </figure>
 
 <div class="notices green">
-<p>The description of <a href="https://en.wikipedia.org/wiki/Mona_Lisa" title="https://en.wikipedia.org/wiki/Mona_Lisa"><cite>The Mona Lisa</cite></a> presented below was written by <a href="https://en.wikipedia.org/wiki/Giorgio_Vasari" title="https://en.wikipedia.org/wiki/Giorgio_Vasari">Giorgio VASARI</a> and published in Florence in <time datetime="1550">1550</time>.</p>
-<p>It is the best known, oldest and most reliable of these to date. As such, it has influenced most of the subsequent descriptions.</p>
+<p>The description of <a href="https://en.wikipedia.org/wiki/Mona_Lisa" title="https://en.wikipedia.org/wiki/Mona_Lisa"><cite>the Mona Lisa</cite></a> presented below was written by <a href="https://en.wikipedia.org/wiki/Giorgio_Vasari" title="https://en.wikipedia.org/wiki/Giorgio_Vasari">Giorgio Vasari</a> and published in Florence first in <time datetime="1550">1550</time>, then reviewed and extended in <time datetime="1568">1568</time>.</p>
+<p>These are the two best known, oldests and most reliables of these to date. As such, it has influenced most of the subsequent descriptions.</p>
 <p>Vasari describes a painting that he himself has not seen because the painting is then in Fontainebleau where Vasari never went.</p>
-<p>The description tells us about the reputation of the work: it was performed in Florence in <time datetime="1503">1503</time>, <a href="https://en.wikipedia.org/wiki/Leonardo_da_Vinci" title="https://en.wikipedia.org/wiki/Leonardo_da_Vinci">Leonardo da Vinci</a> worked there for <time datetime="P4Y">4 years</time>, it represents Francesco Del Giocondo's wife, referred to as “M[ad]on[n]a Lisa”, “Madame Lise”.</p>
+<p>Both descriptions tells us about the reputation of the work: it was performed in Florence around <time datetime="1503">1503</time>, <a href="https://en.wikipedia.org/wiki/Leonardo_da_Vinci" title="https://en.wikipedia.org/wiki/Leonardo_da_Vinci">Leonardo da Vinci</a> worked there for <time datetime="P4Y">4 years</time>, it represents Francesco Del Giocondo's wife, referred to as “M[ad]on[n]a Lisa”, “Madame Lise”.</p>
 <p>But moreover, it allows us to get what was making its value in the eyes of Vasari.</p>
 </div>
 
