@@ -15,9 +15,6 @@
 <div class="notices red">
 <p>天文学が<time datetime="1681">１６８１年</time>に<ruby>彗<rp>(</rp><rt>すい</rt><rp>)</rp>星<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>の後に流行した時に<ruby lang="ja">フォントネル<rp>(</rp><rt lang="fr">Fontenelle</rt><rp>)</rp></ruby>に出版された
 「<cite><ruby lang="ja">世界の多数性についての対話<rp>(</rp><rt lang="fr">Entretiens&#160;sur&#160;la&#160;pluralité&#160;des&#160;mondes</rt><rp>)</rp></ruby></cite>」は、世界のそれぞれの体系についての説明です。</p>
-</div>
-
-<div class="notices red">
 <p>「教えると同時に楽しませる」ために、フォントネルは、最新の天文学の発見を優雅なる対話で紹介している。
 星空の下で伯爵夫人の庭園で行なわれる六つの散策途中、
 ある「哲学者」、いわゆる、当時の辞典での定義において、「科学の勉強に入念して、原因と参考によって効果を知ることに努める人」は、才気に満ちた若い侯爵婦人と話し合って、
@@ -31,7 +28,7 @@
 フォントネルにとって、宇宙の中では、絶対的視点を決めるのは不可能です。</p>
 <p class="conversation">「私たちは何でも判断したいし、常に悪い視点にさせれている」。</p>
 <p>第一講演を切っ掛けに、哲学者はオペラの光景と自然とを同一視しながら、長々と繰り広げています。
-デカルトの機械的哲学の促進を行なうことである。当時にオペラが本質的に「機械」の芝居でしたから（こういう風に劇所やオペラで、、観客に驚異的性の錯視を与えるそれぞれの効果によっての機械的手段が指名しされていた。しかし、「オペラの機会」を明らかにするには、フォントネルにとって宇宙を非神聖化させたり、以前の文学を迷信から覚まさせたりあうるでもある（アリストテレス、プラトンなど））。</p>
+デカルトの機械的哲学の促進を行なうことである。当時にオペラが本質的に「<a id="renvoi-machine" href="#machine" title="#machine">機械</a>」の芝居でしたから。</p>
 </div>
 
 <h2 class="red">「<cite>世界の多数性についての対話</cite>」の第一章から抜粋した文書、「第一の夜」</h2>
@@ -67,16 +64,30 @@
 
   <h3 class="yellow">注釈：</h3>
 
+  <h4 id="opera" class="yellow note">「オペラの機械」</h4>
+
+  <p>こういう風に劇所やオペラで、、観客に驚異的性の錯視を与えるそれぞれの効果によっての機械的手段が指名しされていた。しかし、「オペラの機会」を明らかにするには、フォントネルにとって宇宙を非神聖化させたり、アリストテレス、プラトンなどの以前の文学を迷信から覚まさせたりあうるでもある。</p>
+  <footer>
+    <p class="puce"><a href="#renvoi-machine" title="#renvoi-machine">文書に戻る&nbsp↩</a></p>
+  <footer>
+
+  <h4 id="parterre" class="yellow note">平土間</h4>
+
+  <p>観客が立っていて、立ち席がボックス席より安かった劇所の観客席の一階。</p>
+  <footer>
+    <p class="puce"><a href="#renvoi-parterre" title="#renvoi-parterre">文書に戻る&nbsp↩</a></p>
+  <footer>
+
   <h4 id="opera" class="yellow note">オペラ</h4>
   
-  <p><time datetime="1669">１６６９年</time>に創立されたパリのオペラを指す固有名詞</p>
+  <p><time datetime="1669">１６６９年</time>に創立されたパリのオペラを指す固有名詞。</p>
   <footer>
     <p class="puce"><a href="#renvoi-opera" title="#renvoi-opera">文書に戻る&nbsp↩</a></p>
   <footer>
   
   <h4 id="parterre" class="yellow note">平土間</h4>
 
-  <p>観客が立っていて、立ち席がボックス席より安かった劇所の観客席の一階</p>
+  <p>観客が立っていて、立ち席がボックス席より安かった劇所の観客席の一階。</p>
   <footer>
     <p class="puce"><a href="#renvoi-parterre" title="#renvoi-parterre">文書に戻る&nbsp↩</a></p>
   <footer>
