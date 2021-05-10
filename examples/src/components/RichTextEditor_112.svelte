@@ -4,7 +4,10 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
+  const html = `<!-- FR:151 EN:185 -->
+
+<article>
+
 <p><span>１２</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
 <p>２月</p>
 <p><span>２０２０年</span></p>
@@ -246,7 +249,8 @@
 <div class="notices blue">
 <p><a href="#philosopher" title="知恵を愛求する" id="note_philosopher">知恵を愛求する</a>は同時に「<span style="color: #28a1c5;">哲学をする</span>」意も含む。 <a href="#philosopher" title="知恵を愛求する">戻る ↑</a></p>
 </div>
-</div>
+
+</article>
 `;
 
   
