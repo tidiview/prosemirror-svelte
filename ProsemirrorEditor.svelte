@@ -338,7 +338,8 @@
   }
 
   :global(img) {
-    width: auto;
+    max-width: 100%;
+    width: 100%;
     height: auto;
   }
 </style>
