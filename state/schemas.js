@@ -693,7 +693,7 @@ export const ExtendedThreerichTextSchema = new Schema({
           decoding: dom.getAttribute("decoding"),
         }
       }}],
-      toDOM(node) { let {classes, src, title, alt, usemap, sizes, srcset, id, height, width, loading, decoding} = node.attrs; return ["img", {"class": classes, src, title, alt, usemap, sizes, srcset, id, height, width, loading, decoding}] },
+      toDOM(node) { let {classes, src, title, alt, usemap, sizes, srcset, id, height, width, loading, decoding} = node.attrs; return ["img", {"class": classes, src, title, alt, usemap, sizes, srcset, id, height, width, loading, decoding, "style": "background-size: cover;background: url('data:image/svg+xml;utf8,<svg xmlns=\"https://www.w3.org/2000/svg\" width=\"" + width +"\" height=\"" + height +"\" viewBox=\"0 0 " + width + "\ " + height + "\"><rect fill=\"#ddd\" width=\"" + width + "\" height=\"" + height + "\"/></svg>') center center no-repeat;"}] },
     },
     figcaption: {
       content: "inline*",
