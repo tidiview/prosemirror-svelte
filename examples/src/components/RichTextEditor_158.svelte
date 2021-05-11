@@ -28,7 +28,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome_700x507.jpg 700w"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-focus_700x415.jpg" alt="La Place Vendôme à Paris, en 1734" title="La Place Vendôme à Paris, en 1734" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome_700x507.jpg 700w"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-focus_700x415.jpg" alt="La Place Vendôme à Paris, en 1734" title="La Place Vendôme à Paris, en 1734" class="class-diane-img" width="700" height="415" loading="eager" decoding="async" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-focus-280.jpg 280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-focus-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-focus-480.jpg 480w,
