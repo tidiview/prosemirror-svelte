@@ -674,6 +674,7 @@ export const ExtendedThreerichTextSchema = new Schema({
         id: {default: null},
         height: {default: null},
         width: {default: null},
+        loading: {default: null},
       },
       parseDOM: [{tag: "img[src]", getAttrs(dom) {
         return {
@@ -687,9 +688,10 @@ export const ExtendedThreerichTextSchema = new Schema({
           id: dom.getAttribute("id"),
           height: dom.getAttribute("height"),
           width: dom.getAttribute("width"),
+          loading: dom.getAttribute("loading"),
         }
       }}],
-      toDOM(node) { let {width, src, title, alt, usemap, sizes, srcset, id, height, width} = node.attrs; return ["img", {"class": width, src, title, alt, usemap, sizes, srcset, id, height, width}] },
+      toDOM(node) { let {width, src, title, alt, usemap, sizes, srcset, id, height, width, loading} = node.attrs; return ["img", {"class": width, src, title, alt, usemap, sizes, srcset, id, height, width, loading}] },
     },
     figcaption: {
       content: "inline*",
