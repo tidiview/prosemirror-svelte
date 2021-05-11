@@ -674,8 +674,8 @@ export const ExtendedThreerichTextSchema = new Schema({
         id: {default: null},
         height: {default: null},
         width: {default: null},
-        loading: {default: null},
-        decoding: {default: null},
+        loading: {default: "eager"},
+        decoding: {default: "auto"},
       },
       parseDOM: [{tag: "img[src]", getAttrs(dom) {
         return {
