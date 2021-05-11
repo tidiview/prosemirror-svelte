@@ -252,16 +252,16 @@
   }
 
   :global(.puce) {
-      display: list-item;
-      list-style-type: disc;
-      margin-top: 1em;
-      margin-block-end: 1em;
-      margin-block-start: 1em;
-      margin-inline-start: 40px;   
+    display: list-item;
+    list-style-type: disc;
+    margin-top: 1em;
+    margin-block-end: 1em;
+    margin-block-start: 1em;
+    margin-inline-start: 40px;   
   }
 
   :global(p.puce::marker) {
-      display: list-item;
+    display: list-item;
   }
 
   :global(p.puce:last-child) {
@@ -277,10 +277,10 @@
   }
 
   :global(.no-puce) {
-      margin-top: 1em;
-      margin-block-end: 1em;
-      margin-block-start: 1em;
-      margin-inline-start: 40px;
+    margin-top: 1em;
+    margin-block-end: 1em;
+    margin-block-start: 1em;
+    margin-inline-start: 40px;
   }
 
   :global(p.no-puce:last-child) {
@@ -335,5 +335,10 @@
 
   :global(.top-space) {
     margin-top: 1em;
+  }
+
+  :global(img) {
+    width: auto;
+    height: auto;
   }
 </style>
