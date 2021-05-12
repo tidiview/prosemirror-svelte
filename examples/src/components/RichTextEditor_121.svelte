@@ -25,21 +25,21 @@
 
 <h3 class="green">第五章</h3>
 
-<p><ruby lang="ja">キルペリクス<rp>(</rp><rt lang="fr">Chilpéric</rt><rp>)</rp></ruby><span style="color: #3d778a;">王</span>がまだ上述の<a href="#note_villa" title="villa" id="villa" class="green">館</a>に滞在し、荷物を整理して搬出するよう指示し、<ruby lang="ja">パリシウス<rp>(</rp><rt lang="fr">Parisius</rt><rp>)</rp></ruby>［パリ］へ移動する算段をしていたころ、私は別れを告げに王のもとへ赴いた。
+<p><ruby lang="ja">キルペリクス<rp>（</rp><rt lang="fr">Chilpéric</rt><rp>）</rp></ruby><span style="color: #3d778a;">王</span>がまだ上述の<a href="#note_villa" title="villa" id="villa" class="green">館</a>に滞在し、荷物を整理して搬出するよう指示し、<ruby lang="ja">パリシウス<rp>（</rp><rt lang="fr">Parisius</rt><rp>）</rp></ruby>［パリ］へ移動する算段をしていたころ、私は別れを告げに王のもとへ赴いた。
 その時、王の商品購入を任されている<span style="color: #3d638a;">プリスクスという名のユダヤ人</span>がやって来た。</p>
 <p><span style="color: #3d778a;">王</span>はご機嫌を取るように手を彼の頭に乗せて、私に向って言った。</p>
 <p class="conversation">「こちらへおいで下さい、神のしもべよ、<span style="color: #3d778a;">「お手をこの人の頭に置きたまわんことを」</span>（マタイ伝、９、１８）</p>
 <p><span style="color: #3d638a;">ユダヤ人</span>が嫌がると<span style="color: #3d778a;">王</span>は言った。</p>
-<p class="conversation"><span style="color: #3d778a;">「何と<ruby>頑<rp>(</rp><rt>かたくな</rt><rp>)</rp></ruby>な、常に不信心な民族か。この人たちは自分たちの預言者の声を通じて神の<ruby>御<rp>(</rp><rt>み</rt><rp>)</rp>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>が約束されたことを知ろうとせず、その神の御子の犠牲の上に教会の神秘が建てられたことを知ろうとしないのです」。</span></p>
+<p class="conversation"><span style="color: #3d778a;">「何と<ruby>頑<rp>（</rp><rt>かたくな</rt><rp>）</rp></ruby>な、常に不信心な民族か。この人たちは自分たちの預言者の声を通じて神の<ruby>御<rp>（</rp><rt>み</rt><rp>）</rp>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>が約束されたことを知ろうとせず、その神の御子の犠牲の上に教会の神秘が建てられたことを知ろうとしないのです」。</span></p>
 <p>すると<span style="color: #3d638a;">ユダヤ人</span>は答えた。</span></p>
-<p class="conversation"><span style="color: #3d638a;">「神は結婚せず、子を持たず、王国の中に自分と同等の者を必要としません。神はモーセを通じ、
-<a href="#note_deuteronome" title="申命記、第三十二章、三十九節" id="deuteronome" class="green">「今こそは見よ、 われこそは彼なり。</a></p>
-<p class="conversation"><a href="#note_deuteronome" title="申命記、第三十二章、三十九節" class="green">われの他には神なし。</a></p>
-<p class="conversation"><a href="#note_deuteronome" title="申命記、第三十二章、三十九節" class="green">殺すことと生かすこと、討つことと癒すことはすべてわれこれをなす」
-とおっしゃいました」</a></p>
+<p class="conversation"><span style="color: #3d638a;">「神は結婚せず、子を持たず、王国の中に自分と同等の者を必要としません。神はモーセを通じ、</span><a href="#note_deuteronome" title="申命記、第三十二章、三十九節" id="deuteronome" class="green">「今こそは見よ、
+われこそは彼なり。
+われの他には神なし。
+殺すことと生かすこと、討つことと癒すことはすべてわれこれをなす」</a>
+とおっしゃいました」</p>
 <p>そこで<span style="color: #3d778a;">王</span>は言った。</p>
-<p class="conversation">「神は霊的子宮で永遠の<ruby>御<rp>(</rp><rt>み</rt><rp>)</rp>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>を産みたまうたのです。</p>
-<p class="conversation">年齢において等しく、全能において劣らず、自ら<a href="#note_engendre" title="暁の前に胎より汝を産めり" id="engendre" class="green">「暁の前に胎より汝を産めり」</a>と述べておられます。神はあらゆる時代に先立って御子を産み、その御子を最新の時代の中へ、この世の救世主として送りたまうたのです。あなたがたの預言者が<a href="#note_verbe" title="主は御言葉を遣わして彼らを癒し" id="verbe" class="green">「み言葉をつかわして これを癒し」</a>と言っている通りです。
+<p class="conversation">「神は霊的子宮で永遠の<ruby>御<rp>（</rp><rt>み</rt><rp>）</rp>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>を産みたまうたのです。
+年齢において等しく、全能において劣らず、自ら<a href="#note_engendre" title="暁の前に胎より汝を産めり" id="engendre" class="green">「暁の前に胎より汝を産めり」</a>と述べておられます。神はあらゆる時代に先立って御子を産み、その御子を最新の時代の中へ、この世の救世主として送りたまうたのです。あなたがたの預言者が<a href="#note_verbe" title="主は御言葉を遣わして彼らを癒し" id="verbe" class="green">「み言葉をつかわして これを癒し」</a>と言っている通りです。
 それでも神はご自分では産むことなどなさらぬ、とおっしゃるのならば、あなたがたの預言者が神の声で、<a href="#note_enfanter" title="子を産ませるわたしが胎を閉ざすことがあろうか" id="enfanter" class="green">「我は産ましめる者なるにいかでか産む事なさざらんや」</a>と述べているのをお聞き下さい。
 これ は彼を通じ信仰によって再生する民族のことを述べているのですよ」
 </p>
@@ -61,11 +61,11 @@
 </a>と。</p>
 <p class="conversation">「また彼が鞭打たれ、十字架に打ち付けられねばならず、また種々の不正にさらされさいなまれることも、他の預言者が、</p>
 <p class="conversation"><a href="#note_perce" title="わが手、わが足を刺しつらぬけり、またたがいにわが衣をわかつs" id="perce" class="green">「わが手、わが足を刺しつらぬけり、またたがいにわが衣をわかつ」</a>と述べ、また、</p>
-<p class="conversation"><a href="#note_fiel" title="人はわたしに苦いものを食べさせようとし渇くわたしに酢を飲ませようとします" id="fiel" class="green">「かれらは<ruby>苦<rp>(</rp><rt>にが</rt><rp>)</rp>草<rp>(</rp><rt>くさ</rt><rp>)</rp></ruby>をわが食物に入れ、わが<ruby>渇<rp>(</rp><rt>かわ</rt><rp>)</rp></ruby>ける時に酢を飲ませたり」</a>
+<p class="conversation"><a href="#note_fiel" title="人はわたしに苦いものを食べさせようとし渇くわたしに酢を飲ませようとします" id="fiel" class="green">「かれらは<ruby>苦<rp>（</rp><rt>にが</rt><rp>）</rp>草<rp>（</rp><rt>くさ</rt><rp>）</rp></ruby>をわが食物に入れ、わが<ruby>渇<rp>（</rp><rt>かわ</rt><rp>）</rp></ruby>ける時に酢を飲ませたり」</a>
 と述べています。</p>
-<p class="conversation">そして主が十字架にかかりつつ、悪魔の支配に屈して堕落したこの世を、ご自分の王国のうちに建て直したまうことをダビデは、<a href="#note_parlebois" title="神は直き木をもて統べたまう" id="parlebois" class="green">「神は直き木 （十字架）をもてこの世を<ruby>統<rp>(</rp><rt>すべ</rt><rp>)</rp></ruby>べたまう」</a>
-と述べています。</p>
-<p class="conversation"><a href="#note_parlebois" title="神は直き木をもて統べたまう" class="green">主はそれ以前にも神の御許にあって、ともに統治の業をなしたまうてはいたのですが、ご自分の手で悪魔への隷属から解放したまうた民草を得て改めて、ご自身の王国を持ちたまったのです」</a></span></p>
+<p class="conversation">そして主が十字架にかかりつつ、悪魔の支配に屈して堕落したこの世を、ご自分の王国のうちに建て直したまうことをダビデは、<a href="#note_parlebois" title="神は直き木をもて統べたまう" id="parlebois" class="green">「神は直き木 （十字架）をもてこの世を<ruby>統<rp>（</rp><rt>すべ</rt><rp>）</rp></ruby>べたまう」</a>
+と述べています。
+<a href="#note_parlebois" title="神は直き木をもて統べたまう" class="green">「主はそれ以前にも神の御許にあって、ともに統治の業をなしたまうてはいたのですが、ご自分の手で悪魔への隷属から解放したまうた民草を得て改めて、ご自身の王国を持ちたまったのです」</a></span></p>
 <p>すると<span style="color: #3d638a;">ユダヤ人</span>は、</p>
 <p class="conversation"><span style="color: #3d638a;">「どうして神たるものがそんな目にあう必要があったのですか」</span>
 と尋ねた。</p>
@@ -86,7 +86,7 @@
 <p class="conversation">ですから、主自らあがないのために降りたまわずば、我々の救済が成就することはなかったのです。</p>
 <p class="conversation">我々は主の降誕によって再生し、主の洗礼により清められ、主の傷によって癒され、主の復活によって立ち直り、主の昇天により栄光にあずかったのです。</p>
 <p class="conversation">主が我々の病をいやすべく降臨したまうことについてはあなたがたの預言者も、</p>
-<p class="conversation"><a href="#note_meurtrissure" title="彼の受けた傷によってわたしたちはいやされた" id="meurtrissure" class="green">「そのうたれし<ruby>疵<rp>(</rp><rt>きず</rt><rp>)</rp></ruby>によりてわれらは癒されたり」</a>
+<p class="conversation"><a href="#note_meurtrissure" title="彼の受けた傷によってわたしたちはいやされた" id="meurtrissure" class="green">「そのうたれし<ruby>疵<rp>（</rp><rt>きず</rt><rp>）</rp></ruby>によりてわれらは癒されたり」</a>
 と述べ、</p>
 <p class="conversation"><a href="#note_commeunebrebis" title="屠殺場にひかるる子羊のごとく" id="commeunebrebis" class="green">「彼は我々の罪を背負い、罪人のために祈りたり」</a>
 と言い、また、</p>
@@ -115,7 +115,7 @@
 <p><span style="color: #3d778a;">王</span>は馬に乗り奥方と王女と従僕一同を伴ってパリシウスへ戻った。</p>
 
 <footer>
-  <p><ruby lang="ja">トゥールのグレゴリウス<rp>(</rp><rt lang="fr">Grégoire&#160;de&#160;Tours</rt><rp>)</rp></ruby>、「<cite><ruby lang="ja">フランク史<rp>(</rp><rt lang="fr">Hitoire&#160;des&#160;Francs</rt><rp>)</rp></ruby></cite>」の第六巻の五章より。</p>
+  <p><ruby lang="ja">トゥールのグレゴリウス<rp>（</rp><rt lang="fr">Grégoire&#160;de&#160;Tours</rt><rp>）</rp></ruby>、「<cite><ruby lang="ja">フランク史<rp>（</rp><rt lang="fr">Hitoire&#160;des&#160;Francs</rt><rp>）</rp></ruby></cite>」の第六巻の五章より。</p>
 </footer>
 
 <aside>
@@ -125,7 +125,7 @@
 <h4 class="green note">杉本・正俊</h4>
 
 <div class="notices green">
-<p><ruby>杉<rp>(</rp><rt>すぎ</rt><rp>)</rp>本<rp>(</rp><rt>もと</rt><rp>)</rp>正<rp>(</rp><rt>まさ</rt><rp>)</rp>俊<rp>(</rp><rt>とし</rt><rp>)</rp></ruby>。１９４９年岐阜市に生まれる。</p>
+<p><ruby>杉<rp>（</rp><rt>すぎ</rt><rp>）</rp>本<rp>（</rp><rt>もと</rt><rp>）</rp>正<rp>（</rp><rt>まさ</rt><rp>）</rp>俊<rp>（</rp><rt>とし</rt><rp>）</rp></ruby>。１９４９年岐阜市に生まれる。</p>
 <p>早稲田大学第一文学部を卒業後、同大学大学院で志波一富教授に現代ドイツ文学を学ぶ。</p>
 <p>この頃教室で読んだ作家（ハインツ・リッセ）の文章から、西洋におけるラテン語の重要性を教わり独学を始める。</p>
 <p>後に古典ギリシャ語を学び、先生に就いて一年に一巻のペースで「イリアス」を読む。</p>
@@ -139,7 +139,7 @@
 <h4 id="note_villa" class="green note">上述の館に滞在し</h4>
 
 <div class="notices green">
-<p>原稿文書ではラテン語で「<ruby lang="ja">ノヴィゲントゥム<rp>(</rp><rt lang="la">Novigentum</rt><rp>)</rp></ruby>」、多分現在の<a href="https://ja.wikipedia.org/wiki/ノジャン＝シュル＝マルヌ" title="https://ja.wikipedia.org/wiki/ノジャン＝シュル＝マルヌ"><ruby lang="ja">ノジャン<rp>(</rp><rt lang="fr">Nogent</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>シュル<rp>(</rp><rt lang="fr">sur</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>マルヌ<rp>(</rp><rt lang="fr">Marne</rt><rp>)</rp></ruby></a>。</p>
+<p>原稿文書ではラテン語で「<ruby lang="ja">ノヴィゲントゥム<rp>（</rp><rt lang="la">Novigentum</rt><rp>）</rp></ruby>」、多分現在の<a href="https://ja.wikipedia.org/wiki/ノジャン＝シュル＝マルヌ" title="https://ja.wikipedia.org/wiki/ノジャン＝シュル＝マルヌ"><ruby lang="ja">ノジャン<rp>（</rp><rt lang="fr">Nogent</rt><rp>）</rp>＝<rp>（</rp><rt lang="fr">-</rt><rp>）</rp>シュル<rp>（</rp><rt lang="fr">sur</rt><rp>）</rp>＝<rp>（</rp><rt lang="fr">-</rt><rp>）</rp>マルヌ<rp>（</rp><rt lang="fr">Marne</rt><rp>）</rp></ruby></a>。</p>
 
 <footer>
   <p class="puce">文書に戻る： <a href="#villa" title="villa">「上述の館に滞在し」 ↩</a></p>
@@ -205,7 +205,7 @@
 
 <h4 id="note_ecoute" class="green note">dieu devait devenir homme</h4>
 <div class="notices green">
-  <p>ルドルフ・ブフナーが、「Zehn Bacher Geschichten」、１０項、注１で、この引用を、グレゴリウスがヴルガータ訳以外のテキストから借りたとされるエレミヤ書第十七章九節に関連づけています。</p>
+  <p><ruby lang="ja">ルドルフ・ブフナー<rp>（</rp><rt lang="de">Rudolf&#160;Buchner</rt><rp>）</rp></ruby>の「<ruby lang="ja">十冊の物語の本<rp>（</rp><rt lang="de">Zehn&#160;Bacher&#160;Geschichten</rt><rp>）</rp></ruby>」、１０項、注１で、この引用を、グレゴリウスがヴルガータ訳以外のテキストから借りたとされるエレミヤ書第十七章九節に関連づけています。</p>
   <p>エレミヤ書第十七章九節：</p>
   <p id="9" class="single-li">人の心は何にもまして、とらえ難く病んでいる。誰がそれを知りえようか。</p>
 </div>
@@ -265,7 +265,8 @@
 
 <h4 id="note_parlebois" class="green note">神は直き木をもて統べたまう</h4>
 <div class="notices green">
-  <p>ルドルフ・ブフナーの「Zehn Bacher Geschichten」、十一項、注七によると、この言葉は、キリスト教的な補間であり、ヴルガータ訳の著者たちには受け入れられなかったでしょう。</p>
+  <p>ここでは「直き木」は十字架を指します。</p>
+  <p><ruby lang="ja">ルドルフ・ブフナー<rp>（</rp><rt lang="de">Rudolf&#160;Buchner</rt><rp>）</rp></ruby>の「<ruby lang="ja">十冊の物語の本<rp>（</rp><rt lang="de">Zehn&#160;Bacher&#160;Geschichten</rt><rp>）</rp></ruby>」、十一項、注七によると、この言葉は、キリスト教的な補間であり、ヴルガータ訳の著者たちには受け入れられなかったでしょう。</p>
 </div>
 <footer>
   <p class="puce"><a href="#parlebois" title="神は直き木をもて統べたまう">文書に戻る&nbsp↩</a></p>
