@@ -4,80 +4,49 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
-<p><span>１５</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
-<p>１月</p>
-<p><span>２０１８年</span></p>
-<h1 class="green"><a href="/blog/ja/ihoujin" rel="bookmark">異邦人</a></h1>
+  const html = `<!-- FR:NONE EN:NONE -->
+
+<article>
+
+<p><time datetime="2018-01-15">２０１８年１月１５日</time></p>
+
+<h1 class="green">異邦人</h1>
+
 <div class="notices green">
 <p>通常では、異なる邦の人は「異邦人」ではありますが、ここでは、誰かに対して国が異なるのではない問答を紹介します。</p>
 <p>お楽しみに！（作者は驚きですが）</p>
 </div>
+
 <div id="translation-text-rousi">
-<table>
-<thead>
-<tr>
-<th></th>
-<th><span hidden>hidden</span></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><sup>１</sup></td>
-<td>— わたしには父も母も、姉妹も兄弟もおらぬ。</td>
-</tr>
-<tr>
-<td></td>
-<td>— 友達か。</td>
-</tr>
-<tr>
-<td></td>
-<td>— あなたがお使いになっている言葉は、わたしには意味が今日に至るまで不明のままに残ったのだ。</td>
-</tr>
-<tr>
-<td><sup>５</sup></td>
-<td>— 祖国か。</td>
-</tr>
-<tr>
-<td></td>
-<td>— どんな緯度に位置付けられているかも知らぬ。</td>
-</tr>
-<tr>
-<td></td>
-<td>— 美しさか。</td>
-</tr>
-<tr>
-<td></td>
-<td>— 好きになっても良い、女神的死なぬもの。</td>
-</tr>
-<tr>
-<td></td>
-<td>— 黄金か。</td>
-</tr>
-<tr>
-<td><sup>１０</sup></td>
-<td>— あなたが神が嫌いのと同じように嫌い。</td>
-</tr>
-<tr>
-<td></td>
-<td>— いったい何が好きなの」か、並外れた異邦人よ。</td>
-</tr>
-<tr>
-<td><sup>１２</sup></td>
-<td>— わたしは雲々が好き...　あそこに...　あそこに...　通っている雲々、あのすばらしい雲々よ！</td>
-</tr>
-</tbody>
-</table>
+<ol class="doc">
+  <li value="1">— わたしには父も母も、姉妹も兄弟もおらぬ。</li>
+  <li>— 友達か。</li>
+  <li>— あなたがお使いになっている言葉は、わたしには意味が今日に至るまで不明のままに残ったのだ。</li>
+  <li value="5">— 祖国か。</li>
+  <li>— どんな緯度に位置付けられているかも知らぬ。</li>
+  <li>— 美しさか。</li>
+  <li>— 好きになっても良い、女神的死なぬもの。</li>
+  <li>— 黄金か。</li>
+  <li value="10">— あなたが神が嫌いのと同じように嫌い。</li>
+  <li>— いったい何が好きなの」か、並外れた異邦人よ。</li>
+  <li value="12">— わたしは雲々が好き...　あそこに...　あそこに...　通っている雲々、あのすばらしい雲々よ！</li>
+</ol>
 </div>
+
+
+<footer>
+  <p><a href="https://ja.wikipedia.org/wiki/シャルル・ボードレール" title="https://ja.wikipedia.org/wiki/シャルル・ボードレール"><ruby>シャルル<rp>（</rp><rt>Charles</rt><rp>）</rp>・<rp>（</rp><rt></rt><rp>）</rp>ボードレール<rp>（</rp><rt>BAUDELAIRE</rt><rp>）</rp></ruby></a>、「<ruby>異邦人<rp>（</rp><rt>L&#39;étranger</rt><rp>）</rp></ruby>」。</p>
+</footer>
+
+<aside>
 <div class="notices green">
-<dl>
-<dt>詩：</dt>
-<dd><a href="https://ja.wikipedia.org/wiki/シャルル・ボードレール" title="https://ja.wikipedia.org/wiki/シャルル・ボードレール"><ruby>シャルル<rp>(</rp><rt>Charles</rt><rp>)</rp>・<rp>(</rp><rt></rt><rp>)</rp>ボードレール<rp>(</rp><rt>BAUDELAIRE</rt><rp>)</rp></ruby></a>、「<ruby>異邦人<rp>(</rp><rt>L&#39;étranger</rt><rp>)</rp></ruby>」。</dd>
-<dd>【<a href="https://francois-vidit.com/blog/fr/ihoujin" title="l'étranger">フランス語での原文へのリンク</a>】</dd>
-<dt>日本語訳：</dt>
-<dd>独自</dd>
-<dd>【文書の御使用は「<a href="https://francois-vidit.com/blog/ja/ihoujin" title="異邦人"><ruby>フランソワ<rp>(</rp><rt>François</rt><rp>)</rp>・<rp>(</rp><rt></rt><rp>)</rp>ヴィディ<rp>(</rp><rt>VIDIT</rt><rp>)</rp></ruby></a> 訳」（リンクを含む）追加で可能としている】</dd>
-</dl>
+<p>日本語訳：独自</p>
+<p><a href="https://francois-vidit.com/blog/fr/ihoujin" title="l'étranger">フランス語での原文を読む</a></p>
+<p>【文書の御使用は「<a href="https://francois-vidit.com/blog/ja/ihoujin" title="異邦人"><ruby>フランソワ<rp>（</rp><rt>François</rt><rp>）</rp>・<rp>（</rp><rt></rt><rp>）</rp>ヴィディ<rp>（</rp><rt>VIDIT</rt><rp>）</rp></ruby></a> 訳」（リンクを含む）追加で可能としている】</p>
+</div>
+</aside>
+
+</article>
 `;
 
 
