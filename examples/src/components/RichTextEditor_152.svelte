@@ -116,7 +116,7 @@ Qui a raconté son origine?</p>
   <p>Dans le texte en latin “Novigentum” probablement sur le site de l'actuelle ville de Nogent-sur-Marne.</p>
 </div>
 <footer>
-  <p class="puce"><a href="#villa" title="villa">retour au texte ↩</a></p>
+  <p class="puce"><a href="#villa" title="villa">retour au texte&nbsp↩</a></p>
 </footer>
 
 <h4 id="note_deuteronome" class="green note">voyez, je suis le Seigneur</h4>
@@ -124,7 +124,7 @@ Qui a raconté son origine?</p>
   <p>Deuteronome, chapître <abbr title="trente-deux">XXXII</abbr>, verset 39: “Voyez-le, maintenant, c’est moi, et moi seul; pas d’autre dieu que moi; c’est moi qui fais mourir et vivre, si j’ai frappé, c’est moi qui guéris, et personne ne délivre de ma main”.</p>
 </div>
 <footer>
-  <p class="puce"><a href="#deuteronome" title="Deuteronome, XXXII, 39">retour au texte ↩</a></p>
+  <p class="puce"><a href="#deuteronome" title="Deuteronome, XXXII, 39">retour au texte&nbsp↩</a></p>
 </footer>
 
 <h4 id="note_engendre" class="green note">je t'ai enfanté de mon sein avant l'aurore</h4>
@@ -132,7 +132,7 @@ Qui a raconté son origine?</p>
   <p>Cette citation est un emprunt fait à la traduction par la Vulgate du Psaume <abbr title="cent-neuf">CIX</abbr>, 3 qui n’existe pas dans le texte original hébreu.</p>
 </div>
 <footer>
-  <p class="puce"><a href="#engendre" title="Je t'ai enfanté de mon sein avant l'aurore">retour au texte ↩</a></p>
+  <p class="puce"><a href="#engendre" title="Je t'ai enfanté de mon sein avant l'aurore">retour au texte&nbsp↩</a></p>
 </footer>
 
 <h4 id="note_verbe" class="green note">Il a envoyé son Verbe et il les a guéris</h4>
@@ -141,7 +141,7 @@ Qui a raconté son origine?</p>
   <p id="20" class="single-li">il envoie sa parole, il les guérit, il arrache leur vie à la fosse.</p>
 </div>
 <footer>
-  <p class="puce"><a href="#verbe" title="Il a envoyé son Verbe et il les a guéris">retour au texte ↩</a></p>
+  <p class="puce"><a href="#verbe" title="Il a envoyé son Verbe et il les a guéris">retour au texte&nbsp↩</a></p>
 </footer>
 
 <h4 id="note_enfanter" class="green note">pourquoi moi, qui fais enfanter les autres, ne pourrais-je également enfanter?</h4>
@@ -150,7 +150,7 @@ Qui a raconté son origine?</p>
   <p>Isaïe, chapître <abbr title="soixante-quatre">LXVI</abbr>, verset 9: “Est-ce que moi, j’ouvrirais un passage à la vie, et je ne ferais pas enfanter? – dit le Seigneur. Moi qui fais enfanter, je fermerais le passage de la vie? – dit ton Dieu.”.</p>
 </div>
 <footer>
-  <p class="puce"><a href="#enfanter" title="... ne pourrais-je également enfanter?">retour au texte ↩</a></p>
+  <p class="puce"><a href="#enfanter" title="... ne pourrais-je également enfanter?">retour au texte&nbsp↩</a></p>
 </footer>
 
 <h4 id="note_ecoute" class="green note">dieu devait devenir homme</h4>
@@ -160,7 +160,7 @@ Qui a raconté son origine?</p>
   <p id="9" class="single-li">“Rien n’est plus faux que le cœur de l’homme, il est incurable. Qui peut le connaître?”.</p>
 </div>
 <footer>
-  <p class="puce"><a href="#ecoute" title="Dieu devait devenir homme">retour au texte ↩</a></p>
+  <p class="puce"><a href="#ecoute" title="Dieu devait devenir homme">retour au texte&nbsp↩</a></p>
 </footer>
 
 <h4 id="note_luinotredieu" class="green note">c'est lui qui est notre Dieu</h4>
@@ -173,7 +173,7 @@ Qui a raconté son origine?</p>
   </ol>
 </div>
 <footer>
-  <p class="puce"><a href="#luinotredieu" title="Dieu devait devenir homme">retour au texte ↩</a></p>
+  <p class="puce"><a href="#luinotredieu" title="Dieu devait devenir homme">retour au texte&nbsp↩</a></p>
 </footer>
 
 <h4 id="note_vierge" class="green note">quant à sa naissance d'une vierge</h4>
@@ -183,7 +183,7 @@ Qui a raconté son origine?</p>
   <p class="conversation">“C’est-à-dire Dieu avec nous”.</p>
 </div>
 <footer>
-<p class="puce"><a href="#vierge" title="Quant à sa naissance d'une vierge">retour au texte ↩</a></p>
+<p class="puce"><a href="#vierge" title="Quant à sa naissance d'une vierge">retour au texte&nbsp↩</a></p>
 </footer>
 
 <h4 id="note_perce" class="green note">ils ont percé mes mains et mes pieds; ils ont partagé entre eux mes vêtements</h4>
@@ -195,7 +195,7 @@ Qui a raconté son origine?</p>
   </ol>
 </div>
 <footer>
-  <p class="puce"><a href="#perce" title="Ils ont percé mes mains et mes pieds; ils ont partagé entre eux mes vêtements">retour au texte ↩</a></p>
+  <p class="puce"><a href="#perce" title="Ils ont percé mes mains et mes pieds; ils ont partagé entre eux mes vêtements">retour au texte&nbsp↩</a></p>
 </footer>
 
 <h4 id="note_fiel" class="green note">ils m'ont donné pour ma nourriture du fiel et dans ma soif ils m'ont abreuvé de vinaigre</h4>
@@ -204,7 +204,7 @@ Qui a raconté son origine?</p>
    <p id="22" class="single-li">À mon pain, ils ont mêlé du poison; quand j'avais soif, ils m'ont donné du vinaigre.</p>
 </div>
 <footer>
-  <p class="puce"><a href="#fiel" title="Ils m'ont donné pour ma nourriture du fiel et dans ma soif ils m'ont abreuvé de vinaigre">retour au texte ↩</a></p>
+  <p class="puce"><a href="#fiel" title="Ils m'ont donné pour ma nourriture du fiel et dans ma soif ils m'ont abreuvé de vinaigre">retour au texte&nbsp↩</a></p>
 </footer>
 
 <h4 id="note_parlebois" class="green note">le Seigneur a régné par le bois</h4>
@@ -212,7 +212,7 @@ Qui a raconté son origine?</p>
   <p>Selon Buchner (“Zehn Bacher Geschichten”, <abbr title="deux">II</abbr>, <abbr title="page">p.<abbr>&nbsp11, note 7), ces mots seraient une interpolation chrétienne qui n'aurait pas été acceptée par les auteurs de la Vulgate.</p>
 </div>
 <footer>
-  <p class="puce"><a href="#parlebois" title="Le Seigneur a régné par le bois">retour au texte ↩</a></p>
+  <p class="puce"><a href="#parlebois" title="Le Seigneur a régné par le bois">retour au texte&nbsp↩</a></p>
 </footer>
 
 <h4 id="note_meurtrissure" class="green note">nous avons été guéris par sa meurtrissure</h4>
@@ -221,7 +221,7 @@ Qui a raconté son origine?</p>
   <p id="5" class="single-li">Or, c’est à cause de nos révoltes qu’il a été transpercé, à cause de nos fautes qu’il a été broyé. Le châtiment qui nous donne la paix a pesé sur lui: par ses blessures, nous sommes guéris.</p>
 </div>
 <footer>
-  <p class="puce"><a href="#meurtrissure" title="Nous avons été guéris par sa meurtrissure">retour au texte ↩</a></p>
+  <p class="puce"><a href="#meurtrissure" title="Nous avons été guéris par sa meurtrissure">retour au texte&nbsp↩</a></p>
 </footer>
 
 
@@ -231,7 +231,7 @@ Qui a raconté son origine?</p>
   <p id="7" class="single-li">Maltraité, il s’humilie, il n’ouvre pas la bouche: comme un agneau conduit à l’abattoir, comme une brebis muette devant les tondeurs, il n’ouvre pas la bouche.</p>
 </div>
 <footer>
-   <p class="puce"><a href="#commeunebrebis" title="Comme une brebis il a été mené à la tuerie">retour au texte ↩</a></p>
+   <p class="puce"><a href="#commeunebrebis" title="Comme une brebis il a été mené à la tuerie">retour au texte&nbsp↩</a></p>
 </footer>
 
 <h4 id="note_armees" class="green note">seigneur des armées est son nom</h4>
@@ -240,7 +240,7 @@ Qui a raconté son origine?</p>
   <p id="5" class="single-li">Car ton époux, c’est Celui qui t’a faite, son nom est «Le Seigneur de l’univers». Ton rédempteur, c’est le Saint d’Israël, il s’appelle «Dieu de toute la terre».</p>
 </div>
 <footer>
-  <p class="puce"><a href="#armees" title="Seigneur des armées est son nom">retour au texte ↩</a></p>
+  <p class="puce"><a href="#armees" title="Seigneur des armées est son nom">retour au texte&nbsp↩</a></p>
 </footer>
 
 <h4 id="note_lionceau" class="green note">les fils de ton père t'adoreront, lionceau Juda</h4>
@@ -254,7 +254,7 @@ Qui a raconté son origine?</p>
   </ol>
 </div>
 <footer>
-  <p class="puce"><a href="#lionceau" title="Les fils de ton père t'adoreront, lionceau Juda">retour au texte ↩</a></p>
+  <p class="puce"><a href="#lionceau" title="Les fils de ton père t'adoreront, lionceau Juda">retour au texte&nbsp↩</a></p>
 </footer>
 
 
@@ -265,7 +265,7 @@ Qui a raconté son origine?</p>
   <p id="18" class="single-li">Nul ne peut me l’enlever: je la donne de moi-même. J’ai le pouvoir de la donner, j’ai aussi le pouvoir de la recevoir de nouveau: voilà le commandement que j’ai reçu de mon Père.</p>
 </div>
 <footer>
-  <p class="puce"><a href="#reprendre" title="J'ai le pouvoir de quitter la vie...">retour au texte ↩</a></p>
+  <p class="puce"><a href="#reprendre" title="J'ai le pouvoir de quitter la vie...">retour au texte&nbsp↩</a></p>
 </footer>
 
 <h4 id="note_ressuciter" class="green note">celui qui ne croira pas que Dieu l'a ressuscité des morts ne pourra être sauvé</h4>
@@ -275,7 +275,7 @@ Qui a raconté son origine?</p>
   <p id="9" class="single-li">En effet, si de ta bouche, tu affirmes que Jésus est Seigneur, si, dans ton cœur, tu crois que Dieu l’a ressuscité d’entre les morts, alors tu seras sauvé.</p>
 </div>
 <footer>
-  <p class="puce"><a href="#ressuciter" title="... que Dieu l'a ressuscité des morts ne pourra être sauvé">retour au texte ↩</a></p>
+  <p class="puce"><a href="#ressuciter" title="... que Dieu l'a ressuscité des morts ne pourra être sauvé">retour au texte&nbsp↩</a></p>
 </footer>
 
 <h4 id="note_benir" class="green note">je ne te laisserai pas partir si tu ne me bénis pas</h4>
@@ -292,7 +292,7 @@ Qui a raconté son origine?</p>
   </ol>
 </div>
 <footer>
-  <p class="puce"><a href="#benir" title="Je ne te laisserai pas partir si tu ne me bénis pas">retour au texte ↩</a></p>
+  <p class="puce"><a href="#benir" title="Je ne te laisserai pas partir si tu ne me bénis pas">retour au texte&nbsp↩</a></p>
 </footer>
 
 </aside>
