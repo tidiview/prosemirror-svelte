@@ -10,7 +10,7 @@
 
 <p><time>２０２０年２月１２日</time></p>
 
-<h1 class="blue"><a href="/blog/ja/diotime/page:1" rel="bookmark">ディオティマによる愛</a></h1>
+<h1 class="blue">ディオティマによる愛</h1>
 
 <div class="notices blue">
 <p>プラトンの「饗宴」において、宴に集まった人々は、<ruby>愛<rp>(</rp><rt>エロス</rt><rp>)</rp></ruby>の意義について議論を交わす。<br />
@@ -57,6 +57,8 @@
 <li>けれども恋する者は私がお話し致しましたよ。他の姿を持っているのですよ」</li>
 </ol>
 </div>
+
+<aside>
 
 <h3 class="blue">注釈</span></h3>
 
@@ -123,6 +125,8 @@
 <footer>
   <p class="puce"><a href="#philosopher" title="知恵を愛求する">文書にに戻る&nbsp↩</a></p>
 </footer>
+
+</aside>
 
 </article>
 `;
