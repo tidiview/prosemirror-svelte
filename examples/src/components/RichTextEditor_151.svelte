@@ -21,8 +21,6 @@
 <ol class="doc-three-rows">
   <li data-id="【SOCRATE】">— Quel est son père, repris-je, et quelle est sa mère?</li>
   <li id="203b" data-id="【DIOTIME】">— C'est une assez longue histoire, répondit-elle. Je vais pourtant te la raconter.</li>
-  <li data-id="【SOCRATE】">— Quel est son père, repris-je, et quelle est sa mère?</li>
-  <li id="203b" data-id="【DIOTIME】">— C'est une assez longue histoire, répondit-elle. Je vais pourtant te la raconter.</li>
   <li>Il faut savoir que, le jour où naquit Aphrodite, les dieux festoyaient: parmi eux se trouvait le fils de Mètis, <a id="poros" href="/blog/ja/eros#note_poros">Poros</a>.</li>
   <li>Or, quand le banquet fut terminé arriva <a id="penia" href="/blog/ja/eros#note_penia">Pénia</a>, qui était venue mendier comme cela est naturel un jour de bombance, et elle se tenait sur le pas de la porte.</li>
   <li>Or Poros, qui s'était enivré de <a id="nectar" href="/blog/ja/eros#note_nectar">nectar</a>, car le vin n'existait pas encore à cette époque, se traîna dans le jardin de Zeus et, appesanti par l'ivresse, s'y endormit.</li>
