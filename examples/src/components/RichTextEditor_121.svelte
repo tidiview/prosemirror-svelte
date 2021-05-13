@@ -25,7 +25,7 @@
 
 <h3 class="green">第五章</h3>
 
-<p><ruby lang="ja">キルペリクス<rp>（</rp><rt lang="fr">Chilpéric</rt><rp>）</rp></ruby><span style="color: #3d778a;">王</span>がまだ上述の<a href="#note_villa" title="villa" id="villa" class="green">館</a>に滞在し、荷物を整理して搬出するよう指示し、<ruby lang="ja">パリシウス<rp>（</rp><rt lang="fr">Parisius</rt><rp>）</rp></ruby>［パリ］へ移動する算段をしていたころ、私は別れを告げに王のもとへ赴いた。
+<p><ruby lang="ja">キルペリクス<rp>（</rp><rt lang="fr">Chilpéric</rt><rp>）</rp></ruby><span style="color: #3d778a;">王</span>がまだ上述の<a href="#note_villa" title="villa" id="villa" class="green">館</a>に滞在し、荷物を整理して搬出するよう指示し、<ruby lang="ja">パ<rp>（</rp><rt lang="fr">Pa</rt><rp>）</rp>リ<rp>（</rp><rt lang="fr">ri</rt><rp>）</rp>シ<rp>（</rp><rt lang="fr">si</rt><rp>）</rp>ウス<rp>（</rp><rt lang="fr">us</rt><rp>）</rp></ruby>［パリ］へ移動する算段をしていたころ、私は別れを告げに王のもとへ赴いた。
 その時、王の商品購入を任されている<span style="color: #3d638a;">プリスクスという名のユダヤ人</span>がやって来た。</p>
 <p><span style="color: #3d778a;">王</span>はご機嫌を取るように手を彼の頭に乗せて、私に向って言った。</p>
 <p class="conversation">「こちらへおいで下さい、神のしもべよ、<span style="color: #3d778a;">「お手をこの人の頭に置きたまわんことを」</span>（マタイ伝、９、１８）</p>
