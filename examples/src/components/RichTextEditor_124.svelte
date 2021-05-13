@@ -33,8 +33,8 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.l
 <div class="notices green">
 <p>下記の<a href="https://ja.wikipedia.org/wiki/モナ・リザ" title="https://ja.wikipedia.org/wiki/モナ・リザ">モナ・リザ</a>の描写は<a href="https://ja.wikipedia.org/wiki/ジョルジョ・ヴァザーリ" title="https://ja.wikipedia.org/wiki/ジョルジョ・ヴァザーリ"><ruby lang="ja">ジョルジョ<rp>（</rp><rt lang="it">Giorgio</rt><rp>）</rp>・<rp>（</rp><rt lang="it">&#160;</rt><rp>）</rp>ヴァザーリ<rp>（</rp><rt lang="it">VASARI</rt><rp>）</rp></ruby></a>によって書かれ、最初に<time datetime="1550">１５５０年</time>に、後に<time datetime="1568">１５６８年</time>に改増され、フィレンツェで出版された。</p>
 <p>これらの文書は最もよく知られ、最も古く、最も信頼に値するものである。それで、その後の描写のほとんどに影響を与えた。</p>
-<p>ヴァザーリは自分自身が見たことのない絵画を描写している。なぜなら、絵画が当時フォンテーヌブローにあって、ヴァザーリがそこまで足を運んだことは一回もなかった。</p>
-<p>描写は、その作品の評判について教えてくれる。<time datetime="1503">１５０３年</time>ごろにフィレンツェで施されて、<a href="https://ja.wikipedia.org/wiki/レオナルド・ダ・ヴィンチ" title="https://ja.wikipedia.org/wiki/レオナルド・ダ・ヴィンチ">レオナルド・ダ・ヴィンチ</a>はそこで<time datetime="P4Y">四年間</time>没頭して、「リザ婦人」という「マドナ・リザ」、省略すると、モナ・リザの指名で、フランチェスコ・デル・ジョコンドの妻を表している。</p>
+<p>ヴァザーリは自分自身が見たことのない絵画を描写している。なぜなら、絵画が当時<a href="https://ja.wikipedia.org/wiki/フォンテーヌブロー" title="https://ja.wikipedia.org/wiki/フォンテーヌブロー"><ruby lang="ja">フォンテーヌブロー<rp>（</rp><rt lang="fr">Fontainebleau</rt><rp>）</rp></ruby></a>にあって、ヴァザーリがそこまで足を運んだことは一回もなかった。</p>
+<p>描写は、その作品の評判について教えてくれる。<time datetime="1503">１５０３年</time>ごろにフィレンツェで施されて、<a href="https://ja.wikipedia.org/wiki/レオナルド・ダ・ヴィンチ" title="https://ja.wikipedia.org/wiki/レオナルド・ダ・ヴィンチ">レオナルド・ダ・ヴィンチ</a>はそこで<time datetime="P4Y">四年間</time>没頭して、「<ruby>リザ婦人<rp>（</rp><rt>モナ・リザ</rt><rp>）</rp></ruby>」という、イタリア語で「マドナ・リザ」、省略すると、モナ・リザの指名で、フランチェスコ・デル・ジョコンドの妻を表している。</p>
 <p>この描写は何よりもヴァザーリにとっての価値を理解することも可能にしているのです。</p>
 </div>
 
@@ -43,7 +43,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.l
 <h2 id="vasari" class="yellow"><time datetime="1550">１５５０年</time>版の<cite><ruby lang="ja" style="letter-spacing: 2px;color:#3d8b3d;">画家・彫刻家・建築家列伝<rp>（</rp><rt lang="it" style="font-size: 70%;color:#3d8b3d;">le&#160;vite&#160;de&#39;&#160;piu&#160;eccelenti&#160;pittori,&#160;scultori&#160;e&#160;architettori</rt><rp>）</rp></ruby>の文書においての</cite><cite>モナ・リザ</cite></h2>
 
 <p>レオナルドは、<span style="color: #3d8b3d;"><ruby lang="ja">フランテスコ<rp>（</rp><rt lang="it">Francesco</rt><rp>）</rp>・<rp>（</rp><rt lang="it">&#160;</rt><rp>）</rp>デル<rp>（</rp><rt lang="it">del</rt><rp>）</rp>・<rp>（</rp><rt lang="it">&#160;</rt><rp>）</rp>ジョコンド<rp>（</rp><rt lang="it">Giocondo</rt><rp>）</rp></ruby>のために、妻<mark><ruby lang="ja">モナ<rp>（</rp><rt lang="it">Mona</rt><rp>）</rp>・<rp>（</rp><rt lang="it">&#160;</rt><rp>）</rp>リザ<rp>（</rp><rt lang="it">Lisa</rt><rp>）</rp></ruby></mark>の肖像画を請け負った</span>。そして、<time datetime="P4Y">四年間</time>悩んだ末に未完成のままにしてしまったのです。</p>
-<p>この作品は現在、<a href="https://ja.wikipedia.org/wiki/フォンテーヌブロー" title="https://ja.wikipedia.org/wiki/フォンテーヌブロー">フォンテーヌブロー</a>にあって、<a href="https://ja.wikipedia.org/wiki/フランソワ1世_(フランス王)" title="https://ja.wikipedia.org/wiki/フランソワ1世_(フランス王)">フランス国のフランソワ王</a>が所有しています。</p>
+<p>この作品は現在、フォンテーヌブローにあって、<a href="https://ja.wikipedia.org/wiki/フランソワ1世_(フランス王)" title="https://ja.wikipedia.org/wiki/フランソワ1世_(フランス王)">フランス国のフランソワ王</a>が所有しています。</p>
 <p><span style="color: #3d8b3d;">この頭には、芸術がいかに簡単に自然を模倣することができるかを</span>知りたい人は誰でも簡単に理解することができます。なぜならば、そこには精妙に描き得るもっとも細かい部分のすべてが贋作され尽くされていたからです。</p>
 <p>眼には、生きているものにいつも見られる水や艶があったからです。</p>
 <p>その周りには、青みがかった<ruby>薔<rp>（</rp><rt>ば</rt><rp>）</rp>薇<rp>（</rp><rt>ら</rt><rp>）</rp></ruby>色のまつ毛があり、これらは最高の精妙なしにはできません。</p>
