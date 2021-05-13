@@ -4,396 +4,303 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
-<p><span>１２</span>日<i class="fa fa-calendar-o fa-2x"></i></p>
-<p>１２月</p>
-<p><span>２０１９年</span></p>
+  const html = `<!-- FR:NONE EN:NONE -->
+
+<article>
+
+<p><time datetime="2019-12-12">２０１９年１２月１２日</time></p>
+
 <h1 class="blue"><a href="/blog/ja/psyche/page:1" rel="bookmark">プシケ物語</a></h1>
+
 <div class="notices blue">
-<p>以下の文書は、現在のアルジェリア北東のアラブ語では、「<a href="https://www.google.com/maps/place/アルジェリア メダウルッシュ/@36.0764165,7.8014141,14z/data=!3m1!4b1!4m5!3m4!1s0x12fa713a3874ef1d:0x432130819156115b!8m2!3d36.0756762!4d7.8204791" title="https://www.google.com/maps/place/アルジェリア+メダウルッシュ/@36.0764165,7.8014141,14z/data=!3m1!4b1!4m5!3m4!1s0x12fa713a3874ef1d:0x432130819156115b!8m2!3d36.0756762!4d7.8204791"><ruby lang="ja">メダウルッシュ<rp>(</rp><rt lang="ar">مداوروش</rt><rp>)</rp></ruby lang="ja"></a>」、古代のラテン語では、「<ruby lang="ja">マダウロス<rp>(</rp><rt lang="la">Madauros</rt><rp>)</rp></ruby lang="ja">」出身の<ruby lang="ja">アプレイウス<rp>(</rp><rt lang="la">Apuleius</rt><rp>)</rp></ruby lang="ja">が著わした、正式に『<ruby lang="ja">変容<rp>(</rp><rt lang="la">Metamorphoseon</rt><rp>)</rp></ruby lang="ja">の<ruby>十一冊の本<rp>(</rp><rt>libri&#160;XI</rt><rp>)</rp></ruby>』、略して、『<ruby lang="ja">変容<rp>(</rp><rt lang="la">Metamorphoses</rt><rp>)</rp></ruby lang="ja">』が、主人公<ruby lang="ja">ルキウス<rp>(</rp><rt lang="la">Lucius</rt><rp>)</rp></ruby lang="ja">が<ruby>驢馬<rp>(</rp><rt>ろば</rt><rp>)</rp></ruby>に変えられるため、親しんで、一般的に『<ruby lang="ja">黄金のろば<rp>(</rp><rt lang="la">Asinus&#160;aureus</rt><rp>)</rp></ruby lang="ja">』と呼称されてきた作品の一部であります。<br>
-紀元後１６０年から１８０年の間に書かれたと思われています。<br>
-全体的な解釈は、複数の階層が重なるため、専門家たちにさえ、とても難しく見えていましたが、今日まで、読者たちや芸術家たちなどを、神秘宗教や魔術の要素のためか、魅惑させ続けてきました。<br>
-その中、特に『<ruby>愛の神<rp>(</rp><rt>クピードー</rt><rp>)</rp></ruby>と<ruby>心霊の神<rp>(</rp><rt>プシケ</rt><rp>)</rp></ruby>の物語』と知られている以下の文書は一番有名だと断言できます。<br>
-一般に「プシケの物語」と呼ばれていて、『黄金のろば』においては、第４巻２８章から第６巻の２４章までであって、筋としては、あるおばあさんが盗賊たちに誘拐された処女の気を紛らせるために語ろうとして、作品全体の筋に挿入されている物語の形を取っています。<br>
-物語が終わると、アプレイウスが皮肉的に主人公ルキウスに「こんなに結構な物語を記し留めておく紙と筆とが手許にないのを、ひとえに残念がるばかりでした」と言わせていることで（第６巻２５章１）、著者が実際に、当時ローマ帝政<a href="#note_numidie" title="ヌミディア" id="numidie"><ruby lang="ja">ヌミディア<rp>(</rp><rt lang="la">Numidia</rt><rp>)</rp></ruby lang="ja">州</a>にあった<a href="#note_imazighen" title="アマーズィーグ族" id="imazighen"><ruby lang="ja">アマーズィーグ<rp>(</rp><rt lang="ber">ⴰⵎⴰⵣⵉⵖ</rt><rp>)</rp></ruby lang="ja">族</a>の口頭の物語に基づいていたことを意味している可能性を示しています。<br>
-以下の文書は、１９５６年に岩波文庫で出版された<a href="https://ja.wikipedia.org/wiki/呉茂一" title="https://ja.wikipedia.org/wiki/呉茂一"><ruby>呉<rp>(</rp><rt>くれ</rt><rp>)</rp>茂一<rp>(</rp><rt>しげいち</rt><rp>)</rp></ruby></a>の<a href="https://www.amazon.co.jp/黄金のろば-上巻-岩波文庫-赤-118-1/dp/4003211812" title="https://www.amazon.co.jp/黄金のろば-上巻-岩波文庫-赤-118-1/dp/4003211812">日本語訳</a>をもとに、１９７５年にフランス語で<ruby lang="ja">フォリオ<rp>(</rp><rt lang="fr">Folio</rt><rp>)</rp></ruby lang="ja">で出版された<a href="https://fr.wikipedia.org/wiki/Pierre_Grimal" title="https://fr.wikipedia.org/wiki/Pierre_Grimal"><ruby lang="ja">ピエル<rp>(</rp><rt lang="fr">Pierre</rt><rp>)</rp>・<rp>(</rp><rt lang="fr"></rt><rp>)</rp>グリマル<rp>(</rp><rt lang="fr">GRIMAL</rt><rp>)</rp></ruby lang="ja"></a>訳を対象に検討されたものです。<br>
-出来るだけ日本語での間違いがないように努力しているつもりですが、それでも残っていれば、お手数ですが、<a href="htpps://francois-vidit.com/ja#御問い合わせ" title="htpps://francois-vidit.com/ja#御問い合わせ">このリンク</a>で、改善のため、訂正の提供を宜しくお願いします。<br>
-　では、お楽しみください！</p>
+<p>以下の文書は、現在のアルジェリア北東のアラブ語では、「<a href="https://www.google.com/maps/place/アルジェリア メダウルッシュ/@36.0764165,7.8014141,14z/data=!3m1!4b1!4m5!3m4!1s0x12fa713a3874ef1d:0x432130819156115b!8m2!3d36.0756762!4d7.8204791" title="https://www.google.com/maps/place/アルジェリア+メダウルッシュ/@36.0764165,7.8014141,14z/data=!3m1!4b1!4m5!3m4!1s0x12fa713a3874ef1d:0x432130819156115b!8m2!3d36.0756762!4d7.8204791"><ruby lang="ja">メダウルッシュ<rp>(</rp><rt lang="ar">مداوروش</rt><rp>)</rp></ruby></a>」、古代のラテン語では、「<ruby lang="ja">マダウロス<rp>(</rp><rt lang="la">Madauros</rt><rp>)</rp></ruby>」出身の<ruby lang="ja">アプレイウス<rp>(</rp><rt lang="la">Apuleius</rt><rp>)</rp></ruby>が著わした、正式に『<ruby lang="ja">変容<rp>(</rp><rt lang="la">Metamorphoseon</rt><rp>)</rp></ruby>の<ruby>十一冊の本<rp>(</rp><rt>libri&#160;XI</rt><rp>)</rp></ruby>』、略して、『<ruby lang="ja">変容<rp>(</rp><rt lang="la">Metamorphoses</rt><rp>)</rp></ruby>』が、主人公<ruby lang="ja">ルキウス<rp>(</rp><rt lang="la">Lucius</rt><rp>)</rp></ruby>が<ruby>驢馬<rp>(</rp><rt>ろば</rt><rp>)</rp></ruby>に変えられるため、親しんで、一般的に『<ruby lang="ja">黄金のろば<rp>(</rp><rt lang="la">Asinus&#160;aureus</rt><rp>)</rp></ruby>』と呼称されてきた作品の一部であります。</p>
+<p>紀元後百六十年から百八十年の間に書かれたと思われています。</p>
+<p>全体的な解釈は、複数の階層が重なるため、専門家たちにさえ、とても難しく見えていましたが、今日まで、読者たちや芸術家たちなどを、神秘宗教や魔術の要素のためか、魅惑させ続けてきました。</p>
+<p>その中、特に『<ruby>愛の神<rp>(</rp><rt>クピードー</rt><rp>)</rp></ruby>と<ruby>心霊の神<rp>(</rp><rt>プシケ</rt><rp>)</rp></ruby>の物語』と知られている以下の文書は一番有名だと断言できます。</p>
+<p>一般に「プシケの物語」と呼ばれていて、『黄金のろば』においては、第４巻２８章から第６巻の２４章までであって、筋としては、あるおばあさんが盗賊たちに誘拐された処女の気を紛らせるために語ろうとして、作品全体の筋に挿入されている物語の形を取っています。</p>
+<p>物語が終わると、アプレイウスが皮肉的に主人公ルキウスに「こんなに結構な物語を記し留めておく紙と筆とが手許にないのを、ひとえに残念がるばかりでした」と言わせていることで（第六巻二十五章一）、著者が実際に、当時ローマ帝政<a href="#note_numidie" title="ヌミディア" id="numidie"><ruby lang="ja">ヌミディア<rp>(</rp><rt lang="la">Numidia</rt><rp>)</rp></ruby>州</a>にあった<a href="#note_imazighen" title="アマーズィーグ族" id="imazighen"><ruby lang="ja">アマーズィーグ<rp>(</rp><rt lang="ber">ⴰⵎⴰⵣⵉⵖ</rt><rp>)</rp></ruby>族</a>の口頭の物語に基づいていたことを意味している可能性を示しています。</p>
+<p>以下の文書は、<time datetime="1956">１９５６年</time>に岩波文庫で出版された<a href="https://ja.wikipedia.org/wiki/呉茂一" title="https://ja.wikipedia.org/wiki/呉茂一"><ruby>呉<rp>(</rp><rt>くれ</rt><rp>)</rp>茂一<rp>(</rp><rt>しげいち</rt><rp>)</rp></ruby></a>の<a href="https://www.amazon.co.jp/黄金のろば-上巻-岩波文庫-赤-118-1/dp/4003211812" title="https://www.amazon.co.jp/黄金のろば-上巻-岩波文庫-赤-118-1/dp/4003211812">日本語訳</a>をもとに、<time datetime="1975">１９７５年</time>にフランス語で<ruby lang="ja">フォリオ<rp>(</rp><rt lang="fr">Folio</rt><rp>)</rp></ruby>で出版された<a href="https://fr.wikipedia.org/wiki/Pierre_Grimal" title="https://fr.wikipedia.org/wiki/Pierre_Grimal"><ruby lang="ja">ピエル<rp>(</rp><rt lang="fr">Pierre</rt><rp>)</rp>・<rp>(</rp><rt lang="fr"></rt><rp>)</rp>グリマル<rp>(</rp><rt lang="fr">GRIMAL</rt><rp>)</rp></ruby></a>訳を対象に検討されたものです。</p>
+<p>出来るだけ日本語での間違いがないように努力しているつもりですが、それでも残っていれば、お手数ですが、<a href="htpps://francois-vidit.com/ja#御問い合わせ" title="htpps://francois-vidit.com/ja#御問い合わせ">このリンク</a>で、改善のため、訂正の提供を宜しくお願いします。</p>
+<p>　では、お楽しみください！</p>
 </div>
+
 <h2 class="blue">巻の四</h2>
-<table>
-<thead>
-<tr>
-<th></th>
-<th><span hidden="">hidden</span></th>
-</tr>
-</thead>
-<tbody>
-<tr><td><sup>２８</sup></td>
-<td>むかし或る国に王様とお妃とがおいでになって、あいだに三<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>の<ruby>容姿<rp>(</rp><rt>すがた</rt><rp>)</rp></ruby>もなみなみならず勝れた姫をお持ちでした。
+
+<li value="28">むかし或る国に王様とお妃とがおいでになって、あいだに三<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>の<ruby>容姿<rp>(</rp><rt>すがた</rt><rp>)</rp></ruby>もなみなみならず勝れた姫をお持ちでした。
 そのうち年長の姫たちは、<ruby>顔<rp>(</rp><rt>かお</rt><rp>)</rp>貌<rp>(</rp><rt>だち</rt><rp>)</rp></ruby>はまことにめでたくはおいでながら、ともかく人の世の賞め言葉でもしかるべくお<ruby>讃<rp>(</rp><rt>たた</rt><rp>)</rp></ruby>えすることができようと思われましたが、末のお姫さまのとりわけて立ち優った美しさといったら、貧弱な人間界の<ruby>語彙<rp>(</rp><rt>ことば</rt><rp>)</rp></ruby>などでは到底言い表わすことも、ましてや十分賞めそやすなど思いもよらない有様でした。
-そんなわけで国の内外から<ruby>尋常<rp>(</rp><rt>よのつね</rt><rp>)</rp></ruby>ならぬ姫の<ruby>御<rp>(</rp><rt>ご</rt><rp>)</rp>容色<rp>(</rp><rt>きりょう</rt><rp>)</rp></ruby>の噂を伝えて、多勢の人々がひたすらに群がり寄って参りましたが、皆々たぐえようもないお顔ばせのめでたさに胆を奪われて魂も<ruby>中有<rp>(</rp><rt>ちゅうう</rt><rp>)</rp></ruby>に飛び、終いには右手を<ruby>脣<rp>(</rp><rt>くちびる</rt><rp>)</rp></ruby>に当て、人差指を立てた親指に圧しつけたまま、まるでヴェヌスさま御自身でもあるかのように、うやうやしく<ruby>崇<rp>(</rp><rt>おが</rt><rp>)</rp></ruby>め敬うのでした。</td></tr>
-<tr><td></td>
-<td>幾程もなく国つづき一帯の土地にずっと拡まった噂では、あの紺青の海のそこひに生れ、<ruby>泡沫<rp>(</rp><rt>みなわ</rt><rp>)</rp></ruby>立つ波の<ruby>雫<rp>(</rp><rt>しずく</rt><rp>)</rp></ruby>に養われてお育ちになった<a href="#note_venus" title="ヴェヌス" id="venus">女神様</a>が、今こそ諸方の国々へとうといお慈みをお垂れになる心ばせから、衆生の間に立ち交わっておいでになるそうだとか、あるいはきっとまた天上の<ruby>滴<rp>(</rp><rt>しずく</rt><rp>)</rp></ruby>の新しい<ruby>萌芽<rp>(</rp><rt>めざし</rt><rp>)</rp></ruby>から、今度は海ではなくて大地が、もう<ruby>一<rp>(</rp><rt>ひと</rt><rp>)</rp>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>の乙女の華に装われた（新しい）ヴェヌスさまをお産みしたのに違いない、などというのでした。</td></tr>
-<tr><td><sup>２９</sup></td>
-<td>こういう風で日一日と際限もなくその話が広まり、近在の島々から<ruby>陸<rp>(</rp><rt>おか</rt><rp>)</rp></ruby>一面、はては世界中の大抵の国々へまでこの評判が行き<ruby>亙<rp>(</rp><rt>わた</rt><rp>)</rp></ruby>りますと、沢山の人達が長い旅路をかさね遠い海をわたりなどして、一代の<ruby>栄<rp>(</rp><rt>は</rt><rp>)</rp></ruby>えの<ruby>観<rp>(</rp><rt>み</rt><rp>)</rp>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>をと流れ込んでまいります。
-今では誰一人として<a href="#note_paphos" title="パフォス" id="paphos"><ruby lang="ja">パフォス<rp>(</rp><rt lang="grc">Πάφος</rt><rp>)</rp></ruby lang="ja"></a>や<a href="#note_paphos" title="クニドス" id="cnidos"><ruby lang="ja">クニドス<rp>(</rp><rt lang="grc">Κνίδος</rt><rp>)</rp></ruby lang="ja"></a>や、<a href="https://ja.wikipedia.org/wiki/キティラ島" title="https://ja.wikipedia.org/wiki/キティラ島"><ruby lang="ja">キュテラア<rp>(</rp><rt lang="grc">Τα&#160;Κύθηρα</rt><rp>)</rp></ruby lang="ja"></a>の島へさえ（本当の）ヴェヌスさまを拝みに舟を寄せるものはありません。
-<ruby>供<rp>(</rp><rt>く</rt><rp>)</rp>物<rp>(</rp><rt>もつ</rt><rp>)</rp></ruby>はとだえ社は<ruby>毀<rp>(</rp><rt>こわ</rt><rp>)</rp></ruby>れ、神様の御座所も汚れて祭儀もろくろく執り行われず、御像に懸けた花環もなくて侘しい祭壇は冷たい灰にまみれたままです。</td></tr>
-<tr><td></td>
-<td>人達が願いをかけるといえば、みなそのお姫さまへかける、そして人間のお姿を拝んでおいてこの広大な女神様の御神慮を<ruby>宥<rp>(</rp><rt>なだ</rt><rp>)</rp></ruby>めまつろうというわけで、若い姫君が<ruby>払暁<rp>(</rp><rt>あけがた</rt><rp>)</rp></ruby>におでましになるときなどには、いろいろな<ruby>贅<rp>(</rp><rt>にえ</rt><rp>)</rp>代<rp>(</rp><rt>しろ</rt><rp>)</rp></ruby>や山海の供物をおそなえして、そこにはおいでにもならぬヴェヌスさまの御名を呼んではお<ruby>慈<rp>(</rp><rt>いつくし</rt><rp>)</rp></ruby>みを乞い、はては町筋を姫がお通りになるというと、人々はいつものように花環を献げたり、散華を撤いたりして<ruby>礼<rp>(</rp><rt>らい</rt><rp>)</rp>敬<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>するという始末なのでした。</td></tr>
-<tr><td></td>
-<td>しかしこのように天上の尊栄を<ruby>濫<rp>(</rp><rt>みだ</rt><rp>)</rp></ruby>りに移して、不当にも死ぬはずの人間の<ruby>乙女<rp>(</rp><rt>おとめ</rt><rp>)</rp></ruby>を<ruby>拝<rp>(</rp><rt>おるが</rt><rp>)</rp></ruby>むことに<ruby>更<rp>(</rp><rt>か</rt><rp>)</rp></ruby>えてしまった始終は、本当のヴェヌスの<ruby>瞋<rp>(</rp><rt>しん</rt><rp>)</rp>恚<rp>(</rp><rt>に</rt><rp>)</rp></ruby>をはげしく<ruby>煽<rp>(</rp><rt>あお</rt><rp>)</rp></ruby>り立てずにはおきません。
-<ruby>憤<rp>(</rp><rt>いき</rt><rp>)</rp>懣<rp>(</rp><rt>どおり</rt><rp>)</rp></ruby>に耐えかねて頭をうち振りうち振り、ひどく猛り立ちながら女神はこう自問自答なさるのでした。</td></tr>
-<tr><td><sup>３０</sup></td>
-<td>「まあ見るがいい、宇宙万物のそもそもの産みの親だという私が、<ruby>四大五元<rp>(</rp><rt>あらゆるもの</rt><rp>)</rp></ruby>の初め<ruby>起原<rp>(</rp><rt>おこり</rt><rp>)</rp></ruby>がさ、まあ、全世界の慈みの母のヴェヌスとしたことが、人間のむすめなどと一緒にされて尊い位を<ruby>頒<rp>(</rp><rt>わけ</rt><rp>)</rp></ruby>あい、天上に<ruby>樹<rp>(</rp><rt>た</rt><rp>)</rp></ruby>てられたこの<ruby>名<rp>(</rp><rt>みょう</rt><rp>)</rp>号<rp>(</rp><rt>ごう</rt><rp>)</rp></ruby>、下界の<ruby>塵<rp>(</rp><rt>ちり</rt><rp>)</rp></ruby>や<ruby>芥<rp>(</rp><rt>あくた</rt><rp>)</rp></ruby>で汚されるなんて。
+そんなわけで国の内外から<ruby>尋常<rp>(</rp><rt>よのつね</rt><rp>)</rp></ruby>ならぬ姫の<ruby>御<rp>(</rp><rt>ご</rt><rp>)</rp>容色<rp>(</rp><rt>きりょう</rt><rp>)</rp></ruby>の噂を伝えて、多勢の人々がひたすらに群がり寄って参りましたが、皆々たぐえようもないお顔ばせのめでたさに胆を奪われて魂も<ruby>中有<rp>(</rp><rt>ちゅうう</rt><rp>)</rp></ruby>に飛び、終いには右手を<ruby>脣<rp>(</rp><rt>くちびる</rt><rp>)</rp></ruby>に当て、人差指を立てた親指に圧しつけたまま、まるでヴェヌスさま御自身でもあるかのように、うやうやしく<ruby>崇<rp>(</rp><rt>おが</rt><rp>)</rp></ruby>め敬うのでした。</li>
+<li>幾程もなく国つづき一帯の土地にずっと拡まった噂では、あの紺青の海のそこひに生れ、<ruby>泡沫<rp>(</rp><rt>みなわ</rt><rp>)</rp></ruby>立つ波の<ruby>雫<rp>(</rp><rt>しずく</rt><rp>)</rp></ruby>に養われてお育ちになった<a href="#note_venus" title="ヴェヌス" id="venus">女神様</a>が、今こそ諸方の国々へとうといお慈みをお垂れになる心ばせから、衆生の間に立ち交わっておいでになるそうだとか、あるいはきっとまた天上の<ruby>滴<rp>(</rp><rt>しずく</rt><rp>)</rp></ruby>の新しい<ruby>萌芽<rp>(</rp><rt>めざし</rt><rp>)</rp></ruby>から、今度は海ではなくて大地が、もう<ruby>一<rp>(</rp><rt>ひと</rt><rp>)</rp>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>の乙女の華に装われた（新しい）ヴェヌスさまをお産みしたのに違いない、などというのでした。</li>
+<li value="29">こういう風で日一日と際限もなくその話が広まり、近在の島々から<ruby>陸<rp>(</rp><rt>おか</rt><rp>)</rp></ruby>一面、はては世界中の大抵の国々へまでこの評判が行き<ruby>亙<rp>(</rp><rt>わた</rt><rp>)</rp></ruby>りますと、沢山の人達が長い旅路をかさね遠い海をわたりなどして、一代の<ruby>栄<rp>(</rp><rt>は</rt><rp>)</rp></ruby>えの<ruby>観<rp>(</rp><rt>み</rt><rp>)</rp>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>をと流れ込んでまいります。
+今では誰一人として<a href="#note_paphos" title="パフォス" id="paphos"><ruby lang="ja">パフォス<rp>(</rp><rt lang="grc">Πάφος</rt><rp>)</rp></ruby></a>や<a href="#note_paphos" title="クニドス" id="cnidos"><ruby lang="ja">クニドス<rp>(</rp><rt lang="grc">Κνίδος</rt><rp>)</rp></ruby></a>や、<a href="https://ja.wikipedia.org/wiki/キティラ島" title="https://ja.wikipedia.org/wiki/キティラ島"><ruby lang="ja">キュテラア<rp>(</rp><rt lang="grc">Τα&#160;Κύθηρα</rt><rp>)</rp></ruby></a>の島へさえ（本当の）ヴェヌスさまを拝みに舟を寄せるものはありません。
+<ruby>供<rp>(</rp><rt>く</rt><rp>)</rp>物<rp>(</rp><rt>もつ</rt><rp>)</rp></ruby>はとだえ社は<ruby>毀<rp>(</rp><rt>こわ</rt><rp>)</rp></ruby>れ、神様の御座所も汚れて祭儀もろくろく執り行われず、御像に懸けた花環もなくて侘しい祭壇は冷たい灰にまみれたままです。</li>
+<li>人達が願いをかけるといえば、みなそのお姫さまへかける、そして人間のお姿を拝んでおいてこの広大な女神様の御神慮を<ruby>宥<rp>(</rp><rt>なだ</rt><rp>)</rp></ruby>めまつろうというわけで、若い姫君が<ruby>払暁<rp>(</rp><rt>あけがた</rt><rp>)</rp></ruby>におでましになるときなどには、いろいろな<ruby>贅<rp>(</rp><rt>にえ</rt><rp>)</rp>代<rp>(</rp><rt>しろ</rt><rp>)</rp></ruby>や山海の供物をおそなえして、そこにはおいでにもならぬヴェヌスさまの御名を呼んではお<ruby>慈<rp>(</rp><rt>いつくし</rt><rp>)</rp></ruby>みを乞い、はては町筋を姫がお通りになるというと、人々はいつものように花環を献げたり、散華を撤いたりして<ruby>礼<rp>(</rp><rt>らい</rt><rp>)</rp>敬<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>するという始末なのでした。</li>
+<li>しかしこのように天上の尊栄を<ruby>濫<rp>(</rp><rt>みだ</rt><rp>)</rp></ruby>りに移して、不当にも死ぬはずの人間の<ruby>乙女<rp>(</rp><rt>おとめ</rt><rp>)</rp></ruby>を<ruby>拝<rp>(</rp><rt>おるが</rt><rp>)</rp></ruby>むことに<ruby>更<rp>(</rp><rt>か</rt><rp>)</rp></ruby>えてしまった始終は、本当のヴェヌスの<ruby>瞋<rp>(</rp><rt>しん</rt><rp>)</rp>恚<rp>(</rp><rt>に</rt><rp>)</rp></ruby>をはげしく<ruby>煽<rp>(</rp><rt>あお</rt><rp>)</rp></ruby>り立てずにはおきません。
+<ruby>憤<rp>(</rp><rt>いき</rt><rp>)</rp>懣<rp>(</rp><rt>どおり</rt><rp>)</rp></ruby>に耐えかねて頭をうち振りうち振り、ひどく猛り立ちながら女神はこう自問自答なさるのでした。</li>
+<li value="30">「まあ見るがいい、宇宙万物のそもそもの産みの親だという私が、<ruby>四大五元<rp>(</rp><rt>あらゆるもの</rt><rp>)</rp></ruby>の初め<ruby>起原<rp>(</rp><rt>おこり</rt><rp>)</rp></ruby>がさ、まあ、全世界の慈みの母のヴェヌスとしたことが、人間のむすめなどと一緒にされて尊い位を<ruby>頒<rp>(</rp><rt>わけ</rt><rp>)</rp></ruby>あい、天上に<ruby>樹<rp>(</rp><rt>た</rt><rp>)</rp></ruby>てられたこの<ruby>名<rp>(</rp><rt>みょう</rt><rp>)</rp>号<rp>(</rp><rt>ごう</rt><rp>)</rp></ruby>、下界の<ruby>塵<rp>(</rp><rt>ちり</rt><rp>)</rp></ruby>や<ruby>芥<rp>(</rp><rt>あくた</rt><rp>)</rp></ruby>で汚されるなんて。
 きっとこれからは神前への献げ物も、一緒に分けあい、信心さえも身代りで好い加減にすまされてしまうのに違いない、そればかりか死ぬはずの（人間の）<ruby>少女<rp>(</rp><rt>おとめ</rt><rp>)</rp></ruby>が私の似姿をふれて廻ることなのだろう。
-そうなったらあの<a href="#note_paris" title="パリス" id="paris">羊飼の少</a>年が、この私の世に類ない<ruby>麗容<rp>(</rp><rt>あですがた</rt><rp>)</rp></ruby>を、他の二柱の女神たちよりずっと上に置いてくれたのもなんにもなりはしない、ユッピテルさまだって、あの子の<ruby>判断<rp>(</rp><rt>みわけ</rt><rp>)</rp></ruby>は正当で確かなものだと言って下さったのにさ。</td></tr>
-<tr><td></td>
-<td>でもまあ、どんな女にもせよ、いつまでも好い気でもって私の栄誉を横奪りはさせとかないからね、見るがいいさ、いまにかえって自分の道に外れた<ruby>容色<rp>(</rp><rt>かおかたち</rt><rp>)</rp></ruby>を後悔するようにしてやるから。」</td></tr>
-<tr><td></td>
-<td>そこでヴェヌスは早速と自分の息子（<ruby>愛の神<rp>(</rp><rt>クピードー</rt><rp>)</rp></ruby>）を呼び寄せました。
+そうなったらあの<a href="#note_paris" title="パリス" id="paris">羊飼の少</a>年が、この私の世に類ない<ruby>麗容<rp>(</rp><rt>あですがた</rt><rp>)</rp></ruby>を、他の二柱の女神たちよりずっと上に置いてくれたのもなんにもなりはしない、ユッピテルさまだって、あの子の<ruby>判断<rp>(</rp><rt>みわけ</rt><rp>)</rp></ruby>は正当で確かなものだと言って下さったのにさ。</li>
+<li>でもまあ、どんな女にもせよ、いつまでも好い気でもって私の栄誉を横奪りはさせとかないからね、見るがいいさ、いまにかえって自分の道に外れた<ruby>容色<rp>(</rp><rt>かおかたち</rt><rp>)</rp></ruby>を後悔するようにしてやるから。」</li>
+<li>そこでヴェヌスは早速と自分の息子（<ruby>愛の神<rp>(</rp><rt>クピードー</rt><rp>)</rp></ruby>）を呼び寄せました。
 あの翼の生えた、随分と無考えな子供、いつも<ruby>質<rp>(</rp><rt>たち</rt><rp>)</rp></ruby>が悪くて公けのおきて定めも<ruby>蔑<rp>(</rp><rt>ないがし</rt><rp>)</rp></ruby>ろにし、<ruby>火<rp>(</rp><rt>か</rt><rp>)</rp>焔<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>（火炎）だの矢だのに身を固めては、他人の家屋敷を夜よなか駈ずり廻り、ひとの夫婦仲を滅茶滅茶にしたりして、罪も受けずに酷い悪行を働き、よい事はこれっぱかりもしないという子供です。
-この生れついた<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp>儘<rp>(</rp><rt>ずい</rt><rp>)</rp>気<rp>(</rp><rt>き</rt><rp>)</rp>随<rp>(</rp><rt>まま</rt><rp>)</rp></ruby>で始末にもおえない子を、ヴェヌスはまだそれでも足らずに口先きで<ruby>嗾<rp>(</rp><rt>けしか</rt><rp>)</rp></ruby>げたあげく、例の都へ連れて行って<a href="#note_psyche" title="プシケ" id="psyche">プシケ</a>——例の<ruby>少女<rp>(</rp><rt>おとめ</rt><rp>)</rp></ruby>はこう呼ばれていましたので——を眼に指し示し、前の<ruby>容色<rp>(</rp><rt>きりよう</rt><rp>)</rp></ruby>争いの一部始終をすっかりと話して聞かせたうえ、腹立ちのあまり<ruby>歎<rp>(</rp><rt>たん</rt><rp>)</rp>息<rp>(</rp><rt>そく</rt><rp>)</rp></ruby>をついたり<ruby>猛<rp>(</rp><rt>たけ</rt><rp>)</rp></ruby>り立ったりして言うことには、</td></tr>
-<tr><td><sup>３１</sup></td>
-<td>「どうかお前、<ruby>母<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>と子の切れない<ruby>縁<rp>(</rp><rt>えにし</rt><rp>)</rp></ruby>にかけて、お前の弓矢の快い痛手に、その<ruby>焔<rp>(</rp><rt>ほのお</rt><rp>)</rp></ruby>の<ruby>蜜<rp>(</rp><rt>みち</rt><rp>)</rp></ruby>のように甘い<ruby>焼<rp>(</rp><rt>や</rt><rp>)</rp>傷<rp>(</rp><rt>けど</rt><rp>)</rp></ruby>にかけて、頼むからお母さんの<ruby>仇<rp>(</rp><rt>あだ</rt><rp>)</rp></ruby>を取っておくれ、十分にだよ、そして<ruby>容色<rp>(</rp><rt>きりょう</rt><rp>)</rp></ruby>を鼻にかけてるのをうんとどやしてやっておくれな。
-それとね、このこと、何をおいてもこれだけは忘れずにやって貰いたいのは、あの小娘が世界で一番卑しい人間と、この上もなくはげしい恋におちいるようにね、で、その男というのは地位も財産も一身の安全さえも運の神様に見放されて、世界中を探してもこれほどにみじめな者はあるまいというくらいな（ひどい）人にしておくれ。」</td></tr>
-<tr><td></td>
-<td>こういうとヴェヌスは息子に、長いあいだ<ruby>緊<rp>(</rp><rt>しっ</rt><rp>)</rp></ruby>かりと<ruby>接吻<rp>(</rp><rt>くちづけ</rt><rp>)</rp></ruby>をしてやりまして、程もなく潮の巻きかえす近くの浜辺に赴き、薔薇色の<ruby>御<rp>(</rp><rt>おみ</rt><rp>)</rp>足<rp>(</rp><rt>あし</rt><rp>)</rp></ruby>でたゆとう波の頂きを踏みながら進んでいらっしゃると、見る見る深い海原が（底から）頂上まで澄みわたって<ruby>鎮<rp>(</rp><rt>しず</rt><rp>)</rp></ruby>まり返ります、そして女神が御胸にまだお思いになるかならぬに、もうすぐとまるで前からのお指図みたいに、海の<ruby>眷<rp>(</rp><rt>けん</rt><rp>)</rp>属<rp>(</rp><rt>ぞく</rt><rp>)</rp></ruby>どもがわれ後れじと、御用を勤めにやって来るのでした。
-<a href="https://ja.wikipedia.org/wiki/ネーレウス_(ギリシア神話の神)" title="https://ja.wikipedia.org/wiki/ネーレウス_(ギリシア神話の神)"><ruby lang="ja">ネーレウス<rp>(</rp><rt lang="grc">Νηρεύς</rt><rp>)</rp></ruby lang="ja"></a>の娘らの<ruby>歌<rp>(</rp><rt>うた</rt><rp>)</rp>舞<rp>(</rp><rt>まい</rt><rp>)</rp></ruby>の群も来れば、青い髪のざらざらしたボルトゥーヌス（古いローマの港の神）も、お腹に一ぱい重く魚を入れた<a href="#note_salacia" title="サラーキア" id="salacia"><ruby lang="ja">サラーキア<rp>(</rp><rt lang="la">Salacia</rt><rp>)</rp></ruby lang="ja"></a>も、<ruby>海豚<rp>(</rp><rt>いるか</rt><rp>)</rp></ruby>に跨がっているちっぽけな<a href="#note_palaimon" title="パライモーン" id="palaimon"><ruby lang="ja">パライモーン<rp>(</rp><rt lang="grc">Παλαίμων</rt><rp>)</rp></ruby lang="ja"></a>も出て参ります。</td></tr>
-<tr><td></td>
-<td>観れば<ruby>忽<rp>(</rp><rt>たちま</rt><rp>)</rp></ruby>ちにあちらこちらから海中を跳んで、<a href="https://ja.wikipedia.org/wiki/トリートーン" title="https://ja.wikipedia.org/wiki/トリートーン"><ruby lang="ja">トリトーン<rp>(</rp><rt lang="grc">Τρίτων</rt><rp>)</rp></ruby lang="ja"></a>の群もやって来ます、<ruby>嚠喨<rp>(</rp><rt>おともたか</rt><rp>)</rp></ruby>い<ruby>法<rp>(</rp><rt>ほ</rt><rp>)</rp>螺<rp>(</rp><rt>ら</rt><rp>)</rp>貝<rp>(</rp><rt>がい</rt><rp>)</rp></ruby>を<ruby>暢<rp>(</rp><rt>の</rt><rp>)</rp></ruby>びやかに吹き立てるのもあれば、絹の暈をさしかけて燃えるような太陽の意地悪い光をお<ruby>遮<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>けするのや、鏡をもって女神様の<ruby>御<rp>(</rp><rt>お</rt><rp>)</rp>頭<rp>(</rp><rt>つむり</rt><rp>)</rp></ruby>さきに差し出すものや、他のはまた二人組で御輦の下を泳いでまいります。
-こうした群勢を引きつれてしずしずとヴェヌスは大海原へ進んでいらっしゃいました。</td></tr>
-<tr><td><sup>３２</sup></td>
-<td>一方プシケは人並み勝れた<ruby>容姿<rp>(</rp><rt>きりょう</rt><rp>)</rp></ruby>を持ちながら、まるで何一つ自分の美しさの徳を<ruby>享<rp>(</rp><rt>う</rt><rp>)</rp></ruby>けてはいませんでした。
+この生れついた<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp>儘<rp>(</rp><rt>ずい</rt><rp>)</rp>気<rp>(</rp><rt>き</rt><rp>)</rp>随<rp>(</rp><rt>まま</rt><rp>)</rp></ruby>で始末にもおえない子を、ヴェヌスはまだそれでも足らずに口先きで<ruby>嗾<rp>(</rp><rt>けしか</rt><rp>)</rp></ruby>げたあげく、例の都へ連れて行って<a href="#note_psyche" title="プシケ" id="psyche">プシケ</a>——例の<ruby>少女<rp>(</rp><rt>おとめ</rt><rp>)</rp></ruby>はこう呼ばれていましたので——を眼に指し示し、前の<ruby>容色<rp>(</rp><rt>きりよう</rt><rp>)</rp></ruby>争いの一部始終をすっかりと話して聞かせたうえ、腹立ちのあまり<ruby>歎<rp>(</rp><rt>たん</rt><rp>)</rp>息<rp>(</rp><rt>そく</rt><rp>)</rp></ruby>をついたり<ruby>猛<rp>(</rp><rt>たけ</rt><rp>)</rp></ruby>り立ったりして言うことには、</li>
+<li value="31">「どうかお前、<ruby>母<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>と子の切れない<ruby>縁<rp>(</rp><rt>えにし</rt><rp>)</rp></ruby>にかけて、お前の弓矢の快い痛手に、その<ruby>焔<rp>(</rp><rt>ほのお</rt><rp>)</rp></ruby>の<ruby>蜜<rp>(</rp><rt>みち</rt><rp>)</rp></ruby>のように甘い<ruby>焼<rp>(</rp><rt>や</rt><rp>)</rp>傷<rp>(</rp><rt>けど</rt><rp>)</rp></ruby>にかけて、頼むからお母さんの<ruby>仇<rp>(</rp><rt>あだ</rt><rp>)</rp></ruby>を取っておくれ、十分にだよ、そして<ruby>容色<rp>(</rp><rt>きりょう</rt><rp>)</rp></ruby>を鼻にかけてるのをうんとどやしてやっておくれな。
+それとね、このこと、何をおいてもこれだけは忘れずにやって貰いたいのは、あの小娘が世界で一番卑しい人間と、この上もなくはげしい恋におちいるようにね、で、その男というのは地位も財産も一身の安全さえも運の神様に見放されて、世界中を探してもこれほどにみじめな者はあるまいというくらいな（ひどい）人にしておくれ。」</li>
+<li>こういうとヴェヌスは息子に、長いあいだ<ruby>緊<rp>(</rp><rt>しっ</rt><rp>)</rp></ruby>かりと<ruby>接吻<rp>(</rp><rt>くちづけ</rt><rp>)</rp></ruby>をしてやりまして、程もなく潮の巻きかえす近くの浜辺に赴き、薔薇色の<ruby>御<rp>(</rp><rt>おみ</rt><rp>)</rp>足<rp>(</rp><rt>あし</rt><rp>)</rp></ruby>でたゆとう波の頂きを踏みながら進んでいらっしゃると、見る見る深い海原が（底から）頂上まで澄みわたって<ruby>鎮<rp>(</rp><rt>しず</rt><rp>)</rp></ruby>まり返ります、そして女神が御胸にまだお思いになるかならぬに、もうすぐとまるで前からのお指図みたいに、海の<ruby>眷<rp>(</rp><rt>けん</rt><rp>)</rp>属<rp>(</rp><rt>ぞく</rt><rp>)</rp></ruby>どもがわれ後れじと、御用を勤めにやって来るのでした。
+<a href="https://ja.wikipedia.org/wiki/ネーレウス_(ギリシア神話の神)" title="https://ja.wikipedia.org/wiki/ネーレウス_(ギリシア神話の神)"><ruby lang="ja">ネーレウス<rp>(</rp><rt lang="grc">Νηρεύς</rt><rp>)</rp></ruby></a>の娘らの<ruby>歌<rp>(</rp><rt>うた</rt><rp>)</rp>舞<rp>(</rp><rt>まい</rt><rp>)</rp></ruby>の群も来れば、青い髪のざらざらしたボルトゥーヌス（古いローマの港の神）も、お腹に一ぱい重く魚を入れた<a href="#note_salacia" title="サラーキア" id="salacia"><ruby lang="ja">サラーキア<rp>(</rp><rt lang="la">Salacia</rt><rp>)</rp></ruby></a>も、<ruby>海豚<rp>(</rp><rt>いるか</rt><rp>)</rp></ruby>に跨がっているちっぽけな<a href="#note_palaimon" title="パライモーン" id="palaimon"><ruby lang="ja">パライモーン<rp>(</rp><rt lang="grc">Παλαίμων</rt><rp>)</rp></ruby></a>も出て参ります。</li>
+<li>観れば<ruby>忽<rp>(</rp><rt>たちま</rt><rp>)</rp></ruby>ちにあちらこちらから海中を跳んで、<a href="https://ja.wikipedia.org/wiki/トリートーン" title="https://ja.wikipedia.org/wiki/トリートーン"><ruby lang="ja">トリトーン<rp>(</rp><rt lang="grc">Τρίτων</rt><rp>)</rp></ruby></a>の群もやって来ます、<ruby>嚠喨<rp>(</rp><rt>おともたか</rt><rp>)</rp></ruby>い<ruby>法<rp>(</rp><rt>ほ</rt><rp>)</rp>螺<rp>(</rp><rt>ら</rt><rp>)</rp>貝<rp>(</rp><rt>がい</rt><rp>)</rp></ruby>を<ruby>暢<rp>(</rp><rt>の</rt><rp>)</rp></ruby>びやかに吹き立てるのもあれば、絹の暈をさしかけて燃えるような太陽の意地悪い光をお<ruby>遮<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>けするのや、鏡をもって女神様の<ruby>御<rp>(</rp><rt>お</rt><rp>)</rp>頭<rp>(</rp><rt>つむり</rt><rp>)</rp></ruby>さきに差し出すものや、他のはまた二人組で御輦の下を泳いでまいります。
+こうした群勢を引きつれてしずしずとヴェヌスは大海原へ進んでいらっしゃいました。</li>
+<li value="32">一方プシケは人並み勝れた<ruby>容姿<rp>(</rp><rt>きりょう</rt><rp>)</rp></ruby>を持ちながら、まるで何一つ自分の美しさの徳を<ruby>享<rp>(</rp><rt>う</rt><rp>)</rp></ruby>けてはいませんでした。
 万人に等しく仰ぎ<ruby>瞻<rp>(</rp><rt>み</rt><rp>)</rp></ruby>られ、万人から賞め讃えられはしても、国王にも王子にもそれどころか庶民の間にさえ、誰一人として姫の婿にと望んで来る者がありません。
-さて女神様のように気高いその姿に感じ入りはしても、みな巧妙に<ruby>鏤<rp>(</rp><rt>え</rt><rp>)</rp></ruby>り刻まれた御像でも賞めあうような工合で、もうとっくに二人の姉の方は、程々の<ruby>容色<rp>(</rp><rt>きりょう</rt><rp>)</rp></ruby>で国人の誰彼が別に<ruby>称<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby>め伝えるというわけでもないのに、近国の王様と<ruby>縁<rp>(</rp><rt>えん</rt><rp>)</rp>組<rp>(</rp><rt>ぐみ</rt><rp>)</rp></ruby>して、幸福な結婚を楽しんでいるのに引き替え、プシケ姫はまだ良人もなく、ひとり家に籠っては捨小舟の<ruby>侘<rp>(</rp><rt>わび</rt><rp>)</rp></ruby>しさをかこち、身も安からず心も傷み、あらゆる人から讃めたたえられる自分の容色を、自身はひそかに呪っている有様でした。</td></tr>
-<tr><td></td>
-<td>こんな次第で<ruby>不<rp>(</rp><rt>ふ</rt><rp>)</rp>幸<rp>(</rp><rt>しあわせ</rt><rp>)</rp></ruby>な姫の父王も大変お困りになり、もしや天上の神々のお憎しみからか、または神怒の<ruby>所為<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>でもと畏れ気遣い、<a href="#note_palaimon" title="パライモーン" id="apollo"><ruby lang="ja">ミレトス<rp>(</rp><rt lang="grc">Μίλητος</rt><rp>)</rp></ruby lang="ja">においでの神様</a>の大昔から伝わた御<ruby>託<rp>(</rp><rt>たく</rt><rp>)</rp>宣<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>を伺うことにし、<ruby>祈<rp>(</rp><rt>き</rt><rp>)</rp>禱<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>をしたり供物を捧げたりして、大神さまにこの求め手もない<ruby>少女<rp>(</rp><rt>おとめ</rt><rp>)</rp></ruby>に縁組と良人とを授けて下さいますよう、お願い致しました。
-すると、アポローンはギリシアのしかもイオニアの神様ですけれど、このミレトス物語の作者のために、<a href="#note_latin" title="ラテンの言葉で" id="latin">ラテンの言葉で</a>こう御託宣なさいました。</td></tr>
-<tr><td><sup>３３</sup></td>
-<td>高い山の<ruby>嶺<rp>(</rp><rt>いただき</rt><rp>)</rp></ruby>に、主よ、その<ruby>少女<rp>(</rp><rt>おとめ</rt><rp>)</rp></ruby>を置け、死に行く嫁入りの、継いに飾らせて、また婿として人間の<ruby>胤<rp>(</rp><rt>たね</rt><rp>)</rp></ruby>から出た者をでなく、荒く<ruby>猛<rp>(</rp><rt>たけ</rt><rp>)</rp></ruby>しく<ruby>蝮<rp>(</rp><rt>まむし</rt><rp>)</rp></ruby>のように怪物を待ち設けるがいい。翼をもって虚空を高く<ruby>飛<rp>(</rp><rt>ひ</rt><rp>)</rp>行<rp>(</rp><rt>ぎよう</rt><rp>)</rp></ruby>しあるき、万物を責め、<ruby>焔<rp>(</rp><rt>ほのお</rt><rp>)</rp></ruby>をもってすべてのものを痛め弱らす怪物、その者をユッピテルさえも<ruby>懼<rp>(</rp><rt>く</rt><rp>)</rp></ruby>れ、神々も彼には恐れをなし、諸川も、<ruby>三途<rp>(</rp><rt>ステュクス</rt><rp>)</rp></ruby>の河の<ruby>暗<rp>(</rp><rt>くら</rt><rp>)</rp>闇<rp>(</rp><rt>やみ</rt><rp>)</rp></ruby>さえも怖気をふるう怪物なのだ。</td></tr>
-<tr><td></td>
-<td>前には仕合せだった王様も、この聖なるお告げを頂くと、足も重く暗い心で御殿に立ち戻り、奥様にこの情けない御神託のお指図をうちあけました。
+さて女神様のように気高いその姿に感じ入りはしても、みな巧妙に<ruby>鏤<rp>(</rp><rt>え</rt><rp>)</rp></ruby>り刻まれた御像でも賞めあうような工合で、もうとっくに二人の姉の方は、程々の<ruby>容色<rp>(</rp><rt>きりょう</rt><rp>)</rp></ruby>で国人の誰彼が別に<ruby>称<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby>め伝えるというわけでもないのに、近国の王様と<ruby>縁<rp>(</rp><rt>えん</rt><rp>)</rp>組<rp>(</rp><rt>ぐみ</rt><rp>)</rp></ruby>して、幸福な結婚を楽しんでいるのに引き替え、プシケ姫はまだ良人もなく、ひとり家に籠っては捨小舟の<ruby>侘<rp>(</rp><rt>わび</rt><rp>)</rp></ruby>しさをかこち、身も安からず心も傷み、あらゆる人から讃めたたえられる自分の容色を、自身はひそかに呪っている有様でした。</li>
+<li>こんな次第で<ruby>不<rp>(</rp><rt>ふ</rt><rp>)</rp>幸<rp>(</rp><rt>しあわせ</rt><rp>)</rp></ruby>な姫の父王も大変お困りになり、もしや天上の神々のお憎しみからか、または神怒の<ruby>所為<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>でもと畏れ気遣い、<a href="#note_palaimon" title="パライモーン" id="apollo"><ruby lang="ja">ミレトス<rp>(</rp><rt lang="grc">Μίλητος</rt><rp>)</rp></ruby>においでの神様</a>の大昔から伝わた御<ruby>託<rp>(</rp><rt>たく</rt><rp>)</rp>宣<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>を伺うことにし、<ruby>祈<rp>(</rp><rt>き</rt><rp>)</rp>禱<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>をしたり供物を捧げたりして、大神さまにこの求め手もない<ruby>少女<rp>(</rp><rt>おとめ</rt><rp>)</rp></ruby>に縁組と良人とを授けて下さいますよう、お願い致しました。
+すると、アポローンはギリシアのしかもイオニアの神様ですけれど、このミレトス物語の作者のために、<a href="#note_latin" title="ラテンの言葉で" id="latin">ラテンの言葉で</a>こう御託宣なさいました。</li>
+<li value="33">高い山の<ruby>嶺<rp>(</rp><rt>いただき</rt><rp>)</rp></ruby>に、主よ、その<ruby>少女<rp>(</rp><rt>おとめ</rt><rp>)</rp></ruby>を置け、死に行く嫁入りの、継いに飾らせて、また婿として人間の<ruby>胤<rp>(</rp><rt>たね</rt><rp>)</rp></ruby>から出た者をでなく、荒く<ruby>猛<rp>(</rp><rt>たけ</rt><rp>)</rp></ruby>しく<ruby>蝮<rp>(</rp><rt>まむし</rt><rp>)</rp></ruby>のように怪物を待ち設けるがいい。翼をもって虚空を高く<ruby>飛<rp>(</rp><rt>ひ</rt><rp>)</rp>行<rp>(</rp><rt>ぎよう</rt><rp>)</rp></ruby>しあるき、万物を責め、<ruby>焔<rp>(</rp><rt>ほのお</rt><rp>)</rp></ruby>をもってすべてのものを痛め弱らす怪物、その者をユッピテルさえも<ruby>懼<rp>(</rp><rt>く</rt><rp>)</rp></ruby>れ、神々も彼には恐れをなし、諸川も、<ruby>三途<rp>(</rp><rt>ステュクス</rt><rp>)</rp></ruby>の河の<ruby>暗<rp>(</rp><rt>くら</rt><rp>)</rp>闇<rp>(</rp><rt>やみ</rt><rp>)</rp></ruby>さえも怖気をふるう怪物なのだ。</li>
+<li>前には仕合せだった王様も、この聖なるお告げを頂くと、足も重く暗い心で御殿に立ち戻り、奥様にこの情けない御神託のお指図をうちあけました。
 何日となく皆して歎き悲しみ、涙をこぼしたりして悼みつづけるうちにも、酷いお告げのはたされる日は容赦なく迫って参ります。
 そしてとうとう哀れな少女を<ruby>葬<rp>(</rp><rt>とむら</rt><rp>)</rp></ruby>いのお嫁入りに<ruby>装<rp>(</rp><rt>よおそ</rt><rp>)</rp></ruby>い立たせるという時が来ました。
-その<ruby>松明<rp>(</rp><rt>たいまつ</rt><rp>)</rp></ruby>の輝きも<a href="#note_flammeum" title="緋色の面帕" id="suie">黒い<ruby>煤<rp>(</rp><rt>すす</rt><rp>)</rp></ruby></a>の燃えくずで<ruby>朧<rp>(</rp><rt>おぼろ</rt><rp>)</rp></ruby>にかすみ、婚礼の祝い笛の音もいつしか物悲しい<a href="https://ja.wikipedia.org/wiki/リュディア" title="https://ja.wikipedia.org/wiki/リュディア"><ruby lang="ja">リュディア<rp>(</rp><rt lang="grc">Λυδία</rt><rp>)</rp></ruby lang="ja"></a>風のかごとに変ってゆきます、陽気な嫁入<ruby>唄<rp>(</rp><rt>うた</rt><rp>)</rp></ruby>もついには<ruby>陰<rp>(</rp><rt>いん</rt><rp>)</rp>鬱<rp>(</rp><rt>うつ</rt><rp>)</rp></ruby>な<ruby>衰<rp>(</rp><rt>あい</rt><rp>)</rp>悼<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>の叫びごえと<ruby>化<rp>(</rp><rt>な</rt><rp>)</rp></ruby>ってしまって、お嫁入りするはずの少女が、なんということでしょう、（婚礼の）<a href="https://ja.wikipedia.org/wiki/呉茂一" title="https://ja.wikipedia.org/wiki/呉茂一" id="flammeum"><ruby>緋<rp>(</rp><rt>ひ</rt><rp>)</rp>色<rp>(</rp><rt>いろ</rt><rp>)</rp></ruby>の<ruby>面帕<rp>(</rp><rt>かおぎね</rt><rp>)</rp></ruby></a>でそっと涙を拭いてるという始末です。</td></tr>
-<tr><td></td>
-<td>こうした不仕合せな王家の悲しい御運に、町中の人々ももろとも<ruby>歎<rp>(</rp><rt>なげ</rt><rp>)</rp></ruby>きをお頒けし、皆々の<ruby>哀<rp>(</rp><rt>あい</rt><rp>)</rp>痛<rp>(</rp><rt>つう</rt><rp>)</rp></ruby>から、やがてその日は誰彼となく仕事を休んで、喪に<ruby>服<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>くという布令をいたしました。</td></tr>
-<tr><td><sup>３４</sup></td>
-<td>しかし神様の<ruby>御<rp>(</rp><rt>お</rt><rp>)</rp>令<rp>(</rp><rt>いいつけ</rt><rp>)</rp></ruby>には従うよりありませんので、可哀そうにプシケは定められた<ruby>処<rp>(</rp><rt>し</rt><rp>)</rp>置<rp>(</rp><rt>おき</rt><rp>)</rp></ruby>をよんどころなく受けることになって、お<ruby>葬<rp>(</rp><rt>とむら</rt><rp>)</rp></ruby>いじみた婚礼の儀式を一同の<ruby>劇<rp>(</rp><rt>はげ</rt><rp>)</rp></ruby>しい悲しみの中にも残りなく執り行ったうえ、町中の人を後ろに引き<ruby>随<rp>(</rp><rt>したが</rt><rp>)</rp></ruby>えて生きながらの葬式が宮殿から繰り出され、こうやってプシケは涙ながらに嫁入りではなくて、自分の法事に連れてゆかれたのでございます。
-さて悲歎にくれた両親があまりの<ruby>不<rp>(</rp><rt>ふ</rt><rp>)</rp>憫<rp>(</rp><rt>びん</rt><rp>)</rp></ruby>さに心もくじけて、この酷たらしい<ruby>所<rp>(</rp><rt>しょ</rt><rp>)</rp>業<rp>(</rp><rt>ぎょう</rt><rp>)</rp></ruby>をやり<ruby>徹<rp>(</rp><rt>とお</rt><rp>)</rp></ruby>すのをためらってますと、かえって娘の方がこういって両親を励ますのでした。</td></tr>
-<tr><td></td>
-<td>「なぜお二人ともお年を召して不運なおからだを、長いこと泣き悲しんでお傷めになるのですの、どうしてあなた様方のお心を、それもまあ私のものともいえますのに、ひっきりなしに歎きつづけてお責め立てになりますの、どうして甲斐もない涙でもって、大切な尊いお顔をお汚しなさいますの、なぜお眼をいためつけて、（これを見る）私の眼をお苦しめになるのです、どうしてまた白いお<ruby>髪<rp>(</rp><rt>きじ</rt><rp>)</rp></ruby>を<ruby>掻<rp>(</rp><rt>か</rt><rp>)</rp></ruby>きむしったり、お胸を、尊い乳房をお撃ちなさいますの。</td></tr>
-<tr><td></td>
-<td>これがこの私の人並み勝れた<ruby>容色<rp>(</rp><rt>きりょう</rt><rp>)</rp></ruby>の立派な御褒美として、あなた様方のお受けになったものでございました。
+その<ruby>松明<rp>(</rp><rt>たいまつ</rt><rp>)</rp></ruby>の輝きも<a href="#note_flammeum" title="緋色の面帕" id="suie">黒い<ruby>煤<rp>(</rp><rt>すす</rt><rp>)</rp></ruby></a>の燃えくずで<ruby>朧<rp>(</rp><rt>おぼろ</rt><rp>)</rp></ruby>にかすみ、婚礼の祝い笛の音もいつしか物悲しい<a href="https://ja.wikipedia.org/wiki/リュディア" title="https://ja.wikipedia.org/wiki/リュディア"><ruby lang="ja">リュディア<rp>(</rp><rt lang="grc">Λυδία</rt><rp>)</rp></ruby></a>風のかごとに変ってゆきます、陽気な嫁入<ruby>唄<rp>(</rp><rt>うた</rt><rp>)</rp></ruby>もついには<ruby>陰<rp>(</rp><rt>いん</rt><rp>)</rp>鬱<rp>(</rp><rt>うつ</rt><rp>)</rp></ruby>な<ruby>衰<rp>(</rp><rt>あい</rt><rp>)</rp>悼<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>の叫びごえと<ruby>化<rp>(</rp><rt>な</rt><rp>)</rp></ruby>ってしまって、お嫁入りするはずの少女が、なんということでしょう、（婚礼の）<a href="https://ja.wikipedia.org/wiki/呉茂一" title="https://ja.wikipedia.org/wiki/呉茂一" id="flammeum"><ruby>緋<rp>(</rp><rt>ひ</rt><rp>)</rp>色<rp>(</rp><rt>いろ</rt><rp>)</rp></ruby>の<ruby>面帕<rp>(</rp><rt>かおぎね</rt><rp>)</rp></ruby></a>でそっと涙を拭いてるという始末です。</li>
+<li>こうした不仕合せな王家の悲しい御運に、町中の人々ももろとも<ruby>歎<rp>(</rp><rt>なげ</rt><rp>)</rp></ruby>きをお頒けし、皆々の<ruby>哀<rp>(</rp><rt>あい</rt><rp>)</rp>痛<rp>(</rp><rt>つう</rt><rp>)</rp></ruby>から、やがてその日は誰彼となく仕事を休んで、喪に<ruby>服<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>くという布令をいたしました。</li>
+<li value="34">しかし神様の<ruby>御<rp>(</rp><rt>お</rt><rp>)</rp>令<rp>(</rp><rt>いいつけ</rt><rp>)</rp></ruby>には従うよりありませんので、可哀そうにプシケは定められた<ruby>処<rp>(</rp><rt>し</rt><rp>)</rp>置<rp>(</rp><rt>おき</rt><rp>)</rp></ruby>をよんどころなく受けることになって、お<ruby>葬<rp>(</rp><rt>とむら</rt><rp>)</rp></ruby>いじみた婚礼の儀式を一同の<ruby>劇<rp>(</rp><rt>はげ</rt><rp>)</rp></ruby>しい悲しみの中にも残りなく執り行ったうえ、町中の人を後ろに引き<ruby>随<rp>(</rp><rt>したが</rt><rp>)</rp></ruby>えて生きながらの葬式が宮殿から繰り出され、こうやってプシケは涙ながらに嫁入りではなくて、自分の法事に連れてゆかれたのでございます。
+さて悲歎にくれた両親があまりの<ruby>不<rp>(</rp><rt>ふ</rt><rp>)</rp>憫<rp>(</rp><rt>びん</rt><rp>)</rp></ruby>さに心もくじけて、この酷たらしい<ruby>所<rp>(</rp><rt>しょ</rt><rp>)</rp>業<rp>(</rp><rt>ぎょう</rt><rp>)</rp></ruby>をやり<ruby>徹<rp>(</rp><rt>とお</rt><rp>)</rp></ruby>すのをためらってますと、かえって娘の方がこういって両親を励ますのでした。</li>
+<li>「なぜお二人ともお年を召して不運なおからだを、長いこと泣き悲しんでお傷めになるのですの、どうしてあなた様方のお心を、それもまあ私のものともいえますのに、ひっきりなしに歎きつづけてお責め立てになりますの、どうして甲斐もない涙でもって、大切な尊いお顔をお汚しなさいますの、なぜお眼をいためつけて、（これを見る）私の眼をお苦しめになるのです、どうしてまた白いお<ruby>髪<rp>(</rp><rt>きじ</rt><rp>)</rp></ruby>を<ruby>掻<rp>(</rp><rt>か</rt><rp>)</rp></ruby>きむしったり、お胸を、尊い乳房をお撃ちなさいますの。</li>
+<li>これがこの私の人並み勝れた<ruby>容色<rp>(</rp><rt>きりょう</rt><rp>)</rp></ruby>の立派な御褒美として、あなた様方のお受けになったものでございました。
 やっと今になっておわかりになりましたのね、私たちは道に外れたはげしい妬みのために、死ぬほどな痛手を負されていることが。
 私を神様のように諸国の人々が敬い尊んだ時にこそ、ロを合せて私を新しいヴェヌスだと称えた折にこそ、お二人は悲しむなり泣くなり、私をもう他界した者のように悼んで下さったはずでございました。
 でも今こそ私もはっきりと解って参りました、自分がヴェヌスなどと呼ばれたばっかりに、この身を滅ぼすことになりましたのが。
 ではさあ、私を連れて行って、あの<ruby>神籤<rp>(</rp><rt>おみくじ</rt><rp>)</rp></ruby>にあった<ruby>巖<rp>(</rp><rt>いわお</rt><rp>)</rp></ruby>の上に据えてくださいませ。
 早速にも私はその仕合せな御婚礼の式を済ませて、私の立派な良人にも会いとうございますから。
-何もそれを引っぱっておくことも、やって来る者を拒むこともございませんもの、その全世界を滅ぼすために生れたというひとを。」</td></tr>
-<tr><td><sup>３５</sup></td>
-<td>こう言いきると少女はロを<ruby>噤<rp>(</rp><rt>つぐ</rt><rp>)</rp></ruby>んで、足どりも<ruby>慥<rp>(</rp><rt>たし</rt><rp>)</rp></ruby>かに、ついてゆく人々の行列の中へとはいり込みました。
+何もそれを引っぱっておくことも、やって来る者を拒むこともございませんもの、その全世界を滅ぼすために生れたというひとを。」</li>
+<li value="35">こう言いきると少女はロを<ruby>噤<rp>(</rp><rt>つぐ</rt><rp>)</rp></ruby>んで、足どりも<ruby>慥<rp>(</rp><rt>たし</rt><rp>)</rp></ruby>かに、ついてゆく人々の行列の中へとはいり込みました。
 そして<ruby>峻<rp>(</rp><rt>けわ</rt><rp>)</rp></ruby>しい山上の定めの<ruby>巖<rp>(</rp><rt>いわお</rt><rp>)</rp></ruby>に著きますと、その<ruby>天頂<rp>(</rp><rt>てっぺん</rt><rp>)</rp></ruby>に姫を置いて一同は退散し、道を照らして来た婚礼の<ruby>炬火<rp>(</rp><rt>たいまつ</rt><rp>)</rp></ruby>も、涙のために<ruby>消<rp>(</rp><rt>けや</rt><rp>)</rp></ruby>されたままそこへ打ちすて、首を<ruby>項垂<rp>(</rp><rt>うなだ</rt><rp>)</rp></ruby>れて帰り路を辿ってゆくのでした。
-一方姫の<ruby>両<rp>(</rp><rt>ふた</rt><rp>)</rp>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>は言いようもない<ruby>不<rp>(</rp><rt>ふ</rt><rp>)</rp>幸<rp>(</rp><rt>しあわせ</rt><rp>)</rp></ruby>に気も<ruby>挫<rp>(</rp><rt>くじ</rt><rp>)</rp></ruby>けては、家を閉ざして暗闇の中に引き籠り、絶間のない悲敷に身を<ruby>委<rp>(</rp><rt>まか</rt><rp>)</rp></ruby>せていました。</td></tr>
-<tr><td></td>
-<td>さてプシケは畏れおののき、<ruby>巖<rp>(</rp><rt>いわお</rt><rp>)</rp></ruby>の頂きに泣き伏しておりますところを、和やかに吹く　西の優しい<ruby>微<rp>(</rp><rt>そよ</rt><rp>)</rp>風<rp>(</rp><rt>かぜ</rt><rp>)</rp></ruby>（ゼフィルス）が、そこからここからと衣をゆすぶっては動かし、<ruby>懐<rp>(</rp><rt>ふとこ</rt><rp>)</rp></ruby>ろを膨らませてはだんだんと乙女を持ち上げ、穏やかな風の息吹きにのせて高い<ruby>巖<rp>(</rp><rt>いわお</rt><rp>)</rp></ruby>の下道をゆるゆると運んで行って、とうとう麓の谷の花盛りな草原の真中へ、そっと下ろして横たわらせました。</td></tr>
-</tbody></table>
+一方姫の<ruby>両<rp>(</rp><rt>ふた</rt><rp>)</rp>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>は言いようもない<ruby>不<rp>(</rp><rt>ふ</rt><rp>)</rp>幸<rp>(</rp><rt>しあわせ</rt><rp>)</rp></ruby>に気も<ruby>挫<rp>(</rp><rt>くじ</rt><rp>)</rp></ruby>けては、家を閉ざして暗闇の中に引き籠り、絶間のない悲敷に身を<ruby>委<rp>(</rp><rt>まか</rt><rp>)</rp></ruby>せていました。</li>
+<li>さてプシケは畏れおののき、<ruby>巖<rp>(</rp><rt>いわお</rt><rp>)</rp></ruby>の頂きに泣き伏しておりますところを、和やかに吹く　西の優しい<ruby>微<rp>(</rp><rt>そよ</rt><rp>)</rp>風<rp>(</rp><rt>かぜ</rt><rp>)</rp></ruby>（ゼフィルス）が、そこからここからと衣をゆすぶっては動かし、<ruby>懐<rp>(</rp><rt>ふとこ</rt><rp>)</rp></ruby>ろを膨らませてはだんだんと乙女を持ち上げ、穏やかな風の息吹きにのせて高い<ruby>巖<rp>(</rp><rt>いわお</rt><rp>)</rp></ruby>の下道をゆるゆると運んで行って、とうとう麓の谷の花盛りな草原の真中へ、そっと下ろして横たわらせました。</li>
+</ol>
+
 <h2 class="blue">巻の五</h2>
-<table>
-<thead>
-<tr>
-<th></th>
-<th><span hidden>hidden</span></th>
-</tr>
-</thead>
-<tbody>
-<tr><td><sup>１</sup></td>
-<td>プシケは柔かに草が茂ってまるで露に濡れた芝の<ruby>臥床<rp>(</rp><rt>ふしど</rt><rp>)</rp></ruby>といった場処にそっと身を横たえ、動転した胸もようようにしずまって来たまま、<ruby>快<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>い気持に寝んでおりましたが、程もなく十分に眠りも足り、気分もさっばりしてまいったので、やっと人心地を取り返して起き上りました。
+
+<ol class="doc">
+<li value="1">プシケは柔かに草が茂ってまるで露に濡れた芝の<ruby>臥床<rp>(</rp><rt>ふしど</rt><rp>)</rp></ruby>といった場処にそっと身を横たえ、動転した胸もようようにしずまって来たまま、<ruby>快<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>い気持に寝んでおりましたが、程もなく十分に眠りも足り、気分もさっばりしてまいったので、やっと人心地を取り返して起き上りました。
 見ると眼の前には高い<ruby>巨<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きな樹の<ruby>生<rp>(</rp><rt>お</rt><rp>)</rp></ruby>い<ruby>繁<rp>(</rp><rt>しげ</rt><rp>)</rp></ruby>った木立があり、その木立の<ruby>真中<rp>(</rp><rt>まんなか</rt><rp>)</rp></ruby>に透きとおって<ruby>玻<rp>(</rp><rt>は</rt><rp>)</rp>璃<rp>(</rp><rt>り</rt><rp>)</rp></ruby>のような噴水が湧いています。
 その泉の傍らには壮大な宮殿が見えますが、その様子が人間の手で造られたものとは到底思えず、どうにも神様の御業に違いありません。
 何よりも一足その中へはいって行けば、すぐにも<ruby>目前<rp>(</rp><rt>めのまえ</rt><rp>)</rp></ruby>にある御殿がどこかの神様の壮麗でまた<ruby>怡<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しげな<ruby>御<rp>(</rp><rt>お</rt><rp>)</rp>旅処<rp>(</rp><rt>とまり</rt><rp>)</rp></ruby>だということが解りましょう。
 上の格天井には<ruby>栴<rp>(</rp><rt>せん</rt><rp>)</rp>檀<rp>(</rp><rt>だん</rt><rp>)</rp></ruby>だの象牙だのを巧妙に<ruby>鏤<rp>(</rp><rt>え</rt><rp>)</rp></ruby>り刻んではめ込み、その下に黄金の円柱がずらっと並んでいて、ぐるりの壁にもすっかり銀を被せ、その上に野獣やその他いろいろな家畜が浮彫になって、まるではいって来る人の面前に立ち向ってくるようです。
 こんなにも微妙に勝れた腕で、銀でもって獣の姿を写し出した人は、必ずや立派な<ruby>工匠<rp>(</rp><rt>たくみ</rt><rp>)</rp></ruby>か、またはそれどころか半神か、それともまさに神様かに相違ありません。そのうえ<ruby>床<rp>(</rp><rt>ゆか</rt><rp>)</rp></ruby>さえも貴い石を細かくモザイクにして、色々な絵が描き分けてあります。
-こんなに沢山な宝石や珠玉の上を<ruby>履<rp>(</rp><rt>ふく</rt><rp>)</rp></ruby>んで歩く人は、きっと幾度も祝福された仕合せ者に違いないと言いきれます。</td></tr>
-<tr><td></td>
-<td>御殿の外の部分も見渡す限り値打もわからないほど立派に飾られ、どの<ruby>障壁<rp>(</rp><rt>かべ</rt><rp>)</rp></ruby>も金の大板で固めてあって、その<ruby>燦<rp>(</rp><rt>きらめ</rt><rp>)</rp></ruby>きといったらまるで太陽も<ruby>射<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>さないのに、御殿中が自分の明りで日中のように照りわたるほどです。
-寝間も玄関も扉さえもその通りきらきらと輝いていますし、また御殿のよその方もこれに劣らず結構を尽して、まさしくこれこそユッピテル大神さまが、人間界に御<ruby>下<rp>(</rp><rt>か</rt><rp>)</rp>降<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>なさる時のため造営になった天の宮居かとも思われるのでした。</td></tr>
-<tr><td><sup>２</sup></td>
-<td>その景色の<ruby>愉<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しさに<ruby>誘<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>りこまれて、プシケはもっと傍へと近寄って見ました。だんだんと気安くなってとうとう<ruby>閾<rp>(</rp><rt>しきい</rt><rp>)</rp></ruby>のなかへはいって参りますと、<ruby>忽<rp>(</rp><rt>たちま</rt><rp>)</rp></ruby>ちによのつねならず美しいその有様に心を奪われ、さて熱心に次々と覗き見をしてゆくうち、建物の向う側に立派な腕前で造り上げた大きな倉があって、沢山な御宝物でぎっしりと詰まってるのが目につきました。
+こんなに沢山な宝石や珠玉の上を<ruby>履<rp>(</rp><rt>ふく</rt><rp>)</rp></ruby>んで歩く人は、きっと幾度も祝福された仕合せ者に違いないと言いきれます。</li>
+<li>御殿の外の部分も見渡す限り値打もわからないほど立派に飾られ、どの<ruby>障壁<rp>(</rp><rt>かべ</rt><rp>)</rp></ruby>も金の大板で固めてあって、その<ruby>燦<rp>(</rp><rt>きらめ</rt><rp>)</rp></ruby>きといったらまるで太陽も<ruby>射<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>さないのに、御殿中が自分の明りで日中のように照りわたるほどです。
+寝間も玄関も扉さえもその通りきらきらと輝いていますし、また御殿のよその方もこれに劣らず結構を尽して、まさしくこれこそユッピテル大神さまが、人間界に御<ruby>下<rp>(</rp><rt>か</rt><rp>)</rp>降<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>なさる時のため造営になった天の宮居かとも思われるのでした。</li>
+<li value="2">その景色の<ruby>愉<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しさに<ruby>誘<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>りこまれて、プシケはもっと傍へと近寄って見ました。だんだんと気安くなってとうとう<ruby>閾<rp>(</rp><rt>しきい</rt><rp>)</rp></ruby>のなかへはいって参りますと、<ruby>忽<rp>(</rp><rt>たちま</rt><rp>)</rp></ruby>ちによのつねならず美しいその有様に心を奪われ、さて熱心に次々と覗き見をしてゆくうち、建物の向う側に立派な腕前で造り上げた大きな倉があって、沢山な御宝物でぎっしりと詰まってるのが目につきました。
 どんな品物でも（世界にある宝で）その中にないものとてありません。
-けれども、その目を<ruby>瞠<rp>(</rp><rt>みは</rt><rp>)</rp></ruby>らせる豪勢な財宝もさることながら、とりわけて不思議なのは、この世界中のお宝が集めてあるところに、何の鎖も錠前も、番人さえも附いていないことです。</td></tr>
-<tr><td></td>
-<td>その間をプシケが<ruby>悦<rp>(</rp><rt>うれ</rt><rp>)</rp></ruby>しさに夢中になって観てまいりますと、（どこからか）姿も見えない声が聞えて申しますには、</td></tr>
-<tr><td></td>
-<td>「奥様、なぜこの沢山な<ruby>財宝<rp>(</rp><rt>おたから</rt><rp>)</rp></ruby>を見てびっくりなさいますの、これはみんなあなた様のものでございますのに。ですからさあ寝間にいらして、十分に<ruby>寝<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>んでお疲れをお癒しになってから、お気が向いたらお風呂におはいり下さいまし。
-いまお聞きになっておいでの声は、私どもあなた様の<ruby>侍女<rp>(</rp><rt>こしもと</rt><rp>)</rp></ruby>たちで、これからはまめまめしくお仕え致しますが、お体がすっかり元気におなりでしたら、すぐと立派な御馳走をさし上げることになっておりますから。」と申します。</td></tr>
-<tr><td><sup>３</sup></td>
-<td>形のない声のいうことを聞いてプシケは、これはきっと神様のお心づけから出た、恵み深いお指図であろうと悟りましたので、まずよく寝んで、それから今度はお湯にはいり疲れを癒した後、ふと見るとすぐ手近に半円形のソーファがあって、そこにはいろいろな食事の道具がお<ruby>食<rp>(</rp><rt>あが</rt><rp>)</rp></ruby>り下さいといわぬばかりに並べてあります。
+けれども、その目を<ruby>瞠<rp>(</rp><rt>みは</rt><rp>)</rp></ruby>らせる豪勢な財宝もさることながら、とりわけて不思議なのは、この世界中のお宝が集めてあるところに、何の鎖も錠前も、番人さえも附いていないことです。</li>
+<li>その間をプシケが<ruby>悦<rp>(</rp><rt>うれ</rt><rp>)</rp></ruby>しさに夢中になって観てまいりますと、（どこからか）姿も見えない声が聞えて申しますには、</li>
+<li>「奥様、なぜこの沢山な<ruby>財宝<rp>(</rp><rt>おたから</rt><rp>)</rp></ruby>を見てびっくりなさいますの、これはみんなあなた様のものでございますのに。ですからさあ寝間にいらして、十分に<ruby>寝<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>んでお疲れをお癒しになってから、お気が向いたらお風呂におはいり下さいまし。
+いまお聞きになっておいでの声は、私どもあなた様の<ruby>侍女<rp>(</rp><rt>こしもと</rt><rp>)</rp></ruby>たちで、これからはまめまめしくお仕え致しますが、お体がすっかり元気におなりでしたら、すぐと立派な御馳走をさし上げることになっておりますから。」と申します。</li>
+<li value="3">形のない声のいうことを聞いてプシケは、これはきっと神様のお心づけから出た、恵み深いお指図であろうと悟りましたので、まずよく寝んで、それから今度はお湯にはいり疲れを癒した後、ふと見るとすぐ手近に半円形のソーファがあって、そこにはいろいろな食事の道具がお<ruby>食<rp>(</rp><rt>あが</rt><rp>)</rp></ruby>り下さいといわぬばかりに並べてあります。
 いそいそと心も<ruby>怡<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しくその席に座りますと、忽ちに<ruby>仙酒<rp>(</rp><rt>ネクタル</rt><rp>)</rp></ruby>のようなお酒だの、<ruby>種<rp>(</rp><rt>さま</rt><rp>)</rp>々<rp>(</rp><rt>ざま</rt><rp>)</rp></ruby>な御馳走のお皿がどっさりと、しかも給仕人もなしに何か風にでも押されてくるように、出てまいります。
-誰一人姿は見えず、ただ落ちてくる言葉だけが聞えて、つまり声ばかりがお給仕を勤めるわけなのです。</td></tr>
-<tr><td></td>
-<td>立派な御馳走のあとで、誰かがはいって来るけはいで歌を唱いましたが、姿は見えません、また誰かが堅琴を弾くのですがその琴の形も見えませんでした。
-それから今度は多勢が一所に集って合唱する声が聞えてきて、誰も人の形は見えないながら、確かに<ruby>歌舞<rp>(</rp><rt>コロス</rt><rp>)</rp></ruby>の群がその辺にいる様子でした。</td></tr>
-<tr><td><sup>４</sup></td>
-<td>その娯しみもお終いになると、タ暮の誘いにまかせてプシケは<ruby>臥<rp>(</rp><rt>が</rt><rp>)</rp>床<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby>にはいりました。
+誰一人姿は見えず、ただ落ちてくる言葉だけが聞えて、つまり声ばかりがお給仕を勤めるわけなのです。</li>
+<li>立派な御馳走のあとで、誰かがはいって来るけはいで歌を唱いましたが、姿は見えません、また誰かが堅琴を弾くのですがその琴の形も見えませんでした。
+それから今度は多勢が一所に集って合唱する声が聞えてきて、誰も人の形は見えないながら、確かに<ruby>歌舞<rp>(</rp><rt>コロス</rt><rp>)</rp></ruby>の群がその辺にいる様子でした。</li>
+<li value="4">その娯しみもお終いになると、タ暮の誘いにまかせてプシケは<ruby>臥<rp>(</rp><rt>が</rt><rp>)</rp>床<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby>にはいりました。
 さて夜もいまは<ruby>更<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>けた頃おい、耳もとで優しいものごえが致します。若い女の<ruby>身<rp>(</rp><rt>み</rt><rp>)</rp>空<rp>(</rp><rt>そら</rt><rp>)</rp></ruby>で、しかもたった一人きりのことゆえ、プシケは心も添わず怖じおののき、何者ともしれぬまま考えつく限りの、
-いかような災難被害よりもずっと怖く思うのでした。</td></tr>
-<tr><td></td>
-<td>とうとうまだ見も知らぬ良人が現れて台に上り、プシケを新妻として迎えいたわると、夜も明けないうちに急いで出かけてしまいました。
-とすぐに声たちが寝間へ来て、花嫁のお世話をいたし、<ruby>少女<rp>(</rp><rt>おとめ</rt><rp>)</rp></ruby>気のさまざまに乱れたこころを慰めるのでした。</td></tr>
-<tr><td></td>
-<td>こういう風にして長いこと暮しているあいだに、いつしかだんだんと自然に馴れて、初めには奇妙と思われたことも始終なれっこになると楽しみに感ぜられてくるというわけ、声だけの者もいつの間にか様子なれない寂しさの慰めと変ってくる有様でした。</td></tr>
-<tr><td></td>
-<td>さて一方姫の御両親は、絶える間もない悲歎のあまり、<ruby>遽<rp>(</rp><rt>すみや</rt><rp>)</rp></ruby>かにひどく老けておしまいになって、その噂が段々と弘がってゆき、ついには二人の姉姫の耳にも始終のこらず伝わりましたので、それを聞いた二人の姉達は大そう心配をして胸を痛め、執るものもとりあえず自分の家を発つと、互いに遅れじと両親のところへお見舞に出かけて参りました。</td></tr>
-<tr><td><sup>５</sup></td>
-<td>ちょうどその晩、プシケに向って良人はこう申し出ました、眼では姿が見えないながらに、手や耳やでもってすれば、十分に理解はつくわけでしたので——「本当に優しいプシケ、私の可愛い妻よ、運命の<ruby>女神<rp>(</rp><rt>フォルトゥーナ</rt><rp>)</rp></ruby>は前よりも一層意地悪く、お前に命も危いほどの難儀をさせようとしてるのだから、もっともっと十分に気をつけて用心しなくてはいけないよ。
+いかような災難被害よりもずっと怖く思うのでした。</li>
+<li>とうとうまだ見も知らぬ良人が現れて台に上り、プシケを新妻として迎えいたわると、夜も明けないうちに急いで出かけてしまいました。
+とすぐに声たちが寝間へ来て、花嫁のお世話をいたし、<ruby>少女<rp>(</rp><rt>おとめ</rt><rp>)</rp></ruby>気のさまざまに乱れたこころを慰めるのでした。</li>
+<li>こういう風にして長いこと暮しているあいだに、いつしかだんだんと自然に馴れて、初めには奇妙と思われたことも始終なれっこになると楽しみに感ぜられてくるというわけ、声だけの者もいつの間にか様子なれない寂しさの慰めと変ってくる有様でした。</li>
+<li>さて一方姫の御両親は、絶える間もない悲歎のあまり、<ruby>遽<rp>(</rp><rt>すみや</rt><rp>)</rp></ruby>かにひどく老けておしまいになって、その噂が段々と弘がってゆき、ついには二人の姉姫の耳にも始終のこらず伝わりましたので、それを聞いた二人の姉達は大そう心配をして胸を痛め、執るものもとりあえず自分の家を発つと、互いに遅れじと両親のところへお見舞に出かけて参りました。</li>
+<li value="5">ちょうどその晩、プシケに向って良人はこう申し出ました、眼では姿が見えないながらに、手や耳やでもってすれば、十分に理解はつくわけでしたので——「本当に優しいプシケ、私の可愛い妻よ、運命の<ruby>女神<rp>(</rp><rt>フォルトゥーナ</rt><rp>)</rp></ruby>は前よりも一層意地悪く、お前に命も危いほどの難儀をさせようとしてるのだから、もっともっと十分に気をつけて用心しなくてはいけないよ。
 今度お前の姉さん達がね、お前をもう死んだと思って大騒ぎして、お前の跡を尋ねさがして間もなくあの<ruby>巖<rp>(</rp><rt>いわお</rt><rp>)</rp></ruby>のところへやってくるのだ。
 だがあの人達の歎く声がひょっと聞えて来たにしたって、けっして返事をしたり、ましてや一寸でも顔を見せたりしてはいけないよ。
-さもないと私には酷い歎きをかけることになるうえ、お前自身にも取り返しがつかない破滅を招く仕儀になろうから。」</td></tr>
-<tr><td></td>
-<td><ruby>少女<rp>(</rp><rt>おとめ</rt><rp>)</rp></ruby>は<ruby>点頭<rp>(</rp><rt>うなず</rt><rp>)</rp></ruby>いて良人の意見通りにする約束をしましたものの、夜と一緒に良人の姿が消えてくと、一日じゅうあわれ気に涙を<ruby>労<rp>(</rp><rt>いた</rt><rp>)</rp></ruby>し胸を叩いて日を過ごし、もう自分には何一つ生きた甲斐もないように言い暮しては歎くのでした。
-自分はもう楽しげな牢屋の中に閉じ籠められて人間と話をすることも差し止められてる上に、姉妹とさえ、それも自分のことを泣き悲しんでいてくれるのに、<ruby>労<rp>(</rp><rt>いた</rt><rp>)</rp></ruby>わり慰めることはおろか、ひと目なり会うこともできないなんて——こう言ってお風呂にもはいらず食事もせずに、何をして心を慰めるともなく、ただひたすらに泣きつくしたあげく、やっと寝床にはいりました。</td></tr>
-<tr><td><sup>６</sup></td>
-<td>程もなく<ruby>平常<rp>(</rp><rt>いつも</rt><rp>)</rp></ruby>より一寸早目に良人が傍に参りまして、まだ泣き濡れている<ruby>少女<rp>(</rp><rt>おとめ</rt><rp>)</rp></ruby>を優しく抱きながら、<ruby>咎<rp>(</rp><rt>とが</rt><rp>)</rp></ruby>めだてて申しますには、</td></tr>
-<tr><td></td>
-<td>「これがお前のした約束だったのかえ、プシケ、一体お前は私にどうしてくれというの。
+さもないと私には酷い歎きをかけることになるうえ、お前自身にも取り返しがつかない破滅を招く仕儀になろうから。」</li>
+<li><ruby>少女<rp>(</rp><rt>おとめ</rt><rp>)</rp></ruby>は<ruby>点頭<rp>(</rp><rt>うなず</rt><rp>)</rp></ruby>いて良人の意見通りにする約束をしましたものの、夜と一緒に良人の姿が消えてくと、一日じゅうあわれ気に涙を<ruby>労<rp>(</rp><rt>いた</rt><rp>)</rp></ruby>し胸を叩いて日を過ごし、もう自分には何一つ生きた甲斐もないように言い暮しては歎くのでした。
+自分はもう楽しげな牢屋の中に閉じ籠められて人間と話をすることも差し止められてる上に、姉妹とさえ、それも自分のことを泣き悲しんでいてくれるのに、<ruby>労<rp>(</rp><rt>いた</rt><rp>)</rp></ruby>わり慰めることはおろか、ひと目なり会うこともできないなんて——こう言ってお風呂にもはいらず食事もせずに、何をして心を慰めるともなく、ただひたすらに泣きつくしたあげく、やっと寝床にはいりました。</li>
+<li value="6">程もなく<ruby>平常<rp>(</rp><rt>いつも</rt><rp>)</rp></ruby>より一寸早目に良人が傍に参りまして、まだ泣き濡れている<ruby>少女<rp>(</rp><rt>おとめ</rt><rp>)</rp></ruby>を優しく抱きながら、<ruby>咎<rp>(</rp><rt>とが</rt><rp>)</rp></ruby>めだてて申しますには、</li>
+<li>「これがお前のした約束だったのかえ、プシケ、一体お前は私にどうしてくれというの。
 昼だって夜だって、こうして一緒にいる時でさえも、まだ泣いて<ruby>悶<rp>(</rp><rt>まだ</rt><rp>)</rp></ruby>えてばかりいるのだもの。
 ではもう好きなようにしなさい、そうして<ruby>災禍<rp>(</rp><rt>わざわい</rt><rp>)</rp></ruby>を求める自分の心に従うがいい。
-ただあとで後悔しだしてももう遅いときに、私が本気になって戒めといたことだけは、忘れないでいておくれ。」</td></tr>
-<tr><td></td>
-<td>そうすると少女は<ruby>頻<rp>(</rp><rt>しき</rt><rp>)</rp></ruby>りにせがんだり、はてはもう死んでしまうといって脅したりして、とうとう良人に自分の頼みを<ruby>肯<rp>(</rp><rt>き</rt><rp>)</rp></ruby>かせてしまいました。
+ただあとで後悔しだしてももう遅いときに、私が本気になって戒めといたことだけは、忘れないでいておくれ。」</li>
+<li>そうすると少女は<ruby>頻<rp>(</rp><rt>しき</rt><rp>)</rp></ruby>りにせがんだり、はてはもう死んでしまうといって脅したりして、とうとう良人に自分の頼みを<ruby>肯<rp>(</rp><rt>き</rt><rp>)</rp></ruby>かせてしまいました。
 姉さん達に会ってその歎きを<ruby>鎮<rp>(</rp><rt>しず</rt><rp>)</rp></ruby>め、またお互いに話しあうことを許してくれるようにです。
-こんなわけで良人は<ruby>新<rp>(</rp><rt>しん</rt><rp>)</rp>嫁<rp>(</rp><rt>よめ</rt><rp>)</rp></ruby>の願いを聞き届けてくれたばかりでなく、その上また金銀でも宝石でもやりたいだけを姉達にやることも許してくれましたが、ただ繰り返し繰り返し、けっして姉達のよこしまな勧めに<ruby>唆<rp>(</rp><rt>そその</rt><rp>)</rp></ruby>かされて、自分の貌を見ようなどとしてはならぬ、さもないとそんな<ruby>虔<rp>(</rp><rt>つつ</rt><rp>)</rp></ruby>しみのない<ruby>妃奇心<rp>(</rp><rt>ものすぎ</rt><rp>)</rp></ruby>から、これ程も大きな幸福の絶頂から奈落の底へとおっこちてしまうばかりか、もう今後は良人に逢うこともかなわなくなるのだから、と脅しかつ戒めるのでした。</td></tr>
-<tr><td></td>
-<td>プシケは幾分元気を取り返し、良人に礼を言ってまた申しますには、「まあ、あなた様とこうして楽しく暮せなくなるくらいなら、いっそ私は百度もその前に死んでしまいますわ。
+こんなわけで良人は<ruby>新<rp>(</rp><rt>しん</rt><rp>)</rp>嫁<rp>(</rp><rt>よめ</rt><rp>)</rp></ruby>の願いを聞き届けてくれたばかりでなく、その上また金銀でも宝石でもやりたいだけを姉達にやることも許してくれましたが、ただ繰り返し繰り返し、けっして姉達のよこしまな勧めに<ruby>唆<rp>(</rp><rt>そその</rt><rp>)</rp></ruby>かされて、自分の貌を見ようなどとしてはならぬ、さもないとそんな<ruby>虔<rp>(</rp><rt>つつ</rt><rp>)</rp></ruby>しみのない<ruby>妃奇心<rp>(</rp><rt>ものすぎ</rt><rp>)</rp></ruby>から、これ程も大きな幸福の絶頂から奈落の底へとおっこちてしまうばかりか、もう今後は良人に逢うこともかなわなくなるのだから、と脅しかつ戒めるのでした。</li>
+<li>プシケは幾分元気を取り返し、良人に礼を言ってまた申しますには、「まあ、あなた様とこうして楽しく暮せなくなるくらいなら、いっそ私は百度もその前に死んでしまいますわ。
 だって私は死ぬほども、たとえあなたがどんな方でいらしても、お<ruby>慕<rp>(</rp><rt>した</rt><rp>)</rp></ruby>いしているのでございますから。本当に自分の命とおんなじに、愛の神さまだって到底くらべものにならないほど大切な方ですもの。
 でもどうかお願いですから、このことも<ruby>序<rp>(</rp><rt>つい</rt><rp>)</rp></ruby>でにお許し下さいましね、あの御家来の<ruby>西風<rp>(</rp><rt>ゼフィルス</rt><rp>)</rp></ruby>に言いつけて、前と同じに姉達をここへ連れて来させて下さいまし。」
 そして気も<ruby>融<rp>(</rp><rt>とろ</rt><rp>)</rp></ruby>けるような<ruby>接吻<rp>(</rp><rt>くちづけ</rt><rp>)</rp></ruby>だの甘えた言葉や<ruby>抱<rp>(</rp><rt>ほう</rt><rp>)</rp>擁<rp>(</rp><rt>よう</rt><rp>)</rp></ruby>だので無理やりに浪人をなだめ<ruby>賺<rp>(</rp><rt>すか</rt><rp>)</rp></ruby>して、その上また「ね、私の可愛い方、私の旦那さま、あなたのプシケの<ruby>愉<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しい<ruby>生命<rp>(</rp><rt>いのち</rt><rp>)</rp></ruby>」などと甘えながらに言い添えるのでした。
-そのいとし<ruby>愛<rp>(</rp><rt>かな</rt><rp>)</rp></ruby>しい{r}密語(ささめき{/r)}の力にひかされ、心ならずも良人は説き伏せられて、何でも望みのことをしてやる約束をしてから、朝の光がさし寄るままにまた妻のかいなから姿をかくしてゆきました。</td></tr>
-<tr><td><sup>７</sup></td>
-<td>さて一方、姉達はというと、例の<ruby>巖<rp>(</rp><rt>いわお</rt><rp>)</rp></ruby>の、プシケが置きざりにされた場処を訊ね出して急いでやってき、そこで眼を泣き腫らし胸を撃って歎くことといったら、あんまりひっきりなしに<ruby>喚<rp>(</rp><rt>わめ</rt><rp>)</rp></ruby>き立てるので、岩や石やがお互いに<ruby>反響<rp>(</rp><rt>こだま</rt><rp>)</rp></ruby>しあうほどでした。
+そのいとし<ruby>愛<rp>(</rp><rt>かな</rt><rp>)</rp></ruby>しい{r}密語(ささめき{/r)}の力にひかされ、心ならずも良人は説き伏せられて、何でも望みのことをしてやる約束をしてから、朝の光がさし寄るままにまた妻のかいなから姿をかくしてゆきました。</li>
+<li value="7">さて一方、姉達はというと、例の<ruby>巖<rp>(</rp><rt>いわお</rt><rp>)</rp></ruby>の、プシケが置きざりにされた場処を訊ね出して急いでやってき、そこで眼を泣き腫らし胸を撃って歎くことといったら、あんまりひっきりなしに<ruby>喚<rp>(</rp><rt>わめ</rt><rp>)</rp></ruby>き立てるので、岩や石やがお互いに<ruby>反響<rp>(</rp><rt>こだま</rt><rp>)</rp></ruby>しあうほどでした。
 それから今度は<a href="#note_funerailles" title="不仕合せな妹の名" id="funerailles">不仕合せな妹の名</a>をやたらに呼び立てるので、とうとうその喚き声が下の谷底まで徹って響きわたりますと、プシケはもう夢中になって気も狂おしく、身を震わしながら家を走り出て申しますには、「まあどうしてあなた方はそんな衰れげな歎き声で、甲斐もなくお心をお痛めになりますの、悲しんで下さる本人の私はここにおりますのに。
-ですから、どうかそんな情けない声をお立てにならずと、長いこと泣いて濡れたお顔も乾かして下さいましな、だって今しがたまで<ruby>悼<rp>(</rp><rt>くや</rt><rp>)</rp></ruby>んで下さった私を、もう胸に抱きしめて下されるのですもの。」</td></tr>
-<tr><td></td>
-<td>で<ruby>西風<rp>(</rp><rt>ゼフィルス</rt><rp>)</rp></ruby>を呼んで良人の<ruby>命令<rp>(</rp><rt>いいつけ</rt><rp>)</rp></ruby>を伝えますと、待つ程もなく指図の通りに、この上もなく穏やかな風に載せて、何の障りもなく姉達を運び下ろしてくれました。
+ですから、どうかそんな情けない声をお立てにならずと、長いこと泣いて濡れたお顔も乾かして下さいましな、だって今しがたまで<ruby>悼<rp>(</rp><rt>くや</rt><rp>)</rp></ruby>んで下さった私を、もう胸に抱きしめて下されるのですもの。」</li>
+<li>で<ruby>西風<rp>(</rp><rt>ゼフィルス</rt><rp>)</rp></ruby>を呼んで良人の<ruby>命令<rp>(</rp><rt>いいつけ</rt><rp>)</rp></ruby>を伝えますと、待つ程もなく指図の通りに、この上もなく穏やかな風に載せて、何の障りもなく姉達を運び下ろしてくれました。
 三人の姉妹はそこでお互いに抱きあったり忙しい<ruby>接吻<rp>(</rp><rt>くちづけ</rt><rp>)</rp></ruby>を交わしたりして喜びあうひまにも、一度は納まっていた涙がまた新規な嬉しさまのあまり湧きかえるのでした。
-「とにかくまあ<ruby>家<rp>(</rp><rt>うち</rt><rp>)</rp></ruby>のなかへ機嫌を直しておはいりになって、姉さまのプシケと一緒に、うっとうしいお気持ちをさっぱりなさってくださいまし。」</td></tr>
-<tr><td><sup>８</sup></td>
-<td>こう言って（プシケは姉達を家の中へ連れ込み）、金色の御殿中の大へんな宝物を見せたり、声ばかりでかしずいてくれる沢山な<ruby>侍女<rp>(</rp><rt>こしもと</rt><rp>)</rp></ruby>を姉達の耳へ引き合せたりした上、結構を極めた風呂や人界のものとも思えない立派な御馳走の数々で心ゆくばかり<ruby>接待<rp>(</rp><rt>もてな</rt><rp>)</rp></ruby>しますと、姉たちはこういろんなお宝が天国そのままにどっさりと溢れるほど一杯ある様子に呆れ果てて、今は心の奥深くひそかに嫉み心を強めてゆくのでした。
+「とにかくまあ<ruby>家<rp>(</rp><rt>うち</rt><rp>)</rp></ruby>のなかへ機嫌を直しておはいりになって、姉さまのプシケと一緒に、うっとうしいお気持ちをさっぱりなさってくださいまし。」</li>
+<li value="8">こう言って（プシケは姉達を家の中へ連れ込み）、金色の御殿中の大へんな宝物を見せたり、声ばかりでかしずいてくれる沢山な<ruby>侍女<rp>(</rp><rt>こしもと</rt><rp>)</rp></ruby>を姉達の耳へ引き合せたりした上、結構を極めた風呂や人界のものとも思えない立派な御馳走の数々で心ゆくばかり<ruby>接待<rp>(</rp><rt>もてな</rt><rp>)</rp></ruby>しますと、姉たちはこういろんなお宝が天国そのままにどっさりと溢れるほど一杯ある様子に呆れ果てて、今は心の奥深くひそかに嫉み心を強めてゆくのでした。
 到頭終いには一人の方が色々と物ずきに、こんな天国のようなお宝の持主は誰なのか、またプシケの御主人は何といって、どんな様子の<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>かなどといつまでもうるさく訊ねるのでしたが、プシケは先刻良人に言われた<ruby>命<rp>(</rp><rt>いい</rt><rp>)</rp>令<rp>(</rp><rt>つけ</rt><rp>)</rp></ruby>に決して背かないで（そんなことは)胸の底へ深く畳んで洩らさずに、自分の良人はまだ若くて様子がよく、やっと<ruby>綿<rp>(</rp><rt>わた</rt><rp>)</rp>毛<rp>(</rp><rt>げ</rt><rp>)</rp></ruby>ような髯が<ruby>口<rp>(</rp><rt>くち</rt><rp>)</rp>許<rp>(</rp><rt>ばかり</rt><rp>)</rp></ruby>にうっすり生えた許りで、いつも大抵野山へ狩猟にばかり出かけているのだなどと口から出まかせに言い<ruby>拵<rp>(</rp><rt>こらし</rt><rp>)</rp></ruby>えました。
-そしてまた長く喋っていてうっかり胸の秘密をさらけ出しなどしないようにと、金の<ruby>器具<rp>(</rp><rt>うつわ</rt><rp>)</rp></ruby>や宝石の飾りをどっさり持たせて、早速<ruby>西風<rp>(</rp><rt>ゼフイルス</rt><rp>)</rp></ruby>を呼ぶと二人の姉を送り返させるのでした。</td></tr>
-<tr><td><sup>９</sup></td>
-<td>こうすぐ送り返されて殊勝な姉達は家に戻りはしたものの、忽ちいや増す<ruby>苦汁<rp>(</rp><rt>せんぶり</rt><rp>)</rp></ruby>のような嫉妬に胸をこがして、種々と二人互いに語りあっては騒ぎ立てるのでしたが、とうとう一人が申しますには、「まあ運の神様は、ほんとうに盲で意地悪で、<ruby>依怙<rp>(</rp><rt>えこ</rt><rp>)</rp></ruby>ひいきだわ、同じ親の娘なものを、気紛れにまるで違った仕合せを受けさせるなんて。
+そしてまた長く喋っていてうっかり胸の秘密をさらけ出しなどしないようにと、金の<ruby>器具<rp>(</rp><rt>うつわ</rt><rp>)</rp></ruby>や宝石の飾りをどっさり持たせて、早速<ruby>西風<rp>(</rp><rt>ゼフイルス</rt><rp>)</rp></ruby>を呼ぶと二人の姉を送り返させるのでした。</li>
+<li value="9">こうすぐ送り返されて殊勝な姉達は家に戻りはしたものの、忽ちいや増す<ruby>苦汁<rp>(</rp><rt>せんぶり</rt><rp>)</rp></ruby>のような嫉妬に胸をこがして、種々と二人互いに語りあっては騒ぎ立てるのでしたが、とうとう一人が申しますには、「まあ運の神様は、ほんとうに盲で意地悪で、<ruby>依怙<rp>(</rp><rt>えこ</rt><rp>)</rp></ruby>ひいきだわ、同じ親の娘なものを、気紛れにまるで違った仕合せを受けさせるなんて。
 しかも私達は本来が年上なのに、外国人の良人の<ruby>下婢<rp>(</rp><rt>はしため</rt><rp>)</rp></ruby>同然にやられてしまい、自分の家にもお里にも国にさえ<ruby>訣<rp>(</rp><rt>わか</rt><rp>)</rp></ruby>れて、両親からも遠いところでまるで<ruby>流人<rp>(</rp><rt>ながしもの</rt><rp>)</rp></ruby>同然に暮しているのに、あの人は一番下の妹で、もうお産は結構という末子に生れておいて、あんなに沢山なお宝や神様の良人を持ってるのだもの。
-そんなにどっさりお<ruby>貨財<rp>(</rp><rt>かね</rt><rp>)</rp></ruby>をもってたって、ちゃんとした使い方も知らないくせにさ。</td></tr>
-<tr><td></td>
-<td>ねえ、姉様だって見たでしょう、どんなに家中一杯に、何て立派な宝物があったか、何ていう<ruby>綺<rp>(</rp><rt>き</rt><rp>)</rp>羅<rp>(</rp><rt>ら</rt><rp>)</rp></ruby>びやかな生地や、何ていう輝いた宝石や——その上どこもかしこも歩くところはすっかり大へんな黄金だったでしょう。
+そんなにどっさりお<ruby>貨財<rp>(</rp><rt>かね</rt><rp>)</rp></ruby>をもってたって、ちゃんとした使い方も知らないくせにさ。</li>
+<li>ねえ、姉様だって見たでしょう、どんなに家中一杯に、何て立派な宝物があったか、何ていう<ruby>綺<rp>(</rp><rt>き</rt><rp>)</rp>羅<rp>(</rp><rt>ら</rt><rp>)</rp></ruby>びやかな生地や、何ていう輝いた宝石や——その上どこもかしこも歩くところはすっかり大へんな黄金だったでしょう。
 それでもしあの<ruby>女<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>の連合いが<ruby>主<rp>(</rp><rt>いい</rt><rp>)</rp>張<rp>(</rp><rt>は</rt><rp>)</rp></ruby>るとおり立派な人だったとしたら、世界中にあの<ruby>女<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>ほど幸福な者はいないことになっちまうわ。
 いえひょっとすると、だんだん馴染むにつれて<ruby>情<rp>(</rp><rt>じょう</rt><rp>)</rp>合<rp>(</rp><rt>あい</rt><rp>)</rp></ruby>が深まってきたら、その連合いの神様があの<ruby>女<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>の方もまた女神にしてしまうかもしれないじゃないの。
 全く今だってもうそんな風に振舞ってましたわ。
 ええ本当にあの<ruby>女<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>ったら、声を<ruby>侍女<rp>(</rp><rt>こしもと</rt><rp>)</rp></ruby>にしたり、風でさえ顎で指図したりして、もうもう<ruby>全然<rp>(</rp><rt>すっかり</rt><rp>)</rp>横<rp>(</rp><rt>おう</rt><rp>)</rp>風<rp>(</rp><rt>ふう</rt><rp>)</rp></ruby>に構えて女神さま気取りじゃないの。
-それなの馬鹿馬鹿しい、私にあてがわれた良人といったら、第一お父様より年がいってて、おまけに<ruby>瓢<rp>(</rp><rt>ひょう</rt><rp>)</rp>簟<rp>(</rp><rt>たん</rt><rp>)</rp></ruby>より頭は<ruby>滑<rp>(</rp><rt>つる</rt><rp>)</rp>々<rp>(</rp><rt>つる</rt><rp>)</rp></ruby>で、どんな子供よかひよひよしてて、そのうえ家中を鎖だの閂だのでかっては見張りしてるんですもの。」</td></tr>
-<tr><td><sup>１０</sup></td>
-<td>ともう一人の姉もそれを承けて、「全く<ruby>家<rp>(</rp><rt>うち</rt><rp>)</rp></ruby>の人っていったら<ruby>関節炎<rp>(</rp><rt>レウマチス</rt><rp>)</rp></ruby>でもってすっかり腰が<ruby>曲<rp>(</rp><rt>まが</rt><rp>)</rp></ruby>っちまって、そいだもんで<ruby>滅多<rp>(</rp><rt>めった</rt><rp>)</rp></ruby>に可愛がってさえくれないところへ、しょっちゅう石みたいに固く曲った指を<ruby>擦<rp>(</rp><rt>す</rt><rp>)</rp></ruby>ってやるので、<ruby>厭<rp>(</rp><rt>いや</rt><rp>)</rp></ruby>な臭いだの油だの汚ない<ruby>布<rp>(</rp><rt>きれ</rt><rp>)</rp></ruby>やひどく<ruby>臭<rp>(</rp><rt>くさ</rt><rp>)</rp></ruby>い<ruby>膏<rp>(</rp><rt>こう</rt><rp>)</rp>薬<rp>(</rp><rt>やく</rt><rp>)</rp></ruby>なんかで、この通り<ruby>華<rp>(</rp><rt>きゃ</rt><rp>)</rp>奢<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>なこの指をだいなしにしてさ、全く世話女房どころか骨を折り通しの看護女って態たらくだわ。
+それなの馬鹿馬鹿しい、私にあてがわれた良人といったら、第一お父様より年がいってて、おまけに<ruby>瓢<rp>(</rp><rt>ひょう</rt><rp>)</rp>簟<rp>(</rp><rt>たん</rt><rp>)</rp></ruby>より頭は<ruby>滑<rp>(</rp><rt>つる</rt><rp>)</rp>々<rp>(</rp><rt>つる</rt><rp>)</rp></ruby>で、どんな子供よかひよひよしてて、そのうえ家中を鎖だの閂だのでかっては見張りしてるんですもの。」</li>
+<li value="10">ともう一人の姉もそれを承けて、「全く<ruby>家<rp>(</rp><rt>うち</rt><rp>)</rp></ruby>の人っていったら<ruby>関節炎<rp>(</rp><rt>レウマチス</rt><rp>)</rp></ruby>でもってすっかり腰が<ruby>曲<rp>(</rp><rt>まが</rt><rp>)</rp></ruby>っちまって、そいだもんで<ruby>滅多<rp>(</rp><rt>めった</rt><rp>)</rp></ruby>に可愛がってさえくれないところへ、しょっちゅう石みたいに固く曲った指を<ruby>擦<rp>(</rp><rt>す</rt><rp>)</rp></ruby>ってやるので、<ruby>厭<rp>(</rp><rt>いや</rt><rp>)</rp></ruby>な臭いだの油だの汚ない<ruby>布<rp>(</rp><rt>きれ</rt><rp>)</rp></ruby>やひどく<ruby>臭<rp>(</rp><rt>くさ</rt><rp>)</rp></ruby>い<ruby>膏<rp>(</rp><rt>こう</rt><rp>)</rp>薬<rp>(</rp><rt>やく</rt><rp>)</rp></ruby>なんかで、この通り<ruby>華<rp>(</rp><rt>きゃ</rt><rp>)</rp>奢<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>なこの指をだいなしにしてさ、全く世話女房どころか骨を折り通しの看護女って態たらくだわ。
 ともかくあなたはね、こんなことをおとなしく我慢して、というよりまあ馬鹿になったつもりで——思ったまんまを言わせてもらうとよ——<ruby>辛<rp>(</rp><rt>しん</rt><rp>)</rp>抱<rp>(</rp><rt>ぼう</rt><rp>)</rp></ruby>する気か知れないけれど、だけど私の方は到底そいだけの値打もない女にあんなすばらしい仕合せが行くのを、これ以上我慢して見てられないわ。
 だって憶えてるでしょう、どんなに思い上った、どんなに<ruby>倣<rp>(</rp><rt>ごう</rt><rp>)</rp>慢<rp>(</rp><rt>まん</rt><rp>)</rp></ruby>な様子で私達をあしらって、あんまり身の程も忘れて得意になって<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp>得<rp>(</rp><rt>え</rt><rp>)</rp></ruby>をはる拍子に、つい自分の<ruby>膨<rp>(</rp><rt>ふく</rt><rp>)</rp></ruby>れ上った心を見せてしまったってのも。
 それからあんなにお宝が沢山あるくせに、私達にはいやいやほんのちょっぴり出してよこしたのも。
-そいでじきに私達のいるのがうるさくなると、風に言いつけてさ、私達を<ruby>追<rp>(</rp><rt>お</rt><rp>)</rp></ruby>ん出させてひゅうっと吹き飛ばさせたことだって。</td></tr>
-<tr><td></td>
-<td>だからさ、もし私があの人をあんな幸福な<ruby>境<rp>(</rp><rt>きょう</rt><rp>)</rp>涯<rp>(</rp><rt>がい</rt><rp>)</rp></ruby>からひきずり落してやれなかったら、もう女ともいえないし、生きてる値打もありはしないわ。
+そいでじきに私達のいるのがうるさくなると、風に言いつけてさ、私達を<ruby>追<rp>(</rp><rt>お</rt><rp>)</rp></ruby>ん出させてひゅうっと吹き飛ばさせたことだって。</li>
+<li>だからさ、もし私があの人をあんな幸福な<ruby>境<rp>(</rp><rt>きょう</rt><rp>)</rp>涯<rp>(</rp><rt>がい</rt><rp>)</rp></ruby>からひきずり落してやれなかったら、もう女ともいえないし、生きてる値打もありはしないわ。
 だからもしあなたも、まあそれが当然だけどさ、あんな酷い仕打ちを怒っておいでなら、二人してよく相談しあいましょうよ。
 そいでね、私達のこういう企らみは、両親たちにも他の誰にも知らせないで、いえそれどころか一切あの人の安否については（私達の知ってることを）てんで何にも知らせないどきましょうよ。
 見たのが今さら残念なようなことを、私達が見ただけでもう十分だわ。
 だからましてや親や世間の人達に、あの人がこんなに仕合せにしてるってのを触れまわることがあるものですか。だって誰も他人が知らなけりゃあ、お金持だったって有難くもないでしょう。
-いずれいまには私達は召使じゃあなくて、姉さんだってのが<ruby>解<rp>(</rp><rt>わか</rt><rp>)</rp></ruby>るでしょうよ、そいで今はまあ、ともかくも良人のところへ、貧乏だってもとにかく結構ちゃんとしてる自分の<ruby>家<rp>(</rp><rt>うち</rt><rp>)</rp></ruby>に帰っといて、ゆっくりとあの<ruby>傲慢<rp>(</rp><rt>たかぶり</rt><rp>)</rp></ruby>をこらしめてやる<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp>筈<rp>(</rp><rt>はず</rt><rp>)</rp></ruby>をしっかり工夫しといてから、もっと腹を<ruby>据<rp>(</rp><rt>す</rt><rp>)</rp></ruby>えてまた会うことにしましょう。」</td></tr>
-<tr><td><sup>１１</sup></td>
-<td>こんな悪だくみを二人の悪い女は好かろうということに<ruby>定<rp>(</rp><rt>き</rt><rp>)</rp></ruby>めあって、前に貰った立派な<ruby>贈物<rp>(</rp><rt>みやげ</rt><rp>)</rp></ruby>をみんな隠してから、髪をふり乱し、まるで悲歎にくれてでも（まるで悲歎にくれてでも　他の読みでは「それが当然なことであるが」）いるように顔をかきむしって、また<ruby>偽<rp>(</rp><rt>にせ</rt><rp>)</rp></ruby>の涙を出して見せました。
-そしていきなり両親をこれもまた湧きかえる悲しみの様子すっかり脅しておいて、正心とも思えぬ考えにふくれて家路を辿るそのひまも、けしからぬ<ruby>奸計<rp>(</rp><rt>わるだくみ</rt><rp>)</rp></ruby>、いや、それどころか<ruby>謀<rp>(</rp><rt>ひと</rt><rp>)</rp>殺<rp>(</rp><rt>ごろし</rt><rp>)</rp></ruby>をさえ、罪もない妹に対して企らむのでした。</td></tr>
-<tr><td></td>
-<td>その頃プシケに向って、まだ顔もしらぬ良人はいつもの夜半の物語に、またこう言って戒めました。
+いずれいまには私達は召使じゃあなくて、姉さんだってのが<ruby>解<rp>(</rp><rt>わか</rt><rp>)</rp></ruby>るでしょうよ、そいで今はまあ、ともかくも良人のところへ、貧乏だってもとにかく結構ちゃんとしてる自分の<ruby>家<rp>(</rp><rt>うち</rt><rp>)</rp></ruby>に帰っといて、ゆっくりとあの<ruby>傲慢<rp>(</rp><rt>たかぶり</rt><rp>)</rp></ruby>をこらしめてやる<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp>筈<rp>(</rp><rt>はず</rt><rp>)</rp></ruby>をしっかり工夫しといてから、もっと腹を<ruby>据<rp>(</rp><rt>す</rt><rp>)</rp></ruby>えてまた会うことにしましょう。」</li>
+<li value="11">こんな悪だくみを二人の悪い女は好かろうということに<ruby>定<rp>(</rp><rt>き</rt><rp>)</rp></ruby>めあって、前に貰った立派な<ruby>贈物<rp>(</rp><rt>みやげ</rt><rp>)</rp></ruby>をみんな隠してから、髪をふり乱し、まるで悲歎にくれてでも（まるで悲歎にくれてでも　他の読みでは「それが当然なことであるが」）いるように顔をかきむしって、また<ruby>偽<rp>(</rp><rt>にせ</rt><rp>)</rp></ruby>の涙を出して見せました。
+そしていきなり両親をこれもまた湧きかえる悲しみの様子すっかり脅しておいて、正心とも思えぬ考えにふくれて家路を辿るそのひまも、けしからぬ<ruby>奸計<rp>(</rp><rt>わるだくみ</rt><rp>)</rp></ruby>、いや、それどころか<ruby>謀<rp>(</rp><rt>ひと</rt><rp>)</rp>殺<rp>(</rp><rt>ごろし</rt><rp>)</rp></ruby>をさえ、罪もない妹に対して企らむのでした。</li>
+<li>その頃プシケに向って、まだ顔もしらぬ良人はいつもの夜半の物語に、またこう言って戒めました。
 「お前はどんなに大きな危難が身に迫ってるかを知ってるのかえ、運命の神はまだ遠くから小手調べをやってるのだが、もししっかりと今から先へ気を配っとかないと、すぐ身近に押し寄せてくるのだから。
 あの義理しらずの<ruby>牝<rp>(</rp><rt>おお</rt><rp>)</rp>狼<rp>(</rp><rt>かみ</rt><rp>)</rp></ruby>どもはしきりとお前をけしからぬ<ruby>奸計<rp>(</rp><rt>わるだくみ</rt><rp>)</rp></ruby>にかけようと企らんでるのだが、それを<ruby>約<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>めていうと、つまり私の貌を探り見るように、お前を説得する気なのだ。
-だけれど、度々お前にも言ってあるとおり、一度お前が見たらもうそれからは見られなくなるのだからね。</td></tr>
-<tr><td></td>
-<td>それだから、もし今度あのこの上なく下等な魔女どもが、よこしまな企らみを胸に装ってやって来ても、——来るのは解っているのだからね——けっして一寸でもロをきいてはならないよ。
+だけれど、度々お前にも言ってあるとおり、一度お前が見たらもうそれからは見られなくなるのだからね。</li>
+<li>それだから、もし今度あのこの上なく下等な魔女どもが、よこしまな企らみを胸に装ってやって来ても、——来るのは解っているのだからね——けっして一寸でもロをきいてはならないよ。
 またもしお前の生来素直な気立てや、やさしい心から、それを我慢できなかったにしろ、断じて良人についてのことは何一つ、耳に入れても答えてもいけない。
 それに、もう私たちの家族もいま殖えてくところでもって、このこれまでは子供みたいなお腹の中にも、今では私たちの子供がいるのだからね。
-そしてその子は、お前がこの秘密を黙って守りおおせば、天界のものになろうし、もし破ったら人間にされるのだ。」</td></tr>
-<tr><td><sup>１２</sup></td>
-<td>この<ruby>報<rp>(</rp><rt>し</rt><rp>)</rp></ruby>らせを聞いて、プシケは心も<ruby>怡<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しく<ruby>華<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>やぎ、神様の御子を設ける仕合せに手を<ruby>拍<rp>(</rp><rt>う</rt><rp>)</rp></ruby>ってはしゃぎつつも、またこれから生れてくる愛の証の誉れに気も誇らしく、その母とよばれる嬉しさを有難く思うのでした。
-増して行く日の数、過ぎて行く月の数を、心に留めて数えながら、一方また知らない間にいつかこんなに小さな刺されがおなかにこんなに大きな膨らみをさせたのをひどく不思議がっておりました。</td></tr>
-<tr><td></td>
-<td>けれども、その時にはもうあの<ruby>厄<rp>(</rp><rt>やく</rt><rp>)</rp>病<rp>(</rp><rt>びょう</rt><rp>)</rp>神<rp>(</rp><rt>がみ</rt><rp>)</rp></ruby>たち、ほんとうにいやらしいあの<ruby>復讐鬼<rp>(</rp><rt>フリアエ</rt><rp>)</rp></ruby>どもが、悪蛇の毒気を吐きながら大急ぎで、道ならぬ思いに急き立てられて、船を馳せて来るとこでした。
-この時もう一度、<ruby>僅<rp>(</rp><rt>わず</rt><rp>)</rp></ruby>かのひまの訪れに良人は妻のプシケを、繰り返してこう戒めました。</td></tr>
-<tr><td></td>
-<td>「さあ、最後の日、終局の危機（が迫って来た）。
+そしてその子は、お前がこの秘密を黙って守りおおせば、天界のものになろうし、もし破ったら人間にされるのだ。」</li>
+<li value="12">この<ruby>報<rp>(</rp><rt>し</rt><rp>)</rp></ruby>らせを聞いて、プシケは心も<ruby>怡<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しく<ruby>華<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>やぎ、神様の御子を設ける仕合せに手を<ruby>拍<rp>(</rp><rt>う</rt><rp>)</rp></ruby>ってはしゃぎつつも、またこれから生れてくる愛の証の誉れに気も誇らしく、その母とよばれる嬉しさを有難く思うのでした。
+増して行く日の数、過ぎて行く月の数を、心に留めて数えながら、一方また知らない間にいつかこんなに小さな刺されがおなかにこんなに大きな膨らみをさせたのをひどく不思議がっておりました。</li>
+<li>けれども、その時にはもうあの<ruby>厄<rp>(</rp><rt>やく</rt><rp>)</rp>病<rp>(</rp><rt>びょう</rt><rp>)</rp>神<rp>(</rp><rt>がみ</rt><rp>)</rp></ruby>たち、ほんとうにいやらしいあの<ruby>復讐鬼<rp>(</rp><rt>フリアエ</rt><rp>)</rp></ruby>どもが、悪蛇の毒気を吐きながら大急ぎで、道ならぬ思いに急き立てられて、船を馳せて来るとこでした。
+この時もう一度、<ruby>僅<rp>(</rp><rt>わず</rt><rp>)</rp></ruby>かのひまの訪れに良人は妻のプシケを、繰り返してこう戒めました。</li>
+<li>「さあ、最後の日、終局の危機（が迫って来た）。
 同じ女で、しかも血を頒けながら残忍な敵の奴らが、今こそ武具に身を固め、刃を執って、陣を張り<ruby>隊<rp>(</rp><rt>たい</rt><rp>)</rp>伍<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>を調え、進軍の<ruby>喇叭<rp>(</rp><rt>らっぱ</rt><rp>)</rp></ruby>を<ruby>轟<rp>(</rp><rt>とどろ</rt><rp>)</rp></ruby>かせてやって来たのだ。
 いまこそ<ruby>鋩<rp>(</rp><rt>ほこさき</rt><rp>)</rp></ruby>をぬき放って、お前の非道な姉達はお前の喉笛を狙ってるのだよ。
-なんという恐ろしい戦さだろう、<ruby>愛<rp>(</rp><rt>いと</rt><rp>)</rp></ruby>しいプシケ、いま私達の上に迫って来てるのはどうかお前や私達を可哀そうだと思って、<ruby>聖<rp>(</rp><rt>とうと</rt><rp>)</rp></ruby>い沈黙を守り、家や良人やお前やその私らの<ruby>嬰児<rp>(</rp><rt>ちいさいの</rt><rp>)</rp></ruby>をさし迫った破滅の非運から救っておくれ、またあの没義道な女達に——もうお前の姉さんとは、こんなに人の破滅を企らむまで憎みつくし、血縁の義理もふみ<ruby>躙<rp>(</rp><rt>にじ</rt><rp>)</rp></ruby>ったからには、呼ばせることは到底できないのだから——会ったり、言うことを聞いたりしないでおくれ、彼奴らがいまに<ruby>魔女<rp>(</rp><rt>シレエン</rt><rp>)</rp></ruby>みたいに<ruby>巖<rp>(</rp><rt>いわお</rt><rp>)</rp></ruby>の上に<ruby>登<rp>(</rp><rt>あが</rt><rp>)</rp></ruby>って来て、<ruby>忌<rp>(</rp><rt>いや</rt><rp>)</rp></ruby>らしい声で岩を<ruby>轟<rp>(</rp><rt>とどろ</rt><rp>)</rp></ruby>かせたってもね。」</td></tr>
-<tr><td><sup>１３</sup></td>
-<td>それに答えてプシケは、声も絶えだえに泣きじゃくりながら、</td></tr>
-<tr><td></td>
-<td>「でもあなた様はもう十分に、私の信実とおしゃべりしないことを確かめて、知ってらっしゃるのではございませんか、今度だっても前の時に負けないくらい、私の心がしっかりしてるのをよくお見せ致しますわ。
+なんという恐ろしい戦さだろう、<ruby>愛<rp>(</rp><rt>いと</rt><rp>)</rp></ruby>しいプシケ、いま私達の上に迫って来てるのはどうかお前や私達を可哀そうだと思って、<ruby>聖<rp>(</rp><rt>とうと</rt><rp>)</rp></ruby>い沈黙を守り、家や良人やお前やその私らの<ruby>嬰児<rp>(</rp><rt>ちいさいの</rt><rp>)</rp></ruby>をさし迫った破滅の非運から救っておくれ、またあの没義道な女達に——もうお前の姉さんとは、こんなに人の破滅を企らむまで憎みつくし、血縁の義理もふみ<ruby>躙<rp>(</rp><rt>にじ</rt><rp>)</rp></ruby>ったからには、呼ばせることは到底できないのだから——会ったり、言うことを聞いたりしないでおくれ、彼奴らがいまに<ruby>魔女<rp>(</rp><rt>シレエン</rt><rp>)</rp></ruby>みたいに<ruby>巖<rp>(</rp><rt>いわお</rt><rp>)</rp></ruby>の上に<ruby>登<rp>(</rp><rt>あが</rt><rp>)</rp></ruby>って来て、<ruby>忌<rp>(</rp><rt>いや</rt><rp>)</rp></ruby>らしい声で岩を<ruby>轟<rp>(</rp><rt>とどろ</rt><rp>)</rp></ruby>かせたってもね。」</li>
+<li value="13">それに答えてプシケは、声も絶えだえに泣きじゃくりながら、</li>
+<li>「でもあなた様はもう十分に、私の信実とおしゃべりしないことを確かめて、知ってらっしゃるのではございませんか、今度だっても前の時に負けないくらい、私の心がしっかりしてるのをよくお見せ致しますわ。
 ですから、ね、どうぞ、またあの<ruby>西風<rp>(</rp><rt>ゼフィルス</rt><rp>)</rp></ruby>にいつもの役をするように、言って下さいましね。
 そしてちっとも見せては下さらないとうといお姿のかわりに、せめて姉達にまた会うことを許して下さいませ。
-この<ruby>肉桂<rp>(</rp><rt>キンナモン</rt><rp>)</rp></ruby>の香りのように<ruby>芳<rp>(</rp><rt>かんば</rt><rp>)</rp></ruby>しい、ふさふさと四方に垂れたお<ruby>頭<rp>(</rp><rt>つむ</rt><rp>)</rp></ruby>のお<ruby>髪<rp>(</rp><rt>ぐし</rt><rp>)</rp></ruby>にかけて、この柔かくふっくりとした、私のとそっくりな<ruby>頰<rp>(</rp><rt>ほお</rt><rp>)</rp></ruby>にかけて、このなんともしれぬ熱さに燃えているお胸にかけて、またあなた様のお<ruby>容貌<rp>(</rp><rt>かおだち</rt><rp>)</rp></ruby>をせめてこの<ruby>嬰児<rp>(</rp><rt>やや</rt><rp>)</rp></ruby>のなかに認めることもできようと<ruby>冀<rp>(</rp><rt>こいねが</rt><rp>)</rp></ruby>うほど、切ない心でお<ruby>縋<rp>(</rp><rt>すが</rt><rp>)</rp></ruby>りする私の<ruby>虔<rp>(</rp><rt>つつま</rt><rp>)</rp></ruby>しい願いを<ruby>肯<rp>(</rp><rt>き</rt><rp>)</rp></ruby>き入れて下さって、どうか姉妹たちと抱きあって<ruby>欣<rp>(</rp><rt>よろこ</rt><rp>)</rp></ruby>ぶのをお<ruby>宥<rp>(</rp><rt>ゆる</rt><rp>)</rp></ruby>しになり、あなたに頼りきっているプシケの心を、嬉しさに生き返らせて下さいませ。</td></tr>
-<tr><td></td>
-<td>もうこれ以上はさらさらに少しもお姿を眼に見たいなどとは思いませんし、今だってもう何も私の邪魔をするものはございませんもの、夜の暗闇でもね。私の光明のあなた様がここにいらっしゃるのですから。」</td></tr>
-<tr><td></td>
-<td>こうした言葉や優しい<ruby>抱<rp>(</rp><rt>ほう</rt><rp>)</rp>擁<rp>(</rp><rt>よう</rt><rp>)</rp></ruby>にすっかり<ruby>賺<rp>(</rp><rt>すか</rt><rp>)</rp></ruby>されて、良人は妻の涙を自分の<ruby>垂<rp>(</rp><rt>たれ</rt><rp>)</rp>髪<rp>(</rp><rt>がみ</rt><rp>)</rp></ruby>で拭いてやりながら、そうすることを約束し、程もなく明けてゆく日の光にさきがけて、出てまいりました。</td></tr>
-<tr><td><sup>１４</sup></td>
-<td>陰謀<ruby>徒党<rp>(</rp><rt>なかま</rt><rp>)</rp></ruby>の例の二人組の姉達は、両親にさえも顔を見せずに、船から上ると真直ぐに例の<ruby>巖<rp>(</rp><rt>いわお</rt><rp>)</rp></ruby>へ、大急ぎでやって来ました、そして自分たちを連れてってくれる風の来るのも待たずに、向う見ずにも自分勝手に谷底へ飛び降りるのでした。
+この<ruby>肉桂<rp>(</rp><rt>キンナモン</rt><rp>)</rp></ruby>の香りのように<ruby>芳<rp>(</rp><rt>かんば</rt><rp>)</rp></ruby>しい、ふさふさと四方に垂れたお<ruby>頭<rp>(</rp><rt>つむ</rt><rp>)</rp></ruby>のお<ruby>髪<rp>(</rp><rt>ぐし</rt><rp>)</rp></ruby>にかけて、この柔かくふっくりとした、私のとそっくりな<ruby>頰<rp>(</rp><rt>ほお</rt><rp>)</rp></ruby>にかけて、このなんともしれぬ熱さに燃えているお胸にかけて、またあなた様のお<ruby>容貌<rp>(</rp><rt>かおだち</rt><rp>)</rp></ruby>をせめてこの<ruby>嬰児<rp>(</rp><rt>やや</rt><rp>)</rp></ruby>のなかに認めることもできようと<ruby>冀<rp>(</rp><rt>こいねが</rt><rp>)</rp></ruby>うほど、切ない心でお<ruby>縋<rp>(</rp><rt>すが</rt><rp>)</rp></ruby>りする私の<ruby>虔<rp>(</rp><rt>つつま</rt><rp>)</rp></ruby>しい願いを<ruby>肯<rp>(</rp><rt>き</rt><rp>)</rp></ruby>き入れて下さって、どうか姉妹たちと抱きあって<ruby>欣<rp>(</rp><rt>よろこ</rt><rp>)</rp></ruby>ぶのをお<ruby>宥<rp>(</rp><rt>ゆる</rt><rp>)</rp></ruby>しになり、あなたに頼りきっているプシケの心を、嬉しさに生き返らせて下さいませ。</li>
+<li>もうこれ以上はさらさらに少しもお姿を眼に見たいなどとは思いませんし、今だってもう何も私の邪魔をするものはございませんもの、夜の暗闇でもね。私の光明のあなた様がここにいらっしゃるのですから。」</li>
+<li>こうした言葉や優しい<ruby>抱<rp>(</rp><rt>ほう</rt><rp>)</rp>擁<rp>(</rp><rt>よう</rt><rp>)</rp></ruby>にすっかり<ruby>賺<rp>(</rp><rt>すか</rt><rp>)</rp></ruby>されて、良人は妻の涙を自分の<ruby>垂<rp>(</rp><rt>たれ</rt><rp>)</rp>髪<rp>(</rp><rt>がみ</rt><rp>)</rp></ruby>で拭いてやりながら、そうすることを約束し、程もなく明けてゆく日の光にさきがけて、出てまいりました。</li>
+<li value="14">陰謀<ruby>徒党<rp>(</rp><rt>なかま</rt><rp>)</rp></ruby>の例の二人組の姉達は、両親にさえも顔を見せずに、船から上ると真直ぐに例の<ruby>巖<rp>(</rp><rt>いわお</rt><rp>)</rp></ruby>へ、大急ぎでやって来ました、そして自分たちを連れてってくれる風の来るのも待たずに、向う見ずにも自分勝手に谷底へ飛び降りるのでした。
 でも<ruby>西風<rp>(</rp><rt>ゼフィルス</rt><rp>)</rp></ruby>は御主人の<ruby>命<rp>(</rp><rt>いい</rt><rp>)</rp>令<rp>(</rp><rt>つけ</rt><rp>)</rp></ruby>を忘れないで、気は進まぬながらも、その女達を吹いてゆく微風のふところに受けて、地面へとおろしました。
 女たち遠慮会釈もなく、足を揃えて家の中へはいって行き、姉という名を<ruby>騙<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>って、胸に深く秘めた<ruby>奸計<rp>(</rp><rt>わるだくみ</rt><rp>)</rp></ruby>の数々を<ruby>愉<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しげな<ruby>外貌<rp>(</rp><rt>かおつき</rt><rp>)</rp></ruby>でかくしながら、自分達の<ruby>餌<rp>(</rp><rt>え</rt><rp>)</rp>食<rp>(</rp><rt>じき</rt><rp>)</rp></ruby>を胸に抱きしめて、お世辞たらたらにこう言うのでした。
 「プシケちゃん、あなたはもう以前のように子供じゃあなくて、もうすっかりお母さんではないの。
 どんなに私達にとっての大きな仕合せがあなたのお腹の中にはいってるでしょう、どんなにあなたはいまに私たちの家中を喜ばしてくれるでしょう。
 本当に私達は恵まれてるのね、黄金の（花の）ような赤ちゃんを育てて<ruby>娯<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しめるなんて。
-それにその子は、当然のことだろうけど、<ruby>両<rp>(</rp><rt>ふた</rt><rp>)</rp>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>の<ruby>容色<rp>(</rp><rt>きりよう</rt><rp>)</rp></ruby>に相応すれば、生れたらきっとクピードーそっくりでしょうから。」</td></tr>
-<tr><td><sup>１５</sup></td>
-<td>こんな風に情愛を装って、二人は段々に妹の心にとり入って参りました。
+それにその子は、当然のことだろうけど、<ruby>両<rp>(</rp><rt>ふた</rt><rp>)</rp>親<rp>(</rp><rt>おや</rt><rp>)</rp></ruby>の<ruby>容色<rp>(</rp><rt>きりよう</rt><rp>)</rp></ruby>に相応すれば、生れたらきっとクピードーそっくりでしょうから。」</li>
+<li value="15">こんな風に情愛を装って、二人は段々に妹の心にとり入って参りました。
 プシケはまたすぐさま二人をソーファに休め、湯気の湧き立つ風呂に入れて長旅の疲れを癒させてから、食堂に招び入れ例の素敵な珍味<ruby>佳<rp>(</rp><rt>か</rt><rp>)</rp>肴<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>を列べて豪勢な御馳走をいたしました。
 堅琴に弾けといえば、響き初める、笛にやれといえば、鳴り出す、合唱の群に歌えといえば歌が始まるというわけで、それがみな誰もそこにはいないのに、この上もなく　い<ruby>節<rp>(</rp><rt>ふし</rt><rp>)</rp></ruby>で、聴いている人々の心を<ruby>娯<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しませてくれるのでした。
 しかしこんな魂もとろけるように気持がいい音楽でもっても、まだその<ruby>性質<rp>(</rp><rt>たち</rt><rp>)</rp></ruby>の悪い女どもの悪心は和ぎ静まるものではなく、かねて謀った<ruby>奸計<rp>(</rp><rt>わるだくみ</rt><rp>)</rp></ruby>の<ruby>係蹄<rp>(</rp><rt>わな</rt><rp>)</rp></ruby>へと、言葉巧みに<ruby>表面<rp>(</rp><rt>うわべ</rt><rp>)</rp></ruby>をつくろってはいろいろと誘いをかけて、良人はどんな人か、どんな<ruby>素<rp>(</rp><rt>す</rt><rp>)</rp>姓<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby>でどんな身分の人か、などと訊ねてゆきました。
 そうするとプシケはあんまりにも<ruby>一<rp>(</rp><rt>ひと</rt><rp>)</rp>筋<rp>(</rp><rt>すじ</rt><rp>)</rp></ruby>なこころから、つい先刻の約束を忘れてしまい、また新規な（前と違った）作り話をして、自分の良人は近隣の国のもので、沢山な<ruby>資本<rp>(</rp><rt>もとで</rt><rp>)</rp></ruby>の商売をしていて、もう中年輩のちらほらとたまに白髪も混ってみえるほどだなどと言ってしまいました。
-それでもほんの一寸でそんな話は打ち切りにして、またどっさりと立派な贈物をもたせ、風の車にのせて二人を送り返しました。</td></tr>
-<tr><td><sup>１６</sup></td>
-<td>けれども姉達は、穏やかな<ruby>西風<rp>(</rp><rt>ゼフィルス</rt><rp>)</rp></ruby>の息吹きにのって、高空を家に帰る<ruby>途<rp>(</rp><rt>みち</rt><rp>)</rp>々<rp>(</rp><rt>みち</rt><rp>)</rp></ruby>も、お互いにこう語りあうのでした。
+それでもほんの一寸でそんな話は打ち切りにして、またどっさりと立派な贈物をもたせ、風の車にのせて二人を送り返しました。</li>
+<li value="16">けれども姉達は、穏やかな<ruby>西風<rp>(</rp><rt>ゼフィルス</rt><rp>)</rp></ruby>の息吹きにのって、高空を家に帰る<ruby>途<rp>(</rp><rt>みち</rt><rp>)</rp>々<rp>(</rp><rt>みち</rt><rp>)</rp></ruby>も、お互いにこう語りあうのでした。
 「ねえあなた、どうでしょうあの馬鹿娘がとてつもない嘘ばっかしいうことったら。
 前にはまだやっと柔かい<ruby>髯<rp>(</rp><rt>ひげ</rt><rp>)</rp></ruby>が生えかけたばかりの若者だって言ったくせに、今度は中年で、白髪が白く目だっなんて。
 そんなに一寸の間に急に年をとって様子が変っちまう人があるかしら。
 これは勿論どっちかにきまってるわよ、あの<ruby>極<rp>(</rp><rt>ごく</rt><rp>)</rp>道<rp>(</rp><rt>どう</rt><rp>)</rp></ruby>娘が嘘ででっちあげたことか、それでなきゃあ自分の良人の様子を知ってないかね。
 でもどっちが実際にしても、あの<ruby>女<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>を一刻も早くあんな<ruby>財産<rp>(</rp><rt>しんだい</rt><rp>)</rp></ruby>から追い出してやらなきゃ、それにもし良人の顔も見たことがないとすれば、取りも直さずがお婿さんというのは神様でもって、あの<ruby>女<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>のお腹の中にもつまり神様を<ruby>胎<rp>(</rp><rt>みごも</rt><rp>)</rp></ruby>ってるってことになるわ。
-でも万一にもあいつが神様の子の——なんてまっ平だけど——母親だって呼ばれるようにでもなったら、私は即座にも<ruby>係蹄<rp>(</rp><rt>かけわな</rt><rp>)</rp></ruby>でもって首をくくってやるわ。だから今のうちに親たちのところへ帰って行って、この<ruby>筋<rp>(</rp><rt>すじ</rt><rp>)</rp>書<rp>(</rp><rt>がき</rt><rp>)</rp></ruby>のはじまりによくあてはまるような虚言をうまくでっちあげて来ましょうよ。」</td></tr>
-<tr><td><sup>１７</sup></td>
-<td>こういうわけでかんかんになりながら、二人はろくろく両親に挨拶もせず、夜もおちおち眠らずに過ごしたあげく、<ruby>朝夙<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>くから無茶苦茶になって巖の処へ飛んでゆき、そこから<ruby>例日<rp>(</rp><rt>いつも</rt><rp>)</rp></ruby>のように風におぶさって酷い勢いでとび降り、さて<ruby>眼<rp>(</rp><rt>がん</rt><rp>)</rp>瞼<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>を擦って無理やりに涙を絞り出しといてから、言葉巧みにこうプシケへ持ちかけました。
+でも万一にもあいつが神様の子の——なんてまっ平だけど——母親だって呼ばれるようにでもなったら、私は即座にも<ruby>係蹄<rp>(</rp><rt>かけわな</rt><rp>)</rp></ruby>でもって首をくくってやるわ。だから今のうちに親たちのところへ帰って行って、この<ruby>筋<rp>(</rp><rt>すじ</rt><rp>)</rp>書<rp>(</rp><rt>がき</rt><rp>)</rp></ruby>のはじまりによくあてはまるような虚言をうまくでっちあげて来ましょうよ。」</li>
+<li value="17">こういうわけでかんかんになりながら、二人はろくろく両親に挨拶もせず、夜もおちおち眠らずに過ごしたあげく、<ruby>朝夙<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>くから無茶苦茶になって巖の処へ飛んでゆき、そこから<ruby>例日<rp>(</rp><rt>いつも</rt><rp>)</rp></ruby>のように風におぶさって酷い勢いでとび降り、さて<ruby>眼<rp>(</rp><rt>がん</rt><rp>)</rp>瞼<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>を擦って無理やりに涙を絞り出しといてから、言葉巧みにこうプシケへ持ちかけました。
 「まああなたは本当に気楽なのね。
 こんなにひどい災難にも気がつかずに幸福らしく納まり返って、自分の危い身の上をてんで気にもしないなんて。
 それなのに私達は夜の目も見ずにあなたのことを心配してばっかり、あなたがとんだ目にあいはしないかって、散々胸を痛めてるんですわ。
 それがね、これは確かな話なのだけれどね、——もともと私達にはあなたの<ruby>不<rp>(</rp><rt>ふ</rt><rp>)</rp>幸<rp>(</rp><rt>しあわせ</rt><rp>)</rp></ruby>歎き心配は我が事同然なんだから、とても秘してはおけないからいうわけだけど、夜な夜なそっとあなたの寝処へやって来るってのは、大きな<ruby>蟒<rp>(</rp><rt>うわばみ</rt><rp>)</rp></ruby>ですってさ。
 幾重にもとぐろを巻いて恐ろしい<ruby>毒液<rp>(</rp><rt>じる</rt><rp>)</rp></ruby>をもった首筋は血を流したような、底も知れない大きな口を開けっ拡げた<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp>蛇<rp>(</rp><rt>へび</rt><rp>)</rp></ruby>なんだって。あなただってそら、あのアポローンの御神託を覚えてるでしょう、あなたは恐ろしい<ruby>野獣<rp>(</rp><rt>けもの</rt><rp>)</rp></ruby>のお嫁さんになる運命だって言った。
-それに幾人も、この近処で狩をする人だって、ここらに住んでる<ruby>大<rp>(</rp><rt>たい</rt><rp>)</rp>概<rp>(</rp><rt>がい</rt><rp>)</rp></ruby>の百姓だって、その大蛇がタ方食物あさりから戻ってくるところや、近くの河瀬を遊いでるとこを見てるのですって。</td></tr>
-<tr><td><sup>１８</sup></td>
-<td>そいで誰でも言ってますわ、いろいろおいしい御馳走をしてあなたをちやほやしとくのも長いことはあるまいって、そうしてあなたのお腹の子が十分に育ってきたら、一層おいしい<ruby>果実<rp>(</rp><rt>み</rt><rp>)</rp></ruby>のはいったところを、一口に食ってしまうだろうって。だから今よ、しっかり思案を決めるのは。
+それに幾人も、この近処で狩をする人だって、ここらに住んでる<ruby>大<rp>(</rp><rt>たい</rt><rp>)</rp>概<rp>(</rp><rt>がい</rt><rp>)</rp></ruby>の百姓だって、その大蛇がタ方食物あさりから戻ってくるところや、近くの河瀬を遊いでるとこを見てるのですって。</li>
+<li value="18">そいで誰でも言ってますわ、いろいろおいしい御馳走をしてあなたをちやほやしとくのも長いことはあるまいって、そうしてあなたのお腹の子が十分に育ってきたら、一層おいしい<ruby>果実<rp>(</rp><rt>み</rt><rp>)</rp></ruby>のはいったところを、一口に食ってしまうだろうって。だから今よ、しっかり思案を決めるのは。
 大切なあなたの身の上を心から気遣ってる姉さん達のいうようにして、死ぬとこから逃げ出して危い心配もなく私達と一緒に暮すか、それともそんな恐ろしいけだものの<ruby>臓<rp>(</rp><rt>ぞう</rt><rp>)</rp>腑<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>の中に埋められてしまうか。
-でもまああなたがね、結局こうした田舎で声を相手にひっそり暮し、世間の目を逃れて恋にふけって、汚らわしい生命にもかかわるような<ruby>享薬<rp>(</rp><rt>たのしみ</rt><rp>)</rp></ruby>を、毒蛇相手にやっていくのが嬉しいっていうのだっても、ともかく私達は<ruby>姉妹<rp>(</rp><rt>きょうだい</rt><rp>)</rp></ruby>の情としてするだけの務めはしたわけだから。」</td></tr>
-<tr><td></td>
-<td>そうするとプシケはあわれにも、単純でやさしい心根から、こんなにも情けない話の恐ろしさに胆を<ruby>呑<rp>(</rp><rt>の</rt><rp>)</rp></ruby>まれてしまい、もののわきまえも見さかいもつかなくなって、途端に良人の戒めも自分のした約束もすっかり<ruby>宙<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby>に忘れ果て、底も知れない<ruby>禍<rp>(</rp><rt>わざわ</rt><rp>)</rp></ruby>いの中へと身をつき落すのでした。
-体を震わせ、顔は血の気もなくなって<ruby>蒼<rp>(</rp><rt>あお</rt><rp>)</rp></ruby>ざめ、ロごもって聞きとりもしにくいほどの声であえぎながら、しどろもどろに姉達に向って言うには、</td></tr>
-<tr><td><sup>１９</sup></td>
-<td>「お姉さま、いつでもあなた方は、それがまあ本当のことでしょうけど、情を忘れずに妹の私のことを心配してて下さいますのね。
+でもまああなたがね、結局こうした田舎で声を相手にひっそり暮し、世間の目を逃れて恋にふけって、汚らわしい生命にもかかわるような<ruby>享薬<rp>(</rp><rt>たのしみ</rt><rp>)</rp></ruby>を、毒蛇相手にやっていくのが嬉しいっていうのだっても、ともかく私達は<ruby>姉妹<rp>(</rp><rt>きょうだい</rt><rp>)</rp></ruby>の情としてするだけの務めはしたわけだから。」</li>
+<li>そうするとプシケはあわれにも、単純でやさしい心根から、こんなにも情けない話の恐ろしさに胆を<ruby>呑<rp>(</rp><rt>の</rt><rp>)</rp></ruby>まれてしまい、もののわきまえも見さかいもつかなくなって、途端に良人の戒めも自分のした約束もすっかり<ruby>宙<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby>に忘れ果て、底も知れない<ruby>禍<rp>(</rp><rt>わざわ</rt><rp>)</rp></ruby>いの中へと身をつき落すのでした。
+体を震わせ、顔は血の気もなくなって<ruby>蒼<rp>(</rp><rt>あお</rt><rp>)</rp></ruby>ざめ、ロごもって聞きとりもしにくいほどの声であえぎながら、しどろもどろに姉達に向って言うには、</li>
+<li value="19">「お姉さま、いつでもあなた方は、それがまあ本当のことでしょうけど、情を忘れずに妹の私のことを心配してて下さいますのね。
 全くのところそういう話をお聞かせした人達が、偽のことを作って言ったとも考えられませんの。
 だって私ったらまだ一度も良人の貌を見たことはありませんし、どこの人かもまるで知らないで、夜中にいう<ruby>言<rp>(</rp><rt>こと</rt><rp>)</rp></ruby>だけを聴いて、てんで光を<ruby>厭<rp>(</rp><rt>いや</rt><rp>)</rp></ruby>がって姿も<ruby>判然<rp>(</rp><rt>はっきり</rt><rp>)</rp></ruby>とは現わさない良人のいうままになっているのですもの。
 あなた方がきっと何かの野獣だろうっておっしゃるのも当然のことだと思いますわ。
 それにしょっちゅう私を脅して姿を見させないようにして、もし物ずきに顔を見たりすると、大変な災難がくるって<ruby>嚇<rp>(</rp><rt>おど</rt><rp>)</rp></ruby>してばかりいるんですの。
 ですからどうか今にでも、こんな危い目にあってる妹をどんな風にだって助けるてだてを見つけて下されるなら、今すぐにも助けて下さいまし。
-さもないと今まで折角私のために色々心配してお尽し頂いたものが、後でかまって下さらないため、駄目になってしまうことになりますわ。」</td></tr>
-<tr><td></td>
-<td>そこで今はもう、城門もあけ<ruby>開<rp>(</rp><rt>ひろ</rt><rp>)</rp></ruby>げたままの何の<ruby>裸<rp>(</rp><rt>はだか</rt><rp>)</rp></ruby>にしてから、妹の心を虜にしちまった心のねじけた女どもは、今度はもう<a href="#note_machination" title="奸計（攻め道具を隠す小屋）の蔽" id="machination"><ruby>奸計<rp>(</rp><rt>わるだくみ</rt><rp>)</rp></ruby>（攻め道具を隠す小屋）の<ruby>蔽<rp>(</rp><rt>へ</rt><rp>)</rp></ruby></a>いもかなぐりすて、<ruby>詐<rp>(</rp><rt>たばかり</rt><rp>)</rp>謀<rp>(</rp><rt>ごと</rt><rp>)</rp></ruby>の剣を抜き放って、何の<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp>段<rp>(</rp><rt>だて</rt><rp>)</rp></ruby>も<ruby>弁<rp>(</rp><rt>わき</rt><rp>)</rp></ruby>えない<ruby>少女<rp>(</rp><rt>おとめ</rt><rp>)</rp></ruby>のおそれおののく心中へ攻め入って来るのでした。</td></tr>
-<tr><td><sup>２０</sup></td>
-<td>とうとう一人が言うことには、「それはもともと私達は血が<ruby>繋<rp>(</rp><rt>つな</rt><rp>)</rp></ruby>がってるんだから、あなたの身の無事安全を計るためには、どんな危難を目の前に見ても、到底たじろいでるわけにはゆきませんわ。
+さもないと今まで折角私のために色々心配してお尽し頂いたものが、後でかまって下さらないため、駄目になってしまうことになりますわ。」</li>
+<li>そこで今はもう、城門もあけ<ruby>開<rp>(</rp><rt>ひろ</rt><rp>)</rp></ruby>げたままの何の<ruby>裸<rp>(</rp><rt>はだか</rt><rp>)</rp></ruby>にしてから、妹の心を虜にしちまった心のねじけた女どもは、今度はもう<a href="#note_machination" title="奸計（攻め道具を隠す小屋）の蔽" id="machination"><ruby>奸計<rp>(</rp><rt>わるだくみ</rt><rp>)</rp></ruby>（攻め道具を隠す小屋）の<ruby>蔽<rp>(</rp><rt>へ</rt><rp>)</rp></ruby></a>いもかなぐりすて、<ruby>詐<rp>(</rp><rt>たばかり</rt><rp>)</rp>謀<rp>(</rp><rt>ごと</rt><rp>)</rp></ruby>の剣を抜き放って、何の<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp>段<rp>(</rp><rt>だて</rt><rp>)</rp></ruby>も<ruby>弁<rp>(</rp><rt>わき</rt><rp>)</rp></ruby>えない<ruby>少女<rp>(</rp><rt>おとめ</rt><rp>)</rp></ruby>のおそれおののく心中へ攻め入って来るのでした。</li>
+<li value="20">とうとう一人が言うことには、「それはもともと私達は血が<ruby>繋<rp>(</rp><rt>つな</rt><rp>)</rp></ruby>がってるんだから、あなたの身の無事安全を計るためには、どんな危難を目の前に見ても、到底たじろいでるわけにはゆきませんわ。
 だから私達が何度も何度も考え尽した、命を助かるためにとる道はこれっきりしかないという、その<ruby>方策<rp>(</rp><rt>てだて</rt><rp>)</rp></ruby>をこれから教えてあげましょう。
 つまりとても鋭い<ruby>剃<rp>(</rp><rt>かみ</rt><rp>)</rp>刀<rp>(</rp><rt>そり</rt><rp>)</rp></ruby>をね、それも刃を<ruby>滑<rp>(</rp><rt>すべ</rt><rp>)</rp></ruby>っこくする掌にあててよく<ruby>砥<rp>(</rp><rt>と</rt><rp>)</rp></ruby>いどいてから、いつもあなたが寝る筈の側の寝台の処へ、そっと隠しとくのよ、それから手頃な<ruby>燭<rp>(</rp><rt>しょく</rt><rp>)</rp>台<rp>(</rp><rt>だい</rt><rp>)</rp></ruby>にね、油を一杯入れて、明るい光で<ruby>燦<rp>(</rp><rt>きら</rt><rp>)</rp>々<rp>(</rp><rt>きら</rt><rp>)</rp></ruby>するのを、何かの<ruby>容<rp>(</rp><rt>いれ</rt><rp>)</rp>器<rp>(</rp><rt>もめ</rt><rp>)</rp></ruby>の蓋の下へ覆い隠しとくのさ、勿論そんな道具立てのことはしっかりと気づかれないようにしといて、そいでそのが魔物が<ruby>条<rp>(</rp><rt>すじ</rt><rp>)</rp></ruby>の跡を<ruby>曳<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>きながらやって来て、いつもの通り寝床に上ってから、長々とのびて正体もなくなった寝入りばなの深い寝息をたて始めたところを、そうっと寝台から脱け出して<ruby>跣足<rp>(</rp><rt>はだし</rt><rp>)</rp></ruby>のまんま爪先だってほんの少しずつ<ruby>小<rp>(</rp><rt>こ</rt><rp>)</rp>歩<rp>(</rp><rt>あゆ</rt><rp>)</rp></ruby>みに足を刻みながら、<ruby>黒白<rp>(</rp><rt>あやめ</rt><rp>)</rp></ruby>も分らない闇の<ruby>獄<rp>(</rp><rt>ひと</rt><rp>)</rp>舎<rp>(</rp><rt>や</rt><rp>)</rp></ruby>からしわざ燭台をとり出して来るのです。そうしてその光の手引きでもって、あなたのとても素敵な<ruby>所行<rp>(</rp><rt>しわざ</rt><rp>)</rp></ruby>を<ruby>巧<rp>(</rp><rt>うま</rt><rp>)</rp></ruby>くやりとげる<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp>段<rp>(</rp><rt>だて</rt><rp>)</rp></ruby>を考えるのよ。
 それにはまず<ruby>先刻<rp>(</rp><rt>さつき</rt><rp>)</rp></ruby>の両刃の<ruby>利器<rp>(</rp><rt>えもの</rt><rp>)</rp></ruby>をもって、右の手を高く上に揚げといてから、思い切って力一杯に切りつけて、毒蛇の頭を<ruby>頸<rp>(</rp><rt>くび</rt><rp>)</rp></ruby>の<ruby>附<rp>(</rp><rt>つけ</rt><rp>)</rp>根<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>のところから斬り落すのだわ。
 勿論私達だってあなたを援けに来ますとも。
-で<ruby>其<rp>(</rp><rt>そ</rt><rp>)</rp>奴<rp>(</rp><rt>いつ</rt><rp>)</rp></ruby>が死んであなたがもう大丈夫ということになったら、すぐさまあなたぐるみお宝物も一緒に持ち帰ってさ、それからあなたのお望み次第に、人間だものね、人間のところへお嫁入りさせたげようって今から待ち兼ねてんですわ。」</td></tr>
-<tr><td><sup>２１</sup></td>
-<td>こんな文句で、それでなくてもとっくに燃えていた妹の胸をなおせっせと<ruby>煽<rp>(</rp><rt>あお</rt><rp>)</rp></ruby>り立てといてから、自分達はというと、そんな罪深い所業の現場に居合せるのが恐くて仕方なくなったので、いきなり妹を置き去りにし、例のように空をわたる風におし上げられて巖の上に運ばれるが早いか、逃げ足速くすぐさま船に乗って帰って行くのでした。</td></tr>
-<tr><td></td>
-<td>さてプシケはただ一人取り残されて——<ruby>尤<rp>(</rp><rt>ゆう</rt><rp>)</rp></ruby>も恐ろしい<ruby>復讐女神<rp>(</rp><rt>フリアエ</rt><rp>)</rp></ruby>たちがくっついて心を<ruby>攪<rp>(</rp><rt>か</rt><rp>)</rp></ruby>き乱してるのでは、一人でもないわけながら——湧き立つ海の波のようただ涙にくれて迷いたゆとう有様に、心はこうと思い<ruby>定<rp>(</rp><rt>き</rt><rp>)</rp></ruby>めしっかり<ruby>臍<rp>(</rp><rt>ほぞ</rt><rp>)</rp></ruby>は固めていてきて実際仕事に手を下す、また考えがぐらついてたじたじとなり、身にふり掛った<ruby>災難<rp>(</rp><rt>わざわい</rt><rp>)</rp></ruby>をさまざまに繰り返しては思い煩うのでした。
+で<ruby>其<rp>(</rp><rt>そ</rt><rp>)</rp>奴<rp>(</rp><rt>いつ</rt><rp>)</rp></ruby>が死んであなたがもう大丈夫ということになったら、すぐさまあなたぐるみお宝物も一緒に持ち帰ってさ、それからあなたのお望み次第に、人間だものね、人間のところへお嫁入りさせたげようって今から待ち兼ねてんですわ。」</li>
+<li value="21">こんな文句で、それでなくてもとっくに燃えていた妹の胸をなおせっせと<ruby>煽<rp>(</rp><rt>あお</rt><rp>)</rp></ruby>り立てといてから、自分達はというと、そんな罪深い所業の現場に居合せるのが恐くて仕方なくなったので、いきなり妹を置き去りにし、例のように空をわたる風におし上げられて巖の上に運ばれるが早いか、逃げ足速くすぐさま船に乗って帰って行くのでした。</li>
+<li>さてプシケはただ一人取り残されて——<ruby>尤<rp>(</rp><rt>ゆう</rt><rp>)</rp></ruby>も恐ろしい<ruby>復讐女神<rp>(</rp><rt>フリアエ</rt><rp>)</rp></ruby>たちがくっついて心を<ruby>攪<rp>(</rp><rt>か</rt><rp>)</rp></ruby>き乱してるのでは、一人でもないわけながら——湧き立つ海の波のようただ涙にくれて迷いたゆとう有様に、心はこうと思い<ruby>定<rp>(</rp><rt>き</rt><rp>)</rp></ruby>めしっかり<ruby>臍<rp>(</rp><rt>ほぞ</rt><rp>)</rp></ruby>は固めていてきて実際仕事に手を下す、また考えがぐらついてたじたじとなり、身にふり掛った<ruby>災難<rp>(</rp><rt>わざわい</rt><rp>)</rp></ruby>をさまざまに繰り返しては思い煩うのでした。
 <ruby>急<rp>(</rp><rt>せ</rt><rp>)</rp></ruby>に立つかと思うとまた後にのばす、思いきってはまた<ruby>怖<rp>(</rp><rt>おぞ</rt><rp>)</rp>気<rp>(</rp><rt>け</rt><rp>)</rp></ruby>づく、よもやと疑いまたいきり立ち、はては、何よりもまず肝腎<ruby>要<rp>(</rp><rt>かなめ</rt><rp>)</rp></ruby>の、同じ体かたちであるものを、悪獣の方は憎みきりつつも、良人としてはまたいとおしく思うのでした。
 その間にも夕暮はいつかもう夜となりかかる有様に、<ruby>慌<rp>(</rp><rt>あわ</rt><rp>)</rp></ruby>てふためくうちにも怖ろしい<ruby>兇<rp>(</rp><rt>きょう</rt><rp>)</rp>行<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>の<ruby>支<rp>(</rp><rt>し</rt><rp>)</rp>度<rp>(</rp><rt>たく</rt><rp>)</rp></ruby>はせっせと取り<ruby>調<rp>(</rp><rt>ととの</rt><rp>)</rp></ruby>えられます。
-夜がくると良人もゃって来て、ひとしきり<ruby>美神<rp>(</rp><rt>ヴエヌス</rt><rp>)</rp></ruby>の<ruby>前<rp>(</rp><rt>さき</rt><rp>)</rp>哨<rp>(</rp><rt>がけ</rt><rp>)</rp>戦<rp>(</rp><rt>いくさ</rt><rp>)</rp></ruby>がとりかわされるほどもなく、深い眠りに落ちてまいました。</td></tr>
-<tr><td><sup>２２</sup></td>
-<td>するとプシケは、平生は<ruby>身体<rp>(</rp><rt>からだ</rt><rp>)</rp></ruby>も心もかよわい身ながら、残酷な運命に<ruby>駆<rp>(</rp><rt>か</rt><rp>)</rp></ruby>り立てられて今は<ruby>確固<rp>(</rp><rt>しっかり</rt><rp>)</rp></ruby>した力が加わったものか、燭治をとり出し<ruby>剃<rp>(</rp><rt>かみ</rt><rp>)</rp>刀<rp>(</rp><rt>そり</rt><rp>)</rp></ruby>を手に握った大胆のさまは、女とも見えない変りようです。
+夜がくると良人もゃって来て、ひとしきり<ruby>美神<rp>(</rp><rt>ヴエヌス</rt><rp>)</rp></ruby>の<ruby>前<rp>(</rp><rt>さき</rt><rp>)</rp>哨<rp>(</rp><rt>がけ</rt><rp>)</rp>戦<rp>(</rp><rt>いくさ</rt><rp>)</rp></ruby>がとりかわされるほどもなく、深い眠りに落ちてまいました。</li>
+<li value="22">するとプシケは、平生は<ruby>身体<rp>(</rp><rt>からだ</rt><rp>)</rp></ruby>も心もかよわい身ながら、残酷な運命に<ruby>駆<rp>(</rp><rt>か</rt><rp>)</rp></ruby>り立てられて今は<ruby>確固<rp>(</rp><rt>しっかり</rt><rp>)</rp></ruby>した力が加わったものか、燭治をとり出し<ruby>剃<rp>(</rp><rt>かみ</rt><rp>)</rp>刀<rp>(</rp><rt>そり</rt><rp>)</rp></ruby>を手に握った大胆のさまは、女とも見えない変りようです。
 しかし差しつけた<ruby>燭火<rp>(</rp><rt>あかり</rt><rp>)</rp></ruby>が、寝間に立てこもる秘密を照らし出すが早いか、いきなり眼に映ったものは何あろう、あらゆる獣類のうちでも一番に優しい、一番に可愛らしい<ruby>野獣<rp>(</rp><rt>けだもの</rt><rp>)</rp></ruby>、とりもなおさず<ruby>愛の神<rp>(</rp><rt>クピードー</rt><rp>)</rp></ruby>その方が、様子の好い神様のいかにも様子よく<ruby>寝<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>んでおいでのすがたです。
-その景色を見ては燭台の明りさえもはしゃいで光を添え、剃刀も大それたことを<ruby>企<rp>(</rp><rt>たく</rt><rp>)</rp></ruby>んだ刃の光を悔むように見えました。</td></tr>
-<tr><td></td>
-<td>けれどもプシケは思いがけぬこの有様に胆を<ruby>消<rp>(</rp><rt>けや</rt><rp>)</rp></ruby>して正体もなく、気も絶えだえに<ruby>色蒼<rp>(</rp><rt>いろあお</rt><rp>)</rp></ruby>ざめて<ruby>慄<rp>(</rp><rt>ふる</rt><rp>)</rp></ruby>えながらに<ruby>膝<rp>(</rp><rt>ひざ</rt><rp>)</rp></ruby>の上にくずおれてしまい、はては<ruby>刃<rp>(</rp><rt>え</rt><rp>)</rp>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>をとってあるまいことか自分の胸のなか深く突きこもうとまでするのでした。
+その景色を見ては燭台の明りさえもはしゃいで光を添え、剃刀も大それたことを<ruby>企<rp>(</rp><rt>たく</rt><rp>)</rp></ruby>んだ刃の光を悔むように見えました。</li>
+<li>けれどもプシケは思いがけぬこの有様に胆を<ruby>消<rp>(</rp><rt>けや</rt><rp>)</rp></ruby>して正体もなく、気も絶えだえに<ruby>色蒼<rp>(</rp><rt>いろあお</rt><rp>)</rp></ruby>ざめて<ruby>慄<rp>(</rp><rt>ふる</rt><rp>)</rp></ruby>えながらに<ruby>膝<rp>(</rp><rt>ひざ</rt><rp>)</rp></ruby>の上にくずおれてしまい、はては<ruby>刃<rp>(</rp><rt>え</rt><rp>)</rp>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>をとってあるまいことか自分の胸のなか深く突きこもうとまでするのでした。
 全くその場にもそうしかねないところを、刃物の方でそんな恐ろしい行いをするが怖さに、<ruby>軽<rp>(</rp><rt>かる</rt><rp>)</rp>率<rp>(</rp><rt>はずみ</rt><rp>)</rp></ruby>な<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp>許<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>から滑り出て、すっ飛んでしまったわけでした。
-もう疲れきって、やっと助かった思いにぐったりとしながら、プシケは神々しいその顔だちの美しさに<ruby>飽<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>かず眺め入っては、ほっと息を<ruby>吐<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>くばかりです。</td></tr>
-<tr><td></td>
-<td>金色の<ruby>頭<rp>(</rp><rt>つむり</rt><rp>)</rp></ruby>には心地よげな髪の毛が、<ruby>噎<rp>(</rp><rt>む</rt><rp>)</rp></ruby>せ返るほど<ruby>仙香<rp>(</rp><rt>アンプロシア</rt><rp>)</rp></ruby>に<ruby>薫<rp>(</rp><rt>かお</rt><rp>)</rp></ruby>っています。
+もう疲れきって、やっと助かった思いにぐったりとしながら、プシケは神々しいその顔だちの美しさに<ruby>飽<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>かず眺め入っては、ほっと息を<ruby>吐<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>くばかりです。</li>
+<li>金色の<ruby>頭<rp>(</rp><rt>つむり</rt><rp>)</rp></ruby>には心地よげな髪の毛が、<ruby>噎<rp>(</rp><rt>む</rt><rp>)</rp></ruby>せ返るほど<ruby>仙香<rp>(</rp><rt>アンプロシア</rt><rp>)</rp></ruby>に<ruby>薫<rp>(</rp><rt>かお</rt><rp>)</rp></ruby>っています。
 乳のように白い<ruby>頸<rp>(</rp><rt>くび</rt><rp>)</rp></ruby>すじから<ruby>真<rp>(</rp><rt>しん</rt><rp>)</rp>紅<rp>(</rp><rt>く</rt><rp>)</rp></ruby>の<ruby>頬<rp>(</rp><rt>ほお</rt><rp>)</rp></ruby>のあたりには、あちらこちら<ruby>総<rp>(</rp><rt>ふさ</rt><rp>)</rp>毛<rp>(</rp><rt>げ</rt><rp>)</rp></ruby>が垂れかかり<ruby>環<rp>(</rp><rt>たま</rt><rp>)</rp></ruby>になって、好い工合に止められてるのもあれば、前だの後ろの方だのへ垂らされてるのもある、その様子を見ると、輝くばかりのあんまりな綺羅びやかさに、今は燭台の光さえも影が薄れて見える程です。
 空を<ruby>翔<rp>(</rp><rt>か</rt><rp>)</rp></ruby>けるその神様の肩には<ruby>瑞<rp>(</rp><rt>みず</rt><rp>)</rp>々<rp>(</rp><rt>みず</rt><rp>)</rp></ruby>しいふたつの翼が、<ruby>燦<rp>(</rp><rt>きら</rt><rp>)</rp>々<rp>(</rp><rt>きら</rt><rp>)</rp></ruby>する花のよう照りそって、他の<ruby>部分<rp>(</rp><rt>ところ</rt><rp>)</rp></ruby>はひっそりとしずまっているのに、一番さきの<ruby>繊細<rp>(</rp><rt>こまか</rt><rp>)</rp></ruby>い柔かな<ruby>和<rp>(</rp><rt>にこ</rt><rp>)</rp>毛<rp>(</rp><rt>げ</rt><rp>)</rp></ruby>だけが<ruby>微<rp>(</rp><rt>かす</rt><rp>)</rp></ruby>かに<ruby>顫<rp>(</rp><rt>ふる</rt><rp>)</rp></ruby>えながら、しず心もなく踊り戯れているのでした。
 そのほかも一体の<ruby>膚<rp>(</rp><rt>はだえ</rt><rp>)</rp></ruby>は滑らかに<ruby>艶<rp>(</rp><rt>つや</rt><rp>)</rp>々<rp>(</rp><rt>つや</rt><rp>)</rp></ruby>しく、さすが（美の神の）ヴェヌスもこんな御子をお持ちになっては、さぞお得意でおいでだろうと思われるほどです。
-寝台の脚先には弓矢と<ruby>箙<rp>(</rp><rt>えびら</rt><rp>)</rp></ruby>と、この大神様の有難い物の具がおいてあります。</td></tr>
-<tr><td><sup>２３</sup></td>
-<td>それを飽くことを知らない熱心さで、プシケは好奇心に<ruby>駆<rp>(</rp><rt>か</rt><rp>)</rp></ruby>り立てられるまま、ためつすがめつながめては、自分の良人の<ruby>武具<rp>(</rp><rt>もののぐ</rt><rp>)</rp></ruby>に感入しているうち、ふと<ruby>箙<rp>(</rp><rt>えびら</rt><rp>)</rp></ruby>から一本の矢を取り出して、親指の先で<ruby>鏃<rp>(</rp><rt>やじり</rt><rp>)</rp></ruby>の鋭さを<ruby>吟<rp>(</rp><rt>ぎん</rt><rp>)</rp>味<rp>(</rp><rt>み</rt><rp>)</rp></ruby>してみました。
+寝台の脚先には弓矢と<ruby>箙<rp>(</rp><rt>えびら</rt><rp>)</rp></ruby>と、この大神様の有難い物の具がおいてあります。</li>
+<li value="23">それを飽くことを知らない熱心さで、プシケは好奇心に<ruby>駆<rp>(</rp><rt>か</rt><rp>)</rp></ruby>り立てられるまま、ためつすがめつながめては、自分の良人の<ruby>武具<rp>(</rp><rt>もののぐ</rt><rp>)</rp></ruby>に感入しているうち、ふと<ruby>箙<rp>(</rp><rt>えびら</rt><rp>)</rp></ruby>から一本の矢を取り出して、親指の先で<ruby>鏃<rp>(</rp><rt>やじり</rt><rp>)</rp></ruby>の鋭さを<ruby>吟<rp>(</rp><rt>ぎん</rt><rp>)</rp>味<rp>(</rp><rt>み</rt><rp>)</rp></ruby>してみました。
 ところが手の先が震えてついひどく圧したもので、かなり深く突き刺してしまい、<ruby>皮膚<rp>(</rp><rt>はだ</rt><rp>)</rp></ruby>のおもてに紅い血の<ruby>雫<rp>(</rp><rt>しずく</rt><rp>)</rp></ruby>が、かわいい露の珠を結びました。
 こうしてそれとも知らずにプシケは、われと<ruby>愛神<rp>(</rp><rt>アモル</rt><rp>)</rp></ruby>の愛へ身を<ruby>愛神<rp>(</rp><rt>クピードー</rt><rp>)</rp></ruby>ゆくことになったのです。
-こうなると層一層と<ruby>愛神<rp>(</rp><rt>クピードー</rt><rp>)</rp></ruby>のこいしさが身に<ruby>沁<rp>(</rp><rt>しみ</rt><rp>)</rp></ruby>り渡り、はては無我夢中でのしかかるようにその<ruby>貌<rp>(</rp><rt>かお</rt><rp>)</rp></ruby>を飽かず眺め入って、心の<ruby>急<rp>(</rp><rt>せ</rt><rp>)</rp></ruby>くままやたらに<ruby>接吻<rp>(</rp><rt>くちづけ</rt><rp>)</rp></ruby>を繰り返しては、ただ眠りの頃あいだけに気を遣うのでした。</td></tr>
-<tr><td></td>
-<td>ところが、あまりの嬉しさに心も添わず胸の痛手になやみ迷うそのひまに、先程の<ruby>灯<rp>(</rp><rt>とう</rt><rp>)</rp>明<rp>(</rp><rt>みょう</rt><rp>)</rp></ruby>が、憎たらしい裏切りからかまたは<ruby>忌<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>わしい<ruby>嫉<rp>(</rp><rt></rt><rp>)</rp>妬<rp>(</rp><rt>ねたみ</rt><rp>)</rp></ruby>心からか、それともこんなにも優しい<ruby>姿態<rp>(</rp><rt>おすがた</rt><rp>)</rp></ruby>に自分でも手を触れて、同じょうに<ruby>接吻<rp>(</rp><rt>くちづけ</rt><rp>)</rp></ruby>をしてみたいとでも思ったのか、燃えている<ruby>芯<rp>(</rp><rt>しん</rt><rp>)</rp></ruby>のさきから熱い油をひとたらし、その神様の右の肩へと落したのです。
+こうなると層一層と<ruby>愛神<rp>(</rp><rt>クピードー</rt><rp>)</rp></ruby>のこいしさが身に<ruby>沁<rp>(</rp><rt>しみ</rt><rp>)</rp></ruby>り渡り、はては無我夢中でのしかかるようにその<ruby>貌<rp>(</rp><rt>かお</rt><rp>)</rp></ruby>を飽かず眺め入って、心の<ruby>急<rp>(</rp><rt>せ</rt><rp>)</rp></ruby>くままやたらに<ruby>接吻<rp>(</rp><rt>くちづけ</rt><rp>)</rp></ruby>を繰り返しては、ただ眠りの頃あいだけに気を遣うのでした。</li>
+<li>ところが、あまりの嬉しさに心も添わず胸の痛手になやみ迷うそのひまに、先程の<ruby>灯<rp>(</rp><rt>とう</rt><rp>)</rp>明<rp>(</rp><rt>みょう</rt><rp>)</rp></ruby>が、憎たらしい裏切りからかまたは<ruby>忌<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>わしい<ruby>嫉<rp>(</rp><rt></rt><rp>)</rp>妬<rp>(</rp><rt>ねたみ</rt><rp>)</rp></ruby>心からか、それともこんなにも優しい<ruby>姿態<rp>(</rp><rt>おすがた</rt><rp>)</rp></ruby>に自分でも手を触れて、同じょうに<ruby>接吻<rp>(</rp><rt>くちづけ</rt><rp>)</rp></ruby>をしてみたいとでも思ったのか、燃えている<ruby>芯<rp>(</rp><rt>しん</rt><rp>)</rp></ruby>のさきから熱い油をひとたらし、その神様の右の肩へと落したのです。
 まあ何という大それた、軽はずみな灯明でしょうか、本当にけしからん<ruby>恋路<rp>(</rp><rt>こいじ</rt><rp>)</rp></ruby>の<ruby>使者<rp>(</rp><rt>つかい</rt><rp>)</rp></ruby>です、ありとあらゆる<ruby>炎<rp>(</rp><rt>ほむら</rt><rp>)</rp></ruby>の神様御自身を<ruby>火傷<rp>(</rp><rt>やけど</rt><rp>)</rp></ruby>させるなんて。
-そもそもその由来因縁そのものが、誰かある恋人が夜の<ruby>間<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>ももっとゆっくり楽しみながら過ごしたいとでも思って、発明したにちがいないのに。</td></tr>
-<tr><td></td>
-<td>こういうわけで体を焼かれて、約束の秘密がこのように破られて滅茶苦茶になったのを覚ると、<ruby>神様<rp>(</rp><rt>グピードー</rt><rp>)</rp></ruby>はいきなり不仕合せな妻の<ruby>接吻<rp>(</rp><rt>くちづけ</rt><rp>)</rp></ruby>や抱擁から<ruby>脱<rp>(</rp><rt>ぬ</rt><rp>)</rp></ruby>け出て、ものも言わずに飛び去って行くのでした。</td></tr>
-<tr><td><sup>２４</sup></td>
-<td>それでもすぐとプシケは、立ってゆく良人の右の<ruby>腓脛<rp>(</rp><rt>ふくらはぎ</rt><rp>)</rp></ruby>に両手で取り<ruby>縋<rp>(</rp><rt>すが</rt><rp>)</rp></ruby>り、空高い神の<ruby>飛<rp>(</rp><rt>ひ</rt><rp>)</rp>行<rp>(</rp><rt>ぎょう</rt><rp>)</rp></ruby>のあわれにいじらしい<ruby>附<rp>(</rp><rt>つき</rt><rp>)</rp>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>といった形で、雲界を突き抜けてゆく折も垂れ下ったまま、今を極みと共々に<ruby>随<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>いてゆくのでしたが、とうとう疲れ果てて地面へ<ruby>墜<rp>(</rp><rt>おつこ</rt><rp>)</rp></ruby>ちてしまいました。</td></tr>
-<tr><td></td>
-<td>しかし、いとしく思う神様は地上に<ruby>臥<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>している<ruby>少女<rp>(</rp><rt>おとめ</rt><rp>)</rp></ruby>を捨てておいでにならず、すぐ傍らにある<ruby>糸<rp>(</rp><rt>いと</rt><rp>)</rp>杉<rp>(</rp><rt>すぎ</rt><rp>)</rp></ruby>の上に降りて、その高い<ruby>天頂<rp>(</rp><rt>てっぺん</rt><rp>)</rp></ruby>から大変に腹立ちのロ調で、こう言いかけなりました。<br>
-「お前は全く何一つ<ruby>弁<rp>(</rp><rt>わきま</rt><rp>)</rp></ruby>えもないのだね、プシケ、私はまあお母様のヴェヌスの<ruby>命令<rp>(</rp><rt>いいつけ</rt><rp>)</rp></ruby>もてんで<ruby>憶<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>わずに、お前をみじめなこの上もなく下らない人間の恋に縛りつけて、とても卑しい結婚をさせてしまう筈だったのを、その代りに自分で好きになって、お前の処へ飛んでってしまったのだ。
+そもそもその由来因縁そのものが、誰かある恋人が夜の<ruby>間<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>ももっとゆっくり楽しみながら過ごしたいとでも思って、発明したにちがいないのに。</li>
+<li>こういうわけで体を焼かれて、約束の秘密がこのように破られて滅茶苦茶になったのを覚ると、<ruby>神様<rp>(</rp><rt>グピードー</rt><rp>)</rp></ruby>はいきなり不仕合せな妻の<ruby>接吻<rp>(</rp><rt>くちづけ</rt><rp>)</rp></ruby>や抱擁から<ruby>脱<rp>(</rp><rt>ぬ</rt><rp>)</rp></ruby>け出て、ものも言わずに飛び去って行くのでした。</li>
+<li value="24">それでもすぐとプシケは、立ってゆく良人の右の<ruby>腓脛<rp>(</rp><rt>ふくらはぎ</rt><rp>)</rp></ruby>に両手で取り<ruby>縋<rp>(</rp><rt>すが</rt><rp>)</rp></ruby>り、空高い神の<ruby>飛<rp>(</rp><rt>ひ</rt><rp>)</rp>行<rp>(</rp><rt>ぎょう</rt><rp>)</rp></ruby>のあわれにいじらしい<ruby>附<rp>(</rp><rt>つき</rt><rp>)</rp>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>といった形で、雲界を突き抜けてゆく折も垂れ下ったまま、今を極みと共々に<ruby>随<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>いてゆくのでしたが、とうとう疲れ果てて地面へ<ruby>墜<rp>(</rp><rt>おつこ</rt><rp>)</rp></ruby>ちてしまいました。</li>
+<li>しかし、いとしく思う神様は地上に<ruby>臥<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>している<ruby>少女<rp>(</rp><rt>おとめ</rt><rp>)</rp></ruby>を捨てておいでにならず、すぐ傍らにある<ruby>糸<rp>(</rp><rt>いと</rt><rp>)</rp>杉<rp>(</rp><rt>すぎ</rt><rp>)</rp></ruby>の上に降りて、その高い<ruby>天頂<rp>(</rp><rt>てっぺん</rt><rp>)</rp></ruby>から大変に腹立ちのロ調で、こう言いかけなりました。</p>
+<p>「お前は全く何一つ<ruby>弁<rp>(</rp><rt>わきま</rt><rp>)</rp></ruby>えもないのだね、プシケ、私はまあお母様のヴェヌスの<ruby>命令<rp>(</rp><rt>いいつけ</rt><rp>)</rp></ruby>もてんで<ruby>憶<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>わずに、お前をみじめなこの上もなく下らない人間の恋に縛りつけて、とても卑しい結婚をさせてしまう筈だったのを、その代りに自分で好きになって、お前の処へ飛んでってしまったのだ。
 だがこれは随分無考えな仕業だった、思えばね、つまり私は世に知らぬ者もない弓使いなのに、われとわが身を自分の矢で傷つけてしまって、そいでお前を自分の妻にしたわけなのだ。
 そのあげくがどうかというとお前には<ruby>野獣<rp>(</rp><rt>けだもの</rt><rp>)</rp></ruby>と見倣されて、刃でこの頭を斬り落されるところだったのだ、こんなにもお前をいとおしんでる眼をもった頭をね。
 こんなことはお前に繰り返し始終気をつけるように言っといたし、親切気から度々戒めておいたじゃないか。
 だがあのお前の結構な相談相手の女たちにも、こんなよこしまなことを教えた罰を、早速とあててくれてやるから。
-だけどお前の罰ただ私が飛び去ってしまうだけにしといてやるよ。」<br>
-こう言い終ると翼にのって空高く翔けりってゆきました。</td></tr>
-<tr><td><sup>２５</sup></td>
-<td>プシケは地面に倒れ伏しつつも、なおまだ眼の届くかぎりは良人の飛ぶさまを追い眺めて、ただ、劇しく泣き悲しみながら心を痛めておりましたが、とうとう翼を<ruby>櫂<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>に良人の姿が久方の空はるかに消えて見えなくなりますと、すぐ近くの流れの岸から真逆さまに身を投げました。
-けれども、優しい川は、きっとこの水さえもいつも燃えたたせてしまう神様に義理を立ててのことでしょう、巻添えを恐れて早速少女を渦巻にのせ、そっと怪我をしないように、草花の咲き乱れた河岸へ置くのでした。</td></tr>
-<tr><td></td>
-<td>ちょうどそのときはからずも野山の神様のパーンが河流の<ruby>眉<rp>(</rp><rt>まゆ</rt><rp>)</rp></ruby>わに近く座を占めて、<a href="#note_echo" title="山ずみの女神" id="echo"><ruby>山ずみの女神<rp>(</rp><rt>エコー</rt><rp>)</rp></ruby></a>を<ruby>傍<rp>(</rp><rt>わき</rt><rp>)</rp></ruby>へ引きつけながら、種々さまざまな声音を歌いかえすことを教えていました。
+だけどお前の罰ただ私が飛び去ってしまうだけにしといてやるよ。」</p>
+<p>こう言い終ると翼にのって空高く翔けりってゆきました。</li>
+<li value="25">プシケは地面に倒れ伏しつつも、なおまだ眼の届くかぎりは良人の飛ぶさまを追い眺めて、ただ、劇しく泣き悲しみながら心を痛めておりましたが、とうとう翼を<ruby>櫂<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>に良人の姿が久方の空はるかに消えて見えなくなりますと、すぐ近くの流れの岸から真逆さまに身を投げました。
+けれども、優しい川は、きっとこの水さえもいつも燃えたたせてしまう神様に義理を立ててのことでしょう、巻添えを恐れて早速少女を渦巻にのせ、そっと怪我をしないように、草花の咲き乱れた河岸へ置くのでした。</li>
+<li>ちょうどそのときはからずも野山の神様のパーンが河流の<ruby>眉<rp>(</rp><rt>まゆ</rt><rp>)</rp></ruby>わに近く座を占めて、<a href="#note_echo" title="山ずみの女神" id="echo"><ruby>山ずみの女神<rp>(</rp><rt>エコー</rt><rp>)</rp></ruby></a>を<ruby>傍<rp>(</rp><rt>わき</rt><rp>)</rp></ruby>へ引きつけながら、種々さまざまな声音を歌いかえすことを教えていました。
 川岸のすぐそばには山羊たちが放し飼いになって、流れの髪の毛を刈り取っては遊び戯れています。
-山羊の足をした神様は、心を傷め気も絶えだえのプシケを傍へ親切に呼び寄せ、いろんなわけからその悲しい話もとうに知っていましたので、やさしい言葉でこう乙女を慰めるのでした。</td></tr>
-<tr><td></td>
-<td>「きれいな娘さんは全く田舎者の羊飼だが、年をとるのも長くなったお陰でもって、いろんな目にもあい物の<ruby>鑑識<rp>(</rp><rt>みわけ</rt><rp>)</rp></ruby>もつくような次第だけれど、もし私の推量に狂いがなければ——それを賢い人達がとりも直さず占いというのだろうが——お前さんの<ruby>躊躇<rp>(</rp><rt>ためら</rt><rp>)</rp></ruby>いがちなよろよろした歩き方だの、ひどく<ruby>蒼<rp>(</rp><rt>あお</rt><rp>)</rp></ruby>ざめた肌の色や始終溜息がちなことや、いや何より第一お前さんのその悲しそうな眼つきから見ても、これはお前さんは恋のあまりに責められていなさるのだ。それゆえ私のいうことをよく聴いて、もう身を投げたりそのほか自分から好んで死ぬような<ruby>真<rp>(</rp><rt>ま</rt><rp>)</rp>似<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>は、またとなさらぬがよい。
-歎いたり悲しんだりするのも止めて、それよりも神様の中でも一番偉い<ruby>愛の神<rp>(</rp><rt>クピードー</rt><rp>)</rp></ruby>に、よくお祈りして願いなさい、でお気に入るよう誠を尽して御神意に叶うがいいだろう。あの方もまだ年若で気の優しい遊び好きな神様だから。」</td></tr>
-<tr><td><sup>２６</sup></td>
-<td>こう論してくれた牧の神様にも何の言葉も返さず、ただ自分の身を<ruby>庇<rp>(</rp><rt>かば</rt><rp>)</rp></ruby>い<ruby>護<rp>(</rp><rt>まも</rt><rp>)</rp></ruby>って下さる御心に手を合せたばかりで、プシケはまた歩み去って行くのでした。
+山羊の足をした神様は、心を傷め気も絶えだえのプシケを傍へ親切に呼び寄せ、いろんなわけからその悲しい話もとうに知っていましたので、やさしい言葉でこう乙女を慰めるのでした。</li>
+<li>「きれいな娘さんは全く田舎者の羊飼だが、年をとるのも長くなったお陰でもって、いろんな目にもあい物の<ruby>鑑識<rp>(</rp><rt>みわけ</rt><rp>)</rp></ruby>もつくような次第だけれど、もし私の推量に狂いがなければ——それを賢い人達がとりも直さず占いというのだろうが——お前さんの<ruby>躊躇<rp>(</rp><rt>ためら</rt><rp>)</rp></ruby>いがちなよろよろした歩き方だの、ひどく<ruby>蒼<rp>(</rp><rt>あお</rt><rp>)</rp></ruby>ざめた肌の色や始終溜息がちなことや、いや何より第一お前さんのその悲しそうな眼つきから見ても、これはお前さんは恋のあまりに責められていなさるのだ。それゆえ私のいうことをよく聴いて、もう身を投げたりそのほか自分から好んで死ぬような<ruby>真<rp>(</rp><rt>ま</rt><rp>)</rp>似<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>は、またとなさらぬがよい。
+歎いたり悲しんだりするのも止めて、それよりも神様の中でも一番偉い<ruby>愛の神<rp>(</rp><rt>クピードー</rt><rp>)</rp></ruby>に、よくお祈りして願いなさい、でお気に入るよう誠を尽して御神意に叶うがいいだろう。あの方もまだ年若で気の優しい遊び好きな神様だから。」</li>
+<li value="26">こう論してくれた牧の神様にも何の言葉も返さず、ただ自分の身を<ruby>庇<rp>(</rp><rt>かば</rt><rp>)</rp></ruby>い<ruby>護<rp>(</rp><rt>まも</rt><rp>)</rp></ruby>って下さる御心に手を合せたばかりで、プシケはまた歩み去って行くのでした。
 それでも相当な<ruby>道<rp>(</rp><rt>みち</rt><rp>)</rp>程<rp>(</rp><rt>のり</rt><rp>)</rp></ruby>を疲れた脚を引きずりながら<ruby>彷徨<rp>(</rp><rt>さまよ</rt><rp>)</rp></ruby>って参りますと、もう日の暮近く知らない路を通って、ある町につきました。
 そこは片方の姉の良人が治めている国でしたので、それに気づくとプシケは自分の来たことを姉さんに報らせてくれるように<ruby>依頼<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>みました。
-程もなく御殿に連れ込まれお互いに抱きあってよろしく挨拶を交わした後、訪ねて来たわけを問い<ruby>質<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>されますと、答えて言うには、<br>
-「あのあなた方が勧めて下さったことを覚えてらっしゃるでしょう。
+程もなく御殿に連れ込まれお互いに抱きあってよろしく挨拶を交わした後、訪ねて来たわけを問い<ruby>質<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>されますと、答えて言うには、</p>
+<p>「あのあなた方が勧めて下さったことを覚えてらっしゃるでしょう。
 ほらあの<ruby>野獣<rp>(</rp><rt>けだもの</rt><rp>)</rp></ruby>をさ、そいつが良人だって偽の名を<ruby>騙<rp>(</rp><rt>だま</rt><rp>)</rp></ruby>っていつもやって来るのを、貧欲な口の中へ私を惨めに呑み込んでしまわないうちに両刃の刺刀で殺してしまえって説きつけて下さったこと。
 ところがね、みんなして決めといた通りにやって燭台を手引きにその人の貌を<ruby>窺<rp>(</rp><rt>のぞ</rt><rp>)</rp></ruby>いて見ると、まあどうでしょう、いきなり眼に映ったのはとても素晴しい<ruby>崇<rp>(</rp><rt>け</rt><rp>)</rp>高<rp>(</rp><rt>だか</rt><rp>)</rp></ruby>いばかりの<ruby>光景<rp>(</rp><rt>ありさま</rt><rp>)</rp></ruby>なんですの、あの女神のヴェヌスの御子様の、つまり<ruby>愛の神<rp>(</rp><rt>クピードー</rt><rp>)</rp></ruby>その方がよ、そうっと静かに寝んでいらっしゃるではありませんか。
 だけどそんなにも有難い御様子に胸が迫って、あんまり大きな嬉しさですっかり<ruby>動<rp>(</rp><rt>どう</rt><rp>)</rp>顚<rp>(</rp><rt>てん</rt><rp>)</rp></ruby>してしまい、どうそれを喜んだものか<ruby>途<rp>(</rp><rt>と</rt><rp>)</rp>方<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>にくれていると、本当にちょうど<ruby>生<rp>(</rp><rt>あい</rt><rp>)</rp>憎<rp>(</rp><rt>にく</rt><rp>)</rp></ruby>と<ruby>灯<rp>(</rp><rt>とう</rt><rp>)</rp>明<rp>(</rp><rt>みょう</rt><rp>)</rp></ruby>が燃えている油を沸き立たせて、肩の処へ落したのです。
-その痛さに良人はすぐと眠りから目を覚まして、私が刃物や<ruby>灯火<rp>(</rp><rt>あかり</rt><rp>)</rp></ruby>やに身を固めているのを見つけると、言いますには、『お前はその通り恐ろしい罪を企らんだのだから、すぐにも自分の物を持って、この処から出て行け、そうで私は今度はお前の姉さんと——ってあなたの呼名を申しましたの——ちゃんと公然と式を挙げて結婚してやるんだから』というと、早速<ruby>西風<rp>(</rp><rt>ゼフィルス</rt><rp>)</rp></ruby>に言いつけて、自分の屋敷から外へ私を吹きつれてゆかせたのです。」</td></tr>
-<tr><td><sup>２７</sup></td>
-<td>まだ文句をプシケが言い切りもしないうちに、もうその姉は狂おしい欲望と<ruby>歪<rp>(</rp><rt>ゆが</rt><rp>)</rp></ruby>んだ<ruby>嫉<rp>(</rp><rt>そねみ</rt><rp>)</rp></ruby>みに駆り立てられて、好い加減な<ruby>嘘<rp>(</rp><rt>うそ</rt><rp>)</rp></ruby>っぱちを<ruby>揑<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>ね上げて人々を<ruby>欺<rp>(</rp><rt>だま</rt><rp>)</rp></ruby>し、両親が死んだという報らせがあったとか何とか言って、すぐに船へ乗っていきなり例の巖のところへ駆けつけますと、ほかの風が吹いてるのも構わずに、<ruby>盲<rp>(</rp><rt>めくら</rt><rp>)</rp>滅<rp>(</rp><rt>めっ</rt><rp>)</rp>法<rp>(</rp><rt>ぽう</rt><rp>)</rp></ruby>な望みに夢中になって、<br>
-「さあ受けて下さい、クピードーさん、あなたにふさわしい奥様の私を、それから<ruby>西風<rp>(</rp><rt>ゼフィルス</rt><rp>)</rp></ruby>や、お前はこの御主人をうけとめてくれ。
-」<br>
-というが早いか、できるだけ大きくまっしぐらに飛び下りました。
+その痛さに良人はすぐと眠りから目を覚まして、私が刃物や<ruby>灯火<rp>(</rp><rt>あかり</rt><rp>)</rp></ruby>やに身を固めているのを見つけると、言いますには、『お前はその通り恐ろしい罪を企らんだのだから、すぐにも自分の物を持って、この処から出て行け、そうで私は今度はお前の姉さんと——ってあなたの呼名を申しましたの——ちゃんと公然と式を挙げて結婚してやるんだから』というと、早速<ruby>西風<rp>(</rp><rt>ゼフィルス</rt><rp>)</rp></ruby>に言いつけて、自分の屋敷から外へ私を吹きつれてゆかせたのです。」</li>
+<li value="27">まだ文句をプシケが言い切りもしないうちに、もうその姉は狂おしい欲望と<ruby>歪<rp>(</rp><rt>ゆが</rt><rp>)</rp></ruby>んだ<ruby>嫉<rp>(</rp><rt>そねみ</rt><rp>)</rp></ruby>みに駆り立てられて、好い加減な<ruby>嘘<rp>(</rp><rt>うそ</rt><rp>)</rp></ruby>っぱちを<ruby>揑<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>ね上げて人々を<ruby>欺<rp>(</rp><rt>だま</rt><rp>)</rp></ruby>し、両親が死んだという報らせがあったとか何とか言って、すぐに船へ乗っていきなり例の巖のところへ駆けつけますと、ほかの風が吹いてるのも構わずに、<ruby>盲<rp>(</rp><rt>めくら</rt><rp>)</rp>滅<rp>(</rp><rt>めっ</rt><rp>)</rp>法<rp>(</rp><rt>ぽう</rt><rp>)</rp></ruby>な望みに夢中になって、</p>
+<p>「さあ受けて下さい、クピードーさん、あなたにふさわしい奥様の私を、それから<ruby>西風<rp>(</rp><rt>ゼフィルス</rt><rp>)</rp></ruby>や、お前はこの御主人をうけとめてくれ。
+」</p>
+<p>というが早いか、できるだけ大きくまっしぐらに飛び下りました。
 でもいつもの処へは、死んでからでさえ行きつくことはできません。
-切岩の上を落ちてゆくうちに手も肢もばらばらになって、あとでは心<ruby>相<rp>(</rp><rt>そう</rt><rp>)</rp>応<rp>(</rp><rt>おう</rt><rp>)</rp></ruby>に鳥や獣に<ruby>臓<rp>(</rp><rt>ぞう</rt><rp>)</rp>腑<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>を裂き<ruby>啄<rp>(</rp><rt>ついば</rt><rp>)</rp></ruby>まれ、<ruby>恰好<rp>(</rp><rt>かっこう</rt><rp>)</rp></ruby>の餌食となるのがその最期でした。</td></tr>
-<tr><td></td>
-<td>またその次の<ruby>応報<rp>(</rp><rt>しかえし</rt><rp>)</rp></ruby>の<ruby>処罰<rp>(</rp><rt>おしおき</rt><rp>)</rp></ruby>も長くはかからなかった、というのは、またもプシケがぶらぶらと歩いてゆくうちに、他の町へつきますと、そこには同じような<ruby>工<rp>(</rp><rt>ぐ</rt><rp>)</rp>合<rp>(</rp><rt>あい</rt><rp>)</rp></ruby>で、もう一人の姉が住んでいたのです。
-そしてこの女も前とことならず、妹のつくりごとに釣られて、悪性にも妹の嫁入り口を横奪りしようと巖のところへ急いで行き、同じような<ruby>死態<rp>(</rp><rt>しにざま</rt><rp>)</rp></ruby>を遂げたのでした。</td></tr>
-<tr><td><sup>２８</sup></td>
-<td>一方プシケがしきりと<ruby>愛の神<rp>(</rp><rt>クビードー</rt><rp>)</rp></ruby>を尋ねて国々を巡歴している間に、彼方では<ruby>燭<rp>(</rp><rt>ともし</rt><rp>)</rp>火<rp>(</rp><rt>び</rt><rp>)</rp></ruby>の傷の痛さにお母様の奥の間に<ruby>臥<rp>(</rp><rt>こや</rt><rp>)</rp></ruby>ったまま<ruby>呻<rp>(</rp><rt>しん</rt><rp>)</rp>吟<rp>(</rp><rt>ぎん</rt><rp>)</rp></ruby>していました。
+切岩の上を落ちてゆくうちに手も肢もばらばらになって、あとでは心<ruby>相<rp>(</rp><rt>そう</rt><rp>)</rp>応<rp>(</rp><rt>おう</rt><rp>)</rp></ruby>に鳥や獣に<ruby>臓<rp>(</rp><rt>ぞう</rt><rp>)</rp>腑<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>を裂き<ruby>啄<rp>(</rp><rt>ついば</rt><rp>)</rp></ruby>まれ、<ruby>恰好<rp>(</rp><rt>かっこう</rt><rp>)</rp></ruby>の餌食となるのがその最期でした。</li>
+<li>またその次の<ruby>応報<rp>(</rp><rt>しかえし</rt><rp>)</rp></ruby>の<ruby>処罰<rp>(</rp><rt>おしおき</rt><rp>)</rp></ruby>も長くはかからなかった、というのは、またもプシケがぶらぶらと歩いてゆくうちに、他の町へつきますと、そこには同じような<ruby>工<rp>(</rp><rt>ぐ</rt><rp>)</rp>合<rp>(</rp><rt>あい</rt><rp>)</rp></ruby>で、もう一人の姉が住んでいたのです。
+そしてこの女も前とことならず、妹のつくりごとに釣られて、悪性にも妹の嫁入り口を横奪りしようと巖のところへ急いで行き、同じような<ruby>死態<rp>(</rp><rt>しにざま</rt><rp>)</rp></ruby>を遂げたのでした。</li>
+<li value="28">一方プシケがしきりと<ruby>愛の神<rp>(</rp><rt>クビードー</rt><rp>)</rp></ruby>を尋ねて国々を巡歴している間に、彼方では<ruby>燭<rp>(</rp><rt>ともし</rt><rp>)</rp>火<rp>(</rp><rt>び</rt><rp>)</rp></ruby>の傷の痛さにお母様の奥の間に<ruby>臥<rp>(</rp><rt>こや</rt><rp>)</rp></ruby>ったまま<ruby>呻<rp>(</rp><rt>しん</rt><rp>)</rp>吟<rp>(</rp><rt>ぎん</rt><rp>)</rp></ruby>していました。
 そうするとあの真白な<ruby>海<rp>(</rp><rt>うみ</rt><rp>)</rp>猫<rp>(</rp><rt>ねこ</rt><rp>)</rp></ruby>が——いつも大海の波の上を翼にのって<ruby>遊<rp>(</rp><rt>ゆ</rt><rp>)</rp></ruby>いでいる鳥です——大急ぎで、<ruby>大洋<rp>(</rp><rt>わだつみ</rt><rp>)</rp></ruby>のふところ深く潜り込んでゆき、そこで今しがたヴェヌスさまが<ruby>沐浴<rp>(</rp><rt>ゆあみ</rt><rp>)</rp></ruby>したり泳いだりしてる、その傍に陣取って息子さんの<ruby>火傷<rp>(</rp><rt>やけど</rt><rp>)</rp></ruby>のやすことや、傷が大変に痛んで困ってること、生命のほども疑わしく<ruby>臥<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>んでることなどを言いつけました。
-それに、もうどこの国でも人の口の<ruby>端<rp>(</rp><rt>は</rt><rp>)</rp></ruby>に上ってる噂や<ruby>種<rp>(</rp><rt>さま</rt><rp>)</rp>々<rp>(</rp><rt>ざま</rt><rp>)</rp></ruby>な<ruby>悪<rp>(</rp><rt>あく</rt><rp>)</rp>罵<rp>(</rp><rt>ば</rt><rp>)</rp></ruby>を聞けば、ヴェヌスの家の人達はみんなひどい不評判だ、というのは息子の方は山の中で浮気をしてるし、あなた様はまた海に<ruby>潜<rp>(</rp><rt>かず</rt><rp>)</rp></ruby>いてばかりいて一向世間に出てらっしゃらないので、お蔭さまで今ではもうてんで楽しみというものも、雅びも優しさというものもこの世から姿を消し、みんながみな粗野で<ruby>無<rp>(</rp><rt>ぶ</rt><rp>)</rp>様<rp>(</rp><rt>ざま</rt><rp>)</rp></ruby>で野蛮になってしまいまして、さては夫婦の縁結びも友達のつき合いも、子供らを可愛がることさえももうなくなり、ただ無際限な<ruby>汚辱<rp>(</rp><rt>けがれ</rt><rp>)</rp></ruby>と<ruby>穢<rp>(</rp><rt>きたな</rt><rp>)</rp></ruby>らしい<ruby>寄<rp>(</rp><rt>より</rt><rp>)</rp>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>いの不気味な<ruby>厭<rp>(</rp><rt>いや</rt><rp>)</rp></ruby>らしさばかりでございます、などとその<ruby>饒舌<rp>(</rp><rt>おしゃべり</rt><rp>)</rp></ruby>なおまけにずいぶん世話やきな鳥が、息子の評判をめちゃめちゃにして、ヴュヌスの耳へ吹き込んだものです。</td></tr>
-<tr><td></td>
-<td>そこでヴェヌスはすっかり腹を立てて、急に叫び立てました。<br>
-「じゃあもうあの私の立派な息子はいい<ruby>女<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>があるのだね、さ、言っとくれ、私に心から仕えてくれるのはお前だけなのだから、その女の名は何ていうの。まだほんの<ruby>生<rp>(</rp><rt>き</rt><rp>)</rp></ruby>のままの元服もしてない子供を<ruby>唆<rp>(</rp><rt>そその</rt><rp>)</rp></ruby>かすなんて。
-ニンフ達の一人かそれとも季節の<ruby>精<rp>(</rp><rt>ホラ</rt><rp>)</rp></ruby>たちか、<ruby>薬女<rp>(</rp><rt>ムウサ</rt><rp>)</rp></ruby>の<ruby>歌舞団<rp>(</rp><rt>コロス</rt><rp>)</rp></ruby>のなかまか、またはお<ruby>扈<rp>(</rp><rt>こ</rt><rp>)</rp>従<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby>の美の<ruby>精<rp>(</rp><rt>グラテイア</rt><rp>)</rp></ruby>たちのうちの女かえ。」</td></tr>
-<tr><td></td>
-<td>するとそのお喋り鳥が黙ってればいいものを、<br>
-「存じません、奥様、でも私の聞き憶えが本当なら、プシケとかいう名の少女に、死ぬほど<ruby>焦<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>れておいでの模様です。」<br>
-そこでまあヴェヌスは大<ruby>変憤<rp>(</rp><rt>いきど</rt><rp>)</rp></ruby>って一層声をはり上げて叫びました。<br>
-「プシケをだって！　まああの私と<ruby>容色<rp>(</rp><rt>きりょう</rt><rp>)</rp></ruby>争いをして、名前を<ruby>競<rp>(</rp><rt>せ</rt><rp>)</rp></ruby>り合ってる女を、もし本気であの子が好きになったというのなら、きっとあの小僧は私を<ruby>鴇<rp>(</rp><rt>やり</rt><rp>)</rp>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby>とでも思ったのだろう。
-もともと私があいつを{r}紹介{/r(ひきあわ)}せてやったんだからね。」</td></tr>
-<tr><td><sup>２９</sup></td>
-<td>こう大声に言い立てながら大急ぎで海を出て、すぐさま自分の金色のお居間へ行って、話のとおりに息子が病気で臥ているのを見つけますと、もういきなりその扉ロのところから声を限りに叫び立てるのでした。<br>
-「結構なことだね、本当にこれは、私達の生れ育ちにもお前の名誉にとってもちょうど相応したことだよ。
+それに、もうどこの国でも人の口の<ruby>端<rp>(</rp><rt>は</rt><rp>)</rp></ruby>に上ってる噂や<ruby>種<rp>(</rp><rt>さま</rt><rp>)</rp>々<rp>(</rp><rt>ざま</rt><rp>)</rp></ruby>な<ruby>悪<rp>(</rp><rt>あく</rt><rp>)</rp>罵<rp>(</rp><rt>ば</rt><rp>)</rp></ruby>を聞けば、ヴェヌスの家の人達はみんなひどい不評判だ、というのは息子の方は山の中で浮気をしてるし、あなた様はまた海に<ruby>潜<rp>(</rp><rt>かず</rt><rp>)</rp></ruby>いてばかりいて一向世間に出てらっしゃらないので、お蔭さまで今ではもうてんで楽しみというものも、雅びも優しさというものもこの世から姿を消し、みんながみな粗野で<ruby>無<rp>(</rp><rt>ぶ</rt><rp>)</rp>様<rp>(</rp><rt>ざま</rt><rp>)</rp></ruby>で野蛮になってしまいまして、さては夫婦の縁結びも友達のつき合いも、子供らを可愛がることさえももうなくなり、ただ無際限な<ruby>汚辱<rp>(</rp><rt>けがれ</rt><rp>)</rp></ruby>と<ruby>穢<rp>(</rp><rt>きたな</rt><rp>)</rp></ruby>らしい<ruby>寄<rp>(</rp><rt>より</rt><rp>)</rp>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>いの不気味な<ruby>厭<rp>(</rp><rt>いや</rt><rp>)</rp></ruby>らしさばかりでございます、などとその<ruby>饒舌<rp>(</rp><rt>おしゃべり</rt><rp>)</rp></ruby>なおまけにずいぶん世話やきな鳥が、息子の評判をめちゃめちゃにして、ヴュヌスの耳へ吹き込んだものです。</li>
+<li>そこでヴェヌスはすっかり腹を立てて、急に叫び立てました。</p>
+<p>「じゃあもうあの私の立派な息子はいい<ruby>女<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>があるのだね、さ、言っとくれ、私に心から仕えてくれるのはお前だけなのだから、その女の名は何ていうの。まだほんの<ruby>生<rp>(</rp><rt>き</rt><rp>)</rp></ruby>のままの元服もしてない子供を<ruby>唆<rp>(</rp><rt>そその</rt><rp>)</rp></ruby>かすなんて。
+ニンフ達の一人かそれとも季節の<ruby>精<rp>(</rp><rt>ホラ</rt><rp>)</rp></ruby>たちか、<ruby>薬女<rp>(</rp><rt>ムウサ</rt><rp>)</rp></ruby>の<ruby>歌舞団<rp>(</rp><rt>コロス</rt><rp>)</rp></ruby>のなかまか、またはお<ruby>扈<rp>(</rp><rt>こ</rt><rp>)</rp>従<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby>の美の<ruby>精<rp>(</rp><rt>グラテイア</rt><rp>)</rp></ruby>たちのうちの女かえ。」</li>
+<li>するとそのお喋り鳥が黙ってればいいものを、</p>
+<p>「存じません、奥様、でも私の聞き憶えが本当なら、プシケとかいう名の少女に、死ぬほど<ruby>焦<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>れておいでの模様です。」</p>
+<p>そこでまあヴェヌスは大<ruby>変憤<rp>(</rp><rt>いきど</rt><rp>)</rp></ruby>って一層声をはり上げて叫びました。</p>
+<p>「プシケをだって！　まああの私と<ruby>容色<rp>(</rp><rt>きりょう</rt><rp>)</rp></ruby>争いをして、名前を<ruby>競<rp>(</rp><rt>せ</rt><rp>)</rp></ruby>り合ってる女を、もし本気であの子が好きになったというのなら、きっとあの小僧は私を<ruby>鴇<rp>(</rp><rt>やり</rt><rp>)</rp>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby>とでも思ったのだろう。
+もともと私があいつを{r}紹介{/r(ひきあわ)}せてやったんだからね。」</li>
+<li value="29">こう大声に言い立てながら大急ぎで海を出て、すぐさま自分の金色のお居間へ行って、話のとおりに息子が病気で臥ているのを見つけますと、もういきなりその扉ロのところから声を限りに叫び立てるのでした。</p>
+<p>「結構なことだね、本当にこれは、私達の生れ育ちにもお前の名誉にとってもちょうど相応したことだよ。
 まず第一お前の親の、いえそれどころか主人の<ruby>命令<rp>(</rp><rt>いいつけ</rt><rp>)</rp></ruby>を<ruby>蹂<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>み<ruby>躙<rp>(</rp><rt>にじ</rt><rp>)</rp></ruby>ってさ、私の<ruby>敵<rp>(</rp><rt>かたき</rt><rp>)</rp></ruby>を汚れた愛で責め苦しめるどころか、まだこんな年頃の子供のくせに、いつもの<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp>儘<rp>(</rp><rt>まま</rt><rp>)</rp></ruby>勝手なませたやり方で（あの女を）自分のものにしちまうなんて。お蔭さまで、じゃあ私は自分の<ruby>仇<rp>(</rp><rt>かたき</rt><rp>)</rp></ruby>を嫁にして我慢するのかえ。
 そいでまたこの<ruby>碌<rp>(</rp><rt>りょく</rt><rp>)</rp></ruby>でなしの女<ruby>蕩<rp>(</rp><rt>だら</rt><rp>)</rp></ruby>しの憎まれっ子が、自分ひとりがちゃんとした後継ぎの生まれでもって、私はもう年のせいで子が出来ないとでも己惚れてるんだろう。
 そんならよく憶えといで、お前よりずっと立派な子をまた産んで上げるからね、いえそれもっとお前に恥をかかせてやるように、うちの下僕を一人後継ぎにして、それにお前のもってる<ruby>翅<rp>(</rp><rt>つばさ</rt><rp>)</rp></ruby>だの<ruby>焔<rp>(</rp><rt>ほのお</rt><rp>)</rp></ruby>だの弓や矢までも、私のやったいろんな道具をみんなとり上げて<ruby>与<rp>(</rp><rt>や</rt><rp>)</rp></ruby>ってしまおう。
 もともとそれはこんな用に立てるのに<ruby>与<rp>(</rp><rt>や</rt><rp>)</rp></ruby>ったのではないんだから。
-それに何一つお前のお父様の<ruby>財産<rp>(</rp><rt>もちもの</rt><rp>)</rp></ruby>から、その<ruby>身<rp>(</rp><rt>み</rt><rp>)</rp>拵<rp>(</rp><rt>ごしら</rt><rp>)</rp></ruby>えにって貰ったものはないのじゃないか。</td></tr>
-<tr><td><sup>３０</sup></td>
-<td>本当に赤ん坊の時から<ruby>躾<rp>(</rp><rt>しつ</rt><rp>)</rp></ruby>けが悪くて、その上に手が速くって、目上の人たちを何度かもしれないほど見さかいなしに酷い目にあわせといて、その上自分の母親までをさ、私をだよ、この<ruby>極<rp>(</rp><rt>ごく</rt><rp>)</rp>道<rp>(</rp><rt>どう</rt><rp>)</rp></ruby>者が、しょっちゅういい<ruby>曝<rp>(</rp><rt>さら</rt><rp>)</rp></ruby>し者にしてさ、何度も何度も矢を射かけて、それにほんの<ruby>寡婦<rp>(</rp><rt>やもの</rt><rp>)</rp></ruby>と思ってだろう、馬鹿にしてばっかり、<a href="#note_mars" title="義理のお父様でも" id="mars">義理のお父様でも</a>、　あんなとてもお強い偉い<ruby>武士<rp>(</rp><rt>おさむらい</rt><rp>)</rp></ruby>なのに、ちっとも怖がりもしないのだよ。
+それに何一つお前のお父様の<ruby>財産<rp>(</rp><rt>もちもの</rt><rp>)</rp></ruby>から、その<ruby>身<rp>(</rp><rt>み</rt><rp>)</rp>拵<rp>(</rp><rt>ごしら</rt><rp>)</rp></ruby>えにって貰ったものはないのじゃないか。</li>
+<li value="30">本当に赤ん坊の時から<ruby>躾<rp>(</rp><rt>しつ</rt><rp>)</rp></ruby>けが悪くて、その上に手が速くって、目上の人たちを何度かもしれないほど見さかいなしに酷い目にあわせといて、その上自分の母親までをさ、私をだよ、この<ruby>極<rp>(</rp><rt>ごく</rt><rp>)</rp>道<rp>(</rp><rt>どう</rt><rp>)</rp></ruby>者が、しょっちゅういい<ruby>曝<rp>(</rp><rt>さら</rt><rp>)</rp></ruby>し者にしてさ、何度も何度も矢を射かけて、それにほんの<ruby>寡婦<rp>(</rp><rt>やもの</rt><rp>)</rp></ruby>と思ってだろう、馬鹿にしてばっかり、<a href="#note_mars" title="義理のお父様でも" id="mars">義理のお父様でも</a>、　あんなとてもお強い偉い<ruby>武士<rp>(</rp><rt>おさむらい</rt><rp>)</rp></ruby>なのに、ちっとも怖がりもしないのだよ。
 いえそうに違いないさ、私に<ruby>嫉妬<rp>(</rp><rt>やきもち</rt><rp>)</rp></ruby>を焼かせて虐めようと思って、何度となくあの人をそそのかしてばかりいるじゃないか。
 だけど今度こそこんな<ruby>悪<rp>(</rp><rt>わる</rt><rp>)</rp>戯<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>はうんと後悔させてやるからね、そうしてあんな女と一緒になったので、苦い<ruby>酸<rp>(</rp><rt>しょっぱ</rt><rp>)</rp></ruby>い目を見せてあげるよ。
 だけど今、笑いものにされたこの始末をどうつけてくれよう、まあどうしてくれたら好いだろう。
@@ -404,355 +311,519 @@
 すぐあの女に頼むことにしよう、他の誰よりもあの女だけに。
 とても<ruby>厳<rp>(</rp><rt>げん</rt><rp>)</rp>重<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby>にこの様でなしをお仕置きしてくれるだろうからね、<ruby>箙<rp>(</rp><rt>えぴら</rt><rp>)</rp></ruby>もといてしまうし矢も取り上げてしまうし、弓も糸を外して<ruby>松明<rp>(</rp><rt>たいまつ</rt><rp>)</rp></ruby>も<ruby>消<rp>(</rp><rt>けや</rt><rp>)</rp></ruby>して、いえ第一あの子の体をさ、もっと<ruby>強<rp>(</rp><rt>きつ</rt><rp>)</rp></ruby>い薬でもってしっかり<ruby>性<rp>(</rp><rt>しょう</rt><rp>)</rp>根<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>をつけてくれるだろうよ。
 いっそあの子の頭をすっかり剃っちまって、あの翼を刈り取ってでもしてくれたら、そしたら私の<ruby>潰<rp>(</rp><rt>つぶ</rt><rp>)</rp></ruby>された顔も立つし気持も直るだろう。
-私がこの自分の手でもって金色の輝きに染め上げてやった髪やこの<ruby>懐<rp>(</rp><rt>ふとこ</rt><rp>)</rp></ruby>ろで<ruby>仙酒<rp>(</rp><rt>ネクタル</rt><rp>)</rp></ruby>の泉に浸してやった翼なんかをね。」</td></tr>
-<tr><td><sup>３１</sup></td>
-<td>こう言い放つと荒々しくヴェヌス一流の<ruby>激怒<rp>(</rp><rt>ヒステリー</rt><rp>)</rp></ruby>に<ruby>猛<rp>(</rp><rt>たけ</rt><rp>)</rp></ruby>り立ちながら家の外へ出てゆきました。
+私がこの自分の手でもって金色の輝きに染め上げてやった髪やこの<ruby>懐<rp>(</rp><rt>ふとこ</rt><rp>)</rp></ruby>ろで<ruby>仙酒<rp>(</rp><rt>ネクタル</rt><rp>)</rp></ruby>の泉に浸してやった翼なんかをね。」</li>
+<li value="31">こう言い放つと荒々しくヴェヌス一流の<ruby>激怒<rp>(</rp><rt>ヒステリー</rt><rp>)</rp></ruby>に<ruby>猛<rp>(</rp><rt>たけ</rt><rp>)</rp></ruby>り立ちながら家の外へ出てゆきました。
 でもすぐと<a href="#note_ceres" title="ケレースとユーノーの二方の女神" id="ceres"><ruby>ケレース<rp>(</rp><rt>Ceres</rt><rp>)</rp></ruby>と<ruby>ユーノー<rp>(</rp><rt>Juno</rt><rp>)</rp></ruby>の二方の女神</a>が向うからやって来て、ヴェヌスの<ruby>膨<rp>(</rp><rt>ふく</rt><rp>)</rp></ruby>れた顔を見ますと、なぜそんな怖い<ruby>顰<rp>(</rp><rt>ひそ</rt><rp>)</rp></ruby>みでもって折角きらきらとした瞳の美しさをおしこめてるのかと尋ねました。
-そこでヴェヌスが申しますには、<br>
-「丁度好いところへおいででしたのね、煮えくり返ってる私の胸を無理に抑えてしまおうっていうのでしょう。
+そこでヴェヌスが申しますには、</p>
+<p>「丁度好いところへおいででしたのね、煮えくり返ってる私の胸を無理に抑えてしまおうっていうのでしょう。
 でもそれより、どうかあなた方のお力のありったけで、あのプシケを探し出して下さいましよ、あの逃げ出してうまく飛び廻ってる女を。
-あなた方だって勿論私のところの結構な評判も、お話にもならないあの息子の<ruby>所<rp>(</rp><rt>し</rt><rp>)</rp>業<rp>(</rp><rt>わざ</rt><rp>)</rp></ruby>も、よく知ってらっしゃるのでしょうからね。」</td></tr>
-<tr><td></td>
-<td>そうすると二人の女神たちは、その<ruby>顚<rp>(</rp><rt>てん</rt><rp>)</rp>末<rp>(</rp><rt>まつ</rt><rp>)</rp></ruby>はよく心得ていましたけれど、ヴェヌスのきつい腹立ちを<ruby>宥<rp>(</rp><rt>なだ</rt><rp>)</rp></ruby>めようとして、こう言いました。<br>
-「まあ一体お宅の息子さんはどんな悪いことをなさいましたの、奥様、あなたとしたことがそう<ruby>断然<rp>(</rp><rt>まつばり</rt><rp>)</rp></ruby>とお腹立ちになって、坊ちゃんのお楽しみを攻撃なさったり、その好きな女をどうかして始末してしまおうとお思いになるなんて。
+あなた方だって勿論私のところの結構な評判も、お話にもならないあの息子の<ruby>所<rp>(</rp><rt>し</rt><rp>)</rp>業<rp>(</rp><rt>わざ</rt><rp>)</rp></ruby>も、よく知ってらっしゃるのでしょうからね。」</li>
+<li>そうすると二人の女神たちは、その<ruby>顚<rp>(</rp><rt>てん</rt><rp>)</rp>末<rp>(</rp><rt>まつ</rt><rp>)</rp></ruby>はよく心得ていましたけれど、ヴェヌスのきつい腹立ちを<ruby>宥<rp>(</rp><rt>なだ</rt><rp>)</rp></ruby>めようとして、こう言いました。</p>
+<p>「まあ一体お宅の息子さんはどんな悪いことをなさいましたの、奥様、あなたとしたことがそう<ruby>断然<rp>(</rp><rt>まつばり</rt><rp>)</rp></ruby>とお腹立ちになって、坊ちゃんのお楽しみを攻撃なさったり、その好きな女をどうかして始末してしまおうとお思いになるなんて。
 でもねえ、ちょいと、坊ちゃんが綺麗な娘さんにうっかり笑いかけたからって、それがそう大それたことかしら。
 それにあの子だって男の子だし、いい若者だってのを御存じなんでしょう、もう何歳になるかってのも忘れておいでじゃないでしょうに。
 それともいくつ歳をとって結構小さく見えるからって、しょっちゅう子供並みにしてなけりゃいけないのかしら。
 そうしといてお母さんのあなたが、しかもその上分別ざかりの<ruby>女<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>が、いつまでも自分の子の<ruby>遊<rp>(</rp><rt>あそび</rt><rp>)</rp>戯<rp>(</rp><rt>ごと</rt><rp>)</rp></ruby>に眼を皿にしておせっかいをやいたり、<ruby>放<rp>(</rp><rt>ほう</rt><rp>)</rp>埓<rp>(</rp><rt>らつ</rt><rp>)</rp></ruby>を<ruby>咎<rp>(</rp><rt>とが</rt><rp>)</rp></ruby>め立てたり、情事をせきとめたりして、御自分の手練や御自分の魅力ってものを様子のいい息子さんのところでは、こきおろしてるのじゃないの。
-だけど、あなたが自分の家では<ruby>色恋沙汰<rp>(</rp><rt>いろこい</rt><rp>)</rp></ruby>をそれこそ厳重にせき止めといて、女ごころの気よわさの<ruby>諸人<rp>(</rp><rt>みんな</rt><rp>)</rp></ruby>に許された<ruby>娯楽<rp>(</rp><rt>たのしみ</rt><rp>)</rp></ruby>場にも入れさせないなら、神様だって人間だって、誰一人としてあんたがやたらに世間中へ<ruby>愛情<rp>(</rp><rt>なさけ</rt><rp>)</rp></ruby>の種子をまいてあるくのを放っとくものですか。」</td></tr>
-<tr><td></td>
-<td>こう女神たちは、本人はそこにいないながら、矢の勢いを畏れて、<ruby>愛の神<rp>(</rp><rt>クビードー</rt><rp>)</rp></ruby>に都合のいい弁護をしてやって機嫌をとるのでしたが、ヴェヌスの方は、ひどい目にあったのをこう<ruby>弄<rp>(</rp><rt>いろ</rt><rp>)</rp></ruby>みものにされてしまったので腹を立て、二人を向うへやりすごしておいてから、足もせわしくまた来た道を海原の方へと向ってまいりました。</td></tr>
-</tbody></table>
+だけど、あなたが自分の家では<ruby>色恋沙汰<rp>(</rp><rt>いろこい</rt><rp>)</rp></ruby>をそれこそ厳重にせき止めといて、女ごころの気よわさの<ruby>諸人<rp>(</rp><rt>みんな</rt><rp>)</rp></ruby>に許された<ruby>娯楽<rp>(</rp><rt>たのしみ</rt><rp>)</rp></ruby>場にも入れさせないなら、神様だって人間だって、誰一人としてあんたがやたらに世間中へ<ruby>愛情<rp>(</rp><rt>なさけ</rt><rp>)</rp></ruby>の種子をまいてあるくのを放っとくものですか。」</li>
+<li>こう女神たちは、本人はそこにいないながら、矢の勢いを畏れて、<ruby>愛の神<rp>(</rp><rt>クビードー</rt><rp>)</rp></ruby>に都合のいい弁護をしてやって機嫌をとるのでしたが、ヴェヌスの方は、ひどい目にあったのをこう<ruby>弄<rp>(</rp><rt>いろ</rt><rp>)</rp></ruby>みものにされてしまったので腹を立て、二人を向うへやりすごしておいてから、足もせわしくまた来た道を海原の方へと向ってまいりました。</li>
+</ol>
+
 <h2 class="blue">巻の六</h2>
-<table>
-<thead>
-<tr>
-<th></th>
-<th><span hidden>hidden</span></th>
-</tr>
-</thead>
-<tbody>
-<tr><td><sup>１</sup></td>
-<td>話変ってプシケはあちらこちらと<ruby>駆け回<rp>(</rp><rt>めぐ</rt><rp>)</rp></ruby>っては、夜も昼も良人を探し尋ねて心の<ruby>憩<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>むひまもなく、ただひたすらにその<ruby>憤<rp>(</rp><rt>いきど</rt><rp>)</rp></ruby>りを、よし妻としての優しい言葉で<ruby>宥<rp>(</rp><rt>なだ</rt><rp>)</rp></ruby>めることはもうかなわぬにしても、せめて<ruby>婢<rp>(</rp><rt>はたしめ</rt><rp>)</rp></ruby>の祈願でもって和らげたいものといやましに願い求めるのでした。
+
+<ol class="doc">
+<li value="1">話変ってプシケはあちらこちらと<ruby>駆け回<rp>(</rp><rt>めぐ</rt><rp>)</rp></ruby>っては、夜も昼も良人を探し尋ねて心の<ruby>憩<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>むひまもなく、ただひたすらにその<ruby>憤<rp>(</rp><rt>いきど</rt><rp>)</rp></ruby>りを、よし妻としての優しい言葉で<ruby>宥<rp>(</rp><rt>なだ</rt><rp>)</rp></ruby>めることはもうかなわぬにしても、せめて<ruby>婢<rp>(</rp><rt>はたしめ</rt><rp>)</rp></ruby>の祈願でもって和らげたいものといやましに願い求めるのでした。
 そのうち高い山の巖に何かお神殿のあるのをみとめますと、「おや、あそこにうちの主人さまがいらっしゃらないとも限るまい」といって、すぐとに<ruby>忙<rp>(</rp><rt>せわ</rt><rp>)</rp></ruby>しく足運んで参りました。
 それもあんまり<ruby>劇<rp>(</rp><rt>はげ</rt><rp>)</rp></ruby>しい骨りにもうすっかりと疲れきってるのを、ただ<ruby>希望<rp>(</rp><rt>のぞみ</rt><rp>)</rp></ruby>と愛のまごころに駆り立てられていくのでした。
 そしていきおいこんで、一心に高い尾根を超え登り、とうとう神座のすぐ傍まで辿りついて見ますと、そこには穀物の<ruby>刈<rp>(</rp><rt>かり</rt><rp>)</rp>穂<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby>がうず高く積んだり、環形にまげて束ねたりしてあって、大麦の穂の束などもおいてあり、そのほか<ruby>鎌<rp>(</rp><rt>かま</rt><rp>)</rp></ruby>だとか刈入れ仕事の道具一式が、それもみんなあちこち散らばったまま<ruby>無<rp>(</rp><rt>む</rt><rp>)</rp>雑<rp>(</rp><rt>ぞう</rt><rp>)</rp>作<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>にごたごたおいてあり、暑い日盛りにでも百姓がてんでに投げ出していったようなふうでした。
-それをプシケはいちいち丁寧にわけて、ちゃんとそれぞれ片づけて<ruby>蔵<rp>(</rp><rt>しま</rt><rp>)</rp></ruby>いました、というのは、どんなお神殿にしろ自分は<ruby>等閑<rp>(</rp><rt>なおざり</rt><rp>)</rp></ruby>にしないで、すべての神様の慈悲をねがい求めなければならないと考えたからです。</td></tr>
-<tr><td><sup>２</sup></td>
-<td>ちょうどこうやって心をこめてせっせとお手伝いをしてるところへ情け深いケレースがおいでになり、少女をお認めになると、すぐさま大きな声で呼びかけました。<br>
-「まあ、お前は可哀そうなプシケじゃないの。
+それをプシケはいちいち丁寧にわけて、ちゃんとそれぞれ片づけて<ruby>蔵<rp>(</rp><rt>しま</rt><rp>)</rp></ruby>いました、というのは、どんなお神殿にしろ自分は<ruby>等閑<rp>(</rp><rt>なおざり</rt><rp>)</rp></ruby>にしないで、すべての神様の慈悲をねがい求めなければならないと考えたからです。</li>
+<li value="2">ちょうどこうやって心をこめてせっせとお手伝いをしてるところへ情け深いケレースがおいでになり、少女をお認めになると、すぐさま大きな声で呼びかけました。</p>
+<p>「まあ、お前は可哀そうなプシケじゃないの。
 ヴェヌスさまがね、もうかんかんになって世界中をお前の<ruby>行方<rp>(</rp><rt>ゆくえ</rt><rp>)</rp></ruby>をしきりに探しまわっていなさるのだよ、そいでお前に一番ひどい<ruby>処<rp>(</rp><rt>おし</rt><rp>)</rp>置<rp>(</rp><rt>おき</rt><rp>)</rp></ruby>をして、あの方のお力でできるだけの<ruby>復讐<rp>(</rp><rt>しかえし</rt><rp>)</rp></ruby>をしてやろうっていきり立っておいでなの。
-それなのにお前は私のうちの仕事の世話をしてくれて、自分の身の無事安全にも<ruby>関係<rp>(</rp><rt>かかわり</rt><rp>)</rp></ruby>のないことを考えているのだわねえ。」</td></tr>
-<tr><td></td>
-<td>そこでプシケはその<ruby>足<rp>(</rp><rt>あし</rt><rp>)</rp>許<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>に身を投げ伏して、<ruby>饒<rp>(</rp><rt>ゆた</rt><rp>)</rp></ruby>かな涙で女神のおみあしを潤おし、大地を自分の髪の毛で拭き払いながら、いろいろと祈願をこめてひたすらお助けをお願いするのでした。
+それなのにお前は私のうちの仕事の世話をしてくれて、自分の身の無事安全にも<ruby>関係<rp>(</rp><rt>かかわり</rt><rp>)</rp></ruby>のないことを考えているのだわねえ。」</li>
+<li>そこでプシケはその<ruby>足<rp>(</rp><rt>あし</rt><rp>)</rp>許<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>に身を投げ伏して、<ruby>饒<rp>(</rp><rt>ゆた</rt><rp>)</rp></ruby>かな涙で女神のおみあしを潤おし、大地を自分の髪の毛で拭き払いながら、いろいろと祈願をこめてひたすらお助けをお願いするのでした。
 「五穀を<ruby>穰<rp>(</rp><rt>みの</rt><rp>)</rp></ruby>らせるその右の御手にお<ruby>縋<rp>(</rp><rt>すが</rt><rp>)</rp></ruby>りして、穫入れの<ruby>娯<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しい祭式に、あの<a href="#note_eleusis" title="エレウシスの聖い籠" id="eleusis">エレウシスの聖い籠</a>の、他言を許さぬ秘儀にかけて、また御家来の<ruby>飛<rp>(</rp><rt>ひ</rt><rp>)</rp>龍<rp>(</rp><rt>りゅう</rt><rp>)</rp></ruby>たちの翼をもった小車に、またシチリアの<ruby>土<rp>(</rp><rt>くに</rt><rp>)</rp></ruby>の<ruby>畝<rp>(</rp><rt>うね</rt><rp>)</rp>溝<rp>(</rp><rt>みぞ</rt><rp>)</rp></ruby>や（御娘のプロセルビナを）連れ去ったあの車、その方を閉じこめた大地、光を見ない御婚儀のための御<ruby>下<rp>(</rp><rt>か</rt><rp>)</rp>降<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>や、また御娘をお見つけになってからの光に満ちた御<ruby>還<rp>(</rp><rt>かえり</rt><rp>)</rp>御<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>、またそのほかアッティカにあるエレウシスのお宮が、<ruby>沈黙<rp>(</rp><rt>しじま</rt><rp>)</rp></ruby>のうちにたてこめることごとにかけて、どうかこの、あなた様にお<ruby>縋<rp>(</rp><rt>すが</rt><rp>)</rp></ruby>りいたしますプシケの哀れなこころにお力をお添え下さいませ。
-どうかあの尊い高い女神さまのはげしいお憤りが、時のたつにつれ和らいでまいりますまで、いえそれまでならずとも、せめて長い<ruby>艱<rp>(</rp><rt>かん</rt><rp>)</rp>難<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>につきはてた私の力が、<ruby>暫<rp>(</rp><rt>しばら</rt><rp>)</rp></ruby>くでも休まって落ちつくまでなり、そこにある穂の積み重ねの中に、二三日の間でも身をかくさせて下さいませ。」</td></tr>
-<tr><td><sup>３</sup></td>
-<td>それに応えてケレースがいうには、<br>
-「本当にお前の涙ながらの願いには胸をうたれるし、また<ruby>扶<rp>(</rp><rt>たす</rt><rp>)</rp></ruby>けてもあげたいのだけど、私の<ruby>姉妹<rp>(</rp><rt>きようだい</rt><rp>)</rp></ruby>の機嫌を悪くするのはねえ、一寸困ると思うの。
+どうかあの尊い高い女神さまのはげしいお憤りが、時のたつにつれ和らいでまいりますまで、いえそれまでならずとも、せめて長い<ruby>艱<rp>(</rp><rt>かん</rt><rp>)</rp>難<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>につきはてた私の力が、<ruby>暫<rp>(</rp><rt>しばら</rt><rp>)</rp></ruby>くでも休まって落ちつくまでなり、そこにある穂の積み重ねの中に、二三日の間でも身をかくさせて下さいませ。」</li>
+<li value="3">それに応えてケレースがいうには、</p>
+<p>「本当にお前の涙ながらの願いには胸をうたれるし、また<ruby>扶<rp>(</rp><rt>たす</rt><rp>)</rp></ruby>けてもあげたいのだけど、私の<ruby>姉妹<rp>(</rp><rt>きようだい</rt><rp>)</rp></ruby>の機嫌を悪くするのはねえ、一寸困ると思うの。
 それにずっと昔からあの人とは仲よく手を結びあってきたのだし、そのうえ立派な<ruby>女<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>なのだものねえ。
-そんなわけだからすぐとこの家から出ていっとくれ、そいで私が<ruby>捕<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>まえて<ruby>因人<rp>(</rp><rt>めしうど</rt><rp>)</rp></ruby>にしなかったのを<ruby>精<rp>(</rp><rt>せい</rt><rp>)</rp>々<rp>(</rp><rt>ぜい</rt><rp>)</rp></ruby>いいことと考えておくれよ。」</td></tr>
-<tr><td></td>
-<td>プシケは自分の思いがけとすっかり反対に、追い出しを食って（いまは）二重の悲しみに打ち<ruby>挫<rp>(</rp><rt>ひし</rt><rp>)</rp></ruby>がれ、とぼとまたもとの道をひろって参りますうち、低まの<ruby>谿<rp>(</rp><rt>たに</rt><rp>)</rp></ruby>の<ruby>小<rp>(</rp><rt>お</rt><rp>)</rp>昏<rp>(</rp><rt>ぐら</rt><rp>)</rp></ruby>い木立のあいだに、<ruby>工<rp>(</rp><rt>こう</rt><rp>)</rp>匠<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby>の腕をつくしたお社があるのを見つけました。
+そんなわけだからすぐとこの家から出ていっとくれ、そいで私が<ruby>捕<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>まえて<ruby>因人<rp>(</rp><rt>めしうど</rt><rp>)</rp></ruby>にしなかったのを<ruby>精<rp>(</rp><rt>せい</rt><rp>)</rp>々<rp>(</rp><rt>ぜい</rt><rp>)</rp></ruby>いいことと考えておくれよ。」</li>
+<li>プシケは自分の思いがけとすっかり反対に、追い出しを食って（いまは）二重の悲しみに打ち<ruby>挫<rp>(</rp><rt>ひし</rt><rp>)</rp></ruby>がれ、とぼとまたもとの道をひろって参りますうち、低まの<ruby>谿<rp>(</rp><rt>たに</rt><rp>)</rp></ruby>の<ruby>小<rp>(</rp><rt>お</rt><rp>)</rp>昏<rp>(</rp><rt>ぐら</rt><rp>)</rp></ruby>い木立のあいだに、<ruby>工<rp>(</rp><rt>こう</rt><rp>)</rp>匠<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby>の腕をつくしたお社があるのを見つけました。
 どんなことでも、たとえ多分は無駄と考えてもプシケは助かる<ruby>希望<rp>(</rp><rt>のぞみ</rt><rp>)</rp></ruby>への道はすべて残さずに試してみよう、どんな神様のお慈悲にもお<ruby>縋<rp>(</rp><rt>すが</rt><rp>)</rp></ruby>りしょうと思っていますので、その聖い御<ruby>門<rp>(</rp><rt>がど</rt><rp>)</rp></ruby>口へと近寄って参りまして、見ると高価な献げ物だと金色の文字を縫いつけた布だのが、木の枝や<ruby>門<rp>(</rp><rt>かど</rt><rp>)</rp></ruby>口の柱にかけてあって、それにあるお礼のことわけ（由来）を見ても奉納を受けさせられた女神様のお名前がすぐと<ruby>覚<rp>(</rp><rt>さと</rt><rp>)</rp></ruby>り知られるのでした。
-そこで膝を折りまげ、手をさしのべてまだ温かい神壇にとり<ruby>縋<rp>(</rp><rt>すが</rt><rp>)</rp></ruby>りつつ、まず涙をおし拭い、こうプシケはお<ruby>禱<rp>(</rp><rt>いの</rt><rp>)</rp></ruby>り申し上げるのでした。</td></tr>
-<tr><td><sup>４</sup></td>
-<td>「あやに尊いユッピテルさまの御<ruby>同胞<rp>(</rp><rt>はらから</rt><rp>)</rp></ruby>、またお妃のユーノーさま、よしあなた様がサモスの島の神さびたお社においでになろうと――そこだけが独りあなた様のお生れと御<ruby>稚<rp>(</rp><rt>いとけ</rt><rp>)</rp></ruby>ない<ruby>喚<rp>(</rp><rt>よび</rt><rp>)</rp>声<rp>(</rp><rt>ごえ</rt><rp>)</rp></ruby>と御養育との光栄に誇っておりますその島に――あるいは<a href="#note_cartage" title="高いカルタゴ" id="cartage">高いカルタゴ</a>の恵み<ruby>饒<rp>(</rp><rt>ゆた</rt><rp>)</rp></ruby>かな<ruby>郷<rp>(</rp><rt>さと</rt><rp>)</rp></ruby>に<ruby>往<rp>(</rp><rt>ゆき</rt><rp>)</rp>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>なさいましょうと――あなた様を獅子に<ruby>騎<rp>(</rp><rt>の</rt><rp>)</rp></ruby>って天界からお降りになった乙女としてお崇めしているその<ruby>市<rp>(</rp><rt>まち</rt><rp>)</rp></ruby>に――それともイナコスの堤のほとりアルゴスの世に聞えた<ruby>城壁<rp>(</rp><rt>とりで</rt><rp>)</rp></ruby>をお治めになりましょうと――あなた様をとうに<ruby>雷神<rp>(</rp><rt>いかずち</rt><rp>)</rp></ruby>のお妃として、女神らの<ruby>女王<rp>(</rp><rt>すめらぎ</rt><rp>)</rp></ruby>として讃えまつるその町を――、東の国がこぞって『結びの御神』と尊敬し、西の国はみな『光の神』とお讃え申す御神様、どうかこの私の<ruby>難<rp>(</rp><rt>なん</rt><rp>)</rp>渋<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby>のきわみのときに、また『安らぎのユーノー』さまとして、胸にあまる<ruby>艱<rp>(</rp><rt>かん</rt><rp>)</rp>難<rp>(</rp><rt>なん</rt><rp>)</rp>辛<rp>(</rp><rt>しん</rt><rp>)</rp>苦<rp>(</rp><rt>く</rt><rp>)</rp></ruby>に疲れはてたこの身を、さし迫る危難の恐れからお救け出し下さいませ。
-ことさら<ruby>承<rp>(</rp><rt>うけたまわ</rt><rp>)</rp></ruby>っているところでは、身の危い<ruby>妊婦<rp>(</rp><rt>みもちおんな</rt><rp>)</rp></ruby>には<ruby>御<rp>(</rp><rt>み</rt><rp>)</rp></ruby>手ずからいち早くお力をお借し下さるとも申しますゆえ。」</td></tr>
-<tr><td></td>
-<td>こういう風に歎願しているその眼の前に、たちまちユーノーは<ruby>神<rp>(</rp><rt>こう</rt><rp>)</rp>々<rp>(</rp><rt>ごう</rt><rp>)</rp></ruby>しい<ruby>天<rp>(</rp><rt>あま</rt><rp>)</rp></ruby>つ神の気高さをのこりなく示現しながら、御姿を見せると即ち仰せられるには、<br>
-「本当に<ruby>正<rp>(</rp><rt>しょう</rt><rp>)</rp>真<rp>(</rp><rt>しん</rt><rp>)</rp>正<rp>(</rp><rt>しょう</rt><rp>)</rp>銘<rp>(</rp><rt>めい</rt><rp>)</rp></ruby>もお前の願いを肯いてやりたいとは思うのだけど、ヴェヌスさまの心に逆ってはねえ。
+そこで膝を折りまげ、手をさしのべてまだ温かい神壇にとり<ruby>縋<rp>(</rp><rt>すが</rt><rp>)</rp></ruby>りつつ、まず涙をおし拭い、こうプシケはお<ruby>禱<rp>(</rp><rt>いの</rt><rp>)</rp></ruby>り申し上げるのでした。</li>
+<li value="4">「あやに尊いユッピテルさまの御<ruby>同胞<rp>(</rp><rt>はらから</rt><rp>)</rp></ruby>、またお妃のユーノーさま、よしあなた様がサモスの島の神さびたお社においでになろうと――そこだけが独りあなた様のお生れと御<ruby>稚<rp>(</rp><rt>いとけ</rt><rp>)</rp></ruby>ない<ruby>喚<rp>(</rp><rt>よび</rt><rp>)</rp>声<rp>(</rp><rt>ごえ</rt><rp>)</rp></ruby>と御養育との光栄に誇っておりますその島に――あるいは<a href="#note_cartage" title="高いカルタゴ" id="cartage">高いカルタゴ</a>の恵み<ruby>饒<rp>(</rp><rt>ゆた</rt><rp>)</rp></ruby>かな<ruby>郷<rp>(</rp><rt>さと</rt><rp>)</rp></ruby>に<ruby>往<rp>(</rp><rt>ゆき</rt><rp>)</rp>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>なさいましょうと――あなた様を獅子に<ruby>騎<rp>(</rp><rt>の</rt><rp>)</rp></ruby>って天界からお降りになった乙女としてお崇めしているその<ruby>市<rp>(</rp><rt>まち</rt><rp>)</rp></ruby>に――それともイナコスの堤のほとりアルゴスの世に聞えた<ruby>城壁<rp>(</rp><rt>とりで</rt><rp>)</rp></ruby>をお治めになりましょうと――あなた様をとうに<ruby>雷神<rp>(</rp><rt>いかずち</rt><rp>)</rp></ruby>のお妃として、女神らの<ruby>女王<rp>(</rp><rt>すめらぎ</rt><rp>)</rp></ruby>として讃えまつるその町を――、東の国がこぞって『結びの御神』と尊敬し、西の国はみな『光の神』とお讃え申す御神様、どうかこの私の<ruby>難<rp>(</rp><rt>なん</rt><rp>)</rp>渋<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby>のきわみのときに、また『安らぎのユーノー』さまとして、胸にあまる<ruby>艱<rp>(</rp><rt>かん</rt><rp>)</rp>難<rp>(</rp><rt>なん</rt><rp>)</rp>辛<rp>(</rp><rt>しん</rt><rp>)</rp>苦<rp>(</rp><rt>く</rt><rp>)</rp></ruby>に疲れはてたこの身を、さし迫る危難の恐れからお救け出し下さいませ。
+ことさら<ruby>承<rp>(</rp><rt>うけたまわ</rt><rp>)</rp></ruby>っているところでは、身の危い<ruby>妊婦<rp>(</rp><rt>みもちおんな</rt><rp>)</rp></ruby>には<ruby>御<rp>(</rp><rt>み</rt><rp>)</rp></ruby>手ずからいち早くお力をお借し下さるとも申しますゆえ。」</li>
+<li>こういう風に歎願しているその眼の前に、たちまちユーノーは<ruby>神<rp>(</rp><rt>こう</rt><rp>)</rp>々<rp>(</rp><rt>ごう</rt><rp>)</rp></ruby>しい<ruby>天<rp>(</rp><rt>あま</rt><rp>)</rp></ruby>つ神の気高さをのこりなく示現しながら、御姿を見せると即ち仰せられるには、</p>
+<p>「本当に<ruby>正<rp>(</rp><rt>しょう</rt><rp>)</rp>真<rp>(</rp><rt>しん</rt><rp>)</rp>正<rp>(</rp><rt>しょう</rt><rp>)</rp>銘<rp>(</rp><rt>めい</rt><rp>)</rp></ruby>もお前の願いを肯いてやりたいとは思うのだけど、ヴェヌスさまの心に逆ってはねえ。
 あの女は私の嫁に当るうえ、始終自分の娘のように可愛がってもきたのだから、助けてあげてはどうにも義理がすまないのですよ。
-それにまた法律でもねえ、<ruby>他家<rp>(</rp><rt>よそ</rt><rp>)</rp></ruby>の<ruby>下婢<rp>(</rp><rt>はしため</rt><rp>)</rp></ruby>が逃げたのを主人の同意なしに受け入れてはならないことになってるので、駄目なのだからねえ。」</td></tr>
-<tr><td><sup>５</sup></td>
-<td>今度もまたかように、仕合せの船が難破してしまったことは、もう羽根の生えた良人を探し求める力も出ないほどプシケを<ruby>怖<rp>(</rp><rt>おじ</rt><rp>)</rp>気<rp>(</rp><rt>け</rt><rp>)</rp></ruby>づかせ、今はもう身の助かる<ruby>術<rp>(</rp><rt>すべ</rt><rp>)</rp></ruby>も望みも失せ果てて、こうひとり思案に沈むのでした。<br>
-「今となってはこの上私の身の不仕合せを救ってくれるどんな<ruby>方法<rp>(</rp><rt>てだて</rt><rp>)</rp></ruby>が尋ね求められよう、女神様たちさえ、それも御心はありながら、私のためにロをきいて下さることもお出来にならないというのに。
+それにまた法律でもねえ、<ruby>他家<rp>(</rp><rt>よそ</rt><rp>)</rp></ruby>の<ruby>下婢<rp>(</rp><rt>はしため</rt><rp>)</rp></ruby>が逃げたのを主人の同意なしに受け入れてはならないことになってるので、駄目なのだからねえ。」</li>
+<li value="5">今度もまたかように、仕合せの船が難破してしまったことは、もう羽根の生えた良人を探し求める力も出ないほどプシケを<ruby>怖<rp>(</rp><rt>おじ</rt><rp>)</rp>気<rp>(</rp><rt>け</rt><rp>)</rp></ruby>づかせ、今はもう身の助かる<ruby>術<rp>(</rp><rt>すべ</rt><rp>)</rp></ruby>も望みも失せ果てて、こうひとり思案に沈むのでした。</p>
+<p>「今となってはこの上私の身の不仕合せを救ってくれるどんな<ruby>方法<rp>(</rp><rt>てだて</rt><rp>)</rp></ruby>が尋ね求められよう、女神様たちさえ、それも御心はありながら、私のためにロをきいて下さることもお出来にならないというのに。
 さてこれからもこんなにどこからどこまで<ruby>係蹄<rp>(</rp><rt>わな</rt><rp>)</rp></ruby>をかけられていて、<ruby>何方<rp>(</rp><rt>どちら</rt><rp>)</rp></ruby>へまあ歩みを向けてゆくことができょう、またどの屋根に隠れ<ruby>闇<rp>(</rp><rt>やみ</rt><rp>)</rp></ruby>に潜んで、広大なヴェヌスの避ける<ruby>術<rp>(</rp><rt>すべ</rt><rp>)</rp></ruby>もない御眼を逃れおおせよう。
 そんならばいっそのこと勇気を振い起して<ruby>空<rp>(</rp><rt>あだ</rt><rp>)</rp></ruby>な望みを雄々しく捨て、自分からさきに御主人（ヴェヌスのこと）へ身を<ruby>委<rp>(</rp><rt>まか</rt><rp>)</rp></ruby>せて、むしろ遅<ruby>蒔<rp>(</rp><rt>まき</rt><rp>)</rp></ruby>ながら身を低くして烈しいお怒りの勢いを和げたらどうだろう。
-それにその上もしかすると、長い間さがし尋ねている人にも、お母様のお邸であうことができないとも限らないではないの。」<br>
-こうして末の成行きも疑わしい服従、いえそれどころかほとんどわが身の破滅をさえ心に覚悟しながら、プシケはこれからさきどうお<ruby>懇願<rp>(</rp><rt>ねがい</rt><rp>)</rp></ruby>をはじめたらよいかと思案するのでした。</td></tr>
-<tr><td><sup>６</sup></td>
-<td>一方ヴェヌスは地上を<ruby>索<rp>(</rp><rt>さが</rt><rp>)</rp></ruby>しまわっても仕方がないとあきらめて、天へ向って出かけました。
+それにその上もしかすると、長い間さがし尋ねている人にも、お母様のお邸であうことができないとも限らないではないの。」</p>
+<p>こうして末の成行きも疑わしい服従、いえそれどころかほとんどわが身の破滅をさえ心に覚悟しながら、プシケはこれからさきどうお<ruby>懇願<rp>(</rp><rt>ねがい</rt><rp>)</rp></ruby>をはじめたらよいかと思案するのでした。</li>
+<li value="6">一方ヴェヌスは地上を<ruby>索<rp>(</rp><rt>さが</rt><rp>)</rp></ruby>しまわっても仕方がないとあきらめて、天へ向って出かけました。
 <ruby>支<rp>(</rp><rt>し</rt><rp>)</rp>度<rp>(</rp><rt>たく</rt><rp>)</rp></ruby>をいいつけた<ruby>御<rp>(</rp><rt>お</rt><rp>)</rp>輦<rp>(</rp><rt>くるま</rt><rp>)</rp></ruby>は、以前金工の神様ヴルカーヌスが巧妙なわざをつくし、心をこめて<ruby>鏤<rp>(</rp><rt>ちりば</rt><rp>)</rp></ruby>みあげて、ヴェヌスの初の嫁入りに花嫁への贈物とてよこしたものゆえ、精巧な<ruby>透<rp>(</rp><rt>すか</rt><rp>)</rp></ruby>し彫の美しさといい、<ruby>費<rp>(</rp><rt>つい</rt><rp>)</rp>用<rp>(</rp><rt>え</rt><rp>)</rp></ruby>をおしまず黄金そのものをふんだんに使ったところといい、他に類もないとうとさです。
 （その<ruby>輓子<rp>(</rp><rt>ひきて</rt><rp>)</rp></ruby>には）御主人の<ruby>女神<rp>(</rp><rt>めがみ</rt><rp>)</rp></ruby>の<ruby>臥床<rp>(</rp><rt>がしょう</rt><rp>)</rp></ruby>を取り巻いて<ruby>鳥<rp>(</rp><rt>と</rt><rp>)</rp>屋<rp>(</rp><rt>や</rt><rp>)</rp></ruby>をつくる沢山の鳩のうちから、四羽の真白な<ruby>飼<rp>(</rp><rt>かい</rt><rp>)</rp>鳩<rp>(</rp><rt>ばと</rt><rp>)</rp></ruby>が足どりも晴ればれしく進みよって、彩った<ruby>頸<rp>(</rp><rt>くび</rt><rp>)</rp></ruby>をふりふり<ruby>珠<rp>(</rp><rt>たま</rt><rp>)</rp></ruby>を<ruby>鏤<rp>(</rp><rt>ちりば</rt><rp>)</rp></ruby>めた<ruby>轅<rp>(</rp><rt>ながえ</rt><rp>)</rp></ruby>に収まり、女神様がお乗り込みになると忽ち御輦を羽に（のせて）楽しげに舞い上って行きます。
-その御輦を取り巻いて声々に<ruby>囀<rp>(</rp><rt>さえず</rt><rp>)</rp></ruby>りあそぶのは<ruby>雀<rp>(</rp><rt>すずめ</rt><rp>)</rp></ruby>やその他いろいろな好い歌声の鳥たちで、調べも妙に節おもしろく歌い立てながら、女神様の御入来を（ルクレーティウスの冒頭より来た叙述ならん）<ruby>天<rp>(</rp><rt>あめ</rt><rp>)</rp>地<rp>(</rp><rt>つち</rt><rp>)</rp></ruby>に告げ知らせるのでした。</td></tr>
-<tr><td></td>
-<td>と雲は割れて引き退り、天は御娘のためにずっとうち開けて、<ruby>遙<rp>(</rp><rt>はる</rt><rp>)</rp></ruby>かな高ぞらは<ruby>喜悦<rp>(</rp><rt>よろこび</rt><rp>)</rp></ruby>にあふれて女神を迎えます。
-<ruby>途<rp>(</rp><rt>みち</rt><rp>)</rp></ruby>に遇う<ruby>鷲<rp>(</rp><rt>わし</rt><rp>)</rp></ruby>も<ruby>貪慾<rp>(</rp><rt>どんよく</rt><rp>)</rp></ruby>な<ruby>鷹<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>も、広大なヴェヌスの<ruby>朗<rp>(</rp><rt>ほが</rt><rp>)</rp></ruby>らかな<ruby>眷<rp>(</rp><rt>けん</rt><rp>)</rp>族<rp>(</rp><rt>ぞく</rt><rp>)</rp></ruby>たちにはちっとも怖くありません。</td></tr>
-<tr><td><sup>７</sup></td>
-<td>女神はそれからまっすぐとユッピテルの大宮<ruby>敷<rp>(</rp><rt>しき</rt><rp>)</rp></ruby>におみあしを向けて、意気高々と、あの声の大きな神様の<a href="#note_mercurius" title="メルクリウス" id="mercurius">メルクリウス</a>を是非とも手助けに貸して頂きたいとお願いになりました。
-ユッピテルもこれに漆黒の眉をおうなずきになります、とすぐさまヴェヌスはメルクリウスを一しょに伴れ、大得意で天から降ってみえ、メルクリウスに意気込んで言いたてるのでした。<br>
-「ねえアルカデイアの兄さま、あなただってよく御存じだわねえ、あなたの姉妹のヴェヌスはあなたが傍についててくれなけりゃ、いつだって何もしたことはないでしょう。
+その御輦を取り巻いて声々に<ruby>囀<rp>(</rp><rt>さえず</rt><rp>)</rp></ruby>りあそぶのは<ruby>雀<rp>(</rp><rt>すずめ</rt><rp>)</rp></ruby>やその他いろいろな好い歌声の鳥たちで、調べも妙に節おもしろく歌い立てながら、女神様の御入来を（ルクレーティウスの冒頭より来た叙述ならん）<ruby>天<rp>(</rp><rt>あめ</rt><rp>)</rp>地<rp>(</rp><rt>つち</rt><rp>)</rp></ruby>に告げ知らせるのでした。</li>
+<li>と雲は割れて引き退り、天は御娘のためにずっとうち開けて、<ruby>遙<rp>(</rp><rt>はる</rt><rp>)</rp></ruby>かな高ぞらは<ruby>喜悦<rp>(</rp><rt>よろこび</rt><rp>)</rp></ruby>にあふれて女神を迎えます。
+<ruby>途<rp>(</rp><rt>みち</rt><rp>)</rp></ruby>に遇う<ruby>鷲<rp>(</rp><rt>わし</rt><rp>)</rp></ruby>も<ruby>貪慾<rp>(</rp><rt>どんよく</rt><rp>)</rp></ruby>な<ruby>鷹<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>も、広大なヴェヌスの<ruby>朗<rp>(</rp><rt>ほが</rt><rp>)</rp></ruby>らかな<ruby>眷<rp>(</rp><rt>けん</rt><rp>)</rp>族<rp>(</rp><rt>ぞく</rt><rp>)</rp></ruby>たちにはちっとも怖くありません。</li>
+<li value="7">女神はそれからまっすぐとユッピテルの大宮<ruby>敷<rp>(</rp><rt>しき</rt><rp>)</rp></ruby>におみあしを向けて、意気高々と、あの声の大きな神様の<a href="#note_mercurius" title="メルクリウス" id="mercurius">メルクリウス</a>を是非とも手助けに貸して頂きたいとお願いになりました。
+ユッピテルもこれに漆黒の眉をおうなずきになります、とすぐさまヴェヌスはメルクリウスを一しょに伴れ、大得意で天から降ってみえ、メルクリウスに意気込んで言いたてるのでした。</p>
+<p>「ねえアルカデイアの兄さま、あなただってよく御存じだわねえ、あなたの姉妹のヴェヌスはあなたが傍についててくれなけりゃ、いつだって何もしたことはないでしょう。
 そいでまたどんなに長いこと私が、あの姿を隠した<ruby>侍<rp>(</rp><rt>じ</rt><rp>)</rp>女<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby>（のプシケ）を探し出せないでいるかってのも、もちろん知らないはずがないわ。
 だからこうして貰いさえすればもう文句はないんだけどね、あなたが世界中へよびかけて、見つけた人に御褒美を出すって布令を廻して下されば。
-それだから大急ぎで私のお頼みする通りに、一目で<ruby>人<rp>(</rp><rt>にん</rt><rp>)</rp>相<rp>(</rp><rt>そう</rt><rp>)</rp></ruby>が解るよう<ruby>目<rp>(</rp><rt>め</rt><rp>)</rp>標<rp>(</rp><rt>じるし</rt><rp>)</rp></ruby>をはっきり書き出して、万一誰かが掟に背いて罪を犯し<ruby>匿<rp>(</rp><rt>かく</rt><rp>)</rp></ruby>まっていた場合、知らなかったなどと逃げロ上をいえないようにして下さいな。」<br>
-こう言いながらメルクリウスの眼の前にプシケの名だのその他いろんなことが記してある<ruby>貼子<rp>(</rp><rt>びら</rt><rp>)</rp></ruby>を差し出し、話がつくとすぐさまお宅へお帰りになりました。</td></tr>
-<tr><td><sup>８</sup></td>
-<td>メルクリウスも頼まれた仕事をうっちゃってはおきませんでした。
-そいで隈なく世界中の人間を訪ねてかけ廻り、指図をうけたお布令の役をこんな風にして果しました。<br>
-「もし誰にもせよヴェヌス神の<ruby>侍婢<rp>(</rp><rt>こしもと</rt><rp>)</rp></ruby>で名はプシケというお尋ね者の王女を、逃亡より引き戻すかまたはその隠れ家を指し示し得る者は、<a href="#note_murcia" title="ムルキアの円柱" id="mulchia">ムルキアの円柱</a>の後ろ側の、このびらの布令人メルクリウスの許に出頭すべし。
-通告の褒美としてその者にはヴェヌスさま御ロずから七つの快いロづけと、もう一つそれはそれは<ruby>甘<rp>(</rp><rt>おいし</rt><rp>)</rp></ruby>いのを、心もとろけるお舌押しでなし下される。」</td></tr>
-<tr><td></td>
-<td>こんな風にメルクリウスが言って歩くと、その素晴しい褒美をせしめたさの一心が、ありとあらゆる人間どもをお互いにせり合い競い合せるという有様で、この<ruby>顚<rp>(</rp><rt>てん</rt><rp>)</rp>末<rp>(</rp><rt>まつ</rt><rp>)</rp></ruby>こそ何よりも一とうプシケの胸から、これ以上ほんの一寸でも<ruby>躊躇<rp>(</rp><rt>しりごみ</rt><rp>)</rp></ruby>しようという気持をなくさせてしまった理由でした。
+それだから大急ぎで私のお頼みする通りに、一目で<ruby>人<rp>(</rp><rt>にん</rt><rp>)</rp>相<rp>(</rp><rt>そう</rt><rp>)</rp></ruby>が解るよう<ruby>目<rp>(</rp><rt>め</rt><rp>)</rp>標<rp>(</rp><rt>じるし</rt><rp>)</rp></ruby>をはっきり書き出して、万一誰かが掟に背いて罪を犯し<ruby>匿<rp>(</rp><rt>かく</rt><rp>)</rp></ruby>まっていた場合、知らなかったなどと逃げロ上をいえないようにして下さいな。」</p>
+<p>こう言いながらメルクリウスの眼の前にプシケの名だのその他いろんなことが記してある<ruby>貼子<rp>(</rp><rt>びら</rt><rp>)</rp></ruby>を差し出し、話がつくとすぐさまお宅へお帰りになりました。</li>
+<li value="8">メルクリウスも頼まれた仕事をうっちゃってはおきませんでした。
+そいで隈なく世界中の人間を訪ねてかけ廻り、指図をうけたお布令の役をこんな風にして果しました。</p>
+<p>「もし誰にもせよヴェヌス神の<ruby>侍婢<rp>(</rp><rt>こしもと</rt><rp>)</rp></ruby>で名はプシケというお尋ね者の王女を、逃亡より引き戻すかまたはその隠れ家を指し示し得る者は、<a href="#note_murcia" title="ムルキアの円柱" id="mulchia">ムルキアの円柱</a>の後ろ側の、このびらの布令人メルクリウスの許に出頭すべし。
+通告の褒美としてその者にはヴェヌスさま御ロずから七つの快いロづけと、もう一つそれはそれは<ruby>甘<rp>(</rp><rt>おいし</rt><rp>)</rp></ruby>いのを、心もとろけるお舌押しでなし下される。」</li>
+<li>こんな風にメルクリウスが言って歩くと、その素晴しい褒美をせしめたさの一心が、ありとあらゆる人間どもをお互いにせり合い競い合せるという有様で、この<ruby>顚<rp>(</rp><rt>てん</rt><rp>)</rp>末<rp>(</rp><rt>まつ</rt><rp>)</rp></ruby>こそ何よりも一とうプシケの胸から、これ以上ほんの一寸でも<ruby>躊躇<rp>(</rp><rt>しりごみ</rt><rp>)</rp></ruby>しようという気持をなくさせてしまった理由でした。
 こんな次第で御主人の<ruby>門<rp>(</rp><rt>かど</rt><rp>)</rp>口<rp>(</rp><rt>ぐち</rt><rp>)</rp></ruby>へさしよって参りますところへ、やって来たのはヴェヌスの召使の一人で、『<ruby>慣例<rp>(</rp><rt>しきたり</rt><rp>)</rp></ruby>』という女です。
-みるといきなり、ありったけの大声で叫びたてるには、<br>
-「ふん、この性悪のはしたものが、でもとうとう自分の御主人持ちだってのが解り始めたのかね。
+みるといきなり、ありったけの大声で叫びたてるには、</p>
+<p>「ふん、この性悪のはしたものが、でもとうとう自分の御主人持ちだってのが解り始めたのかね。
 それとも他のことだってお前さんのやり方は無鉄砲なんだから、それに<ruby>相応<rp>(</rp><rt>ふさわ</rt><rp>)</rp></ruby>して今度も知らない顔をするつもりなんだろう、お前さんを尋ねだすんで私達がどんなに苦労させられてきたってのもさ。
-でもこれでいいのよ、誰というより私の手にとっ捕まったからには、もう地獄の<ruby>距<rp>(</rp><rt>はずめ</rt><rp>)</rp></ruby>にひっ摑まえたも同然、これから早速今までの増長慢のこらしめをうんとみせてやってくれるからね」</td></tr>
-<tr><td><sup>９</sup></td>
-<td>こういうと乱暴にもプシケの髪の毛に手を突き込んで、何の<ruby>抵抗<rp>(</rp><rt>てむかい</rt><rp>)</rp></ruby>もしないでるのを引きずって行き、ヴェヌスの<ruby>御<rp>(</rp><rt>ご</rt><rp>)</rp>殿<rp>(</rp><rt>てん</rt><rp>)</rp></ruby>につれ込んで御前へと引っ立てて参りました。
+でもこれでいいのよ、誰というより私の手にとっ捕まったからには、もう地獄の<ruby>距<rp>(</rp><rt>はずめ</rt><rp>)</rp></ruby>にひっ摑まえたも同然、これから早速今までの増長慢のこらしめをうんとみせてやってくれるからね」</li>
+<li value="9">こういうと乱暴にもプシケの髪の毛に手を突き込んで、何の<ruby>抵抗<rp>(</rp><rt>てむかい</rt><rp>)</rp></ruby>もしないでるのを引きずって行き、ヴェヌスの<ruby>御<rp>(</rp><rt>ご</rt><rp>)</rp>殿<rp>(</rp><rt>てん</rt><rp>)</rp></ruby>につれ込んで御前へと引っ立てて参りました。
 その様子を眺めるとヴェヌスはいきなり大声にお腹を抱えて笑い立てのは、人がひどく腹を立てるといつもよくやるやつです。
-そうして頭をふりたてたり右の耳を<ruby>擦<rp>(</rp><rt>さす</rt><rp>)</rp></ruby>ったりしながら申しますには、<br>
-「でもとうとう自分の<ruby>姑<rp>(</rp><rt>じゅとめ</rt><rp>)</rp></ruby>へ挨拶をしにおいでなすったってわけだね。
+そうして頭をふりたてたり右の耳を<ruby>擦<rp>(</rp><rt>さす</rt><rp>)</rp></ruby>ったりしながら申しますには、</p>
+<p>「でもとうとう自分の<ruby>姑<rp>(</rp><rt>じゅとめ</rt><rp>)</rp></ruby>へ挨拶をしにおいでなすったってわけだね。
 それともお前さんの手にかかって命も危ない御亭主にあいに来たのかえ。
-だがまあ気を大きくもっといで、これから立派なお嫁さんに相応な<ruby>款待<rp>(</rp><rt>もてなし</rt><rp>)</rp></ruby>を十分にしてあげるからね。」<br>
-それからまたつづけて、<br>
-「どこにいるのだえ、侍女の『心配』と『悲しみ』とは、」<br>
-と二人の者を呼び寄せ人プシケを渡してめ<ruby>虐<rp>(</rp><rt>さいな</rt><rp>)</rp></ruby>ませました。
+だがまあ気を大きくもっといで、これから立派なお嫁さんに相応な<ruby>款待<rp>(</rp><rt>もてなし</rt><rp>)</rp></ruby>を十分にしてあげるからね。」</p>
+<p>それからまたつづけて、</p>
+<p>「どこにいるのだえ、侍女の『心配』と『悲しみ』とは、」</p>
+<p>と二人の者を呼び寄せ人プシケを渡してめ<ruby>虐<rp>(</rp><rt>さいな</rt><rp>)</rp></ruby>ませました。
 二人はまた主人の指図通りに、プシケを可哀そうに鞭で打ったりその他いろんな責め道具でさんざん虐めたあげく、また御主人の前に連れて戻りました。
-そうするとヴェヌスは今度も笑い立てておいてから言うには、<br>
-「ごらんよ、こんな大きなお<ruby>腹<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>をして私の気をひいて慈悲心をおこさせようっていうのだろう、結構な子供を産んで私を幸福なお祖母さんにしてくれるんだからね。
+そうするとヴェヌスは今度も笑い立てておいてから言うには、</p>
+<p>「ごらんよ、こんな大きなお<ruby>腹<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>をして私の気をひいて慈悲心をおこさせようっていうのだろう、結構な子供を産んで私を幸福なお祖母さんにしてくれるんだからね。
 本当に私は仕合せ者さ、まだこんなに若い女ざかりにお祖母さんなんて呼ばれてさ、しかも<ruby>下<rp>(</rp><rt>げ</rt><rp>)</rp>司<rp>(</rp><rt>す</rt><rp>)</rp></ruby>なはした女の生んだ子を、このヴェヌスの孫だって世間に<ruby>謳<rp>(</rp><rt>うた</rt><rp>)</rp></ruby>わせるなんて。
 だけどいくら私が馬鹿でももう子供なんてのは<ruby>真<rp>(</rp><rt>ま</rt><rp>)</rp>平<rp>(</rp><rt>ひら</rt><rp>)</rp></ruby>だね、第一この結婚はまるで身分違いだし、その上田舎家で証人もなしに、父親の同意もなくてされたのだから正式なものとは認められやしないさ。
-またそいだから万が一子を産むのを見逃しとくにしても、生まれた子供は私生児ということになるのだよ。」</td></tr>
-<tr><td><sup>１０</sup></td>
-<td>こう言い終るとプシケにとびかかって、<ruby>著<rp>(</rp><rt>き</rt><rp>)</rp>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>をびりびりに引き裂き、髪をふりほごし、頭をゆすぶったりして、さんざんに<ruby>打<rp>(</rp><rt>ちょう</rt><rp>)</rp>擲<rp>(</rp><rt>ちゃく</rt><rp>)</rp></ruby>したあげく、小麦や大麦や、栗に<ruby>罌<rp>(</rp><rt>け</rt><rp>)</rp>栗<rp>(</rp><rt>し</rt><rp>)</rp>粒<rp>(</rp><rt>つぶ</rt><rp>)</rp></ruby>、<ruby>小豆<rp>(</rp><rt>あずき</rt><rp>)</rp></ruby>、<ruby>豌<rp>(</rp><rt>えん</rt><rp>)</rp>豆<rp>(</rp><rt>どう</rt><rp>)</rp></ruby>、<ruby>蚕<rp>(</rp><rt>そら</rt><rp>)</rp>豆<rp>(</rp><rt>まめ</rt><rp>)</rp></ruby>などを取り寄せ、ごちゃごちゃにかきまわし一山に混ぜ合せて積んでおいて、こう言いつけるのでした。<br>
-「お前みたいな<ruby>不<rp>(</rp><rt>ひ</rt><rp>)</rp>恰好<rp>(</rp><rt>かっこう</rt><rp>)</rp></ruby>な召使は、どう考えたって他のことでは駄目さ、ただ精出してお仕えでもして、好きな人の気に入るようにするほかはないだろう。
+またそいだから万が一子を産むのを見逃しとくにしても、生まれた子供は私生児ということになるのだよ。」</li>
+<li value="10">こう言い終るとプシケにとびかかって、<ruby>著<rp>(</rp><rt>き</rt><rp>)</rp>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>をびりびりに引き裂き、髪をふりほごし、頭をゆすぶったりして、さんざんに<ruby>打<rp>(</rp><rt>ちょう</rt><rp>)</rp>擲<rp>(</rp><rt>ちゃく</rt><rp>)</rp></ruby>したあげく、小麦や大麦や、栗に<ruby>罌<rp>(</rp><rt>け</rt><rp>)</rp>栗<rp>(</rp><rt>し</rt><rp>)</rp>粒<rp>(</rp><rt>つぶ</rt><rp>)</rp></ruby>、<ruby>小豆<rp>(</rp><rt>あずき</rt><rp>)</rp></ruby>、<ruby>豌<rp>(</rp><rt>えん</rt><rp>)</rp>豆<rp>(</rp><rt>どう</rt><rp>)</rp></ruby>、<ruby>蚕<rp>(</rp><rt>そら</rt><rp>)</rp>豆<rp>(</rp><rt>まめ</rt><rp>)</rp></ruby>などを取り寄せ、ごちゃごちゃにかきまわし一山に混ぜ合せて積んでおいて、こう言いつけるのでした。</p>
+<p>「お前みたいな<ruby>不<rp>(</rp><rt>ひ</rt><rp>)</rp>恰好<rp>(</rp><rt>かっこう</rt><rp>)</rp></ruby>な召使は、どう考えたって他のことでは駄目さ、ただ精出してお仕えでもして、好きな人の気に入るようにするほかはないだろう。
 それだからいまお前さんの働きをこれから試してあげるからね。
-そこにまぜて置いてあるいろんな種子の寄せあつめを選り分けておくれ、一粒ずっちゃんと種類別にしておいてね、この夕方までに得心がいくようしっかりと片をつけとくのだよ。」</td></tr>
-<tr><td></td>
-<td>こんな風に山のような<ruby>雑穀<rp>(</rp><rt>ざっこく</rt><rp>)</rp></ruby>の積み重ねをおしつけといて、自分は御婚礼の<ruby>饗宴<rp>(</rp><rt>もてなし</rt><rp>)</rp></ruby>に出かけてしまいましたが、プシケはその乱雑な手のつけようもない（穀類の）山に手を出そうともせず、ただ茫然と言いつけられた仕事の大きさにたまげ、物もいわずに呆れているばかりでした。
+そこにまぜて置いてあるいろんな種子の寄せあつめを選り分けておくれ、一粒ずっちゃんと種類別にしておいてね、この夕方までに得心がいくようしっかりと片をつけとくのだよ。」</li>
+<li>こんな風に山のような<ruby>雑穀<rp>(</rp><rt>ざっこく</rt><rp>)</rp></ruby>の積み重ねをおしつけといて、自分は御婚礼の<ruby>饗宴<rp>(</rp><rt>もてなし</rt><rp>)</rp></ruby>に出かけてしまいましたが、プシケはその乱雑な手のつけようもない（穀類の）山に手を出そうともせず、ただ茫然と言いつけられた仕事の大きさにたまげ、物もいわずに呆れているばかりでした。
 するとそこへ小さな<ruby>蟻<rp>(</rp><rt>あり</rt><rp>)</rp></ruby>が出て参りました。
 あのちっぽけな、野原の住まい手です。
-こんな骨の折れる大仕事の難かしさを見てとると、偉い<ruby>神様<rp>(</rp><rt>クビードー</rt><rp>)</rp></ruby>のお連合いを気の毒がり、かつはまた<ruby>姑<rp>(</rp><rt>しゅと</rt><rp>)</rp>御<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>の無慈悲さに腹をたてて、せっせと駆け廻ってはその辺に住む<ruby>蟻<rp>(</rp><rt>あり</rt><rp>)</rp></ruby>たちの軍勢をすっかり呼び集めて頼みますには、<br>
-「お気の毒じゃあないか、ねえ万物を産む大地のすばしこい養い子たち、お気の毒だから、この<ruby>愛の神<rp>(</rp><rt>アモル</rt><rp>)</rp></ruby>の奥方の綺麗な娘さんが、難儀してるのをすぐさま大急ぎで助けてあげとくれよ。」<br>
-するとどんどん一団また一団と六足<ruby>勢<rp>(</rp><rt>ぜい</rt><rp>)</rp></ruby>の波は次々におしかけて来ます、そして一生懸命になってめいめいが一粒ずつ山と積んだ穀物をすっかり始末し、それぞれ別に種類分けにいたしますと、さっさと姿を消してしまいました。</td></tr>
-<tr><td><sup>１１</sup></td>
-<td>夜がくると婚礼の宴からヴェヌスが帰ってまいりました、お酒を十分にきこしめし、<ruby>安息香<rp>(</rp><rt>バルサモ</rt><rp>)</rp></ruby>を<ruby>頻<rp>(</rp><rt>しき</rt><rp>)</rp></ruby>りと<ruby>匂<rp>(</rp><rt>にお</rt><rp>)</rp></ruby>わせ、体じゅうには照り咲いた薔薇の花を巻きつけております、言いつけた仕事がびっくりするほど立派に<ruby>士尽<rp>(</rp><rt>しおお</rt><rp>)</rp></ruby>されてるのを見ますと、<br>
-「これはお前のじゃないね、本当に悪い女だよ、お前の手でやった仕事ではなくて、<ruby>彼<rp>(</rp><rt>あれ</rt><rp>)</rp></ruby>の仕業に違いない、自分でひどい目を見るばかりか、その人にまでひどい目をみせようってお前がお気に入りになった人のさ。」<br>
-そういうと粗いパンの<ruby>片<rp>(</rp><rt>きれ</rt><rp>)</rp></ruby>を<ruby>抛<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby>り出して、寝間にはいってしまいました。
+こんな骨の折れる大仕事の難かしさを見てとると、偉い<ruby>神様<rp>(</rp><rt>クビードー</rt><rp>)</rp></ruby>のお連合いを気の毒がり、かつはまた<ruby>姑<rp>(</rp><rt>しゅと</rt><rp>)</rp>御<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>の無慈悲さに腹をたてて、せっせと駆け廻ってはその辺に住む<ruby>蟻<rp>(</rp><rt>あり</rt><rp>)</rp></ruby>たちの軍勢をすっかり呼び集めて頼みますには、</p>
+<p>「お気の毒じゃあないか、ねえ万物を産む大地のすばしこい養い子たち、お気の毒だから、この<ruby>愛の神<rp>(</rp><rt>アモル</rt><rp>)</rp></ruby>の奥方の綺麗な娘さんが、難儀してるのをすぐさま大急ぎで助けてあげとくれよ。」</p>
+<p>するとどんどん一団また一団と六足<ruby>勢<rp>(</rp><rt>ぜい</rt><rp>)</rp></ruby>の波は次々におしかけて来ます、そして一生懸命になってめいめいが一粒ずつ山と積んだ穀物をすっかり始末し、それぞれ別に種類分けにいたしますと、さっさと姿を消してしまいました。</li>
+<li value="11">夜がくると婚礼の宴からヴェヌスが帰ってまいりました、お酒を十分にきこしめし、<ruby>安息香<rp>(</rp><rt>バルサモ</rt><rp>)</rp></ruby>を<ruby>頻<rp>(</rp><rt>しき</rt><rp>)</rp></ruby>りと<ruby>匂<rp>(</rp><rt>にお</rt><rp>)</rp></ruby>わせ、体じゅうには照り咲いた薔薇の花を巻きつけております、言いつけた仕事がびっくりするほど立派に<ruby>士尽<rp>(</rp><rt>しおお</rt><rp>)</rp></ruby>されてるのを見ますと、</p>
+<p>「これはお前のじゃないね、本当に悪い女だよ、お前の手でやった仕事ではなくて、<ruby>彼<rp>(</rp><rt>あれ</rt><rp>)</rp></ruby>の仕業に違いない、自分でひどい目を見るばかりか、その人にまでひどい目をみせようってお前がお気に入りになった人のさ。」</p>
+<p>そういうと粗いパンの<ruby>片<rp>(</rp><rt>きれ</rt><rp>)</rp></ruby>を<ruby>抛<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby>り出して、寝間にはいってしまいました。
 この間じゅう<ruby>愛の神<rp>(</rp><rt>クピードー</rt><rp>)</rp></ruby>は、たった一人で御殿の奥に、一<ruby>間<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>の寝部屋に閉じこめられたっきり、厳重に見張りをされていました、気儘気随にやって傷を重くしてしまったり、自分の好きひとと一緒になったりしないようにというわけです。
-こんな次第で同じ屋根の下ながらこの好いた同士は引き離されて別々に、みじめな夜を明かしたのでした。</td></tr>
-<tr><td></td>
-<td>しかし<a href="#note_aurora" title="払暁がほんのいま馬車" id="aurora"><ruby>払暁<rp>(</rp><rt>あけがた</rt><rp>)</rp></ruby>がほんのいま<ruby>馬車<rp>(</rp><rt>くるま</rt><rp>)</rp></ruby></a>を空に乗りだすとヴェヌスはプシケを呼びよせてこう言いつけました。<br>
-「ほらあすこに森が見えるだろう、ずっと流れてゆくあの河や長い堤に沿ってる森さ。
+こんな次第で同じ屋根の下ながらこの好いた同士は引き離されて別々に、みじめな夜を明かしたのでした。</li>
+<li>しかし<a href="#note_aurora" title="払暁がほんのいま馬車" id="aurora"><ruby>払暁<rp>(</rp><rt>あけがた</rt><rp>)</rp></ruby>がほんのいま<ruby>馬車<rp>(</rp><rt>くるま</rt><rp>)</rp></ruby></a>を空に乗りだすとヴェヌスはプシケを呼びよせてこう言いつけました。</p>
+<p>「ほらあすこに森が見えるだろう、ずっと流れてゆくあの河や長い堤に沿ってる森さ。
 （その中にある水溜りの奥底は）近くの泉に通じてるのだけど、その辺りには金色の<ruby>裘<rp>(</rp><rt>かわごろも</rt><rp>)</rp></ruby>にかがやいた羊たちが見張りもなしにいつも草を食べて遊んでいるのだよ。
-その立派な羊の毛皮から毛を<ruby>一<rp>(</rp><rt>ひと</rt><rp>)</rp>房<rp>(</rp><rt>ふさ</rt><rp>)</rp></ruby>どうにでもして大至急私にとって来て欲しいのだがねえ。」</td></tr>
-<tr><td><sup>１２</sup></td>
-<td>プシケは<ruby>唯<rp>(</rp><rt>ただ</rt><rp>)</rp>々<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>とすすんで出かけてまいりました。
+その立派な羊の毛皮から毛を<ruby>一<rp>(</rp><rt>ひと</rt><rp>)</rp>房<rp>(</rp><rt>ふさ</rt><rp>)</rp></ruby>どうにでもして大至急私にとって来て欲しいのだがねえ。」</li>
+<li value="12">プシケは<ruby>唯<rp>(</rp><rt>ただ</rt><rp>)</rp>々<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>とすすんで出かけてまいりました。
 その<ruby>命令<rp>(</rp><rt>いいつけ</rt><rp>)</rp></ruby>を果すためというより、河沿いのやすら<ruby>巖<rp>(</rp><rt>いわお</rt><rp>)</rp></ruby>の上から身を投げていろいろな炎難から<ruby>憩<rp>(</rp><rt>やすら</rt><rp>)</rp></ruby>いを得ようというつもりでもって。
-ところがその河の中からは、愉しい音楽の育ての親の緑の<ruby>葦<rp>(</rp><rt>あし</rt><rp>)</rp></ruby>が、やさしいそよ風に<ruby>徐<rp>(</rp><rt>しず</rt><rp>)</rp></ruby>かな音をたてながら、天上からの息吹きを受けてか、こういって歌い<ruby>諭<rp>(</rp><rt>さと</rt><rp>)</rp></ruby>してくれるのでした。<br>
-「プシケさん、あなたはいろんな苦労に心を痛めても、今ここで世にも憐れな最期を遂げて、この<ruby>聖<rp>(</rp><rt>きよ</rt><rp>)</rp></ruby>らかな水を<ruby>穢<rp>(</rp><rt>けが</rt><rp>)</rp></ruby>してはいけません。
+ところがその河の中からは、愉しい音楽の育ての親の緑の<ruby>葦<rp>(</rp><rt>あし</rt><rp>)</rp></ruby>が、やさしいそよ風に<ruby>徐<rp>(</rp><rt>しず</rt><rp>)</rp></ruby>かな音をたてながら、天上からの息吹きを受けてか、こういって歌い<ruby>諭<rp>(</rp><rt>さと</rt><rp>)</rp></ruby>してくれるのでした。</p>
+<p>「プシケさん、あなたはいろんな苦労に心を痛めても、今ここで世にも憐れな最期を遂げて、この<ruby>聖<rp>(</rp><rt>きよ</rt><rp>)</rp></ruby>らかな水を<ruby>穢<rp>(</rp><rt>けが</rt><rp>)</rp></ruby>してはいけません。
 それからまた決してこんな時間にあの恐ろしい羊どもの処へ近奇っては駄目です。
 というのは（いまは）羊たちが照りさかる太陽から炎熱を受けて、いつも酷く荒れ狂うので、鋭い角や石のような額でついたり、そのうえ時には毒を持った口で<ruby>咬<rp>(</rp><rt>か</rt><rp>)</rp></ruby>んだりして、人間を死なせてしまうほど荒れ廻ることさえあるのです。
 けれども真昼時の日がようやく熱気を収めて、羊どもがおだやかな河原にひっそりと<ruby>鎮<rp>(</rp><rt>しず</rt><rp>)</rp></ruby>まったころおいには、あそこにある背の高い<ruby>鈴<rp>(</rp><rt>すず</rt><rp>)</rp>懸<rp>(</rp><rt>かけ</rt><rp>)</rp></ruby>の木の下に――その木は私同様同じ流れ（の水）を飲んでいますが――その下にそうっと身を隠すことができましょう。
-そいで乱暴が<ruby>和<rp>(</rp><rt>な</rt><rp>)</rp></ruby>いで羊どもの張りつめた気も<ruby>弛<rp>(</rp><rt>たる</rt><rp>)</rp></ruby>んできたら、早速すぐわきの木立の<ruby>枝<rp>(</rp><rt>えだ</rt><rp>)</rp>葉<rp>(</rp><rt>は</rt><rp>)</rp></ruby>をゆすぶれば、金色の羊の毛が見つかるでしょう、その<ruby>彎<rp>(</rp><rt>まが</rt><rp>)</rp></ruby>った幹の方々にくっついておりますから。」</td></tr>
-<tr><td><sup>１３</sup></td>
-<td>こう言って素直な気の優しい草の葉は、悩みつかれたプシケに身を護る道を教えてくれました。
+そいで乱暴が<ruby>和<rp>(</rp><rt>な</rt><rp>)</rp></ruby>いで羊どもの張りつめた気も<ruby>弛<rp>(</rp><rt>たる</rt><rp>)</rp></ruby>んできたら、早速すぐわきの木立の<ruby>枝<rp>(</rp><rt>えだ</rt><rp>)</rp>葉<rp>(</rp><rt>は</rt><rp>)</rp></ruby>をゆすぶれば、金色の羊の毛が見つかるでしょう、その<ruby>彎<rp>(</rp><rt>まが</rt><rp>)</rp></ruby>った幹の方々にくっついておりますから。」</li>
+<li value="13">こう言って素直な気の優しい草の葉は、悩みつかれたプシケに身を護る道を教えてくれました。
 その言葉に耳を傾け心に有難いことを言ってくれたと思って、プシケは一切の始終を<ruby>呑<rp>(</rp><rt>の</rt><rp>)</rp></ruby>み込んで、（<ruby>懐<rp>(</rp><rt>ふとこ</rt><rp>)</rp></ruby>くは）手を控えておりましたが、やがてすっかり葦のいったとおりにして、容易にそこへ忍びこみ、柔かな黄金の房を<ruby>懐<rp>(</rp><rt>ふとこ</rt><rp>)</rp></ruby>ろ一杯に<ruby>偸<rp>(</rp><rt>ぬす</rt><rp>)</rp></ruby>みとって、ヴェヌスのところへ持ち帰りました。
-けれどもこの二番目の危い仕事（を果したこと）も、てんで御主人の気にはいらず、プシケの働きを認めようとはしてくれなくて、やっぱり眉を<ruby>顰<rp>(</rp><rt>しか</rt><rp>)</rp></ruby>め苦笑いを浮かべながら、ヴェヌスはこう言うのでした。<br>
-「今度のことだって、誰がそっと蔭でたきつけたのか私にはよくわかっているよ。
+けれどもこの二番目の危い仕事（を果したこと）も、てんで御主人の気にはいらず、プシケの働きを認めようとはしてくれなくて、やっぱり眉を<ruby>顰<rp>(</rp><rt>しか</rt><rp>)</rp></ruby>め苦笑いを浮かべながら、ヴェヌスはこう言うのでした。</p>
+<p>「今度のことだって、誰がそっと蔭でたきつけたのか私にはよくわかっているよ。
 だけど今度こそ私が本式に厳重な試験をしてあげるからね、本当にしっかりした<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp>性<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby>や<ruby>尋<rp>(</rp><rt>なみ</rt><rp>)</rp>常<rp>(</rp><rt>なみ</rt><rp>)</rp></ruby>でない分別をお前がもってるかどうかをさ。
-そらあすこのとても高い巖の上に<ruby>聳<rp>(</rp><rt>しび</rt><rp>)</rp></ruby>え立って険しい山の<ruby>巓<rp>(</rp><rt>いただき</rt><rp>)</rp></ruby>が見えだろう、あそこから真黒な泉の<ruby>黝<rp>(</rp><rt>ゆう</rt><rp>)</rp></ruby>ずんだ波が流れおちて、近くの谷に閉じかこまれて<ruby>淵<rp>(</rp><rt>ふち</rt><rp>)</rp></ruby>となり、<ruby>黄泉<rp>(</rp><rt>ステュクス</rt><rp>)</rp></ruby>の沼地に注ぎ込んだそのはては、<ruby>叫喚の河<rp>(</rp><rt>コーキユートス</rt><rp>)</rp></ruby>の荒い流れにあわさるのだけど、その泉の<ruby>天頂<rp>(</rp><rt>てっぺん</rt><rp>)</rp></ruby>の、水が湧き出る奥底から、冷たいほどの水を一杯私に大急ぎでね、この<ruby>小<rp>(</rp><rt>こ</rt><rp>)</rp>甕<rp>(</rp><rt>がめ</rt><rp>)</rp></ruby>へ汲んで来ておくれ。」<br>
-こういうと水晶を<ruby>刻<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby>りぬいた<ruby>容<rp>(</rp><rt>いれ</rt><rp>)</rp>器<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>を、その上にももっと重い仕置きで脅しながらプシケに手渡しました。</td></tr>
-<tr><td><sup>１４</sup></td>
-<td>そこで少女は次はせっせと足の運びも速やかに、山の一番上の高みへと向って参りました、今度こそその処でこの上もなく惨めな自分の命に<ruby>決著<rp>(</rp><rt>けっちゃく</rt><rp>)</rp></ruby>をつけられようと思ってです。
+そらあすこのとても高い巖の上に<ruby>聳<rp>(</rp><rt>しび</rt><rp>)</rp></ruby>え立って険しい山の<ruby>巓<rp>(</rp><rt>いただき</rt><rp>)</rp></ruby>が見えだろう、あそこから真黒な泉の<ruby>黝<rp>(</rp><rt>ゆう</rt><rp>)</rp></ruby>ずんだ波が流れおちて、近くの谷に閉じかこまれて<ruby>淵<rp>(</rp><rt>ふち</rt><rp>)</rp></ruby>となり、<ruby>黄泉<rp>(</rp><rt>ステュクス</rt><rp>)</rp></ruby>の沼地に注ぎ込んだそのはては、<ruby>叫喚の河<rp>(</rp><rt>コーキユートス</rt><rp>)</rp></ruby>の荒い流れにあわさるのだけど、その泉の<ruby>天頂<rp>(</rp><rt>てっぺん</rt><rp>)</rp></ruby>の、水が湧き出る奥底から、冷たいほどの水を一杯私に大急ぎでね、この<ruby>小<rp>(</rp><rt>こ</rt><rp>)</rp>甕<rp>(</rp><rt>がめ</rt><rp>)</rp></ruby>へ汲んで来ておくれ。」</p>
+<p>こういうと水晶を<ruby>刻<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby>りぬいた<ruby>容<rp>(</rp><rt>いれ</rt><rp>)</rp>器<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>を、その上にももっと重い仕置きで脅しながらプシケに手渡しました。</li>
+<li value="14">そこで少女は次はせっせと足の運びも速やかに、山の一番上の高みへと向って参りました、今度こそその処でこの上もなく惨めな自分の命に<ruby>決著<rp>(</rp><rt>けっちゃく</rt><rp>)</rp></ruby>をつけられようと思ってです。
 しかし今いった峰の<ruby>麓<rp>(</rp><rt>ふもと</rt><rp>)</rp></ruby>の場処にやって来て見ますと、この<ruby>途<rp>(</rp><rt>と</rt><rp>)</rp>方<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>もない大仕事の、生命にもかかわるほどな難かしさが解って参りました。
 それはそれは<ruby>巨<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きな岩が<ruby>聳<rp>(</rp><rt>しび</rt><rp>)</rp></ruby>えていて、<ruby>突兀<rp>(</rp><rt>とっこつ</rt><rp>)</rp></ruby>として滑り易く近よることなど思いもよらず、両側から迫りあうその石のあぎとからは身の毛もよだつような恐ろしい<ruby>噴流<rp>(</rp><rt>いずみ</rt><rp>)</rp></ruby>が<ruby>迸<rp>(</rp><rt>はし</rt><rp>)</rp></ruby>り出て、<ruby>雪崩<rp>(</rp><rt>なだれ</rt><rp>)</rp></ruby>ている洞穴の<ruby>虧<rp>(</rp><rt>さけ</rt><rp>)</rp>目<rp>(</rp><rt>め</rt><rp>)</rp></ruby>から湧き出すとそのまま滝になって<ruby>崖<rp>(</rp><rt>がけ</rt><rp>)</rp></ruby>を流れ落ち、行く道にえぐれつけた狭い水路にかくされたまま、すぐ近くの深い<ruby>谿<rp>(</rp><rt>たに</rt><rp>)</rp></ruby>あいへ人目もしらず落ち込んでいるのでした。
-右にも左の方にも<ruby>洞<rp>(</rp><rt>うろ</rt><rp>)</rp></ruby>になった切岩からは恐ろしい竜が這い出し……長い頸をもち上げ、その<ruby>眼<rp>(</rp><rt>まなこ</rt><rp>)</rp></ruby>はまばたきもせずにしっかりと見張りをつづけ、たえず日光をみつめるその瞳には少しの間のたゆみさえありません。</td></tr>
-<tr><td></td>
-<td>しかもその上にその水までが声をたてて自分自身を<ruby>禦<rp>(</rp><rt>ふせ</rt><rp>)</rp></ruby>ぎ守り、「あっちへ行け」とか「何をする、よく見ろ」とか「何をやるのだ、気をつけろ」とか「逃げろ」とか、それからまた「そら死ぬぞ」などと呼び立てるのです。
-この有様を見るプシケは仕事などとても思いもよらず、自身が石にでも<ruby>化<rp>(</rp><rt>な</rt><rp>)</rp></ruby>ってしまったかのように、体はそこにあっても眼や耳の感覚はぼうっと脱けてなくなり、抜きさしもならぬこの難業の重荷にすっかり圧倒されてしまって、最後の慰めという涙さえも出ない始末でした。</td></tr>
-<tr><td><sup>１５</sup></td><td>
-しかし有難い神様の御<ruby>攝<rp>(</rp><rt>せつ</rt><rp>)</rp>理<rp>(</rp><rt>り</rt><rp>)</rp></ruby>の、<ruby>崇<rp>(</rp><rt>あらた</rt><rp>)</rp></ruby>かな<ruby>眠<rp>(</rp><rt>まなこ</rt><rp>)</rp></ruby>にこの罪もない心の歎きがとまらないという<ruby>筈<rp>(</rp><rt>はず</rt><rp>)</rp></ruby>はありません。
+右にも左の方にも<ruby>洞<rp>(</rp><rt>うろ</rt><rp>)</rp></ruby>になった切岩からは恐ろしい竜が這い出し……長い頸をもち上げ、その<ruby>眼<rp>(</rp><rt>まなこ</rt><rp>)</rp></ruby>はまばたきもせずにしっかりと見張りをつづけ、たえず日光をみつめるその瞳には少しの間のたゆみさえありません。</li>
+<li>しかもその上にその水までが声をたてて自分自身を<ruby>禦<rp>(</rp><rt>ふせ</rt><rp>)</rp></ruby>ぎ守り、「あっちへ行け」とか「何をする、よく見ろ」とか「何をやるのだ、気をつけろ」とか「逃げろ」とか、それからまた「そら死ぬぞ」などと呼び立てるのです。
+この有様を見るプシケは仕事などとても思いもよらず、自身が石にでも<ruby>化<rp>(</rp><rt>な</rt><rp>)</rp></ruby>ってしまったかのように、体はそこにあっても眼や耳の感覚はぼうっと脱けてなくなり、抜きさしもならぬこの難業の重荷にすっかり圧倒されてしまって、最後の慰めという涙さえも出ない始末でした。</li>
+<li value="15"有難い神様の御<ruby>攝<rp>(</rp><rt>せつ</rt><rp>)</rp>理<rp>(</rp><rt>り</rt><rp>)</rp></ruby>の、<ruby>崇<rp>(</rp><rt>あらた</rt><rp>)</rp></ruby>かな<ruby>眠<rp>(</rp><rt>まなこ</rt><rp>)</rp></ruby>にこの罪もない心の歎きがとまらないという<ruby>筈<rp>(</rp><rt>はず</rt><rp>)</rp></ruby>はありません。
 尊いユッピテル大神様のあの気だかい鳥が不意に、両方の翼をはり拡げて飛んで参りました、あの<ruby>猛<rp>(</rp><rt>たけ</rt><rp>)</rp></ruby>しい<ruby>愛の神<rp>(</rp><rt>クビードー</rt><rp>)</rp></ruby>す。
-その昔<ruby>愛の神<rp>(</rp><rt>クビードー</rt><rp>)</rp></ruby>の誘いによって<a href="#note_ganymede" title="払暁がほんのいま馬車" id="ganymede">ブリュギアの少年</a>をユッピテルの<ruby>盞<rp>(</rp><rt>さかずき</rt><rp>)</rp></ruby>持ちにと天へ<ruby>攫<rp>(</rp><rt>さら</rt><rp>)</rp></ruby>ってってあげたことを忘れずに、今度も丁度おりのよい手助けをして、奥様が困っておいでの時にその<ruby>夫神<rp>(</rp><rt>おつれあい</rt><rp>)</rp></ruby>（<ruby>愛の神<rp>(</rp><rt>クビードー</rt><rp>)</rp></ruby>）の<ruby>御<rp>(</rp><rt>み</rt><rp>)</rp>意<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>を慰めまっろうと、てり輝くはるかな<ruby>穹窿<rp>(</rp><rt>あおぞら</rt><rp>)</rp></ruby>のみちを離れ、少女の眼の前に<ruby>翔<rp>(</rp><rt>かけ</rt><rp>)</rp></ruby>けて来てこう言葉をかけるのでした。<br>
-「まああなたは、全く<ruby>単純<rp>(</rp><rt>ひとすじ</rt><rp>)</rp></ruby>でもってこんな事柄をてんで<ruby>弁<rp>(</rp><rt>わきま</rt><rp>)</rp></ruby>えてもいないのに、この世にも聖いとひとしくまた情け容赦もない泉の水を、一<ruby>滴<rp>(</rp><rt>たらし</rt><rp>)</rp></ruby>でも<ruby>盗<rp>(</rp><rt>と</rt><rp>)</rp></ruby>れようと、いえそれどころか手を<ruby>触<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>えることさえもかなおうと想っておいでなのですか。
+その昔<ruby>愛の神<rp>(</rp><rt>クビードー</rt><rp>)</rp></ruby>の誘いによって<a href="#note_ganymede" title="払暁がほんのいま馬車" id="ganymede">ブリュギアの少年</a>をユッピテルの<ruby>盞<rp>(</rp><rt>さかずき</rt><rp>)</rp></ruby>持ちにと天へ<ruby>攫<rp>(</rp><rt>さら</rt><rp>)</rp></ruby>ってってあげたことを忘れずに、今度も丁度おりのよい手助けをして、奥様が困っておいでの時にその<ruby>夫神<rp>(</rp><rt>おつれあい</rt><rp>)</rp></ruby>（<ruby>愛の神<rp>(</rp><rt>クビードー</rt><rp>)</rp></ruby>）の<ruby>御<rp>(</rp><rt>み</rt><rp>)</rp>意<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>を慰めまっろうと、てり輝くはるかな<ruby>穹窿<rp>(</rp><rt>あおぞら</rt><rp>)</rp></ruby>のみちを離れ、少女の眼の前に<ruby>翔<rp>(</rp><rt>かけ</rt><rp>)</rp></ruby>けて来てこう言葉をかけるのでした。</p>
+<p>「まああなたは、全く<ruby>単純<rp>(</rp><rt>ひとすじ</rt><rp>)</rp></ruby>でもってこんな事柄をてんで<ruby>弁<rp>(</rp><rt>わきま</rt><rp>)</rp></ruby>えてもいないのに、この世にも聖いとひとしくまた情け容赦もない泉の水を、一<ruby>滴<rp>(</rp><rt>たらし</rt><rp>)</rp></ruby>でも<ruby>盗<rp>(</rp><rt>と</rt><rp>)</rp></ruby>れようと、いえそれどころか手を<ruby>触<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>えることさえもかなおうと想っておいでなのですか。
 神々もまたユッピテルさま御自身でさえあの<ruby>黄泉<rp>(</rp><rt>ステュクス</rt><rp>)</rp></ruby>の流れは畏れ<ruby>憚<rp>(</rp><rt>はばか</rt><rp>)</rp></ruby>りになるってことは、ともかく話でなりと知っておいででしょう、その上丁度あなた方が神明にかけて誓いを立てるように、神々は<ruby>黄泉<rp>(</rp><rt>ステュクス</rt><rp>)</rp></ruby>の尊厳にかけていつも誓いをなさるということも。
-だからさあその<ruby>小<rp>(</rp><rt>こ</rt><rp>)</rp>甕<rp>(</rp><rt>がめ</rt><rp>)</rp></ruby>をおよこしなさい。」<br>
-こういうと<ruby>忽<rp>(</rp><rt>たちま</rt><rp>)</rp></ruby>ちそれを奪って水を<ruby>満<rp>(</rp><rt>み</rt><rp>)</rp></ruby>たしにと急いで飛び立ち、<ruby>巨大<rp>(</rp><rt>おおき</rt><rp>)</rp></ruby>な翼をゆらゆらと揺りはためかせて、巨竜の恐しい歯の<ruby>顎<rp>(</rp><rt>あぎと</rt><rp>)</rp></ruby>や<ruby>三<rp>(</rp><rt>みつ</rt><rp>)</rp>叉<rp>(</rp><rt>また</rt><rp>)</rp></ruby>に裂けて燃えたつ舌の間を、右へ左へと<ruby>揖<rp>(</rp><rt>かじ</rt><rp>)</rp></ruby>をとりながら、<ruby>厭<rp>(</rp><rt>いや</rt><rp>)</rp></ruby>がって怪我をしないうちにあちらへ行けと脅しつける水をとうとう汲んで参りました、ヴェヌスさまの<ruby>命令<rp>(</rp><rt>いいつけ</rt><rp>)</rp></ruby>で取りに来たので、自分はその神様の御用をしているのだなどといったため、いくぶんかそこへ<ruby>容易<rp>(</rp><rt>たやす</rt><rp>)</rp></ruby>く寄りつく道も開けたところでもって波んで来たのです。
-こんな次第で、一杯になった<ruby>甕<rp>(</rp><rt>かめ</rt><rp>)</rp></ruby>を大喜びでプシケは受け取り、急いでヴェヌスのところへと持って参りました。</td></tr>
-<tr><td><sup>１６</sup></td>
-<td>それでもまだこんなにしてさえも猛り立つ女神の<ruby>御<rp>(</rp><rt>み</rt><rp>)</rp>意<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>を和げることはかないません。
-そして前よりも一層ひどい厳しいお仕置きで脅しつけながら、命の縮むほど恐ろしい薄笑いを浮かべ、プシケを呼んで女神はこうおっしゃいました。<br>
-「実際お前さんはどうも大した魔法使だとみえるね、全く気味が悪いよ、私がどんな事を言いつけてもどんどんやってくるんだからねえ。だけどもう一つ、いい子だからこの仕事を提非ともしてきとくれな。ここにあるこの<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp>筐<rp>(</rp><rt>ばこ</rt><rp>)</rp></ruby>をもって、」<br>
-とそれを渡して、<br>
-「すぐ、<ruby>冥<rp>(</rp><rt>めい</rt><rp>)</rp>途<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>まで、<ruby>冥王<rp>(</rp><rt>オルクス</rt><rp>)</rp></ruby>御自身がおいでの亡者の<ruby>棲<rp>(</rp><rt>すみ</rt><rp>)</rp>家<rp>(</rp><rt>か</rt><rp>)</rp></ruby>へと行って来とくれ、そいで（お妃の）プロセルピナに<ruby>筐<rp>(</rp><rt>はこ</rt><rp>)</rp></ruby>を渡してこういうのだよ、――ヴェヌスさまの御<ruby>依頼<rp>(</rp><rt>たのみ</rt><rp>)</rp></ruby>には、あなた様の好い<ruby>御<rp>(</rp><rt>ご</rt><rp>)</rp>容色<rp>(</rp><rt>きりょう</rt><rp>)</rp></ruby>をほんのちょっぴり、ほんの一日の間保つだけなりと、<ruby>頒<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>けて下さいますよう。
+だからさあその<ruby>小<rp>(</rp><rt>こ</rt><rp>)</rp>甕<rp>(</rp><rt>がめ</rt><rp>)</rp></ruby>をおよこしなさい。」</p>
+<p>こういうと<ruby>忽<rp>(</rp><rt>たちま</rt><rp>)</rp></ruby>ちそれを奪って水を<ruby>満<rp>(</rp><rt>み</rt><rp>)</rp></ruby>たしにと急いで飛び立ち、<ruby>巨大<rp>(</rp><rt>おおき</rt><rp>)</rp></ruby>な翼をゆらゆらと揺りはためかせて、巨竜の恐しい歯の<ruby>顎<rp>(</rp><rt>あぎと</rt><rp>)</rp></ruby>や<ruby>三<rp>(</rp><rt>みつ</rt><rp>)</rp>叉<rp>(</rp><rt>また</rt><rp>)</rp></ruby>に裂けて燃えたつ舌の間を、右へ左へと<ruby>揖<rp>(</rp><rt>かじ</rt><rp>)</rp></ruby>をとりながら、<ruby>厭<rp>(</rp><rt>いや</rt><rp>)</rp></ruby>がって怪我をしないうちにあちらへ行けと脅しつける水をとうとう汲んで参りました、ヴェヌスさまの<ruby>命令<rp>(</rp><rt>いいつけ</rt><rp>)</rp></ruby>で取りに来たので、自分はその神様の御用をしているのだなどといったため、いくぶんかそこへ<ruby>容易<rp>(</rp><rt>たやす</rt><rp>)</rp></ruby>く寄りつく道も開けたところでもって波んで来たのです。
+こんな次第で、一杯になった<ruby>甕<rp>(</rp><rt>かめ</rt><rp>)</rp></ruby>を大喜びでプシケは受け取り、急いでヴェヌスのところへと持って参りました。</li>
+<li value="16">それでもまだこんなにしてさえも猛り立つ女神の<ruby>御<rp>(</rp><rt>み</rt><rp>)</rp>意<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>を和げることはかないません。
+そして前よりも一層ひどい厳しいお仕置きで脅しつけながら、命の縮むほど恐ろしい薄笑いを浮かべ、プシケを呼んで女神はこうおっしゃいました。</p>
+<p>「実際お前さんはどうも大した魔法使だとみえるね、全く気味が悪いよ、私がどんな事を言いつけてもどんどんやってくるんだからねえ。だけどもう一つ、いい子だからこの仕事を提非ともしてきとくれな。ここにあるこの<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp>筐<rp>(</rp><rt>ばこ</rt><rp>)</rp></ruby>をもって、」</p>
+<p>とそれを渡して、</p>
+<p>「すぐ、<ruby>冥<rp>(</rp><rt>めい</rt><rp>)</rp>途<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>まで、<ruby>冥王<rp>(</rp><rt>オルクス</rt><rp>)</rp></ruby>御自身がおいでの亡者の<ruby>棲<rp>(</rp><rt>すみ</rt><rp>)</rp>家<rp>(</rp><rt>か</rt><rp>)</rp></ruby>へと行って来とくれ、そいで（お妃の）プロセルピナに<ruby>筐<rp>(</rp><rt>はこ</rt><rp>)</rp></ruby>を渡してこういうのだよ、――ヴェヌスさまの御<ruby>依頼<rp>(</rp><rt>たのみ</rt><rp>)</rp></ruby>には、あなた様の好い<ruby>御<rp>(</rp><rt>ご</rt><rp>)</rp>容色<rp>(</rp><rt>きりょう</rt><rp>)</rp></ruby>をほんのちょっぴり、ほんの一日の間保つだけなりと、<ruby>頒<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>けて下さいますよう。
 前からの御自身の分は、御子息の病気の<ruby>看護<rp>(</rp><rt>みとり</rt><rp>)</rp></ruby>ですっかりすり減らし、使い果してしまいましたので――ってね。
-でもぐずぐずしないでさっさと帰って来るのだよ。私は是が非でもそれをつけて、神様たちの<ruby>観劇<rp>(</rp><rt>おしばい</rt><rp>)</rp></ruby>に出かけなけりゃならないのだからね。」</td></tr>
-<tr><td><sup>１７</sup></td>
-<td>そこでプシケは、今度こそいよいよ自分の運もこれまでと覚悟し、あらゆる<ruby>表面<rp>(</rp><rt>うわべ</rt><rp>)</rp></ruby>のつくろいもかなぐりすてて、自分が無理やりにも最後のどたん場へと<ruby>急<rp>(</rp><rt>せ</rt><rp>)</rp></ruby>き立てられているのをはっきりと理解いたしました。
+でもぐずぐずしないでさっさと帰って来るのだよ。私は是が非でもそれをつけて、神様たちの<ruby>観劇<rp>(</rp><rt>おしばい</rt><rp>)</rp></ruby>に出かけなけりゃならないのだからね。」</li>
+<li value="17">そこでプシケは、今度こそいよいよ自分の運もこれまでと覚悟し、あらゆる<ruby>表面<rp>(</rp><rt>うわべ</rt><rp>)</rp></ruby>のつくろいもかなぐりすてて、自分が無理やりにも最後のどたん場へと<ruby>急<rp>(</rp><rt>せ</rt><rp>)</rp></ruby>き立てられているのをはっきりと理解いたしました。
 それも無理からぬこと、自分の足でこちらから<ruby>冥界<rp>(</rp><rt>タルタロス</rt><rp>)</rp></ruby>の亡者の<ruby>郷土<rp>(</rp><rt>くに</rt><rp>)</rp></ruby>へ出かけて行かなければならないのですから。
 そこでプシケも今はもう<ruby>躊躇<rp>(</rp><rt>ためら</rt><rp>)</rp></ruby>うこともなく、あるとりわけて高い塔の処へ赴き、そこから真逆さまに身を投げようといたしました、こうしたらばきっと<ruby>冥界<rp>(</rp><rt>じごく</rt><rp>)</rp></ruby>へまっとうに、一とう結構な仕方で降りて行けようと考えたからです。
-ところがその塔が急に物を言いだして、<br>
-「まああなたは」と申しました、「可哀そうに、なぜ身を投げて死んじまおうなんてなさるんです。
+ところがその塔が急に物を言いだして、</p>
+<p>「まああなたは」と申しました、「可哀そうに、なぜ身を投げて死んじまおうなんてなさるんです。
 どうして一番お終いの難題のこの仕事で、考えもなく<ruby>閉<rp>(</rp><rt>へ</rt><rp>)</rp>口<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>たれてしまうんです。
 一度この<ruby>呼吸<rp>(</rp><rt>いき</rt><rp>)</rp></ruby>があなたの身体から絶えたらば、それこそ真直ぐに<ruby>冥界<rp>(</rp><rt>タルタロス</rt><rp>)</rp></ruby>の底にゆけはしょうけれど、どんなことがあったってそこからまた帰ってはこれやしません。
-（それよりもあの）</td></tr>
-<tr><td><sup>１８</sup></td>
-<td>アカイアの世にしられた町、<a href="#note_sparte" title="ラケダイモーン" id="sparte">ラケダイモーン</a>へはそう程遠くないのですから、その近処で<ruby>往<rp>(</rp><rt>おう</rt><rp>)</rp>還<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>を離れた片田舎に、タイナロスというところを尋ねていらっしゃい。
+（それよりもあの）</li>
+<li value="18">アカイアの世にしられた町、<a href="#note_sparte" title="ラケダイモーン" id="sparte">ラケダイモーン</a>へはそう程遠くないのですから、その近処で<ruby>往<rp>(</rp><rt>おう</rt><rp>)</rp>還<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>を離れた片田舎に、タイナロスというところを尋ねていらっしゃい。
 そこには<ruby>閻王<rp>(</rp><rt>ディース</rt><rp>)</rp></ruby>の息抜き穴というのがあって、その大きく開いた<ruby>門<rp>(</rp><rt>と</rt><rp>)</rp>口<rp>(</rp><rt>ぐち</rt><rp>)</rp></ruby>からは、人も通わぬ荒れ路がずっと見えていて、その<ruby>閾<rp>(</rp><rt>しきい</rt><rp>)</rp></ruby>を超さえすれば、すぐとさっきの路にはいるわけですが、そこからはもう真直ぐな道筋で、例の<ruby>冥<rp>(</rp><rt>オルクス</rt><rp>)</rp></ruby>王の御殿へ行けますから。
 でもそこまでのその暗闇を<ruby>空<rp>(</rp><rt>から</rt><rp>)</rp>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby>で進んでっては駄目です、ちゃんと<ruby>蜜<rp>(</rp><rt>みつ</rt><rp>)</rp>酒<rp>(</rp><rt>しゅ</rt><rp>)</rp></ruby>でこね固めた大麦粉のお餅を両手に持って、そのうえロのなかにですよ、銅貨を二枚くわえて行くのです。
 それでこの死にそうな<ruby>恐<rp>(</rp><rt>こわ</rt><rp>)</rp></ruby>い道を<ruby>大略<rp>(</rp><rt>あらまし</rt><rp>)</rp></ruby>ゆきおえるころになると、向うから<ruby>薪<rp>(</rp><rt>たきぎ</rt><rp>)</rp></ruby>を積んだ<ruby>跛足<rp>(</rp><rt>びっこ</rt><rp>)</rp></ruby>のろばが同じく<ruby>跛足<rp>(</rp><rt>びっこ</rt><rp>)</rp></ruby><ruby>馭<rp>(</rp><rt>ぎょ</rt><rp>)</rp>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>にひかれて来るのに遇いますが、その人があなたに背中の荷から落っこちる小枝をちょっと拾ってくれとたのんでも、あなたは一<ruby>言<rp>(</rp><rt>こと</rt><rp>)</rp></ruby>もものを言わずに黙って通り過ぎるのです。
 それから程もなく<ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp>途<rp>(</rp><rt>ず</rt><rp>)</rp></ruby>の河へ<ruby>著<rp>(</rp><rt>しる</rt><rp>)</rp></ruby>きますと、その河守の<a href="#note_charon" title="カローン" id="charon">カローン</a>がすぐと渡し賃を請求します。
 つまりそいで往来も（亡）者を皮の<ruby>艀<rp>(</rp><rt>はしけ</rt><rp>)</rp></ruby>でもって<ruby>向<rp>(</rp><rt>むこう</rt><rp>)</rp>岸<rp>(</rp><rt>ぎし</rt><rp>)</rp></ruby>に渡してやるのです、亡者の国でもやっぱり慾というものはなくならないで、カローンでもあの<ruby>閻王<rp>(</rp><rt>ディース</rt><rp>)</rp></ruby>様でさえも、何にも只ではしてくれないのですから。
-憐れな死んでゆく人たちは是非とも路用を貰ってかないとならないので、もしひょっとして<ruby>懐<rp>(</rp><rt>ふとこ</rt><rp>)</rp></ruby>ろに銅銭がなかったら大変、もうそのままでは息を引き取らせて貰えません。</td></tr>
-<tr><td></td>
-<td>この薄汚い<ruby>爺<rp>(</rp><rt>じじ</rt><rp>)</rp></ruby>さんに<ruby>艀<rp>(</rp><rt>はしけ</rt><rp>)</rp>賃<rp>(</rp><rt>ちん</rt><rp>)</rp></ruby>として、持ってゆく二枚のお銭の片方をやるわけですが、それもカローンが自分の手であなたの口から<ruby>直接<rp>(</rp><rt>じか</rt><rp>)</rp></ruby>に取るようにおさせなさい。
-そいからまたこの<ruby>緩<rp>(</rp><rt>ゆる</rt><rp>)</rp></ruby>やか流れを渡ってゆくときに、その川面に浮いてる年寄りの亡者が、<ruby>腐<rp>(</rp><rt>くさ</rt><rp>)</rp></ruby>れた手をさし出して船の中へ引き上げてくれと頼むでしょうが、あなたはけっして道に外れた憐れみに打ち負かされて（引き上げてやって）はいけません。</td></tr>
-<tr><td><sup>１９</sup></td>
-<td>河を渡ってすこし行くと機織りの婆さんどもが布を織ってて、ちょっと手を貸してくれと頼みましょうが、しかしこれにも手を<ruby>触<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>えるのは間違ったことです。
+憐れな死んでゆく人たちは是非とも路用を貰ってかないとならないので、もしひょっとして<ruby>懐<rp>(</rp><rt>ふとこ</rt><rp>)</rp></ruby>ろに銅銭がなかったら大変、もうそのままでは息を引き取らせて貰えません。</li>
+<li>この薄汚い<ruby>爺<rp>(</rp><rt>じじ</rt><rp>)</rp></ruby>さんに<ruby>艀<rp>(</rp><rt>はしけ</rt><rp>)</rp>賃<rp>(</rp><rt>ちん</rt><rp>)</rp></ruby>として、持ってゆく二枚のお銭の片方をやるわけですが、それもカローンが自分の手であなたの口から<ruby>直接<rp>(</rp><rt>じか</rt><rp>)</rp></ruby>に取るようにおさせなさい。
+そいからまたこの<ruby>緩<rp>(</rp><rt>ゆる</rt><rp>)</rp></ruby>やか流れを渡ってゆくときに、その川面に浮いてる年寄りの亡者が、<ruby>腐<rp>(</rp><rt>くさ</rt><rp>)</rp></ruby>れた手をさし出して船の中へ引き上げてくれと頼むでしょうが、あなたはけっして道に外れた憐れみに打ち負かされて（引き上げてやって）はいけません。</li>
+<li value="19">河を渡ってすこし行くと機織りの婆さんどもが布を織ってて、ちょっと手を貸してくれと頼みましょうが、しかしこれにも手を<ruby>触<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>えるのは間違ったことです。
 つまりこれだとか他のいろんな事柄はもともと皆、ヴェヌスの<ruby>奸計<rp>(</rp><rt>わるだくみ</rt><rp>)</rp></ruby>から出ているもので、あなたの手から一つなりと麦粉餅をおっことさせようという<ruby>謀<rp>(</rp><rt>たくみ</rt><rp>)</rp></ruby>なのですからね。
 それにそんな詰らない麦粉餅などなくなっても、大したことはないと思っててはいけません、一つでもなくなしたら最後もうこの世の光はそれっきり見られなくなるのです。
 というのはとても大きな、ずいぶん大きい首を三つももった恐ろしい猛犬がいて、雷のような<ruby>唸<rp>(</rp><rt>うな</rt><rp>)</rp></ruby>り声で亡者たちに吠えつきますが、犬も死んだ人にはもう何の害も加えようがないのでただ<ruby>嚇<rp>(</rp><rt>おど</rt><rp>)</rp></ruby>すばかり、<a href="#note_proserpine" title="プロセルビナ" id="proserpine">プロセルビナ</a>の<ruby>后<rp>(</rp><rt>きさい</rt><rp>)</rp></ruby>）の陰気なお宮のその<ruby>閾<rp>(</rp><rt>いり</rt><rp>)</rp>口<rp>(</rp><rt>ぐち</rt><rp>)</rp></ruby>の前にしょっちゅう不寝るの番をして、<ruby>閻王<rp>(</rp><rt>ディース</rt><rp>)</rp></ruby>の<ruby>空虚<rp>(</rp><rt>うつろ</rt><rp>)</rp></ruby>な御殿を守っているのです。
 <ruby>比<rp>(</rp><rt>く</rt><rp>)</rp>奴<rp>(</rp><rt>やつ</rt><rp>)</rp></ruby>にお餅を一つだけ餌にやって手なずけると、楽にそこを通り抜けられて、そうすればすぐさまプロセルビナのおいでの場処にはいってゆけましょう。
 お妃はあなたを愛想よく親切にもてなして、気楽に腰をかけて立派な御馳走を食べるように勧めてくれましょうが、あなたは座るのも地面にして、食物も並の粗いパンをもらって食べるようにするのですよ。
 そうしといてから、わざわざ来た理由をお話して、お妃のよこしたものを受け取り、また帰ってくるという次第で、犬の<ruby>猛<rp>(</rp><rt>たけ</rt><rp>)</rp></ruby>るのは残りのお餅で<ruby>宥<rp>(</rp><rt>なだ</rt><rp>)</rp></ruby>めすかし、それから<ruby>貪<rp>(</rp><rt>どん</rt><rp>)</rp>欲<rp>(</rp><rt>よく</rt><rp>)</rp></ruby>な船頭にはまだロのなかにとっといてある（はずの）お<ruby>貨<rp>(</rp><rt>あし</rt><rp>)</rp></ruby>をやって、その船で河を渡ったらまた前に通った道筋を辿って行けば、またあの天上の<ruby>星<rp>(</rp><rt>ほし</rt><rp>)</rp>辰<rp>(</rp><rt>くず</rt><rp>)</rp></ruby>の<ruby>集団<rp>(</rp><rt>あつまり</rt><rp>)</rp></ruby>（が見えるところ）へ戻ってこれましょう。
-ただ何よりもとりわけて気をつけなければならないのは、けっしてどんなことがあっても手に持っているその<ruby>小<rp>(</rp><rt>こ</rt><rp>)</rp>筐<rp>(</rp><rt>ばこ</rt><rp>)</rp></ruby>を開けようとしたり、覗いて見たりしてはいけません、どうあろうともその中に<ruby>蔵<rp>(</rp><rt>かく</rt><rp>)</rp></ruby>されている神々しい美しさの<ruby>秘宝<rp>(</rp><rt>おたからもの</rt><rp>)</rp></ruby>を、物ずきになどと思ってはなりません。」</td></tr>
-<tr><td><sup>２０</sup></td>
-<td>こうその智慧のひろい塔は<ruby>誇<rp>(</rp><rt>こま</rt><rp>)</rp>々<rp>(</rp><rt>ごま</rt><rp>)</rp></ruby>と親切に教え訓してくれました。
+ただ何よりもとりわけて気をつけなければならないのは、けっしてどんなことがあっても手に持っているその<ruby>小<rp>(</rp><rt>こ</rt><rp>)</rp>筐<rp>(</rp><rt>ばこ</rt><rp>)</rp></ruby>を開けようとしたり、覗いて見たりしてはいけません、どうあろうともその中に<ruby>蔵<rp>(</rp><rt>かく</rt><rp>)</rp></ruby>されている神々しい美しさの<ruby>秘宝<rp>(</rp><rt>おたからもの</rt><rp>)</rp></ruby>を、物ずきになどと思ってはなりません。」</li>
+<li value="20">こうその智慧のひろい塔は<ruby>誇<rp>(</rp><rt>こま</rt><rp>)</rp>々<rp>(</rp><rt>ごま</rt><rp>)</rp></ruby>と親切に教え訓してくれました。
 それでプシケは<ruby>猶<rp>(</rp><rt>ゆう</rt><rp>)</rp>予<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>あらせずタイナロスへ出かけ、（いわれたように）ちゃんとそのお<ruby>貨<rp>(</rp><rt>あし</rt><rp>)</rp></ruby>だの麦粉餅だのを持って冥途への路を馳け下り、痩せほうけたろばの<ruby>馭<rp>(</rp><rt>ぎょ</rt><rp>)</rp>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>の脇を黙ったまま通りすごし、河の<ruby>艀<rp>(</rp><rt>はしけ</rt><rp>)</rp>賃<rp>(</rp><rt>ちん</rt><rp>)</rp></ruby>を船頭に払って、そこに浮いている亡者の願いごとも構いつけず、機織女たちのずるっこい頼みにも相手にならないで、例の犬の身の<ruby>竦<rp>(</rp><rt>すく</rt><rp>)</rp></ruby>むように荒れ狂うのはお餅の御馳走で手なずけておいて、プロセルビナの御殿へとはいりこみました。
 そして女<ruby>主人<rp>(</rp><rt>あるじ</rt><rp>)</rp></ruby>が座り心地のよい椅子やそれはそれは見事なお食事をすすめてくれても辞退して、その<ruby>足<rp>(</rp><rt>あし</rt><rp>)</rp>許<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>につつましく座り並パンに満足して、ヴェヌスの用むきをお伝えしました。
-するとすぐさま小筐に何か容れて固く蓋をして渡してくれたので、それを持ってもう一つのお餅で<ruby>欺<rp>(</rp><rt>だま</rt><rp>)</rp></ruby>して吠える犬のロを封じ、残りのお<ruby>貨<rp>(</rp><rt>あし</rt><rp>)</rp></ruby>を船頭に払ってやって、<ruby>往<rp>(</rp><rt>ゆ</rt><rp>)</rp></ruby>きよりもずっと元気よくいそいそと<ruby>冥<rp>(</rp><rt>めい</rt><rp>)</rp>途<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>から立ち戻ってまいりました。</td></tr>
-<tr><td></td>
-<td>このようにしてまたもとの<ruby>嚇<rp>(</rp><rt>あか</rt><rp>)</rp>々<rp>(</rp><rt>あか</rt><rp>)</rp></ruby>とした日の光を仰ぎ、手を合せて伏し拝んでみると、今までは早く<ruby>命<rp>(</rp><rt>いいつ</rt><rp>)</rp></ruby>けられた勤めを果そうとのみ思ってたものが、<ruby>遽<rp>(</rp><rt>にわ</rt><rp>)</rp></ruby>かに向う見ずな好奇心が胸に湧き立ってきて思うよう、<br>
-「ちょっと、私もずいぶん<ruby>頓<rp>(</rp><rt>とん</rt><rp>)</rp>馬<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>だわね、神々しい美しさを手に持ちながら、それをはんのちょっびりも自分ではお裾分けに預かれないなんて。
-そうできもしたらあの立派ななつかしい方のお気にも入れようというのに。」</td></tr>
-<tr><td><sup>２１</sup></td>
-<td>こう言うが早いか、<ruby>小<rp>(</rp><rt>こ</rt><rp>)</rp>賞<rp>(</rp><rt>ばこ</rt><rp>)</rp></ruby>をこじ開けて見ました。</td></tr>
-<tr><td></td>
-<td>ところがその中には美しさどころか、どんな物もはいっていず、ただ幽冥界の、というより<ruby>正<rp>(</rp><rt>しょう</rt><rp>)</rp>真<rp>(</rp><rt>しん</rt><rp>)</rp>正<rp>(</rp><rt>しょう</rt><rp>)</rp>銘<rp>(</rp><rt>めい</rt><rp>)</rp></ruby>の<ruby>地獄<rp>(</rp><rt>ステュクス</rt><rp>)</rp></ruby>の眠りだけが、蓋を取られると見る見る立ち昇ってプシケにかかり、<ruby>昏<rp>(</rp><rt>こん</rt><rp>)</rp>迷<rp>(</rp><rt>めい</rt><rp>)</rp></ruby>の<ruby>靄<rp>(</rp><rt>もや</rt><rp>)</rp></ruby>でひたひたと<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp>肢<rp>(</rp><rt>あし</rt><rp>)</rp>中<rp>(</rp><rt>じゆう</rt><rp>)</rp></ruby>を取り巻いてしまいました。
-プシケは立ち処にその場にくずおれて、じっと身動もせず横になった有様は、眼を<ruby>瞑<rp>(</rp><rt>つむ</rt><rp>)</rp></ruby>った<ruby>死<rp>(</rp><rt>し</rt><rp>)</rp>屍<rp>(</rp><rt>かばね</rt><rp>)</rp></ruby>と何の相違もありません。</td></tr>
-<tr><td></td>
-<td>さてクビードーはもう傷跡も固まり癒ってまいりましたので、長いこと大切なプシケと別れているのが我慢しきれなくなり、閉じ籠められてる寝部屋の上についた窓から脱け出すと、しばらくの休みに勢いをとり戻した翼に乗ってずんと進みも早く、プシケのところへ飛んで駈けつけました。
-そして丁寧におちなく<ruby>睡眠<rp>(</rp><rt>ねむり</rt><rp>)</rp></ruby>を<ruby>拭<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>きとって、またもとの小筐の中へ<ruby>蔵<rp>(</rp><rt>おさ</rt><rp>)</rp></ruby>めかえすと、痛みのない背中の矢の<ruby>尖端<rp>(</rp><rt>さき</rt><rp>)</rp></ruby>でプシケを呼び<ruby>醒<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>ましていいますには、<br>
-「そらまた、可哀そうに、お前は今度も同じ<ruby>好奇心<rp>(</rp><rt>ものずき</rt><rp>)</rp></ruby>から死ぬところだったじゃないか。
-だけどともかくこれから、お母様の言いつけで使いにやられたその仕事を早く果しておしまい、あとのことは私が始末をつけるから。」<br>
-こういうと身軽な良人は<ruby>翅<rp>(</rp><rt>はね</rt><rp>)</rp></ruby>に委せて（飛んで）ゆきましたので、プシケも左右なくヴェヌスの許へとプロセルビナの<ruby>購<rp>(</rp><rt>つかい</rt><rp>)</rp>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>を持って急ぐのでした。</td></tr>
-<tr><td><sup>２２</sup></td>
-<td>その間にもクビードーは身にあまる<ruby>恋情<rp>(</rp><rt>おもい</rt><rp>)</rp></ruby>に<ruby>蝕<rp>(</rp><rt>むしば</rt><rp>)</rp></ruby>まれて<ruby>面<rp>(</rp><rt>おもて</rt><rp>)</rp></ruby>もやつれ、母親が<ruby>遽<rp>(</rp><rt>すみや</rt><rp>)</rp></ruby>かに本気になっているのに酷く恐れをなし、またいつもの手を出して、<ruby>翅<rp>(</rp><rt>はね</rt><rp>)</rp></ruby>の運びも早く天頂に<ruby>翔<rp>(</rp><rt>か</rt><rp>)</rp></ruby>け入り、大神ユッピテルの御前に、事の次第を<ruby>陳述<rp>(</rp><rt>のべたて</rt><rp>)</rp></ruby>てお助けを願いました。
-そうするとユッピテルは<ruby>愛の神<rp>(</rp><rt>クビードー</rt><rp>)</rp></ruby>の<ruby>顇<rp>(</rp><rt>ほっ</rt><rp>)</rp></ruby>ぺたを<ruby>抓<rp>(</rp><rt>つね</rt><rp>)</rp></ruby>ってその手を執り上げると<ruby>接吻<rp>(</rp><rt>くちづけ</rt><rp>)</rp></ruby>をし、徐ろにこうおっしゃいました。</td></tr>
-<tr><td></td>
-<td>「息子どの、<ruby>貴神<rp>(</rp><rt>あなた</rt><rp>)</rp></ruby>はいつだって、神々が折角私に与えてくれた<ruby>栄誉<rp>(</rp><rt>ほまれ</rt><rp>)</rp></ruby>を尊重してくれたこともなく、<ruby>却<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>って<ruby>四大五元<rp>(</rp><rt>あらゆるもの</rt><rp>)</rp></ruby>の<ruby>法則<rp>(</rp><rt>おきて</rt><rp>)</rp></ruby>や<ruby>星辰<rp>(</rp><rt>ほし</rt><rp>)</rp></ruby>の<ruby>移行<rp>(</rp><rt>うごき</rt><rp>)</rp></ruby>をさえ処理する私のこの胸を、始終突き刺しては傷を負わせ、何度となく地上の愛欲に陥れては恥辱を与え、あのユーリアの法規にさえ<ruby>反<rp>(</rp><rt>そむ</rt><rp>)</rp></ruby>き公けの良俗にも<ruby>悖<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>って、愚にもつかぬ<ruby>情<rp>(</rp><rt>いろ</rt><rp>)</rp>沙<rp>(</rp><rt>ざ</rt><rp>)</rp>汰<rp>(</rp><rt>た</rt><rp>)</rp></ruby>で私の名誉や評判を<ruby>毀<rp>(</rp><rt>そこな</rt><rp>)</rp></ruby>ってばかりいる、しかも<ruby>蛇<rp>(</rp><rt>ながむし</rt><rp>)</rp></ruby>だの火だの野獣だの鳥だの野に群れる家畜だのに、<ruby>穢<rp>(</rp><rt>けが</rt><rp>)</rp></ruby>らわしくもこの私の<ruby>清麗<rp>(</rp><rt>きょらか</rt><rp>)</rp></ruby>な貌を変じさせてだ。
+するとすぐさま小筐に何か容れて固く蓋をして渡してくれたので、それを持ってもう一つのお餅で<ruby>欺<rp>(</rp><rt>だま</rt><rp>)</rp></ruby>して吠える犬のロを封じ、残りのお<ruby>貨<rp>(</rp><rt>あし</rt><rp>)</rp></ruby>を船頭に払ってやって、<ruby>往<rp>(</rp><rt>ゆ</rt><rp>)</rp></ruby>きよりもずっと元気よくいそいそと<ruby>冥<rp>(</rp><rt>めい</rt><rp>)</rp>途<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>から立ち戻ってまいりました。</li>
+<li>このようにしてまたもとの<ruby>嚇<rp>(</rp><rt>あか</rt><rp>)</rp>々<rp>(</rp><rt>あか</rt><rp>)</rp></ruby>とした日の光を仰ぎ、手を合せて伏し拝んでみると、今までは早く<ruby>命<rp>(</rp><rt>いいつ</rt><rp>)</rp></ruby>けられた勤めを果そうとのみ思ってたものが、<ruby>遽<rp>(</rp><rt>にわ</rt><rp>)</rp></ruby>かに向う見ずな好奇心が胸に湧き立ってきて思うよう、</p>
+<p>「ちょっと、私もずいぶん<ruby>頓<rp>(</rp><rt>とん</rt><rp>)</rp>馬<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>だわね、神々しい美しさを手に持ちながら、それをはんのちょっびりも自分ではお裾分けに預かれないなんて。
+そうできもしたらあの立派ななつかしい方のお気にも入れようというのに。」</li>
+<li value="21">こう言うが早いか、<ruby>小<rp>(</rp><rt>こ</rt><rp>)</rp>賞<rp>(</rp><rt>ばこ</rt><rp>)</rp></ruby>をこじ開けて見ました。</li>
+<li>ところがその中には美しさどころか、どんな物もはいっていず、ただ幽冥界の、というより<ruby>正<rp>(</rp><rt>しょう</rt><rp>)</rp>真<rp>(</rp><rt>しん</rt><rp>)</rp>正<rp>(</rp><rt>しょう</rt><rp>)</rp>銘<rp>(</rp><rt>めい</rt><rp>)</rp></ruby>の<ruby>地獄<rp>(</rp><rt>ステュクス</rt><rp>)</rp></ruby>の眠りだけが、蓋を取られると見る見る立ち昇ってプシケにかかり、<ruby>昏<rp>(</rp><rt>こん</rt><rp>)</rp>迷<rp>(</rp><rt>めい</rt><rp>)</rp></ruby>の<ruby>靄<rp>(</rp><rt>もや</rt><rp>)</rp></ruby>でひたひたと<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp>肢<rp>(</rp><rt>あし</rt><rp>)</rp>中<rp>(</rp><rt>じゆう</rt><rp>)</rp></ruby>を取り巻いてしまいました。
+プシケは立ち処にその場にくずおれて、じっと身動もせず横になった有様は、眼を<ruby>瞑<rp>(</rp><rt>つむ</rt><rp>)</rp></ruby>った<ruby>死<rp>(</rp><rt>し</rt><rp>)</rp>屍<rp>(</rp><rt>かばね</rt><rp>)</rp></ruby>と何の相違もありません。</li>
+<li>さてクビードーはもう傷跡も固まり癒ってまいりましたので、長いこと大切なプシケと別れているのが我慢しきれなくなり、閉じ籠められてる寝部屋の上についた窓から脱け出すと、しばらくの休みに勢いをとり戻した翼に乗ってずんと進みも早く、プシケのところへ飛んで駈けつけました。
+そして丁寧におちなく<ruby>睡眠<rp>(</rp><rt>ねむり</rt><rp>)</rp></ruby>を<ruby>拭<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>きとって、またもとの小筐の中へ<ruby>蔵<rp>(</rp><rt>おさ</rt><rp>)</rp></ruby>めかえすと、痛みのない背中の矢の<ruby>尖端<rp>(</rp><rt>さき</rt><rp>)</rp></ruby>でプシケを呼び<ruby>醒<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>ましていいますには、</p>
+<p>「そらまた、可哀そうに、お前は今度も同じ<ruby>好奇心<rp>(</rp><rt>ものずき</rt><rp>)</rp></ruby>から死ぬところだったじゃないか。
+だけどともかくこれから、お母様の言いつけで使いにやられたその仕事を早く果しておしまい、あとのことは私が始末をつけるから。」</p>
+<p>こういうと身軽な良人は<ruby>翅<rp>(</rp><rt>はね</rt><rp>)</rp></ruby>に委せて（飛んで）ゆきましたので、プシケも左右なくヴェヌスの許へとプロセルビナの<ruby>購<rp>(</rp><rt>つかい</rt><rp>)</rp>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>を持って急ぐのでした。</li>
+<li value="22">その間にもクビードーは身にあまる<ruby>恋情<rp>(</rp><rt>おもい</rt><rp>)</rp></ruby>に<ruby>蝕<rp>(</rp><rt>むしば</rt><rp>)</rp></ruby>まれて<ruby>面<rp>(</rp><rt>おもて</rt><rp>)</rp></ruby>もやつれ、母親が<ruby>遽<rp>(</rp><rt>すみや</rt><rp>)</rp></ruby>かに本気になっているのに酷く恐れをなし、またいつもの手を出して、<ruby>翅<rp>(</rp><rt>はね</rt><rp>)</rp></ruby>の運びも早く天頂に<ruby>翔<rp>(</rp><rt>か</rt><rp>)</rp></ruby>け入り、大神ユッピテルの御前に、事の次第を<ruby>陳述<rp>(</rp><rt>のべたて</rt><rp>)</rp></ruby>てお助けを願いました。
+そうするとユッピテルは<ruby>愛の神<rp>(</rp><rt>クビードー</rt><rp>)</rp></ruby>の<ruby>顇<rp>(</rp><rt>ほっ</rt><rp>)</rp></ruby>ぺたを<ruby>抓<rp>(</rp><rt>つね</rt><rp>)</rp></ruby>ってその手を執り上げると<ruby>接吻<rp>(</rp><rt>くちづけ</rt><rp>)</rp></ruby>をし、徐ろにこうおっしゃいました。</li>
+<li>「息子どの、<ruby>貴神<rp>(</rp><rt>あなた</rt><rp>)</rp></ruby>はいつだって、神々が折角私に与えてくれた<ruby>栄誉<rp>(</rp><rt>ほまれ</rt><rp>)</rp></ruby>を尊重してくれたこともなく、<ruby>却<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>って<ruby>四大五元<rp>(</rp><rt>あらゆるもの</rt><rp>)</rp></ruby>の<ruby>法則<rp>(</rp><rt>おきて</rt><rp>)</rp></ruby>や<ruby>星辰<rp>(</rp><rt>ほし</rt><rp>)</rp></ruby>の<ruby>移行<rp>(</rp><rt>うごき</rt><rp>)</rp></ruby>をさえ処理する私のこの胸を、始終突き刺しては傷を負わせ、何度となく地上の愛欲に陥れては恥辱を与え、あのユーリアの法規にさえ<ruby>反<rp>(</rp><rt>そむ</rt><rp>)</rp></ruby>き公けの良俗にも<ruby>悖<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>って、愚にもつかぬ<ruby>情<rp>(</rp><rt>いろ</rt><rp>)</rp>沙<rp>(</rp><rt>ざ</rt><rp>)</rp>汰<rp>(</rp><rt>た</rt><rp>)</rp></ruby>で私の名誉や評判を<ruby>毀<rp>(</rp><rt>そこな</rt><rp>)</rp></ruby>ってばかりいる、しかも<ruby>蛇<rp>(</rp><rt>ながむし</rt><rp>)</rp></ruby>だの火だの野獣だの鳥だの野に群れる家畜だのに、<ruby>穢<rp>(</rp><rt>けが</rt><rp>)</rp></ruby>らわしくもこの私の<ruby>清麗<rp>(</rp><rt>きょらか</rt><rp>)</rp></ruby>な貌を変じさせてだ。
 しかしながら私のいつも程を得た態度を忘れずに、<ruby>貴神<rp>(</rp><rt>あなた</rt><rp>)</rp></ruby>がこの腕に抱かれて大きくなったことを考え、<ruby>貴神<rp>(</rp><rt>あなた</rt><rp>)</rp></ruby>の願いはそっくりと聞き届けてあげよう。
-が、それには忘れずによくこれからは自分の競争者に気をつけるのだぞ、でもし今度地上でもって<ruby>容色<rp>(</rp><rt>みめかたち</rt><rp>)</rp></ruby>の並勝れて美しい<ruby>乙女<rp>(</rp><rt>おとめ</rt><rp>)</rp></ruby>を見つけたならば、この親切の返答には、ぜひその娘で礼をして貰わねばならんな。」</td></tr>
-<tr><td><sup>２３</sup></td>
-<td>こうおっしゃるとメルクリウスに言いっけて神さま方をみんなすぐ会議にお寄せ集めになり、もしこの天上の集まりに欠席すれば百万<ruby>疋<rp>(</rp><rt>ひき</rt><rp>)</rp></ruby>の罰金をお取りになるよう<ruby>布<rp>(</rp><rt>ふ</rt><rp>)</rp>令<rp>(</rp><rt>れ</rt><rp>)</rp></ruby>させになりましたので、それが怖さに忽ち天上の<ruby>集合<rp>(</rp><rt>あつまり</rt><rp>)</rp>場<rp>(</rp><rt>ば</rt><rp>)</rp></ruby>は一杯になりました。
-そこでユッピテルは高らかな御台座にいと高く座を占めさせて、こう<ruby>御<rp>(</rp><rt>み</rt><rp>)</rp>詔<rp>(</rp><rt>ことのり</rt><rp>)</rp></ruby>なさいました。</td></tr>
-<tr><td></td>
-<td>「わが神々たちよ、伎芸神女ムーサたちの（司る天上の）名簿にあるほどの方々、皆々がよく御存じのとおりここにいる若者は私の手で大きくなった者である。
+が、それには忘れずによくこれからは自分の競争者に気をつけるのだぞ、でもし今度地上でもって<ruby>容色<rp>(</rp><rt>みめかたち</rt><rp>)</rp></ruby>の並勝れて美しい<ruby>乙女<rp>(</rp><rt>おとめ</rt><rp>)</rp></ruby>を見つけたならば、この親切の返答には、ぜひその娘で礼をして貰わねばならんな。」</li>
+<li value="23">こうおっしゃるとメルクリウスに言いっけて神さま方をみんなすぐ会議にお寄せ集めになり、もしこの天上の集まりに欠席すれば百万<ruby>疋<rp>(</rp><rt>ひき</rt><rp>)</rp></ruby>の罰金をお取りになるよう<ruby>布<rp>(</rp><rt>ふ</rt><rp>)</rp>令<rp>(</rp><rt>れ</rt><rp>)</rp></ruby>させになりましたので、それが怖さに忽ち天上の<ruby>集合<rp>(</rp><rt>あつまり</rt><rp>)</rp>場<rp>(</rp><rt>ば</rt><rp>)</rp></ruby>は一杯になりました。
+そこでユッピテルは高らかな御台座にいと高く座を占めさせて、こう<ruby>御<rp>(</rp><rt>み</rt><rp>)</rp>詔<rp>(</rp><rt>ことのり</rt><rp>)</rp></ruby>なさいました。</li>
+<li>「わが神々たちよ、伎芸神女ムーサたちの（司る天上の）名簿にあるほどの方々、皆々がよく御存じのとおりここにいる若者は私の手で大きくなった者である。
 私の考えではこの男の若い盛りの<ruby>血気<rp>(</rp><rt>けっき</rt><rp>)</rp></ruby>にはやる<ruby>行動<rp>(</rp><rt>ふるまい</rt><rp>)</rp></ruby>は、何かでもってぜひ制御する必要があると思うのだ、毎日のように<ruby>種<rp>(</rp><rt>さま</rt><rp>)</rp>々<rp>(</rp><rt>ざま</rt><rp>)</rp></ruby>な<ruby>情<rp>(</rp><rt>いろ</rt><rp>)</rp>沙<rp>(</rp><rt>ざ</rt><rp>)</rp>汰<rp>(</rp><rt>た</rt><rp>)</rp></ruby>だの、ありとあらゆる乱行の悪い噂を立てられるにも程々があるからな。
 それ故そんな機会をすべてもうなくしてしまって、結婚の足枷で青年の気儘気随を繫ぎ留めるのが一番好いことだろう。
 ところでこの男は一人の乙女を選んで、それと深いあいだになっている。
 だからその女と固い<ruby>契<rp>(</rp><rt>ちぎ</rt><rp>)</rp></ruby>りを結び、<ruby>末<rp>(</rp><rt>すえ</rt><rp>)</rp>永<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>そのプシケと添い遂げさせるのがよろしかろうではないか。」
-そしてヴェヌスの方へお顔を向けておっしゃるには、<br>
-「また娘よ、あなたもふさいだり、また立派な<ruby>血<rp>(</rp><rt>ち</rt><rp>)</rp>統<rp>(</rp><rt>すじ</rt><rp>)</rp></ruby>が人間との婚約で家柄を下げはしないかなど気遣われぬがよい、私が今この縁結びを不釣合いでなく、正式で国法にも適ったものにしてあげるから。」<br>
-そこですぐさまメルクリウスに言いつけてプシケを<ruby>拐<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>って天上へ連れて来させた上、不死の<ruby>神饌<rp>(</rp><rt>アンブロシア</rt><rp>)</rp></ruby>を<ruby>盃<rp>(</rp><rt>さかずき</rt><rp>)</rp></ruby>に満たして差し出し、<br>
-「プシケ、さあ飲んで<ruby>常<rp>(</rp><rt>とこ</rt><rp>)</rp>磐<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>の命を得よ、さすればもういつまでもそなたの手から<ruby>愛の神<rp>(</rp><rt>クビードー</rt><rp>)</rp></ruby>が傍へ外れることもなく、<ruby>未<rp>(</rp><rt>み</rt><rp>)</rp>来<rp>(</rp><rt>らい</rt><rp>)</rp>永<rp>(</rp><rt>えい</rt><rp>)</rp>劫<rp>(</rp><rt>ごう</rt><rp>)</rp></ruby>この縁の絶えることもあるまいから。」</td></tr>
-<tr><td><sup>２４</sup></td>
-<td>と見るうちに、御婚礼の御馳走が処も狭しといっぱいに並べ立てられました。
+そしてヴェヌスの方へお顔を向けておっしゃるには、</p>
+<p>「また娘よ、あなたもふさいだり、また立派な<ruby>血<rp>(</rp><rt>ち</rt><rp>)</rp>統<rp>(</rp><rt>すじ</rt><rp>)</rp></ruby>が人間との婚約で家柄を下げはしないかなど気遣われぬがよい、私が今この縁結びを不釣合いでなく、正式で国法にも適ったものにしてあげるから。」</p>
+<p>そこですぐさまメルクリウスに言いつけてプシケを<ruby>拐<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>って天上へ連れて来させた上、不死の<ruby>神饌<rp>(</rp><rt>アンブロシア</rt><rp>)</rp></ruby>を<ruby>盃<rp>(</rp><rt>さかずき</rt><rp>)</rp></ruby>に満たして差し出し、</p>
+<p>「プシケ、さあ飲んで<ruby>常<rp>(</rp><rt>とこ</rt><rp>)</rp>磐<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>の命を得よ、さすればもういつまでもそなたの手から<ruby>愛の神<rp>(</rp><rt>クビードー</rt><rp>)</rp></ruby>が傍へ外れることもなく、<ruby>未<rp>(</rp><rt>み</rt><rp>)</rp>来<rp>(</rp><rt>らい</rt><rp>)</rp>永<rp>(</rp><rt>えい</rt><rp>)</rp>劫<rp>(</rp><rt>ごう</rt><rp>)</rp></ruby>この縁の絶えることもあるまいから。」</li>
+<li value="24">と見るうちに、御婚礼の御馳走が処も狭しといっぱいに並べ立てられました。
 一番の上席には花婿がプシケを傍らにひきつけて座を占めますと、同様にユッピテルもお妃のユーノ―ともども腰をかけ、また<ruby>順<rp>(</rp><rt>じゅん</rt><rp>)</rp></ruby>ぐりにすべての神さま方も席にお<ruby>仙酒<rp>(</rp><rt>ネクタル</rt><rp>)</rp></ruby>ます。
-そのとき<ruby>仙酒<rp>(</rp><rt>ネクタル</rt><rp>)</rp></ruby>の<ruby>盞<rp>(</rp><rt>さかずき</rt><rp>)</rp></ruby>を、これはつまり神さま方の菊菊酒にあたるのですが、ユッピテルにはいつもの酒つぎのお<ruby>小<rp>(</rp><rt>こ</rt><rp>)</rp>姓<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby>のあの野山にいた<ruby>少年<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>が、他の神々にはまた<a href="#note_liber" title="酒神" id="liber"><ruby>酒神<rp>(</rp><rt>リーベル</rt><rp>)</rp></ruby></a>が<ruby>酌<rp>(</rp><rt>く</rt><rp>)</rp></ruby>んではさし、ヴルカーヌスがお料理の世話を致しますと<a href="#note_hora" title="季節神女ホラたち" id="hora">季節神女ホラたち</a>は薔薇や色々な花びらでそこら中を<ruby>紅<rp>(</rp><rt>くれない</rt><rp>)</rp></ruby>に照りかがやかせますし、<a href="#note_gratia" title="優美神女グラティアたち" id="gratia">優美神女グラティアたち</a>は<ruby>匂<rp>(</rp><rt>にお</rt><rp>)</rp></ruby>いのよい<ruby>薰<rp>(</rp><rt>くん</rt><rp>)</rp>香<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>をあたりに<ruby>撤<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>き<ruby>散<rp>(</rp><rt>ち</rt><rp>)</rp></ruby>らし、伎芸神女ムーサたちはまた<ruby>明<rp>(</rp><rt>めい</rt><rp>)</rp>々<rp>(</rp><rt>めい</rt><rp>)</rp></ruby>と歌を唱いあげる、アポローンが<ruby>七絃琴<rp>(</rp><rt>リーラ</rt><rp>)</rp></ruby>を奏でなすと、ヴェヌスも<ruby>妙<rp>(</rp><rt>たえ</rt><rp>)</rp></ruby>な音楽に<ruby>姿<rp>(</rp><rt>なり</rt><rp>)</rp></ruby>美しく舞いつれて踊り、その<ruby>地<rp>(</rp><rt>じ</rt><rp>)</rp>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>には手順を決めて伎芸神女ムーサたちが<ruby>団<rp>(</rp><rt>むれ</rt><rp>)</rp></ruby>を作って歌を唱ったり笛を吹いたりすれば、<ruby>羊人<rp>(</rp><rt>サテュルス</rt><rp>)</rp></ruby>や若い<ruby>牧神<rp>(</rp><rt>パーン</rt><rp>)</rp></ruby>は<ruby>笙<rp>(</rp><rt>ふえ</rt><rp>)</rp></ruby>を鳴らして合せます。</td></tr>
-<tr><td></td>
-<td>こういう風にしてプシケは正式に<ruby>愛の神<rp>(</rp><rt>クビードー</rt><rp>)</rp></ruby>の処へお嫁入りをしまして、やがて二人の間には月満ちて一人の娘が生まれる、これが『<ruby>喜悦<rp>(</rp><rt>よろこび</rt><rp>)</rp></ruby>』と人の呼ぶ女神でございます。</td></tr>
-</tbody>
-</table>
-<h2 class="blue">注釈</h2>
-<div class="notices blue">
-<p><a href="https://ja.wikipedia.org/wiki/ヌミディア" title="https://ja.wikipedia.org/wiki/ヌミディア" id="note_numidie"><ruby lang="ja">ヌミディア<rp>(</rp><rt lang="la">Numidia</rt><rp>)</rp></ruby lang="ja">州</a>は現在のアルジェリア北東部周辺に当たる。 <a href="#numidie" title="ヌミディア">戻る ↑</a></p>
-</div>
-<div class="notices blue">
-<p><a href="https://ja.wikipedia.org/wiki/ベルベル人" title="https://ja.wikipedia.org/wiki/ベルベル人" id="note_imazighen"><ruby lang="ja">アマーズィーグ<rp>(</rp><rt lang="ber">ⴰⵎⴰⵣⵉⵖ</rt><rp>)</rp></ruby lang="ja">族</a>は現在<a href="https://ja.wikipedia.org/wiki/ベルベル人" title="https://ja.wikipedia.org/wiki/ベルベル人">ベルベル族</a>を指しています。<a href="#imazighen" title="アマーズィーグ族">戻る ↑</a></p>
-</div>
-<div class="notices blue">
-<p><a href="#venus" title="ヴェヌス" id="note_venus">愛の女神</a>である<a href="https://ja.wikipedia.org/wiki/ウェヌス" title="https://ja.wikipedia.org/wiki/ウェヌス">ヴェヌス</a>のこと。<a href="#venus" title="ヴェヌス">戻る ↑</a></p>
-</div>
-<div class="notices blue">
-<p><a href="https://ja.wikipedia.org/wiki/パフォス" title="https://ja.wikipedia.org/wiki/パフォス" id="note_paphos"><ruby lang="ja">パフォス<rp>(</rp><rt lang="grc">Πάφος</rt><rp>)</rp></ruby lang="ja"></a>は、キュプロス島にあり、現在、キプロス共和国南西海岸の都市に当ります。<br>
-<a href="https://ja.wikipedia.org/wiki/クニドス" title="https://ja.wikipedia.org/wiki/クニドス"><ruby lang="ja">クニドス<rp>(</rp><rt lang="grc">Κνίδος</rt><rp>)</rp></ruby lang="ja"></a>は、アナトリア半島にあった古代ギリシアの都市に位置付けられています。<br>
-いずれも<a href="https://ja.wikipedia.org/wiki/ウェヌス" title="https://ja.wikipedia.org/wiki/ウェヌス">ヴェヌス</a>に縁の深い聖地パフォスはキュプロス島にあり。<a href="#paphos" title="パフォス">戻る ↑</a></p>
-</div>
-<div class="notices blue">
-<p><a href="#paris" title="パリス" id="note_paris">羊飼いの少年</a>は、<a href="https://ja.wikipedia.org/wiki/パリス" title="https://ja.wikipedia.org/wiki/パリス"><ruby lang="ja">トロイア<rp>(</rp><rt lang="grc">Τρωάς</rt><rp>)</rp></ruby lang="ja"></a>の王子<a href="https://ja.wikipedia.org/wiki/トローアス" title="https://ja.wikipedia.org/wiki/トローアス"><ruby lang="ja">パリス<rp>(</rp><rt lang="grc">Πάρις</rt><rp>)</rp></ruby lang="ja"></a>のこと、<ruby>所謂<rp>(</rp><rt>いわゆる</rt><rp>)</rp></ruby><a href="https://ja.wikipedia.org/wiki/カズ山" title="https://ja.wikipedia.org/wiki/カズ山"><ruby lang="ja">イダ<rp>(</rp><rt lang="grc">Ἴδη</rt><rp>)</rp></ruby lang="ja">山</a>上の<ruby>林檎<rp>(</rp><rt>リンゴ</rt><rp>)</rp></ruby>の審判である。<br>
-ユーノー、ミネルヴァ、ヴェヌスの三女神が（擬人化した女神）「争い」の贈った黄金の<ruby>林檎<rp>(</rp><rt>リンゴ</rt><rp>)</rp></ruby>を賞として美を争い、パリスの判定にまかせた物語。<a href="#paris" title="パリス">戻る ↑</a></p>
-</div>
-<div class="notices blue">
-<p>ここでは、<a href="#psyche" title="プシケ" id="note_psyche">プシケ</a>と呼ばれている姫。<br>
-ギリシャ神話では、古代ギリシャ語で、「<ruby lang="la">Psykhé<rp>(</rp><rt lang="grc">Ψυχή</rt><rp>)</rp></ruby>」（発音：プシューケー）があって、心魂、精神、心霊の義をしめしています。<br>
-同時に、古代ギリシャ語では、同じ言葉が、幼虫から翼の付いた変態のある生き物なのか、「蝶」の意味をも示しているため、女神として、蝶の羽でよく現わされていることになりました。<a href="#psyche" title="プシケ">戻る ↑</a></p>
-</div>
-<div class="notices blue">
-<p><a href="https://ja.wikipedia.org/wiki/サラーキア" title="https://ja.wikipedia.org/wiki/サラーキア" id="note_salacia">サラーキア</a>は古ローマの湖の女神で、ネプトゥーヌスの姫ともいわれる。<a href="#salacia" title="サラーキア">戻る ↑</a></p>
-</div>
-<div class="notices blue">
-<p><a href="#latin" title="ラテンの言葉で" id="note_latin">ラテンの言葉で</a>ラテン語でギリシャのアポロンのラテン語の神託の例は一つもありませんので、著者の皮肉だと思われます。<a href="#latin" title="ラテンの言葉で">戻る ↑</a></p>
-</div>
-<div class="notices blue">
-<p><a href="#flammeum" title="緋色の面帕" id="note_suie">黒い<ruby>煤<rp>(</rp><rt>すす</rt><rp>)</rp></ruby></a>ローマでは、結婚式では、お嫁の前の松明の明るさがめでたいことでした。松明が明るくなければ、あるいは、煙を出してしまえば、その結婚が不幸になると見なされていました。<a href="#flammeum" title="緋色の面帕">戻る ↑</a></p>
-</div>
-<div class="notices blue">
-<p><a href="https://ja.wikipedia.org/wiki/呉茂一" title="https://ja.wikipedia.org/wiki/呉茂一" id="note_flammeum"><ruby>緋<rp>(</rp><rt>ひ</rt><rp>)</rp>色<rp>(</rp><rt>いろ</rt><rp>)</rp></ruby>の<ruby>面帕<rp>(</rp><rt>かおぎね</rt><rp>)</rp></ruby></a>。ローマの結婚式典礼に基づき、お嫁が「<ruby lang="ja">フラメウム<rp>(</rp><rt lang="la">flammeum</rt><rp>)</rp></ruby lang="ja">」という<ruby>緋<rp>(</rp><rt>ひ</rt><rp>)</rp>色<rp>(</rp><rt>いろ</rt><rp>)</rp></ruby>の<ruby>面帕<rp>(</rp><rt>かおぎね</rt><rp>)</rp></ruby>で自分の涙を拭いています。</p>
-</div>
-<div class="notices blue">
-<p><a href="#apollo" title="ミレトスにおいでの神様" id="note_apollo"><ruby lang="ja">ミレトス<rp>(</rp><rt lang="grc">Μίλητος</rt><rp>)</rp></ruby lang="ja">においでの神様</a>はミレトス市の郊外<ruby lang="ja">ディディマ<rp>(</rp><rt lang="la">Didyma</rt><rp>)</rp></ruby>にあるアポロンの有名な社があったため、太陽の神の意が示されている。<a href="#apollo" title="ミレトスにおいでの神様">戻る ↑</a></p>
-</div>
-<div class="notices blue">
-<p><a href="#palaimon" title="パライモーン" id="note_palaimon"><ruby lang="ja">パライモーン<rp>(</rp><rt lang="grc">Παλαίμων</rt><rp>)</rp></ruby lang="ja"></a>ギリシャ伝説にある童形の海の神。<a href="#palaimon" title="パライモーン">戻る ↑</a></p>
-</div>
-<div class="notices blue">
-<p><a href="#funerailles" title="不仕合せな妹の名" id="note_funerailles">不仕合せな妹の名</a> ローマ時代では、お葬式典礼では、死者の体を葬るために持っていく前に、繰り返し何回も体に面して人が名前を呼ぶことにしていました。これで、亡くられた方にお別れを言われていました。<a href="#funerailles" title="不仕合せな妹の名">戻る ↑</a></p>
-</div>
+そのとき<ruby>仙酒<rp>(</rp><rt>ネクタル</rt><rp>)</rp></ruby>の<ruby>盞<rp>(</rp><rt>さかずき</rt><rp>)</rp></ruby>を、これはつまり神さま方の菊菊酒にあたるのですが、ユッピテルにはいつもの酒つぎのお<ruby>小<rp>(</rp><rt>こ</rt><rp>)</rp>姓<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby>のあの野山にいた<ruby>少年<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>が、他の神々にはまた<a href="#note_liber" title="酒神" id="liber"><ruby>酒神<rp>(</rp><rt>リーベル</rt><rp>)</rp></ruby></a>が<ruby>酌<rp>(</rp><rt>く</rt><rp>)</rp></ruby>んではさし、ヴルカーヌスがお料理の世話を致しますと<a href="#note_hora" title="季節神女ホラたち" id="hora">季節神女ホラたち</a>は薔薇や色々な花びらでそこら中を<ruby>紅<rp>(</rp><rt>くれない</rt><rp>)</rp></ruby>に照りかがやかせますし、<a href="#note_gratia" title="優美神女グラティアたち" id="gratia">優美神女グラティアたち</a>は<ruby>匂<rp>(</rp><rt>にお</rt><rp>)</rp></ruby>いのよい<ruby>薰<rp>(</rp><rt>くん</rt><rp>)</rp>香<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>をあたりに<ruby>撤<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>き<ruby>散<rp>(</rp><rt>ち</rt><rp>)</rp></ruby>らし、伎芸神女ムーサたちはまた<ruby>明<rp>(</rp><rt>めい</rt><rp>)</rp>々<rp>(</rp><rt>めい</rt><rp>)</rp></ruby>と歌を唱いあげる、アポローンが<ruby>七絃琴<rp>(</rp><rt>リーラ</rt><rp>)</rp></ruby>を奏でなすと、ヴェヌスも<ruby>妙<rp>(</rp><rt>たえ</rt><rp>)</rp></ruby>な音楽に<ruby>姿<rp>(</rp><rt>なり</rt><rp>)</rp></ruby>美しく舞いつれて踊り、その<ruby>地<rp>(</rp><rt>じ</rt><rp>)</rp>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>には手順を決めて伎芸神女ムーサたちが<ruby>団<rp>(</rp><rt>むれ</rt><rp>)</rp></ruby>を作って歌を唱ったり笛を吹いたりすれば、<ruby>羊人<rp>(</rp><rt>サテュルス</rt><rp>)</rp></ruby>や若い<ruby>牧神<rp>(</rp><rt>パーン</rt><rp>)</rp></ruby>は<ruby>笙<rp>(</rp><rt>ふえ</rt><rp>)</rp></ruby>を鳴らして合せます。</li>
+<li>こういう風にしてプシケは正式に<ruby>愛の神<rp>(</rp><rt>クビードー</rt><rp>)</rp></ruby>の処へお嫁入りをしまして、やがて二人の間には月満ちて一人の娘が生まれる、これが『<ruby>喜悦<rp>(</rp><rt>よろこび</rt><rp>)</rp></ruby>』と人の呼ぶ女神でございます。</li>
+</ol>
+
+<aside>
+
+<h3 class="blue">注釈</h3>
+
+<h4 id="note_numidie" class="blue note">ヌミディア</h4>
 
 <div class="notices blue">
-<p><a href="#machination" title="奸計（攻め道具を隠す小屋）の蔽" id="note_machination"><ruby>奸計<rp>(</rp><rt>わるだくみ</rt><rp>)</rp></ruby>（攻め道具を隠す小屋）の<ruby>蔽<rp>(</rp><rt>へ</rt><rp>)</rp></ruby></a>　両方にかけて言えるならん、両義とも通ずべし。この辺一体功城戦の比喩で、城門を開いたのは降服のしるし。<a href="#machination" title="奸計（攻め道具を隠す小屋）の蔽">戻る ↑</a></p>
+<p><a href="https://ja.wikipedia.org/wiki/ヌミディア" title="https://ja.wikipedia.org/wiki/ヌミディア"><ruby lang="ja">ヌミディア<rp>(</rp><rt lang="la">Numidia</rt><rp>)</rp></ruby>州</a>は現在のアルジェリア北東部周辺に当たる。 </p>
 </div>
 
+<footer>
+  <p class="puce"><a href="#numidie" title="ヌミディア">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_imazighen" class="blue note">アマーズィーグ</h4>
+
 <div class="notices blue">
-<p><a href="https://ja.wikipedia.org/wiki/ヘーラー" title="https://ja.wikipedia.org/wiki/ヘーラー" id="note_echo">山ずみの女神</a> <a href="https://ja.wikipedia.org/wiki/エーコー" title="https://ja.wikipedia.org/wiki/エーコー"><ruby lang="ja">エコー<rp>(</rp><rt lang="grc">Ἠχώ</rt><rp>)</rp></ruby></a>のことで、森のニンフ。<a href="https://ja.wikipedia.org/wiki/パーン_(ギリシア神話)" title="https://ja.wikipedia.org/wiki/パーン_(ギリシア神話)"><ruby lang="ja">パーン<rp>(</rp><rt lang="grc">Πάν</rt><rp>)</rp></ruby></a>を恐れて逃げ、姿のない声と化して、<ruby>谺<rp>(</rp><rt>こだま</rt><rp>)</rp></ruby>の意を示している呼称「<ruby>谺<rp>(</rp><rt>エコー</rt><rp>)</rp></ruby>」となりました。<a href="#echo" title="山ずみの女神">戻る ↑</a></p>
+<p><a href="https://ja.wikipedia.org/wiki/ベルベル人" title="https://ja.wikipedia.org/wiki/ベルベル人"><ruby lang="ja">アマーズィーグ<rp>(</rp><rt lang="ber">ⴰⵎⴰⵣⵉⵖ</rt><rp>)</rp></ruby>族</a>は現在<a href="https://ja.wikipedia.org/wiki/ベルベル人" title="https://ja.wikipedia.org/wiki/ベルベル人">ベルベル族</a>を指しています。</p>
 </div>
+
+<footer>
+  <p class="puce"><a href="#imazighen" title="アマーズィーグ族">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_venus" class="blue note">ヴェヌス</h4>
+
 <div class="notices blue">
-<p><a href="#mars" title="義理のお父様でも" id="note_mars">義理のお父様でも</a> 軍の神、<a href="https://ja.wikipedia.org/wiki/マールス" title="https://ja.wikipedia.org/wiki/マールス"><ruby lang="ja">マルス<rp>(</rp><rt lang="la">Mars</rt><rp>)</rp></ruby></a>のこと。<ruby>愛の神<rp>(</rp><rt>クピードー</rt><rp>)</rp></ruby>の父は明らかでなく<a href="https://ja.wikipedia.org/wiki/ユーピテル" title="https://ja.wikipedia.org/wiki/ユーピテル"><ruby lang="ja">ユッピテル<rp>(</rp><rt lang="la">Jupiter</rt><rp>)</rp></ruby></a>ともいう。<a href="#mars" title="義理のお父様でも">戻る ↑</a></p>
+<p><a href="#venus" title="ヴェヌス">愛の女神</a>である<a href="https://ja.wikipedia.org/wiki/ウェヌス" title="https://ja.wikipedia.org/wiki/ウェヌス">ヴェヌス</a>のこと。</p>
 </div>
+
+<footer>
+  <p class="puce"><a href="#venus" title="ヴェヌス">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_paphos" class="blue note">パフォス</h4>
+
 <div class="notices blue">
-<p><a href="#ceres" title="ケレースとユーノーの二方の女神" id="note_ceres"><ruby lang="ja">ケレース<rp>(</rp><rt lang="la">Ceres</rt><rp>)</rp></ruby>と<ruby lang="ja">ユーノー<rp>(</rp><rt lang="la">Juno</rt><rp>)</rp></ruby>の二方の女神</a> <a href="https://ja.wikipedia.org/wiki/ケレース" title="https://ja.wikipedia.org/wiki/ケレース"><ruby lang="ja">ケレース<rp>(</rp><rt lang="la">Ceres</rt><rp>)</rp></ruby></a>はギリシャの<a href="https://ja.wikipedia.org/wiki/デーメーテール" title="https://ja.wikipedia.org/wiki/デーメーテール"><ruby lang="ja">デメテル<rp>(</rp><rt lang="grc">Δημήτηρ</rt><rp>)</rp></ruby></a>で大地豊穣の女神。<a href="https://ja.wikipedia.org/wiki/ユーノー" title="https://ja.wikipedia.org/wiki/ユーノー"><ruby lang="ja">ユーノー<rp>(</rp><rt lang="la">Juno</rt><rp>)</rp></ruby></a>は<a href="https://ja.wikipedia.org/wiki/ヘーラー" title="https://ja.wikipedia.org/wiki/ヘーラー"><ruby lang="ja">ヘラ<rp>(</rp><rt lang="grc">Ἥρα</rt><rp>)</rp></ruby></a>で、<a href="https://ja.wikipedia.org/wiki/ユーピテル" title="https://ja.wikipedia.org/wiki/ユーピテル"><ruby lang="ja">ユッピテル<rp>(</rp><rt lang="la">Jupiter</rt><rp>)</rp></ruby></a>の妃。<a href="#note_ceres" title="ケレースとユーノーの二方の女神">戻る ↑</a></p>
-</div><div class="notices blue">
-<p><a href="#eleusis" title="エレウシスの聖い籠" id="note_eleusis">エレウシスの聖い籠</a>　<a href="https://ja.wikipedia.org/wiki/アッティカ" title="https://ja.wikipedia.org/wiki/アッティカ"><ruby lang="ja">アッティカ<rp>(</rp><rt lang="grc">Ἀττική</rt><rp>)</rp></ruby></a>の<a href="https://ja.wikipedia.org/wiki/エレウシス" title="https://ja.wikipedia.org/wiki/エレウシス"><ruby lang="ja">エレウシス<rp>(</rp><rt lang="grc">Ἐλευσίς</rt><rp>)</rp></ruby></a>は、<a href="https://ja.wikipedia.org/wiki/デーメーテール" title="https://ja.wikipedia.org/wiki/デーメーテール">デメテル</a>崇拝の本拠地。それには様々な秘儀が行われ、ここにいう編細工のは籠筒は聖食を容れるためのもの。<a href="#eleusis" title="エレウシスの聖い籠">戻る ↑</a></p>
+<p><a href="https://ja.wikipedia.org/wiki/パフォス" title="https://ja.wikipedia.org/wiki/パフォス"><ruby lang="ja">パフォス<rp>(</rp><rt lang="grc">Πάφος</rt><rp>)</rp></ruby></a>は、キュプロス島にあり、現在、キプロス共和国南西海岸の都市に当ります。</p>
+<p><a href="https://ja.wikipedia.org/wiki/クニドス" title="https://ja.wikipedia.org/wiki/クニドス"><ruby lang="ja">クニドス<rp>(</rp><rt lang="grc">Κνίδος</rt><rp>)</rp></ruby></a>は、アナトリア半島にあった古代ギリシアの都市に位置付けられています。</p>
+<p>いずれも<a href="https://ja.wikipedia.org/wiki/ウェヌス" title="https://ja.wikipedia.org/wiki/ウェヌス">ヴェヌス</a>に縁の深い聖地パフォスはキュプロス島にあり。</p>
 </div>
+
+<footer>
+  <p class="puce"><a href="#paphos" title="パフォス">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_paris" class="blue note">パリス</h4>
+
 <div class="notices blue">
-<p><a href="#cartage" title="高いカルタゴ" id="note_cartage">高いカルタゴ</a> <a href="https://ja.wikipedia.org/wiki/ネイト_(エジプト神話)#.E7.BF.92.E5.90.88.E9.96.A2.E4.BF.82" title="https://ja.wikipedia.org/wiki/ネイト_(エジプト神話)#.E7.BF.92.E5.90.88.E9.96.A2.E4.BF.82"><ruby lang="ja">カルターゴ―<rp>(</rp><rt lang="la">Carthāgō</rt><rp>)</rp></ruby>の女神<ruby lang="ja">タニト<rp>(</rp><rt lang="la">Tanit</rt><rp>)</rp></ruby></a>のこと。著者アプレイウスの出身である北アフリカの文化でエジプト神話から信仰されていた女神。ユーノーの権化と解され、「天上のユーノー」とも称せられた。<a href="#cartage" title="高いカルタゴ">戻る ↑</a></p>
+<p><a href="#paris" title="パリス">羊飼いの少年</a>は、<a href="https://ja.wikipedia.org/wiki/パリス" title="https://ja.wikipedia.org/wiki/パリス"><ruby lang="ja">トロイア<rp>(</rp><rt lang="grc">Τρωάς</rt><rp>)</rp></ruby></a>の王子<a href="https://ja.wikipedia.org/wiki/トローアス" title="https://ja.wikipedia.org/wiki/トローアス"><ruby lang="ja">パリス<rp>(</rp><rt lang="grc">Πάρις</rt><rp>)</rp></ruby></a>のこと、<ruby>所謂<rp>(</rp><rt>いわゆる</rt><rp>)</rp></ruby><a href="https://ja.wikipedia.org/wiki/カズ山" title="https://ja.wikipedia.org/wiki/カズ山"><ruby lang="ja">イダ<rp>(</rp><rt lang="grc">Ἴδη</rt><rp>)</rp></ruby>山</a>上の<ruby>林檎<rp>(</rp><rt>リンゴ</rt><rp>)</rp></ruby>の審判である。</p>
+<p>ユーノー、ミネルヴァ、ヴェヌスの三女神が（擬人化した女神）「争い」の贈った黄金の<ruby>林檎<rp>(</rp><rt>リンゴ</rt><rp>)</rp></ruby>を賞として美を争い、パリスの判定にまかせた物語。</p>
 </div>
+
+<footer>
+  <p class="puce"><a href="#paris" title="パリス">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_psyche" class="blue note">プシケ</h4>
+
 <div class="notices blue">
-<p><a href="https://ja.wikipedia.org/wiki/メルクリウス" title="https://ja.wikipedia.org/wiki/メルクリウス" id="note_mercurius"><ruby lang="ja">メルクリウス<rp>(</rp><rt lang="la">Mercurius</rt><rp>)</rp></ruby></a> <a href="https://ja.wikipedia.org/wiki/ヘルメース" title="https://ja.wikipedia.org/wiki/ヘルメース">即ち、ギリシャの<ruby lang="ja">ヘルメス<rp>(</rp><rt lang="grc">Ἑρμῆς</rt><rp>)</rp></ruby></a>で伝令通商の神。<a href="https://ja.wikipedia.org/wiki/アルカディア" title="https://ja.wikipedia.org/wiki/アルカディア"><ruby lang="ja">アルカディア<rp>(</rp><rt lang="grc">Ἀρκαδία</rt><rp>)</rp></ruby></a>の山中に生まれた。<a href="#mercurius" title="メルクリウス">戻る ↑</a></p>
+<p>ここでは、<a href="#psyche" title="プシケ">プシケ</a>と呼ばれている姫。</p>
+<p>ギリシャ神話では、古代ギリシャ語で、「<ruby lang="la">Psykhé<rp>(</rp><rt lang="grc">Ψυχή</rt><rp>)</rp></ruby>」（発音：プシューケー）があって、心魂、精神、心霊の義をしめしています。</p>
+<p>同時に、古代ギリシャ語では、同じ言葉が、幼虫から翼の付いた変態のある生き物なのか、「蝶」の意味をも示しているため、女神として、蝶の羽でよく現わされていることになりました。</p>
 </div>
+
+<footer>
+  <p class="puce"><a href="#psyche" title="プシケ">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_salacia" class="blue note">サラーキア</h4>
+
 <div class="notices blue">
-<p><a href="#murcia" title="ムルキアの円柱" id="note_murcia">ムルキアの円柱</a> ローマの<a href="https://ja.wikipedia.org/wiki/チルコ・マッシモ" title="https://ja.wikipedia.org/wiki/チルコ・マッシモ"><ruby lang="ja">キルクス<rp>(</rp><rt lang="la">Circus</rt><rp>)</rp>・<rp>(</rp><rt></rt><rp>)</rp>マクシムス<rp>(</rp><rt>Maximus</rt><rp>)</rp></ruby></a>の南にある女神<ruby lang="ja">ムルキア<rp>(</rp><rt lang="la">Murcia</rt><rp>)</rp></ruby>の社で、また<a href="https://ja.wikipedia.org/wiki/ヴェヌス#.E6.B7.BB.E3.81.88.E5.90.8D" title="https://ja.wikipedia.org/wiki/ヴェヌス#.E6.B7.BB.E3.81.88.E5.90.8D">ムルキアのヴェヌス</a>の名で、ヴェヌスの権化とも考えられた。<a href="#murcia" title="ムルキアの円柱">戻る ↑</a></p>
+<p><a href="https://ja.wikipedia.org/wiki/サラーキア" title="https://ja.wikipedia.org/wiki/サラーキア">サラーキア</a>は古ローマの湖の女神で、ネプトゥーヌスの姫ともいわれる。</p>
 </div>
+
+<footer>
+  <p class="puce"><a href="#salacia" title="サラーキア">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_latin" class="blue note">ラテンの言葉で</h4>
+
 <div class="notices blue">
-<p><a href="#aurora" title="払暁がほんのいま馬車" id="note_aurora"><ruby>払暁<rp>(</rp><rt>あけがた</rt><rp>)</rp></ruby>がほんのいま<ruby>馬車<rp>(</rp><rt>くるま</rt><rp>)</rp></ruby></a>　<ruby>暁<rp>(</rp><rt>あかつき</rt><rp>)</rp></ruby>の女神<a href="https://ja.wikipedia.org/wiki/アウローラ" title="https://ja.wikipedia.org/wiki/アウローラ"><ruby lang="ja">アウローラ<rp>(</rp><rt lang="la">Aurōra</rt><rp>)</rp></ruby></a>、天馬の車に乗る姿で<ruby>屡<rp>(</rp><rt>しば</rt><rp>)</rp>々<rp>(</rp><rt>しば</rt><rp>)</rp></ruby>表わされる。<a href="#aurora" title="払暁がほんのいま馬車">戻る ↑</a></p>
+<p><a href="#latin" title="ラテンの言葉で">ラテンの言葉で</a>ラテン語でギリシャのアポロンのラテン語の神託の例は一つもありませんので、著者の皮肉だと思われます。</p>
 </div>
+
+<footer>
+  <p class="puce"><a href="#latin" title="ラテンの言葉で">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_suie" class="blue note">緋色の面帕</h4>
+
 <div class="notices blue">
-<p><a href="#ganymede" title="払暁がほんのいま馬車" id="note_ganymede">ブリュギアの少年</a> <a href="https://ja.wikipedia.org/wiki/イリオス" title="https://ja.wikipedia.org/wiki/イリオス"><ruby lang="ja">トロイア<rp>(</rp><rt lang="grc">Τροία</rt><rp>)</rp></ruby></a>の王子<a href="https://ja.wikipedia.org/wiki/ガニュメーデース" title="https://ja.wikipedia.org/wiki/ガニュメーデース"><ruby lang="ja">ガニュメーデース<rp>(</rp><rt lang="grc">Γανυμήδης</rt><rp>)</rp></ruby></a>のこと。<br>
-<ruby lang="ja">ユッピテル<rp>(</rp><rt lang="la">Jupiter</rt><rp>)</rp></ruby>が鷲と化して、天上に<ruby>拉<rp>(</rp><rt>ら</rt><rp>)</rp>致<rp>(</rp><rt>ち</rt><rp>)</rp></ruby>して、その酒注ぎ役の少年とされた。<a href="#ganymede" title="払暁がほんのいま馬車">戻る ↑</a></p>
+<p><a href="#flammeum" title="緋色の面帕">黒い<ruby>煤<rp>(</rp><rt>すす</rt><rp>)</rp></ruby></a>ローマでは、結婚式では、お嫁の前の松明の明るさがめでたいことでした。松明が明るくなければ、あるいは、煙を出してしまえば、その結婚が不幸になると見なされていました。</p>
 </div>
+
+<footer>
+  <p class="puce"><a href="#flammeum" title="緋色の面帕">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_flammeum" class="blue note">緋色面帕</h4>
+
 <div class="notices blue">
-<p><a href="#sparte" title="ラケダイモーン" id="note_sparte">ラケダイモーン</a> <a href="https://ja.wikipedia.org/wiki/スパルタ" title="https://ja.wikipedia.org/wiki/スパルタ"><ruby lang="ja">スパルタ<rp>(</rp><rt lang="grc">Σπάρτα</rt><rp>)</rp></ruby></a>のこと。<a href="https://ja.wikipedia.org/wiki/マタパン岬" title="https://ja.wikipedia.org/wiki/マタパン岬"><ruby lang="ja">タイナロン<rp>(</rp><rt lang="grc">Ταίναρον</rt><rp>)</rp></ruby></a>岬に洞穴があり、冥界へ通ずると古より伝えられたこと、<a href="https://ja.wikipedia.org/wiki/ヴェルギリウス" title="https://ja.wikipedia.org/wiki/ヴェルギリウス"><ruby lang="ja">ヴェルギリウス<rp>(</rp><rt lang="grc">Virgilius</rt><rp>)</rp></ruby></a>、<a href="https://ja.wikipedia.org/wiki/ホラティウス" title="https://ja.wikipedia.org/wiki/ホラティウス"><ruby lang="ja">ホラティウス<rp>(</rp><rt lang="la">Horatius</rt><rp>)</rp></ruby></a>にも出ている。<a href="#sparte" title="ラケダイモーン">戻る ↑</a></p>
+<p><a href="https://ja.wikipedia.org/wiki/呉茂一" title="https://ja.wikipedia.org/wiki/呉茂一"><ruby>緋<rp>(</rp><rt>ひ</rt><rp>)</rp>色<rp>(</rp><rt>いろ</rt><rp>)</rp></ruby>の<ruby>面帕<rp>(</rp><rt>かおぎね</rt><rp>)</rp></ruby></a>。ローマの結婚式典礼に基づき、お嫁が「<ruby lang="ja">フラメウム<rp>(</rp><rt lang="la">flammeum</rt><rp>)</rp></ruby>」という<ruby>緋<rp>(</rp><rt>ひ</rt><rp>)</rp>色<rp>(</rp><rt>いろ</rt><rp>)</rp></ruby>の<ruby>面帕<rp>(</rp><rt>かおぎね</rt><rp>)</rp></ruby>で自分の涙を拭いています。</p>
 </div>
+
+<footer>
+  <p class="puce"><a href="#flammeum" title="緋色面帕">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_apollo" class="blue note">ミレトスにおいでの神様</h4>
+
 <div class="notices blue">
-<p><a href="#charon" title="カローン" id="note_charon"><ruby lang="ja">カローン<rp>(</rp><rt lang="grc">Χάρων</rt><rp>)</rp></ruby></a> <a href="https://ja.wikipedia.org/wiki/カローン" title="https://ja.wikipedia.org/wiki/カローン">詳しくは ↑</a> は三途の河<a href="https://ja.wikipedia.org/wiki/アケローオス" title="https://ja.wikipedia.org/wiki/アケローオス"><ruby lang="ja">アケロオス<rp>(</rp><rt lang="grc">Ἀχέλῷος</rt><rp>)</rp></ruby></a>の渡守。なお三首の犬とは<a href="https://ja.wikipedia.org/wiki/ケルベロス" title="https://ja.wikipedia.org/wiki/ケルベロス"><ruby lang="ja">ケルベルス<rp>(</rp><rt lang="la">Cerberus</rt><rp>)</rp></ruby></a>のこと。<a href="#charon" title="カローン">戻る ↑</a></p>
+<p><a href="#apollo" title="ミレトスにおいでの神様"><ruby lang="ja">ミレトス<rp>(</rp><rt lang="grc">Μίλητος</rt><rp>)</rp></ruby>においでの神様</a>はミレトス市の郊外<ruby lang="ja">ディディマ<rp>(</rp><rt lang="la">Didyma</rt><rp>)</rp></ruby>にあるアポロンの有名な社があったため、太陽の神の意が示されている。</p>
 </div>
+
+<footer>
+  <p class="puce"><a href="#apollo" title="ミレトスにおいでの神様">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_palaimon" class="blue note">パライモーン</h4>
+
 <div class="notices blue">
-<p><a href="#proserpine" title="プロセルビナ" id="note_proserpine"><ruby lang="ja">プロセルビナ<rp>(</rp><rt lang="la">Proserpina</rt><rp>)</rp></ruby></a>はギリシャの<a href="https://ja.wikipedia.org/wiki/ペルセポネー" title="https://ja.wikipedia.org/wiki/ペルセポネー"><ruby lang="ja">ペルセフォーネ―<rp>(</rp><rt lang="grc">Περσεφόνη</rt><rp>)</rp></ruby></a>。<br>
-<a href="https://ja.wikipedia.org/wiki/ケレース" title="https://ja.wikipedia.org/wiki/ケレース"><ruby lang="ja">ケレス<rp>(</rp><rt lang="la">Ceres</rt><rp>)</rp></ruby></a>の娘、ここでは、「<ruby lang="ja">ディース<rp>(</rp><rt lang="la">Dis</rt><rp>)</rp></ruby>」と呼ばれている冥界の王の<a href="https://ja.wikipedia.org/wiki/プルートス" title="https://ja.wikipedia.org/wiki/プルートス"><ruby lang="ja">プルトス<rp>(</rp><rt lang="grc">Πλοῦτος</rt><rp>)</rp></ruby></a>の后。<a href="#proserpine" title="プロセルビナ">戻る ↑</a></p>
+<p><a href="#palaimon" title="パライモーン"><ruby lang="ja">パライモーン<rp>(</rp><rt lang="grc">Παλαίμων</rt><rp>)</rp></ruby></a>ギリシャ伝説にある童形の海の神。</p>
 </div>
+
+<footer>
+  <p class="puce"><a href="#palaimon" title="パライモーン">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_funerailles" class="blue note">不仕合せな妹の名</h4>
+
 <div class="notices blue">
-<p><a href="#liber" title="酒神" id="note_liber"><ruby>酒神<rp>(</rp><rt>リーベル</rt><rp>)</rp></ruby></a>はローマの<a href="https://ja.wikipedia.org/wiki/バックス_(ローマ神話)" title="https://ja.wikipedia.org/wiki/バックス_(ローマ神話)"><ruby lang="ja">バックス<rp>(</rp><rt lang="la">Bacchus</rt><rp>)</rp></ruby></a>の異名で、ギリシャ神話の<a href="https://ja.wikipedia.org/wiki/ディオニューソス" title="https://ja.wikipedia.org/wiki/ディオニューソス"><ruby lang="ja">ディオニューソス<rp>(</rp><rt lang="grc">Διόνυσος</rt><rp>)</rp></ruby></a>のラテン名、<a href="https://ja.wikipedia.org/wiki/ウゥルカーヌス" title="https://ja.wikipedia.org/wiki/ウゥルカーヌス"><ruby lang="ja">ヴルカーヌス<rp>(</rp><rt lang="la">Vulcānus</rt><rp>)</rp></ruby></a>は火と鍛治の神だから料理にしたものだろう。<a href="#liber" title="酒神">戻る ↑</a></p>
+<p><a href="#funerailles" title="不仕合せな妹の名">不仕合せな妹の名</a> ローマ時代では、お葬式典礼では、死者の体を葬るために持っていく前に、繰り返し何回も体に面して人が名前を呼ぶことにしていました。これで、亡くられた方にお別れを言われていました。</p>
 </div>
+
+<footer>
+  <p class="puce"><a href="#funerailles" title="不仕合せな妹の名">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_machination" class="blue note">奸計</h4>
+
+
 <div class="notices blue">
-<p><a href="#hora" title="季節神女ホラたち" id="note_hora">季節神女<ruby lang="ja">ホラ<rp>(</rp><rt lang="la">Hora</rt><rp>)</rp></ruby>たち</a>は、次級の女神。<a href="https://francois-vidit.com/docs/ja/versailles/trianon/flore#note_hora" title="https://francois-vidit.com/docs/ja/versailles/trianon/flore#note_hora">詳しくは</a> <a href="#hora" title="季節神女ホラたち">戻る ↑</a></p>
+<p><a href="#machination" title="奸計（攻め道具を隠す小屋）の蔽"><ruby>奸計<rp>(</rp><rt>わるだくみ</rt><rp>)</rp></ruby>（攻め道具を隠す小屋）の<ruby>蔽<rp>(</rp><rt>へ</rt><rp>)</rp></ruby></a>　両方にかけて言えるならん、両義とも通ずべし。この辺一体功城戦の比喩で、城門を開いたのは降服のしるし。</p>
 </div>
+
+<footer>
+  <p class="puce"><a href="#machination" title="奸計（攻め道具を隠す小屋）の蔽">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_echo" class="blue note">エコー</h4>
+
+
 <div class="notices blue">
-<p><a href="#gratia" title="優美神女グラティアたち" id="note_gratia">優美神女<ruby lang="ja">グラティア<rp>(</rp><rt lang="la">Gratia</rt><rp>)</rp></ruby>たち</a>は、ギリシャ名で「<a href="https://francois-vidit.com/docs/ja/versailles/trianon/flore#note_charis" title="https://francois-vidit.com/docs/ja/versailles/trianon/flore#note_charis">女神<ruby lang="ja">カリス<rp>(</rp><rt lang="la">Charis</rt><rp>)</rp></ruby>たち</a>」で、次級の女神。<a href="#gratia" title="優美神女グラティアたち">戻る ↑</a></p>
+<p><a href="https://ja.wikipedia.org/wiki/ヘーラー" title="https://ja.wikipedia.org/wiki/ヘーラー">山ずみの女神</a> <a href="https://ja.wikipedia.org/wiki/エーコー" title="https://ja.wikipedia.org/wiki/エーコー"><ruby lang="ja">エコー<rp>(</rp><rt lang="grc">Ἠχώ</rt><rp>)</rp></ruby></a>のことで、森のニンフ。<a href="https://ja.wikipedia.org/wiki/パーン_(ギリシア神話)" title="https://ja.wikipedia.org/wiki/パーン_(ギリシア神話)"><ruby lang="ja">パーン<rp>(</rp><rt lang="grc">Πάν</rt><rp>)</rp></ruby></a>を恐れて逃げ、姿のない声と化して、<ruby>谺<rp>(</rp><rt>こだま</rt><rp>)</rp></ruby>の意を示している呼称「<ruby>谺<rp>(</rp><rt>エコー</rt><rp>)</rp></ruby>」となりました。</p>
 </div>
+
+<footer>
+  <p class="puce"><a href="#echo" title="山ずみの女神">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_mars" class="blue note">マルス</h4>
+
+<div class="notices blue">
+<p><a href="#mars" title="義理のお父様でも">義理のお父様でも</a> 軍の神、<a href="https://ja.wikipedia.org/wiki/マールス" title="https://ja.wikipedia.org/wiki/マールス"><ruby lang="ja">マルス<rp>(</rp><rt lang="la">Mars</rt><rp>)</rp></ruby></a>のこと。<ruby>愛の神<rp>(</rp><rt>クピードー</rt><rp>)</rp></ruby>の父は明らかでなく<a href="https://ja.wikipedia.org/wiki/ユーピテル" title="https://ja.wikipedia.org/wiki/ユーピテル"><ruby lang="ja">ユッピテル<rp>(</rp><rt lang="la">Jupiter</rt><rp>)</rp></ruby></a>ともいう。</p>
+</div>
+
+<footer>
+  <p class="puce"><a href="#mars" title="義理のお父様でも">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_ceres" class="blue note">ケレース</h4>
+
+<div class="notices blue">
+<p><a href="#ceres" title="ケレースとユーノーの二方の女神"><ruby lang="ja">ケレース<rp>(</rp><rt lang="la">Ceres</rt><rp>)</rp></ruby>と<ruby lang="ja">ユーノー<rp>(</rp><rt lang="la">Juno</rt><rp>)</rp></ruby>の二方の女神</a> <a href="https://ja.wikipedia.org/wiki/ケレース" title="https://ja.wikipedia.org/wiki/ケレース"><ruby lang="ja">ケレース<rp>(</rp><rt lang="la">Ceres</rt><rp>)</rp></ruby></a>はギリシャの<a href="https://ja.wikipedia.org/wiki/デーメーテール" title="https://ja.wikipedia.org/wiki/デーメーテール"><ruby lang="ja">デメテル<rp>(</rp><rt lang="grc">Δημήτηρ</rt><rp>)</rp></ruby></a>で大地豊穣の女神。<a href="https://ja.wikipedia.org/wiki/ユーノー" title="https://ja.wikipedia.org/wiki/ユーノー"><ruby lang="ja">ユーノー<rp>(</rp><rt lang="la">Juno</rt><rp>)</rp></ruby></a>は<a href="https://ja.wikipedia.org/wiki/ヘーラー" title="https://ja.wikipedia.org/wiki/ヘーラー"><ruby lang="ja">ヘラ<rp>(</rp><rt lang="grc">Ἥρα</rt><rp>)</rp></ruby></a>で、<a href="https://ja.wikipedia.org/wiki/ユーピテル" title="https://ja.wikipedia.org/wiki/ユーピテル"><ruby lang="ja">ユッピテル<rp>(</rp><rt lang="la">Jupiter</rt><rp>)</rp></ruby></a>の妃。</p>
+</div>
+
+<footer>
+  <p class="puce"><a href="#note_ceres" title="ケレースとユーノーの二方の女神">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_eleusis" class="blue note">エレウシスの聖い籠</h4>
+
+<div class="notices blue">
+<p><a href="#eleusis" title="エレウシスの聖い籠">エレウシスの聖い籠</a>　<a href="https://ja.wikipedia.org/wiki/アッティカ" title="https://ja.wikipedia.org/wiki/アッティカ"><ruby lang="ja">アッティカ<rp>(</rp><rt lang="grc">Ἀττική</rt><rp>)</rp></ruby></a>の<a href="https://ja.wikipedia.org/wiki/エレウシス" title="https://ja.wikipedia.org/wiki/エレウシス"><ruby lang="ja">エレウシス<rp>(</rp><rt lang="grc">Ἐλευσίς</rt><rp>)</rp></ruby></a>は、<a href="https://ja.wikipedia.org/wiki/デーメーテール" title="https://ja.wikipedia.org/wiki/デーメーテール">デメテル</a>崇拝の本拠地。それには様々な秘儀が行われ、ここにいう編細工のは籠筒は聖食を容れるためのもの。</p>
+</div>
+
+<footer>
+  <p class="puce"><a href="#eleusis" title="エレウシスの聖い籠">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_cartage" class="blue note">カルターゴ―</h4>
+
+<div class="notices blue">
+<p><a href="#cartage" title="高いカルタゴ">高いカルタゴ</a> <a href="https://ja.wikipedia.org/wiki/ネイト_(エジプト神話)#.E7.BF.92.E5.90.88.E9.96.A2.E4.BF.82" title="https://ja.wikipedia.org/wiki/ネイト_(エジプト神話)#.E7.BF.92.E5.90.88.E9.96.A2.E4.BF.82"><ruby lang="ja">カルターゴ―<rp>(</rp><rt lang="la">Carthāgō</rt><rp>)</rp></ruby>の女神<ruby lang="ja">タニト<rp>(</rp><rt lang="la">Tanit</rt><rp>)</rp></ruby></a>のこと。著者アプレイウスの出身である北アフリカの文化でエジプト神話から信仰されていた女神。ユーノーの権化と解され、「天上のユーノー」とも称せられた。</p>
+</div>
+
+<footer>
+  <p class="puce"><a href="#cartage" title="高いカルタゴ">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_mercurius" class="blue note">メルクリウス</h4>
+
+<div class="notices blue">
+<p><a href="https://ja.wikipedia.org/wiki/メルクリウス" title="https://ja.wikipedia.org/wiki/メルクリウス"><ruby lang="ja">メルクリウス<rp>(</rp><rt lang="la">Mercurius</rt><rp>)</rp></ruby></a> <a href="https://ja.wikipedia.org/wiki/ヘルメース" title="https://ja.wikipedia.org/wiki/ヘルメース">即ち、ギリシャの<ruby lang="ja">ヘルメス<rp>(</rp><rt lang="grc">Ἑρμῆς</rt><rp>)</rp></ruby></a>で伝令通商の神。<a href="https://ja.wikipedia.org/wiki/アルカディア" title="https://ja.wikipedia.org/wiki/アルカディア"><ruby lang="ja">アルカディア<rp>(</rp><rt lang="grc">Ἀρκαδία</rt><rp>)</rp></ruby></a>の山中に生まれた。</p>
+</div>
+
+<footer>
+  <p class="puce"><a href="#mercurius" title="メルクリウス">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_murcia" class="blue note">ムルキアの円柱</h4>
+
+<div class="notices blue">
+<p><a href="#murcia" title="ムルキアの円柱">ムルキアの円柱</a> ローマの<a href="https://ja.wikipedia.org/wiki/チルコ・マッシモ" title="https://ja.wikipedia.org/wiki/チルコ・マッシモ"><ruby lang="ja">キルクス<rp>(</rp><rt lang="la">Circus</rt><rp>)</rp>・<rp>(</rp><rt></rt><rp>)</rp>マクシムス<rp>(</rp><rt>Maximus</rt><rp>)</rp></ruby></a>の南にある女神<ruby lang="ja">ムルキア<rp>(</rp><rt lang="la">Murcia</rt><rp>)</rp></ruby>の社で、また<a href="https://ja.wikipedia.org/wiki/ヴェヌス#.E6.B7.BB.E3.81.88.E5.90.8D" title="https://ja.wikipedia.org/wiki/ヴェヌス#.E6.B7.BB.E3.81.88.E5.90.8D">ムルキアのヴェヌス</a>の名で、ヴェヌスの権化とも考えられた。</p>
+</div>
+
+<footer>
+  <p class="puce"><a href="#murcia" title="ムルキアの円柱">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_aurora" class="blue note">払暁がほんのいま馬車</h4>
+
+<div class="notices blue">
+<p><a href="#aurora" title="払暁がほんのいま馬車"><ruby>払暁<rp>(</rp><rt>あけがた</rt><rp>)</rp></ruby>がほんのいま<ruby>馬車<rp>(</rp><rt>くるま</rt><rp>)</rp></ruby></a>　<ruby>暁<rp>(</rp><rt>あかつき</rt><rp>)</rp></ruby>の女神<a href="https://ja.wikipedia.org/wiki/アウローラ" title="https://ja.wikipedia.org/wiki/アウローラ"><ruby lang="ja">アウローラ<rp>(</rp><rt lang="la">Aurōra</rt><rp>)</rp></ruby></a>、天馬の車に乗る姿で<ruby>屡<rp>(</rp><rt>しば</rt><rp>)</rp>々<rp>(</rp><rt>しば</rt><rp>)</rp></ruby>表わされる。</p>
+</div>
+
+<footer>
+  <p class="puce"><a href="#aurora" title="払暁がほんのいま馬車">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_ganymede" class="blue note">ガニュメーデース</h4>
+
+<div class="notices blue">
+<p><a href="#ganymede" title="払暁がほんのいま馬車">ブリュギアの少年</a> <a href="https://ja.wikipedia.org/wiki/イリオス" title="https://ja.wikipedia.org/wiki/イリオス"><ruby lang="ja">トロイア<rp>(</rp><rt lang="grc">Τροία</rt><rp>)</rp></ruby></a>の王子<a href="https://ja.wikipedia.org/wiki/ガニュメーデース" title="https://ja.wikipedia.org/wiki/ガニュメーデース"><ruby lang="ja">ガニュメーデース<rp>(</rp><rt lang="grc">Γανυμήδης</rt><rp>)</rp></ruby></a>のこと。</p>
+<p><ruby lang="ja">ユッピテル<rp>(</rp><rt lang="la">Jupiter</rt><rp>)</rp></ruby>が鷲と化して、天上に<ruby>拉<rp>(</rp><rt>ら</rt><rp>)</rp>致<rp>(</rp><rt>ち</rt><rp>)</rp></ruby>して、その酒注ぎ役の少年とされた。</p>
+</div>
+
+<footer>
+  <p class="puce"><a href="#ganymede" title="払暁がほんのいま馬車">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_sparte" class="blue note">スパルタ</h4>
+
+<div class="notices blue">
+<p><a href="#sparte" title="ラケダイモーン">ラケダイモーン</a> <a href="https://ja.wikipedia.org/wiki/スパルタ" title="https://ja.wikipedia.org/wiki/スパルタ"><ruby lang="ja">スパルタ<rp>(</rp><rt lang="grc">Σπάρτα</rt><rp>)</rp></ruby></a>のこと。<a href="https://ja.wikipedia.org/wiki/マタパン岬" title="https://ja.wikipedia.org/wiki/マタパン岬"><ruby lang="ja">タイナロン<rp>(</rp><rt lang="grc">Ταίναρον</rt><rp>)</rp></ruby></a>岬に洞穴があり、冥界へ通ずると古より伝えられたこと、<a href="https://ja.wikipedia.org/wiki/ヴェルギリウス" title="https://ja.wikipedia.org/wiki/ヴェルギリウス"><ruby lang="ja">ヴェルギリウス<rp>(</rp><rt lang="grc">Virgilius</rt><rp>)</rp></ruby></a>、<a href="https://ja.wikipedia.org/wiki/ホラティウス" title="https://ja.wikipedia.org/wiki/ホラティウス"><ruby lang="ja">ホラティウス<rp>(</rp><rt lang="la">Horatius</rt><rp>)</rp></ruby></a>にも出ている。</p>
+</div>
+
+<footer>
+  <p class="puce"><a href="#sparte" title="ラケダイモーン">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_charon" class="blue note">カローン</h4>
+
+<div class="notices blue">
+<p><a href="#charon" title="カローン" id="note_charon"><ruby lang="ja">カローン<rp>(</rp><rt lang="grc">Χάρων</rt><rp>)</rp></ruby></a> <a href="https://ja.wikipedia.org/wiki/カローン" title="https://ja.wikipedia.org/wiki/カローン">詳しくは&nbsp↩</a> は三途の河<a href="https://ja.wikipedia.org/wiki/アケローオス" title="https://ja.wikipedia.org/wiki/アケローオス"><ruby lang="ja">アケロオス<rp>(</rp><rt lang="grc">Ἀχέλῷος</rt><rp>)</rp></ruby></a>の渡守。なお三首の犬とは<a href="https://ja.wikipedia.org/wiki/ケルベロス" title="https://ja.wikipedia.org/wiki/ケルベロス"><ruby lang="ja">ケルベルス<rp>(</rp><rt lang="la">Cerberus</rt><rp>)</rp></ruby></a>のこと。</p>
+</div>
+
+<footer>
+  <p class="puce"><a href="#charon" title="カローン">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_proserpine" class="blue note">プロセルビナ</h4>
+
+<div class="notices blue">
+<p><a href="#proserpine" title="プロセルビナ"><ruby lang="ja">プロセルビナ<rp>(</rp><rt lang="la">Proserpina</rt><rp>)</rp></ruby></a>はギリシャの<a href="https://ja.wikipedia.org/wiki/ペルセポネー" title="https://ja.wikipedia.org/wiki/ペルセポネー"><ruby lang="ja">ペルセフォーネ―<rp>(</rp><rt lang="grc">Περσεφόνη</rt><rp>)</rp></ruby></a>。</p>
+<p><a href="https://ja.wikipedia.org/wiki/ケレース" title="https://ja.wikipedia.org/wiki/ケレース"><ruby lang="ja">ケレス<rp>(</rp><rt lang="la">Ceres</rt><rp>)</rp></ruby></a>の娘、ここでは、「<ruby lang="ja">ディース<rp>(</rp><rt lang="la">Dis</rt><rp>)</rp></ruby>」と呼ばれている冥界の王の<a href="https://ja.wikipedia.org/wiki/プルートス" title="https://ja.wikipedia.org/wiki/プルートス"><ruby lang="ja">プルトス<rp>(</rp><rt lang="grc">Πλοῦτος</rt><rp>)</rp></ruby></a>の后。</p>
+</div>
+
+<footer>
+  <p class="puce"><a href="#proserpine" title="プロセルビナ">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_liber" class="blue note">酒神</h4>
+
+<div class="notices blue">
+<p><a href="#liber" title="酒神"><ruby>酒神<rp>(</rp><rt>リーベル</rt><rp>)</rp></ruby></a>はローマの<a href="https://ja.wikipedia.org/wiki/バックス_(ローマ神話)" title="https://ja.wikipedia.org/wiki/バックス_(ローマ神話)"><ruby lang="ja">バックス<rp>(</rp><rt lang="la">Bacchus</rt><rp>)</rp></ruby></a>の異名で、ギリシャ神話の<a href="https://ja.wikipedia.org/wiki/ディオニューソス" title="https://ja.wikipedia.org/wiki/ディオニューソス"><ruby lang="ja">ディオニューソス<rp>(</rp><rt lang="grc">Διόνυσος</rt><rp>)</rp></ruby></a>のラテン名、<a href="https://ja.wikipedia.org/wiki/ウゥルカーヌス" title="https://ja.wikipedia.org/wiki/ウゥルカーヌス"><ruby lang="ja">ヴルカーヌス<rp>(</rp><rt lang="la">Vulcānus</rt><rp>)</rp></ruby></a>は火と鍛治の神だから料理にしたものだろう。</p>
+</div>
+
+<footer>
+  <p class="puce"><a href="#liber" title="酒神">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_hora" class="blue note">季節神女ホラたち</h4>
+
+<div class="notices blue">
+<p><a href="#hora" title="季節神女ホラたち">季節神女<ruby lang="ja">ホラ<rp>(</rp><rt lang="la">Hora</rt><rp>)</rp></ruby>たち</a>は、次級の女神。<a href="https://francois-vidit.com/docs/ja/versailles/trianon/flore#note_hora" title="https://francois-vidit.com/docs/ja/versailles/trianon/flore#note_hora">詳しくは</a> </p>
+</div>
+
+<footer>
+  <p class="puce"><a href="#hora" title="季節神女ホラたち">文書に戻る&nbsp↩</a></p>
+</footer>
+
+<h4 id="note_gratia" class="blue note">優美神女グラティアたち</h4>
+
+<div class="notices blue">
+<p><a href="#gratia" title="優美神女グラティアたち">優美神女<ruby lang="ja">グラティア<rp>(</rp><rt lang="la">Gratia</rt><rp>)</rp></ruby>たち</a>は、ギリシャ名で「<a href="https://francois-vidit.com/docs/ja/versailles/trianon/flore#note_charis" title="https://francois-vidit.com/docs/ja/versailles/trianon/flore#note_charis">女神<ruby lang="ja">カリス<rp>(</rp><rt lang="la">Charis</rt><rp>)</rp></ruby>たち</a>」で、次級の女神。</p>
+</div>
+
+<footer>
+  <p class="puce"><a href="#gratia" title="優美神女グラティアたち">文書に戻る&nbsp↩</a></p>
+</footer>
+
+
+</aside>
+
+</article>
 `;
 
 
