@@ -219,7 +219,7 @@
     margin-top: 1em;
     margin-block-end: 1em;
     margin-block-start: 1em;
-    margin-inline-start: 153px;
+    margin-inline-start: 163px;
   }
 
   :global(ol.doc-three-rows li::marker) {
