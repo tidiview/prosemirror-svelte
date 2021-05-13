@@ -8,7 +8,7 @@
 
 <article>
 
-<p><time>２０２０年２月１２日</time></p>
+<p><time datetime="2020-02-12">２０２０年２月１２日</time></p>
 
 <h1 class="blue">ディオティマによる愛</h1>
 
