@@ -13,8 +13,8 @@
 <h1 class="red">「<cite>世界の多数性についての対話</cite>」の第一の夜</h1>
 
 <div class="notices red">
-<p>天文学が<time datetime="1681">１６８１年</time>に<ruby>彗<rp>(</rp><rt>すい</rt><rp>)</rp>星<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>の後に流行した時に<ruby lang="ja">フォントネル<rp>(</rp><rt lang="fr">Fontenelle</rt><rp>)</rp></ruby>に出版された
-「<cite><ruby lang="ja">世界の多数性についての対話<rp>(</rp><rt lang="fr">Entretiens&#160;sur&#160;la&#160;pluralité&#160;des&#160;mondes</rt><rp>)</rp></ruby></cite>」は、世界のそれぞれの体系についての説明です。</p>
+<p>天文学が<time datetime="1681">１６８１年</time>に<ruby>彗<rp>（</rp><rt>すい</rt><rp>）</rp>星<rp>（</rp><rt>せい</rt><rp>）</rp></ruby>の後に流行した時に<ruby lang="ja">フォントネル<rp>（</rp><rt lang="fr">Fontenelle</rt><rp>）</rp></ruby>に出版された
+「<cite><ruby lang="ja">世界の多数性についての対話<rp>（</rp><rt lang="fr">Entretiens&#160;sur&#160;la&#160;pluralité&#160;des&#160;mondes</rt><rp>）</rp></ruby></cite>」は、世界のそれぞれの体系についての作品です。</p>
 <p>「教えると同時に楽しませる」ために、フォントネルは、最新の天文学の発見を優雅なる対話で紹介している。
 星空の下で伯爵夫人の庭園で行なわれる六つの散策途中、
 ある「哲学者」、いわゆる、当時の辞典での定義において、「科学の勉強に入念して、原因と参考によって効果を知ることに努める人」は、才気に満ちた若い侯爵婦人と話し合って、
@@ -28,7 +28,7 @@
 フォントネルにとって、宇宙の中では、絶対的視点を決めるのは不可能です。</p>
 <p class="conversation">「私たちは何でも判断したいし、常に悪い視点にさせれている」。</p>
 <p>第一講演を切っ掛けに、哲学者はオペラの光景と自然とを同一視しながら、長々と繰り広げています。
-デカルトの機械的哲学の促進を行なうことである。当時にオペラが本質的に「<a id="renvoi-machine" href="#machine" title="#machine">機械</a>」の芝居でしたから。</p>
+デカルトの機械的哲学の促進を行なうことである。当時にオペラが本質的に「<a id="renvoi-machine" href="#machine" title="#machine"><ruby>機械<rp>（</rp><rt>マシヌ</rt><rp>）</rp></ruby></a>」の芝居でしたから。</p>
 </div>
 
 <h2 class="red">「<cite>世界の多数性についての対話</cite>」の第一章から抜粋した文書、「第一の夜」</h2>
@@ -47,7 +47,7 @@
 <p>そしてまた他の者によれば、《パエトーンは飛ぶように作られておるものではないが、舞台の上方を空虚のままにしておくよりは、 飛ぶほうがよいと思うのだ。このような夢想のたぐいは、まだまだいくらでもありまして、これでもって古代全体の評判が損なわれなかったのが不思議なくらいですよ。</p>
 <p>そして最後に、デカルトと何人かの現代人がやってきて、こう言ったのです。《パエトーンが上昇するのは、綱が彼を引っ張っ ていて、その代わりに、彼より重い重りが下降しているからです》。</p>
 <p>こうして現在では、もはや物体は、他の物体に引っ張られる、あるいはむしろ、他の物体に押されることがなければ、動きはしないと誰もが信じています。またそれが上昇、下降するのは、ただただ、重りかバネのせいであるということもね。そして、もしあるがままの自然が見えている人があるとすれば、その人は、いわば オペラの舞台の裏を見ているようなものなのです」。</p>
-<p>「とすると」と侯爵夫人が言った。「哲学は今では大へん<ruby>機械的<rp>(</rp><rt>メカニック</rt><rp>)</rp></ruby>になっているのですね」。
+<p>「とすると」と侯爵夫人が言った。「哲学は今では大へん<ruby>機械的<rp>（</rp><rt>メカニック</rt><rp>）</rp></ruby>になっているのですね」。
 「とても機械的になって、そのうちみんな恥ずかしく思うようになりはしないかと思うくらいで すよ」と私は答えた。</p>
 <p>「今日では、みんな宇宙は時計を大きくしたものだと思いたがっています。そこではすべてが規則正しい運動で運ばれていき、その規則正しい運動は、もろもろの部分の配列によって生まれるのだとね。</p>
 <p>本当のことをおっしゃってください。</p>
@@ -57,16 +57,16 @@
 <p>だって、自然の秩序は大へん素晴らしいものですのに、それが、こんなにも単純なものによって動いて いくなんて、本当に驚きますものね」。</p>
 
 <footer>
-  <p><ruby lang="ja">フォントネル<rp>(</rp><rt lang="fr">Fontenelle</rt><rp>)</rp></ruby>、「<cite><ruby lang="ja">世界の多数性についての対話<rp>(</rp><rt lang="fr">Entretiens&#160;sur&#160;la&#160;pluralité&#160;des&#160;mondes</rt><rp>)</rp></ruby></cite>」、第一章、「第一の夜」、二十項。</p>
+  <p><ruby lang="ja">フォントネル<rp>（</rp><rt lang="fr">Fontenelle</rt><rp>）</rp></ruby>、「<cite><ruby lang="ja">世界の多数性についての対話<rp>（</rp><rt lang="fr">Entretiens&#160;sur&#160;la&#160;pluralité&#160;des&#160;mondes</rt><rp>）</rp></ruby></cite>」、第一章、「第一の夜」、二十項。</p>
 </footer>
 
 <aside>
 
   <h3 class="yellow">注釈：</h3>
 
-  <h4 id="opera" class="yellow note">「オペラの機械」</h4>
+  <h4 id="opera" class="yellow note">「オペラの<ruby>機械<rp>（</rp><rt>マシヌ</rt><rp>）</rp></ruby>」</h4>
 
-  <p>こういう風に劇所やオペラで、、観客に驚異的性の錯視を与えるそれぞれの効果によっての機械的手段が指名しされていた。しかし、「オペラの機会」を明らかにするには、フォントネルにとって宇宙を非神聖化させたり、アリストテレス、プラトンなどの以前の文学を迷信から覚まさせたりあうるでもある。</p>
+  <p>フランス語では「<ruby>Ma<rp>（</rp><rt>マ</rt><rp>）</rp>chi<rp>（</rp><rt>シ</rt><rp>）</rp>ne<rp>（</rp><rt>ヌ</rt><rp>）</rp></ruby>」。こういう風に劇所やオペラで、、観客に驚異的性の錯視を与えるそれぞれの効果によっての機械的手段が指名しされていた。しかし、「オペラの<ruby>機械<rp>（</rp><rt>マシヌ</rt><rp>）</rp></ruby>」を明らかにするには、フォントネルにとって宇宙を非神聖化させたり、アリストテレス、プラトンなどの以前の文学を迷信から覚まさせたりあうるでもある。</p>
   <footer>
     <p class="puce"><a href="#renvoi-machine" title="#renvoi-machine">文書に戻る&nbsp↩</a></p>
   <footer>
@@ -94,7 +94,7 @@
 
   <h4 id="phaeton" class="yellow note">リュリの<cite>パエトン</cite></h4>
   
-  <p>「<cite><ruby lang="ja">パエトン<rp>（</rp><rt lang="fr">Phaéton</rt><rp>）</rp></ruby></cite>」、<a href="https://ja.wikipedia.org/wiki/フィリップ・キノー" href="https://ja.wikipedia.org/wiki/フィリップ・キノー"><ruby lang="ja">キノー<rp>（</rp><rt lang="fr">Quinault</rt><rp>）</rp></ruby></a>の台本、<a href="https://ja.wikipedia.org/wiki/ジャン＝バティスト・リュリ" href="https://ja.wikipedia.org/wiki/ジャン＝バティスト・リュリ"><ruby lang="ja">リュリ<rp>（</rp><rt lang="fr">Lully</rt><rp>）</rp></ruby></a>の音楽で、オペラで<time datetime="1669">１６８３年</time>に初演した五幕叙情悲劇。パエトンの太陽の車の打ち上げは第三幕第六場に行われている。</p>
+  <p>「<cite><ruby lang="ja">パエトン<rp>（</rp><rt lang="fr">Phaéton</rt><rp>）</rp></ruby></cite>」、<a href="https://ja.wikipedia.org/wiki/フィリップ・キノー" href="https://ja.wikipedia.org/wiki/フィリップ・キノー"><ruby lang="ja">キノー<rp>（</rp><rt lang="fr">Quinault</rt><rp>）</rp></ruby></a>の台本、<a href="https://ja.wikipedia.org/wiki/ジャン＝バティスト・リュリ" href="https://ja.wikipedia.org/wiki/ジャン＝バティスト・リュリ"><ruby lang="ja">リュリ<rp>（</rp><rt lang="fr">Lully</rt><rp>）</rp></ruby></a>の音楽で、オペラで<time datetime="1683">１６８３年</time>に初演した五幕叙情悲劇。パエトンの太陽の車の打ち上げは第三幕第六場に行われている。</p>
   <footer>
     <p class="puce"><a href="#renvoi-phaeton" title="#renvoi-phaeton">文書に戻る&nbsp↩</a></p>
   <footer>
