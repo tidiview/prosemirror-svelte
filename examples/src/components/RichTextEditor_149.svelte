@@ -13,7 +13,7 @@
 
 <hgroup>
 <h1 class="green">qui triomphe de lui-même a la force de l'âme</h1>
-<h2 class="green">Lao-Tseu, <cite><ruby>Dao&#160de&#160jing<rp>(</rp><rt>livre&#160de&#160la&#160voie&#160et&#160de&#160la&#160vertu</rt><rp>)</rp></ruby></cite>,  <abbr>33<sup>ème</sup></abbr> chapître</h2>
+<h2 class="green">Lao-Tseu, <cite><ruby>Dao&#160de&#160jing<rp>(</rp><rt>livre&#160de&#160la&#160voie&#160et&#160de&#160la&#160vertu</rt><rp>)</rp></ruby></cite>,  <abbr title="trente-troisième">33<sup>ème</sup></abbr> chapître</h2>
 </hgroup>
 
 <div class="list-blog-padding lang-font">
@@ -68,7 +68,8 @@
 </div>
 
 <footer>
-  <p><span style="color: #3d8b3d;">source:  traduction originale</span></p></div>
+  <p><span style="color: #3d8b3d;">source:  traduction originale</span></p>
+  <p>© reproduction autorisée sous réserve d'inclure référence et le lien.</p>
 </footer>
 
 </article>
