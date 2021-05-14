@@ -260,8 +260,8 @@ sillons」には「畑の」が無いため「我らの<ruby>畝<rp>(</rp><rt>�
   <li value="13"><a href="#note_13" title="汚れた"><span style="color: #3d8b3d;">汚れた</span></a>血が</li>
   <li value="14"><a href="#note_14" title="我らの畑の畝を満たすまで！"><span style="color: #3d8b3d;">我らの畑の畝を満たすまで！</span></a></li>
 </ol>
-
 </div>
+
 </aside>
 
 </article>
