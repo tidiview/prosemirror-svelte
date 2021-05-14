@@ -5,10 +5,11 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `
+
 <article>
-<div class="list-blog-date">
+
 <p><time datetime="2020-02-12">12<sup>th</sup> Feb. 2020</time></p>
-</div>
+
 <h1 lang="en">Marivaux, <cite>Slave island</cite></h1>
 
 <div class="notices red">
