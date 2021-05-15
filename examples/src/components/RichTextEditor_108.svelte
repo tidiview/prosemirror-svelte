@@ -8,16 +8,18 @@
 
 <article>
 
-<div class="list-blog-date">
 <p><time>２０１７年１０月３０日</time></p>
 
+<hgroup>
 <h1 class="green">自ら勝つ者は強し</h1>
+<h2 class="green"><a href="https://ja.wikipedia.org/wiki/老子" title="https://ja.wikipedia.org/wiki/老子"><ruby>老<rp>（</rp><rt>ろう</rt><rp>）</rp>子<rp>（</rp><rt>し</rt><rp>）</rp></ruby></a>、<cite>道徳経</cite>、第三十三章</h2>
+</hgroup>
 
 <div class="notices green">
 <p>この第三十三章、素晴らしいもの！</p>
 </div>
 
-<h2 class="green"><a href="https://ja.wikipedia.org/wiki/老子" title="https://ja.wikipedia.org/wiki/老子"><ruby>老<rp>（</rp><rt>ろう</rt><rp>）</rp>子<rp>（</rp><rt>し</rt><rp>）</rp></ruby></a>、第三十三章</h2>
+<h2 class="green"><a href="https://ja.wikipedia.org/wiki/老子" title="https://ja.wikipedia.org/wiki/老子"><ruby>老<rp>（</rp><rt>ろう</rt><rp>）</rp>子<rp>（</rp><rt>し</rt><rp>）</rp></ruby></a>、<cite>道徳経</cite>、第三十三章</h2>
 
 <div id="display-text-rousi">
 <div id="display-sub-text-rousi">
@@ -37,7 +39,6 @@
 </div>
 
 <div id="translation-text-rousi">
-
 <h6 class="left">翻訳</h6>
 
 <ol class="doc">
