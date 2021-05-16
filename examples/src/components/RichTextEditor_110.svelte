@@ -8,7 +8,7 @@
 
 <article>
 
-<p><time>２０１６年６月４日</time></p>
+<p><time datetime="2016-06-04">２０１６年６月４日</time></p>
 
 <h1 class="red">自家製</h1>
 
