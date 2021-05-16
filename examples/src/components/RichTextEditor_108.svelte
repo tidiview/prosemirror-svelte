@@ -8,7 +8,7 @@
 
 <article>
 
-<p><time>２０１７年１０月３０日</time></p>
+<p><time datetime="2017-10-30">２０１７年１０月３０日</time></p>
 
 <hgroup>
 <h1 class="green">自ら勝つ者は強し</h1>
