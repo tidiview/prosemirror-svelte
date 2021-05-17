@@ -181,7 +181,7 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/02.vendome/01.
 
 <aside>
 <div class="notices green">
-<p>For more information on the work of <a href="https://en.wikipedia.org/wiki/François_Girardon" title="https://en.wikipedia.org/wiki/François_Girardon">François GIRARDON</a>, consult its <a href="http://www.louvre.fr/en/oeuvre-notices/louis-xiv-horseback" title="http://www.louvre.fr/en/oeuvre-notices/louis-xiv-horseback">reference</a> on the <a href="http://www.louvre.fr/en/oeuvre-notices/louis-xiv-horseback" title="http://www.louvre.fr/en/oeuvre-notices/louis-xiv-horseback">Louvre Museum site</a>.</p>
+<p>For more information on the work of <a href="https://en.wikipedia.org/wiki/François_Girardon" title="https://en.wikipedia.org/wiki/François_Girardon">François GIRARDON</a>, consult its <a href="http://www.louvre.fr/en/oeuvre-notices/louis-xiv-horseback" title="http://www.louvre.fr/en/oeuvre-notices/louis-xiv-horseback">reference on the Louvre Museum site</a>.</p>
 </div>
 </aside>
 
