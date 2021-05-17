@@ -919,17 +919,28 @@ export const ExtendedThreerichTextSchema = new Schema({
       parseDOM: [{tag: "rp"}],
       toDOM() { return ["rp", 0] },
     }, */
-    link: {
+    linkid: {
       attrs: {
         href: {},
         title: {default: null},
         id: {default: null}
       },
       inclusive: false,
-      parseDOM: [{tag: "a[href]", getAttrs(dom) {
+      parseDOM: [{tag: "a[id]", getAttrs(dom) {
         return {href: dom.getAttribute("href"), title: dom.getAttribute("title") == null ? dom.getAttribute("href") : dom.getAttribute("title"), id: dom.getAttribute("id")}
       }}],
       toDOM(node) { let {href, title, id} = node.attrs; return id == "" ? ["a", {href, title}, 0] : ["a", {href, title, id}, 0] }
+    },
+    link: {
+      attrs: {
+        href: {},
+        title: {default: null},
+      },
+      inclusive: false,
+      parseDOM: [{tag: "a[href]", getAttrs(dom) {
+        return {href: dom.getAttribute("href"), title: dom.getAttribute("title") == null ? dom.getAttribute("href") : dom.getAttribute("title"), id: dom.getAttribute("id")}
+      }}],
+      toDOM(node) { let {href, title} = node.attrs; return ["a", {href, title}, 0] }
     },
     abbr: {
       attrs: { title: {default: null} },
