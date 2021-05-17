@@ -13,9 +13,9 @@
 <h1 class="blue">ディオティマによる愛</h1>
 
 <div class="notices blue">
-<p>プラトンの「饗宴」において、宴に集まった人々は、<ruby>愛<rp>(</rp><rt>エロス</rt><rp>)</rp></ruby>の意義について議論を交わす。<br />
-そこで<a href="#note_socrate" title="ソクラテス" id="socrate">ソクラテス</a>は、自分が若かった頃に、予言者で巫女でもあった<a href="#note_diotime" title="ディオティマ" id="diotime">ディオティマ</a>から「愛の哲学」を教えられたと述べる。<br />
-以下にソクラテスはディオティマに愛についていろいろ聞こうとしている。</p>
+<p>プラトンの「饗宴」において、宴に集まった人々は、<ruby>愛<rp>(</rp><rt>エロス</rt><rp>)</rp></ruby>の意義について議論を交わす。</p>
+<p>そこで<a href="#note_socrate" title="ソクラテス" id="socrate">ソクラテス</a>は、自分が若かった頃に、予言者で巫女でもあった<a href="#note_diotime" title="ディオティマ" id="diotime">ディオティマ</a>から「愛の哲学」を教えられたと述べる。</p>
+<p>以下にソクラテスはディオティマに愛についていろいろ聞こうとしている。</p>
 </div>
 
 <div id="translation-text-rousi">
@@ -75,11 +75,11 @@
 <h4 class="blue note">ディオティマ</span></h4>
 
 <div class="notices blue">
-<p>饗宴意外で<a href="#diotime" title="ディオティマ" id="note_diotime"><ruby lang="ja">ディオティマ<rp>(</rp><rt lang="grc">Διοτίμα</rt><rp>)</rp></ruby lang="ja"></a>という名前をあげる史料は他にないが、そこではマンティネイア出身の巫女と預言者として現れる。<br />
-ディオティマに伴って、<ruby lang="ja">ルック<rp>(</rp><rt lang="fr">Luc</rt><rp>)</rp>・<rp>(</rp><rt lang="fr"></rt><rp>)</rp>ブリソン<rp>(</rp><rt lang="fr">BRISSON</rt><rp>)</rp></ruby lang="ja">の言葉によると対話では舞台に「新しい次元、つまり理解出来うるのが開かれる」哲学が登場する。ソクラテスは彼女について私に「愛について教えてくれた」と言う。
-愛の誕生についてをソクラテスに語る。<br />
-名は、「ゼウスによって讃えられた」あるいは「ゼウスを讃えている」という意味である。<br />
-彼女の出身地とされる<ruby lang="ja">マンティネイア<rp>(</rp><rt lang="grc">Μαντίνεια</rt><rp>)</rp></ruby lang="ja">は、ペロポネソス半島にあった古代ギリシアの<ruby lang="ja">アルカディア<rp>(</rp><rt lang="grc">Ἀρκαδία</rt><rp>)</rp></ruby lang="ja">の都市国家であった。マンティネイアという固有名詞が古代ギリシャ語で「占い師」という意味の<ruby lang="ja">マンティス<rp>(</rp><rt lang="grc">mántis</rt><rp>)</rp></ruby lang="ja">に類似している。</p>
+<p>饗宴意外で<a href="#diotime" title="ディオティマ" id="note_diotime"><ruby lang="ja">ディオティマ<rp>(</rp><rt lang="grc">Διοτίμα</rt><rp>)</rp></ruby lang="ja"></a>という名前をあげる史料は他にないが、そこではマンティネイア出身の巫女と預言者として現れる。</p>
+<p>ディオティマに伴って、<ruby lang="ja">ルック<rp>(</rp><rt lang="fr">Luc</rt><rp>)</rp>・<rp>(</rp><rt lang="fr"></rt><rp>)</rp>ブリソン<rp>(</rp><rt lang="fr">BRISSON</rt><rp>)</rp></ruby lang="ja">の言葉によると対話では舞台に「新しい次元、つまり理解出来うるのが開かれる」哲学が登場する。ソクラテスは彼女について私に「愛について教えてくれた」と言う。
+愛の誕生についてをソクラテスに語る。</p>
+<p>名は、「ゼウスによって讃えられた」あるいは「ゼウスを讃えている」という意味である。</p>
+<p>彼女の出身地とされる<ruby lang="ja">マンティネイア<rp>(</rp><rt lang="grc">Μαντίνεια</rt><rp>)</rp></ruby lang="ja">は、ペロポネソス半島にあった古代ギリシアの<ruby lang="ja">アルカディア<rp>(</rp><rt lang="grc">Ἀρκαδία</rt><rp>)</rp></ruby lang="ja">の都市国家であった。マンティネイアという固有名詞が古代ギリシャ語で「占い師」という意味の<ruby lang="ja">マンティス<rp>(</rp><rt lang="grc">mántis</rt><rp>)</rp></ruby lang="ja">に類似している。</p>
 </div>
 
 <footer>
