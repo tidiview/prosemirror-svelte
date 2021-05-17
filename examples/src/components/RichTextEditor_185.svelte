@@ -22,107 +22,22 @@
 <h2 class=blue>Love according to the character of Diotime in Plato's <citeBanquet</cite></h2>
 
 <div id="translation-text-rousi">
-  <table>
-  <thead>
-  <tr>
-  <th><span hidden="">hidden</span></th>
-  <th><span hidden="">hidden</span></th>
-  <th><span hidden="">hidden</span></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><sup>203a</sup></td>
-  <td>【SOCRATE】</td>
-  <td>— What is his father, I said, and what is his mother?</td>
-  </tr>
-  <tr>
-  <td></td>
-  <td></td>
-  <td></td>
-  </tr>
-  <tr>
-  <td><sup>203b</sup></td>
-  <td>【<mark>DIOTIME</mark>】</td>
-  <td>— It's a pretty long story, she replied. I'll tell you about it, though.</td>
-  </tr>
-  <tr>
-  <td></td>
-  <td></td>
-  <td>It should be known that, on the day when Aphrodite was born, the gods feasted: among them was Mètis' son, <a id="poros" href="/blog/ja/eros#note_poros">Poros</a>.</td>
-  </tr>
-  <tr>
-  <td></td>
-  <td></td>
-  <td>Now, when the banquet was over, <a id="penia" href="/blog/ja/eros#note_penia">Penia</a>, arrived, who had come to beg as it is natural on a day of feast, and was standing on the doorstep.</td>
-  </tr>
-  <tr>
-  <td></td>
-  <td></td>
-  <td>Now Poros, who had gotten drunk on  <a id="nectar" href="/blog/ja/eros#note_nectar">nectar</a>, for wine did not yet exist at that time, dragged himself into Zeus' garden and, overwhelmed by drunkenness, fell asleep there.</td>
-  </tr>
-  <tr>
-  <td></td>
-  <td></td>
-  <td></td>
-  </tr>
-  <tr>
-  <td><sup>203c</sup></td>
-  <td></td>
-  <td>Then Penia, in her shortage, had the project to have a child made by Poros; she lay next to him and became pregnant with Eros.</td>
-  </tr>
-  <tr>
-  <td></td>
-  <td></td>
-  <td>If Eros became the next one to Aphrodite and her servant, it is because he was born during the celebrations given in honour of the birth of the goddess; and if at the same time he is by nature in love with beauty, it is because Aphrodite is beautiful.</td>
-  </tr>
-  <tr>
-  <td></td>
-  <td></td>
-  <td>Because he is the son of Poros and Penia, Eros is in the following condition.</td>
-  </tr>
-  <tr>
-  <td></td>
-  <td></td>
-  <td></td>
-  </tr>
-  <tr>
-  <td><sup>203d</sup></td>
-  <td></td>
-  <td>First, it is still poor, and it is far from being delicate and beautiful, as most people believe. On the contrary, he is rough, unclean, barefoot and has no shelter, always lying on the ground and rough, sleeping under the stars on the doorstep and on the side of the road, because, since he takes after his mother, he shares the poverty he has.</td>
-  </tr>
-  <tr>
-  <td></td>
-  <td></td>
-  <td>Like his father, on the other hand, he is on the lookout for what is beautiful and what is good, he is manly, determined, ardent, he is a formidable hunter; he never ceases to weave tricks, he is passionate about knowledge and fertile in expedients, he spends all his time <a id="philosopher" href="/blog/ja/eros#note_philosopher">philosophizing</a>, he is a formidable wizard, a magician and an expert.</td>
-  </tr>
-  <tr>
-  <td></td>
-  <td></td>
-  <td></td>
-  </tr>
-  <tr>
-  <td><sup>203e</sup></td>
-  <td></td>
-  <td>It should be added that by nature it is neither immortal nor mortal.</td>
-  </tr>
-  <tr>
-  <td></td>
-  <td></td>
-  <td>In the space of a single day, sometimes it is in bloom, full of life, sometimes it is dying; then it comes back to life when its expedients succeed by virtue of the nature it takes from its father;</td>
-  </tr>
-  <tr>
-  <td></td>
-  <td></td>
-  <td>but what his expedients constantly provide him escapes him; so Eros is never in poverty or opulence.</td>
-  </tr>
-  <tr>
-  <td></td>
-  <td></td>
-  <td>Moreover, it is halfway between knowledge and ignorance.</td>
-  </tr>
-  </tbody>
-  </table>
+<ol class="doc-three-rows">
+  <li id="203a" data-id="【SOCRATE】">— What is his father, I said, and what is his mother?</li>
+  <li id="203b" data-id="【DIOTIME】">— It's a pretty long story, she replied. I'll tell you about it, though.</li>
+  <li>It should be known that, on the day when Aphrodite was born, the gods feasted: among them was Mètis' son, <a id="poros" href="/blog/ja/eros#note_poros">Poros</a>.</li>
+  <li>Now, when the banquet was over, <a id="penia" href="/blog/ja/eros#note_penia">Penia</a>, arrived, who had come to beg as it is natural on a day of feast, and was standing on the doorstep.</li>
+  <li>Now Poros, who had gotten drunk on  <a id="nectar" href="/blog/ja/eros#note_nectar">nectar</a>, for wine did not yet exist at that time, dragged himself into Zeus' garden and, overwhelmed by drunkenness, fell asleep there.</li>
+  <li id="203c">Then Penia, in her shortage, had the project to have a child made by Poros; she lay next to him and became pregnant with Eros.</li>
+  <li>If Eros became the next one to Aphrodite and her servant, it is because he was born during the celebrations given in honour of the birth of the goddess; and if at the same time he is by nature in love with beauty, it is because Aphrodite is beautiful.</li>
+  <li>Because he is the son of Poros and Penia, Eros is in the following condition.</li>
+  <li id="203d">First, it is still poor, and it is far from being delicate and beautiful, as most people believe. On the contrary, he is rough, unclean, barefoot and has no shelter, always lying on the ground and rough, sleeping under the stars on the doorstep and on the side of the road, because, since he takes after his mother, he shares the poverty he has.</li>
+  <li>Like his father, on the other hand, he is on the lookout for what is beautiful and what is good, he is manly, determined, ardent, he is a formidable hunter; he never ceases to weave tricks, he is passionate about knowledge and fertile in expedients, he spends all his time <a id="philosopher" href="/blog/ja/eros#note_philosopher">philosophizing</a>, he is a formidable wizard, a magician and an expert.</li>
+  <li id="203e">It should be added that by nature it is neither immortal nor mortal.</li>
+  <li>In the space of a single day, sometimes it is in bloom, full of life, sometimes it is dying; then it comes back to life when its expedients succeed by virtue of the nature it takes from its father;</li>
+  <li>but what his expedients constantly provide him escapes him; so Eros is never in poverty or opulence.</li>
+  <li>Moreover, it is halfway between knowledge and ignorance.</li>
+</ol>
 </div>
 
 <footer>
