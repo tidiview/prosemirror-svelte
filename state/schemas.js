@@ -740,20 +740,26 @@ export const ExtendedThreerichTextSchema = new Schema({
       }}],
       toDOM(node) { let {href, title, alt, id, shape, coords} = node.attrs; return ["area", {href, title, alt, id, shape, coords}] },
     },
-    paragraph: {
+    paragraphstyled: {
       content: "inline*",
       group: "block",
       attrs: {classes: {default: null}, styles: {default: null}, flag: {default: null}, id: {default: null}},
-      parseDOM: [{tag: "p.single-li", getAttrs(dom) { return {classes: dom.getAttribute("class"), styles: dom.getAttribute("style"), flag: true, id: dom.id} }},{tag: "p.conversation", getAttrs(dom) { return {classes: dom.getAttribute("class"), styles: dom.getAttribute("style"), flag: true, id: dom.id} }},{tag: "p.puce", getAttrs(dom) { return {classes: dom.getAttribute("class"), styles: dom.getAttribute("style"), flag: true} }},{tag: "p.no-puce", getAttrs(dom) { return {classes: dom.getAttribute("class"), styles: dom.getAttribute("style"), id: dom.id, flag: true} }},{tag: "p", getAttrs(dom) { return {styles: dom.getAttribute("style"), id: dom.id} }},{tag: "dl dt"},{tag: "dd"}],
+      parseDOM: [{tag: "p.single-li", getAttrs(dom) { return {classes: dom.getAttribute("class"), styles: dom.getAttribute("style"), flag: true, id: dom.id} }},{tag: "p.conversation", getAttrs(dom) { return {classes: dom.getAttribute("class"), styles: dom.getAttribute("style"), flag: true, id: dom.id} }},{tag: "p.puce", getAttrs(dom) { return {classes: dom.getAttribute("class"), styles: dom.getAttribute("style"), flag: true} }},{tag: "p.no-puce", getAttrs(dom) { return {classes: dom.getAttribute("class"), styles: dom.getAttribute("style"), id: dom.id, flag: true} }}],
       toDOM(node) { let {classes, styles, flag, id} = node.attrs ; return flag == true ? styles == "" ? id == "" ? ["p", {"class": classes}, 0] : ["p", {"id": id, "class": classes}, 0] : id == "" ? ["p", {"class": classes, "style": styles}, 0] : ["p", {"id": id, "class": classes, "style": styles}, 0] : styles == "" ? ["p", 0] : ["p",{"style": styles} , 0] },
+    },
+    paragraph: {
+      content: "inline*",
+      group: "block",
+      parseDOM: [{tag: "p", getAttrs(dom) { return {styles: dom.getAttribute("style"), id: dom.id} }},{tag: "dl dt"},{tag: "dd"}],
+      toDOM() { return ["p", 0] },
     },
     blockquote: {
       content: "block*",
       group: "block",
       defining: true,
-      attrs: { color: {default: null}, cite: {default: null}, id: {default: null}},
-      parseDOM: [{tag: "blockquote", getAttrs(dom) {return {color: dom.getAttribute("class"), cite: dom.getAttribute("cite"), id: dom.id}} }],
-      toDOM(node) { let {color, cite, id} = node.attrs; return color == "" ? cite == "" ? ["blockquote", 0] : ["blockquote", {cite, id}, 0] : cite == "" ? ["blockquote", {"class": color}, 0] : ["blockquote", {id, cite, "class": color}, 0] },
+      attrs: { classes: {default: null}, cite: {default: null}, id: {default: null}},
+      parseDOM: [{tag: "blockquote", getAttrs(dom) {return {classes: dom.getAttribute("class"), cite: dom.getAttribute("cite"), id: dom.id}} }],
+      toDOM(node) { let {classes, cite, id} = node.attrs; return classes == "" ? cite == "" ? ["blockquote", 0] : ["blockquote", {cite, id}, 0] : cite == "" ? ["blockquote", {"class": classes}, 0] : ["blockquote", {id, cite, "class": classes}, 0] },
     }, /* attibutes cite and id are linked: if there is cite, there is id */
     hgroup: {
       content: "heading+",
@@ -768,16 +774,16 @@ export const ExtendedThreerichTextSchema = new Schema({
       attrs: {
         level: {default: 1},
         id: {default: null},
-        color: {default: null}},
+        classes: {default: null}},
       parseDOM: [
-        {tag: "h1", getAttrs(dom) { return {level: 1, id: dom.id, color: dom.getAttribute("class")} }},
-        {tag: "h2", getAttrs(dom) { return {level: 2, id: dom.id, color: dom.getAttribute("class")} }},
-        {tag: "h3", getAttrs(dom) { return {level: 3, id: dom.id, color: dom.getAttribute("class")} }},
-        {tag: "h4", getAttrs(dom) { return {level: 4, id: dom.id, color: dom.getAttribute("class")} }},
-        {tag: "h5", getAttrs(dom) { return {level: 5, id: dom.id, color: dom.getAttribute("class")} }},
-        {tag: "h6", getAttrs(dom) { return {level: 6, id: dom.id, color: dom.getAttribute("class")} }}
+        {tag: "h1", getAttrs(dom) { return {level: 1, id: dom.id, classes: dom.getAttribute("class")} }},
+        {tag: "h2", getAttrs(dom) { return {level: 2, id: dom.id, classes: dom.getAttribute("class")} }},
+        {tag: "h3", getAttrs(dom) { return {level: 3, id: dom.id, classes: dom.getAttribute("class")} }},
+        {tag: "h4", getAttrs(dom) { return {level: 4, id: dom.id, classes: dom.getAttribute("class")} }},
+        {tag: "h5", getAttrs(dom) { return {level: 5, id: dom.id, classes: dom.getAttribute("class")} }},
+        {tag: "h6", getAttrs(dom) { return {level: 6, id: dom.id, classes: dom.getAttribute("class")} }}
       ],
-      toDOM(node) { let {level, id, color} = node.attrs; return id == "" ? color == "" ? ["h" + level, 0] : ["h" + level, {"class": color}, 0] : color == "" ? ["h" + level, {id}, 0] : ["h" + level, {"class": color, id}, 0] }
+      toDOM(node) { let {level, id, classes} = node.attrs; return id == "" ? classes == "" ? ["h" + level, 0] : ["h" + level, {"class": classes}, 0] : classes == "" ? ["h" + level, {id}, 0] : ["h" + level, {"class": classes, id}, 0] }
     },
     ol: {
       content: "li+",
@@ -812,8 +818,15 @@ export const ExtendedThreerichTextSchema = new Schema({
       content: "inline*",
       group: "inline",
       inline: true,
+      parseDOM: [{tag: "ruby"}, {tag: "rp", ignore: true}],
+      toDOM() { ["ruby", 0] },
+    },
+    rubylang: {
+      content: "inline*",
+      group: "inline",
+      inline: true,
       attrs: {lang: {default: null}, color: {default: null}},
-      parseDOM: [{tag: "ruby", getAttrs(dom) { return {lang: dom.lang, color: dom.style["color"]} }}, {tag: "rp", ignore: true}],
+      parseDOM: [{tag: "ruby[lang]", getAttrs(dom) { return {lang: dom.lang, color: dom.style["color"]} }}, {tag: "rp", ignore: true}],
       toDOM(node) { let {lang, color} = node.attrs; return lang == "" ? color == "" ? ["ruby", 0] : lang == "" ? ["ruby", {"style": "color:" + color}, 0] : ["ruby", {lang}, 0] : ["ruby", {lang, "style": "color:" + color}, 0] },
     },
     code: {
