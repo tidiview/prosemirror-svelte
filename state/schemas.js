@@ -814,13 +814,6 @@ export const ExtendedThreerichTextSchema = new Schema({
       doc == true ? id == "" ? classes == "" ? ["li", {value}, 0] : ["li", {value, "class": classes}, 0] : 
       classes == "" ? ["li", {value, id}, 0] : ["li", {value, id, "class": classes}, 0] : ["li", 0] },
     },
-    ruby: {
-      content: "inline*",
-      group: "inline",
-      inline: true,
-      parseDOM: [{tag: "ruby"}, {tag: "rp", ignore: true}],
-      toDOM() { ["ruby", 0] },
-    },
     rubylang: {
       content: "inline*",
       group: "inline",
@@ -828,6 +821,13 @@ export const ExtendedThreerichTextSchema = new Schema({
       attrs: {lang: {default: null}, color: {default: null}},
       parseDOM: [{tag: "ruby[lang]", getAttrs(dom) { return {lang: dom.lang, color: dom.style["color"]} }}, {tag: "rp", ignore: true}],
       toDOM(node) { let {lang, color} = node.attrs; return lang == "" ? color == "" ? ["ruby", 0] : lang == "" ? ["ruby", {"style": "color:" + color}, 0] : ["ruby", {lang}, 0] : ["ruby", {lang, "style": "color:" + color}, 0] },
+    },
+    ruby: {
+      content: "inline*",
+      group: "inline",
+      inline: true,
+      parseDOM: [{tag: "ruby"}, {tag: "rp", ignore: true}],
+      toDOM() { return ["ruby", 0] },
     },
     code: {
       content: "text*",
@@ -903,8 +903,13 @@ export const ExtendedThreerichTextSchema = new Schema({
     },
   },
   marks: {
-    rt: {
+    rtlang: {
       attrs: {lang: {default: null}, color: {default: null}},
+      inclusive: false,
+      parseDOM: [{tag: "rt[lang]", getAttrs(dom) { return {lang: dom.lang, color: dom.style["color"]} }}],
+      toDOM() { return ["rt", 0] },
+    },
+    rt: {
       inclusive: false,
       parseDOM: [{tag: "rt", getAttrs(dom) { return {lang: dom.lang, color: dom.style["color"]} }}],
       toDOM(node) { let {lang, color} = node.attrs; return lang == "" ? color == "" ? ["rt", 0] : lang == "" ? ["rt", {"style": "color:" + color}, 0] : ["rt", {lang}, 0] : ["rt", {lang, "style": "color:" + color}, 0] },
