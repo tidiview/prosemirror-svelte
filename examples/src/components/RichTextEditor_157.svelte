@@ -7,7 +7,7 @@
   const html = `<!-- JA:125 EN:188  -->
 <article>
 
-<h1 class="green">La Joconde selon Théophile Gautier</h1>
+<h1 class="green"><cite>La Joconde</cite> selon Théophile Gautier</h1>
 
 <figure>
   <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -36,7 +36,7 @@
 <p>Nous pensons que si cette description est misogyne, que cette misogynie ne fait partie ni de l'œuvre de Léonard de Vinci encore moins de l'émotion artistique et que la Joconde gagnerait à être débarassée des chimères de Théophile Gautier.</p>
 </div>
 
-<h2 class="green">La Joconde selon le texte de Théophile Gautier extrait du <cite>guide par les principaux écrivains et artistes de France</cite></h2>
+<h2 class="green"><cite>La Joconde</cite> selon le texte de Théophile Gautier extrait du <cite>Paris Guide par les principaux écrivains et artistes de France</cite></h2>
 
 <p>Notre admiration et notre amour pour cette divine Monna Lisa del Giocondo ne datent pas d'hier, et bien des passions pour des êtres réels ont duré moins longtemps.</p>
 <p>Il y a <time datetime="P12Y">une douzaine d'années</time> que nous écrivions ces lignes un peu trop enthousiastes peut-être, mais qui rendent fidèlement notre impression:</p>
