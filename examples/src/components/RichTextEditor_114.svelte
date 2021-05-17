@@ -4,13 +4,13 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `<!-- FR:NONE EN:NONE -->
+  const html = `<!-- FR:NONE EN:NONE color:red -->
 
 <article>
 
 <p><time datetime="2017-03-03">２０１７年３月３日</time></p>
 
-<h1 lang="ja">フランス革命という出来事が何であるか</h1>
+<h1 class="red">フランス革命という出来事が何であるか</h1>
 
 <div class="notices red">
 <p>〈フランス革命〉と言われている出来事は、<time datetime="1789-07-14">１７８９年７月１４日</time>の時点で、すでにフランス革命と言えるのか。</p>
