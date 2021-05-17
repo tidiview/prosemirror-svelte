@@ -785,12 +785,19 @@ export const ExtendedThreerichTextSchema = new Schema({
       ],
       toDOM(node) { let {level, id, classes} = node.attrs; return id == "" ? classes == "" ? ["h" + level, 0] : ["h" + level, {"class": classes}, 0] : classes == "" ? ["h" + level, {id}, 0] : ["h" + level, {"class": classes, id}, 0] }
     },
-    ol: {
+    olstart: {
       content: "li+",
       group: "block",
       attrs: {start: {default: null}, classes: {default: null}},
-      parseDOM: [{tag: "ol", getAttrs(dom) { return {start: dom.start, classes: dom.getAttribute("class")} }}],
+      parseDOM: [{tag: "ol[start]", getAttrs(dom) { return {start: dom.start, classes: dom.getAttribute("class")} }}],
       toDOM(node) { let {start, classes} = node.attrs; return start == "" ? classes == "" ? ["ol", 0] : ["ol", {"class": classes}, 0] : start == "" ? ["ol", {start}, 0] : ["ol", {"class": classes, start}, 0] },
+    },
+    ol: {
+      content: "li+",
+      group: "block",
+      attrs: {classes: {default: null}},
+      parseDOM: [{tag: "ol", getAttrs(dom) { return {classes: dom.getAttribute("class")} }}],
+      toDOM(node) { let {classes} = node.attrs; return classes == "" ? ["ol", 0] : ["ol", {"class": classes}, 0] },
     },
     ul: {
       content: "li+",
@@ -802,7 +809,7 @@ export const ExtendedThreerichTextSchema = new Schema({
       content: "(table | block)*", /* has to be block - can be (block | inline also */
       attrs: {value: {default: null}, id: {default: null}, dataid: {default: null}, classes: {default: null}, doc: {default: false}},
       parseDOM: [
-        {tag: "ol.year", getAttrs(dom) { return {value: dom.value} } },
+        {tag: "ol.year li", getAttrs(dom) { return {value: dom.value} } },
         {tag: "ol.doc-three-rows li", getAttrs(dom) { return {value: dom.value, id: dom.id, dataid: dom.getAttribute("data-id"), doc: true} } },
         {tag: "ol.doc-special li", getAttrs(dom) { return {value: dom.value, id: dom.id, doc: true} } },
         {tag: "ol.doc li", getAttrs(dom) { return {value: dom.value, id: dom.id, classes: dom.getAttribute("class"), doc: true} } },
