@@ -19,7 +19,7 @@
 </div>
 
 
-<h2 class=blue>Love according to the character of Diotime in Plato's <citeBanquet</cite></h2>
+<h2 class="blue">Love according to the character of Diotime in Plato's <citeBanquet</cite></h2>
 
 <div id="translation-text-rousi">
 <ol class="doc-three-rows">
@@ -28,12 +28,15 @@
   <li>It should be known that, on the day when Aphrodite was born, the gods feasted: among them was Mètis' son, <a id="poros" href="/blog/ja/eros#note_poros">Poros</a>.</li>
   <li>Now, when the banquet was over, <a id="penia" href="/blog/ja/eros#note_penia">Penia</a>, arrived, who had come to beg as it is natural on a day of feast, and was standing on the doorstep.</li>
   <li>Now Poros, who had gotten drunk on  <a id="nectar" href="/blog/ja/eros#note_nectar">nectar</a>, for wine did not yet exist at that time, dragged himself into Zeus' garden and, overwhelmed by drunkenness, fell asleep there.</li>
-  <li id="203c">Then Penia, in her shortage, had the project to have a child made by Poros; she lay next to him and became pregnant with Eros.</li>
+
+  <li id="203c" class="top-space">Then Penia, in her shortage, had the project to have a child made by Poros; she lay next to him and became pregnant with Eros.</li>
   <li>If Eros became the next one to Aphrodite and her servant, it is because he was born during the celebrations given in honour of the birth of the goddess; and if at the same time he is by nature in love with beauty, it is because Aphrodite is beautiful.</li>
   <li>Because he is the son of Poros and Penia, Eros is in the following condition.</li>
-  <li id="203d">First, it is still poor, and it is far from being delicate and beautiful, as most people believe. On the contrary, he is rough, unclean, barefoot and has no shelter, always lying on the ground and rough, sleeping under the stars on the doorstep and on the side of the road, because, since he takes after his mother, he shares the poverty he has.</li>
+
+  <li id="203d" class="top-space">First, it is still poor, and it is far from being delicate and beautiful, as most people believe. On the contrary, he is rough, unclean, barefoot and has no shelter, always lying on the ground and rough, sleeping under the stars on the doorstep and on the side of the road, because, since he takes after his mother, he shares the poverty he has.</li>
   <li>Like his father, on the other hand, he is on the lookout for what is beautiful and what is good, he is manly, determined, ardent, he is a formidable hunter; he never ceases to weave tricks, he is passionate about knowledge and fertile in expedients, he spends all his time <a id="philosopher" href="/blog/ja/eros#note_philosopher">philosophizing</a>, he is a formidable wizard, a magician and an expert.</li>
-  <li id="203e">It should be added that by nature it is neither immortal nor mortal.</li>
+
+  <li id="203e" class="top-space">It should be added that by nature it is neither immortal nor mortal.</li>
   <li>In the space of a single day, sometimes it is in bloom, full of life, sometimes it is dying; then it comes back to life when its expedients succeed by virtue of the nature it takes from its father;</li>
   <li>but what his expedients constantly provide him escapes him; so Eros is never in poverty or opulence.</li>
   <li>Moreover, it is halfway between knowledge and ignorance.</li>
