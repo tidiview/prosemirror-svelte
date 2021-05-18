@@ -914,12 +914,12 @@ export const ExtendedThreerichTextSchema = new Schema({
       attrs: {lang: {default: null}, color: {default: null}},
       inclusive: false,
       parseDOM: [{tag: "rt[lang]", getAttrs(dom) { return {lang: dom.lang, color: dom.style["color"]} }}],
-      toDOM() { return ["rt", 0] },
+      toDOM() { let {lang, color} = node.attrs; return lang == "" ? color == "" ? ["rt", 0] : lang == "" ? ["rt", {"style": "color:" + color}, 0] : ["rt", {lang}, 0] : ["rt", {lang, "style": "color:" + color}, 0] },
     },
     rt: {
       inclusive: false,
       parseDOM: [{tag: "rt", getAttrs(dom) { return {lang: dom.lang, color: dom.style["color"]} }}],
-      toDOM(node) { let {lang, color} = node.attrs; return lang == "" ? color == "" ? ["rt", 0] : lang == "" ? ["rt", {"style": "color:" + color}, 0] : ["rt", {lang}, 0] : ["rt", {lang, "style": "color:" + color}, 0] },
+      toDOM() { return ["rt", 0] },
     },
     /* rp: {
       inclusive: false,
