@@ -7,8 +7,9 @@
   const html = `<!-- FR:NONE EN:NONE -->
 
 <article>
-
+<header>
 <p><time datetime="2016-06-04">２０１６年６月４日</time></p>
+</header>
 
 <h1 class="red">自家製</h1>
 
@@ -16,6 +17,8 @@
 <p>この中国古代の文書で、「家」から「自分」を考えるのだとしているのが特徴。</p>
 </div>
 
+<section id="iehamotomoto">
+<h2 class="red">自家製の文書</h2>
 <p>家はもともと<ruby>斉<rp>（</rp><rt>ととの</rt><rp>）</rp></ruby>っているのだ。</p>
 <p>わが身の<ruby>好<rp>（</rp><rt>こうお</rt><rp>）</rp></ruby>が<ruby>偏<rp>（</rp><rt>かたよ</rt><rp>）</rp></ruby>っているから斉わないだけのことだ。</p>
 <p>国はもともと治まっているのだ。</p>
@@ -24,12 +27,11 @@
 <p>わが身の<ruby>好<rp>（</rp><rt>こうお</rt><rp>）</rp></ruby>が<ruby>偏<rp>（</rp><rt>かたよ</rt><rp>）</rp></ruby>っているから泰平でないだけのことだ。</p>
 
 <footer>
-
 <div class="notices red">
 <p>小島毅、「<a href="https://www.amazon.co.jp/朱子学と陽明学-ちくま学芸文庫-小島-毅/dp/4480095691" title="https://www.amazon.co.jp/朱子学と陽明学-ちくま学芸文庫-小島-毅/dp/4480095691"><cite>朱子学と陽明学</cite></a>」、１２２貢。</p>
 </div>
-
 </footer>
+</section>
 
 </article>
 `;
