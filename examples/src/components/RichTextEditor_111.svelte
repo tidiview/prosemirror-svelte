@@ -8,14 +8,14 @@
 
 <article>
 
-<p><time datetime="2016-06-15">２０１６年６月１５日</p></time></p>
+<p><time datetime="2016-06-15">２０１６年６月１５日</time></p>
 
 <h1 class="yellow">朱子学とは何か</h1>
 
 <div class="notices yellow">
 <p>ここでは、基本の基本をまとまった形で、わかりやすく紹介されている。</p>
-</div>
 <p>それで、私のような、何も知らない人でもある程度朱子学を理解できるのではないかと思う。</p>
+</div>
 
 <h2 class="yellow">朱子学</h2>
 
@@ -51,7 +51,6 @@
 <p>それが<span style="color: #df8a13;">天の理</span>、天の道にかなう人の道であり、そのために人が努力しなければならない規範（基準）が道徳なのである。</p>
 
 <footer>
-
 <div class="notices yellow">
   <p><a href="https://ja.wikipedia.org/wiki/揖斐高" title="https://ja.wikipedia.org/wiki/揖斐高"><ruby>揖<rp>（</rp><rt>い</rt><rp>）</rp>斐<rp>（</rp><rt>び</rt><rp>）</rp>・<rp>（</rp><rt></rt><rp>）</rp>高<rp>（</rp><rt>たかし</rt><rp>）</rp></ruby></a>、「<a href="https://www.amazon.co.jp/江戸幕府と儒学者-林羅山・鵞峰・鳳岡三代の闘い-中公新書-揖斐-高/dp/4121022734" title="https://www.amazon.co.jp/江戸幕府と儒学者-林羅山・鵞峰・鳳岡三代の闘い-中公新書-揖斐-高/dp/4121022734"><cite>江戸幕府と儒学者</cite></a>」、五十五貢。</p>
 </div>
