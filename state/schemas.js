@@ -750,7 +750,7 @@ export const ExtendedThreerichTextSchema = new Schema({
     paragraph: {
       content: "inline*",
       group: "block",
-      parseDOM: [{tag: "p", getAttrs(dom) { return {styles: dom.getAttribute("style"), id: dom.id} }},{tag: "dl dt"},{tag: "dd"}],
+      parseDOM: [{tag: "p"},{tag: "dl dt"},{tag: "dd"}],
       toDOM() { return ["p", 0] },
     },
     blockquote: {
