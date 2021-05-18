@@ -552,6 +552,13 @@ export const ExtendedThreerichTextSchema = new Schema({
     doc: {
       content: "(article | aside | section | nav | hr)*"
     }, /* (block | table | figure)+ */
+    sectionid: {
+      content: "(figure | article | aside | block)+",
+      group: "block",
+      attrs: {id: {default:null}},
+      parseDOM: [{tag: "section[id]", getAttrs(dom) { return { id: dom.getAttribute("id") } } }],
+      toDOM(node) { let {id} = node.attrs; return ["section", {id}, 0] },
+    },
     section: {
       content: "(figure | article | aside | block)+",
       group: "block",
