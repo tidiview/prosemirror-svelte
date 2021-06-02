@@ -7,22 +7,24 @@
   const html = `<!-- FR:154 EN:182 -->
 
 <article>
-
+<header>
 <p><time datetime="2020-02-12">２０２０年２月１２日</time></p>
+</header>
 
 <h1 class="red">マリヴォー、<cite>奴隷の島</cite></h1>
 
 <div class="notices red">
-<p>幻想の古代時代で、アテネの若い貴人<ruby lang="ja">イフィクラート<rp>(</rp><rt lang="fr">Iphicrate</rt><rp>)</rp></ruby lang="ja">が召使の<ruby lang="ja">アルルカン<rp>(</rp><rt lang="fr">Arlequin</rt><rp>)</rp></ruby lang="ja">と一緒にある島の海岸に避難することになる。</p>
+<p>幻想の古代時代で、アテネの若い貴人<ruby lang="ja">イフィクラート<rp>(</rp><rt lang="fr">Iphicrate</rt><rp>)</rp></ruby>が召使の<ruby lang="ja">アルルカン<rp>(</rp><rt lang="fr">Arlequin</rt><rp>)</rp></ruby>と一緒にある島の海岸に避難することになる。</p>
 </div>
 
 <div class="notices red">
-<p>主人と召し使いは主人の<ruby lang="ja">エウプロシュネー<rp>(</rp><rt lang="fr">Euphrosiné</rt><rp>)</rp></ruby lang="ja">と待女の<ruby lang="ja">クレアンティス<rp>(</rp><rt lang="fr">Cléanthis</rt><rp>)</rp></ruby lang="ja">のもう一つの対に合流される。
-<ruby lang="ja">トリヴラン<rp>(</rp><rt lang="fr">Trivelin</rt><rp>)</rp></ruby lang="ja">が島の法律を紹介しながら彼たちを出迎えます。権力関係が徹頭徹尾逆にされている。
+<p>主人と召し使いは主人の<ruby lang="ja">エウプロシュネー<rp>(</rp><rt lang="fr">Euphrosiné</rt><rp>)</rp></ruby>と待女の<ruby lang="ja">クレアンティス<rp>(</rp><rt lang="fr">Cléanthis</rt><rp>)</rp></ruby>のもう一つの対に合流される。
+<ruby lang="ja">トリヴラン<rp>(</rp><rt lang="fr">Trivelin</rt><rp>)</rp></ruby>が島の法律を紹介しながら彼たちを出迎えます。権力関係が徹頭徹尾逆にされている。
 新しく付いた主人たちと奴隷たちが自分の服、身分、それまで名前まで交換しなければなりません。</p>
 </div>
 
-<h2 id="esclave" class="red">マリヴォー、<cite>奴隷の島</cite>、第二場</h2>
+<section id="esclave">
+<h2 class="red">マリヴォー、<cite>奴隷の島</cite>、第二場</h2>
 
 <ol class="doc-three-rows">
   <li><span style="color:#b2b2b2">五、六人の島民とともに、一人の貴婦人と彼女の侍女を率き連れやって来たトリヴラン、剣をかざすイフィクラートの方へ駆けつける</span></li>
@@ -97,9 +99,11 @@
 </ol>
 
 <footer>
-  <p><ruby lang="ja">マリヴォー<rp>（</rp><rt lang="fr">Marivaux</rt><rp>）</rp></ruby>、<cite><ruby lang="ja">奴隷の島<rp>（</rp><rt lang="fr">L'île&#160aux&#160esclaves</rt><rp>）</rp></ruby></cite>、第二場、１１項。</p>
+  <p><ruby lang="ja">マリヴォー<rp>（</rp><rt lang="fr">Marivaux</rt><rp>）</rp></ruby>、<cite><ruby lang="ja">奴隷の島<rp>（</rp><rt lang="fr">L'île&#160;aux&#160;esclaves</rt><rp>）</rp></ruby></cite>、第二場、１１項。</p>
   <p>［劇作文書は一幕構成です。］</p>
 </footer>
+
+</section>
 
 </article>
 `;
