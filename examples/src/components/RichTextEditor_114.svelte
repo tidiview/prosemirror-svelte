@@ -7,8 +7,9 @@
   const html = `<!-- FR:NONE EN:NONE color:red -->
 
 <article>
-
+<header>
 <p><time datetime="2017-03-03">２０１７年３月３日</time></p>
+</header>
 
 <h1 class="red">フランス革命という出来事が何であるか</h1>
 
@@ -61,7 +62,7 @@
 <p>翌日の<time datetime="1792-09-21">２１日</time>、「国民公会」と名を改めたばかりの旧<a href="https://ja.wikipedia.org/wiki/立法議会" title="https://ja.wikipedia.org/wiki/立法議会">立法議会</a>では、新しい会期の初日で、<ruby lang="ja">王政廃止宣言<rp>（</rp><rt lang="fr">Abolition&#160;de&#160;la&#160;Royauté</rt><rp>）</rp></ruby>を宣言することになります。</p>
 <p>それで王政がなくなって、<a href="https://ja.wikipedia.org/wiki/フランス第一共和政" title="https://ja.wikipedia.org/wiki/フランス第一共和政"><ruby lang="ja">第一共和政<rp>（</rp><rt lang="fr">Première&#160;République</rt><rp>）</rp></ruby></a>が戦争中に、発足しますが、王政がなくなって、そのまま、「共和政」との形は、自ら望まれた形ではなく、攻めに当たって、王政がなくなった後に成立した形として、一切余裕なく、誕生してきます。  </p>
 <p>そこから、<time datetime="1792">１７９２年</time>から<time datetime="1802-03-25">１８０２年３月２５日</time>までの<time datetime="P10Y">十年間</time>、フランスに現れた革命政府が、他の王政諸国と戦争することに陥る「<a href="https://ja.wikipedia.org/wiki/フランス革命戦争" title="https://ja.wikipedia.org/wiki/フランス革命戦争"><ruby lang="ja">フランス革命戦争<rp>（</rp><rt lang="fr">les&#160;Guerres&#160;de&#160;la&#160;Révolution&#160;française</rt><rp>）</rp></ruby></a>」。</p>
-<p>ただ、<time datetime="1802-05-18">１８０３年５月１８日</time>から<time datetime="1815">１８１５年</time>までもの<time datetime="P12Y">十二年間</time>、「<a href="https://ja.wikipedia.org/wiki/ナポレオン戦争" title="https://ja.wikipedia.org/wiki/ナポレオン戦争"><ruby lang="ja">ナポレオン戦争<rp>（</rp><rt lang="fr">les&#160;Guerres&#160;napoléoniennes</rt><rp>）</rp></ruby></a>」の名で《革命》と王政の対立が再開しますので、ずっと<time datetime="17925">１７９２年</time>から<a href="https://ja.wikipedia.org/wiki/ナポレオン" title="https://ja.wikipedia.org/wiki/ナポレオン"><ruby lang="ja">ナポレオン<rp>（</rp><rt lang="fr">Napoléon</rt><rp>）</rp></ruby></a>が敗北する<a href="https://ja.wikipedia.org/wiki/ワーテルローの戦い" title="https://ja.wikipedia.org/wiki/ワーテルローの戦い"><ruby lang="ja">ワーテルローの戦い<rp>（</rp><rt lang="fr">la&#160;bataille&#160;de&#160;Waterloo</rt><rp>）</rp></ruby></a>の<time datetime="1815">１８１５年</time>まで、およそ<time datetime="P22Y">二十二年間</time>も続いたのだとは十分断言できます。</p>
+<p>ただ、<time datetime="1802-05-18">１８０３年５月１８日</time>から<time datetime="1815">１８１５年</time>までもの<time datetime="P12Y">十二年間</time>、「<a href="https://ja.wikipedia.org/wiki/ナポレオン戦争" title="https://ja.wikipedia.org/wiki/ナポレオン戦争"><ruby lang="ja">ナポレオン戦争<rp>（</rp><rt lang="fr">les&#160;Guerres&#160;napoléoniennes</rt><rp>）</rp></ruby></a>」の名で《革命》と王政の対立が再開しますので、ずっと<time datetime="1792">１７９２年</time>から<a href="https://ja.wikipedia.org/wiki/ナポレオン" title="https://ja.wikipedia.org/wiki/ナポレオン"><ruby lang="ja">ナポレオン<rp>（</rp><rt lang="fr">Napoléon</rt><rp>）</rp></ruby></a>が敗北する<a href="https://ja.wikipedia.org/wiki/ワーテルローの戦い" title="https://ja.wikipedia.org/wiki/ワーテルローの戦い"><ruby lang="ja">ワーテルローの戦い<rp>（</rp><rt lang="fr">la&#160;bataille&#160;de&#160;Waterloo</rt><rp>）</rp></ruby></a>の<time datetime="1815">１８１５年</time>まで、およそ<time datetime="P22Y">二十二年間</time>も続いたのだとは十分断言できます。</p>
 <p>ここでは、その対立の結果に触れないようにしますが、その時までのヨーロッパを大きく変わらせたことは明らかです。</p>
 <h2 class="red"><time datetime="1789">１７８９年</time>で始まった出来事は、革命でしたか？</h2>
 <p>現代から、革命は王の死刑と王政廃止に捉われるのでしたら、<time datetime="1789">１７８９年</time>の時点では、革命だとはいえる段階
