@@ -7,8 +7,9 @@
   const html = `<!-- FR:NONE EN:NONE -->
 
 <article>
-
-<p><time>２０１７年１２月２４日</time></p>
+<header>
+<p><time datetime="2017-12-24">２０１７年１２月２４日</time></p>
+</header>
 
 <h1 class="yellow">女大学</h1>
 
@@ -34,8 +35,8 @@
 
 <p>「 <a href="#renvoi_takarabako" title="女の道"><ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の<ruby>道<rp>（</rp><rt>みち</rt><rp>）</rp></ruby></a> 」、「夫に仕ふる道」のこと。<ruby>婦<rp>（</rp><rt>ふ</rt><rp>）</rp>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>の道ともいう。いわゆる、夫に従う道であり、</p>
 <p>「一度嫁いりしては、其の家を出でざるを女の道とすること、<ruby>古<rp>（</rp><rt>いにしえ</rt><rp>）</rp></ruby>聖人の<ruby>訓<rp>（</rp><rt>おし</rt><rp>）</rp></ruby>えなり、<ruby>若<rp>（</rp><rt>も</rt><rp>）</rp></ruby>し女の道にそむき、去らるる時は、一生の恥なり」
-（「<cite><a href="#takarabako" alt="女大学宝箱"><ruby>女大学宝箱<rt>オンナダイガクタカラバコ</rt></ruby></a></cite>」）、
-「<ruby>都<rp>（</rp><rt>すべ</rt><rp>）</rp></ruby>て婦人の道は<ruby>和<rp>（</rp><rt>やわ</rt><rp>）</rp></ruby>らぎ従うにあり、夫に対するに顔色、言葉づかい、<ruby>慇<rp>（</rp><rt>いん</rt><rp>）</rp>懃<rp>（</rp><rt>ぎん</rt><rp>）</rp></ruby>に<ruby>謙<rp>（</rp><rt>へりくだ</rt><rp>）</rp></ruby>り<ruby>遜譲<rp>（</rp><rt>ゆずる</rt><rp>）</rp></ruby>べし、<ruby>不忍<rp>（</rp><rt>しのばず</rt><rp>）</rp></ruby>して不順なるべからず、<ruby>奢<rp>（</rp><rt>おご</rt><rp>）</rp></ruby>り<ruby>驕<rp>（</rp><rt>たかぶ</rt><rp>）</rp></ruby>りて無礼なるべからず、是れ女子の第一なる努めなり」（「<cite><a href="http://dl.ndl.go.jp/info:ndljp/pid/754900" alt="新撰増補女子大学"><ruby>新<rt>シン</rt>撰<rt>セン</rt>増<rt>ゾウ</rt>補<rt>ホ</rt>女子<rt>オンナ</rt>大<rt>ダイ</rt>学<rt>ガク</rt></ruby></a></cite>」）と記されているように、女＝婦人は、結婚した女性をさしている。</p>
+（「<cite><a href="#takarabako" title="女大学宝箱"><ruby>女大学宝箱<rt>オンナダイガクタカラバコ</rt></ruby></a></cite>」）、
+「<ruby>都<rp>（</rp><rt>すべ</rt><rp>）</rp></ruby>て婦人の道は<ruby>和<rp>（</rp><rt>やわ</rt><rp>）</rp></ruby>らぎ従うにあり、夫に対するに顔色、言葉づかい、<ruby>慇<rp>（</rp><rt>いん</rt><rp>）</rp>懃<rp>（</rp><rt>ぎん</rt><rp>）</rp></ruby>に<ruby>謙<rp>（</rp><rt>へりくだ</rt><rp>）</rp></ruby>り<ruby>遜譲<rp>（</rp><rt>ゆずる</rt><rp>）</rp></ruby>べし、<ruby>不忍<rp>（</rp><rt>しのばず</rt><rp>）</rp></ruby>して不順なるべからず、<ruby>奢<rp>（</rp><rt>おご</rt><rp>）</rp></ruby>り<ruby>驕<rp>（</rp><rt>たかぶ</rt><rp>）</rp></ruby>りて無礼なるべからず、是れ女子の第一なる努めなり」（「<cite><a href="http://dl.ndl.go.jp/info:ndljp/pid/754900" title="新撰増補女子大学"><ruby>新<rt>シン</rt>撰<rt>セン</rt>増<rt>ゾウ</rt>補<rt>ホ</rt>女子<rt>オンナ</rt>大<rt>ダイ</rt>学<rt>ガク</rt></ruby></a></cite>」）と記されているように、女＝婦人は、結婚した女性をさしている。</p>
 <p>それ故に、「<ruby>貞<rp>（</rp><rt>てい</rt><rp>）</rp>操<rp>（</rp><rt>そう</rt><rp>）</rp></ruby>は女の道の第一なり」</p>
 
 <p>として、
@@ -49,18 +50,17 @@
 
 <h2 class="yellow" id="takarabako">女大学宝箱</h2>
 
-<p><a href="#renvoi_takarabako" alt="女大学とは？">女大学とは？ ↑</a></p>
+<p><a href="#renvoi_takarabako" title="女大学とは？">女大学とは？ ↑</a></p>
 
 <h3 class="yellow">内容目次</h3>
 
-<div id="translation-text-rousi">
+<div>
 <ol Class="doc">
-<li value="1"</sup></td>
-<td><a href="#1" id="renvoi_1">女児はひとえに親のおしえひとつで育つものである。⭣</a></li>
+<li value="1"><a href="#1" id="renvoi_1">女児はひとえに親のおしえひとつで育つものである。⭣</a></li>
 <li value="2"><a href="#2" id="renvoi_2">女は<ruby>容<rp>（</rp><rt>かたち</rt><rp>）</rp></ruby>より心の勝っているのがよろしい。⭣</a></li>
 <li value="3"><a href="#3" id="renvoi_3">男女の別を正しくして、女子は独自の徳を身につけなければいけない。⭣</a></li>
 <li value="4"><a href="#4" id="renvoi_4">女性にとって本来の家は婚家。<br>七去の法。⭣</a></li>
-<li value="5"><a href="#5" id="renvoi_5">生家の親より、しゅうと・しゅうとめに孝養をつくすべきである。⭣</a></li>
+<li value="5"><a href="#cinq" id="renvoi_cinq">生家の親より、しゅうと・しゅうとめに孝養をつくすべきである。⭣</a></li>
 <li value="6"><a href="#6" id="renvoi_6">婦人は夫を主君としてつかえねばならない。⭣</a></li>
 <li value="7"><a href="#7" id="renvoi_7"><ruby>兄公<rp>（</rp><rt>こじゅうと</rt><rp>）</rp></ruby>・<ruby>女公<rp>（</rp><rt>こじゅうとめ</rt><rp>）</rp></ruby>を敬いむつかじくすべきである。⭣</a></li>
 <li value="8"><a href="#8" id="renvoi_8">嫉妬の心をおこしてはならない。<br>夫にたいするいさめかた。⭣</a></li>
@@ -83,7 +83,7 @@
 
 <h4 class="yellow">本文</h4>
 
-<div id="translation-text-rousi">
+<div>
 <ol Class="doc">
 <li id="1" value="1">夫れ、<ruby>女<rp>（</rp><rt>にょ</rt><rp>）</rp>子<rp>（</rp><rt>し</rt><rp>）</rp></ruby>は成長して他人の家へ行き、<ruby>舅<rp>（</rp><rt>しゆうと</rt><rp>）</rp></ruby>・<ruby>姑<rp>（</rp><rt>しゆとめ</rt><rp>）</rp></ruby>、に<ruby>仕<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>ゆるものなれば、<ruby>男<rp>（</rp><rt>なん</rt><rp>）</rp>子<rp>（</rp><rt>し</rt><rp>）</rp></ruby>よりも、親の教えゆるがせにすべがらず。</li>
 <li>父母<ruby>寵<rp>（</rp><rt>ちょう</rt><rp>）</rp>愛<rp>（</rp><rt>あい</rt><rp>）</rp></ruby>して<ruby>恣<rp>（</rp><rt>ほしいまま</rt><rp>）</rp></ruby>に育てぬれば、夫の家に行きて、必ず<ruby>気<rp>（</rp><rt>き</rt><rp>）</rp>随<rp>（</rp><rt>ずい</rt><rp>）</rp></ruby>（わがまま）にて<ruby>疎<rp>（</rp><rt>うと</rt><rp>）</rp></ruby>まれ、又は舅の<ruby>誨<rp>（</rp><rt>おし</rt><rp>）</rp></ruby>え正しければ堪え<ruby>難<rp>（</rp><rt>がた</rt><rp>）</rp></ruby>く思い、舅を恨み<ruby>誹<rp>（</rp><rt>そし</rt><rp>）</rp></ruby>り、<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>悪しくなりて<ruby>終<rp>（</rp><rt>つい</rt><rp>）</rp></ruby>には追い出だされ、恥を<ruby>曝<rp>（</rp><rt>さら</rt><rp>）</rp></ruby>す。</li>
@@ -122,7 +122,7 @@
 <li>若し<ruby>嫜<rp>（</rp><rt>しゆうとしゆうとめ</rt><rp>）</rp></ruby>の<ruby>命<rp>（</rp><rt>おおせ</rt><rp>）</rp></ruby>あらば、慎み行ないて<ruby>背<rp>（</rp><rt>そむ</rt><rp>）</rp></ruby>くべからず。</li>
 <li><ruby>万<rp>（</rp><rt>よるず</rt><rp>）</rp></ruby>のこと、<ruby>舅<rp>（</rp><rt>しゆうと</rt><rp>）</rp></ruby>・<ruby>姑<rp>（</rp><rt>しゆうとめ</rt><rp>）</rp></ruby>に問うて、其の教えに<ruby>任<rp>（</rp><rt>まか</rt><rp>）</rp></ruby>すべし。</li>
 <li><ruby>舅<rp>（</rp><rt>しゆうと</rt><rp>）</rp></ruby>・<ruby>姑<rp>（</rp><rt>しゆうとめ</rt><rp>）</rp></ruby>もし我を憎み<ruby>誹<rp>（</rp><rt>そし</rt><rp>）</rp></ruby>り給うとも、怒り恨むることなかれ。</li>
-<li>孝を尽くして誠をもってつかゆれば、<ruby>後<rp>（</rp><rt>のち</rt><rp>）</rp></ruby>はかならず<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp>好<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>くなるもの也。 <a href="#renvoi_5" id="5">↑</a></li>
+<li>孝を尽くして誠をもってつかゆれば、<ruby>後<rp>（</rp><rt>のち</rt><rp>）</rp></ruby>はかならず<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp>好<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>くなるもの也。 <a href="#renvoi_cinq" id="cinq">↑</a></li>
 <li id="6" value="6">婦人は別に主君なし。 夫を主人と思い、敬い慎みて<ruby>事<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>うべし。<ruby>軽<rp>（</rp><rt>かろ</rt><rp>）</rp></ruby>しめ<ruby>侮<rp>（</rp><rt>あなど</rt><rp>）</rp></ruby>るべからず。総じて婦人の道は、人に従うにあり。</li>
 <li>夫に対するに、顔色言葉づかい<ruby>慇<rp>（</rp><rt>いん</rt><rp>）</rp>懃<rp>（</rp><rt>ぎん</rt><rp>）</rp></ruby>に<ruby>謙<rp>（</rp><rt>へりくだ</rt><rp>）</rp></ruby>り、和順なるべし。<ruby>不忍<rp>（</rp><rt>いぶり</rt><rp>）</rp></ruby>（不平をいうこと）にして不順なるべからず。奢りて無礼なるべからず。</li>
 <li>これ<ruby>女<rp>（</rp><rt>にょ</rt><rp>）</rp>子<rp>（</rp><rt>し</rt><rp>）</rp></ruby>第一勤めなり。</li>
@@ -203,7 +203,7 @@
 <p><b>益軒貝原先生述</b></p>
 <p><time datetime="1716-08">享保元丙申八月吉日</time></p>
 <p><address>江戸日本橋南一丁目</address></p>
-<p><b>小川 彦九郎</b></p>
+<p><b>小川彦九郎</b></p>
 <p>書林</p>
 <p>大坂心斎橋順慶町</p>
 <p><b>柏原清右衛門</b></p>
@@ -214,7 +214,7 @@
 <h3 class="yellow">新女大学</h3>
 
 <div class="notices yellow">
-<p><a href="https://ja.wikipedia.org/wiki/福沢諭吉" alt="https://ja.wikipedia.org/wiki/福沢諭吉">福沢諭吉</a>は「女大学評論」で本書を批判し、「新女大学」を著し、新時代の女子を歩む道を示したことも知られています。</p>
+<p><a href="https://ja.wikipedia.org/wiki/福沢諭吉" title="https://ja.wikipedia.org/wiki/福沢諭吉">福沢諭吉</a>は「女大学評論」で本書を批判し、「新女大学」を著し、新時代の女子を歩む道を示したことも知られています。</p>
 </div>
 
 <h3 class="yellow note">参考文献</h3>
@@ -226,7 +226,7 @@
 
 </aside>
 
-<article>
+</article>
 `;
 
 
