@@ -19,7 +19,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-840.webp 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1280.webp 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-840.jpg" title="「ラ・ジョコンデュ」か「ジョコンダ婦人、モナ・リザ」と言われているフランテスコ・デル・ジョコンド妻であるジェラルディニーの肖像画" alt="「ラ・ジョコンデュ」か「ジョコンダ婦人、モナ・リザ」と言われているフランテスコ・デル・ジョコンド妻であるジェラルディニーの肖像画" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-840.jpg" title="「ラ・ジョコンデュ」か「ジョコンダ婦人、モナ・リザ」と言われているフランテスコ・デル・ジョコンド妻であるジェラルディニーの肖像画" alt="「ラ・ジョコンデュ」か「ジョコンダ婦人、モナ・リザ」と言われているフランテスコ・デル・ジョコンド妻であるジェラルディニーの肖像画" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-280.jpg 280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-480.jpg 480w,
@@ -38,9 +38,8 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.l
 <p>この描写は何よりもヴァザーリにとっての価値を理解することも可能にしているのです。</p>
 </div>
 
-<article>
-
-<h2 id="vasari" class="yellow"><time datetime="1550">１５５０年</time>版の<cite><ruby lang="ja" style="letter-spacing: 2px;color:#3d8b3d;">画家・彫刻家・建築家列伝<rp>（</rp><rt lang="it" style="font-size: 70%;color:#3d8b3d;">le&#160;vite&#160;de&#39;&#160;piu&#160;eccelenti&#160;pittori,&#160;scultori&#160;e&#160;architettori</rt><rp>）</rp></ruby>の文書においての</cite><cite>モナ・リザ</cite></h2>
+<section id="vasari-1550">
+<h2 class="yellow"><time datetime="1550">１５５０年</time>版の<cite><ruby lang="ja" style="letter-spacing: 2px;color:#3d8b3d;">画家・彫刻家・建築家列伝<rp>（</rp><rt lang="it" style="font-size: 70%;color:#3d8b3d;">le&#160;vite&#160;de&#39;&#160;piu&#160;eccelenti&#160;pittori,&#160;scultori&#160;e&#160;architettori</rt><rp>）</rp></ruby>の文書においての</cite><cite>モナ・リザ</cite></h2>
 
 <p>レオナルドは、<span style="color: #3d8b3d;"><ruby lang="ja">フランテスコ<rp>（</rp><rt lang="it">Francesco</rt><rp>）</rp>・<rp>（</rp><rt lang="it">&#160;</rt><rp>）</rp>デル<rp>（</rp><rt lang="it">del</rt><rp>）</rp>・<rp>（</rp><rt lang="it">&#160;</rt><rp>）</rp>ジョコンド<rp>（</rp><rt lang="it">Giocondo</rt><rp>）</rp></ruby>のために、妻<mark><ruby lang="ja">モナ<rp>（</rp><rt lang="it">Mona</rt><rp>）</rp>・<rp>（</rp><rt lang="it">&#160;</rt><rp>）</rp>リザ<rp>（</rp><rt lang="it">Lisa</rt><rp>）</rp></ruby></mark>の肖像画を請け負った</span>。そして、<time datetime="P4Y">四年間</time>悩んだ末に未完成のままにしてしまったのです。</p>
 <p>この作品は現在、フォンテーヌブローにあって、<a href="https://ja.wikipedia.org/wiki/フランソワ1世_(フランス王)" title="https://ja.wikipedia.org/wiki/フランソワ1世_(フランス王)">フランス国のフランソワ王</a>が所有しています。</p>
@@ -58,12 +57,10 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.l
 <footer>
   <p><a href="https://ja.wikipedia.org/wiki/ジョルジョ・ヴァザーリ" title="https://ja.wikipedia.org/wiki/ジョルジョ・ヴァザーリ"><ruby lang="ja">ジョルジョ<rp>（</rp><rt lang="it">Giorgio</rt><rp>）</rp>・<rp>（</rp><rt lang="it">&#160;</rt><rp>）</rp>ヴァザーリ<rp>（</rp><rt lang="it">VASARI</rt><rp>）</rp></ruby></a><span style="color: #3d8b3d;">、「</span><cite><ruby lang="ja" style="letter-spacing: 2px;color:#3d8b3d;">画家・彫刻家・建築家列伝<rp>（</rp><rt lang="it" style="font-size: 70%;color:#3d8b3d;">le&#160;vite&#160;de&#39;&#160;piu&#160;eccelenti&#160;pittori,&#160;scultori&#160;e&#160;architettori</rt><rp>）</rp></ruby></cite><span style="color: #3d8b3d;"> 」、第ニ巻、第三部、５７０項から５７１項までより。</span></p>
 </footer>
+</section>
 
-</article>
-
-<article>
-
-<h2 id="vasari" class="yellow"><time datetime="1568">１５６８年</time>版の<cite><ruby lang="ja" style="letter-spacing: 2px;color:#3d8b3d;">画家・彫刻家・建築家列伝<rp>（</rp><rt lang="it" style="font-size: 70%;color:#3d8b3d;">le&#160;vite&#160;de&#39;&#160;piu&#160;eccelenti&#160;pittori,&#160;scultori&#160;e&#160;architettori</rt><rp>）</rp></ruby>の文書においての</cite><cite>モナ・リザ</cite></h2>
+<section id="vasari-1568">
+<h2 class="yellow"><time datetime="1568">１５６８年</time>版の<cite><ruby lang="ja" style="letter-spacing: 2px;color:#3d8b3d;">画家・彫刻家・建築家列伝<rp>（</rp><rt lang="it" style="font-size: 70%;color:#3d8b3d;">le&#160;vite&#160;de&#39;&#160;piu&#160;eccelenti&#160;pittori,&#160;scultori&#160;e&#160;architettori</rt><rp>）</rp></ruby>の文書においての</cite><cite>モナ・リザ</cite></h2>
 
 <p>その後、<ruby>彼<rp>（</rp><rt>レオナルド</rt><rp>）</rp></ruby>は、<span style="color: #3d8b3d;"><ruby lang="ja">フランテスコ<rp>（</rp><rt lang="it">Francesco</rt><rp>）</rp>・<rp>（</rp><rt lang="it">&#160;</rt><rp>）</rp>デル<rp>（</rp><rt lang="it">del</rt><rp>）</rp>・<rp>（</rp><rt lang="it">&#160;</rt><rp>）</rp>ジョコンド<rp>（</rp><rt lang="it">Giocondo</rt><rp>）</rp></ruby>のために、その妻<mark><ruby lang="ja">モナ<rp>（</rp><rt lang="it">Mona</rt><rp>）</rp>・<rp>（</rp><rt lang="it">&#160;</rt><rp>）</rp>リザ<rp>（</rp><rt lang="it">Lisa</rt><rp>）</rp></ruby></mark>の肖像画の制作を引き受けた</span>。<time datetime="P4Y">四年間</time>努力した末に未完成のまま残した。</p>
 <p>この作品は現在、<a href="https://ja.wikipedia.org/wiki/フランソワ1世_(フランス王)" title="https://ja.wikipedia.org/wiki/フランソワ1世_(フランス王)">フランス国王フランソワ</a>のもと、<a href="https://ja.wikipedia.org/wiki/フォンテーヌブロー" title="https://ja.wikipedia.org/wiki/フォンテーヌブロー">フォンテーヌブロー</a>にある。</p>
@@ -75,14 +72,13 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.l
 <p>口はその開き具合や、唇が赤く彩られているところ、顔の血色などからして、色を塗られたのではなく、本当に肉そのもののように見えた。</p>
 <p>胸のくぼみには、注意深く見たと誰にでも脈が打っているのが見え、この作品は、本当にどんな勇敢な芸術家でも恐れおののくような方法で描かれたと言える。</p>
 
-また、彼は、<span style="color: #3d8b3d;"><mark>モナ・リザ</mark>が非常に美しかったため、肖像画を描くときに絵画が与えがちな<ruby style="letter-spacing:2px;color:#3d8b3d;">憂<rp>（</rp><rt style="font-size:70%;color:#3d8b3d;">ゆう</rt><rp>）</rp>鬱<rp>（</rp><rt style="font-size:70%;color:#3d8b3d;">うつ</rt><rp>）</rp></ruby>さを追い払うために、彼女を描いている間、彼女を陽気にさせるために、彼女に演奏や歌を聴かせたり、絶えず<ruby style="letter-spacing:2px;color:#3d8b3d;">道<rp>（</rp><rt style="font-size:70%;color:#3d8b3d;">どう</rt><rp>）</rp>化<rp>（</rp><rt style="font-size: 70%;color:#3d8b3d;">け</rt><rp>）</rp>師<rp>（</rp><rt style="font-size:70%;color:#3d8b3d;">し</rt><rp>）</rp></ruby>に頼ったりと、このような策略を用いた。</span></p>
+<p>また、彼は、<span style="color: #3d8b3d;"><mark>モナ・リザ</mark>が非常に美しかったため、肖像画を描くときに絵画が与えがちな<ruby style="letter-spacing:2px;color:#3d8b3d;">憂<rp>（</rp><rt style="font-size:70%;color:#3d8b3d;">ゆう</rt><rp>）</rp>鬱<rp>（</rp><rt style="font-size:70%;color:#3d8b3d;">うつ</rt><rp>）</rp></ruby>さを追い払うために、彼女を描いている間、彼女を陽気にさせるために、彼女に演奏や歌を聴かせたり、絶えず<ruby style="letter-spacing:2px;color:#3d8b3d;">道<rp>（</rp><rt style="font-size:70%;color:#3d8b3d;">どう</rt><rp>）</rp>化<rp>（</rp><rt style="font-size: 70%;color:#3d8b3d;">け</rt><rp>）</rp>師<rp>（</rp><rt style="font-size:70%;color:#3d8b3d;">し</rt><rp>）</rp></ruby>に頼ったりと、このような策略を用いた。</span></p>
 <p><span style="color: #3d8b3d;">レオナルドの微笑みには、心地よさがあったため、それを見るのは人間というよりも神々しいほどであって、それで驚異として捉えていた、それは人生はそれ以外の形で現れて来ないものだから。</span></p>
 
 <footer>
   <p><a href="https://ja.wikipedia.org/wiki/ジョルジョ・ヴァザーリ" title="https://ja.wikipedia.org/wiki/ジョルジョ・ヴァザーリ"><ruby lang="ja">ジョルジョ<rp>（</rp><rt lang="it">Giorgio</rt><rp>）</rp>・<rp>（</rp><rt lang="it">&#160;</rt><rp>）</rp>ヴァザーリ<rp>（</rp><rt lang="it">VASARI</rt><rp>）</rp></ruby></a><span style="color: #3d8b3d;">、「</span><cite><ruby lang="ja" style="letter-spacing: 2px;color:#3d8b3d;">画家・彫刻家・建築家列伝<rp>（</rp><rt lang="it" style="font-size: 70%;color:#3d8b3d;">le&#160;vite&#160;de&#39;&#160;piu&#160;eccelenti&#160;pittori,&#160;scultori&#160;e&#160;architettori</rt><rp>）</rp></ruby></cite><span style="color: #3d8b3d;"> 」、第四巻より。</span></p>
 </footer>
-
-</article>
+</section>
 
 </article>
 `;
