@@ -4,8 +4,6 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-const frontmatter = ``;
-
   const html = `<!-- FR:NONE EN:NONE -->
 
 <article>
