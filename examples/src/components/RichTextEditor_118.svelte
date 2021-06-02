@@ -7,8 +7,9 @@
   const html = `<!-- FR:NONE EN:NONE -->
 
 <article>
-
+<header>
 <p><time datetime="2018-01-15">２０１８年１月１５日</time></p>
+</header>
 
 <h1 class="green">異邦人</h1>
 
