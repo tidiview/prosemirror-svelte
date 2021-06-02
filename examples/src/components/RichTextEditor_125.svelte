@@ -19,7 +19,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-840.webp 840w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1280.webp 1280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1600.webp 1600w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1920.webp 1920w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-840.jpg" id="la_joconde_selon_gautier" title="「ラ・ジョコンデュ」か「ジョコンダ婦人、モナ・リザ」と言われているフランテスコ・デル・ジョコンド妻であるジェラルディニーの肖像画" alt="「ラ・ジョコンデュ」か「ジョコンダ婦人、モナ・リザ」と言われているフランテスコ・デル・ジョコンド妻であるジェラルディニーの肖像画" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+  https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1920.webp 1920w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-840.jpg" id="la_joconde_selon_gautier" title="「ラ・ジョコンデュ」か「ジョコンダ婦人、モナ・リザ」と言われているフランテスコ・デル・ジョコンド妻であるジェラルディニーの肖像画" alt="「ラ・ジョコンデュ」か「ジョコンダ婦人、モナ・リザ」と言われているフランテスコ・デル・ジョコンド妻であるジェラルディニーの肖像画" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-280.jpg 280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-480.jpg 480w,
@@ -32,7 +32,7 @@
 
 <div class="notices green">
 
-<p>以下の<a href="https://ja.wikipedia.org/wiki/モナ・リザ" title="https://ja.wikipedia.org/wiki/モナ・リザ">モナ・リザ</a>の描写は、ロマン主義作家の<a href="https://ja.wikipedia.org/wiki/テオフィル・ゴーティエ" title="https://ja.wikipedia.org/wiki/テオフィル・ゴーティエ"><ruby lang="ja">テオフィル<rp>(</rp><rt lang="fr">Théophile</rt><rp>)</rp>・<rp>(</rp><rt lang="fr">&#160;</rt><rp>)</rp>ゴーティエ<rp>(</rp><rt lang="fr">GAUTIER</rt><rp>)</rp></ruby lang="ja"></a>によって書かれ、<time datetime="1867">１８６７年</time>にパリで出版された。</p>
+<p>以下の<a href="https://ja.wikipedia.org/wiki/モナ・リザ" title="https://ja.wikipedia.org/wiki/モナ・リザ">モナ・リザ</a>の描写は、ロマン主義作家の<a href="https://ja.wikipedia.org/wiki/テオフィル・ゴーティエ" title="https://ja.wikipedia.org/wiki/テオフィル・ゴーティエ"><ruby lang="ja">テオフィル<rp>(</rp><rt lang="fr">Théophile</rt><rp>)</rp>・<rp>(</rp><rt lang="fr">&#160;</rt><rp>)</rp>ゴーティエ<rp>(</rp><rt lang="fr">GAUTIER</rt><rp>)</rp></ruby></a>によって書かれ、<time datetime="1867">１８６７年</time>にパリで出版された。</p>
 <p>この絵画の歴史にとっては極めて重要な描写である。なぜなら、その描写によって<a href="https://ja.wikipedia.org/wiki/レオナルド・ダ・ヴィンチ" title="https://ja.wikipedia.org/wiki/レオナルド・ダ・ヴィンチ">レオナルド・ダ・ヴィンチ</a>の作品が体現しているかのような神秘の名によって、同時に神話化されながら、<time datetime="1950">二十世紀</time>の作品の偏った見方の多くに影響を与えていくことになる。</p>
 <p>私たちはこの描写は女性蔑視だとしたら、この女性蔑視主義がレオナルド・ダ・ヴィンチ作品の一部でも芸術的感情の一部ほどでもなければ、モナ・リザがテオフィル・ゴーティエの空想を排除されることによくなると確信している。</p>
 </div>
@@ -66,19 +66,22 @@
 <p>今では、神秘が魅力に付け加えて、絵はその新鮮さでは、もしかしてこれほど魅力的ではなかったかも。</p>
 
 <footer>
-  <p><a href="https://ja.wikipedia.org/wiki/テオフィル・ゴーティエ" title="https://ja.wikipedia.org/wiki/テオフィル・ゴーティエ" class="green"><ruby lang="ja" style="letter-spacing: 2px;color:#3d8b3d;">テオフィル<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">Théophile</rt><rp>)</rp>・<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">&#160;</rt><rp>)</rp>ゴーティエ<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">GAUTIER</rt><rp>)</rp></ruby></a>、「<a id="renvoi-paris-guide" href="#paris-guide" title="#paris-guide"><cite><ruby lang="ja" style="letter-spacing: 2px;color:#3d8b3d;">パリ<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">Paris</rt><rp>)</rp>・<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">&#160</rt><rp>)</rp>ギード<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">Guide</rt><rp>)</rp></ruby></cite></a>」の「<cite>ルーブル美術館</cite>章」より抜粋文書。</span></p>
+  <p><a href="https://ja.wikipedia.org/wiki/テオフィル・ゴーティエ" title="https://ja.wikipedia.org/wiki/テオフィル・ゴーティエ" class="green"><ruby lang="ja" style="letter-spacing: 2px;color:#3d8b3d;">テオフィル<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">Théophile</rt><rp>)</rp>・<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">&#160;</rt><rp>)</rp>ゴーティエ<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">GAUTIER</rt><rp>)</rp></ruby></a>、「<a id="renvoi-paris-guide" href="#paris-guide" title="#paris-guide"><cite><ruby lang="ja" style="letter-spacing: 2px;color:#3d8b3d;">パリ<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">Paris</rt><rp>)</rp>・<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">&#160;</rt><rp>)</rp>ギード<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">Guide</rt><rp>)</rp></ruby></cite></a>」の「<cite>ルーブル美術館</cite>章」より抜粋文書。</p>
 </footer>
 
 <aside>
 <h3 class="green">注釈：</h3>
-<h4 id="paris-guide" class="green note">出版名について</h4>
 
-<p><cite><ruby lang="ja" style="letter-spacing: 2px;color:#3d8b3d;">パリ<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">Paris</rt><rp>)</rp>・<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">&#160</rt><rp>)</rp>ギード<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">Guide</rt><rp>)</rp></ruby></cite>というニ巻の大著作はフランス政府が様々な専門家たちにパリ<time datetime="1867">１８６７年</time>博覧会の開催を切っ掛けに依頼した解題作であります。</p>
+<section id="paris-guide">
+<h4 class="green note">出版名について</h4>
+
+<p><cite><ruby lang="ja" style="letter-spacing: 2px;color:#3d8b3d;">パリ<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">Paris</rt><rp>)</rp>・<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">&#160;</rt><rp>)</rp>ギード<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">Guide</rt><rp>)</rp></ruby></cite>というニ巻の大著作はフランス政府が様々な専門家たちにパリ<time datetime="1867">１８６７年</time>博覧会の開催を切っ掛けに依頼した解題作であります。</p>
 <p><a href="https://ja.wikipedia.org/wiki/アレクサンドル・デュマ・フィス" title="https://ja.wikipedia.org/wiki/アレクサンドル・デュマ・フィス">デュマ</a>、<a href="https://ja.wikipedia.org/wiki/シャルル＝オーギュスタン・サント＝ブーヴ" title="https://ja.wikipedia.org/wiki/シャルル＝オーギュスタン・サント＝ブーヴ">サント＝ブーヴ</a>、<a href="https://ja.wikipedia.org/wiki/ウジェーヌ・エマニュエル・ヴィオレ・ル・デュク" title="https://ja.wikipedia.org/wiki/ウジェーヌ・エマニュエル・ヴィオレ・ル・デュク">ヴィオレ・ル・デュク</a>、<a href="https://ja.wikipedia.org/wiki/ジョルジュ・サンド" title="https://ja.wikipedia.org/wiki/ジョルジュ・サンド">ジョルジュ・サンド</a>、<a href="https://ja.wikipedia.org/wiki/ナダール" title="https://ja.wikipedia.org/wiki/ナダール">ナダール</a>なども参加したフランスの主な作家と芸術家によって書かれて、その後、<time datetime="1882">１８８２年</time>、ゴーティエの死後、「ルーブル美術館での素人のガイドブック」題名で再板された。</p>
 
 <footer>
-  <p class="puce"><a href="#renvoi-paris-guide" title="#renvoi-paris-guide">文書に戻る&nbsp↩</a></p>
+  <p class="puce"><a href="#renvoi-paris-guide" title="#renvoi-paris-guide">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 </aside>
 
 </article>
