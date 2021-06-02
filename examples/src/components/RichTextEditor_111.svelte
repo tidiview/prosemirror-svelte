@@ -7,8 +7,9 @@
   const html = `<!-- FR:NONE EN:NONE -->
 
 <article>
-
+<header>
 <p><time datetime="2016-06-15">２０１６年６月１５日</time></p>
+</header>
 
 <h1 class="yellow">朱子学とは何か</h1>
 
@@ -17,6 +18,7 @@
 <p>それで、私のような、何も知らない人でもある程度朱子学を理解できるのではないかと思う。</p>
 </div>
 
+<section>
 <h2 class="yellow">朱子学</h2>
 
 <p>朱子学とはどのような儒学思想なのか。</p>
@@ -55,6 +57,8 @@
   <p><a href="https://ja.wikipedia.org/wiki/揖斐高" title="https://ja.wikipedia.org/wiki/揖斐高"><ruby>揖<rp>（</rp><rt>い</rt><rp>）</rp>斐<rp>（</rp><rt>び</rt><rp>）</rp>・<rp>（</rp><rt></rt><rp>）</rp>高<rp>（</rp><rt>たかし</rt><rp>）</rp></ruby></a>、「<a href="https://www.amazon.co.jp/江戸幕府と儒学者-林羅山・鵞峰・鳳岡三代の闘い-中公新書-揖斐-高/dp/4121022734" title="https://www.amazon.co.jp/江戸幕府と儒学者-林羅山・鵞峰・鳳岡三代の闘い-中公新書-揖斐-高/dp/4121022734"><cite>江戸幕府と儒学者</cite></a>」、五十五貢。</p>
 </div>
 </footer>
+
+</section>
 
 </article>
 `;
