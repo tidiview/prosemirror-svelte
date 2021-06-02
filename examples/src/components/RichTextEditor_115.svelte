@@ -7,13 +7,14 @@
   const html = `<!-- FR:NONE EN:NONE -->
 
 <article>
-
+<header>
 <p><time datetime="2016-07-23">２０１６年７月２３日</time></p>
+</header>
 
 <h1 class="yellow">すばらしい美男美女</h1>
 
 <div class="notices yellow">
-<p>中国文学者 <a href="https://ja.wikipedia.org/wiki/貝塚茂樹" title="https://ja.wikipedia.org/wiki/貝塚茂樹"><ruby>貝<rp>（</rp><rt>かい</rt><rp>）</rp>塚<rp>（</rp><rt>づか</rt><rp>）</rp>茂<rp>（</rp><rt>しげ</rt><rp>）</rp>樹<rp>（</rp><rt>き</rt><rp>）</rp></ruby></a> が書いた「 <a href="https://www.amazon.co.jp/諸子百家――中国古代の思想家たち-岩波新書-貝塚-茂樹/dp/4004130476/378-6956610-7563751?ie=UTF8&%2AVersion%2A=1&%2Aentries%2A=0" title="https://www.amazon.co.jp/諸子百家――中国古代の思想家たち-岩波新書-貝塚-茂樹/dp/4004130476/378-6956610-7563751?ie=UTF8&*Version*=1&*entries*=0"><cite><ruby>諸<rp>（</rp><rt>しょ</rt><rp>）</rp>子<rp>（</rp><rt>し</rt><rp>）</rp>百家<rp>（</rp><rt>ひゃっか</rt><rp>）</rp></ruby></cite></a> 」を読んで、初めて、 <a href="https://ja.wikipedia.org/wiki/墨子" title="https://ja.wikipedia.org/wiki/墨子"><ruby>墨<rp>（</rp><rt>ぼく</rt><rp>）</rp>子<rp>（</rp><rt>し</rt><rp>）</rp></ruby></a> を知りました。面白い！</p></div>
+<p>中国文学者 <a href="https://ja.wikipedia.org/wiki/貝塚茂樹" title="https://ja.wikipedia.org/wiki/貝塚茂樹"><ruby>貝<rp>（</rp><rt>かい</rt><rp>）</rp>塚<rp>（</rp><rt>づか</rt><rp>）</rp>茂<rp>（</rp><rt>しげ</rt><rp>）</rp>樹<rp>（</rp><rt>き</rt><rp>）</rp></ruby></a> が書いた「 <a href="https://www.amazon.co.jp/諸子百家――中国古代の思想家たち-岩波新書-貝塚-茂樹/dp/4004130476/378-6956610-7563751" title="https://www.amazon.co.jp/諸子百家――中国古代の思想家たち-岩波新書-貝塚-茂樹/dp/4004130476/378-6956610-7563751?ie=UTF8&*Version*=1&*entries*=0"><cite><ruby>諸<rp>（</rp><rt>しょ</rt><rp>）</rp>子<rp>（</rp><rt>し</rt><rp>）</rp>百家<rp>（</rp><rt>ひゃっか</rt><rp>）</rp></ruby></cite></a> 」を読んで、初めて、 <a href="https://ja.wikipedia.org/wiki/墨子" title="https://ja.wikipedia.org/wiki/墨子"><ruby>墨<rp>（</rp><rt>ぼく</rt><rp>）</rp>子<rp>（</rp><rt>し</rt><rp>）</rp></ruby></a> を知りました。面白い！</p></div>
 
 <h2 class="yellow"><ruby>墨<rp>（</rp><rt>ぼく</rt><rp>）</rp>子<rp>（</rp><rt>し</rt><rp>）</rp></ruby></h2>
 
@@ -40,11 +41,12 @@
 <footer>
 
 <div class="notices yellow">
-<p><a href="https://ja.wikipedia.org/wiki/貝塚茂樹" title="https://ja.wikipedia.org/wiki/貝塚茂樹"><ruby>貝<rp>（</rp><rt>かい</rt><rp>）</rp>塚<rp>（</rp><rt>づか</rt><rp>）</rp>茂<rp>（</rp><rt>しげ</rt><rp>）</rp>樹<rp>（</rp><rt>き</rt><rp>）</rp></ruby></a>、「<a href="https://www.amazon.co.jp/諸子百家――中国古代の思想家たち-岩波新書-貝塚-茂樹/dp/4004130476/378-6956610-7563751?ie=UTF8&%2AVersion%2A=1&%2Aentries%2A=0" title="https://www.amazon.co.jp/諸子百家――中国古代の思想家たち-岩波新書-貝塚-茂樹/dp/4004130476/378-6956610-7563751?ie=UTF8&*Version*=1&*entries*=0"><cite><ruby>諸<rp>（</rp><rt>しょ</rt><rp>）</rp>子<rp>（</rp><rt>し</rt><rp>）</rp>百家<rp>（</rp><rt>ひゃっか</rt><rp>）</rp></ruby></a>、中国古代の思想家たち</cite>」、岩波新書４３７、<time datetime="1975-12-20">１９７５年１２月２０日</time>第１９刷発行。第二章「人類愛と平和についての対話、墨子の思想」、第４０項から。</p>
+<p><a href="https://ja.wikipedia.org/wiki/貝塚茂樹" title="https://ja.wikipedia.org/wiki/貝塚茂樹"><ruby>貝<rp>（</rp><rt>かい</rt><rp>）</rp>塚<rp>（</rp><rt>づか</rt><rp>）</rp>茂<rp>（</rp><rt>しげ</rt><rp>）</rp>樹<rp>（</rp><rt>き</rt><rp>）</rp></ruby></a>、「<cite><a href="https://www.amazon.co.jp/諸子百家――中国古代の思想家たち-岩波新書-貝塚-茂樹/dp/4004130476/378-6956610-7563751" title="https://www.amazon.co.jp/諸子百家――中国古代の思想家たち-岩波新書-貝塚-茂樹/dp/4004130476/378-6956610-7563751"><ruby>諸<rp>（</rp><rt>しょ</rt><rp>）</rp>子<rp>（</rp><rt>し</rt><rp>）</rp>百家<rp>（</rp><rt>ひゃっか</rt><rp>）</rp></ruby></a>、中国古代の思想家たち</cite>」、岩波新書４３７、<time datetime="1975-12-20">１９７５年１２月２０日</time>第１９刷発行。第二章「人類愛と平和についての対話、墨子の思想」、第４０項から。</p>
+</div>
 
 </footer>
 
-<article>
+</article>
 `;
 
 
