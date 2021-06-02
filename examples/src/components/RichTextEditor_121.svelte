@@ -7,8 +7,9 @@
   const html = `<!-- FR:152 EN:184 -->
 
 <article>
-
+<header>
 <p><time datetime="2020-02-23">２０２０年２月２３日</time></p>
+</header>
 
 <h1 class="green">トゥールのグレゴリウスによるキルペリック一世と<wbr>プリスクスの出会い</h1>
 
@@ -31,7 +32,7 @@
 <p class="conversation">「こちらへおいで下さい、神のしもべよ、<span style="color: #3d778a;">「お手をこの人の頭に置きたまわんことを」</span>（マタイ伝、９、１８）</p>
 <p><span style="color: #3d638a;">ユダヤ人</span>が嫌がると<span style="color: #3d778a;">王</span>は言った。</p>
 <p class="conversation"><span style="color: #3d778a;">「何と<ruby>頑<rp>（</rp><rt>かたくな</rt><rp>）</rp></ruby>な、常に不信心な民族か。この人たちは自分たちの預言者の声を通じて神の<ruby>御<rp>（</rp><rt>み</rt><rp>）</rp>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>が約束されたことを知ろうとせず、その神の御子の犠牲の上に教会の神秘が建てられたことを知ろうとしないのです」。</span></p>
-<p>すると<span style="color: #3d638a;">ユダヤ人</span>は答えた。</span></p>
+<p>すると<span style="color: #3d638a;">ユダヤ人</span>は答えた。</p>
 <p class="conversation"><span style="color: #3d638a;">「神は結婚せず、子を持たず、王国の中に自分と同等の者を必要としません。神はモーセを通じ、</span><a href="#note_deuteronome" title="申命記、第三十二章、三十九節" id="deuteronome" class="green">「今こそは見よ、
 われこそは彼なり。
 われの他には神なし。
@@ -46,7 +47,7 @@
 <p>そこで<span style="color: #3d638a;">ユダヤ人</span>は尋ねた。</p>
 <p class="conversation"><span style="color: #3d638a;">「一体、神なるものが人となり、女より生まれ、鞭打たれ、死をこうむるなんてことがあり得ますか」</span></p>
 <p>この言葉に<span style="color: #3d778a;">王</span>が黙り込んだので、<span style="color: #503d8a;">私</span>が口をはさんだ。</p>
-<p class="conversation"><span style="color: #503d8a;">「神の御子、すなわち神が人となりたまうたのは、神の事情によるのでなくて我々人間の側の事情によるのです。</p>
+<p class="conversation"><span style="color: #503d8a;">「神の御子、すなわち神が人となりたまうたのは、神の事情によるのでなくて我々人間の側の事情によるのです。</span></p>
 <p class="conversation">というのは、人間が罪を犯し、悪魔に従属してしまった以上、神は人の姿を取らねば人間をあがない戻すことがで きなかったのです。</p>
 <p class="conversation">「私はあなたが信じない福音書や使徒の言葉ではなく、あなたの聖書（旧約聖書）の言葉を引用しましょう。</p>
 <p class="conversation">ダビデがゴリアテをそうやってやっつけたと書いてあるように、あなたがたの剣で攻撃しましょう。</p>
@@ -136,16 +137,19 @@
 
 <h3 class="green">註釈：</h3>
 
-<h4 id="note_villa" class="green note">上述の館に滞在し</h4>
+<section id="note_villa">
+<h4 class="green note">上述の館に滞在し</h4>
 
 <div class="notices green">
 <p>原稿文書ではラテン語で「<ruby lang="ja">ノヴィゲントゥム<rp>（</rp><rt lang="la">Novigentum</rt><rp>）</rp></ruby>」、多分現在の<a href="https://ja.wikipedia.org/wiki/ノジャン＝シュル＝マルヌ" title="https://ja.wikipedia.org/wiki/ノジャン＝シュル＝マルヌ"><ruby lang="ja">ノジャン<rp>（</rp><rt lang="fr">Nogent</rt><rp>）</rp>＝<rp>（</rp><rt lang="fr">-</rt><rp>）</rp>シュル<rp>（</rp><rt lang="fr">sur</rt><rp>）</rp>＝<rp>（</rp><rt lang="fr">-</rt><rp>）</rp>マルヌ<rp>（</rp><rt lang="fr">Marne</rt><rp>）</rp></ruby></a>。</p>
 
 <footer>
-  <p class="puce">文書に戻る： <a href="#villa" title="villa">「上述の館に滞在し」 ↩</a></p>
+  <p class="puce">文書に戻る： <a href="#villa" title="villa">「上述の館に滞在し」&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_deuteronome" class="green note">見よ、わたしこそ、主である</h4>
+<section id="note_deuteronome">
+<h4 class="green note">見よ、わたしこそ、主である</h4>
 <div class="notices green">
   <p><cite>申命記</cite>、第三十二章、三十九節：<p>
   <ol class="doc">
@@ -167,27 +171,33 @@
   </ol>
 </div>
 <footer>
-  <p class="puce"><a href="#deuteronome" title="<cite>申命記</cite>、第三十二章、三十九節">文書に戻る&nbsp↩</a></p>
+  <p class="puce"><a href="#deuteronome" title="<cite>申命記</cite>、第三十二章、三十九節">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_engendre" class="green note">暁の前に胎より汝を産めり</h4>
+<section id="note_engendre">
+<h4 class="green note">暁の前に胎より汝を産めり</h4>
 <div class="notices green">
   <p>この引用文は、ヘブライ語の原文には存在しない詩篇第百十詩篇、三節のヴルガータ訳からの借用である。</p>
 </div>
 <footer>
-  <p class="puce"><a href="#engendre" title="暁の前に胎より汝を産めり">文書に戻る&nbsp↩</a></p>
+  <p class="puce"><a href="#engendre" title="暁の前に胎より汝を産めり">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_verbe" class="green note">主は御言葉を遣わして彼らを癒し</h4>
+<section id="note_verbe">
+<h4 class="green note">主は御言葉を遣わして彼らを癒し</h4>
 <div class="notices green">
   <p>第百七詩篇、二十節</p>
   <p id="20" class="single-li">主は御言葉を遣わして彼らを癒し破滅から彼らを救い出された。</p>
 </div>
 <footer>
-  <p class="puce"><a href="#verbe" title="主は御言葉を遣わして彼らを癒し">文書に戻る&nbsp↩</a></p>
+  <p class="puce"><a href="#verbe" title="主は御言葉を遣わして彼らを癒し">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_enfanter" class="green note">子を産ませるわたしが胎を閉ざすことがあろうか</h4>
+<section id="note_enfanter">
+<h4 class="green note">子を産ませるわたしが胎を閉ざすことがあろうか</h4>
 <div class="notices green">
   <p>トゥールのグレゴリウスの聖書本文の解釈には疑問がある。</p>
   <p>イザヤ書、第六十六、九節：</p>
@@ -200,20 +210,24 @@
   </ol>
 </div>
 <footer>
-  <p class="puce"><a href="#enfanter" title="子を産ませるわたしが胎を閉ざすことがあろうか">文書に戻る&nbsp↩</a></p>
+  <p class="puce"><a href="#enfanter" title="子を産ませるわたしが胎を閉ざすことがあろうか">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_ecoute" class="green note">dieu devait devenir homme</h4>
+<section id="note_ecoute">
+<h4 class="green note">dieu devait devenir homme</h4>
 <div class="notices green">
   <p><ruby lang="ja">ルドルフ・ブフナー<rp>（</rp><rt lang="de">Rudolf&#160;Buchner</rt><rp>）</rp></ruby>の「<ruby lang="ja">十冊の物語の本<rp>（</rp><rt lang="de">Zehn&#160;Bacher&#160;Geschichten</rt><rp>）</rp></ruby>」、１０項、注１で、この引用を、グレゴリウスがヴルガータ訳以外のテキストから借りたとされるエレミヤ書第十七章九節に関連づけています。</p>
   <p>エレミヤ書第十七章九節：</p>
   <p id="9" class="single-li">人の心は何にもまして、とらえ難く病んでいる。誰がそれを知りえようか。</p>
 </div>
 <footer>
-  <p class="puce"><a href="#ecoute" title="神が人になるだろう">文書に戻る&nbsp↩</a></p>
+  <p class="puce"><a href="#ecoute" title="神が人になるだろう">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_luinotredieu" class="green note">この方こそわたしたちの神であり</h4>
+<section id="note_luinotredieu">
+<h4 class="green note">この方こそわたしたちの神であり</h4>
 <div class="notices green">
   <p>バルク書の第三章、三十六節から三十七節まで</p>
   <ol class="doc">
@@ -225,20 +239,24 @@
   </ol>
 </div>
 <footer>
-  <p class="puce"><a href="#luinotredieu" title="ｄ">文書に戻る&nbsp↩</a></p>
+  <p class="puce"><a href="#luinotredieu" title="ｄ">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_vierge" class="green note">彼が処女より生まれたことも</h4>
+<section id="note_vierge">
+<h4 class="green note">彼が処女より生まれたことも</h4>
 <div class="notices green">
   <p>イザヤ書の第七章十四節</p>
   <p>この節は、マタイに「よる福音書に第一章二十三節と二十四節で引用されており、預言者の文章を以下の次の言葉で補完しています。</p>
   <p class="conversation">この名は、神われらと共にいますという意味なり</p>
 </div>
 <footer>
-<p class="puce"><a href="#vierge" title="彼が処女より生まれたことも">文書に戻る&nbsp↩</a></p>
+<p class="puce"><a href="#vierge" title="彼が処女より生まれたことも">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_perce" class="green note">わが手、わが足を刺しつらぬけり、またたがいにわが衣をわかつ</h4>
+<section id="note_perce">
+<h4 class="green note">わが手、わが足を刺しつらぬけり、またたがいにわが衣をわかつ</h4>
 <div class="notices green">
   <p>第二十三詩篇、十七節後部と十九節：</p>
   <ol class="doc">
@@ -248,10 +266,12 @@
   </ol>
 </div>
 <footer>
-  <p class="puce"><a href="#perce" title="わが手、わが足を刺しつらぬけり、またたがいにわが衣をわかつ">文書に戻る&nbsp↩</a></p>
+  <p class="puce"><a href="#perce" title="わが手、わが足を刺しつらぬけり、またたがいにわが衣をわかつ">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_fiel" class="green note">人はわたしに苦いものを食べさせようとし渇くわたしに酢を飲ませようとします</h4>
+<section id="note_fiel">
+<h4 class="green note">人はわたしに苦いものを食べさせようとし渇くわたしに酢を飲ませようとします</h4>
 <div class="notices green">
   <p>第六十九詩編、二十ニ節：</p>
   <ol class="doc">
@@ -260,19 +280,23 @@
   </ol>
 </div>
 <footer>
-  <p class="puce"><a href="#fiel" title="人はわたしに苦いものを食べさせようとし渇くわたしに酢を飲ませようとします">文書に戻る&nbsp↩</a></p>
+  <p class="puce"><a href="#fiel" title="人はわたしに苦いものを食べさせようとし渇くわたしに酢を飲ませようとします">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
+<section>
 <h4 id="note_parlebois" class="green note">神は直き木をもて統べたまう</h4>
 <div class="notices green">
   <p>ここでは「直き木」は十字架を指します。</p>
   <p><ruby lang="ja">ルドルフ・ブフナー<rp>（</rp><rt lang="de">Rudolf&#160;Buchner</rt><rp>）</rp></ruby>の「<ruby lang="ja">十冊の物語の本<rp>（</rp><rt lang="de">Zehn&#160;Bacher&#160;Geschichten</rt><rp>）</rp></ruby>」、十一項、注七によると、この言葉は、キリスト教的な補間であり、ヴルガータ訳の著者たちには受け入れられなかったでしょう。</p>
 </div>
 <footer>
-  <p class="puce"><a href="#parlebois" title="神は直き木をもて統べたまう">文書に戻る&nbsp↩</a></p>
+  <p class="puce"><a href="#parlebois" title="神は直き木をもて統べたまう">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_meurtrissure" class="green note">彼の受けた傷によってわたしたちはいやされた</h4>
+<section id="note_meurtrissure">
+<h4 class="green note">彼の受けた傷によってわたしたちはいやされた</h4>
 <div class="notices green">
   <p>イザヤ書、第五十三章、五節：</p>
   <ol class="doc">
@@ -286,11 +310,12 @@
   </ol>
 </div>
 <footer>
-  <p class="puce"><a href="#meurtrissure" title="彼の受けた傷によってわたしたちはいやされた">文書に戻る&nbsp↩</a></p>
+  <p class="puce"><a href="#meurtrissure" title="彼の受けた傷によってわたしたちはいやされた">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-
-<h4 id="note_commeunebrebis" class="green note">屠殺場にひかるる子羊のごとく</h4>
+<section id="note_commeunebrebis">
+<h4 class="green note">屠殺場にひかるる子羊のごとく</h4>
 <div class="notices green">
   <p>イザヤ書、第五十三章、二節：</p>
   <ol class="doc">
@@ -302,10 +327,12 @@
   </ol>
 </div>
 <footer>
-   <p class="puce"><a href="#commeunebrebis" title="屠殺場にひかるる子羊のごとく">文書に戻る&nbsp↩</a></p>
+   <p class="puce"><a href="#commeunebrebis" title="屠殺場にひかるる子羊のごとく">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_armees" class="green note">その名は万軍の主</h4>
+<section id="note_armees">
+<h4 class="green note">その名は万軍の主</h4>
 <div class="notices green">
   <p>イザヤ書、第五十四章、五節：</p>
   <ol class="doc">
@@ -316,10 +343,12 @@
   </ol>
 </div>
 <footer>
-  <p class="puce"><a href="#armees" title="その名は万軍の主">文書に戻る&nbsp↩</a></p>
+  <p class="puce"><a href="#armees" title="その名は万軍の主">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_lionceau" class="green note">父の子たちはあなたを伏し拝む。ダは獅子の子</h4>
+<section id="note_lionceau">
+<h4 class="green note">父の子たちはあなたを伏し拝む。ダは獅子の子</h4>
 <div class="notices green">
   <p>トゥールのグレゴリウスは、創世記の引用文を出さなくて、不明のままですが、恐らく以下のところに基づいているのであろう。</p>
   <p>創世記の第五十四章、八節から十節まで：</p>
@@ -338,30 +367,35 @@
   </ol>
 </div>
 <footer>
-  <p class="puce"><a href="#lionceau" title="父の子たちはあなたを伏し拝む。ダは獅子の子">文書に戻る&nbsp↩</a></p>
+  <p class="puce"><a href="#lionceau" title="父の子たちはあなたを伏し拝む。ダは獅子の子">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-
-<h4 id="note_reprendre" class="green note">われはわが命をみずから捨て</h4>
+<section id="note_reprendre">
+<h4 class="green note">われはわが命をみずから捨て</h4>
 <div class="notices green">
   <p>このバージョンは、ヨハネ福音書のこの箇所の実際の文書とは多少異なります。</p>
   <p>ヨハネ福音書、第十章、十八節：</p>
   <p id="18" class="single-li">だれもわたしから命を奪い取ることはできない。わたしは自分でそれを捨てる。わたしは命を捨てることもでき、それを再び受けることもできる。これは、わたしが父から受けた掟である。</p>
 </div>
 <footer>
-  <p class="puce"><a href="#reprendre" title="われはわが命をみずから捨て">文書に戻る&nbsp↩</a></p>
+  <p class="puce"><a href="#reprendre" title="われはわが命をみずから捨て">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_ressuciter" class="green note">死人のうちよりよみがえらせたまいしことを信ぜされば、救われざる</h4>
+<section id="note_ressuciter">
+<h4 class="green note">死人のうちよりよみがえらせたまいしことを信ぜされば、救われざる</h4>
 <div class="notices green">
   <p>ローマの信徒への手紙書、第十章、九節ですが、ヴルガータ訳の文書は多少異なります：</p>
   <p id="9" class="single-li">口でイエスは主であると公に言い表し、心で神がイエスを死者の中から復活させられたと信じるなら、あなたは救われるからです。</p>
 </div>
 <footer>
-  <p class="puce"><a href="#ressuciter" title="死人のうちよりよみがえらせたまいしことを信ぜされば、救われざる">文書に戻る&nbsp↩</a></p>
+  <p class="puce"><a href="#ressuciter" title="死人のうちよりよみがえらせたまいしことを信ぜされば、救われざる">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_benir" class="green note">改われを祝福せずば去らしめず</h4>
+<section id="note_benir">
+<h4 class="green note">改われを祝福せずば去らしめず</h4>
 <div class="notices green">
   <p>創世記、第三十二章、二十五節から二十七節まで：</p>
   <ol class="doc">
@@ -375,8 +409,9 @@
   </ol>
 </div>
 <footer>
-  <p class="puce"><a href="#benir" title="改われを祝福せずば去らしめず">文書に戻る&nbsp↩</a></p>
+  <p class="puce"><a href="#benir" title="改われを祝福せずば去らしめず">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
 </aside>
 
