@@ -65,13 +65,13 @@
 
   <h3 class="yellow">注釈：</h3>
 
-  <section id="opera">
+  <section id="machine">
   <h4 class="yellow note">「オペラの<ruby>機械<rp>（</rp><rt>マシヌ</rt><rp>）</rp></ruby>」</h4>
 
   <p>フランス語では「<ruby>Ma<rp>（</rp><rt>マ</rt><rp>）</rp>chi<rp>（</rp><rt>シ</rt><rp>）</rp>ne<rp>（</rp><rt>ヌ</rt><rp>）</rp></ruby>」。こういう風に劇所やオペラで、、観客に驚異的性の錯視を与えるそれぞれの効果によっての機械的手段が指名しされていた。しかし、「オペラの<ruby>機械<rp>（</rp><rt>マシヌ</rt><rp>）</rp></ruby>」を明らかにするには、フォントネルにとって宇宙を非神聖化させたり、アリストテレス、プラトンなどの以前の文学を迷信から覚まさせたりあうるでもある。</p>
   <footer>
     <p class="puce"><a href="#renvoi-machine" title="#renvoi-machine">文書に戻る&nbsp;↩</a></p>
-  <footer>
+  </footer>
   </section>
 
   <section id="parterre">
@@ -80,7 +80,7 @@
   <p>観客が立っていて、立ち席がボックス席より安かった劇所の観客席の一階。</p>
   <footer>
     <p class="puce"><a href="#renvoi-parterre" title="#renvoi-parterre">文書に戻る&nbsp;↩</a></p>
-  <footer>
+  </footer>
   </section>
   
   <section id="opera">
@@ -89,16 +89,16 @@
   <p><time datetime="1669">１６６９年</time>に創立されたパリのオペラを指す固有名詞。</p>
   <footer>
     <p class="puce"><a href="#renvoi-opera" title="#renvoi-opera">文書に戻る&nbsp;↩</a></p>
-  <footer>
+  </footer>
   </section>
 
   <section id="phaeton">
   <h4 class="yellow note">リュリの<cite>パエトン</cite></h4>
   
-  <p>「<cite><ruby lang="ja">パエトン<rp>（</rp><rt lang="fr">Phaéton</rt><rp>）</rp></ruby></cite>」、<a href="https://ja.wikipedia.org/wiki/フィリップ・キノー" href="https://ja.wikipedia.org/wiki/フィリップ・キノー"><ruby lang="ja">キノー<rp>（</rp><rt lang="fr">Quinault</rt><rp>）</rp></ruby></a>の台本、<a href="https://ja.wikipedia.org/wiki/ジャン＝バティスト・リュリ" href="https://ja.wikipedia.org/wiki/ジャン＝バティスト・リュリ"><ruby lang="ja">リュリ<rp>（</rp><rt lang="fr">Lully</rt><rp>）</rp></ruby></a>の音楽で、オペラで<time datetime="1683">１６８３年</time>に初演した五幕叙情悲劇。パエトンの太陽の車の打ち上げは第三幕第六場に行われている。</p>
+  <p>「<cite><ruby lang="ja">パエトン<rp>（</rp><rt lang="fr">Phaéton</rt><rp>）</rp></ruby></cite>」、<a href="https://ja.wikipedia.org/wiki/フィリップ・キノー" title="https://ja.wikipedia.org/wiki/フィリップ・キノー"><ruby lang="ja">キノー<rp>（</rp><rt lang="fr">Quinault</rt><rp>）</rp></ruby></a>の台本、<a href="https://ja.wikipedia.org/wiki/ジャン＝バティスト・リュリ" title="https://ja.wikipedia.org/wiki/ジャン＝バティスト・リュリ"><ruby lang="ja">リュリ<rp>（</rp><rt lang="fr">Lully</rt><rp>）</rp></ruby></a>の音楽で、オペラで<time datetime="1683">１６８３年</time>に初演した五幕叙情悲劇。パエトンの太陽の車の打ち上げは第三幕第六場に行われている。</p>
   <footer>
     <p class="puce"><a href="#renvoi-phaeton" title="#renvoi-phaeton">文書に戻る&nbsp;↩</a></p>
-  <footer>
+  </footer>
   </section>
 
 </aside>
