@@ -7,8 +7,9 @@
   const html = `<!-- FR:NONE EN:NONE -->
 
 <article>
-
+<header>
 <p><time datetime="2017-10-06">２０１７年１０月６日</time></p>
+</header>
 
 <h1 class="blue">風は思いのままに吹く...</h1>
 
@@ -21,7 +22,8 @@
 
 <div id="translation-text-rousi">
 
-<h6 id="johane" class="blue">第３章１～３６節</h6>
+<section id="johane">
+<h6 class="blue">第３章１～３６節</h6>
 
 <ol class="doc">
   <li value="1">さて、ファリサイ派に属する、ニコデモという人がいた。ユダヤ人たちの議員であった。<li>
@@ -65,7 +67,6 @@
   <li value="14">
     <p class="conversation">そして、モーセが荒れ野で蛇を上げたように、人の子も上げられねばならない。</p>
   <li>
-  <td><li>
   <li value="15">
     <p class="conversation">それは、信じる者が皆、人の子によって永遠の命を得るためである。</p>
   <li>
@@ -126,6 +127,7 @@
     <p class="conversation">御子を信じる人は永遠の命を得ているが、御子に従わない者は、命にあずかること  がないばかりか、神の怒りがその上にとどまる。」</p>
   </li>
 </ol>
+</section>
 </div>
 
 <footer>
