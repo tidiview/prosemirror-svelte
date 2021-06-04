@@ -8,7 +8,9 @@
 
 <article>
 
+<header>
 <p><time datetime="2020-02-12">２０２０年２月１２日</time></p>
+</header>
 
 <h1 class="blue">ディオティマによる愛</h1>
 
@@ -60,70 +62,70 @@
 
 <aside>
 
-<h3 class="blue">注釈</span></h3>
+<h3 class="blue">注釈</h3>
 
-<h4 class="blue note">ソクラテス</span></h4>
+<h4 class="blue note">ソクラテス</h4>
 
 <div class="notices blue">
-<p><a href="#socrate" title="ソクラテス" id="note_socrate"><ruby lang="ja">ソクラテス<rp>(</rp><rt lang="grc">Σωκράτης</rt><rp>)</rp></ruby lang="ja"></a>は古代ギリシアの哲学者ではあるが、ソクラテス自身は著述を行っていないので、ここでは弟子の哲学者プラトンの著作である「<ruby>饗<rp>(</rp><rt>きょう</rt><rp>)</rp>宴<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>」での人物である。</p>
+<p><a href="#socrate" title="ソクラテス" id="note_socrate"><ruby lang="ja">ソクラテス<rp>(</rp><rt lang="grc">Σωκράτης</rt><rp>)</rp></ruby></a>は古代ギリシアの哲学者ではあるが、ソクラテス自身は著述を行っていないので、ここでは弟子の哲学者プラトンの著作である「<ruby>饗<rp>(</rp><rt>きょう</rt><rp>)</rp>宴<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>」での人物である。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#socrate" title="ソクラテス">文書にに戻る&nbsp↩</a></p>
+  <p class="puce"><a href="#socrate" title="ソクラテス">文書にに戻る&nbsp;↩</a></p>
 </footer>
 
-<h4 class="blue note">ディオティマ</span></h4>
+<h4 class="blue note">ディオティマ</h4>
 
 <div class="notices blue">
-<p>饗宴意外で<a href="#diotime" title="ディオティマ" id="note_diotime"><ruby lang="ja">ディオティマ<rp>(</rp><rt lang="grc">Διοτίμα</rt><rp>)</rp></ruby lang="ja"></a>という名前をあげる史料は他にないが、そこではマンティネイア出身の巫女と預言者として現れる。</p>
-<p>ディオティマに伴って、<ruby lang="ja">ルック<rp>(</rp><rt lang="fr">Luc</rt><rp>)</rp>・<rp>(</rp><rt lang="fr"></rt><rp>)</rp>ブリソン<rp>(</rp><rt lang="fr">BRISSON</rt><rp>)</rp></ruby lang="ja">の言葉によると対話では舞台に「新しい次元、つまり理解出来うるのが開かれる」哲学が登場する。ソクラテスは彼女について私に「愛について教えてくれた」と言う。
+<p>饗宴意外で<a href="#diotime" title="ディオティマ" id="note_diotime"><ruby lang="ja">ディオティマ<rp>(</rp><rt lang="grc">Διοτίμα</rt><rp>)</rp></ruby></a>という名前をあげる史料は他にないが、そこではマンティネイア出身の巫女と預言者として現れる。</p>
+<p>ディオティマに伴って、<ruby lang="ja">ルック<rp>(</rp><rt lang="fr">Luc</rt><rp>)</rp>・<rp>(</rp><rt lang="fr"></rt><rp>)</rp>ブリソン<rp>(</rp><rt lang="fr">BRISSON</rt><rp>)</rp></ruby>の言葉によると対話では舞台に「新しい次元、つまり理解出来うるのが開かれる」哲学が登場する。ソクラテスは彼女について私に「愛について教えてくれた」と言う。
 愛の誕生についてをソクラテスに語る。</p>
 <p>名は、「ゼウスによって讃えられた」あるいは「ゼウスを讃えている」という意味である。</p>
-<p>彼女の出身地とされる<ruby lang="ja">マンティネイア<rp>(</rp><rt lang="grc">Μαντίνεια</rt><rp>)</rp></ruby lang="ja">は、ペロポネソス半島にあった古代ギリシアの<ruby lang="ja">アルカディア<rp>(</rp><rt lang="grc">Ἀρκαδία</rt><rp>)</rp></ruby lang="ja">の都市国家であった。マンティネイアという固有名詞が古代ギリシャ語で「占い師」という意味の<ruby lang="ja">マンティス<rp>(</rp><rt lang="grc">mántis</rt><rp>)</rp></ruby lang="ja">に類似している。</p>
+<p>彼女の出身地とされる<ruby lang="ja">マンティネイア<rp>(</rp><rt lang="grc">Μαντίνεια</rt><rp>)</rp></ruby>は、ペロポネソス半島にあった古代ギリシアの<ruby lang="ja">アルカディア<rp>(</rp><rt lang="grc">Ἀρκαδία</rt><rp>)</rp></ruby>の都市国家であった。マンティネイアという固有名詞が古代ギリシャ語で「占い師」という意味の<ruby lang="ja">マンティス<rp>(</rp><rt lang="grc">mántis</rt><rp>)</rp></ruby>に類似している。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#diotime" title="ディオティマ">文書にに戻る&nbsp↩</a></p>
+  <p class="puce"><a href="#diotime" title="ディオティマ">文書にに戻る&nbsp;↩</a></p>
 </footer>
 
-<h4 class="blue note">ポロス</span></h4>
+<h4 class="blue note">ポロス</h4>
 
 <div class="notices blue">
-<p><a href="#poros" title="ポロス" id="note_poros"><ruby lang="ja">ポロス<rp>(</rp><rt lang="grc">Πόρος</rt><rp>)</rp></ruby lang="ja"></a>は古代ギリシャ語で「通過」、「道」と「便法」。</p>
+<p><a href="#poros" title="ポロス" id="note_poros"><ruby lang="ja">ポロス<rp>(</rp><rt lang="grc">Πόρος</rt><rp>)</rp></ruby></a>は古代ギリシャ語で「通過」、「道」と「便法」。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#poros" title="ポロス">文書にに戻る&nbsp↩</a></p>
+  <p class="puce"><a href="#poros" title="ポロス">文書にに戻る&nbsp;↩</a></p>
 </footer>
 
-<h4 class="blue note">ぺニア</span></h4>
+<h4 class="blue note">ぺニア</h4>
 
 <div class="notices blue">
-<p><a href="#penia" title="ぺニア" id="note_penia"><ruby lang="ja">ぺニア<rp>(</rp><rt lang="grc">Πενία</rt><rp>)</rp></ruby lang="ja"></a>は古代ギリシャ語で「欠乏」、「貧乏」。</p>
+<p><a href="#penia" title="ぺニア" id="note_penia"><ruby lang="ja">ぺニア<rp>(</rp><rt lang="grc">Πενία</rt><rp>)</rp></ruby></a>は古代ギリシャ語で「欠乏」、「貧乏」。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#penia" title="ぺニア">文書にに戻る&nbsp↩</a></p>
+  <p class="puce"><a href="#penia" title="ぺニア">文書にに戻る&nbsp;↩</a></p>
 </footer>
 
-<h4 class="blue note">ネクタル</span></h4>
+<h4 class="blue note">ネクタル</h4>
 
 <div class="notices blue">
-<p><a href="#nectar" title="ネクタル" id="note_nectar"><ruby lang="ja">ネクタル<rp>(</rp><rt lang="la">nectar</rt><rp>)</rp></ruby lang="ja"></a>はラテン語で「欠乏」、「不死」の意から、神々の飲み物、彼達の不死の元になるの飲み物。</p>
+<p><a href="#nectar" title="ネクタル" id="note_nectar"><ruby lang="ja">ネクタル<rp>(</rp><rt lang="la">nectar</rt><rp>)</rp></ruby></a>はラテン語で「欠乏」、「不死」の意から、神々の飲み物、彼達の不死の元になるの飲み物。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#nectar" title="ネクタル">文書にに戻る&nbsp↩</a></p>
+  <p class="puce"><a href="#nectar" title="ネクタル">文書にに戻る&nbsp;↩</a></p>
 </footer>
 
-<h4 class="blue note">哲学</span></h4>
+<h4 class="blue note">哲学</h4>
 
 <div class="notices blue">
 <p><a href="#philosopher" title="知恵を愛求する" id="note_philosopher">知恵を愛求する</a>は同時に「<span style="color: #28a1c5;">哲学をする</span>」意も含む。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#philosopher" title="知恵を愛求する">文書にに戻る&nbsp↩</a></p>
+  <p class="puce"><a href="#philosopher" title="知恵を愛求する">文書にに戻る&nbsp;↩</a></p>
 </footer>
 
 </aside>
@@ -131,43 +133,43 @@
 </article>
 `;
 
-  
+let focusEditor;
+let showEditorState = true;
+let editorState = createExtendedThreeRichTextEditor(html);
 
-  let focusEditor;
-  let showEditorState = true;
-  let editorState = createExtendedThreeRichTextEditor(html);
+const plugins = [];
 
-  function handleChange(event) {
-    editorState = event.detail.editorState;
-  }
+function handleChange(event) {
+  editorState = event.detail.editorState;
+}
 
-  function clearEditor(event) {
-    editorState = clear(editorState);
-    focusEditor();
-  }
+function clearEditor(event) {
+  editorState = clear(editorState);
+  focusEditor();
+}
 
-  function resetEditor(event) {
-    editorState = createExtendedThreeRichTextEditor(html);
-    focusEditor();
-  }
+function resetEditor(event) {
+  editorState = createExtendedThreeRichTextEditor(html);
+  focusEditor();
+}
 
-  function showHtml(event) {
-    alert(toHTML(editorState));
-  }
+function showHtml(event) {
+  alert(toHTML(editorState));
+}
 
-  function showText(event) {
-    alert(toPlainText(editorState));
-  }
+function showText(event) {
+  alert(toPlainText(editorState));
+}
 
-  onMount(() => focusEditor());
+onMount(() => focusEditor());
 
 </script>
 
 <ProsemirrorEditor
-  {editorState}
-  bind:focus={focusEditor}
-  on:change={handleChange}
-  placeholder="Go ahead and edit me!"/>
+{editorState}
+bind:focus={focusEditor}
+on:change={handleChange}
+placeholder="Go ahead and edit me!"/>
 
 <div class="controls">
   <button on:click={clearEditor}>Clear</button>
@@ -189,3 +191,18 @@
 {#if showEditorState}
 <pre>{JSON.stringify(toJSON(editorState), null, 2)}</pre>
 {/if}
+
+
+<style>
+  button, input {
+    margin: .5em;
+  }
+
+  input {
+    outline: none;
+  }
+
+  :global(.ui-editor img) {
+    max-width: 300px;
+  }
+</style>
