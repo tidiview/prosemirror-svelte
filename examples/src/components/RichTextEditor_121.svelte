@@ -66,19 +66,19 @@
 と述べています。</p>
 <p class="conversation">そして主が十字架にかかりつつ、悪魔の支配に屈して堕落したこの世を、ご自分の王国のうちに建て直したまうことをダビデは、<a href="#note_parlebois" title="神は直き木をもて統べたまう" id="parlebois" class="green">「神は直き木 （十字架）をもてこの世を<ruby>統<rp>（</rp><rt>すべ</rt><rp>）</rp></ruby>べたまう」</a>
 と述べています。
-<a href="#note_parlebois" title="神は直き木をもて統べたまう" class="green">「主はそれ以前にも神の御許にあって、ともに統治の業をなしたまうてはいたのですが、ご自分の手で悪魔への隷属から解放したまうた民草を得て改めて、ご自身の王国を持ちたまったのです」</a></span></p>
+<a href="#note_parlebois" title="神は直き木をもて統べたまう" class="green">「主はそれ以前にも神の御許にあって、ともに統治の業をなしたまうてはいたのですが、ご自分の手で悪魔への隷属から解放したまうた民草を得て改めて、ご自身の王国を持ちたまったのです」</a></p>
 <p>すると<span style="color: #3d638a;">ユダヤ人</span>は、</p>
 <p class="conversation"><span style="color: #3d638a;">「どうして神たるものがそんな目にあう必要があったのですか」</span>
 と尋ねた。</p>
 <p><span style="color: #503d8a;">私</span>は言った。</p>
-<p class="conversation"><span style="color: #503d8a;">「すでに申しました。</p>
+<p class="conversation"><span style="color: #503d8a;">「すでに申しました。</span></p>
 <p class="conversation">神は無垢な人間を創造したまったのですが、蛇の邪知が人間をわなにかけたのです。</p>
 <p class="conversation">こうして人間は罪ある者になり、楽園から追放されてこの世の労働を担うはめになったのです。</p>
-<p class="conversation">人間が神と和解するためには神の一人子キリストの死が必要でした」</span></p>
+<p class="conversation">人間が神と和解するためには神の一人子キリストの死が必要でした」</p>
 <p>そこで<span style="color: #3d638a;">ユダヤ人</span>は尋ねた。</p>
 <p class="conversation"><span style="color: #3d638a;">「神は自ら人間の肉をまとわずとも、預言者か使徒をつかわして、人間を正道に戻すことができたのではありま せんか」</span></p>
 <p><span style="color: #503d8a;">私</span>は答えた。</p>
-<p class="conversation"><span style="color: #503d8a;">二人間という種族は最初から常に間違った道を歩いていたのです。</p>
+<p class="conversation"><span style="color: #503d8a;">二人間という種族は最初から常に間違った道を歩いていたのです。</span></p>
 <p class="conversation">大洪水もソドムの火災もエジプトの災難も、</p>
 <p class="conversation">海やヨルダン川の分裂もまったく人に畏敬の念を起こさしめませんでした。</p>
 <p class="conversation">人間は常に神の掟に逆らいました。</p>
@@ -99,18 +99,18 @@
 <p class="conversation">また、あなたがたの誇りとするご先祖のヤコブが、自分の息子のユダを祝福する言葉、まるでキリストに向けられたようなあの言葉も、このことを述べているのです。</p>
 <p class="conversation"><a href="#note_lionceau" title="父の子たちはあなたを伏し拝む。ダは獅子の子" id="lionceau" class="green">「汝の父の子らみの前にかがまん。</a></p>
 <p class="conversation"><a href="#note_lionceau" title="父の子たちはあなたを伏し拝む。ダは獅子の子" class="green">ユダは獅子の子のごとし、わが子よ汝は萌芽より身を起こせり、獅子のごとく、獅子の子の如くに眠れり、誰か故を起こさん。</a></p>
-<p class="conversation"><a href="#note_lionceau" title="父の子たちはあなたを伏し拝む。ダは獅子の子" id="lionceau" class="green">汝の目はワインより甘く、汝の歯はミルクより白し。</a></p>
-<p class="conversation"><a href="#note_lionceau" title="父の子たちはあなたを伏し拝む。ダは獅子の子" id="lionceau" class="green">誰か汝を起こさん」</a>、とね。</p>
+<p class="conversation"><a href="#note_lionceau" title="父の子たちはあなたを伏し拝む。ダは獅子の子" class="green">汝の目はワインより甘く、汝の歯はミルクより白し。</a></p>
+<p class="conversation"><a href="#note_lionceau" title="父の子たちはあなたを伏し拝む。ダは獅子の子" class="green">誰か汝を起こさん」</a>、とね。</p>
 <p class="conversation">主ご自身は、</p>
 <p class="conversation"><a href="#note_reprendre" title="われはわが命をみずから捨て" id="reprendre" class="green">「われはわが命をみずから捨て、またこれを得る」</a></p>
 <p class="conversation">とおっしゃいますが、 我々の方は、使徒パウロの言うように、</p>
 <p class="conversation"><a href="#note_ressuciter" title="死人のうちよりよみがえらせたまいしことを信ぜされば、救われざる" id="ressuciter" class="green">「心にて神のこれを死人のうちよりよみがえらせたまいしことを信ぜされば、救われざる」</a></p>
-<p class="conversation">存在なのです」</span></p>
+<p class="conversation">存在なのです」</p>
 <p>我々はその他にもまだ種々のことを話したが、この<span style="color: #3d638a;">哀れなユダヤ人</span>は決して改悛して信仰を持とうとはしなかっ た。</p>
 <p><span style="color: #3d638a;">彼</span>が黙りこくってしまったので、<span style="color: #3d778a;">王</span>は言葉で彼を改宗させることはできないと見て取り、<span style="color: #503d8a;">私</span>に向い、別れの祝福をしてほしいと頼み、言った。  </p>
-<p class="conversation"><span style="color: #3d778a;">「別れを告げる天使に向い、ヤコブが、</p>
-<p class="conversation"><a href="#note_benir" title="改われを祝福せずば去らしめず" id="benir" class="green">「改われを祝福せずば去らしめず」</a></p>
-<p class="conversation">と言ったのと同じことをわしもあんたに言いたいのじゃ」</span></p>
+<p class="conversation"><span style="color: #3d778a;">「別れを告げる天使に向い、ヤコブが、</span></p>
+<p class="conversation"><span style="color: #3d778a;"><a href="#note_benir" title="改われを祝福せずば去らしめず" id="benir" class="green">「改われを祝福せずば去らしめず」</a></span></p>
+<p class="conversation"><span style="color: #3d778a;">と言ったのと同じことをわしもあんたに言いたいのじゃ」</span></p>
 <p>そう言いつつ<span style="color: #3d778a;">王</span>は手を洗う水を持って来るよう命じた。</p>
 <p><span style="color: #503d8a;">私</span>は手を洗い、祝福を述べ、パンをいただくと神に感謝し、それを自分と王とに分け与え、生のワインを口にして別れを告げた。</p>
 <p><span style="color: #3d778a;">王</span>は馬に乗り奥方と王女と従僕一同を伴ってパリシウスへ戻った。</p>
@@ -142,6 +142,7 @@
 
 <div class="notices green">
 <p>原稿文書ではラテン語で「<ruby lang="ja">ノヴィゲントゥム<rp>（</rp><rt lang="la">Novigentum</rt><rp>）</rp></ruby>」、多分現在の<a href="https://ja.wikipedia.org/wiki/ノジャン＝シュル＝マルヌ" title="https://ja.wikipedia.org/wiki/ノジャン＝シュル＝マルヌ"><ruby lang="ja">ノジャン<rp>（</rp><rt lang="fr">Nogent</rt><rp>）</rp>＝<rp>（</rp><rt lang="fr">-</rt><rp>）</rp>シュル<rp>（</rp><rt lang="fr">sur</rt><rp>）</rp>＝<rp>（</rp><rt lang="fr">-</rt><rp>）</rp>マルヌ<rp>（</rp><rt lang="fr">Marne</rt><rp>）</rp></ruby></a>。</p>
+</div>
 
 <footer>
   <p class="puce">文書に戻る： <a href="#villa" title="villa">「上述の館に滞在し」&nbsp;↩</a></p>
@@ -284,8 +285,8 @@
 </footer>
 </section>
 
-<section>
-<h4 id="note_parlebois" class="green note">神は直き木をもて統べたまう</h4>
+<section id="note_parlebois">
+<h4 class="green note">神は直き木をもて統べたまう</h4>
 <div class="notices green">
   <p>ここでは「直き木」は十字架を指します。</p>
   <p><ruby lang="ja">ルドルフ・ブフナー<rp>（</rp><rt lang="de">Rudolf&#160;Buchner</rt><rp>）</rp></ruby>の「<ruby lang="ja">十冊の物語の本<rp>（</rp><rt lang="de">Zehn&#160;Bacher&#160;Geschichten</rt><rp>）</rp></ruby>」、十一項、注七によると、この言葉は、キリスト教的な補間であり、ヴルガータ訳の著者たちには受け入れられなかったでしょう。</p>
