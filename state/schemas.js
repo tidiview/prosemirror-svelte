@@ -549,49 +549,37 @@ export const ExtendedTworichTextSchema = new Schema({
  */
 export const ExtendedThreerichTextSchema = new Schema({
   nodes: {
+
     doc: {
-      content: "(article | aside | section | nav | hr)*"
-    }, /* (block | table | figure)+ */
+      content: "(figure? | section? | table? | block)*"
+    }, /* (figure | section | table | block)+ */
+
+    article: {
+      content: "(figure? | section? | table? | block)*",
+      group: "section",
+      parseDOM: [{tag: "article"}],
+      toDOM() { return ["article", 0] },
+    },
+    aside: {
+      content: "(section? | block)*",
+      group: "section",
+      parseDOM: [{tag: "aside"}],
+      toDOM() { return ["aside", 0] },
+    },
     sectionid: {
-      content: "(figure | article | header | aside | block)+",
-      group: "block",
+      content: "(figure? | section? | block)*",
+      group: "section",
       attrs: {id: {default:null}},
       parseDOM: [{tag: "section[id]", getAttrs(dom) { return { id: dom.getAttribute("id") } } }],
       toDOM(node) { let {id} = node.attrs; return ["section", {id}, 0] },
     },
     section: {
-      content: "(figure | article | header | aside | block)+",
-      group: "block",
+      content: "(figure? | section? | block)*",
+      group: "section",
       parseDOM: [{tag: "section"}],
       toDOM() { return ["section", 0] },
     },
-    nav: {
-      content: "block+",
-      group: "block",
-      parseDOM: [{tag: "nav"}],
-      toDOM() { return ["nav", 0] },
-    },
-    article: {
-      content: "(section | aside | figure | header | footer | table | block)+",
-      group: "block",
-      parseDOM: [{tag: "article"}],
-      toDOM() { return ["article", 0] },
-    },
-    header: {
-      content: "(figure | block)+",
-      parseDOM: [{tag: "header"}],
-      toDOM() { return ["header", 0] },
-    },
-    footer: {
-      content: "block+",
-      parseDOM: [{tag: "footer"}],
-      toDOM() { return ["footer", 0] },
-    },
-    aside: {
-      content: "(section | article | block)+",
-      parseDOM: [{tag: "aside"}],
-      toDOM() { return ["aside", 0] },
-    },
+    
     table: {
       content: "table_head table_body",
       group: "table",
@@ -640,6 +628,7 @@ export const ExtendedThreerichTextSchema = new Schema({
       parseDOM: [{tag: "td", getAttrs(dom) { return { styles: dom.getAttribute("style")} }}],
       toDOM(node) { let {styles} = node.attrs; return styles == "" ? ["td", 0] : ["td", {"style": styles}, 0] }
     },
+
     figure: {
       content: "(picture figcaption? map?)",
       group: "figure",
@@ -709,13 +698,14 @@ export const ExtendedThreerichTextSchema = new Schema({
       toDOM() { {return ["figcaption", 0]} },
     },
     map: {
+      content: "area*",
+      group: "figure",
+      selectable: false,
+      isolating: true,
       attrs: {
         name: {},
         id: {default: null},
       },
-      content: "area*",
-      slectable: false,
-      isolating: true,
       parseDOM: [{tag: "map[name]", getAttrs(dom) {
         return {
           name: dom.getAttribute("name"),
@@ -725,6 +715,10 @@ export const ExtendedThreerichTextSchema = new Schema({
       toDOM(node) { let {name, id} = node.attrs; return ["map", {name, id}, 0] },
     },
     area: {
+      content: "inline*",
+      group: "figure",
+      selectable: false,
+      isolating: true,
       attrs: {
         title: {default: null},
         alt: {default: null},
@@ -733,8 +727,6 @@ export const ExtendedThreerichTextSchema = new Schema({
         shape: {default: null},
         coords: {default: null},
       },
-      slectable: false,
-      isolating: true,
       parseDOM: [{tag: "area[href]", getAttrs(dom) {
         return {
           href: dom.getAttribute("href"),
@@ -747,11 +739,34 @@ export const ExtendedThreerichTextSchema = new Schema({
       }}],
       toDOM(node) { let {href, title, alt, id, shape, coords} = node.attrs; return ["area", {href, title, alt, id, shape, coords}] },
     },
+
+    header: {
+      content: "(figure? | block)*",
+      group: "block",
+      parseDOM: [{tag: "header"}],
+      toDOM() { return ["header", 0] },
+    },
+    nav: {
+      content: "block*",
+      group: "block",
+      parseDOM: [{tag: "nav"}],
+      toDOM() { return ["nav", 0] },
+    },
+    footer: {
+      content: "block*",
+      group: "block",
+      parseDOM: [{tag: "footer"}],
+      toDOM() { return ["footer", 0] },
+    },
     paragraphstyled: {
       content: "inline*",
       group: "block",
       attrs: {classes: {default: null}, styles: {default: null}, flag: {default: null}, id: {default: null}},
-      parseDOM: [{tag: "p.single-li", getAttrs(dom) { return {classes: dom.getAttribute("class"), styles: dom.getAttribute("style"), flag: true, id: dom.id} }},{tag: "p.conversation", getAttrs(dom) { return {classes: dom.getAttribute("class"), styles: dom.getAttribute("style"), flag: true, id: dom.id} }},{tag: "p.puce", getAttrs(dom) { return {classes: dom.getAttribute("class"), styles: dom.getAttribute("style"), flag: true} }},{tag: "p.no-puce", getAttrs(dom) { return {classes: dom.getAttribute("class"), styles: dom.getAttribute("style"), id: dom.id, flag: true} }}],
+      parseDOM: [
+        {tag: "p.single-li", getAttrs(dom) { return {classes: dom.getAttribute("class"), styles: dom.getAttribute("style"), flag: true, id: dom.id} }},
+        {tag: "p.conversation", getAttrs(dom) { return {classes: dom.getAttribute("class"), styles: dom.getAttribute("style"), flag: true, id: dom.id} }},
+        {tag: "p.puce", getAttrs(dom) { return {classes: dom.getAttribute("class"), styles: dom.getAttribute("style"), flag: true} }},
+        {tag: "p.no-puce", getAttrs(dom) { return {classes: dom.getAttribute("class"), styles: dom.getAttribute("style"), id: dom.id, flag: true} }}],
       toDOM(node) { let {classes, styles, flag, id} = node.attrs ; return flag == true ? styles == "" ? id == "" ? ["p", {"class": classes}, 0] : ["p", {"id": id, "class": classes}, 0] : id == "" ? ["p", {"class": classes, "style": styles}, 0] : ["p", {"id": id, "class": classes, "style": styles}, 0] : styles == "" ? ["p", 0] : ["p",{"style": styles} , 0] },
     },
     paragraph: {
@@ -760,19 +775,11 @@ export const ExtendedThreerichTextSchema = new Schema({
       parseDOM: [{tag: "p"},{tag: "dl dt"},{tag: "dd"}],
       toDOM() { return ["p", 0] },
     },
-    blockquote: {
-      content: "block*",
-      group: "block",
-      defining: true,
-      attrs: { classes: {default: null}, cite: {default: null}, id: {default: null}},
-      parseDOM: [{tag: "blockquote", getAttrs(dom) {return {classes: dom.getAttribute("class"), cite: dom.getAttribute("cite"), id: dom.id}} }],
-      toDOM(node) { let {classes, cite, id} = node.attrs; return classes == "" ? cite == "" ? ["blockquote", 0] : ["blockquote", {cite, id}, 0] : cite == "" ? ["blockquote", {"class": classes}, 0] : ["blockquote", {id, cite, "class": classes}, 0] },
-    }, /* attibutes cite and id are linked: if there is cite, there is id */
     hgroup: {
       content: "heading+",
       group: "block",
       parseDOM: [{tag: "hgroup"}],
-      toDOM() { return["hgroup", 0] },
+      toDOM() { return ["hgroup", 0] },
     },
     heading: {
       content: "inline*",
@@ -792,6 +799,13 @@ export const ExtendedThreerichTextSchema = new Schema({
       ],
       toDOM(node) { let {level, id, classes} = node.attrs; return id == "" ? classes == "" ? ["h" + level, 0] : ["h" + level, {"class": classes}, 0] : classes == "" ? ["h" + level, {id}, 0] : ["h" + level, {"class": classes, id}, 0] }
     },
+   blockquote: {
+      content: "block*",
+      group: "block",
+      attrs: { classes: {default: null}, cite: {default: null}, id: {default: null}},
+      parseDOM: [{tag: "blockquote", getAttrs(dom) {return {classes: dom.getAttribute("class"), cite: dom.getAttribute("cite"), id: dom.id}} }],
+      toDOM(node) { let {classes, cite, id} = node.attrs; return classes == "" ? cite == "" ? ["blockquote", 0] : ["blockquote", {cite, id}, 0] : cite == "" ? ["blockquote", {"class": classes}, 0] : ["blockquote", {id, cite, "class": classes}, 0] },
+    }, /* attibutes cite and id are linked: if there is cite, there is id */
     olstart: {
       content: "li+",
       group: "block",
@@ -814,7 +828,9 @@ export const ExtendedThreerichTextSchema = new Schema({
     },
     li: {
       content: "(table | block)*", /* has to be block - can be (block | inline also */
+      group: "block",
       attrs: {value: {default: null}, id: {default: null}, dataid: {default: null}, classes: {default: null}, doc: {default: false}},
+      defining: true,
       parseDOM: [
         {tag: "ol.year li", getAttrs(dom) { return {value: dom.value} } },
         {tag: "ol.doc-three-rows li", getAttrs(dom) { return {value: dom.value, id: dom.id, dataid: dom.getAttribute("data-id"), doc: true} } },
@@ -828,11 +844,19 @@ export const ExtendedThreerichTextSchema = new Schema({
       doc == true ? id == "" ? classes == "" ? ["li", {value}, 0] : ["li", {value, "class": classes}, 0] : 
       classes == "" ? ["li", {value, id}, 0] : ["li", {value, id, "class": classes}, 0] : ["li", 0] },
     },
+    hr: {
+      group: "block",
+      parseDOM: [{tag: "hr"}],
+      toDOM() {return ["hr"]}
+    },
+
     rubylang: {
       content: "inline*",
       group: "inline",
       inline: true,
-      attrs: {lang: {default: null}, color: {default: null}},
+      attrs: {
+        lang: {default: null}, 
+        color: {default: null}},
       parseDOM: [{tag: "ruby[lang]", getAttrs(dom) { return {lang: dom.lang, color: dom.style["color"]} }}, {tag: "rp", ignore: true}],
       toDOM(node) { let {lang, color} = node.attrs; return lang == "" ? color == "" ? ["ruby", 0] : lang == "" ? ["ruby", {"style": "color:" + color}, 0] : ["ruby", {lang}, 0] : ["ruby", {lang, "style": "color:" + color}, 0] },
     },
@@ -845,34 +869,37 @@ export const ExtendedThreerichTextSchema = new Schema({
     },
     code: {
       content: "text*",
+      group: "inline",
+      inline: true,
       parseDOM: [{tag: "code"}],
       toDOM() { return ["code", 0] },
     },
     dfn: {
-      inline: true,
-      group: "inline",
       content: "text*",
+      group: "inline",
+      inline: true,
       parseDOM: [{tag: "dfn"}],
       toDOM() { return ["dfn", 0] },
     },
     address: {
-      inline: true,
-      group: "inline",
       content: "text*",
+      group: "inline",
+      inline: true,
       parseDOM: [{tag: "address"}],
       toDOM() { return ["address", 0] },
     },
     time: {
-      inline: true,
-      group: "inline",
       content: "text*",
+      group: "inline",
+      inline: true,
       attrs: {datetime: {default: null}},
       parseDOM: [{tag: "time", getAttrs(dom) { return {datetime: dom.getAttribute("datetime")}} }],
       toDOM(node) { let {datetime} = node.attrs ; return ["time", {datetime}, 0] },
     },
     text: {
+      content: "inline*",
+      group: "inline",
       inline: true,
-      group: "inline"
     },
     audio: {
       content: "audiosource*",
@@ -884,6 +911,10 @@ export const ExtendedThreerichTextSchema = new Schema({
       toDOM(node) { { let {title, alt, controls} = node.attrs; return ["audio", {title, alt, controls}, 0]} },
     },
     audiosource: {
+      content: "inline*",
+      group: "inline",
+      inline: true,
+      selectable: false,
       attrs: {
         src: {default: null},
         type: {default: null},
@@ -896,11 +927,7 @@ export const ExtendedThreerichTextSchema = new Schema({
       }}],
       toDOM(node) { let {src, type} = node.attrs; return ["source", {src, type}] }
     },
-    hr: {
-      group: "block",
-      parseDOM: [{tag: "hr"}],
-      toDOM() {return ["hr"]}
-    },
+
     wbr: {
       inline: true,
       group: "inline",
@@ -916,16 +943,19 @@ export const ExtendedThreerichTextSchema = new Schema({
       toDOM() {return ["br"]}
     },
   },
+
   marks: {
     rtlang: {
-      attrs: {lang: {default: null}, color: {default: null}},
+      attrs: {
+        lang: {default: null}, 
+        color: {default: null}},
       inclusive: false,
       parseDOM: [{tag: "rt[lang]", getAttrs(dom) { return {lang: dom.lang, color: dom.style["color"]} }}],
-      toDOM() { let {lang, color} = node.attrs; return lang == "" ? color == "" ? ["rt", 0] : lang == "" ? ["rt", {"style": "color:" + color}, 0] : ["rt", {lang}, 0] : ["rt", {lang, "style": "color:" + color}, 0] },
+      toDOM(node) { let {lang, color} = node.attrs; return lang == "" ? color == "" ? ["rt", 0] : lang == "" ? ["rt", {"style": "color:" + color}, 0] : ["rt", {lang}, 0] : ["rt", {lang, "style": "color:" + color}, 0] },
     },
     rt: {
       inclusive: false,
-      parseDOM: [{tag: "rt", getAttrs(dom) { return {lang: dom.lang, color: dom.style["color"]} }}],
+      parseDOM: [{tag: "rt"}],
       toDOM() { return ["rt", 0] },
     },
     /* rp: {
@@ -962,10 +992,14 @@ export const ExtendedThreerichTextSchema = new Schema({
       toDOM(node) {  let {title} = node.attrs; return ["abbr", {title}, 0]},
     },
     strong: {
-      parseDOM: [{tag: "strong"}, {tag: "b"}],
+      parseDOM: [{tag: "strong"}],
       toDOM() { return ["strong", 0] },
     },
-    mark: {
+    b: {
+      parseDOM: [{tag: "b"}],
+      toDOM() { return ["b", 0] },
+    },
+    markhtml: {
       parseDOM: [{tag: "mark"}],
       toDOM() { return ["mark", 0] },
     },
