@@ -305,7 +305,7 @@
   }
   
   :global(p.single-li::marker) {
-    content: attr(id) ". "
+    content: attr(data-id) ". "
   }
 
 
