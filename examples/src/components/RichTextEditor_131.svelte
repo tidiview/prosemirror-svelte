@@ -8,7 +8,7 @@
 <article>
 
 <hgroup>
-<h2 class="blue"><ruby lang="ja">大トリアノン宮殿<rp>（</rp><rt lang="fr">le&#160;Grand&#160;Trianon</rt><rp>）</rp></ruby>での</h2>
+<h2 class="blue"><ruby lang="ja">大トリアノン宮殿<rp>（</rp><rt lang="fr">le&nbsp;Grand&nbsp;Trianon</rt><rp>）</rp></ruby>での</h2>
 <h1 class="blue">ティレシアス</h1>
 </hgroup>
 
@@ -18,7 +18,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-380.webp 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-480.webp 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias_700x501.webp 700w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg" title="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《ミネルヴァとティレシアス》絵画" alt="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《ミネルヴァとティレシアス》絵画" class="class-diane-img" width="700" height="501" loading="eager" decoding="async" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias_700x501.webp 700w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg" title="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《ミネルヴァとティレシアス》絵画" alt="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《ミネルヴァとティレシアス》絵画" class="class-diane-img" width="700" height="501" loading="eager" decoding="async" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-280.jpg 280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-480.jpg 480w,
@@ -27,12 +27,13 @@
 </figure>
 
 <div class="notices blue">
-<p><a href="https://ja.wikipedia.org/wiki/大トリアノン宮殿" title="https://ja.wikipedia.org/wiki/大トリアノン宮殿"><ruby lang="ja">大トリアノン宮殿<rp>（</rp><rt lang="fr">le&#160;Grand&#160;Trianon</rt><rp>）</rp></ruby></a>に展示されている <a href="https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス" title="https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス"><ruby lang="ja">ルネ<rp>（</rp><rt lang="fr">René</rt><rp>）</rp>＝<rp>（</rp><rt lang="fr">-</rt><rp>）</rp>アントワーヌ<rp>（</rp><rt lang="fr">Antoine</rt><rp>）</rp>・<rp>（</rp><rt lang="fr"></rt><rp>）</rp>ウアス<rp>（</rp><rt lang="fr">Houasse</rt><rp>）</rp></ruby></a>が描いた《<ruby lang="ja">ミネルヴァ<rp>（</rp><rt lang="fr">Minerve</rt><rp>）</rp>と<rp>（</rp><rt lang="fr">et</rt><rp>）</rp>ティレシアス<rp>（</rp><rt lang="fr">Tirésias</rt><rp>）</rp></ruby>》絵画が<ruby lang="ja">領主たちの控えの間<rp>（</rp><rt lang="fr">le&#160;Salon&#160;des&#160;Seigneurs</rt><rp>）</rp></ruby>に見られます。</p>
+<p><a href="https://ja.wikipedia.org/wiki/大トリアノン宮殿" title="https://ja.wikipedia.org/wiki/大トリアノン宮殿"><ruby lang="ja">大トリアノン宮殿<rp>（</rp><rt lang="fr">le&nbsp;Grand&nbsp;Trianon</rt><rp>）</rp></ruby></a>に展示されている <a href="https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス" title="https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス"><ruby lang="ja">ルネ<rp>（</rp><rt lang="fr">René</rt><rp>）</rp>＝<rp>（</rp><rt lang="fr">-</rt><rp>）</rp>アントワーヌ<rp>（</rp><rt lang="fr">Antoine</rt><rp>）</rp>・<rp>（</rp><rt lang="fr"></rt><rp>）</rp>ウアス<rp>（</rp><rt lang="fr">Houasse</rt><rp>）</rp></ruby></a>が<time datetime="1698">１６９８年</time>ごろに描いた《<ruby lang="ja">ミネルヴァ<rp>（</rp><rt lang="fr">Minerve</rt><rp>）</rp>と<rp>（</rp><rt lang="fr">et</rt><rp>）</rp>ティレシアス<rp>（</rp><rt lang="fr">Tirésias</rt><rp>）</rp></ruby>》絵画が<ruby lang="ja">領主たちの控えの間<rp>（</rp><rt lang="fr">le&nbsp;Salon&nbsp;des&nbsp;Seigneurs</rt><rp>）</rp></ruby>に見られます。</p>
 <p>この絵画は、<a href="https://francois-vidit.com/docs/ja/versailles/trianon/arachnee" title="https://francois-vidit.com/docs/ja/versailles/trianon/arachnee">《<cite><ruby lang="ja">ミネルヴァ<rp>（</rp><rt lang="fr">Minerve</rt><rp>）</rp>と<rp>（</rp><rt lang="fr">et</rt><rp>）</rp>アラクネ<rp>（</rp><rt lang="fr">Arachnée</rt><rp>）</rp></ruby></cite>》</a>と同様に、「<cite>ミネルヴァ伝</cite>」というシリーズの一部です。</p>
-<p><a href="https://ja.wikipedia.org/wiki/アポロドーロス" title="https://ja.wikipedia.org/wiki/アポロドーロス"><ruby lang="ja">アポロドーロス<rp>（</rp><rt lang="la">Apollodoros</rt><rp>）</rp></ruby></a>が書いた「<a href="https://ja.wikipedia.org/wiki/ビブリオテーケー" title="https://ja.wikipedia.org/wiki/ビブリオテーケー"><cite><ruby lang="ja">ビブリオテーケー<rp>（</rp><rt lang="la">Biblioteke</rt><rp>）</rp></ruby></cite></a>」に出て来る、賢くさの女神である<a href="https://ja.wikipedia.org/wiki/ミネルウァ" title="https://ja.wikipedia.org/wiki/ミネルウァ"><ruby lang="ja">ミネルヴァ<rp>（</rp><rt lang="la">Minerva</rt><rp>）</rp></ruby></a>と<a href="https://ja.wikipedia.org/wiki/テイレシアース" title="https://ja.wikipedia.org/wiki/テイレシアース"><ruby lang="ja">ティレシアス<rp>（</rp><rt lang="la">Tiresias</rt><rp>）</rp></ruby></a>との不思議な関係性が語られている。</p>
+<p><a href="https://ja.wikipedia.org/wiki/アポロドーロス" title="https://ja.wikipedia.org/wiki/アポロドーロス"><ruby lang="ja">アポロドーロス<rp>（</rp><rt lang="la">Apollodoros</rt><rp>）</rp></ruby></a>が書いた「<a href="https://ja.wikipedia.org/wiki/ビブリオテーケー" title="https://ja.wikipedia.org/wiki/ビブリオテーケー"><cite><ruby>文庫<rp>（</rp><rt>ビブリオテーケー</rt><rp>）</rp></ruby></cite></a>」に出て来る、賢くさの女神である<a href="https://ja.wikipedia.org/wiki/ミネルウァ" title="https://ja.wikipedia.org/wiki/ミネルウァ"><ruby lang="ja">ミネルヴァ<rp>（</rp><rt lang="la">Minerva</rt><rp>）</rp></ruby></a>と<a href="https://ja.wikipedia.org/wiki/テイレシアース" title="https://ja.wikipedia.org/wiki/テイレシアース"><ruby lang="ja">ティレシアス<rp>（</rp><rt lang="la">Tiresias</rt><rp>）</rp></ruby></a>との不思議な関係性が語られている。</p>
 </div>
 
-<h2 id="tiresias" class="blue">「<cite><ruby>文庫<rp>（</rp><rt>ビブリオテーケー</rt><rp>）</rp></ruby></cite>」の第三巻の文書においての《<cite>ミネルヴァとティレシアス</cite>》</h2>
+<section id="tiresias">
+<h2 class="blue">「<cite><ruby>文庫<rp>（</rp><rt>ビブリオテーケー</rt><rp>）</rp></ruby></cite>」の第三巻の文書においての《<cite>ミネルヴァとティレシアス</cite>》</h2>
 
 <ol class="doc">
   <li value="7">しかしフェレシデスはミネルヴァによって視覚が奪われたという。</li>
@@ -54,8 +55,9 @@
 </footer>
 
 <aside>
-  <p class="no-puce"><cite><ruby>文庫<rp>（</rp><rt>ビブリオテーケー</rt><rp>）</rp></ruby></cite>の日本語訳書の題は『<cite>ギリシア神話<cite>』だが、「文庫」は原題の意。</p>
+  <p class="no-puce"><cite><ruby>文庫<rp>（</rp><rt>ビブリオテーケー</rt><rp>）</rp></ruby></cite>の日本語訳書の題は『<cite>ギリシア神話</cite>』だが、「文庫」は原題の意。</p>
 </aside>
+</section>
 
 </article>
 `;
