@@ -207,8 +207,8 @@
     content: none;
   }
   
-  :global(ol.doc-special li[id]::marker) {
-    content: attr(id) ". ";
+  :global(ol.doc-special li[data-id]::marker) {
+    content: attr(data-id) ". ";
   }
 
   :global(ol.doc-three-rows) {
@@ -223,7 +223,7 @@
   }
 
   :global(ol.doc-three-rows li::marker) {
-    content: attr(data-id);
+    content: attr(data-name);
     width: 100px;
     font-variant-numeric: normal;
   }
@@ -243,8 +243,8 @@
     width: 44px;
   }
 
-  :global(ol.doc-three-rows li[id]::before) {
-    content: attr(id) ". ";
+  :global(ol.doc-three-rows li[data-id]::before) {
+    content: attr(data-id) ". ";
     position: absolute;
     left: 1em;
     padding-top: 2px;
