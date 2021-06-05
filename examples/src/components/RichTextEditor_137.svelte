@@ -18,17 +18,17 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-380.webp 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-480.webp 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.webp 700w" type="image/webp"></source><source media="(min-width: 959px)" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.webp 700w" type="image/webp"><source media="(min-width: 959px)" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-280.jpg 280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.jpg 700w"></source><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.jpg 700w"><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-280.webp 280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-380.webp 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-480.webp 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x1050.webp 700w" type="image/webp"></source><img src="/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x798.jpg" alt="プリマティッチオ派、《ディアーヌ・ド・ポワティエ肖像》" title="プリマティッチオ派、《ディアーヌ・ド・ポワティエ肖像》" class="class-diane-img" width="700" height="798" loading="eager" decoding="async" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x1050.webp 700w" type="image/webp"><img src="/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x798.jpg" alt="プリマティッチオ派、《ディアーヌ・ド・ポワティエ肖像》" title="プリマティッチオ派、《ディアーヌ・ド・ポワティエ肖像》" class="class-diane-img" width="700" height="798" loading="eager" decoding="async" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-280.jpg 280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-480.jpg 480w,
@@ -39,16 +39,16 @@
 <div class="notices green">
 <p>この絵画は、当時、<a href="https://ja.wikipedia.org/wiki/フランソワ１世_（フランス国王）" title="https://ja.wikipedia.org/wiki/フランソワ１世_（フランス国王）"><ruby lang="ja">フランソワ<rp>(</rp><rt lang="fr">François</rt><rp>)</rp>１世<rp>(</rp><rt lang="fr">premier</rt><rp>)</rp></ruby></a>に招待され、後に文化大臣に相当する人物ともなった、イタリア・ボローニャ出身の画家<a href="https://ja.wikipedia.org/wiki/フランチェスコ・プリマティッチオ" title="https://ja.wikipedia.org/wiki/フランチェスコ・プリマティッチオ"><ruby lang="ja">プリマティッチオ<rp>(</rp><rt lang="it">Primaticcio</rt><rp>)</rp></ruby></a>が、<time datetime="1556">１５５６年</time>に、<a href="https://ja.wikipedia.org/wiki/シュノンソー城" title="https://ja.wikipedia.org/wiki/シュノンソー城"><ruby lang="ja">シュノンソー<rp>(</rp><rt lang="fr">Chenonceau</rt><rp>)</rp></ruby>城</a>で描いた作品です。</p>
 <p>当時、本人は、「<ruby lang="ja">ル<rp>(</rp><rt lang="fr">Le</rt><rp>)</rp>・<rp>(</rp><rt lang="fr"></rt><rp>)</rp>プリマティス<rp>(</rp><rt lang="fr">Primatice</rt><rp>)</rp></ruby>」と、フランス語風の名で、知られていました。</p>
-<p>この絵では、<ruby lang="ja">フランソワ<rp>(</rp><rt lang="fr">François</rt><rp>)</rp>１世<rp>(</rp><rt lang="fr">Ier</rt><rp>)</rp></ruby>の後を継いだ息子<a href="https://ja.wikipedia.org/wiki/アンリ2世_(フランス王)" title="https://ja.wikipedia.org/wiki/アンリ2世_(フランス王)"><ruby lang="ja">アンリ<rp>(</rp><rt lang="fr">Henri</rt><rp>)</rp>ニ世<rp>(</rp><rt lang="fr">deux</rt><rp>)</rp></ruby></a>の愛妾だった、<a href="https://ja.wikipedia.org/wiki/ディアーヌ・ド・ポワチエ" title="https://ja.wikipedia.org/wiki/ディアーヌ・ド・ポワティエ"><ruby lang="ja">ディアーヌ<rp>(</rp><rt lang="fr">Diane</rt><rp>)</rp>・<rp>(</rp><rt lang="fr">&#160</rt><rp>)</rp>ド<rp>(</rp><rt lang="fr">de</rt><rp>)</rp>・<rp>(</rp><rt lang="fr">&#160</rt><rp>)</rp>ポワティエ<rp>(</rp><rt lang="fr">Poitiers</rt><rp>)</rp></ruby></a>が描かれている。</p>
+<p>この絵では、<ruby lang="ja">フランソワ<rp>(</rp><rt lang="fr">François</rt><rp>)</rp>１世<rp>(</rp><rt lang="fr">Ier</rt><rp>)</rp></ruby>の後を継いだ息子<a href="https://ja.wikipedia.org/wiki/アンリ2世_(フランス王)" title="https://ja.wikipedia.org/wiki/アンリ2世_(フランス王)"><ruby lang="ja">アンリ<rp>(</rp><rt lang="fr">Henri</rt><rp>)</rp>ニ世<rp>(</rp><rt lang="fr">deux</rt><rp>)</rp></ruby></a>の愛妾だった、<a href="https://ja.wikipedia.org/wiki/ディアーヌ・ド・ポワチエ" title="https://ja.wikipedia.org/wiki/ディアーヌ・ド・ポワティエ"><ruby lang="ja">ディアーヌ<rp>(</rp><rt lang="fr">Diane</rt><rp>)</rp>・<rp>(</rp><rt lang="fr">&nbsp;</rt><rp>)</rp>ド<rp>(</rp><rt lang="fr">de</rt><rp>)</rp>・<rp>(</rp><rt lang="fr">&nbsp;</rt><rp>)</rp>ポワティエ<rp>(</rp><rt lang="fr">Poitiers</rt><rp>)</rp></ruby></a>が描かれている。</p>
 <p>当時、フランス王国宮廷では、最も注目された（気絶する）美人としても知られている。</p>
 <p>この時代、〈<ruby>並<rp>（</rp><rt>へい</rt><rp>）</rp>行<rp>（</rp><rt>こう</rt><rp>）</rp>肖<rp>（</rp><rt>しょう</rt><rp>）</rp>像<rp>（</rp><rt>ぞう</rt><rp>）</rp></ruby>〉が流行ったため、直接肖像されているのではなく、ここでは、本人とフランス語で同じ名前「<a href="https://ja.wikipedia.org/wiki/ディアーナ" title="https://ja.wikipedia.org/wiki/ディアーナ"><ruby lang="ja">ディアーヌ<rp>(</rp><rt lang="fr">Diane</rt><rp>)</rp></ruby></a>」で知られる狩猟女神の姿で、表されている。</p>
-<p>この並行肖像の元、以下に読めれる、ローマ帝国時代に生きた作家<a href="https://ja.wikipedia.org/wiki/オウィディウス" title="https://ja.wikipedia.org/wiki/オウィディウス"><ruby lang="ja">オウィディウス<rp>(</rp><rt lang="la">Ovidius</rt><rp>)</rp></ruby></a> が書いた「<a href="https://ja.wikipedia.org/wiki/変身物語" title="https://ja.wikipedia.org/wiki/変身物語"><ruby lang="ja">変身物語<rp>(</rp><rt lang="la">Metamorphōseōn&#160librī</rt><rp>)</rp></ruby></a>」のなかにある、日本語ではラテン語から<ruby lang="ja">ディアーナ<rp>(</rp><rt lang="la">Diana</rt><rp>)</rp></ruby>狩猟女神が現れる物語がある。</p>
+<p>この並行肖像の元、以下に読めれる、ローマ帝国時代に生きた作家<a href="https://ja.wikipedia.org/wiki/オウィディウス" title="https://ja.wikipedia.org/wiki/オウィディウス"><ruby lang="ja">オウィディウス<rp>(</rp><rt lang="la">Ovidius</rt><rp>)</rp></ruby></a> が書いた「<a href="https://ja.wikipedia.org/wiki/変身物語" title="https://ja.wikipedia.org/wiki/変身物語"><ruby lang="ja">変身物語<rp>(</rp><rt lang="la">Metamorphōseōn&nbsp;librī</rt><rp>)</rp></ruby></a>」のなかにある、日本語ではラテン語から<ruby lang="ja">ディアーナ<rp>(</rp><rt lang="la">Diana</rt><rp>)</rp></ruby>狩猟女神が現れる物語がある。</p>
 <p><ruby lang="ja">アクタイオン<rp>(</rp><rt lang="la">Actæon</rt><rp>)</rp></ruby>王子との登場でもある。</p>
 <p>お楽しみ下さい！</p>
 </div>
 
-<article>
-<h2 id="acteon" class="green"><cite>変身物語</cite>においてのティアナとアクタイオン</h2>
+<section id="acteon">
+<h2 class="green"><cite>変身物語</cite>の文書においてのティアナとアクタイオン</h2>
 
 <ol class="doc">
   <li>力ドモスのばあい、ありあまる幸福のなかにあって、最初の悲しみのたねは、孫 アクタイオンだった。</li>
@@ -100,7 +100,7 @@
   <p><span style="color: #3d8b3d;">オウィディウス、<cite>変身物語</cite>、第３巻、１３４節から２５２節まで。</span></p>
 </footer>
 
-</article>
+</section>
 
 </article>
 `;
