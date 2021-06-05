@@ -22,31 +22,31 @@
 
 <div id="translation-text-rousi">
 <ol class="doc-three-rows">
-<li data-id="【ソクラテス】"> — 「彼の父と母とは誰ですか」と私は言った。</li>
-<li id="203b" data-id="【ディオティマ】">— 「それをお話しすると少々長くなりますが、しかしそれでもあなたのために話しましょう。</li>
+<li data-name="【ソクラテス】"> — 「彼の父と母とは誰ですか」と私は言った。</li>
+<li data-id="203b" data-name="【ディオティマ】">— 「それをお話しすると少々長くなりますが、しかしそれでもあなたのために話しましょう。</li>
 <li>つまり、アプロディテが誕生した時に、その他の神々と一緒に、メチスの息子の<a id="poros" href="#note_poros">ポロス</a>も誕生祝いをやっていたのです。</li>
 <li>食事が終った後に、<a id="penia" href="#note_penia">ペニア</a>が、たいへんな御馳走だったので、物乞いをしにやってきて、戸口のところにいたのです。</li>
 <li>すると、ポロスが<a id="nectar" href="#note_nectar">ネクタル</a>に酔って——というのは酒はまだありませんでしたから——ゼウスの園にはいりこんで、参っていたものだから、眠りこみました。</li>
 
-<li id="203c" class="top-space">で、ペニアは自分が貧乏なので、子どもをポロスから設けようと企んで、彼に添い寝をして、エロスをみごもったのです。</li>
+<li data-id="203c" class="top-space">で、ペニアは自分が貧乏なので、子どもをポロスから設けようと企んで、彼に添い寝をして、エロスをみごもったのです。</li>
 <li>実にこのためにまたエロスはアプロディテの従者とも下僕ともなったのです、それはあの女神の誕生日を祝う祭りに生まれたからであり、また同時に<ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp>来<rp>(</rp><rt>らい</rt><rp>)</rp></ruby>美しいものの愛人であるところに、アプロディテが美しい神であるときているからなのです。</li>
 <li>で、ポロスとペニアとの間の息子であるから、エロスは次ぎのような運命におかれているのです。</li>
 
-<li id="203d" class="top-space">第一に常に貧乏です、そして多くの人々の思っているように、柔かくて美しいどころか、堅くて、かさかさしていて、<ruby>跳<rp>(</rp><rt>は</rt><rp>)</rp>足<rp>(</rp><rt>だし</rt><rp>)</rp></ruby>で、宿なしで、いつも大地に寝る者、寝床のない者、戸口や路上で露天の下に眠る者で、母の本性を受けて常に欠乏の同居人なのです。</li>
+<li data-id="203d" class="top-space">第一に常に貧乏です、そして多くの人々の思っているように、柔かくて美しいどころか、堅くて、かさかさしていて、<ruby>跳<rp>(</rp><rt>は</rt><rp>)</rp>足<rp>(</rp><rt>だし</rt><rp>)</rp></ruby>で、宿なしで、いつも大地に寝る者、寝床のない者、戸口や路上で露天の下に眠る者で、母の本性を受けて常に欠乏の同居人なのです。</li>
 <li>しかし他方、父に倣って美しいものや善いものを窺う者であり、勇敢で、<ruby>我<rp>(</rp><rt>む</rt><rp>)</rp>武<rp>(</rp><rt>が</rt><rp>)</rp>者<rp>(</rp><rt>しゃ</rt><rp>)</rp>羅<rp>(</rp><rt>ら</rt><rp>)</rp></ruby>で、精力的で、巧みな<ruby>狩人<rp>(</rp><rt>かりゅうど</rt><rp>)</rp></ruby>で、常に策を編み出す者です、また叡智の欲求者で、多策で、全生涯を通じて<a id="philosopher" href="#note_philosopher">知恵を愛求する</a>者、また巧みな魔術師、調剤師、専門家です。</li>
 
-<li id="203e" class="top-space">そして性来不死であるということも、可死的であるということもないと追伸しなければならない。</li>
+<li data-id="203e" class="top-space">そして性来不死であるということも、可死的であるということもないと追伸しなければならない。</li>
 <li>一日のうちに花咲き、生きている時もあるが、死んでいる時もある、しかし父の本性によって、良策をうる時は、再び生きかえります。</li>
 <li>しかし手に入れられたものはいつも洩れ出ています、従ってエロスは決して貧乏でもなければ、富裕でもありません、</li>
 <li>また他方知恵と愚味との中間にあります。」</li>
-<li id="204a" data-id="【ディオティマ】"> — 「それはこういう事情があるからです。</li>
+<li data-id="204a" data-name="【ディオティマ】"> — 「それはこういう事情があるからです。</li>
 <li>神々のうち誰一人知恵を愛求されはしない、また知者になることを欲されもしないのです——というのは知者なのですから——。</li>
 <li>また他に知者があれば、その人も知恵を愛求しはしない。</li>
 <li>また他方において愚味な人々は知恵を愛求しもしなければ、知者となることを欲しもしない。</li>
 <li>というのは愚味が始末の悪いものであるのは、ちょうとこの点すなわち美しいものでも善いものでも思慮のあるものでもないのに、自分では申分のない者だと思っている点にあるのですからね。</li>
 <li>だから欠けているものであると思っていない者は欠いていると思っていないものを欲することはないのです」</li>
-<li data-id="【ソクラテス】">— 「それなら、ディオティマ、知恵を愛求する者たちというのは誰ですか、もし知恵のある者たちも愚味な者たちもそうでないとすれば」と私は言った。と、彼女は言った</li>
-<li data-id="【ディオティマ】">— 「そのことなら、もう子どもにさえも明らかですよ。つまりこれら両方の者たちの中間の者たちで、エロスもまたそれらのうちの一人でしょう。</li>
+<li data-name="【ソクラテス】">— 「それなら、ディオティマ、知恵を愛求する者たちというのは誰ですか、もし知恵のある者たちも愚味な者たちもそうでないとすれば」と私は言った。と、彼女は言った</li>
+<li data-name="【ディオティマ】">— 「そのことなら、もう子どもにさえも明らかですよ。つまりこれら両方の者たちの中間の者たちで、エロスもまたそれらのうちの一人でしょう。</li>
 <li>というのは知恵は最も美しいものの一つですが、エロスは美しいものについての恋です、</li>
 <li>従って必然にエロスは愛知者ということになり、愛知者であるがゆえに、知者と愚者との中間者であるということになりますね。</li>
 <li>そして彼にとってはそれらのことの原因もその生れにあるのです。</li>
@@ -137,8 +137,6 @@ let focusEditor;
 let showEditorState = true;
 let editorState = createExtendedThreeRichTextEditor(html);
 
-const plugins = [];
-
 function handleChange(event) {
   editorState = event.detail.editorState;
 }
@@ -172,37 +170,18 @@ on:change={handleChange}
 placeholder="Go ahead and edit me!"/>
 
 <div class="controls">
-  <button on:click={clearEditor}>Clear</button>
-  <button on:click={resetEditor}>Reset</button>
-  <button on:click={showHtml}>Show HTML</button>
-  <button on:click={showText}>Show Text</button>
+<button on:click={clearEditor}>Clear</button>
+<button on:click={resetEditor}>Reset</button>
+<button on:click={showHtml}>Show HTML</button>
+<button on:click={showText}>Show Text</button>
 </div>
 
 <p>
-  <label>Show serialized editor state
-    <input type="checkbox" bind:checked={showEditorState}/>
-  </label>
-</p>
-
-<p>
-  information about html <a href='https://www.w3schools.com/tags/tag_ruby.asp' rel="nofollow external" target="_blank"><code>ruby</code></a> tag.
+<label>Show serialized editor state
+  <input type="checkbox" bind:checked={showEditorState}/>
+</label>
 </p>
 
 {#if showEditorState}
 <pre>{JSON.stringify(toJSON(editorState), null, 2)}</pre>
 {/if}
-
-
-<style>
-  button, input {
-    margin: .5em;
-  }
-
-  input {
-    outline: none;
-  }
-
-  :global(.ui-editor img) {
-    max-width: 300px;
-  }
-</style>
