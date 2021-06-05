@@ -14,7 +14,7 @@
 </hgroup>
 
 <div class="notices green">
-<p><ruby lang="ja">ユリウス<rp>(</rp><rt lang="la">Iulius</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>カエサル<rp>(</rp><rt lang="la">Caesar</rt><rp>)</rp></ruby>が自ら書いたとされている「<cite><ruby lang="ja">ガリア戦記<rp>(</rp><rt lang="la">Commentarii&#160;de&#160;Bello&#160;Gallico</rt><rp>)</rp></ruby></cite>」は現在フランスの過去に関して文字で書かれた史料として一番古いの中に数えられている。</p>
+<p><ruby lang="ja">ユリウス<rp>(</rp><rt lang="la">Iulius</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>カエサル<rp>(</rp><rt lang="la">Caesar</rt><rp>)</rp></ruby>が自ら書いたとされている「<cite><ruby lang="ja">ガリア戦記<rp>(</rp><rt lang="la">Commentarii&nbsp;de&nbsp;Bello&nbsp;Gallico</rt><rp>)</rp></ruby></cite>」は現在フランスの過去に関して文字で書かれた史料として一番古いの中に数えられている。</p>
 <p>この素晴らしい作品について、いろいろいうべきことがあろうが、ここでは作品全体としてではなく、現代の<ruby lang="ja">ランス<rp>(</rp><rt lang="fr">Reims</rt><rp>)</rp></ruby>市の名の元になっている<ruby lang="ja">レミ<rp>(</rp><rt lang="la">Remi</rt><rp>)</rp></ruby>族が現れる第ニ巻の前半の部分にだけ関心を寄せています。</p>
 <p>以下の文書の引用がそれに限りますが、それでも文書の流れがよりよく分かるように、ちょっと前のと後の部分をも載せようとしました。</p>
 <p>前の部分の<a href="#1chap" title="第一章、ベルギー全土が混乱">第一</a>と<a href="#2chap" title="第ニ章、カエサルの措置">第ニ章</a>では、ローマ軍のガリアでの進出に当っての状態が表れています。</p>
@@ -28,7 +28,8 @@
 
 <h3 class="green">第一章：ベルギー全土が混乱</h3>
 
-<h4 class="green" id="1chap">第一章</h4>
+<section id="1chap">
+<h4 class="green">第一章</h4>
 
 <ol class="doc">
   <li value="1">内ガリアにいた<mark>カエサル</mark>のもとにも何度となく噂は届いてい<a href="#note_labienus" title="ラビエヌス" id="labienus"><ruby lang="ja">ラビエヌス<rp>(</rp><rt lang="la">Labienus</rt><rp>)</rp></ruby></a>が手紙でこのようなことを知らせてきた。
@@ -37,10 +38,12 @@
   <li value="3">次に、一部のガリア人のそそのかされたため、一部の者はゲルマニ人がこれ以上ガリアに来るのは望ましくないと思っていたのと同じ理屈で、ローマ軍がガリアで冬営して古顔になっていくのも不愉快だと思っていたし、気まぐれや浅はかな思いから新しい支配者を求めていた者もいたのである。</li>
   <li value="4">また、ガリアでは他人より力のある者、人を集める力のある者が一般に権力を握ってきたが、ローマ人に支配されてはそういうわけにはいかなくなるぞ、とそそのかす者もなくはなかった。</li>
 </ol>
+</section>
 
 <h3 class="green">カエサルの措置</h3>
 
-<h4 id="2chap" class="green">第ニ章</h4>
+<section id="2chap">
+<h4 class="green">第ニ章</h4>
 
 <ol class="doc">
   <li value="1">そのような噂や手紙に心動かされた<mark>カエサル</mark>は、<a href="#note_gallia_citerior" title="ガリア・キテリオル" id="gallia_citerior">ガリア・キテリオル</a>で新たにニ個軍団を徴集すると、戦争ができる季節になるや、そのニ個軍団を<a href="#note_gallia_ulterior" title="ガリア・ウルテリオル" id="gallia_ulterior">ガリア・ウルテリオル</a>へ移動させるために<a href="#note_quintus_pedius" title="クィントッス・ペディウス" id="quintus_pedius"><ruby lang="ja">クィントゥス<rp>(</rp><rt lang="la">Quintus</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>ペディウス<rp>(</rp><rt lang="la">Pedius</rt><rp>)</rp></ruby></a>副司令を派遣した。</li>
@@ -48,10 +51,12 @@
   <li value="3"><a href="#note_senones" title="セノネス族" id="senones">セノネス族</a>などべルガエ人の近くにいるガリア人に指示して、ベルガエ人のもとで起こってい ることを調べて報告させた。</li>
   <li value="4">全員が同じように、人手がかき集められ、軍が一所に集結していると報告してきたので、かくなるうえは晴踏せずべルガエ人のもとに行くべきだと思い、<ruby>兵<rp>(</rp><rt>ひょう</rt><rp>)</rp>糧<rp>(</rp><rt>ろう</rt><rp>)</rp></ruby>の準備を整えると陣地を移動して、<time datetime="P15D">十五日</time>ほどでべルガエ人の領土に到着した。</li>
 </ol>
+</section>
 
 <h3 class="green">レミ族は自分をローマの味方と宣言する</h3>
 
-<h4 id="3chap" class="green">第三章</h4>
+<section id="3chap">
+<h4 class="green">第三章</h4>
 
 <ol class="doc">
   <li value="1"><mark>カエサル</mark>が意表をついて誰も予想していなかったほど早く来たので、<span style="color: #3d8b3d;"><a href="#note_remi" title="レミ族" id="remi">レミ族</a></span>というべルガエ人の中でもっともガリアに近い部族が、カエサルに使節として<a href="#note_iccius" title="イッキウス" id="iccius"><ruby lang="ja">イッキウス<rp>(</rp><rt lang="la">Iccius</rt><rp>)</rp></ruby></a>と<ruby lang="ja">アンデコンボギウス<rp>(</rp><rt lang="la">Andecombogius</rt><rp>)</rp></ruby>という部族の第一人者を寄越して、こう言ってきた。</li>
@@ -61,10 +66,12 @@
   <li value="4">ほかのべルガエ人は全員武装している。</li>
   <li value="5"><a href="#note_rhenus" title="レヌス川" id="rhenus"><ruby lang="ja">レヌス<rp>(</rp><rt lang="la">Rhenus</rt><rp>)</rp></ruby>河</a>のこちら側に住んでいる<a href="#note_germani" title="ゲルマニ人" id="germani"><ruby lang="ja">ゲルマニ<rp>(</rp><rt lang="la">Germani</rt><rp>)</rp></ruby></a>人とも共謀しているのだが、全員頭に血が上っているため、<a href="#note_suessiones" title="スエシオネス族" id="suessiones"><ruby lang="ja">スエシオネス<rp>(</rp><rt lang="la">Suessiones</rt><rp>)</rp></ruby>族</a>という自分たちの兄弟親戚にあたる（同じ掟、同じ法を使い、同じ支配者同じ<ruby>領<rp>(</rp><rt>りょう</rt><rp>)</rp>袖<rp>(</rp><rt>しゅう</rt><rp>)</rp></ruby>を共有する間柄の）部族を思いとどまらせて結託しないようにすることすらできなかった。</li>
 </ol>
+</section>
 
 <h3 class="green">敵軍の列挙</h3>
 
-<h4 id="4chap" class="green">第四章</h4>
+<section id="4chap">
+<h4 class="green">第四章</h4>
 
 <ol class="doc">
   <li value="1"><span style="color: #3d8b3d;">レミ族</span>にどの部族がどの程度武器を取れるのか、また戦争になったときの力はどうか<ruby>訊<rp>(</rp><rt>たず</rt><rp>)</rp></ruby>ねたところ、このようなことがわかった。
@@ -85,6 +92,7 @@
   <a href="#note_aduatuci" title="アドゥアトゥキ族" id="aduatuci"><ruby lang="ja">アドゥアトゥキ<rp>(</rp><rt lang="la">Aduatuci</rt><rp>)</rp></ruby>族</a>は<span style="color: #3d8b3d;">１９　０００人</span>。</li>
   <li value="10"><a href="#note_condrusi" title="コンドルシ族" id="condrusi"><ruby lang="ja">コンドルシ<rp>(</rp><rt lang="la">Condrusi</rt><rp>)</rp></ruby>族</a>、<a href="#note_eburones" title="エブロネス族" id="eburones"><ruby lang="ja">エブロネス<rp>(</rp><rt lang="la">Eburones</rt><rp>)</rp></ruby>族</a>、<a href="#note_caeroesi" title="カエロシ族" id="caeroesi"><ruby lang="ja">カエロシ<rp>(</rp><rt lang="la">Caeroesi</rt><rp>)</rp></ruby>族</a>、<a href="#note_paemani" title="パエマ二族" id="paemani"><ruby lang="ja">パエマ二<rp>(</rp><rt lang="la">Paemani</rt><rp>)</rp></ruby>族</a>といったひとくくりにゲルマニ人と呼ばれる者たちが<span style="color: #3d8b3d;">４０　０００人</span>ほどと考えられている。</li>
 </ol>
+</section>
 
 <figure>
   <picture><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/03.reims/01.remes/gallia.svg" title="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《ミネルヴァとテイレシアス》絵画" alt="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《ミネルヴァとテイレシアス》絵画" class="class-diane-img" width="850" height="850" loading="eager" decoding="async"></picture><figcaption>手前に見えるミネルヴァが真ん中にいるテイレシアスを見えなくさせている</figcaption>
@@ -119,17 +127,20 @@
   援軍を送ってもらえなければもう持ちこたえられそうにないとのことだったので、</li>
 </ol>
 
-<h4 id="7chap" class="green">第七章</h4>
+<section id="7chap">
+<h4 class="green">第七章</h4>
 
 <ol class="doc">
   <li value="1">夜のうちにイッキウスが使者として送ってきた者たちを道案内として、<a href="#note_numidie" title="ヌミディア人" id="numidie"><ruby lang="ja">ヌミディア<rp>(</rp><rt lang="la">Numidia</rt><rp>)</rp></ruby>人</a>や<a href="#note_crete" title="クレタ人" id="crete"><ruby lang="ja">クレタ<rp>(</rp><rt lang="la">Creta</rt><rp>)</rp></ruby>人</a>の弓兵と、<a href="#note_baleares" title="バレアレス人" id="baleares"><ruby lang="ja">バレアレス<rp>(</rp><rt lang="la">Baleares</rt><rp>)</rp></ruby>人</a>の投石兵を住民の救助に向かわせた。</li>
   <li value="2">援軍が到着すると、<span style="color: #3d8b3d;">レミ族</span>は守り切れる希望がわいたので士気が上がり、敵の方は同じ理由から街を奪いとれる希望がなくなったので、しばし街の近辺に留まって<span style="color: #3d8b3d;">レミ族</span>の畑を荒らし、手当たり次第に村や建物を焼いてから、全軍で<mark>カエサル</mark>の陣地に向かい、二マイルも離れていないところに陣地を築いた</li>
   <li value="3">この陣地は煙や火から判断すると八マイル以上もの長さがあった。</li>
 </ol>
+</section>
 
 <h3 class="green">エーヌ川の戦い</h3>
 
-<h4 id="8chap" class="green">第八章</h4>
+<section id="8chap">
+<h4 class="green">第八章</h4>
 
 <ol class="doc">
   <li value="1"><mark>カエサル</mark>は当初敵も多いし並々ならぬ武勇の噂も聞いていたので戦闘を差し控えることにしたのだが、</li>
@@ -139,8 +150,10 @@
   <li value="5">それを済ますと、最近徴集した二個軍団を陣地に残して必要なときには援軍に出せるようにし、残りの六個軍団を陣地の前に配置した。
   敵も同様に軍を陣地から出して隊形を整えた。</li>
 </ol>
+</section>
 
-<h4 id="9chap" class="green">第九章</h4>
+<section id="9chap">
+<h4 class="green">第九章</h4>
 
 <ol class="doc">
   <li value="1">両軍の間には大きくはないが沼があった。
@@ -151,8 +164,10 @@
   これは、できればクィントゥス・ティトゥリウス副司令が指揮する砦を襲って橋を壊し、</li>
   <li value="5">それが無理なら<span style="color: #3d8b3d;">レミ族</span>の畑を荒らし、物資を遮断したかったためだが、</li>
 </ol>
+</section>
 
-<h4 id="10chap" class="green">第十章</h4>
+<section id="10chap">
+<h4 class="green">第十章</h4>
 
 <ol class="doc">
   <li value="1"><mark>カエサル</mark>は<a href="#note_titurius" title="ティトゥリウス" id="titurius"><ruby lang="ja">ティトゥリウス<rp>(</rp><rt lang="la">Titurius</rt><rp>)</rp></ruby></a>から報告を受けると、すべての騎兵、ヌミダの軽装兵、投石兵、弓兵に橋を渡らせて敵のもとへ急いだ。</li>
@@ -166,8 +181,10 @@
   よその土地で戦うより自分の土地で戦う方が<ruby>兵<rp>(</rp><rt>ひょう</rt><rp>)</rp>糧<rp>(</rp><rt>ろう</rt><rp>)</rp></ruby>についても自分たちの蓄えを使えてよいだろう</li>
   <li value="5">そのような結論に至ったのは、ディウィキアクスが率いるハエドゥイ族がべロウァキ族の領土に向かっていると知り、もっと粘ろう、仲間を助けに行くのはよそうというわけにはいかなくなったからでもある。</li>
 </ol>
+</section>
 
-<h4 id="11chap" class="green">第十一章</h4>
+<section id="11chap">
+<h4 class="green">第十一章</h4>
 
 <ol class="doc">
   <li value="1">そう決まると、敵は第二夜警時に騒々しい物音を立てながら<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp>慌<rp>(</rp><rt>あわ</rt><rp>)</rp></ruby>てで陣地を出ていった。
@@ -178,10 +195,12 @@
   <li value="5">先行していたおかげでまだ大丈夫だと思い込み、必要に迫られたり命令を受けることもなく統制がとれていなかった者たちは、<ruby>喊<rp>(</rp><rt>かん</rt><rp>)</rp>声<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>が聞こえてくると列を乱し、逃げて身を守ろうとしたので、</li>
   <li value="6">ローマ軍は何の危険を感じることもなく日の出ている間に大勢の敵を殺せたのである(彼らは日没になると追撃をやめて、命じられていた通りに陣地に戻ってきた)。</li>
 </ol>
+</section>
 
 <h3 class="green">スエシオネス族、ベロヴァキ族、アンビアニ族が服従して、カエサルがネルウィイ族の地へと渡る</h3>
 
-<h4 id="12chap" class="green">第十二章</h4>
+<section id="12chap">
+<h4 class="green">第十二章</h4>
 
 <ol class="doc">
   <li value="1">翌日、カェサルは敵が恐怖心や敗走の痛手から立ち直る前に<span style="color: #3d8b3d;">レミ族</span>の隣人であるスェシオネス族の領土に軍を移動し、強行軍で<a href="#note_noviodunum" title="ノウィオドゥヌム" id="noviodunum"><ruby lang="ja">ノウィオドゥヌム<rp>(</rp><rt lang="la">Noviodunum</rt><rp>)</rp></ruby></a>という街に向かった。</li>
@@ -190,6 +209,7 @@
   <li value="4">そうこうしているうちに逃げ出していたスエシオネス族が全員その夜のうちに街に戻ってきていたのだが、</li>
   <li value="5">あっという間に<a href="#note_mantelets" title="作業小屋" id="mantelets">作業小屋</a>が街へと押し寄せ、攻城用の土手をかけられ、檜が組まれるという工事の大がかりさ（ガリア人には見たことも聞いたこともないほどの工事だったのである）とローマ人の手早さに動転して、<mark>カエサル</mark>のもとに降伏の使節を送ってきた（この者たちは<span style="color: #3d8b3d;">レミ族</span>の仲介があったので存続を許された）。</li>
 </ol>
+</section>
 
 <footer>
   <p>ユリウス・カエサル、<cite>ガリア戦記</cite>、第二巻、第一章から第十二章まで</p>
@@ -199,7 +219,8 @@
 
 <h2>註釈</h2>
 
-<h4 id="note_labienus" class="green note">ラビエヌス</h4>
+<section id="note_labienus">
+<h4 class="green note">ラビエヌス</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">ラビエヌス<rp>(</rp><rt lang="la">Labienus</rt><rp>)</rp></ruby>は、共和政ローマ期の軍人、政治家である。
@@ -209,8 +230,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#labienus" title="ラビエヌス">ラビエヌス ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_gallia_citerior" class="green note">ガリアの第三の地域　ガリア・キテリオル</h4>
+<section id="note_gallia_citerior">
+<h4 class="green note">ガリアの第三の地域　ガリア・キテリオル</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">ガリア<rp>(</rp><rt lang="la">Gallia</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>キテリオル<rp>(</rp><rt lang="la">Citerior</rt><rp>)</rp></ruby>。現在のイタリア半島北部。「ガリアの第三の地域」、あるいは、<ruby lang="ja">ガリア<rp>(</rp><rt lang="la">Gallia</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>キサルピナ<rp>(</rp><rt lang="la">Cisalpina</rt><rp>)</rp></ruby>とも呼ばれている。「キテリオル」は「こちら側」との意を示していて、「こちら側のガリア」。</p>
@@ -219,8 +242,10 @@
   <p class="puce">註に戻る：<a href="#tertiam_galliae_partem" title="ガリアの第3の地域">ガリアの第三の地域 ↩</a></p>
   <p class="puce">註に戻る：<a href="#gallia_citerior" title="ガリア・キテリオル">ガリア・キテリオル ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_quintus_pedius" class="green note">クィントッス・ペディウス</h4>
+<section id="note_quintus_pedius">
+<h4 class="green note">クィントッス・ペディウス</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">クィントッス<rp>(</rp><rt lang="la">Quintus</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>ペディウス<rp>(</rp><rt lang="la">Pedius</rt><rp>)</rp></ruby>はカエサルの甥。
@@ -229,8 +254,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#quintus_pedius" title="クィントッス・ペディウス">クィントッス・ペディウス ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_senones" class="green note">セノネス族</h4>
+<section id="note_senones">
+<h4 class="green note">セノネス族</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">セノネース<rp>(</rp><rt lang="la">Senones</rt><rp>)</rp></ruby>族は現在の<a href="https://ja.wikipedia.org/wiki/サンス" title="https://ja.wikipedia.org/wiki/サンス"><ruby lang="ja">サンス<rp>(</rp><rt lang="fr">Sens</rt><rp>)</rp></ruby></a>近郊に住んでいたと考えられている。  </p>
@@ -238,8 +265,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#senones" title="セノネス族">セノネス族 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_gallia_ulterior" class="green note">ガリア・ウルテリオル</h4>
+<section id="note_gallia_ulterior">
+<h4 class="green note">ガリア・ウルテリオル</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">ガリア<rp>(</rp><rt lang="la">Gallia</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>ウルテリオル<rp>(</rp><rt lang="la">Ulterior</rt><rp>)</rp></ruby>は現在のアルプスの西側・北側。<a href="https://ja.wikipedia.org/wiki/ガリア・ナルボネンシス" title="ガリア・トランサルピナ"><ruby lang="ja">ガリア<rp>(</rp><rt lang="la">Gallia</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>トランサルピナ<rp>(</rp><rt lang="la">transalpina</rt><rp>)</rp></ruby></a>とも呼ばれている。「ウルテリオル」は「向こう側」との意を示していて、「向こう側のガリア」と、「ウルテリオル」は「向こう側」との意を示していて、（アルプス）の「向こう側のガリア」である。  </p>
@@ -247,7 +276,9 @@
 <footer>
   <p class="puce">註に戻る：<a href="#gallia_ulterior" title="ガリア・ウルテリオル">ガリア・ウルテリオル ↩</a></p>
 </footer>
+</section>
 
+<section id="note_remi">
 <h4>レミ族</h4>
 
 <div class="notices green">
@@ -256,8 +287,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#remi" title="レミ族">レミ族 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_rhenus" class="green note">レヌス川</h4>
+<section id="note_rhenus">
+<h4 class="green note">レヌス川</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">レヌス<rp>(</rp><rt lang="la">Rhenus</rt><rp>)</rp></ruby>河は現在の<a href="https://ja.wikipedia.org/wiki/ライン川" title="ライン川">ライン川</a>です。</p>
@@ -265,8 +298,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#rhenus" title="レヌス川">レミ族 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_germani" class="green note">ゲルマニ人</h4>
+<section id="note_germani">
+<h4 class="green note">ゲルマニ人</h4>
 
 <div class="notices green">
 <p>ゲルマニ人はラテン呼称。<a href="https://ja.wikipedia.org/wiki/ゲルマン人" title="ゲルマン人">ゲルマン人</a>。  </p>
@@ -274,8 +309,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#germani" title="ゲルマニ人">ゲルマニ人 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_suessiones" class="green note">スエシオネス族</h4>
+<section id="note_suessiones">
+<h4 class="green note">スエシオネス族</h4>
 
 <div class="notices green">
 <p>スエシオネス族はソワソン近郊に住んでいたと考えられている。  </p>
@@ -283,8 +320,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#suessiones" title="スエシオネス族">スエシオネス族 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_teutoni" class="green note">テウトニ族</h4>
+<section id="note_teutoni">
+<h4 class="green note">テウトニ族</h4>
 
 <div class="notices green">
 <p><ruby>テウトニ<rp>(</rp><rt>Teutoni</rt><rp>)</rp></ruby>族はラテン呼称。<a href="https://ja.wikipedia.org/wiki/テウトネス族" title="テウトネス族">テウトネス族</a>。  </p>
@@ -292,8 +331,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#teutoni" title="テウトニ族">スエシオネス族 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_bellovaci" class="green note">ベロヴァキ族</h4>
+<section id="note_bellovaci">
+<h4 class="green note">ベロヴァキ族</h4>
 
 <div class="notices green">
 <p>ベロヴァキ族は、<time datetime="0057">５７年</time>にユリウス・カエサルによって征服された現在フランス北東部、<a href="https://ja.wikipedia.org/wiki/オワーズ川" title="オワーズ川"><ruby lang="ja">オワーズ<rp>(</rp><rt lang="fr">Oise</rt><rp>)</rp></ruby>川</a>の西岸、<ruby lang="ja">ボーヴェ<rp>(</rp><rt lang="fr">Beauvais</rt><rp>)</rp></ruby>近郊の部族で、<a href="https://ja.wikipedia.org/wiki/ガリア・ベルギカ" title="ガリア・ベルギカ"><ruby lang="ja">ガリア<rp>(</rp><rt lang="fr">Gallia</rt><rp>)</rp>・<rp>(</rp><rt lang="fr"></rt><rp>)</rp>ベルギカ<rp>(</rp><rt lang="fr">Belgica</rt><rp>)</rp></ruby></a>にあった最も強力で多くの民族の中にあった。　　</p>
@@ -301,8 +342,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#suessiones" title="スエシオネス族">ベロヴァキ族 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_diviciacus" class="green note">ディウィキアクス</h4>
+<section id="note_diviciacus">
+<h4 class="green note">ディウィキアクス</h4>
 
 <div class="notices green">
 <p>スエシオネス族の<ruby lang="ja">ディウィキアクス<rp>(</rp><rt lang="la">Diviciacus</rt><rp>)</rp></ruby>は次の章に出て来る<a href="#diviciacus_Haeduum" title="ハエドゥイ族のディウィキアクス">ハエドゥイ族のディウィキアクス</a>とは別人と考えられている。</p>
@@ -310,8 +353,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#diviciacus" title="ディウィキアクス">ディウィキアクス ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_galba" class="green note">ガルバ</h4>
+<section id="note_galba">
+<h4 class="green note">ガルバ</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">ガルバ<rp>(</rp><rt lang="la">Galba</rt><rp>)</rp></ruby>は公正で分別があることから戦争全体の指揮権を全会一致で任されている。</p>
@@ -319,8 +364,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#galba" title="ガルバ">ガルバ ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_nervii" class="green note">ネルウィイ族</h4>
+<section id="note_nervii">
+<h4 class="green note">ネルウィイ族</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">ネルウィイ<rp>(</rp><rt lang="la">Nervii</rt><rp>)</rp></ruby>族は<a href="https://ja.wikipedia.org/wiki/カンブレー" title="カンブレー"><ruby lang="ja">カンブレー<rp>(</rp><rt lang="fr">Cambrai</rt><rp>)</rp></ruby></a>近郊、  </p>
@@ -328,8 +375,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#nervii" title="ネルウィイ族">ネルウィイ族 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_atrebates" class="green note">アトレバテス族</h4>
+<section id="note_atrebates">
+<h4 class="green note">アトレバテス族</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">アトレバテス<rp>(</rp><rt lang="la">Atrebates</rt><rp>)</rp></ruby>は<a href="https://ja.wikipedia.org/wiki/アラス" title="アラス"><ruby lang="ja">アラス<rp>(</rp><rt lang="fr">Arras</rt><rp>)</rp></ruby></a>近郊、  </p>
@@ -337,8 +386,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#atrebates" title="アトレバテス族">アトレバテス族 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_ambiani" class="green note">アンビアニ族</h4>
+<section id="note_ambiani">
+<h4 class="green note">アンビアニ族</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">アンビアニ<rp>(</rp><rt lang="la">Ambiani</rt><rp>)</rp></ruby>族は<a href="https://ja.wikipedia.org/wiki/アミアン" title="アミアン"><ruby lang="ja">アミアン<rp>(</rp><rt lang="fr">Amiens</rt><rp>)</rp></ruby></a>近郊、  </p>
@@ -346,8 +397,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#ambiani" title="アンビアニ族">アンビアニ族 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_morini" class="green note">モリニ族</h4>
+<section id="note_morini">
+<h4 class="green note">モリニ族</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">モリニ<rp>(</rp><rt lang="la">Morini</rt><rp>)</rp></ruby>は<a href="https://ja.wikipedia.org/wiki/ブローニュ＝シュル＝メール" title="ブローニュ＝シュル＝メール"><ruby lang="ja">ブローニュ<rp>(</rp><rt lang="fr">Boulogne</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>シュル<rp>(</rp><rt lang="fr">sur</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>メール<rp>(</rp><rt lang="fr">Mer</rt><rp>)</rp></ruby></a>近郊、  </p>
@@ -355,8 +408,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#morini" title="モリニ族">モリニ族 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_menapii" class="green note">メナピィー族</h4>
+<section id="note_menapii">
+<h4 class="green note">メナピィー族</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">メナピイ<rp>(</rp><rt lang="la">Menapii</rt><rp>)</rp></ruby>族は<a href="https://ja.wikipedia.org/wiki/マース川" title="マース川"><ruby lang="ja">マース川<rp>(</rp><rt lang="nl">Maas</rt><rp>)</rp></ruby></a>と<a href="https://ja.wikipedia.org/wiki/スヘルデ川" title="スヘルデ川"><ruby lang="ja">スヘルデ川<rp>(</rp><rt lang="nl">Schelde</rt><rp>)</rp></ruby></a>の下流域、  </p>
@@ -364,8 +419,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#menapii" title="メナピィー族">メナピィー族 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_caleti" class="green note">カレティ族</h4>
+<section id="note_caleti">
+<h4 class="green note">カレティ族</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">カレティ<rp>(</rp><rt lang="la">Caleti</rt><rp>)</rp></ruby>族は<a href="https://ja.wikipedia.org/wiki/コー" title="コー"><ruby lang="ja">コー<rp>(</rp><rt lang="fr">Caux</rt><rp>)</rp></ruby></a>近郊、  </p>
@@ -373,8 +430,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#caleti" title="カレティ族">カレティ族 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_veliocasses" class="green note">ウェリオカッセス族</h4>
+<section id="note_veliocasses">
+<h4 class="green note">ウェリオカッセス族</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">ウェリオカッセス<rp>(</rp><rt lang="la">Veliocasses</rt><rp>)</rp></ruby>族は<a href="https://ja.wikipedia.org/wiki/ルーアン" title="}ルーアン"><ruby lang="ja">ルーアン<rp>(</rp><rt lang="fr">Rouen</rt><rp>)</rp></ruby></a>近郊、  </p>
@@ -382,8 +441,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#veliocasses" title="ウェリオカッセス族">ウェリオカッセス族 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_viromandui" class="green note">ウィロマンドゥイ族</h4>
+<section id="note_viromandui">
+<h4 class="green note">ウィロマンドゥイ族</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">ウィロマンドゥイ<rp>(</rp><rt lang="la">Viromandui</rt><rp>)</rp></ruby>族は<a href="https://ja.wikipedia.org/wiki/ノワイヨン" title="ノワイヨン"><ruby lang="ja">ノワイヨン<rp>(</rp><rt lang="fr">Noyon</rt><rp>)</rp></ruby></a>近郊、  </p>
@@ -391,8 +452,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#viromandui" title="ウィロマンドゥイ族">ウィロマンドゥイ族 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_aduatuci" class="green note">アドゥアトゥキ族</h4>
+<section id="note_aduatuci">
+<h4 class="green note">アドゥアトゥキ族</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">アドゥアトゥキ<rp>(</rp><rt lang="la">Aduatuci</rt><rp>)</rp></ruby>は<a href="https://ja.wikipedia.org/wiki/ブリュッセル" title="ブリュッセル"><ruby lang="ja">ブリュッセル<rp>(</rp><rt lang="fr">Bruxelles</rt><rp>)</rp></ruby></a>を中心とする<a href="https://ja.wikipedia.org/wiki/ブラバント" title="ブラバント"><ruby lang="ja">ブラバン<rp>(</rp><rt lang="fr">Brabant</rt><rp>)</rp></ruby></a>地方南部、  </p>
@@ -400,8 +463,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#aduatuci" title="アドゥアトゥキ族">アドゥアトゥキ族 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_condrusi" class="green note">コンドルシ族</h4>
+<section id="note_condrusi">
+<h4 class="green note">コンドルシ族</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">コンドルシ<rp>(</rp><rt lang="la">Condrusi</rt><rp>)</rp></ruby>族は<a href="https://ja.wikipedia.org/wiki/アルデンヌ" title="アルデンヌ"><ruby lang="ja">アルデンヌ<rp>(</rp><rt lang="fr">Ardennes</rt><rp>)</rp></ruby></a>近郊、  </p>
@@ -409,8 +474,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#condrusi" title="コンドルシ族">コンドルシ族 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_eburones" class="green note">エブロネス族</h4>
+<section id="note_eburones">
+<h4 class="green note">エブロネス族</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">エブロネス<rp>(</rp><rt lang="la">Eburones</rt><rp>)</rp></ruby>族は<a href="https://ja.wikipedia.org/wiki/マース川" title="マース川">マース河</a>と<a href="https://ja.wikipedia.org/wiki/ライン川" title="ライン川">ライン河</a>に挟まれた<ruby lang="ja">ランブール<rp>(</rp><rt lang="fr">Limbourg</rt><rp>)</rp></ruby>地方、  </p>
@@ -418,8 +485,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#eburones" title="エブロネス族">エブロネス族 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_caeroesi" class="green note">カエロシ族</h4>
+<section id="note_caeroesi">
+<h4 class="green note">カエロシ族</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">カエロシ<rp>(</rp><rt lang="la">Caeroesi</rt><rp>)</rp></ruby>族は<a href="https://ja.wikipedia.org/wiki/リエージュ" title="リエージュ"><ruby lang="ja">リエージュ<rp>(</rp><rt lang="fr">Liège</rt><rp>)</rp></ruby></a>近郊、  </p>
@@ -427,8 +496,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#caeroesi" title="カエロシ族">カエロシ族 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_paemani" class="green note">パエマ二族</h4>
+<section id="note_paemani">
+<h4 class="green note">パエマ二族</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">パエマ二<rp>(</rp><rt lang="la">Paemani</rt><rp>)</rp></ruby>族は<a href="https://ja.wikipedia.org/wiki/マルシュ＝アン＝ファメンヌ" title="マルシュ＝アン＝ファメンヌ"><ruby lang="ja">マルシュ<rp>(</rp><rt lang="fr">Marche</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>アン<rp>(</rp><rt lang="fr">en</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>ファメンヌ<rp>(</rp><rt lang="fr">Famenne</rt><rp>)</rp></ruby></a>近郊に住んでいたものと考えられている。  </p>
@@ -436,8 +507,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#paemani" title="パエマ二族">パエマ二族 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_aisne" class="green note">アクソナ川</h4>
+<section id="note_aisne">
+<h4 class="green note">アクソナ川</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">アクソナ<rp>(</rp><rt lang="la">Axona</rt><rp>)</rp></ruby>河は現在の<a href="https://ja.wikipedia.org/wiki/エーヌ川" title="エーヌ川"><ruby lang="ja">エーヌ<rp>(</rp><rt lang="fr">Aisne</rt><rp>)</rp></ruby></a>河に相当。  </p>
@@ -445,8 +518,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#aisne" title="アクソナ川">アクソナ川 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_cohorte" class="green note">個大隊</h4>
+<section id="note_cohorte">
+<h4 class="green note">個大隊</h4>
 
 <div class="notices green">
 <p>大隊の定数は６００名。小隊６個分、中隊３個分である。なお、１個軍団は１０個大隊からなる。  </p>
@@ -454,8 +529,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#aisne" title="アクソナ川">個大隊 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_bibrax" class="green note">ビブラクス</h4>
+<section id="note_bibrax">
+<h4 class="green note">ビブラクス</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">ビブラクス<rp>(</rp><rt lang="la">Bibrax</rt><rp>)</rp></ruby>は現在の<a href="https://ja.wikipedia.org/wiki/ラン_(フランス)" title="ラン_(フランス)"><ruby lang="ja">ラン<rp>(</rp><rt lang="fr">Laon</rt><rp>)</rp></ruby></a>に当たる。  </p>
@@ -463,28 +540,32 @@
 <footer>
   <p class="puce">註に戻る：<a href="#bibrax" title="ビブラクス">ビブラクス ↩</a></p>
 </footer>
-<p><a href="#note_tortue" title="亀甲陣" id="tortue">亀甲陣</a>亀甲陣は密集隊形のひとつで、正面だけでなく、側面や頭上も楯で覆い隠すようにする。</p>
+</section>
 
-<h4 id="note_tortue" class="green note">亀甲陣</h4>
+<section id="note_tortue">
+<h4 class="green note">亀甲陣</h4>
 
 <div class="notices green">
-<p><ruby>亀甲<rp>(</rp><rt>きっこう</rt><rp>)</rp>陣<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>は密集隊形のひとつで、正面だけでなく、側面や頭上も楯で覆い隠すようにする。  </p>
+<p><ruby>亀甲<rp>(</rp><rt>きっこう</rt><rp>)</rp>陣<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>は密集隊形のひとつで、正面だけでなく、側面や頭上も楯で覆い隠すようにする。</p>
 </div>
 <footer>
   <p class="puce">註に戻る：<a href="#tortue" title="亀甲陣">亀甲陣 ↩</a></p>
 </footer>
-<p>レミ族族でもっとも家柄がよく声望もある人物で、当時のビブラクス総督であり、カエサルのもとに講和の使節として来た者の一人でもある<a href="#iccius" title="イッキウス" id="iccius_2">イッキウス</a></p>
+</section>
 
-<h4 id="note_iccius" class="green note">イッキウス</h4>
+<section id="note_iccius">
+<h4 class="green note">イッキウス</h4>
 
 <div class="notices green">
-<p>文書の先に「レミ族族でもっとも家柄がよく声望もある人物で、当時のビブラクス総督であり、カエサルのもとに講和の使節として来た者の一人でもある」と修飾されている（<a href="#iccius_2" title="イッキウス">６・４</a>）。</p>
+<p>文書の先に「レミ族族でもっとも家柄がよく声望もある人物で、当時のビブラクス総督であり、カエサルのもとに講和の使節として来た者の一人でもある」と修飾されている、<a href="#iccius_2" title="イッキウス">六・四</a>。</p>
 </div>
 <footer>
   <p class="puce">註に戻る：<a href="#iccius" title="イッキウス">イッキウス ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_numidie" class="green note">ヌミディア人</h4>
+<section id="note_numidie">
+<h4 class="green note">ヌミディア人</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">ヌミディア<rp>(</rp><rt lang="la">Numidia</rt><rp>)</rp></ruby>は現在のアルジェリア北東部周辺に当たる。
@@ -493,8 +574,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#numidie" title="ヌミディア人">ヌミディア人 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_crete" class="green note">クレタ人</h4>
+<section id="note_crete">
+<h4 class="green note">クレタ人</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">クレタ<rp>(</rp><rt lang="la">Creta</rt><rp>)</rp></ruby>は<a href="https://ja.wikipedia.org/wiki/クレタ島" title="クレタ島">クレタ島</a>のこと。</p>
@@ -502,8 +585,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#crete" title="クレタ人">クレタ人 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_baleares" class="green note">バレアレス人</h4>
+<section id="note_baleares">
+<h4 class="green note">バレアレス人</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">バレアレス<rp>(</rp><rt lang="la">Baleares</rt><rp>)</rp></ruby>はスペインの<a href="https://ja.wikipedia.org/wiki/クィントゥス・ティトゥリウス・サビヌス" title="クィントゥス・ティトゥリウス・サビヌス">バレアレス諸島</a>のこと。</p>
@@ -511,8 +596,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#titurius" title="ティトゥリウス">バレアレス人 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_titurius" class="green note">ティトゥリウス</h4>
+<section id="note_titurius">
+<h4 class="green note">ティトゥリウス</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">ティトゥリウス<rp>(</rp><rt lang="la">Titurius</rt><rp>)</rp></ruby><ruby>副官<rp>(</rp><rt>レガトゥス</rt><rp>)</rp></ruby>として、この戦いでは南岸の陣地を守った勲功を挙げた。<a href="https://ja.wikipedia.org/wiki/バレアレス諸島" title="バレアレス諸島">バレアレス諸島</a>のこと。</p>
@@ -520,8 +607,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#baleares" title="バレアレス人">ティトゥリウス ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_noviodunum" class="green note">ノウィオドゥヌム</h4>
+<section id="note_noviodunum">
+<h4 class="green note">ノウィオドゥヌム</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">ノウィオドゥヌム<rp>(</rp><rt lang="la">Noviodunum</rt><rp>)</rp></ruby>はスェシオネス族の<ruby>城塞都市<rp>(</rp><rt>オッピドゥム</rt><rp>)</rp></ruby>。現在の<ruby lang="ja">エーヌ<rp>(</rp><rt lang="fr">Aisne</rt><rp>)</rp></ruby>県の<a href="https://ja.wikipedia.org/wiki/ソワソン" title="ソワソン"><ruby lang="ja">ソワソン<rp>(</rp><rt lang="fr">Soissons</rt><rp>)</rp></ruby></a>の近郊にある<ruby lang="ja">ポミエ<rp>(</rp><rt lang="fr">Pommiers</rt><rp>)</rp></ruby>村に当る。</p>
@@ -529,8 +618,10 @@
 <footer>
   <p class="puce">註に戻る：<a href="#noviodunum" title="ノウィオドゥヌム">ノウィオドゥヌム ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_mantelets" class="green note">作業小屋</h4>
+<section id="note_mantelets">
+<h4 class="green note">作業小屋</h4>
 
 <div class="notices green">
 <p>作業小屋は城攻めのときに工兵を飛び道具から守るために使われた差掛小屋のこと。城壁まではころで動かしていた。</p>
@@ -538,6 +629,9 @@
 <footer>
   <p class="puce">註に戻る：<a href="#mantelets" title="作業小屋">作業小屋 ↩</a></p>
 </footer>
+</section>
+
+</aside>
 
 </article>
 `;
