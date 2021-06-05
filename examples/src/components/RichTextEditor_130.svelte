@@ -9,7 +9,7 @@
 <article>
 
 <hgroup>
-<h2 class="red"><ruby lang="ja">大トリアノン宮殿<rp>（</rp><rt lang="fr">le&#160;Grand&#160;Trianon</rt><rp>）</rp></ruby>での</h2>
+<h2 class="red"><ruby lang="ja">大トリアノン宮殿<rp>（</rp><rt lang="fr">le&nbsp;Grand&nbsp;Trianon</rt><rp>）</rp></ruby>での</h2>
 <h1 class="red">アラクネ</h1>
 </hgroup>
 
@@ -19,7 +19,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/01.arachnee/arachnee-380.webp 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/01.arachnee/arachnee-480.webp 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/01.arachnee/arachnee-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/01.arachnee/arachnee_700x520.webp 700w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/01.arachnee/arachnee_700x520.jpg" alt="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《ミネルヴァとアラクネ》絵画" title="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《ミネルヴァとアラクネ》絵画" class="class-diane-img" width="700" height="520" loading="eager" decoding="async" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/01.arachnee/arachnee_700x520.webp 700w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/01.arachnee/arachnee_700x520.jpg" alt="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《ミネルヴァとアラクネ》絵画" title="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《ミネルヴァとアラクネ》絵画" class="class-diane-img" width="700" height="520" loading="eager" decoding="async" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/01.arachnee/arachnee-280.jpg 280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/01.arachnee/arachnee-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/01.arachnee/arachnee-480.jpg 480w,
@@ -28,9 +28,9 @@
 </figure>
 
 <div class="notices red">
-<p><a href="https://ja.wikipedia.org/wiki/大トリアノン宮殿" title="https://ja.wikipedia.org/wiki/大トリアノン宮殿"><ruby lang="ja">大トリアノン宮殿<rp>（</rp><rt lang="fr">le&#160;Grand&#160;Trianon</rt><rp>）</rp></ruby></a>に展示されている<a href="https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス" title="https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス"><ruby lang="ja">ルネ<rp>（</rp><rt lang="fr">René</rt><rp>）</rp>＝<rp>（</rp><rt lang="fr">-</rt><rp>）</rp>アントワーヌ<rp>（</rp><rt lang="fr">Antoine</rt><rp>）</rp>・<rp>（</rp><rt lang="fr"></rt><rp>）</rp>ウアス<rp>（</rp><rt lang="fr">Houasse</rt><rp>）</rp></ruby></a>が描いた《<cite><ruby lang="ja">ミネルヴァ<rp>（</rp><rt lang="fr">Minerve</rt><rp>）</rp>と<rp>（</rp><rt lang="fr">et</rt><rp>）</rp>アラクネ<rp>（</rp><rt lang="fr">Arachnée</rt><rp>）</rp></ruby></cite>》絵画が<ruby lang="ja">領主たちの控えの間<rp>（</rp><rt lang="fr">le&#160;Salon&#160;des&#160;Seigneurs</rt><rp>）</rp></ruby>に見られます。</p>
+<p><a href="https://ja.wikipedia.org/wiki/大トリアノン宮殿" title="https://ja.wikipedia.org/wiki/大トリアノン宮殿"><ruby lang="ja">大トリアノン宮殿<rp>（</rp><rt lang="fr">le&nbsp;Grand&nbsp;Trianon</rt><rp>）</rp></ruby></a>に展示されている<a href="https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス" title="https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス"><ruby lang="ja">ルネ<rp>（</rp><rt lang="fr">René</rt><rp>）</rp>＝<rp>（</rp><rt lang="fr">-</rt><rp>）</rp>アントワーヌ<rp>（</rp><rt lang="fr">Antoine</rt><rp>）</rp>・<rp>（</rp><rt lang="fr"></rt><rp>）</rp>ウアス<rp>（</rp><rt lang="fr">Houasse</rt><rp>）</rp></ruby></a>が<time datetime="1688">１６８８年</time>ごろに描いた《<cite><ruby lang="ja">ミネルヴァ<rp>（</rp><rt lang="fr">Minerve</rt><rp>）</rp>と<rp>（</rp><rt lang="fr">et</rt><rp>）</rp>アラクネ<rp>（</rp><rt lang="fr">Arachnée</rt><rp>）</rp></ruby></cite>》絵画が<ruby lang="ja">領主たちの控えの間<rp>（</rp><rt lang="fr">le&nbsp;Salon&nbsp;des&nbsp;Seigneurs</rt><rp>）</rp></ruby>に見られます。</p>
 <p>この絵画は、<a href="https://francois-vidit.com/docs/ja/versailles/trianon/tiresias" title="https://francois-vidit.com/docs/ja/versailles/trianon/tiresias">《<cite><ruby lang="ja">ミネルヴァ<rp>（</rp><rt lang="fr">Minerve</rt><rp>）</rp>と<rp>（</rp><rt lang="fr">et</rt><rp>）</rp>ティレシアス<rp>（</rp><rt lang="fr">Tirésias</rt><rp>）</rp></ruby></cite>》</a>と同様に、「<cite>ミネルヴァ伝</cite>」というシリーズの一部です。</p>
-<p><a href="https://ja.wikipedia.org/wiki/オウィディウス" title="https://ja.wikipedia.org/wiki/オウィディウス"><ruby lang="ja">オウィディウス<rp>（</rp><rt lang="la">Ovidius</rt><rp>）</rp></ruby></a>が書いた「<a href="https://ja.wikipedia.org/wiki/変身物語" title="https://ja.wikipedia.org/wiki/変身物語"<cite>><ruby lang="ja">変身物語<rp>（</rp><rt lang="la">Metamorphōseōn&#160librī</rt><rp>）</rp></ruby></cite></a>」の第六巻の中で、神に負けない<a href="https://ja.wikipedia.org/wiki/リュディア" title="https://ja.wikipedia.org/wiki/リュディア">リディア</a>出身の<ruby>機<rp>（</rp><rt>はた</rt><rp>）</rp>織<rp>（</rp><rt>お</rt><rp>）</rp></ruby>りの技術で優秀な<a href="https://ja.wikipedia.org/wiki/アラクネー" title="https://ja.wikipedia.org/wiki/アラクネー"><ruby lang="ja">アラクネ<rp>（</rp><rt lang="grc">Arachnē</rt><rp>）</rp></ruby></a>が賢くさの女神である<a href="https://ja.wikipedia.org/wiki/ミネルウァ" title="https://ja.wikipedia.org/wiki/ミネルウァ"><ruby lang="ja">ミネルヴァ<rp>（</rp><rt lang="la">Minerva</rt><rp>）</rp></ruby></a>との恐ろしい対立が語られている。</p>
+<p><a href="https://ja.wikipedia.org/wiki/オウィディウス" title="https://ja.wikipedia.org/wiki/オウィディウス"><ruby lang="ja">オウィディウス<rp>（</rp><rt lang="la">Ovidius</rt><rp>）</rp></ruby></a>が書いた「<a href="https://ja.wikipedia.org/wiki/変身物語" title="https://ja.wikipedia.org/wiki/変身物語"><cite><ruby lang="ja">変身物語<rp>（</rp><rt lang="la">Metamorphōseōn&nbsp;librī</rt><rp>）</rp></ruby></cite></a>」の第六巻の中で、神に負けない<a href="https://ja.wikipedia.org/wiki/リュディア" title="https://ja.wikipedia.org/wiki/リュディア">リディア</a>出身の<ruby>機<rp>（</rp><rt>はた</rt><rp>）</rp>織<rp>（</rp><rt>お</rt><rp>）</rp></ruby>りの技術で優秀な<a href="https://ja.wikipedia.org/wiki/アラクネー" title="https://ja.wikipedia.org/wiki/アラクネー"><ruby lang="ja">アラクネ<rp>（</rp><rt lang="grc">Arachnē</rt><rp>）</rp></ruby></a>が賢くさの女神である<a href="https://ja.wikipedia.org/wiki/ミネルウァ" title="https://ja.wikipedia.org/wiki/ミネルウァ"><ruby lang="ja">ミネルヴァ<rp>（</rp><rt lang="la">Minerva</rt><rp>）</rp></ruby></a>との恐ろしい対立が語られている。</p>
 </div>
 
 <h2 id="arachnee" class="red">「<cite>変身物語</cite>」の第六巻の文書においてのアラクネ</h2>
@@ -85,8 +85,7 @@
     <p class="conversation">そうすれば、女神も許しを与えられようから」</p>
   </li>
 
-  <li class="top-space"><mark>アラクネ</mark>は、彼女をにらみすえると、手にしていた糸を放し、振りあげかけた手をとどめかねながら、怒りの色を顔にあらわして、こう女神に答えた。</p>
-  </li>
+  <li class="top-space"><mark>アラクネ</mark>は、彼女をにらみすえると、手にしていた糸を放し、振りあげかけた手をとどめかねながら、怒りの色を顔にあらわして、こう女神に答えた。</li>
   <li>
     <p class="conversation">「よくもいらしたのね、そんなにも、もうろくして、老いさらばえていながら！</p>
   </li>
