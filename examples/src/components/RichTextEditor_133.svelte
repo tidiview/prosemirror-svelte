@@ -19,7 +19,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-380.webp 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-480.webp 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore_700x1152.webp 700w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore_700x1152.jpg" title="ヴェルサイユの大トリアノン宮殿にある、ジャン・ジューヴェネ、《フロラとゼフィルス》絵画" alt="ヴェルサイユの大トリアノン宮殿にある、ジャン・ジューヴェネ、《フロラとゼフィルス》絵画" class="class-diane-img" width="700" height="1152" loading="eager" decoding="async" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore_700x1152.webp 700w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore_700x1152.jpg" title="ヴェルサイユの大トリアノン宮殿にある、ジャン・ジューヴェネ、《フロラとゼフィルス》絵画" alt="ヴェルサイユの大トリアノン宮殿にある、ジャン・ジューヴェネ、《フロラとゼフィルス》絵画" class="class-diane-img" width="700" height="1152" loading="eager" decoding="async" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-280.jpg 280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-480.jpg 480w,
@@ -39,10 +39,11 @@
 <p>彼は彼女を誘拐して、自分の嫁にさせて、そして女神として、花の主権を与えられたことも<a href="/docs/ja/versailles/trianon/flore#193" title="１９３行" id="retour_193">１９３行から２２２行までに</a>語られていると同時に、フロラが伝統的に、春、美しさ、活気に満ちた<a href="/docs/ja/versailles/trianon/flore#note_hora" title="女神ホラたち" id="heures"><ruby lang="ja">ホラ<rp>（</rp><rt lang="la">Hora</rt><rp>）</rp></ruby>神女たち</a>と<a href="/docs/ja/versailles/trianon/flore#note_charis" title="女神カリスたち" id="graces"><ruby lang="ja">カリス<rp>（</rp><rt lang="la">Charis</rt><rp>）</rp></ruby>神女たち</a>に囲まれている姿が表されていることになります。</p>
 </div>
 
-<h2 id="flore-et-zephyr" class="yellow">「<cite><ruby lang="ja">祭暦<rp>（</rp><rt lang="la">Fasti</rt><rp>）</rp></ruby></cite>」において〈<cite>フロラとゼフィルス</cite>〉</h2>
+<section id="flore-et-zephyr">
+<h2 class="yellow">「<cite><ruby lang="ja">祭暦<rp>（</rp><rt lang="la">Fasti</rt><rp>）</rp></ruby></cite>」において〈<cite>フロラとゼフィルス</cite>〉</h2>
 
 <ol class="doc">
-  <li value="183" id="183">お花のお母さま、来て下され、喜ばしい遊びであなたを喜ばせましょう。</li>
+  <li value="183" data-id="183">お花のお母さま、来て下され、喜ばしい遊びであなたを喜ばせましょう。</li>
   <li>花の母なる<a href="/docs/ja/versailles/trianon/flore#note_flora" title="フロラ女神" id="flore">女神</a>よ、おいで下さい。</li>
   <li>愉快な<a href="/docs/ja/versailles/trianon/flore#note_floralia" title="祭り" id="floralia_2">祭り</a>でお祝いしましょう。</li>
   <li>私はあなたを歌うときを先月から遅らせていました。</li>
@@ -53,7 +54,7 @@
   <li>どうか、あなたがどのような女神か、御自身で教えて下さい。</li>
   <li>ひとびとの考えは当てになりません。</li>
   <li>御自分の名前を説明されるのはあなた御自身が最適ですから」。</li>
-  <li value="193" id="193">このようにわたしが申しますと、私の問いに女神はこう答えました。</li>
+  <li value="193" data-id="193">このようにわたしが申しますと、私の問いに女神はこう答えました。</li>
   <li>女神が話すと、口からは涼しい<ruby>薔<rp>（</rp><rt>ば</rt><rp>）</rp>薇<rp>（</rp><rt>ら</rt><rp>）</rp></ruby>の<ruby>息<rp>（</rp><rt>い</rt><rp>）</rp>吹<rp>（</rp><rt>ぶき</rt><rp>）</rp></ruby>が洩れました。</li>
   <li value="195">
     <p class="conversation">「いままでこそ<a href="/docs/ja/versailles/trianon/flore#note_flora" title="フロラ女神" id="flora_5"><mark>フロラ</mark></a>と呼ばれる私も、かつて<a href="/docs/ja/versailles/trianon/flore#note_chloris" title="クロリス" id="chloris_2">クロリス</a>と言っていました。</p>
@@ -126,7 +127,8 @@
 
 <h3 class="yellow">註釈</h3>
 
-<h4 id="note_flora" class="yellow note">フロラ</h4>
+<section id="note_flora">
+<h4 class="yellow note">フロラ</h4>
 
 <div class="notices yellow">
 <h5><ruby lang="ja">フロラ<rp>（</rp><rt lang="la">Flora</rt><rp>）</rp></ruby>の名とは？</h5>
@@ -153,16 +155,18 @@
   <p class="puce">文書に戻る： <a href="/docs/ja/versailles/trianon/flore#flora_5" title="フロラ">フロラと呼ばれる私 ↩</a></p>
   <p class="puce">文書に戻る： <a href="/docs/ja/versailles/trianon/flore#flora_6" title="フロラ">フロラの侍女 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_chloris" class="yellow note">クロリス</h4>
+<section id="note_chloris">
+<h4 class="yellow note">クロリス</h4>
 
 <div class="notices yellow">
 <h5><ruby lang="ja">クロリス<rp>（</rp><rt lang="la">Chloris</rt><rp>）</rp></ruby>の名とは？</h5>
 <h6>発音</h6>
 <p>正式には、古代ギリシャ語では長母音があるため、「<ruby lang="ja">クローリス<rp>（</rp><rt lang="la">Khlōris</rt><rp>）</rp></ruby>」という名前になりますが、古代ギリシャ語からラテン語まで書き写すと、「Kh」が「Ch」に交代されることがあるのと、一般的に、長母音を略されているため、「クロリス」と表記されるようと変わります。</p>
 <h6>由来</h6>
-<p>古代ギリシャ語で、<ruby lang="la">Khlōrís<rp>（</rp><rt lang="grc">Χλωρίς</rt><rp>）</rp></ruby lang="la">（発音：<ruby lang="ja">クローリス<rp>（</rp><rt lang="la">Khlōris</rt><rp>）</rp></ruby>）と書いて、<ruby lang="la">Khlōros<rp>（</rp><rt lang="grc">χλωρός</rt><rp>）</rp></ruby lang="la">（発音：<ruby lang="ja">クローロス<rp>（</rp><rt lang="la">Khlōros</rt><rp>）</rp></ruby>）語幹から出来ていて、「<ruby>緑<rp>（</rp><rt>みどり</rt><rp>）</rp></ruby>」と意味を表しています。</p>
-<p>同じ語幹から、「<a href="https://ja.wikipedia.org/wiki/クロロフィル" title="https://ja.wikipedia.org/wiki/クロロフィル"><ruby lang="la">Khlôrophyl<rp>（</rp><rt lang="grc">χλωροφύλλη</rt><rp>）</rp></ruby lang="la"></a>」（発音：<ruby lang="ja">クローロフィル<rp>（</rp><rt lang="la">Khlōrophyl</rt><rp>）</rp></ruby>）があって、日本語の「<a href="/docs/ja/versailles/trianon/flore#chlorophylle" title="クロロフィル" id="renvoi_chlorophylle"><ruby lang="ja">クロロフィル<rp>（</rp><rt lang="fr">Chlorophylle</rt><rp>）</rp></ruby>&#11107;</a>」に当たる<ruby>葉<rp>（</rp><rt>よう</rt><rp>）</rp>緑<rp>（</rp><rt>りょく</rt><rp>）</rp>素<rp>（</rp><rt>そ</rt><rp>）</rp></ruby>を指しています。</p>
+<p>古代ギリシャ語で、<ruby lang="la">Khlōrís<rp>（</rp><rt lang="grc">Χλωρίς</rt><rp>）</rp></ruby>（発音：<ruby lang="ja">クローリス<rp>（</rp><rt lang="la">Khlōris</rt><rp>）</rp></ruby>）と書いて、<ruby lang="la">Khlōros<rp>（</rp><rt lang="grc">χλωρός</rt><rp>）</rp></ruby>（発音：<ruby lang="ja">クローロス<rp>（</rp><rt lang="la">Khlōros</rt><rp>）</rp></ruby>）語幹から出来ていて、「<ruby>緑<rp>（</rp><rt>みどり</rt><rp>）</rp></ruby>」と意味を表しています。</p>
+<p>同じ語幹から、「<a href="https://ja.wikipedia.org/wiki/クロロフィル" title="https://ja.wikipedia.org/wiki/クロロフィル"><ruby lang="la">Khlôrophyl<rp>（</rp><rt lang="grc">χλωροφύλλη</rt><rp>）</rp></ruby></a>」（発音：<ruby lang="ja">クローロフィル<rp>（</rp><rt lang="la">Khlōrophyl</rt><rp>）</rp></ruby>）があって、日本語の「<a href="/docs/ja/versailles/trianon/flore#chlorophylle" title="クロロフィル" id="renvoi_chlorophylle"><ruby lang="ja">クロロフィル<rp>（</rp><rt lang="fr">Chlorophylle</rt><rp>）</rp></ruby>&#11107;</a>」に当たる<ruby>葉<rp>（</rp><rt>よう</rt><rp>）</rp>緑<rp>（</rp><rt>りょく</rt><rp>）</rp>素<rp>（</rp><rt>そ</rt><rp>）</rp></ruby>を指しています。</p>
 <h6>クロリスとは？</h6>
 <p>「クロリス」という名前は、ギリシア神話では、ある<a href="https://ja.wikipedia.org/wiki/ニュンペー" title="https://ja.wikipedia.org/wiki/ニンフ"><ruby>妖精<rp>（</rp><rt>ニンフ</rt><rp>）</rp></ruby></a>の女性に当たります。</p>
 <p>「<a href="https://ja.wikipedia.org/wiki/オウィディウス#.E3.80.8E.E7.A5.AD.E6.9A.A6.E3.80.8F" title="https://ja.wikipedia.org/wiki/オウィディウス#祭暦">祭暦</a>」においては、<a href="https://ja.wikipedia.org/wiki/オウィディウス" title="https://ja.wikipedia.org/wiki/オウィディウス">オウィディウス</a>が、<a href="/docs/ja/versailles/trianon/flore#note_floralia" title="祭り">フロラ</a>を、<a href="https://ja.wikipedia.org/wiki/クローリス" title="https://ja.wikipedia.org/wiki/クロリス">クロリス</a>という<a href="https://ja.wikipedia.org/wiki/ニュンペー" title="https://ja.wikipedia.org/wiki/ニンフ"><ruby>妖精<rp>（</rp><rt>ニンフ</rt><rp>）</rp></ruby></a>と折角同一視させているのは、<a href="https://ja.wikipedia.org/wiki/クローリス" title="https://ja.wikipedia.org/wiki/クロリス">クロリス</a>という語幹に「<ruby>緑<rp>（</rp><rt>みどり</rt><rp>）</rp></ruby>」、いわゆる、「<a href="/docs/ja/versailles/trianon/flore#flora-2" title="一般的にものを咲かせることに司る" id="retour_sakaseru">一般的にものを咲かせることに司る</a>」意が含まれているからでしょう。</p>
@@ -172,14 +176,18 @@
   <p class="puce">文書に戻る： <a href="/docs/ja/versailles/trianon/flore#chloris" title="クロリス">自分をクロリスと名のる ↩</a></p>
   <p class="puce">文書に戻る： <a href="/docs/ja/versailles/trianon/flore#chloris_2" title="クロリス">クロリスと言っていました ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_floralia" class="yellow note">フロラリア祭り</h4>
+<section id="note_floralia">
+<h4 class="yellow note">フロラリア祭り</h4>
 
 <div class="notices yellow">
 <h6><ruby lang="ja">フロラリア<rp>（</rp><rt lang="la">Floralia</rt><rp>）</rp></ruby>祭りの名とは？</h6>
 <p>「フロラリア」という祝祭は、田園ののどかな祭りとして始まった<a href="/docs/ja/versailles/trianon/flore#note_floralia" title="祭り">フロラ女神</a>の祭りです。</p>
-<h5 id="note_floralia_2">日付</h6>
+<section id="note_floralia_2">
+<h6>日付</h6>
 <p><a href="https://ja.wikipedia.org/wiki/オウィディウス" title="https://ja.wikipedia.org/wiki/オウィディウス">オウィディウス</a>が「<a href="https://ja.wikipedia.org/wiki/オウィディウス#.E3.80.8E.E7.A5.AD.E6.9A.A6.E3.80.8F" title="https://ja.wikipedia.org/wiki/オウィディウス#祭暦">祭暦</a>」を作文する<time datetime="0050">紀元後１世紀前半時代</time>だと、<time datetime="04-28"><a href="https://ja.wikipedia.org/wiki/4月" title="https://ja.wikipedia.org/wiki/四月">４月</a>である<a href="https://ja.wikipedia.org/wiki/ローマ暦" title="https://ja.wikipedia.org/wiki/アプリーリス">アプリリウス月</a><a href="/docs/ja/versailles/trianon/flore#aprilius" title="アプリリウス月" id="note_aprilius">↩</a>の２８日</time>から、<time datetime="05-03">５月である<a href="https://ja.wikipedia.org/wiki/ローマ暦" title="https://ja.wikipedia.org/wiki/マーイウス">マイユス月</a><a href="/docs/ja/versailles/trianon/flore#maius" title="マイユス月" id="note_maius">↩</a>の３日まで</time>の<time datetime="P5D">５夜間</time>で行なわれていた。</p>
+</section>
 <h6>概要</h6>
 <p>追いかけや、舞踏や身ぶりや悲劇的な演出が行われていたため、「フロラリア」は「<ruby lang="ja">花の祭典<rp>（</rp><rt lang="la">Ludi&#160;Florales</rt><rp>）</rp></ruby>」とも呼ばれていました。</p>
 <p>ローマ舞踏のなかで、フロラのために出来た舞踏は、一番印象的だったといわれています。</p>
@@ -193,8 +201,10 @@
   <p class="puce">文書に戻る： <a href="/docs/ja/versailles/trianon/flore#floralia_2" title="フロラリア">愉快な祭り ↩</a></p>
   <p class="puce">文書に戻る： <a href="/docs/ja/versailles/trianon/flore#floralia_3" title="フロラリア">一年一回、フロラリア祭り ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_zephyrus" class="yellow note">ゼフィルス</h4>
+<section id="note_zephyrus">
+<h4 class="yellow note">ゼフィルス</h4>
 
 <div class="notices yellow">
 <h5><ruby lang="ja">ゼフィルス<rp>（</rp><rt lang="la">Zephyrus</rt><rp>）</rp></ruby>の名とは？</h5>
@@ -202,19 +212,19 @@
 <p>ゼフィルスはラテン語での名前で、日本語の書き写しでは、古代ギリシャ語での呼称である「ゼピュルス」と発音するようになりましたが、ラテン語では正式な発音は、「ph」で「f」と同音のため、同時に、オヴィディウスはラテン語で書いていることに基づき、ここでは「ゼフィルス」で表記することにしました。</p>
 <h6>由来</h6>
 <p>名前の由来は古代ギリシャ神話からです。</p>
-<p>古代ギリシャ神話だと、「<ruby lang="la">Zephyros<rp>（</rp><rt lang="grc">Ζέφυρος</rt><rp>）</rp></ruby lang="la">」（発音：<ruby lang="ja">ゼピュロス<rp>（</rp><rt lang="la">Zephyros</rt><rp>）</rp></ruby>） という神があります。</p>
+<p>古代ギリシャ神話だと、「<ruby lang="la">Zephyros<rp>（</rp><rt lang="grc">Ζέφυρος</rt><rp>）</rp></ruby>」（発音：<ruby lang="ja">ゼピュロス<rp>（</rp><rt lang="la">Zephyros</rt><rp>）</rp></ruby>） という神があります。</p>
 <p>古代ギリシャ語からラテン語に書き写された祭、ラテン語っぽく「<ruby lang="ja">ゼフィルス<rp>（</rp><rt lang="la">Zephyrus</rt><rp>）</rp></ruby>」と書くようとなりました。</p>
 <h5>神として</h5>
-<p><a href="https://ja.wikipedia.org/wiki/アネモイ" title="https://ja.wikipedia.org/wiki/アネモイ"><ruby lang="la">Anemoi<rp>（</rp><rt lang="grc">Ἄνεμοι</rt><rp>）</rp></ruby lang="la">（発音：<ruby lang="ja">アネモイ<rp>（</rp><rt lang="la">Anemoi</rt><rp>）</rp></ruby>）</a>、古代ギリシア語では（複数形で）「<ruby>風<rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>たち」の意、という言葉があります。</p>
+<p><a href="https://ja.wikipedia.org/wiki/アネモイ" title="https://ja.wikipedia.org/wiki/アネモイ"><ruby lang="la">Anemoi<rp>（</rp><rt lang="grc">Ἄνεμοι</rt><rp>）</rp></ruby>（発音：<ruby lang="ja">アネモイ<rp>（</rp><rt lang="la">Anemoi</rt><rp>）</rp></ruby>）</a>、古代ギリシア語では（複数形で）「<ruby>風<rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>たち」の意、という言葉があります。</p>
 <p>ラテン語では、<ruby lang="ja">ヴェンティ<rp>（</rp><rt lang="la">Venti</rt><rp>）</rp></ruby>（意：「<ruby>風<rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>たち」）に当たります。</p>
 <p>ギリシア神話では、主要な風は四柱いる。ゼフィルスの他だと：</p>
 
 <ul>
-  <li><a href="https://ja.wikipedia.org/wiki/アネモイ#.E5.8C.97.E9.A2.A8.E3.83.9C.E3.83.AC.E3.82.A2.E3.83.BC.E3.82.B9" title="https://ja.wikipedia.org/wiki/アネモイ#北風ボレアース" id="ref_boree"><ruby lang="la">Boreas<rp>（</rp><rt lang="grc">Βορέας</rt><rp>）</rp></ruby lang="la"></a>（発音：<ruby lang="ja">ボレアス<rp>（</rp><rt lang="la">Boreas</rt><rp>）</rp></ruby>）、ラテン語でも、ボレアスは冷たい冬の空気を運ぶ北風で、文書に戻る： <a href="/docs/ja/versailles/trianon/flore#boree" title="ボレアス">兄弟のボレアスの前例 ↩</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/アネモイ#.E5.8C.97.E9.A2.A8.E3.83.9C.E3.83.AC.E3.82.A2.E3.83.BC.E3.82.B9" title="https://ja.wikipedia.org/wiki/アネモイ#北風ボレアース" id="ref_boree"><ruby lang="la">Boreas<rp>（</rp><rt lang="grc">Βορέας</rt><rp>）</rp></ruby></a>（発音：<ruby lang="ja">ボレアス<rp>（</rp><rt lang="la">Boreas</rt><rp>）</rp></ruby>）、ラテン語でも、ボレアスは冷たい冬の空気を運ぶ北風で、文書に戻る： <a href="/docs/ja/versailles/trianon/flore#boree" title="ボレアス">兄弟のボレアスの前例 ↩</a></li>
   <li>文書に戻る： <a href="/docs/ja/versailles/trianon/flore#boree_2" title="ボレアス">ボレアスはなんとエレクテウスの家から ↩</a></li>
   <li>文書に戻る： <a href="/docs/ja/versailles/trianon/flore#boree_3" title="ボレアス">北風のボレアスがエレクテウスの娘 &#11107;</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/アネモイ#.E5.8D.97.E9.A2.A8.E3.83.8E.E3.83.88.E3.82.B9" title="https://ja.wikipedia.org/wiki/アネモイ#南風ノトス"><ruby lang="la">Notos<rp>（</rp><rt lang="grc">Νότος</rt><rp>）</rp></ruby lang="la"></a>（発音：<ruby lang="ja">ノトス<rp>（</rp><rt lang="la">Notos</rt><rp>）</rp></ruby>）、ラテン語では、<ruby lang="ja">ノテュス<rp>（</rp><rt lang="la">Notus</rt><rp>）</rp></ruby>は晩夏と秋の嵐を運ぶ南風であり、</li>
-  <li><a href="https://ja.wikipedia.org/wiki/アネモイ#.E6.9D.B1.E9.A2.A8.E3.82.A8.E3.82.A6.E3.83.AD.E3.82.B9" title="https://ja.wikipedia.org/wiki/アネモイ#東風エウロス"><ruby lang="la">Euros<rp>（</rp><rt lang="grc">Εύρος</rt><rp>）</rp></ruby lang="la"></a>（発音：<ruby lang="ja">エウロス<rp>（</rp><rt lang="la">Euros</rt><rp>）</rp></ruby>）、ラテン語では、<ruby lang="ja">エウルス<rp>（</rp><rt lang="la">Eurus</rt><rp>）</rp></ruby>は東風であることにたいして、</li>
+  <li><a href="https://ja.wikipedia.org/wiki/アネモイ#.E5.8D.97.E9.A2.A8.E3.83.8E.E3.83.88.E3.82.B9" title="https://ja.wikipedia.org/wiki/アネモイ#南風ノトス"><ruby lang="la">Notos<rp>（</rp><rt lang="grc">Νότος</rt><rp>）</rp></ruby></a>（発音：<ruby lang="ja">ノトス<rp>（</rp><rt lang="la">Notos</rt><rp>）</rp></ruby>）、ラテン語では、<ruby lang="ja">ノテュス<rp>（</rp><rt lang="la">Notus</rt><rp>）</rp></ruby>は晩夏と秋の嵐を運ぶ南風であり、</li>
+  <li><a href="https://ja.wikipedia.org/wiki/アネモイ#.E6.9D.B1.E9.A2.A8.E3.82.A8.E3.82.A6.E3.83.AD.E3.82.B9" title="https://ja.wikipedia.org/wiki/アネモイ#東風エウロス"><ruby lang="la">Euros<rp>（</rp><rt lang="grc">Εύρος</rt><rp>）</rp></ruby></a>（発音：<ruby lang="ja">エウロス<rp>（</rp><rt lang="la">Euros</rt><rp>）</rp></ruby>）、ラテン語では、<ruby lang="ja">エウルス<rp>（</rp><rt lang="la">Eurus</rt><rp>）</rp></ruby>は東風であることにたいして、</li>
 </ul>
 
 <p>それにたいしては、ゼフィルスは西風の神で、最も温和なゼピュロスは、春の訪れを告げる豊穣の風として知られている。</p>
@@ -229,8 +239,10 @@
   <p class="puce">文書に戻る： <a href="/docs/ja/versailles/trianon/flore#zephyrus_3" title="ゼフィルス">その昔に至福のひとびとが福裕に過ごしていた<ruby>国<rp>（</rp><rt>エリュジウム</rt><rp>）</rp></ruby>があった ↩</a></p>
   <p class="puce">文書に戻る： <a href="/docs/ja/versailles/trianon/flore#zephyrus_5" title="ゼフィルス">私がゼフィルスの目に止まりました ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_hora" class="yellow note">季節ホラ女神たち</h4>
+<section id="note_hora">
+<h4 class="yellow note">季節ホラ女神たち</h4>
 
 <div class="notices yellow">
 <h5>季節女神<ruby lang="ja">ホラ<rp>（</rp><rt lang="la">Hora</rt><rp>）</rp></ruby>たちの名とは？</h5>
@@ -238,12 +250,12 @@
 <p><a href="https://ja.wikipedia.org/wiki/オウィディウス" title="https://ja.wikipedia.org/wiki/オウィディウス">オウィディウス</a>の文書では、ホラはラテン語としての語です。</p>
 <p>正式には、ラテン語では長母音があるため、「<ruby lang="ja">ホーラ<rp>（</rp><rt lang="la">Hōra</rt><rp>）</rp></ruby>」という書き写しが正しいなのに、一般的に、長母音を略する「<ruby lang="ja">ホラ<rp>（</rp><rt lang="la">Hora</rt><rp>）</rp></ruby>」で表記されている。 </p>
 <h6>由来</h6>
-<p>古代ギリシャ語の<ruby lang="la">Hōra<rp>（</rp><rt lang="grc">Ὧρα</rt><rp>）</rp></ruby lang="la">（発音：<ruby lang="ja">ホーラ<rp>（</rp><rt lang="la">Hōra</rt><rp>）</rp></ruby>）からそのまま来ています。
+<p>古代ギリシャ語の<ruby lang="la">Hōra<rp>（</rp><rt lang="grc">Ὧρα</rt><rp>）</rp></ruby>（発音：<ruby lang="ja">ホーラ<rp>（</rp><rt lang="la">Hōra</rt><rp>）</rp></ruby>）からそのまま来ています。
 <ruby lang="ja">ホーラ<rp>（</rp><rt lang="grc">Hōra</rt><rp>）</rp></ruby>は単数形で、「<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp>間<rp>（</rp><rt>かん</rt><rp>）</rp></ruby>」との意を示しています。</p>
 <h5>神として</h5>
 <p><a href="https://ja.wikipedia.org/wiki/ホーラ" title="https://ja.wikipedia.org/wiki/ホラ">ホラ</a>は、神としまして、女神であって、時間の区分を擬人化を指しているのだが、普通は、各々の時間の対照性を現わす意で、複数形で、女神の交わりとして現れて来ます。</p>
 <p><a href="https://ja.wikipedia.org/wiki/オウィディウス" title="https://ja.wikipedia.org/wiki/オウィディウス">オウィディウス</a>の文書では、「季節神女ホラたち」で出て来るが、ラテン語だと、「季節神女」と「たち」の部分を省いて、ただ直接複数形が含まれている「<ruby lang="ja">ホーラエ<rp>（</rp><rt lang="la">Hōrae</rt><rp>）</rp></ruby>」で呼ばれています。</p>
-<p>古代ギリシャ語でも、複数形を含む<ruby lang="la">Hōrai<rp>（</rp><rt lang="grc">Ὧραι</rt><rp>）</rp></ruby lang="la">（発音：<ruby lang="ja">ホーライ<rp>（</rp><rt lang="la">Hōrai</rt><rp>）</rp></ruby>）で同様です。
+<p>古代ギリシャ語でも、複数形を含む<ruby lang="la">Hōrai<rp>（</rp><rt lang="grc">Ὧραι</rt><rp>）</rp></ruby>（発音：<ruby lang="ja">ホーライ<rp>（</rp><rt lang="la">Hōrai</rt><rp>）</rp></ruby>）で同様です。
 時代によって、人数が少しづつ２人から１２人まで増えたことも知られています。 </p>
 <h6>季節神女ホラたちとは？</h6>
 <p>「<a href="https://ja.wikipedia.org/wiki/オウィディウス#.E3.80.8E.E7.A5.AD.E6.9A.A6.E3.80.8F" title="https://ja.wikipedia.org/wiki/オウィディウス#祭暦">祭暦</a>」において、花を手にした優美な乙女の姿で表されて、<a href="/docs/ja/versailles/trianon/flore#note_flora" title="フロラ女神" id="flora_6">フロラ</a>の侍女たち。</p>
@@ -253,23 +265,25 @@
   <p class="puce">文書に戻る： <a href="/docs/ja/versailles/trianon/flore#heures" title="女神ホラたち">活気に満ちたホラ神女たち ↩</a></p>
   <p class="puce">文書に戻る： <a href="/docs/ja/versailles/trianon/flore#heures_2" title="女神ホラたち">季節神女ホラたちが集まり ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_charis" class="yellow note">カリス女神</h4>
+<section id="note_charis">
+<h4 class="yellow note">カリス女神</h4>
 
 <div class="notices yellow">
 <h5>女神<ruby lang="ja">カリス<rp>（</rp><rt lang="la">Charis</rt><rp>）</rp></ruby>たちの名とは？</h5>
 <h6>発音</h6>
 <p>古代ギリシャ語と同じく、「カリス」との発音です。</p>
 <h6>由来</h6>
-<p>古代ギリシャ語では、<ruby lang="ja">カリス<rp>（</rp><rt lang="grc">Charis</rt><rp>）</rp></ruby>は動詞の<ruby lang="la">khaírô<rp>（</rp><rt lang="grc">χαίρω</rt><rp>）</rp></ruby lang="la">（発音：<ruby lang="ja">カイロー<rp>（</rp><rt lang="la">khaírô</rt><rp>）</rp></ruby>）は「<ruby>愉快<rp>（</rp><rt>よろこ</rt><rp>）</rp></ruby>ぶ」、「生きる力の充実さ」の意を示している。
+<p>古代ギリシャ語では、<ruby lang="ja">カリス<rp>（</rp><rt lang="grc">Charis</rt><rp>）</rp></ruby>は動詞の<ruby lang="la">khaírô<rp>（</rp><rt lang="grc">χαίρω</rt><rp>）</rp></ruby>（発音：<ruby lang="ja">カイロー<rp>（</rp><rt lang="la">khaírô</rt><rp>）</rp></ruby>）は「<ruby>愉快<rp>（</rp><rt>よろこ</rt><rp>）</rp></ruby>ぶ」、「生きる力の充実さ」の意を示している。
 カリスは単数形で、神秘的さ、「女神」と多面性、「たち」で修飾されている。</p>
-<p>古代ギリシャ語では、修飾部分を省いて、複数形がふくまれている「<ruby lang="la">Charites<rp>（</rp><rt lang="grc">Χάριτες</rt><rp>）</rp></ruby lang="la">」（発音：<ruby lang="ja">カリテス<rp>（</rp><rt lang="la">Charites</rt><rp>）</rp></ruby>）とも呼ばれています。</p>
+<p>古代ギリシャ語では、修飾部分を省いて、複数形がふくまれている「<ruby lang="la">Charites<rp>（</rp><rt lang="grc">Χάριτες</rt><rp>）</rp></ruby>」（発音：<ruby lang="ja">カリテス<rp>（</rp><rt lang="la">Charites</rt><rp>）</rp></ruby>）とも呼ばれています。</p>
 <h5>神として</h5>
 <p>女神カリスたちの交わりの人数は様々で、ニから十六神まで知られていますが、一般的人数を明らかにしない交わりでなければ、古典ギリシャ彫刻では、「カリス三美神たち」の形態で、ローマ、後に西洋美術に伝われて来たため、主に、三神と扱われて来ましたので、以下、その三神の名前を明らかにしました。</p>
 <ul>
-  <li><ruby lang="la">Aglaeā<rp>（</rp><rt lang="grc">Ἀγλαΐα</rt><rp>）</rp></ruby lang="la">（発音：<ruby lang="ja">アグライアー<rp>（</rp><rt lang="la">Aglaeā</rt><rp>）</rp></ruby>）は<ruby>眩<rp>（</rp><rt>まぶ</rt><rp>）</rp></ruby>しくさせる輝かしい美しさでの<ruby>愉快<rp>（</rp><rt>よろこ</rt><rp>）</rp></ruby>び、</li>
-  <li><ruby lang="la">Euphrosynē<rp>（</rp><rt lang="grc">Εὐφροσύνη</rt><rp>）</rp></ruby lang="la">（発音：<ruby lang="ja">エウプロシュネー<rp>（</rp><rt lang="la">Euphrosynē</rt><rp>）</rp></ruby>）は<ruby>宴<rp>（</rp><rt>うたげ</rt><rp>）</rp></ruby>で受けて来る<ruby>愉快<rp>（</rp><rt>よろこ</rt><rp>）</rp></ruby>び、</li>
-  <li><ruby lang="la">Thalia<rp>（</rp><rt lang="grc">Θάλεια</rt><rp>）</rp></ruby lang="la">（発音：<ruby lang="ja">タレイア<rp>（</rp><rt lang="la">Thalia</rt><rp>）</rp></ruby>）は活気のありすぎる<ruby>豊<rp>（</rp><rt>ほう</rt><rp>）</rp>穣<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby>の<ruby>愉快<rp>（</rp><rt>よろこ</rt><rp>）</rp></ruby>びを現わしています。</li>
+  <li><ruby lang="la">Aglaeā<rp>（</rp><rt lang="grc">Ἀγλαΐα</rt><rp>）</rp></ruby>（発音：<ruby lang="ja">アグライアー<rp>（</rp><rt lang="la">Aglaeā</rt><rp>）</rp></ruby>）は<ruby>眩<rp>（</rp><rt>まぶ</rt><rp>）</rp></ruby>しくさせる輝かしい美しさでの<ruby>愉快<rp>（</rp><rt>よろこ</rt><rp>）</rp></ruby>び、</li>
+  <li><ruby lang="la">Euphrosynē<rp>（</rp><rt lang="grc">Εὐφροσύνη</rt><rp>）</rp></ruby>（発音：<ruby lang="ja">エウプロシュネー<rp>（</rp><rt lang="la">Euphrosynē</rt><rp>）</rp></ruby>）は<ruby>宴<rp>（</rp><rt>うたげ</rt><rp>）</rp></ruby>で受けて来る<ruby>愉快<rp>（</rp><rt>よろこ</rt><rp>）</rp></ruby>び、</li>
+  <li><ruby lang="la">Thalia<rp>（</rp><rt lang="grc">Θάλεια</rt><rp>）</rp></ruby>（発音：<ruby lang="ja">タレイア<rp>（</rp><rt lang="la">Thalia</rt><rp>）</rp></ruby>）は活気のありすぎる<ruby>豊<rp>（</rp><rt>ほう</rt><rp>）</rp>穣<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby>の<ruby>愉快<rp>（</rp><rt>よろこ</rt><rp>）</rp></ruby>びを現わしています。</li>
 </ul>
 
 <h6>神女カリスたちとは？</h6>
@@ -280,30 +294,38 @@
   <p class="puce">文書に戻る： <a href="/docs/ja/versailles/trianon/flore#graces" title="女神カリスたち">活気に満ちたホラ神女たちとカリス神女たち ↩</a></p>
   <p class="puce">文書に戻る： <a href="/docs/ja/versailles/trianon/flore#graces_2" title="女神カリスたち">カリス神女たちも加わって ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_erechteus" class="yellow note">エレクテウス</h4>
+<section id="note_erechteus">
+<h4 class="yellow note">エレクテウス</h4>
 
 <div class="notices yellow">
 <h5><ruby lang="ja">エレクテウス<rp>（</rp><rt lang="la">Erechtheus</rt><rp>）</rp></ruby>とは？</h5>
-<p>古代ギリシャ語で、<ruby lang="la">Erekhtheús<rp>（</rp><rt lang="grc">Ἐρεχθεύς</rt><rp>）</rp></ruby lang="la">（発音：<ruby lang="ja">エレクテウス<rp>（</rp><rt lang="la">Erekhtheús</rt><rp>）</rp></ruby>）は、神話に古代第六アテネ王として、町の元の神を指しています。</p>
+<p>古代ギリシャ語で、<ruby lang="la">Erekhtheús<rp>（</rp><rt lang="grc">Ἐρεχθεύς</rt><rp>）</rp></ruby>（発音：<ruby lang="ja">エレクテウス<rp>（</rp><rt lang="la">Erekhtheús</rt><rp>）</rp></ruby>）は、神話に古代第六アテネ王として、町の元の神を指しています。</p>
 <h5>祭暦においては</h5>
-<p>以上の文書では、<a href="https://ja.wikipedia.org/wiki/オウィディウス" title="https://ja.wikipedia.org/wiki/オウィディウス">オウィディウス</a>が、北風の<a href="/docs/ja/versailles/trianon/flore#ref_boree" title="ボレアス" id="boree_3">ボレアス</a>が<ruby lang="ja">エレクテウス<rp>（</rp><rt lang="la">Erechtheus</rt><rp>）</rp></ruby>の娘<a href="https://ja.wikipedia.org/wiki/オーレイテュイア" title="https://ja.wikipedia.org/wiki/オレイテュイア"><ruby lang="la">Ōrithyia<rp>（</rp><rt lang="grc">Ὠρείθυια</rt><rp>）</rp></ruby lang="la"></a>（発音：<ruby lang="ja">オリテュイヤ<rp>（</rp><rt lang="la">Ōrithyia</rt><rp>）</rp></ruby>）をさらったことを思い起こさせようとしています。</p>
+<p>以上の文書では、<a href="https://ja.wikipedia.org/wiki/オウィディウス" title="https://ja.wikipedia.org/wiki/オウィディウス">オウィディウス</a>が、北風の<a href="/docs/ja/versailles/trianon/flore#ref_boree" title="ボレアス" id="boree_3">ボレアス</a>が<ruby lang="ja">エレクテウス<rp>（</rp><rt lang="la">Erechtheus</rt><rp>）</rp></ruby>の娘<a href="https://ja.wikipedia.org/wiki/オーレイテュイア" title="https://ja.wikipedia.org/wiki/オレイテュイア"><ruby lang="la">Ōrithyia<rp>（</rp><rt lang="grc">Ὠρείθυια</rt><rp>）</rp></ruby></a>（発音：<ruby lang="ja">オリテュイヤ<rp>（</rp><rt lang="la">Ōrithyia</rt><rp>）</rp></ruby>）をさらったことを思い起こさせようとしています。</p>
 <p><a href="https://ja.wikipedia.org/wiki/オーレイテュイア" title="https://ja.wikipedia.org/wiki/オレイテュイア">オリテュイヤ</a>の誘拐は、<a href="https://ja.wikipedia.org/wiki/オウィディウス" title="https://ja.wikipedia.org/wiki/オウィディウス">オウィディウス</a>が著わしたもう一つの作品である<a href="https://ja.wikipedia.org/wiki/変身物語" title="https://ja.wikipedia.org/wiki/変身物語"><cite>変身物語</cite></a>の第６巻、６７７～７１３行に語られています。</p>
 </div>
 
 <footer>
   <p class="puce">文書に戻る： <a href="/docs/ja/versailles/trianon/flore#erechthee" title="エレクテウス">エレクテウスの家から獲物を持ち去ったのでした ↩</a></p>
 </footer>
+</section>
 
+<section id="chlorophylle">
+<h4 class="yellow note">クロロフィル</h4>
 <div class="notices yellow">
-<p><a href="/docs/ja/versailles/trianon/flore#renvoi_chlorophylle" title="クロロフィル" id="chlorophylle">ノート</a>： 「クロロフィル」と日本語の発音の書き写しは、英語の「<ruby lang="ja">クロロファイル<rp>（</rp><rt lang="en">Chlorophyll</rt><rp>）</rp></ruby>」からではなく、<ruby>葉<rp>（</rp><rt>よう</rt><rp>）</rp>緑<rp>（</rp><rt>りょく</rt><rp>）</rp>素<rp>（</rp><rt>そ</rt><rp>）</rp></ruby>が<time datetime="1816">１８１６年</time>に<a href="https://ja.wikipedia.org/wiki/ジョゼフ・ビヤンネメ・カヴェントゥ" title="https://ja.wikipedia.org/wiki/ジョゼフ・ビヤンネメ・カヴェントゥ"><ruby lang="ja">ジョゼフ<rp>（</rp><rt lang="fr">Joseph</rt><rp>）</rp></ruby>・<ruby>ビヤンネメ<rp>（</rp><rt>Bienaimé</rt><rp>）</rp></ruby>・<ruby>カヴェントゥ<rp>（</rp><rt>Caventou</rt><rp>）</rp></ruby></a>によって単離されたことから、フランス語の「<ruby lang="ja">クロロフィル<rp>（</rp><rt lang="fr">Chlorophylle</rt><rp>）</rp></ruby>」に従っているている。英語に従えば、発音に矛盾が避けられなくなります。</p>
+<p><a href="/docs/ja/versailles/trianon/flore#renvoi_chlorophylle" title="クロロフィル">ノート</a>： 「クロロフィル」と日本語の発音の書き写しは、英語の「<ruby lang="ja">クロロファイル<rp>（</rp><rt lang="en">Chlorophyll</rt><rp>）</rp></ruby>」からではなく、<ruby>葉<rp>（</rp><rt>よう</rt><rp>）</rp>緑<rp>（</rp><rt>りょく</rt><rp>）</rp>素<rp>（</rp><rt>そ</rt><rp>）</rp></ruby>が<time datetime="1816">１８１６年</time>に<a href="https://ja.wikipedia.org/wiki/ジョゼフ・ビヤンネメ・カヴェントゥ" title="https://ja.wikipedia.org/wiki/ジョゼフ・ビヤンネメ・カヴェントゥ"><ruby lang="ja">ジョゼフ<rp>（</rp><rt lang="fr">Joseph</rt><rp>）</rp></ruby>・<ruby>ビヤンネメ<rp>（</rp><rt>Bienaimé</rt><rp>）</rp></ruby>・<ruby>カヴェントゥ<rp>（</rp><rt>Caventou</rt><rp>）</rp></ruby></a>によって単離されたことから、フランス語の「<ruby lang="ja">クロロフィル<rp>（</rp><rt lang="fr">Chlorophylle</rt><rp>）</rp></ruby>」に従っているている。英語に従えば、発音に矛盾が避けられなくなります。</p>
 </div>
 
 <footer>
   <p class="puce">文書に戻る： <a href="/docs/ja/versailles/trianon/flore#renvoi_chlorophylle" title="クロロフィル">エレクテウスの家から獲物を持ち去ったのでした ↩</a></p>
 </footer>
+</section>
 
 </aside>
+
+</section>
 
 </article>
 `;
