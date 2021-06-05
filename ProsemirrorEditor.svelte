@@ -198,6 +198,18 @@
     margin-block-end: 1em;
   }
 
+  :global(ol.doc li[value]::marker) {
+    display: list-item;
+  }
+
+  :global(ol.doc li[value]) {
+    list-style-type:decimal;
+  }
+
+  :global(ol.doc li) {
+    list-style-type:none;
+  }
+
   :global(ol.doc li p, ol.doc li p.conversation) {
     margin-block-start: 0px;
     margin-block-end: 0px;
