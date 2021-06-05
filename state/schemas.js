@@ -829,20 +829,20 @@ export const ExtendedThreerichTextSchema = new Schema({
     li: {
       content: "(table | block)*", /* has to be block - can be (block | inline also */
       group: "block",
-      attrs: {value: {default: null}, id: {default: null}, dataid: {default: null}, classes: {default: null}, doc: {default: false}},
+      attrs: {value: {default: null}, dataid: {default: null}, dataname: {default: null}, classes: {default: null}, doc: {default: false}},
       defining: true,
       parseDOM: [
         {tag: "ol.year li", getAttrs(dom) { return {value: dom.value} } },
-        {tag: "ol.doc-three-rows li", getAttrs(dom) { return {value: dom.value, id: dom.id, dataid: dom.getAttribute("data-id"), doc: true} } },
-        {tag: "ol.doc-special li", getAttrs(dom) { return {value: dom.value, id: dom.id, doc: true} } },
-        {tag: "ol.doc li", getAttrs(dom) { return {value: dom.value, id: dom.id, classes: dom.getAttribute("class"), doc: true} } },
+        {tag: "ol.doc-three-rows li", getAttrs(dom) { return {value: dom.value, dataid: dom.getAttribute("data-id"), dataname: dom.getAttribute("data-name"), doc: true} } },
+        {tag: "ol.doc-special li", getAttrs(dom) { return {value: dom.value, dataid: dom.getAttribute("data-id"), doc: true} } },
+        {tag: "ol.doc li", getAttrs(dom) { return {value: dom.value, dataid: dom.getAttribute("data-id"), classes: dom.getAttribute("class"), doc: true} } },
         {tag: "li", getAttrs(dom) { return {value: dom.value} } }],
-      toDOM(node) { let {value, id, dataid, classes, doc} = node.attrs ; return value === 0 && doc == true ? id == "" ? dataid == "" ? 
-      ["li", {"style": "list-style-type:none"}, 0] : ["li", {"data-id": dataid, "style": "list-style-type:none", "class": classes}, 0] : 
-      dataid == "" ? 
-      ["li", {id}, 0] : ["li", {id, "data-id": dataid}, 0] : 
-      doc == true ? id == "" ? classes == "" ? ["li", {value}, 0] : ["li", {value, "class": classes}, 0] : 
-      classes == "" ? ["li", {value, id}, 0] : ["li", {value, id, "class": classes}, 0] : ["li", 0] },
+      toDOM(node) { let {value, dataid, dataname, classes, doc} = node.attrs ; return value === 0 && doc == true ? dataid == "" ? dataname == "" ? 
+      ["li", {"style": "list-style-type:none"}, 0] : ["li", {"data-name": dataname, "style": "list-style-type:none", "class": classes}, 0] : 
+      dataname == "" ? 
+      ["li", {"data-id": dataid}, 0] : ["li", {"data-id": dataid, "data-name": dataname}, 0] : 
+      doc == true ? dataid == "" ? classes == "" ? ["li", {value}, 0] : ["li", {value, "class": classes}, 0] : 
+      classes == "" ? ["li", {value, "data-id": dataid}, 0] : ["li", {value, "data-id": dataid, "class": classes}, 0] : ["li", 0] },
     },
     hr: {
       group: "block",
