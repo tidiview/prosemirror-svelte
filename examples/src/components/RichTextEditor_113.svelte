@@ -90,7 +90,7 @@
 
 <div>
 
-<p id="3" class="single-li"><span style="color: #3d8b3d;">Contre</span> nous de la <span style="color: #3d8b3d;">tyrannie</span>、<wbr><span style="color: grey;">フランス語本文</span></p>
+<p data-id="3" class="single-li"><span style="color: #3d8b3d;">Contre</span> nous de la <span style="color: #3d8b3d;">tyrannie</span>、<wbr><span style="color: grey;">フランス語本文</span></p>
 <p class="no-puce">我らに向かって暴君の　<wbr><span style="color: grey;">ウィキペディア訳</span></p>
 <p class="no-puce">我らに<span style="color: #3d8b3d;">対す<ruby>僭<rp>(</rp><rt>せん</rt><rp>)</rp>主<rp>(</rp><rt>しゅ</rt><rp>)</rp></ruby>政治</span>、<wbr>　<wbr><span style="color: grey;">フランソワ・ヴィディ訳</span></p>
 
@@ -109,7 +109,7 @@
 
 <div>
 
-<p id="6" class="single-li">Entendez-vous <span style="color: #3d8b3d;">dans les campagnes</span>　<wbr><span style="color: grey;">フランス語本文</span></p>
+<p data-id="6" class="single-li">Entendez-vous <span style="color: #3d8b3d;">dans les campagnes</span>　<wbr><span style="color: grey;">フランス語本文</span></p>
 <p class="no-puce">聞こえるか戦場の　<wbr><span style="color: grey;">ウィキペディア訳</span></p>
 <p class="no-puce">聞こえるか、<wbr><span style="color: #3d8b3d;">我らの田舎で</span>　<wbr><span style="color: grey;">フランソワ・ヴィディ訳</span></p>
 
@@ -129,7 +129,7 @@
 
 <div>
 
-<p id="7" class="single-li"><span style="color: #3d8b3d;">Mugir</span> ces <span style="color: #3d8b3d;">féroces</span> soldats ?　<wbr><span style="color: grey;">フランス語本文</span></p>
+<p data-id="7" class="single-li"><span style="color: #3d8b3d;">Mugir</span> ces <span style="color: #3d8b3d;">féroces</span> soldats ?　<wbr><span style="color: grey;">フランス語本文</span></p>
 <p class="no-puce">残忍な敵兵の咆哮を?　<wbr><span style="color: grey;">ウィキペディア訳</span></p>
 <p class="no-puce">このむ<span style="color: #3d8b3d;">ごたらしい</span>兵どもが<ruby>咆<rp>(</rp><rt>ほう</rt><rp>)</rp>哮<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><span style="color: #3d8b3d;">するのを？</span>　<wbr><span style="color: grey;">フランソワ・ヴィディ訳</span></p>
 
@@ -149,7 +149,7 @@
 
 <div>
 
-<p id="8" class="single-li">Ils viennent <span style="color: #3d8b3d;">jusque</span> dans nos bras　<wbr><span style="color: grey;">フランス語本文</span></p>
+<p data-id="8" class="single-li">Ils viennent <span style="color: #3d8b3d;">jusque</span> dans nos bras　<wbr><span style="color: grey;">フランス語本文</span></p>
 <p class="no-puce">奴らは我らの元に来て　<wbr><span style="color: grey;">ウィキペディア訳</span></p>
 <p class="no-puce">奴らは我らの元に<span style="color: #3d8b3d;">まで</span>来て　<wbr><span style="color: grey;">フランソワ・ヴィディ訳</span></p>
 
@@ -168,7 +168,7 @@
 
 <div>
 
-<p id="9" class="single-li"><span style="color: #3d8b3d;">Égorger</span> nos fils<span style="color: #3d8b3d;">, </span>nos compagnes !　<wbr><span style="color: grey;">フランス語本文</span></p>
+<p data-id="9" class="single-li"><span style="color: #3d8b3d;">Égorger</span> nos fils<span style="color: #3d8b3d;">, </span>nos compagnes !　<wbr><span style="color: grey;">フランス語本文</span></p>
 <p class="no-puce">我らの子と妻の喉を搔き切る！　<wbr><span style="color: grey;">ウィキペディア訳</span></p>
 <p class="no-puce">我らの子、妻の喉を<ruby>掻<rp>(</rp><rt>か</rt><rp>)</rp></ruby>き切りに！　<wbr><span style="color: grey;">フランソワ・ヴィディ訳</span></p>
 
@@ -186,7 +186,7 @@
 
 <div>
 
-<p id="11" class="single-li">Formez <span style="color: #3d8b3d;">vos bataillons</span>、<wbr><span style="color: grey;">フランス語本文</span></p>
+<p data-id="11" class="single-li">Formez <span style="color: #3d8b3d;">vos bataillons</span>、<wbr><span style="color: grey;">フランス語本文</span></p>
 <p class="no-puce">隊列を組め　<wbr><span style="color: grey;">ウィキペディア訳</span></p>
 <p class="no-puce"><span style="color: #3d8b3d;"><ruby>隊伍<rp>(</rp><rt>たいご</rt><rp>)</rp></ruby></span>を組め　<wbr><span style="color: grey;">フランソワ・ヴィディ訳</span></p>
 
@@ -205,7 +205,7 @@
 
 <div>
 
-<p id="12" class="single-li"><span style="color: #3d8b3d;">Marchons, marchons !</span>　<wbr><span style="color: grey;">フランス語本文</span></p>
+<p data-id="12" class="single-li"><span style="color: #3d8b3d;">Marchons, marchons !</span>　<wbr><span style="color: grey;">フランス語本文</span></p>
 <p class="no-puce">進もう、進もう！　<wbr><span style="color: grey;">ウィキペディア訳</span></p>
 <p class="no-puce"><span style="color: #3d8b3d;">歩こう、歩こう！</span>　<wbr><span style="color: grey;">フランソワ・ヴィディ訳</span></p>
 
@@ -223,7 +223,7 @@
 
 <div>
 
-<p id="13" class="single-li">Qu'un sang <span style="color: #3d8b3d;">impur</span>　<wbr><span style="color: grey;">フランス語本文</span></p>
+<p data-id="13" class="single-li">Qu'un sang <span style="color: #3d8b3d;">impur</span>　<wbr><span style="color: grey;">フランス語本文</span></p>
 <p class="no-puce">汚れた血が　<wbr><span style="color: grey;">ウィキペディア訳</span></p>
 <p class="no-puce"><span style="color: #3d8b3d;">不純な</span>血が　<wbr><span style="color: grey;">フランソワ・ヴィディ訳</span></p>
 
@@ -241,7 +241,7 @@
 
 <div>
 
-<p id="14" class="single-li"><span style="color: #3d8b3d;">Abreuve</span> nos sillons !　<wbr><span style="color: grey;">フランス語本文</span></p>
+<p data-id="14" class="single-li"><span style="color: #3d8b3d;">Abreuve</span> nos sillons !　<wbr><span style="color: grey;">フランス語本文</span></p>
 <p class="no-puce">我らの畑の畝を満たすまで！　<wbr><span style="color: grey;">ウィキペディア訳</span></p>
 <p class="no-puce">我らの<ruby>畝<rp>(</rp><rt>うね</rt><rp>)</rp></ruby>を<span style="color: #3d8b3d;">潤すように！</span>、　<wbr><span style="color: grey;">フランソワ・ヴィディ訳</span></p>
 
