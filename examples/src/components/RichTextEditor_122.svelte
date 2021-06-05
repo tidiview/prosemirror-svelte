@@ -68,7 +68,7 @@
   <section id="machine">
   <h4 class="yellow note">「オペラの<ruby>機械<rp>（</rp><rt>マシヌ</rt><rp>）</rp></ruby>」</h4>
 
-  <p>フランス語では「<ruby>Ma<rp>（</rp><rt>マ</rt><rp>）</rp>chi<rp>（</rp><rt>シ</rt><rp>）</rp>ne<rp>（</rp><rt>ヌ</rt><rp>）</rp></ruby>」。こういう風に劇所やオペラで、、観客に驚異的性の錯視を与えるそれぞれの効果によっての機械的手段が指名しされていた。しかし、「オペラの<ruby>機械<rp>（</rp><rt>マシヌ</rt><rp>）</rp></ruby>」を明らかにするには、フォントネルにとって宇宙を非神聖化させたり、アリストテレス、プラトンなどの以前の文学を迷信から覚まさせたりあうるでもある。</p>
+  <p>フランス語では「<ruby lang="fr">Ma<rp>（</rp><rt lang="ja">マ</rt><rp>）</rp>chi<rp>（</rp><rt lang="ja">シ</rt><rp>）</rp>ne<rp>（</rp><rt lang="ja">ヌ</rt><rp>）</rp></ruby>」。こういう風に劇所やオペラで、、観客に驚異的性の錯視を与えるそれぞれの効果によっての機械的手段が指名しされていた。しかし、「オペラの<ruby>機械<rp>（</rp><rt>マシヌ</rt><rp>）</rp></ruby>」を明らかにするには、フォントネルにとって宇宙を非神聖化させたり、アリストテレス、プラトンなどの以前の文学を迷信から覚まさせたりあうるでもある。</p>
   <footer>
     <p class="puce"><a href="#renvoi-machine" title="#renvoi-machine">文書に戻る&nbsp;↩</a></p>
   </footer>
