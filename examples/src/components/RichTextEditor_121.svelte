@@ -190,7 +190,7 @@
 <h4 class="green note">主は御言葉を遣わして彼らを癒し</h4>
 <div class="notices green">
   <p>第百七詩篇、二十節</p>
-  <p id="20" class="single-li">主は御言葉を遣わして彼らを癒し破滅から彼らを救い出された。</p>
+  <p data-id="20" class="single-li">主は御言葉を遣わして彼らを癒し破滅から彼らを救い出された。</p>
 </div>
 <footer>
   <p class="puce"><a href="#verbe" title="主は御言葉を遣わして彼らを癒し">文書に戻る&nbsp;↩</a></p>
@@ -220,7 +220,7 @@
 <div class="notices green">
   <p><ruby lang="ja">ルドルフ・ブフナー<rp>（</rp><rt lang="de">Rudolf&#160;Buchner</rt><rp>）</rp></ruby>の「<ruby lang="ja">十冊の物語の本<rp>（</rp><rt lang="de">Zehn&#160;Bacher&#160;Geschichten</rt><rp>）</rp></ruby>」、１０項、注１で、この引用を、グレゴリウスがヴルガータ訳以外のテキストから借りたとされるエレミヤ書第十七章九節に関連づけています。</p>
   <p>エレミヤ書第十七章九節：</p>
-  <p id="9" class="single-li">人の心は何にもまして、とらえ難く病んでいる。誰がそれを知りえようか。</p>
+  <p data-id="9" class="single-li">人の心は何にもまして、とらえ難く病んでいる。誰がそれを知りえようか。</p>
 </div>
 <footer>
   <p class="puce"><a href="#ecoute" title="神が人になるだろう">文書に戻る&nbsp;↩</a></p>
@@ -377,7 +377,7 @@
 <div class="notices green">
   <p>このバージョンは、ヨハネ福音書のこの箇所の実際の文書とは多少異なります。</p>
   <p>ヨハネ福音書、第十章、十八節：</p>
-  <p id="18" class="single-li">だれもわたしから命を奪い取ることはできない。わたしは自分でそれを捨てる。わたしは命を捨てることもでき、それを再び受けることもできる。これは、わたしが父から受けた掟である。</p>
+  <p data-id="18" class="single-li">だれもわたしから命を奪い取ることはできない。わたしは自分でそれを捨てる。わたしは命を捨てることもでき、それを再び受けることもできる。これは、わたしが父から受けた掟である。</p>
 </div>
 <footer>
   <p class="puce"><a href="#reprendre" title="われはわが命をみずから捨て">文書に戻る&nbsp;↩</a></p>
@@ -388,7 +388,7 @@
 <h4 class="green note">死人のうちよりよみがえらせたまいしことを信ぜされば、救われざる</h4>
 <div class="notices green">
   <p>ローマの信徒への手紙書、第十章、九節ですが、ヴルガータ訳の文書は多少異なります：</p>
-  <p id="9" class="single-li">口でイエスは主であると公に言い表し、心で神がイエスを死者の中から復活させられたと信じるなら、あなたは救われるからです。</p>
+  <p data-id="9" class="single-li">口でイエスは主であると公に言い表し、心で神がイエスを死者の中から復活させられたと信じるなら、あなたは救われるからです。</p>
 </div>
 <footer>
   <p class="puce"><a href="#ressuciter" title="死人のうちよりよみがえらせたまいしことを信ぜされば、救われざる">文書に戻る&nbsp;↩</a></p>
