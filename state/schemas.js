@@ -858,7 +858,7 @@ export const ExtendedThreerichTextSchema = new Schema({
         lang: {default: null}, 
         color: {default: null}},
       parseDOM: [{tag: "ruby[lang]", getAttrs(dom) { return {lang: dom.lang, color: dom.style["color"]} }}, {tag: "rp", ignore: true}],
-      toDOM(node) { let {lang, color} = node.attrs; return lang == "" ? color == "" ? ["ruby", 0] : lang == "" ? ["ruby", {"style": "color:" + color}, 0] : ["ruby", {lang}, 0] : ["ruby", {lang, "style": "color:" + color}, 0] },
+      toDOM(node) { let {lang, color} = node.attrs; return lang == "" ? color == "" ? ["ruby", 0] : ["ruby", {"style": "color:" + color}, 0] : color == "" ? ["ruby", {lang}, 0] : ["ruby", {lang, "style": "color:" + color}, 0] },
     },
     ruby: {
       content: "inline*",
@@ -951,7 +951,7 @@ export const ExtendedThreerichTextSchema = new Schema({
         color: {default: null}},
       inclusive: false,
       parseDOM: [{tag: "rt[lang]", getAttrs(dom) { return {lang: dom.lang, color: dom.style["color"]} }}],
-      toDOM(node) { let {lang, color} = node.attrs; return lang == "" ? color == "" ? ["rt", 0] : lang == "" ? ["rt", {"style": "color:" + color}, 0] : ["rt", {lang}, 0] : ["rt", {lang, "style": "color:" + color}, 0] },
+      toDOM(node) { let {lang, color} = node.attrs; return lang == "" ? color == "" ? ["rt", 0] : ["rt", {"style": "color:" + color}, 0] : color == "" ? ["rt", {lang}, 0] : ["rt", {lang, "style": "color:" + color}, 0] },
     },
     rt: {
       inclusive: false,
