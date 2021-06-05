@@ -842,7 +842,7 @@ export const ExtendedThreerichTextSchema = new Schema({
       dataname == "" ? 
       ["li", {"data-id": dataid}, 0] : ["li", {"data-id": dataid, "data-name": dataname}, 0] : 
       doc == true ? dataid == "" ? classes == "" ? ["li", {value}, 0] : ["li", {value, "class": classes}, 0] : 
-      classes == "" ? ["li", {value, "data-id": dataid}, 0] : ["li", {value, "data-id": dataid, "class": classes}, 0] : ["li", 0] },
+      classes == "" ? ["li", {value, "data-id": dataid}, 0] : ["li", {value, "id": dataid, "class": classes}, 0] : ["li", 0] },
     },
     hr: {
       group: "block",
@@ -868,28 +868,28 @@ export const ExtendedThreerichTextSchema = new Schema({
       toDOM() { return ["ruby", 0] },
     },
     code: {
-      content: "text*",
+      content: "inline*",
       group: "inline",
       inline: true,
       parseDOM: [{tag: "code"}],
       toDOM() { return ["code", 0] },
     },
     dfn: {
-      content: "text*",
+      content: "inline*",
       group: "inline",
       inline: true,
       parseDOM: [{tag: "dfn"}],
       toDOM() { return ["dfn", 0] },
     },
     address: {
-      content: "text*",
+      content: "inline*",
       group: "inline",
       inline: true,
       parseDOM: [{tag: "address"}],
       toDOM() { return ["address", 0] },
     },
     time: {
-      content: "text*",
+      content: "inline*",
       group: "inline",
       inline: true,
       attrs: {datetime: {default: null}},
