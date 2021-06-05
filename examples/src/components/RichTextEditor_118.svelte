@@ -11,7 +11,7 @@
 <p><time datetime="2018-01-15">２０１８年１月１５日</time></p>
 </header>
 
-<h1 class="green">異邦人</h1>
+<h1 class="green"><cite>異邦人</cite></h1>
 
 <div class="notices green">
 <p>通常では、異なる邦の人は「異邦人」ではありますが、ここでは、誰かに対して国が異なるのではない問答を紹介します。</p>
@@ -36,7 +36,7 @@
 
 
 <footer>
-  <p><a href="https://ja.wikipedia.org/wiki/シャルル・ボードレール" title="https://ja.wikipedia.org/wiki/シャルル・ボードレール"><ruby>シャルル<rp>（</rp><rt>Charles</rt><rp>）</rp>・<rp>（</rp><rt></rt><rp>）</rp>ボードレール<rp>（</rp><rt>BAUDELAIRE</rt><rp>）</rp></ruby></a>、「<ruby>異邦人<rp>（</rp><rt>L&#39;étranger</rt><rp>）</rp></ruby>」。</p>
+  <p><a href="https://ja.wikipedia.org/wiki/シャルル・ボードレール" title="https://ja.wikipedia.org/wiki/シャルル・ボードレール"><ruby>シャルル<rp>（</rp><rt>Charles</rt><rp>）</rp>・<rp>（</rp><rt></rt><rp>）</rp>ボードレール<rp>（</rp><rt>BAUDELAIRE</rt><rp>）</rp></ruby></a>、「<cite><ruby>異邦人<rp>（</rp><rt>L&#39;étranger</rt><rp>）</rp></ruby></cite>」。</p>
 </footer>
 
 <aside>
