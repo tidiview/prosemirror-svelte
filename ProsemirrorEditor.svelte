@@ -234,10 +234,22 @@
     margin-inline-start: 163px;
   }
 
-  :global(ol.doc-three-rows li::marker) {
+  :global(ol.doc-three-rows li[data-id]::before) {
+    content: attr(data-id) ". ";
+    position: absolute;
+    left: 1em;
+    padding-top: 2px;
+    padding-bottom: 2px;
+  }
+
+  :global(ol.doc-three-rows li[data-name]::marker) {
     content: attr(data-name);
     width: 100px;
     font-variant-numeric: normal;
+  }
+
+  :global(ol.doc-three-rows li::marker) {
+    content: none;
   }
 
   :global(ol.year li p:first-child) {
@@ -253,14 +265,6 @@
 
   :global(span.year-width) {
     width: 44px;
-  }
-
-  :global(ol.doc-three-rows li[data-id]::before) {
-    content: attr(data-id) ". ";
-    position: absolute;
-    left: 1em;
-    padding-top: 2px;
-    padding-bottom: 2px;
   }
 
   :global(.puce) {
