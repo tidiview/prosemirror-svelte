@@ -761,13 +761,13 @@ export const ExtendedThreerichTextSchema = new Schema({
     paragraphstyled: {
       content: "inline*",
       group: "block",
-      attrs: {classes: {default: null}, styles: {default: null}, flag: {default: null}, id: {default: null}},
+      attrs: {classes: {default: null}, styles: {default: null}, flag: {default: null}, dataid: {default: null}},
       parseDOM: [
-        {tag: "p.single-li", getAttrs(dom) { return {classes: dom.getAttribute("class"), styles: dom.getAttribute("style"), flag: true, id: dom.id} }},
-        {tag: "p.conversation", getAttrs(dom) { return {classes: dom.getAttribute("class"), styles: dom.getAttribute("style"), flag: true, id: dom.id} }},
+        {tag: "p.single-li", getAttrs(dom) { return {classes: dom.getAttribute("class"), styles: dom.getAttribute("style"), flag: true, dataid: dom.getAttribute("data-id")} }},
+        {tag: "p.conversation", getAttrs(dom) { return {classes: dom.getAttribute("class"), styles: dom.getAttribute("style"), flag: true, dataid: dom.getAttribute("data-id")} }},
         {tag: "p.puce", getAttrs(dom) { return {classes: dom.getAttribute("class"), styles: dom.getAttribute("style"), flag: true} }},
-        {tag: "p.no-puce", getAttrs(dom) { return {classes: dom.getAttribute("class"), styles: dom.getAttribute("style"), id: dom.id, flag: true} }}],
-      toDOM(node) { let {classes, styles, flag, id} = node.attrs ; return flag == true ? styles == "" ? id == "" ? ["p", {"class": classes}, 0] : ["p", {"id": id, "class": classes}, 0] : id == "" ? ["p", {"class": classes, "style": styles}, 0] : ["p", {"id": id, "class": classes, "style": styles}, 0] : styles == "" ? ["p", 0] : ["p",{"style": styles} , 0] },
+        {tag: "p.no-puce", getAttrs(dom) { return {classes: dom.getAttribute("class"), styles: dom.getAttribute("style"), dataid: dom.getAttribute("data-id"), flag: true} }}],
+      toDOM(node) { let {classes, styles, flag, dataid} = node.attrs ; return flag == true ? styles == "" ? dataid == "" ? ["p", {"class": classes}, 0] : ["p", {"data-id": dataid, "class": classes}, 0] : dataid == "" ? ["p", {"class": classes, "style": styles}, 0] : ["p", {"data-id": dataid, "class": classes, "style": styles}, 0] : styles == "" ? ["p", 0] : ["p",{"style": styles} , 0] },
     },
     paragraph: {
       content: "inline*",
