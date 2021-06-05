@@ -19,13 +19,13 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.webp 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.webp 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.webp 700w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg" title="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《イリスの近づきに目覚めるモルフェ》絵画" alt="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《イリスの近づきに目覚めるモルフェ》絵画" class="class-diane-img" width="700" height="951" loading="eager" decoding="async" usemap="#iris" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.webp 700w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg" title="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《イリスの近づきに目覚めるモルフェ》絵画" alt="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《イリスの近づきに目覚めるモルフェ》絵画" class="class-diane-img" width="700" height="951" loading="eager" decoding="async" usemap="#map_iris" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.jpg 280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg 700w"></picture><figcaption><q cite="#iris-1" style="quotes:'「' '」';">いつも忠実な私の使者〈<ruby>虹<rp>（</rp><rt>イリス</rt><rp>）</rp></ruby>〉女神よ、〈<ruby>眠り<rp>（</rp><rt>ソムヌス</rt><rp>）</rp></ruby>〉の神の眠気を誘う館へと急行してほしい</q>、<cite>変身物語</cite>、第十一巻、５８３行。</figcaption><map name="iris" id="iris"><area title="イリス" alt="イリス" id="area_iris" href="#iris" shape="poly" coords="50, 599, 69, 555, 109, 529, 166, 502, 167, 448, 218, 398, 262, 303, 316, 297, 360, 247, 354, 220, 334, 229, 326, 255, 262, 279, 248, 231, 251, 202, 242, 188, 220, 194, 202, 107, 170, 176, 143, 153, 116, 163, 32, 108, 29, 131, 53, 184, 87, 223, 103, 292, 81, 327, 77, 360, 57, 374, 52, 391, 60, 397, 69, 398, 71, 414, 60, 428, 47, 418, 28, 421, 18, 432, 19, 476, 37, 495, 33, 517, 43, 533, 61, 530, 54, 540, 40, 542, 32, 571, 33, 602"><area title="眠りの神" alt="眠りの神" id="area_morpheus" href="#morpheus" shape="poly" coords="195, 661, 277, 634, 324, 631, 347, 645, 366, 712, 375, 718, 420, 675, 433, 655, 521, 641, 542, 621, 571, 614, 600, 593, 630, 607, 683, 592, 680, 573, 657, 567, 622, 567, 611, 552, 583, 540, 579, 512, 590, 497, 580, 481, 513, 452, 481, 453, 473, 466, 476, 515, 389, 469, 267, 447, 273, 473, 330, 503, 378, 512, 405, 529, 435, 563, 387, 546, 343, 548, 301, 556, 259, 545, 254, 555, 279, 575, 296, 597, 237, 624, 198, 630, 185, 645"></map>
-</figure>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg 700w"></picture><figcaption><q cite="#iris-1" style="quotes:'「' '」';">いつも忠実な私の使者〈<ruby>虹<rp>（</rp><rt>イリス</rt><rp>）</rp></ruby>〉女神よ、〈<ruby>眠り<rp>（</rp><rt>ソムヌス</rt><rp>）</rp></ruby>〉の神の眠気を誘う館へと急行してほしい</q>、<cite>変身物語</cite>、第十一巻、５８３行。</figcaption>
+</figure><map name="map_iris" id="map_iris"><area title="イリス" alt="イリス" id="area_iris" href="#iris" shape="poly" coords="50,599,69,555,109,529,166,502,167,448,218,398,262,303,316,297,360,247,354,220,334,229,326,255,262,279,248,231,251,202,242,188,220,194,202,107,170,176,143,153,116,163,32,108,29,131,53,184,87,223,103,292,81,327,77,360,57,374,52,391,60,397,69,398,71,414,60,428,47,418,28,421,18,432,19,476,37,495,33,517,43,533,61,530,54,540,40,542,32,571,33,602"><area title="眠りの神" alt="眠りの神" id="area_morpheus" href="#morpheus" shape="poly" coords="195,661,277,634,324,631,347,645,366,712,375,718,420,675,433,655,521,641,542,621,571,614,600,593,630,607,683,592,680,573,657,567,622,567,611,552,583,540,579,512,590,497,580,481,513,452,481,453,473,466,476,515,389,469,267,447,273,473,330,503,378,512,405,529,435,563,387,546,343,548,301,556,259,545,254,555,279,575,296,597,237,624,198,630,185,645"></map>
 
 <div class="notices green">
 <p><a href="https://ja.wikipedia.org/wiki/大トリアノン宮殿" title="https://ja.wikipedia.org/wiki/大トリアノン宮殿"><ruby lang="ja">大トリアノン宮殿<rp>（</rp><rt lang="fr">le&#160;Grand&#160;Trianon</rt><rp>）</rp></ruby></a>に展示されている<a href="https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス" title="https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス"><ruby lang="ja">ルネ<rp>（</rp><rt lang="fr">René</rt><rp>）</rp>＝<rp>（</rp><rt lang="fr">-</rt><rp>）</rp>アントワーヌ<rp>（</rp><rt lang="fr">Antoine</rt><rp>）</rp>・<rp>（</rp><rt lang="fr"></rt><rp>）</rp>ウアス<rp>（</rp><rt lang="fr">Houasse</rt><rp>）</rp></ruby></a>が描いた《<cite><ruby lang="ja">イリス<rp>（</rp><rt lang="fr">Iris</rt><rp>）</rp></ruby>の近づきに目覚める<ruby lang="ja">モルフェ<rp>（</rp><rt lang="fr">Morphée</rt><rp>）</rp></ruby></cite>》絵画、あるいは《<cite>イーリスとモルペウス》ともいう</cite>が<ruby lang="ja">ルイ=フィリップの家族の間<rp>（</rp><rt lang="fr">le&#160;Salon&#160;de&#160;Famille&#160;de&#160;Louis-Philippe</rt><rp>）</rp></ruby>に見られます。</p>
@@ -37,7 +37,8 @@
 <p>女王の命を受けたイリスが眠りの神であるソムヌスが住む洞窟を訪れていく... </p>
 </div>
 
-<h2 id="iris-1" class="green">「<cite>変身物語</cite>」の第十一巻の文書においての〈<ruby>眠り<rp>（</rp><rt>ソムヌス</rt><rp>）</rp></ruby>〉の洞窟の中に入るイリス</h2>
+<section id="iris-1">
+<h2 class="green">「<cite>変身物語</cite>」の第十一巻の文書においての〈<ruby>眠り<rp>（</rp><rt>ソムヌス</rt><rp>）</rp></ruby>〉の洞窟の中に入るイリス</h2>
 
 <ol class="doc">
   <li value="583">「いつも忠実な私の使者〈<mark><ruby>虹<rp>（</rp><rt>イリス</rt><rp>）</rp></ruby></mark>〉女神よ、〈<mark><ruby>眠り<rp>（</rp><rt>ソムヌス</rt><rp>）</rp></ruby></mark>〉の神の眠気を誘う館へと急行してほしい。そしてあのアルキュオネに、いまは亡きケユクスの幻を夢に見させて、ことに真相を知らせてほしいのです」</li>
@@ -85,6 +86,8 @@
   <p><span style="color: #3d8b3d;">オウィディウス、<cite>変身物語</cite>、第十一巻、５８３行から６３０行までより</span></p>
 </footer>
 
+</section>
+
 <aside>
 
 <h3 class="green">注釈：</h3>
@@ -97,7 +100,7 @@
 <dd>「愛しい妻よ、私はおまえの危惧した通り嵐に遭って死んでしまった。どうか私の死を嘆き、葬儀を執り行っておくれ。このままではつつがなく死の国に赴くことも出来ない」。</dd>
 </dl>
 <p>あまりのことに飛び起きたアルキュオネは悲しみに狂乱し、自分も入水して夫の後を追おうと浜辺に駆けていきますが、そこで波に揺られて流れ着いた夫の遺体と遭遇します。</p>
-<p>身も世もあらず悲嘆する彼女の姿が神々の同情を買い、２人は<a href="https://ja.wikipedia.org/wiki/カワセミ" title="https://ja.wikipedia.org/wiki/カワセミ"><ruby>翡<rp>（</rp><rt>カワ</rt><rp>）</rp>翠<rp>（</rp><rt>セミ</rt><rp>）</rp></ruby></a>に姿を変えられるのだ。</p>
+<p>身も世もあらず悲嘆する彼女の姿が神々の同情を買い、二人は<a href="https://ja.wikipedia.org/wiki/カワセミ" title="https://ja.wikipedia.org/wiki/カワセミ"><ruby>翡<rp>（</rp><rt>カワ</rt><rp>）</rp>翠<rp>（</rp><rt>セミ</rt><rp>）</rp></ruby></a>に姿を変えられるのだ。</p>
 </div>
 
 <div class="notices green">
