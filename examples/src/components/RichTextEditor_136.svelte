@@ -17,7 +17,8 @@
 <p>フランス語では、「<a href="#note_remigius" title="レミギウス"><ruby lang="ja">サン<rp>(</rp><rt lang="la">saint</rt><rp>)</rp>＝<rp>(</rp><rt lang="la">-</rt><rp>)</rp>レミ<rp>(</rp><rt lang="la">Rémi</rt><rp>)</rp></ruby></a>」、あるいは史料のラテン語からでは「<ruby lang="ja">聖<rp>(</rp><rt lang="la">sanctus</rt><rp>)</rp>レミギウス<rp>(</rp><rt lang="la">Remigius</rt><rp>)</rp></ruby>」がフランク族の王であるフランス語では<ruby lang="ja">クロヴィス<rp>(</rp><rt lang="la">Clovis</rt><rp>)</rp></ruby>、ラテン語から「<ruby lang="ja">クロドウェクス<rp>(</rp><rt lang="la">Chlodovechus</rt><rp>)</rp></ruby>」に洗礼をしたことは中世時代でのキリスト教の主な著書といえる<a href="https://ja.wikipedia.org/wiki/ヤコブス・デ・ヴォラギネ" title="https://ja.wikipedia.org/wiki/ヤコブス・デ・ヴォラギネ"><ruby lang="ja">ヤコブス<rp>(</rp><rt lang="la">Jacobus</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>デ<rp>(</rp><rt lang="la">de</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>ヴォラギネ<rp>(</rp><rt lang="la">Voragine</rt><rp>)</rp></ruby></a>が著した『<a href="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" title="https://ja.wikipedia.org/wiki/レゲンダ・アウレア"><ruby>黄金伝説<rp>(</rp><rt>レゲンダ・アウレア</rt><rp>)</rp></ruby></a>』の<a href="#seize" title="#seize">第１６章</a>と<a href="#cent-quarante-et-un" title="#cent-quarante-et-un">第１４１章</a>で主に語れています。</p>
 </div>
 
-<h2 id="seize" class="green"><cite>黄金伝説</cite>の第１６章の文書に於いての聖レミギウス</h2>
+<section id="seize">
+<h2 class="green"><cite>黄金伝説</cite>の第１６章の文書に於いての聖レミギウス</h2>
 
 <h3 class="green">その名前の最初の解釈</h3>
 
@@ -87,7 +88,7 @@
 <p class="conversation">「その子を<ruby style="color:#3d8b3d;">女<rp>(</rp><rt style="font-size: 70%;letter-spacing: 0.5px;color:#3d8b3d;">めぎ</rt><rp>)</rp>狐<rp>(</rp><rt style="font-size: 70%;letter-spacing: 0.5px;color:#3d8b3d;">つね</rt><rp>)</rp></ruby>と名づけなさい」と言った。</p>
 <p>その後、彼は、自分の罪業をつくづく反省し、聖<mark>レミギウス</mark>のところに出かけて、その足もとにひれ伏し、ストラを肩からはずそうとした。</p>
 <p><mark>レミギウス</mark>は、これをおしとどめ、その罪業の告白を聞くと、やさしく慰めてやった。
-そして、彼を<time datetime="P7Y">七年間</time>小さな庵室に閉じこめた。</p>
+そして、彼を<time datetime="P2550D">七年間</time>小さな庵室に閉じこめた。</p>
 <p><mark>レミギウス</mark>は、そのあいだ彼にかわってその司教区のめんどうを見た。
 ７年目がめぐってきて、ゲネバルドゥスが聖木曜日にじっと祈禱をつづけていると、主の御使いがあらわれて、</p>
 <p class="conversation"><span style="color: #3d8b3d;">「あなたの罪は、赦されました。
@@ -104,15 +105,17 @@
 <p>そこで、聖<mark>レミギウス</mark>が、天使の言いつけでランにやってきて、ゲネバルドスをふたたび司教に任命した。
 彼は、それ以後死ぬまで善行のうちに暮らした。
 彼の息子<span style="color: #3d8b3d;">〈</span><ruby style="color:#3d8b3d;">偸盗<rp>(</rp><rt style="font-size: 70%;letter-spacing: 0.5px;color:#3d8b3d;">ラトロ</rt><rp>)</rp></ruby><span style="color: #3d8b3d;">〉</span>も、父のあとを継いで司教になり、聖人とまで言われるようになった。
-聖<mark>レミギウス</mark>は、主の<time datetime="500">紀元５００年ごろ</time>有徳と聖性とにみたされてやすらかに世を去った。</p>
+聖<mark>レミギウス</mark>は、主の<time datetime="0500">紀元５００年ごろ</time>有徳と聖性とにみたされてやすらかに世を去った。</p>
 
 <footer>
   <p><span style="color: #3d8b3d;">ヤコブス・デ・ウォラギネ、<cite><ruby>黄金伝説<rp>(</rp><rt>レゲンダ・アウレア</rt><rp>)</rp></ruby></cite>、第１６章。</span></p>
 </footer>
+</section>
 
 <!-- page 2 -->
 
-<h2 id="cent-quarante-et-un" class="green"><cite>黄金伝説</cite>の第１４１章の文書に於いての聖レミギウス</h2>
+<section id="cent-quarante-et-un">
+<h2 class="green"><cite>黄金伝説</cite>の第１４１章の文書に於いての聖レミギウス</h2>
 
 <h3 class="green">その名前の第二番目の解釈</h3>
 
@@ -123,7 +126,7 @@
 
 <h3 class="green">クロティルデとその子供たち</h3>
 
-<p>レミギウスは、<a href="#note_clovis" title="フランク族の王" id="clovis" class="green">フランク族の王</a>とそのすべての国民を回心させて、キリスト教の信仰にみちびいたとされている。</p>
+<p>レミギウスは、<a href="#note_clovis-2" title="フランク族の王" id="clovis-2" class="green">フランク族の王</a>とそのすべての国民を回心させて、キリスト教の信仰にみちびいたとされている。</p>
 <p>すなわち、この王には、<a href="#note_clothilde" title="クロティルデ" id="clothilde" class="green"><ruby lang="ja">クロティルデ<rp>(</rp><rt lang="la">Clothilde</rt><rp>)</rp></ruby></a>という名のキリスト者の妃があった。</p>
 <p>王妃は、なんとかして良人をキリスト教に入信させようとたえずつとめたが、その試みは、いつも徒労に終わった。
 そのうち、ふたりのあいだに男の子が生まれた。
@@ -172,11 +175,11 @@
 そして、ちょうど寒い季節だったし、夕暮れどきでもあったので、両手をかざして火にあたりながら、いつもと変わらぬ顔つきでこう言った。</p>
 <p class="conversation"><span style="color: #3d8b3d;">「火というものは、いつでもありがたいものだ。
 だがな、こんなことをやらかした連中は、男なら、孫子の代にいたるまで女と交わる能力を失うだろう。また、その女房たちは、<ruby style="color:#3d8b3d;">瘰<rp>(</rp><rt style="font-size: 70%;letter-spacing: 0.5px;color:#3d8b3d;">るい</rt><rp>)</rp>癧<rp>(</rp><rt style="font-size: 70%;letter-spacing: 0.5px;color:#3d8b3d;">れき</rt><rp>)</rp></ruby>病みになるだろう」</span></p>
-<p>そして、<a href="#note_charlemagne" title="フランク族の王" id="charlemagne" class="green">カール大帝</a>に追いはらわれるまで、彼らにこの言葉どおりのことが起こったのである。</p>
+<p>そして、<a href="#note_charlemagne" title="カール大帝" id="charlemagne" class="green">カール大帝</a>に追いはらわれるまで、彼らにこの言葉どおりのことが起こったのである。</p>
 
 <h3 class="green">御遺体の移居</h3>
 
-<p>ところで、ここで注記しておくと、<time datetime="534">１０月</time>におこなわれる<span style="color: #3d8b3d;">聖レミギウス</span>の祝日は、彼が至福なる死をむかえた日であり、今日すなわち<time datetime="10-01">１０月１日</time>は、聖遺体の移居記念日である。</p>
+<p>ところで、ここで注記しておくと、<time datetime="0534">１０月</time>におこなわれる<span style="color: #3d8b3d;">聖レミギウス</span>の祝日は、彼が至福なる死をむかえた日であり、今日すなわち<time datetime="10-01">１０月１日</time>は、聖遺体の移居記念日である。</p>
 <p>というのは、<mark>レミギウス</mark>が死んだあと、その遺体は、棺台にのせて聖<ruby>ティモテウス<rp>(</rp><rt>Timoteus</rt><rp>)</rp></ruby>と聖<ruby>アポリナリス<rp>(</rp><rt>Appolinarius</rt><rp>)</rp></ruby>の教会にはこばれたが、途中で聖<ruby>クリストポルス<rp>(</rp><rt>Christophorus</rt><rp>)</rp></ruby>教会のそばにさしかかると、急に重たくなって、それ以上すすまなくなった。
 人びとは、やむなく主にお祈りをして、もし聖人たちの遺骨がたくさん安置されているこの聖クリストポルス教会に<span style="color: #3d8b3d;">聖レミギウス</span>さまをも埋葬することをおのぞみでしたら、どうかをお知らせくださいとお願いした。
 すると、性遺体がたちまち軽くなって、らくらくともちあげることができた。
@@ -187,22 +190,24 @@
 朝になって目をさますと、棺は、<span style="color: #3d8b3d;">聖レミギウス</span>の遺体を入れたまま天使たちの手で地下納骨堂にはこばれていた。
 <time datetime="10-01">１０月１日</time>のことであった。
 この聖遺骨が銀の棺に納められ、さらに美しい地下納骨堂に移されたのは、そこから長い歳月がたった、日もおなじ<time datetime="10-01">１０月１日</time>のことであった。
-<span style="color: #3d8b3d;">聖レミギウス</span>が活躍したのは、主の紀元<time datetime="490">４９０年ごろ</time>であった。</p>
+<span style="color: #3d8b3d;">聖レミギウス</span>が活躍したのは、主の紀元<time datetime="0490">４９０年ごろ</time>であった。</p>
 
 <footer>
   <p><span style="color: #3d8b3d;">ヤコブス・デ・ウォラギネ、<cite><ruby>黄金伝説<rp>(</rp><rt>レゲンダ・アウレア</rt><rp>)</rp></ruby></cite>、第１４１章。</span></p>
 </footer>
+</section>
 
 <aside>
 
 <h3 class="green">注釈</h3>
 
-<h4 id="note_remigius" class="green note">レミギウス</h4>
+<section id="note_remigius">
+<h4 class="green note">レミギウス</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">レミギウス<rp>(</rp><rt lang="la">Remigius</rt><rp>)</rp></ruby>。
-フランスの聖人(フランス名はサン＝レミ、<time datetime="440">４４０年頃</time>～<time datetime="534">５３４年</time>)。
-２２歳にしてランスの司教となり、フランク人のキリスト教化に大きな功績をあげ、<time datetime="499">４９９年</time>フランク王クロヴィス一世に授洗した(注４)。
+フランスの聖人(フランス名はサン＝レミ、<time datetime="0440">４４０年頃</time>～<time datetime="0534">５３４年</time>)。
+２２歳にしてランスの司教となり、フランク人のキリスト教化に大きな功績をあげ、<time datetime="0499">４９９年</time>フランク王クロヴィス一世に授洗した(注４)。
 真書簡４通が現存（うち２通はクロヴィス宛）。
 修辞的に完璧と言われたその説教は紛失した。
 彼の聖遺骨は、<time datetime="1049">１０４９年</time>以来彼にささげられたランスのサン＝レミバジリカに移された。
@@ -213,11 +218,13 @@
 <footer>
   <p>注に戻る：<a href="#remigius" title="レミギウス">レミギウス ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_hincmar" class="green note">ヒンクマル</h4>
+<section id="note_hincmar">
+<h4 class="green note">ヒンクマル</h4>
 
 <div class="notices green">
-<p><ruby lang="ja">ヒンクマル<rp>(</rp><rt lang="la">Hincmar</rt><rp>)</rp></ruby>ともいう（<time datetime="806">８０６年</time>～<time datetime="882">８８２年</time>）。
+<p><ruby lang="ja">ヒンクマル<rp>(</rp><rt lang="la">Hincmar</rt><rp>)</rp></ruby>ともいう（<time datetime="0806">８０６年</time>～<time datetime="0882">８８２年</time>）。
 ランスの大司教。フランク王国最大の高位聖職者にして政治家。
 西フランクの委頭王シャルル一世（のちの神聖ローマ皇帝カール二世）の政治顧問。
 ローマ教皇に抗してカロリング朝フランク教会の自主性を擁護した。
@@ -226,8 +233,10 @@
 <footer>
   <p>注に戻る：<a href="#hincmar" title="ヒンクマル">ヒンクマル ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_pays-des-francs" class note="green">フランク族の国</h4>
+<section id="note_pays-des-francs">
+<h4 class="green note">フランク族の国</h4>
 
 <div class="notices green">
 <p>私達はウォラギネが使用する「<ruby lang="ja">フランシア<rp>(</rp><rt lang="la">Francia</rt><rp>)</rp></ruby>」という言葉をここで「フランク族の国」と訳すことに直す選択します。</p>
@@ -237,33 +246,40 @@
 <footer>
   <p>注に戻る：<a href="#pays-des-francs" title="フランク族の国">フランク族の国 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_vandales" class="green note">ヴァンダル族</h4>
+<section id="note_vandales">
+<h4 class="green note">ヴァンダル族</h4>
 
 <div class="notices green">
 <p>ゲルマン人部族のひとつ。
-<time datetime="400">５世紀前半</time>ガリア、スペインを侵略し、長駆北アフリカにヴァンダル王国を建設した（<time datetime="534">５３４年</time>滅亡）。</p>
+<time datetime="0400">五世紀前半</time>ガリア、スペインを侵略し、長駆北アフリカにヴァンダル王国を建設した（<time datetime="0534">５３４年</time>滅亡）。</p>
 </div>
 <footer>
   <p>注に戻る：<a href="#vandales" title="ヴァンダル族">ヴァンダル族 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_clovis" class="green note">クロヴイス</h4>
+<section id="note_clovis">
+<h4 class="green note">クロヴイス</h4>
 
 <div class="notices green">
 <p>ドイツ語では<ruby lang="ja">クロートヴィヒ<rp>(</rp><rt lang="de">Chlodowech</rt><rp>)</rp></ruby>または<ruby lang="ja">クローデヴェヒ<rp>(</rp><rt lang="de">Chlodwig</rt><rp>)</rp></ruby>。
-フランク王国の建設者であると同時にその後のフランスの基礎をきずいた人（<time datetime="465">４６５年頃</time>～<time datetime="511">５１１年</time>）。
-ライン川下流にいたころのフランク人（ゲルマン人部族のひとつ）の諸小王国のひとつトゥルネー王国（いまのベルギー西部）の王であった彼が<time datetime="486">４８６年</time>ローマ軍を破ったときに、事実上フランク王国が成立した。
-<time datetime="499">４９９年</time>降誕祭に聖レミギウスから洗礼を受け、ガリア最初のカトリック国王となる。
-この事件は、その後多くの伝説によって粉飾されただけでなく、これにちなんで中世<time datetime="800">９世紀</time>と<time datetime="1100">１２世紀の間</time>をつうじてフランス国王の成聖式は、ランスカテドラルでおこなわれることになった。
-<time datetime="1429">１４２９年</time>のジャンヌ・ダルクによるシャルル７世の成聖は、その最も有名なもの。このノートルダム（聖母）カテドラルは、現存のものは<time datetime="1200">１３世紀</time>の建造で、フランス・イル＝ド＝フランス建築のかがやかしい精華としてつとに著名である。
+フランク王国の建設者であると同時にその後のフランスの基礎をきずいた人（<time datetime="0465">４６５年頃</time>～<time datetime="0511">５１１年</time>）。
+ライン川下流にいたころのフランク人（ゲルマン人部族のひとつ）の諸小王国のひとつトゥルネー王国（いまのベルギー西部）の王であった彼が<time datetime="0486">４８６年</time>ローマ軍を破ったときに、事実上フランク王国が成立した。
+<time datetime="0499">４９９年</time>降誕祭に聖レミギウスから洗礼を受け、ガリア最初のカトリック国王となる。
+この事件は、その後多くの伝説によって粉飾されただけでなく、これにちなんで中世<time datetime="0800">九世紀</time>と<time datetime="1100">十二世紀の間</time>をつうじてフランス国王の成聖式は、ランスカテドラルでおこなわれることになった。
+<time datetime="1429">１４２９年</time>のジャンヌ・ダルクによるシャルル７世の成聖は、その最も有名なもの。このノートルダム（聖母）カテドラルは、現存のものは<time datetime="1200">十三世紀</time>の建造で、フランス・イル＝ド＝フランス建築のかがやかしい精華としてつとに著名である。
 なお、彼の王妃は、クローデギルデまたはクロティルデという名前で、ブルグント王女、聖女（祝<time datetime="06-04">６月４日</time>）。</p>
 </div>
 <footer>
   <p>注に戻る：<a href="#clovis" title="クロヴイス">クロヴイス ↩</a></p>
+  <p>注に戻る：<a href="#clovis-2" title="クロヴイス">クロヴイス、二 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_alamans" class="green note">アラマン族</h4>
+<section id="note_alamans">
+<h4 class="green note">アラマン族</h4>
 
 <div class="notices green">
 <p>西南ドイツにいたゲルマン人の一部族。</p>
@@ -271,8 +287,10 @@
 <footer>
   <p>注に戻る：<a href="#alamans" title="アラマン族">アラマン族 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_chreme" class="green note">聖油</h4>
+<section id="note_chreme">
+<h4 class="green note">聖油</h4>
 
 <div class="notices green">
 <p>〈キリスト〉という名は、ヘブライ語の〈メシア〉すなわち〈聖油を注がれた者〉という語のギリシャ語訳〈キリスト〉に由来する。旧約時代において預言者、司祭、王たちは、聖油（オリーヴの他の香油を注いで）聖別されるならわしであったが、キリストは、預言者、大司祭、王として神から油を注がれ、人類救済のために降臨された〈救い主〉であるからメシアとよばれ、またキリストとよばれる。そこから聖別儀式が由来する。</p>
@@ -280,8 +298,10 @@
 <footer>
   <p>注に戻る：<a href="#chreme" title="聖油">聖油 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_laon" class="green note">ラン市</h4>
+<section id="note_laon">
+<h4 class="green note">ラン市</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">ラン<rp>(</rp><rt lang="fr">Laon</rt><rp>)</rp></ruby>。パリの東北にあるエーヌ県の首都。</p>
@@ -289,8 +309,10 @@
 <footer>
   <p>注に戻る：<a href="#laon" title="ラン市">ラン市 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_clovis" class="green note">フランク族の王</h4>
+<section id="note_clovis-2">
+<h4 class="green note">フランク族の王</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">クロヴィス<rp>(</rp><rt lang="la">Clovis</rt><rp>)</rp></ruby>一世。</p>
@@ -298,8 +320,10 @@
 <footer>
   <p class="puce">注に戻る：<a href="#clovis" title="フランク族の王">フランク族の王 ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_clothilde" class="green note">クロティルデ</h4>
+<section id="note_clothilde">
+<h4 class="green note">クロティルデ</h4>
 
 <div class="notices green">
 <p><ruby lang="ja">クロヴィス<rp>(</rp><rt lang="la">Clovis</rt><rp>)</rp></ruby>一世。</p>
@@ -307,17 +331,20 @@
 <footer>
   <p class="puce">注に戻る：<a href="#clothilde" title="クロティルデ">クロティルデ ↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_charlemagne" class="green note">カール大帝</h4>
+<section id="note_charlemagne">
+<h4 class="green note">カール大帝</h4>
 
 <div class="notices green">
-<p>フランク王にして<time datetime="800">８００年</time>以後、西ローマ皇帝、キリスト教的ヨーロッパ世界の開始者、フランスではシャルルマーニュとよばれる(<time datetime="742">７４２年</time>～<time datetime="814">８１４年</time>)。</p>
+<p>フランク王にして<time datetime="0800">８００年</time>以後、西ローマ皇帝、キリスト教的ヨーロッパ世界の開始者、フランスではシャルルマーニュとよばれる(<time datetime="0742">７４２年</time>～<time datetime="0814">８１４年</time>)。</p>
 <p>オランダおよびベルギーとの国境にあるドイツの古都アーへンを愛し、壮大な宮殿を造営し、〈カロリング・ルネサンス〉を現出し、ここで没した。</p>
 <p>また、聖遺物の熱心な収集家で、それらを安置したアーへン大聖堂は、中世期をつうじて巡礼者の列がたえなかった。</p>
 </div>
 <footer>
-  <p class="puce">注に戻る：<a href="#charlemagne" title="フランク族の王">フランク族の王 ↩</a></p>
+  <p class="puce">注に戻る：<a href="#charlemagne" title="カール大帝">カール大帝 ↩</a></p>
 </footer>
+</section>
 
 </aside>
 
