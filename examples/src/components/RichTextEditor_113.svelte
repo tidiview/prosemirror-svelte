@@ -18,7 +18,6 @@
 <p>比較しやすいように、本文と上・下対照的に並べて、註釈を加え新しく翻訳に当たっての自分の選択を説明しています。</p>
 </div>
 
-<section>
 <h2 class="green"><cite>ラ・マルセイエーズ</cite>、新訳</h2>
 
 <div id="display-text-rousi">
@@ -82,18 +81,15 @@
 
 </footer>
 
-</section>
-
 <aside>
 
-<h4 id="note_3" class="green note">第一変更・僭主政治</h4>
+<section id="note_3">
+<h4 class="green note">第一変更・僭主政治</h4>
 
 <div>
-
 <p data-id="3" class="single-li"><span style="color: #3d8b3d;">Contre</span> nous de la <span style="color: #3d8b3d;">tyrannie</span>、<wbr><span style="color: grey;">フランス語本文</span></p>
 <p class="no-puce">我らに向かって暴君の　<wbr><span style="color: grey;">ウィキペディア訳</span></p>
 <p class="no-puce">我らに<span style="color: #3d8b3d;">対す<ruby>僭<rp>(</rp><rt>せん</rt><rp>)</rp>主<rp>(</rp><rt>しゅ</rt><rp>)</rp></ruby>政治</span>、<wbr>　<wbr><span style="color: grey;">フランソワ・ヴィディ訳</span></p>
-
 </div>
 
 <p><span style="color: #3d8b3d;">Contre</span> nous の「contre」は「向かう」にならず「contre」が「対立」の意を示すことから「<a href="#contre" title="対す" id="note_contre">対す</a>」に。</p>
@@ -103,16 +99,15 @@
 <footer>
   <p class="puce"><a href="#contre" title="対す">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
 <section id="note_6">
 <h4 class="green note">第二変更・我らの田舎で</h4>
 
 <div>
-
 <p data-id="6" class="single-li">Entendez-vous <span style="color: #3d8b3d;">dans les campagnes</span>　<wbr><span style="color: grey;">フランス語本文</span></p>
 <p class="no-puce">聞こえるか戦場の　<wbr><span style="color: grey;">ウィキペディア訳</span></p>
 <p class="no-puce">聞こえるか、<wbr><span style="color: #3d8b3d;">我らの田舎で</span>　<wbr><span style="color: grey;">フランソワ・ヴィディ訳</span></p>
-
 </div>
 
 <p><span style="color: #3d8b3d;">dans les campagnes</span> の「campagnes」、「戦場」にならず、「田舎」の意を示すことから、「田舎」に。</p>
@@ -128,11 +123,9 @@
 <h4 class="green note">第三変更・むごたらしい・咆哮するのを</h4>
 
 <div>
-
 <p data-id="7" class="single-li"><span style="color: #3d8b3d;">Mugir</span> ces <span style="color: #3d8b3d;">féroces</span> soldats ?　<wbr><span style="color: grey;">フランス語本文</span></p>
 <p class="no-puce">残忍な敵兵の咆哮を?　<wbr><span style="color: grey;">ウィキペディア訳</span></p>
 <p class="no-puce">このむ<span style="color: #3d8b3d;">ごたらしい</span>兵どもが<ruby>咆<rp>(</rp><rt>ほう</rt><rp>)</rp>哮<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><span style="color: #3d8b3d;">するのを？</span>　<wbr><span style="color: grey;">フランソワ・ヴィディ訳</span></p>
-
 </div>
 
 <p><span style="color: #3d8b3d;">Mugir</span> は動詞であるので、ここでは、聞こえているのはただの「<ruby>咆<rp>(</rp><rt>ほう</rt><rp>)</rp>哮<rp>(</rp><rt>こう</rt><rp>)</rp></ruby>」ではなく、大勢の兵士たちがやって来ている動きでもありますので「咆哮を聞こえる」では、少し物足りない感じがするので、より動的な感じを出して「咆哮<a href="#mugir" title="するのを？" id="note_mugir">するのを？</a>」にしました。</p>
@@ -167,11 +160,9 @@
 <h4 class="green note">第五変更・掻き切りに</h4>
 
 <div>
-
 <p data-id="9" class="single-li"><span style="color: #3d8b3d;">Égorger</span> nos fils<span style="color: #3d8b3d;">, </span>nos compagnes !　<wbr><span style="color: grey;">フランス語本文</span></p>
 <p class="no-puce">我らの子と妻の喉を搔き切る！　<wbr><span style="color: grey;">ウィキペディア訳</span></p>
 <p class="no-puce">我らの子、妻の喉を<ruby>掻<rp>(</rp><rt>か</rt><rp>)</rp></ruby>き切りに！　<wbr><span style="color: grey;">フランソワ・ヴィディ訳</span></p>
-
 </div>
 
 <p><span style="color: #3d8b3d;">Égorger</span> は前の文節（8）の「viennent」と関係していますので、このままだと「兵士たちは来て」から、その後、「搔き切る」のままでは合いませんので「<a href="#egorger" title="掻き切りに" id="note_egorger">掻き切りに</a>」にしました。</p>
@@ -185,11 +176,9 @@
 <h4 class="green note">第六変更・隊伍</h4>
 
 <div>
-
 <p data-id="11" class="single-li">Formez <span style="color: #3d8b3d;">vos bataillons</span>、<wbr><span style="color: grey;">フランス語本文</span></p>
 <p class="no-puce">隊列を組め　<wbr><span style="color: grey;">ウィキペディア訳</span></p>
 <p class="no-puce"><span style="color: #3d8b3d;"><ruby>隊伍<rp>(</rp><rt>たいご</rt><rp>)</rp></ruby></span>を組め　<wbr><span style="color: grey;">フランソワ・ヴィディ訳</span></p>
-
 </div>
 
 <p><span style="color: #3d8b3d;">bataillons</span> は古代ローマの語彙であって、ただ「隊列」を組むではなりませんので「<a href="#bataillons" title="隊伍" id="note_bataillons"><ruby>隊伍<rp>(</rp><rt>たいご</rt><rp>)</rp></ruby></a>」にしました。</p>
@@ -204,11 +193,9 @@
 <h4 class="green note">第七変更・歩こう！</h4>
 
 <div>
-
 <p data-id="12" class="single-li"><span style="color: #3d8b3d;">Marchons, marchons !</span>　<wbr><span style="color: grey;">フランス語本文</span></p>
 <p class="no-puce">進もう、進もう！　<wbr><span style="color: grey;">ウィキペディア訳</span></p>
 <p class="no-puce"><span style="color: #3d8b3d;">歩こう、歩こう！</span>　<wbr><span style="color: grey;">フランソワ・ヴィディ訳</span></p>
-
 </div>
 
 <p><span style="color: #3d8b3d;">Marchons</span> は marcher との動詞であって「歩く」との意ですので、ここでは「進む」にまで訳す訳はないと見て「<a href="#marchons" title="歩こう、歩こう！" id="note_marchons">歩こう</a>」にしました。ここでは、特にウィキペディアの訳を評価出来なくなってしまうところとなります。</p>
@@ -222,11 +209,9 @@
 <h4 class="green note">第八変更・不純な</h4>
 
 <div>
-
 <p data-id="13" class="single-li">Qu'un sang <span style="color: #3d8b3d;">impur</span>　<wbr><span style="color: grey;">フランス語本文</span></p>
 <p class="no-puce">汚れた血が　<wbr><span style="color: grey;">ウィキペディア訳</span></p>
 <p class="no-puce"><span style="color: #3d8b3d;">不純な</span>血が　<wbr><span style="color: grey;">フランソワ・ヴィディ訳</span></p>
-
 </div>
 
 <p><span style="color: #3d8b3d;">impur</span> は「Im」という接頭語で「不」と「pur」という語幹で「純」で「不純」の意が示されています。ここでは、何に対して不純なのかということになると、その上に置いてある「<ruby>僭<rp>(</rp><rt>せん</rt><rp>)</rp>主<rp>(</rp><rt>しゅ</rt><rp>)</rp></ruby>政治」に対してだとなります。「汚れた」としますと敵対関係が強調されますが、敵だから不純ではなく、政治形態が不自然だから敵対関係になっているとの意に「<a href="#impur" title="不純な" id="note_impur">不純な</a>」にしました。</p>
@@ -240,11 +225,9 @@
 <h4 class="green note">第九変更・潤すように！</h4>
 
 <div>
-
 <p data-id="14" class="single-li"><span style="color: #3d8b3d;">Abreuve</span> nos sillons !　<wbr><span style="color: grey;">フランス語本文</span></p>
 <p class="no-puce">我らの畑の畝を満たすまで！　<wbr><span style="color: grey;">ウィキペディア訳</span></p>
 <p class="no-puce">我らの<ruby>畝<rp>(</rp><rt>うね</rt><rp>)</rp></ruby>を<span style="color: #3d8b3d;">潤すように！</span>、　<wbr><span style="color: grey;">フランソワ・ヴィディ訳</span></p>
-
 </div>
 
 <p><span style="color: #3d8b3d;">Abreuve</span> は「満たす」にならず「潤す」の意を示すことから「潤す」に。</p>
@@ -258,11 +241,9 @@ sillons」には「畑の」が無いため「我らの<ruby>畝<rp>(</rp><rt>�
 </footer>
 </section>
 
-<section>
 <h4 class="green note">ウィキペディア翻訳</h4>
 
 <div>
-
 <ol class="doc">
   <li value="1">行こう、祖国の子らよ、</li>
   <li value="2">栄光の日が来た、</li>
@@ -282,7 +263,6 @@ sillons」には「畑の」が無いため「我らの<ruby>畝<rp>(</rp><rt>�
   <li value="14"><a href="#note_14" title="我らの畑の畝を満たすまで！"><span style="color: #3d8b3d;">我らの畑の畝を満たすまで！</span></a></li>
 </ol>
 </div>
-</section>
 
 </aside>
 
