@@ -18,7 +18,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-380.webp 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-480.webp 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/01.adonis/adonis_700x676.webp 700w" type="image/webp"></source><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.jpg" alt="ジャン・モニエ、《アドニスの死》" title="ジャン・モニエ、《アドニスの死》" class="class-diane-img" width="700" height="1050" loading="eager" decoding="async" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/01.adonis/adonis_700x676.webp 700w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.jpg" alt="ジャン・モニエ、《アドニスの死》" title="ジャン・モニエ、《アドニスの死》" class="class-diane-img" width="700" height="1050" loading="eager" decoding="async" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-280.jpg 280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-480.jpg 480w,
@@ -27,13 +27,14 @@
 </figure>
 
 <div class="notices yellow">
-<p><a href="https://ja.wikipedia.org/wiki/シュヴェルニー城" title="https://ja.wikipedia.org/wiki/シュヴェルニー城"><ruby lang="ja">シュヴェルニー<rp>(</rp><rt lang="fr">Cheverny</rt><rp>)</rp></ruby>城<</a>の二階にある暖炉で展示されている、<ruby lang="ja">ジャン<rp>(</rp><rt lang="fr">Jean</rt><rp>)</rp>・<rp>(</rp><rt lang="fr">&#160</rt><rp>)</rp>モニエ<rp>(</rp><rt lang="fr">Monier</rt><rp>)</rp></ruby>画家が描いた《<cite><ruby lang="ja">アドニスの死<rp>(</rp><rt lang="fr">la&#160;Mort&#160;d&#19;Adonis</rt><rp>)</rp></ruby></cite>》を表れる絵画がある。</p>
-<p>描かれている場面の元に、ローマ帝国時代に生きたラテン語で書いた作家の<a href="https://ja.wikipedia.org/wiki/オウィディウス" title="https://ja.wikipedia.org/wiki/オウィディウス"><ruby lang="ja">オウィディウス<rp>(</rp><rt lang="la">Ovidius</rt><rp>)</rp></ruby></a>による、一番有名な作品である『<a href="https://ja.wikipedia.org/wiki/変身物語" title="https://ja.wikipedia.org/wiki/変身物語"><ruby lang="ja"><cite>変身物語</cite><rp>(</rp><rt lang="la">Metamorphōseōn&#160librī</rt><rp>)</rp></ruby></a>』の第１０巻の一部として知られている文書である。</p>
+<p><a href="https://ja.wikipedia.org/wiki/シュヴェルニー城" title="https://ja.wikipedia.org/wiki/シュヴェルニー城"><ruby lang="ja">シュヴェルニー<rp>(</rp><rt lang="fr">Cheverny</rt><rp>)</rp></ruby>城</a>の二階にある暖炉で展示されている、<ruby lang="ja">ジャン<rp>(</rp><rt lang="fr">Jean</rt><rp>)</rp>・<rp>(</rp><rt lang="fr">&nbsp;</rt><rp>)</rp>モニエ<rp>(</rp><rt lang="fr">Monier</rt><rp>)</rp></ruby>画家が描いた《<cite><ruby lang="ja">アドニスの死<rp>(</rp><rt lang="fr">la&nbsp;Mort&nbsp;d&apos;Adonis</rt><rp>)</rp></ruby></cite>》を表れる絵画がある。</p>
+<p>描かれている場面の元に、ローマ帝国時代に生きたラテン語で書いた作家の<a href="https://ja.wikipedia.org/wiki/オウィディウス" title="https://ja.wikipedia.org/wiki/オウィディウス"><ruby lang="ja">オウィディウス<rp>(</rp><rt lang="la">Ovidius</rt><rp>)</rp></ruby></a>による、一番有名な作品である「<a href="https://ja.wikipedia.org/wiki/変身物語" title="https://ja.wikipedia.org/wiki/変身物語"><ruby lang="ja"><cite>変身物語</cite><rp>(</rp><rt lang="la">Metamorphōseōn&nbsp;librī</rt><rp>)</rp></ruby></a>」の第１０巻の一部として知られている文書である。</p>
 <p><a href="https://ja.wikipedia.org/wiki/アドニス" title="https://ja.wikipedia.org/wiki/アドニス"><ruby lang="ja">ウェヌス<rp>(</rp><rt lang="la">Venus</rt><rp>)</rp></ruby></a>の愛にさらされた<a href="https://ja.wikipedia.org/wiki/ウェヌス" title="https://ja.wikipedia.org/wiki/ウェヌス"><ruby lang="ja">アドニス<rp>(</rp><rt lang="la">Adonis</rt><rp>)</rp></ruby></a>の悲劇的な死が語られている。</p>
 <p>ご参照ください！</p>
 </div>
 
-<h2 id="adonis" class="yellow"><cite>変身物語</cite>においての<cite>アドニスの死</cite></h2>
+<section id="adonis">
+<h2 class="yellow"><cite>変身物語</cite>の文書においての<cite>アドニスの死</cite></h2>
 
 <ol class="doc">
   <li value="708">彼女は、このように忠告すると、白鳥たちに引かせた車で、</li>
@@ -102,6 +103,8 @@
 <footer>
   <p><span style="color: #df8a13;">オウィディウス、<cite>変身物語</cite>、第１０巻末、７０８節から７３９節まで</span></p>
 </footer>
+
+</section>
 
 </article>
 `;
