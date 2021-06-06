@@ -7,6 +7,7 @@
   const html = `<!-- FR:149 EN:NONE -->
 
 <article>
+
 <header>
 <p><time datetime="2017-10-30">２０１７年１０月３０日</time></p>
 </header>
@@ -23,9 +24,10 @@
 <h2 class="green"><a href="https://ja.wikipedia.org/wiki/老子" title="https://ja.wikipedia.org/wiki/老子"><ruby>老<rp>（</rp><rt>ろう</rt><rp>）</rp>子<rp>（</rp><rt>し</rt><rp>）</rp></ruby></a>、<cite>道徳経</cite>、第三十三章の文書</h2>
 
 <div id="display-text-rousi">
-<div id="display-sub-text-rousi">
+<section id="display-sub-text-rousi">
+<div>
 
-<h6>原稿文</h6>
+<h6 class="green">原稿文</h6>
 
 <ol class="doc">
   <li value="1">知人者智、</li>
@@ -38,9 +40,11 @@
 </ol>
 
 </div>
+</section>
 
-<div id="translation-text-rousi">
-<h6 class="left">翻訳</h6>
+<section id="translation-text-rousi">
+<div>
+<h6 class="green">翻訳</h6>
 
 <ol class="doc">
   <li value="1">人を知る者は<ruby>知<rp>（</rp><rt>ち</rt><rp>）</rp></ruby>なり、</li>
@@ -53,10 +57,11 @@
 </ol>
 
 </div>
+</section>
 </div>
 
 <footer>
-<p>「 <cite><ruby>老<rp>（</rp><rt>ろう</rt><rp>）</rp>子<rp>（</rp><rt>し</rt><rp>）</rp></ruby> 、―<ruby>小<rp>（</rp><rt>お</rt><rp>）</rp>川<rp>（</rp><rt>がわ</rt><rp>）</rp>環<rp>（</rp><rt>たま</rt><rp>）</rp>樹<rp>（</rp><rt>き</rt><rp>）</rp></ruby>訳注―</cite>」、中公文庫４８５、<time datttime="1997-03-18">１９９７年３月１８日</time>改版発行、８４項。</p>
+<p>「 <cite><ruby>老<rp>（</rp><rt>ろう</rt><rp>）</rp>子<rp>（</rp><rt>し</rt><rp>）</rp></ruby> 、―<ruby>小<rp>（</rp><rt>お</rt><rp>）</rp>川<rp>（</rp><rt>がわ</rt><rp>）</rp>環<rp>（</rp><rt>たま</rt><rp>）</rp>樹<rp>（</rp><rt>き</rt><rp>）</rp></ruby>訳注―</cite>」、中公文庫４８５、<time datetime="1997-03-18">１９９７年３月１８日</time>改版発行、８４項。</p>
 </footer>
 
 <aside>
