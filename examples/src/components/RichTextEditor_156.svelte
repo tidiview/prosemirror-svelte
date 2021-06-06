@@ -8,7 +8,7 @@
 
 <article>
 
-<h1 class="green">La Joconde selon Giorgio Vasari</h1>
+<h1 class="green"><cite>La Joconde</cite> selon Giorgio Vasari</h1>
 
 <figure>
   <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -36,15 +36,14 @@
 <p>Elles sont à ce jour à la fois les plus connues, les plus anciennes et les plus dignes de foi.</p>
 <p>À ce titre, elles ont influencé la plupart des descriptions ultérieures.</p>
 <p>Vasari décrit une œuvre qu'il n'a pas lui-même vue car le tableau se trouve alors à Fontainebleau où il ne se rendit jamais.</p>
-<p>Les descriptions nous renseignent sur la réputation du portrait: il a été exécutée à Florence vers <time datetime="1503">1503</time>, <a href="https://fr.wikipedia.org/wiki/Léonard_de_Vinci" title="https://fr.wikipedia.org/wiki/Léonard_de_Vinci">Léonard de Vinci</a> y a travaillé pendant <time datetime="P4Y">quatre ans</time>, il représente l'épouse de Francesco Del Giocondo, désignée comme «M[ad]on[n]a Lisa», “Madame Lise”.</p>
-<p>Elles nous permettent surtout de saisir ce qui en constituait la valeur aux yeux de Vasari, en même temps que de mesurer les subtiles différences d'appréciation entre deux éditions que <time datetime="P18Y">18 années</time> séparent.</p>
+<p>Les descriptions nous renseignent sur la réputation du portrait: il a été exécutée à Florence vers <time datetime="1503">1503</time>, <a href="https://fr.wikipedia.org/wiki/Léonard_de_Vinci" title="https://fr.wikipedia.org/wiki/Léonard_de_Vinci">Léonard de Vinci</a> y a travaillé pendant <time datetime="P1457D">quatre ans</time>, il représente l'épouse de Francesco Del Giocondo, désignée comme «M[ad]on[n]a Lisa», “Madame Lise”.</p>
+<p>Elles nous permettent surtout de saisir ce qui en constituait la valeur aux yeux de Vasari, en même temps que de mesurer les subtiles différences d'appréciation entre deux éditions que <time datetime="P6556D">18 années</time> séparent.</p>
 </div>
 
-<article>
-
+<section id="vasari-1550">
 <h2 class="yellow"><cite>La Joconde</cite> selon le texte du livre <abbr title="deux">II</abbr> de l'édition de <time datetime="1550">1550</time> des <cite>Vies des peintres, sculpteurs et architectes les plus célèbres</cite></h2>
 
-<p>Léonard De Vinci entreprit pour Francesco del Giocondo le portrait de Mona Lisa, son épouse. Et après y avoir peiné <time datetime="P4Y">quatre ans</time>, le laissa inachevé. Cet ouvrage est aujourd’hui chez le roi François de France à Fontainebleau.</p>
+<p>Léonard De Vinci entreprit pour Francesco del Giocondo le portrait de Mona Lisa, son épouse. Et après y avoir peiné <time datetime="P1457D">quatre ans</time>, le laissa inachevé. Cet ouvrage est aujourd’hui chez le roi François de France à Fontainebleau.</p>
 <p>En cette tête, qui voulait voir <span style="color: #3d8b3d;">combien l’art sait aisément imiter la nature, le pouvait aisément comprendre, car s’y trouvait contrefait tous les plus petits détails que l’on pouvait peindre avec finesse.</span>.</p>
 <p>Car les yeux avaient ce lustre, cette eau que l’on voit toujours chez les vivants.
 Et autour d’eux, étaient tous ces roses bleutés, les cils, qui ne se peuvent faire sans la plus grande finesse.</p>
@@ -59,13 +58,12 @@ Et autour d’eux, étaient tous ces roses bleutés, les cils, qui ne se peuvent
   <p><a href="https://fr.wikipedia.org/wiki/Giorgio_Vasari" title="https://fr.wikipedia.org/wiki/Giorgio_Vasari" class="green">Giorgio Vasari</a><span style="color: #3d8b3d;">, Édition de <time datetime="1550">1550</time> <cite>Vies des peintres, sculpteurs et architectes les plus célèbres</cite>, livre <abbr title="deux">II</abbr>, partie 3, pages <a href="https://gallica.bnf.fr/ark:/12148/bpt6k1232563/f18.item" title="https://gallica.bnf.fr/ark:/12148/bpt6k1232563/f18.item">570 à 571</a>, édition de <time datetime="1550">1550</time> dite la «Torrentiniana».</span></p>
 </footer>
 
-</article>
+</section>
 
-<article>
-
+<section id="vasari-1568">
 <h2 id="vasari" class="yellow"><cite>La Joconde</cite> selon le texte du livre <abbr title="quatre">IV</abbr> de l'édition de <time datetime="1568">1568</time> des <cite>Vies des peintres, sculpteurs et architectes les plus célèbres</cite></h2>
 
-<p>Ensuite il commença pour François del Giocondo le portrait de Mona Lisa sa femme, auquel il travailla pendant <time datetime="P4Y">quatre ans</time>, le laissant imparfait.</p>
+<p>Ensuite il commença pour François del Giocondo le portrait de Mona Lisa sa femme, auquel il travailla pendant <time datetime="P1457D">quatre ans</time>, le laissant imparfait.</p>
 <p>Ce tableau appartient aujourd hui à François <abbr title="premier">I<sup>er</sup></abbr> et est placé à Fontainebleau.</p>
 <p>Celui qui désiroit se convaincre <span style="color: #3d8b3d;">jusqu'à quel point l'art peut imiter la nature, le pouvoit d'autant plus, que les moindres choses sont rendues dans cette tête avec la plus grande finesse</span>.</p>
 <p>Les yeux avoient ce brillant, cette humidité qui existent sans cesse dans la nature,
@@ -79,14 +77,10 @@ et l'on peut dire avec vérité que ce portrait étoit peint de manière à fair
 <p><span style="color: #3d8b3d;">Le sourire de celui-ci séduisoit au point qu’on l’eût jugé être de la main d’un dieu on étoit enfin frappé d’étonnement l’art ayant su lui donner la vie et rivaliser avec la nature</span>.</p>
 
 <footer>
-  <p><a href="https://fr.wikipedia.org/wiki/Giorgio_Vasari" title="https://fr.wikipedia.org/wiki/Giorgio_Vasari" class="green">Giorgio Vasari</a><span style="color: #3d8b3d;">, <cite>Vies des peintres, sculpteurs et architectes les plus célèbres</cite>, livre IV, Chez Boiste, <time datetime="1803">1803</time>, pages 27 à 28, édition de <time datetime="1568">1568</time> dite la «giuntina».</span></p>
+  <p><a href="https://fr.wikipedia.org/wiki/Giorgio_Vasari" title="https://fr.wikipedia.org/wiki/Giorgio_Vasari" class="green">Giorgio Vasari</a><span style="color: #3d8b3d;">, <cite>Vies des peintres, sculpteurs et architectes les plus célèbres</cite>, livre <abbr title="quatre">IV</abbr>, Chez Boiste, <time datetime="1803">1803</time>, pages 27 à 28, édition de <time datetime="1568">1568</time> dite la «giuntina».</span></p>
 </footer>
 
-</article>
-
-<aside>
-  <p></p>
-</aside>
+</section>
 
 </article>
 `;
