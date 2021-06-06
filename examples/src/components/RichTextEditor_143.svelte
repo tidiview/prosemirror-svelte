@@ -40,7 +40,7 @@
 
         <div class="notices yellow">
           <p>この三連画は、<time datetime="1473">１４７３</time>~<time datetime="1474">７４</time>年にかけて建てられた<ruby lang="ja">ブルージュ<rp>（</rp><rt lang="fr">Bruges</rt><rp>）</rp></ruby>（フラマン語では、<ruby lang="ja">ブルッヘ<rp>（</rp><rt lang="nl">Brugge</rt><rp>）</rp></ruby>）の<ruby lang="ja">聖ヨハネ施療院<rp>（</rp><rt lang="nl">Sint-Janshospitaal</rt><rp>）</rp></ruby>の教会の新後陣の主祭壇のために考案され、設置された。</p>
-          <p>枠は《<ruby lang="ja">ハンス・メムリンク作<rp>（</rp><rt lang="la">OPVs&#160;IOHANNIS&#160;MEMLING</rt><rp>）</rp></ruby>》との記載文を示しています。それはブルージュに十五世紀の後半に活躍した初期フランドル画家である、<ruby lang="ja">ハンス<rp>（</rp><rt lang="nl">Hans</rt><rp>）</rp>・<rp>（</rp><rt lang="nl"></rt><rp>）</rp>メムリンク<rp>（</rp><rt lang="nl">MEMLING</rt><rp>）</rp></ruby>の最初の知られている署名である。また、日付も表示されている：《<time datetime="1479">１４７９</time>年》。</p>
+          <p>枠は《<ruby lang="ja">ハンス・メムリンク作<rp>（</rp><rt lang="la">OPVs&nbsp;IOHANNIS&nbsp;MEMLING</rt><rp>）</rp></ruby>》との記載文を示しています。それはブルージュに十五世紀の後半に活躍した初期フランドル画家である、<ruby lang="ja">ハンス<rp>（</rp><rt lang="nl">Hans</rt><rp>）</rp>・<rp>（</rp><rt lang="nl"></rt><rp>）</rp>メムリンク<rp>（</rp><rt lang="nl">MEMLING</rt><rp>）</rp></ruby>の最初の知られている署名である。また、日付も表示されている：《<time datetime="1479">１４７９</time>年》。</p>
           <p>作品が中央パネルと、それに金具によって付けられている右と左にあるニ翼パネルがそれを取り囲んでいます。</p>
           <p>表わされている人物が等身大よりやや小さ目に表わされています。</p>
         </div>
@@ -87,8 +87,8 @@
 
   
 
-
-    <h2 id="presentation-photographique" class="yellow">展示空間での作品の写真的紹介</h2>
+    <section id="presentation-photographique">
+    <h2 class="yellow">展示空間での作品の写真的紹介</h2>
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_1-280.webp 280w,
@@ -148,12 +148,13 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-1600.jpg 1600w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/01.saint-jean_1/saint-jean_3-1920.jpg 1920w"></picture><figcaption>聖ヨハネ施療院の教会の後陣から三連画前の景観</figcaption>
     </figure>
-
+    </section>
 
 
 
 <nav>
-  <h3 id="table-des-matieres" class="yellow">目次</h3>
+  <section id="table-des-matieres">
+  <h3 class="yellow">目次</h3>
   <ol>
     <li><a href="#presentation-photographique" title="展示空間での作品写真の紹介" class="yellow">展示空間での作品写真の紹介</a></li>
     <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:2#description" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:2#description" class="yellow">作品の描写</a>：
@@ -190,11 +191,13 @@
       </ul>
     </li>
   </ol>
+  </section>
 </nav>
 
 <!-- Page 2 -->
 
-  <h2 id="description" class="yellow">作品の描写</h2>
+  <section id="description">
+  <h2 class="yellow">作品の描写</h2>
 
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -218,8 +221,8 @@
 
       <p>私たちはまず<span style="color: #e6a64d;">作品が表わそうとしている事を</span>描写しましょう。そのため、<span style="color: #e6a64d;">視線</span>を追います。それは、<span style="color: #e6a64d;">主な場面</span>から始まります。</p>
 
-
-    <h3 id="couronnement" class="yellow">聖母の戴冠</h3>
+    <section id="couronnement">
+    <h3 class="yellow">聖母の戴冠</h3>
 
       <p><span style="color: #e6a64d;">中央の聖母</span>は、綺麗な模様のある上級繊維の前で、赤いベルベットのバルダキンの下に金箔の王座で座しています。</p>
 
@@ -266,10 +269,11 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/deux-anges-1600.jpg 1600w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/deux-anges-1920.jpg 1920w"></picture><figcaption>中央パネルの拡大、《聖母の冠を持つ二人の天使》</figcaption>
     </figure>
+    </section>
 
 
-
-    <h3 id="couronnement" class="yellow">幼子イエス</h3>
+    <section id="enfant-jesus">
+    <h3 class="yellow">幼子イエス</h3>
 
       <p>彼女の膝に<span style="color: #e6a64d;">幼子イエス</span>は、座ったままで、左手でリンゴを掴んでいて、右手では、聖母の左下前方に居る<span style="color: #e6a64d;">女の人</span>の<span style="color: #e6a64d;">薬指</span>に、金の指輪を、聖母の下と左で、はめようとしています。</p>
 
@@ -293,13 +297,14 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/enfant-jesus-1600.jpg 1600w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/enfant-jesus-1920.jpg 1920w"></picture><figcaption>中央パネルの拡大、《幼子イエス》</figcaption>
     </figure>
+    </section>
 
 
 <!-- Page 3 -->
 
 
-
-    <h3 id="catherine-d-alexandrie" class="yellow">アレクサンドリアのカタリナ</h3>
+    <section id="catherine-d-alexandrie">
+    <h3 class="yellow">アレクサンドリアのカタリナ</h3>
 
       <h4 class="yellow">中央パネルでのアレクサンドリアのカタリナ</h4>
 
@@ -336,7 +341,7 @@
 
       <p>メムリンクがこの文書に基づいて描いたことは非常に確実らしいです。</p>
       <p>現代の歴史家たちはアレクサンドリアのカタリナが確実に存在したか <a id="renvoi-note-2" href="#note-2"><sup>注２</sup></a> 疑っています。</p>
-      <p>カトリック教会もそれを認めている。その崇拝が<time datetime="1970">１９７０年</time>に一般ローマ暦 <a id="renvoi-note-3" href="#note-3"><sup>注３</sup></a> から取り除かれた。</p>
+      <p>カトリック教会もそれを認めている。その崇拝が<time datetime="1970">１９７０年</time>に<a id="renvoi-note-3-2" href="#note-3">一般ローマ暦から取り除かれた。</a></p>
 
 
 
@@ -355,11 +360,12 @@
       </blockquote>
 
       <p>中央パネルでの聖母と幼子イエスのそばでの聖カタリナの存在から、この三連画は時には<span style="color: #e6a64d;">《聖カタリナの神秘的結婚》</span>とも称されたことがあります。</p>
+    </section>
 
 
   
-
-    <h3 id="les-deux-jean" class="yellow">二人のヨハネ</h3>
+    <section id="les-deux-jean">
+    <h3 class="yellow">二人のヨハネ</h3>
       
       <h4 class="yellow">二人の双子：洗礼者ヨハネ、福音書記者ヨハネ</h4>
 
@@ -371,13 +377,13 @@
       <p>彼たちは<span style="color: #e6a64d;">双子</span>のように聖母の右と左の両方の奥の方に立っています。</p>
 
 
-
-      <h4 id="jean-le-baptiste-2" class="yellow">洗礼者ヨハネ</h4>
+      <section id="jean-le-baptiste-2">
+      <h4 class="yellow">洗礼者ヨハネ</h4>
 
       <p>奥の方では、左に、<span style="color: #e6a64d;">白い色の子羊</span>の存在が、素晴らしい<span style="color: #e6a64d;">紫色のチュニック</span>を着る<span style="color: #e6a64d;">男の人</span>を<a href="https://ja.wikipedia.org/wiki/洗礼者ヨハネ" title="https://ja.wikipedia.org/wiki/洗礼者ヨハネ" id="jean-le-baptiste" class="yellow">洗礼者ヨハネ</a>として見分けることを可能にしてくれています。</p>
       <p>羊は彼が弟子たちにかけた<span style="color: #e6a64d;">現世でのイエスの到来</span>を<span style="color: #e6a64d;">告げる</span>言葉<span style="color: #e6a64d;"></span>を思い出させてくれる<span style="color: #999;">（ヨハネ、第１章２９節）</span> <a id="renvoi-note-4" href="#note-4"><sup>注４</sup></a> ：</p>
 
-      <blockquote cite="https://www.bible.com/ja/bible/1819/JHN.1.新共同訳>
+      <blockquote cite="https://www.bible.com/ja/bible/1819/JHN.1.新共同訳">
         <span style="color:#e6a64d;">「<ruby style="color:#e6a64d;">見よ、神の子羊だ<rp>（</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">エッチェ・アニウス・デイ</rt><rp>）</rp></ruby>」</span>
       </blockquote>
 
@@ -404,7 +410,7 @@
       </figure>
 
       <p>ここでは、子羊が新しい、キリスト教の独特なシンボルです。</p>
-      <p>旧ヘブライ信仰では神を喜ばすには動物の<ruby>生<rp>（</rp><rt>い</rt><rp>）</rp>け<rp>（</rp><rt>&#160;</rt><rp>）</rp>贄<rp>（</rp><rt>にえ</rt><rp>）</rp></ruby>をささげなければならなかったこととは逆に、キリスト教は神に気の入る唯一の本当の生け贄が信者がイエスを模範にしてイザヤ預言者のこの言葉に基づきながら、<span style="color: #e6a64d;">自分から神に自分自身を生け贄</span>とささげるのであることを断言しています<span style="color: #999;">（イザヤ、５３・７）</span>：</p>
+      <p>旧ヘブライ信仰では神を喜ばすには動物の<ruby>生<rp>（</rp><rt>い</rt><rp>）</rp>け<rp>（</rp><rt>&nbsp;</rt><rp>）</rp>贄<rp>（</rp><rt>にえ</rt><rp>）</rp></ruby>をささげなければならなかったこととは逆に、キリスト教は神に気の入る唯一の本当の生け贄が信者がイエスを模範にしてイザヤ預言者のこの言葉に基づきながら、<span style="color: #e6a64d;">自分から神に自分自身を生け贄</span>とささげるのであることを断言しています<span style="color: #999;">（イザヤ、５３・７）</span>：</p>
       <blockquote cite="https://www.bible.com/ja/bible/1819/ISA.53.新共同訳">
         <p>「屠り場に引かれる小羊のように毛を刈る者の前に物を言わない羊のように彼は口を開かなかった。」</p>
       </blockquote>
@@ -412,10 +418,10 @@
       <p>この同じ毛皮衣がまた<a href="https://ja.wikipedia.org/wiki/ヤコブ_(旧約聖書)" title="https://ja.wikipedia.org/wiki/ヤコブ_(旧約聖書)" id="jacob" class="yellow">ヤコブ</a>が、<a href="https://ja.wikipedia.org/wiki/リベカ" title="https://ja.wikipedia.org/wiki/リベカ" id="rebecca" class="yellow">母リベカ</a>の指示で、とても毛深いの兄<a href="https://ja.wikipedia.org/wiki/エサウ" title="https://ja.wikipedia.org/wiki/エサウ" id="esau" class="yellow">エサウ</a>に、眼の見えない父である<a href="https://ja.wikipedia.org/wiki/イサク" title="https://ja.wikipedia.org/wiki/イサク" id="isaac" class="yellow">イサク</a>を毛皮の衣を着ながら思わせるようにした創世記の一つの話し<span style="color: #999;">（創世記、第２７章１～４０節）</span>にも基づきます。</p>
       <p>彼の術策が不正に祝福されるとそれでエサウ代わりに唯一の相続人となることを可能にします。</p>
       <p>このチュニックがまた動物を制御の<ruby>印<rp>（</rp><rt>しるし</rt><rp>）</rp></ruby>となっていて、洗礼者ヨハネの場合、ラクダが砂漠を横断することは、修行により動物を制御することで可能になるという意味になります。</p>
+      </section>
 
-
-
-      <h4 id="jean-l-evangeliste-3" class="yellow">福音書記者ヨハネ</h4>
+      <section id="jean-l-evangeliste-3">
+      <h4 class="yellow">福音書記者ヨハネ</h4>
 
         <p>他方、右では、<span style="color: #e6a64d;">もう一人</span>が立っていて、神父のように<span style="color: #e6a64d;">赤い色</span>の服を着ている<span style="color: #e6a64d;">男の人</span>が右手から十字架の描き、中に<span style="color: #e6a64d;">蛇</span>のいる<span style="color: #e6a64d;">杯</span>を上にしています。これは<a href="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" title="https://ja.wikipedia.org/wiki/ヨハネ_(使徒)" id="jean-l-evangeliste-4" class="yellow">福音書記者ヨハネ</a>である。</p>
 
@@ -450,11 +456,12 @@
         <blockquote cite="https://www.bible.com/ja/bible/1819/JHN.3.新共同訳">
           <span style="color: #e6a64d;">「モーセが荒れ野で蛇を上げたように、人の子も上げられねばならない。それは、信じる者が皆、人の子によって永遠の命を得るためである。」</span>
         </blockquote>
-
+      </section>
 
     
 
-      <h4 id="le-nom-de-jean" class="yellow">「ヨハネ」の名、その語源</h4>
+      <section id="le-nom-de-jean">
+      <h4 class="yellow">「ヨハネ」の名、その語源</h4>
 
         <h5 class="yellow">ヘブライ語での「ヨハネ」の名の語源</h5>
         <p>「ヨハネ」という名前の語源がヘブライ語の<span style="color: #e6a64d;">「</span><ruby lang="ja" style="color:#e6a64d;">ヨ<rp>（</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">יו</rt><rp>）</rp>ハ<rp>（</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ח</rt><rp>）</rp>ナン<rp>（</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">נן</rt><rp>）</rp></ruby><span style="color: #e6a64d;">」</span>から来ています。発音は：</p>
@@ -462,12 +469,13 @@
         <p>文字通りに<span style="color: #e6a64d;">「</span><ruby lang="ja" style="color:#e6a64d;">神<rp>（</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ヨ</rt><rp>）</rp></ruby><span style="color: #e6a64d;">」</span>が<span style="color: #e6a64d;">「</span><ruby lang="ja" style="color:#e6a64d;">恵<rp>（</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ハナン</rt><rp>）</rp></ruby><span style="color: #e6a64d;">」</span>か<span style="color: #e6a64d;">「</span><ruby lang="ja" style="color:#e6a64d;">慈悲<rp>（</rp><rt lang="he" style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;">ハナン</rt><rp>）</rp></ruby><span style="color: #e6a64d;">」</span>。</p>
         <p>同時にヘブライ語では、「神」は「存在しているもの」という意味をも持っているから、<span style="color: #e6a64d;">「恵」</span>か<span style="color: #e6a64d;">「慈悲」</span>が<span style="color: #e6a64d;">「宿るもの」</span>という意味になります。</p>
         <p><span style="color: #e6a64d;">この名前</span>がヘブライの民の歴史のあまり知られていない他の人物の名前として知られているとしても、とても<span style="color: #e6a64d;">人気</span>と<span style="color: #e6a64d;">なった</span>のはキリスト教が芽生えた後、<span style="color: #e6a64d;">キリスト教界</span>での二人が果したとても大切な役割からです。これらの役割をこれから細かく語ります。</p>
+    </section>
+    </section>
 
 
 
-
-
-    <h3 id="barbe" class="yellow">大殉教者バルバラ</h3>
+    <section id="barbe">
+    <h3 class="yellow">大殉教者バルバラ</h3>
 
       <h4 class="yellow">中央パネルの場面での大殉教者バルバラ</h4>
 
@@ -498,7 +506,7 @@
 
       <h4 class="yellow">大殉教者バルバラ、その歴史的存在</h4>
 
-      <p><a href="#catherine-d-alexandrie" class="yellow">アレクサンドリアのカタリナ</a>と同じように、現代の歴史家たちが実在したことを疑うと、彼女の名前もカトリック教会の一般ローマ暦 <a id="renvoi-note-3" href="#note-3"><sup>注３</sup></a> から取り除かれました。メムリンクが彼女を描くために基にした文書も元々<a href="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" title="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" id="legende-doree-2" class="yellow"><cite>黄金伝説</cite></a>に含まれていませんが、他の文書と同様に、後で追加されることなりました。</p>
+      <p><a href="#catherine-d-alexandrie" class="yellow">アレクサンドリアのカタリナ</a>と同じように、現代の歴史家たちが実在したことを疑うと、彼女の名前も<a id="renvoi-note-3" href="#note-3">カトリック教会の一般ローマ暦から取り除かれました</a>。メムリンクが彼女を描くために基にした文書も元々<a href="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" title="https://ja.wikipedia.org/wiki/レゲンダ・アウレア" id="legende-doree-2" class="yellow"><cite>黄金伝説</cite></a>に含まれていませんが、他の文書と同様に、後で追加されることなりました。</p>
       <ul>
         <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:17#prout" title="https://francois-vidit.com/docs/ja/saint-jean/page:7#barb-selon-legende" class="yellow"><cite>黄金伝説</cite>に追加された《大殉教者バルバラの伝説》の文書</a>を読む。</li>
       </ul>
@@ -537,6 +545,7 @@
       </figure>
 
       <p><span style="color: #e6a64d;">聖体</span>は聖人としての表像の一つでもある。パネルの他の部分との<span style="color: #e6a64d;">「聖なる会話」</span>という形を示している繋がりの一つでもある。</p>
+      </section>
 
 
 
@@ -544,7 +553,8 @@
 
 
 
-    <h3 id="conversation" class="yellow">聖母マリアと幼子イエスの周囲の聖なる会話</h3>
+    <section id="conversation">
+    <h3 class="yellow">聖母マリアと幼子イエスの周囲の聖なる会話</h3>
 
       <h4 class="yellow">中央パネルの場面での聖なる会話</h4>
 
@@ -599,6 +609,7 @@
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1600.jpg 1600w,
         https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/04.saint-jean_4/servants-vis-a-vis-1920.jpg 1920w"></picture><figcaption>中央パネルの拡大、ニ人の侍者たち</figcaption>
       </figure>
+      </section>
 
 
 
@@ -674,7 +685,8 @@
 
     
 
-      <h4 id="devotion-moderne" class="yellow">新しき信心、普遍的、単純な、純粋な、透明な改心</h4>
+      <section id="devotion-moderne">
+      <h4 class="yellow">新しき信心、普遍的、単純な、純粋な、透明な改心</h4>
 
 
         <p>フランドルで、メムリンクの時代では、あるキリスト教信仰修練書は、「<a href="https://ja.wikipedia.org/wiki/キリストに倣いて" title="https://ja.wikipedia.org/wiki/キリストに倣いて" id="imitation-de-jesus-christ" class="yellow"><cite><ruby>キリストに倣いて<rp>（</rp><rt>イミタティオ・クリスティ</rt><rp>）</rp></ruby></cite></a>」、大変なベストセラーであって、「新しき信心」が何であったかを表わすことを我々に今日可能にしてくれています。</p>
@@ -706,13 +718,15 @@
 
 
         <p>メムリンクが表わして場面では、聖なる会話自体が以上の文書の言葉によると<span style="color: #e6a64d;">単純な、純粋な、建築的装置と調和している<q style="quotes: '「' '」';color: #e6a64d;">聖なる教えの満ちた書物</q></span>として働いている。</p>
+      </section>
 
 
 
 
 
 
-    <h3 id="dispositif-architectural" class="yellow">建築的装置</h3>
+    <section id="dispositif-architectural">
+    <h3 class="yellow">建築的装置</h3>
 
       <h4 class="yellow">新しき信心、表わされている中心人物と観賞者との関係方法</h4>
 
@@ -730,7 +744,7 @@
       <h4 class="yellow">新しき信心、十五世紀でのブルジュの驚異の水晶化</h4>
 
         <p>ついに、<span style="color: #e6a64d;">霊的単純さと明白さ</span>が驚異的に絶え間なく<span style="color: #e6a64d;">物質的な精巧さと豪奢さ</span>を<span style="color: #e6a64d;">作り出している</span>。</p>
-        <p><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" id="renvoi-de-vos-2" class="yellow"><ruby lang="ja">ディルク<rp>（</rp><rt lang="nl">Dirk</rt><rp>）</rp>・<rp>（</rp><rt lang="nl">&#160;</rt><rp>）</rp>ド<rp>（</rp><rt lang="nl">DE</rt><rp>）</rp>・<rp>（</rp><rt lang="nl">&#160;</rt><rp>）</rp>ヴォス<rp>（</rp><rt lang="nl">VOS</rt><rp>）</rp></ruby></a>が言及すると：</p>
+        <p><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:1#de-vos" id="renvoi-de-vos-2" class="yellow"><ruby lang="ja">ディルク<rp>（</rp><rt lang="nl">Dirk</rt><rp>）</rp>・<rp>（</rp><rt lang="nl">&nbsp;</rt><rp>）</rp>ド<rp>（</rp><rt lang="nl">DE</rt><rp>）</rp>・<rp>（</rp><rt lang="nl">&nbsp;</rt><rp>）</rp>ヴォス<rp>（</rp><rt lang="nl">VOS</rt><rp>）</rp></ruby></a>が言及すると：</p>
 
         <blockquote>
           <span style="color: #e6a64d;">「黄金の<ruby style="color:#e6a64d;">錦<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;">にしき</rt><rp>）</rp></ruby>、絹とアーミンを着ている処女たち、金箔の冠と珍しい宝石各種の世界」</span>、そこに、<span style="color: #e6a64d;">「深い落ち着きの沁みった雰囲気</span>」で<span style="color: #e6a64d;">「幼子イエスが病人たちに合図をする。」</span>
@@ -743,7 +757,7 @@
 
       <h4 class="yellow">建築的装置に、ファン・エイクの影響</h4>
 
-        <p>メムリンクが自分を導かさせているのは異論の余地のなく彼が聖ドナティウス大聖堂に行って魅了されたことが知られている、<time datetime="1436">１４３６年</time>に描かれた<a href="https://ja.wikipedia.org/wiki/ヤン・ファン・エイク" title="https://ja.wikipedia.org/wiki/ヤン・ファン・エイク" id="jan-van-eyck" class="yellow">ヤン・ファン・エイク</a>筆の<a href="https://ja.wikipedia.org/wiki/ファン・デル・パーレの聖母子" title="https://ja.wikipedia.org/wiki/ファン・デル・パーレの聖母子" id="van-der-paele" class="yellow">「<ruby lang="ja">ファン・デル・パーレの聖母子<rp>（</rp><rt lang="nl">Madonna&#160;met&#160;kanunnik&#160;Joris&#160;van&#160;der&#160;Paele</rt><rp>）</rp></ruby>」</a>です。</p>
+        <p>メムリンクが自分を導かさせているのは異論の余地のなく彼が聖ドナティウス大聖堂に行って魅了されたことが知られている、<time datetime="1436">１４３６年</time>に描かれた<a href="https://ja.wikipedia.org/wiki/ヤン・ファン・エイク" title="https://ja.wikipedia.org/wiki/ヤン・ファン・エイク" id="jan-van-eyck" class="yellow">ヤン・ファン・エイク</a>筆の<a href="https://ja.wikipedia.org/wiki/ファン・デル・パーレの聖母子" title="https://ja.wikipedia.org/wiki/ファン・デル・パーレの聖母子" id="van-der-paele" class="yellow">「<ruby lang="ja">ファン・デル・パーレの聖母子<rp>（</rp><rt lang="nl">Madonna&nbsp;met&nbsp;kanunnik&nbsp;Joris&nbsp;van&nbsp;der&nbsp;Paele</rt><rp>）</rp></ruby>」</a>です。</p>
 
       <figure>
         <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -794,6 +808,7 @@
         <p>赤と茶色を混ぜた六本の円柱がタイル上の半円に配置され、その外側でニつ目の暗いグレー色の付け柱がニ重の半円形に並んでいる。
         その底面が地面に多角形を示す舗装の境界線で結ばれている。</p>
         <p>円柱の間の縦々の隙間は、<span style="color: #e6a64d;">視覚的に連続的な跡蹟と建物のある</span>、無限な、地平線ともなっている遠景に開放である景色と繋がっている。</p>
+    </section>
 
 
 
@@ -801,7 +816,8 @@
 <!-- Page 5 -->
 
 
-  <h3 id="organisation-du-recit" class="yellow">語りの仕組み</h3>
+  <section id="organisation-du-recit">
+  <h3 class="yellow">語りの仕組み</h3>
 
     <h4 class="yellow">いくつかの小さな場面</h4>
 
@@ -932,13 +948,15 @@
 
       <p><span style="color: #e6a64d;">病院のニ人の兄弟たち</span>がこうしてブルージュに着く諭入された<span style="color: #e6a64d;">ボルドーワインを測定する</span>ことで表わされている。</p>
       <p>私たちに<time datetime="1300">１３００</time>年ごろに病院が市に<span style="color: #e6a64d;">市の特権</span>、自分の収入の源でもあった<span style="color: #e6a64d;">「計量する権」</span>を任せられて来たことを思い出させてくれている。</p>
+  </section>
 
 
 
 <!-- Page 6 -->
 
 
-<h3 id="legendes" class="yellow">洗礼者ヨハネと福音書記者ヨハネの諸伝説</h3>
+<section id="legendes">
+<h3 class="yellow">洗礼者ヨハネと福音書記者ヨハネの諸伝説</h3>
 
   <figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -974,8 +992,8 @@
 
 
 
-
-    <h4 id="legende-de-jean-le-baptiste" class="yellow"><cite>黄金伝説</cite>において<cite>洗礼者ヨハネの伝説の諸場面</cite></h4>
+    <section id="legende-de-jean-le-baptiste">
+    <h4 class="yellow"><cite>黄金伝説</cite>において<cite>洗礼者ヨハネの伝説の諸場面</cite></h4>
 
 
       <p>私たちは年代順で福音書記者ヨハネより先とされている洗礼者ヨハネから始まっている。</p>
@@ -1090,11 +1108,7 @@
           <p>信仰の観点から、<span style="color: #e6a64d;">洗礼者ヨハネ</span>は<span style="color: #e6a64d;">神の意志によって</span>世にゆえにやって来る。</p>
 
 
-
-</div>
-
 <!-- Page 7 -->
-
 
 
     <h6 class="yellow">中央パネルの遠景での洗礼者の修徳の場面</h6>
@@ -1394,7 +1408,7 @@
 
       <p><span style="color: #e6a64d;">死刑執行人</span>は、ほとんど感動していない<a href="https://ja.wikipedia.org/wiki/サロメ_(ヘロディアの娘))" title="https://ja.wikipedia.org/wiki/サロメ_(ヘロディアの娘)" id="salome-3" class="yellow">サロメ</a>が彼に差し出す<span style="color: #e6a64d;">大皿に頭を</span>もたせかけながら、背後から描かれている。</p>
       <p>美術史家たちは、死刑執行者とサロメの姿勢において、彼がブリュッセルで<a href="https://ja.wikipedia.org/wiki/ロヒール・ファン・デル・ウェイデン" title="https://ja.wikipedia.org/wiki/ロヒール・ファン・デル・ウェイデン" id="rogier-van-der-weyden" class="yellow">ロヒール・ファン・デル・ウェイデン</a>という画家のアシスタントだったころの先生の作品で見当たる<span style="color: #e6a64d;">似たような場面をメムリンクによるの再利用</span>だと見っ分けている。</p>
-      <p>これは<a href="https://ja.wikipedia.org/wiki/絵画館_(ベルリン)" title="https://ja.wikipedia.org/wiki/絵画館_(ベルリン)" id="gemaldegalerie" class="yellow"><ruby lang="ja">ベルリン国立美術館<rp>（</rp><rt lang="de">Staatliche&#160;Museen&#160;zu&#160;Berlin</rt><rp>）</rp></ruby></a>の<a href="https://ja.wikipedia.org/wiki/ベルリン美術館" title="https://ja.wikipedia.org/wiki/Musées_d'État_de_Berlin" id="musees-d-etat-de-berlin" class="yellow"><ruby lang="ja">絵画館<rp>（</rp><rt lang="de">Gemäldegalerie</rt><rp>）</rp></ruby></a>にある<time datetime="1450">１４５０</time>〜<time datetime="1455">５５年頃</time>に描かれた<span style="color: #e6a64d;">《聖ヨハネの三連画》</span>の左翼パネル内面にある<span style="color: #999;">（目録番号５３４B）</span>。</p>
+      <p>これは<a href="https://ja.wikipedia.org/wiki/絵画館_(ベルリン)" title="https://ja.wikipedia.org/wiki/絵画館_(ベルリン)" id="gemaldegalerie" class="yellow"><ruby lang="ja">ベルリン国立美術館<rp>（</rp><rt lang="de">Staatliche&nbsp;Museen&nbsp;zu&nbsp;Berlin</rt><rp>）</rp></ruby></a>の<a href="https://ja.wikipedia.org/wiki/ベルリン美術館" title="https://ja.wikipedia.org/wiki/Musées_d'État_de_Berlin" id="musees-d-etat-de-berlin" class="yellow"><ruby lang="ja">絵画館<rp>（</rp><rt lang="de">Gemäldegalerie</rt><rp>）</rp></ruby></a>にある<time datetime="1450">１４５０</time>〜<time datetime="1455">５５年頃</time>に描かれた<span style="color: #e6a64d;">《聖ヨハネの三連画》</span>の左翼パネル内面にある<span style="color: #999;">（目録番号５３４B）</span>。</p>
 
 
     <figure>
@@ -1414,7 +1428,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1920.jpg 1920w"></picture><figcaption>左翼パネル内面の詳細、ロヒール・ファン・デル・ウェイデン筆《聖ヨハネの三連画》、<ruby lang="ja">ベルリン国立美術館<rp>（</rp><rt lang="de">Staatliche&#160;Museen&#160;zu&#160;Berlin</rt><rp>）</rp></ruby></a>の<ruby lang="ja">絵画館<rp>（</rp><rt lang="de">Gemäldegalerie</rt><rp>）</rp></ruby></figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/09.saint-jean_9/triptyque-saint-jean-1920.jpg 1920w"></picture><figcaption>左翼パネル内面の詳細、ロヒール・ファン・デル・ウェイデン筆《聖ヨハネの三連画》、<ruby lang="ja">ベルリン国立美術館<rp>（</rp><rt lang="de">Staatliche&nbsp;Museen&nbsp;zu&nbsp;Berlin</rt><rp>）</rp></ruby>の<ruby lang="ja">絵画館<rp>（</rp><rt lang="de">Gemäldegalerie</rt><rp>）</rp></ruby></figcaption>
     </figure>
 
 
@@ -1481,12 +1495,14 @@
 
 
       <p>これで<cite>黄金伝説</cite>においての洗礼者ヨハネの伝説の語りが終ります。</p>
+  </section>
 
 
 
 <!-- Page 10 -->
 
 
+  <section>
   <h4 id="legende-de-jean-l-evangeliste" class="yellow"><cite>黄金伝説</cite>と<cite>黙示録</cite>においての福音書記者ヨハネの伝説の諸場面</h4>
 
     <h5 class="yellow"><cite>黄金伝説</cite>と<cite>黙示録</cite>においての福音書記者ヨハネについての注意すべき事項</h5>
@@ -1622,7 +1638,7 @@
       <h5 class="yellow"><cite>黄金伝説</cite>においての福音書記者ヨハネ</h5>
       
 
-        <p>福音書記者ヨハネの表しが</cite>黄金伝説</cite>の<span style="color: #e6a64d;">第９章</span>と<span style="color: #e6a64d;">第６５章</span>でのヤコブス・ダ・ヴォラギネに編纂された語り筋を全体として守っています。
+        <p>福音書記者ヨハネの表しが<cite>黄金伝説</cite>の<span style="color: #e6a64d;">第９章</span>と<span style="color: #e6a64d;">第６５章</span>でのヤコブス・ダ・ヴォラギネに編纂された語り筋を全体として守っています。
         <ul>
           <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#jean-selon-legende" class="yellow"><cite>黄金伝説</cite>の第９章での福音書記者ヨハネの伝説の文書</a>を読む。</li>
           <li><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:19#jean-selon-legende-2" class="yellow"><cite>黄金伝説</cite>の第６５章でのラティナ門外の福音書記者ヨハネの伝説の文書</a>を読む。</li>
@@ -1675,13 +1691,13 @@
 
       <p>メムリンクの表しが左での地平線にこの<span style="color: #e6a64d;">教会</span>と右では、<span style="color: #e6a64d;">ローマのコロッセオ</span>と<span style="color: #e6a64d;">ラティナ門</span>を見せてくれている<span style="color: #999;">（<cite>黄金伝説</cite>、第９章）</span>。</p>
         
-        <blockquote cite="https://francois-vidit.com/docs/ja/bruges/        hopital-saint-jean/saint-jean/page:18#chap-9">
+        <blockquote cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#chap-9">
           <p>「ドミティアヌス大帝は、こんな拷問ぐらいでキリストの福音を宣べることをやめるような男ではないと見てとり、聖ヨハネを<span style="color: #e6a64d;">パトモス島</span>へ流刑に処した」</p>
         </blockquote>
 
       <p>パトモス島への出発が真ん中に表わされていて、いくつかの人物がある船に乗ろうとしているところに。</p>
         
-        <blockquote cite="https://francois-vidit.com/docs/ja/bruges/        hopital-saint-jean/saint-jean/page:18#chap-9">
+        <blockquote cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#chap-9">
           <p>「彼は、その島にまったくひとりで住み、ここで<span style="color: #e6a64d;">『ヨハネの<cite>黙示録</cite>』</span>を書いた。」</p>
         </blockquote>
 
@@ -1822,14 +1838,14 @@
       <h6 class="yellow">第一の封印：白い馬　＝　<cite>黙示録</cite>、第６章１～２節</h6>
 
           <header>
-            <p class="no-puce">第６章</pl>
+            <p class="no-puce">第６章</p>
           </header>
 
         <blockquote id="renvoi-apocalypse-6-1" cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20#apocalypse-6-1">
           <ol class="doc">
             <li value="01">
               <p>また、わたしが見ていると、小羊が七つの封印の一つを開いた。すると、四つの生き物の一つが、雷のような声で</p>
-              <p class="conversation>「出て来い」と言うのを、わたしは聞いた。</p>
+              <p class="conversation">「出て来い」と言うのを、わたしは聞いた。</p>
             </li>
             <li value="02">そして見ていると、見よ、<span style="color: #e6a64d;">白い馬</span>が現れ、乗っている者は、<span style="color: #e6a64d;">弓</span>を持っていた。彼は<span style="color: #e6a64d;">冠</span>を与えられ、勝利の上に更に勝利を得ようと出て行った。</li>
           </ol>
@@ -2522,12 +2538,15 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/chapiteau-4-1600.jpg 1600w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/chapiteau-4-1920.jpg 1920w"></picture><figcaption>中央パネルの詳細、右側の最右の柱頭、《毒の杯の奇跡》、<cite>黄金伝説</cite>、第９章</figcaption>
     </figure>
+  </section>
+  </section>
 
       
 
 <!-- Page 15 -->
 
-<h3 id="position-fermee" class="yellow">寄贈者たちの紹介、<ruby style="color:#e6a64d;">閉<rp>（</rp><rt style="font-size: 70%;color:#e6a64d;">へい</rt><rp>）</rp>翼<rp>（</rp><rt style="font-size: 70%;color:#e6a64d;">よく</rt><rp>）</rp>時<rp>（</rp><rt style="font-size: 70%;color:#e6a64d;">じ</rt><rp>）</rp></ruby>の三連画</h3>
+<section id="position-fermee">
+<h3 class="yellow">寄贈者たちの紹介、<ruby style="color:#e6a64d;">閉<rp>（</rp><rt style="font-size: 70%;color:#e6a64d;">へい</rt><rp>）</rp>翼<rp>（</rp><rt style="font-size: 70%;color:#e6a64d;">よく</rt><rp>）</rp>時<rp>（</rp><rt style="font-size: 70%;color:#e6a64d;">じ</rt><rp>）</rp></ruby>の三連画</h3>
 
 	<figure>
     <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -2557,43 +2576,47 @@
         <p>左翼パネルでは、左から：</p>
         <ul>
           <li>立ったままでいる人は、<span style="color: #e6a64d;">聖アグネス</span>である。下と左側での子羊から認識されている。</li>
-          <li>前方でひざまずいている<ruby style="color:#e6a64d;" lang="ja">アグネス<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">Agnès</rt><rp>）</rp>・<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">&#160;</rt><rp>）</rp>カゼムブロード<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">CASEMBROOD</rt><rp>）</rp></ruby>である。</li>
+          <li>前方でひざまずいている<ruby style="color:#e6a64d;" lang="ja">アグネス<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">Agnès</rt><rp>）</rp>・<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">&nbsp;</rt><rp>）</rp>カゼムブロード<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">CASEMBROOD</rt><rp>）</rp></ruby>である。</li>
         </ul>
 
 
         <p>左翼パネルの右側に：</p>
         <ul>
           <li>つり香炉を運ぶ<span style="color: #e6a64d;">聖クレア</span>は、</li>
-          <li><ruby style="color:#e6a64d;" lang="ja">クレア<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">Claire</rt><rp>）</rp>・<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">&#160;</rt><rp>）</rp>ヴァン<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">VAN</rt><rp>）</rp>・<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">&#160;</rt><rp>）</rp>ヒュルせン<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">HULSEN</rt><rp>）</rp></ruby>修道女を守っている。</li>
+          <li><ruby style="color:#e6a64d;" lang="ja">クレア<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">Claire</rt><rp>）</rp>・<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">&nbsp;</rt><rp>）</rp>ヴァン<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">VAN</rt><rp>）</rp>・<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">&nbsp;</rt><rp>）</rp>ヒュルせン<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">HULSEN</rt><rp>）</rp></ruby>修道女を守っている。</li>
         </ul>
 
 
         <p>右翼パネル、左から：</p>
         <ul>
           <li>立っているままでいる人は、サンティアゴ・デ・コンポステーラの巡礼者の服を着た<span style="color: #e6a64d;">聖ヤコブ</span>と、</li>
-          <li><ruby style="color:#e6a64d;" lang="ja">ヤコブ<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">Jacob</rt><rp>）</rp>・<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">&#160;</rt><rp>）</rp>ド<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">DE</rt><rp>）</rp>・<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">&#160;</rt><rp>）</rp>クーニンク<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">KEUNINC</rt><rp>）</rp></ruby>である。</li>
+          <li><ruby style="color:#e6a64d;" lang="ja">ヤコブ<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">Jacob</rt><rp>）</rp>・<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">&nbsp;</rt><rp>）</rp>ド<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">DE</rt><rp>）</rp>・<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">&nbsp;</rt><rp>）</rp>クーニンク<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">KEUNINC</rt><rp>）</rp></ruby>である。</li>
         </ul>
 
 
         <p>右翼パネルの右に：</p>
         <ul>
           <li>司教杖と子豚で見分ける<span style="color: #e6a64d;">聖大アントニオ</span>は、</li>
-          <li>ひざまずいているままでいるひとは、施療院長である、<ruby style="color:#e6a64d;" lang="ja">アントワーヌ<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">Antoine</rt><rp>）</rp>・<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">&#160;</rt><rp>）</rp>セガーズ<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">SEGHERS</rt><rp>）</rp></ruby>の守護聖人である。</li>
+          <li>ひざまずいているままでいるひとは、施療院長である、<ruby style="color:#e6a64d;" lang="ja">アントワーヌ<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">Antoine</rt><rp>）</rp>・<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">&nbsp;</rt><rp>）</rp>セガーズ<rp>（</rp><rt style="font-size: 70%;letter-spacing: 1px;color:#e6a64d;" lang="nl">SEGHERS</rt><rp>）</rp></ruby>の守護聖人である。</li>
         </ul>
       <p>その三連画は恐らく、アントワーヌ・セガースが死んだ年以来、<time datetime="1475">１４７５年</time>以前に注文された。</p>
       <p><time datetime="1479">１４７９年</time>には祭壇の上に置かれた。</p>
+    </section>
+    </section>
 
 
 
 
 <aside>
 
-<h3 id="a-propos-de-cet-article" class="yellow">この記事に関連書籍</h3>
+<section id="a-propos-de-cet-article">
+<h3 class="yellow">この記事に関連書籍</h3>
 
-  <p>この記事を作文するには、特に<ruby lang="ja">ディルク<rp>（</rp><rt lang="nl">Dirk</rt><rp>）</rp>・<rp>（</rp><rt lang="nl">&#160;</rt><rp>）</rp>ド<rp>（</rp><rt lang="nl">DE</rt><rp>）</rp>・<rp>（</rp><rt lang="nl">&#160;</rt><rp>）</rp>ヴォス<rp>（</rp><rt lang="nl">VOS</rt><rp>）</rp></ruby>、<a href="#de-vos-1" id="renvoi-de-vos-1" class="yellow">「ハンス・メムリンク」</a>、<a href="#de-vos-2" class="yellow">「ハンス・メリンク＝作品全集」</a>などの既存の文献に対して、私たちは本当に感謝しています。</p>
+  <p>この記事を作文するには、特に<ruby lang="ja">ディルク<rp>（</rp><rt lang="nl">Dirk</rt><rp>）</rp>・<rp>（</rp><rt lang="nl">&nbsp;</rt><rp>）</rp>ド<rp>（</rp><rt lang="nl">DE</rt><rp>）</rp>・<rp>（</rp><rt lang="nl">&nbsp;</rt><rp>）</rp>ヴォス<rp>（</rp><rt lang="nl">VOS</rt><rp>）</rp></ruby>、<a href="#de-vos-1" id="renvoi-de-vos-1" class="yellow">「ハンス・メムリンク」</a>、<a href="#de-vos-2" class="yellow">「ハンス・メリンク＝作品全集」</a>などの既存の文献に対して、私たちは本当に感謝しています。</p>
 
 
-  <h4 id="de-vos" class="yellow">ディルク・ド・ヴォスの本:</h4>
+  <section id="de-vos">
+  <h4 class="yellow">ディルク・ド・ヴォスの本:</h4>
     <ul>
       <li>フランス語で：
         <table>
@@ -2654,11 +2677,13 @@
     </ul>
 
   <footer>
-    <p class="puce"><a href="#renvoi-de-vos-1" title="renvoi-de-vos-1">文書に戻↩</a></p>
-    <p class="puce"><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:2#renvoi-de-vos-2" title="renvoi-de-vos-2">文書に戻る２↩</a></p>
+    <p class="puce"><a href="#renvoi-de-vos-1" title="renvoi-de-vos-1">文書に戻&nbsp;↩</a></p>
+    <p class="puce"><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:2#renvoi-de-vos-2" title="renvoi-de-vos-2">文書に戻る２&nbsp;↩</a></p>
   </footer>
+  </section>
 
-  <h4 id="lorentz" class="yellow">フィリップ・ロレンッツの本:</h4>
+  <section id="lorentz">
+  <h4 class="yellow">フィリップ・ロレンッツの本:</h4>
     <div class="notices yellow">
       <ul>
         <li>フランス語で：
@@ -2686,40 +2711,49 @@
         </li>
       </ul>
     </div>
+  </section>
 
   <footer>
-    <p class="puce"><a href="#renvoi-lorentz-1" title="renvoi-de-vos-1">文書に戻る２↩</a></p>
-    <p class="puce"><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#renvoi-lorentz-2" title="renvoi-lorentz-2">文書に戻る３↩</a></p>
+    <p class="puce"><a href="#renvoi-lorentz-1" title="renvoi-de-vos-1">文書に戻る２&nbsp;↩</a></p>
+    <p class="puce"><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean/page:3#renvoi-lorentz-2" title="renvoi-lorentz-2">文書に戻る３&nbsp;↩</a></p>
   </footer>
+  </section>
 
 
-  <h3 id="note" class="yellow">註釈</h3>
 
-    <h4 id="note-1" class="yellow note">この記事の画像の質について</h4>
+  <section id="note">
+  <h3 class="yellow">註釈</h3>
+
+    <section id="note-1">
+    <h4 class="yellow note">この記事の画像の質について</h4>
       <div class="footnotes">
         <p>一般の人々に向けて私たちは公開にしている作品の複製写真は、現在では、私たちが知っている限り、専門家のを除いて、最高のものです。それらの写真が、（この記事が作文される<time datetime="2018">２０１８年</time>）現在ですと、展示会空間の照明が低強度と黄色のために、私たちから大変な努力を必要としてきました。</p>
       </div>
       <footer>
-        <p class="puce"><a href="#renvoi-note-1" title="註釈の元へ">文書に戻る↩</a></p>
+        <p class="puce"><a href="#renvoi-note-1" title="註釈の元へ">文書に戻る&nbsp;↩</a></p>
       </footer>
+    </section>
 
-    <h4 id="note-2" class="yellow note notices">アレクサンドリアのカタリナについての参照資料</h4>
+    <section id="note-2">
+    <h4 class="yellow note notices">アレクサンドリアのカタリナについての参照資料</h4>
       <div class="footnotes">
         <p>ここでは私たちはウィキペディアのフランス語版（日付：<time datetime="2018-08-15">２０１８年８月１５日</time>）の「アレクサンドリアのカタリナ」を参照にしています。</p>
         <p>それは：</p>
         <ul>
-          <li>Gustave Bardy: Catherine d’Alexandrie. In: Dictionnaire d’histoire et de géographie ecclésiastiques, vol 11, Paris <tme datetime="1949">1949</time>, pp 1503–1505, ici: 1504.</li>
-          <li>Christine Walsh: The Cult of St Katherine of Alexandria in Early Medieval Europe, Aldershot <tme datetime="2007">2007</time>, p. 3–26; </li>
-          <li>Michael Deakin: Hypatia of Alexandria, Mathematician and Martyr, Amherst (New York) <tme datetime="2007">2007</time>, p. 135, 202; </li>
-          <li>Maria Dzielska: Hypatia of Alexandria, Cambridge (Massachusetts) <tme datetime="1995">1995</time>, p. 21; </li>
-          <li>Christian Lacombrade: Hypatia. In: Reallexikon für Antike und Christentum, vol 16, Stuttgart <tme datetime="1994">1994</time>, pp 956–967, ici: 966;</li>
+          <li>Gustave Bardy: Catherine d’Alexandrie. In: Dictionnaire d’histoire et de géographie ecclésiastiques, vol.11, Paris <time datetime="1949">1949</time>, pp.1503–1505, ici: 1504.</li>
+          <li>Christine Walsh: The Cult of St Katherine of Alexandria in Early Medieval Europe, Aldershot <time datetime="2007">2007</time>, p. 3–26; </li>
+          <li>Michael Deakin: Hypatia of Alexandria, Mathematician and Martyr, Amherst (New York) <time datetime="2007">2007</time>, p.135, 202; </li>
+          <li>Maria Dzielska: Hypatia of Alexandria, Cambridge (Massachusetts) <time datetime="1995">1995</time>, p. 21; </li>
+          <li>Christian Lacombrade: Hypatia. In: Reallexikon für Antike und Christentum, vol 16, Stuttgart <time datetime="1994">1994</time>, pp 956–967, ici: 966;</li>
         </ul>
       </div>
       <footer>
-        <p class="puce"><a href="#renvoi-note-2">文書に戻る↩</a></p>
+        <p class="puce"><a href="#renvoi-note-2">文書に戻る&nbsp;↩</a></p>
       </footer>
+    </section>
 
-    <h4 id="note-3" class="yellow note notices">ローマ暦からアレクサンドリアのカタリナと大殉教者バルバラの削除について</h4>
+    <section id="note-3">
+    <h4 class="yellow note notices">ローマ暦からアレクサンドリアのカタリナと大殉教者バルバラの削除について</h4>
       <div class="footnotes">
         <blockquote cite="https://fr.wikipedia.org/wiki/Catherine_d'Alexandrie#Réalité_historique_et_dévotion">
           <p>「何人かの聖人が人気を博しているかもしれません。彼らの名前の周りに発生した伝説のために、例えば聖キリストフォルス、聖バルバラ、アレクサンドリアの聖カタリナ、聖フィロメナなどのように、彼らが存在したことをでも保証できない。一般ローマ暦から削除されました。キリスト教徒たちは、真実にしか祈りに招かれない」</p>
@@ -2727,50 +2761,60 @@
         <p><time datetime="1969-05-09">１９６９年５月９日</time>、ローマで行われた暦の改革を準備した研究グループのパリカトリック学院の典礼学課教授のピエール・ジョネル修道長の新しいローマ暦を紹介する会議による。</p>
       </div>
       <footer>
-        <p class="puce"><a href="#renvoi-note-3">アレクサンドリアのカタリナの文書に戻る↩</a></p>
-        <p class="puce"><a href="#renvoi-note-3-2">大殉教者バルバラの文書に戻る↩</a></p>
+        <p class="puce"><a href="#renvoi-note-3">アレクサンドリアのカタリナの文書に戻る&nbsp;↩</a></p>
+        <p class="puce"><a href="#renvoi-note-3-2">大殉教者バルバラの文書に戻る&nbsp;↩</a></p>
       </footer>
+    </section>
 
-    <h4 id="note-4" class="yellow note">「見よ、これは神の子羊だ」のラテン語の書き方</h4>
+    <section id="note-4">
+    <h4 class="yellow note">「見よ、これは神の子羊だ」のラテン語の書き方</h4>
       <div class="footnotes">
         <p>ラテン語では「Ecce Agnus Dei」。</p>
       </div>
       <footer>
-        <p class="puce"><a href="#renvoi-note-4">文書に戻る↩</a></p>
+        <p class="puce"><a href="#renvoi-note-4">文書に戻る&nbsp;↩</a></p>
       </footer>
+    </section>
 
-    <h4 id="note-5" class="yellow note">大殉教者バルバラのカトリック教会での呼称</h4>
+    <section id="note-5">
+    <h4 class="yellow note">大殉教者バルバラのカトリック教会での呼称</h4>
       <div class="footnotes">
         <p>大殉教者バルバラはまた「聖バルバラ」として知られている。</p>
       </div>
       <footer>
-        <p class="puce"><a href="#renvoi-note-5">文書に戻る↩</a></p>
+        <p class="puce"><a href="#renvoi-note-5">文書に戻る&nbsp;↩</a></p>
       </footer>
+    </section>
 
-    <h4 id="note-6" class="yellow note">二コメディアの現代呼称</h4>
+    <section id="note-6">
+    <h4 class="yellow note">二コメディアの現代呼称</h4>
       <div class="footnotes">
         <p>現在のトルコの北西部に位置づけられていて黒海の岸にある古代都市。現代の<a href="https://ja.wikipedia.org/wiki/イズミット" title="https://ja.wikipedia.org/wiki/イズミット">イズミット</a>。</p>
       </div>
       <footer>
-        <p class="puce"><a href="#renvoi-note-6">文書に戻る↩</a></p>
+        <p class="puce"><a href="#renvoi-note-6">文書に戻る&nbsp;↩</a></p>
       </footer>
+    </section>
 
-    <h4 id="note-7" class="yellow note">「聖なる会話」のイタリア語後での書き方</h4>
+    <section id="note-7">
+    <h4 class="yellow note">「聖なる会話」のイタリア語後での書き方</h4>
       <div class="footnotes">
         <p>イタリア語では「Sacra conversazione」。</p>
       </div>
       <footer>
-        <p class="puce"><a href="#renvoi-note-7">文書に戻る↩</a></p>
+        <p class="puce"><a href="#renvoi-note-7">文書に戻る&nbsp;↩</a></p>
       </footer>
+    </section>
   
-    <h4 id="note-8" class="yellow note">新しき信心</h4>
+    <section id="note-8">
+    <h4 class="yellow note">新しき信心</h4>
       <h5 class="yellow">「新しき信心」のラテン語後での書き方</h5>
         <div class="footnotes">
           <p>ラテン語では「Devotio moderna」。</p>
         </div>
       <h5 class="yellow">「新しき信心」という宗教改革運動</h5>
         <div class="yellow">
-          <p>現在のネーデルラントの北部で誕生して、十四世紀初頭から十五世紀初頭にかけてユトレヒト周辺で新しき信心は、<a href="https://fr.wikipedia.org/wiki/Gérard_Groote" title="https://fr.wikipedia.org/wiki/Gérard_Groote" id="gerard-groote" class="yellow"><ruby lang="ja">ヘルート<rp>（</rp><rt lang="nl">Geert</rt><rp>）</rp>・<rp>（</rp><rt lang="nl">&#160;</rt><rp>）</rp>フローテ<rp>（</rp><rt lang="nl">Groote</rt><rp>）</rp></ruby></a>という男性により始められました。</p>
+          <p>現在のネーデルラントの北部で誕生して、十四世紀初頭から十五世紀初頭にかけてユトレヒト周辺で新しき信心は、<a href="https://fr.wikipedia.org/wiki/Gérard_Groote" title="https://fr.wikipedia.org/wiki/Gérard_Groote" id="gerard-groote" class="yellow"><ruby lang="ja">ヘルート<rp>（</rp><rt lang="nl">Geert</rt><rp>）</rp>・<rp>（</rp><rt lang="nl">&nbsp;</rt><rp>）</rp>フローテ<rp>（</rp><rt lang="nl">Groote</rt><rp>）</rp></ruby></a>という男性により始められました。</p>
           <p>彼は当時の敬虔信仰を厳し過ぎると現世から遠くなると批判します。
           それに対して、彼は、信者にキリストを自分の心の一奥底に居るようにと導きます。
           彼によると、このキリストの存在は単純さを生み出すことと使命している。
@@ -2782,71 +2826,83 @@
           <p>「第ニの福音書」「中世の最高の信心書」とも言われ、聖書に次いでカトリックのキリスト教徒の霊的修練の書として識字階級に広く読まれ、親しまれている。 日本でも１６世紀後半にキリシタン版の『<ruby>世のはかなさ<rp>（</rp><rt>コンテムツス・ムンヂ</rt><rp>）</rp></ruby>』として翻訳され、刊行された以来、「キリストのまねび」「イミタティオ-クリスティ」など多種の訳がある。</p>
         </div>
 
-    <footer>
-      <p class="puce"><a href="#renvoi-note-8" title="「新しき信心」運動の送り返し">文書に戻る↩</a></p>
-    </footer>
+      <footer>
+        <p class="puce"><a href="#renvoi-note-8" title="「新しき信心」運動の送り返し">文書に戻る&nbsp;↩</a></p>
+      </footer>
+    </section>
 
   
-  <h4 id="note-9" class="yellow note">ウィレム・ヴレラントというブルージュの細密画作家とメムリンクの友情</h4>
-    <div class="footnotes">
-      <p>「その芸術家がブルージュに定住した当時、この街は、ブルゴーニュ公爵領ネーデルラントの主な装飾写本制作拠点の一つであった。</p>
-      <p> (...)</p>
-      <p>メムリンクは、自分のブルージュでの顔見知り関係の中で細密画かを数えていた。名前は<ruby lang="ja">ウィレム<rp>（</rp><rt lang="de">Willem</rt><rp>）</rp>・<rp>（</rp><rt lang="de">&#160;</rt><rp>）</rp>ヴレラント<rp>（</rp><rt lang="de">Vrelant</rt><rp>）</rp></ruby>。
-      この町で最も出産豊かな工房の頭として、ヴレラントはメムリンクと同様に、移民であった。
-      ユトレヒト市出身の彼は<time datetime="1454">１４５４年</time>からブルージュ書物製作<ruby>組合<rp>（</rp><rt>ギルド</rt><rp>）</rp></ruby>の会員として、<time datetime="1481">１４８１年</time>の亡くなるまでに登録されている。
-      ニ人とも<ruby lang="ja">シント<rp>（</rp><rt lang="nl">Sint</rt><rp>）</rp>＝<rp>（</rp><rt lang="nl">-</rt><rp>）</rp>ジョリスストラット<rp>（</rp><rt lang="nl">Jorisstraat</rt><rp>）</rp></ruby>に住んでいたので、ヴレラントとメムリンクがほとんど隣人でした。</p>
-      <p> (...)</p>
-      <p>視覚的に説得力のある空間的表現の観点から考えれば、前景のニつの図形と絵画の残りの図との関係は、中間空間の林と主な図形と関係に脈絡が取れていません。</p>
-      <p> (...)</p>
-      <p>ある作品から別の作品へでも、各作品には、ヴレラントと同様に、位置の高い地平線にまでいくつかの景色が重なるのを見当たることがあります」。</p>
-    </div>
-    <footer>
-      <p><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean#lorentz" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean#lorentz" id="renvoi-lorentz-2" class="yellow">この記事に関連書籍</a>に出典されている<ruby lang="ja">フィリップ<rp>（</rp><rt lang="de">Philippe</rt><rp>）</rp>・<rp>（</rp><rt lang="de">&#160;</rt><rp>）</rp>ローレンッツ<rp>（</rp><rt lang="de">LORENTZ</rt><rp>）</rp></ruby>の著作からの引用。</p>
-      <p class="puce"><a href="#renvoi-note-9">文書に戻る↩</a></p>
-    </footer>
+    <section id="note-9">
+    <h4 class="yellow note">ウィレム・ヴレラントというブルージュの細密画作家とメムリンクの友情</h4>
+      <div class="footnotes">
+        <p>「その芸術家がブルージュに定住した当時、この街は、ブルゴーニュ公爵領ネーデルラントの主な装飾写本制作拠点の一つであった。</p>
+        <p> (...)</p>
+        <p>メムリンクは、自分のブルージュでの顔見知り関係の中で細密画かを数えていた。名前は<ruby lang="ja">ウィレム<rp>（</rp><rt lang="de">Willem</rt><rp>）</rp>・<rp>（</rp><rt lang="de">&nbsp;</rt><rp>）</rp>ヴレラント<rp>（</rp><rt lang="de">Vrelant</rt><rp>）</rp></ruby>。
+        この町で最も出産豊かな工房の頭として、ヴレラントはメムリンクと同様に、移民であった。
+        ユトレヒト市出身の彼は<time datetime="1454">１４５４年</time>からブルージュ書物製作<ruby>組合<rp>（</rp><rt>ギルド</rt><rp>）</rp></ruby>の会員として、<time datetime="1481">１４８１年</time>の亡くなるまでに登録されている。
+        ニ人とも<ruby lang="ja">シント<rp>（</rp><rt lang="nl">Sint</rt><rp>）</rp>＝<rp>（</rp><rt lang="nl">-</rt><rp>）</rp>ジョリスストラット<rp>（</rp><rt lang="nl">Jorisstraat</rt><rp>）</rp></ruby>に住んでいたので、ヴレラントとメムリンクがほとんど隣人でした。</p>
+        <p> (...)</p>
+        <p>視覚的に説得力のある空間的表現の観点から考えれば、前景のニつの図形と絵画の残りの図との関係は、中間空間の林と主な図形と関係に脈絡が取れていません。</p>
+        <p> (...)</p>
+        <p>ある作品から別の作品へでも、各作品には、ヴレラントと同様に、位置の高い地平線にまでいくつかの景色が重なるのを見当たることがあります」。</p>
+      </div>
+      <footer>
+        <p><a href="/docs/ja/bruges/hopital-saint-jean/saint-jean#lorentz" title="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean#lorentz" id="renvoi-lorentz-2" class="yellow">この記事に関連書籍</a>に出典されている<ruby lang="ja">フィリップ<rp>（</rp><rt lang="de">Philippe</rt><rp>）</rp>・<rp>（</rp><rt lang="de">&nbsp;</rt><rp>）</rp>ローレンッツ<rp>（</rp><rt lang="de">LORENTZ</rt><rp>）</rp></ruby>の著作からの引用。</p>
+        <p class="puce"><a href="#renvoi-note-9">文書に戻る&nbsp;↩</a></p>
+      </footer>
+    </section>
 
-  <h4 id="note-10" class="yellow note">マシェロントの位置について</h4>
-    <div class="footnotes">
-      <p>マシェロントは、要塞化された宮殿の遺跡があるヨルダンの遺跡です。それは死海の東海岸のヨルダン川河口の約２４キロの丘に位置している。ヘブライ語では「מכוור」、アラブ語では、「قلة المشناقى」を呼称されている。</p>
-    </div>
-    <footer>
-      <p class="puce"><a href="#renvoi-note-10">文書に戻る↩</a></p>
-    </footer>
+    <section id="note-10">
+    <h4 class="yellow note">マシェロントの位置について</h4>
+      <div class="footnotes">
+        <p>マシェロントは、要塞化された宮殿の遺跡があるヨルダンの遺跡です。それは死海の東海岸のヨルダン川河口の約２４キロの丘に位置している。ヘブライ語では「מכוור」、アラブ語では、「قلة المشناقى」を呼称されている。</p>
+      </div>
+      <footer>
+        <p class="puce"><a href="#renvoi-note-10">文書に戻る&nbsp;↩</a></p>
+      </footer>
+    </section>
 
-  <h4 id="note-11" class="yellow note">聖ヒエロニムスの言葉の参照</h4>
-    <div class="footnotes">
-      <p>ヤコブス・デ・ウォラギネによって書き留められた<a href="https://ja.wikipedia.org/wiki/ヒエロニムス" title="https://ja.wikipedia.org/wiki/ヒエロニムス" id="saint-jerome" class="yellow">ヒエロニムス</a>の言葉。</p>
-    </div>
-    <footer>
-      <p class="puce"><a href="#renvoi-note-11">文書に戻る↩</a></p>
-    </footer>
+    <section id="note-11">
+    <h4 class="yellow note">聖ヒエロニムスの言葉の参照</h4>
+      <div class="footnotes">
+        <p>ヤコブス・デ・ウォラギネによって書き留められた<a href="https://ja.wikipedia.org/wiki/ヒエロニムス" title="https://ja.wikipedia.org/wiki/ヒエロニムス" id="saint-jerome" class="yellow">ヒエロニムス</a>の言葉。</p>
+      </div>
+      <footer>
+        <p class="puce"><a href="#renvoi-note-11">文書に戻る&nbsp;↩</a></p>
+      </footer>
+    </section>
 
-  <h4 id="note-12" class="yellow note">アパメアの司教、聖マルケッルス</h4>
-    <div class="footnotes">
-      <p>行政官、シリア属州・<a href="https://ja.wikipedia.org/wiki/アパメア" title="https://ja.wikipedia.org/wiki/アパメア" class="yellow"><ruby lang="ja">アパメア<rp>（</rp><rt lang="grc">Απάμεια</rt><rp>）</rp></ruby></a>市の司教に選ばれた人。彼はセオドシウス大帝の命令に従って偶像の社の破壊を監督していたところに、異教徒たちに暗殺されて亡くなりました</p>
-    </div>
-    <footer>
-      <p class="puce"><a href="#renvoi-note-12">文書に戻る↩</a></p>
-    </footer>
+    <section id="note-12">
+    <h4 class="yellow note">アパメアの司教、聖マルケッルス</h4>
+      <div class="footnotes">
+        <p>行政官、シリア属州・<a href="https://ja.wikipedia.org/wiki/アパメア" title="https://ja.wikipedia.org/wiki/アパメア" class="yellow"><ruby lang="ja">アパメア<rp>（</rp><rt lang="grc">Απάμεια</rt><rp>）</rp></ruby></a>市の司教に選ばれた人。彼はセオドシウス大帝の命令に従って偶像の社の破壊を監督していたところに、異教徒たちに暗殺されて亡くなりました</p>
+      </div>
+      <footer>
+        <p class="puce"><a href="#renvoi-note-12">文書に戻る&nbsp;↩</a></p>
+      </footer>
+    </section>
 
-  <h4 id="note-13" class="yellow note"><cite>黙示録</cite>の七つの教会</h4>
-    <div class="notices yellow">
-      <p>黙示録の文書が <q cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20" style="quotes:'「' '」';">アジア州にある七つの教会へ</q>宛てられている<span style="color: #999;">（<cite>黙示録</cite>、第１章４節）</span></p>
-      <p>それは：</p>
-        <ol>
-          <li>「エフェソス、</li>
-          <li>スミルナ、</li>
-          <li>ペルガモン、</li>
-          <li>ティアティラ、</li>
-          <li>サルディス、</li>
-          <li>フィラデルフィア、</li>
-          <li>ラオディキア」、</li>
-        </ol>
-      <p>この文書はユダヤ系聖典の像徴的言語で時間の終わりでのキリストの内での新たな希望のおかげでローマからであれユダヤからであれの迫害を乗り越えることだけではなくしかもそれらの教会自身の不足<span style="color: #9c6416;">、<cite>黙示録</cite>、第２章３節</span>を乗り越えることを可能にしてくれる超越的な事実に招く。</p>
-    </div>
-    <footer>
-      <p class="puce"><a href="#renvoi-note-13" title="#renvoi-note-13">文書に戻る↩</a></p>
-    </footer>
+    <section id="note-13">
+    <h4 class="yellow note"><cite>黙示録</cite>の七つの教会</h4>
+      <div class="notices yellow">
+        <p>黙示録の文書が <q cite="https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:20" style="quotes:'「' '」';">アジア州にある七つの教会へ</q>宛てられている<span style="color: #999;">（<cite>黙示録</cite>、第１章４節）</span></p>
+        <p>それは：</p>
+          <ol>
+            <li>「エフェソス、</li>
+            <li>スミルナ、</li>
+            <li>ペルガモン、</li>
+            <li>ティアティラ、</li>
+            <li>サルディス、</li>
+            <li>フィラデルフィア、</li>
+            <li>ラオディキア」、</li>
+          </ol>
+        <p>この文書はユダヤ系聖典の像徴的言語で時間の終わりでのキリストの内での新たな希望のおかげでローマからであれユダヤからであれの迫害を乗り越えることだけではなくしかもそれらの教会自身の不足<span style="color: #9c6416;">、<cite>黙示録</cite>、第２章３節</span>を乗り越えることを可能にしてくれる超越的な事実に招く。</p>
+      </div>
+      <footer>
+        <p class="puce"><a href="#renvoi-note-13" title="#renvoi-note-13">文書に戻る&nbsp;↩</a></p>
+      </footer>
+    </section>
+  </section>
 
 <!-- Page 16 -->
 
@@ -2857,6 +2913,7 @@
 <!-- Page 19 -->
 
 <!-- Page 20 -->
+
 
 </aside>
 
