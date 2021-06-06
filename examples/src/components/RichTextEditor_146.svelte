@@ -4,7 +4,8 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
+  const html = `<!-- FR:179 EN:210 -->
+
 <article>
 
 <div id="bubblecontainer" class="curtain-image flush-top-curtain">
@@ -13,7 +14,8 @@
 
 <div class="curtain-meta">
 
-  <h1 id="landing-curtain-h1" title="☆ ようこそ、私のホームページーに！"></h1>
+  <section id="landing-curtain-h1">
+  <h1 title="☆ ようこそ、私のホームページーに！">☆ ようこそ、私のホームページーに！</h1>
 
   <p id="curtain-button">
     <a href="/en" class="curtain-button-side" rel="nofollow bookmark">
@@ -45,7 +47,7 @@
   </a>
   </div>
 </div>
-</div></div></div>
+</div></div>
 
 <span id="topofpage" class="curtain-content"></span>
 
@@ -70,7 +72,7 @@ margin-left: 0;
 margin-bottom: 0;
 margin-right:0;
 padding-top: 5vh;
-pading-left: 0;
+padding-left: 0;
 padding-bottom: 2vh;
 padding-right: 0;
 background-color: #efc94d;
@@ -92,7 +94,7 @@ margin-left: 0;
 margin-bottom: 0;
 margin-right:0;
 padding-top: 5vh;
-pading-left: 0;
+padding-left: 0;
 padding-bottom: 2vh;
 padding-right: 0;
 background-color: #B7E2E6;
@@ -161,7 +163,7 @@ text-align: center;">
     <input type="hidden" name="form-nonce" value="23783d35f144e9c6f9c368003ae8facd" />
 
 </form>
-
+</section>
 </article>
 `;
 
