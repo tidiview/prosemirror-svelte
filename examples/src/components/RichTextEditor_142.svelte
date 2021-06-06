@@ -15,19 +15,19 @@
 <div class="notices red">
 
 <p>キリスト教の中世ヨーロッパにおいて、<ruby>黄金伝説<rp>(</rp><rt>レゲンダ・アウレア</rt><rp>)</rp></ruby>は、聖書についで一広く読まれた書物である。</p>
-<p>北イタリアのドメニコ会修道士、年代記編集者、又は第８代大司教のジェノヴァとして知られている<ruby lang="ja">ヤコブス<rp>(</rp><rt lang="la">Jacobus</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>デ<rp>(</rp><rt lang="la">de</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>ウォラギネ<rp>(</rp><rt lang="la">Voragine</rt><rp>)</rp></ruby>によって、ラテン語で<time datetime="1261">１２６１年</time>から<time datetime="1266">１２６６年</time>の間に書かれた。</p>
-<p>この作品んを基本的でも紹介するのはとても単純なことではありませんが、ものをいうには、既存だった約１５０人の聖人たちあるいは聖人集団や殉教者たちの列伝史料を編纂しながら、前から存在していた異教の暦の中に一年のカトリック教会の典礼暦を組み込んで巧妙に同化させながら、それを切っ掛けにして福音書からキリストと聖母マリアの生拝の主な出来事を解釈しながらも、事実深く当時社会の様々分野まで、例えば<ruby>位<rp>(</rp><rt>い</rt><rp>)</rp>相<rp>(</rp><rt>そう</rt><rp>)</rp>幾<rp>(</rp><rt>き</rt><rp>)</rp>何<rp>(</rp><rt>か</rt><rp>)</rp>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>などを含めて、浸透したキリスト教的な神話を作り上げたと書いておけば、間違いありません。</p>
+<p>北イタリアのドメニコ会修道士、年代記編集者、又は第八代大司教のジェノヴァとして知られている<ruby lang="ja">ヤコブス<rp>(</rp><rt lang="la">Jacobus</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>デ<rp>(</rp><rt lang="la">de</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>ウォラギネ<rp>(</rp><rt lang="la">Voragine</rt><rp>)</rp></ruby>によって、ラテン語で<time datetime="1261">１２６１年</time>から<time datetime="1266">１２６６年</time>の間に書かれた。</p>
+<p>この作品んを基本的でも紹介するのはとても単純なことではありませんが、ものをいうには、既存だった約百五十人の聖人たちあるいは聖人集団や殉教者たちの列伝史料を編纂しながら、前から存在していた異教の暦の中に一年のカトリック教会の典礼暦を組み込んで巧妙に同化させながら、それを切っ掛けにして福音書からキリストと聖母マリアの生拝の主な出来事を解釈しながらも、事実深く当時社会の様々分野まで、例えば<ruby>位<rp>(</rp><rt>い</rt><rp>)</rp>相<rp>(</rp><rt>そう</rt><rp>)</rp>幾<rp>(</rp><rt>き</rt><rp>)</rp>何<rp>(</rp><rt>か</rt><rp>)</rp>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>などを含めて、浸透したキリスト教的な神話を作り上げたと書いておけば、間違いありません。</p>
 <p>ヨーロッパ中世文学研究者<ruby lang="ja">フィリップ<rp>(</rp><rt lang="fr">Philippe</rt><rp>)</rp>・<rp>(</rp><rt lang="fr"></rt><rp>)</rp>ヴァルテール<rp>(</rp><rt lang="fr">WALTER</rt><rp>)</rp></ruby>著の『中世の祝祭 - 伝説・神話･起源』の序章で、「キリスト教定着以前に存在した（...）野生の記憶に由来する（...）「迷信」、伝説といった<ruby>太<rp>(</rp><rt>たい</rt><rp>)</rp>古<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>の記憶」が述べているように、異教の旧暦の要素が浮かんでくる文書として、特に興味深く、魅力的だと思われます。</p>
 <p>以下では、もちろん極小さいな部分である、１３９章だけをしか巡礼所としての<a href="https://ja.wikipedia.org/wiki/モン・サン＝ミシェル" title="https://ja.wikipedia.org/wiki/モン＝サン＝ミシェル"><ruby lang="ja">モン<rp>(</rp><rt lang="fr">Mont</rt><rp>)</rp>・<rp>(</rp><rt lang="fr"></rt><rp>)</rp>サン<rp>(</rp><rt lang="fr">Saint</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>ミシェル<rp>(</rp><rt lang="fr">Michel</rt><rp>)</rp></ruby></a> の元にあると作品の中で言われているから紹介しません。</p>
 <p><a href="https://ja.wikipedia.org/wiki/ミカエル" title="https://ja.wikipedia.org/wiki/ミカエル">大天使ミカエル</a>と雄ウシ、まだまだいろいろが登場します...驚くほどに語りが大天使から止まることなく少しづつ密かに天使たちの信仰の語りに展開します。</p>
 <p>計り知れない存在と感覚ある実在とをいろいろ考えさせられるのであろうから、信じるか信じないか別にして、自分で出来れば最後まで、当時の独特な強い主教色を怖がらずに、読むことをお勧めします。</p>
 </div>
 
-<article>
+<section id="chap139">
+<h2 class="red"><cite><ruby>黄金伝説<rp>(</rp><rt>レゲンダ・アウレア</rt><rp>)</rp></ruby></cite>の１３９章の文書：聖ミカエル</h2>
 
-<h2 id="chap139" class="red"><cite><ruby>黄金伝説<rp>(</rp><rt>レゲンダ・アウレア</rt><rp>)</rp></ruby></cite>の１３９章の文書：聖ミカエル</h2>
-
-<h3 id="name" class="red">聖ミカ工ルの名</h3>
+<section id="name">
+<h3 class="red">聖ミカ工ルの名</h3>
 
 <p><mark>ミカ工ル</mark>とは、〈だれが神に比べられようか〉という意味である。<a href="#note-gregorius" title="聖グレゴリウス" id="gregorius">聖グレゴリウス</a>は、こう書いている。</p>
 <p class="conversation">「大きな奇跡が起こるときには、いつも<mark>ミカエル</mark>が派遣される。その<ruby>業<rp>(</rp><rt>わざ</rt><rp>)</rp></ruby>とその名前から、このような偉大な奇跡は神以外のだれもなしえないということが明らかになるためである」</p>
@@ -39,13 +39,16 @@
 <p>彼は、主の命令によって<a href="#note-oliviers" title="オリヴ山" id="oliviers">オリヴ山</a>上で<a href="#note-antechrist" title="破壊者" id="antechrist2">反キリスト</a>にを力をもって倒すであろう。死者たちは、彼の声によって復活すると言われている。
 <a href="#note-jugement" title="最後の審判の日" id="jugement">最後の審判の日</a>に聖十字架と<ruby>聖<rp>(</rp><rt>せい</rt><rp>)</rp>釘<rp>(</rp><rt>てい</rt><rp>)</rp></ruby>と<ruby>聖<rp>(</rp><rt>せい</rt><rp>)</rp>槍<rp>(</rp><rt>そう</rt><rp>)</rp></ruby>といばらの冠をもってくるのも、彼であるとされている。</p>
 <p>大天使聖<mark>ミカエル</mark>の祝日は、彼の出現と勝利と奉献と記憶の日とよばれている。</p>
+</section>
 
-<h3 id="apparitions" class="red">出現</h3>
+<section id="apparitions">
+<h3 class="red">出現</h3>
 
-<h4 id="garganus" class="red">ガルガヌスと雄牛の出現</h4>
+<section id="garganus">
+<h4 class="red">ガルガヌスと雄牛の出現</h4>
 
 <p><mark>聖ミカエル</mark>の出現は、いろいろある。最初の出現は、<a href="#note-gargano" title="ガルガーノ山" id="gargano">ガルガーノ山</a>上であった。</p>
-<p>ガルガーノはアプリア地方の山で、シポントウムという町の近くにある。主の<time datetime="390">紀元３９０年ごろ</time>、この町に<ruby>ガルガヌス<rp>(</rp><rt>Garganus</rt><rp>)</rp></ruby>という名の男が住んでいた。
+<p>ガルガーノはアプリア地方の山で、シポントウムという町の近くにある。主の<time datetime="0390">紀元３９０年ごろ</time>、この町に<ruby>ガルガヌス<rp>(</rp><rt>Garganus</rt><rp>)</rp></ruby>という名の男が住んでいた。
 山の名は、この男の名前にちなんでつけられた。
 しかし、男の名前がこの山の名からとられたとしている本もある。</p>
 <p>ガルガヌスは、数えきれないほど多くの牛や羊を飼っていた。</p>
@@ -61,10 +64,12 @@
 よって、あの奇跡でもって、自分がこの土地の守護者であり番人であることを知らせようとしたのです」</p>
 <p>そこで、司教と町の住民たちは、ただちに行列をくんで、奇跡の起こった場所に行き、洞穴のまえでうやうやしくお祈りをささげた。
 しかし、洞穴のなかに入ることははばかった。</p>
+</section>
 
-<h4 id="mont-tombe" class="red">トウンバ岩山での出現</h4>
+<section id="mont-tombe">
+<h4 class="red">トウンバ岩山での出現</h4>
 
-<p>二度目の出現は、主の<time datetime="710">紀元７１０年ごろ</time>のことであったと言われている。</p>
+<p>二度目の出現は、主の<time datetime="0710">紀元７１０年ごろ</time>のことであったと言われている。</p>
 <p>アプリカの町から六マイルほどはなれた海辺の<a href="#note-tumba" title="トウンバ" id="tumba">トウンバ</a>というところで、聖<mark>ミカエル</mark>がこの町の司教にあらわれ、この地に教会を建て、ガルガーノの山でおこなわれているように、わたしを記念する場所としなさい、と命じた。</p>
 <p>司教がどこに教会を建てたものかと思案していると、泥棒どもが隠した雄牛の見つかる場所に建てなさいというお告げがあった。</p>
 <p>また、司教がどれほどの広さの教会にしたものかと迷っていると、雄牛の足跡が地面に残っているだけの広さにしなさいというお告げがあった。</p>
@@ -77,7 +82,7 @@
 すると、水が<ruby>滾<rp>(</rp><rt>こん</rt><rp>)</rp>々<rp>(</rp><rt>こん</rt><rp>)</rp></ruby>と湧きだしてきた。
 今日、ここからゆたかな水が流れでている。</p>
 <p>聖<mark>ミカエル</mark>の慈悲のあらわれである。
-この出現、<time datetime="10-16">１０月１６日</time>に祝われる。</p>
+この出現、<time datetime="10-16">十月十六日</time>に祝われる。</p>
 <p>おなじ町で、もうひとつ記憶にあたいするような奇跡が起こったと言われる。</p>
 <p>この山は、周囲を海にかこまれているが、聖<mark>ミカエル</mark>の日には、二度海の潮が引いて、自由に渡れるようになる。</p>
 <p>昔のことだから、実際そういうことがあったのであろう。</p>
@@ -86,16 +91,20 @@
 <p><ruby>身<rp>(</rp><rt>み</rt><rp>)</rp>重<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>の婦人だけは、逃げおくれて、波にのまれてしまった。</p>
 <p>しかし、大天使聖<mark>ミカエル</mark>が彼女をしっかりつかまえていてくれたので、彼女は、海のなかで無事子供を生みおとし、腕に抱いて乳を飲ませた。</p>
 <p>そして、潮がまた引いて通り道ができると、うれしそうに子供といっしょに水のなかからあがってきた。</p>
+</section>
 
-<h4 id="chateau-saint-ange" class="red">聖天使城での出現</h4>
+<section id="chateau-saint-ange">
+<h4 class="red">聖天使城での出現</h4>
 
 <p>三度目の出現は、ある本によると、教皇グレゴリウスの時代にローマで起こった。</p>
 <p>というのは、教皇が俗に〈よこね〉とよばれているペストの流行を終わらせるために大がかりな祈願行列をくりだし、人びとの救霊のために祈っていたとき、ハドリアヌス霊廟とよばれていた城のうえにひとりの天使が立っているのが見えた。</p>
 <p>天使は、血にぬれた剣をぬぐい、<ruby>鞘<rp>(</rp><rt>さや</rt><rp>)</rp></ruby>におさめた。</p>
-<p>教皇は、これを見て、神が自分の祈りを聞きとどけてくださったのだと理解し、その場所に天使をたたえて教会を建てた。それにちなんで、この城も、今日にいたるまで 〈<a href="#note-saintange" title="聖天使城" id="saintange2"><ruby lang="ja">聖天使城<rp>(</rp><rt lang="it">Castel&#160;Sant'Angelo</rt><rp>)</rp></ruby></a>〉 とよばれている。</p>
+<p>教皇は、これを見て、神が自分の祈りを聞きとどけてくださったのだと理解し、その場所に天使をたたえて教会を建てた。それにちなんで、この城も、今日にいたるまで 〈<a href="#note-saintange" title="聖天使城" id="saintange2"><ruby lang="ja">聖天使城<rp>(</rp><rt lang="it">Castel&nbsp;Sant'Angelo</rt><rp>)</rp></ruby></a>〉 とよばれている。</p>
 <p>この出現は、聖<mark>ミカエル</mark>がガルガーノの山にあらわれて、シポントゥムの町の人たちに勝利をあたえた出現とおなじく、<time datetime="05-08">５月８日</time>に祝われる。</p>
+</section>
 
-<h4 id="de-hierarchia" class="red">天上位階での出現</h4>
+<section id="de-hierarchia">
+<h4 class="red">天上位階での出現</h4>
 
 <p>第四の出現は、天使たちの<a href="#note-hierarchia" title="階級秩序" id="hierarchia">階級秩序</a>のなかにある。</p>
 <ol>
@@ -302,8 +311,10 @@
       <p>第三が天使の仕事であるという。</p>
     </li>
   </ol>
+</section>
 
-<h4 id="infirme" class="red">食べることも、飲むこともできない人に出現</h4>
+<section id="infirme">
+<h4 class="red">食べることも、飲むこともできない人に出現</h4>
 
 <p>五度目の出現は、『<a href="#note-histeccltrip" title="三部教会史" id="histeccltrip">三部教会史</a>』に書かれている。
 コンスタンティノポリスの近くに小さな町があって、むかし<a href="#note-vesta" title="ウェスタ女神" id="vesta">ウェスタ女神</a>を崇拝していた。
@@ -315,27 +326,33 @@
 すると、聖<mark>ミカエル</mark>が彼にあらわれて、蜂蜜とぶどう酒と<ruby>胡<rp>(</rp><rt>こ</rt><rp>)</rp>椒<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby>をまぜた飲みものを作りなさい、どんな食べものも、これに<ruby>浸<rp>(</rp><rt>ひた</rt><rp>)</rp></ruby>してから食べるのです、そうすれば病気はすっかりよくなります、と告げた。
 男がそのとおりにすると、さしもの熱病も<ruby>快<rp>(</rp><rt>かい</rt><rp>)</rp>癒<rp>(</rp><rt>ゆ</rt><rp>)</rp></ruby>した。
 医術によると、熱病患者に刺激的な飲みものはよくないとされているのに、みごとに常識をくつがえしたのである。</p>
+</section>
+
+</section>
 
 
 <!-- page 2 -->
 
-
-<h3 id="victoire-michel" class="red">大天使ミカエルの勝利</h3>
+<section id="victoire-michel">
+<h3 class="red">大天使ミカエルの勝利</h3>
 
 <p>つぎに、この祝日は、聖<mark>ミカエル</mark>の勝利の日とも言われる。聖<mark><mark>ミカエル</mark></mark>をはじめ天使たちの勝利は、さまざまのものがある。</p>
 
-<h4 id="victoire-sipontus" class="red">シポントゥムのキリスト教徒たちの勝利</h4>
+<section id="victoire-sipontus">
+<h4 class="red">シポントゥムのキリスト教徒たちの勝利</h4>
 
 <p>第一の勝利は、聖<mark>ミカエル</mark>が上述のシポントゥムの人びとにもたらした勝利である。
 この勝利は、つぎのようなものであった。</p>
-<p>聖<mark>ミカエル</mark>の洞穴の発見後しばらくたってから、当時まだ異教徒であったナポリの市民たちは、兵を送って、シポントゥムの町とそこから５０マイルほどはなれた<a href="#note-benevent" title="ベネヴェント" id="benevent">ベネヴェント</a>の町を攻撃した。</p>
+<p>聖<mark>ミカエル</mark>の洞穴の発見後しばらくたってから、当時まだ異教徒であったナポリの市民たちは、兵を送って、シポントゥムの町とそこから五十マイルほどはなれた<a href="#note-benevent" title="ベネヴェント" id="benevent">ベネヴェント</a>の町を攻撃した。</p>
 <p>このとき、シボントゥムの司教は、三日間の休戦をもとめ、そのあいだ断食をして町の守護者である聖<mark>ミカエル</mark>にお助けを祈願するように、と町の人びとに助言した。</p>
-<p>三日目の夜、聖<mark>ミカエル</mark>が司教にあらわれて、願いは聞きとどけられたと言い、勝利を約束し、翌朝<time datetime="10:00">１０時</time>に敵軍にむかって打ってでるようにと命じた。</p>
+<p>三日目の夜、聖<mark>ミカエル</mark>が司教にあらわれて、願いは聞きとどけられたと言い、勝利を約束し、翌朝<time datetime="10:00">十時</time>に敵軍にむかって打ってでるようにと命じた。</p>
 <p>さて、戦いがはじまると、ガルガーノ山がはげしく<ruby>鳴<rp>(</rp><rt>めい</rt><rp>)</rp>動<rp>(</rp><rt>どう</rt><rp>)</rp></ruby>し、おびただしい稲妻が降り、山頂のまわりに黒雲がたちこめた。</p>
-<p>こうして、炎の矢とシポントゥム兵の剣のために６００名ものナポリ兵が死んだ。</p>
+<p>こうして、炎の矢とシポントゥム兵の剣のために六百名ものナポリ兵が死んだ。</p>
 <p>生き残った兵士たちも、大天使<mark>ミカエル</mark>の力のほどを知り、キリスト教の信仰のまえに屈した。</p>
+</section>
 
-<h4 id="victoire-lucifer" class="red">ルキフェルに対する勝利</h4>
+<section id="victoire-lucifer">
+<h4 class="red">ルキフェルに対する勝利</h4>
 
 <p>聖<mark>ミカエル</mark>が得たニ番目の勝利は、彼が竜すなわち<a href="#note-lucifer" title="ルキフェル" id="lucifer">ルキフェル</a>とその一味を天国から突き落としたときの勝利である。</p>
 <p>これについては、『ヨハネの黙示録』（１２章７節）に書かれている言葉が引用される。</p>
@@ -351,15 +368,17 @@
 <p class="conversation">「昔の哲学者たちも言い、現代の教師たちも信じているように、空中には悪魔や悪霊どもがうようよしている」と書いている。</p>
 <p>彼らの数は、このょうにおびただしく多いが、それでも、<a href="#note-origene" title="オリゲネス" id="origene">オリゲネス</a>の見解によると、われわれが彼らのひとりやっつけるたびに、その軍勢は、すこしずつ減っていくという。</p>
 <p>彼らのひとりがある信心ぶかい人間にやりこめられると、その人を2度とおなじ罪で誘惑することは許されないからである。</p>
+</section>
 
-<h4 id="victoire-anges" class="red">毎日天使たちがかちとる勝利</h4>
+<section id="victoire-anges">
+<h4 class="red">毎日天使たちがかちとる勝利</h4>
 
 <p>三つ目の勝利は、天使たちがいまなお毎日われわれのために戦い、われわれを悪魔どもの誘惑から解放してくれるときにかちとる勝利である。</p>
 <p>天使たちがわれわれを悪魔どもの誘惑から解放してくれるのには、三通りのやりかたがある。</p>
   <ul>
     <li>
       <p>第一のやりかたは、悪魔の力をいましめるのである。</p>
-      <p>これについては、『黙示録』（１０章２節～３節）に、悪魔をしばりあげて底なしの淵に投げこんだ天使のことが記されている。</p>
+      <p>これについては、『黙示録』（１０章２節から３節まで）に、悪魔をしばりあげて底なしの淵に投げこんだ天使のことが記されている。</p>
       <p>『トビト書』（８章３節）にも、上部エジプトの荒野で天使にしばりあげられた悪魔のことが出てくる。</p>
       <p>ところで、悪魔をしばるとは、悪魔の力を奪いとることにほかならない。</p>
     </li>
@@ -377,8 +396,10 @@
       <p class="conversation">「しかし、身にしるしのある者は殺してはならない」と言われているのは、そのためである。</p>
     </li>
   </ul>
+</section>
 
-<h4 id="victoire-antechrist" class="red">反キリストにかちとる勝利</h4>
+<section id="victoire-antechrist">
+<h4 class="red">反キリストにかちとる勝利</h4>
 
 <p>四つ目の勝利は、大天使<mark>ミカエル</mark>が反キリストを滅ぼすときにかちとる勝利である。</p>
 <p>『ダニエル書』（１２章１節）にあるように、そのとき大いなる<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby><mark>ミカエル</mark>は、反キリストから守り救ってくれる者として選ばれた人びとのまえに力づよく立つであろう。</p>
@@ -399,8 +420,12 @@
   <li>つぎに、われわれを誘惑しようとする悪魔たちとの戦い。</li>
   <li>さらに、<mark>ミカエル</mark>は、いま述べたように、世の終わりのときに反キリストと戦うのである。</li>
 </ol>
+</section>
 
-<h3 id="dedicace" class="red">奉献の祝日</h3>
+</section>
+
+<section id="dedicace">
+<h3 class="red">奉献の祝日</h3>
 
 <p>第三に、この日が聖<mark>ミカエル</mark>奉献の祝日ともよばれるのは、この日に聖<mark>ミカエル</mark>があのガルガーノ山上の洞穴はすでに奉献されて、自分に献じられていると告げたからである。</p>
 <p>というのは、シポントゥムの町の人びとは、敵軍に大勝して町に帰ってからも、あの山上の洞穴に入るべきか、それともこの場所を奉献すべきかで迷っていたからである。</p>
@@ -422,11 +447,10 @@
 <p>この洞穴には、たいへん甘味な清水が湧きでている。聖体を拝領してからこの清水を飲むと、いろんな病気が治る。</p>
 <p>これら一部始終のことを聞いた教皇は、以後この日を聖<mark>ミカエル</mark>とすべての天使たちをたたえる祝日とするょうに命じた。</p>
 
-
 <!-- page 3 -->
 
-
-<h3 id="memoire-saint-michel" class="red">聖ミカエルの記憶祝日</h3>
+<section id="memoire-saint-michel">
+<h3 class="red">聖ミカエルの記憶祝日</h3>
 
 <p>第四に、この祝日は、聖<mark>ミカエル</mark>の記憶ともよばれる。</p>
 <p>なぜなら、われわれは、この日すべての天使たちの記憶をおこない、天使たちすべてをともに崇敬するからである。</p>
@@ -441,8 +465,10 @@
   <li>天使たちは、至高の王のけだかい騎士であり、</li>
   <li>悲しめる者たちの慰め手である。</li>
 </ul>
+</section>
 
-<h4 id="anges-gardiens" class="red">天使たちがわれわれの守護者だからである</h4>
+<section id="anges-gardiens">
+<h4 class="red">天使たちがわれわれの守護者だからである</h4>
 
 <p>われわれが天使たちを崇敬しなくてはならないのは、まず第一に、彼らがわれわれの守護者だからである。
 それぞれの人間には、ふたりの天使がついている。
@@ -491,7 +517,7 @@
   </li>
   <li>
     <p>つぎに、過去の罪を罰し、人間をそれから解きはなつ。
-    『<ruby>士<rp>(</rp><rt>し</rt><rp>)</rp>師<rp>(</rp><rt>し</rt><rp>)</rp>記<rp>(</rp><rt>き</rt><rp>)</rp></ruby>』（２章１節～４節）に、天使がイスラエルの子らを主の命令にしたがわなかったことでとがめると、人びとは声をあげて泣いたと書かれているのが、それである。</p>
+    『<ruby>士<rp>(</rp><rt>し</rt><rp>)</rp>師<rp>(</rp><rt>し</rt><rp>)</rp>記<rp>(</rp><rt>き</rt><rp>)</rp></ruby>』（２章１節から４節まで）に、天使がイスラエルの子らを主の命令にしたがわなかったことでとがめると、人びとは声をあげて泣いたと書かれているのが、それである。</p>
   </li>
   <li>
     <p>さらに、現在の罪を断固として<ruby>阻<rp>(</rp><rt>はば</rt><rp>)</rp></ruby>む。
@@ -506,7 +532,7 @@
     『トビト書』（１１章１１節）に、トビアスが天使に教えられて父親の眼（すなわち、霊の眼）に<ruby>胆<rp>(</rp><rt>たん</rt><rp>)</rp>汁<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby>を塗る話が出てくるが、これが痛悔なのである。</p>
   </li>
   <li>
-    <p>つぎに、天使は、告解をさせるために人間のロを清める。『イザヤ書』（６章６節～７節）に、天使が<a href="#note-isaie" title="イザヤ" id="isaie">イザヤ</a>のロを清める話出ている。</p>
+    <p>つぎに、天使は、告解をさせるために人間のロを清める。『イザヤ書』（６章６節から７節まで）に、天使が<a href="#note-isaie" title="イザヤ" id="isaie">イザヤ</a>のロを清める話出ている。</p>
   </li>
   <li>
     <p>さらに、天使は、人間を悔俊させる。
@@ -526,8 +552,10 @@
     <p>最後に、すでに述べたように、主のご受難の記憶をわたしたちの意識にしっかりおぼえこませる。</p>
   </li>
 </ul>
+</section>
 
-<h4 id="anges-servants" class="red">天使たちがわれわれの奉仕者だからである</h4>
+<section id="anges-servants">
+<h4 class="red">天使たちがわれわれの奉仕者だからである</h4>
 
 <p>われわれが天使たちを崇敬しなくてはならない第二の理由は、彼らがわれわれの奉仕者だからである。</p>
 <p>というのは、『ヘブル人への手紙』（１章１４節）にもあるように、</p>
@@ -569,13 +597,15 @@
         『黙示録』（１０章２節）に語られている、開かれた本を手にした天使は、そのことをあらわしている。</p>
       </li>
       <li>
-        <p>第三に、われわれのなかにあるすべての完全なものをいやがうえにも強め、鼓舞するためである。『列王紀上』（１９章５節～８節）に、天使がエリアに焼け石のうえで焼いたパンと<ruby>一<rp>(</rp><rt>ひと</rt><rp>)</rp>瓶<rp>(</rp><rt>びん</rt><rp>)</rp></ruby>の水をあたえ、これを食べて力づいたエリアがついに神の山<a href="#note-horeb" title="ホレブ" id="horeb">ホレブ</a>に着いたという話が出てくるが、これはそのことをあらわしている。</p>
+        <p>第三に、われわれのなかにあるすべての完全なものをいやがうえにも強め、鼓舞するためである。『列王紀上』（１９章５節から８節まで）に、天使がエリアに焼け石のうえで焼いたパンと<ruby>一<rp>(</rp><rt>ひと</rt><rp>)</rp>瓶<rp>(</rp><rt>びん</rt><rp>)</rp></ruby>の水をあたえ、これを食べて力づいたエリアがついに神の山<a href="#note-horeb" title="ホレブ" id="horeb">ホレブ</a>に着いたという話が出てくるが、これはそのことをあらわしている。</p>
       </li>
     </ol>
   </li>
 </ol>
+</section>
 
-<h4 id="anges-freres" class="red">天使たちがわれわれの兄弟であり、同胞であるためである</h4>
+<section id="anges-freres">
+<h4 class="red">天使たちがわれわれの兄弟であり、同胞であるためである</h4>
 
 <p>われわれが天使たちを尊崇しなければならない第三の理由は、彼らがわれわれの兄弟であり、同胞であるためである。</p>
 <p>というのは、すべての選ばれた者は、天使たちの群れのなかに加えられるからである。
@@ -651,7 +681,9 @@
   </li>
 </ol>
 <p>聖グレゴリウスは、このように述べている。</p>
+</section>
 
+<section>
 <h4 class="red">天使たちがわれわれのたましいを天にみちびいてくれるためである</h4>
 
 <p>われわれが天使たちを尊崇しなくてはならない第四の理由は、天使たちがわれわれのたましいを天にみちびいてくれるためである。
@@ -673,8 +705,10 @@
     <p class="conversation">「やがて、この貧しい人は死に、御使いたちによってアブラハムの<a href="#note-hutokoro" title="ふところ" id="hutokoro">ふところ</a>につれていかれた」（１６章２２節）とあるのが、それである。</p>
   </li>
 </ol>
+</section>
 
-<h4 id="anges-intercesseurs" class="red">天使たちがわれわれの祈りを神のまえにとどけてくれるためである</h4>
+<section id="anges-intercesseurs">
+<h4 class="red">天使たちがわれわれの祈りを神のまえにとどけてくれるためである</h4>
 
 <p>われわれが天使たちを崇敬しなくてはならない第五の理由は、彼らがわれわれの祈りを神のまえにとどけてくれるためである。
 れにも、三つの手順がある。</p>
@@ -691,7 +725,7 @@
     <p>また、「ザカリア書」（１章１２節）には、</p>
     <p class="conversation">「すると、主の御使いは言った。
     〈万軍の主よ、あなたは、いつまでイスラエルと<a href="#note-juda" title="ユダ" id="juda">ユダ</a>の町をあわれんでくださらないのですか。
-    あなたがお怒りになってから、もう７０年にもなります〉」とあるが、使は、こう言ってイスラエルをとりなしたのである。</p>
+    あなたがお怒りになってから、もう七十年にもなります〉」とあるが、使は、こう言ってイスラエルをとりなしたのである。</p>
   </li>
   <li>
     <p>三番目に、天使たちは、神のご判断をわれわれに告げる。
@@ -703,8 +737,10 @@
 </ol>
 <p>聖べルナルドゥスは、『<a href="#note-psaumes" title="聖歌" id="psaumes">雅歌</a>』について述べたくだりでこの3つの手順をこう言っている。</p>
 <p class="conversation">「天使は、愛しあうふたりのあいだを駆けめぐり、花嫁の誓いを花婿に伝え、花婿の贈りものを花嫁にとどけ、花嫁に恋心を呼びさまし、花婿の気持を花嫁にやさしくさせる」。</p>
+</section>
 
-<h4 id="anges-chevaliers" class="red">天使たちが永遠の王のけだかい騎士であるからである</h4>
+<section id="anges-chevaliers">
+<h4 class="red">天使たちが永遠の王のけだかい騎士であるからである</h4>
 
 <p>われわれが天使を崇敬する六つ目の理由は、天使たちが永遠の王のけだかい騎士であるからである。
 『ヨブ記』（２５章３節）には、</p>
@@ -723,7 +759,7 @@
 </ol>
 <ol>
   <li>
-    <p>それとおなじように、主キリストの騎士のなかにも、宮廷すなわち<a href="#note-empyree" title="最高天" id="empyree"><ruby>最高天<rp>(</rp><rt>エンビュラエウム</rt><rp>)</rp></ruby></a>に住まい、つねに主のお相手をつとめ、主をたたえ慰める歌をうたい、（『黙示』７章７節～１２節）</p>
+    <p>それとおなじように、主キリストの騎士のなかにも、宮廷すなわち<a href="#note-empyree" title="最高天" id="empyree"><ruby>最高天<rp>(</rp><rt>エンビュラエウム</rt><rp>)</rp></ruby></a>に住まい、つねに主のお相手をつとめ、主をたたえ慰める歌をうたい、（『黙示』７章７節から１２節まで）</p>
     <p class="conversation">「聖なるかな、聖なるかな、聖なるかな、万軍の主なる天主」</p>
     <p class="conversation">「賛美と栄光と知恵が、世々かぎりなくわれらの神とともにありますように」ととなえる者もあれば、</p>
     <p>町や国や村や城を守る者もある。</p>
@@ -740,8 +776,10 @@
     <p>それである（この天は戦う教会をさすという解釈がある）。</p>
   </li>
 </ol>
+</section>
 
-<h4 id="anges-consolateurs" class="red">天使たちが悲しめる人間たちをなぐさめてくれるからである</h4>
+<section id="anges-consolateurs">
+<h4 class="red">天使たちが悲しめる人間たちをなぐさめてくれるからである</h4>
 
 <p>われわれが天使たちを尊崇しなくてはならない七番目の、そして最後の理由は、彼らが悲しめる人間たちをなぐさめてくれるからである。
 『ザカリア書』（１章１３節）には、</p>
@@ -759,7 +797,7 @@
   </li>
   <li>
     <p>つぎに、天使たちは、<ruby>焦<rp>(</rp><rt>あせ</rt><rp>)</rp></ruby>りやせっかちから守ってくれる。
-    『詩篇』（９１章１１節～１２節）に、</p>
+    『詩篇』（９１章１１節から１２節まで）に、</p>
     <p class="conversation">「主は、あなたのために天使たちに命じて、あなたの歩むすべての道であなたを守らせる。
     天使たちは、その手であなたを支え、石に足を打ちつけることのないようにする」とある。</p>
   </li>
@@ -768,6 +806,9 @@
     『ダニエル書』（３章１９節以下）に、火のなかに投げこまれた三人の青年のところに主の御使いが舞いおりてきて、朝の風に吹かれたように炉のなかを涼しくしたという話が出てくるが、この物語は、そのことをあらわしているのである。</p>
   </li>
 </ol>
+</section>
+
+</section>
 
 <footer>
   <p><span style="color: #b52b27;">ヤコブス・デ・ウォラギネ、<cite><ruby>黄金伝説<rp>(</rp><rt>レゲンダ・アウレア</rt><rp>)</rp></ruby></cite>、第１３９章。</span></p>
@@ -782,18 +823,21 @@
 <h3 class="red">注釈</h3>
 </div>
 
-<h4 id="note-gregorius" class="red note"><ruby lang="ja">聖<rp>(</rp><rt lang="la">sanctus</rt><rp>)</rp>グレゴリウス<rp>(</rp><rt lang="la">Gregorius</rt><rp>)</rp></ruby></h4>
+<section id="note-gregorius">
+<h4 class="red note"><ruby lang="ja">聖<rp>(</rp><rt lang="la">sanctus</rt><rp>)</rp>グレゴリウス<rp>(</rp><rt lang="la">Gregorius</rt><rp>)</rp></ruby></h4>
 
 <div class="notices red">
-<p>第六四教皇グレゴリウス一世（位<time datetime="590">５９０年</time>－<time datetime="604">６０４年</time>）、聖人（祝<time datetime="03-12">３月１２日</time>）。大教皇とよばれる。最後のラテン教父にして中世的教皇の開始者。古代から中世への伝換期に内外多難な教会を統治し、教皇権の政治的地位を確立、ランゴバルド人、フランク族、西ゴート族との外交関係を円満にしイギリスの宣教に尽力。典礼面においても、ミサの改革をおこない、教会聖歌を新修し、『グレゴリウス典礼書』（現行ミサ典書の基礎）や〈グレゴリウス聖歌〉にその名をとどめている。美術上のグレゴリウスは、教皇の三重冠をかぶり、二重の十字架のついた教皇杖をもち、頭あるいは肩に聖霊の鳩がとまっている。学者、教師、音楽家、学生の保護の聖人。また、彼の代願は、痛風に有効であるとされる。</p>
+<p>第六四教皇グレゴリウス一世（位<time datetime="0590">５９０年</time>－<time datetime="0604">６０４年</time>）、聖人（祝<time datetime="03-12">三月十二日</time>）。大教皇とよばれる。最後のラテン教父にして中世的教皇の開始者。古代から中世への伝換期に内外多難な教会を統治し、教皇権の政治的地位を確立、ランゴバルド人、フランク族、西ゴート族との外交関係を円満にしイギリスの宣教に尽力。典礼面においても、ミサの改革をおこない、教会聖歌を新修し、『グレゴリウス典礼書』（現行ミサ典書の基礎）や〈グレゴリウス聖歌〉にその名をとどめている。美術上のグレゴリウスは、教皇の三重冠をかぶり、二重の十字架のついた教皇杖をもち、頭あるいは肩に聖霊の鳩がとまっている。学者、教師、音楽家、学生の保護の聖人。また、彼の代願は、痛風に有効であるとされる。</p>
 </div>
 
 <footer>
-  <p class="puce">文書に戻る：<a href="#gregorius" title="聖グレゴリウス">聖グレゴリウスは、こう書いている。 ↩</a></li>
-  <p class="puce">文書に戻る：<a href="#gregorius2" title="聖グレゴリウス">上級三隊の決めかたについては、聖グレゴリウスと聖ベルナルドゥス　↩</a></p>
+  <p class="puce">文書に戻る：<a href="#gregorius" title="聖グレゴリウス">聖グレゴリウスは、こう書いている。 ↩</a></p>
+  <p class="puce">文書に戻る：<a href="#gregorius2" title="聖グレゴリウス">上級三隊の決めかたについては、聖グレゴリウスと聖ベルナルドゥス&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-daniel" class="red note">ダニエル書</h4>
+<section id="note-daniel">
+<h4 class="red note">ダニエル書</h4>
 
 <div class="notices red">
 <p>『ダニエル書』の主人公<ruby lang="ja">ダニエル<rp>(</rp><rt lang="he">דָּנִיּאֵל</rt><rp>)</rp></ruby>は、バビロニアのネブカドネザル大王によって捕因とされたユダヤの少年貴族の一人で、ダリヨス王のとき、王の信頼を受け、三人の総監（最高行政官）の第一人者に任じられたが、他の総監や総督たちにはかられ、王の禁令にそむいたとして、「獅子の穴」に投げこまれた。しかし、主は御使いを送って獅子たちの口をさがれたので、ダニエルは、なんの害も受けなかった（『ダニ』６章１以下）。なお、『ダニエル書』は、旧約預言書のひとつで、シリア王アンティオコス四世エピパネスの圧政に苦しむユダヤ人をはげますために書かれた。ダニエルとその三人の友人たちをめぐる物語の部分（１章６節）とダニエルにあたえられたさまざまな幻視をみずから語る黙示文学的な第ニ部（７章１２節）とに大別される。</p>
@@ -801,346 +845,405 @@
 </div>
 
 <footer>
-  <p class="puce">文書に戻る：<a href="#daniel" title="ダニエル書">ダニエルが書いているように、ミカエルは、　↩</a></li>
-  <p class="puce">文書に戻る：<a href="#daniel2" title="ダニェル書">「ダニェル書」に出てくる「ペルシアの国の<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>」とは、　↩</a></p>
+  <p class="puce">文書に戻る：<a href="#daniel" title="ダニエル書">ダニエルが書いているように、ミカエルは、&nbsp;↩</a></p>
+  <p class="puce">文書に戻る：<a href="#daniel2" title="ダニェル書">「ダニェル書」に出てくる「ペルシアの国の<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>」とは、&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-antechrist" class="red note">反キリスト</h4>
+<section id="note-antechrist">
+<h4 class="red note">反キリスト</h4>
 
 <div class="notices red">
 <p><ruby lang="ja">反キリスト<rp>(</rp><rt lang="la">Antechristus</rt><rp>)</rp></ruby>、破壊者、悪魔のこと。</p>
-<p>〈キリストの滴〉の意。世界の終末に先立って出現し、偽キリスト、偽救世主としていつわりの奇跡をおこない、信仰から離反をそそのかす者または力。『黙示』１３章１６によると、６６６という数がその象徴である。</p>
+<p>〈キリストの滴〉の意。世界の終末に先立って出現し、偽キリスト、偽救世主としていつわりの奇跡をおこない、信仰から離反をそそのかす者または力。『黙示』１３章１６によると、六百六十六という数がその象徴である。</p>
 <p>『ダニ』９章２７節、１１章３１節、１２章１１節、『マタ』２４章１５節、『マコ』１３章１４節。</p>
 </div>
 
 <footer>
-  <p class="puce">文書に戻る：<a href="#antechrist" title="破壊者、反キリスト">ミカエルは、「憎むべき破壊者　↩</a></li>
-  <p class="puce">文書に戻る：<a href="#antechrist2" title="反キリスト">オリヴ山上で反キリスト　↩</a></p>
+  <p class="puce">文書に戻る：<a href="#antechrist" title="破壊者、反キリスト">ミカエルは、「憎むべき破壊者&nbsp;↩</a></p>
+  <p class="puce">文書に戻る：<a href="#antechrist2" title="反キリスト">オリヴ山上で反キリスト&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-moise" class="red note"><ruby lang="ja">モーセ<rp>(</rp><rt lang="la">Moses</rt><rp>)</rp></ruby>の遺体</h4>
+<section id="note-moise">
+<h4 class="red note"><ruby lang="ja">モーセ<rp>(</rp><rt lang="la">Moses</rt><rp>)</rp></ruby>の遺体</h4>
 
 <div class="notices red">
-<p>この話は、『ユダの手紙』の９節に出てくるが、旧約偽典のひとつ『モーセの昇天』（<time datetime="7">紀元７</time>～<time datetime="31">３１年ごろ</time>の成立）からの引用である。しかし、同書のこの話の部分は伝わっていない。おそらくユダヤの民間伝承であろうと言われている。</p>
+<p>この話は、『ユダの手紙』の９節に出てくるが、旧約偽典のひとつ『モーセの昇天』（<time datetime="0007">紀元七</time>～<time datetime="0031">三十一年ごろ</time>の成立）からの引用である。しかし、同書のこの話の部分は伝わっていない。おそらくユダヤの民間伝承であろうと言われている。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#moise" title="モーセの遺体">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#moise" title="モーセの遺体">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-canaan" class="red note">カナアン</h4>
+<section id="note-canaan">
+<h4 class="red note">カナアン</h4>
 
 <div class="notices red">
 <p>（「カナン」とも書く）　地方のことで、パレスティナのヨルダン川以西の地域をさした。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#canaan" title="カナアン">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#canaan" title="カナアン">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-oliviers" class="red note">オリヴ山</h4>
+<section id="note-oliviers">
+<h4 class="red note">オリヴ山</h4>
 
 <div class="notices red">
 <p>イェルサレムの東三キロ、オリヴ山の東南にある村。</p>
-<p><ruby lang="ja">オリヴ山<rp>(</rp><rt lang="la">Monte&#160;Olivarum</rt><rp>)</rp></ruby>は、イェルサレムの町のすぐ東にあり、キデロンの谷をへだてて神殿と<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp>峙<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>している。標高８１４メートル、現在は石炭岩のはだか山であるが、往時は、オリヴの木が全山をおおっていたのであろう。ここは、昇天にさきだつ復活の主が弟子たちと会合された場所であると同時に、その最後の会合の地も、この山がその近くであったと考えられている。山頂は三つあって、そのひとつジェベル・エト・トゥルの山頂からイエスは昇天されたと信じられた。<time datetime="375">３７５年ごろ</time>、この場所に八角形の教会が建てられ、十字軍時代に再建されたが、<time datetime="1200">１３世紀</time>イスラム教徒に占領され、いま残っているのは、基礎部と中央聖堂だけである。この中央聖堂は、正確に、イエスが「引きあげられた」、地点であると伝えられている。</p>
+<p><ruby lang="ja">オリヴ山<rp>(</rp><rt lang="la">Monte&nbsp;Olivarum</rt><rp>)</rp></ruby>は、イェルサレムの町のすぐ東にあり、キデロンの谷をへだてて神殿と<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp>峙<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>している。標高八百十四メートル、現在は石炭岩のはだか山であるが、往時は、オリヴの木が全山をおおっていたのであろう。ここは、昇天にさきだつ復活の主が弟子たちと会合された場所であると同時に、その最後の会合の地も、この山がその近くであったと考えられている。山頂は三つあって、そのひとつジェベル・エト・トゥルの山頂からイエスは昇天されたと信じられた。<time datetime="0375">３７５年ごろ</time>、この場所に八角形の教会が建てられ、十字軍時代に再建されたが、<time datetime="1250">十三世紀</time>イスラム教徒に占領され、いま残っているのは、基礎部と中央聖堂だけである。この中央聖堂は、正確に、イエスが「引きあげられた」、地点であると伝えられている。</p>
 <p>『ヨハ』１１章１８節、『ルカ』１９章２９節</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#oliviers" title="オリヴ山">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#oliviers" title="オリヴ山">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-jugement" class="red note">最後の審判の日</h4>
+<section id="note-jugement">
+<h4 class="red note">最後の審判の日</h4>
 
 <div class="notices red">
-<p><ruby lang="ja">最後の審判<rp>(</rp><rt lang="la">Extremo&#160;Iudicio</rt><rp>)</rp></ruby>は、〈公審判〉とも言い、この世の終末の日に全人類が肉においてよみがえってからおこなわれる審判。その裁き主は、その死をもって人類の罪をおこなった救主イエス・キリストその人であり、サタン（悪魔）が告発者となる。</p>
+<p><ruby lang="ja">最後の審判<rp>(</rp><rt lang="la">Extremo&nbsp;Iudicio</rt><rp>)</rp></ruby>は、〈公審判〉とも言い、この世の終末の日に全人類が肉においてよみがえってからおこなわれる審判。その裁き主は、その死をもって人類の罪をおこなった救主イエス・キリストその人であり、サタン（悪魔）が告発者となる。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#jugement" title="最後の審判の日">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#jugement" title="最後の審判の日">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-gargano" class="red note">ガルガーノ山</h4>
+<section id="note-gargano">
+<h4 class="red note">ガルガーノ山</h4>
 
 <div class="notices red">
-<p><ruby lang="ja">ガルガーノ山<rp>(</rp><rt lang="la">Monte&#160;Gargano</rt><rp>)</rp></ruby>はイタリア南東部、プーリア州北部、アッペニーノ山脈がアドリア海に半島状に突きでた海抜３０００メートルほどの山地である。ラテン語では<ruby lang="ja">ガルガヌス<rp>(</rp><rt lang="la">Garganus</rt><rp>)</rp></ruby>。大天使ミカエルの出現があったのは、その南斜面で、本文とは異なり<time datetime="400">５世紀</time>のこととされる。以来西欧におけるミカエル崇敬の重要な巡礼地となった。現在はモンテ・サンタンジェロ（聖天使山の意）という町である。アプリアはプーリアの古名。シポントゥムは、この山地の<ruby>南<rp>(</rp><rt>なん</rt><rp>)</rp>麓<rp>(</rp><rt>ろく</rt><rp>)</rp></ruby>にあるマンフレドニア市の近くにある古代ギリシア人の植民市（古名ショポントゥス）。</p>
+<p><ruby lang="ja">ガルガーノ山<rp>(</rp><rt lang="la">Monte&nbsp;Gargano</rt><rp>)</rp></ruby>はイタリア南東部、プーリア州北部、アッペニーノ山脈がアドリア海に半島状に突きでた海抜三千メートルほどの山地である。ラテン語では<ruby lang="ja">ガルガヌス<rp>(</rp><rt lang="la">Garganus</rt><rp>)</rp></ruby>。大天使ミカエルの出現があったのは、その南斜面で、本文とは異なり<time datetime="0400">５世紀</time>のこととされる。以来西欧におけるミカエル崇敬の重要な巡礼地となった。現在はモンテ・サンタンジェロ（聖天使山の意）という町である。アプリアはプーリアの古名。シポントゥムは、この山地の<ruby>南<rp>(</rp><rt>なん</rt><rp>)</rp>麓<rp>(</rp><rt>ろく</rt><rp>)</rp></ruby>にあるマンフレドニア市の近くにある古代ギリシア人の植民市（古名ショポントゥス）。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#gargano" title="ガルガーノ山">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#gargano" title="ガルガーノ山">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-tumba" class="red note">トウンバ</h4>
+<section id="note-tumba">
+<h4 class="red note">トウンバ</h4>
 
 <div class="notices red">
-<p><ruby lang="ja">トウンバ<rp>(</rp><rt lang="la">tumba</rt><rp>)</rp></ruby>は、現在のル・モン=サン=ミシェルを指しています。ここの聖<mark>ミカエル</mark>崇敬は、<a href="#note-gargano" title="ガルガーノ山">モンテ・ガルガーノ</a>の影響を受けて六世紀にはじまった。このように聖<mark>ミカエル</mark>崇敬は、山とかかわりがあるので、これを北欧神話の主神オーディン（ヴォーダン、ヴォータン）の崇拝と関係づける説もあるが、北欧神話と関係のない東方においても、聖ミカエル崇敬は山とかかわりをもっている。アプリカは、フランス語版によると、モン=サン=ミシェル湾の東の丘上にある町アヴランシュの古名。なお、フランスで聖ミカエルの祝日が<time datetime="10-16">１０月１６日</time>に祝われるのは、このモン・サン=ミシにおける出現に由来する。</p>
+<p><ruby lang="ja">トウンバ<rp>(</rp><rt lang="la">tumba</rt><rp>)</rp></ruby>は、現在のル・モン=サン=ミシェルを指しています。ここの聖<mark>ミカエル</mark>崇敬は、<a href="#note-gargano" title="ガルガーノ山">モンテ・ガルガーノ</a>の影響を受けて六世紀にはじまった。このように聖<mark>ミカエル</mark>崇敬は、山とかかわりがあるので、これを北欧神話の主神オーディン（ヴォーダン、ヴォータン）の崇拝と関係づける説もあるが、北欧神話と関係のない東方においても、聖ミカエル崇敬は山とかかわりをもっている。アプリカは、フランス語版によると、モン=サン=ミシェル湾の東の丘上にある町アヴランシュの古名。なお、フランスで聖ミカエルの祝日が<time datetime="10-16">十月十六日</time>に祝われるのは、このモン・サン=ミシにおける出現に由来する。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#tumba" title="トウンバ">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#tumba" title="トウンバ">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-saintange" class="red note">聖天使城</h4>
+<section id="note-saintange">
+<h4 class="red note">聖天使城</h4>
 
 <div class="notices red">
-<p>この城は、本来ハドリアヌス帝（<time datetime="117">１１７</time>～<time datetime="138">１３８年</time>）のときに起工された歴代皇帝の霊廟であり、中世期にはしばしば謀反を起こす貴族たちの旗上げの拠点となった。グレゴリウス伝説にもとづいて 〈<ruby>聖天使城<rp>(</rp><rt>カステル・サンタンジェロ</rt><rp>)</rp></ruby>〉と命名されたのは、正しくは<time datetime="1000">１１</time>ないし<time datetime="1100">１２世紀</time>のことである。</p>
+<p>この城は、本来ハドリアヌス帝（<time datetime="0117">１１７年</time>～<time datetime="0138">１３８年</time>）のときに起工された歴代皇帝の霊廟であり、中世期にはしばしば謀反を起こす貴族たちの旗上げの拠点となった。グレゴリウス伝説にもとづいて 〈<ruby>聖天使城<rp>(</rp><rt>カステル・サンタンジェロ</rt><rp>)</rp></ruby>〉と命名されたのは、正しくは<time datetime="1050">十一</time>ないし<time datetime="1150">十二世紀</time>のことである。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#saintange" title="聖天使城">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#saintange" title="聖天使城">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-hierarchia" class="red note">天上位階論</h4>
+<section id="note-hierarchia">
+<h4 class="red note">天上位階論</h4>
 
 <div class="notices red">
 <p>「天上位階」とは、ここでは、天使たちの聖秩である。偽ディオニュシウスに書かれた〈天上位階論〉から、現代およびグレゴリウス大教皇以来確立したことを指しています。人間の魂がいかにして神に至るかとの視点から、決定的位階と立っています。聖なる秩序であると同時に、知識でもあり、活動でもある。位階は、到達の段階に応じて、神の姿に似たものになろうとし、神より注ぎ込まれた照明の<ruby>段階<rp>(</rp><rt>アナロギア</rt><rp>)</rp></ruby>に応じつつ、神と類似のものに向かって高まってゆく。上の位階は下の位階に対して啓示となり、下の位階にある者は上の位階があることによって神の恵みを受け取ることができるという。具体的に言えば位階には天使の位階と教会の位階がある。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#hierarchia" title="階級秩序">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#hierarchia" title="階級秩序">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-tobie" class="red note">トビト書</h4>
+<section id="note-tobie">
+<h4 class="red note">トビト書</h4>
 
 <div class="notices red">
-<p>旧約外典のひとつ。<time datetime="-210">紀元前３世紀終わりごろ</time>か<time datetime="-180">２世紀はじめ</time>にアラム語（へブライ語の同族語）で書かれたとされる。トビトとその子トビアス（ラテン語訳では父子ともに<ruby lang="ja">トビアス<rp>(</rp><rt lang="la">Tobias</rt><rp>)</rp></ruby>という名前になっている）の旅行記を主にした小説ふうの宗教的読物。</p>
+<p>旧約外典のひとつ。紀元前三世紀終わりごろかニ世紀はじめにアラム語（へブライ語の同族語）で書かれたとされる。トビトとその子トビアス（ラテン語訳では父子ともに<ruby lang="ja">トビアス<rp>(</rp><rt lang="la">Tobias</rt><rp>)</rp></ruby>という名前になっている）の旅行記を主にした小説ふうの宗教的読物。</p>
 </div>
 
 <footer>
-    <p class="puce"><a href="#tobie" title="トビト書">文書に戻る　↩</a></p>
+    <p class="puce"><a href="#tobie" title="トビト書">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-denis" class="red note"><ruby lang="ja">ディオニュシウス<rp>(</rp><rt lang="la">Dionysius</rt><rp>)</rp></ruby></h4>
+<section id="note-denis">
+<h4 class="red note"><ruby lang="ja">ディオニュシウス<rp>(</rp><rt lang="la">Dionysius</rt><rp>)</rp></ruby></h4>
 
 <div class="notices red">
 <p>天使たちの聖秩について、偽ディオニュシウスに書かれた〈天上位階論〉から、現代およびグレゴリウス大教皇以来確立したことを指しています。人間の魂がいかにして神に至るかとの視点から、決定的位階と立っています。聖なる秩序であると同時に、知識でもあり、活動でもある。位階は、到達の段階に応じて、神の姿に似たものになろうとし、神より注ぎ込まれた照明の<ruby>段階<rp>(</rp><rt>アナロギア</rt><rp>)</rp></ruby>に応じつつ、神と類似のものに向かって高まってゆく。上の位階は下の位階に対して啓示となり、下の位階にある者は上の位階があることによって神の恵みを受け取ることができるという。具体的に言えば位階には天使の位階と教会の位階がある。</p>
 </div>
 
 <footer>
-  <p class="puce">文書に戻る：<a href="#denis" title="ディオニュシウス">中級には、ディオニュシウス¹ によると、<ruby>主天使<rp>(</rp><rt>ドミナテイオネス</rt><rp>)</rp></ruby>　↩</a></li>
-  <p class="puce">文書に戻る：<a href="#denis2" title="ディオニュシウス">下級には、おなじくディオニュシウス によると、<ruby>権天使<rp>(</rp><rt>プリンキパトウス</rt><rp>)</rp></ruby>　↩</a></li>
-  <p class="puce">文書に戻る：<a href="#denis3" title="ディオニュシウス">聖グレゴリウスと聖ベルナルドゥスも、上述のディオニュシウスの見解と一致している ↩</a></li>
-  <p class="puce">文書に戻る：<a href="#denis4" title="ディオニュシウス">ふたつの隊にかんしてディオニュシウスと意見が食いちがっている　↩</a></li>
-  <p class="puce">文書に戻る：<a href="#denis5" title="ディオニュシウス">ディオニュシウス⁵ と見解が異なり、中級の隊は支配統治をつかさどり　↩</a></p>
+  <p class="puce">文書に戻る：<a href="#denis" title="ディオニュシウス">中級には、ディオニュシウス¹ によると、<ruby>主天使<rp>(</rp><rt>ドミナテイオネス</rt><rp>)</rp></ruby>&nbsp;↩</a></p>
+  <p class="puce">文書に戻る：<a href="#denis2" title="ディオニュシウス">下級には、おなじくディオニュシウス によると、<ruby>権天使<rp>(</rp><rt>プリンキパトウス</rt><rp>)</rp></ruby>&nbsp;↩</a></p>
+  <p class="puce">文書に戻る：<a href="#denis3" title="ディオニュシウス">聖グレゴリウスと聖ベルナルドゥスも、上述のディオニュシウスの見解と一致している ↩</a></p>
+  <p class="puce">文書に戻る：<a href="#denis4" title="ディオニュシウス">ふたつの隊にかんしてディオニュシウスと意見が食いちがっている&nbsp;↩</a></p>
+  <p class="puce">文書に戻る：<a href="#denis5" title="ディオニュシウス">ディオニュシウス⁵ と見解が異なり、中級の隊は支配統治をつかさどり&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-saintbernard" class="red note">聖ベルナルドゥス</h4>
+<section id="note-saintbernard">
+<h4 class="red note">聖ベルナルドゥス</h4>
 
 <div class="notices red">
-<p>〈<ruby lang="ja">クレルヴオー<rp>(</rp><rt lang="fr">Clairvaux</rt><rp>)</rp></ruby>の〉<ruby lang="ja">べルナルドウス<rp>(</rp><rt lang="la">Bernados</rt><rp>)</rp></ruby>（フランス語での呼称：<ruby lang="ja">べルナール<rp>(</rp><rt lang="fr">Bernard</rt><rp>)</rp>・<rp>(</rp><rt lang="fr">&#160</rt><rp>)</rp>ド<rp>(</rp><rt lang="fr">de</rt><rp>)</rp>・<rp>(</rp><rt lang="fr">&#160</rt><rp>)</rp>クレルヴオー<rp>(</rp><rt lang="fr">Clairvaux</rt><rp>)</rp></ruby>、普段、<ruby lang="ja">聖<rp>(</rp><rt lang="fr">Saint</rt><rp>)</rp>・<rp>(</rp><rt lang="fr">&#160</rt><rp>)</rp>ベルナル<rp>(</rp><rt lang="fr">Bernard</rt><rp>)</rp></ruby>）。</p>
-<p>聖人（祝<time datetime="08-20">８月２０日</time>）、大修道院長、教会博士。
+<p>〈<ruby lang="ja">クレルヴオー<rp>(</rp><rt lang="fr">Clairvaux</rt><rp>)</rp></ruby>の〉<ruby lang="ja">べルナルドウス<rp>(</rp><rt lang="la">Bernados</rt><rp>)</rp></ruby>（フランス語での呼称：<ruby lang="ja">べルナール<rp>(</rp><rt lang="fr">Bernard</rt><rp>)</rp>・<rp>(</rp><rt lang="fr">&nbsp;</rt><rp>)</rp>ド<rp>(</rp><rt lang="fr">de</rt><rp>)</rp>・<rp>(</rp><rt lang="fr">&nbsp;</rt><rp>)</rp>クレルヴオー<rp>(</rp><rt lang="fr">Clairvaux</rt><rp>)</rp></ruby>、普段、<ruby lang="ja">聖<rp>(</rp><rt lang="fr">Saint</rt><rp>)</rp>・<rp>(</rp><rt lang="fr">&nbsp;</rt><rp>)</rp>ベルナル<rp>(</rp><rt lang="fr">Bernard</rt><rp>)</rp></ruby>）。</p>
+<p>聖人（祝<time datetime="08-20">八月二十日</time>）、大修道院長、教会博士。
 <time datetime="1090">１０９０</time>または<time datetime="1091">９１</time>～<time datetime="1153">１１５３年</time>。</p>
 <p>プルゴーニュの貴族の家に生まれ、兄弟たちや親戚、友人など３０人の賛同者を集め、<time datetime="1112">１１１２年</time>の復活祭を期してともにシトーの修道院に入る。</p>
-<p><time datetime="1115">１１１５年</time>、２５歳のとき２２人の修道士たちとともに母院をはなれて<ruby lang="ja">クレルヴォー<rp>(</rp><rt lang="fr">Clairvaux</rt><rp>)</rp></ruby>（フランス中北部シャンパーニュ地方のオーブ県にある<ruby lang="ja">ヴィル<rp>(</rp><rt lang="fr">Ville</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>スー<rp>(</rp><rt lang="fr">sous</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>ラ<rp>(</rp><rt lang="fr">la</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>フェルテ<rp>(</rp><rt lang="fr">Ferté</rt><rp>)</rp></ruby>近傍）に新しい修道院を創設、初代の大修道院長となり、終生この地位にあってシトー会の事実上の組織者として絶妙の手腕を発揮し、同会の飛躍的な発展を実現したばかりでなく、ひろく全西欧の修道生活にも大きな影響をおよぼした。</p>
-<p>生涯に６８の修道院を建て、すすんで彼の指導下に入った修道院の数は、１６０の多きにおよんだ。</p>
+<p><time datetime="1115">１１１５年</time>、二十五歳のとき二十二人の修道士たちとともに母院をはなれて<ruby lang="ja">クレルヴォー<rp>(</rp><rt lang="fr">Clairvaux</rt><rp>)</rp></ruby>（フランス中北部シャンパーニュ地方のオーブ県にある<ruby lang="ja">ヴィル<rp>(</rp><rt lang="fr">Ville</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>スー<rp>(</rp><rt lang="fr">sous</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>ラ<rp>(</rp><rt lang="fr">la</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr">-</rt><rp>)</rp>フェルテ<rp>(</rp><rt lang="fr">Ferté</rt><rp>)</rp></ruby>近傍）に新しい修道院を創設、初代の大修道院長となり、終生この地位にあってシトー会の事実上の組織者として絶妙の手腕を発揮し、同会の飛躍的な発展を実現したばかりでなく、ひろく全西欧の修道生活にも大きな影響をおよぼした。</p>
+<p>生涯に六十八の修道院を建て、すすんで彼の指導下に入った修道院の数は、百六十の多きにおよんだ。</p>
 <p>典礼を重んじ、万事に華麗で豪華な<ruby lang="ja">クリュニ<rp>(</rp><rt lang="fr">Cluny</rt><rp>)</rp></ruby>のいわば客観主義的な信仰にたいして、キリストの模倣、内面的な修徳による信仰を主張し、厳律と清貧の生活をモットーとした。</p>
 <p>キリスト教の全歴史のなかでも屈指の偉大な宗教的人格であったが、同時に教会政治家としても非凡な業績をのこしている。</p>
-<p>三度のイタリア旅行によって８年間にわたる対立教皇問題を解決し、各国の国王たちに第１６５代教皇インノケンティウス二世（位<time datetime="1130">１１３０</time>～<time datetime="1143">１１４３年</time>）を承認させた。</p>
+<p>三度のイタリア旅行によって八年間にわたる対立教皇問題を解決し、各国の国王たちに第百六十五代教皇インノケンティウス二世（位<time datetime="1130">１１３０</time>～<time datetime="1143">１１４３年</time>）を承認させた。</p>
 <p>また、第ニ回十字軍の成立も、彼の尽力によるもので、そのためにヨーロッパ各地を巡歴し、とくにフランスの<ruby lang="ja">ヴェズレー<rp>(</rp><rt lang="fr">Vézelay</rt><rp>)</rp></ruby>、ドイツの<ruby lang="ja">シュパイアー<rp>(</rp><rt lang="de">Speyer</rt><rp>)</rp></ruby>（ドイツ南西部、ライン川左岸の町、しばしば神聖ローマ帝国の国会が開かれた）の国会での説教は、国王や国民のあいだに宗教的熱狂を喚起した。</p>
 <p>最初の騎士修道会である神殿騎士修道会（<time datetime="1118">１１１８年</time>創立）が<time datetime="1130">１１３０年</time>に教皇の公認を受けたのも、ベルナルドゥスの積極的な支持と推換があったからである。</p>
-<p><time datetime="1100">１２世紀</time>は、ロマネスクからゴシックへの移行期であって、ベルナルドゥスの形姿は、まぎれもなく初期ゴシックの特徴をしめしている。</p>
-<p>彼の思想は、聖書（とくに「ヨハネによる福音書」）および教父たちの教えに忠実である一方で、イエスの聖心と聖母マリアにたいして神秘的な崇敬をもち、１３世紀の<ruby lang="ja">トマス<rp>(</rp><rt lang="la">Thomas</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>アクィナス<rp>(</rp><rt lang="la">Aquinas</rt><rp>)</rp></ruby>において頂点に達するスコラ哲学に、さらには神秘思想にも大きな影響をあたえた。</p>
-<p><time datetime="1174">１１７４年</time>教皇アレクサンデル三世によって列聖、聖遺骨が墓より挙げられ、（移居記念日<time datetime="11-14">１１月１４日</time>）、そのままクレルヴォーにあったが、<time datetime="1790">１７９０年</time>ヴィル＝スー＝ラ＝フェルテの教会に移された。</p>
+<p><time datetime="1100">十二世紀</time>は、ロマネスクからゴシックへの移行期であって、ベルナルドゥスの形姿は、まぎれもなく初期ゴシックの特徴をしめしている。</p>
+<p>彼の思想は、聖書（とくに「ヨハネによる福音書」）および教父たちの教えに忠実である一方で、イエスの聖心と聖母マリアにたいして神秘的な崇敬をもち、十三世紀の<ruby lang="ja">トマス<rp>(</rp><rt lang="la">Thomas</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>アクィナス<rp>(</rp><rt lang="la">Aquinas</rt><rp>)</rp></ruby>において頂点に達するスコラ哲学に、さらには神秘思想にも大きな影響をあたえた。</p>
+<p><time datetime="1174">１１７４年</time>教皇アレクサンデル三世によって列聖、聖遺骨が墓より挙げられ、（移居記念日<time datetime="11-14">十一月十四日</time>）、そのままクレルヴォーにあったが、<time datetime="1790">１７９０年</time>ヴィル＝スー＝ラ＝フェルテの教会に移された。</p>
 <p>頭部だけは、<time datetime="1813">１８１３年以来</time><ruby lang="ja">トロワ<rp>(</rp><rt lang="fr">Troyes</rt><rp>)</rp></ruby>の大聖堂宝物庫にある。</p>
 <p>崇敬は、彼の死とともにはじまる。</p>
-<p><time datetime="1400">１５世紀以来</time>〈<ruby lang="ja">蜜の流れの博士<rp>(</rp><rt lang="la">doctor&#160;mellifluus</rt><rp>)</rp></ruby>〉とよばれるようになったのは、彼の名を冠した偽作が世にひろまったためである。</p>
-<p><time datetime="1830">１８３０年</time>第２５６代教皇<ruby lang="ja">ピウス<rp>(</rp><rt lang="la">Pius</rt><rp>)</rp>八世<rp>(</rp><rt lang="la">VIII</rt><rp>)</rp></ruby>（位<time datetime="1829">１８２９</time>～<time datetime="1830">１８３０年</time>）により教会博士の称号をさずけられた。</p>
+<p><time datetime="1400">十五世紀以来</time>〈<ruby lang="ja">蜜の流れの博士<rp>(</rp><rt lang="la">doctor&nbsp;mellifluus</rt><rp>)</rp></ruby>〉とよばれるようになったのは、彼の名を冠した偽作が世にひろまったためである。</p>
+<p><time datetime="1830">１８３０年</time>第二百五十六代教皇<ruby lang="ja">ピウス<rp>(</rp><rt lang="la">Pius</rt><rp>)</rp>八世<rp>(</rp><rt lang="la">VIII</rt><rp>)</rp></ruby>（位<time datetime="1829">１８２９</time>～<time datetime="1830">１８３０年</time>）により教会博士の称号をさずけられた。</p>
 <p>本章では、彼の崇敬から生まれた聖伝を語</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#saintbernard" title="聖ベルナルドゥス">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#saintbernard" title="聖ベルナルドゥス">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-histeccltrip" class="red note">三部教会史</h4>
+<section id="note-histeccltrip">
+<h4 class="red note">三部教会史</h4>
 
 <div class="notices red">
-<p>『<ruby lang="ja">三部教会史<rp>(</rp><rt lang="la">Historia&#160;ecclesiastica&#160;tripartita</rt><rp>)</rp></ruby>』 は<ruby lang="ja">エウセビオス<rp>(</rp><rt lang="grc">Eusebios</rt><rp>)</rp></ruby>の『教会史』を翻訳・断続したアクィレイアの教父<ruby lang="ja">ルフィヌス<rp>(</rp><rt lang="la">Rufinus</rt><rp>)</rp></ruby>の仕事をさらに断続・補足したものにすぎないが、中世全体をつうじて長く教会史の教科書として用いられた。</p>
+<p>『<ruby lang="ja">三部教会史<rp>(</rp><rt lang="la">Historia&nbsp;ecclesiastica&nbsp;tripartita</rt><rp>)</rp></ruby>』 は<ruby lang="ja">エウセビオス<rp>(</rp><rt lang="grc">Eusebios</rt><rp>)</rp></ruby>の『教会史』を翻訳・断続したアクィレイアの教父<ruby lang="ja">ルフィヌス<rp>(</rp><rt lang="la">Rufinus</rt><rp>)</rp></ruby>の仕事をさらに断続・補足したものにすぎないが、中世全体をつうじて長く教会史の教科書として用いられた。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#histeccltrip" title="三部教会史">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#histeccltrip" title="三部教会史">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-vesta" class="red note">ウェスタ女神</h4>
+<section id="note-vesta">
+<h4 class="red note">ウェスタ女神</h4>
 
 <div class="notices red">
 <p>ローマの古いかまどの女神。ギリシャで神話のヘスティア―と同一視される。各家庭で崇拝されただけでなく、国家のかまどをつかさどる女神としてローマ広場（<ruby lang="ja">フォロ<rp>(</rp><rt lang="la">Foro</rt><rp>)</rp>・<rp>(</rp><rt lang="la"></rt><rp>)</rp>ロマノ<rp>(</rp><rt lang="la">Romano）</rt><rp>)</rp></ruby>に神殿をもっていた。火が身体で、のの火は、永久に消されることなく、<ruby lang="ja">ヴェスターリス<rp>(</rp><rt lang="la">Vestalis</rt><rp>)</rp></ruby>とよばれる六人の乙女たちがつかえていた。）</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#vesta" title="ウェスタ女神">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#vesta" title="ウェスタ女神">文書に戻る&nbsp;↩</a></p>
 </footer>
-
+</section>
 
 <!-- page 2 -->
 
+<section id="note-benevent">
+<h4 class="red note">ベネヴェント</h4>
 
-<h4 id="note-benevent" class="red note">ベネヴェント</h4>
 <div class="notices red">
 <p>現在のカンパーニア州ベネヴェント県の県都。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#benevent" title="ベネヴェント">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#benevent" title="ベネヴェント">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-lucifer" class="red note">ルキフェル</h4>
+<section id="note-lucifer">
+<h4 class="red note">ルキフェル</h4>
 
 <div class="notices red">
 <p>悪魔はもと権天使のひとりで、<ruby lang="ja">ルキフェル<rp>(</rp><rt lang="la">Lucifer</rt><rp>)</rp></ruby>（光にみちた者）とよばれたが、神にそむいたために天上から地上に追放され、<ruby>サタン<rp>(</rp><rt>Satan</rt><rp>)</rp></ruby>（反対者の意）になったとされる。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#lucifer" title="ルキフェル">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#lucifer" title="ルキフェル">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-haymon" class="red note">ハイモ</h4>
+<section id="note-haymon">
+<h4 class="red note">ハイモ</h4>
 
 <div class="notices red">
-<p><time datetime="800">九世紀</time>の<ruby lang="ja">オセール<rp>(</rp><rt lang="fr">Auxerre</rt><rp>)</rp></ruby>（中部フランスの町）のベネディクト会士。<time datetime="865">８６５年</time>没。</p>
+<p><time datetime="0800">九世紀</time>の<ruby lang="ja">オセール<rp>(</rp><rt lang="fr">Auxerre</rt><rp>)</rp></ruby>（中部フランスの町）のベネディクト会士。<time datetime="0865">８６５年</time>没。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#haymon" title="ハイモ">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#haymon" title="ハイモ">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-origene" class="red note">オリゲネス</h4>
+<section id="note-origene">
+<h4 class="red note">オリゲネス</h4>
 
 <div class="notices red">
-<p>初期ギリシャ教会のすぐれた教父、アレクサンドリア学派の代表的神学者（<time datetime="185">１８５頃</time>～<time datetime="254">２５４年頃</time>）。アレクサンドリアのクレメンスの門下エウセビオスの師にあたる。大変な多作家で、ヒエロニュムスによると、約２０００の著書があると言われ、現存するものもすくなくない。キリスト教の最初の教義論とも言うべき『原理論』、旧約聖書の克明な原文批判『ヘクサプラ』のほか聖書の注釈と講和がある。三位一体論では聖子従属説をとったために<time datetime="300">四世紀以来</time>異端視されてきたがが、<ruby>輓<rp>(</rp><rt>ばん</rt><rp>)</rp>近<rp>(</rp><rt>きん</rt><rp>)</rp></ruby>の研究では、カトリック神学にも大きな影響をおよぼしていたことが明らかになった。</p>
+<p>初期ギリシャ教会のすぐれた教父、アレクサンドリア学派の代表的神学者（<time datetime="0185">１８５頃</time>～<time datetime="0254">２５４年頃</time>）。アレクサンドリアのクレメンスの門下エウセビオスの師にあたる。大変な多作家で、ヒエロニュムスによると、約二千の著書があると言われ、現存するものもすくなくない。キリスト教の最初の教義論とも言うべき『原理論』、旧約聖書の克明な原文批判『ヘクサプラ』のほか聖書の注釈と講和がある。三位一体論では聖子従属説をとったために<time datetime="0300">四世紀以来</time>異端視されてきたがが、<ruby>輓<rp>(</rp><rt>ばん</rt><rp>)</rp>近<rp>(</rp><rt>きん</rt><rp>)</rp></ruby>の研究では、カトリック神学にも大きな影響をおよぼしていたことが明らかになった。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#origene" title="オリゲネス">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#origene" title="オリゲネス">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-jacob" class="red note">ヤコブ</h4>
+<section id="note-jacob">
+<h4 class="red note">ヤコブ</h4>
 
 <div class="notices red">
-<p>イサクの第二子。双生の兄エサウをあざむいて長子権をうばったが、<ruby>複<rp>(</rp><rt>ふく</rt><rp>)</rp>讐<rp>(</rp><rt>しゅう</rt><rp>)</rp></ruby>を怖れて母リベカの故郷ヘラン（メソポタミア北部の町、ユーフラテス川の支流バリク川に沿う今日ハルランと固定される）に逃げ、その途中夢に神の祝福を受けた。ハランでは、<ruby>伯父<rp>(</rp><rt>おじ</rt><rp>)</rp></ruby>バランのもとにおの娘ラケルを妻とするために20年間仕えた。「ヤコブの我慢づよさと忍耐心」とは、このことをさすふたたびカナアンに帰る途中で神の使いと格闘して負けイスラエル（神は支配する、の意）の名をあたえられる。晩年は、カナアンの飢饉をのがれて、ラケルとのあいだに生まれた子ヨセフのいるエジプトに移り、そこで没した。ヤコブは、イスラエル民族の祖、彼の１２人の息子たちは、それぞれイスラエル１２部族の祖とされる。ヤコブ物語は、『創世』２５～３５章にかたられている。</p>
+<p>イサクの第二子。双生の兄エサウをあざむいて長子権をうばったが、<ruby>複<rp>(</rp><rt>ふく</rt><rp>)</rp>讐<rp>(</rp><rt>しゅう</rt><rp>)</rp></ruby>を怖れて母リベカの故郷ヘラン（メソポタミア北部の町、ユーフラテス川の支流バリク川に沿う今日ハルランと固定される）に逃げ、その途中夢に神の祝福を受けた。ハランでは、<ruby>伯父<rp>(</rp><rt>おじ</rt><rp>)</rp></ruby>バランのもとにおの娘ラケルを妻とするために20年間仕えた。「ヤコブの我慢づよさと忍耐心」とは、このことをさすふたたびカナアンに帰る途中で神の使いと格闘して負けイスラエル（神は支配する、の意）の名をあたえられる。晩年は、カナアンの飢饉をのがれて、ラケルとのあいだに生まれた子ヨセフのいるエジプトに移り、そこで没した。ヤコブは、イスラエル民族の祖、彼の十二人の息子たちは、それぞれイスラエル十二部族の祖とされる。ヤコブ物語は、『創世』二十五章から三十五章までにかたられている。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#jacob" title="ヤコブ">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#jacob" title="ヤコブ">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-tau" class="red note">しるし</h4>
+<section id="note-tau">
+<h4 class="red note">しるし</h4>
 
 <div class="notices red">
-<p>ギリシア語アルファベットの第１９字「<ruby lang="grc">&#964;<rp>(</rp><rt lang="ja">タウ</rt><rp>)</rp></ruby>」というしるし。〈神〉を意味する〈Theos〉の頭文字であると同時に、十字架のしるしでもある。</p>
+<p>ギリシア語アルファベットの第十九字「<ruby lang="grc">&Tau;<rp>(</rp><rt lang="ja">タウ</rt><rp>)</rp></ruby>」というしるし。〈神〉を意味する〈Theos〉の頭文字であると同時に、十字架のしるしでもある。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#tau" title="しるし">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#tau" title="しるし">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-pelagius" class="red note">教皇ペラギウス</h4>
+<section id="note-pelagius">
+<h4 class="red note">教皇ペラギウス</h4>
 
 <div class="notices red">
-<p>第６３教皇ペラギウス二世（位<time datetime="579">５７９</time>～<time datetime="590">５９０年</time>）。ローマ生まれのゴート人。ランゴバルド人の包囲攻撃にたいしてよくローマを防衛した。彼の最大功績は、グレゴリウス一世を見いださしたことである。グレゴリウスは<time datetime="579">５７９</time>～<time datetime="585">５８５年</time>のあいだ教皇使節としてコンスタンティノポリスの宮殿に派遣されていたが、このときの経験は、のち教皇になってからの政治行動の大いに役だったと言われる。</p>
+<p>第六十三教皇ペラギウス二世（位<time datetime="0579">５７９</time>～<time datetime="0590">５９０年</time>）。ローマ生まれのゴート人。ランゴバルド人の包囲攻撃にたいしてよくローマを防衛した。彼の最大功績は、グレゴリウス一世を見いださしたことである。グレゴリウスは<time datetime="0579">５７９</time>～<time datetime="0585">５８５年</time>のあいだ教皇使節としてコンスタンティノポリスの宮殿に派遣されていたが、このときの経験は、のち教皇になってからの政治行動の大いに役だったと言われる。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#pelagius" title="教皇ペラギウス">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#pelagius" title="教皇ペラギウス">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-communion" class="red note">聖体を拝領する</h4>
+<section id="note-communion">
+<h4 class="red note">聖体を拝領する</h4>
 
 <div class="notices red">
 <p>イエスが弟子たちと〈最後の晩餐〉をした記念で、席上イエスは、パンをさき、「取って食べよ、これは、わたしのからだである」と言って弟子たちにあたえた（『マタ』２６章２６節ほか）。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#communion" title="聖体を拝領した">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#communion" title="聖体を拝領した">文書に戻る&nbsp;↩</a></p>
 </footer>
-
+</section>
 
 <!-- page 3 -->
 
-<h4 id="note-balaam" class="red note">バラーム</h4>
+<section id="note-balaam">
+<h4 class="red note">バラーム</h4>
 
 <div class="notices red">
 <p>メソポタミア出身の異教徒の占い者（ユダヤではない）。モアブ（死海の東の国）の王バラクにイスラエルの民を呪うことを求められたが、「主の言葉を越えてこころのままに善も悪もおこなうことはできません」と言って（『民数』２４章１３節）、かえってイスラエルを祝福し、バラクの怒りを買った。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#balaam" title="バラーム">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#balaam" title="バラーム">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-loth" class="red note">ロト</h4>
+<section id="note-loth">
+<h4 class="red note">ロト</h4>
 
 <div class="notices red">
 <p>ヘブライ語: <ruby lang="he">לוֹט<rp>(</rp><rt lang="ja">ロト</rt><rp>)</rp></ruby>。ロトは太祖アブラハムの弟ハランの子。伯父アブラハムとおなじく多くの家畜をもつ身になり、両者がおなじ土地で家畜をやしなうことが不可能になったので、伯父と円満に別れて、<ruby>肥<rp>(</rp><rt>ひ</rt><rp>)</rp>沃<rp>(</rp><rt>よく</rt><rp>)</rp></ruby>なヨルダン低地のソドムに移った。ところが、退廃したソドムの町が天の火によって焼きほろぼされることになったとき、天使の警告により妻とふたりの娘をつれて町を出たが、妻だけは、天使の禁令をやぶって途中でふりかえって町を見たために、「塩の柱」と化した（『創世』１９章２６節）。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#loth" title="ロト">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#loth" title="ロト">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-isaie" class="red note">イザヤ</h4>
+<section id="note-isaie">
+<h4 class="red note">イザヤ</h4>
 
 <div class="notices red">
 <p>旧約四大預言者中の第一の預言者。人類救済のために降誕された〈救い主〉であるメシアがおとめから生まれることを預言した（７章１４、『マタ』１章２３）。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#isaie" title="イザヤ">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#isaie" title="イザヤ">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-horeb" class="red note">ホレブ</h4>
+<section id="note-horeb">
+<h4 class="red note">ホレブ</h4>
 
 <div class="notices red">
 <p>モーセが神から律法をさずけられた山、つまり神の山シナイと同地。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#horeb" title="ホレブ">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#horeb" title="ホレブ">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-hutokoro" class="red note">ふところ</h4>
+<section id="note-hutokoro">
+<h4 class="red note">ふところ</h4>
 
 <div class="notices red">
 <p>イスラエルの民の太祖であるアブラハムの「ふところ」とは、永遠のやすらぎの場所、すなわち〈天〉のことである。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#hutokoro" title="ふところ">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#hutokoro" title="ふところ">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-juda" class="red note">ユダ族</h4>
+<section id="note-juda">
+<h4 class="red note">ユダ族</h4>
 
 <div class="notices red">
 <p>ヘブライ語: <ruby lang="he">יְהוּדָה<rp>(</rp><rt lang="ja">ユダ</rt><rp>)</rp></ruby>。ユダ族は、イスラエル民族の一部族、イスラエル十二部族の太祖ヤコブの第四子ユダにあたえられた土地（死海と地中海とにはさめまれた岩山の多い土地で、この地区もユダとよばれる）の住民。のちこの部族からダビデ王が出て、全イスラエルを統一、イェルサレムを都とした。ユダ族は『創世』４９章９節から由来するのであろうが、獅子をしとしたので、ダビデの血につながるとされるイエスを「ユダ族の獅子」とよぶ。なお、イスラエルは、ヤコブが神からあたえられた名前で（『創世』３２章２８節）、のち彼の子孫とその部族を「イスラエル」の民）とよぶようになった。ユダヤ人という名称は、本来ユダ王国の市民を意味したが、のち広くイスラエル人全体をさすようになった。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#juda" title="ユダ">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#juda" title="ユダ">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-psaumes" class="red note">聖歌</h4>
+<section id="note-psaumes">
+<h4 class="red note">聖歌</h4>
 
 <div class="notices red">
 <p>旧約聖書のなかで最も甘美な詩であり教訓書。花嫁と花婿によって神とイスラエル民族の間柄をうたう。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#psaumes" title="聖歌">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#psaumes" title="聖歌">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note-empyree" class="red note">最高天</h4>
+<section id="note-empyree">
+<h4 class="red note">最高天</h4>
 
 <div class="notices red">
 <p>ラテン語： <ruby lang="la">empyreus<rp>(</rp><rt lang="ja">エンビュㇾウス</rt><rp>)</rp></ruby>。最高天、火天と訳される。古代ギリシャの自然哲学で五天のうちの最高の天、火と光とから成ると考えられた。キリスト教神学にももとより入れられ、神と天使あっちの住むところとされた。</p>
 </div>
 
 <footer>
-  <p class="puce"><a href="#empyree" title="最高天">文書に戻る　↩</a></p>
+  <p class="puce"><a href="#empyree" title="最高天">文書に戻る&nbsp;↩</a></p>
 </footer>
+</section>
 
 </aside>
 
-</article>
+</section>
 
 </article>
 `;
