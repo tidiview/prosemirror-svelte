@@ -37,7 +37,7 @@
 
 <div id="display-text-rousi">
 <section id="display-sub-text-rousi">
-<h6 class="left green">texte original</h6>
+<h6 class="green">texte original</h6>
 <div>
 
 <ol class="doc">
@@ -55,7 +55,7 @@
 
 <section id="translation-text-rousi">
 <div>
-<h6 class="left green">traduction</h6>
+<h6 class="green">traduction</h6>
 
 <ol class="doc">
 <li value="1">Qui connaît les hommes est clairvoyant</li>
