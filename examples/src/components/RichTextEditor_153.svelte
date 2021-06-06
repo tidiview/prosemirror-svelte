@@ -8,7 +8,9 @@
 
 <article>
 
-<p><time datetime="2019-09-11">11 Sep. 2019</time></p>
+<header>
+<p><time datetime="2019-09-11">11 <abbr title="septembre">Sep.</abbr> 2019</time></p>
+</header>
 
 <h1 class="red">Fontenelle, premier soir des <cite>entretiens sur la pluralité des mondes</cite></h1>
 
@@ -71,23 +73,29 @@ Vous voyez bien que ce machiniste-là est assez fait comme les philosophes.</p>
 
   <h3 class="yellow">Notes:</h3>
 
-  <h4 id="opera" class="yellow note">Opéra</h4>
+  <section id="opera">
+  <h4 class="yellow note">Opéra</h4>
   <p>Nom propre désignant l'Opéra de Paris, fondé en <time datetime="1669">1669</time>.</p>
   <footer>
-    <p class="puce"><a href="#renvoi-opera" title="#renvoi-opera">back to text ↩</a></p>
-  <footer>
+    <p class="puce"><a href="#renvoi-opera" title="#renvoi-opera">retour au texte&nbsp;↩</a></p>
+  </footer>
+  </section>
   
-  <h4 id="parterre" class="yellow note">Parterre</h4>
+  <section id="parterre">
+  <h4 class="yellow note">Parterre</h4>
   <p>Parterre: Rez-de-chaussée d'une salle de théâtre où le public se tenait debout et où les places étaient moins chères que dans les loges.</p>
   <footer>
-    <p class="puce"><a href="#renvoi-parterre" title="#renvoi-parterre">back to text ↩</a></p>
-  <footer>
+    <p class="puce"><a href="#renvoi-parterre" title="#renvoi-parterre">retour au texte&nbsp;↩</a></p>
+  </footer>
+  </section>
 
-  <h4 id="phaeton" class="yellow note">Lulli's <cite>Phaeton</cite></h4>
+  <section id="phaeton">
+  <h4 class="yellow note">Le <cite>Phaeton</cite> de Lulli</h4>
   <p><cite>Phaeton</cite>, tragédie lyrique en cinq actes de Quinault, musique de Lulli créée à l'Opéra en <time datetime="1683">1683</time>, et dont le succès fut considérable. L'envol de Phaëton sur le char du Soleil a lieu à l'acte III, scène 6.</p>
   <footer>
-    <p class="puce"><a href="#renvoi-phaeton" title="#renvoi-phaeton">back to text ↩</a></p>
-  <footer>
+    <p class="puce"><a href="#renvoi-phaeton" title="#renvoi-phaeton">retour au texte&nbsp;↩</a></p>
+  </footer>
+  </section>
 
 </aside>
 
