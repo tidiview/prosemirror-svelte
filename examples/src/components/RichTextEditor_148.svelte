@@ -4,12 +4,13 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
+  const html = `<!-- FR:NONE EN:NONE -->
+
 <article>
 
-<div class="list-blog-date">
+<header>
 <p><time datetime="2015-09-01">1<sup>er</sup> <abbr title="septembre">Sept.</abbr> 2015</time></p>
-</div>
+</header>
 
 <h1 class="red">Louis <abbr title="quatorze">XIV</abbr> était-il une potiche mégalomane?</h1>
 
@@ -29,17 +30,17 @@
 
 <div class="notices red">
 <p><strong>pas d'accord.</strong></p>
-<p>au contraire, pendant tout le règne de Louis <abbr title="quinze">XV<abbr> puis de Louis <abbr title="seize">XVI</abbr>, un mouvement d'opposition semi clandestin, multiple, protéiforme, se développe: <strong><em>le jansénisme</em></strong>.  Celui-ci construit lentement et méthodiquement une opposition à l'institution royale par la constitution d'un réquisitoire argumenté.</p>
+<p>au contraire, pendant tout le règne de Louis <abbr title="quinze">XV</abbr> puis de Louis <abbr title="seize">XVI</abbr>, un mouvement d'opposition semi clandestin, multiple, protéiforme, se développe: <strong><em>le jansénisme</em></strong>.  Celui-ci construit lentement et méthodiquement une opposition à l'institution royale par la constitution d'un réquisitoire argumenté.</p>
 <p>Cette tradition est à l'origine de la <strong>légende noire de Louis <abbr title="quatorze">XIV</abbr></strong>, ce n'est pas Pierre Goubert qui l'a inventé.</p>
 <p>Par ailleurs, titrer <strong>«Louis <abbr title="quatorze">XIV</abbr> et vingt millions de Français»</strong>, c'est déjà refusé de se situer dans l'époque, pour se situer dans l'idéologie.</p>
 </div>
 
 <p>Les cours du professeur Goubert sont décapants. Ils s'opposent aussi aux historiographes gaullistes, qui voient dans l'avènement de la Ve République un avatar démocratique de l'Ancien Régime. Goubert déboulonne la statue du monarque, génie de la guerre, fondateur de l'État-nation, grand timonier d'une France mirifique et triomphante, brillant de mille feux sous les ors de Versailles, sublime théâtre en trompe-l'oeil d'un régime qui affame son peuple et qui porte en lui tous les germes de la révolution de <time datetime="1789">1789</time>. Daniel Dessert se lance alors dans l'écriture d'une thèse colossale sur la marine de guerre de Louis <abbr title="quatorze">XIV</abbr>. Au bout de deux ans de travail, il découvre que ce roi tout-puissant est en fait entre les mains d'une nouvelle oligarchie financière, les «usuriers de la guerre».</p>
 
-<h2 class="red">"Une potiche et un trouillard"</h4>
+<h2 class="red">"Une potiche et un trouillard"</h2>
 
 <p>Le Roi-Soleil ne serait qu'une étoile éteinte ? L'étudiant élargit son champ d'action et finit par présenter son travail au grand public, en 1984, dans un ouvrage qui fait référence, «Argent, pouvoir et société au Grand Siècle» <em>(Fayard)</em>. Les médias s'emparent du sujet. Bernard Pivot l'invite à «Apostrophes», l'émission littéraire phare de la télévision des années <time datetime="1980">1980</time>. Daniel Dessert surgit brutalement dans le petit milieu des historiens. On ne le prend pas au sérieux. Il n'est que professeur à l'École navale. Mais l'homme, en mission, s'obstine à creuser son sillon.</p>
-<p>Son credo : pour comprendre le siècle de Louis <abbr title="quatorze">XIV</abbr>, suivez l'argent. Depuis plus de <time datetime="P30Y">trente ans</time>, il poursuit ses recherches aux archives de Vincennes et accumule les preuves que le monarque universel n'était peut-être qu'un roi de pacotille. Aujourd'hui encore, il continue de décrypter la machine de la dynastie louis-quatorzienne, en faisant grincer les dents de quelques confrères. A 73 ans, Dessert s'invite à la table du roi et tire à vue.</p>
+<p>Son credo : pour comprendre le siècle de Louis <abbr title="quatorze">XIV</abbr>, suivez l'argent. Depuis plus de <time datetime="P10927D">trente ans</time>, il poursuit ses recherches aux archives de Vincennes et accumule les preuves que le monarque universel n'était peut-être qu'un roi de pacotille. Aujourd'hui encore, il continue de décrypter la machine de la dynastie louis-quatorzienne, en faisant grincer les dents de quelques confrères. A 73 ans, Dessert s'invite à la table du roi et tire à vue.</p>
 <p><em>« Ceux qui le présentent comme un roi habile et manœuvrier, un despote éclairé, ont une vision du pouvoir théâtralisée, voire sublimée,</em> dit-il. _En fait,  Louis <abbr title="quatorze">XIV</abbr> était une potiche entre les mains de Mazarin et de Colbert.</p>
 
 <div class="notices blue">
@@ -85,7 +86,7 @@
 <p>Les ouvrages de <strong>Philippe Beaussant</strong> par exemple montre très clairement son degré d'implication: ils n'auraient pas atteint un tel niveau sans lui.</p>
 </div>
 
-<h2 class="red">Khomeyni à Versailles</h4>
+<h2 class="red">Khomeyni à Versailles</h2>
 
 <p>Comment trancher entre le monarque belliqueux et dépensier, perdu dans les brumes de ses rêves de grandeur, et le souverain amoureux de l'art, bâtisseur d'un État moderne? Un courant de jeunes historiens, comme Mathieu Da Vinha, Christian Jouhaud, Jean-Frédéric Schaub ou Olivier Chaline, tente aujourd'hui de revisiter la légende du grand Louis sans a priori idéologiques. Pas simple.</p>
 <p>Les guerres qu'il a menées sans interruption pendant le demi-siècle de son règne contre l'Europe entière? Leur coût exorbitant en hommes et en argent, conduisant le pays au bord du gouffre? Les persécutions des protestants et des jansénistes, les dragonnades, le terrible Code noir? La routine au <abbr title="dix-septième">XVII<sup>e</sup></abbr> siècle, selon les uns. Une dérive autoritaire et sanguinaire, pour les autres.</p>
@@ -121,7 +122,7 @@
 <p>Le très bigot et très grand pécheur qu'était Sa Majesté n'était-il pas l'équivalent du fils de Dieu sur terre? À ce titre, il se prenait pour l'égal du pape et menait ses guerres «catholiques» sans forcément solliciter l'aval de Rome.</p>
 <p><em>« Cette mégalomanie n'en faisait pas pour autant un tyran,</em> tempère Christian Jouhaud, professeur à l'<abbr title="École des Hautes Études en Sciences Sociales">EHESS</abbr>.<em> La France d'alors était équipée de contre-pouvoirs beaucoup plus contraignants qu'on ne le croit. C'était un véritable état de droit, de droit écrit. Droit dynastique, droit immobilier, droit des corporations, droit de la noblesse, droit de la guerre, du commerce. Le roi ne pouvait pas faire ce qu'il voulait. En fait, le grand dérapage vient d'un côté irrationnel de son règne, cette quête éperdue de gloire.»</em></p>
 
-<h2 class="red">"Un produit marketing"</h4>
+<h2 class="red">"Un produit marketing"</h2>
 
 <p>C'est la thèse que soutiennent la plupart des jeunes historiens d'aujourd'hui: il y a un côté donquichottesque chez ce souverain qui aimait par-dessus tout sa propre image. Il ne paraissait jamais aussi heureux que quand il jouait un petit rôle dans une pièce de Molière ou quand il dansait dans des ballets orchestrés par Jean-Baptiste Lully La cour de Versailles et ses fêtes dionysiaques étaient un étincelant théâtre à ciel ouvert, où l'on célébrait quotidiennement le culte de sa personnalité.</p>
 
@@ -164,7 +165,7 @@
 <p>Il faut considérer ici que Louis <abbr title="quatorze">XIV</abbr> aurait pu contrôler Amsterdam mais qu'il ne l'a pas voulu.</p>
 </div>
 
-<h2 class="red">Un geste "gaullien"</h4>
+<h2 class="red">Un geste "gaullien"</h2>
 
 <p>La France était pourtant le pays le plus influent du monde, avec une population de 22 millions d'habitants, une armée de près de 400.000 hommes, des comptoirs aux quatre coins du monde, au Canada, en Louisiane, en Amérique du Sud, en Inde, en Afrique. Là aussi, on reproche au bon roi d'avoir négligé les routes maritimes. Colbert lui-même désespérait de convaincre Louis <abbr title="quatorze">XIV</abbr> de construire la plus grande armada de l'univers pour dominer définitivement les marchands hollandais et anglais. Mais le roi n'avait pas le pied marin. C'était un indécrottable terrien.</p>
 
@@ -202,7 +203,7 @@
 <p>Doit-il être tenu pour <strong>responsable</strong> du <strong>climat</strong>?</p>
 </div>
 <p>Le peuple qu'il devrait aimer comme ses propres enfants ? Il ne le découvre que vers les dernières années de sa vie, quand le régime, aux abois, est menacé d'invasion par les princes ennemis. Le <time datetime="1709-06-12">12 juin 1709</time>, Louis <abbr title="quatorze">XIV</abbr> fait un geste «gaullien». Il fait lire dans toutes les églises de France un «appel» aux citoyens français pour qu'ils défendent la patrie. Malgré les 2 millions de morts dus aux famines de <time datetime="1694">1694</time> et <time datetime="1709">1709</time>, le petit peuple, exsangue et misérable, répond présent et sauve la «nation» en se mobilisant sans contrainte.</p>
-<p>Ce jour-là, le roi histrion, affamé de gloire, qui se croyait immortel, sort de sa bulle. Le monarque en quête d'universel retombe les pieds sur terre. <em>«Il avait hérité d'une monarchie de <time datetime="P700Y">sept cents ans</time></em>, constate Daniel Dessert. <em>Il lègue à ses héritiers une couronne qui n'a plus que <time datetime="P70Y">soixante-dix ans</time> à vivre. Les vrais monarchistes devraient le haïr. Il a creusé lui-même la tombe de la royauté.»</em></p>
+<p>Ce jour-là, le roi histrion, affamé de gloire, qui se croyait immortel, sort de sa bulle. Le monarque en quête d'universel retombe les pieds sur terre. <em>«Il avait hérité d'une monarchie de <time datetime="P254975D">sept cents ans</time></em>, constate Daniel Dessert. <em>Il lègue à ses héritiers une couronne qui n'a plus que <time datetime="P25497D">soixante-dix ans</time> à vivre. Les vrais monarchistes devraient le haïr. Il a creusé lui-même la tombe de la royauté.»</em></p>
 <div class="notices green">
 <p><em>«Ce jour-là, le roi histrion, affamé de gloire, qui se croyait immortel, sort de sa bulle»</em>:</p>
 <p>Ce dernier paragraphe <strong>n'est pas acceptable</strong>: qu'est-ce qui permet de l'<strong>affirmer</strong>?</p>
@@ -213,18 +214,16 @@
 <p>A-t-on des éléments matériels qui permettraient de donner une consistance à cette affirmation gratuite d'un remord du roi comme l'insinue les expressions <em>«sort de sa bulle»</em> ou <em>«retombe les pieds sur terre»</em>.</p>
 <p>Mais enfin qu'aurait-on dit si dans la situation dramatique dans laquelle il s'en va et dont il n'était pas responsable, il s'était montré indifférent au sort de ses sujets.</p>
 <p>Enfin, par rapport à l'affirmation de Daniel Dessert il <em>«lègue à ses héritiers une couronne qui n'a plus que soixante-dix ans à vivre»</em>, il faut nuancer:</p>
-<p><strong>Daniel Dessert se prétend-il capable aujourd'hui de déceler la responsabilité de la Vème République telle qu'elle est aujourd'hui en 2014 dans la physionomie de la France dans <time datetime="P70Y">70 ans</time>?</strong></p>
+<p><strong>Daniel Dessert se prétend-il capable aujourd'hui de déceler la responsabilité de la Vème République telle qu'elle est aujourd'hui en 2014 dans la physionomie de la France dans <time datetime="P25497D">70 ans</time>?</strong></p>
 <p>Pourtant, cela ne le dérange pas quand il s'agit du <abbr title="dix-septième">XVII<sup>ème</sup></abbr> siècle.</p>
 </div>
 
 <div class="notices yellow">
-<dl>
-<dt>Conclusion:</dt>
-<dd>
-Ensuite la Révolution aurait-elle pu avoir lieu de cette manière, en France, et de manière si exemplaire, sans précisément ces <strong><time datetime="P70Y">70 ans</time> de stabilité territoriale acquis par Louis <abbr title="quatorze">XIV</abbr></strong> au prix de son <strong>mariage</strong> avec une princesse espagnole et de la <strong>Guerre de Succession d'Espagne</strong>?</p>
+<p>Conclusion:</p>
+<p>
+Ensuite la Révolution aurait-elle pu avoir lieu de cette manière, en France, et de manière si exemplaire, sans précisément ces <strong><time datetime="P25497D">70 ans</time> de stabilité territoriale acquis par Louis <abbr title="quatorze">XIV</abbr></strong> au prix de son <strong>mariage</strong> avec une princesse espagnole et de la <strong>Guerre de Succession d'Espagne</strong>?</p>
 <p>Sans cette stabilité territoriale, sans cette possibilité laissée à ses successeurs d'amplifier le soutien aux <em>«aux savants, aux artistes, aux écrivains»</em>, l'idée même d'<strong>appliquer la philosophie et la science au principe de l'organisation sociale</strong> qui caractérise la pensée des Lumières aurait-elle pu voir le jour?</p>
-<p><strong>La Révolution, considérée dans cette perspective, est moins la mise à mort de la Monarchie, que l'avénement du Citoyen-Roi</strong>.</dd>
-</dl>
+<p><strong>La Révolution, considérée dans cette perspective, est moins la mise à mort de la Monarchie, que l'avénement du Citoyen-Roi</strong>.</p>
 </div>
 
 <footer>
