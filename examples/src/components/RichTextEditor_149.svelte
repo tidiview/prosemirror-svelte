@@ -4,7 +4,7 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `<!-- JA:108 -->
+  const html = `<!-- JA:108 EN:NONE -->
 
 <article>
 
@@ -16,8 +16,6 @@
 <h1 class="green">qui triomphe de lui-même a la force de l'âme</h1>
 <h2 class="green">Lao-Tseu, <cite><ruby>Dao&nbsp;de&nbsp;jing<rp>(</rp><rt>livre&nbsp;de&nbsp;la&nbsp;voie&nbsp;et&nbsp;de&nbsp;la&nbsp;vertu</rt><rp>)</rp></ruby></cite>,  <abbr title="trente-troisième">33<sup>ème</sup></abbr> chapître</h2>
 </hgroup>
-
-<div class="list-blog-padding lang-font">
 
 <div class="notices green">
 <p>Quelle leçon que ce chapître 33!</p>
