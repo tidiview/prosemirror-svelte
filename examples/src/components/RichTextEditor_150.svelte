@@ -4,12 +4,13 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
+  const html = `<!-- JA:118 EN:NONE -->
+
 <article>
 
-<div class="list-blog-date">
-  <p><time datetime="2016-09-09">9 Sep. 2016</time></p>
-</div>
+<header>
+  <p><time datetime="2016-09-09">9 <abbr title="septembre">Sep.</abbr> 2016</time></p>
+</header>
 
 <h1><cite>l'étranger</cite></h1>
 
@@ -21,7 +22,6 @@
 
 <h2 class="yellow">Texte de <cite>l'étranger</cite></h2>
 
-<div id="translation-text-rousi">
 <ol class="doc">
   <li value="1">- Qui aimes-tu le mieux, homme énigmatique, dis? ton père, ta mère, ta sœur ou ton frère?</li>
   <li>- Je n'ai ni père, ni mère, ni sœur, ni frère.</li>
@@ -36,7 +36,6 @@
   <li>- Eh! qu'aimes-tu donc, extraordinaire étranger?</li>
   <li value="12">- J'aime les nuages... les nuages qui passent... là-bas... là-bas... les merveilleux nuages!</li>
 </ol>
-</div>
 
 <aside>
   <div class="notices red">
