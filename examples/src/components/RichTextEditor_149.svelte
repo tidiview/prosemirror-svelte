@@ -4,16 +4,17 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
-<article><!-- JA:108 -->
+  const html = `<!-- JA:108 -->
 
-<div class="list-blog-date">
+<article>
+
+<header>
 <p><time datetime="2015-12-17">17 <abbr title="décembre">Déc.</abbr> 2015</time></p>
-</div>
+</header>
 
 <hgroup>
 <h1 class="green">qui triomphe de lui-même a la force de l'âme</h1>
-<h2 class="green">Lao-Tseu, <cite><ruby>Dao&#160de&#160jing<rp>(</rp><rt>livre&#160de&#160la&#160voie&#160et&#160de&#160la&#160vertu</rt><rp>)</rp></ruby></cite>,  <abbr title="trente-troisième">33<sup>ème</sup></abbr> chapître</h2>
+<h2 class="green">Lao-Tseu, <cite><ruby>Dao&nbsp;de&nbsp;jing<rp>(</rp><rt>livre&nbsp;de&nbsp;la&nbsp;voie&nbsp;et&nbsp;de&nbsp;la&nbsp;vertu</rt><rp>)</rp></ruby></cite>,  <abbr title="trente-troisième">33<sup>ème</sup></abbr> chapître</h2>
 </hgroup>
 
 <div class="list-blog-padding lang-font">
@@ -26,18 +27,20 @@
   <a href="https://fr.wikipedia.org/wiki/Lao_Tseu" title="https://fr.wikipedia.org/wiki/Lao_Tseu">
     <ruby lang="ja">老
       <rp>(</rp><rt lang="fr">Lao</rt><rp>)</rp>
-      &#160
+      &nbsp;
       <rp>(</rp><rt lang="fr">-</rt><rp>)</rp>
       子
       <rp>(</rp><rt lang="fr">Tseu</rt><rp>)</rp>
     </ruby>
   </a>
-  <cite><ruby lang="ja">道徳経<rp>（</rp><rt lang="fr">Dao&#160de&#160jing</rt><rp>）</rp></ruby></cite>
-  <ruby lang="ja">第三十三<rp>（</rp><rt lang="fr">trente-troisième</rt><rp>）</rp>&nbsp<rp>（</rp><rt lang="fr">&nbsp</rt><rp>）</rp>章<rp>（</rp><rt lang="fr">chapître</rt><rp>）</rp></ruby>
+  <cite><ruby lang="ja">道徳経<rp>（</rp><rt lang="fr">Dao&nbsp;de&nbsp;jing</rt><rp>）</rp></ruby></cite>
+  <ruby lang="ja">第三十三<rp>（</rp><rt lang="fr">trente-troisième</rt><rp>）</rp>&nbsp;<rp>（</rp><rt lang="fr">&nbsp;</rt><rp>）</rp>章<rp>（</rp><rt lang="fr">chapître</rt><rp>）</rp></ruby>
 </h2>
 
 <div id="display-text-rousi">
-<div id="display-sub-text-rousi">
+<section id="display-sub-text-rousi">
+<h6 class="left green">texte original</h6>
+<div>
 
 <ol class="doc">
   <li value="1">知人者智、</li>
@@ -50,9 +53,11 @@
 </ol>
 
 </div>
+</section>
 
-<div id="translation-text-rousi">
-<h6 class="left" class="green">traduction</h6>
+<section id="translation-text-rousi">
+<div>
+<h6 class="left green">traduction</h6>
 
 <ol class="doc">
 <li value="1">Qui connaît les hommes est clairvoyant</li>
@@ -65,6 +70,7 @@
 </ol>
 
 </div>
+</section>
 </div>
 
 <footer>
