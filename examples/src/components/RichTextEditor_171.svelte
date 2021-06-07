@@ -5,6 +5,7 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `<!-- JA:139 ANG:202  -->
+
 <article>
 
 <hgroup>
@@ -33,16 +34,17 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus_700x763.jpg 700w"></picture><figcaption>Persée <q cite="#andromede">volant à toute allure</q> secourt Andromède enchaînée à un rocher</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus_700x763.jpg 700w"></picture><figcaption>Persée <q cite="#andromede">volant à toute allure</q> secourt Andromède enchaînée à un rocher, <cite>Les Métamorphoses</cite>, Livre <abbr title="quatre">IV</abbr>, vers 719.</figcaption>
 </figure>
 
 <div class="notices yellow">
 <p>Il existe un petit texte à l'origine de l'un des tableaux représentant l'histoire de <a href="https://fr.wikipedia.org/wiki/Persée" title="https://fr.wikipedia.org/wiki/Persée">Persée</a> et <a href="https://fr.wikipedia.org/wiki/Andromède_(mythologie)" title="https://fr.wikipedia.org/wiki/Andromède">Andromède</a> peints par <a href="https://fr.wikipedia.org/wiki/Jean_Mosnier" title="https://fr.wikipedia.org/wiki/Jean Monier">Jean MONIER</a> sur le plafond de la chambre du Roi du deuxième étage du <a href="https://fr.wikipedia.org/wiki/Château_de_Cheverny" title="https://fr.wikipedia.org/wiki/Château_de_Cheverny">Château de Cheverny</a>.</p>
-<p>Il a été écrit par <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a> , écrivain d'expression latine qui a vécu sous l'empire romain, et fait partie du livre <abbr title="quatre">IV</abbr> de son œuvre la plus connue, <a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"><cite>Les Métamorphoses</cite></a>.</p>
-<p>Il raconte comment Persée, qui passait dans le ciel d'<a href="https://fr.wikipedia.org/wiki/Éthiopie" title="https://fr.wikipedia.org/wiki/Éthiopie">Éthiopie</a> à l'improviste, s'étonna de trouver une jeune fille nue enchaînée à un rocher...</p>
+<p>Il a été écrit par <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a> , écrivain d'expression latine qui a vécu sous l'empire romain, comme partie du livre <abbr title="quatre">IV</abbr> de son œuvre la plus connue, <a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"><cite>Les Métamorphoses</cite></a>.</p>
+<p>Nous pouvons ainsi suivre Persée, passant dans le ciel d'<a href="https://fr.wikipedia.org/wiki/Éthiopie" title="https://fr.wikipedia.org/wiki/Éthiopie">Éthiopie</a> à l'improviste, s'étonne de trouver une jeune fille nue enchaînée à un rocher...</p>
 </div>
 
-<h2 id="andromede" class="yellow">Persée et Andromède selon le texte du livre <abbr title="quatre">IV</abbr> des <cite>Métamorphoses</cite></h2>
+<section id="andromede">
+<h2 class="yellow">Persée et Andromède selon le texte du livre <abbr title="quatre">IV</abbr> des <cite>Métamorphoses</cite></h2>
 
 <ol class="doc">
   <li value="663">Le fils d'Hippotès avait enfermé les vents dans leur prison momentanée</li>
@@ -176,8 +178,11 @@
 </ol>
 
 <footer>
-  <p><span style="color: #df8a13;">Ovide, <cite>Les Métamorphoses</cite>, Livre <abbr title="quatre">IV</abbr>, vers 663 à 764</span></p>
+  <p><span style="color: #df8a13;">Ovide, <cite>Les Métamorphoses</cite>, Livre <abbr title="quatre">IV</abbr>, vers 663 à 764.</span></p>
 </footer>
+
+</section>
+
 </article>
 `;
 
