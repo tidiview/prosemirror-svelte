@@ -4,7 +4,8 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
+  const html = `<!-- JA:141 ANG:204  -->
+
 <article>
 
 <hgroup>
@@ -12,7 +13,8 @@
 <h2 class="yellow">Il y eut alors un combat dans le ciel</h2>
 </hgroup>
 
-<h2 id="renvoi_bataille" class="yellow">l'archange saint Michel selon le texte de <cite>l'Apocalypse</cite>, Chapître 12, versets 1 à 18</h2>
+<section id="renvoi_bataille">
+<h2 class="yellow">l'archange saint Michel selon le texte de <cite>l'Apocalypse</cite>, Chapître 12, versets 1 à 18</h2>
 
 <ol class="doc">
   <li value="01">Un grand signe apparut dans le ciel: une Femme, ayant le soleil pour manteau, la lune sous les pieds, et sur la tête une couronne de douze étoiles.</li>
@@ -34,7 +36,7 @@
     <p class="conversation">Cieux, soyez donc dans la joie, et vous qui avez aux cieux votre demeure! Malheur à la terre et à la mer: le diable est descendu vers vous, plein d’une grande fureur; il sait qu’il lui reste peu de temps.»</p>
   </li>
   <li value="13">Et quand le Dragon vit qu’il était jeté sur la terre, il se mit à poursuivre la Femme qui avait mis au monde l’enfant mâle.</li>
-  <li value="14">Alors furent données à la Femme les deux ailes du grand aigle pour qu’elle s’envole au désert, à la place où elle doit être nourrie pour <time datetime="P1Y">un temps</time>, <time datetime="P2Y">deux temps</time> et <time datetime="P6M">la moitié d’un temps</time>, loin de la présence du Serpent.</li>
+  <li value="14">Alors furent données à la Femme les deux ailes du grand aigle pour qu’elle s’envole au désert, à la place où elle doit être nourrie pour <time datetime="P364D">un temps</time>, <time datetime="P728D">deux temps</time> et <time datetime="P182D">la moitié d’un temps</time>, loin de la présence du Serpent.</li>
   <li value="15">Puis, de sa gueule, le Serpent projeta derrière la Femme de l’eau comme un fleuve, pour qu’elle soit emportée par ce fleuve.</li>
   <li value="16">Mais la terre vint au secours de la Femme: la terre ouvrit la bouche et engloutit le fleuve projeté par la gueule du Dragon.</li>
   <li value="17">Alors le Dragon se mit en colère contre la Femme, il partit faire la guerre au reste de sa descendance, ceux qui observent les commandements de Dieu et gardent le témoignage de Jésus.</li>
@@ -42,8 +44,11 @@
 </ol>
 
 <footer>
-<p><span style="color: #df8a13;">Traduction liturgique du Nouveau Testament, <cite>Apocalypse</cite> chapître 12 versets 1 à 18</span></p>
+<p><span style="color: #df8a13;">Traduction liturgique du Nouveau Testament, <cite>Apocalypse</cite> chapître 12 versets 1 à 18.</span></p>
 </footer>
+
+</section>
+
 </article>
 `;
 
