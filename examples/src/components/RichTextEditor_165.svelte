@@ -24,7 +24,7 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore_700x1152.jpg 700w" id="flore_et_zephyr"></picture><figcaption>Zéphyr propose <q cite="#flore-et-zephyr" style="quotes:'' ''">une multitude de nobles fleurs</q> à Flore:<br><q cite="#flore-et-zephyr">À toi, Déesse, la souveraineté des fleurs.</q>, <cite>Les Fastes</cite>, Livre <abbr title="cinq">V</abbr>, vers 212.</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore_700x1152.jpg 700w" id="flore_et_zephyr"></picture><figcaption>Zéphyr propose <q cite="#flore-et-zephyr" style="quotes:'' ''">une multitude de nobles fleurs</q> à Flore:<br><q cite="#flore-et-zephyr">À toi, Déesse, la souveraineté des fleurs</q>, <cite>Les Fastes</cite>, Livre <abbr title="cinq">V</abbr>, vers 212.</figcaption>
 </figure>
 
 <div class="notices yellow">
