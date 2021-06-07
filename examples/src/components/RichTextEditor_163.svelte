@@ -34,7 +34,8 @@
 <p>En voici l'extrait.</p>
 </div>
 
-<h2 id="tiresias" class="blue"><cite>Minerve et Tirésias</cite> selon le texte du livre <abbr title="trois">III</abbr> de la <cite>Bibliothèque</cite></h2>
+<section id="tiresias">
+<h2 class="blue"><cite>Minerve et Tirésias</cite> selon le texte du livre <abbr title="trois">III</abbr> de la <cite>Bibliothèque</cite></h2>
 
 <ol class="doc">
   <li value="7">Suivant Phérécyde, ce fut Minerve qui l'en priva.</li>
@@ -54,6 +55,8 @@
 <footer>
   <p><span style="color: #df8a13;">Ovide, <cite>Bibliothèque</cite>, Livre <abbr title="trois">III</abbr>, chapître 6 paragraphe 7.</span></p>
 </footer>
+
+</section>
 
 </article>
 `;
