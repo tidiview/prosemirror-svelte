@@ -5,6 +5,7 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `<!-- JA:132 EN:195  -->
+
 <article>
 
 <hgroup> 
@@ -18,25 +19,26 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.webp 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.webp 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.webp 700w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg" title="Peinture de René-Antoine HOUASSE,　“Morphée s'éveillant à l'approche d'Iris” (“Iris et Morphée”), Grand Trianon, Versailles" alt="Peinture de René-Antoine HOUASSE,　“Morphée s'éveillant à l'approche d'Iris” (“Iris et Morphée”), Grand Trianon, Versailles" class="class-diane-img" width="700" height="951" loading="eager" decoding="async" usemap="#iris" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.webp 700w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg" title="Peinture de René-Antoine HOUASSE,　“Morphée s'éveillant à l'approche d'Iris” (“Iris et Morphée”), Grand Trianon, Versailles" alt="Peinture de René-Antoine HOUASSE,　“Morphée s'éveillant à l'approche d'Iris” (“Iris et Morphée”), Grand Trianon, Versailles" class="class-diane-img" width="700" height="951" loading="eager" decoding="async" usemap="#iris2" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.jpg 280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg 700w"></picture><figcaption><q cite="#iris-1">Iris, fidèle messagère de mes volontés,<br>Cours vite chez le Sommeil, dans son palais des songes</q></figcaption><map name="iris" id="iris"><area title="Iris" alt="Iris" id="area_iris" href="#iris" shape="poly" coords="60,724,83,671,131,639,200,607,202,541,263,481,317,366,382,359,435,298,428,266,404,276,394,308,317,337,300,279,303,244,292,227,266,234,244,129,205,212,173,185,140,197,38,130,35,158,64,222,105,269,124,353,98,395,93,435,68,452,62,472,72,480,83,481,85,500,72,517,56,505,33,509,21,522,22,575,44,598,39,625,52,644,73,640,65,652,48,655,38,690,39,727"><area title="Sommeil" alt="Sommeil" id="area_morpheus" href="#morpheus" shape="poly" coords="235,799,335,766,392,763,419,779,442,860,453,868,508,816,523,792,630,775,655,750,690,742,726,717,762,734,826,715,822,692,794,685,752,685,739,667,705,652,700,619,713,600,701,581,620,546,582,547,572,563,575,622,470,567,323,540,330,571,399,608,457,619,490,639,526,680,468,660,415,662,364,672,313,659,307,671,337,695,358,721,286,754,239,761,223,779"></map>
-</figure>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg 700w"></picture><figcaption><q cite="#iris-1">Iris, fidèle messagère de mes volontés,<br>Cours vite chez le Sommeil, dans son palais des songes</q></figcaption>
+</figure><map name="iris2" id="iris2"><area title="Iris" alt="Iris" id="area_iris" href="#iris" shape="poly" coords="60,724,83,671,131,639,200,607,202,541,263,481,317,366,382,359,435,298,428,266,404,276,394,308,317,337,300,279,303,244,292,227,266,234,244,129,205,212,173,185,140,197,38,130,35,158,64,222,105,269,124,353,98,395,93,435,68,452,62,472,72,480,83,481,85,500,72,517,56,505,33,509,21,522,22,575,44,598,39,625,52,644,73,640,65,652,48,655,38,690,39,727"><area title="Sommeil" alt="Sommeil" id="area_morpheus" href="#morpheus" shape="poly" coords="235,799,335,766,392,763,419,779,442,860,453,868,508,816,523,792,630,775,655,750,690,742,726,717,762,734,826,715,822,692,794,685,752,685,739,667,705,652,700,619,713,600,701,581,620,546,582,547,572,563,575,622,470,567,323,540,330,571,399,608,457,619,490,639,526,680,468,660,415,662,364,672,313,659,307,671,337,695,358,721,286,754,239,761,223,779"></map>
 
 <div class="notices green">
 <p>Dans le Salon de Famille de Louis-Philippe du <a href="https://fr.wikipedia.org/wiki/Grand_Trianon" title="https://fr.wikipedia.org/wiki/Grand Trianon">Grand Trianon</a> à Versailles, se peut voir une peinture de <a href="https://fr.wikipedia.org/wiki/René-Antoine_Houasse" title="https://fr.wikipedia.org/wiki/René-Antoine Houasse">René-Antoine Houasse</a>, <cite>Morphée s'éveillant à l'approche d'Iris</cite>, aussi appelée <cite>Iris et Morphée</cite>.</p>
-<p>À partir d'une partie du Livre <abbr title="onze">XI</abbr> des <a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses (Ovide)"><cite>Métamorphoses</cite></a> d'<a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a> se trouve représenté le moment où <a href="#area_iris" title="Iris" id="iris">Iris</a>, messagère de <a href="https://fr.wikipedia.org/wiki/Junon" title="https://fr.wikipedia.org/wiki/Junon">Junon</a>, entre dans la grotte de <a href="https://fr.wikipedia.org/wiki/Hypnos" title="https://fr.wikipedia.org/wiki/Hypnos">Sommeil</a> pour lui ordonner de faire rêver <a href="https://fr.wikipedia.org/wiki/Alcyone" title="https://fr.wikipedia.org/wiki/Alcyone">Alcyone</a>.</p>
+<p>À partir d'une partie du Livre <abbr title="onze">XI</abbr> des <a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses (Ovide)"><cite>Métamorphoses</cite></a> d'<a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a> se trouve représenté le moment où <a href="#area_iris" title="Iris" id="iris">Iris</a>, messagère de <a href="https://fr.wikipedia.org/wiki/Junon" title="https://fr.wikipedia.org/wiki/Junon">Junon</a>, entre dans la grotte de <a href="https://fr.wikipedia.org/wiki/Hypnos" title="https://fr.wikipedia.org/wiki/Hypnos">Sommeil</a> pour l'enjoindre' de se mettre en mouvement pour se rendre auprès d'<a href="https://fr.wikipedia.org/wiki/Alcyone" title="https://fr.wikipedia.org/wiki/Alcyone">Alcyone</a> endormie afin de la faire rêver.</p>
 </div>
 
-<h2 id="iris-1" class="green">Iris dans la grotte de Sommeil selon le texte du livre <abbr title="onze">XI</abbr> des <cite>Métamorphoses</cite></h2>
+<section id="iris-1">
+<h2 class="green">Iris dans la grotte de Sommeil selon le texte du livre <abbr title="onze">XI</abbr> des <cite>Métamorphoses</cite></h2>
 
 <ol class="doc">
-  <li value="583"">Or la déesse ne supporte pas davantage qu'on l'implore pour quelqu'un</li>
+  <li value="583">Or la déesse ne supporte pas davantage qu'on l'implore pour quelqu'un</li>
   <li>Qui est mort et, afin de détourner de ses autels ces mains funestes,</li>
-  <li value="585"">Elle dit:</li>
+  <li value="585">Elle dit:</li>
   <li>
     <p class="conversation">«<mark>Iris</mark>, fidèle messagère de mes volontés,</p>
   </li>
@@ -116,15 +118,19 @@
 
 <h3 class="green">Note:</h3>
 
-<h4 id="note" class="green note">À propos de la dénomination du tableau de René-Antoine Houasse</h4>
+<section id="note">
+<h4 class="green note">À propos de la dénomination du tableau de René-Antoine Houasse</h4>
 
 <div class="notices green">
 <p>L'œuvre de <a href="https://fr.wikipedia.org/wiki/René-Antoine_Houasse" title="https://fr.wikipedia.org/wiki/René-Antoine Houasse">René-Antoine Houasse</a> a été nommé au <abbr title="dix-septième">XVII<sup style="color:#3d8b3d;">ème</sup></abbr> siècle <cite>Morphée s'éveillant à l'approche d'Iris</cite> ou <cite>Iris et Morphée</cite>.</p>
 <p>Nous conservons cette appellation pour permettre l'identification de l'œuvre, bien que la scène représentée montre bien plutôt <a href="https://fr.wikipedia.org/wiki/Iris_(mythologie)" title="https://fr.wikipedia.org/wiki/Iris_(mythologie)">Iris</a> et <a href="#area_morpheus" title="Morphée" id="morpheus">le Sommeil</a>, aussi appelé «Somnus» dont Morphée est le fils.</p>
 <p>Ainsi que le montre la suite du récit d'Ovide dans le livre <abbr title="onze">XI</abbr> des <cite>Métamorphoses</cite>, après avoir reçu l'ordre d'Iris, Somnus désigne Morphée pour aller accomplir la mission d'Iris de faire rêver Alcyone.</p>
 </div>
+</section>
 
 </aside>
+
+</section>
 
 </article>
 `;
