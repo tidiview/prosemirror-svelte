@@ -35,7 +35,8 @@
 <p>C'est ainsi l'occasion d'approcher le sens que pouvait revêtir pour Louis <abbr title="quatorze">XIV</abbr> la figure de cet astre tel que le décrit ce texte.</p>
 </div>
 
-<h2 id="apollon" class="yellow">Phaéton selon le texte du Livre <abbr title="deux">II</abbr> des <cite>Métamorphoses</cite></h2>
+<section id="apollon">
+<h2 class="yellow">Phaéton selon le texte du Livre <abbr title="deux">II</abbr> des <cite>Métamorphoses</cite></h2>
 
 <h3 class="yellow">Le Palais du Soleil</h3>
 
@@ -104,7 +105,7 @@
   <li value="40" class="top-space">À ces mots, le père se débarrassa de ces rayons éblouissants</li>
   <li>Qui couronnaient sa tête et lui ordonna d'approcher</li>
   <li>Puis, l'ayant serré dans ses bras, lui dit:
-    <p class="conversation">«<cite>Tu n'as pas mérité</p>
+    <p class="conversation">«Tu n'as pas mérité</p>
   </li>
   <li>
     <p class="conversation">Que je te renie, et Clyméné t'a dit la vérité sur ta naissance;</p>
@@ -664,6 +665,8 @@
 <footer>
   <p><span style="color: #df8a13;">Ovide, <cite>Les Métamorphoses</cite>, Livre <abbr title="deux">II</abbr>, vers 1 à 366.</span></p>
 </footer>
+
+</section>
 
 </article>
 `;
