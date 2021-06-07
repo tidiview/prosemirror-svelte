@@ -5,6 +5,7 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `<!-- EN:200 JA:137  -->
+
 <article>
 
 <hgroup>
@@ -22,30 +23,32 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire
 https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-380.jpg 380w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-480.jpg 480w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-640.jpg 640w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.jpg 700w"><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.jpg 700w"><source media="(max-width: 959px)" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-280.webp 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-380.webp 380w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-480.webp 480w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-640.webp 640w,
-https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x1050.webp 700w"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x798.jpg" alt="École du Primatice, “Portrait de Diane de Poitiers”, Château de Chenonceau" title="École du Primatice, “Portrait de Diane de Poitiers”, Château de Chenonceau" class="class-diane-img" class="class-diane-img" width="700" height="798" loading="eager" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x1050.webp 700w"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x798.jpg" alt="École du Primatice, “Portrait de Diane de Poitiers”, Château de Chenonceau" title="École du Primatice, “Portrait de Diane de Poitiers”, Château de Chenonceau" class="class-diane-img" width="700" height="798" loading="eager" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
 https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-280.jpg 280w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-380.jpg 380w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-480.jpg 480w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-640.jpg 640w,
 https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x798.jpg 700w"></picture><figcaption>Diane de Poitiers représentée en Diane, déesse de la Chasse<br>
-<q cite="#acteon">Ce fut seulement lorsque tant de blessures eurent mis fin à sa vie que fut rassasiée, dit-on, la colère de Diane au carquois.</q></figcaption></figure>
+<q cite="#acteon">Ce fut seulement lorsque tant de blessures eurent mis fin à sa vie que fut rassasiée, dit-on, la colère de Diane au carquois</q>, <cite>Les Métamorphoses</cite>, Livre <abbr title="trois">III</abbr>, vers 251.</figcaption></figure>
+
 <div class="notices green">
 
 <p>Ce portrait est une œuvre que <a href="https://fr.wikipedia.org/wiki/Le_Primatice" title="https://fr.wikipedia.org/wiki/Le_Primatice">Le Primatice</a>, peintre originaire de Bologne en Italie, invité par le roi <a href="https://fr.wikipedia.org/wiki/François_Ier_(roi_de_France)" title="https://fr.wikipedia.org/wiki/François_Ier_(roi_de_France)">François <abbr title="premier">I<sup>er</sup></abbr></a> puis devenu quasi ministre de la Culture de l'époque, a peint, en <time datetime="1556">1556</time>, au <a href="https://fr.wikipedia.org/wiki/Château_de_Chenonceau" title="https://fr.wikipedia.org/wiki/Château_de_Chenonceau">Château de Chenonceau</a>.</p>
-<p>En italien, la même personne est désignée par l'appellation “Il Primaticcio”.</p>
-<p>L'image représente la favorite du roi <a href="https://fr.wikipedia.org/wiki/Henri_II_(roi_de_France)" title="https://fr.wikipedia.org/wiki/Henri_II_(roi_de_France)">Henri <abbr title="deux">II</abbr></a>, fils ayant succédé à François Ier, <a href="https://fr.wikipedia.org/wiki/Diane_de_Poitiers" title="https://fr.wikipedia.org/wiki/Diane_de_Poitiers">Diane de Poitiers</a>.</p>
+<p>En italien, la même personne est désignée par l'appellation <i>Il Primaticcio</i>.</p>
+<p>L'image représente la favorite du roi <a href="https://fr.wikipedia.org/wiki/Henri_II_(roi_de_France)" title="https://fr.wikipedia.org/wiki/Henri_II_(roi_de_France)">Henri <abbr title="deux">II</abbr></a>, fils ayant succédé à François <abbr title="premier">I<sup>er</sup></abbr>, <a href="https://fr.wikipedia.org/wiki/Diane_de_Poitiers" title="https://fr.wikipedia.org/wiki/Diane_de_Poitiers">Diane de Poitiers</a>.</p>
 <p>Alors, à la cour du roi de France, elle est connue pour être d'une beauté exceptionnelle.</p>
-<p>À l'époque, comme il y avait une mode pour le “portrait paralèlle”, ici, on ne représente pas directement la personne mais la déesse de la chasse connue pour avoir le même nom <a href="https://fr.wikipedia.org/wiki/Diane_(mythologie)" title="https://fr.wikipedia.org/wiki/Diane_(mythologie)">Diane</a>.</p>
-<p>À l'origine de ce portrait parallèle, ci-dessous, un récit, qui fait apparaître Diane déesse de la Chasse, écrit par un écrivain qui a vécu à l'époque de l'Empire Romain, <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a>. Ce récit est extrait de ses œuvres: <a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"><cite>Les Métamorphoses</cite></a>.</p>
+<p>À l'époque, comme il y avait une mode pour le <i>portrait paralèlle</i>: ici, on ne représente pas directement la personne mais la déesse de la chasse connue pour avoir le même nom de <i><a href="https://fr.wikipedia.org/wiki/Diane_(mythologie)" title="https://fr.wikipedia.org/wiki/Diane_(mythologie)">Diane</a></i>.</p>
+<p>Le récit ci-dessous, qui fait apparaître Diane déesse de la Chasse dans sa rencontre avec le chasseur Actéon, a été écrit par un écrivain de l'époque impériale romaine, <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a>. Ce récit est extrait de ses œuvres: <a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"><cite>Les Métamorphoses</cite></a>.</p>
 <p>Puisse ce récit des aventures de la déesse de la Chasse et d'Actéon vous plaire!</p>
 </div>
 
-<h2 id="acteon" class="green">Actéon selon le texte du livre <abbr title="trois">III</abbr> des <cite>Métamorphoses</cite></h2>
+<section id="acteon">
+<h2 class="green">Diane selon le texte du livre <abbr title="trois">III</abbr> des <cite>Métamorphoses</cite></h2>
 
 <ol class="doc">
   <li value="131">Ils étaient donc à Thèbes; ton exil pouvait donc, Cadmus</li>
@@ -193,13 +196,15 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire
   <li>Voir, plutôt qu'éprouver, la sauvagerie de ses chiens!</li>
   <li>Ils l'encerclent et, enfouissant leurs gueules dans son corps,</li>
   <li value="250">Déchiquettent, sous l'apparence d'un cerf, leur propre maître.</li>
-  <li>Ce fut seulement lorsque tant de blessures eurent mis</li>
+  <li value="251">Ce fut seulement lorsque tant de blessures eurent mis</li>
   <li>Fin à sa vie que fut rassasiée, dit-on, la colère de Diane au carquois.</li>
 </ol>
 
 <footer>
-  <p><span style="color: #3d8b3d;">Ovide, <cite>Les Métamorphoses</cite>, Livre <abbr title="trois">III</abbr>, vers 131 à 252</span></p>
+  <p><span style="color: #3d8b3d;">Ovide, <cite>Les Métamorphoses</cite>, Livre <abbr title="trois">III</abbr>, vers 131 à 252.</span></p>
 </footer>
+
+</section>
 
 </article>
 `;
