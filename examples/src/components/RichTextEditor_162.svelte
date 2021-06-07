@@ -5,6 +5,7 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `<!-- JA:130 EN:193  -->
+
 <article>
 
 <hgroup>
@@ -30,10 +31,11 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.triano
 <p>Il raconte la terrible fin d'<a href="https://fr.wikipedia.org/wiki/Arachné" title="https://fr.wikipedia.org/wiki/Arachnée">Arachnée</a>, femme de Méonie, qui se trouve au centre et est représentée se défendant.</p>
 <p>Elle se trouve frappée par <a href="https://fr.wikipedia.org/wiki/Minerve_(mythologie)" title="https://fr.wikipedia.org/wiki/Minerve_(mythologie)">Minerve</a>, ici déesse de l'art de tisser qui apparaît au premier plan, parce qu'elle refusait de lui reconnaître toute supériorité du fait de sa seule divinité.</p>
 <p>Sa vie durant, elle n'a en effet eu de cesse de lui disputer l'excellence de cet art, ainsi que le raconte l'écrivain d'expression latine <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a>,dans le livre <abbr title="six">VI</abbr> des <a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"><cite>Métamorphoses</cite></a>.</p>
-<p>En voici le texte ci-dessous: Minerve y est appelée par Ovide selon sa dénomination latine, Pallas.</p>
+<p>En voici le texte ci-dessous: Minerve y est appelée par Ovide selon sa dénomination latine, <i>Pallas</i>.</p>
 </div>
 
-<h2 id="arachnee" class="red">Arachnée selon le texte du livre <abbr title="six">VI</abbr> des <cite>Métamorphoses</cite></h2>
+<section id="arachnee">
+<h2 class="red">Arachnée selon le texte du livre <abbr title="six">VI</abbr> des <cite>Métamorphoses</cite></h2>
 
 <ol class="doc">
   <li value="1">Tritonia avait prêté l'oreille à ces récits des Aonides,</li>
@@ -251,6 +253,8 @@ https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.triano
 <footer>
   <p><span style="color: #b52b27;">Ovide, <cite>les Métamorphoses</cite>, Livre <abbr title="six">VI</abbr>, vers 1 à 148.</span></p>
 </footer>
+
+</section>
 
 </article>
 `;
