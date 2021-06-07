@@ -5,6 +5,7 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `<!-- JA:142 EN:206 -->
+
 <article>
 
 <hgroup>
@@ -23,13 +24,13 @@
 <p>Des liens ont été établis à partir des citations pour rendre possible et facile pour ceux qui le souhaiterait, vérification des propos avancés en temps que citation.</p>
 </div>
 
-<article>
+<section id="chap141">
+<h2 class="red">saint Michel selon le texte du chapître 141 de <cite>La Légende Dorée</cite></h2>
 
-<h2 id="chap141" class="red">saint Michel selon le texte du chapître 141 de <cite>La Légende Dorée</cite></h2>
+<section id="name">
+<h3 class="red">le nom de Michel</h3>
 
-<h3 id="name" class="red">le nom de Saint Michael</h3>
-
-<p><mark>Michel</mark> se comprend comme «Qui, comme Dieu?» et, à ce que dit Grégoire: </p>
+<p><mark>Michel</mark> se comprend comme «Qui, comme Dieu?» et, à ce que dit Grégoire:</p>
 <p class="conversation">«chaque fois qu'il s'accomplit une grande merveille, c'est <mark>Michel</mark> qui est envoyé, pour signifier, par son action et par son nom, que personne ne peut faire ce qui revient à Dieu seul: aussi attribue-t-on à <mark>Michel</mark> lui-même nombre de faits qui manifestent une puissance admirable.»</p>
 <p>Au témoignage de Daniel [<a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs">Daniel chapître 12 verset 1</a>], il surgira au temps de l’Antéchrist et se tiendra à côté des élus comme leur défenseur et protecteur.
 Il a combattu le dragon et ses anges [<a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille">Apocalypse chapître 12, versets 7 à 9</a>], les a précipités du haut du ciel, et a remporté sur eux une grande victoire.
@@ -39,14 +40,17 @@ Il a disputé le <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#n
 <p>Sur l'ordre du Seigneur il tuera avec puissance l'Antéchrist établi sur le mont des Oliviers [<a href="https://www.aelf.org/bible/Lc/22" title="https://www.aelf.org/bible/Lc/22">Luc chapître 22 verset 43</a>].
 À la voix de l'archange <mark>Michel</mark>, les morts ressusciteront [<a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/autre-docs">Daniel chapître 12, versets 1 et 2</a>]; au jour du Jugement, il présentera la croix, les clous, la lance et la couronne d'épines.</p>
 <p>La fête sacrée de l'archange <mark>Michel</mark> porte les noms d'apparition, de dédicace, de victoire et de mémoire.</p>
+</section>
 
-<h3 id="apparitions" class="red">les apparitions de cet ange sont multiples</h3>
+<section id="apparitions">
+<h3 class="red">les apparitions de cet ange sont multiples</h3>
 
-<h4 id="mont-garganus" class="red">apparition de Garganus et du taureau</h4>
+<section id="mont-garganus">
+<h4 class="red">apparition de Garganus et du taureau</h4>
 
 <p>La première apparition de <mark>Michel</mark> est celle du mont Gargano.</p>
 <p>Dans les Pouilles se trouve une montagne ainsi désignée, près de la cité nommée Siponto.
-Or en l'an du Seigneur <time datetime="390">390</time> habitait dans cette ville de Siponto un homme appelé Gargano; la montagne tenait son nom de lui, ou bien, selon certains livres, c'est lui qui tenait son nom de la montagne.</p>
+Or en l'an du Seigneur <time datetime="0390">390</time> habitait dans cette ville de Siponto un homme appelé Gargano; la montagne tenait son nom de lui, ou bien, selon certains livres, c'est lui qui tenait son nom de la montagne.</p>
 <p>Il possédait un immense troupeau de brebis et de bœufs, et celui-ci paissait sur les flancs de la montagne, quand soudain il arriva qu'un taureau quitta les autres animaux et s'enfuit jusqu'au sommet.</p>
 <p>Comme il ne revenait pas avec les autres bêtes, l'homme rassembla une troupe de serviteurs, se mit à explorer tous les recoins, et finit par le trouver au sommet de la montagne, près de l'ouverture d'une grotte.</p>
 <p>Se demandant avec exaspération pourquoi il errait ainsi tout seul, il lui décocha une flèche empoisonnée, mais celle-ci, comme si le vent la renvoyait, se retourna aussitôt contre lui.</p>
@@ -56,10 +60,12 @@ Or en l'an du Seigneur <time datetime="390">390</time> habitait dans cette ville
 <p class="conversation">«Sachez que c'est moi qui ai voulu que cet homme soit frappé par sa propre flèche; car je suis l'archange <mark>Michel</mark>, et j'ai décidé de préserver ce lieu, dont j'ai fait ma demeure sur terre.
 Par ce signe j'ai voulu prouver que j'en étais l'inspecteur et le gardien.»</p>
 <p>Sur-le-champ, l'évêque et les habitants s'y rendirent en procession, et, n'osant pas entrer dans la grotte, ils se tinrent en prière devant l'entrée.</p>
+</section>
 
-<h4 id="mont-tombe" class="red">apparition au mont Tombe</h4>
+<section id="mont-tombe">
+<h4 class="red">apparition au mont Tombe</h4>
 
-<p>La seconde apparition eut lieu dans les années du Seigneur <time datetime="710">710</time>, à ce qu'on rapporte.</p>
+<p>La seconde apparition eut lieu dans les années du Seigneur <time datetime="0710">710</time>, à ce qu'on rapporte.</p>
 <p>Au lieu dit La Tombe, <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_haymon" title="Haymon" id="tumba">Tumba</a>, situé non loin du bord de mer, à six milles de la ville d'Avranches, <mark>Michel</mark> apparut à l'évêque de la cité et lui ordonna de construire une église à cet endroit, pour y célébrer la mémoire de l'archange <mark>Michel</mark>, comme sur le mont Gargano.</p>
 <p>L'évêque hésitant sur le lieu exact où il devait construire l'église, <mark>Michel</mark> lui dit que ce devait être à l'emplacement où il trouverait un taureau caché par des brigands.</p>
 <p>Comme il s'interrogeait aussi sur les dimensions de l'église, il reçut l'ordre de lui donner la surface délimitée par la marche du taureau.</p>
@@ -75,15 +81,19 @@ Par ce signe j'ai voulu prouver que j'en étais l'inspecteur et le gardien.»</p
 <p>Voilà soudain que l'eau revint à grosses vagues, et que la foule affolée se réfugia sur le rivage, sauf la femme enceinte, qui se trouva prisonnière des flots marins.</p>
 <p>Mais l'archange <mark>Michel</mark> lui sauva la vie et elle accoucha d'un fils en pleine mer.</p>
 <p>Elle le prit dans ses bras, l'allaita et, la mer lui laissant à nouveau le passage, elle en sortit toute joyeuse avec son enfant.</p>
+</section>
 
-<h4 id="chateau-saint-ange" class="red">appartition au château saint-Ange</h4>
+<section id="chateau-saint-ange">
+<h4 class="red">appartition au château saint-Ange</h4>
 
 <p>La troisième apparition eut lieu à Rome, à ce qu'on lit, au temps du pape Grégoire.</p>
 <p>Ce dernier, en effet, avait institué les litanies majeures en raison de la peste bubonique, et il priait avec dévotion pour son peuple, lorsqu'il vit, sur le château jadis appelé mausolée d'Adrien, l'ange du Seigneur en train d'essuyer son glaive et de le remettre au fourreau.</p>
 <p>Saint Grégoire comprit alors que ses prières avaient été exaucées, et il construisit là une église en l'honneur des anges; aussi le château est-il appelé aujourd'hui encore château Saint-Ange.</p>
 <p>Cette apparition est célébrée le 8 des ides de mai, en même temps que celle du mont Gargano, au jour où l'archange <mark>Michel</mark> donna la victoire aux Sipontins.</p>
+</section>
 
-<h4 id="de-hierarchia" class="red">apparition dans les hiérarchies</h4>
+<section id="de-hierarchia">
+<h4 class="red">apparition dans les hiérarchies</h4>
 
 <p>La quatrième apparition est celle des hiérarchies des anges eux-mêmes.</p>
 <ol>
@@ -269,8 +279,10 @@ Quant à leur ministère, il est triple: </p>
       <p>le troisième aux anges.</p>
     </li>
   </ol>
+</section>
 
-<h4 id="infirme" class="red">apparition à l'homme qui ne pouvait ni boire ni manger</h4>
+<section id="infirme">
+  <h4 class="red">apparition à l'homme qui ne pouvait ni boire ni manger</h4>
 
 <p>La cinquième apparition est celle dont parle l'<a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#note_histoiretripartite" title="Histoire tripartite" id="histoiretripartite">Histoire tripartite</a>.
 En effet, près de Constantinople se trouve un lieu où était jadis honorée la déesse Vesta, et où s'élève aujourd'hui une église dédiée à saint <mark>Michel</mark>: l'endroit s'appelle d'ailleurs Michaelium.</p>
@@ -280,17 +292,22 @@ Se sentant près de mourir, il se fit conduire dans l'église Saint-<mark>Michel
 <p><mark>Michel</mark> lui apparut, et lui dit de se préparer un mélange de miel, de vin et de poivre, et d'y tremper tous ses aliments: il recouvrerait ainsi sa pleine santé.</p>
 <p>Il le fit, et se trouva totalement guéri, bien que la médecine semble déconseiller de donner aux colériques des potions qui échauffent.</p>
 <p>Voilà ce que dit l'Histoire tripartite.</p>
+</section>
+
+</section>
 
 
 <!-- page 2 -->
 
 
-<h3 id="victoire-michel" class="red">victoires de saint Michel</h3>
+<section id="victoire-michel">
+<h3 class="red">victoires de saint Michel</h3>
 
 <p>Deuxièmement, la fête de saint <mark>Michel</mark> porte le nom de victoire.
 On connaît bien des victoires de l'archange <mark>Michel</mark> et des autres anges.</p>
 
-<h4 id="victoire-sipontus" class="red">victoire des chrétiens de Siponte</h4>
+<section id="victoire-sipontus">
+<h4 class="red">victoire des chrétiens de Siponte</h4>
 
 <p>La première est celle qu'il accorda aux Sipontins, de la façon que voici.</p>
 <p>Peu de temps après la découverte du lieu dont il a été question plus haut, les Napolitains, encore païens, entreprirent de livrer une bataille rangée contre les Sipontins et les Bénéventins, qui habitent à cinquante milles environ de Siponte.</p>
@@ -298,8 +315,10 @@ On connaît bien des victoires de l'archange <mark>Michel</mark> et des autres a
 La troisième nuit, <mark>Michel</mark> apparut à l'évêque, dit que leurs prières avaient été entendues, et il leur promit la victoire, en leur recommandant de donner l'assaut aux ennemis à la quatrième heure du jour.</p>
 <p>Au moment de l'attaque, le mont Gargano retentit d'un immense tremblement, il se fit une pluie d'éclairs, et un brouillard cacha à la vue tout le sommet de la montagne, au point que du côté adverse six cents hommes tombèrent tant sous les traits de l'ennemi que sous ceux de la foudre.</p>
 <p>Quant aux autres, reconnaissant la puissance de l’archange, ils abandonnèrent l'erreur de l'idolâtrie et se soumirent sans plus tarder à la foi chrétienne.</p>
+</section>
 
-<h4 id="victoire-lucifer" class="red">victoire de saint Michel sur Lucifer</h4>
+<section id="victoire-lucifer">
+<h4 class="red">victoire de saint Michel sur Lucifer</h4>
 
 <p>La seconde victoire est celle que remporta l'archange lorsqu'il chassa du ciel le dragon, c'est-à-dire Lucifer, et tous ses suppôts.</p>
 <p>C'est à cette bataille que renvoient ces lignes d'Apocalypse: Un combat se fit dans le ciel, <mark>Michel</mark> <a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille">(Apocalypse 12, 7.)</a>...</p>
@@ -311,8 +330,10 @@ La troisième nuit, <mark>Michel</mark> apparut à l'évêque, dit que leurs pri
 <p>Aussi <a href="https://www.aelf.org/bible/Za/4" title="https://www.aelf.org/bible/Za/4" id="haymon">Haymon</a> dit-il:</p>
 <p class="conversation">«Aux dires des philosophes et selon l'opinion de nos docteurs, les airs sont pleins de démons et d'esprits malins, tout comme un rayon de soleil est plein de minuscules grains de poussière.»</p>
 <p>Mais malgré leur nombre, d'après Origène, nous diminuons l'effectif de leur armée quand nous remportons sur eux une victoire, en sorte que le démon qui échoue à faire tomber un saint homme dans un vice donné ne peut plus le soumettre une seconde fois à la même tentation.</p>
+</section>
 
-<h4 id="victoire-anges" class="red">victoires quotidiennes des anges sur nous-mêmes</h4>
+<section id="victoire-anges">
+<h4 class="red">victoires quotidiennes des anges sur nous-mêmes</h4>
 
 <p>La troisième victoire est celle que les anges remportent quotidiennement sur les démons, tandis qu'en combattant pour nous ils nous libèrent de leurs tentations.
 Ils nous en délivrent de trois façons.</p>
@@ -336,8 +357,10 @@ Ils nous en délivrent de trois façons.</p>
       <p class="conversation">Ne tuez pas celui sur lequel vous aurez vu le signe du <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree/page:2#note_tau" title="signe du Tau" id="tau">Tau</a> (Ezéchiel 9, 6.).</p>
     </li>
   </ul>
+</section>
 
-<h4 id="victoire-antechrist" class="red">victoire finale sur l'antéchrist</h4>
+<section id="victoire-antechrist">
+<h4 class="red">victoire finale sur l'antéchrist</h4>
 
 <p>La quatrième victoire est celle que l'archange <mark>Michel</mark> remportera sur l'antéchrist à l'heure où il le tuera.</p>
 <p>Alors, à ce que dit Daniel, </p>
@@ -354,8 +377,10 @@ Ils nous en délivrent de trois façons.</p>
   <li>celui qu’il livre contre les démons qui nous attaquent, </li>
   <li>et celui dont il vient d'être question.</li>
 </ol>
+</section>
 
-<h3 id="dedicace" class="red">dédicace</h3>
+<section id="dedicace">
+<h3 class="red">dédicace</h3>
 
 <p>Troisièmement, cette fête s'appelle dédicace, parce que c'est ce jour-la que l’archange <mark>Michel</mark> a révélé qu'il avait lui-même dédié le lieu du mont Gargano.</p>
 <p>En effet, après avoir écrasé leurs adversaires et remporte sur eux cette merveilleuse victoire, les Sipontins se mirent à se demander s'ils devaient entrer dans ce lieu et en faire la dédicace.</p>
@@ -371,7 +396,8 @@ Ils nous en délivrent de trois façons.</p>
 
 <!-- page 3 -->
 
-<h3 id="memoire-saint-michel" class="red">mémoire de saint Michel</h3>
+<section id="memoire-saint-michel">
+<h3 class="red">mémoire de saint Michel</h3>
 
 <p>Quatrièmement, cette fête s'appelle mémoire de saint Michel, bien que nous y fassions mémoire de tous les anges, et que nous les honorions collectivement.</p>
 <p>Il convient en effet que nous leur rendions louange et gloire pour plusieurs raisons: </p>
@@ -385,8 +411,10 @@ Ils nous en délivrent de trois façons.</p>
   <li>les plus nobles soldats du Roi éternel, </li>
   <li>et les consolateurs de nos tribulations.</li>
 </ul>
+</section>
 
-<h4 id="anges-gardiens" class="red">parce que les anges nous gardent</h4>
+<section id="anges-gardiens">
+<h4 class="red">parce que les anges nous gardent</h4>
 
 <p>Nous devons donc les honorer d'abord parce qu'ils sont nos gardiens.</p>
 <p>Chaque homme se voit en effet donner deux anges, un mauvais qui le met à l'épreuve, et un bon qui veille sur lui.</p>
@@ -454,8 +482,10 @@ Ils nous en délivrent de trois façons.</p>
     <p>en imprimant dans nos cœurs la mémoire de la Passion du Seigneur, comme nous l'avons dit plus haut.</p>
   </li>
 </ol>
+</section>
 
-<h4 id="anges-servants" class="red">parce que les anges nous assistent</h4>
+<section id="anges-servants">
+<h4 class="red">parce que les anges nous assistent</h4>
 
 <p>Deuxièmement, nous devons honorer les anges parce qu'ils sont nos assistants.</p>
 <p>Tous, en effet, comme le dit l'Épître aux Hébreux, </p>
@@ -498,8 +528,10 @@ Ils nous en délivrent de trois façons.</p>
     </ol>
   </li>
 </ol>
+</section>
 
-<h4 id="anges-freres" class="red">parce que les anges sont nos frères et nos concitoyens</h4>
+<section id="anges-freres">
+<h4 class="red">parce que les anges sont nos frères et nos concitoyens</h4>
 
 <p>Troisièmement, nous devons les honorer parce que ce sont nos frères et nos concitoyens.</p>
 <p>Tous les élus, en effet, rejoignent les ordres des anges, </p>
@@ -560,8 +592,10 @@ Ils nous en délivrent de trois façons.</p>
   </li>
 </ol>
 <p>Voilà ce que dit <a href="https://www.aelf.org/bible/Ex/23" title="https://www.aelf.org/bible/Ex/23" id="gregoire2">Grégoire</a>.</p>
+</section>
 
-<h4 id="anges-guides" class="red">parce que les anges portent nos âmes vers le ciel</h4>
+<section id="anges-guides">
+<h4 class="red">parce que les anges portent nos âmes vers le ciel</h4>
 
 <p>Quatrièmement, nous devons honorer les anges parce qu'ils portent nos âmes vers le ciel; et ils le font de trois manières:</p>
 <ol>
@@ -578,8 +612,10 @@ Ils nous en délivrent de trois façons.</p>
     <p class="conversation">«Il se fit que le mendiant mourut et qu'il fut porté par un ange dans le sein d'Abraham» <a href="https://www.aelf.org/bible/Lc/16" title="https://www.aelf.org/bible/Lc/16">(Luc 16, 22.)</a>.</p>
   </li>
 </ol>
+</section>
 
-<h4 id="anges-intercesseurs" class="red">Parce que les anges sont les ambassadeurs de nos prières auprès de Dieu</h4>
+<section id="anges-intercesseurs">
+<h4 class="red">Parce que les anges sont les ambassadeurs de nos prières auprès de Dieu</h4>
 
 <p>Cinquièmement, nous devons honorer les anges parce qu'ils sont les ambassadeurs de nos prières auprès de Dieu.</p>
 <ol>
@@ -600,12 +636,14 @@ Ils nous en délivrent de trois façons.</p>
 </ol>
 <p>De ces trois fonctions, Bernard dit dans son commentaire sur le Cantique des cantiques: </p>
 <p class="conversation">«L’ange court du bien-aimé à la bien-aimée, présentant les demandes, rapportant les présents, enflammant celle-ci et apaisant celui-là».</p>
+</section>
 
-<h4 id="anges-chevaliers" class="red">parce que les anges sont les plus nobles soldats du Roi éternel</h4>
+<section id="anges-chevaliers">
+<h4 class="red">parce que les anges sont les plus nobles soldats du Roi éternel</h4>
 
-<p>Sixièmement, nous devons honorer les anges parce qu'ils sont les plus nobles soldats du Roi éternel, à ce գue dit Job: </p>
-<p class="conversation">«Peut-on compter le nombre de ses soldats?» <a href="https://www.aelf.org/bible/Jb/25" title="https://www.aelf.org/bible/Jb/25">(Job 25, 3)</a>. </p>
-<p><Et tout comme, parmi les soldats d'un roi, </p>
+<p>Sixièmement, nous devons honorer les anges parce qu'ils sont les plus nobles soldats du Roi éternel, à ce գue dit Job:</p>
+<p class="conversation">«Peut-on compter le nombre de ses soldats?» <a href="https://www.aelf.org/bible/Jb/25" title="https://www.aelf.org/bible/Jb/25">(Job chapître 25, verset 3)</a>. </p>
+<p>Et tout comme, parmi les soldats d'un roi,</p>
 <ol>
   <li>
     <p>nous en voyons certains demeurer à la Cour, accompagner le roi, chanter pour le glorifier ou le distraire, </p>
@@ -635,8 +673,10 @@ Ils nous en délivrent de trois façons.</p>
     <p>c'est-à-dire, d'après un commentaire, dans l'Eglise militante, Michel et ses anges combattaient le dragon <a href="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille" title="https://francois-vidit.com/docs/fr/mont-saint-michel/arch-michel/apocalypse#bataille">(Apocalypse 12,7.)</a>.</p>
   </li>
 </ol>
+</section>
 
-<h4 id="anges-consolateurs" class="red">parce que les anges nous consolent dans nos tribulations></h4>
+<section id="anges-consolateurs">
+<h4 class="red">parce que les anges nous consolent dans nos tribulations></h4>
 
 <p>Septièmement, enfin, nous devons honorer les anges parce qu'ils nous consolent dans nos tribulations, selon Zacharie: </p>
 <p class="conversation">«L'ange qui m'adressait de bonnes et consolantes paroles» <a href="https://www.aelf.org/bible/Za/1" title="https://www.aelf.org/bible/Za/1">(Zacharie 1, 13.)</a>, </p>
@@ -657,76 +697,97 @@ Ils nous en délivrent de trois façons.</p>
     <p>troisièmement, en adoucissant et en diminuant nos tribulations, ce qui est signifié dans Daniel, où l'ange du Seigneur, descendant dans la fournaise avec les trois enfants fit se lever au milieu d'elle comme «un souffe de rosée» <a href="https://www.aelf.org/bible/Dn/3" title="https://www.aelf.org/bible/Dn/3">(Daniel 3, 50.)</a>.</p>
   </li>
 </ol>
+</section>
 
 <footer>
   <p><span style="color: #b52b27;">Jacques De Voragine, <cite>La Légende Dorée</cite>, chapître 141.</span></p>
 </footer>
 
+</section>
+
+</section>
+
 
 <aside>
 
-<h3 id="notes" class="red">Notes</h3>
+<section id="notes">
+<h3 class="red">Notes</h3>
 
-<h4 id="note_moise" class="red notes">ascension de Moïse</h4>
+<section id="note_moise">
+  <h4 class="red notes">ascension de Moïse</h4>
   <div class="notices red">
     <p>Le récit intitulé «Ascension de Moïse» est un texte apocryphe du <abbr title="premier">1<sup>er</sup></abbr> siècle <abbr title="après Jésus-Christ">ap. J.-C.</abbr>; la lettre de Jude a parfois elle aussi été considérée comme apocryphe.</p>
   </div>
 <footer>
-  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#moise" title="ascension de Moïse">Il a disputé le corps de Moïse ↩</a></p>
+  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#moise" title="ascension de Moïse">Il a disputé le corps de Moïse&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_israel" class="red notes">patron d'Israël, défenseur des milices célestes</h4>
+<section id="note_israel">
+<h4 class="red notes">patron d'Israël, défenseur des milices célestes</h4>
   <div class="notices red">
     <p>Michel est mentionné comme le patron d'Israël en Daniel 12, 1, et dans Apocalypse chapître 12, verset 7 il est le défenseur des milices célestes.</p>
   </div>
 <footer>
-  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#israel" title="patron d'Israël, défenseur des milices célestes">Il fut jadis prince de la Synagogue ↩</a></p>
+  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#israel" title="patron d'Israël, défenseur des milices célestes">Il fut jadis prince de la Synagogue&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_extrapolation" class="red notes">extrapolation de Jacques de Voragine</h4>
+<section id="note_extrapolation">
+<h4 class="red notes">extrapolation de Jacques de Voragine</h4>
 <div class="notices red">
   <p>Jacques de Voragine identifie Michel avec l'ange du Seigneur dont parle Exode chapître 23, versets 20 à 23. et qui a joué un rôle dans les sept plaies d'Égypte (Exode chapître 7 à 12) et dans la traversée de la mer Rouge (Exode chapître 14), mais Le livre de l'Exode ne le mentionne pas explicitement.</p>
 </div>
 <footer>
-  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#extrapolation" title="extrapolation de Jacques de Voragine">lui qui a répandu les plaies sur l'Égypte ↩</a></p>
+  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#extrapolation" title="extrapolation de Jacques de Voragine">lui qui a répandu les plaies sur l'Égypte&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_tumba" class="red notes">Mont Tumba</h4>
+<section id="note_tumba">
+<h4 class="red notes">Mont Tumba</h4>
   <div class="notices red">
     <p>Il s'agit bien sûr du Mont-Saint-Michel.</p>
   </div>
 <footer>
-  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#tumba" title="Mont Tumba">Au lieu dit La Tombe ↩</a></p>
+  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#tumba" title="Mont Tumba">Au lieu dit La Tombe&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_calendes" class="red notes">date des calendes de novembre</h4>
+<section id="note_calendes">
+<h4 class="red notes">date des calendes de novembre</h4>
   <div class="notices red">
     <p>Le <time datetime="10-16">16 octobre (dix-septième jour des calendes de novembre)</time> est la date de la dédicace de l'église du Mont-Saint-Michel.</p>
   </div>
 <footer>
-  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#calendes" title="date des calendes de novembre">le dix-septième jour des calendes de novembre ↩</a></p>
+  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#calendes" title="date des calendes de novembre">le dix-septième jour des calendes de novembre&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_denis" class="red notes">Pseudo-Denis</h4>
+<section id="note_denis">
+<h4 class="red notes">Pseudo-Denis</h4>
   <div class="notices red">
     <p>Il s'agit du Pseudo-Denis, auteur de De Hierarchia.</p>
   </div>
 <footer>
-  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#denis" title="Pseudo-Denis¹">selon la répartition de Denis ↩</a></p>
-  <p>Revenir au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#denis2" title="Pseudo-Denis²">Pour la répartition des ordres de la première hiérarchie ↩</a></p>
+  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#denis" title="Pseudo-Denis¹">selon la répartition de Denis&nbsp;↩</a></p>
+  <p>Revenir au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#denis2" title="Pseudo-Denis²">Pour la répartition des ordres de la première hiérarchie&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_gregoire" class="red notes">Grégoire le Grand</h4>
+<section id="note_gregoire">
+<h4 class="red notes">Grégoire le Grand</h4>
   <div class="notices red">
-    <p><a href="https://fr.wikipedia.org/wiki/Grégoire_Ier" title="https://fr.wikipedia.org/wiki/Grégoire_Ier">Grégoire <abbr title="premier">I<sup>er</sup><abbr>, dit le Grand</a>, auteur des Dialogues (né vers <time datetime="540">540</time>, mort le <time datetime="604-03-12">12 mars 604</time>), devient le <abbr title="soixante-quatre">64<sup>ème</sup></abbr> pape en <time datetime="590">590</time>.</p>
+    <p><a href="https://fr.wikipedia.org/wiki/Grégoire_Ier" title="https://fr.wikipedia.org/wiki/Grégoire_Ier">Grégoire <abbr title="premier">I<sup>er</sup></abbr>, dit le Grand</a>, auteur des Dialogues (né vers <time datetime="0540">540</time>, mort le <time datetime="0604-03-12">12 mars 604</time>), devient le <abbr title="soixante-quatre">64<sup>ème</sup></abbr> pape en <time datetime="0590">590</time>.</p>
     <p>Docteur de l'Église, il est l'un des quatre Pères de l'Église d'Occident, avec saint Ambroise, saint Augustin et saint Jérôme. Son influence durant le Moyen Âge fut considérable.</p>
     <p>C'est en son honneur que, deux siècles après sa mort, le chant élaboré dans les abbayes du diocèse de Metz est appelé «chant grégorien» (sans que l'on sache avec certitude son rôle dans l'évolution et la diffusion du chant liturgique).</p>
   </div>
 <footer>
-  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#gregoire" title="Grégoire le Grand">Pour la répartition des ordres de la première hiérarchie ↩</a></p>
+  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#gregoire" title="Grégoire le Grand">Pour la répartition des ordres de la première hiérarchie&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_bernard" class="red notes">Bernard de Clairvaux</h4>
+<section id="note_bernard">
+<h4 class="red notes">Bernard de Clairvaux</h4>
   <div class="notices red">
     <p><a href="https://fr.wikipedia.org/wiki/Bernard_de_Clairvaux" title="Bernard de Clairvaux">Bernard de Fontaine, abbé de Clairvaux</a>, né en <time datetime="1090">1090</time> à Fontaine-lès-Dijon et mort le <time datetime="1153-08-20">20 août 1153</time> à l'abbaye de Clairvaux, est un moine bourguignon, réformateur de la vie religieuse catholique.</p>
     <p>Directeur de conscience et important promoteur de l'ordre cistercien (ou ordre de Cîteaux), il recherche l'amour du Christ par la mortification la plus dure. Bernard de Fontaine fait preuve, toute sa vie, d'une activité inlassable pour instruire ses moines de Clairvaux, pour émouvoir et entraîner les foules, pour allier son ordre avec la papauté et pour élaborer un dogme militant que son ordre et toute l'Église catholique mettront en œuvre.</p>
@@ -734,28 +795,35 @@ Ils nous en délivrent de trois façons.</p>
     <p>Mort en <time datetime="1153">1153</time>, il est canonisé dès <time datetime="1175">1174</time> et devient ainsi saint Bernard de Clairvaux. Il est déclaré Docteur de l'Église catholique en <time datetime="1830">1830</time> par le pape Pie <abbr title="huit">VIII</abbr>.</p>
   </div>
 <footer>
-  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#bernard" title="Bernard de Clairvaux">Pour la répartition des ordres de la première hiérarchie ↩</a></p>
+  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#bernard" title="Bernard de Clairvaux">Pour la répartition des ordres de la première hiérarchie&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_histoiretripartite" class="red notes">Histoire tripartite</h4>
+<section id="note_histoiretripartite">
+<h4 class="red notes">Histoire tripartite</h4>
   <div class="notices red">
-    <p>chronique ecclésiastique de Constantin à Théodose <abbr title="deux">II</abbr> (<time datetime="313">313</time> à <time datetime="439">439</time>) en quatre livres, dans laquelle Théodore reprend les œuvres de trois historiens du <abbr title="cinquième">V<sup>ème</sup></abbr> siècle, Socrate le Scolastique, Sozomène et Théodoret de Cyr, avec notes et comparaisons. Elle a été partiellement traduite en latin en <time datetime="560">560</time> par le moine Épiphane à la demande de Cassiodore. Certaines parties sont assez fidèles, tandis que d'autres sont une adaptation libre.</p>
+    <p>chronique ecclésiastique de Constantin à Théodose <abbr title="deux">II</abbr> (<time datetime="0313">313</time> à <time datetime="0439">439</time>) en quatre livres, dans laquelle Théodore reprend les œuvres de trois historiens du <abbr title="cinquième">V<sup>ème</sup></abbr> siècle, Socrate le Scolastique, Sozomène et Théodoret de Cyr, avec notes et comparaisons. Elle a été partiellement traduite en latin en <time datetime="0560">560</time> par le moine Épiphane à la demande de Cassiodore. Certaines parties sont assez fidèles, tandis que d'autres sont une adaptation libre.</p>
   </div>
 <footer>
-  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#histoiretripartite" title="Histoire tripartite">Histoire tripartite ↩</a></p>
+  <p class="puce">retour au texte: <a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#histoiretripartite" title="Histoire tripartite">Histoire tripartite&nbsp;↩</a></p>
 </footer>
+</section>
 
-<h4 id="note_haymon" class="red notes">Haymon</h4>
+<section id="note_haymon">
+<h4 class="red notes">Haymon</h4>
   <div class="notices red">
-    <p><a href="https://fr.wikipedia.org/wiki/Haymon_d'Halberstadt" title="https://fr.wikipedia.org/wiki/Haymon_d'Halberstadt">Haymon d'Halberstadt</a>, dit aussi Haymon de Fulda (en latin: «Haimo Halberstatensis»), est un moine bénédictin, puis évêque, de l'époque carolingienne, né vers <time datetime="780">780</time>, mort le <time datetime="853-03-26">26 mars 853<time datetime="780">.</p>
+    <p><a href="https://fr.wikipedia.org/wiki/Haymon_d'Halberstadt" title="https://fr.wikipedia.org/wiki/Haymon_d'Halberstadt">Haymon d'Halberstadt</a>, dit aussi Haymon de Fulda (en latin: «Haimo Halberstatensis»), est un moine bénédictin, puis évêque, de l'époque carolingienne, né vers <time datetime="0780">780</time>, mort le <time datetime="0853-03-26">26 mars 853</time>.</p>
   </div>
 <footer>
-  <p class="puce">retour au texte:<a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#haymon" title="Haymon">↩</a></p>
+  <p class="puce">retour au texte:<a href="/docs/fr/mont-saint-michel/arch-michel/legende-doree#haymon" title="Haymon">Haymon&nbsp;↩</a></p>
 </footer>
+</section>
+
+</section>
 
 </aside>
 
-</article>
+</section>
 
 </article>
 `;
