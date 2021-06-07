@@ -131,7 +131,7 @@ Enfin, saint <mark>Remi</mark>, qu'illustraient de nombreuses vertus, reposa en 
   <p>Étymologie apparemment créée par Voragine.</p>
 </div>
 <footer>
-  <p class="puce">retour au texte: <a href="#remigius" title="Remi">Remi ↩</a></p>
+  <p class="puce">retour au texte: <a href="#remigius" title="Remi">Remi&nbsp;↩</a></p>
 </footer>
 </section>
 
@@ -144,7 +144,7 @@ Enfin, saint <mark>Remi</mark>, qu'illustraient de nombreuses vertus, reposa en 
   il nous apparaît que «Pays des Francs» est un bon moyen terme.</p>
 </div>
 <footer>
-  <p class="puce">retour au texte: <a href="#pays-des-francs" title="pays des Francs">pays des Francs ↩</a></p>
+  <p class="puce">retour au texte: <a href="#pays-des-francs" title="pays des Francs">pays des Francs&nbsp;↩</a></p>
 </footer>
 </section>
 
@@ -154,7 +154,7 @@ Enfin, saint <mark>Remi</mark>, qu'illustraient de nombreuses vertus, reposa en 
   <p>Nous faisons le choix de traduire «roi des Francs» alors que Voragine emploie l'expression «roi de France», qui ne fut employée dans son sens actuel qu'à partir de Philippe Auguste.</p>
 </div>
 <footer>
-  <p class="puce">retour au texte: <a href="#roi-des-francs" title="roi des Francs">roi des Francs ↩</a></p>
+  <p class="puce">retour au texte: <a href="#roi-des-francs" title="roi des Francs">roi des Francs&nbsp;↩</a></p>
 </footer>
 </section>
 
@@ -164,7 +164,7 @@ Enfin, saint <mark>Remi</mark>, qu'illustraient de nombreuses vertus, reposa en 
   <p>La consécration des rois de France par le chrême trouve son origine dans cette légende, dont la source la plus ancienne est Hincmar.</p>
 </div>
 <footer>
-  <p class="puce">retour au texte: <a href="#onction" title="pays des Francs">note consécration des rois de France par le chrême ↩</a></p>
+  <p class="puce">retour au texte: <a href="#onction" title="pays des Francs">note consécration des rois de France par le chrême&nbsp;↩</a></p>
 </footer>
 </section>
 
