@@ -5,6 +5,7 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `<!-- JA:128 EN:191  -->
+
 <article>
 
 <hgroup>
@@ -33,7 +34,8 @@
 <p>Avec ce texte écrit par <a href="https://fr.wikipedia.org/wiki/Ovide" title="https://fr.wikipedia.org/wiki/Ovide">Ovide</a> dans le livre <abbr title="six">VI</abbr> des <a href="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)" title="https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"><cite>Métamorphoses</cite></a>, cet affrontement nous devient tout de suite bien plus significatif.</p>
 </div>
 
-<h2 id="latone" class="red">Latone selon le texte du livre <abbr title="six">VI</abbr> des <cite>Métamorphoses</cite></h2>
+<section id="latone">
+<h2 class="red">Latone selon le texte du livre <abbr title="six">VI</abbr> des <cite>Métamorphoses</cite></h2>
 
 <ol class="doc">
   <li value="333">C'est là que <mark>Latone</mark>, appuyée contre un palmier - ou l'arbre de Pallas-,</li>
@@ -115,6 +117,8 @@
 <footer>
   <p><span style="color: #df8a13;">Ovide, <cite>Les Métamorphoses</cite>, Livre <abbr title="six">VI</abbr>, vers 333 à 379.</span></p>
 </footer>
+
+</section>
 
 </article>
 `;
