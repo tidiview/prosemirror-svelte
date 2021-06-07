@@ -5,6 +5,7 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `<!-- JA:140 ANG:203  -->
+
 <article>
 
 <hgroup>
@@ -19,21 +20,21 @@
 <p>Une analyse succinte de l'étymologie de cette dénomination détaille la signification de cette dénomination en hébreu.</p>
 </div>
 
-<h2 id="à-propos-du-nom-de-larchange-michel" class="green">à propos du nom de l'archange Michel</h2>
+<h2 class="green">à propos du nom de l'archange Michel</h2>
 
-<h3 id="sens-en-hébreu" class="green">sens en hébreu</h3>
+<section id="sens-en-hebreu">
+<h3 class="green">sens en hébreu</h3>
 
-<p>Dans le texte original de la Bible en hébreu, le nom de l'archange « Michel » en français est « <ruby lang="he"><rp>)</rp>מיכאל<rt>Mîḵā’ēl</rt><rp>(</rp></ruby> ».</p>
+<p>Dans le texte original de la Bible en hébreu, le nom de l'archange « Michel » en français est « <ruby lang="he">מיכאל<rp>(</rp><rt>Mîḵā’ēl</rt><rp>)</rp></ruby> ».</p>
+</section>
 
 <h3 class="green">prononciation en hebreu</h3>
 
 <p>La notation « Mîḵā’ēl » vient de l'<a href="https://fr.wikipedia.org/wiki/Alphabet_phonétique_international" title="https://fr.wikipedia.org/wiki/Alphabet phonétique international">alphabet phonétique international</a> et représente le son suivant:</p>
-<p><audio controls="1" title="Prononciation de מיכאל en hébreu"><source src="https://francois-vidit.com/user/sites/docs/pages/01.home/05.mont-saint-michel/01.arch-michel/01.nom/prononciation_mihael.mp3" type="audio/mpeg">Votre navigateur ne supporte pas la lecture des balise <code>audio</code>.</audio></p>
-</tr>
-</tbody>
-</table>
 
-<h2 id="un-nom-qui-signifie-«-qui-est-comme-dieu-»" class="green">un nom qui signifie « qui est comme dieu? »</h2>
+<p class="no-puce"><audio controls title="Prononciation de מיכאל en hébreu"><source src="https://francois-vidit.com/user/sites/docs/pages/01.home/05.mont-saint-michel/01.arch-michel/01.nom/prononciation_mihael.mp3" type="audio/mpeg">Votre navigateur ne supporte pas la lecture des balise <code>audio</code>.</audio></p>
+
+<h2 class="green">un nom qui signifie « qui est comme dieu? »</h2>
 
 <h3 class="green">analyse</h3>
 
@@ -41,16 +42,16 @@
 
 <p>
   <span style="background:#f1f9f1;color:#3d8b3d;min-width:30px;float:left;text-align:center;">mî</span>
-  <span style="background:#fff;min-width:10px;float:left;">&nbsp</span>
+  <span style="background:#fff;min-width:10px;float:left;">&nbsp;</span>
   <span style="background:#f1f9f1;color:#3d8b3d;min-width:90px;float:left;text-align:center;">ḵā’</span>
-  <span style="background:#fff;min-width:10px;float:left;">&nbsp</span>
+  <span style="background:#fff;min-width:10px;float:left;">&nbsp;</span>
   <span style="background:#f1f9f1;color:#3d8b3d;min-width:40px;float:left;text-align:center;">ēl</span>
 </p>
 <p>
   <span style="background:#f1f9f1;color:#3d8b3d;min-width:30px;float:left;text-align:center;">qui</span>
-  <span style="background:#fff;min-width:10px;float:left;">&nbsp</span>
+  <span style="background:#fff;min-width:10px;float:left;">&nbsp;</span>
   <span style="background:#f1f9f1;color:#3d8b3d;min-width:90px;float:left;text-align:center;">ressemble</span>
-  <span style="background:#fff;min-width:10px;float:left;">&nbsp</span>
+  <span style="background:#fff;min-width:10px;float:left;">&nbsp;</span>
   <span style="background:#f1f9f1;color:#3d8b3d;min-width:40px;float:left;text-align:center;">dieu</span>
 </p>
 
