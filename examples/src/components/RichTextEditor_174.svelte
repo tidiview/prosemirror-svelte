@@ -4,15 +4,18 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
+  const html = `<!-- JA:142 ANG:205  -->
+
 <article>
+
 <hgroup>
 <h1 class="yellow">Autres sources:</h1>
 <h2 class="yellow">Saint-Michel selon l'Ancien ou le Nouveau Testatment</h2>
 </hgroup>
 
+<section id="daniel-dn-12-1-3">
 <hgroup>
-<h2 id="daniel-dn-12-1-3" class="yellow">Livre de Daniel, chapître 12, versets 1 à 3</h2>
+<h2 class="yellow">Livre de Daniel, chapître 12, versets 1 à 3</h2>
 <h3 class="yellow">[Dn 12, 1-3]</h3>
 </hgroup>
 
@@ -21,15 +24,17 @@
   <li value="02">Beaucoup de gens qui dormaient dans la poussière de la terre s’éveilleront, les uns pour la vie éternelle, les autres pour la honte et la déchéance éternelles.</li>
   <li value="03">Ceux qui ont l’intelligence resplendiront comme la splendeur du firmament, et ceux qui sont des maîtres de justice pour la multitude brilleront comme les étoiles pour toujours et à jamais.</li>
 </ol>
+</section>
 
+<section id="daniel-dn-10">
 <hgroup>
-<h2 id="daniel-dn-10" class="yellow">Livre de Daniel, chapître 10, versets 1 à 21</h2>
+<h2 class="yellow">Livre de Daniel, chapître 10, versets 1 à 21</h2>
 <h3 class="yellow">[Dn 10]</h3>
 </hgroup>
 
 <ol class="doc">
   <li value="01">La troisième année du règne de Cyrus, roi de Perse, une parole fut révélée à Daniel, surnommé Beltassar: parole vraie et grand combat. Il comprit la parole: la compréhension lui vint dans une vision.</li>
-  <li value="02">En ces jours-là, moi, Daniel, je portai le deuil pendant trois semaines entières.</li>
+  <li value="02">En ces jours-là, moi, Daniel, je portai le deuil pendant <time datetime="P21D">trois semaines entières</time>.</li>
   <li value="03">Je ne mangeai pas de nourriture agréable; ni viande ni vin ne passèrent par ma bouche, je m’abstins de tout parfum jusqu’au terme de ces trois semaines.</li>
   <li value="04">Et le vingt-quatrième jour du premier mois, étant au bord du grand fleuve, le Tigre,</li>
   <li value="05">je levai les yeux et regardai. Voici: il y avait un homme vêtu de lin, qui portait une ceinture d’or pur autour des reins</li>
@@ -46,7 +51,7 @@
     <p class="conversation">«N’aie pas peur, Daniel. Dès le premier jour où tu as eu à cœur de comprendre et de t’humilier devant ton Dieu, tes paroles ont été entendues: c’est à cause de tes paroles que je suis venu.</p>
   </li>
   <li value="13">
-    <p class="conversation">L’ange du royaume de Perse m’a résisté pendant vingt et un jours, mais <mark>Michel</mark>, l’un des premiers anges, est venu à mon aide. Moi, je l’ai laissé avec l’ange des rois de Perse.</p>
+    <p class="conversation">L’ange du royaume de Perse m’a résisté pendant <time datetime="P21D">vingt et un jours</time>, mais <mark>Michel</mark>, l’un des premiers anges, est venu à mon aide. Moi, je l’ai laissé avec l’ange des rois de Perse.</p>
   </li>
   <li value="14">
     <p class="conversation">Alors, je suis venu pour t’expliquer ce qui arrivera à ton peuple à la fin des jours. Voici une nouvelle vision pour ces jours-là.»</p>
@@ -71,9 +76,11 @@
     <p class="conversation">Personne ne me prête main-forte contre ceux-ci, sauf <mark>Michel</mark>, votre ange. Mais je t’annonce ce qui est inscrit dans le livre de vérité.»</p>
   </li>
 </ol>
+</section>
 
+<section id="epître-de-jude-verset-9">
 <hgroup>
-<h2 id="épître-de-jude-verset-9" class="yellow">Épître de Jude, verset 9</h2>
+<h2 class="yellow">Épître de Jude, verset 9</h2>
 <h3 class="yellow">[Jd 1,9]</h3>
 </hgroup>
 
@@ -82,19 +89,20 @@
     <p class="conversation">«Que le Seigneur te blâme!»</p>
   </li>
 </ol>
+</section>
 
+<section id="1th-chapître-4-verset-16">
 <hgroup>
-<h2 id="1th-chapître-4-verset-16" class="yellow">Première Épître aux Thessalonissiens, chapître 4 verset 16</h2>
+<h2 class="yellow">Première Épître aux Thessalonissiens, chapître 4 verset 16</h2>
 <h3 class="yellow">[1Th. 4-6]</h3>
 </hgroup>
 
-<ol class="doc">
-  <li value="16">Au signal donné par la voix de <mark>l’archange</mark>, et par la trompette divine, le Seigneur lui-même descendra du ciel, et ceux qui sont morts dans le Christ ressusciteront d’abord.</li>
-</ol>
+  <p data-id="16" class="single-li">Au signal donné par la voix de <mark>l’archange</mark>, et par la trompette divine, le Seigneur lui-même descendra du ciel, et ceux qui sont morts dans le Christ ressusciteront d’abord.</p>
 
 <footer>
-<p><span style="color: #df8a13;">Traduction liturgique de l'Ancien Testament</span></p>
+  <p><span style="color: #df8a13;">Traduction liturgique de l'Ancien Testament.</span></p>
 </footer>
+</section>
 
 </article>
 `;
