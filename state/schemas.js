@@ -551,11 +551,11 @@ export const ExtendedThreerichTextSchema = new Schema({
   nodes: {
 
     doc: {
-      content: "(figure? | section? | table? | block)*"
+      content: "(figure? | map? | section? | table? | block)*"
     }, /* (figure | section | table | block)+ */
 
     article: {
-      content: "(figure? | section? | table? | block)*",
+      content: "(figure? | map? | section? | table? | block)*",
       group: "section",
       parseDOM: [{tag: "article"}],
       toDOM() { return ["article", 0] },
@@ -567,14 +567,14 @@ export const ExtendedThreerichTextSchema = new Schema({
       toDOM() { return ["aside", 0] },
     },
     sectionid: {
-      content: "(figure? | section? | block)*",
+      content: "(figure? | map? | section? | block)*",
       group: "section",
       attrs: {id: {default:null}},
       parseDOM: [{tag: "section[id]", getAttrs(dom) { return { id: dom.getAttribute("id") } } }],
       toDOM(node) { let {id} = node.attrs; return ["section", {id}, 0] },
     },
     section: {
-      content: "(figure? | section? | block)*",
+      content: "(figure? | map? | section? | block)*",
       group: "section",
       parseDOM: [{tag: "section"}],
       toDOM() { return ["section", 0] },
@@ -630,7 +630,7 @@ export const ExtendedThreerichTextSchema = new Schema({
     },
 
     figure: {
-      content: "(picture figcaption? map?)",
+      content: "(picture figcaption?)",
       group: "figure",
       draggable: true,
       parseDOM: [{tag: "figure"}],
@@ -699,7 +699,7 @@ export const ExtendedThreerichTextSchema = new Schema({
     },
     map: {
       content: "area*",
-      group: "figure",
+      group: "map",
       selectable: false,
       isolating: true,
       attrs: {
@@ -716,7 +716,7 @@ export const ExtendedThreerichTextSchema = new Schema({
     },
     area: {
       content: "inline*",
-      group: "figure",
+      group: "map",
       selectable: false,
       isolating: true,
       attrs: {
@@ -741,7 +741,7 @@ export const ExtendedThreerichTextSchema = new Schema({
     },
 
     header: {
-      content: "(figure? | block)*",
+      content: "(figure? | map? | block)*",
       group: "block",
       parseDOM: [{tag: "header"}],
       toDOM() { return ["header", 0] },
