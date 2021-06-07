@@ -5,6 +5,7 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `<!-- EN:201 JA:139  -->
+
 <article>
 
 <hgroup>
@@ -33,7 +34,8 @@
 <p>Le voici ci-dessous.</p>
 </div>
 
-<h2 id="adonis" class="yellow">la Mort d'Adonis selon le texte du livre <abbr title="dix">X</abbr>, des <cite>Métamorphoses</cite></h2>
+<section id="adonis">
+<h2 class="yellow">la Mort d'Adonis selon le texte du livre <abbr title="dix">X</abbr>, des <cite>Métamorphoses</cite></h2>
 
 <ol class="doc">
   <li value="708">Sur ce conseil, elle prend la route des airs sur son attelage</li>
@@ -88,17 +90,19 @@
 </ol>
 
 <footer>
-<p><span style="color: #df8a13;">Ovide, <cite>Les Métamorphoses</cite>, Livre <abbr title="dix">X</abbr>, vers 708 à 739</span></p>
+<p><span style="color: #df8a13;">Ovide, <cite>Les Métamorphoses</cite>, Livre <abbr title="dix">X</abbr>, vers 708 à 739.</span></p>
 </footer>
 
 <aside>
-<div class="footnotes">
+<div class="notices footnotes">
   <p>Adonis est changé en anémone, la fleur qui s'ouvre au vent.</p>
 </div>
 <footer>
-  <p class="puce"><a href="#fnref1:1">retour au texte ↩</a></p>
+  <p class="puce"><a href="#fnref1:1">retour au texte&nbsp;↩</a></p>
 </footer>
 </aside>
+
+</section>
 
 </article>
 `;
