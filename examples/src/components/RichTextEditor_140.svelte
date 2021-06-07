@@ -5,6 +5,7 @@
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
   const html = `<!-- FR:172 ANG:203  -->
+
 <article>
 
 <hgroup>
@@ -37,7 +38,7 @@
 <h4 class="green">ヘブライ語での意味</h4>
 
 <p>時代によって、呼び名が異なってきましたが、指されているものは今も昔も一緒です。</p>
-<p>元々は聖書の原文であるヘブライ語での大天使の名は「&nbsp;<ruby><rb><span style="background:#f1f9f1;color:#3d8b3d;" lang="he">מיכאל</span></rb><rt><span style="background:#f1f9f1;color:#3d8b3d;" lang="ja">ミッハエル</span></rt></ruby>&nbsp;」となっています。</p>
+<p>元々は聖書の原文であるヘブライ語での大天使の名は「&nbsp;<ruby><span style="background:#f1f9f1;color:#3d8b3d;" lang="he">מיכאל</span><rt><span style="background:#f1f9f1;color:#3d8b3d;" lang="ja">ミッハエル</span></rt></ruby>&nbsp;」となっています。</p>
 </section>
 
 <h4 class="green">ヘブライ語での発音</h4>
@@ -50,7 +51,7 @@
 
 <h3 class="green">分析</h3>
 
-<p>「<ruby><rb><span style="background:#f1f9f1;color:#3d8b3d;">מיכאל</span></rb><rt><span style="background:#f1f9f1;color:#3d8b3d;">ミッハエル</span></rt></ruby>」とのヘブライ語を分析しますと：</p>
+<p>「<ruby><span style="background:#f1f9f1;color:#3d8b3d;">מיכאל</span><rt><span style="background:#f1f9f1;color:#3d8b3d;">ミッハエル</span></rt></ruby>」とのヘブライ語を分析しますと：</p>
 <p>
   <span style="background:#f1f9f1;color:#3d8b3d;min-width:50px;float:left;text-align:center;">mî</span>
   <span style="background:#fff;min-width:10px;float:left;">&nbsp;</span>
