@@ -1,7 +1,7 @@
 <script>
   import PlainTextEditor from "./components/PlainTextEditor.svelte";
 
-  import RichTextEditor_101 from "./components/RichTextEditor_101.svelte";
+  /* import RichTextEditor_101 from "./components/RichTextEditor_101.svelte";
   import RichTextEditor_102 from "./components/RichTextEditor_102.svelte";
   import RichTextEditor_103 from "./components/RichTextEditor_103.svelte";
   import RichTextEditor_104 from "./components/RichTextEditor_104.svelte";
@@ -75,7 +75,7 @@
   import RichTextEditor_172 from "./components/RichTextEditor_172.svelte";
   import RichTextEditor_173 from "./components/RichTextEditor_173.svelte";
   import RichTextEditor_174 from "./components/RichTextEditor_174.svelte";
-  import RichTextEditor_175 from "./components/RichTextEditor_175.svelte";
+  import RichTextEditor_175 from "./components/RichTextEditor_175.svelte"; */
   import RichTextEditor_176 from "./components/RichTextEditor_176.svelte";
   import RichTextEditor_177 from "./components/RichTextEditor_177.svelte";
   import RichTextEditor_178 from "./components/RichTextEditor_178.svelte";
@@ -85,7 +85,7 @@
   import RichTextEditor_182 from "./components/RichTextEditor_182.svelte";
   import RichTextEditor_183 from "./components/RichTextEditor_183.svelte";
   import RichTextEditor_184 from "./components/RichTextEditor_184.svelte";
-  import RichTextEditor_185 from "./components/RichTextEditor_185.svelte";
+  import RichTextEditor_185 from "./components/RichTextEditor_185.svelte"; /*
   import RichTextEditor_186 from "./components/RichTextEditor_186.svelte";
   import RichTextEditor_187 from "./components/RichTextEditor_187.svelte";
   import RichTextEditor_188 from "./components/RichTextEditor_188.svelte";
@@ -126,12 +126,12 @@
   import RichTextEditor_223 from "./components/RichTextEditor_223.svelte";
   import RichTextEditor_224 from "./components/RichTextEditor_224.svelte";
   import RichTextEditor_225 from "./components/RichTextEditor_225.svelte";
-  import RichTextEditor_226 from "./components/RichTextEditor_226.svelte";
+  import RichTextEditor_226 from "./components/RichTextEditor_226.svelte"; */
 
   import ProsemirrorLogo from "./components/ProsemirrorLogo.svelte"
   import SvelteLogo from "./components/SvelteLogo.svelte"
 
-  let selectedExample = 'richtext_112';
+  let selectedExample = 'richtext_176';
 
   const examples = {
     "plaintext": {
@@ -140,7 +140,7 @@
       subtitle: "If you don't need rich text. Dead simple to use.",
       component: PlainTextEditor
     },
-    "richtext_101": {
+    /* "richtext_101": {
       name: '#1: Rich text',
       title: 'Rich text 101',
       subtitle: "Relatively minimal editor setup, to get a hang of the basics.",
@@ -589,7 +589,7 @@
       title: 'Rich text 175: Extending schema',
       subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
       component: RichTextEditor_175
-    },
+    }, */
     "richtext_176": {
       name: "#76: Extending schema to Html ruby tag, tables, coloured blockquotes",
       title: 'Rich text 176: Extending schema',
@@ -649,7 +649,7 @@
       title: 'Rich text 185: Extending schema',
       subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
       component: RichTextEditor_185
-    },
+    },/* 
     "richtext_186": {
       name: "#86: Extending schema to Html ruby tag, tables, coloured blockquotes",
       title: 'Rich text 186: Extending schema',
@@ -895,7 +895,7 @@
       title: 'Rich text 226: Extending schema',
       subtitle: "How to extend schema to parse Html ruby tag, tables to the editor, coloured tables",
       component: RichTextEditor_226
-    },
+    }, */
   }
 
 </script>
