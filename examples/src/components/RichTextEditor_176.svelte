@@ -1035,7 +1035,7 @@
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-840.jpg 840w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-1280.jpg 1280w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-1600.jpg 1600w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-1920.jpg 1920w"></picture><figcaption>détail du panneau central, chapiteau de colonne, “l'apparition de l'archange Gabriel à Zaccharie”. L'archange lui annonce la naissance prochaine d'un fils, il en perd la parole.</figcaption>
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-1-1920.jpg 1920w"></picture><figcaption>détail du panneau central, chapiteau de colonne, <i>l'apparition de l'archange Gabriel à Zaccharie</i>. L'archange lui annonce la naissance prochaine d'un fils, il en perd la parole.</figcaption>
         </figure>
 
           <p>Le texte indique que Zaccharie en perd la parole.</p>
@@ -1066,7 +1066,7 @@
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-840.jpg 840w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-1280.jpg 1280w,
           https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-1600.jpg 1600w,
-          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-1920.jpg 1920w"></picture><figcaption>détail du panneau central, chapiteau de colonne, “Naissance de Jean le Baptiste”</figcaption>
+          https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/06.saint-jean_6/chapiteau-2-1920.jpg 1920w"></picture><figcaption>détail du panneau central, chapiteau de colonne, <i>Naissance de Jean le Baptiste</i></figcaption>
         </figure>
 
 
@@ -1074,15 +1074,15 @@
         <h6 class="yellow">Choix du nom de Jean par Zaccharie</h6>
 
 
-          <p>Le nom de ce fils, «Jean», est lui aussi un des enjeux du récit <span style="color: #999;">(Luc chapître 1, versets 59 à 63)</span>:</p>
+          <p>Le nom de ce fils, <i>Jean</i>, est lui aussi un des enjeux du récit <span style="color: #999;">(Luc chapître 1, versets 59 à 63)</span>:</p>
           <blockquote cite="https://www.aelf.org/bible/Lc/1#right-col">
-            <p>«Le huitième jour, ils vinrent pour la circoncision de l’enfant, et ils voulaient l’appeler Zaccharie, du nom de son père. Mais sa mère prit la parole, et dit:</p>
-            <p><span style="color: #e6a64d;"><q>Non, il s'appelera Jean</q></span>.</p>
+            <p>Le huitième jour, ils vinrent pour la circoncision de l’enfant, et ils voulaient l’appeler Zaccharie, du nom de son père. Mais sa mère prit la parole, et dit:</p>
+            <p class="conversation"><span style="color: #e6a64d;">Non, il s'appelera Jean</span>.</p>
             <p>On lui dit:</p>
-            <p><span style="color: #e6a64d;"><q>Personne dans ta famille ne porte ce nom-là!</q></span></p>
-            <p><span style="color: #999;">(…)</span>.</p>
+            <p class="conversation"><span style="color: #e6a64d;">Personne dans ta famille ne porte ce nom-là!</span></p>
+            <p><span style="color: #999;">(…)</span></p>
             <p>Zacharie se fit donner une tablette sur laquelle il écrivit:</p>
-            <p><span style="color: #e6a64d;"><q>Jean est son nom</q></span>».</p>
+            <p class="conversation"><span style="color: #e6a64d;">Jean est son nom</span>.</p>
           </blockquote>
           <p>Du point de vue de la foi, <span style="color: #e6a64d;">Jean le Baptiste vient</span> donc <span style="color: #e6a64d;">au monde selon de la volonté de dieu</span>.</p>
 
@@ -1097,8 +1097,7 @@
     <h6 class="yellow">Scène de l'ascèse de Jean dans le lointain du panneau central</h6>
 
 
-      <p>Il mène ensuite une vie exemplaire d'ascète <q>dans le désert</q> <span style="color: #999;">(Luc 1,80)</span>.</p>
-      <p>Memling transpose cette scène dans la forêt.</p>
+      <p>Il mène ensuite une vie exemplaire d'ascète “dans le désert” <span style="color: #999;">(Luc chapître 1, verset 80)</span>: Memling transpose cette scène dans une forêt.</p>
 
 
     <figure>
@@ -1118,7 +1117,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-1920.jpg 1920w"></picture><figcaption>détail du panneau central, “Jean le Baptiste priant dans la forêt”</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/priere-dans-le-desert-1920.jpg 1920w"></picture><figcaption>détail du panneau central, <i>Jean le Baptiste priant dans la forêt</i></figcaption>
     </figure>
 
 
@@ -1126,7 +1125,7 @@
     <h6 class="yellow">Scène de l'apostolat de Jean dans le lointain du panneau central</h6>
 
 
-      <p>On le voit également <q>proclamer un baptême de conversion pour le pardon des péchés</q> <span style="color: #999;">(Luc chapître 3, verset 3)</span>.</p>
+      <p>On le voit également “proclamer un baptême de conversion pour le pardon des péchés” <span style="color: #999;">(Luc chapître 3, verset 3)</span>.</p>
 
 
     <figure>
@@ -1146,7 +1145,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1920.jpg 1920w"></picture><figcaption>détail du panneau central, “Jean le Baptiste proclamant un baptême de conversion pour le pardon des péchés”</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/proclamation-1920.jpg 1920w"></picture><figcaption>détail du panneau central, <i>Jean le Baptiste proclamant un baptême de conversion pour le pardon des péchés</i></figcaption>
     </figure>
 
 
@@ -1160,7 +1159,7 @@
     
 
       <p>Selon les écrits bibliques, il <span style="color: #e6a64d;">annonce la venue de l'envoyé de dieu</span> en la personne de <a href="https://fr.wikipedia.org/wiki/Jésus_de_Nazareth" title="https://fr.wikipedia.org/wiki/Jésus_de_Nazareth" class="yellow">Jésus de Nazareth</a>, un de ses contemporains.</p>
-      <p>Il la reconnaît par un baptème dans les eaux du <a href="https://fr.wikipedia.org/wiki/Joudain" title="https://fr.wikipedia.org/wiki/Jourdain" id="jourdain" class="yellow">Jourdain</a>: cette scène apparaît en haut du volet intérieur gauche.</p>
+      <p>Il la reconnaît par le baptème, littéralement donc l'immersion, qu'il fait de Jésus dans les eaux du <a href="https://fr.wikipedia.org/wiki/Joudain" title="https://fr.wikipedia.org/wiki/Jourdain" id="jourdain" class="yellow">Jourdain</a>: cette scène apparaît en haut du volet intérieur gauche.</p>
 
 
     <figure>
@@ -1180,11 +1179,11 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1920.jpg 1920w"></picture><figcaption>détail du volet intérieur gauche, “Jean le Baptiste baptisant Jésus sur les bords du Jourdain”</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/baptème-1920.jpg 1920w"></picture><figcaption>détail du volet intérieur gauche, <i>Jean le Baptiste baptisant Jésus sur les bords du Jourdain</i></figcaption>
     </figure>
 
 
-      <p>Sur l'autre rive, <span style="color: #e6a64d;">Jean le Baptiste</span> présente Jésus des mots <q><ruby style="color:#e6a64d;" lang="fr">Voici&nbsp;l'agneau&nbsp;de&nbsp;dieu<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce&nbsp;agnus&nbsp;dei</rt><rp>)</rp></ruby></q> à ses deux premiers disciples <a href="https://fr.wikipedia.org/wiki/André_(apôtre)" title="https://fr.wikipedia.org/wiki/André_(apôtre)" id="andre" class="yellow">André</a> et <a href="https://fr.wikipedia.org/wiki/Jean_(apôtre)" title="https://fr.wikipedia.org/wiki/Jean_(apôtre)" id="jean-l-apotre" class="yello">Jean l'Apôtre</a>; ceux-ci se joignent à lui.</p>
+      <p>Sur l'autre rive, <span style="color: #e6a64d;">Jean le Baptiste</span> présente Jésus des mots “<ruby style="color:#e6a64d;" lang="fr">Voici&nbsp;l'agneau&nbsp;de&nbsp;dieu<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">Ecce&nbsp;agnus&nbsp;dei</rt><rp>)</rp></ruby>” à ses deux premiers disciples <a href="https://fr.wikipedia.org/wiki/André_(apôtre)" title="https://fr.wikipedia.org/wiki/André_(apôtre)" id="andre" class="yellow">André</a> et <a href="https://fr.wikipedia.org/wiki/Jean_(apôtre)" title="https://fr.wikipedia.org/wiki/Jean_(apôtre)" id="jean-l-apotre" class="yello">Jean l'Apôtre</a>; ceux-ci se joignent à lui.</p>
 
 
 
@@ -1193,11 +1192,11 @@
 
       <p>À partir de là, son histoire est tragique.</p>
       <p>En effet, <a href="https://fr.wikipedia.org/wiki/Hérode_Antipas" title="https://fr.wikipedia.org/wiki/Hérode_Antipas" id="herode-antipas" class="yellow">Hérode Antipas</a>, le tétrarque, c'est-à-dire gouverneur militaire romain, de Galilée et de Pérée, se marie à “la femme de <a href="https://fr.wikipedia.org/wiki/Hérode_Boëthos" title="https://fr.wikipedia.org/wiki/Hérode_Boëthos" id="herde-boethos" class="yellow">son frère Philippe</a>”, <a href="https://fr.wikipedia.org/wiki/Hérodiade" title="https://fr.wikipedia.org/wiki/Hérodiade" id="herodiade">Hérodiade</a> <span style="color: #999;">(Marc chap.6,17)</span>;</p>
-      <p>comme la foi judaïque regarde tout mariage avec la femme de son frère comme une <span style="color: #e6a64d;"><q>souillure</q></span> et <span style="color: #e6a64d;">l'interdit</span> <span style="color: #999;">(Lévitique chap.18,16; chap.20,21)</span>, Jean, en tant que figure du mouvement religieux indépendantiste judaïque, prend position: il condamne Hérode publiquement.</p>
-      <p><span style="color: #e6a64d;">Hérode craint</span> que cela ne suscite <q><span style="color: #e6a64d;">une révolte</span>, la foule semblant prête à suivre en tout les conseils de cet homme</q>.</p>
-      <p>il aime donc mieux s'emparer de lui avant que quelque trouble se produise à cause de lui, que d'avoir à se repentir plus tard si un mouvement avait lieu <span style="color: #999;">(<cite>Antiquités judaïques</cite>, livre XVIII, chapître 5, paragraphe 118 <sup><a id="renvoi-note-8" href="#note-8">note 8</a></sup>)</span>.</p>
+      <p>comme la foi judaïque regarde tout mariage avec la femme de son frère comme une <span style="color: #e6a64d;"><q>souillure</q></span> et <span style="color: #e6a64d;">l'interdit</span> <span style="color: #999;">(Lévitique chapître 18, verset 16; chapître 20, verset 21)</span>, Jean, en tant que figure du mouvement religieux indépendantiste judaïque, prend position: il condamne Hérode publiquement.</p>
+      <p><span style="color: #e6a64d;">Hérode craint</span> que cela ne suscite “<span style="color: #e6a64d;">une révolte</span>, la foule semblant prête à suivre en tout les conseils de cet homme”.</p>
+      <p>il aime donc <a id="renvoi-note-8" href="#note-8">mieux s'emparer de lui avant que quelque trouble se produise à cause de lui, que d'avoir à se repentir plus tard si un mouvement avait lieu</a> <span style="color: #999;">(<cite>Antiquités judaïques</cite>, livre <abbr title="dix-huit">XVIII</abbr>, chapître 5, paragraphe 118)</span>.</p>
       <p>En cas de troubles causés par les partisans de Jean, Hérode devait répondre de la situation aux autorités romaines, qui pouvait le destituer:</p>
-      <p>il donne donc <span style="color: #e6a64d;">“l’ordre d’arrêter Jean”</span> <span style="color: #999;">(Marc chapître 6 verset 17)</span>.</p>
+      <p>il donne donc <span style="color: #e6a64d;">“l’ordre d’arrêter Jean”</span> <span style="color: #999;">(Marc chapître 6, verset 17)</span>.</p>
 
     <figure>
       <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -1216,7 +1215,7 @@
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-840.jpg 840w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1280.jpg 1280w,
       https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1600.jpg 1600w,
-      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1920.jpg 1920w"></picture><figcaption>détail du panneau central, “Arrestation de Jean le Baptiste par ordre d'Hérode Antipas”</figcaption>
+      https://francois-vidit.com/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/07.saint-jean_7/arrestation-1920.jpg 1920w"></picture><figcaption>détail du panneau central, <cite>Arrestation de Jean le Baptiste par ordre d'Hérode Antipas</cite></figcaption>
     </figure>
 
       <p>Sur le panneau central au-dessus de l'agneau blanc, <span style="color: #e6a64d;">Jean est emmené</span> de force en direction de la prison sur le volet de gauche de l'actuelle ville de <a href="https://fr.wikipedia.org/wiki/Macheronte" title="https://fr.wikipedia.org/wiki/Macheronte" id="macheronte" class="yellow"><ruby style="color:#e6a64d;" lang="fr">Machéronte<rp>(</rp><rt style="color:#e6a64d;font-size: 70%;letter-spacing: 2px;" lang="la">μάχαιρα</rt><rp>)</rp></ruby></a>, dont l'éthymologie en grec ancien signifie “épée” et qui se situe dans l'actuelle Jordanie.</p>
