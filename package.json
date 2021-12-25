@@ -27,21 +27,21 @@
   ],
   "dependencies": {
     "@sveltejs/vite-plugin-svelte": "1.0.0-next.10",
-    "prosemirror-commands": "1.1.8",
-    "prosemirror-dropcursor": "1.3.5",
-    "prosemirror-gapcursor": "^1.1.2",
-    "prosemirror-history": "^1.1.3",
+    "prosemirror-commands": "1.1.12",
+    "prosemirror-dropcursor": "1.4",
+    "prosemirror-gapcursor": "1.2.0",
+    "prosemirror-history": "1.2.0",
     "prosemirror-inputrules": "^1.1.2",
-    "prosemirror-keymap": "^1.1.3",
-    "prosemirror-model": "^1.8.2",
+    "prosemirror-keymap": "1.1.5",
+    "prosemirror-model": "1.15.0",
     "prosemirror-schema-basic": "^1.1.2",
-    "prosemirror-schema-list": "^1.1.2",
+    "prosemirror-schema-list": "1.1.6",
     "prosemirror-state": "^1.3.2",
-    "prosemirror-view": "1.18.7",
-    "vite": "2.3.6"
+    "prosemirror-view": "1.23.2",
+    "vite": "2.6.14"
   },
   "devDependencies": {
-    "svelte": "3.38.2",
-    "svelte-hmr": "0.14.4"
+    "svelte": "3.44.2",
+    "svelte-hmr": "0.14.7"
   }
 }
