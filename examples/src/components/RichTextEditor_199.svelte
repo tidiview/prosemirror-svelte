@@ -17,10 +17,11 @@
 <p>The Baptism of the King of the Franks, <i>Clovis</i> in french, or “Clodovechus” from Latin by <i>Saint Remi</i> in French or <i>sanctus Remigius</i> in Latin in historical documents is told by Jacobus da Varagine in chapter 16 of <cite>Legenda Aurea</cite>, which can be said to be the main Christian book in the Middle Ages.</p>
 </div>
 
-<article>
-<h2 id="chapter-16-st-remigius" class="green">Text of chapter 16 of <cite>Legenda Aurea</cite>: St. Remigius</h2>
+<section  id="chapter-16-st-remigius">
+<h2 class="green">Text of chapter 16 of <cite>Legenda Aurea</cite>: St. Remigius</h2>
 
-<h3 id="first-the-interpretation-of-his-name" class="green">first the interpretation of his name</h3>
+<section id="first-the-interpretation-of-his-name">
+<h3 class="green">first the interpretation of his name</h3>
 
 <p><mark>Remigius</mark> is said of remi, that is to say feeding, and geos, that is earth, as who saith feeding the earthly people with doctrine, or of geon, that is a wrestler, for he was a pastor and a wrestler.</p>
 <p>He fed his flock with the word of preaching, with suffrages of praying, and with example of conversation.
@@ -28,8 +29,10 @@ There is three manner of armour
 that is for the defence, the shield, for to fight, the sword, for his salvation and health, the habergeon and helm.</p>
 <p>He wrestled against the devil with the shield of faith, with the sword of the word of God, and with the helmet of hope.</p>
 <p>Ignatius Archbishop of Rheims wrote his life.</p>
+</section>
 
-<h3 id="life-of-st-remigius" class="green">life of St. Remigius</h3>
+<section id="life-of-st-remigius">
+<h3 class="green">life of St. Remigius</h3>
 
 <p><mark>Remigius</mark>, an holy doctor, and confessor glorious of our Lord, was tofore his birth provided of our Lord, and foreseen of a holy hermit.</p>
 <p>When the persecution of the Vandals had almost wasted and destroyed nigh all the country of the Francks,
@@ -47,14 +50,18 @@ because of her age.</p>
 And the woman had a child named <mark>Remigius</mark>, which when he came to the age of discretion, he fled the world, and entered into a reclusage.
 And sith after, for the great renown of his holy life, when he had been twenty-two years therein he was elect and chosen to be Archbishop of Rheims.
 He was so debonair that little birds came and ate on his table and took meat at his hand.</p>
+</section>
 
-<h3 id="the-miracle-of-the-wine" class="green">the miracle of the wine</h3>
+<section id="the-miracle-of-the-wine">
+<h3 class="green">the miracle of the wine</h3>
 
 <p>It happed on a day that he was lodged in an house of a good woman
 which had but a little wine in her tonnel or vessel, and <mark>St. Remigius</mark> went in to the cellar and made the sign of the cross upon the ton, and prayed a while.
 Anon the ton was so full that it leapt over, by the merits of the good saint.</p>
+</section>
 
-<h3 id="the-conversion-of-king-clovis" class="green">the conversion of king Clovis</h3>
+<section id="the-conversion-of-king-clovis">
+<h3 class="green">the conversion of king Clovis</h3>
 
 <p>Now it happed that Clovis the king of Franks, which was a paynim,
 might not be converted for any preaching that his wife might do, which was a christian woman,
@@ -66,8 +73,10 @@ and after came to Rheims to <mark>St. Remigius</mark> and prayed him that he wou
 then <span style="color: #3d8b3d;">a dove descended from heaven which brought the chrisom in an ampull
 of which the king was anointed</span>
 and this ampull is kept in the church of <mark>St. Remigius</mark> at Rheims, of which the kings of France be anointed when they be crowned.</p>
+</section>
 
-<h3 id="the-wayward-bishop" class="green">the wayward bishop</h3>
+<section id="the-wayward-bishop">
+<h3 class="green">the wayward bishop</h3>
 
 <p><mark>St. Remigius</mark> had a niece which was married to a clerk named Genebaldus,
 which by devotion left his wife for to enter into religion.
@@ -101,12 +110,12 @@ Then Genebald fell down in the midst of the door in manner of a cross, and said:
 where he lived after, all the days of his life, holily.
 After his death, Thief his son was made bishop after him, which is also a saint in heaven,
 and at the last <mark>St. Remigius</mark>, after that God had shown many miracles for him, he departed out of this life unto everlasting joy the year of the incarnation of our Lord five hundred.</p>
-</div>
+</section>
+</section>
 
 <footer>
   <p><span style="color: #3d8b3d;">Jacobus da Varagine, <cite>Legenda Aurea</cite>, chapter 16.</span></p>
 </footer>
-</article>
 </article>
 `;
 

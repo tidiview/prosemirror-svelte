@@ -39,7 +39,6 @@
 <p>In between <a href="/docs/en/versailles/trianon/flore#193" id="ref_193">193 to 222</a>, she appears linked to spring, to beauty, to life, surrounded by <a href="https://en.wikipedia.org/wiki/Horae" title="https://en.wikipedia.org/wiki/Hours">Hours</a> and <a href="https://en.wikipedia.org/wiki/Charites" title="https://en.wikipedia.org/wiki/Graces">Graces</a>.</p>
 </div>
 
-<article>
 <h2 id="flora-and-zephyrus" class="yellow">Flora and Zephyrus according to the text of Book <abbr title="fifth">V</abbr> of <cite>Fasti</cite></h2>
 
 <ol class="doc">
@@ -94,10 +93,10 @@
     <p class="conversation">The <a href="https://en.wikipedia.org/wiki/Horae" title="https://en.wikipedia.org/wiki/Hours"><span style="color: #df8a13;">Hours</span></a> decorated with their colourful dresses gather and <span style="color: #df8a13;">gather my gifts in their light baskets</span>.</p>
   </li>
   <li>
-    <p class="conversation">Immediately, the <a href="https://en.wikipedia.org/wiki/Charites" title="https://en.wikipedia.org/wiki/Graces"><span style="color: #df8a13;">Graces</span></a> comes, which <span style="color: #df8a13;">bore the crowns</p>
+    <p class="conversation">Immediately, the <a href="https://en.wikipedia.org/wiki/Charites" title="https://en.wikipedia.org/wiki/Graces"><span style="color: #df8a13;">Graces</span></a> comes, which <span style="color: #df8a13;">bore the crowns</span></p>
   </li>
   <li value="220">
-    <p class="conversation">and garlands to bind their divine hairs</span>”.</p>
+    <p class="conversation"><span style="color: #df8a13;">and garlands to bind their divine hairs</span>”.</p>
   </li>
 </ol>
 

@@ -36,82 +36,82 @@
 <h2 id="latona" class="red">Latona according to text of Book <abbr title="six">VI</abbr> of the <cite>The Metamorphoses</cite></h2>
 
 <ol class="doc">
-  <li value="333">There <mark>Latona</mark>, as she leaned<li>
-  <li>against a palm-tree—and against the tree<li>
-  <li>most sacred to Minerva, brought forth twins,<li>
-  <li>although their harsh step-mother, Juno, strove<li>
-  <li>to interfere.—And from the island forced<li>
-  <li>to fly by jealous Juno, on her breast<li>
+  <li value="333">There <mark>Latona</mark>, as she leaned</li>
+  <li>against a palm-tree—and against the tree</li>
+  <li>most sacred to Minerva, brought forth twins,</li>
+  <li>although their harsh step-mother, Juno, strove</li>
+  <li>to interfere.—And from the island forced</li>
+  <li>to fly by jealous Juno, on her breast</li>
   <li>she bore her children, twin Divinities.</li>
 
-  <li class="top-space">At last, outwearied with the toil, and parched<li>
-  <li>with thirst—long-wandering in those heated days<li>
-  <li>over the arid land of Lycia, where<li>
-  <li>was bred the dire Chimaera— at the time<li>
-  <li>her parching breasts were drained, she saw this pool<li>
+  <li class="top-space">At last, outwearied with the toil, and parched</li>
+  <li>with thirst—long-wandering in those heated days</li>
+  <li>over the arid land of Lycia, where</li>
+  <li>was bred the dire Chimaera— at the time</li>
+  <li>her parching breasts were drained, she saw this pool</li>
   <li>of crystal water, shimmering in the vale.</li>
 
-  <li class="top-space">Some countrymen were there to gather reeds,<li>
-  <li>and useful osiers, and the bulrush, found<li>
-  <li>with sedge in fenny pools. To them approached<li>
-  <li><mark>Latona</mark>, and she knelt upon the merge<li>
-  <li>to cool her thirst, with some refreshing water.<li>
-  <li>But those clowns forbade her and the goddess cried,<li>
+  <li class="top-space">Some countrymen were there to gather reeds,</li>
+  <li>and useful osiers, and the bulrush, found</li>
+  <li>with sedge in fenny pools. To them approached</li>
+  <li><mark>Latona</mark>, and she knelt upon the merge</li>
+  <li>to cool her thirst, with some refreshing water.</li>
+  <li>But those clowns forbade her and the goddess cried,</li>
   <li>as they so wickedly opposed her need:</li>
 
-  <li class="top-space"><p class="conversation">“Why do you so resist my bitter thirst?</p><li>
-  <li><p class="conversation">The use of water is the sacred right</p><li>
-  <li><p class="conversation">of all mankind, for Nature has not made</p><li>
-  <li><p class="conversation">the sun and air and water, for the sole</p><li>
-  <li><p class="conversation">estate of any creature; and to Her</p><li>
-  <li><p class="conversation">kind bounty I appeal, although of you</p><li>
-  <li><p class="conversation">I humbly beg the use of it. Not here</p><li>
-  <li><p class="conversation">do I intend to bathe my wearied limbs.</p><li>
-  <li><p class="conversation">I only wish to quench an urgent thirst,</p><li>
-  <li><p class="conversation">for, even as I speak, my cracking lips</p><li>
-  <li><p class="conversation">and mouth so parched, almost deny me words.</p><li>
-  <li><p class="conversation">A drink of water will be like a draught</p><li>
-  <li><p class="conversation">of nectar, giving life; and I shall owe</p><li>
-  <li><p class="conversation">to you the bounty and my life renewed.—</p><li>
-  <li><p class="conversation">ah, let these tender infants, whose weak arms</p><li>
-  <li><p class="conversation">implore you from my bosom, but incline</p><li>
-  <li><p class="conversation">your hearts to pity!”</p> And just as she spoke,<li>
-  <li>it chanced the children did stretch out their arms<li>
-  <li>and who would not be touched to hear such words,<li>
+  <li class="top-space"><p class="conversation">“Why do you so resist my bitter thirst?</p></li>
+  <li><p class="conversation">The use of water is the sacred right</p></li>
+  <li><p class="conversation">of all mankind, for Nature has not made</p></li>
+  <li><p class="conversation">the sun and air and water, for the sole</p></li>
+  <li><p class="conversation">estate of any creature; and to Her</p></li>
+  <li><p class="conversation">kind bounty I appeal, although of you</p></li>
+  <li><p class="conversation">I humbly beg the use of it. Not here</p></li>
+  <li><p class="conversation">do I intend to bathe my wearied limbs.</p></li>
+  <li><p class="conversation">I only wish to quench an urgent thirst,</p></li>
+  <li><p class="conversation">for, even as I speak, my cracking lips</p></li>
+  <li><p class="conversation">and mouth so parched, almost deny me words.</p></li>
+  <li><p class="conversation">A drink of water will be like a draught</p></li>
+  <li><p class="conversation">of nectar, giving life; and I shall owe</p></li>
+  <li><p class="conversation">to you the bounty and my life renewed.—</p></li>
+  <li><p class="conversation">ah, let these tender infants, whose weak arms</p></li>
+  <li><p class="conversation">implore you from my bosom, but incline</p></li>
+  <li><p class="conversation">your hearts to pity!”</p> And just as she spoke,</li>
+  <li>it chanced the children did stretch out their arms</li>
+  <li>and who would not be touched to hear such words,</li>
   <li>as spoken by this goddess, and refuse?</li>
 
-  <li class="top-space">But still those clowns persisted in their wrong<li>
-  <li>against the goddess; for they hindered her,<li>
-  <li>and threatened with their foul, abusive tongues<li>
-  <li>to frighten her away—and, worse than all,<li>
-  <li>they even muddied with their hands and feet<li>
-  <li>the clear pool; forcing the vile, slimy dregs<li>
-  <li>up from the bottom, in a spiteful way,<li>
-  <li>by jumping up and down.—Enraged at this,<li>
-  <li>she felt no further thirst, nor would she deign<li>
-  <li>to supplicate again; but, feeling all<li>
-  <li>the outraged majesty of her high state,<li>
-  <li>she raised her hands to Heaven, and exclaimed,<li>
+  <li class="top-space">But still those clowns persisted in their wrong</li>
+  <li>against the goddess; for they hindered her,</li>
+  <li>and threatened with their foul, abusive tongues</li>
+  <li>to frighten her away—and, worse than all,</li>
+  <li>they even muddied with their hands and feet</li>
+  <li>the clear pool; forcing the vile, slimy dregs</li>
+  <li>up from the bottom, in a spiteful way,</li>
+  <li>by jumping up and down.—Enraged at this,</li>
+  <li>she felt no further thirst, nor would she deign</li>
+  <li>to supplicate again; but, feeling all</li>
+  <li>the outraged majesty of her high state,</li>
+  <li>she raised her hands to Heaven, and exclaimed,</li>
   <li><p class="conversation">“Forever may you live in that mud-pool!”</p><li>
 
-  <li class="top-space">The curse as soon as uttered took effect,<li>
-  <li>and every one of them began to swim<li>
-  <li>beneath the water, and to leap and plunge<li>
-  <li>deep in the pool.—Now, up they raise their heads,<li>
-  <li>now swim upon the surface, now they squat<li>
-  <li>themselves around the marshy margent, now<li>
-  <li>they plump again down to the chilly deeps.<li>
-  <li>And, ever and again, with croaking throats,<li>
-  <li>indulge offensive strife upon the banks,<li>
+  <li class="top-space">The curse as soon as uttered took effect,</li>
+  <li>and every one of them began to swim</li>
+  <li>beneath the water, and to leap and plunge</li>
+  <li>deep in the pool.—Now, up they raise their heads,</li>
+  <li>now swim upon the surface, now they squat</li>
+  <li>themselves around the marshy margent, now</li>
+  <li>they plump again down to the chilly deeps.</li>
+  <li>And, ever and again, with croaking throats,</li>
+  <li>indulge offensive strife upon the banks,</li>
   <li>or even under water, boom abuse.</li>
 
-  <li class="top-space">Their ugly voices cause their bloated necks<li>
-  <li>to puff out; and their widened jaws are made<li>
+  <li class="top-space">Their ugly voices cause their bloated necks</li>
+  <li>to puff out; and their widened jaws are made</li>
   <li>still wider in the venting of their spleen.</li>
 
-  <li class="top-space">Their backs, so closely fastened to their heads,<li>
-  <li>make them appear as if their shrunken necks<li>
-  <li>have been cut off. Their backbones are dark green;<li>
+  <li class="top-space">Their backs, so closely fastened to their heads,</li>
+  <li>make them appear as if their shrunken necks</li>
+  <li>have been cut off. Their backbones are dark green;</li>
   <li>white are their bellies, now their largest part.—</li>
 
   <li class="top-space">Forever since that time, the foolish frogs<li>
