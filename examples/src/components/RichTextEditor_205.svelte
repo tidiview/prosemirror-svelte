@@ -4,13 +4,13 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
+  const html = `<!-- JA:226 FR:174  -->
 <article>
 <h1 class="yellow">Archangel Michael according to other sources</h1>
 
 <hgroup>
 <h2 id="daniel-dn-12-1-3" class="yellow">Archangel Michael according to chapter 12 of <cite>the book of Daniel</cite>, verses 1 to 3</h2>
-<h3 class="yellow">[Dn 12, 1-3]</h3>
+<h3 class="yellow">[<abbrtitle="Daniel">Dn</abbr> 12, 1-3]</h3>
 </hgroup>
 
 <ol class="doc">
