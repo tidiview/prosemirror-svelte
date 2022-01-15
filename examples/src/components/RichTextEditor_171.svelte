@@ -29,12 +29,12 @@
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-380.webp 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-480.webp 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-640.webp 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus_700x763.webp 700w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus_700x763.jpg" alt="Jean MONIER, “Persée et Andromède”" title="Jean MONIER, “Persée et Andromède”" class="class-diane-img" width="700" height="763" loading="eager" decoding="async" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus_700x763.webp 700w" type="image/webp"><img src="https://francois-vidit.com/user/sites/docs/pages/01.home/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus_700x763.jpg" alt="Jean MONIER, “Persée et Andromède”" title="Jean MONIER, “Persée et Andromède”" class="class-diane-img" width="700" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-280.jpg 280w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-380.jpg 380w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-480.jpg 480w,
   https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-640.jpg 640w,
-  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus_700x763.jpg 700w"></picture><figcaption>Persée <q cite="#andromede">volant à toute allure</q> secourt Andromède enchaînée à un rocher, <cite>Les Métamorphoses</cite>, Livre <abbr title="quatre">IV</abbr>, vers 719.</figcaption>
+  https://francois-vidit.com/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus_700x763.jpg 700w"></picture><figcaption>Persée <q cite="#andromede">volant à toute allure</q> secourt Andromède enchaînée à un rocher, <cite>Les Métamorphoses</cite>, Livre fixed typos, vers 719.</figcaption>
 </figure>
 
 <div class="notices yellow">

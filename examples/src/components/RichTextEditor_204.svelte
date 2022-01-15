@@ -4,15 +4,15 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
-<article>*
+  const html = `<!-- FR:172 JA:141  -->
+<article>
 
 <hgroup>
-<h1 class="yellow">Archangel Michael in <cite>the Apocalypse</cite></h1>
+<h1 class="yellow">Archangel Michael in <cite>the Revelation</cite></h1>
 <h2 class="yellow">A war broke out in heaven</h2>
 </hgroup>
 
-  <h2 id="renvoi_bataille" class="yellow">Archangel Michael according to chapter 12 of <cite>the Apocalypse</cite></h2>
+  <h2 id="renvoi_bataille" class="yellow">Archangel Michael according to chapter 12 of <cite>the Revelation</cite></h2>
 
   <ol class="doc">
     <li value="01">Now a great sign appeared in heaven: a woman, robed with the sun, standing on the moon, and on her head a crown of twelve stars.</li>
@@ -43,7 +43,7 @@
   </ol>
 
 <footer>
-  <p style="color: #df8a13;">Liturgical Translation of the New Testament, chapter 12 of <cite>the Apocalypse</cite>, verses 7 to 18 [Ap. 12-7].</p>
+  <p style="color: #df8a13;">Liturgical Translation of the New Testament, chapter 12 of <cite>the Revelation</cite>, verses 7 to 18 [<abbr title="revelation">Rev.</abbr> 12-7].</p>
 </footer>
 </article>
 `;
