@@ -36,9 +36,9 @@
 </figure>
 
 <div class="notices green">
-<p>La <cite>Châsse de sainte Ursule</cite> est une <a href="https://fr.wikipedia.org/wiki/Châsse title="Châsse">châsse</a> destinée à conserver les reliques des Onze Mille Vierges et d'un certain nombre de saints, ainsi que quelques souvenirs rapportés de Terre Sainte, dont le peintre <a href="https://fr.wikipedia.org/wiki/Hans_Memling" title="Hans Memling">Hans Memling</a> a décoré les quatre faces d'un ensemble de tableaux, et de six médaillons sur le toit.</p>
+<p>La <cite>Châsse de sainte Ursule</cite> est une <a href="https://fr.wikipedia.org/wiki/Châsse" title="Châsse">châsse</a> destinée à conserver les reliques des Onze Mille Vierges et d'un certain nombre de saints, ainsi que quelques souvenirs rapportés de Terre Sainte, dont le peintre <a href="https://fr.wikipedia.org/wiki/Hans_Memling" title="Hans Memling">Hans Memling</a> a décoré les quatre faces d'un ensemble de tableaux, et de six médaillons sur le toit.</p>
 <p>Les peintures relatent l'histoire de <a href="https://fr.wikipedia.org/wiki/Sainte_Ursule" title="Sainte Ursule">sainte Ursule</a>. Il s'agit d'une des grandes compositions du peintre «&nbsp;miniaturiste&nbsp;». L'œuvre  date de <time datetime="1489">1489</time>. La châsse a été conçu et a été conservé pour  <a href="https://fr.wikipedia.org/wiki/Musée_Memling" title="Musée Memling">l'hopital Saint Jean Musée Memling</a>, de <a href="https://fr.wikipedia.org/wiki/Bruges" title="Bruges">Bruges</a>.</p>
-<p>Memling suit pas à pas le récit <a href="https://fr.wikipedia.org/wiki/Légende_dorée" title="Légende dorée"><cite>La Légende dorée</cite></a> de <a href="https://fr.wikipedia.org/wiki/Jacques_de_Voragine" title="Jacques de Voragine">Jacques de Voragine</a> dont une traduction est parue en <time datetime="1478">1478</time></sup>.</p>
+<p>Memling suit pas à pas le récit <a href="https://fr.wikipedia.org/wiki/Légende_dorée" title="Légende dorée"><cite>La Légende dorée</cite></a> de <a href="https://fr.wikipedia.org/wiki/Jacques_de_Voragine" title="Jacques de Voragine">Jacques de Voragine</a> dont une traduction est parue en <time datetime="1478">1478</time>.</p>
 <p>Dans l'article qui suit, nous mettons directement en regard le texte de <cite>La Légende Dorée</cite> et représentations d'Hans Memling. Nous pensons qu'ainsi leur qualité ne s'en trouvera que plus éclatante.</p>
 </div>
 
@@ -278,10 +278,10 @@ Quand elles furent toutes égorgées, on en vint à sainte Ursule.</p>
 Mais comme elle avait résolument repoussé cette idée, ce dernier, se voyant outragé, la transperça aussitôt d'une flèche, et c'est ainsi qu'elle accomplit son martyre.
 Une autre vierge, qui s'appelait Cordula, prise d'une peur très violente, se cacha cette nuit-là dans un navire, mais au matin elle s'offrit d'elle-même à la mort et reçut la couronne du martyre.
 Mais parce qu'on ne célébrait pas sa fête, au motif qu'elle n'avait pas souffert avec les autres, elle apparut bien plus tard à une recluse et lui ordonna que son jour de fête soit célébré le lendemain de la fête des vierges.
-Elles souffrirent en l'an du Seigneur <time datetime="238">238</time>.
+Elles souffrirent en l'an du Seigneur <time datetime="0238">238</time>.
 Toutefois, d'après certains, le calcul chronologique ne permet pas de soutenir que ces faits se soient déroulés à cette époque.
 En effet ni la Sicile ni Constantinople n'étaient alors des royaumes, alors qu'on dit que les «reines» de ces pays se trouvaient avec les vierges.
-Il y a de meilleures raisons de croire que ce martyre se déroula après l'empereur Constantin, à ce qu'on lit dans une chronique, quand les Huns et les Goths sévissaient, c'est-à-dire à l'époque de l'empereur Marcien, qui régna en l'an du Seigneur <time datetime="452">452</time>.</p>
+Il y a de meilleures raisons de croire que ce martyre se déroula après l'empereur Constantin, à ce qu'on lit dans une chronique, quand les Huns et les Goths sévissaient, c'est-à-dire à l'époque de l'empereur Marcien, qui régna en l'an du Seigneur <time datetime="0452">452</time>.</p>
 
 <figure>
   <picture><source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
@@ -322,6 +322,7 @@ Et comme l'abbé lui demandait ce qui se passait et que celui-ci racontait en d�
   <p><span style="color: #3d8b3d;">Jacques de Voragine, <cite>La Légende Dorée</cite>, Chapître 154, “Les Onze Milles Vierges”</span></p>
 </footer>
 
+</article>
 </article>
 `;
 

@@ -4,10 +4,8 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
+  const html = `<!-- Page 1 JA:143 FR:176 -->
 <article>
-
-<!-- Page 1 JA:143 FR:176 -->
 
 <hgroup>
   <h1 class="yellow"><cite><ruby style="color:#555;" lang="en">Triptych of John The Baptist and John The Evangelist<rp>(</rp><rt style="color:#999;" lang="nl">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby><cite></h1>
