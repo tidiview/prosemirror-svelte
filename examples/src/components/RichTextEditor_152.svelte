@@ -9,7 +9,7 @@
 <article>
 
 <header>
-<p><time datetime="2020-02-11">11 Fév. 2020</time></p>
+<p><time datetime="2020-02-11">11 <abbr title="février">Fév.</abbr> 2020</time></p>
 </header>
 
 <h1 class="green">rencontre du roi Chilpéric et Priscus selon Grégoire de Tours</h1>
