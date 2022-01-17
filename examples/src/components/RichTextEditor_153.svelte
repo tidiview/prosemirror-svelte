@@ -32,7 +32,7 @@ trente-trois éditions du vivant de Fontenelle!</p>
 <p>Mais son influence lui vient surtout de sa puissance critique.</p>
 <p>Pour Fontenelle, il est impossible de choisir un point de vue absolu dans l'univers:
 «Nous voulons juger de tout, et nous sommes toujours dans un mauvais point de vue.»</p>
-<p>Pour délivrer sa première leçon, le philosophe use d'une longue métaphore filée, assimilant la nature au spectacle de l'Opéra.</p>
+<p>Le premier soir, le philosophe use d'une longue métaphore filée, assimilant la nature au spectacle de l'Opéra.</p>
 <p>Il s'agit de promouvoir la philosophie mécaniste de Descartes, l'Opéra étant alors essentiellement un spectacle à «machines» (c'est ainsi qu’on désignait les moyens mécaniques par lesquels étaient produits, au théâtre ou à l'opéra, les effets qui donnant aux spectateurs l'illusion du merveilleux. Mais dévoiler les «machines de l'Opéra», c'est aussi pour Fontenelle désacraliser l'univers et démystifier une textualité antérieure (Aristote, Platon...).</p>
 </div>
 

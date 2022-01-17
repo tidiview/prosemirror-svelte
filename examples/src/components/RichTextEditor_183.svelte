@@ -4,10 +4,11 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
+  const html = `<!-- FR:153 JA:122 -->
+
 <article>
 
-<p><time datetime="2019-09-11">11<sup>th</sup> Sep. 2019</time></p>
+<p><time datetime="2019-09-11">2019 <abbr title="September">Sep.</abbr> <abbr title="the eleventh">11<sup>th</sup</abbr></time></p>
 
 <h1>first evening of the <cite>Conversations on the Plurality of Worlds</cite></h1>
 
@@ -67,19 +68,19 @@ thirty-three editions during Fontenelle's lifetime.</p>
   <p>Opera:  proper name designating the Paris Opera, founded in <time datetime="1669">1669</time>.</p>
   <footer>
     <p class="puce"><a href="#renvoi-opera" title="#renvoi-opera">back to text ↩</a></p>
-  <footer>
+  </footer>
   
   <h4 id="parterre" class="yellow note">Parterre</h4>
   <p>Parterre: Ground floor of a theatre where the audience was standing and where the seats were cheaper than in the dressing rooms.</p>
   <footer>
     <p class="puce"><a href="#renvoi-parterre" title="#renvoi-parterre">back to text ↩</a></p>
-  <footer>
+  </footer>
 
   <h4 id="phaeton" class="yellow note">Lulli's <cite>Phaeton</cite></h4>
   <p><cite>Phaeton</cite>, Quinault's lyrical tragedy in five acts, Lulli's music created at the Opera in <time datetime="1683">1683</time>, and whose success was considerable. Phaeton's flight on the Sun chariot takes place in act III, scene 6.</p>
   <footer>
     <p class="puce"><a href="#renvoi-phaeton" title="#renvoi-phaeton">back to text ↩</a></p>
-  <footer>
+  </footer>
 
 </aside>
 
