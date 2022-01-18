@@ -7,6 +7,7 @@
   const html = `<!-- FR:NONE EN:NONE -->
 
 <article>
+
 <header>
 <p><time datetime="2017-12-24">２０１７年１２月２４日</time></p>
 </header>
@@ -116,7 +117,7 @@
 <li><ruby>若<rp>（</rp><rt>も</rt><rp>）</rp></ruby>し女の道にそむき、去らるる時は、一生の恥なり。されば婦人に<ruby>七去<rp>（</rp><rt>しっきょ</rt><rp>）</rp></ruby>として、悪しきこと七つあり。</li>
 <li>　一には、<ruby>嫜<rp>（</rp><rt>しゆうとしゆうとめ</rt><rp>）</rp></ruby>に<ruby>順<rp>（</rp><rt>したが</rt><rp>）</rp></ruby>わざる女は去るべし。</li>
 <li>　二には、孑なき女は去るべし。</li>
-<li>　　是れ妻を<ruby>娶<rp>（</rp><rt>めと</rt><rp>）</rp></ruby>るは子孫相続の為なれば也。<ruby>然<rp>（</rp><rt>しか</rt><rp>）</rp></ruby>れ共、婦人の心正しく行儀よくして<ruby>妬<rp>（</rp><rt>ねた</rt><rp>）</rp></ruby>むこころなくば、さらずとも<ruby>同<rp>（</rp><rt>おなじ</rt><rp>）</rp>姓<rp>（</rp><rt>うじ</rt><rp>）</rp></ruby>の子を養うべし。或は<ruby>妾<rp>（</rp><rt>てかけ</rt><rp>）</rp></ruby>に子あらば、妻に子なく共、去るに及ばず。</li>
+<li>　是れ妻を<ruby>娶<rp>（</rp><rt>めと</rt><rp>）</rp></ruby>るは子孫相続の為なれば也。<ruby>然<rp>（</rp><rt>しか</rt><rp>）</rp></ruby>れ共、婦人の心正しく行儀よくして<ruby>妬<rp>（</rp><rt>ねた</rt><rp>）</rp></ruby>むこころなくば、さらずとも<ruby>同<rp>（</rp><rt>おなじ</rt><rp>）</rp>姓<rp>（</rp><rt>うじ</rt><rp>）</rp></ruby>の子を養うべし。或は<ruby>妾<rp>（</rp><rt>てかけ</rt><rp>）</rp></ruby>に子あらば、妻に子なく共、去るに及ばず。</li>
 <li>　三には、<ruby>淫<rp>（</rp><rt>いん</rt><rp>）</rp>乱<rp>（</rp><rt>らん</rt><rp>）</rp></ruby>なればさる。</li>
 <li>　四には、<ruby>悋<rp>（</rp><rt>りん</rt><rp>）</rp>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ふがければさる。</li>
 <li>　五に、<ruby>癩<rp>（</rp><rt>らい</rt><rp>）</rp>病<rp>（</rp><rt>びょう</rt><rp>）</rp></ruby>などの悪しき<ruby>疾<rp>（</rp><rt>やまい</rt><rp>）</rp></ruby>有ればさる。</li>
