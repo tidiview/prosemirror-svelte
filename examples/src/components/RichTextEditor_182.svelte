@@ -4,7 +4,7 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `
+  const html = `<!-- FR:154 JA:123 -->
 
 <article>
 
@@ -22,7 +22,6 @@ The newly arrived masters and slaves had to exchange their clothes, conditions a
 <h2>Text of <cite>Slave island</cite> Scene 2</h2>
 
 <div id="translation-text-rousi">
-<style>.list-blog-padding #translation-text-rousi tr td:first-child {color: #000;font-size: 1.25rem;text-align: right;vertical-align: top;} tr td {vertical-align: top;}</style>
 <ol class="doc-three-rows">
   <li>Trivelin, with five or six islanders, arrives leading a lady, Euphrosine, and her maid, Cleanthis, and sees Iphicrates about to assault Harlequin.</span></li>
   <li data-id="【Trivelin】">— <span style="color:#b2b2b2">(He disarms him.)</span> Stop! What do you think you're doing?</li>

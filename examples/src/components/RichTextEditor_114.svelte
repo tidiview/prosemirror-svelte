@@ -7,6 +7,7 @@
   const html = `<!-- FR:NONE EN:NONE color:red -->
 
 <article>
+
 <header>
 <p><time datetime="2017-03-03">２０１７年３月３日</time></p>
 </header>
