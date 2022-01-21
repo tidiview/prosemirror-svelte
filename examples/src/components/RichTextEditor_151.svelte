@@ -9,7 +9,7 @@
 <article>
 
 <header>
-<p><time datetime="2020-02-12">12 <abbr title="février">Fév.</abbr> 2020</time></p>
+<p><time datetime="2020-02-12">12 <abbr title="février">Fév.</abbr> 2020</time>.</p>
 </header>
 
 <h1 class="blue">l'amour selon Diotime</h1>

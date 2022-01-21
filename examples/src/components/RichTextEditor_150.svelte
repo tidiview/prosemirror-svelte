@@ -4,7 +4,7 @@
   import ProsemirrorEditor from "../../../ProsemirrorEditor.svelte";
   import { createExtendedThreeRichTextEditor, clear, toHTML, toPlainText, toJSON } from "../../../state";
 
-  const html = `<!-- JA:118 EN:NONE -->
+  const html = `<!-- JA:118 EN:228 -->
 
 <article>
 
@@ -39,7 +39,7 @@
 
 <aside>
   <div class="notices red">
-    <p>texte：<a href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" title="https://fr.wikipedia.org/wiki/Charles_Baudelaire">Charles Baudelaire</a>, "l'étranger".</p>
+    <p>texte: <a href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" title="https://fr.wikipedia.org/wiki/Charles_Baudelaire">Charles Baudelaire</a>, "l'étranger".</p>
     <p>Ce poème a été mis en musique et interprété par <a href="https://fr.wikipedia.org/wiki/Léo_Ferré" title="https://fr.wikipedia.org/wiki/Léo_Ferré">Léo Ferré</a> en <time datetime="1967">1967</time> sur son album <a href="https://fr.wikipedia.org/wiki/Léo_Ferré_chante_Baudelaire" title="https://fr.wikipedia.org/wiki/Léo_Ferré_chante_Baudelaire">Léo Ferré chante Baudelaire</a>.</p>
   </div>
 </aside>
